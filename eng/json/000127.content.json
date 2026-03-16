@@ -1,0 +1,176 @@
+[
+{
+"content_id": "1640",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1640: Book of the Law",
+"media_type": "Text",
+"index_reference": "1640: book of the law",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A documentary form of the Law placed beside the ark of the covenant as a reminder to Israel of her covenant obligation. It was rediscovered and applied during the reign of King Josiah of Judah and read publicly by Ezra after the rebuilding of the walls of Jerusalem.</p>\n<h2>The Book of the Law was written by Moses</h2>\n<p><strong><a href=\"https://ref.ly/Deut31:24-Deut31:26\">DEU 31:24–31:26</a></strong> <em>The book in question could be the material now included as chapters 1–30, although some scholars suggest it might refer to the material now included as chapters 12–26.</em> <em>See also</em> <a href=\"https://ref.ly/Deut28:58-Deut28:61\">DEU 28:58–28:61</a>, <a href=\"https://ref.ly/Deut29:18-Deut29:21\">DEU 29:18–29:21</a>, <a href=\"https://ref.ly/Deut30:10\">DEU 30:10</a></p>\n<h2>The Book of the Law was passed from Moses to Joshua</h2>\n<p><strong><a href=\"https://ref.ly/Josh1:7-Josh1:8\">JOS 1:7–1:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh8:30-Josh8:31\">JOS 8:30–8:31</a>, <a href=\"https://ref.ly/Josh8:34-Josh8:35\">JOS 8:34–8:35</a>, <a href=\"https://ref.ly/Josh23:6\">JOS 23:6</a>, <a href=\"https://ref.ly/Josh24:26\">JOS 24:26</a></p>\n<h2>The Book of the Law during the monarchy</h2>\n<p><a href=\"https://ref.ly/2Kgs14:6\">2KI 14:6</a> parallel <a href=\"https://ref.ly/2Chr25:4\">2CH 25:4</a>; ; <a href=\"https://ref.ly/2Chr17:9\">2CH 17:9</a></p>\n<h2>The Book of the Law was rediscovered and applied in Josiah's reign</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs22:8-2Kgs22:16\">2KI 22:8–22:16</a></strong> parallel <a href=\"https://ref.ly/2Chr34:15-2Chr34:24\">2CH 34:15–34:24</a> <em>A reference to part or all of Deuteronomy or possibly the entire Pentateuch (Genesis to Deuteronomy).</em></p>\n<h2>The Book of the Law was read publicly by Ezra</h2>\n<p><strong><a href=\"https://ref.ly/Neh8:1-Neh8:18\">NEH 8:1–8:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh9:3\">NEH 9:3</a></p>\n<h2>Paul refers to the Book of the Law</h2>\n<p><strong><a href=\"https://ref.ly/Gal3:10\">GAL 3:10</a></strong> <em>Paul is teaching that justification is by faith.</em> <em>See also</em> <a href=\"https://ref.ly/Deut27:26\">DEU 27:26</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05031024",
+"start_ref_usfm": "DEU 31:24",
+"end_ref": "05031026",
+"end_ref_usfm": "DEU 31:26"
+},
+{
+"start_ref": "05028058",
+"start_ref_usfm": "DEU 28:58",
+"end_ref": "05028061",
+"end_ref_usfm": "DEU 28:61"
+},
+{
+"start_ref": "05029018",
+"start_ref_usfm": "DEU 29:18",
+"end_ref": "05029021",
+"end_ref_usfm": "DEU 29:21"
+},
+{
+"start_ref": "05030010",
+"start_ref_usfm": "DEU 30:10",
+"end_ref": "05030010",
+"end_ref_usfm": "DEU 30:10"
+},
+{
+"start_ref": "06001007",
+"start_ref_usfm": "JOS 1:7",
+"end_ref": "06001008",
+"end_ref_usfm": "JOS 1:8"
+},
+{
+"start_ref": "06008030",
+"start_ref_usfm": "JOS 8:30",
+"end_ref": "06008031",
+"end_ref_usfm": "JOS 8:31"
+},
+{
+"start_ref": "06008034",
+"start_ref_usfm": "JOS 8:34",
+"end_ref": "06008035",
+"end_ref_usfm": "JOS 8:35"
+},
+{
+"start_ref": "06023006",
+"start_ref_usfm": "JOS 23:6",
+"end_ref": "06023006",
+"end_ref_usfm": "JOS 23:6"
+},
+{
+"start_ref": "06024026",
+"start_ref_usfm": "JOS 24:26",
+"end_ref": "06024026",
+"end_ref_usfm": "JOS 24:26"
+},
+{
+"start_ref": "12014006",
+"start_ref_usfm": "2KI 14:6",
+"end_ref": "12014006",
+"end_ref_usfm": "2KI 14:6"
+},
+{
+"start_ref": "14025004",
+"start_ref_usfm": "2CH 25:4",
+"end_ref": "14025004",
+"end_ref_usfm": "2CH 25:4"
+},
+{
+"start_ref": "14017009",
+"start_ref_usfm": "2CH 17:9",
+"end_ref": "14017009",
+"end_ref_usfm": "2CH 17:9"
+},
+{
+"start_ref": "12022008",
+"start_ref_usfm": "2KI 22:8",
+"end_ref": "12022016",
+"end_ref_usfm": "2KI 22:16"
+},
+{
+"start_ref": "14034015",
+"start_ref_usfm": "2CH 34:15",
+"end_ref": "14034024",
+"end_ref_usfm": "2CH 34:24"
+},
+{
+"start_ref": "16008001",
+"start_ref_usfm": "NEH 8:1",
+"end_ref": "16008018",
+"end_ref_usfm": "NEH 8:18"
+},
+{
+"start_ref": "16009003",
+"start_ref_usfm": "NEH 9:3",
+"end_ref": "16009003",
+"end_ref_usfm": "NEH 9:3"
+},
+{
+"start_ref": "48003010",
+"start_ref_usfm": "GAL 3:10",
+"end_ref": "48003010",
+"end_ref_usfm": "GAL 3:10"
+},
+{
+"start_ref": "05027026",
+"start_ref_usfm": "DEU 27:26",
+"end_ref": "05027026",
+"end_ref_usfm": "DEU 27:26"
+}
+],
+"resource": [
+{
+"reference_id": "1345",
+"content_id": "1345",
+"resource_code": "DictionaryBibleThemes",
+"label": "1345: covenant",
+"language": "eng"
+},
+{
+"reference_id": "1630",
+"content_id": "1630",
+"resource_code": "DictionaryBibleThemes",
+"label": "1630: Book of the Covenant",
+"language": "eng"
+},
+{
+"reference_id": "5175",
+"content_id": "5175",
+"resource_code": "DictionaryBibleThemes",
+"label": "5175: reading",
+"language": "eng"
+},
+{
+"reference_id": "5377",
+"content_id": "5377",
+"resource_code": "DictionaryBibleThemes",
+"label": "5377: law, Ten Commandments",
+"language": "eng"
+},
+{
+"reference_id": "5378",
+"content_id": "5378",
+"resource_code": "DictionaryBibleThemes",
+"label": "5378: law, OT",
+"language": "eng"
+},
+{
+"reference_id": "8466",
+"content_id": "8466",
+"resource_code": "DictionaryBibleThemes",
+"label": "8466: reformation",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,53 @@
+[
+{
+"content_id": "8808",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8808: riches",
+"media_type": "Text",
+"index_reference": "8808: riches",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Material possessions and wealth. Scripture stresses that riches originate from God: used wisely, they can be a blessing; used foolishly, they can lead people away from God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8809",
+"content_id": "8809",
+"resource_code": "DictionaryBibleThemes",
+"label": "8809: riches, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8810",
+"content_id": "8810",
+"resource_code": "DictionaryBibleThemes",
+"label": "8810: riches, dangers of",
+"language": "eng"
+},
+{
+"reference_id": "8811",
+"content_id": "8811",
+"resource_code": "DictionaryBibleThemes",
+"label": "8811: riches, believers' attitudes towards",
+"language": "eng"
+},
+{
+"reference_id": "8812",
+"content_id": "8812",
+"resource_code": "DictionaryBibleThemes",
+"label": "8812: riches, ungodly use of",
+"language": "eng"
+},
+{
+"reference_id": "8813",
+"content_id": "8813",
+"resource_code": "DictionaryBibleThemes",
+"label": "8813: riches, spiritual",
+"language": "eng"
+}
+]
+}
+}
+]

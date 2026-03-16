@@ -1,0 +1,218 @@
+[
+{
+"content_id": "7263",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7263: theocracy",
+"media_type": "Text",
+"index_reference": "7263: theocracy",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The form of government among the early Israelites in which God was their supreme ruler, and his laws their laws.</p>\n<h2>The covenant at Sinai established the theocracy</h2>\n<p><strong><a href=\"https://ref.ly/Exod19:5-Exod19:6\">EXO 19:5–19:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod19:8\">EXO 19:8</a>, <a href=\"https://ref.ly/Exod24:3\">EXO 24:3</a>, <a href=\"https://ref.ly/Exod24:7-Exod24:8\">EXO 24:7–24:8</a>; <a href=\"https://ref.ly/Deut5:27\">DEU 5:27</a></p>\n<h2>Moses and Joshua renewed the theocratic covenant</h2>\n<p><a href=\"https://ref.ly/Deut26:16-Deut26:19\">DEU 26:16–26:19</a>, <a href=\"https://ref.ly/Deut29:9-Deut29:15\">DEU 29:9–29:15</a>; ; <a href=\"https://ref.ly/Josh24:24-Josh24:25\">JOS 24:24–24:25</a></p>\n<h2>Under the theocracy God was the Israelites' supreme ruler</h2>\n<p><strong><a href=\"https://ref.ly/Deut33:5\">DEU 33:5</a></strong> <em>“Jeshurun” means “the upright one”, i.e., Israel.</em> <em>See also</em> <a href=\"https://ref.ly/Num23:21\">NUM 23:21</a>; <a href=\"https://ref.ly/Deut33:26\">DEU 33:26</a>; <a href=\"https://ref.ly/Judg8:23\">JDG 8:23</a>; <a href=\"https://ref.ly/Ps145:1\">PSA 145:1</a></p>\n<h2>In the theocracy Israel was governed by God's laws</h2>\n<p><a href=\"https://ref.ly/Exod20:1-Exod20:17\">EXO 20:1–20:17</a> parallel <a href=\"https://ref.ly/Deut5:6-Deut5:21\">DEU 5:6–5:21</a>; ; <a href=\"https://ref.ly/Exod21:1\">EXO 21:1</a>; ; <a href=\"https://ref.ly/Deut4:1-Deut4:2\">DEU 4:1–4:2</a>, <a href=\"https://ref.ly/Deut4:13-Deut4:14\">DEU 4:13–4:14</a>, <a href=\"https://ref.ly/Deut17:18-Deut17:19\">DEU 17:18–17:19</a>, <a href=\"https://ref.ly/Deut31:12-Deut31:13\">DEU 31:12–31:13</a>; ; <a href=\"https://ref.ly/Josh1:7-Josh1:8\">JOS 1:7–1:8</a></p>\n<h2>Israel rejected the theocracy</h2>\n<p><strong><a href=\"https://ref.ly/1Sam8:7\">1SA 8:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam8:19\">1SA 8:19</a>, <a href=\"https://ref.ly/1Sam10:19\">1SA 10:19</a>, <a href=\"https://ref.ly/1Sam12:12\">1SA 12:12</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02019005",
+"start_ref_usfm": "EXO 19:5",
+"end_ref": "02019006",
+"end_ref_usfm": "EXO 19:6"
+},
+{
+"start_ref": "02019008",
+"start_ref_usfm": "EXO 19:8",
+"end_ref": "02019008",
+"end_ref_usfm": "EXO 19:8"
+},
+{
+"start_ref": "02024003",
+"start_ref_usfm": "EXO 24:3",
+"end_ref": "02024003",
+"end_ref_usfm": "EXO 24:3"
+},
+{
+"start_ref": "02024007",
+"start_ref_usfm": "EXO 24:7",
+"end_ref": "02024008",
+"end_ref_usfm": "EXO 24:8"
+},
+{
+"start_ref": "05005027",
+"start_ref_usfm": "DEU 5:27",
+"end_ref": "05005027",
+"end_ref_usfm": "DEU 5:27"
+},
+{
+"start_ref": "05026016",
+"start_ref_usfm": "DEU 26:16",
+"end_ref": "05026019",
+"end_ref_usfm": "DEU 26:19"
+},
+{
+"start_ref": "05029009",
+"start_ref_usfm": "DEU 29:9",
+"end_ref": "05029015",
+"end_ref_usfm": "DEU 29:15"
+},
+{
+"start_ref": "06024024",
+"start_ref_usfm": "JOS 24:24",
+"end_ref": "06024025",
+"end_ref_usfm": "JOS 24:25"
+},
+{
+"start_ref": "05033005",
+"start_ref_usfm": "DEU 33:5",
+"end_ref": "05033005",
+"end_ref_usfm": "DEU 33:5"
+},
+{
+"start_ref": "04023021",
+"start_ref_usfm": "NUM 23:21",
+"end_ref": "04023021",
+"end_ref_usfm": "NUM 23:21"
+},
+{
+"start_ref": "05033026",
+"start_ref_usfm": "DEU 33:26",
+"end_ref": "05033026",
+"end_ref_usfm": "DEU 33:26"
+},
+{
+"start_ref": "07008023",
+"start_ref_usfm": "JDG 8:23",
+"end_ref": "07008023",
+"end_ref_usfm": "JDG 8:23"
+},
+{
+"start_ref": "19145001",
+"start_ref_usfm": "PSA 145:1",
+"end_ref": "19145001",
+"end_ref_usfm": "PSA 145:1"
+},
+{
+"start_ref": "02020001",
+"start_ref_usfm": "EXO 20:1",
+"end_ref": "02020017",
+"end_ref_usfm": "EXO 20:17"
+},
+{
+"start_ref": "05005006",
+"start_ref_usfm": "DEU 5:6",
+"end_ref": "05005021",
+"end_ref_usfm": "DEU 5:21"
+},
+{
+"start_ref": "02021001",
+"start_ref_usfm": "EXO 21:1",
+"end_ref": "02021001",
+"end_ref_usfm": "EXO 21:1"
+},
+{
+"start_ref": "05004001",
+"start_ref_usfm": "DEU 4:1",
+"end_ref": "05004002",
+"end_ref_usfm": "DEU 4:2"
+},
+{
+"start_ref": "05004013",
+"start_ref_usfm": "DEU 4:13",
+"end_ref": "05004014",
+"end_ref_usfm": "DEU 4:14"
+},
+{
+"start_ref": "05017018",
+"start_ref_usfm": "DEU 17:18",
+"end_ref": "05017019",
+"end_ref_usfm": "DEU 17:19"
+},
+{
+"start_ref": "05031012",
+"start_ref_usfm": "DEU 31:12",
+"end_ref": "05031013",
+"end_ref_usfm": "DEU 31:13"
+},
+{
+"start_ref": "06001007",
+"start_ref_usfm": "JOS 1:7",
+"end_ref": "06001008",
+"end_ref_usfm": "JOS 1:8"
+},
+{
+"start_ref": "09008007",
+"start_ref_usfm": "1SA 8:7",
+"end_ref": "09008007",
+"end_ref_usfm": "1SA 8:7"
+},
+{
+"start_ref": "09008019",
+"start_ref_usfm": "1SA 8:19",
+"end_ref": "09008019",
+"end_ref_usfm": "1SA 8:19"
+},
+{
+"start_ref": "09010019",
+"start_ref_usfm": "1SA 10:19",
+"end_ref": "09010019",
+"end_ref_usfm": "1SA 10:19"
+},
+{
+"start_ref": "09012012",
+"start_ref_usfm": "1SA 12:12",
+"end_ref": "09012012",
+"end_ref_usfm": "1SA 12:12"
+}
+],
+"resource": [
+{
+"reference_id": "1130",
+"content_id": "1130",
+"resource_code": "DictionaryBibleThemes",
+"label": "1130: God, sovereignty of",
+"language": "eng"
+},
+{
+"reference_id": "1349",
+"content_id": "1349",
+"resource_code": "DictionaryBibleThemes",
+"label": "1349: covenant, God's at Sinai",
+"language": "eng"
+},
+{
+"reference_id": "2375",
+"content_id": "2375",
+"resource_code": "DictionaryBibleThemes",
+"label": "2375: kingdom of God",
+"language": "eng"
+},
+{
+"reference_id": "5326",
+"content_id": "5326",
+"resource_code": "DictionaryBibleThemes",
+"label": "5326: government",
+"language": "eng"
+},
+{
+"reference_id": "5358",
+"content_id": "5358",
+"resource_code": "DictionaryBibleThemes",
+"label": "5358: judges",
+"language": "eng"
+},
+{
+"reference_id": "5368",
+"content_id": "5368",
+"resource_code": "DictionaryBibleThemes",
+"label": "5368: kingship",
+"language": "eng"
+},
+{
+"reference_id": "5375",
+"content_id": "5375",
+"resource_code": "DictionaryBibleThemes",
+"label": "5375: law",
+"language": "eng"
+}
+]
+}
+}
+]

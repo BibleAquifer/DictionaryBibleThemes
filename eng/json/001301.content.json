@@ -1,0 +1,189 @@
+[
+{
+"content_id": "5778",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5778: adorning",
+"media_type": "Text",
+"index_reference": "5778: adorning",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A form of ornamentation, using especially jewels and precious metals, to enhance the beauty of buildings or people.</p>\n<h2>Buildings were adorned with various materials</h2>\n<p><strong><a href=\"https://ref.ly/2Chr3:6\">2CH 3:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps45:8\">PSA 45:8</a>; <a href=\"https://ref.ly/Isa60:13\">ISA 60:13</a>; <a href=\"https://ref.ly/Amos3:15\">AMO 3:15</a></p>\n<h2>Objects of worship were adorned</h2>\n<p><strong><a href=\"https://ref.ly/Hos10:1\">HOS 10:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer10:3-Jer10:4\">JER 10:3–10:4</a></p>\n<h2>Women adorned themselves with jewellery and fine clothes</h2>\n<p><strong><a href=\"https://ref.ly/Ezek16:11-Ezek16:12\">EZK 16:11–16:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam1:24\">2SA 1:24</a>; <a href=\"https://ref.ly/Jer4:30\">JER 4:30</a>; <a href=\"https://ref.ly/Ezek16:13\">EZK 16:13</a></p>\n<h2>Personal adornment should not be allowed to detract from worship</h2>\n<p><strong><a href=\"https://ref.ly/1Tim2:9\">1TI 2:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Pet3:3-1Pet3:4\">1PE 3:3–3:4</a></p>\n<h2>Adorning used in a metaphorical sense</h2>\n<p><strong><a href=\"https://ref.ly/Isa61:10\">ISA 61:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job40:10\">JOB 40:10</a>; <a href=\"https://ref.ly/Ps93:5\">PSA 93:5</a>, <a href=\"https://ref.ly/Ps144:12\">PSA 144:12</a>; <a href=\"https://ref.ly/Prov1:8-Prov1:9\">PRO 1:8–1:9</a>; <a href=\"https://ref.ly/Isa60:7\">ISA 60:7</a>; <a href=\"https://ref.ly/Rev21:2\">REV 21:2</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "14003006",
+"start_ref_usfm": "2CH 3:6",
+"end_ref": "14003006",
+"end_ref_usfm": "2CH 3:6"
+},
+{
+"start_ref": "19045008",
+"start_ref_usfm": "PSA 45:8",
+"end_ref": "19045008",
+"end_ref_usfm": "PSA 45:8"
+},
+{
+"start_ref": "23060013",
+"start_ref_usfm": "ISA 60:13",
+"end_ref": "23060013",
+"end_ref_usfm": "ISA 60:13"
+},
+{
+"start_ref": "30003015",
+"start_ref_usfm": "AMO 3:15",
+"end_ref": "30003015",
+"end_ref_usfm": "AMO 3:15"
+},
+{
+"start_ref": "28010001",
+"start_ref_usfm": "HOS 10:1",
+"end_ref": "28010001",
+"end_ref_usfm": "HOS 10:1"
+},
+{
+"start_ref": "24010003",
+"start_ref_usfm": "JER 10:3",
+"end_ref": "24010004",
+"end_ref_usfm": "JER 10:4"
+},
+{
+"start_ref": "26016011",
+"start_ref_usfm": "EZK 16:11",
+"end_ref": "26016012",
+"end_ref_usfm": "EZK 16:12"
+},
+{
+"start_ref": "10001024",
+"start_ref_usfm": "2SA 1:24",
+"end_ref": "10001024",
+"end_ref_usfm": "2SA 1:24"
+},
+{
+"start_ref": "24004030",
+"start_ref_usfm": "JER 4:30",
+"end_ref": "24004030",
+"end_ref_usfm": "JER 4:30"
+},
+{
+"start_ref": "26016013",
+"start_ref_usfm": "EZK 16:13",
+"end_ref": "26016013",
+"end_ref_usfm": "EZK 16:13"
+},
+{
+"start_ref": "54002009",
+"start_ref_usfm": "1TI 2:9",
+"end_ref": "54002009",
+"end_ref_usfm": "1TI 2:9"
+},
+{
+"start_ref": "60003003",
+"start_ref_usfm": "1PE 3:3",
+"end_ref": "60003004",
+"end_ref_usfm": "1PE 3:4"
+},
+{
+"start_ref": "23061010",
+"start_ref_usfm": "ISA 61:10",
+"end_ref": "23061010",
+"end_ref_usfm": "ISA 61:10"
+},
+{
+"start_ref": "18040010",
+"start_ref_usfm": "JOB 40:10",
+"end_ref": "18040010",
+"end_ref_usfm": "JOB 40:10"
+},
+{
+"start_ref": "19093005",
+"start_ref_usfm": "PSA 93:5",
+"end_ref": "19093005",
+"end_ref_usfm": "PSA 93:5"
+},
+{
+"start_ref": "19144012",
+"start_ref_usfm": "PSA 144:12",
+"end_ref": "19144012",
+"end_ref_usfm": "PSA 144:12"
+},
+{
+"start_ref": "20001008",
+"start_ref_usfm": "PRO 1:8",
+"end_ref": "20001009",
+"end_ref_usfm": "PRO 1:9"
+},
+{
+"start_ref": "23060007",
+"start_ref_usfm": "ISA 60:7",
+"end_ref": "23060007",
+"end_ref_usfm": "ISA 60:7"
+},
+{
+"start_ref": "66021002",
+"start_ref_usfm": "REV 21:2",
+"end_ref": "66021002",
+"end_ref_usfm": "REV 21:2"
+}
+],
+"resource": [
+{
+"reference_id": "4040",
+"content_id": "4040",
+"resource_code": "DictionaryBibleThemes",
+"label": "4040: beauty",
+"language": "eng"
+},
+{
+"reference_id": "4342",
+"content_id": "4342",
+"resource_code": "DictionaryBibleThemes",
+"label": "4342: jewels",
+"language": "eng"
+},
+{
+"reference_id": "5145",
+"content_id": "5145",
+"resource_code": "DictionaryBibleThemes",
+"label": "5145: clothing",
+"language": "eng"
+},
+{
+"reference_id": "5207",
+"content_id": "5207",
+"resource_code": "DictionaryBibleThemes",
+"label": "5207: architecture",
+"language": "eng"
+},
+{
+"reference_id": "5211",
+"content_id": "5211",
+"resource_code": "DictionaryBibleThemes",
+"label": "5211: art",
+"language": "eng"
+},
+{
+"reference_id": "5915",
+"content_id": "5915",
+"resource_code": "DictionaryBibleThemes",
+"label": "5915: ornaments",
+"language": "eng"
+},
+{
+"reference_id": "8308",
+"content_id": "8308",
+"resource_code": "DictionaryBibleThemes",
+"label": "8308: modesty",
+"language": "eng"
+},
+{
+"reference_id": "8808",
+"content_id": "8808",
+"resource_code": "DictionaryBibleThemes",
+"label": "8808: riches",
+"language": "eng"
+}
+]
+}
+}
+]

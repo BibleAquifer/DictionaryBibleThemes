@@ -1,0 +1,76 @@
+[
+{
+"content_id": "5867",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5867: golden rule",
+"media_type": "Text",
+"index_reference": "5867: golden rule",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The command of Jesus Christ to love others as ourselves</h2>\n<p><strong><a href=\"https://ref.ly/Matt7:12\">MAT 7:12</a></strong> parallel <a href=\"https://ref.ly/Luke6:31\">LUK 6:31</a> <em>See also</em> <a href=\"https://ref.ly/Matt22:39-Matt22:40\">MAT 22:39–22:40</a> parallel <a href=\"https://ref.ly/Mark12:31\">MRK 12:31</a>; <a href=\"https://ref.ly/Rom13:8-Rom13:9\">ROM 13:8–13:9</a>; <a href=\"https://ref.ly/Gal5:14\">GAL 5:14</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40007012",
+"start_ref_usfm": "MAT 7:12",
+"end_ref": "40007012",
+"end_ref_usfm": "MAT 7:12"
+},
+{
+"start_ref": "42006031",
+"start_ref_usfm": "LUK 6:31",
+"end_ref": "42006031",
+"end_ref_usfm": "LUK 6:31"
+},
+{
+"start_ref": "40022039",
+"start_ref_usfm": "MAT 22:39",
+"end_ref": "40022040",
+"end_ref_usfm": "MAT 22:40"
+},
+{
+"start_ref": "41012031",
+"start_ref_usfm": "MRK 12:31",
+"end_ref": "41012031",
+"end_ref_usfm": "MRK 12:31"
+},
+{
+"start_ref": "45013008",
+"start_ref_usfm": "ROM 13:8",
+"end_ref": "45013009",
+"end_ref_usfm": "ROM 13:9"
+},
+{
+"start_ref": "48005014",
+"start_ref_usfm": "GAL 5:14",
+"end_ref": "48005014",
+"end_ref_usfm": "GAL 5:14"
+}
+],
+"resource": [
+{
+"reference_id": "8298",
+"content_id": "8298",
+"resource_code": "DictionaryBibleThemes",
+"label": "8298: love, for one another",
+"language": "eng"
+},
+{
+"reference_id": "8405",
+"content_id": "8405",
+"resource_code": "DictionaryBibleThemes",
+"label": "8405: commands, in NT",
+"language": "eng"
+},
+{
+"reference_id": "8452",
+"content_id": "8452",
+"resource_code": "DictionaryBibleThemes",
+"label": "8452: neighbours, duty to",
+"language": "eng"
+}
+]
+}
+}
+]

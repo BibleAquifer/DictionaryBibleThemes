@@ -1,0 +1,208 @@
+[
+{
+"content_id": "9314",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9314: resurrection, of the dead",
+"media_type": "Text",
+"index_reference": "9314: resurrection, of the dead",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture speaks of a general resurrection of all people at the end of time, which will be followed by judgment.</p>\n<h2>The resurrection of the dead predicted</h2>\n<h3>In the OT</h3>\n<p><strong><a href=\"https://ref.ly/Dan12:2\">DAN 12:2</a></strong></p>\n<h3>By Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/John5:28-John5:29\">JHN 5:28–5:29</a></strong></p>\n<h2>The resurrection of the dead will occur at Jesus Christ's return</h2>\n<p><strong><a href=\"https://ref.ly/Rev20:12-Rev20:13\">REV 20:12–20:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts17:31\">ACT 17:31</a>; <a href=\"https://ref.ly/1Cor15:52\">1CO 15:52</a>; <a href=\"https://ref.ly/1Thess4:16\">1TH 4:16</a></p>\n<h2>The resurrection of the dead includes both the righteous and wicked</h2>\n<p><strong><a href=\"https://ref.ly/Acts24:15\">ACT 24:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt25:31-Matt25:32\">MAT 25:31–25:32</a></p>\n<h2>Attitudes to the resurrection of the dead</h2>\n<h3>Denial by false teachers</h3>\n<p><strong><a href=\"https://ref.ly/1Cor15:12\">1CO 15:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt22:23\">MAT 22:23</a> parallels <a href=\"https://ref.ly/Mark12:18\">MRK 12:18</a>, <a href=\"https://ref.ly/Luke20:27\">LUK 20:27</a>; <a href=\"https://ref.ly/Acts23:8\">ACT 23:8</a>; <a href=\"https://ref.ly/2Tim2:18\">2TI 2:18</a></p>\n<h3>Ridicule from unbelievers</h3>\n<p><a href=\"https://ref.ly/Acts17:18\">ACT 17:18</a>, <a href=\"https://ref.ly/Acts17:32\">ACT 17:32</a></p>\n<h3>Unbelief</h3>\n<p><strong><a href=\"https://ref.ly/Acts26:8\">ACT 26:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt22:29-Matt22:32\">MAT 22:29–22:32</a> parallels <a href=\"https://ref.ly/Mark12:24-Mark12:27\">MRK 12:24–12:27</a>, <a href=\"https://ref.ly/Luke20:34-Luke20:38\">LUK 20:34–20:38</a>; <a href=\"https://ref.ly/1Cor15:35-1Cor15:44\">1CO 15:35–15:44</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "27012002",
+"start_ref_usfm": "DAN 12:2",
+"end_ref": "27012002",
+"end_ref_usfm": "DAN 12:2"
+},
+{
+"start_ref": "43005028",
+"start_ref_usfm": "JHN 5:28",
+"end_ref": "43005029",
+"end_ref_usfm": "JHN 5:29"
+},
+{
+"start_ref": "66020012",
+"start_ref_usfm": "REV 20:12",
+"end_ref": "66020013",
+"end_ref_usfm": "REV 20:13"
+},
+{
+"start_ref": "44017031",
+"start_ref_usfm": "ACT 17:31",
+"end_ref": "44017031",
+"end_ref_usfm": "ACT 17:31"
+},
+{
+"start_ref": "46015052",
+"start_ref_usfm": "1CO 15:52",
+"end_ref": "46015052",
+"end_ref_usfm": "1CO 15:52"
+},
+{
+"start_ref": "52004016",
+"start_ref_usfm": "1TH 4:16",
+"end_ref": "52004016",
+"end_ref_usfm": "1TH 4:16"
+},
+{
+"start_ref": "44024015",
+"start_ref_usfm": "ACT 24:15",
+"end_ref": "44024015",
+"end_ref_usfm": "ACT 24:15"
+},
+{
+"start_ref": "40025031",
+"start_ref_usfm": "MAT 25:31",
+"end_ref": "40025032",
+"end_ref_usfm": "MAT 25:32"
+},
+{
+"start_ref": "46015012",
+"start_ref_usfm": "1CO 15:12",
+"end_ref": "46015012",
+"end_ref_usfm": "1CO 15:12"
+},
+{
+"start_ref": "40022023",
+"start_ref_usfm": "MAT 22:23",
+"end_ref": "40022023",
+"end_ref_usfm": "MAT 22:23"
+},
+{
+"start_ref": "41012018",
+"start_ref_usfm": "MRK 12:18",
+"end_ref": "41012018",
+"end_ref_usfm": "MRK 12:18"
+},
+{
+"start_ref": "42020027",
+"start_ref_usfm": "LUK 20:27",
+"end_ref": "42020027",
+"end_ref_usfm": "LUK 20:27"
+},
+{
+"start_ref": "44023008",
+"start_ref_usfm": "ACT 23:8",
+"end_ref": "44023008",
+"end_ref_usfm": "ACT 23:8"
+},
+{
+"start_ref": "55002018",
+"start_ref_usfm": "2TI 2:18",
+"end_ref": "55002018",
+"end_ref_usfm": "2TI 2:18"
+},
+{
+"start_ref": "44017018",
+"start_ref_usfm": "ACT 17:18",
+"end_ref": "44017018",
+"end_ref_usfm": "ACT 17:18"
+},
+{
+"start_ref": "44017032",
+"start_ref_usfm": "ACT 17:32",
+"end_ref": "44017032",
+"end_ref_usfm": "ACT 17:32"
+},
+{
+"start_ref": "44026008",
+"start_ref_usfm": "ACT 26:8",
+"end_ref": "44026008",
+"end_ref_usfm": "ACT 26:8"
+},
+{
+"start_ref": "40022029",
+"start_ref_usfm": "MAT 22:29",
+"end_ref": "40022032",
+"end_ref_usfm": "MAT 22:32"
+},
+{
+"start_ref": "41012024",
+"start_ref_usfm": "MRK 12:24",
+"end_ref": "41012027",
+"end_ref_usfm": "MRK 12:27"
+},
+{
+"start_ref": "42020034",
+"start_ref_usfm": "LUK 20:34",
+"end_ref": "42020038",
+"end_ref_usfm": "LUK 20:38"
+},
+{
+"start_ref": "46015035",
+"start_ref_usfm": "1CO 15:35",
+"end_ref": "46015044",
+"end_ref_usfm": "1CO 15:44"
+}
+],
+"resource": [
+{
+"reference_id": "2042",
+"content_id": "2042",
+"resource_code": "DictionaryBibleThemes",
+"label": "2042: Jesus Christ, justice of",
+"language": "eng"
+},
+{
+"reference_id": "2565",
+"content_id": "2565",
+"resource_code": "DictionaryBibleThemes",
+"label": "2565: Jesus Christ, second coming of",
+"language": "eng"
+},
+{
+"reference_id": "5288",
+"content_id": "5288",
+"resource_code": "DictionaryBibleThemes",
+"label": "5288: dead, the",
+"language": "eng"
+},
+{
+"reference_id": "5535",
+"content_id": "5535",
+"resource_code": "DictionaryBibleThemes",
+"label": "5535: sleep, and death",
+"language": "eng"
+},
+{
+"reference_id": "7555",
+"content_id": "7555",
+"resource_code": "DictionaryBibleThemes",
+"label": "7555: Sadducees",
+"language": "eng"
+},
+{
+"reference_id": "8834",
+"content_id": "8834",
+"resource_code": "DictionaryBibleThemes",
+"label": "8834: unbelief",
+"language": "eng"
+},
+{
+"reference_id": "9105",
+"content_id": "9105",
+"resource_code": "DictionaryBibleThemes",
+"label": "9105: last things",
+"language": "eng"
+},
+{
+"reference_id": "9110",
+"content_id": "9110",
+"resource_code": "DictionaryBibleThemes",
+"label": "9110: after-life",
+"language": "eng"
+},
+{
+"reference_id": "9135",
+"content_id": "9135",
+"resource_code": "DictionaryBibleThemes",
+"label": "9135: immortality",
+"language": "eng"
+}
+]
+}
+}
+]

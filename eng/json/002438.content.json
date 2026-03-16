@@ -1,0 +1,170 @@
+[
+{
+"content_id": "8819",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8819: scoffing",
+"media_type": "Text",
+"index_reference": "8819: scoffing",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Treating individuals, people, ideas or values with contempt or ridicule. Scripture indicates that God's word and his people can expect to be treated with contempt by the world.</p>\n<h2>Objects of scoffing</h2>\n<h3>Nations punished by God</h3>\n<p><strong><a href=\"https://ref.ly/Jer19:8\">JER 19:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs9:6-1Kgs9:9\">1KI 9:6–9:9</a>; <a href=\"https://ref.ly/Jer49:17\">JER 49:17</a>, <a href=\"https://ref.ly/Jer50:13\">JER 50:13</a>; <a href=\"https://ref.ly/Lam2:15-Lam2:17\">LAM 2:15–2:17</a>; <a href=\"https://ref.ly/Zeph2:13-Zeph2:15\">ZEP 2:13–2:15</a></p>\n<h3>God's messengers</h3>\n<p><strong><a href=\"https://ref.ly/2Chr36:15-2Chr36:16\">2CH 36:15–36:16</a></strong></p>\n<h2>Reasons for scoffing</h2>\n<h3>Unbelief</h3>\n<p><strong><a href=\"https://ref.ly/2Pet3:3-2Pet3:4\">2PE 3:3–3:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts13:41\">ACT 13:41</a>; <a href=\"https://ref.ly/Hab1:5\">HAB 1:5</a>; <a href=\"https://ref.ly/Jude1:17-Jude1:19\">JUD 1:17–1:19</a></p>\n<h3>Arrogance</h3>\n<p><strong><a href=\"https://ref.ly/Hab1:10\">HAB 1:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps73:3-Ps73:8\">PSA 73:3–73:8</a>; <a href=\"https://ref.ly/Isa28:14-Isa28:15\">ISA 28:14–28:15</a></p>\n<h3>Lack of wisdom</h3>\n<p><strong><a href=\"https://ref.ly/Prov29:9\">PRO 29:9</a></strong></p>\n<h2>God scoffs at the nations</h2>\n<p><strong><a href=\"https://ref.ly/Ps59:5-Ps59:8\">PSA 59:5–59:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps2:1-Ps2:6\">PSA 2:1–2:6</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "24019008",
+"start_ref_usfm": "JER 19:8",
+"end_ref": "24019008",
+"end_ref_usfm": "JER 19:8"
+},
+{
+"start_ref": "11009006",
+"start_ref_usfm": "1KI 9:6",
+"end_ref": "11009009",
+"end_ref_usfm": "1KI 9:9"
+},
+{
+"start_ref": "24049017",
+"start_ref_usfm": "JER 49:17",
+"end_ref": "24049017",
+"end_ref_usfm": "JER 49:17"
+},
+{
+"start_ref": "24050013",
+"start_ref_usfm": "JER 50:13",
+"end_ref": "24050013",
+"end_ref_usfm": "JER 50:13"
+},
+{
+"start_ref": "25002015",
+"start_ref_usfm": "LAM 2:15",
+"end_ref": "25002017",
+"end_ref_usfm": "LAM 2:17"
+},
+{
+"start_ref": "36002013",
+"start_ref_usfm": "ZEP 2:13",
+"end_ref": "36002015",
+"end_ref_usfm": "ZEP 2:15"
+},
+{
+"start_ref": "14036015",
+"start_ref_usfm": "2CH 36:15",
+"end_ref": "14036016",
+"end_ref_usfm": "2CH 36:16"
+},
+{
+"start_ref": "61003003",
+"start_ref_usfm": "2PE 3:3",
+"end_ref": "61003004",
+"end_ref_usfm": "2PE 3:4"
+},
+{
+"start_ref": "44013041",
+"start_ref_usfm": "ACT 13:41",
+"end_ref": "44013041",
+"end_ref_usfm": "ACT 13:41"
+},
+{
+"start_ref": "35001005",
+"start_ref_usfm": "HAB 1:5",
+"end_ref": "35001005",
+"end_ref_usfm": "HAB 1:5"
+},
+{
+"start_ref": "65001017",
+"start_ref_usfm": "JUD 1:17",
+"end_ref": "65001019",
+"end_ref_usfm": "JUD 1:19"
+},
+{
+"start_ref": "35001010",
+"start_ref_usfm": "HAB 1:10",
+"end_ref": "35001010",
+"end_ref_usfm": "HAB 1:10"
+},
+{
+"start_ref": "19073003",
+"start_ref_usfm": "PSA 73:3",
+"end_ref": "19073008",
+"end_ref_usfm": "PSA 73:8"
+},
+{
+"start_ref": "23028014",
+"start_ref_usfm": "ISA 28:14",
+"end_ref": "23028015",
+"end_ref_usfm": "ISA 28:15"
+},
+{
+"start_ref": "20029009",
+"start_ref_usfm": "PRO 29:9",
+"end_ref": "20029009",
+"end_ref_usfm": "PRO 29:9"
+},
+{
+"start_ref": "19059005",
+"start_ref_usfm": "PSA 59:5",
+"end_ref": "19059008",
+"end_ref_usfm": "PSA 59:8"
+},
+{
+"start_ref": "19002001",
+"start_ref_usfm": "PSA 2:1",
+"end_ref": "19002006",
+"end_ref_usfm": "PSA 2:6"
+}
+],
+"resource": [
+{
+"reference_id": "5818",
+"content_id": "5818",
+"resource_code": "DictionaryBibleThemes",
+"label": "5818: contempt",
+"language": "eng"
+},
+{
+"reference_id": "5893",
+"content_id": "5893",
+"resource_code": "DictionaryBibleThemes",
+"label": "5893: insults",
+"language": "eng"
+},
+{
+"reference_id": "5900",
+"content_id": "5900",
+"resource_code": "DictionaryBibleThemes",
+"label": "5900: laughter",
+"language": "eng"
+},
+{
+"reference_id": "5951",
+"content_id": "5951",
+"resource_code": "DictionaryBibleThemes",
+"label": "5951: slander",
+"language": "eng"
+},
+{
+"reference_id": "8782",
+"content_id": "8782",
+"resource_code": "DictionaryBibleThemes",
+"label": "8782: mockery",
+"language": "eng"
+},
+{
+"reference_id": "8794",
+"content_id": "8794",
+"resource_code": "DictionaryBibleThemes",
+"label": "8794: persecution",
+"language": "eng"
+},
+{
+"reference_id": "8815",
+"content_id": "8815",
+"resource_code": "DictionaryBibleThemes",
+"label": "8815: ridicule",
+"language": "eng"
+}
+]
+}
+}
+]

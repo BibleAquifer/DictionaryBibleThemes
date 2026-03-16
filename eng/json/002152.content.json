@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8324",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8324: purity",
+"media_type": "Text",
+"index_reference": "8324: purity",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An absence of blemish or stain, especially sin. The state of being morally and spiritually pure, which is seen by Scripture as the result of being the people of God and also as an expected distinguishing mark of the church.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8325",
+"content_id": "8325",
+"resource_code": "DictionaryBibleThemes",
+"label": "8325: purity, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8326",
+"content_id": "8326",
+"resource_code": "DictionaryBibleThemes",
+"label": "8326: purity, moral and spiritual",
+"language": "eng"
+}
+]
+}
+}
+]

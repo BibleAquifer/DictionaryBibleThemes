@@ -1,0 +1,32 @@
+[
+{
+"content_id": "2400",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "2400: Jesus Christ, gospel of",
+"media_type": "Text",
+"index_reference": "2400: jesus christ, gospel of",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"2410\" data-resourcetype=\"DictionaryOfBibleThemes\">2410: cross, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"2420\" data-resourcetype=\"DictionaryOfBibleThemes\">2420: gospel</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "2410",
+"content_id": "2410",
+"resource_code": "DictionaryBibleThemes",
+"label": "2410: cross, the",
+"language": "eng"
+},
+{
+"reference_id": "2420",
+"content_id": "2420",
+"resource_code": "DictionaryBibleThemes",
+"label": "2420: gospel",
+"language": "eng"
+}
+]
+}
+}
+]

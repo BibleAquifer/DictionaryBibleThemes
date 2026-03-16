@@ -1,0 +1,53 @@
+[
+{
+"content_id": "9610",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9610: hope",
+"media_type": "Text",
+"index_reference": "9610: hope",
+"language": "eng",
+"review_level": "None",
+"content": "<p>In Scripture, a confident expectation for the future, describing both the act of hoping and the object hoped for. When grounded in God, hope provides the motivation to live the Christian life even in the face of trouble.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "9611",
+"content_id": "9611",
+"resource_code": "DictionaryBibleThemes",
+"label": "9611: hope, nature of",
+"language": "eng"
+},
+{
+"reference_id": "9612",
+"content_id": "9612",
+"resource_code": "DictionaryBibleThemes",
+"label": "9612: hope, in God",
+"language": "eng"
+},
+{
+"reference_id": "9613",
+"content_id": "9613",
+"resource_code": "DictionaryBibleThemes",
+"label": "9613: hope, as confidence",
+"language": "eng"
+},
+{
+"reference_id": "9614",
+"content_id": "9614",
+"resource_code": "DictionaryBibleThemes",
+"label": "9614: hope, results of its absence",
+"language": "eng"
+},
+{
+"reference_id": "9615",
+"content_id": "9615",
+"resource_code": "DictionaryBibleThemes",
+"label": "9615: hope, results of",
+"language": "eng"
+}
+]
+}
+}
+]

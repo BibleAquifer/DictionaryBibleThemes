@@ -1,0 +1,32 @@
+[
+{
+"content_id": "7215",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7215: exile, the",
+"media_type": "Text",
+"index_reference": "7215: exile, the",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The period of Israel's captivity in foreign lands, under Assyria in the eighth century B.C., and under Babylon in the sixth. Such exile is regarded by biblical writers as a judgment upon Israel for her folly and unfaithfulness. It is also seen as a time of repentance and renewal leading eventually to restoration.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7216",
+"content_id": "7216",
+"resource_code": "DictionaryBibleThemes",
+"label": "7216: exile, in Assyria",
+"language": "eng"
+},
+{
+"reference_id": "7217",
+"content_id": "7217",
+"resource_code": "DictionaryBibleThemes",
+"label": "7217: exile, in Babylon",
+"language": "eng"
+}
+]
+}
+}
+]

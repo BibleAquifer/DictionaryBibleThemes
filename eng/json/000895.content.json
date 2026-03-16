@@ -1,0 +1,264 @@
+[
+{
+"content_id": "5308",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5308: equality",
+"media_type": "Text",
+"index_reference": "5308: equality",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture declares that all people are equal in the sight of God, and that all are equally in need of the redemption achieved through the saving death of Jesus Christ. All believers have equal status before God, despite differences in their social standing and background.</p>\n<h2>The equality of Father and Son</h2>\n<h3>Jesus Christ claims equality with God</h3>\n<p><strong><a href=\"https://ref.ly/John5:18\">JHN 5:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/John10:30\">JHN 10:30</a>; <a href=\"https://ref.ly/Matt11:27\">MAT 11:27</a>; <a href=\"https://ref.ly/John17:10-John17:22\">JHN 17:10–17:22</a></p>\n<h3>The apostles treat Jesus Christ as equal with God</h3>\n<p><strong><a href=\"https://ref.ly/2Thess2:16-2Thess2:17\">2TH 2:16–2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts2:38\">ACT 2:38</a>; <a href=\"https://ref.ly/Gal1:3\">GAL 1:3</a>; <a href=\"https://ref.ly/Phil2:6\">PHP 2:6</a>; <a href=\"https://ref.ly/1Thess3:11\">1TH 3:11</a>; <a href=\"https://ref.ly/1John5:20\">1JN 5:20</a></p>\n<h2>The equality of all people before God</h2>\n<h3>God is the maker of all people, whatever their status</h3>\n<p><strong><a href=\"https://ref.ly/Prov22:2\">PRO 22:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts17:26\">ACT 17:26</a></p>\n<h3>All people have sinned, whatever their origin or status</h3>\n<p><strong><a href=\"https://ref.ly/Rom3:22-Rom3:24\">ROM 3:22–3:24</a></strong></p>\n<h3>God shows no partiality in his dealings with people</h3>\n<p><strong><a href=\"https://ref.ly/Deut10:17\">DEU 10:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job31:13-Job31:15\">JOB 31:13–31:15</a>; <a href=\"https://ref.ly/Rom2:11\">ROM 2:11</a>; <a href=\"https://ref.ly/Eph6:9\">EPH 6:9</a>; <a href=\"https://ref.ly/1Pet1:17\">1PE 1:17</a></p>\n<h3>The gospel is proclaimed equally to all</h3>\n<p><strong><a href=\"https://ref.ly/Acts10:34\">ACT 10:34</a></strong></p>\n<h3>All believers are one, whatever their origin, status or gender</h3>\n<p><strong><a href=\"https://ref.ly/Gal3:28\">GAL 3:28</a></strong></p>\n<h2>Equality among believers</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/1Cor12:25\">1CO 12:25</a>; <a href=\"https://ref.ly/2Cor8:13-2Cor8:14\">2CO 8:13–8:14</a>, <a href=\"https://ref.ly/2Cor11:12\">2CO 11:12</a></p>\n<h3>Believers must not give preferential treatment to the rich</h3>\n<p><strong><a href=\"https://ref.ly/Jas2:2-Jas2:4\">JAS 2:2–2:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev19:15\">LEV 19:15</a></p>\n<h3>Believers must not show favouritism</h3>\n<p><strong><a href=\"https://ref.ly/Jas2:9\">JAS 2:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim5:21\">1TI 5:21</a>; <a href=\"https://ref.ly/Jas2:1\">JAS 2:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "43005018",
+"start_ref_usfm": "JHN 5:18",
+"end_ref": "43005018",
+"end_ref_usfm": "JHN 5:18"
+},
+{
+"start_ref": "43010030",
+"start_ref_usfm": "JHN 10:30",
+"end_ref": "43010030",
+"end_ref_usfm": "JHN 10:30"
+},
+{
+"start_ref": "40011027",
+"start_ref_usfm": "MAT 11:27",
+"end_ref": "40011027",
+"end_ref_usfm": "MAT 11:27"
+},
+{
+"start_ref": "43017010",
+"start_ref_usfm": "JHN 17:10",
+"end_ref": "43017022",
+"end_ref_usfm": "JHN 17:22"
+},
+{
+"start_ref": "53002016",
+"start_ref_usfm": "2TH 2:16",
+"end_ref": "53002017",
+"end_ref_usfm": "2TH 2:17"
+},
+{
+"start_ref": "44002038",
+"start_ref_usfm": "ACT 2:38",
+"end_ref": "44002038",
+"end_ref_usfm": "ACT 2:38"
+},
+{
+"start_ref": "48001003",
+"start_ref_usfm": "GAL 1:3",
+"end_ref": "48001003",
+"end_ref_usfm": "GAL 1:3"
+},
+{
+"start_ref": "50002006",
+"start_ref_usfm": "PHP 2:6",
+"end_ref": "50002006",
+"end_ref_usfm": "PHP 2:6"
+},
+{
+"start_ref": "52003011",
+"start_ref_usfm": "1TH 3:11",
+"end_ref": "52003011",
+"end_ref_usfm": "1TH 3:11"
+},
+{
+"start_ref": "62005020",
+"start_ref_usfm": "1JN 5:20",
+"end_ref": "62005020",
+"end_ref_usfm": "1JN 5:20"
+},
+{
+"start_ref": "20022002",
+"start_ref_usfm": "PRO 22:2",
+"end_ref": "20022002",
+"end_ref_usfm": "PRO 22:2"
+},
+{
+"start_ref": "44017026",
+"start_ref_usfm": "ACT 17:26",
+"end_ref": "44017026",
+"end_ref_usfm": "ACT 17:26"
+},
+{
+"start_ref": "45003022",
+"start_ref_usfm": "ROM 3:22",
+"end_ref": "45003024",
+"end_ref_usfm": "ROM 3:24"
+},
+{
+"start_ref": "05010017",
+"start_ref_usfm": "DEU 10:17",
+"end_ref": "05010017",
+"end_ref_usfm": "DEU 10:17"
+},
+{
+"start_ref": "18031013",
+"start_ref_usfm": "JOB 31:13",
+"end_ref": "18031015",
+"end_ref_usfm": "JOB 31:15"
+},
+{
+"start_ref": "45002011",
+"start_ref_usfm": "ROM 2:11",
+"end_ref": "45002011",
+"end_ref_usfm": "ROM 2:11"
+},
+{
+"start_ref": "49006009",
+"start_ref_usfm": "EPH 6:9",
+"end_ref": "49006009",
+"end_ref_usfm": "EPH 6:9"
+},
+{
+"start_ref": "60001017",
+"start_ref_usfm": "1PE 1:17",
+"end_ref": "60001017",
+"end_ref_usfm": "1PE 1:17"
+},
+{
+"start_ref": "44010034",
+"start_ref_usfm": "ACT 10:34",
+"end_ref": "44010034",
+"end_ref_usfm": "ACT 10:34"
+},
+{
+"start_ref": "48003028",
+"start_ref_usfm": "GAL 3:28",
+"end_ref": "48003028",
+"end_ref_usfm": "GAL 3:28"
+},
+{
+"start_ref": "46012025",
+"start_ref_usfm": "1CO 12:25",
+"end_ref": "46012025",
+"end_ref_usfm": "1CO 12:25"
+},
+{
+"start_ref": "47008013",
+"start_ref_usfm": "2CO 8:13",
+"end_ref": "47008014",
+"end_ref_usfm": "2CO 8:14"
+},
+{
+"start_ref": "47011012",
+"start_ref_usfm": "2CO 11:12",
+"end_ref": "47011012",
+"end_ref_usfm": "2CO 11:12"
+},
+{
+"start_ref": "59002002",
+"start_ref_usfm": "JAS 2:2",
+"end_ref": "59002004",
+"end_ref_usfm": "JAS 2:4"
+},
+{
+"start_ref": "03019015",
+"start_ref_usfm": "LEV 19:15",
+"end_ref": "03019015",
+"end_ref_usfm": "LEV 19:15"
+},
+{
+"start_ref": "59002009",
+"start_ref_usfm": "JAS 2:9",
+"end_ref": "59002009",
+"end_ref_usfm": "JAS 2:9"
+},
+{
+"start_ref": "54005021",
+"start_ref_usfm": "1TI 5:21",
+"end_ref": "54005021",
+"end_ref_usfm": "1TI 5:21"
+},
+{
+"start_ref": "59002001",
+"start_ref_usfm": "JAS 2:1",
+"end_ref": "59002001",
+"end_ref_usfm": "JAS 2:1"
+}
+],
+"resource": [
+{
+"reference_id": "1512",
+"content_id": "1512",
+"resource_code": "DictionaryBibleThemes",
+"label": "1512: Trinity, equality of the persons",
+"language": "eng"
+},
+{
+"reference_id": "2420",
+"content_id": "2420",
+"resource_code": "DictionaryBibleThemes",
+"label": "2420: gospel",
+"language": "eng"
+},
+{
+"reference_id": "5001",
+"content_id": "5001",
+"resource_code": "DictionaryBibleThemes",
+"label": "5001: human race, the",
+"language": "eng"
+},
+{
+"reference_id": "5034",
+"content_id": "5034",
+"resource_code": "DictionaryBibleThemes",
+"label": "5034: likeness",
+"language": "eng"
+},
+{
+"reference_id": "5554",
+"content_id": "5554",
+"resource_code": "DictionaryBibleThemes",
+"label": "5554: status",
+"language": "eng"
+},
+{
+"reference_id": "5707",
+"content_id": "5707",
+"resource_code": "DictionaryBibleThemes",
+"label": "5707: male and female",
+"language": "eng"
+},
+{
+"reference_id": "5769",
+"content_id": "5769",
+"resource_code": "DictionaryBibleThemes",
+"label": "5769: behaviour",
+"language": "eng"
+},
+{
+"reference_id": "5838",
+"content_id": "5838",
+"resource_code": "DictionaryBibleThemes",
+"label": "5838: disrespect",
+"language": "eng"
+},
+{
+"reference_id": "7105",
+"content_id": "7105",
+"resource_code": "DictionaryBibleThemes",
+"label": "7105: believers",
+"language": "eng"
+},
+{
+"reference_id": "8753",
+"content_id": "8753",
+"resource_code": "DictionaryBibleThemes",
+"label": "8753: favouritism",
+"language": "eng"
+},
+{
+"reference_id": "8800",
+"content_id": "8800",
+"resource_code": "DictionaryBibleThemes",
+"label": "8800: prejudice",
+"language": "eng"
+}
+]
+}
+}
+]

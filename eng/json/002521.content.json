@@ -1,0 +1,89 @@
+[
+{
+"content_id": "9520",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9520: Abyss, the",
+"media_type": "Text",
+"index_reference": "9520: abyss, the",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Derived from a Greek word meaning “something which is bottomless” and often used to refer to a place of despair in which demons are imprisoned.</p>\n<h2>The Abyss as a place of despair</h2>\n<p><a href=\"https://ref.ly/Luke8:31\">LUK 8:31</a>; ; <a href=\"https://ref.ly/Rev9:2\">REV 9:2</a></p>\n<h2>The Abyss as the home of demons</h2>\n<p><a href=\"https://ref.ly/Rev9:11\">REV 9:11</a>, <a href=\"https://ref.ly/Rev17:8\">REV 17:8</a></p>\n<h2>The Abyss as a prison</h2>\n<p><a href=\"https://ref.ly/Rev9:1\">REV 9:1</a>, <a href=\"https://ref.ly/Rev20:1\">REV 20:1</a>, <a href=\"https://ref.ly/Rev20:3\">REV 20:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42008031",
+"start_ref_usfm": "LUK 8:31",
+"end_ref": "42008031",
+"end_ref_usfm": "LUK 8:31"
+},
+{
+"start_ref": "66009002",
+"start_ref_usfm": "REV 9:2",
+"end_ref": "66009002",
+"end_ref_usfm": "REV 9:2"
+},
+{
+"start_ref": "66009011",
+"start_ref_usfm": "REV 9:11",
+"end_ref": "66009011",
+"end_ref_usfm": "REV 9:11"
+},
+{
+"start_ref": "66017008",
+"start_ref_usfm": "REV 17:8",
+"end_ref": "66017008",
+"end_ref_usfm": "REV 17:8"
+},
+{
+"start_ref": "66009001",
+"start_ref_usfm": "REV 9:1",
+"end_ref": "66009001",
+"end_ref_usfm": "REV 9:1"
+},
+{
+"start_ref": "66020001",
+"start_ref_usfm": "REV 20:1",
+"end_ref": "66020001",
+"end_ref_usfm": "REV 20:1"
+},
+{
+"start_ref": "66020003",
+"start_ref_usfm": "REV 20:3",
+"end_ref": "66020003",
+"end_ref_usfm": "REV 20:3"
+}
+],
+"resource": [
+{
+"reference_id": "4227",
+"content_id": "4227",
+"resource_code": "DictionaryBibleThemes",
+"label": "4227: deep, the",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+},
+{
+"reference_id": "9510",
+"content_id": "9510",
+"resource_code": "DictionaryBibleThemes",
+"label": "9510: hell",
+"language": "eng"
+}
+]
+}
+}
+]

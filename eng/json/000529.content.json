@@ -1,0 +1,124 @@
+[
+{
+"content_id": "4802",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4802: blight",
+"media_type": "Text",
+"index_reference": "4802: blight",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A disease ruinous to crops. In the OT blight was seen as evidence of God's judgment.</p>\n<h2>Blight as punishment from God</h2>\n<p><strong><a href=\"https://ref.ly/Deut28:22\">DEU 28:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos9:16\">HOS 9:16</a>; <a href=\"https://ref.ly/Amos4:9\">AMO 4:9</a>; <a href=\"https://ref.ly/Hag2:17\">HAG 2:17</a></p>\n<h2>Deliverance from blight</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs8:37-1Kgs8:39\">1KI 8:37–8:39</a></strong> parallel <a href=\"https://ref.ly/2Chr6:28-2Chr6:30\">2CH 6:28–6:30</a></p>\n<h2>Blight as a symbol of sorrow</h2>\n<p><strong><a href=\"https://ref.ly/Ps102:4\">PSA 102:4</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05028022",
+"start_ref_usfm": "DEU 28:22",
+"end_ref": "05028022",
+"end_ref_usfm": "DEU 28:22"
+},
+{
+"start_ref": "28009016",
+"start_ref_usfm": "HOS 9:16",
+"end_ref": "28009016",
+"end_ref_usfm": "HOS 9:16"
+},
+{
+"start_ref": "30004009",
+"start_ref_usfm": "AMO 4:9",
+"end_ref": "30004009",
+"end_ref_usfm": "AMO 4:9"
+},
+{
+"start_ref": "37002017",
+"start_ref_usfm": "HAG 2:17",
+"end_ref": "37002017",
+"end_ref_usfm": "HAG 2:17"
+},
+{
+"start_ref": "11008037",
+"start_ref_usfm": "1KI 8:37",
+"end_ref": "11008039",
+"end_ref_usfm": "1KI 8:39"
+},
+{
+"start_ref": "14006028",
+"start_ref_usfm": "2CH 6:28",
+"end_ref": "14006030",
+"end_ref_usfm": "2CH 6:30"
+},
+{
+"start_ref": "19102004",
+"start_ref_usfm": "PSA 102:4",
+"end_ref": "19102004",
+"end_ref_usfm": "PSA 102:4"
+}
+],
+"resource": [
+{
+"reference_id": "4430",
+"content_id": "4430",
+"resource_code": "DictionaryBibleThemes",
+"label": "4430: crops",
+"language": "eng"
+},
+{
+"reference_id": "4468",
+"content_id": "4468",
+"resource_code": "DictionaryBibleThemes",
+"label": "4468: horticulture",
+"language": "eng"
+},
+{
+"reference_id": "4839",
+"content_id": "4839",
+"resource_code": "DictionaryBibleThemes",
+"label": "4839: mildew",
+"language": "eng"
+},
+{
+"reference_id": "5297",
+"content_id": "5297",
+"resource_code": "DictionaryBibleThemes",
+"label": "5297: disease",
+"language": "eng"
+},
+{
+"reference_id": "5484",
+"content_id": "5484",
+"resource_code": "DictionaryBibleThemes",
+"label": "5484: punishment, by God",
+"language": "eng"
+},
+{
+"reference_id": "5568",
+"content_id": "5568",
+"resource_code": "DictionaryBibleThemes",
+"label": "5568: suffering, causes of",
+"language": "eng"
+},
+{
+"reference_id": "5952",
+"content_id": "5952",
+"resource_code": "DictionaryBibleThemes",
+"label": "5952: sorrow",
+"language": "eng"
+},
+{
+"reference_id": "6223",
+"content_id": "6223",
+"resource_code": "DictionaryBibleThemes",
+"label": "6223: rebellion, of Israel",
+"language": "eng"
+},
+{
+"reference_id": "8256",
+"content_id": "8256",
+"resource_code": "DictionaryBibleThemes",
+"label": "8256: fruitfulness",
+"language": "eng"
+}
+]
+}
+}
+]

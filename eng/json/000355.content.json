@@ -1,0 +1,39 @@
+[
+{
+"content_id": "4206",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4206: land",
+"media_type": "Text",
+"index_reference": "4206: land",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Areas of territory, the possession of which was regarded as a sign of security and prosperity. The land of Israel was regarded as the land promised by God to his people and a sign of his covenant faithfulness.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4207",
+"content_id": "4207",
+"resource_code": "DictionaryBibleThemes",
+"label": "4207: land, as a divine gift",
+"language": "eng"
+},
+{
+"reference_id": "4208",
+"content_id": "4208",
+"resource_code": "DictionaryBibleThemes",
+"label": "4208: land, as a divine responsibility",
+"language": "eng"
+},
+{
+"reference_id": "4209",
+"content_id": "4209",
+"resource_code": "DictionaryBibleThemes",
+"label": "4209: land, spiritual aspects of",
+"language": "eng"
+}
+]
+}
+}
+]

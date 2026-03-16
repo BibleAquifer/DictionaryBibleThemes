@@ -1,0 +1,178 @@
+[
+{
+"content_id": "4808",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4808: crimson",
+"media_type": "Text",
+"index_reference": "4808: crimson",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A deep red colour used interchangeably with scarlet and sometimes with purple. It has associations with blood and richness.</p>\n<h2>The richness of crimson used for ornamentation</h2>\n<p><strong><a href=\"https://ref.ly/Exod25:3-Exod25:4\">EXO 25:3–25:4</a>, <a href=\"https://ref.ly/Exod28:6\">EXO 28:6</a></strong> <em>It was used extensively in the construction of the tabernacle</em>; <strong><a href=\"https://ref.ly/2Chr2:7\">2CH 2:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr2:14\">2CH 2:14</a>, <a href=\"https://ref.ly/2Chr3:14\">2CH 3:14</a></p>\n<h2>Crimson associated with splendour and prosperity</h2>\n<p><strong><a href=\"https://ref.ly/2Sam1:24\">2SA 1:24</a></strong>; <strong><a href=\"https://ref.ly/Rev18:16\">REV 18:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov31:21\">PRO 31:21</a>; <a href=\"https://ref.ly/Jer4:30\">JER 4:30</a>; <a href=\"https://ref.ly/Nah2:3\">NAM 2:3</a>; <a href=\"https://ref.ly/Matt27:28\">MAT 27:28</a> parallel <a href=\"https://ref.ly/Mark15:17\">MRK 15:17</a>; <a href=\"https://ref.ly/Rev18:12\">REV 18:12</a></p>\n<h2>Crimson associated with blood and sin</h2>\n<p><strong><a href=\"https://ref.ly/Isa1:18\">ISA 1:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev14:3-Lev14:6\">LEV 14:3–14:6</a>, <a href=\"https://ref.ly/Lev14:49-Lev14:53\">LEV 14:49–14:53</a>; <a href=\"https://ref.ly/Num19:6\">NUM 19:6</a>; <a href=\"https://ref.ly/Isa63:1-Isa63:3\">ISA 63:1–63:3</a>; <a href=\"https://ref.ly/Heb9:19\">HEB 9:19</a>; <a href=\"https://ref.ly/Rev17:3-Rev17:4\">REV 17:3–17:4</a></p>\n<h2>Everyday use of the colour crimson</h2>\n<p><a href=\"https://ref.ly/Gen38:28\">GEN 38:28</a>; ; <a href=\"https://ref.ly/Josh2:17-Josh2:18\">JOS 2:17–2:18</a>; ; <a href=\"https://ref.ly/Song4:3\">SNG 4:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02025003",
+"start_ref_usfm": "EXO 25:3",
+"end_ref": "02025004",
+"end_ref_usfm": "EXO 25:4"
+},
+{
+"start_ref": "02028006",
+"start_ref_usfm": "EXO 28:6",
+"end_ref": "02028006",
+"end_ref_usfm": "EXO 28:6"
+},
+{
+"start_ref": "14002007",
+"start_ref_usfm": "2CH 2:7",
+"end_ref": "14002007",
+"end_ref_usfm": "2CH 2:7"
+},
+{
+"start_ref": "14002014",
+"start_ref_usfm": "2CH 2:14",
+"end_ref": "14002014",
+"end_ref_usfm": "2CH 2:14"
+},
+{
+"start_ref": "14003014",
+"start_ref_usfm": "2CH 3:14",
+"end_ref": "14003014",
+"end_ref_usfm": "2CH 3:14"
+},
+{
+"start_ref": "10001024",
+"start_ref_usfm": "2SA 1:24",
+"end_ref": "10001024",
+"end_ref_usfm": "2SA 1:24"
+},
+{
+"start_ref": "66018016",
+"start_ref_usfm": "REV 18:16",
+"end_ref": "66018016",
+"end_ref_usfm": "REV 18:16"
+},
+{
+"start_ref": "20031021",
+"start_ref_usfm": "PRO 31:21",
+"end_ref": "20031021",
+"end_ref_usfm": "PRO 31:21"
+},
+{
+"start_ref": "24004030",
+"start_ref_usfm": "JER 4:30",
+"end_ref": "24004030",
+"end_ref_usfm": "JER 4:30"
+},
+{
+"start_ref": "34002003",
+"start_ref_usfm": "NAM 2:3",
+"end_ref": "34002003",
+"end_ref_usfm": "NAM 2:3"
+},
+{
+"start_ref": "40027028",
+"start_ref_usfm": "MAT 27:28",
+"end_ref": "40027028",
+"end_ref_usfm": "MAT 27:28"
+},
+{
+"start_ref": "41015017",
+"start_ref_usfm": "MRK 15:17",
+"end_ref": "41015017",
+"end_ref_usfm": "MRK 15:17"
+},
+{
+"start_ref": "66018012",
+"start_ref_usfm": "REV 18:12",
+"end_ref": "66018012",
+"end_ref_usfm": "REV 18:12"
+},
+{
+"start_ref": "23001018",
+"start_ref_usfm": "ISA 1:18",
+"end_ref": "23001018",
+"end_ref_usfm": "ISA 1:18"
+},
+{
+"start_ref": "03014003",
+"start_ref_usfm": "LEV 14:3",
+"end_ref": "03014006",
+"end_ref_usfm": "LEV 14:6"
+},
+{
+"start_ref": "03014049",
+"start_ref_usfm": "LEV 14:49",
+"end_ref": "03014053",
+"end_ref_usfm": "LEV 14:53"
+},
+{
+"start_ref": "04019006",
+"start_ref_usfm": "NUM 19:6",
+"end_ref": "04019006",
+"end_ref_usfm": "NUM 19:6"
+},
+{
+"start_ref": "23063001",
+"start_ref_usfm": "ISA 63:1",
+"end_ref": "23063003",
+"end_ref_usfm": "ISA 63:3"
+},
+{
+"start_ref": "58009019",
+"start_ref_usfm": "HEB 9:19",
+"end_ref": "58009019",
+"end_ref_usfm": "HEB 9:19"
+},
+{
+"start_ref": "66017003",
+"start_ref_usfm": "REV 17:3",
+"end_ref": "66017004",
+"end_ref_usfm": "REV 17:4"
+},
+{
+"start_ref": "01038028",
+"start_ref_usfm": "GEN 38:28",
+"end_ref": "01038028",
+"end_ref_usfm": "GEN 38:28"
+},
+{
+"start_ref": "06002017",
+"start_ref_usfm": "JOS 2:17",
+"end_ref": "06002018",
+"end_ref_usfm": "JOS 2:18"
+},
+{
+"start_ref": "22004003",
+"start_ref_usfm": "SNG 4:3",
+"end_ref": "22004003",
+"end_ref_usfm": "SNG 4:3"
+}
+],
+"resource": [
+{
+"reference_id": "4807",
+"content_id": "4807",
+"resource_code": "DictionaryBibleThemes",
+"label": "4807: colours",
+"language": "eng"
+},
+{
+"reference_id": "5258",
+"content_id": "5258",
+"resource_code": "DictionaryBibleThemes",
+"label": "5258: cloth",
+"language": "eng"
+},
+{
+"reference_id": "7459",
+"content_id": "7459",
+"resource_code": "DictionaryBibleThemes",
+"label": "7459: tabernacle, in OT",
+"language": "eng"
+}
+]
+}
+}
+]

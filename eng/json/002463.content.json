@@ -1,0 +1,175 @@
+[
+{
+"content_id": "8847",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8847: vulgarity",
+"media_type": "Text",
+"index_reference": "8847: vulgarity",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Believers are to avoid vulgar intentions</h2>\n<h3>The men of Sodom had vulgar intentions</h3>\n<p><a href=\"https://ref.ly/Gen19:5\">GEN 19:5</a></p>\n<h3>They were judged by God</h3>\n<p><a href=\"https://ref.ly/Gen19:24-Gen19:25\">GEN 19:24–19:25</a>; ; <a href=\"https://ref.ly/2Pet2:6-2Pet2:7\">2PE 2:6–2:7</a>; ; <a href=\"https://ref.ly/Jude1:7\">JUD 1:7</a></p>\n<h3>The men of Gibeah had vulgar intentions</h3>\n<p><a href=\"https://ref.ly/Judg19:22\">JDG 19:22</a>, <a href=\"https://ref.ly/Judg19:25\">JDG 19:25</a></p>\n<h3>They were punished by the Israelites</h3>\n<p><a href=\"https://ref.ly/Judg20:4-Judg20:7\">JDG 20:4–20:7</a>, <a href=\"https://ref.ly/Judg20:33-Judg20:36\">JDG 20:33–20:36</a>, <a href=\"https://ref.ly/Judg20:48\">JDG 20:48</a></p>\n<h3>Such vulgarity is condemned by God</h3>\n<p><a href=\"https://ref.ly/Lev18:22\">LEV 18:22</a>; ; <a href=\"https://ref.ly/Rom1:24-Rom1:28\">ROM 1:24–1:28</a></p>\n<h2>Paul warns against vulgar speech</h2>\n<p><a href=\"https://ref.ly/Eph4:29\">EPH 4:29</a>, <a href=\"https://ref.ly/Eph5:4\">EPH 5:4</a>; ; <a href=\"https://ref.ly/Col3:8\">COL 3:8</a></p>\n<h2>Believers are to avoid vulgar actions</h2>\n<h3>Noah got drunk and exposed himself</h3>\n<p><a href=\"https://ref.ly/Gen9:21-Gen9:22\">GEN 9:21–9:22</a></p>\n<h3>Lot's daughters became pregnant by their father</h3>\n<p><a href=\"https://ref.ly/Gen19:31-Gen19:36\">GEN 19:31–19:36</a></p>\n<h2>Some converts led vulgar and depraved lives before conversion</h2>\n<p><a href=\"https://ref.ly/1Cor6:9-1Cor6:11\">1CO 6:9–6:11</a></p>\n<h2>The Cretans had a reputation for vulgarity</h2>\n<p><a href=\"https://ref.ly/Titus1:12\">TIT 1:12</a>, <a href=\"https://ref.ly/Titus1:15-Titus1:16\">TIT 1:15–1:16</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01019005",
+"start_ref_usfm": "GEN 19:5",
+"end_ref": "01019005",
+"end_ref_usfm": "GEN 19:5"
+},
+{
+"start_ref": "01019024",
+"start_ref_usfm": "GEN 19:24",
+"end_ref": "01019025",
+"end_ref_usfm": "GEN 19:25"
+},
+{
+"start_ref": "61002006",
+"start_ref_usfm": "2PE 2:6",
+"end_ref": "61002007",
+"end_ref_usfm": "2PE 2:7"
+},
+{
+"start_ref": "65001007",
+"start_ref_usfm": "JUD 1:7",
+"end_ref": "65001007",
+"end_ref_usfm": "JUD 1:7"
+},
+{
+"start_ref": "07019022",
+"start_ref_usfm": "JDG 19:22",
+"end_ref": "07019022",
+"end_ref_usfm": "JDG 19:22"
+},
+{
+"start_ref": "07019025",
+"start_ref_usfm": "JDG 19:25",
+"end_ref": "07019025",
+"end_ref_usfm": "JDG 19:25"
+},
+{
+"start_ref": "07020004",
+"start_ref_usfm": "JDG 20:4",
+"end_ref": "07020007",
+"end_ref_usfm": "JDG 20:7"
+},
+{
+"start_ref": "07020033",
+"start_ref_usfm": "JDG 20:33",
+"end_ref": "07020036",
+"end_ref_usfm": "JDG 20:36"
+},
+{
+"start_ref": "07020048",
+"start_ref_usfm": "JDG 20:48",
+"end_ref": "07020048",
+"end_ref_usfm": "JDG 20:48"
+},
+{
+"start_ref": "03018022",
+"start_ref_usfm": "LEV 18:22",
+"end_ref": "03018022",
+"end_ref_usfm": "LEV 18:22"
+},
+{
+"start_ref": "45001024",
+"start_ref_usfm": "ROM 1:24",
+"end_ref": "45001028",
+"end_ref_usfm": "ROM 1:28"
+},
+{
+"start_ref": "49004029",
+"start_ref_usfm": "EPH 4:29",
+"end_ref": "49004029",
+"end_ref_usfm": "EPH 4:29"
+},
+{
+"start_ref": "49005004",
+"start_ref_usfm": "EPH 5:4",
+"end_ref": "49005004",
+"end_ref_usfm": "EPH 5:4"
+},
+{
+"start_ref": "51003008",
+"start_ref_usfm": "COL 3:8",
+"end_ref": "51003008",
+"end_ref_usfm": "COL 3:8"
+},
+{
+"start_ref": "01009021",
+"start_ref_usfm": "GEN 9:21",
+"end_ref": "01009022",
+"end_ref_usfm": "GEN 9:22"
+},
+{
+"start_ref": "01019031",
+"start_ref_usfm": "GEN 19:31",
+"end_ref": "01019036",
+"end_ref_usfm": "GEN 19:36"
+},
+{
+"start_ref": "46006009",
+"start_ref_usfm": "1CO 6:9",
+"end_ref": "46006011",
+"end_ref_usfm": "1CO 6:11"
+},
+{
+"start_ref": "56001012",
+"start_ref_usfm": "TIT 1:12",
+"end_ref": "56001012",
+"end_ref_usfm": "TIT 1:12"
+},
+{
+"start_ref": "56001015",
+"start_ref_usfm": "TIT 1:15",
+"end_ref": "56001016",
+"end_ref_usfm": "TIT 1:16"
+}
+],
+"resource": [
+{
+"reference_id": "4435",
+"content_id": "4435",
+"resource_code": "DictionaryBibleThemes",
+"label": "4435: drinking",
+"language": "eng"
+},
+{
+"reference_id": "5546",
+"content_id": "5546",
+"resource_code": "DictionaryBibleThemes",
+"label": "5546: speech",
+"language": "eng"
+},
+{
+"reference_id": "6188",
+"content_id": "6188",
+"resource_code": "DictionaryBibleThemes",
+"label": "6188: immorality, nature of sexual",
+"language": "eng"
+},
+{
+"reference_id": "6237",
+"content_id": "6237",
+"resource_code": "DictionaryBibleThemes",
+"label": "6237: sexual sin, nature of",
+"language": "eng"
+},
+{
+"reference_id": "6238",
+"content_id": "6238",
+"resource_code": "DictionaryBibleThemes",
+"label": "6238: homosexuality",
+"language": "eng"
+},
+{
+"reference_id": "8308",
+"content_id": "8308",
+"resource_code": "DictionaryBibleThemes",
+"label": "8308: modesty",
+"language": "eng"
+}
+]
+}
+}
+]

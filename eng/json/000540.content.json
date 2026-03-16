@@ -1,0 +1,187 @@
+[
+{
+"content_id": "4813",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4813: depth",
+"media_type": "Text",
+"index_reference": "4813: depth",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Depth as a literal measurement</h2>\n<p><strong><a href=\"https://ref.ly/Gen7:20\">GEN 7:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs7:31\">1KI 7:31</a>, <a href=\"https://ref.ly/1Kgs7:35\">1KI 7:35</a>; <a href=\"https://ref.ly/Ezek40:6\">EZK 40:6</a>, <a href=\"https://ref.ly/Ezek40:9\">EZK 40:9</a>, <a href=\"https://ref.ly/Ezek40:30\">EZK 40:30</a>, <a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a>; <a href=\"https://ref.ly/Acts27:28\">ACT 27:28</a></p>\n<h2>Depth indicating the strength of human emotions</h2>\n<p><strong><a href=\"https://ref.ly/2Cor2:4\">2CO 2:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lam3:60\">LAM 3:60</a></p>\n<h2>Depth as a characteristic of wisdom</h2>\n<p><a href=\"https://ref.ly/Rom11:33\">ROM 11:33</a>; ; <a href=\"https://ref.ly/Phil1:9\">PHP 1:9</a></p>\n<h2>Depth representating the immeasurability of God</h2>\n<p><strong><a href=\"https://ref.ly/Rom11:33\">ROM 11:33</a></strong></p>\n<h2>Depth used to express the love of God</h2>\n<p><strong><a href=\"https://ref.ly/Rom8:38-Rom8:39\">ROM 8:38–8:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph3:16-Eph3:19\">EPH 3:16–3:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01007020",
+"start_ref_usfm": "GEN 7:20",
+"end_ref": "01007020",
+"end_ref_usfm": "GEN 7:20"
+},
+{
+"start_ref": "11007031",
+"start_ref_usfm": "1KI 7:31",
+"end_ref": "11007031",
+"end_ref_usfm": "1KI 7:31"
+},
+{
+"start_ref": "11007035",
+"start_ref_usfm": "1KI 7:35",
+"end_ref": "11007035",
+"end_ref_usfm": "1KI 7:35"
+},
+{
+"start_ref": "26040006",
+"start_ref_usfm": "EZK 40:6",
+"end_ref": "26040006",
+"end_ref_usfm": "EZK 40:6"
+},
+{
+"start_ref": "26040009",
+"start_ref_usfm": "EZK 40:9",
+"end_ref": "26040009",
+"end_ref_usfm": "EZK 40:9"
+},
+{
+"start_ref": "26040030",
+"start_ref_usfm": "EZK 40:30",
+"end_ref": "26040030",
+"end_ref_usfm": "EZK 40:30"
+},
+{
+"start_ref": "26043013",
+"start_ref_usfm": "EZK 43:13",
+"end_ref": "26043013",
+"end_ref_usfm": "EZK 43:13"
+},
+{
+"start_ref": "44027028",
+"start_ref_usfm": "ACT 27:28",
+"end_ref": "44027028",
+"end_ref_usfm": "ACT 27:28"
+},
+{
+"start_ref": "47002004",
+"start_ref_usfm": "2CO 2:4",
+"end_ref": "47002004",
+"end_ref_usfm": "2CO 2:4"
+},
+{
+"start_ref": "25003060",
+"start_ref_usfm": "LAM 3:60",
+"end_ref": "25003060",
+"end_ref_usfm": "LAM 3:60"
+},
+{
+"start_ref": "45011033",
+"start_ref_usfm": "ROM 11:33",
+"end_ref": "45011033",
+"end_ref_usfm": "ROM 11:33"
+},
+{
+"start_ref": "50001009",
+"start_ref_usfm": "PHP 1:9",
+"end_ref": "50001009",
+"end_ref_usfm": "PHP 1:9"
+},
+{
+"start_ref": "45008038",
+"start_ref_usfm": "ROM 8:38",
+"end_ref": "45008039",
+"end_ref_usfm": "ROM 8:39"
+},
+{
+"start_ref": "49003016",
+"start_ref_usfm": "EPH 3:16",
+"end_ref": "49003019",
+"end_ref_usfm": "EPH 3:19"
+}
+],
+"resource": [
+{
+"reference_id": "1085",
+"content_id": "1085",
+"resource_code": "DictionaryBibleThemes",
+"label": "1085: God, love of",
+"language": "eng"
+},
+{
+"reference_id": "1180",
+"content_id": "1180",
+"resource_code": "DictionaryBibleThemes",
+"label": "1180: God, wisdom of",
+"language": "eng"
+},
+{
+"reference_id": "2048",
+"content_id": "2048",
+"resource_code": "DictionaryBibleThemes",
+"label": "2048: Jesus Christ, love of",
+"language": "eng"
+},
+{
+"reference_id": "4227",
+"content_id": "4227",
+"resource_code": "DictionaryBibleThemes",
+"label": "4227: deep, the",
+"language": "eng"
+},
+{
+"reference_id": "4266",
+"content_id": "4266",
+"resource_code": "DictionaryBibleThemes",
+"label": "4266: sea",
+"language": "eng"
+},
+{
+"reference_id": "4803",
+"content_id": "4803",
+"resource_code": "DictionaryBibleThemes",
+"label": "4803: breadth",
+"language": "eng"
+},
+{
+"reference_id": "4830",
+"content_id": "4830",
+"resource_code": "DictionaryBibleThemes",
+"label": "4830: height",
+"language": "eng"
+},
+{
+"reference_id": "4832",
+"content_id": "4832",
+"resource_code": "DictionaryBibleThemes",
+"label": "4832: length",
+"language": "eng"
+},
+{
+"reference_id": "5618",
+"content_id": "5618",
+"resource_code": "DictionaryBibleThemes",
+"label": "5618: weights and measures, linear",
+"language": "eng"
+},
+{
+"reference_id": "5619",
+"content_id": "5619",
+"resource_code": "DictionaryBibleThemes",
+"label": "5619: weights and measures, distance and area",
+"language": "eng"
+},
+{
+"reference_id": "5844",
+"content_id": "5844",
+"resource_code": "DictionaryBibleThemes",
+"label": "5844: emotions",
+"language": "eng"
+},
+{
+"reference_id": "8281",
+"content_id": "8281",
+"resource_code": "DictionaryBibleThemes",
+"label": "8281: insight",
+"language": "eng"
+}
+]
+}
+}
+]

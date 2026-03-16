@@ -1,0 +1,179 @@
+[
+{
+"content_id": "4900",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4900: Time",
+"media_type": "Text",
+"index_reference": "4900: time",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"4903\" data-resourcetype=\"DictionaryOfBibleThemes\">4903: time</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4906\" data-resourcetype=\"DictionaryOfBibleThemes\">4906: abolition</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4909\" data-resourcetype=\"DictionaryOfBibleThemes\">4909: beginning</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4912\" data-resourcetype=\"DictionaryOfBibleThemes\">4912: chance</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4915\" data-resourcetype=\"DictionaryOfBibleThemes\">4915: completion</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4918\" data-resourcetype=\"DictionaryOfBibleThemes\">4918: dawn</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4921\" data-resourcetype=\"DictionaryOfBibleThemes\">4921: day</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4924\" data-resourcetype=\"DictionaryOfBibleThemes\">4924: delay</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4930\" data-resourcetype=\"DictionaryOfBibleThemes\">4930: end</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4933\" data-resourcetype=\"DictionaryOfBibleThemes\">4933: evening</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4936\" data-resourcetype=\"DictionaryOfBibleThemes\">4936: fate</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4942\" data-resourcetype=\"DictionaryOfBibleThemes\">4942: fulness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4945\" data-resourcetype=\"DictionaryOfBibleThemes\">4945: history</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4948\" data-resourcetype=\"DictionaryOfBibleThemes\">4948: hour</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4951\" data-resourcetype=\"DictionaryOfBibleThemes\">4951: month</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4954\" data-resourcetype=\"DictionaryOfBibleThemes\">4954: morning</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4957\" data-resourcetype=\"DictionaryOfBibleThemes\">4957: night</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4960\" data-resourcetype=\"DictionaryOfBibleThemes\">4960: noon</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4963\" data-resourcetype=\"DictionaryOfBibleThemes\">4963: past, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4966\" data-resourcetype=\"DictionaryOfBibleThemes\">4966: present, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4969\" data-resourcetype=\"DictionaryOfBibleThemes\">4969: seasons</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4975\" data-resourcetype=\"DictionaryOfBibleThemes\">4975: week</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4978\" data-resourcetype=\"DictionaryOfBibleThemes\">4978: year</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4903",
+"content_id": "4903",
+"resource_code": "DictionaryBibleThemes",
+"label": "4903: time",
+"language": "eng"
+},
+{
+"reference_id": "4906",
+"content_id": "4906",
+"resource_code": "DictionaryBibleThemes",
+"label": "4906: abolition",
+"language": "eng"
+},
+{
+"reference_id": "4909",
+"content_id": "4909",
+"resource_code": "DictionaryBibleThemes",
+"label": "4909: beginning",
+"language": "eng"
+},
+{
+"reference_id": "4912",
+"content_id": "4912",
+"resource_code": "DictionaryBibleThemes",
+"label": "4912: chance",
+"language": "eng"
+},
+{
+"reference_id": "4915",
+"content_id": "4915",
+"resource_code": "DictionaryBibleThemes",
+"label": "4915: completion",
+"language": "eng"
+},
+{
+"reference_id": "4918",
+"content_id": "4918",
+"resource_code": "DictionaryBibleThemes",
+"label": "4918: dawn",
+"language": "eng"
+},
+{
+"reference_id": "4921",
+"content_id": "4921",
+"resource_code": "DictionaryBibleThemes",
+"label": "4921: day",
+"language": "eng"
+},
+{
+"reference_id": "4924",
+"content_id": "4924",
+"resource_code": "DictionaryBibleThemes",
+"label": "4924: delay",
+"language": "eng"
+},
+{
+"reference_id": "4930",
+"content_id": "4930",
+"resource_code": "DictionaryBibleThemes",
+"label": "4930: end",
+"language": "eng"
+},
+{
+"reference_id": "4933",
+"content_id": "4933",
+"resource_code": "DictionaryBibleThemes",
+"label": "4933: evening",
+"language": "eng"
+},
+{
+"reference_id": "4936",
+"content_id": "4936",
+"resource_code": "DictionaryBibleThemes",
+"label": "4936: fate",
+"language": "eng"
+},
+{
+"reference_id": "4942",
+"content_id": "4942",
+"resource_code": "DictionaryBibleThemes",
+"label": "4942: fulness",
+"language": "eng"
+},
+{
+"reference_id": "4945",
+"content_id": "4945",
+"resource_code": "DictionaryBibleThemes",
+"label": "4945: history",
+"language": "eng"
+},
+{
+"reference_id": "4948",
+"content_id": "4948",
+"resource_code": "DictionaryBibleThemes",
+"label": "4948: hour",
+"language": "eng"
+},
+{
+"reference_id": "4951",
+"content_id": "4951",
+"resource_code": "DictionaryBibleThemes",
+"label": "4951: month",
+"language": "eng"
+},
+{
+"reference_id": "4954",
+"content_id": "4954",
+"resource_code": "DictionaryBibleThemes",
+"label": "4954: morning",
+"language": "eng"
+},
+{
+"reference_id": "4957",
+"content_id": "4957",
+"resource_code": "DictionaryBibleThemes",
+"label": "4957: night",
+"language": "eng"
+},
+{
+"reference_id": "4960",
+"content_id": "4960",
+"resource_code": "DictionaryBibleThemes",
+"label": "4960: noon",
+"language": "eng"
+},
+{
+"reference_id": "4963",
+"content_id": "4963",
+"resource_code": "DictionaryBibleThemes",
+"label": "4963: past, the",
+"language": "eng"
+},
+{
+"reference_id": "4966",
+"content_id": "4966",
+"resource_code": "DictionaryBibleThemes",
+"label": "4966: present, the",
+"language": "eng"
+},
+{
+"reference_id": "4969",
+"content_id": "4969",
+"resource_code": "DictionaryBibleThemes",
+"label": "4969: seasons",
+"language": "eng"
+},
+{
+"reference_id": "4975",
+"content_id": "4975",
+"resource_code": "DictionaryBibleThemes",
+"label": "4975: week",
+"language": "eng"
+},
+{
+"reference_id": "4978",
+"content_id": "4978",
+"resource_code": "DictionaryBibleThemes",
+"label": "4978: year",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,103 @@
+[
+{
+"content_id": "7418",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7418: Purim",
+"media_type": "Text",
+"index_reference": "7418: purim",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A Jewish festival of rejoicing and feasting celebrated in the month of Adar (February-March) commemorating the deliverance of the Jews recorded in the book of Esther.</p>\n<h2>The origins of Purim</h2>\n<h3>Esther's position as queen</h3>\n<p><a href=\"https://ref.ly/Esth4:14\">EST 4:14</a></p>\n<h3>Haman's death</h3>\n<p><a href=\"https://ref.ly/Esth7:10\">EST 7:10</a></p>\n<h3>The right of the Jews to avenge themselves on their enemies</h3>\n<p><a href=\"https://ref.ly/Esth8:11\">EST 8:11</a></p>\n<h3>Explanation of the name</h3>\n<p><strong><a href=\"https://ref.ly/Esth9:26\">EST 9:26</a></strong> <em>The word “pur”, meaning “lots”, relates to the lots cast to determine the time set for the massacre.</em></p>\n<h2>The date for celebrating Purim</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Esth9:17-Esth9:19\">EST 9:17–9:19</a> <em>those living in Susa celebrated on 15th Adar, those in rural towns on 14th</em></p>\n<h2>The establishment of Purim</h2>\n<p><a href=\"https://ref.ly/Esth9:27\">EST 9:27</a>, <a href=\"https://ref.ly/Esth3:7\">EST 3:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "17004014",
+"start_ref_usfm": "EST 4:14",
+"end_ref": "17004014",
+"end_ref_usfm": "EST 4:14"
+},
+{
+"start_ref": "17007010",
+"start_ref_usfm": "EST 7:10",
+"end_ref": "17007010",
+"end_ref_usfm": "EST 7:10"
+},
+{
+"start_ref": "17008011",
+"start_ref_usfm": "EST 8:11",
+"end_ref": "17008011",
+"end_ref_usfm": "EST 8:11"
+},
+{
+"start_ref": "17009026",
+"start_ref_usfm": "EST 9:26",
+"end_ref": "17009026",
+"end_ref_usfm": "EST 9:26"
+},
+{
+"start_ref": "17009017",
+"start_ref_usfm": "EST 9:17",
+"end_ref": "17009019",
+"end_ref_usfm": "EST 9:19"
+},
+{
+"start_ref": "17009027",
+"start_ref_usfm": "EST 9:27",
+"end_ref": "17009027",
+"end_ref_usfm": "EST 9:27"
+},
+{
+"start_ref": "17003007",
+"start_ref_usfm": "EST 3:7",
+"end_ref": "17003007",
+"end_ref_usfm": "EST 3:7"
+}
+],
+"resource": [
+{
+"reference_id": "1355",
+"content_id": "1355",
+"resource_code": "DictionaryBibleThemes",
+"label": "1355: providence",
+"language": "eng"
+},
+{
+"reference_id": "4951",
+"content_id": "4951",
+"resource_code": "DictionaryBibleThemes",
+"label": "4951: month",
+"language": "eng"
+},
+{
+"reference_id": "6634",
+"content_id": "6634",
+"resource_code": "DictionaryBibleThemes",
+"label": "6634: deliverance",
+"language": "eng"
+},
+{
+"reference_id": "7354",
+"content_id": "7354",
+"resource_code": "DictionaryBibleThemes",
+"label": "7354: feasts and festivals",
+"language": "eng"
+},
+{
+"reference_id": "7505",
+"content_id": "7505",
+"resource_code": "DictionaryBibleThemes",
+"label": "7505: Jews, the",
+"language": "eng"
+},
+{
+"reference_id": "8794",
+"content_id": "8794",
+"resource_code": "DictionaryBibleThemes",
+"label": "8794: persecution",
+"language": "eng"
+}
+]
+}
+}
+]

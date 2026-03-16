@@ -1,0 +1,74 @@
+[
+{
+"content_id": "8020",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8020: faith",
+"media_type": "Text",
+"index_reference": "8020: faith",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A constant outlook of trust towards God, whereby human beings abandon all reliance on their own efforts and put their full confidence in him, his word and his promises.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8021",
+"content_id": "8021",
+"resource_code": "DictionaryBibleThemes",
+"label": "8021: faith, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8022",
+"content_id": "8022",
+"resource_code": "DictionaryBibleThemes",
+"label": "8022: faith, as basis of salvation",
+"language": "eng"
+},
+{
+"reference_id": "8023",
+"content_id": "8023",
+"resource_code": "DictionaryBibleThemes",
+"label": "8023: faith, necessity of",
+"language": "eng"
+},
+{
+"reference_id": "8024",
+"content_id": "8024",
+"resource_code": "DictionaryBibleThemes",
+"label": "8024: faith, and blessings of God",
+"language": "eng"
+},
+{
+"reference_id": "8025",
+"content_id": "8025",
+"resource_code": "DictionaryBibleThemes",
+"label": "8025: faith, origins of",
+"language": "eng"
+},
+{
+"reference_id": "8026",
+"content_id": "8026",
+"resource_code": "DictionaryBibleThemes",
+"label": "8026: faith, growth in",
+"language": "eng"
+},
+{
+"reference_id": "8027",
+"content_id": "8027",
+"resource_code": "DictionaryBibleThemes",
+"label": "8027: faith, testing of",
+"language": "eng"
+},
+{
+"reference_id": "8028",
+"content_id": "8028",
+"resource_code": "DictionaryBibleThemes",
+"label": "8028: faith, as a body of beliefs",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,195 @@
+[
+{
+"content_id": "7460",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7460: tabernacle, in NT",
+"media_type": "Text",
+"index_reference": "7460: tabernacle, in nt",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The NT sees the tabernacle and its ceremonies as symbolising the saving work of Jesus Christ in his incarnation and death and in the experience of believers.</p>\n<h2>Jesus Christ as the tabernacle where God dwells</h2>\n<p><strong><a href=\"https://ref.ly/John1:14\">JHN 1:14</a>, <a href=\"https://ref.ly/John2:19-John2:21\">JHN 2:19–2:21</a></strong></p>\n<h2>The tabernacle showed that God was not limited to one place</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Acts7:44-Acts7:47\">ACT 7:44–7:47</a></p>\n<h2>The spiritual significance of the tabernacle</h2>\n<p><a href=\"https://ref.ly/Heb9:1-Heb9:5\">HEB 9:1–9:5</a></p>\n<h2>The earthly tabernacle as a copy of the heavenly one</h2>\n<p><strong><a href=\"https://ref.ly/Heb8:5\">HEB 8:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb8:1-Heb8:2\">HEB 8:1–8:2</a></p>\n<h3>The altar</h3>\n<p><a href=\"https://ref.ly/Rev6:9-Rev6:10\">REV 6:9–6:10</a>, <a href=\"https://ref.ly/Rev8:3-Rev8:5\">REV 8:3–8:5</a></p>\n<h3>The ark of the covenant</h3>\n<p><a href=\"https://ref.ly/Rev11:19\">REV 11:19</a></p>\n<h3>The atonement cover</h3>\n<p><a href=\"https://ref.ly/Exod25:22\">EXO 25:22</a>; ; <a href=\"https://ref.ly/Heb4:16\">HEB 4:16</a></p>\n<h3>The curtain preventing access to the holiest place</h3>\n<p><a href=\"https://ref.ly/Matt27:51\">MAT 27:51</a>; ; <a href=\"https://ref.ly/Heb6:19-Heb6:20\">HEB 6:19–6:20</a>, <a href=\"https://ref.ly/Heb9:8\">HEB 9:8</a>, <a href=\"https://ref.ly/Heb10:19-Heb10:20\">HEB 10:19–10:20</a></p>\n<h2>Jesus Christ as high priest</h2>\n<h3>Cleansing the earthly tabernacle</h3>\n<p><strong><a href=\"https://ref.ly/Heb9:21\">HEB 9:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb9:6-Heb9:8\">HEB 9:6–9:8</a> <em>on the Day of Atonement</em>; <a href=\"https://ref.ly/Heb9:25\">HEB 9:25</a></p>\n<h3>Through the blood of the cross, Jesus Christ enters the heavenly sanctuary</h3>\n<p><strong><a href=\"https://ref.ly/Heb9:24\">HEB 9:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb9:28\">HEB 9:28</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "43001014",
+"start_ref_usfm": "JHN 1:14",
+"end_ref": "43001014",
+"end_ref_usfm": "JHN 1:14"
+},
+{
+"start_ref": "43002019",
+"start_ref_usfm": "JHN 2:19",
+"end_ref": "43002021",
+"end_ref_usfm": "JHN 2:21"
+},
+{
+"start_ref": "44007044",
+"start_ref_usfm": "ACT 7:44",
+"end_ref": "44007047",
+"end_ref_usfm": "ACT 7:47"
+},
+{
+"start_ref": "58009001",
+"start_ref_usfm": "HEB 9:1",
+"end_ref": "58009005",
+"end_ref_usfm": "HEB 9:5"
+},
+{
+"start_ref": "58008005",
+"start_ref_usfm": "HEB 8:5",
+"end_ref": "58008005",
+"end_ref_usfm": "HEB 8:5"
+},
+{
+"start_ref": "58008001",
+"start_ref_usfm": "HEB 8:1",
+"end_ref": "58008002",
+"end_ref_usfm": "HEB 8:2"
+},
+{
+"start_ref": "66006009",
+"start_ref_usfm": "REV 6:9",
+"end_ref": "66006010",
+"end_ref_usfm": "REV 6:10"
+},
+{
+"start_ref": "66008003",
+"start_ref_usfm": "REV 8:3",
+"end_ref": "66008005",
+"end_ref_usfm": "REV 8:5"
+},
+{
+"start_ref": "66011019",
+"start_ref_usfm": "REV 11:19",
+"end_ref": "66011019",
+"end_ref_usfm": "REV 11:19"
+},
+{
+"start_ref": "02025022",
+"start_ref_usfm": "EXO 25:22",
+"end_ref": "02025022",
+"end_ref_usfm": "EXO 25:22"
+},
+{
+"start_ref": "58004016",
+"start_ref_usfm": "HEB 4:16",
+"end_ref": "58004016",
+"end_ref_usfm": "HEB 4:16"
+},
+{
+"start_ref": "40027051",
+"start_ref_usfm": "MAT 27:51",
+"end_ref": "40027051",
+"end_ref_usfm": "MAT 27:51"
+},
+{
+"start_ref": "58006019",
+"start_ref_usfm": "HEB 6:19",
+"end_ref": "58006020",
+"end_ref_usfm": "HEB 6:20"
+},
+{
+"start_ref": "58009008",
+"start_ref_usfm": "HEB 9:8",
+"end_ref": "58009008",
+"end_ref_usfm": "HEB 9:8"
+},
+{
+"start_ref": "58010019",
+"start_ref_usfm": "HEB 10:19",
+"end_ref": "58010020",
+"end_ref_usfm": "HEB 10:20"
+},
+{
+"start_ref": "58009021",
+"start_ref_usfm": "HEB 9:21",
+"end_ref": "58009021",
+"end_ref_usfm": "HEB 9:21"
+},
+{
+"start_ref": "58009006",
+"start_ref_usfm": "HEB 9:6",
+"end_ref": "58009008",
+"end_ref_usfm": "HEB 9:8"
+},
+{
+"start_ref": "58009025",
+"start_ref_usfm": "HEB 9:25",
+"end_ref": "58009025",
+"end_ref_usfm": "HEB 9:25"
+},
+{
+"start_ref": "58009024",
+"start_ref_usfm": "HEB 9:24",
+"end_ref": "58009024",
+"end_ref_usfm": "HEB 9:24"
+},
+{
+"start_ref": "58009028",
+"start_ref_usfm": "HEB 9:28",
+"end_ref": "58009028",
+"end_ref_usfm": "HEB 9:28"
+}
+],
+"resource": [
+{
+"reference_id": "1680",
+"content_id": "1680",
+"resource_code": "DictionaryBibleThemes",
+"label": "1680: types",
+"language": "eng"
+},
+{
+"reference_id": "2306",
+"content_id": "2306",
+"resource_code": "DictionaryBibleThemes",
+"label": "2306: Jesus Christ, as high priest",
+"language": "eng"
+},
+{
+"reference_id": "7020",
+"content_id": "7020",
+"resource_code": "DictionaryBibleThemes",
+"label": "7020: church, the",
+"language": "eng"
+},
+{
+"reference_id": "7344",
+"content_id": "7344",
+"resource_code": "DictionaryBibleThemes",
+"label": "7344: curtain",
+"language": "eng"
+},
+{
+"reference_id": "7376",
+"content_id": "7376",
+"resource_code": "DictionaryBibleThemes",
+"label": "7376: high priest",
+"language": "eng"
+},
+{
+"reference_id": "7438",
+"content_id": "7438",
+"resource_code": "DictionaryBibleThemes",
+"label": "7438: sanctuary",
+"language": "eng"
+},
+{
+"reference_id": "7469",
+"content_id": "7469",
+"resource_code": "DictionaryBibleThemes",
+"label": "7469: temple, Herod's",
+"language": "eng"
+},
+{
+"reference_id": "8622",
+"content_id": "8622",
+"resource_code": "DictionaryBibleThemes",
+"label": "8622: worship",
+"language": "eng"
+}
+]
+}
+}
+]

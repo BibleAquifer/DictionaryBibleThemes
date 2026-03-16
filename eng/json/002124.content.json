@@ -1,0 +1,88 @@
+[
+{
+"content_id": "8292",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8292: love",
+"media_type": "Text",
+"index_reference": "8292: love",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A caring commitment, in which affection and delight are shown to others, which is grounded in the nature of God himself. In his words and actions, and supremely in the death of Jesus Christ on the cross, God demonstrates the nature of love and defines the direction in which human love in all its forms should develop.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8293",
+"content_id": "8293",
+"resource_code": "DictionaryBibleThemes",
+"label": "8293: love, of God",
+"language": "eng"
+},
+{
+"reference_id": "8294",
+"content_id": "8294",
+"resource_code": "DictionaryBibleThemes",
+"label": "8294: love, and Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "8295",
+"content_id": "8295",
+"resource_code": "DictionaryBibleThemes",
+"label": "8295: love, and Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "8296",
+"content_id": "8296",
+"resource_code": "DictionaryBibleThemes",
+"label": "8296: love, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8297",
+"content_id": "8297",
+"resource_code": "DictionaryBibleThemes",
+"label": "8297: love, for God",
+"language": "eng"
+},
+{
+"reference_id": "8298",
+"content_id": "8298",
+"resource_code": "DictionaryBibleThemes",
+"label": "8298: love, for one another",
+"language": "eng"
+},
+{
+"reference_id": "8299",
+"content_id": "8299",
+"resource_code": "DictionaryBibleThemes",
+"label": "8299: love, in relationships",
+"language": "eng"
+},
+{
+"reference_id": "8300",
+"content_id": "8300",
+"resource_code": "DictionaryBibleThemes",
+"label": "8300: love, and the world",
+"language": "eng"
+},
+{
+"reference_id": "8301",
+"content_id": "8301",
+"resource_code": "DictionaryBibleThemes",
+"label": "8301: love, and enemies",
+"language": "eng"
+},
+{
+"reference_id": "8302",
+"content_id": "8302",
+"resource_code": "DictionaryBibleThemes",
+"label": "8302: love, abuse of",
+"language": "eng"
+}
+]
+}
+}
+]

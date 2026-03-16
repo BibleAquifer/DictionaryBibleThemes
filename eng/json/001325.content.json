@@ -1,0 +1,239 @@
+[
+{
+"content_id": "5803",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5803: carelessness",
+"media_type": "Text",
+"index_reference": "5803: carelessness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A lack of attention to one's thoughts and deeds, or a failure to give adequate thought to the consequences of one's actions, often leading to distressing results.</p>\n<h2>Carelessness in speech</h2>\n<p><strong><a href=\"https://ref.ly/Lev5:4\">LEV 5:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov20:25\">PRO 20:25</a>; <a href=\"https://ref.ly/Eccl5:2\">ECC 5:2</a>, <a href=\"https://ref.ly/Eccl5:6\">ECC 5:6</a>; <a href=\"https://ref.ly/Matt12:36\">MAT 12:36</a></p>\n<h2>Warnings against carelessness in actions</h2>\n<p><strong><a href=\"https://ref.ly/Exod21:33-Exod21:34\">EXO 21:33–21:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod21:22-Exod21:25\">EXO 21:22–21:25</a>, <a href=\"https://ref.ly/Exod21:28-Exod21:29\">EXO 21:28–21:29</a>, <a href=\"https://ref.ly/Exod21:35-Exod21:36\">EXO 21:35–21:36</a>, <a href=\"https://ref.ly/Exod22:5\">EXO 22:5</a>; <a href=\"https://ref.ly/Lev5:2-Lev5:3\">LEV 5:2–5:3</a>; <a href=\"https://ref.ly/Num35:22-Num35:24\">NUM 35:22–35:24</a></p>\n<h2>Unintentional sins resulting from carelessness</h2>\n<h3>By the nation</h3>\n<p><strong><a href=\"https://ref.ly/Lev4:13\">LEV 4:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num15:22-Num15:26\">NUM 15:22–15:26</a></p>\n<h3>By an individual</h3>\n<p><strong><a href=\"https://ref.ly/Lev4:27\">LEV 4:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev4:2-Lev4:3\">LEV 4:2–4:3</a>, <a href=\"https://ref.ly/Lev4:22-Lev4:23\">LEV 4:22–4:23</a>; <a href=\"https://ref.ly/Num15:27-Num15:28\">NUM 15:27–15:28</a>, <a href=\"https://ref.ly/Num35:22-Num35:24\">NUM 35:22–35:24</a></p>\n<h2>Examples of carelessness</h2>\n<h3>Careless speech</h3>\n<p><strong><a href=\"https://ref.ly/Judg11:30-Judg11:35\">JDG 11:30–11:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen25:29-Gen25:34\">GEN 25:29–25:34</a>; <a href=\"https://ref.ly/Matt14:6-Matt14:11\">MAT 14:6–14:11</a> parallel <a href=\"https://ref.ly/Mark6:21-Mark6:28\">MRK 6:21–6:28</a></p>\n<h3>Careless actions and omissions</h3>\n<p><strong><a href=\"https://ref.ly/Matt7:26-Matt7:27\">MAT 7:26–7:27</a></strong> parallel <a href=\"https://ref.ly/Luke6:49\">LUK 6:49</a> <em>See also</em> <a href=\"https://ref.ly/Matt25:1-Matt25:13\">MAT 25:1–25:13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03005004",
+"start_ref_usfm": "LEV 5:4",
+"end_ref": "03005004",
+"end_ref_usfm": "LEV 5:4"
+},
+{
+"start_ref": "20020025",
+"start_ref_usfm": "PRO 20:25",
+"end_ref": "20020025",
+"end_ref_usfm": "PRO 20:25"
+},
+{
+"start_ref": "21005002",
+"start_ref_usfm": "ECC 5:2",
+"end_ref": "21005002",
+"end_ref_usfm": "ECC 5:2"
+},
+{
+"start_ref": "21005006",
+"start_ref_usfm": "ECC 5:6",
+"end_ref": "21005006",
+"end_ref_usfm": "ECC 5:6"
+},
+{
+"start_ref": "40012036",
+"start_ref_usfm": "MAT 12:36",
+"end_ref": "40012036",
+"end_ref_usfm": "MAT 12:36"
+},
+{
+"start_ref": "02021033",
+"start_ref_usfm": "EXO 21:33",
+"end_ref": "02021034",
+"end_ref_usfm": "EXO 21:34"
+},
+{
+"start_ref": "02021022",
+"start_ref_usfm": "EXO 21:22",
+"end_ref": "02021025",
+"end_ref_usfm": "EXO 21:25"
+},
+{
+"start_ref": "02021028",
+"start_ref_usfm": "EXO 21:28",
+"end_ref": "02021029",
+"end_ref_usfm": "EXO 21:29"
+},
+{
+"start_ref": "02021035",
+"start_ref_usfm": "EXO 21:35",
+"end_ref": "02021036",
+"end_ref_usfm": "EXO 21:36"
+},
+{
+"start_ref": "02022005",
+"start_ref_usfm": "EXO 22:5",
+"end_ref": "02022005",
+"end_ref_usfm": "EXO 22:5"
+},
+{
+"start_ref": "03005002",
+"start_ref_usfm": "LEV 5:2",
+"end_ref": "03005003",
+"end_ref_usfm": "LEV 5:3"
+},
+{
+"start_ref": "04035022",
+"start_ref_usfm": "NUM 35:22",
+"end_ref": "04035024",
+"end_ref_usfm": "NUM 35:24"
+},
+{
+"start_ref": "03004013",
+"start_ref_usfm": "LEV 4:13",
+"end_ref": "03004013",
+"end_ref_usfm": "LEV 4:13"
+},
+{
+"start_ref": "04015022",
+"start_ref_usfm": "NUM 15:22",
+"end_ref": "04015026",
+"end_ref_usfm": "NUM 15:26"
+},
+{
+"start_ref": "03004027",
+"start_ref_usfm": "LEV 4:27",
+"end_ref": "03004027",
+"end_ref_usfm": "LEV 4:27"
+},
+{
+"start_ref": "03004002",
+"start_ref_usfm": "LEV 4:2",
+"end_ref": "03004003",
+"end_ref_usfm": "LEV 4:3"
+},
+{
+"start_ref": "03004022",
+"start_ref_usfm": "LEV 4:22",
+"end_ref": "03004023",
+"end_ref_usfm": "LEV 4:23"
+},
+{
+"start_ref": "04015027",
+"start_ref_usfm": "NUM 15:27",
+"end_ref": "04015028",
+"end_ref_usfm": "NUM 15:28"
+},
+{
+"start_ref": "07011030",
+"start_ref_usfm": "JDG 11:30",
+"end_ref": "07011035",
+"end_ref_usfm": "JDG 11:35"
+},
+{
+"start_ref": "01025029",
+"start_ref_usfm": "GEN 25:29",
+"end_ref": "01025034",
+"end_ref_usfm": "GEN 25:34"
+},
+{
+"start_ref": "40014006",
+"start_ref_usfm": "MAT 14:6",
+"end_ref": "40014011",
+"end_ref_usfm": "MAT 14:11"
+},
+{
+"start_ref": "41006021",
+"start_ref_usfm": "MRK 6:21",
+"end_ref": "41006028",
+"end_ref_usfm": "MRK 6:28"
+},
+{
+"start_ref": "40007026",
+"start_ref_usfm": "MAT 7:26",
+"end_ref": "40007027",
+"end_ref_usfm": "MAT 7:27"
+},
+{
+"start_ref": "42006049",
+"start_ref_usfm": "LUK 6:49",
+"end_ref": "42006049",
+"end_ref_usfm": "LUK 6:49"
+},
+{
+"start_ref": "40025001",
+"start_ref_usfm": "MAT 25:1",
+"end_ref": "40025013",
+"end_ref_usfm": "MAT 25:13"
+}
+],
+"resource": [
+{
+"reference_id": "5025",
+"content_id": "5025",
+"resource_code": "DictionaryBibleThemes",
+"label": "5025: killing",
+"language": "eng"
+},
+{
+"reference_id": "5430",
+"content_id": "5430",
+"resource_code": "DictionaryBibleThemes",
+"label": "5430: oaths, human",
+"language": "eng"
+},
+{
+"reference_id": "5444",
+"content_id": "5444",
+"resource_code": "DictionaryBibleThemes",
+"label": "5444: pledges",
+"language": "eng"
+},
+{
+"reference_id": "5575",
+"content_id": "5575",
+"resource_code": "DictionaryBibleThemes",
+"label": "5575: talk, idle",
+"language": "eng"
+},
+{
+"reference_id": "5741",
+"content_id": "5741",
+"resource_code": "DictionaryBibleThemes",
+"label": "5741: vows",
+"language": "eng"
+},
+{
+"reference_id": "5802",
+"content_id": "5802",
+"resource_code": "DictionaryBibleThemes",
+"label": "5802: care",
+"language": "eng"
+},
+{
+"reference_id": "5810",
+"content_id": "5810",
+"resource_code": "DictionaryBibleThemes",
+"label": "5810: complacency",
+"language": "eng"
+},
+{
+"reference_id": "5925",
+"content_id": "5925",
+"resource_code": "DictionaryBibleThemes",
+"label": "5925: rashness",
+"language": "eng"
+},
+{
+"reference_id": "8755",
+"content_id": "8755",
+"resource_code": "DictionaryBibleThemes",
+"label": "8755: folly",
+"language": "eng"
+},
+{
+"reference_id": "8783",
+"content_id": "8783",
+"resource_code": "DictionaryBibleThemes",
+"label": "8783: neglect",
+"language": "eng"
+}
+]
+}
+}
+]

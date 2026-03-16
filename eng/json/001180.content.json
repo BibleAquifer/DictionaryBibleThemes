@@ -1,0 +1,142 @@
+[
+{
+"content_id": "5617",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5617: weights and measures, liquid",
+"media_type": "Text",
+"index_reference": "5617: weights and measures, liquid",
+"language": "eng",
+"review_level": "None",
+"content": "<p>These terms derive originally from the containers used, which held a fixed amount. There is some uncertainty about the capacity of the bath, and therefore of other liquid measures dependent upon it. Measures are given in ascending order, with their approximate imperial and metric equivalents.</p>\n<h2>Log (1/72 bath): about 1/2 pint (about 0.3 litre)</h2>\n<p><strong><a href=\"https://ref.ly/Lev14:10\">LEV 14:10</a></strong> <em>This is the only mention in Scripture of the log, as a measure of oil used in the ritual for cleansing infectious skin diseases.</em> <em>See also</em> <a href=\"https://ref.ly/Lev14:12-Lev14:18\">LEV 14:12–14:18</a>, <a href=\"https://ref.ly/Lev14:21-Lev14:22\">LEV 14:21–14:22</a></p>\n<h2>Hin (1/6 bath): about 7 pints (about 4 litres)</h2>\n<p><strong><a href=\"https://ref.ly/Exod29:38-Exod29:41\">EXO 29:38–29:41</a></strong> <em>The hin was used as a measure of oil, wine and water.</em> <em>See also</em> <a href=\"https://ref.ly/Lev23:12-Lev23:13\">LEV 23:12–23:13</a>; <a href=\"https://ref.ly/Num15:4-Num15:10\">NUM 15:4–15:10</a>; <a href=\"https://ref.ly/Ezek4:11\">EZK 4:11</a>, <a href=\"https://ref.ly/Ezek46:5-Ezek46:7\">EZK 46:5–46:7</a></p>\n<h2>Bath (1 ephah): about 5 gallons (about 22 litres)</h2>\n<p><strong><a href=\"https://ref.ly/Ezek45:11\">EZK 45:11</a></strong> <em>The bath was the equivalent liquid measure of the ephah, and was used to measure oil, wine and water.</em> <em>See also</em> <a href=\"https://ref.ly/1Kgs5:11\">1KI 5:11</a>, <a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a>; <a href=\"https://ref.ly/2Chr2:10\">2CH 2:10</a>; <a href=\"https://ref.ly/Ezra7:21-Ezra7:22\">EZR 7:21–7:22</a>; <a href=\"https://ref.ly/Isa5:10\">ISA 5:10</a>; <a href=\"https://ref.ly/Ezek45:14\">EZK 45:14</a>; <a href=\"https://ref.ly/Luke16:6\">LUK 16:6</a> <em>The measure translated as “eight hundred gallons” is “one hundred batous” in the original (“batos” being the Greek form of the Hebrew “bath”)</em>; <a href=\"https://ref.ly/John2:6\">JHN 2:6</a> <em>The measure translated as “twenty to thirty gallons” is “two to three metretas” in the original, a Greek measure roughly equivalent to the bath.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03014010",
+"start_ref_usfm": "LEV 14:10",
+"end_ref": "03014010",
+"end_ref_usfm": "LEV 14:10"
+},
+{
+"start_ref": "03014012",
+"start_ref_usfm": "LEV 14:12",
+"end_ref": "03014018",
+"end_ref_usfm": "LEV 14:18"
+},
+{
+"start_ref": "03014021",
+"start_ref_usfm": "LEV 14:21",
+"end_ref": "03014022",
+"end_ref_usfm": "LEV 14:22"
+},
+{
+"start_ref": "02029038",
+"start_ref_usfm": "EXO 29:38",
+"end_ref": "02029041",
+"end_ref_usfm": "EXO 29:41"
+},
+{
+"start_ref": "03023012",
+"start_ref_usfm": "LEV 23:12",
+"end_ref": "03023013",
+"end_ref_usfm": "LEV 23:13"
+},
+{
+"start_ref": "04015004",
+"start_ref_usfm": "NUM 15:4",
+"end_ref": "04015010",
+"end_ref_usfm": "NUM 15:10"
+},
+{
+"start_ref": "26004011",
+"start_ref_usfm": "EZK 4:11",
+"end_ref": "26004011",
+"end_ref_usfm": "EZK 4:11"
+},
+{
+"start_ref": "26046005",
+"start_ref_usfm": "EZK 46:5",
+"end_ref": "26046007",
+"end_ref_usfm": "EZK 46:7"
+},
+{
+"start_ref": "26045011",
+"start_ref_usfm": "EZK 45:11",
+"end_ref": "26045011",
+"end_ref_usfm": "EZK 45:11"
+},
+{
+"start_ref": "11005011",
+"start_ref_usfm": "1KI 5:11",
+"end_ref": "11005011",
+"end_ref_usfm": "1KI 5:11"
+},
+{
+"start_ref": "11007038",
+"start_ref_usfm": "1KI 7:38",
+"end_ref": "11007038",
+"end_ref_usfm": "1KI 7:38"
+},
+{
+"start_ref": "14002010",
+"start_ref_usfm": "2CH 2:10",
+"end_ref": "14002010",
+"end_ref_usfm": "2CH 2:10"
+},
+{
+"start_ref": "15007021",
+"start_ref_usfm": "EZR 7:21",
+"end_ref": "15007022",
+"end_ref_usfm": "EZR 7:22"
+},
+{
+"start_ref": "23005010",
+"start_ref_usfm": "ISA 5:10",
+"end_ref": "23005010",
+"end_ref_usfm": "ISA 5:10"
+},
+{
+"start_ref": "26045014",
+"start_ref_usfm": "EZK 45:14",
+"end_ref": "26045014",
+"end_ref_usfm": "EZK 45:14"
+},
+{
+"start_ref": "42016006",
+"start_ref_usfm": "LUK 16:6",
+"end_ref": "42016006",
+"end_ref_usfm": "LUK 16:6"
+},
+{
+"start_ref": "43002006",
+"start_ref_usfm": "JHN 2:6",
+"end_ref": "43002006",
+"end_ref_usfm": "JHN 2:6"
+}
+],
+"resource": [
+{
+"reference_id": "4293",
+"content_id": "4293",
+"resource_code": "DictionaryBibleThemes",
+"label": "4293: water",
+"language": "eng"
+},
+{
+"reference_id": "4488",
+"content_id": "4488",
+"resource_code": "DictionaryBibleThemes",
+"label": "4488: oil",
+"language": "eng"
+},
+{
+"reference_id": "4544",
+"content_id": "4544",
+"resource_code": "DictionaryBibleThemes",
+"label": "4544: wine",
+"language": "eng"
+}
+]
+}
+}
+]

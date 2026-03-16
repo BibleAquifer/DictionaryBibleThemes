@@ -1,0 +1,53 @@
+[
+{
+"content_id": "5026",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5026: knowledge",
+"media_type": "Text",
+"index_reference": "5026: knowledge",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A state of awareness and understanding, resulting from information which has been obtained or revealed concerning people or objects. Scripture stresses God's total knowledge of his creation and also the importance of his people knowing his will and purposes for them.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5027",
+"content_id": "5027",
+"resource_code": "DictionaryBibleThemes",
+"label": "5027: knowledge, God's of humanity",
+"language": "eng"
+},
+{
+"reference_id": "5028",
+"content_id": "5028",
+"resource_code": "DictionaryBibleThemes",
+"label": "5028: knowledge, God as source of human",
+"language": "eng"
+},
+{
+"reference_id": "5029",
+"content_id": "5029",
+"resource_code": "DictionaryBibleThemes",
+"label": "5029: knowledge, of God",
+"language": "eng"
+},
+{
+"reference_id": "5030",
+"content_id": "5030",
+"resource_code": "DictionaryBibleThemes",
+"label": "5030: knowledge, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "5031",
+"content_id": "5031",
+"resource_code": "DictionaryBibleThemes",
+"label": "5031: knowledge, of sin",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,292 @@
+[
+{
+"content_id": "8634",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8634: amen",
+"media_type": "Text",
+"index_reference": "8634: amen",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A Hebrew term expressing the ideas of truth and reliability, often used in prayer and adoration.</p>\n<h2>Amen as an expression of worship</h2>\n<p><strong><a href=\"https://ref.ly/1Chr16:36\">1CH 16:36</a></strong>; <strong><a href=\"https://ref.ly/Eph3:21\">EPH 3:21</a></strong>; <strong><a href=\"https://ref.ly/Rev7:11-Rev7:12\">REV 7:11–7:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh5:13\">NEH 5:13</a>, <a href=\"https://ref.ly/Neh8:6\">NEH 8:6</a> <em>The repetition of “Amen” here conveys Ezra's intensity of feeling as he read the Book of the Law. The response of the people represents a solemn, formal acceptance of God's commandments</em>; <a href=\"https://ref.ly/Ps72:19\">PSA 72:19</a>, <a href=\"https://ref.ly/Ps106:48\">PSA 106:48</a>; <a href=\"https://ref.ly/Rom9:5\">ROM 9:5</a> <em>“Amen” can mean either “Yes indeed, it is so” or “So be it”</em>; <a href=\"https://ref.ly/Rom11:36\">ROM 11:36</a>, <a href=\"https://ref.ly/Rom16:25-Rom16:27\">ROM 16:25–16:27</a>; <a href=\"https://ref.ly/1Cor14:16\">1CO 14:16</a>; <a href=\"https://ref.ly/Gal1:3-Gal1:5\">GAL 1:3–1:5</a>; <a href=\"https://ref.ly/Phil4:20\">PHP 4:20</a>; <a href=\"https://ref.ly/1Tim1:17\">1TI 1:17</a>, <a href=\"https://ref.ly/1Tim6:15-1Tim6:16\">1TI 6:15–6:16</a>; <a href=\"https://ref.ly/2Tim4:18\">2TI 4:18</a>; <a href=\"https://ref.ly/Heb13:20-Heb13:21\">HEB 13:20–13:21</a>; <a href=\"https://ref.ly/1Pet4:11\">1PE 4:11</a>, <a href=\"https://ref.ly/1Pet5:10-1Pet5:11\">1PE 5:10–5:11</a>; <a href=\"https://ref.ly/2Pet3:17-2Pet3:18\">2PE 3:17–3:18</a>; <a href=\"https://ref.ly/Jude1:24-Jude1:25\">JUD 1:24–1:25</a>; <a href=\"https://ref.ly/Rev1:4-Rev1:7\">REV 1:4–1:7</a>, <a href=\"https://ref.ly/Rev19:4\">REV 19:4</a> <em>the worship of heaven</em></p>\n<h2>Amen confirms a grace or blessing</h2>\n<p><strong><a href=\"https://ref.ly/Gal6:18\">GAL 6:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom15:33\">ROM 15:33</a>; <a href=\"https://ref.ly/1Cor16:24\">1CO 16:24</a>; <a href=\"https://ref.ly/Phil4:23\">PHP 4:23</a>; <a href=\"https://ref.ly/Rev22:20-Rev22:21\">REV 22:20–22:21</a></p>\n<h2>Amen confirms a vow or action</h2>\n<p><strong><a href=\"https://ref.ly/Jer28:5-Jer28:6\">JER 28:5–28:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num5:20-Num5:22\">NUM 5:20–5:22</a>; <a href=\"https://ref.ly/Deut27:15\">DEU 27:15</a>; <a href=\"https://ref.ly/1Kgs1:32-1Kgs1:36\">1KI 1:32–1:36</a>; <a href=\"https://ref.ly/Jer11:1-Jer11:5\">JER 11:1–11:5</a></p>\n<h2>Amen as a title of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Rev3:14\">REV 3:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor1:18-2Cor1:20\">2CO 1:18–1:20</a> <em>The implication is that all God's promises find their fulfilment in Jesus Christ.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "13016036",
+"start_ref_usfm": "1CH 16:36",
+"end_ref": "13016036",
+"end_ref_usfm": "1CH 16:36"
+},
+{
+"start_ref": "49003021",
+"start_ref_usfm": "EPH 3:21",
+"end_ref": "49003021",
+"end_ref_usfm": "EPH 3:21"
+},
+{
+"start_ref": "66007011",
+"start_ref_usfm": "REV 7:11",
+"end_ref": "66007012",
+"end_ref_usfm": "REV 7:12"
+},
+{
+"start_ref": "16005013",
+"start_ref_usfm": "NEH 5:13",
+"end_ref": "16005013",
+"end_ref_usfm": "NEH 5:13"
+},
+{
+"start_ref": "16008006",
+"start_ref_usfm": "NEH 8:6",
+"end_ref": "16008006",
+"end_ref_usfm": "NEH 8:6"
+},
+{
+"start_ref": "19072019",
+"start_ref_usfm": "PSA 72:19",
+"end_ref": "19072019",
+"end_ref_usfm": "PSA 72:19"
+},
+{
+"start_ref": "19106048",
+"start_ref_usfm": "PSA 106:48",
+"end_ref": "19106048",
+"end_ref_usfm": "PSA 106:48"
+},
+{
+"start_ref": "45009005",
+"start_ref_usfm": "ROM 9:5",
+"end_ref": "45009005",
+"end_ref_usfm": "ROM 9:5"
+},
+{
+"start_ref": "45011036",
+"start_ref_usfm": "ROM 11:36",
+"end_ref": "45011036",
+"end_ref_usfm": "ROM 11:36"
+},
+{
+"start_ref": "45016025",
+"start_ref_usfm": "ROM 16:25",
+"end_ref": "45016027",
+"end_ref_usfm": "ROM 16:27"
+},
+{
+"start_ref": "46014016",
+"start_ref_usfm": "1CO 14:16",
+"end_ref": "46014016",
+"end_ref_usfm": "1CO 14:16"
+},
+{
+"start_ref": "48001003",
+"start_ref_usfm": "GAL 1:3",
+"end_ref": "48001005",
+"end_ref_usfm": "GAL 1:5"
+},
+{
+"start_ref": "50004020",
+"start_ref_usfm": "PHP 4:20",
+"end_ref": "50004020",
+"end_ref_usfm": "PHP 4:20"
+},
+{
+"start_ref": "54001017",
+"start_ref_usfm": "1TI 1:17",
+"end_ref": "54001017",
+"end_ref_usfm": "1TI 1:17"
+},
+{
+"start_ref": "54006015",
+"start_ref_usfm": "1TI 6:15",
+"end_ref": "54006016",
+"end_ref_usfm": "1TI 6:16"
+},
+{
+"start_ref": "55004018",
+"start_ref_usfm": "2TI 4:18",
+"end_ref": "55004018",
+"end_ref_usfm": "2TI 4:18"
+},
+{
+"start_ref": "58013020",
+"start_ref_usfm": "HEB 13:20",
+"end_ref": "58013021",
+"end_ref_usfm": "HEB 13:21"
+},
+{
+"start_ref": "60004011",
+"start_ref_usfm": "1PE 4:11",
+"end_ref": "60004011",
+"end_ref_usfm": "1PE 4:11"
+},
+{
+"start_ref": "60005010",
+"start_ref_usfm": "1PE 5:10",
+"end_ref": "60005011",
+"end_ref_usfm": "1PE 5:11"
+},
+{
+"start_ref": "61003017",
+"start_ref_usfm": "2PE 3:17",
+"end_ref": "61003018",
+"end_ref_usfm": "2PE 3:18"
+},
+{
+"start_ref": "65001024",
+"start_ref_usfm": "JUD 1:24",
+"end_ref": "65001025",
+"end_ref_usfm": "JUD 1:25"
+},
+{
+"start_ref": "66001004",
+"start_ref_usfm": "REV 1:4",
+"end_ref": "66001007",
+"end_ref_usfm": "REV 1:7"
+},
+{
+"start_ref": "66019004",
+"start_ref_usfm": "REV 19:4",
+"end_ref": "66019004",
+"end_ref_usfm": "REV 19:4"
+},
+{
+"start_ref": "48006018",
+"start_ref_usfm": "GAL 6:18",
+"end_ref": "48006018",
+"end_ref_usfm": "GAL 6:18"
+},
+{
+"start_ref": "45015033",
+"start_ref_usfm": "ROM 15:33",
+"end_ref": "45015033",
+"end_ref_usfm": "ROM 15:33"
+},
+{
+"start_ref": "46016024",
+"start_ref_usfm": "1CO 16:24",
+"end_ref": "46016024",
+"end_ref_usfm": "1CO 16:24"
+},
+{
+"start_ref": "50004023",
+"start_ref_usfm": "PHP 4:23",
+"end_ref": "50004023",
+"end_ref_usfm": "PHP 4:23"
+},
+{
+"start_ref": "66022020",
+"start_ref_usfm": "REV 22:20",
+"end_ref": "66022021",
+"end_ref_usfm": "REV 22:21"
+},
+{
+"start_ref": "24028005",
+"start_ref_usfm": "JER 28:5",
+"end_ref": "24028006",
+"end_ref_usfm": "JER 28:6"
+},
+{
+"start_ref": "04005020",
+"start_ref_usfm": "NUM 5:20",
+"end_ref": "04005022",
+"end_ref_usfm": "NUM 5:22"
+},
+{
+"start_ref": "05027015",
+"start_ref_usfm": "DEU 27:15",
+"end_ref": "05027015",
+"end_ref_usfm": "DEU 27:15"
+},
+{
+"start_ref": "11001032",
+"start_ref_usfm": "1KI 1:32",
+"end_ref": "11001036",
+"end_ref_usfm": "1KI 1:36"
+},
+{
+"start_ref": "24011001",
+"start_ref_usfm": "JER 11:1",
+"end_ref": "24011005",
+"end_ref_usfm": "JER 11:5"
+},
+{
+"start_ref": "66003014",
+"start_ref_usfm": "REV 3:14",
+"end_ref": "66003014",
+"end_ref_usfm": "REV 3:14"
+},
+{
+"start_ref": "47001018",
+"start_ref_usfm": "2CO 1:18",
+"end_ref": "47001020",
+"end_ref_usfm": "2CO 1:20"
+}
+],
+"resource": [
+{
+"reference_id": "1150",
+"content_id": "1150",
+"resource_code": "DictionaryBibleThemes",
+"label": "1150: God, truth of",
+"language": "eng"
+},
+{
+"reference_id": "1335",
+"content_id": "1335",
+"resource_code": "DictionaryBibleThemes",
+"label": "1335: blessing",
+"language": "eng"
+},
+{
+"reference_id": "1461",
+"content_id": "1461",
+"resource_code": "DictionaryBibleThemes",
+"label": "1461: truth, nature of",
+"language": "eng"
+},
+{
+"reference_id": "2203",
+"content_id": "2203",
+"resource_code": "DictionaryBibleThemes",
+"label": "2203: Jesus Christ, titles and names of",
+"language": "eng"
+},
+{
+"reference_id": "5430",
+"content_id": "5430",
+"resource_code": "DictionaryBibleThemes",
+"label": "5430: oaths, human",
+"language": "eng"
+},
+{
+"reference_id": "5741",
+"content_id": "5741",
+"resource_code": "DictionaryBibleThemes",
+"label": "5741: vows",
+"language": "eng"
+},
+{
+"reference_id": "5827",
+"content_id": "5827",
+"resource_code": "DictionaryBibleThemes",
+"label": "5827: curse",
+"language": "eng"
+},
+{
+"reference_id": "8622",
+"content_id": "8622",
+"resource_code": "DictionaryBibleThemes",
+"label": "8622: worship",
+"language": "eng"
+},
+{
+"reference_id": "8646",
+"content_id": "8646",
+"resource_code": "DictionaryBibleThemes",
+"label": "8646: doxology",
+"language": "eng"
+}
+]
+}
+}
+]

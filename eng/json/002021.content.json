@@ -1,0 +1,228 @@
+[
+{
+"content_id": "8130",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8130: guidance, from godly people",
+"media_type": "Text",
+"index_reference": "8130: guidance, from godly people",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture gives examples of God guiding his people through the example and witness of godly leaders and men and women of faith.</p>\n<h2>The guidance of godly leaders</h2>\n<h3>Moses</h3>\n<p><a href=\"https://ref.ly/Exod32:34\">EXO 32:34</a>, <a href=\"https://ref.ly/Exod33:12-Exod33:17\">EXO 33:12–33:17</a>; ; <a href=\"https://ref.ly/Deut10:11\">DEU 10:11</a>, <a href=\"https://ref.ly/Deut31:2\">DEU 31:2</a></p>\n<h3>Joshua</h3>\n<p><a href=\"https://ref.ly/Num27:15-Num27:18\">NUM 27:15–27:18</a>; ; <a href=\"https://ref.ly/Deut1:38\">DEU 1:38</a>, <a href=\"https://ref.ly/Deut3:28\">DEU 3:28</a>; ; <a href=\"https://ref.ly/Josh1:6\">JOS 1:6</a></p>\n<h3>Gideon</h3>\n<p><a href=\"https://ref.ly/Judg7:17\">JDG 7:17</a></p>\n<h3>David</h3>\n<p><a href=\"https://ref.ly/2Sam5:1-2Sam5:2\">2SA 5:1–5:2</a> parallel <a href=\"https://ref.ly/1Chr11:1-1Chr11:2\">1CH 11:1–11:2</a>; ; <a href=\"https://ref.ly/Ps78:70-Ps78:72\">PSA 78:70–78:72</a></p>\n<h3>Solomon</h3>\n<p><a href=\"https://ref.ly/1Kgs3:5-1Kgs3:13\">1KI 3:5–3:13</a> parallel <a href=\"https://ref.ly/2Chr1:7-2Chr1:12\">2CH 1:7–1:12</a></p>\n<h3>Israel's priests</h3>\n<p><a href=\"https://ref.ly/Deut17:9-Deut17:10\">DEU 17:9–17:10</a>; ; <a href=\"https://ref.ly/Mal2:6-Mal2:7\">MAL 2:6–2:7</a></p>\n<h3>Israel's shepherds</h3>\n<p><a href=\"https://ref.ly/Jer3:15\">JER 3:15</a>, <a href=\"https://ref.ly/Jer23:3-Jer23:4\">JER 23:3–23:4</a></p>\n<h3>Pastors and teachers in the church</h3>\n<p><a href=\"https://ref.ly/Eph4:11-Eph4:13\">EPH 4:11–4:13</a>; ; <a href=\"https://ref.ly/2Tim2:24-2Tim2:26\">2TI 2:24–2:26</a></p>\n<h2>Godly parents</h2>\n<p><a href=\"https://ref.ly/Gen18:19\">GEN 18:19</a>; ; <a href=\"https://ref.ly/Prov4:11-Prov4:13\">PRO 4:11–4:13</a>, <a href=\"https://ref.ly/Prov6:20-Prov6:23\">PRO 6:20–6:23</a>, <a href=\"https://ref.ly/Prov13:1\">PRO 13:1</a>, <a href=\"https://ref.ly/Prov22:6\">PRO 22:6</a>; ; <a href=\"https://ref.ly/Eph6:4\">EPH 6:4</a></p>\n<h2>Other godly people</h2>\n<p><a href=\"https://ref.ly/Job31:18\">JOB 31:18</a>; ; <a href=\"https://ref.ly/Prov16:23\">PRO 16:23</a>; ; <a href=\"https://ref.ly/Dan5:12-Dan5:17\">DAN 5:12–5:17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02032034",
+"start_ref_usfm": "EXO 32:34",
+"end_ref": "02032034",
+"end_ref_usfm": "EXO 32:34"
+},
+{
+"start_ref": "02033012",
+"start_ref_usfm": "EXO 33:12",
+"end_ref": "02033017",
+"end_ref_usfm": "EXO 33:17"
+},
+{
+"start_ref": "05010011",
+"start_ref_usfm": "DEU 10:11",
+"end_ref": "05010011",
+"end_ref_usfm": "DEU 10:11"
+},
+{
+"start_ref": "05031002",
+"start_ref_usfm": "DEU 31:2",
+"end_ref": "05031002",
+"end_ref_usfm": "DEU 31:2"
+},
+{
+"start_ref": "04027015",
+"start_ref_usfm": "NUM 27:15",
+"end_ref": "04027018",
+"end_ref_usfm": "NUM 27:18"
+},
+{
+"start_ref": "05001038",
+"start_ref_usfm": "DEU 1:38",
+"end_ref": "05001038",
+"end_ref_usfm": "DEU 1:38"
+},
+{
+"start_ref": "05003028",
+"start_ref_usfm": "DEU 3:28",
+"end_ref": "05003028",
+"end_ref_usfm": "DEU 3:28"
+},
+{
+"start_ref": "06001006",
+"start_ref_usfm": "JOS 1:6",
+"end_ref": "06001006",
+"end_ref_usfm": "JOS 1:6"
+},
+{
+"start_ref": "07007017",
+"start_ref_usfm": "JDG 7:17",
+"end_ref": "07007017",
+"end_ref_usfm": "JDG 7:17"
+},
+{
+"start_ref": "10005001",
+"start_ref_usfm": "2SA 5:1",
+"end_ref": "10005002",
+"end_ref_usfm": "2SA 5:2"
+},
+{
+"start_ref": "13011001",
+"start_ref_usfm": "1CH 11:1",
+"end_ref": "13011002",
+"end_ref_usfm": "1CH 11:2"
+},
+{
+"start_ref": "19078070",
+"start_ref_usfm": "PSA 78:70",
+"end_ref": "19078072",
+"end_ref_usfm": "PSA 78:72"
+},
+{
+"start_ref": "11003005",
+"start_ref_usfm": "1KI 3:5",
+"end_ref": "11003013",
+"end_ref_usfm": "1KI 3:13"
+},
+{
+"start_ref": "14001007",
+"start_ref_usfm": "2CH 1:7",
+"end_ref": "14001012",
+"end_ref_usfm": "2CH 1:12"
+},
+{
+"start_ref": "05017009",
+"start_ref_usfm": "DEU 17:9",
+"end_ref": "05017010",
+"end_ref_usfm": "DEU 17:10"
+},
+{
+"start_ref": "39002006",
+"start_ref_usfm": "MAL 2:6",
+"end_ref": "39002007",
+"end_ref_usfm": "MAL 2:7"
+},
+{
+"start_ref": "24003015",
+"start_ref_usfm": "JER 3:15",
+"end_ref": "24003015",
+"end_ref_usfm": "JER 3:15"
+},
+{
+"start_ref": "24023003",
+"start_ref_usfm": "JER 23:3",
+"end_ref": "24023004",
+"end_ref_usfm": "JER 23:4"
+},
+{
+"start_ref": "49004011",
+"start_ref_usfm": "EPH 4:11",
+"end_ref": "49004013",
+"end_ref_usfm": "EPH 4:13"
+},
+{
+"start_ref": "55002024",
+"start_ref_usfm": "2TI 2:24",
+"end_ref": "55002026",
+"end_ref_usfm": "2TI 2:26"
+},
+{
+"start_ref": "01018019",
+"start_ref_usfm": "GEN 18:19",
+"end_ref": "01018019",
+"end_ref_usfm": "GEN 18:19"
+},
+{
+"start_ref": "20004011",
+"start_ref_usfm": "PRO 4:11",
+"end_ref": "20004013",
+"end_ref_usfm": "PRO 4:13"
+},
+{
+"start_ref": "20006020",
+"start_ref_usfm": "PRO 6:20",
+"end_ref": "20006023",
+"end_ref_usfm": "PRO 6:23"
+},
+{
+"start_ref": "20013001",
+"start_ref_usfm": "PRO 13:1",
+"end_ref": "20013001",
+"end_ref_usfm": "PRO 13:1"
+},
+{
+"start_ref": "20022006",
+"start_ref_usfm": "PRO 22:6",
+"end_ref": "20022006",
+"end_ref_usfm": "PRO 22:6"
+},
+{
+"start_ref": "49006004",
+"start_ref_usfm": "EPH 6:4",
+"end_ref": "49006004",
+"end_ref_usfm": "EPH 6:4"
+},
+{
+"start_ref": "18031018",
+"start_ref_usfm": "JOB 31:18",
+"end_ref": "18031018",
+"end_ref_usfm": "JOB 31:18"
+},
+{
+"start_ref": "20016023",
+"start_ref_usfm": "PRO 16:23",
+"end_ref": "20016023",
+"end_ref_usfm": "PRO 16:23"
+},
+{
+"start_ref": "27005012",
+"start_ref_usfm": "DAN 5:12",
+"end_ref": "27005017",
+"end_ref_usfm": "DAN 5:17"
+}
+],
+"resource": [
+{
+"reference_id": "5731",
+"content_id": "5731",
+"resource_code": "DictionaryBibleThemes",
+"label": "5731: parents",
+"language": "eng"
+},
+{
+"reference_id": "5780",
+"content_id": "5780",
+"resource_code": "DictionaryBibleThemes",
+"label": "5780: advisers",
+"language": "eng"
+},
+{
+"reference_id": "7733",
+"content_id": "7733",
+"resource_code": "DictionaryBibleThemes",
+"label": "7733: leaders",
+"language": "eng"
+},
+{
+"reference_id": "7784",
+"content_id": "7784",
+"resource_code": "DictionaryBibleThemes",
+"label": "7784: shepherd",
+"language": "eng"
+},
+{
+"reference_id": "8361",
+"content_id": "8361",
+"resource_code": "DictionaryBibleThemes",
+"label": "8361: wisdom",
+"language": "eng"
+}
+]
+}
+}
+]

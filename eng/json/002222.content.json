@@ -1,0 +1,46 @@
+[
+{
+"content_id": "8434",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8434: giving",
+"media_type": "Text",
+"index_reference": "8434: giving",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Dedicating or offering something or oneself to others or to God. Scripture stresses the importance of giving. The generosity and love of God in giving his only Son to die for his people is understood to lead to an obligation, on their part, to love God and others in return.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8435",
+"content_id": "8435",
+"resource_code": "DictionaryBibleThemes",
+"label": "8435: giving, of oneself",
+"language": "eng"
+},
+{
+"reference_id": "8436",
+"content_id": "8436",
+"resource_code": "DictionaryBibleThemes",
+"label": "8436: giving, of possessions",
+"language": "eng"
+},
+{
+"reference_id": "8437",
+"content_id": "8437",
+"resource_code": "DictionaryBibleThemes",
+"label": "8437: giving, of talents",
+"language": "eng"
+},
+{
+"reference_id": "8438",
+"content_id": "8438",
+"resource_code": "DictionaryBibleThemes",
+"label": "8438: giving, of time",
+"language": "eng"
+}
+]
+}
+}
+]

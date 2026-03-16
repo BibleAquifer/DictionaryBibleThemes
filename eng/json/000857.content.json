@@ -1,0 +1,168 @@
+[
+{
+"content_id": "5269",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5269: cornerstone",
+"media_type": "Text",
+"index_reference": "5269: cornerstone",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A stone that can be in the foundation, above ground level or at the summit of the roof (the “capstone”). The cornerstone of a large building gives it a reliable and firm foundation, leading to the cohesion and stability of the whole building. In Scripture, such foundation-stones are taken as symbolic of the basis of faith in Jesus Christ and the church. Jesus Christ is thus represented as both the foundation upon which the church is built, and the capstone which crowns the whole.</p>\n<h2>The place of the cornerstone in buildings</h2>\n<p><strong><a href=\"https://ref.ly/Job38:4-Job38:6\">JOB 38:4–38:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer51:26\">JER 51:26</a>; <a href=\"https://ref.ly/1Pet2:4-1Pet2:8\">1PE 2:4–2:8</a></p>\n<h2>The cornerstone is prominent, indispensable and should be reliable</h2>\n<p><strong><a href=\"https://ref.ly/Isa28:16\">ISA 28:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps118:22\">PSA 118:22</a>; <a href=\"https://ref.ly/Isa19:13\">ISA 19:13</a></p>\n<h2>Jesus Christ is the cornerstone of the church</h2>\n<p><strong><a href=\"https://ref.ly/Eph2:19-Eph2:22\">EPH 2:19–2:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Pet2:5-1Pet2:6\">1PE 2:5–2:6</a>; <a href=\"https://ref.ly/Isa28:16\">ISA 28:16</a></p>\n<h2>The cornerstone is a sure foundation for believers, but a stumbling-block for unbelievers</h2>\n<h3>Rejection of the cornerstone leads to stumbling and rejection</h3>\n<p><strong><a href=\"https://ref.ly/Matt21:42-Matt21:44\">MAT 21:42–21:44</a></strong> parallels <a href=\"https://ref.ly/Mark12:10-Mark12:11\">MRK 12:10–12:11</a>, <a href=\"https://ref.ly/Luke20:17-Luke20:18\">LUK 20:17–20:18</a> <em>See also</em> <a href=\"https://ref.ly/Ps118:22-Ps118:23\">PSA 118:22–118:23</a>; <a href=\"https://ref.ly/Isa8:13-Isa8:15\">ISA 8:13–8:15</a>; <a href=\"https://ref.ly/Rom9:33\">ROM 9:33</a>; <a href=\"https://ref.ly/Isa28:16\">ISA 28:16</a>; <a href=\"https://ref.ly/1Pet2:7-1Pet2:8\">1PE 2:7–2:8</a></p>\n<h3>Reliance on the cornerstone gives security to believers</h3>\n<p><strong><a href=\"https://ref.ly/1Pet2:6-1Pet2:7\">1PE 2:6–2:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa28:16\">ISA 28:16</a>; <a href=\"https://ref.ly/Acts4:10-Acts4:12\">ACT 4:10–4:12</a>; <a href=\"https://ref.ly/Eph2:20-Eph2:22\">EPH 2:20–2:22</a></p>\n<h2>The capstone as the crowning glory of a building</h2>\n<p><strong><a href=\"https://ref.ly/Ps118:22\">PSA 118:22</a></strong> <a href=\"https://ref.ly/Matt21:42-Matt21:44\">MAT 21:42–21:44</a> parallels <a href=\"https://ref.ly/Mark12:10\">MRK 12:10</a>, <a href=\"https://ref.ly/Luke20:17-Luke20:18\">LUK 20:17–20:18</a>; ; <a href=\"https://ref.ly/Acts4:10-Acts4:12\">ACT 4:10–4:12</a>; ; <a href=\"https://ref.ly/1Pet2:4-1Pet2:8\">1PE 2:4–2:8</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18038004",
+"start_ref_usfm": "JOB 38:4",
+"end_ref": "18038006",
+"end_ref_usfm": "JOB 38:6"
+},
+{
+"start_ref": "24051026",
+"start_ref_usfm": "JER 51:26",
+"end_ref": "24051026",
+"end_ref_usfm": "JER 51:26"
+},
+{
+"start_ref": "60002004",
+"start_ref_usfm": "1PE 2:4",
+"end_ref": "60002008",
+"end_ref_usfm": "1PE 2:8"
+},
+{
+"start_ref": "23028016",
+"start_ref_usfm": "ISA 28:16",
+"end_ref": "23028016",
+"end_ref_usfm": "ISA 28:16"
+},
+{
+"start_ref": "19118022",
+"start_ref_usfm": "PSA 118:22",
+"end_ref": "19118022",
+"end_ref_usfm": "PSA 118:22"
+},
+{
+"start_ref": "23019013",
+"start_ref_usfm": "ISA 19:13",
+"end_ref": "23019013",
+"end_ref_usfm": "ISA 19:13"
+},
+{
+"start_ref": "49002019",
+"start_ref_usfm": "EPH 2:19",
+"end_ref": "49002022",
+"end_ref_usfm": "EPH 2:22"
+},
+{
+"start_ref": "60002005",
+"start_ref_usfm": "1PE 2:5",
+"end_ref": "60002006",
+"end_ref_usfm": "1PE 2:6"
+},
+{
+"start_ref": "40021042",
+"start_ref_usfm": "MAT 21:42",
+"end_ref": "40021044",
+"end_ref_usfm": "MAT 21:44"
+},
+{
+"start_ref": "41012010",
+"start_ref_usfm": "MRK 12:10",
+"end_ref": "41012011",
+"end_ref_usfm": "MRK 12:11"
+},
+{
+"start_ref": "42020017",
+"start_ref_usfm": "LUK 20:17",
+"end_ref": "42020018",
+"end_ref_usfm": "LUK 20:18"
+},
+{
+"start_ref": "19118022",
+"start_ref_usfm": "PSA 118:22",
+"end_ref": "19118023",
+"end_ref_usfm": "PSA 118:23"
+},
+{
+"start_ref": "23008013",
+"start_ref_usfm": "ISA 8:13",
+"end_ref": "23008015",
+"end_ref_usfm": "ISA 8:15"
+},
+{
+"start_ref": "45009033",
+"start_ref_usfm": "ROM 9:33",
+"end_ref": "45009033",
+"end_ref_usfm": "ROM 9:33"
+},
+{
+"start_ref": "60002007",
+"start_ref_usfm": "1PE 2:7",
+"end_ref": "60002008",
+"end_ref_usfm": "1PE 2:8"
+},
+{
+"start_ref": "60002006",
+"start_ref_usfm": "1PE 2:6",
+"end_ref": "60002007",
+"end_ref_usfm": "1PE 2:7"
+},
+{
+"start_ref": "44004010",
+"start_ref_usfm": "ACT 4:10",
+"end_ref": "44004012",
+"end_ref_usfm": "ACT 4:12"
+},
+{
+"start_ref": "49002020",
+"start_ref_usfm": "EPH 2:20",
+"end_ref": "49002022",
+"end_ref_usfm": "EPH 2:22"
+},
+{
+"start_ref": "41012010",
+"start_ref_usfm": "MRK 12:10",
+"end_ref": "41012010",
+"end_ref_usfm": "MRK 12:10"
+}
+],
+"resource": [
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "2212",
+"content_id": "2212",
+"resource_code": "DictionaryBibleThemes",
+"label": "2212: Jesus Christ, head of the church",
+"language": "eng"
+},
+{
+"reference_id": "5317",
+"content_id": "5317",
+"resource_code": "DictionaryBibleThemes",
+"label": "5317: foundation",
+"language": "eng"
+},
+{
+"reference_id": "5604",
+"content_id": "5604",
+"resource_code": "DictionaryBibleThemes",
+"label": "5604: walls",
+"language": "eng"
+},
+{
+"reference_id": "7024",
+"content_id": "7024",
+"resource_code": "DictionaryBibleThemes",
+"label": "7024: church, nature and foundations of",
+"language": "eng"
+}
+]
+}
+}
+]

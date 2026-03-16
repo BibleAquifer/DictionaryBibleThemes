@@ -1,0 +1,400 @@
+[
+{
+"content_id": "9040",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9040: grave, the",
+"media_type": "Text",
+"index_reference": "9040: grave, the",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An OT synonym for death, the natural, inevitable human destiny, though not without hope for the righteous.</p>\n<h2>The grave as a place of burial</h2>\n<p><a href=\"https://ref.ly/Num19:16\">NUM 19:16</a>, <a href=\"https://ref.ly/Num19:18\">NUM 19:18</a>; ; <a href=\"https://ref.ly/Deut34:6\">DEU 34:6</a>; ; <a href=\"https://ref.ly/1Kgs13:31\">1KI 13:31</a>; ; <a href=\"https://ref.ly/2Kgs21:26\">2KI 21:26</a>; ; <a href=\"https://ref.ly/Isa22:16\">ISA 22:16</a></p>\n<h2>The grave representing natural death</h2>\n<p><strong><a href=\"https://ref.ly/Gen37:35\">GEN 37:35</a></strong>; <strong><a href=\"https://ref.ly/Ps88:3\">PSA 88:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen42:38\">GEN 42:38</a>, <a href=\"https://ref.ly/Gen44:29\">GEN 44:29</a>; <a href=\"https://ref.ly/2Sam22:5-2Sam22:6\">2SA 22:5–22:6</a>; <a href=\"https://ref.ly/1Kgs2:6\">1KI 2:6</a>, <a href=\"https://ref.ly/1Kgs2:9\">1KI 2:9</a>; <a href=\"https://ref.ly/Job3:21-Job3:22\">JOB 3:21–3:22</a>, <a href=\"https://ref.ly/Job5:26\">JOB 5:26</a>, <a href=\"https://ref.ly/Job10:19\">JOB 10:19</a>, <a href=\"https://ref.ly/Job17:1\">JOB 17:1</a>; <a href=\"https://ref.ly/Ps30:3\">PSA 30:3</a>, <a href=\"https://ref.ly/Ps89:48\">PSA 89:48</a>; <a href=\"https://ref.ly/Prov5:5\">PRO 5:5</a>, <a href=\"https://ref.ly/Prov9:18\">PRO 9:18</a>, <a href=\"https://ref.ly/Prov15:24\">PRO 15:24</a>, <a href=\"https://ref.ly/Prov30:16\">PRO 30:16</a>; <a href=\"https://ref.ly/Isa28:15\">ISA 28:15</a>, <a href=\"https://ref.ly/Isa28:18\">ISA 28:18</a>; <a href=\"https://ref.ly/Jer20:17\">JER 20:17</a>; <a href=\"https://ref.ly/Hab2:5\">HAB 2:5</a></p>\n<h2>The grave as judgment</h2>\n<p><strong><a href=\"https://ref.ly/Ps55:15\">PSA 55:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num16:30\">NUM 16:30</a>, <a href=\"https://ref.ly/Num16:33\">NUM 16:33</a>; <a href=\"https://ref.ly/Job24:19\">JOB 24:19</a>, <a href=\"https://ref.ly/Job40:13\">JOB 40:13</a>; <a href=\"https://ref.ly/Ps9:17\">PSA 9:17</a>, <a href=\"https://ref.ly/Ps31:17\">PSA 31:17</a>, <a href=\"https://ref.ly/Ps49:14\">PSA 49:14</a>; <a href=\"https://ref.ly/Isa5:14\">ISA 5:14</a>, <a href=\"https://ref.ly/Isa14:9\">ISA 14:9</a>, <a href=\"https://ref.ly/Isa14:11\">ISA 14:11</a>, <a href=\"https://ref.ly/Isa14:15\">ISA 14:15</a></p>\n<h2>The grave represented only hopelessness and oblivion before Jesus Christ's resurrection</h2>\n<p><strong><a href=\"https://ref.ly/Job17:13-Job17:16\">JOB 17:13–17:16</a></strong>; <strong><a href=\"https://ref.ly/Eccl9:10\">ECC 9:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job7:9\">JOB 7:9</a>; <a href=\"https://ref.ly/Ps6:5\">PSA 6:5</a>, <a href=\"https://ref.ly/Ps31:17\">PSA 31:17</a>, <a href=\"https://ref.ly/Ps88:5\">PSA 88:5</a>, <a href=\"https://ref.ly/Ps88:11\">PSA 88:11</a>; <a href=\"https://ref.ly/Isa38:18\">ISA 38:18</a></p>\n<h2>The OT hope of redemption from the grave anticipated the gospel message</h2>\n<p><strong><a href=\"https://ref.ly/Ps49:15\">PSA 49:15</a></strong>; <strong><a href=\"https://ref.ly/1Cor15:55\">1CO 15:55</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam2:6\">1SA 2:6</a>; <a href=\"https://ref.ly/Job14:13\">JOB 14:13</a>; <a href=\"https://ref.ly/Hos13:14\">HOS 13:14</a>; <a href=\"https://ref.ly/Acts2:27\">ACT 2:27</a>; <a href=\"https://ref.ly/Ps16:10\">PSA 16:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04019016",
+"start_ref_usfm": "NUM 19:16",
+"end_ref": "04019016",
+"end_ref_usfm": "NUM 19:16"
+},
+{
+"start_ref": "04019018",
+"start_ref_usfm": "NUM 19:18",
+"end_ref": "04019018",
+"end_ref_usfm": "NUM 19:18"
+},
+{
+"start_ref": "05034006",
+"start_ref_usfm": "DEU 34:6",
+"end_ref": "05034006",
+"end_ref_usfm": "DEU 34:6"
+},
+{
+"start_ref": "11013031",
+"start_ref_usfm": "1KI 13:31",
+"end_ref": "11013031",
+"end_ref_usfm": "1KI 13:31"
+},
+{
+"start_ref": "12021026",
+"start_ref_usfm": "2KI 21:26",
+"end_ref": "12021026",
+"end_ref_usfm": "2KI 21:26"
+},
+{
+"start_ref": "23022016",
+"start_ref_usfm": "ISA 22:16",
+"end_ref": "23022016",
+"end_ref_usfm": "ISA 22:16"
+},
+{
+"start_ref": "01037035",
+"start_ref_usfm": "GEN 37:35",
+"end_ref": "01037035",
+"end_ref_usfm": "GEN 37:35"
+},
+{
+"start_ref": "19088003",
+"start_ref_usfm": "PSA 88:3",
+"end_ref": "19088003",
+"end_ref_usfm": "PSA 88:3"
+},
+{
+"start_ref": "01042038",
+"start_ref_usfm": "GEN 42:38",
+"end_ref": "01042038",
+"end_ref_usfm": "GEN 42:38"
+},
+{
+"start_ref": "01044029",
+"start_ref_usfm": "GEN 44:29",
+"end_ref": "01044029",
+"end_ref_usfm": "GEN 44:29"
+},
+{
+"start_ref": "10022005",
+"start_ref_usfm": "2SA 22:5",
+"end_ref": "10022006",
+"end_ref_usfm": "2SA 22:6"
+},
+{
+"start_ref": "11002006",
+"start_ref_usfm": "1KI 2:6",
+"end_ref": "11002006",
+"end_ref_usfm": "1KI 2:6"
+},
+{
+"start_ref": "11002009",
+"start_ref_usfm": "1KI 2:9",
+"end_ref": "11002009",
+"end_ref_usfm": "1KI 2:9"
+},
+{
+"start_ref": "18003021",
+"start_ref_usfm": "JOB 3:21",
+"end_ref": "18003022",
+"end_ref_usfm": "JOB 3:22"
+},
+{
+"start_ref": "18005026",
+"start_ref_usfm": "JOB 5:26",
+"end_ref": "18005026",
+"end_ref_usfm": "JOB 5:26"
+},
+{
+"start_ref": "18010019",
+"start_ref_usfm": "JOB 10:19",
+"end_ref": "18010019",
+"end_ref_usfm": "JOB 10:19"
+},
+{
+"start_ref": "18017001",
+"start_ref_usfm": "JOB 17:1",
+"end_ref": "18017001",
+"end_ref_usfm": "JOB 17:1"
+},
+{
+"start_ref": "19030003",
+"start_ref_usfm": "PSA 30:3",
+"end_ref": "19030003",
+"end_ref_usfm": "PSA 30:3"
+},
+{
+"start_ref": "19089048",
+"start_ref_usfm": "PSA 89:48",
+"end_ref": "19089048",
+"end_ref_usfm": "PSA 89:48"
+},
+{
+"start_ref": "20005005",
+"start_ref_usfm": "PRO 5:5",
+"end_ref": "20005005",
+"end_ref_usfm": "PRO 5:5"
+},
+{
+"start_ref": "20009018",
+"start_ref_usfm": "PRO 9:18",
+"end_ref": "20009018",
+"end_ref_usfm": "PRO 9:18"
+},
+{
+"start_ref": "20015024",
+"start_ref_usfm": "PRO 15:24",
+"end_ref": "20015024",
+"end_ref_usfm": "PRO 15:24"
+},
+{
+"start_ref": "20030016",
+"start_ref_usfm": "PRO 30:16",
+"end_ref": "20030016",
+"end_ref_usfm": "PRO 30:16"
+},
+{
+"start_ref": "23028015",
+"start_ref_usfm": "ISA 28:15",
+"end_ref": "23028015",
+"end_ref_usfm": "ISA 28:15"
+},
+{
+"start_ref": "23028018",
+"start_ref_usfm": "ISA 28:18",
+"end_ref": "23028018",
+"end_ref_usfm": "ISA 28:18"
+},
+{
+"start_ref": "24020017",
+"start_ref_usfm": "JER 20:17",
+"end_ref": "24020017",
+"end_ref_usfm": "JER 20:17"
+},
+{
+"start_ref": "35002005",
+"start_ref_usfm": "HAB 2:5",
+"end_ref": "35002005",
+"end_ref_usfm": "HAB 2:5"
+},
+{
+"start_ref": "19055015",
+"start_ref_usfm": "PSA 55:15",
+"end_ref": "19055015",
+"end_ref_usfm": "PSA 55:15"
+},
+{
+"start_ref": "04016030",
+"start_ref_usfm": "NUM 16:30",
+"end_ref": "04016030",
+"end_ref_usfm": "NUM 16:30"
+},
+{
+"start_ref": "04016033",
+"start_ref_usfm": "NUM 16:33",
+"end_ref": "04016033",
+"end_ref_usfm": "NUM 16:33"
+},
+{
+"start_ref": "18024019",
+"start_ref_usfm": "JOB 24:19",
+"end_ref": "18024019",
+"end_ref_usfm": "JOB 24:19"
+},
+{
+"start_ref": "18040013",
+"start_ref_usfm": "JOB 40:13",
+"end_ref": "18040013",
+"end_ref_usfm": "JOB 40:13"
+},
+{
+"start_ref": "19009017",
+"start_ref_usfm": "PSA 9:17",
+"end_ref": "19009017",
+"end_ref_usfm": "PSA 9:17"
+},
+{
+"start_ref": "19031017",
+"start_ref_usfm": "PSA 31:17",
+"end_ref": "19031017",
+"end_ref_usfm": "PSA 31:17"
+},
+{
+"start_ref": "19049014",
+"start_ref_usfm": "PSA 49:14",
+"end_ref": "19049014",
+"end_ref_usfm": "PSA 49:14"
+},
+{
+"start_ref": "23005014",
+"start_ref_usfm": "ISA 5:14",
+"end_ref": "23005014",
+"end_ref_usfm": "ISA 5:14"
+},
+{
+"start_ref": "23014009",
+"start_ref_usfm": "ISA 14:9",
+"end_ref": "23014009",
+"end_ref_usfm": "ISA 14:9"
+},
+{
+"start_ref": "23014011",
+"start_ref_usfm": "ISA 14:11",
+"end_ref": "23014011",
+"end_ref_usfm": "ISA 14:11"
+},
+{
+"start_ref": "23014015",
+"start_ref_usfm": "ISA 14:15",
+"end_ref": "23014015",
+"end_ref_usfm": "ISA 14:15"
+},
+{
+"start_ref": "18017013",
+"start_ref_usfm": "JOB 17:13",
+"end_ref": "18017016",
+"end_ref_usfm": "JOB 17:16"
+},
+{
+"start_ref": "21009010",
+"start_ref_usfm": "ECC 9:10",
+"end_ref": "21009010",
+"end_ref_usfm": "ECC 9:10"
+},
+{
+"start_ref": "18007009",
+"start_ref_usfm": "JOB 7:9",
+"end_ref": "18007009",
+"end_ref_usfm": "JOB 7:9"
+},
+{
+"start_ref": "19006005",
+"start_ref_usfm": "PSA 6:5",
+"end_ref": "19006005",
+"end_ref_usfm": "PSA 6:5"
+},
+{
+"start_ref": "19088005",
+"start_ref_usfm": "PSA 88:5",
+"end_ref": "19088005",
+"end_ref_usfm": "PSA 88:5"
+},
+{
+"start_ref": "19088011",
+"start_ref_usfm": "PSA 88:11",
+"end_ref": "19088011",
+"end_ref_usfm": "PSA 88:11"
+},
+{
+"start_ref": "23038018",
+"start_ref_usfm": "ISA 38:18",
+"end_ref": "23038018",
+"end_ref_usfm": "ISA 38:18"
+},
+{
+"start_ref": "19049015",
+"start_ref_usfm": "PSA 49:15",
+"end_ref": "19049015",
+"end_ref_usfm": "PSA 49:15"
+},
+{
+"start_ref": "46015055",
+"start_ref_usfm": "1CO 15:55",
+"end_ref": "46015055",
+"end_ref_usfm": "1CO 15:55"
+},
+{
+"start_ref": "09002006",
+"start_ref_usfm": "1SA 2:6",
+"end_ref": "09002006",
+"end_ref_usfm": "1SA 2:6"
+},
+{
+"start_ref": "18014013",
+"start_ref_usfm": "JOB 14:13",
+"end_ref": "18014013",
+"end_ref_usfm": "JOB 14:13"
+},
+{
+"start_ref": "28013014",
+"start_ref_usfm": "HOS 13:14",
+"end_ref": "28013014",
+"end_ref_usfm": "HOS 13:14"
+},
+{
+"start_ref": "44002027",
+"start_ref_usfm": "ACT 2:27",
+"end_ref": "44002027",
+"end_ref_usfm": "ACT 2:27"
+},
+{
+"start_ref": "19016010",
+"start_ref_usfm": "PSA 16:10",
+"end_ref": "19016010",
+"end_ref_usfm": "PSA 16:10"
+}
+],
+"resource": [
+{
+"reference_id": "5241",
+"content_id": "5241",
+"resource_code": "DictionaryBibleThemes",
+"label": "5241: burial",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+},
+{
+"reference_id": "9050",
+"content_id": "9050",
+"resource_code": "DictionaryBibleThemes",
+"label": "9050: tombs",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+},
+{
+"reference_id": "9310",
+"content_id": "9310",
+"resource_code": "DictionaryBibleThemes",
+"label": "9310: resurrection",
+"language": "eng"
+},
+{
+"reference_id": "9510",
+"content_id": "9510",
+"resource_code": "DictionaryBibleThemes",
+"label": "9510: hell",
+"language": "eng"
+},
+{
+"reference_id": "9530",
+"content_id": "9530",
+"resource_code": "DictionaryBibleThemes",
+"label": "9530: Hades",
+"language": "eng"
+},
+{
+"reference_id": "9540",
+"content_id": "9540",
+"resource_code": "DictionaryBibleThemes",
+"label": "9540: Sheol",
+"language": "eng"
+},
+{
+"reference_id": "9610",
+"content_id": "9610",
+"resource_code": "DictionaryBibleThemes",
+"label": "9610: hope",
+"language": "eng"
+}
+]
+}
+}
+]

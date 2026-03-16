@@ -1,0 +1,264 @@
+[
+{
+"content_id": "8467",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8467: reminders",
+"media_type": "Text",
+"index_reference": "8467: reminders",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The means of calling to mind important matters or events. Scripture stresses the importance of being reminded of God's dealings with his people in the past.</p>\n<h2>The importance of being reminded of God's words and deeds</h2>\n<p><strong><a href=\"https://ref.ly/1Cor15:1\">1CO 15:1</a></strong>; <strong><a href=\"https://ref.ly/2Pet1:12\">2PE 1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Pet3:1\">2PE 3:1</a></p>\n<h2>Reminders of God's covenant and faithfulness</h2>\n<p><strong><a href=\"https://ref.ly/Gen9:12-Gen9:16\">GEN 9:12–9:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen17:9-Gen17:14\">GEN 17:9–17:14</a></p>\n<h2>Reminders of God's intervention in history</h2>\n<p><strong><a href=\"https://ref.ly/Jude1:5\">JUD 1:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:14-Exod12:20\">EXO 12:14–12:20</a> parallel <a href=\"https://ref.ly/Deut16:1-Deut16:8\">DEU 16:1–16:8</a>; <a href=\"https://ref.ly/Exod13:3-Exod13:10\">EXO 13:3–13:10</a>, <a href=\"https://ref.ly/Exod17:14\">EXO 17:14</a>; <a href=\"https://ref.ly/1Cor11:23-1Cor11:26\">1CO 11:23–11:26</a>; <a href=\"https://ref.ly/2Pet1:12-2Pet1:16\">2PE 1:12–1:16</a></p>\n<h2>Reminders to people of their sin or shortcomings</h2>\n<p><strong><a href=\"https://ref.ly/Heb10:3-Heb10:4\">HEB 10:3–10:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen41:9\">GEN 41:9</a>; <a href=\"https://ref.ly/Exod30:16\">EXO 30:16</a>; <a href=\"https://ref.ly/Num5:11-Num5:15\">NUM 5:11–5:15</a>; <a href=\"https://ref.ly/Ezek29:16\">EZK 29:16</a></p>\n<h2>Reminders to people to be faithful to God</h2>\n<p><strong><a href=\"https://ref.ly/Num15:38-Num15:40\">NUM 15:38–15:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom11:22\">ROM 11:22</a>; <a href=\"https://ref.ly/Heb12:1-Heb12:3\">HEB 12:1–12:3</a>; <a href=\"https://ref.ly/2Pet3:1-2Pet3:2\">2PE 3:1–3:2</a></p>\n<h2>Reminders to people of their potential and gifts from God</h2>\n<p><strong><a href=\"https://ref.ly/2Tim1:6\">2TI 1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim4:14\">1TI 4:14</a></p>\n<h2>Reminders to God's people on matters of faith and conduct</h2>\n<p><strong><a href=\"https://ref.ly/Rom15:15\">ROM 15:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut31:9-Deut31:13\">DEU 31:9–31:13</a>; <a href=\"https://ref.ly/1Cor4:17\">1CO 4:17</a>, <a href=\"https://ref.ly/1Cor15:1-1Cor15:2\">1CO 15:1–15:2</a>; <a href=\"https://ref.ly/Titus3:1-Titus3:2\">TIT 3:1–3:2</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "46015001",
+"start_ref_usfm": "1CO 15:1",
+"end_ref": "46015001",
+"end_ref_usfm": "1CO 15:1"
+},
+{
+"start_ref": "61001012",
+"start_ref_usfm": "2PE 1:12",
+"end_ref": "61001012",
+"end_ref_usfm": "2PE 1:12"
+},
+{
+"start_ref": "61003001",
+"start_ref_usfm": "2PE 3:1",
+"end_ref": "61003001",
+"end_ref_usfm": "2PE 3:1"
+},
+{
+"start_ref": "01009012",
+"start_ref_usfm": "GEN 9:12",
+"end_ref": "01009016",
+"end_ref_usfm": "GEN 9:16"
+},
+{
+"start_ref": "01017009",
+"start_ref_usfm": "GEN 17:9",
+"end_ref": "01017014",
+"end_ref_usfm": "GEN 17:14"
+},
+{
+"start_ref": "65001005",
+"start_ref_usfm": "JUD 1:5",
+"end_ref": "65001005",
+"end_ref_usfm": "JUD 1:5"
+},
+{
+"start_ref": "02012014",
+"start_ref_usfm": "EXO 12:14",
+"end_ref": "02012020",
+"end_ref_usfm": "EXO 12:20"
+},
+{
+"start_ref": "05016001",
+"start_ref_usfm": "DEU 16:1",
+"end_ref": "05016008",
+"end_ref_usfm": "DEU 16:8"
+},
+{
+"start_ref": "02013003",
+"start_ref_usfm": "EXO 13:3",
+"end_ref": "02013010",
+"end_ref_usfm": "EXO 13:10"
+},
+{
+"start_ref": "02017014",
+"start_ref_usfm": "EXO 17:14",
+"end_ref": "02017014",
+"end_ref_usfm": "EXO 17:14"
+},
+{
+"start_ref": "46011023",
+"start_ref_usfm": "1CO 11:23",
+"end_ref": "46011026",
+"end_ref_usfm": "1CO 11:26"
+},
+{
+"start_ref": "61001012",
+"start_ref_usfm": "2PE 1:12",
+"end_ref": "61001016",
+"end_ref_usfm": "2PE 1:16"
+},
+{
+"start_ref": "58010003",
+"start_ref_usfm": "HEB 10:3",
+"end_ref": "58010004",
+"end_ref_usfm": "HEB 10:4"
+},
+{
+"start_ref": "01041009",
+"start_ref_usfm": "GEN 41:9",
+"end_ref": "01041009",
+"end_ref_usfm": "GEN 41:9"
+},
+{
+"start_ref": "02030016",
+"start_ref_usfm": "EXO 30:16",
+"end_ref": "02030016",
+"end_ref_usfm": "EXO 30:16"
+},
+{
+"start_ref": "04005011",
+"start_ref_usfm": "NUM 5:11",
+"end_ref": "04005015",
+"end_ref_usfm": "NUM 5:15"
+},
+{
+"start_ref": "26029016",
+"start_ref_usfm": "EZK 29:16",
+"end_ref": "26029016",
+"end_ref_usfm": "EZK 29:16"
+},
+{
+"start_ref": "04015038",
+"start_ref_usfm": "NUM 15:38",
+"end_ref": "04015040",
+"end_ref_usfm": "NUM 15:40"
+},
+{
+"start_ref": "45011022",
+"start_ref_usfm": "ROM 11:22",
+"end_ref": "45011022",
+"end_ref_usfm": "ROM 11:22"
+},
+{
+"start_ref": "58012001",
+"start_ref_usfm": "HEB 12:1",
+"end_ref": "58012003",
+"end_ref_usfm": "HEB 12:3"
+},
+{
+"start_ref": "61003001",
+"start_ref_usfm": "2PE 3:1",
+"end_ref": "61003002",
+"end_ref_usfm": "2PE 3:2"
+},
+{
+"start_ref": "55001006",
+"start_ref_usfm": "2TI 1:6",
+"end_ref": "55001006",
+"end_ref_usfm": "2TI 1:6"
+},
+{
+"start_ref": "54004014",
+"start_ref_usfm": "1TI 4:14",
+"end_ref": "54004014",
+"end_ref_usfm": "1TI 4:14"
+},
+{
+"start_ref": "45015015",
+"start_ref_usfm": "ROM 15:15",
+"end_ref": "45015015",
+"end_ref_usfm": "ROM 15:15"
+},
+{
+"start_ref": "05031009",
+"start_ref_usfm": "DEU 31:9",
+"end_ref": "05031013",
+"end_ref_usfm": "DEU 31:13"
+},
+{
+"start_ref": "46004017",
+"start_ref_usfm": "1CO 4:17",
+"end_ref": "46004017",
+"end_ref_usfm": "1CO 4:17"
+},
+{
+"start_ref": "46015001",
+"start_ref_usfm": "1CO 15:1",
+"end_ref": "46015002",
+"end_ref_usfm": "1CO 15:2"
+},
+{
+"start_ref": "56003001",
+"start_ref_usfm": "TIT 3:1",
+"end_ref": "56003002",
+"end_ref_usfm": "TIT 3:2"
+}
+],
+"resource": [
+{
+"reference_id": "1035",
+"content_id": "1035",
+"resource_code": "DictionaryBibleThemes",
+"label": "1035: God, faithfulness of",
+"language": "eng"
+},
+{
+"reference_id": "1345",
+"content_id": "1345",
+"resource_code": "DictionaryBibleThemes",
+"label": "1345: covenant",
+"language": "eng"
+},
+{
+"reference_id": "4845",
+"content_id": "4845",
+"resource_code": "DictionaryBibleThemes",
+"label": "4845: rainbow",
+"language": "eng"
+},
+{
+"reference_id": "6020",
+"content_id": "6020",
+"resource_code": "DictionaryBibleThemes",
+"label": "6020: sin",
+"language": "eng"
+},
+{
+"reference_id": "7355",
+"content_id": "7355",
+"resource_code": "DictionaryBibleThemes",
+"label": "7355: feasts and festivals, nature of",
+"language": "eng"
+},
+{
+"reference_id": "7394",
+"content_id": "7394",
+"resource_code": "DictionaryBibleThemes",
+"label": "7394: memorial",
+"language": "eng"
+},
+{
+"reference_id": "7435",
+"content_id": "7435",
+"resource_code": "DictionaryBibleThemes",
+"label": "7435: sacrifice, in OT",
+"language": "eng"
+},
+{
+"reference_id": "8644",
+"content_id": "8644",
+"resource_code": "DictionaryBibleThemes",
+"label": "8644: commemoration",
+"language": "eng"
+},
+{
+"reference_id": "8670",
+"content_id": "8670",
+"resource_code": "DictionaryBibleThemes",
+"label": "8670: remembering",
+"language": "eng"
+},
+{
+"reference_id": "8763",
+"content_id": "8763",
+"resource_code": "DictionaryBibleThemes",
+"label": "8763: forgetting",
+"language": "eng"
+},
+{
+"reference_id": "8764",
+"content_id": "8764",
+"resource_code": "DictionaryBibleThemes",
+"label": "8764: forgetting God",
+"language": "eng"
+}
+]
+}
+}
+]

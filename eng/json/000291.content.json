@@ -1,0 +1,184 @@
+[
+{
+"content_id": "3293",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "3293: Holy Spirit, witness of",
+"media_type": "Text",
+"index_reference": "3293: holy spirit, witness of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The Holy Spirit bears witness to the person and work of Jesus Christ, and enables believers to bear effective witness to him.</p>\n<h2>The Holy Spirit bears witness to Jesus Christ</h2>\n<h3>The Spirit's testimony</h3>\n<p><strong><a href=\"https://ref.ly/1John4:2-1John4:3\">1JN 4:2–4:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts5:32\">ACT 5:32</a>; <a href=\"https://ref.ly/1Cor12:3\">1CO 12:3</a></p>\n<h3>At Jesus Christ's baptism</h3>\n<p><strong><a href=\"https://ref.ly/John1:32-John1:34\">JHN 1:32–1:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt3:16\">MAT 3:16</a> parallels <a href=\"https://ref.ly/Mark1:10\">MRK 1:10</a>, <a href=\"https://ref.ly/Luke3:22\">LUK 3:22</a></p>\n<h3>After Jesus Christ's ascension</h3>\n<p><strong><a href=\"https://ref.ly/John15:26\">JHN 15:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/John14:26\">JHN 14:26</a>, <a href=\"https://ref.ly/John16:13-John16:14\">JHN 16:13–16:14</a>; <a href=\"https://ref.ly/1John5:6\">1JN 5:6</a></p>\n<h2>The Holy Spirit's witness enables believers to be effective</h2>\n<h3>He brings assurance to believers</h3>\n<p><strong><a href=\"https://ref.ly/1John3:24\">1JN 3:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/1John4:13\">1JN 4:13</a>, <a href=\"https://ref.ly/1John5:7-1John5:10\">1JN 5:7–5:10</a></p>\n<h3>He gives assurance of the finality of Jesus Christ's saving work</h3>\n<p><strong><a href=\"https://ref.ly/Heb10:14-Heb10:17\">HEB 10:14–10:17</a></strong></p>\n<h3>He gives believers confidence in their status as children of God</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:15-Rom8:16\">ROM 8:15–8:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal4:6\">GAL 4:6</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "62004002",
+"start_ref_usfm": "1JN 4:2",
+"end_ref": "62004003",
+"end_ref_usfm": "1JN 4:3"
+},
+{
+"start_ref": "44005032",
+"start_ref_usfm": "ACT 5:32",
+"end_ref": "44005032",
+"end_ref_usfm": "ACT 5:32"
+},
+{
+"start_ref": "46012003",
+"start_ref_usfm": "1CO 12:3",
+"end_ref": "46012003",
+"end_ref_usfm": "1CO 12:3"
+},
+{
+"start_ref": "43001032",
+"start_ref_usfm": "JHN 1:32",
+"end_ref": "43001034",
+"end_ref_usfm": "JHN 1:34"
+},
+{
+"start_ref": "40003016",
+"start_ref_usfm": "MAT 3:16",
+"end_ref": "40003016",
+"end_ref_usfm": "MAT 3:16"
+},
+{
+"start_ref": "41001010",
+"start_ref_usfm": "MRK 1:10",
+"end_ref": "41001010",
+"end_ref_usfm": "MRK 1:10"
+},
+{
+"start_ref": "42003022",
+"start_ref_usfm": "LUK 3:22",
+"end_ref": "42003022",
+"end_ref_usfm": "LUK 3:22"
+},
+{
+"start_ref": "43015026",
+"start_ref_usfm": "JHN 15:26",
+"end_ref": "43015026",
+"end_ref_usfm": "JHN 15:26"
+},
+{
+"start_ref": "43014026",
+"start_ref_usfm": "JHN 14:26",
+"end_ref": "43014026",
+"end_ref_usfm": "JHN 14:26"
+},
+{
+"start_ref": "43016013",
+"start_ref_usfm": "JHN 16:13",
+"end_ref": "43016014",
+"end_ref_usfm": "JHN 16:14"
+},
+{
+"start_ref": "62005006",
+"start_ref_usfm": "1JN 5:6",
+"end_ref": "62005006",
+"end_ref_usfm": "1JN 5:6"
+},
+{
+"start_ref": "62003024",
+"start_ref_usfm": "1JN 3:24",
+"end_ref": "62003024",
+"end_ref_usfm": "1JN 3:24"
+},
+{
+"start_ref": "62004013",
+"start_ref_usfm": "1JN 4:13",
+"end_ref": "62004013",
+"end_ref_usfm": "1JN 4:13"
+},
+{
+"start_ref": "62005007",
+"start_ref_usfm": "1JN 5:7",
+"end_ref": "62005010",
+"end_ref_usfm": "1JN 5:10"
+},
+{
+"start_ref": "58010014",
+"start_ref_usfm": "HEB 10:14",
+"end_ref": "58010017",
+"end_ref_usfm": "HEB 10:17"
+},
+{
+"start_ref": "45008015",
+"start_ref_usfm": "ROM 8:15",
+"end_ref": "45008016",
+"end_ref_usfm": "ROM 8:16"
+},
+{
+"start_ref": "48004006",
+"start_ref_usfm": "GAL 4:6",
+"end_ref": "48004006",
+"end_ref_usfm": "GAL 4:6"
+}
+],
+"resource": [
+{
+"reference_id": "2422",
+"content_id": "2422",
+"resource_code": "DictionaryBibleThemes",
+"label": "2422: gospel, confirmation of",
+"language": "eng"
+},
+{
+"reference_id": "3030",
+"content_id": "3030",
+"resource_code": "DictionaryBibleThemes",
+"label": "3030: Holy Spirit, power of",
+"language": "eng"
+},
+{
+"reference_id": "3203",
+"content_id": "3203",
+"resource_code": "DictionaryBibleThemes",
+"label": "3203: Holy Spirit, and assurance",
+"language": "eng"
+},
+{
+"reference_id": "3212",
+"content_id": "3212",
+"resource_code": "DictionaryBibleThemes",
+"label": "3212: Holy Spirit, and mission",
+"language": "eng"
+},
+{
+"reference_id": "3224",
+"content_id": "3224",
+"resource_code": "DictionaryBibleThemes",
+"label": "3224: Holy Spirit, and preaching",
+"language": "eng"
+},
+{
+"reference_id": "5624",
+"content_id": "5624",
+"resource_code": "DictionaryBibleThemes",
+"label": "5624: witnesses, to Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "6608",
+"content_id": "6608",
+"resource_code": "DictionaryBibleThemes",
+"label": "6608: adoption",
+"language": "eng"
+},
+{
+"reference_id": "8104",
+"content_id": "8104",
+"resource_code": "DictionaryBibleThemes",
+"label": "8104: assurance",
+"language": "eng"
+},
+{
+"reference_id": "8498",
+"content_id": "8498",
+"resource_code": "DictionaryBibleThemes",
+"label": "8498: witnessing, and Holy Spirit",
+"language": "eng"
+}
+]
+}
+}
+]

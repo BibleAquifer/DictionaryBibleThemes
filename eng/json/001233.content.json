@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5690",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5690: friends",
+"media_type": "Text",
+"index_reference": "5690: friends",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Those to whom one is close. Scripture stresses that friendship is often but not always a positive thing: where good friends can be invaluable in the life of faith, bad friends can be obstacles to the faith of believers, or even lead them astray totally.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5691",
+"content_id": "5691",
+"resource_code": "DictionaryBibleThemes",
+"label": "5691: friends, good",
+"language": "eng"
+},
+{
+"reference_id": "5692",
+"content_id": "5692",
+"resource_code": "DictionaryBibleThemes",
+"label": "5692: friends, bad",
+"language": "eng"
+}
+]
+}
+}
+]

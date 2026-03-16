@@ -1,0 +1,268 @@
+[
+{
+"content_id": "4618",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4618: calf",
+"media_type": "Text",
+"index_reference": "4618: calf",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A young animal prized as the source of tender meat, suitable for celebrations. However, it also had associations with both the OT sacrificial system and idolatry.</p>\n<h2>The association of the calf with idolatry</h2>\n<p><strong><a href=\"https://ref.ly/Exod32:2-Exod32:8\">EXO 32:2–32:8</a></strong>; <strong><a href=\"https://ref.ly/1Kgs12:28-1Kgs12:29\">1KI 12:28–12:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:19-Exod32:24\">EXO 32:19–32:24</a>; <a href=\"https://ref.ly/Deut9:16-Deut9:21\">DEU 9:16–9:21</a>; <a href=\"https://ref.ly/2Kgs10:28-2Kgs10:29\">2KI 10:28–10:29</a>, <a href=\"https://ref.ly/2Kgs17:16\">2KI 17:16</a>; <a href=\"https://ref.ly/2Chr11:15\">2CH 11:15</a>; <a href=\"https://ref.ly/Neh9:16-Neh9:18\">NEH 9:16–9:18</a>; <a href=\"https://ref.ly/Ps106:19-Ps106:20\">PSA 106:19–106:20</a>; <a href=\"https://ref.ly/Hos8:5-Hos8:6\">HOS 8:5–8:6</a>, <a href=\"https://ref.ly/Hos10:5\">HOS 10:5</a>, <a href=\"https://ref.ly/Hos13:2\">HOS 13:2</a>; <a href=\"https://ref.ly/Acts7:41\">ACT 7:41</a></p>\n<h2>The sacrifice of calves</h2>\n<p><strong><a href=\"https://ref.ly/Mic6:6\">MIC 6:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev9:1-Lev9:4\">LEV 9:1–9:4</a>, <a href=\"https://ref.ly/Lev9:8-Lev9:11\">LEV 9:8–9:11</a>; <a href=\"https://ref.ly/2Sam6:12-2Sam6:13\">2SA 6:12–6:13</a>; <a href=\"https://ref.ly/1Kgs1:9-1Kgs1:10\">1KI 1:9–1:10</a>; <a href=\"https://ref.ly/Heb9:11-Heb9:12\">HEB 9:11–9:12</a>, <a href=\"https://ref.ly/Heb9:19-Heb9:20\">HEB 9:19–9:20</a></p>\n<h2>The flesh of the calf as a prized food</h2>\n<p><strong><a href=\"https://ref.ly/Prov15:17\">PRO 15:17</a></strong>; <strong><a href=\"https://ref.ly/Luke15:22-Luke15:23\">LUK 15:22–15:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:6-Gen18:8\">GEN 18:6–18:8</a>; <a href=\"https://ref.ly/1Sam14:31-1Sam14:32\">1SA 14:31–14:32</a>, <a href=\"https://ref.ly/1Sam28:24-1Sam28:25\">1SA 28:24–28:25</a></p>\n<h2>The metaphorical use of calves</h2>\n<p><strong><a href=\"https://ref.ly/Jer31:18\">JER 31:18</a></strong>; <strong><a href=\"https://ref.ly/Mal4:2\">MAL 4:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps29:6\">PSA 29:6</a>, <a href=\"https://ref.ly/Ps68:30\">PSA 68:30</a>; <a href=\"https://ref.ly/Jer34:18\">JER 34:18</a>, <a href=\"https://ref.ly/Jer46:20-Jer46:21\">JER 46:20–46:21</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02032002",
+"start_ref_usfm": "EXO 32:2",
+"end_ref": "02032008",
+"end_ref_usfm": "EXO 32:8"
+},
+{
+"start_ref": "11012028",
+"start_ref_usfm": "1KI 12:28",
+"end_ref": "11012029",
+"end_ref_usfm": "1KI 12:29"
+},
+{
+"start_ref": "02032019",
+"start_ref_usfm": "EXO 32:19",
+"end_ref": "02032024",
+"end_ref_usfm": "EXO 32:24"
+},
+{
+"start_ref": "05009016",
+"start_ref_usfm": "DEU 9:16",
+"end_ref": "05009021",
+"end_ref_usfm": "DEU 9:21"
+},
+{
+"start_ref": "12010028",
+"start_ref_usfm": "2KI 10:28",
+"end_ref": "12010029",
+"end_ref_usfm": "2KI 10:29"
+},
+{
+"start_ref": "12017016",
+"start_ref_usfm": "2KI 17:16",
+"end_ref": "12017016",
+"end_ref_usfm": "2KI 17:16"
+},
+{
+"start_ref": "14011015",
+"start_ref_usfm": "2CH 11:15",
+"end_ref": "14011015",
+"end_ref_usfm": "2CH 11:15"
+},
+{
+"start_ref": "16009016",
+"start_ref_usfm": "NEH 9:16",
+"end_ref": "16009018",
+"end_ref_usfm": "NEH 9:18"
+},
+{
+"start_ref": "19106019",
+"start_ref_usfm": "PSA 106:19",
+"end_ref": "19106020",
+"end_ref_usfm": "PSA 106:20"
+},
+{
+"start_ref": "28008005",
+"start_ref_usfm": "HOS 8:5",
+"end_ref": "28008006",
+"end_ref_usfm": "HOS 8:6"
+},
+{
+"start_ref": "28010005",
+"start_ref_usfm": "HOS 10:5",
+"end_ref": "28010005",
+"end_ref_usfm": "HOS 10:5"
+},
+{
+"start_ref": "28013002",
+"start_ref_usfm": "HOS 13:2",
+"end_ref": "28013002",
+"end_ref_usfm": "HOS 13:2"
+},
+{
+"start_ref": "44007041",
+"start_ref_usfm": "ACT 7:41",
+"end_ref": "44007041",
+"end_ref_usfm": "ACT 7:41"
+},
+{
+"start_ref": "33006006",
+"start_ref_usfm": "MIC 6:6",
+"end_ref": "33006006",
+"end_ref_usfm": "MIC 6:6"
+},
+{
+"start_ref": "03009001",
+"start_ref_usfm": "LEV 9:1",
+"end_ref": "03009004",
+"end_ref_usfm": "LEV 9:4"
+},
+{
+"start_ref": "03009008",
+"start_ref_usfm": "LEV 9:8",
+"end_ref": "03009011",
+"end_ref_usfm": "LEV 9:11"
+},
+{
+"start_ref": "10006012",
+"start_ref_usfm": "2SA 6:12",
+"end_ref": "10006013",
+"end_ref_usfm": "2SA 6:13"
+},
+{
+"start_ref": "11001009",
+"start_ref_usfm": "1KI 1:9",
+"end_ref": "11001010",
+"end_ref_usfm": "1KI 1:10"
+},
+{
+"start_ref": "58009011",
+"start_ref_usfm": "HEB 9:11",
+"end_ref": "58009012",
+"end_ref_usfm": "HEB 9:12"
+},
+{
+"start_ref": "58009019",
+"start_ref_usfm": "HEB 9:19",
+"end_ref": "58009020",
+"end_ref_usfm": "HEB 9:20"
+},
+{
+"start_ref": "20015017",
+"start_ref_usfm": "PRO 15:17",
+"end_ref": "20015017",
+"end_ref_usfm": "PRO 15:17"
+},
+{
+"start_ref": "42015022",
+"start_ref_usfm": "LUK 15:22",
+"end_ref": "42015023",
+"end_ref_usfm": "LUK 15:23"
+},
+{
+"start_ref": "01018006",
+"start_ref_usfm": "GEN 18:6",
+"end_ref": "01018008",
+"end_ref_usfm": "GEN 18:8"
+},
+{
+"start_ref": "09014031",
+"start_ref_usfm": "1SA 14:31",
+"end_ref": "09014032",
+"end_ref_usfm": "1SA 14:32"
+},
+{
+"start_ref": "09028024",
+"start_ref_usfm": "1SA 28:24",
+"end_ref": "09028025",
+"end_ref_usfm": "1SA 28:25"
+},
+{
+"start_ref": "24031018",
+"start_ref_usfm": "JER 31:18",
+"end_ref": "24031018",
+"end_ref_usfm": "JER 31:18"
+},
+{
+"start_ref": "39004002",
+"start_ref_usfm": "MAL 4:2",
+"end_ref": "39004002",
+"end_ref_usfm": "MAL 4:2"
+},
+{
+"start_ref": "19029006",
+"start_ref_usfm": "PSA 29:6",
+"end_ref": "19029006",
+"end_ref_usfm": "PSA 29:6"
+},
+{
+"start_ref": "19068030",
+"start_ref_usfm": "PSA 68:30",
+"end_ref": "19068030",
+"end_ref_usfm": "PSA 68:30"
+},
+{
+"start_ref": "24034018",
+"start_ref_usfm": "JER 34:18",
+"end_ref": "24034018",
+"end_ref_usfm": "JER 34:18"
+},
+{
+"start_ref": "24046020",
+"start_ref_usfm": "JER 46:20",
+"end_ref": "24046021",
+"end_ref_usfm": "JER 46:21"
+}
+],
+"resource": [
+{
+"reference_id": "4404",
+"content_id": "4404",
+"resource_code": "DictionaryBibleThemes",
+"label": "4404: food",
+"language": "eng"
+},
+{
+"reference_id": "4476",
+"content_id": "4476",
+"resource_code": "DictionaryBibleThemes",
+"label": "4476: meals",
+"language": "eng"
+},
+{
+"reference_id": "4605",
+"content_id": "4605",
+"resource_code": "DictionaryBibleThemes",
+"label": "4605: animals, religious role of",
+"language": "eng"
+},
+{
+"reference_id": "4615",
+"content_id": "4615",
+"resource_code": "DictionaryBibleThemes",
+"label": "4615: bull",
+"language": "eng"
+},
+{
+"reference_id": "4624",
+"content_id": "4624",
+"resource_code": "DictionaryBibleThemes",
+"label": "4624: cow",
+"language": "eng"
+},
+{
+"reference_id": "7316",
+"content_id": "7316",
+"resource_code": "DictionaryBibleThemes",
+"label": "7316: blood, and OT sacrifices",
+"language": "eng"
+},
+{
+"reference_id": "7324",
+"content_id": "7324",
+"resource_code": "DictionaryBibleThemes",
+"label": "7324: calf worship",
+"language": "eng"
+},
+{
+"reference_id": "7435",
+"content_id": "7435",
+"resource_code": "DictionaryBibleThemes",
+"label": "7435: sacrifice, in OT",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+}
+]
+}
+}
+]

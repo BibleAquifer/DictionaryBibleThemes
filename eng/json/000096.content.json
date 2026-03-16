@@ -1,0 +1,122 @@
+[
+{
+"content_id": "1440",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1440: revelation, through creation",
+"media_type": "Text",
+"index_reference": "1440: revelation, through creation",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The creation bears witness to the wisdom and power of its creator. This natural knowledge of God is limited in its extent, but is sufficient to convince human beings of the existence of God and the need to respond to him.</p>\n<h2>The creation bears witness to its creator</h2>\n<p><strong><a href=\"https://ref.ly/Ps19:1-Ps19:6\">PSA 19:1–19:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job36:22-Job37:18\">JOB 36:22–37:18</a>; <a href=\"https://ref.ly/Amos4:13\">AMO 4:13</a>; <a href=\"https://ref.ly/Acts14:15-Acts14:17\">ACT 14:15–14:17</a></p>\n<h2>All human beings have a natural awareness of God</h2>\n<p><strong><a href=\"https://ref.ly/Rom2:14-Rom2:15\">ROM 2:14–2:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts17:22-Acts17:31\">ACT 17:22–17:31</a></p>\n<h2>The limitations of a natural knowledge of God</h2>\n<p><strong><a href=\"https://ref.ly/Rom1:18-Rom1:21\">ROM 1:18–1:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom1:32\">ROM 1:32</a>; <a href=\"https://ref.ly/1Cor1:20-1Cor1:21\">1CO 1:20–1:21</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19019001",
+"start_ref_usfm": "PSA 19:1",
+"end_ref": "19019006",
+"end_ref_usfm": "PSA 19:6"
+},
+{
+"start_ref": "18036022",
+"start_ref_usfm": "JOB 36:22",
+"end_ref": "18037018",
+"end_ref_usfm": "JOB 37:18"
+},
+{
+"start_ref": "30004013",
+"start_ref_usfm": "AMO 4:13",
+"end_ref": "30004013",
+"end_ref_usfm": "AMO 4:13"
+},
+{
+"start_ref": "44014015",
+"start_ref_usfm": "ACT 14:15",
+"end_ref": "44014017",
+"end_ref_usfm": "ACT 14:17"
+},
+{
+"start_ref": "45002014",
+"start_ref_usfm": "ROM 2:14",
+"end_ref": "45002015",
+"end_ref_usfm": "ROM 2:15"
+},
+{
+"start_ref": "44017022",
+"start_ref_usfm": "ACT 17:22",
+"end_ref": "44017031",
+"end_ref_usfm": "ACT 17:31"
+},
+{
+"start_ref": "45001018",
+"start_ref_usfm": "ROM 1:18",
+"end_ref": "45001021",
+"end_ref_usfm": "ROM 1:21"
+},
+{
+"start_ref": "45001032",
+"start_ref_usfm": "ROM 1:32",
+"end_ref": "45001032",
+"end_ref_usfm": "ROM 1:32"
+},
+{
+"start_ref": "46001020",
+"start_ref_usfm": "1CO 1:20",
+"end_ref": "46001021",
+"end_ref_usfm": "1CO 1:21"
+}
+],
+"resource": [
+{
+"reference_id": "1045",
+"content_id": "1045",
+"resource_code": "DictionaryBibleThemes",
+"label": "1045: God, glory of",
+"language": "eng"
+},
+{
+"reference_id": "1325",
+"content_id": "1325",
+"resource_code": "DictionaryBibleThemes",
+"label": "1325: God, the Creator",
+"language": "eng"
+},
+{
+"reference_id": "1403",
+"content_id": "1403",
+"resource_code": "DictionaryBibleThemes",
+"label": "1403: God, revelation of",
+"language": "eng"
+},
+{
+"reference_id": "5008",
+"content_id": "5008",
+"resource_code": "DictionaryBibleThemes",
+"label": "5008: conscience",
+"language": "eng"
+},
+{
+"reference_id": "5548",
+"content_id": "5548",
+"resource_code": "DictionaryBibleThemes",
+"label": "5548: speech, divine",
+"language": "eng"
+},
+{
+"reference_id": "6183",
+"content_id": "6183",
+"resource_code": "DictionaryBibleThemes",
+"label": "6183: ignorance, of God",
+"language": "eng"
+},
+{
+"reference_id": "8135",
+"content_id": "8135",
+"resource_code": "DictionaryBibleThemes",
+"label": "8135: knowing God, nature of",
+"language": "eng"
+}
+]
+}
+}
+]

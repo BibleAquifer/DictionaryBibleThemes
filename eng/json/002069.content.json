@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8226",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8226: discernment",
+"media_type": "Text",
+"index_reference": "8226: discernment",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The sound judgment which makes possible the distinguishing of good from evil, and the recognition of God's right ways for his people. It is necessary for the understanding of spiritual realities and, on a practical level, for right government and the avoidance of life's pitfalls.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8227",
+"content_id": "8227",
+"resource_code": "DictionaryBibleThemes",
+"label": "8227: discernment, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8228",
+"content_id": "8228",
+"resource_code": "DictionaryBibleThemes",
+"label": "8228: discernment, examples of",
+"language": "eng"
+}
+]
+}
+}
+]

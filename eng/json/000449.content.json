@@ -1,0 +1,316 @@
+[
+{
+"content_id": "4468",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4468: horticulture",
+"media_type": "Text",
+"index_reference": "4468: horticulture",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The art of garden cultivation, first practised in the Garden of Eden.</p>\n<h2>Horticulture in the Garden of Eden</h2>\n<h3>The man and woman tended the garden</h3>\n<p><strong><a href=\"https://ref.ly/Gen2:15-Gen2:23\">GEN 2:15–2:23</a></strong></p>\n<h3>The fall brought about a change in human priorities from horticulture to agriculture</h3>\n<p><strong><a href=\"https://ref.ly/Gen3:17-Gen3:19\">GEN 3:17–3:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen4:2\">GEN 4:2</a></p>\n<h2>Egyptian agriculture is likened to horticulture</h2>\n<p><strong><a href=\"https://ref.ly/Deut11:10-Deut11:11\">DEU 11:10–11:11</a></strong></p>\n<h2>Horticulture is totally dependent on good irrigation</h2>\n<p><strong><a href=\"https://ref.ly/Isa58:11\">ISA 58:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen2:4-Gen2:14\">GEN 2:4–2:14</a>, <a href=\"https://ref.ly/Gen13:10\">GEN 13:10</a>; <a href=\"https://ref.ly/Num24:5-Num24:7\">NUM 24:5–24:7</a>; <a href=\"https://ref.ly/Job8:16\">JOB 8:16</a>; <a href=\"https://ref.ly/Song4:12\">SNG 4:12</a>, <a href=\"https://ref.ly/Song4:15\">SNG 4:15</a>; <a href=\"https://ref.ly/Isa51:3\">ISA 51:3</a>; <a href=\"https://ref.ly/Jer31:12\">JER 31:12</a></p>\n<h2>Those who practised horticulture</h2>\n<h3>Kings</h3>\n<p><strong><a href=\"https://ref.ly/Eccl2:5-Eccl2:6\">ECC 2:5–2:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs21:2\">1KI 21:2</a>; <a href=\"https://ref.ly/2Kgs21:18\">2KI 21:18</a>, <a href=\"https://ref.ly/2Kgs21:26\">2KI 21:26</a>, <a href=\"https://ref.ly/2Kgs25:4\">2KI 25:4</a> parallels <a href=\"https://ref.ly/Jer39:4\">JER 39:4</a>, <a href=\"https://ref.ly/Jer52:7\">JER 52:7</a>; <a href=\"https://ref.ly/Neh3:15\">NEH 3:15</a>; <a href=\"https://ref.ly/Esth1:5-Esth1:6\">EST 1:5–1:6</a>, <a href=\"https://ref.ly/Esth7:7-Esth7:8\">EST 7:7–7:8</a>; <a href=\"https://ref.ly/Song8:13\">SNG 8:13</a></p>\n<h3>Common people</h3>\n<p><strong><a href=\"https://ref.ly/Jer29:28\">JER 29:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer29:1-Jer29:7\">JER 29:1–29:7</a>; <a href=\"https://ref.ly/John19:41\">JHN 19:41</a></p>\n<h3>Gardeners</h3>\n<p><strong><a href=\"https://ref.ly/John20:15\">JHN 20:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa5:7\">ISA 5:7</a>; <a href=\"https://ref.ly/John15:1\">JHN 15:1</a></p>\n<h2>Kinds of horticulture</h2>\n<h3>Vegetable gardens</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs21:2\">1KI 21:2</a></strong></p>\n<h3>Fruit gardens</h3>\n<p><strong><a href=\"https://ref.ly/Amos9:14\">AMO 9:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen2:16-Gen2:17\">GEN 2:16–2:17</a>, <a href=\"https://ref.ly/Gen3:1-Gen3:3\">GEN 3:1–3:3</a></p>\n<h3>Herb gardens</h3>\n<p><strong><a href=\"https://ref.ly/Luke11:42\">LUK 11:42</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song6:2\">SNG 6:2</a>; <a href=\"https://ref.ly/Matt13:31-Matt13:32\">MAT 13:31–13:32</a> parallels <a href=\"https://ref.ly/Mark4:31-Mark4:32\">MRK 4:31–4:32</a>, <a href=\"https://ref.ly/Luke13:19\">LUK 13:19</a></p>\n<h2>Horticultural diseases and pestilence</h2>\n<p><strong><a href=\"https://ref.ly/Amos4:9\">AMO 4:9</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01002015",
+"start_ref_usfm": "GEN 2:15",
+"end_ref": "01002023",
+"end_ref_usfm": "GEN 2:23"
+},
+{
+"start_ref": "01003017",
+"start_ref_usfm": "GEN 3:17",
+"end_ref": "01003019",
+"end_ref_usfm": "GEN 3:19"
+},
+{
+"start_ref": "01004002",
+"start_ref_usfm": "GEN 4:2",
+"end_ref": "01004002",
+"end_ref_usfm": "GEN 4:2"
+},
+{
+"start_ref": "05011010",
+"start_ref_usfm": "DEU 11:10",
+"end_ref": "05011011",
+"end_ref_usfm": "DEU 11:11"
+},
+{
+"start_ref": "23058011",
+"start_ref_usfm": "ISA 58:11",
+"end_ref": "23058011",
+"end_ref_usfm": "ISA 58:11"
+},
+{
+"start_ref": "01002004",
+"start_ref_usfm": "GEN 2:4",
+"end_ref": "01002014",
+"end_ref_usfm": "GEN 2:14"
+},
+{
+"start_ref": "01013010",
+"start_ref_usfm": "GEN 13:10",
+"end_ref": "01013010",
+"end_ref_usfm": "GEN 13:10"
+},
+{
+"start_ref": "04024005",
+"start_ref_usfm": "NUM 24:5",
+"end_ref": "04024007",
+"end_ref_usfm": "NUM 24:7"
+},
+{
+"start_ref": "18008016",
+"start_ref_usfm": "JOB 8:16",
+"end_ref": "18008016",
+"end_ref_usfm": "JOB 8:16"
+},
+{
+"start_ref": "22004012",
+"start_ref_usfm": "SNG 4:12",
+"end_ref": "22004012",
+"end_ref_usfm": "SNG 4:12"
+},
+{
+"start_ref": "22004015",
+"start_ref_usfm": "SNG 4:15",
+"end_ref": "22004015",
+"end_ref_usfm": "SNG 4:15"
+},
+{
+"start_ref": "23051003",
+"start_ref_usfm": "ISA 51:3",
+"end_ref": "23051003",
+"end_ref_usfm": "ISA 51:3"
+},
+{
+"start_ref": "24031012",
+"start_ref_usfm": "JER 31:12",
+"end_ref": "24031012",
+"end_ref_usfm": "JER 31:12"
+},
+{
+"start_ref": "21002005",
+"start_ref_usfm": "ECC 2:5",
+"end_ref": "21002006",
+"end_ref_usfm": "ECC 2:6"
+},
+{
+"start_ref": "11021002",
+"start_ref_usfm": "1KI 21:2",
+"end_ref": "11021002",
+"end_ref_usfm": "1KI 21:2"
+},
+{
+"start_ref": "12021018",
+"start_ref_usfm": "2KI 21:18",
+"end_ref": "12021018",
+"end_ref_usfm": "2KI 21:18"
+},
+{
+"start_ref": "12021026",
+"start_ref_usfm": "2KI 21:26",
+"end_ref": "12021026",
+"end_ref_usfm": "2KI 21:26"
+},
+{
+"start_ref": "12025004",
+"start_ref_usfm": "2KI 25:4",
+"end_ref": "12025004",
+"end_ref_usfm": "2KI 25:4"
+},
+{
+"start_ref": "24039004",
+"start_ref_usfm": "JER 39:4",
+"end_ref": "24039004",
+"end_ref_usfm": "JER 39:4"
+},
+{
+"start_ref": "24052007",
+"start_ref_usfm": "JER 52:7",
+"end_ref": "24052007",
+"end_ref_usfm": "JER 52:7"
+},
+{
+"start_ref": "16003015",
+"start_ref_usfm": "NEH 3:15",
+"end_ref": "16003015",
+"end_ref_usfm": "NEH 3:15"
+},
+{
+"start_ref": "17001005",
+"start_ref_usfm": "EST 1:5",
+"end_ref": "17001006",
+"end_ref_usfm": "EST 1:6"
+},
+{
+"start_ref": "17007007",
+"start_ref_usfm": "EST 7:7",
+"end_ref": "17007008",
+"end_ref_usfm": "EST 7:8"
+},
+{
+"start_ref": "22008013",
+"start_ref_usfm": "SNG 8:13",
+"end_ref": "22008013",
+"end_ref_usfm": "SNG 8:13"
+},
+{
+"start_ref": "24029028",
+"start_ref_usfm": "JER 29:28",
+"end_ref": "24029028",
+"end_ref_usfm": "JER 29:28"
+},
+{
+"start_ref": "24029001",
+"start_ref_usfm": "JER 29:1",
+"end_ref": "24029007",
+"end_ref_usfm": "JER 29:7"
+},
+{
+"start_ref": "43019041",
+"start_ref_usfm": "JHN 19:41",
+"end_ref": "43019041",
+"end_ref_usfm": "JHN 19:41"
+},
+{
+"start_ref": "43020015",
+"start_ref_usfm": "JHN 20:15",
+"end_ref": "43020015",
+"end_ref_usfm": "JHN 20:15"
+},
+{
+"start_ref": "23005007",
+"start_ref_usfm": "ISA 5:7",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
+"start_ref": "43015001",
+"start_ref_usfm": "JHN 15:1",
+"end_ref": "43015001",
+"end_ref_usfm": "JHN 15:1"
+},
+{
+"start_ref": "30009014",
+"start_ref_usfm": "AMO 9:14",
+"end_ref": "30009014",
+"end_ref_usfm": "AMO 9:14"
+},
+{
+"start_ref": "01002016",
+"start_ref_usfm": "GEN 2:16",
+"end_ref": "01002017",
+"end_ref_usfm": "GEN 2:17"
+},
+{
+"start_ref": "01003001",
+"start_ref_usfm": "GEN 3:1",
+"end_ref": "01003003",
+"end_ref_usfm": "GEN 3:3"
+},
+{
+"start_ref": "42011042",
+"start_ref_usfm": "LUK 11:42",
+"end_ref": "42011042",
+"end_ref_usfm": "LUK 11:42"
+},
+{
+"start_ref": "22006002",
+"start_ref_usfm": "SNG 6:2",
+"end_ref": "22006002",
+"end_ref_usfm": "SNG 6:2"
+},
+{
+"start_ref": "40013031",
+"start_ref_usfm": "MAT 13:31",
+"end_ref": "40013032",
+"end_ref_usfm": "MAT 13:32"
+},
+{
+"start_ref": "41004031",
+"start_ref_usfm": "MRK 4:31",
+"end_ref": "41004032",
+"end_ref_usfm": "MRK 4:32"
+},
+{
+"start_ref": "42013019",
+"start_ref_usfm": "LUK 13:19",
+"end_ref": "42013019",
+"end_ref_usfm": "LUK 13:19"
+},
+{
+"start_ref": "30004009",
+"start_ref_usfm": "AMO 4:9",
+"end_ref": "30004009",
+"end_ref_usfm": "AMO 4:9"
+}
+],
+"resource": [
+{
+"reference_id": "4239",
+"content_id": "4239",
+"resource_code": "DictionaryBibleThemes",
+"label": "4239: garden",
+"language": "eng"
+},
+{
+"reference_id": "4406",
+"content_id": "4406",
+"resource_code": "DictionaryBibleThemes",
+"label": "4406: agriculture",
+"language": "eng"
+},
+{
+"reference_id": "4450",
+"content_id": "4450",
+"resource_code": "DictionaryBibleThemes",
+"label": "4450: fruit",
+"language": "eng"
+},
+{
+"reference_id": "4466",
+"content_id": "4466",
+"resource_code": "DictionaryBibleThemes",
+"label": "4466: herbs and spices",
+"language": "eng"
+},
+{
+"reference_id": "4528",
+"content_id": "4528",
+"resource_code": "DictionaryBibleThemes",
+"label": "4528: trees",
+"language": "eng"
+},
+{
+"reference_id": "4532",
+"content_id": "4532",
+"resource_code": "DictionaryBibleThemes",
+"label": "4532: vegetables",
+"language": "eng"
+},
+{
+"reference_id": "4538",
+"content_id": "4538",
+"resource_code": "DictionaryBibleThemes",
+"label": "4538: vineyard",
+"language": "eng"
+},
+{
+"reference_id": "4540",
+"content_id": "4540",
+"resource_code": "DictionaryBibleThemes",
+"label": "4540: weeds",
+"language": "eng"
+},
+{
+"reference_id": "6154",
+"content_id": "6154",
+"resource_code": "DictionaryBibleThemes",
+"label": "6154: fall, the",
+"language": "eng"
+}
+]
+}
+}
+]

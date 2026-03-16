@@ -1,0 +1,74 @@
+[
+{
+"content_id": "2420",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "2420: gospel",
+"media_type": "Text",
+"index_reference": "2420: gospel",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The good news of God's redemption of sinful humanity through the life, death and resurrection of his Son Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "2421",
+"content_id": "2421",
+"resource_code": "DictionaryBibleThemes",
+"label": "2421: gospel, historical foundation of",
+"language": "eng"
+},
+{
+"reference_id": "2422",
+"content_id": "2422",
+"resource_code": "DictionaryBibleThemes",
+"label": "2422: gospel, confirmation of",
+"language": "eng"
+},
+{
+"reference_id": "2423",
+"content_id": "2423",
+"resource_code": "DictionaryBibleThemes",
+"label": "2423: gospel, essence of",
+"language": "eng"
+},
+{
+"reference_id": "2424",
+"content_id": "2424",
+"resource_code": "DictionaryBibleThemes",
+"label": "2424: gospel, promises of",
+"language": "eng"
+},
+{
+"reference_id": "2425",
+"content_id": "2425",
+"resource_code": "DictionaryBibleThemes",
+"label": "2425: gospel, requirements of",
+"language": "eng"
+},
+{
+"reference_id": "2426",
+"content_id": "2426",
+"resource_code": "DictionaryBibleThemes",
+"label": "2426: gospel, responses to",
+"language": "eng"
+},
+{
+"reference_id": "2427",
+"content_id": "2427",
+"resource_code": "DictionaryBibleThemes",
+"label": "2427: gospel, transmission of",
+"language": "eng"
+},
+{
+"reference_id": "2428",
+"content_id": "2428",
+"resource_code": "DictionaryBibleThemes",
+"label": "2428: gospel, descriptions of",
+"language": "eng"
+}
+]
+}
+}
+]

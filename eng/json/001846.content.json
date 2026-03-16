@@ -1,0 +1,92 @@
+[
+{
+"content_id": "7452",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7452: snake, bronze",
+"media_type": "Text",
+"index_reference": "7452: snake, bronze",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The means of salvation for Israel in the wilderness, a parallel to be found in Jesus Christ.</p>\n<h2>Healing and salvation resulted from looking at the bronze snake</h2>\n<p><strong><a href=\"https://ref.ly/Num21:8-Num21:9\">NUM 21:8–21:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num21:4-Num21:7\">NUM 21:4–21:7</a></p>\n<h2>The bronze snake became an object of idolatrous worship</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs18:4\">2KI 18:4</a></strong></p>\n<h2>The bronze snake parallels Jesus Christ's crucifixion</h2>\n<p><strong><a href=\"https://ref.ly/John3:14-John3:15\">JHN 3:14–3:15</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04021008",
+"start_ref_usfm": "NUM 21:8",
+"end_ref": "04021009",
+"end_ref_usfm": "NUM 21:9"
+},
+{
+"start_ref": "04021004",
+"start_ref_usfm": "NUM 21:4",
+"end_ref": "04021007",
+"end_ref_usfm": "NUM 21:7"
+},
+{
+"start_ref": "12018004",
+"start_ref_usfm": "2KI 18:4",
+"end_ref": "12018004",
+"end_ref_usfm": "2KI 18:4"
+},
+{
+"start_ref": "43003014",
+"start_ref_usfm": "JHN 3:14",
+"end_ref": "43003015",
+"end_ref_usfm": "JHN 3:15"
+}
+],
+"resource": [
+{
+"reference_id": "1680",
+"content_id": "1680",
+"resource_code": "DictionaryBibleThemes",
+"label": "1680: types",
+"language": "eng"
+},
+{
+"reference_id": "2321",
+"content_id": "2321",
+"resource_code": "DictionaryBibleThemes",
+"label": "2321: Jesus Christ, as redeemer",
+"language": "eng"
+},
+{
+"reference_id": "2324",
+"content_id": "2324",
+"resource_code": "DictionaryBibleThemes",
+"label": "2324: Jesus Christ, as Saviour",
+"language": "eng"
+},
+{
+"reference_id": "4312",
+"content_id": "4312",
+"resource_code": "DictionaryBibleThemes",
+"label": "4312: bronze",
+"language": "eng"
+},
+{
+"reference_id": "4687",
+"content_id": "4687",
+"resource_code": "DictionaryBibleThemes",
+"label": "4687: snake",
+"language": "eng"
+},
+{
+"reference_id": "5104",
+"content_id": "5104",
+"resource_code": "DictionaryBibleThemes",
+"label": "5104: Moses, foreshadower of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+}
+]
+}
+}
+]

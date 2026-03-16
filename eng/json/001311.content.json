@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5789",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5789: anger",
+"media_type": "Text",
+"index_reference": "5789: anger",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A state of indignation and outrage, often resulting from distress caused by injustice or insult. Scripture affirms God's righteous anger against sin and urges moderation in regard to human anger.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5790",
+"content_id": "5790",
+"resource_code": "DictionaryBibleThemes",
+"label": "5790: anger, divine",
+"language": "eng"
+},
+{
+"reference_id": "5791",
+"content_id": "5791",
+"resource_code": "DictionaryBibleThemes",
+"label": "5791: anger, human",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,343 @@
+[
+{
+"content_id": "5590",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5590: travel",
+"media_type": "Text",
+"index_reference": "5590: travel",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Whole communities travelled</h2>\n<h3>The exodus</h3>\n<p><strong><a href=\"https://ref.ly/Exod17:1\">EXO 17:1</a></strong></p>\n<h3>The exile</h3>\n<p><strong><a href=\"https://ref.ly/2Chr36:20\">2CH 36:20</a></strong></p>\n<h3>The return from exile</h3>\n<p><strong><a href=\"https://ref.ly/Ezra2:1-Ezra2:2\">EZR 2:1–2:2</a></strong></p>\n<h2>Nomadic travelling</h2>\n<p><strong><a href=\"https://ref.ly/Gen12:6\">GEN 12:6</a></strong></p>\n<h2>Military forces travelled</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Exod14:4\">EXO 14:4</a>; <a href=\"https://ref.ly/2Sam10:16\">2SA 10:16</a>; <a href=\"https://ref.ly/2Kgs25:1\">2KI 25:1</a></p>\n<h2>Officials travelled</h2>\n<p><strong><a href=\"https://ref.ly/Gen41:46\">GEN 41:46</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs5:1-2Kgs5:5\">2KI 5:1–5:5</a> <em>Naaman</em>; <a href=\"https://ref.ly/Neh2:5\">NEH 2:5</a> <em>Nehemiah</em>; <a href=\"https://ref.ly/Acts8:27\">ACT 8:27</a> <em>the Ethiopian eunuch</em></p>\n<h2>Refugees travelled</h2>\n<p><a href=\"https://ref.ly/2Kgs25:26\">2KI 25:26</a>; ; <a href=\"https://ref.ly/Matt2:13-Matt2:14\">MAT 2:13–2:14</a></p>\n<h2>Business travel</h2>\n<p><strong><a href=\"https://ref.ly/Jas4:13\">JAS 4:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke10:33\">LUK 10:33</a></p>\n<h2>Travelling on pilgrimage</h2>\n<p><a href=\"https://ref.ly/Luke2:41-Luke2:44\">LUK 2:41–2:44</a></p>\n<h2>Missionary travels</h2>\n<h3>The Jews</h3>\n<p><a href=\"https://ref.ly/Matt23:15\">MAT 23:15</a></p>\n<h3>Jesus Christ and his disciples</h3>\n<p><a href=\"https://ref.ly/Mark1:39\">MRK 1:39</a>, <a href=\"https://ref.ly/Mark8:27\">MRK 8:27</a>; ; <a href=\"https://ref.ly/Luke8:1\">LUK 8:1</a>, <a href=\"https://ref.ly/Luke14:25\">LUK 14:25</a></p>\n<h3>The apostles</h3>\n<p><a href=\"https://ref.ly/Acts8:40\">ACT 8:40</a>, <a href=\"https://ref.ly/Acts11:19\">ACT 11:19</a>, <a href=\"https://ref.ly/Acts13:6\">ACT 13:6</a>, <a href=\"https://ref.ly/Acts15:3\">ACT 15:3</a>, <a href=\"https://ref.ly/Acts18:23\">ACT 18:23</a></p>\n<h2>Modes of travel</h2>\n<p><a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a> <em>in caravans</em>; ; <a href=\"https://ref.ly/Luke24:13-Luke24:15\">LUK 24:13–24:15</a> <em>on foot</em>; ; <a href=\"https://ref.ly/Acts8:28-Acts8:29\">ACT 8:28–8:29</a> <em>by chariot</em>; ; <a href=\"https://ref.ly/Acts23:23\">ACT 23:23</a> <em>on horseback</em>; ; <a href=\"https://ref.ly/Rev18:17\">REV 18:17</a> <em>by ship</em></p>\n<h2>The dangers of travel</h2>\n<p><strong><a href=\"https://ref.ly/2Cor11:26\">2CO 11:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr15:5\">2CH 15:5</a>; <a href=\"https://ref.ly/Ezra8:21-Ezra8:23\">EZR 8:21–8:23</a>; <a href=\"https://ref.ly/Job6:15-Job6:20\">JOB 6:15–6:20</a>; <a href=\"https://ref.ly/Luke10:30\">LUK 10:30</a>; <a href=\"https://ref.ly/Acts27:14-Acts27:44\">ACT 27:14–27:44</a></p>\n<h2>Guidance while travelling</h2>\n<p><a href=\"https://ref.ly/Gen24:26-Gen24:27\">GEN 24:26–24:27</a>; ; <a href=\"https://ref.ly/Exod13:21\">EXO 13:21</a>; ; <a href=\"https://ref.ly/Acts16:6-Acts16:7\">ACT 16:6–16:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02017001",
+"start_ref_usfm": "EXO 17:1",
+"end_ref": "02017001",
+"end_ref_usfm": "EXO 17:1"
+},
+{
+"start_ref": "14036020",
+"start_ref_usfm": "2CH 36:20",
+"end_ref": "14036020",
+"end_ref_usfm": "2CH 36:20"
+},
+{
+"start_ref": "15002001",
+"start_ref_usfm": "EZR 2:1",
+"end_ref": "15002002",
+"end_ref_usfm": "EZR 2:2"
+},
+{
+"start_ref": "01012006",
+"start_ref_usfm": "GEN 12:6",
+"end_ref": "01012006",
+"end_ref_usfm": "GEN 12:6"
+},
+{
+"start_ref": "02014004",
+"start_ref_usfm": "EXO 14:4",
+"end_ref": "02014004",
+"end_ref_usfm": "EXO 14:4"
+},
+{
+"start_ref": "10010016",
+"start_ref_usfm": "2SA 10:16",
+"end_ref": "10010016",
+"end_ref_usfm": "2SA 10:16"
+},
+{
+"start_ref": "12025001",
+"start_ref_usfm": "2KI 25:1",
+"end_ref": "12025001",
+"end_ref_usfm": "2KI 25:1"
+},
+{
+"start_ref": "01041046",
+"start_ref_usfm": "GEN 41:46",
+"end_ref": "01041046",
+"end_ref_usfm": "GEN 41:46"
+},
+{
+"start_ref": "12005001",
+"start_ref_usfm": "2KI 5:1",
+"end_ref": "12005005",
+"end_ref_usfm": "2KI 5:5"
+},
+{
+"start_ref": "16002005",
+"start_ref_usfm": "NEH 2:5",
+"end_ref": "16002005",
+"end_ref_usfm": "NEH 2:5"
+},
+{
+"start_ref": "44008027",
+"start_ref_usfm": "ACT 8:27",
+"end_ref": "44008027",
+"end_ref_usfm": "ACT 8:27"
+},
+{
+"start_ref": "12025026",
+"start_ref_usfm": "2KI 25:26",
+"end_ref": "12025026",
+"end_ref_usfm": "2KI 25:26"
+},
+{
+"start_ref": "40002013",
+"start_ref_usfm": "MAT 2:13",
+"end_ref": "40002014",
+"end_ref_usfm": "MAT 2:14"
+},
+{
+"start_ref": "59004013",
+"start_ref_usfm": "JAS 4:13",
+"end_ref": "59004013",
+"end_ref_usfm": "JAS 4:13"
+},
+{
+"start_ref": "42010033",
+"start_ref_usfm": "LUK 10:33",
+"end_ref": "42010033",
+"end_ref_usfm": "LUK 10:33"
+},
+{
+"start_ref": "42002041",
+"start_ref_usfm": "LUK 2:41",
+"end_ref": "42002044",
+"end_ref_usfm": "LUK 2:44"
+},
+{
+"start_ref": "40023015",
+"start_ref_usfm": "MAT 23:15",
+"end_ref": "40023015",
+"end_ref_usfm": "MAT 23:15"
+},
+{
+"start_ref": "41001039",
+"start_ref_usfm": "MRK 1:39",
+"end_ref": "41001039",
+"end_ref_usfm": "MRK 1:39"
+},
+{
+"start_ref": "41008027",
+"start_ref_usfm": "MRK 8:27",
+"end_ref": "41008027",
+"end_ref_usfm": "MRK 8:27"
+},
+{
+"start_ref": "42008001",
+"start_ref_usfm": "LUK 8:1",
+"end_ref": "42008001",
+"end_ref_usfm": "LUK 8:1"
+},
+{
+"start_ref": "42014025",
+"start_ref_usfm": "LUK 14:25",
+"end_ref": "42014025",
+"end_ref_usfm": "LUK 14:25"
+},
+{
+"start_ref": "44008040",
+"start_ref_usfm": "ACT 8:40",
+"end_ref": "44008040",
+"end_ref_usfm": "ACT 8:40"
+},
+{
+"start_ref": "44011019",
+"start_ref_usfm": "ACT 11:19",
+"end_ref": "44011019",
+"end_ref_usfm": "ACT 11:19"
+},
+{
+"start_ref": "44013006",
+"start_ref_usfm": "ACT 13:6",
+"end_ref": "44013006",
+"end_ref_usfm": "ACT 13:6"
+},
+{
+"start_ref": "44015003",
+"start_ref_usfm": "ACT 15:3",
+"end_ref": "44015003",
+"end_ref_usfm": "ACT 15:3"
+},
+{
+"start_ref": "44018023",
+"start_ref_usfm": "ACT 18:23",
+"end_ref": "44018023",
+"end_ref_usfm": "ACT 18:23"
+},
+{
+"start_ref": "01037025",
+"start_ref_usfm": "GEN 37:25",
+"end_ref": "01037025",
+"end_ref_usfm": "GEN 37:25"
+},
+{
+"start_ref": "42024013",
+"start_ref_usfm": "LUK 24:13",
+"end_ref": "42024015",
+"end_ref_usfm": "LUK 24:15"
+},
+{
+"start_ref": "44008028",
+"start_ref_usfm": "ACT 8:28",
+"end_ref": "44008029",
+"end_ref_usfm": "ACT 8:29"
+},
+{
+"start_ref": "44023023",
+"start_ref_usfm": "ACT 23:23",
+"end_ref": "44023023",
+"end_ref_usfm": "ACT 23:23"
+},
+{
+"start_ref": "66018017",
+"start_ref_usfm": "REV 18:17",
+"end_ref": "66018017",
+"end_ref_usfm": "REV 18:17"
+},
+{
+"start_ref": "47011026",
+"start_ref_usfm": "2CO 11:26",
+"end_ref": "47011026",
+"end_ref_usfm": "2CO 11:26"
+},
+{
+"start_ref": "14015005",
+"start_ref_usfm": "2CH 15:5",
+"end_ref": "14015005",
+"end_ref_usfm": "2CH 15:5"
+},
+{
+"start_ref": "15008021",
+"start_ref_usfm": "EZR 8:21",
+"end_ref": "15008023",
+"end_ref_usfm": "EZR 8:23"
+},
+{
+"start_ref": "18006015",
+"start_ref_usfm": "JOB 6:15",
+"end_ref": "18006020",
+"end_ref_usfm": "JOB 6:20"
+},
+{
+"start_ref": "42010030",
+"start_ref_usfm": "LUK 10:30",
+"end_ref": "42010030",
+"end_ref_usfm": "LUK 10:30"
+},
+{
+"start_ref": "44027014",
+"start_ref_usfm": "ACT 27:14",
+"end_ref": "44027044",
+"end_ref_usfm": "ACT 27:44"
+},
+{
+"start_ref": "01024026",
+"start_ref_usfm": "GEN 24:26",
+"end_ref": "01024027",
+"end_ref_usfm": "GEN 24:27"
+},
+{
+"start_ref": "02013021",
+"start_ref_usfm": "EXO 13:21",
+"end_ref": "02013021",
+"end_ref_usfm": "EXO 13:21"
+},
+{
+"start_ref": "44016006",
+"start_ref_usfm": "ACT 16:6",
+"end_ref": "44016007",
+"end_ref_usfm": "ACT 16:7"
+}
+],
+"resource": [
+{
+"reference_id": "4020",
+"content_id": "4020",
+"resource_code": "DictionaryBibleThemes",
+"label": "4020: life, of faith",
+"language": "eng"
+},
+{
+"reference_id": "5197",
+"content_id": "5197",
+"resource_code": "DictionaryBibleThemes",
+"label": "5197: walking",
+"language": "eng"
+},
+{
+"reference_id": "5357",
+"content_id": "5357",
+"resource_code": "DictionaryBibleThemes",
+"label": "5357: journey",
+"language": "eng"
+},
+{
+"reference_id": "5427",
+"content_id": "5427",
+"resource_code": "DictionaryBibleThemes",
+"label": "5427: nomads",
+"language": "eng"
+},
+{
+"reference_id": "5442",
+"content_id": "5442",
+"resource_code": "DictionaryBibleThemes",
+"label": "5442: pilgrimage",
+"language": "eng"
+},
+{
+"reference_id": "5491",
+"content_id": "5491",
+"resource_code": "DictionaryBibleThemes",
+"label": "5491: refugees",
+"language": "eng"
+},
+{
+"reference_id": "5505",
+"content_id": "5505",
+"resource_code": "DictionaryBibleThemes",
+"label": "5505: roads",
+"language": "eng"
+},
+{
+"reference_id": "7215",
+"content_id": "7215",
+"resource_code": "DictionaryBibleThemes",
+"label": "7215: exile, the",
+"language": "eng"
+},
+{
+"reference_id": "7222",
+"content_id": "7222",
+"resource_code": "DictionaryBibleThemes",
+"label": "7222: exodus, events of",
+"language": "eng"
+},
+{
+"reference_id": "7740",
+"content_id": "7740",
+"resource_code": "DictionaryBibleThemes",
+"label": "7740: missionaries, call of",
+"language": "eng"
+},
+{
+"reference_id": "8124",
+"content_id": "8124",
+"resource_code": "DictionaryBibleThemes",
+"label": "8124: guidance",
+"language": "eng"
+},
+{
+"reference_id": "8168",
+"content_id": "8168",
+"resource_code": "DictionaryBibleThemes",
+"label": "8168: way, the",
+"language": "eng"
+}
+]
+}
+}
+]

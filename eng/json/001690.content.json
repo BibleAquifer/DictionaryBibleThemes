@@ -1,0 +1,39 @@
+[
+{
+"content_id": "6744",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6744: sanctification",
+"media_type": "Text",
+"index_reference": "6744: sanctification",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The process of becoming consecrated to God, which is an integral aspect of being a member of the people of God. This process of being made holy through the work of the Holy Spirit ultimately rests upon the sacrificial death of Jesus Christ, which the OT anticipates and foreshadows.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6745",
+"content_id": "6745",
+"resource_code": "DictionaryBibleThemes",
+"label": "6745: sanctification, nature and basis of",
+"language": "eng"
+},
+{
+"reference_id": "6746",
+"content_id": "6746",
+"resource_code": "DictionaryBibleThemes",
+"label": "6746: sanctification, means and results of",
+"language": "eng"
+},
+{
+"reference_id": "6747",
+"content_id": "6747",
+"resource_code": "DictionaryBibleThemes",
+"label": "6747: sanctification, and Holy Spirit",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+"content_id": "7510",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7510: Gentiles",
+"media_type": "Text",
+"index_reference": "7510: gentiles",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Those who are not physical descendants of Abraham and were therefore regarded as being excluded from the promise made to him and his descendants. The Gentiles are often referred to as “the nations” in OT writings.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7511",
+"content_id": "7511",
+"resource_code": "DictionaryBibleThemes",
+"label": "7511: Gentiles, in OT",
+"language": "eng"
+},
+{
+"reference_id": "7512",
+"content_id": "7512",
+"resource_code": "DictionaryBibleThemes",
+"label": "7512: Gentiles, in NT",
+"language": "eng"
+}
+]
+}
+}
+]

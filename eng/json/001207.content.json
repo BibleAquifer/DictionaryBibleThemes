@@ -1,0 +1,220 @@
+[
+{
+"content_id": "5660",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5660: bridegroom",
+"media_type": "Text",
+"index_reference": "5660: bridegroom",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A man who is to be married or who has just got married. In the NT Jesus Christ is portrayed as a bridegroom and the church as his bride.</p>\n<h2>The bridegroom and the wedding ceremony</h2>\n<h3>The bridegroom wore special clothing</h3>\n<p><strong><a href=\"https://ref.ly/Isa61:10\">ISA 61:10</a></strong></p>\n<h3>The bridegroom took part in the procession to the bride's home</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Matt25:1-Matt25:12\">MAT 25:1–25:12</a></p>\n<h3>The bridegroom had a group of companions</h3>\n<p><strong><a href=\"https://ref.ly/Judg14:10-Judg14:11\">JDG 14:10–14:11</a></strong></p>\n<h3>The bridegroom had a special friend as an attendant</h3>\n<p><strong><a href=\"https://ref.ly/John3:29\">JHN 3:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg14:20-Judg15:2\">JDG 14:20–15:2</a>; <a href=\"https://ref.ly/John2:7-John2:10\">JHN 2:7–2:10</a> <em>The “master of the banquet” was probably the friend who attended the bridegroom.</em></p>\n<h3>The bridegroom was sometimes responsible for giving the wedding banquet</h3>\n<p><strong><a href=\"https://ref.ly/Judg14:10\">JDG 14:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/John2:9-John2:10\">JHN 2:9–2:10</a></p>\n<h3>The bridegroom led his bride to a specially prepared bridal chamber</h3>\n<p><strong><a href=\"https://ref.ly/Joel2:16\">JOL 2:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps19:4-Ps19:5\">PSA 19:4–19:5</a></p>\n<h2>Bridegrooms were associated with happiness and rejoicing</h2>\n<p><strong><a href=\"https://ref.ly/Jer7:34\">JER 7:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa62:5\">ISA 62:5</a>; <a href=\"https://ref.ly/Jer16:9\">JER 16:9</a>, <a href=\"https://ref.ly/Jer25:10\">JER 25:10</a>, <a href=\"https://ref.ly/Jer33:11\">JER 33:11</a>; <a href=\"https://ref.ly/Rev18:23\">REV 18:23</a></p>\n<h2>Bridegrooms were excused from military service and certain other duties</h2>\n<p><strong><a href=\"https://ref.ly/Deut24:5\">DEU 24:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut20:1-Deut20:7\">DEU 20:1–20:7</a></p>\n<h2>Jesus Christ is portrayed as a bridegroom</h2>\n<p><strong><a href=\"https://ref.ly/Matt9:14-Matt9:15\">MAT 9:14–9:15</a></strong> parallels <a href=\"https://ref.ly/Mark2:18-Mark2:20\">MRK 2:18–2:20</a>, <a href=\"https://ref.ly/Luke5:33-Luke5:35\">LUK 5:33–5:35</a> <em>Jesus Christ refers to himself as the bridegroom.</em> <em>See also</em> <a href=\"https://ref.ly/Eph5:22-Eph5:33\">EPH 5:22–5:33</a></p>\n<h2>The future coming of Jesus Christ compared to the sudden arrival of the bridegroom</h2>\n<p><a href=\"https://ref.ly/Matt25:1-Matt25:10\">MAT 25:1–25:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23061010",
+"start_ref_usfm": "ISA 61:10",
+"end_ref": "23061010",
+"end_ref_usfm": "ISA 61:10"
+},
+{
+"start_ref": "40025001",
+"start_ref_usfm": "MAT 25:1",
+"end_ref": "40025012",
+"end_ref_usfm": "MAT 25:12"
+},
+{
+"start_ref": "07014010",
+"start_ref_usfm": "JDG 14:10",
+"end_ref": "07014011",
+"end_ref_usfm": "JDG 14:11"
+},
+{
+"start_ref": "43003029",
+"start_ref_usfm": "JHN 3:29",
+"end_ref": "43003029",
+"end_ref_usfm": "JHN 3:29"
+},
+{
+"start_ref": "07014020",
+"start_ref_usfm": "JDG 14:20",
+"end_ref": "07015002",
+"end_ref_usfm": "JDG 15:2"
+},
+{
+"start_ref": "43002007",
+"start_ref_usfm": "JHN 2:7",
+"end_ref": "43002010",
+"end_ref_usfm": "JHN 2:10"
+},
+{
+"start_ref": "07014010",
+"start_ref_usfm": "JDG 14:10",
+"end_ref": "07014010",
+"end_ref_usfm": "JDG 14:10"
+},
+{
+"start_ref": "43002009",
+"start_ref_usfm": "JHN 2:9",
+"end_ref": "43002010",
+"end_ref_usfm": "JHN 2:10"
+},
+{
+"start_ref": "29002016",
+"start_ref_usfm": "JOL 2:16",
+"end_ref": "29002016",
+"end_ref_usfm": "JOL 2:16"
+},
+{
+"start_ref": "19019004",
+"start_ref_usfm": "PSA 19:4",
+"end_ref": "19019005",
+"end_ref_usfm": "PSA 19:5"
+},
+{
+"start_ref": "24007034",
+"start_ref_usfm": "JER 7:34",
+"end_ref": "24007034",
+"end_ref_usfm": "JER 7:34"
+},
+{
+"start_ref": "23062005",
+"start_ref_usfm": "ISA 62:5",
+"end_ref": "23062005",
+"end_ref_usfm": "ISA 62:5"
+},
+{
+"start_ref": "24016009",
+"start_ref_usfm": "JER 16:9",
+"end_ref": "24016009",
+"end_ref_usfm": "JER 16:9"
+},
+{
+"start_ref": "24025010",
+"start_ref_usfm": "JER 25:10",
+"end_ref": "24025010",
+"end_ref_usfm": "JER 25:10"
+},
+{
+"start_ref": "24033011",
+"start_ref_usfm": "JER 33:11",
+"end_ref": "24033011",
+"end_ref_usfm": "JER 33:11"
+},
+{
+"start_ref": "66018023",
+"start_ref_usfm": "REV 18:23",
+"end_ref": "66018023",
+"end_ref_usfm": "REV 18:23"
+},
+{
+"start_ref": "05024005",
+"start_ref_usfm": "DEU 24:5",
+"end_ref": "05024005",
+"end_ref_usfm": "DEU 24:5"
+},
+{
+"start_ref": "05020001",
+"start_ref_usfm": "DEU 20:1",
+"end_ref": "05020007",
+"end_ref_usfm": "DEU 20:7"
+},
+{
+"start_ref": "40009014",
+"start_ref_usfm": "MAT 9:14",
+"end_ref": "40009015",
+"end_ref_usfm": "MAT 9:15"
+},
+{
+"start_ref": "41002018",
+"start_ref_usfm": "MRK 2:18",
+"end_ref": "41002020",
+"end_ref_usfm": "MRK 2:20"
+},
+{
+"start_ref": "42005033",
+"start_ref_usfm": "LUK 5:33",
+"end_ref": "42005035",
+"end_ref_usfm": "LUK 5:35"
+},
+{
+"start_ref": "49005022",
+"start_ref_usfm": "EPH 5:22",
+"end_ref": "49005033",
+"end_ref_usfm": "EPH 5:33"
+},
+{
+"start_ref": "40025001",
+"start_ref_usfm": "MAT 25:1",
+"end_ref": "40025010",
+"end_ref_usfm": "MAT 25:10"
+}
+],
+"resource": [
+{
+"reference_id": "2212",
+"content_id": "2212",
+"resource_code": "DictionaryBibleThemes",
+"label": "2212: Jesus Christ, head of the church",
+"language": "eng"
+},
+{
+"reference_id": "5659",
+"content_id": "5659",
+"resource_code": "DictionaryBibleThemes",
+"label": "5659: bride",
+"language": "eng"
+},
+{
+"reference_id": "5702",
+"content_id": "5702",
+"resource_code": "DictionaryBibleThemes",
+"label": "5702: husband",
+"language": "eng"
+},
+{
+"reference_id": "5708",
+"content_id": "5708",
+"resource_code": "DictionaryBibleThemes",
+"label": "5708: marriage",
+"language": "eng"
+},
+{
+"reference_id": "5742",
+"content_id": "5742",
+"resource_code": "DictionaryBibleThemes",
+"label": "5742: wedding",
+"language": "eng"
+},
+{
+"reference_id": "5744",
+"content_id": "5744",
+"resource_code": "DictionaryBibleThemes",
+"label": "5744: wife",
+"language": "eng"
+},
+{
+"reference_id": "7020",
+"content_id": "7020",
+"resource_code": "DictionaryBibleThemes",
+"label": "7020: church, the",
+"language": "eng"
+},
+{
+"reference_id": "8283",
+"content_id": "8283",
+"resource_code": "DictionaryBibleThemes",
+"label": "8283: joy",
+"language": "eng"
+},
+{
+"reference_id": "9150",
+"content_id": "9150",
+"resource_code": "DictionaryBibleThemes",
+"label": "9150: Messianic banquet",
+"language": "eng"
+}
+]
+}
+}
+]

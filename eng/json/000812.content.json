@@ -1,0 +1,128 @@
+[
+{
+"content_id": "5224",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5224: barn",
+"media_type": "Text",
+"index_reference": "5224: barn",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Barns were associated with industry and prosperity</h2>\n<h3>Full barns were a sign of blessing</h3>\n<p><strong><a href=\"https://ref.ly/Prov3:9-Prov3:10\">PRO 3:9–3:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut28:8\">DEU 28:8</a>; <a href=\"https://ref.ly/Ps144:12-Ps144:15\">PSA 144:12–144:15</a></p>\n<h3>Empty barns were a sign of poverty</h3>\n<p><strong><a href=\"https://ref.ly/Hag2:15-Hag2:19\">HAG 2:15–2:19</a></strong></p>\n<h3>The priority of spiritual over material prosperity</h3>\n<p><strong><a href=\"https://ref.ly/Luke12:15-Luke12:21\">LUK 12:15–12:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt6:25-Matt6:26\">MAT 6:25–6:26</a>; <a href=\"https://ref.ly/Luke12:23-Luke12:24\">LUK 12:23–12:24</a></p>\n<h2>God's barn is a metaphor for the kingdom of heaven</h2>\n<p><strong><a href=\"https://ref.ly/Luke3:16-Luke3:17\">LUK 3:16–3:17</a></strong> parallel <a href=\"https://ref.ly/Matt3:11-Matt3:12\">MAT 3:11–3:12</a> <em>See also</em> <a href=\"https://ref.ly/Matt13:24-Matt13:30\">MAT 13:24–13:30</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "20003009",
+"start_ref_usfm": "PRO 3:9",
+"end_ref": "20003010",
+"end_ref_usfm": "PRO 3:10"
+},
+{
+"start_ref": "05028008",
+"start_ref_usfm": "DEU 28:8",
+"end_ref": "05028008",
+"end_ref_usfm": "DEU 28:8"
+},
+{
+"start_ref": "19144012",
+"start_ref_usfm": "PSA 144:12",
+"end_ref": "19144015",
+"end_ref_usfm": "PSA 144:15"
+},
+{
+"start_ref": "37002015",
+"start_ref_usfm": "HAG 2:15",
+"end_ref": "37002019",
+"end_ref_usfm": "HAG 2:19"
+},
+{
+"start_ref": "42012015",
+"start_ref_usfm": "LUK 12:15",
+"end_ref": "42012021",
+"end_ref_usfm": "LUK 12:21"
+},
+{
+"start_ref": "40006025",
+"start_ref_usfm": "MAT 6:25",
+"end_ref": "40006026",
+"end_ref_usfm": "MAT 6:26"
+},
+{
+"start_ref": "42012023",
+"start_ref_usfm": "LUK 12:23",
+"end_ref": "42012024",
+"end_ref_usfm": "LUK 12:24"
+},
+{
+"start_ref": "42003016",
+"start_ref_usfm": "LUK 3:16",
+"end_ref": "42003017",
+"end_ref_usfm": "LUK 3:17"
+},
+{
+"start_ref": "40003011",
+"start_ref_usfm": "MAT 3:11",
+"end_ref": "40003012",
+"end_ref_usfm": "MAT 3:12"
+},
+{
+"start_ref": "40013024",
+"start_ref_usfm": "MAT 13:24",
+"end_ref": "40013030",
+"end_ref_usfm": "MAT 13:30"
+}
+],
+"resource": [
+{
+"reference_id": "4035",
+"content_id": "4035",
+"resource_code": "DictionaryBibleThemes",
+"label": "4035: abundance",
+"language": "eng"
+},
+{
+"reference_id": "4406",
+"content_id": "4406",
+"resource_code": "DictionaryBibleThemes",
+"label": "4406: agriculture",
+"language": "eng"
+},
+{
+"reference_id": "4456",
+"content_id": "4456",
+"resource_code": "DictionaryBibleThemes",
+"label": "4456: grain",
+"language": "eng"
+},
+{
+"reference_id": "4464",
+"content_id": "4464",
+"resource_code": "DictionaryBibleThemes",
+"label": "4464: harvest",
+"language": "eng"
+},
+{
+"reference_id": "4524",
+"content_id": "4524",
+"resource_code": "DictionaryBibleThemes",
+"label": "4524: threshing-floor",
+"language": "eng"
+},
+{
+"reference_id": "5446",
+"content_id": "5446",
+"resource_code": "DictionaryBibleThemes",
+"label": "5446: poverty",
+"language": "eng"
+},
+{
+"reference_id": "5558",
+"content_id": "5558",
+"resource_code": "DictionaryBibleThemes",
+"label": "5558: storing",
+"language": "eng"
+}
+]
+}
+}
+]

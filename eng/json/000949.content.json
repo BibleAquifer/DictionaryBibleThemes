@@ -1,0 +1,156 @@
+[
+{
+"content_id": "5364",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5364: key",
+"media_type": "Text",
+"index_reference": "5364: key",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A tool for opening a locked door. Used mainly symbolically in Scripture to speak of Jesus Christ's victory over death and his authority over believers, or of the need of deliverance from the imprisonment brought to human nature by sin and the law.</p>\n<h2>Keys for opening doors</h2>\n<p><a href=\"https://ref.ly/Judg3:23-Judg3:25\">JDG 3:23–3:25</a>; ; <a href=\"https://ref.ly/1Chr9:27\">1CH 9:27</a>; ; <a href=\"https://ref.ly/Luke3:20\">LUK 3:20</a>, <a href=\"https://ref.ly/Luke11:7\">LUK 11:7</a>; ; <a href=\"https://ref.ly/John20:19\">JHN 20:19</a>, <a href=\"https://ref.ly/John20:26\">JHN 20:26</a>; ; <a href=\"https://ref.ly/Acts5:23\">ACT 5:23</a></p>\n<h2>The symbolic use of keys</h2>\n<h3>As a symbol of Jesus Christ's complete authority</h3>\n<p><strong><a href=\"https://ref.ly/Rev3:7\">REV 3:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa22:22\">ISA 22:22</a></p>\n<h3>As a symbol of Jesus Christ's ultimate victory over death and hell</h3>\n<p><strong><a href=\"https://ref.ly/Rev1:18\">REV 1:18</a></strong></p>\n<h3>As a symbol of Satan's ultimate defeat</h3>\n<p><strong><a href=\"https://ref.ly/Rev20:1-Rev20:3\">REV 20:1–20:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev9:1\">REV 9:1</a></p>\n<h3>As a symbol of Jesus Christ's authoritative ministry through his church</h3>\n<p><strong><a href=\"https://ref.ly/Matt16:19\">MAT 16:19</a></strong> <em>Usually understood as illustrating how God's forgiveness is made effective through preaching the gospel.</em></p>\n<h3>As a symbol of living faith</h3>\n<p><strong><a href=\"https://ref.ly/Isa33:6\">ISA 33:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt13:52\">MAT 13:52</a></p>\n<h3>Being locked up as a symbol of obstacles to faith</h3>\n<p><strong><a href=\"https://ref.ly/Gal3:23\">GAL 3:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke11:52\">LUK 11:52</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07003023",
+"start_ref_usfm": "JDG 3:23",
+"end_ref": "07003025",
+"end_ref_usfm": "JDG 3:25"
+},
+{
+"start_ref": "13009027",
+"start_ref_usfm": "1CH 9:27",
+"end_ref": "13009027",
+"end_ref_usfm": "1CH 9:27"
+},
+{
+"start_ref": "42003020",
+"start_ref_usfm": "LUK 3:20",
+"end_ref": "42003020",
+"end_ref_usfm": "LUK 3:20"
+},
+{
+"start_ref": "42011007",
+"start_ref_usfm": "LUK 11:7",
+"end_ref": "42011007",
+"end_ref_usfm": "LUK 11:7"
+},
+{
+"start_ref": "43020019",
+"start_ref_usfm": "JHN 20:19",
+"end_ref": "43020019",
+"end_ref_usfm": "JHN 20:19"
+},
+{
+"start_ref": "43020026",
+"start_ref_usfm": "JHN 20:26",
+"end_ref": "43020026",
+"end_ref_usfm": "JHN 20:26"
+},
+{
+"start_ref": "44005023",
+"start_ref_usfm": "ACT 5:23",
+"end_ref": "44005023",
+"end_ref_usfm": "ACT 5:23"
+},
+{
+"start_ref": "66003007",
+"start_ref_usfm": "REV 3:7",
+"end_ref": "66003007",
+"end_ref_usfm": "REV 3:7"
+},
+{
+"start_ref": "23022022",
+"start_ref_usfm": "ISA 22:22",
+"end_ref": "23022022",
+"end_ref_usfm": "ISA 22:22"
+},
+{
+"start_ref": "66001018",
+"start_ref_usfm": "REV 1:18",
+"end_ref": "66001018",
+"end_ref_usfm": "REV 1:18"
+},
+{
+"start_ref": "66020001",
+"start_ref_usfm": "REV 20:1",
+"end_ref": "66020003",
+"end_ref_usfm": "REV 20:3"
+},
+{
+"start_ref": "66009001",
+"start_ref_usfm": "REV 9:1",
+"end_ref": "66009001",
+"end_ref_usfm": "REV 9:1"
+},
+{
+"start_ref": "40016019",
+"start_ref_usfm": "MAT 16:19",
+"end_ref": "40016019",
+"end_ref_usfm": "MAT 16:19"
+},
+{
+"start_ref": "23033006",
+"start_ref_usfm": "ISA 33:6",
+"end_ref": "23033006",
+"end_ref_usfm": "ISA 33:6"
+},
+{
+"start_ref": "40013052",
+"start_ref_usfm": "MAT 13:52",
+"end_ref": "40013052",
+"end_ref_usfm": "MAT 13:52"
+},
+{
+"start_ref": "48003023",
+"start_ref_usfm": "GAL 3:23",
+"end_ref": "48003023",
+"end_ref_usfm": "GAL 3:23"
+},
+{
+"start_ref": "42011052",
+"start_ref_usfm": "LUK 11:52",
+"end_ref": "42011052",
+"end_ref_usfm": "LUK 11:52"
+}
+],
+"resource": [
+{
+"reference_id": "5215",
+"content_id": "5215",
+"resource_code": "DictionaryBibleThemes",
+"label": "5215: authority",
+"language": "eng"
+},
+{
+"reference_id": "5299",
+"content_id": "5299",
+"resource_code": "DictionaryBibleThemes",
+"label": "5299: door",
+"language": "eng"
+},
+{
+"reference_id": "5344",
+"content_id": "5344",
+"resource_code": "DictionaryBibleThemes",
+"label": "5344: imprisonment",
+"language": "eng"
+},
+{
+"reference_id": "5375",
+"content_id": "5375",
+"resource_code": "DictionaryBibleThemes",
+"label": "5375: law",
+"language": "eng"
+},
+{
+"reference_id": "8020",
+"content_id": "8020",
+"resource_code": "DictionaryBibleThemes",
+"label": "8020: faith",
+"language": "eng"
+}
+]
+}
+}
+]

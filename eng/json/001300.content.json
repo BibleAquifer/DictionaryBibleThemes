@@ -1,0 +1,301 @@
+[
+{
+"content_id": "5777",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5777: admonition",
+"media_type": "Text",
+"index_reference": "5777: admonition",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A loving attempt to correct another's attitude or behaviour. Christians are to admonish fellow believers.</p>\n<h2>The prophets admonished Israel</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs17:13\">2KI 17:13</a></strong>; <strong><a href=\"https://ref.ly/Neh9:29-Neh9:30\">NEH 9:29–9:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg6:7-Judg6:10\">JDG 6:7–6:10</a>; <a href=\"https://ref.ly/Mal2:1-Mal2:4\">MAL 2:1–2:4</a></p>\n<h2>Parents are to admonish their children</h2>\n<p><strong><a href=\"https://ref.ly/Prov22:6\">PRO 22:6</a></strong>; <strong><a href=\"https://ref.ly/Eph6:4\">EPH 6:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:19\">GEN 18:19</a>; <a href=\"https://ref.ly/Deut11:19\">DEU 11:19</a>; <a href=\"https://ref.ly/Prov13:24\">PRO 13:24</a>, <a href=\"https://ref.ly/Prov19:18\">PRO 19:18</a>, <a href=\"https://ref.ly/Prov22:15\">PRO 22:15</a>, <a href=\"https://ref.ly/Prov23:13\">PRO 23:13</a></p>\n<h2>Leaders are to admonish those in their care</h2>\n<p><strong><a href=\"https://ref.ly/2Tim4:2\">2TI 4:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor4:14\">1CO 4:14</a>; <a href=\"https://ref.ly/Col1:28\">COL 1:28</a>; <a href=\"https://ref.ly/1Thess5:12\">1TH 5:12</a>; <a href=\"https://ref.ly/Titus2:15\">TIT 2:15</a>, <a href=\"https://ref.ly/Titus3:10\">TIT 3:10</a></p>\n<h2>Christians are to admonish fellow believers</h2>\n<p><strong><a href=\"https://ref.ly/Col3:16\">COL 3:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps141:5\">PSA 141:5</a>; <a href=\"https://ref.ly/Luke17:3\">LUK 17:3</a>; <a href=\"https://ref.ly/Rom15:14\">ROM 15:14</a>; <a href=\"https://ref.ly/1Thess5:14\">1TH 5:14</a>; <a href=\"https://ref.ly/2Tim3:16\">2TI 3:16</a></p>\n<h2>It is wise to accept legitimate admonition</h2>\n<p><strong><a href=\"https://ref.ly/Prov13:18\">PRO 13:18</a>, <a href=\"https://ref.ly/Prov25:12\">PRO 25:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov15:5\">PRO 15:5</a>; <a href=\"https://ref.ly/Eccl7:5\">ECC 7:5</a>; <a href=\"https://ref.ly/Jer2:30\">JER 2:30</a>, <a href=\"https://ref.ly/Jer5:3\">JER 5:3</a>, <a href=\"https://ref.ly/Jer7:28\">JER 7:28</a>; <a href=\"https://ref.ly/Zeph3:1-Zeph3:2\">ZEP 3:1–3:2</a>, <a href=\"https://ref.ly/Zeph3:7-Zeph3:8\">ZEP 3:7–3:8</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "12017013",
+"start_ref_usfm": "2KI 17:13",
+"end_ref": "12017013",
+"end_ref_usfm": "2KI 17:13"
+},
+{
+"start_ref": "16009029",
+"start_ref_usfm": "NEH 9:29",
+"end_ref": "16009030",
+"end_ref_usfm": "NEH 9:30"
+},
+{
+"start_ref": "07006007",
+"start_ref_usfm": "JDG 6:7",
+"end_ref": "07006010",
+"end_ref_usfm": "JDG 6:10"
+},
+{
+"start_ref": "39002001",
+"start_ref_usfm": "MAL 2:1",
+"end_ref": "39002004",
+"end_ref_usfm": "MAL 2:4"
+},
+{
+"start_ref": "20022006",
+"start_ref_usfm": "PRO 22:6",
+"end_ref": "20022006",
+"end_ref_usfm": "PRO 22:6"
+},
+{
+"start_ref": "49006004",
+"start_ref_usfm": "EPH 6:4",
+"end_ref": "49006004",
+"end_ref_usfm": "EPH 6:4"
+},
+{
+"start_ref": "01018019",
+"start_ref_usfm": "GEN 18:19",
+"end_ref": "01018019",
+"end_ref_usfm": "GEN 18:19"
+},
+{
+"start_ref": "05011019",
+"start_ref_usfm": "DEU 11:19",
+"end_ref": "05011019",
+"end_ref_usfm": "DEU 11:19"
+},
+{
+"start_ref": "20013024",
+"start_ref_usfm": "PRO 13:24",
+"end_ref": "20013024",
+"end_ref_usfm": "PRO 13:24"
+},
+{
+"start_ref": "20019018",
+"start_ref_usfm": "PRO 19:18",
+"end_ref": "20019018",
+"end_ref_usfm": "PRO 19:18"
+},
+{
+"start_ref": "20022015",
+"start_ref_usfm": "PRO 22:15",
+"end_ref": "20022015",
+"end_ref_usfm": "PRO 22:15"
+},
+{
+"start_ref": "20023013",
+"start_ref_usfm": "PRO 23:13",
+"end_ref": "20023013",
+"end_ref_usfm": "PRO 23:13"
+},
+{
+"start_ref": "55004002",
+"start_ref_usfm": "2TI 4:2",
+"end_ref": "55004002",
+"end_ref_usfm": "2TI 4:2"
+},
+{
+"start_ref": "46004014",
+"start_ref_usfm": "1CO 4:14",
+"end_ref": "46004014",
+"end_ref_usfm": "1CO 4:14"
+},
+{
+"start_ref": "51001028",
+"start_ref_usfm": "COL 1:28",
+"end_ref": "51001028",
+"end_ref_usfm": "COL 1:28"
+},
+{
+"start_ref": "52005012",
+"start_ref_usfm": "1TH 5:12",
+"end_ref": "52005012",
+"end_ref_usfm": "1TH 5:12"
+},
+{
+"start_ref": "56002015",
+"start_ref_usfm": "TIT 2:15",
+"end_ref": "56002015",
+"end_ref_usfm": "TIT 2:15"
+},
+{
+"start_ref": "56003010",
+"start_ref_usfm": "TIT 3:10",
+"end_ref": "56003010",
+"end_ref_usfm": "TIT 3:10"
+},
+{
+"start_ref": "51003016",
+"start_ref_usfm": "COL 3:16",
+"end_ref": "51003016",
+"end_ref_usfm": "COL 3:16"
+},
+{
+"start_ref": "19141005",
+"start_ref_usfm": "PSA 141:5",
+"end_ref": "19141005",
+"end_ref_usfm": "PSA 141:5"
+},
+{
+"start_ref": "42017003",
+"start_ref_usfm": "LUK 17:3",
+"end_ref": "42017003",
+"end_ref_usfm": "LUK 17:3"
+},
+{
+"start_ref": "45015014",
+"start_ref_usfm": "ROM 15:14",
+"end_ref": "45015014",
+"end_ref_usfm": "ROM 15:14"
+},
+{
+"start_ref": "52005014",
+"start_ref_usfm": "1TH 5:14",
+"end_ref": "52005014",
+"end_ref_usfm": "1TH 5:14"
+},
+{
+"start_ref": "55003016",
+"start_ref_usfm": "2TI 3:16",
+"end_ref": "55003016",
+"end_ref_usfm": "2TI 3:16"
+},
+{
+"start_ref": "20013018",
+"start_ref_usfm": "PRO 13:18",
+"end_ref": "20013018",
+"end_ref_usfm": "PRO 13:18"
+},
+{
+"start_ref": "20025012",
+"start_ref_usfm": "PRO 25:12",
+"end_ref": "20025012",
+"end_ref_usfm": "PRO 25:12"
+},
+{
+"start_ref": "20015005",
+"start_ref_usfm": "PRO 15:5",
+"end_ref": "20015005",
+"end_ref_usfm": "PRO 15:5"
+},
+{
+"start_ref": "21007005",
+"start_ref_usfm": "ECC 7:5",
+"end_ref": "21007005",
+"end_ref_usfm": "ECC 7:5"
+},
+{
+"start_ref": "24002030",
+"start_ref_usfm": "JER 2:30",
+"end_ref": "24002030",
+"end_ref_usfm": "JER 2:30"
+},
+{
+"start_ref": "24005003",
+"start_ref_usfm": "JER 5:3",
+"end_ref": "24005003",
+"end_ref_usfm": "JER 5:3"
+},
+{
+"start_ref": "24007028",
+"start_ref_usfm": "JER 7:28",
+"end_ref": "24007028",
+"end_ref_usfm": "JER 7:28"
+},
+{
+"start_ref": "36003001",
+"start_ref_usfm": "ZEP 3:1",
+"end_ref": "36003002",
+"end_ref_usfm": "ZEP 3:2"
+},
+{
+"start_ref": "36003007",
+"start_ref_usfm": "ZEP 3:7",
+"end_ref": "36003008",
+"end_ref_usfm": "ZEP 3:8"
+}
+],
+"resource": [
+{
+"reference_id": "5664",
+"content_id": "5664",
+"resource_code": "DictionaryBibleThemes",
+"label": "5664: children",
+"language": "eng"
+},
+{
+"reference_id": "5731",
+"content_id": "5731",
+"resource_code": "DictionaryBibleThemes",
+"label": "5731: parents",
+"language": "eng"
+},
+{
+"reference_id": "5926",
+"content_id": "5926",
+"resource_code": "DictionaryBibleThemes",
+"label": "5926: rebuke",
+"language": "eng"
+},
+{
+"reference_id": "5978",
+"content_id": "5978",
+"resource_code": "DictionaryBibleThemes",
+"label": "5978: warning",
+"language": "eng"
+},
+{
+"reference_id": "6221",
+"content_id": "6221",
+"resource_code": "DictionaryBibleThemes",
+"label": "6221: rebellion",
+"language": "eng"
+},
+{
+"reference_id": "6245",
+"content_id": "6245",
+"resource_code": "DictionaryBibleThemes",
+"label": "6245: stubbornness",
+"language": "eng"
+},
+{
+"reference_id": "7105",
+"content_id": "7105",
+"resource_code": "DictionaryBibleThemes",
+"label": "7105: believers",
+"language": "eng"
+},
+{
+"reference_id": "7720",
+"content_id": "7720",
+"resource_code": "DictionaryBibleThemes",
+"label": "7720: elders, in the church",
+"language": "eng"
+},
+{
+"reference_id": "7734",
+"content_id": "7734",
+"resource_code": "DictionaryBibleThemes",
+"label": "7734: leaders, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "7773",
+"content_id": "7773",
+"resource_code": "DictionaryBibleThemes",
+"label": "7773: prophets, role of",
+"language": "eng"
+},
+{
+"reference_id": "7789",
+"content_id": "7789",
+"resource_code": "DictionaryBibleThemes",
+"label": "7789: shepherd, as church leader",
+"language": "eng"
+},
+{
+"reference_id": "8232",
+"content_id": "8232",
+"resource_code": "DictionaryBibleThemes",
+"label": "8232: discipline, in the family",
+"language": "eng"
+}
+]
+}
+}
+]

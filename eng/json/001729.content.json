@@ -1,0 +1,151 @@
+[
+{
+"content_id": "7200",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7200: History of God's people in OT",
+"media_type": "Text",
+"index_reference": "7200: history of god's people in ot",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"7203\" data-resourcetype=\"DictionaryOfBibleThemes\">7203: ark, Noah's</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7206\" data-resourcetype=\"DictionaryOfBibleThemes\">7206: community</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7209\" data-resourcetype=\"DictionaryOfBibleThemes\">7209: congregation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7212\" data-resourcetype=\"DictionaryOfBibleThemes\">7212: exile</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7215\" data-resourcetype=\"DictionaryOfBibleThemes\">7215: exile, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7221\" data-resourcetype=\"DictionaryOfBibleThemes\">7221: exodus, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7227\" data-resourcetype=\"DictionaryOfBibleThemes\">7227: flood, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7230\" data-resourcetype=\"DictionaryOfBibleThemes\">7230: genealogies</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7233\" data-resourcetype=\"DictionaryOfBibleThemes\">7233: Israel, as northern kingdom</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7236\" data-resourcetype=\"DictionaryOfBibleThemes\">7236: Israel, as united kingdom</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7239\" data-resourcetype=\"DictionaryOfBibleThemes\">7239: Jerusalem</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7245\" data-resourcetype=\"DictionaryOfBibleThemes\">7245: Judah, kingdom of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7248\" data-resourcetype=\"DictionaryOfBibleThemes\">7248: patriarchs</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7251\" data-resourcetype=\"DictionaryOfBibleThemes\">7251: pillar of cloud and fire</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7254\" data-resourcetype=\"DictionaryOfBibleThemes\">7254: plumb-line</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7257\" data-resourcetype=\"DictionaryOfBibleThemes\">7257: promised land, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7263\" data-resourcetype=\"DictionaryOfBibleThemes\">7263: theocracy</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7266\" data-resourcetype=\"DictionaryOfBibleThemes\">7266: tribes of Israel</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7269\" data-resourcetype=\"DictionaryOfBibleThemes\">7269: Zion</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7203",
+"content_id": "7203",
+"resource_code": "DictionaryBibleThemes",
+"label": "7203: ark, Noah's",
+"language": "eng"
+},
+{
+"reference_id": "7206",
+"content_id": "7206",
+"resource_code": "DictionaryBibleThemes",
+"label": "7206: community",
+"language": "eng"
+},
+{
+"reference_id": "7209",
+"content_id": "7209",
+"resource_code": "DictionaryBibleThemes",
+"label": "7209: congregation",
+"language": "eng"
+},
+{
+"reference_id": "7212",
+"content_id": "7212",
+"resource_code": "DictionaryBibleThemes",
+"label": "7212: exile",
+"language": "eng"
+},
+{
+"reference_id": "7215",
+"content_id": "7215",
+"resource_code": "DictionaryBibleThemes",
+"label": "7215: exile, the",
+"language": "eng"
+},
+{
+"reference_id": "7221",
+"content_id": "7221",
+"resource_code": "DictionaryBibleThemes",
+"label": "7221: exodus, the",
+"language": "eng"
+},
+{
+"reference_id": "7227",
+"content_id": "7227",
+"resource_code": "DictionaryBibleThemes",
+"label": "7227: flood, the",
+"language": "eng"
+},
+{
+"reference_id": "7230",
+"content_id": "7230",
+"resource_code": "DictionaryBibleThemes",
+"label": "7230: genealogies",
+"language": "eng"
+},
+{
+"reference_id": "7233",
+"content_id": "7233",
+"resource_code": "DictionaryBibleThemes",
+"label": "7233: Israel, as northern kingdom",
+"language": "eng"
+},
+{
+"reference_id": "7236",
+"content_id": "7236",
+"resource_code": "DictionaryBibleThemes",
+"label": "7236: Israel, as united kingdom",
+"language": "eng"
+},
+{
+"reference_id": "7239",
+"content_id": "7239",
+"resource_code": "DictionaryBibleThemes",
+"label": "7239: Jerusalem",
+"language": "eng"
+},
+{
+"reference_id": "7245",
+"content_id": "7245",
+"resource_code": "DictionaryBibleThemes",
+"label": "7245: Judah, kingdom of",
+"language": "eng"
+},
+{
+"reference_id": "7248",
+"content_id": "7248",
+"resource_code": "DictionaryBibleThemes",
+"label": "7248: patriarchs",
+"language": "eng"
+},
+{
+"reference_id": "7251",
+"content_id": "7251",
+"resource_code": "DictionaryBibleThemes",
+"label": "7251: pillar of cloud and fire",
+"language": "eng"
+},
+{
+"reference_id": "7254",
+"content_id": "7254",
+"resource_code": "DictionaryBibleThemes",
+"label": "7254: plumb-line",
+"language": "eng"
+},
+{
+"reference_id": "7257",
+"content_id": "7257",
+"resource_code": "DictionaryBibleThemes",
+"label": "7257: promised land, the",
+"language": "eng"
+},
+{
+"reference_id": "7263",
+"content_id": "7263",
+"resource_code": "DictionaryBibleThemes",
+"label": "7263: theocracy",
+"language": "eng"
+},
+{
+"reference_id": "7266",
+"content_id": "7266",
+"resource_code": "DictionaryBibleThemes",
+"label": "7266: tribes of Israel",
+"language": "eng"
+},
+{
+"reference_id": "7269",
+"content_id": "7269",
+"resource_code": "DictionaryBibleThemes",
+"label": "7269: Zion",
+"language": "eng"
+}
+]
+}
+}
+]

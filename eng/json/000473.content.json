@@ -1,0 +1,129 @@
+[
+{
+"content_id": "4516",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4516: straw",
+"media_type": "Text",
+"index_reference": "4516: straw",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Uses of straw</h2>\n<h3>As animal bedding and fodder</h3>\n<p><strong><a href=\"https://ref.ly/Gen24:32\">GEN 24:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen24:22-Gen24:25\">GEN 24:22–24:25</a>; <a href=\"https://ref.ly/Judg19:16-Judg19:19\">JDG 19:16–19:19</a>; <a href=\"https://ref.ly/1Kgs4:27-1Kgs4:28\">1KI 4:27–4:28</a>; <a href=\"https://ref.ly/Isa11:7\">ISA 11:7</a>, <a href=\"https://ref.ly/Isa65:25\">ISA 65:25</a></p>\n<h3>In brickmaking</h3>\n<p><strong><a href=\"https://ref.ly/Exod5:6-Exod5:7\">EXO 5:6–5:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod5:10-Exod5:13\">EXO 5:10–5:13</a>, <a href=\"https://ref.ly/Exod5:15-Exod5:18\">EXO 5:15–5:18</a></p>\n<h2>The lightness and fragility of straw</h2>\n<p><strong><a href=\"https://ref.ly/Job21:18\">JOB 21:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job41:26-Job41:29\">JOB 41:26–41:29</a>; <a href=\"https://ref.ly/Isa5:24\">ISA 5:24</a></p>\n<h2>Straw is of little value</h2>\n<p><strong><a href=\"https://ref.ly/Isa33:11\">ISA 33:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa25:10\">ISA 25:10</a>; <a href=\"https://ref.ly/Jer23:28\">JER 23:28</a>; <a href=\"https://ref.ly/1Cor3:10-1Cor3:15\">1CO 3:10–3:15</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01024032",
+"start_ref_usfm": "GEN 24:32",
+"end_ref": "01024032",
+"end_ref_usfm": "GEN 24:32"
+},
+{
+"start_ref": "01024022",
+"start_ref_usfm": "GEN 24:22",
+"end_ref": "01024025",
+"end_ref_usfm": "GEN 24:25"
+},
+{
+"start_ref": "07019016",
+"start_ref_usfm": "JDG 19:16",
+"end_ref": "07019019",
+"end_ref_usfm": "JDG 19:19"
+},
+{
+"start_ref": "11004027",
+"start_ref_usfm": "1KI 4:27",
+"end_ref": "11004028",
+"end_ref_usfm": "1KI 4:28"
+},
+{
+"start_ref": "23011007",
+"start_ref_usfm": "ISA 11:7",
+"end_ref": "23011007",
+"end_ref_usfm": "ISA 11:7"
+},
+{
+"start_ref": "23065025",
+"start_ref_usfm": "ISA 65:25",
+"end_ref": "23065025",
+"end_ref_usfm": "ISA 65:25"
+},
+{
+"start_ref": "02005006",
+"start_ref_usfm": "EXO 5:6",
+"end_ref": "02005007",
+"end_ref_usfm": "EXO 5:7"
+},
+{
+"start_ref": "02005010",
+"start_ref_usfm": "EXO 5:10",
+"end_ref": "02005013",
+"end_ref_usfm": "EXO 5:13"
+},
+{
+"start_ref": "02005015",
+"start_ref_usfm": "EXO 5:15",
+"end_ref": "02005018",
+"end_ref_usfm": "EXO 5:18"
+},
+{
+"start_ref": "18021018",
+"start_ref_usfm": "JOB 21:18",
+"end_ref": "18021018",
+"end_ref_usfm": "JOB 21:18"
+},
+{
+"start_ref": "18041026",
+"start_ref_usfm": "JOB 41:26",
+"end_ref": "18041029",
+"end_ref_usfm": "JOB 41:29"
+},
+{
+"start_ref": "23005024",
+"start_ref_usfm": "ISA 5:24",
+"end_ref": "23005024",
+"end_ref_usfm": "ISA 5:24"
+},
+{
+"start_ref": "23033011",
+"start_ref_usfm": "ISA 33:11",
+"end_ref": "23033011",
+"end_ref_usfm": "ISA 33:11"
+},
+{
+"start_ref": "23025010",
+"start_ref_usfm": "ISA 25:10",
+"end_ref": "23025010",
+"end_ref_usfm": "ISA 25:10"
+},
+{
+"start_ref": "24023028",
+"start_ref_usfm": "JER 23:28",
+"end_ref": "24023028",
+"end_ref_usfm": "JER 23:28"
+},
+{
+"start_ref": "46003010",
+"start_ref_usfm": "1CO 3:10",
+"end_ref": "46003015",
+"end_ref_usfm": "1CO 3:15"
+}
+],
+"resource": [
+{
+"reference_id": "4426",
+"content_id": "4426",
+"resource_code": "DictionaryBibleThemes",
+"label": "4426: chaff",
+"language": "eng"
+},
+{
+"reference_id": "5239",
+"content_id": "5239",
+"resource_code": "DictionaryBibleThemes",
+"label": "5239: bricks",
+"language": "eng"
+}
+]
+}
+}
+]

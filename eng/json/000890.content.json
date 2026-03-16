@@ -1,0 +1,95 @@
+[
+{
+"content_id": "5303",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5303: embalming",
+"media_type": "Text",
+"index_reference": "5303: embalming",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The Jewish custom of preparing a body for the grave. However, the technically correct use of the term describes the removal of the internal organs of the dead and filling the cavity with spices. This originated with the Egyptians but was not practised by the Jews. Biblical teaching concerning life after death makes embalming unnecessary.</p>\n<h2>Jacob and Joseph were embalmed in Egypt</h2>\n<p><strong><a href=\"https://ref.ly/Gen50:2-Gen50:3\">GEN 50:2–50:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen50:26\">GEN 50:26</a></p>\n<h2>Jesus Christ was embalmed</h2>\n<p><strong><a href=\"https://ref.ly/John19:39-John19:40\">JHN 19:39–19:40</a></strong> parallels <a href=\"https://ref.ly/Matt27:59\">MAT 27:59</a>, <a href=\"https://ref.ly/Mark15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/Luke23:53\">LUK 23:53</a></p>\n<h2>Further embalming of Jesus Christ was planned</h2>\n<p><strong><a href=\"https://ref.ly/Mark16:1\">MRK 16:1</a></strong> parallel <a href=\"https://ref.ly/Luke24:1\">LUK 24:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01050002",
+"start_ref_usfm": "GEN 50:2",
+"end_ref": "01050003",
+"end_ref_usfm": "GEN 50:3"
+},
+{
+"start_ref": "01050026",
+"start_ref_usfm": "GEN 50:26",
+"end_ref": "01050026",
+"end_ref_usfm": "GEN 50:26"
+},
+{
+"start_ref": "43019039",
+"start_ref_usfm": "JHN 19:39",
+"end_ref": "43019040",
+"end_ref_usfm": "JHN 19:40"
+},
+{
+"start_ref": "40027059",
+"start_ref_usfm": "MAT 27:59",
+"end_ref": "40027059",
+"end_ref_usfm": "MAT 27:59"
+},
+{
+"start_ref": "41015046",
+"start_ref_usfm": "MRK 15:46",
+"end_ref": "41015046",
+"end_ref_usfm": "MRK 15:46"
+},
+{
+"start_ref": "42023053",
+"start_ref_usfm": "LUK 23:53",
+"end_ref": "42023053",
+"end_ref_usfm": "LUK 23:53"
+},
+{
+"start_ref": "41016001",
+"start_ref_usfm": "MRK 16:1",
+"end_ref": "41016001",
+"end_ref_usfm": "MRK 16:1"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024001",
+"end_ref_usfm": "LUK 24:1"
+}
+],
+"resource": [
+{
+"reference_id": "2530",
+"content_id": "2530",
+"resource_code": "DictionaryBibleThemes",
+"label": "2530: Jesus Christ, death of",
+"language": "eng"
+},
+{
+"reference_id": "5241",
+"content_id": "5241",
+"resource_code": "DictionaryBibleThemes",
+"label": "5241: burial",
+"language": "eng"
+},
+{
+"reference_id": "6644",
+"content_id": "6644",
+"resource_code": "DictionaryBibleThemes",
+"label": "6644: eternal life",
+"language": "eng"
+},
+{
+"reference_id": "9030",
+"content_id": "9030",
+"resource_code": "DictionaryBibleThemes",
+"label": "9030: dead bodies",
+"language": "eng"
+}
+]
+}
+}
+]

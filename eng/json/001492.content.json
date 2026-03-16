@@ -1,0 +1,46 @@
+[
+{
+"content_id": "6000",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6000: Sin and salvation",
+"media_type": "Text",
+"index_reference": "6000: sin and salvation",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"6010\" data-resourcetype=\"DictionaryOfBibleThemes\">6010: Sin</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6100\" data-resourcetype=\"DictionaryOfBibleThemes\">6100: Aspects of sin</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6500\" data-resourcetype=\"DictionaryOfBibleThemes\">6500: Salvation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6600\" data-resourcetype=\"DictionaryOfBibleThemes\">6600: Aspects of salvation</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6010",
+"content_id": "6010",
+"resource_code": "DictionaryBibleThemes",
+"label": "6010: Sin",
+"language": "eng"
+},
+{
+"reference_id": "6100",
+"content_id": "6100",
+"resource_code": "DictionaryBibleThemes",
+"label": "6100: Aspects of sin",
+"language": "eng"
+},
+{
+"reference_id": "6500",
+"content_id": "6500",
+"resource_code": "DictionaryBibleThemes",
+"label": "6500: Salvation",
+"language": "eng"
+},
+{
+"reference_id": "6600",
+"content_id": "6600",
+"resource_code": "DictionaryBibleThemes",
+"label": "6600: Aspects of salvation",
+"language": "eng"
+}
+]
+}
+}
+]

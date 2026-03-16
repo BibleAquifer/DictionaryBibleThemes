@@ -1,0 +1,296 @@
+[
+{
+"content_id": "6663",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6663: freedom, of the will",
+"media_type": "Text",
+"index_reference": "6663: freedom, of the will",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The ability to make decisions without being coerced by external forces. Scripture stresses that people are confronted with free choices between good and evil and commands them to choose good. However, it also notes that limitations are placed upon human actions through the enslaving power of sin.</p>\n<h2>Freedom of the will</h2>\n<h3>Freedom of the will to choose between good and evil</h3>\n<p><strong><a href=\"https://ref.ly/Deut11:26-Deut11:28\">DEU 11:26–11:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut30:15-Deut30:16\">DEU 30:15–30:16</a>, <a href=\"https://ref.ly/Deut30:19\">DEU 30:19</a>; <a href=\"https://ref.ly/Josh24:15\">JOS 24:15</a>; <a href=\"https://ref.ly/1Chr28:9\">1CH 28:9</a>; <a href=\"https://ref.ly/Jer26:3\">JER 26:3</a>; <a href=\"https://ref.ly/Ezek18:21-Ezek18:23\">EZK 18:21–18:23</a></p>\n<h3>Freedom of the will to seek and find God</h3>\n<p><strong><a href=\"https://ref.ly/Isa55:6\">ISA 55:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Amos5:4\">AMO 5:4</a>; <a href=\"https://ref.ly/Acts2:21\">ACT 2:21</a>; <a href=\"https://ref.ly/Rom10:11\">ROM 10:11</a>; <a href=\"https://ref.ly/Isa28:16\">ISA 28:16</a>; <a href=\"https://ref.ly/Rev22:17\">REV 22:17</a></p>\n<h2>The effect of sin upon freedom of the will</h2>\n<h3>Sin prevents human beings from breaking free from its bondage</h3>\n<p><strong><a href=\"https://ref.ly/Rom7:14-Rom7:20\">ROM 7:14–7:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom6:16\">ROM 6:16</a>, <a href=\"https://ref.ly/Rom6:22\">ROM 6:22</a>, <a href=\"https://ref.ly/Rom7:25\">ROM 7:25</a> <em>Paul stresses that it is only through Jesus Christ that human beings can be freed from servitude to sin.</em></p>\n<h3>Sin hardens human hearts</h3>\n<p><strong><a href=\"https://ref.ly/Heb3:13\">HEB 3:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan5:20\">DAN 5:20</a>; <a href=\"https://ref.ly/Rom1:21\">ROM 1:21</a>; <a href=\"https://ref.ly/Eph4:17-Eph4:19\">EPH 4:17–4:19</a></p>\n<h3>God hardens human hearts</h3>\n<p><strong><a href=\"https://ref.ly/Exod9:12\">EXO 9:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod4:21\">EXO 4:21</a>, <a href=\"https://ref.ly/Exod10:20\">EXO 10:20</a>, <a href=\"https://ref.ly/Exod14:4\">EXO 14:4</a>, <a href=\"https://ref.ly/Exod14:8\">EXO 14:8</a>; <a href=\"https://ref.ly/Deut2:30\">DEU 2:30</a>; <a href=\"https://ref.ly/Josh11:19-Josh11:20\">JOS 11:19–11:20</a>; <a href=\"https://ref.ly/Rom1:22-Rom1:24\">ROM 1:22–1:24</a>, <a href=\"https://ref.ly/Rom9:17-Rom9:18\">ROM 9:17–9:18</a></p>\n<h3>Human beings harden their own hearts</h3>\n<p><strong><a href=\"https://ref.ly/1Sam6:6\">1SA 6:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod8:15\">EXO 8:15</a>, <a href=\"https://ref.ly/Exod8:32\">EXO 8:32</a>; <a href=\"https://ref.ly/Ps95:8\">PSA 95:8</a>; <a href=\"https://ref.ly/Prov28:14\">PRO 28:14</a>; <a href=\"https://ref.ly/Heb3:8\">HEB 3:8</a>, <a href=\"https://ref.ly/Heb3:15\">HEB 3:15</a>, <a href=\"https://ref.ly/Heb4:7\">HEB 4:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05011026",
+"start_ref_usfm": "DEU 11:26",
+"end_ref": "05011028",
+"end_ref_usfm": "DEU 11:28"
+},
+{
+"start_ref": "05030015",
+"start_ref_usfm": "DEU 30:15",
+"end_ref": "05030016",
+"end_ref_usfm": "DEU 30:16"
+},
+{
+"start_ref": "05030019",
+"start_ref_usfm": "DEU 30:19",
+"end_ref": "05030019",
+"end_ref_usfm": "DEU 30:19"
+},
+{
+"start_ref": "06024015",
+"start_ref_usfm": "JOS 24:15",
+"end_ref": "06024015",
+"end_ref_usfm": "JOS 24:15"
+},
+{
+"start_ref": "13028009",
+"start_ref_usfm": "1CH 28:9",
+"end_ref": "13028009",
+"end_ref_usfm": "1CH 28:9"
+},
+{
+"start_ref": "24026003",
+"start_ref_usfm": "JER 26:3",
+"end_ref": "24026003",
+"end_ref_usfm": "JER 26:3"
+},
+{
+"start_ref": "26018021",
+"start_ref_usfm": "EZK 18:21",
+"end_ref": "26018023",
+"end_ref_usfm": "EZK 18:23"
+},
+{
+"start_ref": "23055006",
+"start_ref_usfm": "ISA 55:6",
+"end_ref": "23055006",
+"end_ref_usfm": "ISA 55:6"
+},
+{
+"start_ref": "30005004",
+"start_ref_usfm": "AMO 5:4",
+"end_ref": "30005004",
+"end_ref_usfm": "AMO 5:4"
+},
+{
+"start_ref": "44002021",
+"start_ref_usfm": "ACT 2:21",
+"end_ref": "44002021",
+"end_ref_usfm": "ACT 2:21"
+},
+{
+"start_ref": "45010011",
+"start_ref_usfm": "ROM 10:11",
+"end_ref": "45010011",
+"end_ref_usfm": "ROM 10:11"
+},
+{
+"start_ref": "23028016",
+"start_ref_usfm": "ISA 28:16",
+"end_ref": "23028016",
+"end_ref_usfm": "ISA 28:16"
+},
+{
+"start_ref": "66022017",
+"start_ref_usfm": "REV 22:17",
+"end_ref": "66022017",
+"end_ref_usfm": "REV 22:17"
+},
+{
+"start_ref": "45007014",
+"start_ref_usfm": "ROM 7:14",
+"end_ref": "45007020",
+"end_ref_usfm": "ROM 7:20"
+},
+{
+"start_ref": "45006016",
+"start_ref_usfm": "ROM 6:16",
+"end_ref": "45006016",
+"end_ref_usfm": "ROM 6:16"
+},
+{
+"start_ref": "45006022",
+"start_ref_usfm": "ROM 6:22",
+"end_ref": "45006022",
+"end_ref_usfm": "ROM 6:22"
+},
+{
+"start_ref": "45007025",
+"start_ref_usfm": "ROM 7:25",
+"end_ref": "45007025",
+"end_ref_usfm": "ROM 7:25"
+},
+{
+"start_ref": "58003013",
+"start_ref_usfm": "HEB 3:13",
+"end_ref": "58003013",
+"end_ref_usfm": "HEB 3:13"
+},
+{
+"start_ref": "27005020",
+"start_ref_usfm": "DAN 5:20",
+"end_ref": "27005020",
+"end_ref_usfm": "DAN 5:20"
+},
+{
+"start_ref": "45001021",
+"start_ref_usfm": "ROM 1:21",
+"end_ref": "45001021",
+"end_ref_usfm": "ROM 1:21"
+},
+{
+"start_ref": "49004017",
+"start_ref_usfm": "EPH 4:17",
+"end_ref": "49004019",
+"end_ref_usfm": "EPH 4:19"
+},
+{
+"start_ref": "02009012",
+"start_ref_usfm": "EXO 9:12",
+"end_ref": "02009012",
+"end_ref_usfm": "EXO 9:12"
+},
+{
+"start_ref": "02004021",
+"start_ref_usfm": "EXO 4:21",
+"end_ref": "02004021",
+"end_ref_usfm": "EXO 4:21"
+},
+{
+"start_ref": "02010020",
+"start_ref_usfm": "EXO 10:20",
+"end_ref": "02010020",
+"end_ref_usfm": "EXO 10:20"
+},
+{
+"start_ref": "02014004",
+"start_ref_usfm": "EXO 14:4",
+"end_ref": "02014004",
+"end_ref_usfm": "EXO 14:4"
+},
+{
+"start_ref": "02014008",
+"start_ref_usfm": "EXO 14:8",
+"end_ref": "02014008",
+"end_ref_usfm": "EXO 14:8"
+},
+{
+"start_ref": "05002030",
+"start_ref_usfm": "DEU 2:30",
+"end_ref": "05002030",
+"end_ref_usfm": "DEU 2:30"
+},
+{
+"start_ref": "06011019",
+"start_ref_usfm": "JOS 11:19",
+"end_ref": "06011020",
+"end_ref_usfm": "JOS 11:20"
+},
+{
+"start_ref": "45001022",
+"start_ref_usfm": "ROM 1:22",
+"end_ref": "45001024",
+"end_ref_usfm": "ROM 1:24"
+},
+{
+"start_ref": "45009017",
+"start_ref_usfm": "ROM 9:17",
+"end_ref": "45009018",
+"end_ref_usfm": "ROM 9:18"
+},
+{
+"start_ref": "09006006",
+"start_ref_usfm": "1SA 6:6",
+"end_ref": "09006006",
+"end_ref_usfm": "1SA 6:6"
+},
+{
+"start_ref": "02008015",
+"start_ref_usfm": "EXO 8:15",
+"end_ref": "02008015",
+"end_ref_usfm": "EXO 8:15"
+},
+{
+"start_ref": "02008032",
+"start_ref_usfm": "EXO 8:32",
+"end_ref": "02008032",
+"end_ref_usfm": "EXO 8:32"
+},
+{
+"start_ref": "19095008",
+"start_ref_usfm": "PSA 95:8",
+"end_ref": "19095008",
+"end_ref_usfm": "PSA 95:8"
+},
+{
+"start_ref": "20028014",
+"start_ref_usfm": "PRO 28:14",
+"end_ref": "20028014",
+"end_ref_usfm": "PRO 28:14"
+},
+{
+"start_ref": "58003008",
+"start_ref_usfm": "HEB 3:8",
+"end_ref": "58003008",
+"end_ref_usfm": "HEB 3:8"
+},
+{
+"start_ref": "58003015",
+"start_ref_usfm": "HEB 3:15",
+"end_ref": "58003015",
+"end_ref_usfm": "HEB 3:15"
+},
+{
+"start_ref": "58004007",
+"start_ref_usfm": "HEB 4:7",
+"end_ref": "58004007",
+"end_ref_usfm": "HEB 4:7"
+}
+],
+"resource": [
+{
+"reference_id": "1130",
+"content_id": "1130",
+"resource_code": "DictionaryBibleThemes",
+"label": "1130: God, sovereignty of",
+"language": "eng"
+},
+{
+"reference_id": "5051",
+"content_id": "5051",
+"resource_code": "DictionaryBibleThemes",
+"label": "5051: responsibility",
+"language": "eng"
+},
+{
+"reference_id": "6030",
+"content_id": "6030",
+"resource_code": "DictionaryBibleThemes",
+"label": "6030: sin, avoidance of",
+"language": "eng"
+},
+{
+"reference_id": "6253",
+"content_id": "6253",
+"resource_code": "DictionaryBibleThemes",
+"label": "6253: temptation, avoiding causing",
+"language": "eng"
+},
+{
+"reference_id": "7366",
+"content_id": "7366",
+"resource_code": "DictionaryBibleThemes",
+"label": "7366: freewill offering",
+"language": "eng"
+},
+{
+"reference_id": "8207",
+"content_id": "8207",
+"resource_code": "DictionaryBibleThemes",
+"label": "8207: commitment",
+"language": "eng"
+},
+{
+"reference_id": "8408",
+"content_id": "8408",
+"resource_code": "DictionaryBibleThemes",
+"label": "8408: decision-making",
+"language": "eng"
+}
+]
+}
+}
+]

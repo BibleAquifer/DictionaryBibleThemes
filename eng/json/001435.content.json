@@ -1,0 +1,160 @@
+[
+{
+"content_id": "5921",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5921: privacy",
+"media_type": "Text",
+"index_reference": "5921: privacy",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Privacy to conduct conversations</h2>\n<p><strong><a href=\"https://ref.ly/Jer37:17\">JER 37:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam18:22\">1SA 18:22</a>; <a href=\"https://ref.ly/2Sam3:27\">2SA 3:27</a>; <a href=\"https://ref.ly/Jer40:15\">JER 40:15</a></p>\n<h2>Privacy to express emotions</h2>\n<p><strong><a href=\"https://ref.ly/Gen43:30\">GEN 43:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt14:9-Matt14:13\">MAT 14:9–14:13</a></p>\n<h2>Privacy to teach and to learn</h2>\n<p><strong><a href=\"https://ref.ly/Matt17:19\">MAT 17:19</a></strong> parallel <a href=\"https://ref.ly/Mark9:28\">MRK 9:28</a> <em>See also</em> <a href=\"https://ref.ly/Matt24:3\">MAT 24:3</a> parallel <a href=\"https://ref.ly/Mark13:3\">MRK 13:3</a>; <a href=\"https://ref.ly/Luke10:23\">LUK 10:23</a>; <a href=\"https://ref.ly/Gal2:2\">GAL 2:2</a></p>\n<h2>Privacy to pray</h2>\n<p><strong><a href=\"https://ref.ly/Luke9:18\">LUK 9:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt6:5-Matt6:6\">MAT 6:5–6:6</a>, <a href=\"https://ref.ly/Matt14:22-Matt14:23\">MAT 14:22–14:23</a> parallel <a href=\"https://ref.ly/Mark6:45-Mark6:46\">MRK 6:45–6:46</a>; <a href=\"https://ref.ly/Matt26:36\">MAT 26:36</a> parallels <a href=\"https://ref.ly/Mark14:32\">MRK 14:32</a>, <a href=\"https://ref.ly/Luke22:39-Luke22:42\">LUK 22:39–22:42</a>; <a href=\"https://ref.ly/Luke6:12\">LUK 6:12</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "24037017",
+"start_ref_usfm": "JER 37:17",
+"end_ref": "24037017",
+"end_ref_usfm": "JER 37:17"
+},
+{
+"start_ref": "09018022",
+"start_ref_usfm": "1SA 18:22",
+"end_ref": "09018022",
+"end_ref_usfm": "1SA 18:22"
+},
+{
+"start_ref": "10003027",
+"start_ref_usfm": "2SA 3:27",
+"end_ref": "10003027",
+"end_ref_usfm": "2SA 3:27"
+},
+{
+"start_ref": "24040015",
+"start_ref_usfm": "JER 40:15",
+"end_ref": "24040015",
+"end_ref_usfm": "JER 40:15"
+},
+{
+"start_ref": "01043030",
+"start_ref_usfm": "GEN 43:30",
+"end_ref": "01043030",
+"end_ref_usfm": "GEN 43:30"
+},
+{
+"start_ref": "40014009",
+"start_ref_usfm": "MAT 14:9",
+"end_ref": "40014013",
+"end_ref_usfm": "MAT 14:13"
+},
+{
+"start_ref": "40017019",
+"start_ref_usfm": "MAT 17:19",
+"end_ref": "40017019",
+"end_ref_usfm": "MAT 17:19"
+},
+{
+"start_ref": "41009028",
+"start_ref_usfm": "MRK 9:28",
+"end_ref": "41009028",
+"end_ref_usfm": "MRK 9:28"
+},
+{
+"start_ref": "40024003",
+"start_ref_usfm": "MAT 24:3",
+"end_ref": "40024003",
+"end_ref_usfm": "MAT 24:3"
+},
+{
+"start_ref": "41013003",
+"start_ref_usfm": "MRK 13:3",
+"end_ref": "41013003",
+"end_ref_usfm": "MRK 13:3"
+},
+{
+"start_ref": "42010023",
+"start_ref_usfm": "LUK 10:23",
+"end_ref": "42010023",
+"end_ref_usfm": "LUK 10:23"
+},
+{
+"start_ref": "48002002",
+"start_ref_usfm": "GAL 2:2",
+"end_ref": "48002002",
+"end_ref_usfm": "GAL 2:2"
+},
+{
+"start_ref": "42009018",
+"start_ref_usfm": "LUK 9:18",
+"end_ref": "42009018",
+"end_ref_usfm": "LUK 9:18"
+},
+{
+"start_ref": "40006005",
+"start_ref_usfm": "MAT 6:5",
+"end_ref": "40006006",
+"end_ref_usfm": "MAT 6:6"
+},
+{
+"start_ref": "40014022",
+"start_ref_usfm": "MAT 14:22",
+"end_ref": "40014023",
+"end_ref_usfm": "MAT 14:23"
+},
+{
+"start_ref": "41006045",
+"start_ref_usfm": "MRK 6:45",
+"end_ref": "41006046",
+"end_ref_usfm": "MRK 6:46"
+},
+{
+"start_ref": "40026036",
+"start_ref_usfm": "MAT 26:36",
+"end_ref": "40026036",
+"end_ref_usfm": "MAT 26:36"
+},
+{
+"start_ref": "41014032",
+"start_ref_usfm": "MRK 14:32",
+"end_ref": "41014032",
+"end_ref_usfm": "MRK 14:32"
+},
+{
+"start_ref": "42022039",
+"start_ref_usfm": "LUK 22:39",
+"end_ref": "42022042",
+"end_ref_usfm": "LUK 22:42"
+},
+{
+"start_ref": "42006012",
+"start_ref_usfm": "LUK 6:12",
+"end_ref": "42006012",
+"end_ref_usfm": "LUK 6:12"
+}
+],
+"resource": [
+{
+"reference_id": "2360",
+"content_id": "2360",
+"resource_code": "DictionaryBibleThemes",
+"label": "2360: Jesus Christ, prayers of",
+"language": "eng"
+},
+{
+"reference_id": "5941",
+"content_id": "5941",
+"resource_code": "DictionaryBibleThemes",
+"label": "5941: secrecy",
+"language": "eng"
+},
+{
+"reference_id": "8620",
+"content_id": "8620",
+"resource_code": "DictionaryBibleThemes",
+"label": "8620: prayer, practicalities of",
+"language": "eng"
+}
+]
+}
+}
+]

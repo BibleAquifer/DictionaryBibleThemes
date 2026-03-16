@@ -1,0 +1,32 @@
+[
+{
+"content_id": "7724",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7724: evangelists",
+"media_type": "Text",
+"index_reference": "7724: evangelists",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Those called by God to announce good news and, especially, to proclaim the good news of Jesus Christ. The work was first committed to the apostles and then to other believers gifted by the Holy Spirit for the task.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7725",
+"content_id": "7725",
+"resource_code": "DictionaryBibleThemes",
+"label": "7725: evangelists, identity of",
+"language": "eng"
+},
+{
+"reference_id": "7726",
+"content_id": "7726",
+"resource_code": "DictionaryBibleThemes",
+"label": "7726: evangelists, ministry of",
+"language": "eng"
+}
+]
+}
+}
+]

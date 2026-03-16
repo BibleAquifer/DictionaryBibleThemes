@@ -1,0 +1,249 @@
+[
+{
+"content_id": "7474",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7474: Tent of Meeting",
+"media_type": "Text",
+"index_reference": "7474: tent of meeting",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A tent pitched by Moses outside the Israelite camp in the wilderness. There Moses met with God and others would enquire of the LORD. God's presence was shown there by a pillar of cloud. It seems to predate the construction and setting up of the tabernacle, after which, the term became synonymous with the tabernacle.</p>\n<h2>Moses pitched the Tent of Meeting outside the Israelite camp</h2>\n<p><strong><a href=\"https://ref.ly/Exod33:7\">EXO 33:7</a></strong> <em>The tent was outside the camp because of the LORD's estrangement from his people (<a href=\"https://ref.ly/Exod33:3\">Ex 33:3</a>) following their making the golden calf. It was possibly a temporary structure used until the tabernacle was completed.</em></p>\n<h2>The Tent of Meeting was where the faithful met with God</h2>\n<h3>Moses</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Exod33:9\">EXO 33:9</a>, <a href=\"https://ref.ly/Exod33:11\">EXO 33:11</a></p>\n<h3>Those who wished to enquire of the LORD</h3>\n<p><strong><a href=\"https://ref.ly/Exod33:7\">EXO 33:7</a></strong></p>\n<h3>Joshua</h3>\n<p><strong><a href=\"https://ref.ly/Exod33:11\">EXO 33:11</a></strong></p>\n<h2>The pillar of cloud at the Tent of Meeting</h2>\n<h3>It indicated God's presence</h3>\n<p><strong><a href=\"https://ref.ly/Exod33:9\">EXO 33:9</a></strong></p>\n<h3>Those who saw the cloud worshipped the LORD</h3>\n<p><strong><a href=\"https://ref.ly/Exod33:10\">EXO 33:10</a></strong></p>\n<h2>The Tent of Meeting and the tabernacle</h2>\n<h3>This Tent of Meeting may be distinct from the tabernacle</h3>\n<p><strong><a href=\"https://ref.ly/Exod25:8-Exod25:9\">EXO 25:8–25:9</a></strong></p>\n<h3>The tabernacle was constructed (in accordance with detailed instructions) after the Tent of Meeting</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Exod35:10-Exod35:11\">EXO 35:10–35:11</a>, <a href=\"https://ref.ly/Exod39:32-Exod39:43\">EXO 39:32–39:43</a></p>\n<h3>The tabernacle was set up after the Tent of Meeting</h3>\n<p><a href=\"https://ref.ly/Exod40:1-Exod40:2\">EXO 40:1–40:2</a>, <a href=\"https://ref.ly/Exod40:33\">EXO 40:33</a></p>\n<h2>The Tent of Meeting as a synonym for the tabernacle</h2>\n<p><strong><a href=\"https://ref.ly/Exod40:2\">EXO 40:2</a></strong> <em>Afterwards “Tent of Meeting” became a synonym for the tabernacle, especially the tent part of the whole complex.</em> <em>See also</em> <a href=\"https://ref.ly/Exod40:6-Exod40:7\">EXO 40:6–40:7</a>, <a href=\"https://ref.ly/Exod40:22\">EXO 40:22</a>, <a href=\"https://ref.ly/Exod40:24\">EXO 40:24</a>, <a href=\"https://ref.ly/Exod40:29-Exod40:30\">EXO 40:29–40:30</a>, <a href=\"https://ref.ly/Exod40:34-Exod40:35\">EXO 40:34–40:35</a>; <a href=\"https://ref.ly/Lev1:1\">LEV 1:1</a>, <a href=\"https://ref.ly/Lev24:3\">LEV 24:3</a>; <a href=\"https://ref.ly/Num1:1\">NUM 1:1</a>, <a href=\"https://ref.ly/Num31:54\">NUM 31:54</a>; <a href=\"https://ref.ly/Deut31:14-Deut31:15\">DEU 31:14–31:15</a>; <a href=\"https://ref.ly/Josh18:1\">JOS 18:1</a>, <a href=\"https://ref.ly/Josh19:51\">JOS 19:51</a>; <a href=\"https://ref.ly/1Sam2:22\">1SA 2:22</a>; <a href=\"https://ref.ly/1Kgs8:4\">1KI 8:4</a> parallel <a href=\"https://ref.ly/2Chr5:5\">2CH 5:5</a>; <a href=\"https://ref.ly/1Chr6:32\">1CH 6:32</a>, <a href=\"https://ref.ly/1Chr9:21\">1CH 9:21</a>; <a href=\"https://ref.ly/2Chr1:3\">2CH 1:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02033007",
+"start_ref_usfm": "EXO 33:7",
+"end_ref": "02033007",
+"end_ref_usfm": "EXO 33:7"
+},
+{
+"start_ref": "02033003",
+"start_ref_usfm": "EXO 33:3",
+"end_ref": "02033003",
+"end_ref_usfm": "EXO 33:3"
+},
+{
+"start_ref": "02033009",
+"start_ref_usfm": "EXO 33:9",
+"end_ref": "02033009",
+"end_ref_usfm": "EXO 33:9"
+},
+{
+"start_ref": "02033011",
+"start_ref_usfm": "EXO 33:11",
+"end_ref": "02033011",
+"end_ref_usfm": "EXO 33:11"
+},
+{
+"start_ref": "02033010",
+"start_ref_usfm": "EXO 33:10",
+"end_ref": "02033010",
+"end_ref_usfm": "EXO 33:10"
+},
+{
+"start_ref": "02025008",
+"start_ref_usfm": "EXO 25:8",
+"end_ref": "02025009",
+"end_ref_usfm": "EXO 25:9"
+},
+{
+"start_ref": "02035010",
+"start_ref_usfm": "EXO 35:10",
+"end_ref": "02035011",
+"end_ref_usfm": "EXO 35:11"
+},
+{
+"start_ref": "02039032",
+"start_ref_usfm": "EXO 39:32",
+"end_ref": "02039043",
+"end_ref_usfm": "EXO 39:43"
+},
+{
+"start_ref": "02040001",
+"start_ref_usfm": "EXO 40:1",
+"end_ref": "02040002",
+"end_ref_usfm": "EXO 40:2"
+},
+{
+"start_ref": "02040033",
+"start_ref_usfm": "EXO 40:33",
+"end_ref": "02040033",
+"end_ref_usfm": "EXO 40:33"
+},
+{
+"start_ref": "02040002",
+"start_ref_usfm": "EXO 40:2",
+"end_ref": "02040002",
+"end_ref_usfm": "EXO 40:2"
+},
+{
+"start_ref": "02040006",
+"start_ref_usfm": "EXO 40:6",
+"end_ref": "02040007",
+"end_ref_usfm": "EXO 40:7"
+},
+{
+"start_ref": "02040022",
+"start_ref_usfm": "EXO 40:22",
+"end_ref": "02040022",
+"end_ref_usfm": "EXO 40:22"
+},
+{
+"start_ref": "02040024",
+"start_ref_usfm": "EXO 40:24",
+"end_ref": "02040024",
+"end_ref_usfm": "EXO 40:24"
+},
+{
+"start_ref": "02040029",
+"start_ref_usfm": "EXO 40:29",
+"end_ref": "02040030",
+"end_ref_usfm": "EXO 40:30"
+},
+{
+"start_ref": "02040034",
+"start_ref_usfm": "EXO 40:34",
+"end_ref": "02040035",
+"end_ref_usfm": "EXO 40:35"
+},
+{
+"start_ref": "03001001",
+"start_ref_usfm": "LEV 1:1",
+"end_ref": "03001001",
+"end_ref_usfm": "LEV 1:1"
+},
+{
+"start_ref": "03024003",
+"start_ref_usfm": "LEV 24:3",
+"end_ref": "03024003",
+"end_ref_usfm": "LEV 24:3"
+},
+{
+"start_ref": "04001001",
+"start_ref_usfm": "NUM 1:1",
+"end_ref": "04001001",
+"end_ref_usfm": "NUM 1:1"
+},
+{
+"start_ref": "04031054",
+"start_ref_usfm": "NUM 31:54",
+"end_ref": "04031054",
+"end_ref_usfm": "NUM 31:54"
+},
+{
+"start_ref": "05031014",
+"start_ref_usfm": "DEU 31:14",
+"end_ref": "05031015",
+"end_ref_usfm": "DEU 31:15"
+},
+{
+"start_ref": "06018001",
+"start_ref_usfm": "JOS 18:1",
+"end_ref": "06018001",
+"end_ref_usfm": "JOS 18:1"
+},
+{
+"start_ref": "06019051",
+"start_ref_usfm": "JOS 19:51",
+"end_ref": "06019051",
+"end_ref_usfm": "JOS 19:51"
+},
+{
+"start_ref": "09002022",
+"start_ref_usfm": "1SA 2:22",
+"end_ref": "09002022",
+"end_ref_usfm": "1SA 2:22"
+},
+{
+"start_ref": "11008004",
+"start_ref_usfm": "1KI 8:4",
+"end_ref": "11008004",
+"end_ref_usfm": "1KI 8:4"
+},
+{
+"start_ref": "14005005",
+"start_ref_usfm": "2CH 5:5",
+"end_ref": "14005005",
+"end_ref_usfm": "2CH 5:5"
+},
+{
+"start_ref": "13006032",
+"start_ref_usfm": "1CH 6:32",
+"end_ref": "13006032",
+"end_ref_usfm": "1CH 6:32"
+},
+{
+"start_ref": "13009021",
+"start_ref_usfm": "1CH 9:21",
+"end_ref": "13009021",
+"end_ref_usfm": "1CH 9:21"
+},
+{
+"start_ref": "14001003",
+"start_ref_usfm": "2CH 1:3",
+"end_ref": "14001003",
+"end_ref_usfm": "2CH 1:3"
+}
+],
+"resource": [
+{
+"reference_id": "5101",
+"content_id": "5101",
+"resource_code": "DictionaryBibleThemes",
+"label": "5101: Moses",
+"language": "eng"
+},
+{
+"reference_id": "5578",
+"content_id": "5578",
+"resource_code": "DictionaryBibleThemes",
+"label": "5578: tents",
+"language": "eng"
+},
+{
+"reference_id": "7251",
+"content_id": "7251",
+"resource_code": "DictionaryBibleThemes",
+"label": "7251: pillar of cloud and fire",
+"language": "eng"
+},
+{
+"reference_id": "7306",
+"content_id": "7306",
+"resource_code": "DictionaryBibleThemes",
+"label": "7306: ark of the covenant",
+"language": "eng"
+},
+{
+"reference_id": "7358",
+"content_id": "7358",
+"resource_code": "DictionaryBibleThemes",
+"label": "7358: Feast of Tabernacles",
+"language": "eng"
+},
+{
+"reference_id": "7459",
+"content_id": "7459",
+"resource_code": "DictionaryBibleThemes",
+"label": "7459: tabernacle, in OT",
+"language": "eng"
+},
+{
+"reference_id": "8626",
+"content_id": "8626",
+"resource_code": "DictionaryBibleThemes",
+"label": "8626: worship, places of",
+"language": "eng"
+},
+{
+"reference_id": "8648",
+"content_id": "8648",
+"resource_code": "DictionaryBibleThemes",
+"label": "8648: enquiring of God",
+"language": "eng"
+}
+]
+}
+}
+]

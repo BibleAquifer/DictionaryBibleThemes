@@ -1,0 +1,39 @@
+[
+{
+"content_id": "8234",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8234: doctrine",
+"media_type": "Text",
+"index_reference": "8234: doctrine",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The body of teachings of the Christian faith concerning its central beliefs. Doctrine is grounded in Scripture and aims to maintain the integrity of Christianity by distinguishing it from non-Christian beliefs. Doctrine is of central importance in Christian preaching and teaching in that it equips the people of God for effective and faithful service in his world.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8235",
+"content_id": "8235",
+"resource_code": "DictionaryBibleThemes",
+"label": "8235: doctrine, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8236",
+"content_id": "8236",
+"resource_code": "DictionaryBibleThemes",
+"label": "8236: doctrine, purpose of",
+"language": "eng"
+},
+{
+"reference_id": "8237",
+"content_id": "8237",
+"resource_code": "DictionaryBibleThemes",
+"label": "8237: doctrine, false",
+"language": "eng"
+}
+]
+}
+}
+]

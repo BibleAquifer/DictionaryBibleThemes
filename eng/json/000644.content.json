@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5035",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5035: mind",
+"media_type": "Text",
+"index_reference": "5035: mind",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The seat of human consciousness, thought and desires. Scripture stresses that the minds of believers must be shaped by the knowledge and love of God, as their ways of thinking and acting become more like the pattern set out in Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5036",
+"content_id": "5036",
+"resource_code": "DictionaryBibleThemes",
+"label": "5036: mind, of God",
+"language": "eng"
+},
+{
+"reference_id": "5037",
+"content_id": "5037",
+"resource_code": "DictionaryBibleThemes",
+"label": "5037: mind, of Christ",
+"language": "eng"
+},
+{
+"reference_id": "5038",
+"content_id": "5038",
+"resource_code": "DictionaryBibleThemes",
+"label": "5038: mind, the human",
+"language": "eng"
+}
+]
+}
+}
+]

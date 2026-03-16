@@ -1,0 +1,53 @@
+[
+{
+"content_id": "6658",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6658: freedom",
+"media_type": "Text",
+"index_reference": "6658: freedom",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The state of liberty that results from not being oppressed or in bondage. Scripture stresses that human beings lack freedom on account of sin, but that faith in Jesus Christ brings freedom from the power of sin and the law.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6659",
+"content_id": "6659",
+"resource_code": "DictionaryBibleThemes",
+"label": "6659: freedom, acts of in OT",
+"language": "eng"
+},
+{
+"reference_id": "6660",
+"content_id": "6660",
+"resource_code": "DictionaryBibleThemes",
+"label": "6660: freedom, through Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "6661",
+"content_id": "6661",
+"resource_code": "DictionaryBibleThemes",
+"label": "6661: freedom, and the law",
+"language": "eng"
+},
+{
+"reference_id": "6662",
+"content_id": "6662",
+"resource_code": "DictionaryBibleThemes",
+"label": "6662: freedom, abuse of Christian",
+"language": "eng"
+},
+{
+"reference_id": "6663",
+"content_id": "6663",
+"resource_code": "DictionaryBibleThemes",
+"label": "6663: freedom, of the will",
+"language": "eng"
+}
+]
+}
+}
+]

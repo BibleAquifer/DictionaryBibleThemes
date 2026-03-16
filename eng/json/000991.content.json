@@ -1,0 +1,58 @@
+[
+{
+"content_id": "5410",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5410: midwife",
+"media_type": "Text",
+"index_reference": "5410: midwife",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Midwives assist at childbirth</h2>\n<p><strong><a href=\"https://ref.ly/Gen35:17\">GEN 35:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen38:28\">GEN 38:28</a></p>\n<h2>Midwives ordered to kill all newborn boys</h2>\n<p><strong><a href=\"https://ref.ly/Exod1:15-Exod1:21\">EXO 1:15–1:21</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01035017",
+"start_ref_usfm": "GEN 35:17",
+"end_ref": "01035017",
+"end_ref_usfm": "GEN 35:17"
+},
+{
+"start_ref": "01038028",
+"start_ref_usfm": "GEN 38:28",
+"end_ref": "01038028",
+"end_ref_usfm": "GEN 38:28"
+},
+{
+"start_ref": "02001015",
+"start_ref_usfm": "EXO 1:15",
+"end_ref": "02001021",
+"end_ref_usfm": "EXO 1:21"
+}
+],
+"resource": [
+{
+"reference_id": "5428",
+"content_id": "5428",
+"resource_code": "DictionaryBibleThemes",
+"label": "5428: nurse",
+"language": "eng"
+},
+{
+"reference_id": "5652",
+"content_id": "5652",
+"resource_code": "DictionaryBibleThemes",
+"label": "5652: babies",
+"language": "eng"
+},
+{
+"reference_id": "5663",
+"content_id": "5663",
+"resource_code": "DictionaryBibleThemes",
+"label": "5663: childbirth",
+"language": "eng"
+}
+]
+}
+}
+]

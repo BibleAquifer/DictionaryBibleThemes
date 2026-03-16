@@ -1,0 +1,190 @@
+[
+{
+"content_id": "3209",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "3209: Holy Spirit, and love",
+"media_type": "Text",
+"index_reference": "3209: holy spirit, and love",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Heartfelt concern and steadfast practical care is part of the evidence of the Holy Spirit's presence in the lives of believers.</p>\n<h2>The Holy Spirit's work and fruit includes the characteristic of love</h2>\n<p><strong><a href=\"https://ref.ly/Gal5:22\">GAL 5:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts9:31\">ACT 9:31</a>; <a href=\"https://ref.ly/Rom15:30\">ROM 15:30</a>; <a href=\"https://ref.ly/Col1:8\">COL 1:8</a>; <a href=\"https://ref.ly/1Thess4:8-1Thess4:10\">1TH 4:8–4:10</a></p>\n<h2>The Holy Spirit fills believers with the love of God</h2>\n<p><strong><a href=\"https://ref.ly/Rom5:5\">ROM 5:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek11:19\">EZK 11:19</a>; <a href=\"https://ref.ly/Eph3:16-Eph3:19\">EPH 3:16–3:19</a></p>\n<h2>The Holy Spirit enables believers to live with one another in love</h2>\n<p><strong><a href=\"https://ref.ly/Eph4:2-Eph4:3\">EPH 4:2–4:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor6:6\">2CO 6:6</a>; <a href=\"https://ref.ly/Gal5:14-Gal5:16\">GAL 5:14–5:16</a>, <a href=\"https://ref.ly/Gal5:25-Gal5:26\">GAL 5:25–5:26</a>; <a href=\"https://ref.ly/Phil2:1-Phil2:2\">PHP 2:1–2:2</a></p>\n<h2>The gift of the Holy Spirit results in practical love</h2>\n<p><strong><a href=\"https://ref.ly/Acts4:31-Acts4:35\">ACT 4:31–4:35</a></strong></p>\n<h2>Love is essential in the exercise of the gifts of the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/1Cor13:1-1Cor13:13\">1CO 13:1–13:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor14:1\">1CO 14:1</a>, <a href=\"https://ref.ly/1Cor14:12\">1CO 14:12</a>, <a href=\"https://ref.ly/1Cor14:26\">1CO 14:26</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "48005022",
+"start_ref_usfm": "GAL 5:22",
+"end_ref": "48005022",
+"end_ref_usfm": "GAL 5:22"
+},
+{
+"start_ref": "44009031",
+"start_ref_usfm": "ACT 9:31",
+"end_ref": "44009031",
+"end_ref_usfm": "ACT 9:31"
+},
+{
+"start_ref": "45015030",
+"start_ref_usfm": "ROM 15:30",
+"end_ref": "45015030",
+"end_ref_usfm": "ROM 15:30"
+},
+{
+"start_ref": "51001008",
+"start_ref_usfm": "COL 1:8",
+"end_ref": "51001008",
+"end_ref_usfm": "COL 1:8"
+},
+{
+"start_ref": "52004008",
+"start_ref_usfm": "1TH 4:8",
+"end_ref": "52004010",
+"end_ref_usfm": "1TH 4:10"
+},
+{
+"start_ref": "45005005",
+"start_ref_usfm": "ROM 5:5",
+"end_ref": "45005005",
+"end_ref_usfm": "ROM 5:5"
+},
+{
+"start_ref": "26011019",
+"start_ref_usfm": "EZK 11:19",
+"end_ref": "26011019",
+"end_ref_usfm": "EZK 11:19"
+},
+{
+"start_ref": "49003016",
+"start_ref_usfm": "EPH 3:16",
+"end_ref": "49003019",
+"end_ref_usfm": "EPH 3:19"
+},
+{
+"start_ref": "49004002",
+"start_ref_usfm": "EPH 4:2",
+"end_ref": "49004003",
+"end_ref_usfm": "EPH 4:3"
+},
+{
+"start_ref": "47006006",
+"start_ref_usfm": "2CO 6:6",
+"end_ref": "47006006",
+"end_ref_usfm": "2CO 6:6"
+},
+{
+"start_ref": "48005014",
+"start_ref_usfm": "GAL 5:14",
+"end_ref": "48005016",
+"end_ref_usfm": "GAL 5:16"
+},
+{
+"start_ref": "48005025",
+"start_ref_usfm": "GAL 5:25",
+"end_ref": "48005026",
+"end_ref_usfm": "GAL 5:26"
+},
+{
+"start_ref": "50002001",
+"start_ref_usfm": "PHP 2:1",
+"end_ref": "50002002",
+"end_ref_usfm": "PHP 2:2"
+},
+{
+"start_ref": "44004031",
+"start_ref_usfm": "ACT 4:31",
+"end_ref": "44004035",
+"end_ref_usfm": "ACT 4:35"
+},
+{
+"start_ref": "46013001",
+"start_ref_usfm": "1CO 13:1",
+"end_ref": "46013013",
+"end_ref_usfm": "1CO 13:13"
+},
+{
+"start_ref": "46014001",
+"start_ref_usfm": "1CO 14:1",
+"end_ref": "46014001",
+"end_ref_usfm": "1CO 14:1"
+},
+{
+"start_ref": "46014012",
+"start_ref_usfm": "1CO 14:12",
+"end_ref": "46014012",
+"end_ref_usfm": "1CO 14:12"
+},
+{
+"start_ref": "46014026",
+"start_ref_usfm": "1CO 14:26",
+"end_ref": "46014026",
+"end_ref_usfm": "1CO 14:26"
+}
+],
+"resource": [
+{
+"reference_id": "1085",
+"content_id": "1085",
+"resource_code": "DictionaryBibleThemes",
+"label": "1085: God, love of",
+"language": "eng"
+},
+{
+"reference_id": "2048",
+"content_id": "2048",
+"resource_code": "DictionaryBibleThemes",
+"label": "2048: Jesus Christ, love of",
+"language": "eng"
+},
+{
+"reference_id": "3254",
+"content_id": "3254",
+"resource_code": "DictionaryBibleThemes",
+"label": "3254: Holy Spirit, fruit of",
+"language": "eng"
+},
+{
+"reference_id": "5015",
+"content_id": "5015",
+"resource_code": "DictionaryBibleThemes",
+"label": "5015: heart, and Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "6652",
+"content_id": "6652",
+"resource_code": "DictionaryBibleThemes",
+"label": "6652: forgiveness",
+"language": "eng"
+},
+{
+"reference_id": "7028",
+"content_id": "7028",
+"resource_code": "DictionaryBibleThemes",
+"label": "7028: church, life of",
+"language": "eng"
+},
+{
+"reference_id": "7921",
+"content_id": "7921",
+"resource_code": "DictionaryBibleThemes",
+"label": "7921: fellowship",
+"language": "eng"
+},
+{
+"reference_id": "8292",
+"content_id": "8292",
+"resource_code": "DictionaryBibleThemes",
+"label": "8292: love",
+"language": "eng"
+},
+{
+"reference_id": "8463",
+"content_id": "8463",
+"resource_code": "DictionaryBibleThemes",
+"label": "8463: priority, of faith, hope and love",
+"language": "eng"
+}
+]
+}
+}
+]

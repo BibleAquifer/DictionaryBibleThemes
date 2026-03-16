@@ -1,0 +1,294 @@
+[
+{
+"content_id": "6714",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6714: ransom",
+"media_type": "Text",
+"index_reference": "6714: ransom",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The price paid for redemption, that is, for setting something or someone free from some form of obligation or captivity.</p>\n<h2>Ransom paid for what has been devoted to the Lord</h2>\n<p><a href=\"https://ref.ly/Exod13:12-Exod13:13\">EXO 13:12–13:13</a>, <a href=\"https://ref.ly/Exod30:11-Exod30:16\">EXO 30:11–30:16</a>, <a href=\"https://ref.ly/Exod34:20\">EXO 34:20</a>; ; <a href=\"https://ref.ly/Lev27:1-Lev27:33\">LEV 27:1–27:33</a>; ; <a href=\"https://ref.ly/Num3:40-Num3:51\">NUM 3:40–3:51</a>, <a href=\"https://ref.ly/Num18:14-Num18:17\">NUM 18:14–18:17</a></p>\n<h2>Ransom of a person's life instead of punishment</h2>\n<p><strong><a href=\"https://ref.ly/Exod21:28-Exod21:32\">EXO 21:28–21:32</a></strong></p>\n<h2>Ransom from poverty and misfortune, including widowhood</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Lev25:25-Lev25:28\">LEV 25:25–25:28</a>, <a href=\"https://ref.ly/Lev25:47-Lev25:55\">LEV 25:47–25:55</a>; <a href=\"https://ref.ly/Ruth4:1-Ruth4:13\">RUT 4:1–4:13</a>; <a href=\"https://ref.ly/Prov13:8\">PRO 13:8</a></p>\n<h2>Limitations on ransom payments</h2>\n<p><strong><a href=\"https://ref.ly/Num35:31-Num35:32\">NUM 35:31–35:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev27:29\">LEV 27:29</a></p>\n<h2>Paying a ransom to God</h2>\n<p><strong><a href=\"https://ref.ly/Ps49:7-Ps49:8\">PSA 49:7–49:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod30:12-Exod30:16\">EXO 30:12–30:16</a>; <a href=\"https://ref.ly/Job33:24\">JOB 33:24</a></p>\n<h2>Promises of redemption for the Lord's ransomed people</h2>\n<p><strong><a href=\"https://ref.ly/Isa51:11\">ISA 51:11</a></strong> parallel <a href=\"https://ref.ly/Isa35:10\">ISA 35:10</a> <em>See also</em> <a href=\"https://ref.ly/Isa40:2\">ISA 40:2</a>, <a href=\"https://ref.ly/Isa43:3-Isa43:5\">ISA 43:3–43:5</a>; <a href=\"https://ref.ly/Jer31:11\">JER 31:11</a>; <a href=\"https://ref.ly/Hos13:14\">HOS 13:14</a></p>\n<h2>The death of Jesus Christ seen as a ransom</h2>\n<p><strong><a href=\"https://ref.ly/Mark10:45\">MRK 10:45</a></strong> parallel <a href=\"https://ref.ly/Matt20:28\">MAT 20:28</a> <em>See also</em> <a href=\"https://ref.ly/Acts20:28\">ACT 20:28</a>; <a href=\"https://ref.ly/1Tim2:5-1Tim2:6\">1TI 2:5–2:6</a>; <a href=\"https://ref.ly/Titus2:14\">TIT 2:14</a>; <a href=\"https://ref.ly/Heb9:15\">HEB 9:15</a>; <a href=\"https://ref.ly/2Pet2:1\">2PE 2:1</a></p>\n<h2>The priceless value of the ransom of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/1Cor6:19-1Cor6:20\">1CO 6:19–6:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor7:23\">1CO 7:23</a>; <a href=\"https://ref.ly/1Pet1:18-1Pet1:19\">1PE 1:18–1:19</a>; <a href=\"https://ref.ly/Rev5:9\">REV 5:9</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02013012",
+"start_ref_usfm": "EXO 13:12",
+"end_ref": "02013013",
+"end_ref_usfm": "EXO 13:13"
+},
+{
+"start_ref": "02030011",
+"start_ref_usfm": "EXO 30:11",
+"end_ref": "02030016",
+"end_ref_usfm": "EXO 30:16"
+},
+{
+"start_ref": "02034020",
+"start_ref_usfm": "EXO 34:20",
+"end_ref": "02034020",
+"end_ref_usfm": "EXO 34:20"
+},
+{
+"start_ref": "03027001",
+"start_ref_usfm": "LEV 27:1",
+"end_ref": "03027033",
+"end_ref_usfm": "LEV 27:33"
+},
+{
+"start_ref": "04003040",
+"start_ref_usfm": "NUM 3:40",
+"end_ref": "04003051",
+"end_ref_usfm": "NUM 3:51"
+},
+{
+"start_ref": "04018014",
+"start_ref_usfm": "NUM 18:14",
+"end_ref": "04018017",
+"end_ref_usfm": "NUM 18:17"
+},
+{
+"start_ref": "02021028",
+"start_ref_usfm": "EXO 21:28",
+"end_ref": "02021032",
+"end_ref_usfm": "EXO 21:32"
+},
+{
+"start_ref": "03025025",
+"start_ref_usfm": "LEV 25:25",
+"end_ref": "03025028",
+"end_ref_usfm": "LEV 25:28"
+},
+{
+"start_ref": "03025047",
+"start_ref_usfm": "LEV 25:47",
+"end_ref": "03025055",
+"end_ref_usfm": "LEV 25:55"
+},
+{
+"start_ref": "08004001",
+"start_ref_usfm": "RUT 4:1",
+"end_ref": "08004013",
+"end_ref_usfm": "RUT 4:13"
+},
+{
+"start_ref": "20013008",
+"start_ref_usfm": "PRO 13:8",
+"end_ref": "20013008",
+"end_ref_usfm": "PRO 13:8"
+},
+{
+"start_ref": "04035031",
+"start_ref_usfm": "NUM 35:31",
+"end_ref": "04035032",
+"end_ref_usfm": "NUM 35:32"
+},
+{
+"start_ref": "03027029",
+"start_ref_usfm": "LEV 27:29",
+"end_ref": "03027029",
+"end_ref_usfm": "LEV 27:29"
+},
+{
+"start_ref": "19049007",
+"start_ref_usfm": "PSA 49:7",
+"end_ref": "19049008",
+"end_ref_usfm": "PSA 49:8"
+},
+{
+"start_ref": "02030012",
+"start_ref_usfm": "EXO 30:12",
+"end_ref": "02030016",
+"end_ref_usfm": "EXO 30:16"
+},
+{
+"start_ref": "18033024",
+"start_ref_usfm": "JOB 33:24",
+"end_ref": "18033024",
+"end_ref_usfm": "JOB 33:24"
+},
+{
+"start_ref": "23051011",
+"start_ref_usfm": "ISA 51:11",
+"end_ref": "23051011",
+"end_ref_usfm": "ISA 51:11"
+},
+{
+"start_ref": "23035010",
+"start_ref_usfm": "ISA 35:10",
+"end_ref": "23035010",
+"end_ref_usfm": "ISA 35:10"
+},
+{
+"start_ref": "23040002",
+"start_ref_usfm": "ISA 40:2",
+"end_ref": "23040002",
+"end_ref_usfm": "ISA 40:2"
+},
+{
+"start_ref": "23043003",
+"start_ref_usfm": "ISA 43:3",
+"end_ref": "23043005",
+"end_ref_usfm": "ISA 43:5"
+},
+{
+"start_ref": "24031011",
+"start_ref_usfm": "JER 31:11",
+"end_ref": "24031011",
+"end_ref_usfm": "JER 31:11"
+},
+{
+"start_ref": "28013014",
+"start_ref_usfm": "HOS 13:14",
+"end_ref": "28013014",
+"end_ref_usfm": "HOS 13:14"
+},
+{
+"start_ref": "41010045",
+"start_ref_usfm": "MRK 10:45",
+"end_ref": "41010045",
+"end_ref_usfm": "MRK 10:45"
+},
+{
+"start_ref": "40020028",
+"start_ref_usfm": "MAT 20:28",
+"end_ref": "40020028",
+"end_ref_usfm": "MAT 20:28"
+},
+{
+"start_ref": "44020028",
+"start_ref_usfm": "ACT 20:28",
+"end_ref": "44020028",
+"end_ref_usfm": "ACT 20:28"
+},
+{
+"start_ref": "54002005",
+"start_ref_usfm": "1TI 2:5",
+"end_ref": "54002006",
+"end_ref_usfm": "1TI 2:6"
+},
+{
+"start_ref": "56002014",
+"start_ref_usfm": "TIT 2:14",
+"end_ref": "56002014",
+"end_ref_usfm": "TIT 2:14"
+},
+{
+"start_ref": "58009015",
+"start_ref_usfm": "HEB 9:15",
+"end_ref": "58009015",
+"end_ref_usfm": "HEB 9:15"
+},
+{
+"start_ref": "61002001",
+"start_ref_usfm": "2PE 2:1",
+"end_ref": "61002001",
+"end_ref_usfm": "2PE 2:1"
+},
+{
+"start_ref": "46006019",
+"start_ref_usfm": "1CO 6:19",
+"end_ref": "46006020",
+"end_ref_usfm": "1CO 6:20"
+},
+{
+"start_ref": "46007023",
+"start_ref_usfm": "1CO 7:23",
+"end_ref": "46007023",
+"end_ref_usfm": "1CO 7:23"
+},
+{
+"start_ref": "60001018",
+"start_ref_usfm": "1PE 1:18",
+"end_ref": "60001019",
+"end_ref_usfm": "1PE 1:19"
+},
+{
+"start_ref": "66005009",
+"start_ref_usfm": "REV 5:9",
+"end_ref": "66005009",
+"end_ref_usfm": "REV 5:9"
+}
+],
+"resource": [
+{
+"reference_id": "1315",
+"content_id": "1315",
+"resource_code": "DictionaryBibleThemes",
+"label": "1315: God, as redeemer",
+"language": "eng"
+},
+{
+"reference_id": "2321",
+"content_id": "2321",
+"resource_code": "DictionaryBibleThemes",
+"label": "2321: Jesus Christ, as redeemer",
+"language": "eng"
+},
+{
+"reference_id": "2410",
+"content_id": "2410",
+"resource_code": "DictionaryBibleThemes",
+"label": "2410: cross, the",
+"language": "eng"
+},
+{
+"reference_id": "6658",
+"content_id": "6658",
+"resource_code": "DictionaryBibleThemes",
+"label": "6658: freedom",
+"language": "eng"
+},
+{
+"reference_id": "6720",
+"content_id": "6720",
+"resource_code": "DictionaryBibleThemes",
+"label": "6720: redemption",
+"language": "eng"
+},
+{
+"reference_id": "6752",
+"content_id": "6752",
+"resource_code": "DictionaryBibleThemes",
+"label": "6752: substitution",
+"language": "eng"
+},
+{
+"reference_id": "7140",
+"content_id": "7140",
+"resource_code": "DictionaryBibleThemes",
+"label": "7140: people of God",
+"language": "eng"
+},
+{
+"reference_id": "7314",
+"content_id": "7314",
+"resource_code": "DictionaryBibleThemes",
+"label": "7314: blood",
+"language": "eng"
+},
+{
+"reference_id": "7388",
+"content_id": "7388",
+"resource_code": "DictionaryBibleThemes",
+"label": "7388: kinsman-redeemer",
+"language": "eng"
+},
+{
+"reference_id": "7446",
+"content_id": "7446",
+"resource_code": "DictionaryBibleThemes",
+"label": "7446: slavery",
+"language": "eng"
+},
+{
+"reference_id": "7482",
+"content_id": "7482",
+"resource_code": "DictionaryBibleThemes",
+"label": "7482: Year of Jubilee",
+"language": "eng"
+}
+]
+}
+}
+]

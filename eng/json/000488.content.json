@@ -1,0 +1,201 @@
+[
+{
+"content_id": "4546",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4546: winepress",
+"media_type": "Text",
+"index_reference": "4546: winepress",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The vat in which grapes were trodden to produce juice for making wine. Scripture sometimes uses the image of treading grapes at the winepress to depict scenes of divine wrath and punishment.</p>\n<h2>Winepresses were widely used</h2>\n<p><strong><a href=\"https://ref.ly/Deut15:12-Deut15:14\">DEU 15:12–15:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num18:25-Num18:27\">NUM 18:25–18:27</a>, <a href=\"https://ref.ly/Num18:30\">NUM 18:30</a>; <a href=\"https://ref.ly/Judg6:11\">JDG 6:11</a>; <a href=\"https://ref.ly/2Kgs6:24-2Kgs6:27\">2KI 6:24–6:27</a></p>\n<h2>Treading grapes at winepresses</h2>\n<h3>Literal references</h3>\n<p><strong><a href=\"https://ref.ly/Neh13:15\">NEH 13:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job24:11\">JOB 24:11</a>; <a href=\"https://ref.ly/Isa16:10\">ISA 16:10</a>; <a href=\"https://ref.ly/Jer48:33\">JER 48:33</a></p>\n<h3>Metaphorical references</h3>\n<p><strong><a href=\"https://ref.ly/Lam1:15\">LAM 1:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa63:1-Isa63:6\">ISA 63:1–63:6</a>; <a href=\"https://ref.ly/Joel3:13\">JOL 3:13</a>; <a href=\"https://ref.ly/Rev14:17-Rev14:20\">REV 14:17–14:20</a>, <a href=\"https://ref.ly/Rev19:11-Rev19:16\">REV 19:11–19:16</a></p>\n<h2>The association of winepresses with harvest</h2>\n<p><strong><a href=\"https://ref.ly/Rev14:18-Rev14:19\">REV 14:18–14:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut16:13-Deut16:15\">DEU 16:13–16:15</a></p>\n<h2>Winepresses in vineyards</h2>\n<p><strong><a href=\"https://ref.ly/Isa5:1-Isa5:2\">ISA 5:1–5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt21:33-Matt21:34\">MAT 21:33–21:34</a> parallel <a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a></p>\n<h2>Winepresses in place-names</h2>\n<p><strong><a href=\"https://ref.ly/Judg7:25\">JDG 7:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Zech14:10\">ZEC 14:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05015012",
+"start_ref_usfm": "DEU 15:12",
+"end_ref": "05015014",
+"end_ref_usfm": "DEU 15:14"
+},
+{
+"start_ref": "04018025",
+"start_ref_usfm": "NUM 18:25",
+"end_ref": "04018027",
+"end_ref_usfm": "NUM 18:27"
+},
+{
+"start_ref": "04018030",
+"start_ref_usfm": "NUM 18:30",
+"end_ref": "04018030",
+"end_ref_usfm": "NUM 18:30"
+},
+{
+"start_ref": "07006011",
+"start_ref_usfm": "JDG 6:11",
+"end_ref": "07006011",
+"end_ref_usfm": "JDG 6:11"
+},
+{
+"start_ref": "12006024",
+"start_ref_usfm": "2KI 6:24",
+"end_ref": "12006027",
+"end_ref_usfm": "2KI 6:27"
+},
+{
+"start_ref": "16013015",
+"start_ref_usfm": "NEH 13:15",
+"end_ref": "16013015",
+"end_ref_usfm": "NEH 13:15"
+},
+{
+"start_ref": "18024011",
+"start_ref_usfm": "JOB 24:11",
+"end_ref": "18024011",
+"end_ref_usfm": "JOB 24:11"
+},
+{
+"start_ref": "23016010",
+"start_ref_usfm": "ISA 16:10",
+"end_ref": "23016010",
+"end_ref_usfm": "ISA 16:10"
+},
+{
+"start_ref": "24048033",
+"start_ref_usfm": "JER 48:33",
+"end_ref": "24048033",
+"end_ref_usfm": "JER 48:33"
+},
+{
+"start_ref": "25001015",
+"start_ref_usfm": "LAM 1:15",
+"end_ref": "25001015",
+"end_ref_usfm": "LAM 1:15"
+},
+{
+"start_ref": "23063001",
+"start_ref_usfm": "ISA 63:1",
+"end_ref": "23063006",
+"end_ref_usfm": "ISA 63:6"
+},
+{
+"start_ref": "29003013",
+"start_ref_usfm": "JOL 3:13",
+"end_ref": "29003013",
+"end_ref_usfm": "JOL 3:13"
+},
+{
+"start_ref": "66014017",
+"start_ref_usfm": "REV 14:17",
+"end_ref": "66014020",
+"end_ref_usfm": "REV 14:20"
+},
+{
+"start_ref": "66019011",
+"start_ref_usfm": "REV 19:11",
+"end_ref": "66019016",
+"end_ref_usfm": "REV 19:16"
+},
+{
+"start_ref": "66014018",
+"start_ref_usfm": "REV 14:18",
+"end_ref": "66014019",
+"end_ref_usfm": "REV 14:19"
+},
+{
+"start_ref": "05016013",
+"start_ref_usfm": "DEU 16:13",
+"end_ref": "05016015",
+"end_ref_usfm": "DEU 16:15"
+},
+{
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005002",
+"end_ref_usfm": "ISA 5:2"
+},
+{
+"start_ref": "40021033",
+"start_ref_usfm": "MAT 21:33",
+"end_ref": "40021034",
+"end_ref_usfm": "MAT 21:34"
+},
+{
+"start_ref": "41012001",
+"start_ref_usfm": "MRK 12:1",
+"end_ref": "41012001",
+"end_ref_usfm": "MRK 12:1"
+},
+{
+"start_ref": "07007025",
+"start_ref_usfm": "JDG 7:25",
+"end_ref": "07007025",
+"end_ref_usfm": "JDG 7:25"
+},
+{
+"start_ref": "38014010",
+"start_ref_usfm": "ZEC 14:10",
+"end_ref": "38014010",
+"end_ref_usfm": "ZEC 14:10"
+}
+],
+"resource": [
+{
+"reference_id": "1025",
+"content_id": "1025",
+"resource_code": "DictionaryBibleThemes",
+"label": "1025: God, anger of",
+"language": "eng"
+},
+{
+"reference_id": "4435",
+"content_id": "4435",
+"resource_code": "DictionaryBibleThemes",
+"label": "4435: drinking",
+"language": "eng"
+},
+{
+"reference_id": "4458",
+"content_id": "4458",
+"resource_code": "DictionaryBibleThemes",
+"label": "4458: grape",
+"language": "eng"
+},
+{
+"reference_id": "4464",
+"content_id": "4464",
+"resource_code": "DictionaryBibleThemes",
+"label": "4464: harvest",
+"language": "eng"
+},
+{
+"reference_id": "4534",
+"content_id": "4534",
+"resource_code": "DictionaryBibleThemes",
+"label": "4534: vine",
+"language": "eng"
+},
+{
+"reference_id": "4538",
+"content_id": "4538",
+"resource_code": "DictionaryBibleThemes",
+"label": "4538: vineyard",
+"language": "eng"
+},
+{
+"reference_id": "4544",
+"content_id": "4544",
+"resource_code": "DictionaryBibleThemes",
+"label": "4544: wine",
+"language": "eng"
+},
+{
+"reference_id": "4548",
+"content_id": "4548",
+"resource_code": "DictionaryBibleThemes",
+"label": "4548: wineskin",
+"language": "eng"
+}
+]
+}
+}
+]

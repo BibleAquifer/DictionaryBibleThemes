@@ -1,0 +1,144 @@
+[
+{
+"content_id": "8602",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8602: prayer",
+"media_type": "Text",
+"index_reference": "8602: prayer",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Fellowship with God through Jesus Christ, expressed in adoration, thanksgiving and intercession, through which believers draw near to God and learn more of his will for their lives. Scripture stresses the vital role of the Holy Spirit in stimulating and guiding prayer.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8603",
+"content_id": "8603",
+"resource_code": "DictionaryBibleThemes",
+"label": "8603: prayer, as a relationship with God",
+"language": "eng"
+},
+{
+"reference_id": "8604",
+"content_id": "8604",
+"resource_code": "DictionaryBibleThemes",
+"label": "8604: prayer, as a response to God",
+"language": "eng"
+},
+{
+"reference_id": "8605",
+"content_id": "8605",
+"resource_code": "DictionaryBibleThemes",
+"label": "8605: prayer, and God's will",
+"language": "eng"
+},
+{
+"reference_id": "8606",
+"content_id": "8606",
+"resource_code": "DictionaryBibleThemes",
+"label": "8606: prayer, and Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "8607",
+"content_id": "8607",
+"resource_code": "DictionaryBibleThemes",
+"label": "8607: prayer, God's promises concerning",
+"language": "eng"
+},
+{
+"reference_id": "8608",
+"content_id": "8608",
+"resource_code": "DictionaryBibleThemes",
+"label": "8608: prayer, and worship",
+"language": "eng"
+},
+{
+"reference_id": "8609",
+"content_id": "8609",
+"resource_code": "DictionaryBibleThemes",
+"label": "8609: prayer, as praise and thanksgiving",
+"language": "eng"
+},
+{
+"reference_id": "8610",
+"content_id": "8610",
+"resource_code": "DictionaryBibleThemes",
+"label": "8610: prayer, as asking God",
+"language": "eng"
+},
+{
+"reference_id": "8611",
+"content_id": "8611",
+"resource_code": "DictionaryBibleThemes",
+"label": "8611: prayer, for others",
+"language": "eng"
+},
+{
+"reference_id": "8612",
+"content_id": "8612",
+"resource_code": "DictionaryBibleThemes",
+"label": "8612: prayer, and faith",
+"language": "eng"
+},
+{
+"reference_id": "8613",
+"content_id": "8613",
+"resource_code": "DictionaryBibleThemes",
+"label": "8613: prayer, persistence in",
+"language": "eng"
+},
+{
+"reference_id": "8614",
+"content_id": "8614",
+"resource_code": "DictionaryBibleThemes",
+"label": "8614: prayer, answers to",
+"language": "eng"
+},
+{
+"reference_id": "8615",
+"content_id": "8615",
+"resource_code": "DictionaryBibleThemes",
+"label": "8615: prayer, doubts about",
+"language": "eng"
+},
+{
+"reference_id": "8616",
+"content_id": "8616",
+"resource_code": "DictionaryBibleThemes",
+"label": "8616: prayerlessness",
+"language": "eng"
+},
+{
+"reference_id": "8617",
+"content_id": "8617",
+"resource_code": "DictionaryBibleThemes",
+"label": "8617: prayer, advice for effective",
+"language": "eng"
+},
+{
+"reference_id": "8618",
+"content_id": "8618",
+"resource_code": "DictionaryBibleThemes",
+"label": "8618: prayerfulness",
+"language": "eng"
+},
+{
+"reference_id": "8619",
+"content_id": "8619",
+"resource_code": "DictionaryBibleThemes",
+"label": "8619: prayer, in the church",
+"language": "eng"
+},
+{
+"reference_id": "8620",
+"content_id": "8620",
+"resource_code": "DictionaryBibleThemes",
+"label": "8620: prayer, practicalities of",
+"language": "eng"
+}
+]
+}
+}
+]

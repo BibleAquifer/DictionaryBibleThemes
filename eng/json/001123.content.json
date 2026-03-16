@@ -1,0 +1,201 @@
+[
+{
+"content_id": "5557",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5557: stoning",
+"media_type": "Text",
+"index_reference": "5557: stoning",
+"language": "eng",
+"review_level": "None",
+"content": "<p>To strike an offender with stones until he or she is dead. Stoning normally took place outside the city walls. The prosecution witnesses, of whom there must be at least two, had to throw the first stones, followed if necessary by the spectators.</p>\n<h2>Stoning was the punishment for certain offences under the Mosaic law</h2>\n<p><a href=\"https://ref.ly/Lev20:1-Lev20:2\">LEV 20:1–20:2</a>, <a href=\"https://ref.ly/Lev20:27\">LEV 20:27</a>, <a href=\"https://ref.ly/Lev24:13-Lev24:14\">LEV 24:13–24:14</a>; ; <a href=\"https://ref.ly/Deut13:6-Deut13:10\">DEU 13:6–13:10</a>, <a href=\"https://ref.ly/Deut17:2-Deut17:7\">DEU 17:2–17:7</a>, <a href=\"https://ref.ly/Deut22:23-Deut22:24\">DEU 22:23–22:24</a></p>\n<h2>Examples of stoning in upholding the Mosaic law</h2>\n<p><a href=\"https://ref.ly/Lev24:23\">LEV 24:23</a>; ; <a href=\"https://ref.ly/Num15:32-Num15:36\">NUM 15:32–15:36</a>; ; <a href=\"https://ref.ly/Josh7:24-Josh7:25\">JOS 7:24–7:25</a>; ; <a href=\"https://ref.ly/1Kgs21:13-1Kgs21:15\">1KI 21:13–21:15</a>; ; <a href=\"https://ref.ly/John8:1-John8:11\">JHN 8:1–8:11</a></p>\n<h2>Examples of the threatened or actual stoning of God's servants</h2>\n<p><a href=\"https://ref.ly/Num14:10\">NUM 14:10</a> <em>Joshua and Caleb</em>; ; <a href=\"https://ref.ly/1Sam30:6\">1SA 30:6</a> <em>David</em>; ; <a href=\"https://ref.ly/2Sam16:6\">2SA 16:6</a>; ; <a href=\"https://ref.ly/2Chr24:20-2Chr24:21\">2CH 24:20–24:21</a>; <a href=\"https://ref.ly/John8:59\">JHN 8:59</a>, <a href=\"https://ref.ly/John10:31-John10:33\">JHN 10:31–10:33</a>; \n<a href=\"https://ref.ly/Acts7:58-Acts7:59\">ACT 7:58–7:59</a> <em>Stephen</em>; <a href=\"https://ref.ly/Acts14:19\">ACT 14:19</a>; ; <a href=\"https://ref.ly/2Cor11:25\">2CO 11:25</a>; \n<a href=\"https://ref.ly/Heb11:37\">HEB 11:37</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03020001",
+"start_ref_usfm": "LEV 20:1",
+"end_ref": "03020002",
+"end_ref_usfm": "LEV 20:2"
+},
+{
+"start_ref": "03020027",
+"start_ref_usfm": "LEV 20:27",
+"end_ref": "03020027",
+"end_ref_usfm": "LEV 20:27"
+},
+{
+"start_ref": "03024013",
+"start_ref_usfm": "LEV 24:13",
+"end_ref": "03024014",
+"end_ref_usfm": "LEV 24:14"
+},
+{
+"start_ref": "05013006",
+"start_ref_usfm": "DEU 13:6",
+"end_ref": "05013010",
+"end_ref_usfm": "DEU 13:10"
+},
+{
+"start_ref": "05017002",
+"start_ref_usfm": "DEU 17:2",
+"end_ref": "05017007",
+"end_ref_usfm": "DEU 17:7"
+},
+{
+"start_ref": "05022023",
+"start_ref_usfm": "DEU 22:23",
+"end_ref": "05022024",
+"end_ref_usfm": "DEU 22:24"
+},
+{
+"start_ref": "03024023",
+"start_ref_usfm": "LEV 24:23",
+"end_ref": "03024023",
+"end_ref_usfm": "LEV 24:23"
+},
+{
+"start_ref": "04015032",
+"start_ref_usfm": "NUM 15:32",
+"end_ref": "04015036",
+"end_ref_usfm": "NUM 15:36"
+},
+{
+"start_ref": "06007024",
+"start_ref_usfm": "JOS 7:24",
+"end_ref": "06007025",
+"end_ref_usfm": "JOS 7:25"
+},
+{
+"start_ref": "11021013",
+"start_ref_usfm": "1KI 21:13",
+"end_ref": "11021015",
+"end_ref_usfm": "1KI 21:15"
+},
+{
+"start_ref": "43008001",
+"start_ref_usfm": "JHN 8:1",
+"end_ref": "43008011",
+"end_ref_usfm": "JHN 8:11"
+},
+{
+"start_ref": "04014010",
+"start_ref_usfm": "NUM 14:10",
+"end_ref": "04014010",
+"end_ref_usfm": "NUM 14:10"
+},
+{
+"start_ref": "09030006",
+"start_ref_usfm": "1SA 30:6",
+"end_ref": "09030006",
+"end_ref_usfm": "1SA 30:6"
+},
+{
+"start_ref": "10016006",
+"start_ref_usfm": "2SA 16:6",
+"end_ref": "10016006",
+"end_ref_usfm": "2SA 16:6"
+},
+{
+"start_ref": "14024020",
+"start_ref_usfm": "2CH 24:20",
+"end_ref": "14024021",
+"end_ref_usfm": "2CH 24:21"
+},
+{
+"start_ref": "43008059",
+"start_ref_usfm": "JHN 8:59",
+"end_ref": "43008059",
+"end_ref_usfm": "JHN 8:59"
+},
+{
+"start_ref": "43010031",
+"start_ref_usfm": "JHN 10:31",
+"end_ref": "43010033",
+"end_ref_usfm": "JHN 10:33"
+},
+{
+"start_ref": "44007058",
+"start_ref_usfm": "ACT 7:58",
+"end_ref": "44007059",
+"end_ref_usfm": "ACT 7:59"
+},
+{
+"start_ref": "44014019",
+"start_ref_usfm": "ACT 14:19",
+"end_ref": "44014019",
+"end_ref_usfm": "ACT 14:19"
+},
+{
+"start_ref": "47011025",
+"start_ref_usfm": "2CO 11:25",
+"end_ref": "47011025",
+"end_ref_usfm": "2CO 11:25"
+},
+{
+"start_ref": "58011037",
+"start_ref_usfm": "HEB 11:37",
+"end_ref": "58011037",
+"end_ref_usfm": "HEB 11:37"
+}
+],
+"resource": [
+{
+"reference_id": "5025",
+"content_id": "5025",
+"resource_code": "DictionaryBibleThemes",
+"label": "5025: killing",
+"language": "eng"
+},
+{
+"reference_id": "5482",
+"content_id": "5482",
+"resource_code": "DictionaryBibleThemes",
+"label": "5482: punishment",
+"language": "eng"
+},
+{
+"reference_id": "5493",
+"content_id": "5493",
+"resource_code": "DictionaryBibleThemes",
+"label": "5493: retribution",
+"language": "eng"
+},
+{
+"reference_id": "5975",
+"content_id": "5975",
+"resource_code": "DictionaryBibleThemes",
+"label": "5975: violence",
+"language": "eng"
+},
+{
+"reference_id": "7346",
+"content_id": "7346",
+"resource_code": "DictionaryBibleThemes",
+"label": "7346: death penalty",
+"language": "eng"
+},
+{
+"reference_id": "8450",
+"content_id": "8450",
+"resource_code": "DictionaryBibleThemes",
+"label": "8450: martyrdom",
+"language": "eng"
+},
+{
+"reference_id": "8794",
+"content_id": "8794",
+"resource_code": "DictionaryBibleThemes",
+"label": "8794: persecution",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+}
+]
+}
+}
+]

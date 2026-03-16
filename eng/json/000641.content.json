@@ -1,0 +1,185 @@
+[
+{
+"content_id": "5031",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5031: knowledge, of sin",
+"media_type": "Text",
+"index_reference": "5031: knowledge, of sin",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Originating with the fall, it is revealed by conscience, the law and the Holy Spirit.</p>\n<h2>Knowledge of sin as a result of the fall</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:1-Gen3:13\">GEN 3:1–3:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen2:16-Gen2:17\">GEN 2:16–2:17</a>, <a href=\"https://ref.ly/Gen3:22\">GEN 3:22</a></p>\n<h2>Knowledge of sin through conscience</h2>\n<p><strong><a href=\"https://ref.ly/Rom2:14-Rom2:15\">ROM 2:14–2:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam24:5-1Sam24:6\">1SA 24:5–24:6</a>; <a href=\"https://ref.ly/2Sam24:10\">2SA 24:10</a>; <a href=\"https://ref.ly/Heb10:22\">HEB 10:22</a></p>\n<h2>Knowledge of sin through the law</h2>\n<p><strong><a href=\"https://ref.ly/Rom3:20\">ROM 3:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom5:13\">ROM 5:13</a>, <a href=\"https://ref.ly/Rom7:7\">ROM 7:7</a></p>\n<h3>The law was taught to all in Israel</h3>\n<p><strong><a href=\"https://ref.ly/Lev10:11\">LEV 10:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:1\">DEU 4:1</a>, <a href=\"https://ref.ly/Deut5:31\">DEU 5:31</a>, <a href=\"https://ref.ly/Deut6:6-Deut6:9\">DEU 6:6–6:9</a></p>\n<h2>Knowledge of sin through the convicting power of the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/John16:7-John16:11\">JHN 16:7–16:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Thess1:5\">1TH 1:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01003001",
+"start_ref_usfm": "GEN 3:1",
+"end_ref": "01003013",
+"end_ref_usfm": "GEN 3:13"
+},
+{
+"start_ref": "01002016",
+"start_ref_usfm": "GEN 2:16",
+"end_ref": "01002017",
+"end_ref_usfm": "GEN 2:17"
+},
+{
+"start_ref": "01003022",
+"start_ref_usfm": "GEN 3:22",
+"end_ref": "01003022",
+"end_ref_usfm": "GEN 3:22"
+},
+{
+"start_ref": "45002014",
+"start_ref_usfm": "ROM 2:14",
+"end_ref": "45002015",
+"end_ref_usfm": "ROM 2:15"
+},
+{
+"start_ref": "09024005",
+"start_ref_usfm": "1SA 24:5",
+"end_ref": "09024006",
+"end_ref_usfm": "1SA 24:6"
+},
+{
+"start_ref": "10024010",
+"start_ref_usfm": "2SA 24:10",
+"end_ref": "10024010",
+"end_ref_usfm": "2SA 24:10"
+},
+{
+"start_ref": "58010022",
+"start_ref_usfm": "HEB 10:22",
+"end_ref": "58010022",
+"end_ref_usfm": "HEB 10:22"
+},
+{
+"start_ref": "45003020",
+"start_ref_usfm": "ROM 3:20",
+"end_ref": "45003020",
+"end_ref_usfm": "ROM 3:20"
+},
+{
+"start_ref": "45005013",
+"start_ref_usfm": "ROM 5:13",
+"end_ref": "45005013",
+"end_ref_usfm": "ROM 5:13"
+},
+{
+"start_ref": "45007007",
+"start_ref_usfm": "ROM 7:7",
+"end_ref": "45007007",
+"end_ref_usfm": "ROM 7:7"
+},
+{
+"start_ref": "03010011",
+"start_ref_usfm": "LEV 10:11",
+"end_ref": "03010011",
+"end_ref_usfm": "LEV 10:11"
+},
+{
+"start_ref": "05004001",
+"start_ref_usfm": "DEU 4:1",
+"end_ref": "05004001",
+"end_ref_usfm": "DEU 4:1"
+},
+{
+"start_ref": "05005031",
+"start_ref_usfm": "DEU 5:31",
+"end_ref": "05005031",
+"end_ref_usfm": "DEU 5:31"
+},
+{
+"start_ref": "05006006",
+"start_ref_usfm": "DEU 6:6",
+"end_ref": "05006009",
+"end_ref_usfm": "DEU 6:9"
+},
+{
+"start_ref": "43016007",
+"start_ref_usfm": "JHN 16:7",
+"end_ref": "43016011",
+"end_ref_usfm": "JHN 16:11"
+},
+{
+"start_ref": "52001005",
+"start_ref_usfm": "1TH 1:5",
+"end_ref": "52001005",
+"end_ref_usfm": "1TH 1:5"
+}
+],
+"resource": [
+{
+"reference_id": "3248",
+"content_id": "3248",
+"resource_code": "DictionaryBibleThemes",
+"label": "3248: Holy Spirit, conviction of",
+"language": "eng"
+},
+{
+"reference_id": "5008",
+"content_id": "5008",
+"resource_code": "DictionaryBibleThemes",
+"label": "5008: conscience",
+"language": "eng"
+},
+{
+"reference_id": "5033",
+"content_id": "5033",
+"resource_code": "DictionaryBibleThemes",
+"label": "5033: knowledge of good and evil",
+"language": "eng"
+},
+{
+"reference_id": "5375",
+"content_id": "5375",
+"resource_code": "DictionaryBibleThemes",
+"label": "5375: law",
+"language": "eng"
+},
+{
+"reference_id": "6020",
+"content_id": "6020",
+"resource_code": "DictionaryBibleThemes",
+"label": "6020: sin",
+"language": "eng"
+},
+{
+"reference_id": "6172",
+"content_id": "6172",
+"resource_code": "DictionaryBibleThemes",
+"label": "6172: guilt",
+"language": "eng"
+},
+{
+"reference_id": "6614",
+"content_id": "6614",
+"resource_code": "DictionaryBibleThemes",
+"label": "6614: atonement",
+"language": "eng"
+},
+{
+"reference_id": "6624",
+"content_id": "6624",
+"resource_code": "DictionaryBibleThemes",
+"label": "6624: confession, of sin",
+"language": "eng"
+},
+{
+"reference_id": "6632",
+"content_id": "6632",
+"resource_code": "DictionaryBibleThemes",
+"label": "6632: conviction",
+"language": "eng"
+},
+{
+"reference_id": "6733",
+"content_id": "6733",
+"resource_code": "DictionaryBibleThemes",
+"label": "6733: repentance, nature of",
+"language": "eng"
+}
+]
+}
+}
+]

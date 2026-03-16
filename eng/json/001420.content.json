@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5902",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5902: maturity",
+"media_type": "Text",
+"index_reference": "5902: maturity",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The full development at the end of a process of growth, by means of which a human being reaches adulthood.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5903",
+"content_id": "5903",
+"resource_code": "DictionaryBibleThemes",
+"label": "5903: maturity, physical",
+"language": "eng"
+},
+{
+"reference_id": "5904",
+"content_id": "5904",
+"resource_code": "DictionaryBibleThemes",
+"label": "5904: maturity, spiritual",
+"language": "eng"
+}
+]
+}
+}
+]

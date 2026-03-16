@@ -1,0 +1,110 @@
+[
+{
+"content_id": "7326",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7326: cannibalism",
+"media_type": "Text",
+"index_reference": "7326: cannibalism",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>God warns his people about cannibalism</h2>\n<p><a href=\"https://ref.ly/Deut28:53\">DEU 28:53</a>; ; <a href=\"https://ref.ly/Lev26:29\">LEV 26:29</a>; ; <a href=\"https://ref.ly/Jer19:9\">JER 19:9</a></p>\n<h2>Cannibalism as a result of God's judgment on his disobedient people</h2>\n<p><a href=\"https://ref.ly/2Kgs6:24-2Kgs6:29\">2KI 6:24–6:29</a>; ; <a href=\"https://ref.ly/Lam2:20\">LAM 2:20</a>, <a href=\"https://ref.ly/Lam4:10\">LAM 4:10</a>; ; <a href=\"https://ref.ly/Ezek5:10\">EZK 5:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05028053",
+"start_ref_usfm": "DEU 28:53",
+"end_ref": "05028053",
+"end_ref_usfm": "DEU 28:53"
+},
+{
+"start_ref": "03026029",
+"start_ref_usfm": "LEV 26:29",
+"end_ref": "03026029",
+"end_ref_usfm": "LEV 26:29"
+},
+{
+"start_ref": "24019009",
+"start_ref_usfm": "JER 19:9",
+"end_ref": "24019009",
+"end_ref_usfm": "JER 19:9"
+},
+{
+"start_ref": "12006024",
+"start_ref_usfm": "2KI 6:24",
+"end_ref": "12006029",
+"end_ref_usfm": "2KI 6:29"
+},
+{
+"start_ref": "25002020",
+"start_ref_usfm": "LAM 2:20",
+"end_ref": "25002020",
+"end_ref_usfm": "LAM 2:20"
+},
+{
+"start_ref": "25004010",
+"start_ref_usfm": "LAM 4:10",
+"end_ref": "25004010",
+"end_ref_usfm": "LAM 4:10"
+},
+{
+"start_ref": "26005010",
+"start_ref_usfm": "EZK 5:10",
+"end_ref": "26005010",
+"end_ref_usfm": "EZK 5:10"
+}
+],
+"resource": [
+{
+"reference_id": "4438",
+"content_id": "4438",
+"resource_code": "DictionaryBibleThemes",
+"label": "4438: eating",
+"language": "eng"
+},
+{
+"reference_id": "4823",
+"content_id": "4823",
+"resource_code": "DictionaryBibleThemes",
+"label": "4823: famine, physical",
+"language": "eng"
+},
+{
+"reference_id": "5484",
+"content_id": "5484",
+"resource_code": "DictionaryBibleThemes",
+"label": "5484: punishment, by God",
+"language": "eng"
+},
+{
+"reference_id": "5529",
+"content_id": "5529",
+"resource_code": "DictionaryBibleThemes",
+"label": "5529: sieges",
+"language": "eng"
+},
+{
+"reference_id": "5569",
+"content_id": "5569",
+"resource_code": "DictionaryBibleThemes",
+"label": "5569: suffering, hardship",
+"language": "eng"
+},
+{
+"reference_id": "6223",
+"content_id": "6223",
+"resource_code": "DictionaryBibleThemes",
+"label": "6223: rebellion, of Israel",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

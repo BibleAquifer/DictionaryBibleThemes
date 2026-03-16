@@ -1,0 +1,199 @@
+[
+{
+"content_id": "7703",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7703: apologetics",
+"media_type": "Text",
+"index_reference": "7703: apologetics",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The art of explaining the faith in such a way as to make a reasoned defence against its detractors. Paul's Areopagus sermon is a classic example of biblical apologetics, which can be of value to all who are called upon to defend the faith today.</p>\n<h2>Paul's Areopagus sermon, a classic example of biblical apologetics</h2>\n<h3>Paul speaks to his listeners on their own ground, starting on their own terms</h3>\n<p><strong><a href=\"https://ref.ly/Acts17:22-Acts17:23\">ACT 17:22–17:23</a></strong></p>\n<h3>Paul presents the Christian position</h3>\n<p><strong><a href=\"https://ref.ly/Acts17:24-Acts17:27\">ACT 17:24–17:27</a></strong></p>\n<h3>Paul supports his argument in a culturally appropriate way</h3>\n<p><strong><a href=\"https://ref.ly/Acts17:28\">ACT 17:28</a></strong> <em>Paul quotes from two secular writers, first from the Cretan poet Epimenides, and secondly from the Cilician poet Aratus.</em></p>\n<h3>Paul concludes his argument and calls for a response</h3>\n<p><strong><a href=\"https://ref.ly/Acts17:29-Acts17:31\">ACT 17:29–17:31</a></strong></p>\n<h2>Apologetics as a regular feature of Paul's ministry</h2>\n<p><strong><a href=\"https://ref.ly/Acts18:4\">ACT 18:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts9:26-Acts9:30\">ACT 9:26–9:30</a>, <a href=\"https://ref.ly/Acts18:19\">ACT 18:19</a>, <a href=\"https://ref.ly/Acts19:8-Acts19:10\">ACT 19:8–19:10</a>, <a href=\"https://ref.ly/Acts28:17-Acts28:31\">ACT 28:17–28:31</a></p>\n<h2>Apologetics is part of the work of church leaders</h2>\n<p><strong><a href=\"https://ref.ly/Titus1:9\">TIT 1:9</a></strong></p>\n<h2>All Christians share responsibility for the task of apologetics</h2>\n<p><strong><a href=\"https://ref.ly/1Pet3:15\">1PE 3:15</a></strong></p>\n<h2>Other examples of Christians engaging in apologetics</h2>\n<p><strong><a href=\"https://ref.ly/Acts18:28\">ACT 18:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts2:14-Acts2:41\">ACT 2:14–2:41</a>, <a href=\"https://ref.ly/Acts6:8-Acts6:10\">ACT 6:8–6:10</a></p>\n<h2>Apologetics alone is an inadequate way of presenting the gospel</h2>\n<p><strong><a href=\"https://ref.ly/1Cor1:17-1Cor1:25\">1CO 1:17–1:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor2:1-1Cor2:5\">1CO 2:1–2:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44017022",
+"start_ref_usfm": "ACT 17:22",
+"end_ref": "44017023",
+"end_ref_usfm": "ACT 17:23"
+},
+{
+"start_ref": "44017024",
+"start_ref_usfm": "ACT 17:24",
+"end_ref": "44017027",
+"end_ref_usfm": "ACT 17:27"
+},
+{
+"start_ref": "44017028",
+"start_ref_usfm": "ACT 17:28",
+"end_ref": "44017028",
+"end_ref_usfm": "ACT 17:28"
+},
+{
+"start_ref": "44017029",
+"start_ref_usfm": "ACT 17:29",
+"end_ref": "44017031",
+"end_ref_usfm": "ACT 17:31"
+},
+{
+"start_ref": "44018004",
+"start_ref_usfm": "ACT 18:4",
+"end_ref": "44018004",
+"end_ref_usfm": "ACT 18:4"
+},
+{
+"start_ref": "44009026",
+"start_ref_usfm": "ACT 9:26",
+"end_ref": "44009030",
+"end_ref_usfm": "ACT 9:30"
+},
+{
+"start_ref": "44018019",
+"start_ref_usfm": "ACT 18:19",
+"end_ref": "44018019",
+"end_ref_usfm": "ACT 18:19"
+},
+{
+"start_ref": "44019008",
+"start_ref_usfm": "ACT 19:8",
+"end_ref": "44019010",
+"end_ref_usfm": "ACT 19:10"
+},
+{
+"start_ref": "44028017",
+"start_ref_usfm": "ACT 28:17",
+"end_ref": "44028031",
+"end_ref_usfm": "ACT 28:31"
+},
+{
+"start_ref": "56001009",
+"start_ref_usfm": "TIT 1:9",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+},
+{
+"start_ref": "60003015",
+"start_ref_usfm": "1PE 3:15",
+"end_ref": "60003015",
+"end_ref_usfm": "1PE 3:15"
+},
+{
+"start_ref": "44018028",
+"start_ref_usfm": "ACT 18:28",
+"end_ref": "44018028",
+"end_ref_usfm": "ACT 18:28"
+},
+{
+"start_ref": "44002014",
+"start_ref_usfm": "ACT 2:14",
+"end_ref": "44002041",
+"end_ref_usfm": "ACT 2:41"
+},
+{
+"start_ref": "44006008",
+"start_ref_usfm": "ACT 6:8",
+"end_ref": "44006010",
+"end_ref_usfm": "ACT 6:10"
+},
+{
+"start_ref": "46001017",
+"start_ref_usfm": "1CO 1:17",
+"end_ref": "46001025",
+"end_ref_usfm": "1CO 1:25"
+},
+{
+"start_ref": "46002001",
+"start_ref_usfm": "1CO 2:1",
+"end_ref": "46002005",
+"end_ref_usfm": "1CO 2:5"
+}
+],
+"resource": [
+{
+"reference_id": "2420",
+"content_id": "2420",
+"resource_code": "DictionaryBibleThemes",
+"label": "2420: gospel",
+"language": "eng"
+},
+{
+"reference_id": "5038",
+"content_id": "5038",
+"resource_code": "DictionaryBibleThemes",
+"label": "5038: mind, the human",
+"language": "eng"
+},
+{
+"reference_id": "5050",
+"content_id": "5050",
+"resource_code": "DictionaryBibleThemes",
+"label": "5050: reason",
+"language": "eng"
+},
+{
+"reference_id": "5107",
+"content_id": "5107",
+"resource_code": "DictionaryBibleThemes",
+"label": "5107: Paul",
+"language": "eng"
+},
+{
+"reference_id": "5293",
+"content_id": "5293",
+"resource_code": "DictionaryBibleThemes",
+"label": "5293: defence, human",
+"language": "eng"
+},
+{
+"reference_id": "5622",
+"content_id": "5622",
+"resource_code": "DictionaryBibleThemes",
+"label": "5622: witnesses",
+"language": "eng"
+},
+{
+"reference_id": "7724",
+"content_id": "7724",
+"resource_code": "DictionaryBibleThemes",
+"label": "7724: evangelists",
+"language": "eng"
+},
+{
+"reference_id": "7751",
+"content_id": "7751",
+"resource_code": "DictionaryBibleThemes",
+"label": "7751: persuasion",
+"language": "eng"
+},
+{
+"reference_id": "7756",
+"content_id": "7756",
+"resource_code": "DictionaryBibleThemes",
+"label": "7756: preaching, content of",
+"language": "eng"
+},
+{
+"reference_id": "7760",
+"content_id": "7760",
+"resource_code": "DictionaryBibleThemes",
+"label": "7760: preachers, responsibilities of",
+"language": "eng"
+},
+{
+"reference_id": "8424",
+"content_id": "8424",
+"resource_code": "DictionaryBibleThemes",
+"label": "8424: evangelism",
+"language": "eng"
+},
+{
+"reference_id": "8495",
+"content_id": "8495",
+"resource_code": "DictionaryBibleThemes",
+"label": "8495: witnessing",
+"language": "eng"
+}
+]
+}
+}
+]

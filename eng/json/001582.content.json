@@ -1,0 +1,282 @@
+[
+{
+"content_id": "6250",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6250: temptation, sources of",
+"media_type": "Text",
+"index_reference": "6250: temptation, sources of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Temptation comes from a number of sources but not from God.</p>\n<h2>Temptation arising from sinful human nature</h2>\n<p><strong><a href=\"https://ref.ly/Eph2:1-Eph2:3\">EPH 2:1–2:3</a></strong>; <strong><a href=\"https://ref.ly/Jas1:14\">JAS 1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt5:29-Matt5:30\">MAT 5:29–5:30</a> parallel <a href=\"https://ref.ly/Mark9:43-Mark9:47\">MRK 9:43–9:47</a>; <a href=\"https://ref.ly/Matt6:23\">MAT 6:23</a>; <a href=\"https://ref.ly/Rom7:18-Rom7:23\">ROM 7:18–7:23</a></p>\n<h2>Temptation from other people</h2>\n<p><strong><a href=\"https://ref.ly/2Pet2:18\">2PE 2:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen3:6\">GEN 3:6</a>; <a href=\"https://ref.ly/Prov5:3-Prov5:6\">PRO 5:3–5:6</a></p>\n<h2>Temptation from Satan</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:1\">GEN 3:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr21:1\">1CH 21:1</a>; <a href=\"https://ref.ly/Matt4:1\">MAT 4:1</a> parallels <a href=\"https://ref.ly/Mark1:13\">MRK 1:13</a>, <a href=\"https://ref.ly/Luke4:2\">LUK 4:2</a>; <a href=\"https://ref.ly/Mark4:15\">MRK 4:15</a> parallel <a href=\"https://ref.ly/Luke8:12\">LUK 8:12</a>; <a href=\"https://ref.ly/1Cor7:5\">1CO 7:5</a>; <a href=\"https://ref.ly/1Thess3:5\">1TH 3:5</a></p>\n<h2>Temptation from the world</h2>\n<p><strong><a href=\"https://ref.ly/1John2:16\">1JN 2:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt13:22\">MAT 13:22</a> parallels <a href=\"https://ref.ly/Mark4:19\">MRK 4:19</a>, <a href=\"https://ref.ly/Luke8:14\">LUK 8:14</a></p>\n<h2>Attractions which lead to temptation</h2>\n<h3>Money</h3>\n<p><strong><a href=\"https://ref.ly/1Tim6:9-1Tim6:10\">1TI 6:9–6:10</a></strong></p>\n<h3>Power</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Deut8:17-Deut8:18\">DEU 8:17–8:18</a>; <a href=\"https://ref.ly/2Chr26:16\">2CH 26:16</a></p>\n<h3>Lust</h3>\n<p><a href=\"https://ref.ly/Prov6:25\">PRO 6:25</a>, <a href=\"https://ref.ly/Prov7:21\">PRO 7:21</a></p>\n<h3>Pride</h3>\n<p><a href=\"https://ref.ly/Prov11:2\">PRO 11:2</a></p>\n<h2>Temptation does not come from God</h2>\n<p><strong><a href=\"https://ref.ly/Jas1:13\">JAS 1:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt6:13\">MAT 6:13</a> parallel <a href=\"https://ref.ly/Luke11:4\">LUK 11:4</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "49002001",
+"start_ref_usfm": "EPH 2:1",
+"end_ref": "49002003",
+"end_ref_usfm": "EPH 2:3"
+},
+{
+"start_ref": "59001014",
+"start_ref_usfm": "JAS 1:14",
+"end_ref": "59001014",
+"end_ref_usfm": "JAS 1:14"
+},
+{
+"start_ref": "40005029",
+"start_ref_usfm": "MAT 5:29",
+"end_ref": "40005030",
+"end_ref_usfm": "MAT 5:30"
+},
+{
+"start_ref": "41009043",
+"start_ref_usfm": "MRK 9:43",
+"end_ref": "41009047",
+"end_ref_usfm": "MRK 9:47"
+},
+{
+"start_ref": "40006023",
+"start_ref_usfm": "MAT 6:23",
+"end_ref": "40006023",
+"end_ref_usfm": "MAT 6:23"
+},
+{
+"start_ref": "45007018",
+"start_ref_usfm": "ROM 7:18",
+"end_ref": "45007023",
+"end_ref_usfm": "ROM 7:23"
+},
+{
+"start_ref": "61002018",
+"start_ref_usfm": "2PE 2:18",
+"end_ref": "61002018",
+"end_ref_usfm": "2PE 2:18"
+},
+{
+"start_ref": "01003006",
+"start_ref_usfm": "GEN 3:6",
+"end_ref": "01003006",
+"end_ref_usfm": "GEN 3:6"
+},
+{
+"start_ref": "20005003",
+"start_ref_usfm": "PRO 5:3",
+"end_ref": "20005006",
+"end_ref_usfm": "PRO 5:6"
+},
+{
+"start_ref": "01003001",
+"start_ref_usfm": "GEN 3:1",
+"end_ref": "01003001",
+"end_ref_usfm": "GEN 3:1"
+},
+{
+"start_ref": "13021001",
+"start_ref_usfm": "1CH 21:1",
+"end_ref": "13021001",
+"end_ref_usfm": "1CH 21:1"
+},
+{
+"start_ref": "40004001",
+"start_ref_usfm": "MAT 4:1",
+"end_ref": "40004001",
+"end_ref_usfm": "MAT 4:1"
+},
+{
+"start_ref": "41001013",
+"start_ref_usfm": "MRK 1:13",
+"end_ref": "41001013",
+"end_ref_usfm": "MRK 1:13"
+},
+{
+"start_ref": "42004002",
+"start_ref_usfm": "LUK 4:2",
+"end_ref": "42004002",
+"end_ref_usfm": "LUK 4:2"
+},
+{
+"start_ref": "41004015",
+"start_ref_usfm": "MRK 4:15",
+"end_ref": "41004015",
+"end_ref_usfm": "MRK 4:15"
+},
+{
+"start_ref": "42008012",
+"start_ref_usfm": "LUK 8:12",
+"end_ref": "42008012",
+"end_ref_usfm": "LUK 8:12"
+},
+{
+"start_ref": "46007005",
+"start_ref_usfm": "1CO 7:5",
+"end_ref": "46007005",
+"end_ref_usfm": "1CO 7:5"
+},
+{
+"start_ref": "52003005",
+"start_ref_usfm": "1TH 3:5",
+"end_ref": "52003005",
+"end_ref_usfm": "1TH 3:5"
+},
+{
+"start_ref": "62002016",
+"start_ref_usfm": "1JN 2:16",
+"end_ref": "62002016",
+"end_ref_usfm": "1JN 2:16"
+},
+{
+"start_ref": "40013022",
+"start_ref_usfm": "MAT 13:22",
+"end_ref": "40013022",
+"end_ref_usfm": "MAT 13:22"
+},
+{
+"start_ref": "41004019",
+"start_ref_usfm": "MRK 4:19",
+"end_ref": "41004019",
+"end_ref_usfm": "MRK 4:19"
+},
+{
+"start_ref": "42008014",
+"start_ref_usfm": "LUK 8:14",
+"end_ref": "42008014",
+"end_ref_usfm": "LUK 8:14"
+},
+{
+"start_ref": "54006009",
+"start_ref_usfm": "1TI 6:9",
+"end_ref": "54006010",
+"end_ref_usfm": "1TI 6:10"
+},
+{
+"start_ref": "05008017",
+"start_ref_usfm": "DEU 8:17",
+"end_ref": "05008018",
+"end_ref_usfm": "DEU 8:18"
+},
+{
+"start_ref": "14026016",
+"start_ref_usfm": "2CH 26:16",
+"end_ref": "14026016",
+"end_ref_usfm": "2CH 26:16"
+},
+{
+"start_ref": "20006025",
+"start_ref_usfm": "PRO 6:25",
+"end_ref": "20006025",
+"end_ref_usfm": "PRO 6:25"
+},
+{
+"start_ref": "20007021",
+"start_ref_usfm": "PRO 7:21",
+"end_ref": "20007021",
+"end_ref_usfm": "PRO 7:21"
+},
+{
+"start_ref": "20011002",
+"start_ref_usfm": "PRO 11:2",
+"end_ref": "20011002",
+"end_ref_usfm": "PRO 11:2"
+},
+{
+"start_ref": "59001013",
+"start_ref_usfm": "JAS 1:13",
+"end_ref": "59001013",
+"end_ref_usfm": "JAS 1:13"
+},
+{
+"start_ref": "40006013",
+"start_ref_usfm": "MAT 6:13",
+"end_ref": "40006013",
+"end_ref_usfm": "MAT 6:13"
+},
+{
+"start_ref": "42011004",
+"start_ref_usfm": "LUK 11:4",
+"end_ref": "42011004",
+"end_ref_usfm": "LUK 11:4"
+}
+],
+"resource": [
+{
+"reference_id": "4025",
+"content_id": "4025",
+"resource_code": "DictionaryBibleThemes",
+"label": "4025: world, the",
+"language": "eng"
+},
+{
+"reference_id": "4122",
+"content_id": "4122",
+"resource_code": "DictionaryBibleThemes",
+"label": "4122: Satan, as tempter",
+"language": "eng"
+},
+{
+"reference_id": "5345",
+"content_id": "5345",
+"resource_code": "DictionaryBibleThemes",
+"label": "5345: influence",
+"language": "eng"
+},
+{
+"reference_id": "5418",
+"content_id": "5418",
+"resource_code": "DictionaryBibleThemes",
+"label": "5418: monotony",
+"language": "eng"
+},
+{
+"reference_id": "5593",
+"content_id": "5593",
+"resource_code": "DictionaryBibleThemes",
+"label": "5593: trial",
+"language": "eng"
+},
+{
+"reference_id": "6022",
+"content_id": "6022",
+"resource_code": "DictionaryBibleThemes",
+"label": "6022: sin, causes of",
+"language": "eng"
+},
+{
+"reference_id": "6166",
+"content_id": "6166",
+"resource_code": "DictionaryBibleThemes",
+"label": "6166: flesh, sinful nature",
+"language": "eng"
+},
+{
+"reference_id": "6237",
+"content_id": "6237",
+"resource_code": "DictionaryBibleThemes",
+"label": "6237: sexual sin, nature of",
+"language": "eng"
+},
+{
+"reference_id": "6241",
+"content_id": "6241",
+"resource_code": "DictionaryBibleThemes",
+"label": "6241: seduction",
+"language": "eng"
+},
+{
+"reference_id": "7751",
+"content_id": "7751",
+"resource_code": "DictionaryBibleThemes",
+"label": "7751: persuasion",
+"language": "eng"
+},
+{
+"reference_id": "8832",
+"content_id": "8832",
+"resource_code": "DictionaryBibleThemes",
+"label": "8832: testing",
+"language": "eng"
+}
+]
+}
+}
+]

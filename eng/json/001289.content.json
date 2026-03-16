@@ -1,0 +1,319 @@
+[
+{
+"content_id": "5764",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5764: attitudes, negative to God",
+"media_type": "Text",
+"index_reference": "5764: attitudes, negative to god",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture identifies a range of negative attitudes towards God, which believers are encouraged to avoid.</p>\n<h2>Rejection</h2>\n<p><strong><a href=\"https://ref.ly/Isa53:3\">ISA 53:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev26:15-Lev26:16\">LEV 26:15–26:16</a>; <a href=\"https://ref.ly/1Sam8:7\">1SA 8:7</a>; <a href=\"https://ref.ly/Ezek5:6\">EZK 5:6</a>, <a href=\"https://ref.ly/Ezek20:15-Ezek20:16\">EZK 20:15–20:16</a>; <a href=\"https://ref.ly/John1:11\">JHN 1:11</a></p>\n<h2>Lack of faith</h2>\n<p><strong><a href=\"https://ref.ly/Mark4:40\">MRK 4:40</a></strong> parallels <a href=\"https://ref.ly/Matt8:26\">MAT 8:26</a>, <a href=\"https://ref.ly/Luke8:25\">LUK 8:25</a> <em>See also</em> <a href=\"https://ref.ly/Matt13:58\">MAT 13:58</a> parallel <a href=\"https://ref.ly/Mark6:6\">MRK 6:6</a></p>\n<h2>Pride</h2>\n<p><strong><a href=\"https://ref.ly/Deut8:14\">DEU 8:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev26:19\">LEV 26:19</a>; <a href=\"https://ref.ly/Luke1:51\">LUK 1:51</a>; <a href=\"https://ref.ly/Jas4:6\">JAS 4:6</a>; <a href=\"https://ref.ly/1Pet5:5\">1PE 5:5</a>; <a href=\"https://ref.ly/Prov3:34\">PRO 3:34</a></p>\n<h2>Stubbornness</h2>\n<p><strong><a href=\"https://ref.ly/Jer5:23\">JER 5:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps78:8\">PSA 78:8</a>; <a href=\"https://ref.ly/Isa48:4\">ISA 48:4</a>; <a href=\"https://ref.ly/Mark3:5\">MRK 3:5</a>, <a href=\"https://ref.ly/Mark16:14\">MRK 16:14</a>; <a href=\"https://ref.ly/Rom2:5\">ROM 2:5</a></p>\n<h2>Rebellion</h2>\n<p><strong><a href=\"https://ref.ly/Ps78:40\">PSA 78:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut1:26\">DEU 1:26</a>; <a href=\"https://ref.ly/Isa1:2\">ISA 1:2</a>; <a href=\"https://ref.ly/Jer2:29\">JER 2:29</a>; <a href=\"https://ref.ly/Ezek2:3\">EZK 2:3</a>; <a href=\"https://ref.ly/Hos7:13\">HOS 7:13</a>; <a href=\"https://ref.ly/Titus1:10\">TIT 1:10</a>; <a href=\"https://ref.ly/Heb3:16\">HEB 3:16</a></p>\n<h2>Hostility</h2>\n<p><strong><a href=\"https://ref.ly/Rom8:7\">ROM 8:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev26:21\">LEV 26:21</a>, <a href=\"https://ref.ly/Lev26:23-Lev26:24\">LEV 26:23–26:24</a>, <a href=\"https://ref.ly/Lev26:27-Lev26:28\">LEV 26:27–26:28</a>; <a href=\"https://ref.ly/Hos9:7\">HOS 9:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23053003",
+"start_ref_usfm": "ISA 53:3",
+"end_ref": "23053003",
+"end_ref_usfm": "ISA 53:3"
+},
+{
+"start_ref": "03026015",
+"start_ref_usfm": "LEV 26:15",
+"end_ref": "03026016",
+"end_ref_usfm": "LEV 26:16"
+},
+{
+"start_ref": "09008007",
+"start_ref_usfm": "1SA 8:7",
+"end_ref": "09008007",
+"end_ref_usfm": "1SA 8:7"
+},
+{
+"start_ref": "26005006",
+"start_ref_usfm": "EZK 5:6",
+"end_ref": "26005006",
+"end_ref_usfm": "EZK 5:6"
+},
+{
+"start_ref": "26020015",
+"start_ref_usfm": "EZK 20:15",
+"end_ref": "26020016",
+"end_ref_usfm": "EZK 20:16"
+},
+{
+"start_ref": "43001011",
+"start_ref_usfm": "JHN 1:11",
+"end_ref": "43001011",
+"end_ref_usfm": "JHN 1:11"
+},
+{
+"start_ref": "41004040",
+"start_ref_usfm": "MRK 4:40",
+"end_ref": "41004040",
+"end_ref_usfm": "MRK 4:40"
+},
+{
+"start_ref": "40008026",
+"start_ref_usfm": "MAT 8:26",
+"end_ref": "40008026",
+"end_ref_usfm": "MAT 8:26"
+},
+{
+"start_ref": "42008025",
+"start_ref_usfm": "LUK 8:25",
+"end_ref": "42008025",
+"end_ref_usfm": "LUK 8:25"
+},
+{
+"start_ref": "40013058",
+"start_ref_usfm": "MAT 13:58",
+"end_ref": "40013058",
+"end_ref_usfm": "MAT 13:58"
+},
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006006",
+"end_ref_usfm": "MRK 6:6"
+},
+{
+"start_ref": "05008014",
+"start_ref_usfm": "DEU 8:14",
+"end_ref": "05008014",
+"end_ref_usfm": "DEU 8:14"
+},
+{
+"start_ref": "03026019",
+"start_ref_usfm": "LEV 26:19",
+"end_ref": "03026019",
+"end_ref_usfm": "LEV 26:19"
+},
+{
+"start_ref": "42001051",
+"start_ref_usfm": "LUK 1:51",
+"end_ref": "42001051",
+"end_ref_usfm": "LUK 1:51"
+},
+{
+"start_ref": "59004006",
+"start_ref_usfm": "JAS 4:6",
+"end_ref": "59004006",
+"end_ref_usfm": "JAS 4:6"
+},
+{
+"start_ref": "60005005",
+"start_ref_usfm": "1PE 5:5",
+"end_ref": "60005005",
+"end_ref_usfm": "1PE 5:5"
+},
+{
+"start_ref": "20003034",
+"start_ref_usfm": "PRO 3:34",
+"end_ref": "20003034",
+"end_ref_usfm": "PRO 3:34"
+},
+{
+"start_ref": "24005023",
+"start_ref_usfm": "JER 5:23",
+"end_ref": "24005023",
+"end_ref_usfm": "JER 5:23"
+},
+{
+"start_ref": "19078008",
+"start_ref_usfm": "PSA 78:8",
+"end_ref": "19078008",
+"end_ref_usfm": "PSA 78:8"
+},
+{
+"start_ref": "23048004",
+"start_ref_usfm": "ISA 48:4",
+"end_ref": "23048004",
+"end_ref_usfm": "ISA 48:4"
+},
+{
+"start_ref": "41003005",
+"start_ref_usfm": "MRK 3:5",
+"end_ref": "41003005",
+"end_ref_usfm": "MRK 3:5"
+},
+{
+"start_ref": "41016014",
+"start_ref_usfm": "MRK 16:14",
+"end_ref": "41016014",
+"end_ref_usfm": "MRK 16:14"
+},
+{
+"start_ref": "45002005",
+"start_ref_usfm": "ROM 2:5",
+"end_ref": "45002005",
+"end_ref_usfm": "ROM 2:5"
+},
+{
+"start_ref": "19078040",
+"start_ref_usfm": "PSA 78:40",
+"end_ref": "19078040",
+"end_ref_usfm": "PSA 78:40"
+},
+{
+"start_ref": "05001026",
+"start_ref_usfm": "DEU 1:26",
+"end_ref": "05001026",
+"end_ref_usfm": "DEU 1:26"
+},
+{
+"start_ref": "23001002",
+"start_ref_usfm": "ISA 1:2",
+"end_ref": "23001002",
+"end_ref_usfm": "ISA 1:2"
+},
+{
+"start_ref": "24002029",
+"start_ref_usfm": "JER 2:29",
+"end_ref": "24002029",
+"end_ref_usfm": "JER 2:29"
+},
+{
+"start_ref": "26002003",
+"start_ref_usfm": "EZK 2:3",
+"end_ref": "26002003",
+"end_ref_usfm": "EZK 2:3"
+},
+{
+"start_ref": "28007013",
+"start_ref_usfm": "HOS 7:13",
+"end_ref": "28007013",
+"end_ref_usfm": "HOS 7:13"
+},
+{
+"start_ref": "56001010",
+"start_ref_usfm": "TIT 1:10",
+"end_ref": "56001010",
+"end_ref_usfm": "TIT 1:10"
+},
+{
+"start_ref": "58003016",
+"start_ref_usfm": "HEB 3:16",
+"end_ref": "58003016",
+"end_ref_usfm": "HEB 3:16"
+},
+{
+"start_ref": "45008007",
+"start_ref_usfm": "ROM 8:7",
+"end_ref": "45008007",
+"end_ref_usfm": "ROM 8:7"
+},
+{
+"start_ref": "03026021",
+"start_ref_usfm": "LEV 26:21",
+"end_ref": "03026021",
+"end_ref_usfm": "LEV 26:21"
+},
+{
+"start_ref": "03026023",
+"start_ref_usfm": "LEV 26:23",
+"end_ref": "03026024",
+"end_ref_usfm": "LEV 26:24"
+},
+{
+"start_ref": "03026027",
+"start_ref_usfm": "LEV 26:27",
+"end_ref": "03026028",
+"end_ref_usfm": "LEV 26:28"
+},
+{
+"start_ref": "28009007",
+"start_ref_usfm": "HOS 9:7",
+"end_ref": "28009007",
+"end_ref_usfm": "HOS 9:7"
+}
+],
+"resource": [
+{
+"reference_id": "5818",
+"content_id": "5818",
+"resource_code": "DictionaryBibleThemes",
+"label": "5818: contempt",
+"language": "eng"
+},
+{
+"reference_id": "5838",
+"content_id": "5838",
+"resource_code": "DictionaryBibleThemes",
+"label": "5838: disrespect",
+"language": "eng"
+},
+{
+"reference_id": "5885",
+"content_id": "5885",
+"resource_code": "DictionaryBibleThemes",
+"label": "5885: indifference",
+"language": "eng"
+},
+{
+"reference_id": "6178",
+"content_id": "6178",
+"resource_code": "DictionaryBibleThemes",
+"label": "6178: hardness of heart",
+"language": "eng"
+},
+{
+"reference_id": "6222",
+"content_id": "6222",
+"resource_code": "DictionaryBibleThemes",
+"label": "6222: rebellion, against God",
+"language": "eng"
+},
+{
+"reference_id": "6231",
+"content_id": "6231",
+"resource_code": "DictionaryBibleThemes",
+"label": "6231: rejection of God",
+"language": "eng"
+},
+{
+"reference_id": "6245",
+"content_id": "6245",
+"resource_code": "DictionaryBibleThemes",
+"label": "6245: stubbornness",
+"language": "eng"
+},
+{
+"reference_id": "8719",
+"content_id": "8719",
+"resource_code": "DictionaryBibleThemes",
+"label": "8719: distrust",
+"language": "eng"
+},
+{
+"reference_id": "8744",
+"content_id": "8744",
+"resource_code": "DictionaryBibleThemes",
+"label": "8744: faithlessness, as disobedience",
+"language": "eng"
+},
+{
+"reference_id": "8802",
+"content_id": "8802",
+"resource_code": "DictionaryBibleThemes",
+"label": "8802: pride",
+"language": "eng"
+},
+{
+"reference_id": "8822",
+"content_id": "8822",
+"resource_code": "DictionaryBibleThemes",
+"label": "8822: self-justification",
+"language": "eng"
+},
+{
+"reference_id": "8834",
+"content_id": "8834",
+"resource_code": "DictionaryBibleThemes",
+"label": "8834: unbelief",
+"language": "eng"
+}
+]
+}
+}
+]

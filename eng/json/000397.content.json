@@ -1,0 +1,137 @@
+[
+{
+"content_id": "4321",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4321: copper",
+"media_type": "Text",
+"index_reference": "4321: copper",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The mining of copper</h2>\n<p><strong><a href=\"https://ref.ly/Deut8:7-Deut8:9\">DEU 8:7–8:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job28:2-Job28:10\">JOB 28:2–28:10</a></p>\n<h2>The smelting of copper</h2>\n<p><strong><a href=\"https://ref.ly/Ezek22:20-Ezek22:21\">EZK 22:20–22:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek22:18\">EZK 22:18</a>, <a href=\"https://ref.ly/Ezek24:11\">EZK 24:11</a></p>\n<h2>Coins made of copper</h2>\n<p><strong><a href=\"https://ref.ly/Matt10:9\">MAT 10:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark12:41-Mark12:42\">MRK 12:41–12:42</a> parallel <a href=\"https://ref.ly/Luke21:1-Luke21:2\">LUK 21:1–21:2</a> <em>Coins of various denominations were made of copper in late OT and in NT times.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05008007",
+"start_ref_usfm": "DEU 8:7",
+"end_ref": "05008009",
+"end_ref_usfm": "DEU 8:9"
+},
+{
+"start_ref": "18028002",
+"start_ref_usfm": "JOB 28:2",
+"end_ref": "18028010",
+"end_ref_usfm": "JOB 28:10"
+},
+{
+"start_ref": "26022020",
+"start_ref_usfm": "EZK 22:20",
+"end_ref": "26022021",
+"end_ref_usfm": "EZK 22:21"
+},
+{
+"start_ref": "26022018",
+"start_ref_usfm": "EZK 22:18",
+"end_ref": "26022018",
+"end_ref_usfm": "EZK 22:18"
+},
+{
+"start_ref": "26024011",
+"start_ref_usfm": "EZK 24:11",
+"end_ref": "26024011",
+"end_ref_usfm": "EZK 24:11"
+},
+{
+"start_ref": "40010009",
+"start_ref_usfm": "MAT 10:9",
+"end_ref": "40010009",
+"end_ref_usfm": "MAT 10:9"
+},
+{
+"start_ref": "41012041",
+"start_ref_usfm": "MRK 12:41",
+"end_ref": "41012042",
+"end_ref_usfm": "MRK 12:42"
+},
+{
+"start_ref": "42021001",
+"start_ref_usfm": "LUK 21:1",
+"end_ref": "42021002",
+"end_ref_usfm": "LUK 21:2"
+}
+],
+"resource": [
+{
+"reference_id": "4303",
+"content_id": "4303",
+"resource_code": "DictionaryBibleThemes",
+"label": "4303: metals",
+"language": "eng"
+},
+{
+"reference_id": "4306",
+"content_id": "4306",
+"resource_code": "DictionaryBibleThemes",
+"label": "4306: minerals",
+"language": "eng"
+},
+{
+"reference_id": "4312",
+"content_id": "4312",
+"resource_code": "DictionaryBibleThemes",
+"label": "4312: bronze",
+"language": "eng"
+},
+{
+"reference_id": "4333",
+"content_id": "4333",
+"resource_code": "DictionaryBibleThemes",
+"label": "4333: gold",
+"language": "eng"
+},
+{
+"reference_id": "4336",
+"content_id": "4336",
+"resource_code": "DictionaryBibleThemes",
+"label": "4336: iron",
+"language": "eng"
+},
+{
+"reference_id": "4345",
+"content_id": "4345",
+"resource_code": "DictionaryBibleThemes",
+"label": "4345: metalworkers",
+"language": "eng"
+},
+{
+"reference_id": "4348",
+"content_id": "4348",
+"resource_code": "DictionaryBibleThemes",
+"label": "4348: mining",
+"language": "eng"
+},
+{
+"reference_id": "4351",
+"content_id": "4351",
+"resource_code": "DictionaryBibleThemes",
+"label": "4351: refining",
+"language": "eng"
+},
+{
+"reference_id": "4363",
+"content_id": "4363",
+"resource_code": "DictionaryBibleThemes",
+"label": "4363: silver",
+"language": "eng"
+},
+{
+"reference_id": "5260",
+"content_id": "5260",
+"resource_code": "DictionaryBibleThemes",
+"label": "5260: coinage",
+"language": "eng"
+}
+]
+}
+}
+]

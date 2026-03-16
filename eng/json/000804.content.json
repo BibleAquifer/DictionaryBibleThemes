@@ -1,0 +1,53 @@
+[
+{
+"content_id": "5215",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5215: authority",
+"media_type": "Text",
+"index_reference": "5215: authority",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The right to act or speak in certain ways, in accordance with the authorisation of a higher power. All human authority derives from God, and is to be exercised in a responsible manner.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5216",
+"content_id": "5216",
+"resource_code": "DictionaryBibleThemes",
+"label": "5216: authority, nature of",
+"language": "eng"
+},
+{
+"reference_id": "5217",
+"content_id": "5217",
+"resource_code": "DictionaryBibleThemes",
+"label": "5217: authority, in the church",
+"language": "eng"
+},
+{
+"reference_id": "5218",
+"content_id": "5218",
+"resource_code": "DictionaryBibleThemes",
+"label": "5218: authority, in the home",
+"language": "eng"
+},
+{
+"reference_id": "5219",
+"content_id": "5219",
+"resource_code": "DictionaryBibleThemes",
+"label": "5219: authority, of human institutions",
+"language": "eng"
+},
+{
+"reference_id": "5220",
+"content_id": "5220",
+"resource_code": "DictionaryBibleThemes",
+"label": "5220: authority, abuse of",
+"language": "eng"
+}
+]
+}
+}
+]

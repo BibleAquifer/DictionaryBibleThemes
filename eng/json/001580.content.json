@@ -1,0 +1,53 @@
+[
+{
+"content_id": "6248",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6248: temptation",
+"media_type": "Text",
+"index_reference": "6248: temptation",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Pressure to yield to influences that can lead people away from God and into sin.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6249",
+"content_id": "6249",
+"resource_code": "DictionaryBibleThemes",
+"label": "6249: temptation, universality of",
+"language": "eng"
+},
+{
+"reference_id": "6250",
+"content_id": "6250",
+"resource_code": "DictionaryBibleThemes",
+"label": "6250: temptation, sources of",
+"language": "eng"
+},
+{
+"reference_id": "6251",
+"content_id": "6251",
+"resource_code": "DictionaryBibleThemes",
+"label": "6251: temptation, resisting",
+"language": "eng"
+},
+{
+"reference_id": "6252",
+"content_id": "6252",
+"resource_code": "DictionaryBibleThemes",
+"label": "6252: temptation, and Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "6253",
+"content_id": "6253",
+"resource_code": "DictionaryBibleThemes",
+"label": "6253: temptation, avoiding causing",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8219",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8219: courage",
+"media_type": "Text",
+"index_reference": "8219: courage",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The quality of being able to act bravely under difficulties or in the face of opposition; being prepared to do dangerous or risky things in obedience to God, in the belief that he will strengthen, guard and protect his people.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8220",
+"content_id": "8220",
+"resource_code": "DictionaryBibleThemes",
+"label": "8220: courage, in facing enemies",
+"language": "eng"
+},
+{
+"reference_id": "8221",
+"content_id": "8221",
+"resource_code": "DictionaryBibleThemes",
+"label": "8221: courage, as strength from God",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,317 @@
+[
+{
+"content_id": "4807",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4807: colours",
+"media_type": "Text",
+"index_reference": "4807: colours",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A wide range of colours are mentioned in Scripture, some being used symbolically.</p>\n<h2>Colours mentioned in Scripture</h2>\n<h3>White</h3>\n<p><strong><a href=\"https://ref.ly/Gen49:12\">GEN 49:12</a></strong>; <strong><a href=\"https://ref.ly/2Kgs5:27\">2KI 5:27</a></strong></p>\n<h3>Blue</h3>\n<p><strong><a href=\"https://ref.ly/Esth1:6\">EST 1:6</a></strong>; <strong><a href=\"https://ref.ly/Ezek27:24\">EZK 27:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod26:1\">EXO 26:1</a>, <a href=\"https://ref.ly/Exod39:22\">EXO 39:22</a></p>\n<h3>Yellow</h3>\n<p><strong><a href=\"https://ref.ly/Rev9:17\">REV 9:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev13:30\">LEV 13:30</a></p>\n<h3>Green</h3>\n<p><strong><a href=\"https://ref.ly/Mark6:39\">MRK 6:39</a></strong> <em>An indication as to the season; the grass is green in Galilee in spring.</em> <a href=\"https://ref.ly/Gen1:30\">GEN 1:30</a>; ; <a href=\"https://ref.ly/Ps23:2\">PSA 23:2</a>; ; <a href=\"https://ref.ly/Jer17:8\">JER 17:8</a>; ; <a href=\"https://ref.ly/Rev8:7\">REV 8:7</a></p>\n<h3>Red</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs3:22\">2KI 3:22</a></strong>; <strong><a href=\"https://ref.ly/Matt16:2\">MAT 16:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen25:30\">GEN 25:30</a>; <a href=\"https://ref.ly/Exod36:19\">EXO 36:19</a>; <a href=\"https://ref.ly/Rev12:3\">REV 12:3</a></p>\n<h3>Purple</h3>\n<p><strong><a href=\"https://ref.ly/Mark15:17\">MRK 15:17</a></strong> <a href=\"https://ref.ly/Num4:13\">NUM 4:13</a>; ; <a href=\"https://ref.ly/Prov31:22\">PRO 31:22</a>; ; <a href=\"https://ref.ly/Dan5:7\">DAN 5:7</a>; ; <a href=\"https://ref.ly/Acts16:14\">ACT 16:14</a></p>\n<h3>Scarlet</h3>\n<p><strong><a href=\"https://ref.ly/Isa1:18\">ISA 1:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen38:28\">GEN 38:28</a>; <a href=\"https://ref.ly/Exod35:23\">EXO 35:23</a> <em>Purple, scarlet, crimson and red are closely related and sometimes interchangeable in Scripture</em>; <a href=\"https://ref.ly/Num4:8\">NUM 4:8</a>; <a href=\"https://ref.ly/Song4:3\">SNG 4:3</a>; <a href=\"https://ref.ly/Matt27:28\">MAT 27:28</a>; <a href=\"https://ref.ly/Rev17:4\">REV 17:4</a></p>\n<h3>Crimson</h3>\n<p><strong><a href=\"https://ref.ly/Isa63:1\">ISA 63:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr2:7\">2CH 2:7</a></p>\n<h3>Black</h3>\n<p><strong><a href=\"https://ref.ly/Song5:11\">SNG 5:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev6:12\">REV 6:12</a></p>\n<h3>The whole spectrum</h3>\n<p><strong><a href=\"https://ref.ly/Ezek1:28\">EZK 1:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev4:3\">REV 4:3</a>, <a href=\"https://ref.ly/Rev10:1\">REV 10:1</a></p>\n<h2>Colours used symbolically</h2>\n<p><strong><a href=\"https://ref.ly/Rev6:2\">REV 6:2</a></strong> <em>White here symbolises conquest</em>; <strong><a href=\"https://ref.ly/Rev17:3\">REV 17:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev6:4\">REV 6:4</a> <em>bloodshed and war</em>; <a href=\"https://ref.ly/Rev6:8\">REV 6:8</a> <em>death</em><a href=\"https://ref.ly/Rev7:9\">REV 7:9</a>, <a href=\"https://ref.ly/Rev19:14\">REV 19:14</a>, <a href=\"https://ref.ly/Rev19:11\">REV 19:11</a>\n<a href=\"https://ref.ly/Rev20:11\">REV 20:11</a> <em>holiness</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01049012",
+"start_ref_usfm": "GEN 49:12",
+"end_ref": "01049012",
+"end_ref_usfm": "GEN 49:12"
+},
+{
+"start_ref": "12005027",
+"start_ref_usfm": "2KI 5:27",
+"end_ref": "12005027",
+"end_ref_usfm": "2KI 5:27"
+},
+{
+"start_ref": "17001006",
+"start_ref_usfm": "EST 1:6",
+"end_ref": "17001006",
+"end_ref_usfm": "EST 1:6"
+},
+{
+"start_ref": "26027024",
+"start_ref_usfm": "EZK 27:24",
+"end_ref": "26027024",
+"end_ref_usfm": "EZK 27:24"
+},
+{
+"start_ref": "02026001",
+"start_ref_usfm": "EXO 26:1",
+"end_ref": "02026001",
+"end_ref_usfm": "EXO 26:1"
+},
+{
+"start_ref": "02039022",
+"start_ref_usfm": "EXO 39:22",
+"end_ref": "02039022",
+"end_ref_usfm": "EXO 39:22"
+},
+{
+"start_ref": "66009017",
+"start_ref_usfm": "REV 9:17",
+"end_ref": "66009017",
+"end_ref_usfm": "REV 9:17"
+},
+{
+"start_ref": "03013030",
+"start_ref_usfm": "LEV 13:30",
+"end_ref": "03013030",
+"end_ref_usfm": "LEV 13:30"
+},
+{
+"start_ref": "41006039",
+"start_ref_usfm": "MRK 6:39",
+"end_ref": "41006039",
+"end_ref_usfm": "MRK 6:39"
+},
+{
+"start_ref": "01001030",
+"start_ref_usfm": "GEN 1:30",
+"end_ref": "01001030",
+"end_ref_usfm": "GEN 1:30"
+},
+{
+"start_ref": "19023002",
+"start_ref_usfm": "PSA 23:2",
+"end_ref": "19023002",
+"end_ref_usfm": "PSA 23:2"
+},
+{
+"start_ref": "24017008",
+"start_ref_usfm": "JER 17:8",
+"end_ref": "24017008",
+"end_ref_usfm": "JER 17:8"
+},
+{
+"start_ref": "66008007",
+"start_ref_usfm": "REV 8:7",
+"end_ref": "66008007",
+"end_ref_usfm": "REV 8:7"
+},
+{
+"start_ref": "12003022",
+"start_ref_usfm": "2KI 3:22",
+"end_ref": "12003022",
+"end_ref_usfm": "2KI 3:22"
+},
+{
+"start_ref": "40016002",
+"start_ref_usfm": "MAT 16:2",
+"end_ref": "40016002",
+"end_ref_usfm": "MAT 16:2"
+},
+{
+"start_ref": "01025030",
+"start_ref_usfm": "GEN 25:30",
+"end_ref": "01025030",
+"end_ref_usfm": "GEN 25:30"
+},
+{
+"start_ref": "02036019",
+"start_ref_usfm": "EXO 36:19",
+"end_ref": "02036019",
+"end_ref_usfm": "EXO 36:19"
+},
+{
+"start_ref": "66012003",
+"start_ref_usfm": "REV 12:3",
+"end_ref": "66012003",
+"end_ref_usfm": "REV 12:3"
+},
+{
+"start_ref": "41015017",
+"start_ref_usfm": "MRK 15:17",
+"end_ref": "41015017",
+"end_ref_usfm": "MRK 15:17"
+},
+{
+"start_ref": "04004013",
+"start_ref_usfm": "NUM 4:13",
+"end_ref": "04004013",
+"end_ref_usfm": "NUM 4:13"
+},
+{
+"start_ref": "20031022",
+"start_ref_usfm": "PRO 31:22",
+"end_ref": "20031022",
+"end_ref_usfm": "PRO 31:22"
+},
+{
+"start_ref": "27005007",
+"start_ref_usfm": "DAN 5:7",
+"end_ref": "27005007",
+"end_ref_usfm": "DAN 5:7"
+},
+{
+"start_ref": "44016014",
+"start_ref_usfm": "ACT 16:14",
+"end_ref": "44016014",
+"end_ref_usfm": "ACT 16:14"
+},
+{
+"start_ref": "23001018",
+"start_ref_usfm": "ISA 1:18",
+"end_ref": "23001018",
+"end_ref_usfm": "ISA 1:18"
+},
+{
+"start_ref": "01038028",
+"start_ref_usfm": "GEN 38:28",
+"end_ref": "01038028",
+"end_ref_usfm": "GEN 38:28"
+},
+{
+"start_ref": "02035023",
+"start_ref_usfm": "EXO 35:23",
+"end_ref": "02035023",
+"end_ref_usfm": "EXO 35:23"
+},
+{
+"start_ref": "04004008",
+"start_ref_usfm": "NUM 4:8",
+"end_ref": "04004008",
+"end_ref_usfm": "NUM 4:8"
+},
+{
+"start_ref": "22004003",
+"start_ref_usfm": "SNG 4:3",
+"end_ref": "22004003",
+"end_ref_usfm": "SNG 4:3"
+},
+{
+"start_ref": "40027028",
+"start_ref_usfm": "MAT 27:28",
+"end_ref": "40027028",
+"end_ref_usfm": "MAT 27:28"
+},
+{
+"start_ref": "66017004",
+"start_ref_usfm": "REV 17:4",
+"end_ref": "66017004",
+"end_ref_usfm": "REV 17:4"
+},
+{
+"start_ref": "23063001",
+"start_ref_usfm": "ISA 63:1",
+"end_ref": "23063001",
+"end_ref_usfm": "ISA 63:1"
+},
+{
+"start_ref": "14002007",
+"start_ref_usfm": "2CH 2:7",
+"end_ref": "14002007",
+"end_ref_usfm": "2CH 2:7"
+},
+{
+"start_ref": "22005011",
+"start_ref_usfm": "SNG 5:11",
+"end_ref": "22005011",
+"end_ref_usfm": "SNG 5:11"
+},
+{
+"start_ref": "66006012",
+"start_ref_usfm": "REV 6:12",
+"end_ref": "66006012",
+"end_ref_usfm": "REV 6:12"
+},
+{
+"start_ref": "26001028",
+"start_ref_usfm": "EZK 1:28",
+"end_ref": "26001028",
+"end_ref_usfm": "EZK 1:28"
+},
+{
+"start_ref": "66004003",
+"start_ref_usfm": "REV 4:3",
+"end_ref": "66004003",
+"end_ref_usfm": "REV 4:3"
+},
+{
+"start_ref": "66010001",
+"start_ref_usfm": "REV 10:1",
+"end_ref": "66010001",
+"end_ref_usfm": "REV 10:1"
+},
+{
+"start_ref": "66006002",
+"start_ref_usfm": "REV 6:2",
+"end_ref": "66006002",
+"end_ref_usfm": "REV 6:2"
+},
+{
+"start_ref": "66017003",
+"start_ref_usfm": "REV 17:3",
+"end_ref": "66017003",
+"end_ref_usfm": "REV 17:3"
+},
+{
+"start_ref": "66006004",
+"start_ref_usfm": "REV 6:4",
+"end_ref": "66006004",
+"end_ref_usfm": "REV 6:4"
+},
+{
+"start_ref": "66006008",
+"start_ref_usfm": "REV 6:8",
+"end_ref": "66006008",
+"end_ref_usfm": "REV 6:8"
+},
+{
+"start_ref": "66007009",
+"start_ref_usfm": "REV 7:9",
+"end_ref": "66007009",
+"end_ref_usfm": "REV 7:9"
+},
+{
+"start_ref": "66019014",
+"start_ref_usfm": "REV 19:14",
+"end_ref": "66019014",
+"end_ref_usfm": "REV 19:14"
+},
+{
+"start_ref": "66019011",
+"start_ref_usfm": "REV 19:11",
+"end_ref": "66019011",
+"end_ref_usfm": "REV 19:11"
+},
+{
+"start_ref": "66020011",
+"start_ref_usfm": "REV 20:11",
+"end_ref": "66020011",
+"end_ref_usfm": "REV 20:11"
+}
+],
+"resource": [
+{
+"reference_id": "4801",
+"content_id": "4801",
+"resource_code": "DictionaryBibleThemes",
+"label": "4801: black",
+"language": "eng"
+},
+{
+"reference_id": "4808",
+"content_id": "4808",
+"resource_code": "DictionaryBibleThemes",
+"label": "4808: crimson",
+"language": "eng"
+},
+{
+"reference_id": "4845",
+"content_id": "4845",
+"resource_code": "DictionaryBibleThemes",
+"label": "4845: rainbow",
+"language": "eng"
+},
+{
+"reference_id": "4859",
+"content_id": "4859",
+"resource_code": "DictionaryBibleThemes",
+"label": "4859: white",
+"language": "eng"
+}
+]
+}
+}
+]

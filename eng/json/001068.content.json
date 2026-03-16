@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5498",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5498: reward",
+"media_type": "Text",
+"index_reference": "5498: reward",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Recompense in recognition of services rendered. Scripture stresses that while salvation is a gift of God, believers will be rewarded according to their deeds. Believers should be honest in rewarding others for their work.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5499",
+"content_id": "5499",
+"resource_code": "DictionaryBibleThemes",
+"label": "5499: reward, divine",
+"language": "eng"
+},
+{
+"reference_id": "5500",
+"content_id": "5500",
+"resource_code": "DictionaryBibleThemes",
+"label": "5500: reward, for God's people",
+"language": "eng"
+},
+{
+"reference_id": "5501",
+"content_id": "5501",
+"resource_code": "DictionaryBibleThemes",
+"label": "5501: reward, human",
+"language": "eng"
+}
+]
+}
+}
+]

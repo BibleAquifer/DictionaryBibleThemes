@@ -1,0 +1,133 @@
+[
+{
+"content_id": "1350",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1350: covenant, God's with Israel's priests",
+"media_type": "Text",
+"index_reference": "1350: covenant, god's with israel's priests",
+"language": "eng",
+"review_level": "None",
+"content": "<p>God's promise to the Levites, and to the family of Phinehas in particular, to maintain those who serve him faithfully in a lasting priesthood.</p>\n<h2>God's covenant with Phinehas</h2>\n<p><strong><a href=\"https://ref.ly/Num25:12-Num25:13\">NUM 25:12–25:13</a></strong> <em>Phinehas was the grandson of Aaron. God's pledge of “a lasting priesthood”, granted to him as a result of his zeal, probably means that the high priesthood would remain in his family.</em> <em>See also</em> <a href=\"https://ref.ly/Num25:10-Num25:11\">NUM 25:10–25:11</a>; <a href=\"https://ref.ly/Ezra7:1-Ezra7:5\">EZR 7:1–7:5</a>; <a href=\"https://ref.ly/Ps106:30-Ps106:31\">PSA 106:30–106:31</a></p>\n<h2>God's covenant with the Levites</h2>\n<h3>An everlasting covenant</h3>\n<p><strong><a href=\"https://ref.ly/Num18:19\">NUM 18:19</a></strong> <em>This covenant confirms the privileges and responsibilities of Aaron and his fellow Levites who have been called to Israel's priesthood. The reference to “salt” may underline the permanent nature of the covenant. God's covenant with David is also described as a “covenant of salt”.</em> <em>See also</em> <a href=\"https://ref.ly/2Chr13:5\">2CH 13:5</a>; <a href=\"https://ref.ly/Jer33:18-Jer33:22\">JER 33:18–33:22</a></p>\n<h3>Requirements of the covenant</h3>\n<p><strong><a href=\"https://ref.ly/Mal2:5-Mal2:6\">MAL 2:5–2:6</a></strong></p>\n<h3>The Levites' portion is the LORD</h3>\n<p><strong><a href=\"https://ref.ly/Deut10:8-Deut10:9\">DEU 10:8–10:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num3:12\">NUM 3:12</a></p>\n<h3>The covenant violated</h3>\n<p><strong><a href=\"https://ref.ly/Mal2:8\">MAL 2:8</a></strong> <em>By their unfaithfulness, Judah's priests have forfeited the blessings of God's promise to Levi.</em> <em>See also</em> <a href=\"https://ref.ly/Neh13:29\">NEH 13:29</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04025012",
+"start_ref_usfm": "NUM 25:12",
+"end_ref": "04025013",
+"end_ref_usfm": "NUM 25:13"
+},
+{
+"start_ref": "04025010",
+"start_ref_usfm": "NUM 25:10",
+"end_ref": "04025011",
+"end_ref_usfm": "NUM 25:11"
+},
+{
+"start_ref": "15007001",
+"start_ref_usfm": "EZR 7:1",
+"end_ref": "15007005",
+"end_ref_usfm": "EZR 7:5"
+},
+{
+"start_ref": "19106030",
+"start_ref_usfm": "PSA 106:30",
+"end_ref": "19106031",
+"end_ref_usfm": "PSA 106:31"
+},
+{
+"start_ref": "04018019",
+"start_ref_usfm": "NUM 18:19",
+"end_ref": "04018019",
+"end_ref_usfm": "NUM 18:19"
+},
+{
+"start_ref": "14013005",
+"start_ref_usfm": "2CH 13:5",
+"end_ref": "14013005",
+"end_ref_usfm": "2CH 13:5"
+},
+{
+"start_ref": "24033018",
+"start_ref_usfm": "JER 33:18",
+"end_ref": "24033022",
+"end_ref_usfm": "JER 33:22"
+},
+{
+"start_ref": "39002005",
+"start_ref_usfm": "MAL 2:5",
+"end_ref": "39002006",
+"end_ref_usfm": "MAL 2:6"
+},
+{
+"start_ref": "05010008",
+"start_ref_usfm": "DEU 10:8",
+"end_ref": "05010009",
+"end_ref_usfm": "DEU 10:9"
+},
+{
+"start_ref": "04003012",
+"start_ref_usfm": "NUM 3:12",
+"end_ref": "04003012",
+"end_ref_usfm": "NUM 3:12"
+},
+{
+"start_ref": "39002008",
+"start_ref_usfm": "MAL 2:8",
+"end_ref": "39002008",
+"end_ref_usfm": "MAL 2:8"
+},
+{
+"start_ref": "16013029",
+"start_ref_usfm": "NEH 13:29",
+"end_ref": "16013029",
+"end_ref_usfm": "NEH 13:29"
+}
+],
+"resource": [
+{
+"reference_id": "5073",
+"content_id": "5073",
+"resource_code": "DictionaryBibleThemes",
+"label": "5073: Aaron, as model priest",
+"language": "eng"
+},
+{
+"reference_id": "7364",
+"content_id": "7364",
+"resource_code": "DictionaryBibleThemes",
+"label": "7364: fellowship offering",
+"language": "eng"
+},
+{
+"reference_id": "7376",
+"content_id": "7376",
+"resource_code": "DictionaryBibleThemes",
+"label": "7376: high priest",
+"language": "eng"
+},
+{
+"reference_id": "7390",
+"content_id": "7390",
+"resource_code": "DictionaryBibleThemes",
+"label": "7390: Levites",
+"language": "eng"
+},
+{
+"reference_id": "7412",
+"content_id": "7412",
+"resource_code": "DictionaryBibleThemes",
+"label": "7412: priesthood",
+"language": "eng"
+},
+{
+"reference_id": "7766",
+"content_id": "7766",
+"resource_code": "DictionaryBibleThemes",
+"label": "7766: priests",
+"language": "eng"
+}
+]
+}
+}
+]

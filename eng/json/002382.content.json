@@ -1,0 +1,275 @@
+[
+{
+"content_id": "8753",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8753: favouritism",
+"media_type": "Text",
+"index_reference": "8753: favouritism",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The unfair treatment of a person or group in preference to another. Favouritism is shown in Scripture as causing division both in the family and in the church. It is warned against in the administration of justice. The human tendency to partiality is contrasted with God's impartial dealings.</p>\n<h2>Favouritism in family life</h2>\n<h3>Isaac's preference for Esau</h3>\n<p><a href=\"https://ref.ly/Gen25:23\">GEN 25:23</a>, <a href=\"https://ref.ly/Gen25:28\">GEN 25:28</a></p>\n<h3>Rebekah's preference for Jacob</h3>\n<p><a href=\"https://ref.ly/Gen27:6-Gen27:10\">GEN 27:6–27:10</a></p>\n<h3>Jacob's preference for Joseph</h3>\n<p><a href=\"https://ref.ly/Gen37:3-Gen37:4\">GEN 37:3–37:4</a></p>\n<h3>Elkanah's preference for Hannah</h3>\n<p><a href=\"https://ref.ly/1Sam1:5-1Sam1:6\">1SA 1:5–1:6</a></p>\n<h3>The child of a favourite wife must not receive preferential treatment</h3>\n<p><a href=\"https://ref.ly/Deut21:15-Deut21:16\">DEU 21:15–21:16</a></p>\n<h2>Favouritism in church relationships</h2>\n<h3>In the treatment of widows</h3>\n<p><a href=\"https://ref.ly/Acts6:1\">ACT 6:1</a></p>\n<h3>James warned against favouring rich Christians</h3>\n<p><a href=\"https://ref.ly/Jas2:1-Jas2:4\">JAS 2:1–2:4</a>, <a href=\"https://ref.ly/Jas2:8-Jas2:9\">JAS 2:8–2:9</a></p>\n<h3>Paul warned Timothy against showing favouritism</h3>\n<p><strong><a href=\"https://ref.ly/1Tim5:21\">1TI 5:21</a></strong></p>\n<h2>Justice must be impartial</h2>\n<p><strong><a href=\"https://ref.ly/Lev19:15\">LEV 19:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:3\">EXO 23:3</a>; <a href=\"https://ref.ly/Deut16:19\">DEU 16:19</a>; <a href=\"https://ref.ly/Job13:10\">JOB 13:10</a>; <a href=\"https://ref.ly/Ps82:2\">PSA 82:2</a>; <a href=\"https://ref.ly/Prov24:23\">PRO 24:23</a>, <a href=\"https://ref.ly/Prov28:21\">PRO 28:21</a>; <a href=\"https://ref.ly/Mal2:9\">MAL 2:9</a></p>\n<h2>God has no favourites</h2>\n<p><strong><a href=\"https://ref.ly/Rom2:11\">ROM 2:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job34:19\">JOB 34:19</a>; <a href=\"https://ref.ly/Matt5:45\">MAT 5:45</a></p>\n<h3>God has no favourite nation</h3>\n<p><strong><a href=\"https://ref.ly/Acts10:34-Acts10:35\">ACT 10:34–10:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom2:10\">ROM 2:10</a>; <a href=\"https://ref.ly/Eph6:8-Eph6:9\">EPH 6:8–6:9</a></p>\n<h3>God does not differentiate between Jewish and Gentile Christians</h3>\n<p><a href=\"https://ref.ly/Acts15:7-Acts15:9\">ACT 15:7–15:9</a>; ; <a href=\"https://ref.ly/Rom10:12-Rom10:13\">ROM 10:12–10:13</a></p>\n<h3>God judges all without favouritism</h3>\n<p><a href=\"https://ref.ly/Deut10:17\">DEU 10:17</a>; ; <a href=\"https://ref.ly/2Chr19:7\">2CH 19:7</a>; ; <a href=\"https://ref.ly/Rom2:9\">ROM 2:9</a>; ; <a href=\"https://ref.ly/Col3:25\">COL 3:25</a>; ; <a href=\"https://ref.ly/1Pet1:17\">1PE 1:17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01025023",
+"start_ref_usfm": "GEN 25:23",
+"end_ref": "01025023",
+"end_ref_usfm": "GEN 25:23"
+},
+{
+"start_ref": "01025028",
+"start_ref_usfm": "GEN 25:28",
+"end_ref": "01025028",
+"end_ref_usfm": "GEN 25:28"
+},
+{
+"start_ref": "01027006",
+"start_ref_usfm": "GEN 27:6",
+"end_ref": "01027010",
+"end_ref_usfm": "GEN 27:10"
+},
+{
+"start_ref": "01037003",
+"start_ref_usfm": "GEN 37:3",
+"end_ref": "01037004",
+"end_ref_usfm": "GEN 37:4"
+},
+{
+"start_ref": "09001005",
+"start_ref_usfm": "1SA 1:5",
+"end_ref": "09001006",
+"end_ref_usfm": "1SA 1:6"
+},
+{
+"start_ref": "05021015",
+"start_ref_usfm": "DEU 21:15",
+"end_ref": "05021016",
+"end_ref_usfm": "DEU 21:16"
+},
+{
+"start_ref": "44006001",
+"start_ref_usfm": "ACT 6:1",
+"end_ref": "44006001",
+"end_ref_usfm": "ACT 6:1"
+},
+{
+"start_ref": "59002001",
+"start_ref_usfm": "JAS 2:1",
+"end_ref": "59002004",
+"end_ref_usfm": "JAS 2:4"
+},
+{
+"start_ref": "59002008",
+"start_ref_usfm": "JAS 2:8",
+"end_ref": "59002009",
+"end_ref_usfm": "JAS 2:9"
+},
+{
+"start_ref": "54005021",
+"start_ref_usfm": "1TI 5:21",
+"end_ref": "54005021",
+"end_ref_usfm": "1TI 5:21"
+},
+{
+"start_ref": "03019015",
+"start_ref_usfm": "LEV 19:15",
+"end_ref": "03019015",
+"end_ref_usfm": "LEV 19:15"
+},
+{
+"start_ref": "02023003",
+"start_ref_usfm": "EXO 23:3",
+"end_ref": "02023003",
+"end_ref_usfm": "EXO 23:3"
+},
+{
+"start_ref": "05016019",
+"start_ref_usfm": "DEU 16:19",
+"end_ref": "05016019",
+"end_ref_usfm": "DEU 16:19"
+},
+{
+"start_ref": "18013010",
+"start_ref_usfm": "JOB 13:10",
+"end_ref": "18013010",
+"end_ref_usfm": "JOB 13:10"
+},
+{
+"start_ref": "19082002",
+"start_ref_usfm": "PSA 82:2",
+"end_ref": "19082002",
+"end_ref_usfm": "PSA 82:2"
+},
+{
+"start_ref": "20024023",
+"start_ref_usfm": "PRO 24:23",
+"end_ref": "20024023",
+"end_ref_usfm": "PRO 24:23"
+},
+{
+"start_ref": "20028021",
+"start_ref_usfm": "PRO 28:21",
+"end_ref": "20028021",
+"end_ref_usfm": "PRO 28:21"
+},
+{
+"start_ref": "39002009",
+"start_ref_usfm": "MAL 2:9",
+"end_ref": "39002009",
+"end_ref_usfm": "MAL 2:9"
+},
+{
+"start_ref": "45002011",
+"start_ref_usfm": "ROM 2:11",
+"end_ref": "45002011",
+"end_ref_usfm": "ROM 2:11"
+},
+{
+"start_ref": "18034019",
+"start_ref_usfm": "JOB 34:19",
+"end_ref": "18034019",
+"end_ref_usfm": "JOB 34:19"
+},
+{
+"start_ref": "40005045",
+"start_ref_usfm": "MAT 5:45",
+"end_ref": "40005045",
+"end_ref_usfm": "MAT 5:45"
+},
+{
+"start_ref": "44010034",
+"start_ref_usfm": "ACT 10:34",
+"end_ref": "44010035",
+"end_ref_usfm": "ACT 10:35"
+},
+{
+"start_ref": "45002010",
+"start_ref_usfm": "ROM 2:10",
+"end_ref": "45002010",
+"end_ref_usfm": "ROM 2:10"
+},
+{
+"start_ref": "49006008",
+"start_ref_usfm": "EPH 6:8",
+"end_ref": "49006009",
+"end_ref_usfm": "EPH 6:9"
+},
+{
+"start_ref": "44015007",
+"start_ref_usfm": "ACT 15:7",
+"end_ref": "44015009",
+"end_ref_usfm": "ACT 15:9"
+},
+{
+"start_ref": "45010012",
+"start_ref_usfm": "ROM 10:12",
+"end_ref": "45010013",
+"end_ref_usfm": "ROM 10:13"
+},
+{
+"start_ref": "05010017",
+"start_ref_usfm": "DEU 10:17",
+"end_ref": "05010017",
+"end_ref_usfm": "DEU 10:17"
+},
+{
+"start_ref": "14019007",
+"start_ref_usfm": "2CH 19:7",
+"end_ref": "14019007",
+"end_ref_usfm": "2CH 19:7"
+},
+{
+"start_ref": "45002009",
+"start_ref_usfm": "ROM 2:9",
+"end_ref": "45002009",
+"end_ref_usfm": "ROM 2:9"
+},
+{
+"start_ref": "51003025",
+"start_ref_usfm": "COL 3:25",
+"end_ref": "51003025",
+"end_ref_usfm": "COL 3:25"
+},
+{
+"start_ref": "60001017",
+"start_ref_usfm": "1PE 1:17",
+"end_ref": "60001017",
+"end_ref_usfm": "1PE 1:17"
+}
+],
+"resource": [
+{
+"reference_id": "2042",
+"content_id": "2042",
+"resource_code": "DictionaryBibleThemes",
+"label": "2042: Jesus Christ, justice of",
+"language": "eng"
+},
+{
+"reference_id": "5095",
+"content_id": "5095",
+"resource_code": "DictionaryBibleThemes",
+"label": "5095: Jacob, life and character of",
+"language": "eng"
+},
+{
+"reference_id": "5347",
+"content_id": "5347",
+"resource_code": "DictionaryBibleThemes",
+"label": "5347: injustice",
+"language": "eng"
+},
+{
+"reference_id": "5359",
+"content_id": "5359",
+"resource_code": "DictionaryBibleThemes",
+"label": "5359: justice",
+"language": "eng"
+},
+{
+"reference_id": "5765",
+"content_id": "5765",
+"resource_code": "DictionaryBibleThemes",
+"label": "5765: attitudes, to other people",
+"language": "eng"
+},
+{
+"reference_id": "5859",
+"content_id": "5859",
+"resource_code": "DictionaryBibleThemes",
+"label": "5859: favour",
+"language": "eng"
+},
+{
+"reference_id": "5863",
+"content_id": "5863",
+"resource_code": "DictionaryBibleThemes",
+"label": "5863: flattery",
+"language": "eng"
+},
+{
+"reference_id": "5882",
+"content_id": "5882",
+"resource_code": "DictionaryBibleThemes",
+"label": "5882: impartiality",
+"language": "eng"
+},
+{
+"reference_id": "8773",
+"content_id": "8773",
+"resource_code": "DictionaryBibleThemes",
+"label": "8773: jealousy",
+"language": "eng"
+},
+{
+"reference_id": "8800",
+"content_id": "8800",
+"resource_code": "DictionaryBibleThemes",
+"label": "8800: prejudice",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,147 @@
+[
+{
+"content_id": "5153",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5153: foot-washing",
+"media_type": "Text",
+"index_reference": "5153: foot-washing",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A practice of hospitality used by Jesus Christ to express his servanthood.</p>\n<h2>Foot-washing as a sign of courteous hospitality</h2>\n<p><strong><a href=\"https://ref.ly/Gen18:4\">GEN 18:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen19:2\">GEN 19:2</a>; <a href=\"https://ref.ly/Judg19:21\">JDG 19:21</a>; <a href=\"https://ref.ly/1Sam25:41\">1SA 25:41</a>; <a href=\"https://ref.ly/Luke7:44\">LUK 7:44</a></p>\n<h2>Jesus Christ washes his disciples' feet</h2>\n<p><strong><a href=\"https://ref.ly/John13:3-John13:5\">JHN 13:3–13:5</a></strong> <em>The washing of feet was a lowly task normally performed by a servant.</em></p>\n<h3>As an example of servanthood for his followers</h3>\n<p><strong><a href=\"https://ref.ly/John13:14\">JHN 13:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt20:26-Matt20:27\">MAT 20:26–20:27</a> parallel <a href=\"https://ref.ly/Mark10:44-Mark10:45\">MRK 10:44–10:45</a>; <a href=\"https://ref.ly/Luke22:26-Luke22:27\">LUK 22:26–22:27</a>; <a href=\"https://ref.ly/1Tim5:10\">1TI 5:10</a></p>\n<h3>As a symbol of spiritual cleansing</h3>\n<p><strong><a href=\"https://ref.ly/John13:6-John13:10\">JHN 13:6–13:10</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01018004",
+"start_ref_usfm": "GEN 18:4",
+"end_ref": "01018004",
+"end_ref_usfm": "GEN 18:4"
+},
+{
+"start_ref": "01019002",
+"start_ref_usfm": "GEN 19:2",
+"end_ref": "01019002",
+"end_ref_usfm": "GEN 19:2"
+},
+{
+"start_ref": "07019021",
+"start_ref_usfm": "JDG 19:21",
+"end_ref": "07019021",
+"end_ref_usfm": "JDG 19:21"
+},
+{
+"start_ref": "09025041",
+"start_ref_usfm": "1SA 25:41",
+"end_ref": "09025041",
+"end_ref_usfm": "1SA 25:41"
+},
+{
+"start_ref": "42007044",
+"start_ref_usfm": "LUK 7:44",
+"end_ref": "42007044",
+"end_ref_usfm": "LUK 7:44"
+},
+{
+"start_ref": "43013003",
+"start_ref_usfm": "JHN 13:3",
+"end_ref": "43013005",
+"end_ref_usfm": "JHN 13:5"
+},
+{
+"start_ref": "43013014",
+"start_ref_usfm": "JHN 13:14",
+"end_ref": "43013014",
+"end_ref_usfm": "JHN 13:14"
+},
+{
+"start_ref": "40020026",
+"start_ref_usfm": "MAT 20:26",
+"end_ref": "40020027",
+"end_ref_usfm": "MAT 20:27"
+},
+{
+"start_ref": "41010044",
+"start_ref_usfm": "MRK 10:44",
+"end_ref": "41010045",
+"end_ref_usfm": "MRK 10:45"
+},
+{
+"start_ref": "42022026",
+"start_ref_usfm": "LUK 22:26",
+"end_ref": "42022027",
+"end_ref_usfm": "LUK 22:27"
+},
+{
+"start_ref": "54005010",
+"start_ref_usfm": "1TI 5:10",
+"end_ref": "54005010",
+"end_ref_usfm": "1TI 5:10"
+},
+{
+"start_ref": "43013006",
+"start_ref_usfm": "JHN 13:6",
+"end_ref": "43013010",
+"end_ref_usfm": "JHN 13:10"
+}
+],
+"resource": [
+{
+"reference_id": "2327",
+"content_id": "2327",
+"resource_code": "DictionaryBibleThemes",
+"label": "2327: Jesus Christ, as servant",
+"language": "eng"
+},
+{
+"reference_id": "2339",
+"content_id": "2339",
+"resource_code": "DictionaryBibleThemes",
+"label": "2339: Jesus Christ, example of",
+"language": "eng"
+},
+{
+"reference_id": "5151",
+"content_id": "5151",
+"resource_code": "DictionaryBibleThemes",
+"label": "5151: feet",
+"language": "eng"
+},
+{
+"reference_id": "6652",
+"content_id": "6652",
+"resource_code": "DictionaryBibleThemes",
+"label": "6652: forgiveness",
+"language": "eng"
+},
+{
+"reference_id": "7342",
+"content_id": "7342",
+"resource_code": "DictionaryBibleThemes",
+"label": "7342: cleanliness",
+"language": "eng"
+},
+{
+"reference_id": "7478",
+"content_id": "7478",
+"resource_code": "DictionaryBibleThemes",
+"label": "7478: washing",
+"language": "eng"
+},
+{
+"reference_id": "8342",
+"content_id": "8342",
+"resource_code": "DictionaryBibleThemes",
+"label": "8342: servanthood",
+"language": "eng"
+},
+{
+"reference_id": "8445",
+"content_id": "8445",
+"resource_code": "DictionaryBibleThemes",
+"label": "8445: hospitality",
+"language": "eng"
+}
+]
+}
+}
+]

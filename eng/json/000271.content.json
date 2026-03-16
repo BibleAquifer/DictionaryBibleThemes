@@ -1,0 +1,259 @@
+[
+{
+"content_id": "3233",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "3233: Holy Spirit, and sanctification",
+"media_type": "Text",
+"index_reference": "3233: holy spirit, and sanctification",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The work of the Holy Spirit in enabling believers to lead holy lives, dedicated to the service of God and conformed to his likeness.</p>\n<h2>The Spirit of holiness is promised</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:11\">MAT 3:11</a></strong> parallel <a href=\"https://ref.ly/Luke3:16\">LUK 3:16</a> <em>“fire” implies the Holy Spirit's work of purification and judgment.</em></p>\n<h2>Sanctification is a special work of the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/Rom15:16\">ROM 15:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor6:11\">1CO 6:11</a>; <a href=\"https://ref.ly/Gal5:5\">GAL 5:5</a>; <a href=\"https://ref.ly/1Pet1:2\">1PE 1:2</a></p>\n<h2>The Holy Spirit requires believers to be sanctified</h2>\n<p><strong><a href=\"https://ref.ly/2Thess2:13\">2TH 2:13</a></strong> <em>Sanctification is a necessary part of being a Christian.</em> <em>See also</em> <a href=\"https://ref.ly/1Cor6:18-1Cor6:19\">1CO 6:18–6:19</a></p>\n<h2>The Holy Spirit enables believers to be sanctified</h2>\n<p><strong><a href=\"https://ref.ly/Rom8:4\">ROM 8:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:13\">ROM 8:13</a>; <a href=\"https://ref.ly/Eph5:18\">EPH 5:18</a></p>\n<h2>The Holy Spirit produces sanctification</h2>\n<p><strong><a href=\"https://ref.ly/Gal5:22-Gal5:23\">GAL 5:22–5:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom14:17\">ROM 14:17</a>; <a href=\"https://ref.ly/2Tim1:7\">2TI 1:7</a></p>\n<h2>The process of sanctification</h2>\n<h3>The Holy Spirit makes believers more like Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/2Cor3:18\">2CO 3:18</a></strong></p>\n<h3>The Holy Spirit helps mortify sinful human nature</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:13\">ROM 8:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal5:17\">GAL 5:17</a></p>\n<h3>The Holy Spirit is opposed to natural desires</h3>\n<p><strong><a href=\"https://ref.ly/Gal5:16-Gal5:17\">GAL 5:16–5:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:5-Rom8:9\">ROM 8:5–8:9</a>; <a href=\"https://ref.ly/Jude1:19\">JUD 1:19</a></p>\n<h2>Examples of people sanctified by the Holy Spirit</h2>\n<p>Joshua:\n <a href=\"https://ref.ly/Num27:18\">NUM 27:18</a>; ; <a href=\"https://ref.ly/Deut34:9\">DEU 34:9</a>; \n<a href=\"https://ref.ly/Luke2:25\">LUK 2:25</a> <em>Simeon</em>; <a href=\"https://ref.ly/Acts6:3\">ACT 6:3</a>, <a href=\"https://ref.ly/Acts6:5\">ACT 6:5</a>; \n<a href=\"https://ref.ly/Acts11:24\">ACT 11:24</a> <em>Barnabas</em>; ; <a href=\"https://ref.ly/2Cor6:6\">2CO 6:6</a> <em>Paul and his companions</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40003011",
+"start_ref_usfm": "MAT 3:11",
+"end_ref": "40003011",
+"end_ref_usfm": "MAT 3:11"
+},
+{
+"start_ref": "42003016",
+"start_ref_usfm": "LUK 3:16",
+"end_ref": "42003016",
+"end_ref_usfm": "LUK 3:16"
+},
+{
+"start_ref": "45015016",
+"start_ref_usfm": "ROM 15:16",
+"end_ref": "45015016",
+"end_ref_usfm": "ROM 15:16"
+},
+{
+"start_ref": "46006011",
+"start_ref_usfm": "1CO 6:11",
+"end_ref": "46006011",
+"end_ref_usfm": "1CO 6:11"
+},
+{
+"start_ref": "48005005",
+"start_ref_usfm": "GAL 5:5",
+"end_ref": "48005005",
+"end_ref_usfm": "GAL 5:5"
+},
+{
+"start_ref": "60001002",
+"start_ref_usfm": "1PE 1:2",
+"end_ref": "60001002",
+"end_ref_usfm": "1PE 1:2"
+},
+{
+"start_ref": "53002013",
+"start_ref_usfm": "2TH 2:13",
+"end_ref": "53002013",
+"end_ref_usfm": "2TH 2:13"
+},
+{
+"start_ref": "46006018",
+"start_ref_usfm": "1CO 6:18",
+"end_ref": "46006019",
+"end_ref_usfm": "1CO 6:19"
+},
+{
+"start_ref": "45008004",
+"start_ref_usfm": "ROM 8:4",
+"end_ref": "45008004",
+"end_ref_usfm": "ROM 8:4"
+},
+{
+"start_ref": "45008013",
+"start_ref_usfm": "ROM 8:13",
+"end_ref": "45008013",
+"end_ref_usfm": "ROM 8:13"
+},
+{
+"start_ref": "49005018",
+"start_ref_usfm": "EPH 5:18",
+"end_ref": "49005018",
+"end_ref_usfm": "EPH 5:18"
+},
+{
+"start_ref": "48005022",
+"start_ref_usfm": "GAL 5:22",
+"end_ref": "48005023",
+"end_ref_usfm": "GAL 5:23"
+},
+{
+"start_ref": "45014017",
+"start_ref_usfm": "ROM 14:17",
+"end_ref": "45014017",
+"end_ref_usfm": "ROM 14:17"
+},
+{
+"start_ref": "55001007",
+"start_ref_usfm": "2TI 1:7",
+"end_ref": "55001007",
+"end_ref_usfm": "2TI 1:7"
+},
+{
+"start_ref": "47003018",
+"start_ref_usfm": "2CO 3:18",
+"end_ref": "47003018",
+"end_ref_usfm": "2CO 3:18"
+},
+{
+"start_ref": "48005017",
+"start_ref_usfm": "GAL 5:17",
+"end_ref": "48005017",
+"end_ref_usfm": "GAL 5:17"
+},
+{
+"start_ref": "48005016",
+"start_ref_usfm": "GAL 5:16",
+"end_ref": "48005017",
+"end_ref_usfm": "GAL 5:17"
+},
+{
+"start_ref": "45008005",
+"start_ref_usfm": "ROM 8:5",
+"end_ref": "45008009",
+"end_ref_usfm": "ROM 8:9"
+},
+{
+"start_ref": "65001019",
+"start_ref_usfm": "JUD 1:19",
+"end_ref": "65001019",
+"end_ref_usfm": "JUD 1:19"
+},
+{
+"start_ref": "04027018",
+"start_ref_usfm": "NUM 27:18",
+"end_ref": "04027018",
+"end_ref_usfm": "NUM 27:18"
+},
+{
+"start_ref": "05034009",
+"start_ref_usfm": "DEU 34:9",
+"end_ref": "05034009",
+"end_ref_usfm": "DEU 34:9"
+},
+{
+"start_ref": "42002025",
+"start_ref_usfm": "LUK 2:25",
+"end_ref": "42002025",
+"end_ref_usfm": "LUK 2:25"
+},
+{
+"start_ref": "44006003",
+"start_ref_usfm": "ACT 6:3",
+"end_ref": "44006003",
+"end_ref_usfm": "ACT 6:3"
+},
+{
+"start_ref": "44006005",
+"start_ref_usfm": "ACT 6:5",
+"end_ref": "44006005",
+"end_ref_usfm": "ACT 6:5"
+},
+{
+"start_ref": "44011024",
+"start_ref_usfm": "ACT 11:24",
+"end_ref": "44011024",
+"end_ref_usfm": "ACT 11:24"
+},
+{
+"start_ref": "47006006",
+"start_ref_usfm": "2CO 6:6",
+"end_ref": "47006006",
+"end_ref_usfm": "2CO 6:6"
+}
+],
+"resource": [
+{
+"reference_id": "1065",
+"content_id": "1065",
+"resource_code": "DictionaryBibleThemes",
+"label": "1065: God, holiness of",
+"language": "eng"
+},
+{
+"reference_id": "2030",
+"content_id": "2030",
+"resource_code": "DictionaryBibleThemes",
+"label": "2030: Jesus Christ, holiness of",
+"language": "eng"
+},
+{
+"reference_id": "3242",
+"content_id": "3242",
+"resource_code": "DictionaryBibleThemes",
+"label": "3242: Holy Spirit, baptism with",
+"language": "eng"
+},
+{
+"reference_id": "3254",
+"content_id": "3254",
+"resource_code": "DictionaryBibleThemes",
+"label": "3254: Holy Spirit, fruit of",
+"language": "eng"
+},
+{
+"reference_id": "4018",
+"content_id": "4018",
+"resource_code": "DictionaryBibleThemes",
+"label": "4018: life, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "5023",
+"content_id": "5023",
+"resource_code": "DictionaryBibleThemes",
+"label": "5023: image of God",
+"language": "eng"
+},
+{
+"reference_id": "6670",
+"content_id": "6670",
+"resource_code": "DictionaryBibleThemes",
+"label": "6670: grace, and Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "6744",
+"content_id": "6744",
+"resource_code": "DictionaryBibleThemes",
+"label": "6744: sanctification",
+"language": "eng"
+},
+{
+"reference_id": "8206",
+"content_id": "8206",
+"resource_code": "DictionaryBibleThemes",
+"label": "8206: Christlikeness",
+"language": "eng"
+},
+{
+"reference_id": "8217",
+"content_id": "8217",
+"resource_code": "DictionaryBibleThemes",
+"label": "8217: conformity",
+"language": "eng"
+},
+{
+"reference_id": "8272",
+"content_id": "8272",
+"resource_code": "DictionaryBibleThemes",
+"label": "8272: holiness, believers' growth in",
+"language": "eng"
+},
+{
+"reference_id": "8348",
+"content_id": "8348",
+"resource_code": "DictionaryBibleThemes",
+"label": "8348: spiritual growth, nature of",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,156 @@
+[
+{
+"content_id": "7360",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7360: Feast of Unleavened Bread",
+"media_type": "Text",
+"index_reference": "7360: feast of unleavened bread",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The feast was kept from 15th-21st Abib (March/April), to commemorate the haste with which the Israelites left Egypt. It was always celebrated in the calendar of feasts with the Feast of Passover.</p>\n<h2>Celebrating the Feast of Unleavened Bread</h2>\n<p><strong><a href=\"https://ref.ly/Exod12:15-Exod12:20\">EXO 12:15–12:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:39\">EXO 12:39</a>, <a href=\"https://ref.ly/Exod23:15\">EXO 23:15</a>; <a href=\"https://ref.ly/Lev23:6\">LEV 23:6</a>; <a href=\"https://ref.ly/Num28:17\">NUM 28:17</a>; <a href=\"https://ref.ly/Deut16:3\">DEU 16:3</a></p>\n<h2>All use of yeast was forbidden during the Feast of Unleavened Bread</h2>\n<h3>All leaven was to be removed from the home before the feast began</h3>\n<p><a href=\"https://ref.ly/Exod12:19\">EXO 12:19</a>, <a href=\"https://ref.ly/Exod13:7\">EXO 13:7</a>; ; <a href=\"https://ref.ly/Deut16:4\">DEU 16:4</a></p>\n<h3>No yeast was to be used in the preparation of food</h3>\n<p><a href=\"https://ref.ly/Exod12:18-Exod12:20\">EXO 12:18–12:20</a>, <a href=\"https://ref.ly/Exod13:6-Exod13:7\">EXO 13:6–13:7</a>, <a href=\"https://ref.ly/Exod23:15\">EXO 23:15</a></p>\n<h2>Sacrifices made at the Feast of Unleavened Bread</h2>\n<p><a href=\"https://ref.ly/Lev23:8\">LEV 23:8</a>; ; <a href=\"https://ref.ly/Num28:19-Num28:24\">NUM 28:19–28:24</a></p>\n<h2>The Feast of Unleavened Bread in NT times</h2>\n<p><a href=\"https://ref.ly/Mark14:1\">MRK 14:1</a>, <a href=\"https://ref.ly/Mark14:12\">MRK 14:12</a>; ; <a href=\"https://ref.ly/Acts12:3\">ACT 12:3</a>; ; <a href=\"https://ref.ly/1Cor5:6-1Cor5:8\">1CO 5:6–5:8</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012015",
+"start_ref_usfm": "EXO 12:15",
+"end_ref": "02012020",
+"end_ref_usfm": "EXO 12:20"
+},
+{
+"start_ref": "02012039",
+"start_ref_usfm": "EXO 12:39",
+"end_ref": "02012039",
+"end_ref_usfm": "EXO 12:39"
+},
+{
+"start_ref": "02023015",
+"start_ref_usfm": "EXO 23:15",
+"end_ref": "02023015",
+"end_ref_usfm": "EXO 23:15"
+},
+{
+"start_ref": "03023006",
+"start_ref_usfm": "LEV 23:6",
+"end_ref": "03023006",
+"end_ref_usfm": "LEV 23:6"
+},
+{
+"start_ref": "04028017",
+"start_ref_usfm": "NUM 28:17",
+"end_ref": "04028017",
+"end_ref_usfm": "NUM 28:17"
+},
+{
+"start_ref": "05016003",
+"start_ref_usfm": "DEU 16:3",
+"end_ref": "05016003",
+"end_ref_usfm": "DEU 16:3"
+},
+{
+"start_ref": "02012019",
+"start_ref_usfm": "EXO 12:19",
+"end_ref": "02012019",
+"end_ref_usfm": "EXO 12:19"
+},
+{
+"start_ref": "02013007",
+"start_ref_usfm": "EXO 13:7",
+"end_ref": "02013007",
+"end_ref_usfm": "EXO 13:7"
+},
+{
+"start_ref": "05016004",
+"start_ref_usfm": "DEU 16:4",
+"end_ref": "05016004",
+"end_ref_usfm": "DEU 16:4"
+},
+{
+"start_ref": "02012018",
+"start_ref_usfm": "EXO 12:18",
+"end_ref": "02012020",
+"end_ref_usfm": "EXO 12:20"
+},
+{
+"start_ref": "02013006",
+"start_ref_usfm": "EXO 13:6",
+"end_ref": "02013007",
+"end_ref_usfm": "EXO 13:7"
+},
+{
+"start_ref": "03023008",
+"start_ref_usfm": "LEV 23:8",
+"end_ref": "03023008",
+"end_ref_usfm": "LEV 23:8"
+},
+{
+"start_ref": "04028019",
+"start_ref_usfm": "NUM 28:19",
+"end_ref": "04028024",
+"end_ref_usfm": "NUM 28:24"
+},
+{
+"start_ref": "41014001",
+"start_ref_usfm": "MRK 14:1",
+"end_ref": "41014001",
+"end_ref_usfm": "MRK 14:1"
+},
+{
+"start_ref": "41014012",
+"start_ref_usfm": "MRK 14:12",
+"end_ref": "41014012",
+"end_ref_usfm": "MRK 14:12"
+},
+{
+"start_ref": "44012003",
+"start_ref_usfm": "ACT 12:3",
+"end_ref": "44012003",
+"end_ref_usfm": "ACT 12:3"
+},
+{
+"start_ref": "46005006",
+"start_ref_usfm": "1CO 5:6",
+"end_ref": "46005008",
+"end_ref_usfm": "1CO 5:8"
+}
+],
+"resource": [
+{
+"reference_id": "4404",
+"content_id": "4404",
+"resource_code": "DictionaryBibleThemes",
+"label": "4404: food",
+"language": "eng"
+},
+{
+"reference_id": "4554",
+"content_id": "4554",
+"resource_code": "DictionaryBibleThemes",
+"label": "4554: yeast",
+"language": "eng"
+},
+{
+"reference_id": "7222",
+"content_id": "7222",
+"resource_code": "DictionaryBibleThemes",
+"label": "7222: exodus, events of",
+"language": "eng"
+},
+{
+"reference_id": "7402",
+"content_id": "7402",
+"resource_code": "DictionaryBibleThemes",
+"label": "7402: offerings",
+"language": "eng"
+},
+{
+"reference_id": "7406",
+"content_id": "7406",
+"resource_code": "DictionaryBibleThemes",
+"label": "7406: Passover",
+"language": "eng"
+}
+]
+}
+}
+]

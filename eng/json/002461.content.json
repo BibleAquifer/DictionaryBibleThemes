@@ -1,0 +1,265 @@
+[
+{
+"content_id": "8845",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8845: unfruitfulness",
+"media_type": "Text",
+"index_reference": "8845: unfruitfulness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A lack of fruitfulness, whether material or spiritual, which is often seen as a sign of God's disfavour or anger.</p>\n<h2>Unfruitfulness as a moral or spiritual condition</h2>\n<p><strong><a href=\"https://ref.ly/Matt21:19\">MAT 21:19</a></strong> parallel <a href=\"https://ref.ly/Mark11:14\">MRK 11:14</a> <em>See also</em> <a href=\"https://ref.ly/Job15:32-Job15:33\">JOB 15:32–15:33</a>; <a href=\"https://ref.ly/Ezek17:9\">EZK 17:9</a>, <a href=\"https://ref.ly/Ezek19:10-Ezek19:12\">EZK 19:10–19:12</a>; <a href=\"https://ref.ly/Matt21:43\">MAT 21:43</a>; <a href=\"https://ref.ly/Heb6:7-Heb6:8\">HEB 6:7–6:8</a></p>\n<h2>Reasons for unfruitfulness</h2>\n<h3>Disobedience</h3>\n<p><strong><a href=\"https://ref.ly/Lev26:18-Lev26:20\">LEV 26:18–26:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut11:17\">DEU 11:17</a>, <a href=\"https://ref.ly/Deut28:15-Deut28:16\">DEU 28:15–28:16</a>; <a href=\"https://ref.ly/Ps78:46\">PSA 78:46</a>, <a href=\"https://ref.ly/Ps107:33-Ps107:34\">PSA 107:33–107:34</a>; <a href=\"https://ref.ly/Isa5:10\">ISA 5:10</a>, <a href=\"https://ref.ly/Isa32:10\">ISA 32:10</a>; <a href=\"https://ref.ly/Hos8:7\">HOS 8:7</a>; <a href=\"https://ref.ly/Hag2:19\">HAG 2:19</a></p>\n<h3>A continuing preoccupation with the world</h3>\n<p><strong><a href=\"https://ref.ly/Matt13:22\">MAT 13:22</a></strong> parallels <a href=\"https://ref.ly/Mark4:19\">MRK 4:19</a>, <a href=\"https://ref.ly/Luke8:14\">LUK 8:14</a></p>\n<h3>A broken relationship with Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/John15:4\">JHN 15:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/John15:6\">JHN 15:6</a></p>\n<h2>Some results of unfruitfulness</h2>\n<h3>Unfruitfulness condemned</h3>\n<p><a href=\"https://ref.ly/Isa5:1-Isa5:7\">ISA 5:1–5:7</a></p>\n<h3>Unfruitfulness leads to rejection</h3>\n<p><a href=\"https://ref.ly/Matt3:8-Matt3:10\">MAT 3:8–3:10</a> parallel <a href=\"https://ref.ly/Luke3:9\">LUK 3:9</a>; ; <a href=\"https://ref.ly/Matt7:19\">MAT 7:19</a></p>\n<h2>Unfruitfulness retrieved</h2>\n<p><strong><a href=\"https://ref.ly/Luke13:6-Luke13:9\">LUK 13:6–13:9</a></strong> <em>The parable holds out the possibility of restoration.</em></p>\n<h3>Discipline with a view to renewed fruitfulness</h3>\n<p><strong><a href=\"https://ref.ly/John15:2\">JHN 15:2</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40021019",
+"start_ref_usfm": "MAT 21:19",
+"end_ref": "40021019",
+"end_ref_usfm": "MAT 21:19"
+},
+{
+"start_ref": "41011014",
+"start_ref_usfm": "MRK 11:14",
+"end_ref": "41011014",
+"end_ref_usfm": "MRK 11:14"
+},
+{
+"start_ref": "18015032",
+"start_ref_usfm": "JOB 15:32",
+"end_ref": "18015033",
+"end_ref_usfm": "JOB 15:33"
+},
+{
+"start_ref": "26017009",
+"start_ref_usfm": "EZK 17:9",
+"end_ref": "26017009",
+"end_ref_usfm": "EZK 17:9"
+},
+{
+"start_ref": "26019010",
+"start_ref_usfm": "EZK 19:10",
+"end_ref": "26019012",
+"end_ref_usfm": "EZK 19:12"
+},
+{
+"start_ref": "40021043",
+"start_ref_usfm": "MAT 21:43",
+"end_ref": "40021043",
+"end_ref_usfm": "MAT 21:43"
+},
+{
+"start_ref": "58006007",
+"start_ref_usfm": "HEB 6:7",
+"end_ref": "58006008",
+"end_ref_usfm": "HEB 6:8"
+},
+{
+"start_ref": "03026018",
+"start_ref_usfm": "LEV 26:18",
+"end_ref": "03026020",
+"end_ref_usfm": "LEV 26:20"
+},
+{
+"start_ref": "05011017",
+"start_ref_usfm": "DEU 11:17",
+"end_ref": "05011017",
+"end_ref_usfm": "DEU 11:17"
+},
+{
+"start_ref": "05028015",
+"start_ref_usfm": "DEU 28:15",
+"end_ref": "05028016",
+"end_ref_usfm": "DEU 28:16"
+},
+{
+"start_ref": "19078046",
+"start_ref_usfm": "PSA 78:46",
+"end_ref": "19078046",
+"end_ref_usfm": "PSA 78:46"
+},
+{
+"start_ref": "19107033",
+"start_ref_usfm": "PSA 107:33",
+"end_ref": "19107034",
+"end_ref_usfm": "PSA 107:34"
+},
+{
+"start_ref": "23005010",
+"start_ref_usfm": "ISA 5:10",
+"end_ref": "23005010",
+"end_ref_usfm": "ISA 5:10"
+},
+{
+"start_ref": "23032010",
+"start_ref_usfm": "ISA 32:10",
+"end_ref": "23032010",
+"end_ref_usfm": "ISA 32:10"
+},
+{
+"start_ref": "28008007",
+"start_ref_usfm": "HOS 8:7",
+"end_ref": "28008007",
+"end_ref_usfm": "HOS 8:7"
+},
+{
+"start_ref": "37002019",
+"start_ref_usfm": "HAG 2:19",
+"end_ref": "37002019",
+"end_ref_usfm": "HAG 2:19"
+},
+{
+"start_ref": "40013022",
+"start_ref_usfm": "MAT 13:22",
+"end_ref": "40013022",
+"end_ref_usfm": "MAT 13:22"
+},
+{
+"start_ref": "41004019",
+"start_ref_usfm": "MRK 4:19",
+"end_ref": "41004019",
+"end_ref_usfm": "MRK 4:19"
+},
+{
+"start_ref": "42008014",
+"start_ref_usfm": "LUK 8:14",
+"end_ref": "42008014",
+"end_ref_usfm": "LUK 8:14"
+},
+{
+"start_ref": "43015004",
+"start_ref_usfm": "JHN 15:4",
+"end_ref": "43015004",
+"end_ref_usfm": "JHN 15:4"
+},
+{
+"start_ref": "43015006",
+"start_ref_usfm": "JHN 15:6",
+"end_ref": "43015006",
+"end_ref_usfm": "JHN 15:6"
+},
+{
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
+"start_ref": "40003008",
+"start_ref_usfm": "MAT 3:8",
+"end_ref": "40003010",
+"end_ref_usfm": "MAT 3:10"
+},
+{
+"start_ref": "42003009",
+"start_ref_usfm": "LUK 3:9",
+"end_ref": "42003009",
+"end_ref_usfm": "LUK 3:9"
+},
+{
+"start_ref": "40007019",
+"start_ref_usfm": "MAT 7:19",
+"end_ref": "40007019",
+"end_ref_usfm": "MAT 7:19"
+},
+{
+"start_ref": "42013006",
+"start_ref_usfm": "LUK 13:6",
+"end_ref": "42013009",
+"end_ref_usfm": "LUK 13:9"
+},
+{
+"start_ref": "43015002",
+"start_ref_usfm": "JHN 15:2",
+"end_ref": "43015002",
+"end_ref_usfm": "JHN 15:2"
+}
+],
+"resource": [
+{
+"reference_id": "1025",
+"content_id": "1025",
+"resource_code": "DictionaryBibleThemes",
+"label": "1025: God, anger of",
+"language": "eng"
+},
+{
+"reference_id": "4815",
+"content_id": "4815",
+"resource_code": "DictionaryBibleThemes",
+"label": "4815: drought",
+"language": "eng"
+},
+{
+"reference_id": "4822",
+"content_id": "4822",
+"resource_code": "DictionaryBibleThemes",
+"label": "4822: famine",
+"language": "eng"
+},
+{
+"reference_id": "5225",
+"content_id": "5225",
+"resource_code": "DictionaryBibleThemes",
+"label": "5225: barrenness",
+"language": "eng"
+},
+{
+"reference_id": "5343",
+"content_id": "5343",
+"resource_code": "DictionaryBibleThemes",
+"label": "5343: idleness",
+"language": "eng"
+},
+{
+"reference_id": "5881",
+"content_id": "5881",
+"resource_code": "DictionaryBibleThemes",
+"label": "5881: immaturity",
+"language": "eng"
+},
+{
+"reference_id": "6230",
+"content_id": "6230",
+"resource_code": "DictionaryBibleThemes",
+"label": "6230: rejection",
+"language": "eng"
+},
+{
+"reference_id": "8102",
+"content_id": "8102",
+"resource_code": "DictionaryBibleThemes",
+"label": "8102: abiding in Christ",
+"language": "eng"
+},
+{
+"reference_id": "8256",
+"content_id": "8256",
+"resource_code": "DictionaryBibleThemes",
+"label": "8256: fruitfulness",
+"language": "eng"
+},
+{
+"reference_id": "8347",
+"content_id": "8347",
+"resource_code": "DictionaryBibleThemes",
+"label": "8347: spiritual growth",
+"language": "eng"
+},
+{
+"reference_id": "8718",
+"content_id": "8718",
+"resource_code": "DictionaryBibleThemes",
+"label": "8718: disobedience",
+"language": "eng"
+},
+{
+"reference_id": "9165",
+"content_id": "9165",
+"resource_code": "DictionaryBibleThemes",
+"label": "9165: restoration",
+"language": "eng"
+}
+]
+}
+}
+]

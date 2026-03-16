@@ -1,0 +1,110 @@
+[
+{
+"content_id": "4422",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4422: brier",
+"media_type": "Text",
+"index_reference": "4422: brier",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Prickly vegetation, painful to the touch, often seen as a symbol of dereliction.</p>\n<h2>A brier as prickly vegetation</h2>\n<p><strong><a href=\"https://ref.ly/Ezek28:24\">EZK 28:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa7:23-Isa7:25\">ISA 7:23–7:25</a>; <a href=\"https://ref.ly/Ezek2:6\">EZK 2:6</a>; <a href=\"https://ref.ly/Mic7:2-Mic7:4\">MIC 7:2–7:4</a></p>\n<h2>A brier as a symbol of dereliction</h2>\n<p><strong><a href=\"https://ref.ly/Isa5:6\">ISA 5:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job31:38-Job31:40\">JOB 31:38–31:40</a>; <a href=\"https://ref.ly/Isa32:11-Isa32:13\">ISA 32:11–32:13</a>, <a href=\"https://ref.ly/Isa55:13\">ISA 55:13</a>; <a href=\"https://ref.ly/Hos9:6\">HOS 9:6</a></p>\n<h2>Briers are destroyed by fire</h2>\n<p><strong><a href=\"https://ref.ly/Isa10:17\">ISA 10:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa9:18\">ISA 9:18</a>, <a href=\"https://ref.ly/Isa27:4\">ISA 27:4</a></p>\n<h2>Briers as an instrument of punishment</h2>\n<p><strong><a href=\"https://ref.ly/Judg8:16\">JDG 8:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg8:4-Judg8:7\">JDG 8:4–8:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "26028024",
+"start_ref_usfm": "EZK 28:24",
+"end_ref": "26028024",
+"end_ref_usfm": "EZK 28:24"
+},
+{
+"start_ref": "23007023",
+"start_ref_usfm": "ISA 7:23",
+"end_ref": "23007025",
+"end_ref_usfm": "ISA 7:25"
+},
+{
+"start_ref": "26002006",
+"start_ref_usfm": "EZK 2:6",
+"end_ref": "26002006",
+"end_ref_usfm": "EZK 2:6"
+},
+{
+"start_ref": "33007002",
+"start_ref_usfm": "MIC 7:2",
+"end_ref": "33007004",
+"end_ref_usfm": "MIC 7:4"
+},
+{
+"start_ref": "23005006",
+"start_ref_usfm": "ISA 5:6",
+"end_ref": "23005006",
+"end_ref_usfm": "ISA 5:6"
+},
+{
+"start_ref": "18031038",
+"start_ref_usfm": "JOB 31:38",
+"end_ref": "18031040",
+"end_ref_usfm": "JOB 31:40"
+},
+{
+"start_ref": "23032011",
+"start_ref_usfm": "ISA 32:11",
+"end_ref": "23032013",
+"end_ref_usfm": "ISA 32:13"
+},
+{
+"start_ref": "23055013",
+"start_ref_usfm": "ISA 55:13",
+"end_ref": "23055013",
+"end_ref_usfm": "ISA 55:13"
+},
+{
+"start_ref": "28009006",
+"start_ref_usfm": "HOS 9:6",
+"end_ref": "28009006",
+"end_ref_usfm": "HOS 9:6"
+},
+{
+"start_ref": "23010017",
+"start_ref_usfm": "ISA 10:17",
+"end_ref": "23010017",
+"end_ref_usfm": "ISA 10:17"
+},
+{
+"start_ref": "23009018",
+"start_ref_usfm": "ISA 9:18",
+"end_ref": "23009018",
+"end_ref_usfm": "ISA 9:18"
+},
+{
+"start_ref": "23027004",
+"start_ref_usfm": "ISA 27:4",
+"end_ref": "23027004",
+"end_ref_usfm": "ISA 27:4"
+},
+{
+"start_ref": "07008016",
+"start_ref_usfm": "JDG 8:16",
+"end_ref": "07008016",
+"end_ref_usfm": "JDG 8:16"
+},
+{
+"start_ref": "07008004",
+"start_ref_usfm": "JDG 8:4",
+"end_ref": "07008007",
+"end_ref_usfm": "JDG 8:7"
+}
+],
+"resource": [
+{
+"reference_id": "4520",
+"content_id": "4520",
+"resource_code": "DictionaryBibleThemes",
+"label": "4520: thorns",
+"language": "eng"
+}
+]
+}
+}
+]

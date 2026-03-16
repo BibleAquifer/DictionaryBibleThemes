@@ -1,0 +1,274 @@
+[
+{
+"content_id": "5383",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5383: lawsuits",
+"media_type": "Text",
+"index_reference": "5383: lawsuits",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Legal trials in which the court decides between two opposing parties. OT law makes provision for such trials, insisting on justice for all, regardless of social status.</p>\n<h2>Regulations relating to lawsuits</h2>\n<h3>Warnings against discrimination on the basis of social status</h3>\n<p><strong><a href=\"https://ref.ly/Exod23:6\">EXO 23:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:3\">EXO 23:3</a>; <a href=\"https://ref.ly/Lev19:15\">LEV 19:15</a>; <a href=\"https://ref.ly/Deut1:17\">DEU 1:17</a>; <a href=\"https://ref.ly/Prov22:22-Prov22:23\">PRO 22:22–22:23</a></p>\n<h3>Warnings against false testimony</h3>\n<p><strong><a href=\"https://ref.ly/Exod23:1-Exod23:2\">EXO 23:1–23:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:16\">EXO 20:16</a> parallel <a href=\"https://ref.ly/Deut5:20\">DEU 5:20</a>; <a href=\"https://ref.ly/Deut19:15-Deut19:21\">DEU 19:15–19:21</a>; <a href=\"https://ref.ly/Zech8:16\">ZEC 8:16</a></p>\n<h3>Provision for a court of appeal</h3>\n<p><strong><a href=\"https://ref.ly/Deut17:8-Deut17:13\">DEU 17:8–17:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut1:15-Deut1:18\">DEU 1:15–1:18</a></p>\n<h2>Lawsuits to judge between two parties</h2>\n<p><strong><a href=\"https://ref.ly/Deut25:1\">DEU 25:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod18:16\">EXO 18:16</a>, <a href=\"https://ref.ly/Exod21:22\">EXO 21:22</a>; <a href=\"https://ref.ly/Job9:32-Job9:35\">JOB 9:32–9:35</a>; <a href=\"https://ref.ly/Prov25:7-Prov25:10\">PRO 25:7–25:10</a>, <a href=\"https://ref.ly/Prov29:9\">PRO 29:9</a>; <a href=\"https://ref.ly/Matt5:25-Matt5:26\">MAT 5:25–5:26</a>; <a href=\"https://ref.ly/Jas2:5-Jas2:7\">JAS 2:5–2:7</a></p>\n<h2>Believers should not bring lawsuits against each other</h2>\n<p><a href=\"https://ref.ly/1Cor6:1-1Cor6:8\">1CO 6:1–6:8</a></p>\n<h2>Injustice in lawsuits</h2>\n<p><strong><a href=\"https://ref.ly/Amos5:15\">AMO 5:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa29:20-Isa29:21\">ISA 29:20–29:21</a>; <a href=\"https://ref.ly/Amos2:7\">AMO 2:7</a>, <a href=\"https://ref.ly/Amos5:7-Amos5:12\">AMO 5:7–5:12</a></p>\n<h2>Excess of lawsuits a symptom of social disorder</h2>\n<p><strong><a href=\"https://ref.ly/Hos10:4\">HOS 10:4</a></strong></p>\n<h2>Examples of lawsuits</h2>\n<p><strong><a href=\"https://ref.ly/2Sam15:1-2Sam15:4\">2SA 15:1–15:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam14:1-2Sam14:20\">2SA 14:1–14:20</a>; <a href=\"https://ref.ly/1Kgs3:16-1Kgs3:27\">1KI 3:16–3:27</a>; <a href=\"https://ref.ly/2Kgs6:26-2Kgs6:29\">2KI 6:26–6:29</a>; <a href=\"https://ref.ly/Acts18:12-Acts18:16\">ACT 18:12–18:16</a>, <a href=\"https://ref.ly/Acts19:35-Acts19:41\">ACT 19:35–19:41</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02023006",
+"start_ref_usfm": "EXO 23:6",
+"end_ref": "02023006",
+"end_ref_usfm": "EXO 23:6"
+},
+{
+"start_ref": "02023003",
+"start_ref_usfm": "EXO 23:3",
+"end_ref": "02023003",
+"end_ref_usfm": "EXO 23:3"
+},
+{
+"start_ref": "03019015",
+"start_ref_usfm": "LEV 19:15",
+"end_ref": "03019015",
+"end_ref_usfm": "LEV 19:15"
+},
+{
+"start_ref": "05001017",
+"start_ref_usfm": "DEU 1:17",
+"end_ref": "05001017",
+"end_ref_usfm": "DEU 1:17"
+},
+{
+"start_ref": "20022022",
+"start_ref_usfm": "PRO 22:22",
+"end_ref": "20022023",
+"end_ref_usfm": "PRO 22:23"
+},
+{
+"start_ref": "02023001",
+"start_ref_usfm": "EXO 23:1",
+"end_ref": "02023002",
+"end_ref_usfm": "EXO 23:2"
+},
+{
+"start_ref": "02020016",
+"start_ref_usfm": "EXO 20:16",
+"end_ref": "02020016",
+"end_ref_usfm": "EXO 20:16"
+},
+{
+"start_ref": "05005020",
+"start_ref_usfm": "DEU 5:20",
+"end_ref": "05005020",
+"end_ref_usfm": "DEU 5:20"
+},
+{
+"start_ref": "05019015",
+"start_ref_usfm": "DEU 19:15",
+"end_ref": "05019021",
+"end_ref_usfm": "DEU 19:21"
+},
+{
+"start_ref": "38008016",
+"start_ref_usfm": "ZEC 8:16",
+"end_ref": "38008016",
+"end_ref_usfm": "ZEC 8:16"
+},
+{
+"start_ref": "05017008",
+"start_ref_usfm": "DEU 17:8",
+"end_ref": "05017013",
+"end_ref_usfm": "DEU 17:13"
+},
+{
+"start_ref": "05001015",
+"start_ref_usfm": "DEU 1:15",
+"end_ref": "05001018",
+"end_ref_usfm": "DEU 1:18"
+},
+{
+"start_ref": "05025001",
+"start_ref_usfm": "DEU 25:1",
+"end_ref": "05025001",
+"end_ref_usfm": "DEU 25:1"
+},
+{
+"start_ref": "02018016",
+"start_ref_usfm": "EXO 18:16",
+"end_ref": "02018016",
+"end_ref_usfm": "EXO 18:16"
+},
+{
+"start_ref": "02021022",
+"start_ref_usfm": "EXO 21:22",
+"end_ref": "02021022",
+"end_ref_usfm": "EXO 21:22"
+},
+{
+"start_ref": "18009032",
+"start_ref_usfm": "JOB 9:32",
+"end_ref": "18009035",
+"end_ref_usfm": "JOB 9:35"
+},
+{
+"start_ref": "20025007",
+"start_ref_usfm": "PRO 25:7",
+"end_ref": "20025010",
+"end_ref_usfm": "PRO 25:10"
+},
+{
+"start_ref": "20029009",
+"start_ref_usfm": "PRO 29:9",
+"end_ref": "20029009",
+"end_ref_usfm": "PRO 29:9"
+},
+{
+"start_ref": "40005025",
+"start_ref_usfm": "MAT 5:25",
+"end_ref": "40005026",
+"end_ref_usfm": "MAT 5:26"
+},
+{
+"start_ref": "59002005",
+"start_ref_usfm": "JAS 2:5",
+"end_ref": "59002007",
+"end_ref_usfm": "JAS 2:7"
+},
+{
+"start_ref": "46006001",
+"start_ref_usfm": "1CO 6:1",
+"end_ref": "46006008",
+"end_ref_usfm": "1CO 6:8"
+},
+{
+"start_ref": "30005015",
+"start_ref_usfm": "AMO 5:15",
+"end_ref": "30005015",
+"end_ref_usfm": "AMO 5:15"
+},
+{
+"start_ref": "23029020",
+"start_ref_usfm": "ISA 29:20",
+"end_ref": "23029021",
+"end_ref_usfm": "ISA 29:21"
+},
+{
+"start_ref": "30002007",
+"start_ref_usfm": "AMO 2:7",
+"end_ref": "30002007",
+"end_ref_usfm": "AMO 2:7"
+},
+{
+"start_ref": "30005007",
+"start_ref_usfm": "AMO 5:7",
+"end_ref": "30005012",
+"end_ref_usfm": "AMO 5:12"
+},
+{
+"start_ref": "28010004",
+"start_ref_usfm": "HOS 10:4",
+"end_ref": "28010004",
+"end_ref_usfm": "HOS 10:4"
+},
+{
+"start_ref": "10015001",
+"start_ref_usfm": "2SA 15:1",
+"end_ref": "10015004",
+"end_ref_usfm": "2SA 15:4"
+},
+{
+"start_ref": "10014001",
+"start_ref_usfm": "2SA 14:1",
+"end_ref": "10014020",
+"end_ref_usfm": "2SA 14:20"
+},
+{
+"start_ref": "11003016",
+"start_ref_usfm": "1KI 3:16",
+"end_ref": "11003027",
+"end_ref_usfm": "1KI 3:27"
+},
+{
+"start_ref": "12006026",
+"start_ref_usfm": "2KI 6:26",
+"end_ref": "12006029",
+"end_ref_usfm": "2KI 6:29"
+},
+{
+"start_ref": "44018012",
+"start_ref_usfm": "ACT 18:12",
+"end_ref": "44018016",
+"end_ref_usfm": "ACT 18:16"
+},
+{
+"start_ref": "44019035",
+"start_ref_usfm": "ACT 19:35",
+"end_ref": "44019041",
+"end_ref_usfm": "ACT 19:41"
+}
+],
+"resource": [
+{
+"reference_id": "5270",
+"content_id": "5270",
+"resource_code": "DictionaryBibleThemes",
+"label": "5270: court",
+"language": "eng"
+},
+{
+"reference_id": "5358",
+"content_id": "5358",
+"resource_code": "DictionaryBibleThemes",
+"label": "5358: judges",
+"language": "eng"
+},
+{
+"reference_id": "5361",
+"content_id": "5361",
+"resource_code": "DictionaryBibleThemes",
+"label": "5361: justice, human",
+"language": "eng"
+},
+{
+"reference_id": "5375",
+"content_id": "5375",
+"resource_code": "DictionaryBibleThemes",
+"label": "5375: law",
+"language": "eng"
+},
+{
+"reference_id": "5384",
+"content_id": "5384",
+"resource_code": "DictionaryBibleThemes",
+"label": "5384: lawyer",
+"language": "eng"
+},
+{
+"reference_id": "5504",
+"content_id": "5504",
+"resource_code": "DictionaryBibleThemes",
+"label": "5504: rights",
+"language": "eng"
+},
+{
+"reference_id": "5593",
+"content_id": "5593",
+"resource_code": "DictionaryBibleThemes",
+"label": "5593: trial",
+"language": "eng"
+},
+{
+"reference_id": "5622",
+"content_id": "5622",
+"resource_code": "DictionaryBibleThemes",
+"label": "5622: witnesses",
+"language": "eng"
+},
+{
+"reference_id": "8800",
+"content_id": "8800",
+"resource_code": "DictionaryBibleThemes",
+"label": "8800: prejudice",
+"language": "eng"
+}
+]
+}
+}
+]

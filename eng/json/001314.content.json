@@ -1,0 +1,265 @@
+[
+{
+"content_id": "5792",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5792: appetite",
+"media_type": "Text",
+"index_reference": "5792: appetite",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A hunger or desire for something. Although the primary reference of the term is to a hunger for food, it can also refer to other human desires. Scripture distinguishes between healthy and unhealthy appetites, indicating what it is appropriate to seek after.</p>\n<h2>Appetite as physical hunger</h2>\n<p><strong><a href=\"https://ref.ly/Num11:6\">NUM 11:6</a></strong>; <strong><a href=\"https://ref.ly/Prov6:30\">PRO 6:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps107:5-Ps107:9\">PSA 107:5–107:9</a>; <a href=\"https://ref.ly/Prov16:26\">PRO 16:26</a>; <a href=\"https://ref.ly/Eccl6:7\">ECC 6:7</a>; <a href=\"https://ref.ly/Isa29:8\">ISA 29:8</a>; <a href=\"https://ref.ly/Jer31:25\">JER 31:25</a>, <a href=\"https://ref.ly/Jer50:19\">JER 50:19</a>; <a href=\"https://ref.ly/Lam2:12\">LAM 2:12</a></p>\n<h2>Appetite as a spiritual hunger</h2>\n<p><strong><a href=\"https://ref.ly/Ps143:6\">PSA 143:6</a></strong>; <strong><a href=\"https://ref.ly/Prov25:25\">PRO 25:25</a></strong>; <strong><a href=\"https://ref.ly/Matt5:6\">MAT 5:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps119:20\">PSA 119:20</a>, <a href=\"https://ref.ly/Ps119:131\">PSA 119:131</a></p>\n<h2>The gospel satisfies human hunger and thirst</h2>\n<p><strong><a href=\"https://ref.ly/John4:13-John4:14\">JHN 4:13–4:14</a>, <a href=\"https://ref.ly/John6:35\">JHN 6:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps42:2\">PSA 42:2</a>; <a href=\"https://ref.ly/Isa55:1\">ISA 55:1</a>; <a href=\"https://ref.ly/John6:27\">JHN 6:27</a>, <a href=\"https://ref.ly/John6:50-John6:51\">JHN 6:50–6:51</a>, <a href=\"https://ref.ly/John7:37\">JHN 7:37</a>; <a href=\"https://ref.ly/Rev21:6\">REV 21:6</a>, <a href=\"https://ref.ly/Rev22:17\">REV 22:17</a></p>\n<h2>Lust as sexual appetite</h2>\n<p><a href=\"https://ref.ly/Prov6:25\">PRO 6:25</a>; ; <a href=\"https://ref.ly/Ezek23:11\">EZK 23:11</a>; ; <a href=\"https://ref.ly/Col3:5\">COL 3:5</a>; ; <a href=\"https://ref.ly/1Thess4:3-1Thess4:5\">1TH 4:3–4:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04011006",
+"start_ref_usfm": "NUM 11:6",
+"end_ref": "04011006",
+"end_ref_usfm": "NUM 11:6"
+},
+{
+"start_ref": "20006030",
+"start_ref_usfm": "PRO 6:30",
+"end_ref": "20006030",
+"end_ref_usfm": "PRO 6:30"
+},
+{
+"start_ref": "19107005",
+"start_ref_usfm": "PSA 107:5",
+"end_ref": "19107009",
+"end_ref_usfm": "PSA 107:9"
+},
+{
+"start_ref": "20016026",
+"start_ref_usfm": "PRO 16:26",
+"end_ref": "20016026",
+"end_ref_usfm": "PRO 16:26"
+},
+{
+"start_ref": "21006007",
+"start_ref_usfm": "ECC 6:7",
+"end_ref": "21006007",
+"end_ref_usfm": "ECC 6:7"
+},
+{
+"start_ref": "23029008",
+"start_ref_usfm": "ISA 29:8",
+"end_ref": "23029008",
+"end_ref_usfm": "ISA 29:8"
+},
+{
+"start_ref": "24031025",
+"start_ref_usfm": "JER 31:25",
+"end_ref": "24031025",
+"end_ref_usfm": "JER 31:25"
+},
+{
+"start_ref": "24050019",
+"start_ref_usfm": "JER 50:19",
+"end_ref": "24050019",
+"end_ref_usfm": "JER 50:19"
+},
+{
+"start_ref": "25002012",
+"start_ref_usfm": "LAM 2:12",
+"end_ref": "25002012",
+"end_ref_usfm": "LAM 2:12"
+},
+{
+"start_ref": "19143006",
+"start_ref_usfm": "PSA 143:6",
+"end_ref": "19143006",
+"end_ref_usfm": "PSA 143:6"
+},
+{
+"start_ref": "20025025",
+"start_ref_usfm": "PRO 25:25",
+"end_ref": "20025025",
+"end_ref_usfm": "PRO 25:25"
+},
+{
+"start_ref": "40005006",
+"start_ref_usfm": "MAT 5:6",
+"end_ref": "40005006",
+"end_ref_usfm": "MAT 5:6"
+},
+{
+"start_ref": "19119020",
+"start_ref_usfm": "PSA 119:20",
+"end_ref": "19119020",
+"end_ref_usfm": "PSA 119:20"
+},
+{
+"start_ref": "19119131",
+"start_ref_usfm": "PSA 119:131",
+"end_ref": "19119131",
+"end_ref_usfm": "PSA 119:131"
+},
+{
+"start_ref": "43004013",
+"start_ref_usfm": "JHN 4:13",
+"end_ref": "43004014",
+"end_ref_usfm": "JHN 4:14"
+},
+{
+"start_ref": "43006035",
+"start_ref_usfm": "JHN 6:35",
+"end_ref": "43006035",
+"end_ref_usfm": "JHN 6:35"
+},
+{
+"start_ref": "19042002",
+"start_ref_usfm": "PSA 42:2",
+"end_ref": "19042002",
+"end_ref_usfm": "PSA 42:2"
+},
+{
+"start_ref": "23055001",
+"start_ref_usfm": "ISA 55:1",
+"end_ref": "23055001",
+"end_ref_usfm": "ISA 55:1"
+},
+{
+"start_ref": "43006027",
+"start_ref_usfm": "JHN 6:27",
+"end_ref": "43006027",
+"end_ref_usfm": "JHN 6:27"
+},
+{
+"start_ref": "43006050",
+"start_ref_usfm": "JHN 6:50",
+"end_ref": "43006051",
+"end_ref_usfm": "JHN 6:51"
+},
+{
+"start_ref": "43007037",
+"start_ref_usfm": "JHN 7:37",
+"end_ref": "43007037",
+"end_ref_usfm": "JHN 7:37"
+},
+{
+"start_ref": "66021006",
+"start_ref_usfm": "REV 21:6",
+"end_ref": "66021006",
+"end_ref_usfm": "REV 21:6"
+},
+{
+"start_ref": "66022017",
+"start_ref_usfm": "REV 22:17",
+"end_ref": "66022017",
+"end_ref_usfm": "REV 22:17"
+},
+{
+"start_ref": "20006025",
+"start_ref_usfm": "PRO 6:25",
+"end_ref": "20006025",
+"end_ref_usfm": "PRO 6:25"
+},
+{
+"start_ref": "26023011",
+"start_ref_usfm": "EZK 23:11",
+"end_ref": "26023011",
+"end_ref_usfm": "EZK 23:11"
+},
+{
+"start_ref": "51003005",
+"start_ref_usfm": "COL 3:5",
+"end_ref": "51003005",
+"end_ref_usfm": "COL 3:5"
+},
+{
+"start_ref": "52004003",
+"start_ref_usfm": "1TH 4:3",
+"end_ref": "52004005",
+"end_ref_usfm": "1TH 4:5"
+}
+],
+"resource": [
+{
+"reference_id": "4404",
+"content_id": "4404",
+"resource_code": "DictionaryBibleThemes",
+"label": "4404: food",
+"language": "eng"
+},
+{
+"reference_id": "4438",
+"content_id": "4438",
+"resource_code": "DictionaryBibleThemes",
+"label": "4438: eating",
+"language": "eng"
+},
+{
+"reference_id": "4822",
+"content_id": "4822",
+"resource_code": "DictionaryBibleThemes",
+"label": "4822: famine",
+"language": "eng"
+},
+{
+"reference_id": "5341",
+"content_id": "5341",
+"resource_code": "DictionaryBibleThemes",
+"label": "5341: hunger",
+"language": "eng"
+},
+{
+"reference_id": "5580",
+"content_id": "5580",
+"resource_code": "DictionaryBibleThemes",
+"label": "5580: thirst",
+"language": "eng"
+},
+{
+"reference_id": "5832",
+"content_id": "5832",
+"resource_code": "DictionaryBibleThemes",
+"label": "5832: desire",
+"language": "eng"
+},
+{
+"reference_id": "5839",
+"content_id": "5839",
+"resource_code": "DictionaryBibleThemes",
+"label": "5839: dissatisfaction",
+"language": "eng"
+},
+{
+"reference_id": "5866",
+"content_id": "5866",
+"resource_code": "DictionaryBibleThemes",
+"label": "5866: gluttony",
+"language": "eng"
+},
+{
+"reference_id": "5869",
+"content_id": "5869",
+"resource_code": "DictionaryBibleThemes",
+"label": "5869: greed",
+"language": "eng"
+},
+{
+"reference_id": "8656",
+"content_id": "8656",
+"resource_code": "DictionaryBibleThemes",
+"label": "8656: longing for God",
+"language": "eng"
+},
+{
+"reference_id": "8777",
+"content_id": "8777",
+"resource_code": "DictionaryBibleThemes",
+"label": "8777: lust",
+"language": "eng"
+},
+{
+"reference_id": "8821",
+"content_id": "8821",
+"resource_code": "DictionaryBibleThemes",
+"label": "8821: self-indulgence",
+"language": "eng"
+}
+]
+}
+}
+]

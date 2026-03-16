@@ -1,0 +1,60 @@
+[
+{
+"content_id": "1200",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1200: God, titles and descriptions of",
+"media_type": "Text",
+"index_reference": "1200: god, titles and descriptions of",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"1205\" data-resourcetype=\"DictionaryOfBibleThemes\">1205: God, titles and names of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1250\" data-resourcetype=\"DictionaryOfBibleThemes\">1250: Abba</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1255\" data-resourcetype=\"DictionaryOfBibleThemes\">1255: face of God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1260\" data-resourcetype=\"DictionaryOfBibleThemes\">1260: finger of God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1265\" data-resourcetype=\"DictionaryOfBibleThemes\">1265: hand of God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1270\" data-resourcetype=\"DictionaryOfBibleThemes\">1270: right hand of God</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "1205",
+"content_id": "1205",
+"resource_code": "DictionaryBibleThemes",
+"label": "1205: God, titles and names of",
+"language": "eng"
+},
+{
+"reference_id": "1250",
+"content_id": "1250",
+"resource_code": "DictionaryBibleThemes",
+"label": "1250: Abba",
+"language": "eng"
+},
+{
+"reference_id": "1255",
+"content_id": "1255",
+"resource_code": "DictionaryBibleThemes",
+"label": "1255: face of God",
+"language": "eng"
+},
+{
+"reference_id": "1260",
+"content_id": "1260",
+"resource_code": "DictionaryBibleThemes",
+"label": "1260: finger of God",
+"language": "eng"
+},
+{
+"reference_id": "1265",
+"content_id": "1265",
+"resource_code": "DictionaryBibleThemes",
+"label": "1265: hand of God",
+"language": "eng"
+},
+{
+"reference_id": "1270",
+"content_id": "1270",
+"resource_code": "DictionaryBibleThemes",
+"label": "1270: right hand of God",
+"language": "eng"
+}
+]
+}
+}
+]

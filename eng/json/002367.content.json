@@ -1,0 +1,321 @@
+[
+{
+"content_id": "8736",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8736: evil, warnings against",
+"media_type": "Text",
+"index_reference": "8736: evil, warnings against",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture repeatedly warns against evil. It exposes it and reveals its consequences.</p>\n<h2>God opposes evil</h2>\n<p><strong><a href=\"https://ref.ly/Ps34:16\">PSA 34:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:16-Prov6:19\">PRO 6:16–6:19</a>; <a href=\"https://ref.ly/Isa31:2\">ISA 31:2</a>; <a href=\"https://ref.ly/Mic2:1\">MIC 2:1</a></p>\n<h2>Warnings against specific dangers</h2>\n<p><strong><a href=\"https://ref.ly/Lev20:23\">LEV 20:23</a></strong>; <strong><a href=\"https://ref.ly/2Cor6:14\">2CO 6:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek20:18\">EZK 20:18</a>; <a href=\"https://ref.ly/Luke12:1\">LUK 12:1</a>, <a href=\"https://ref.ly/Luke12:15\">LUK 12:15</a>; <a href=\"https://ref.ly/Acts13:40\">ACT 13:40</a>; <a href=\"https://ref.ly/1Cor10:21\">1CO 10:21</a>; <a href=\"https://ref.ly/2Pet3:17\">2PE 3:17</a></p>\n<h2>God's law given to counter evil</h2>\n<h3>By exposing evil</h3>\n<p><strong><a href=\"https://ref.ly/Rom7:7\">ROM 7:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom3:20\">ROM 3:20</a>, <a href=\"https://ref.ly/Rom5:20\">ROM 5:20</a>, <a href=\"https://ref.ly/Rom7:13\">ROM 7:13</a>; <a href=\"https://ref.ly/Gal3:19\">GAL 3:19</a></p>\n<h3>By leading believers away from evil</h3>\n<p><strong><a href=\"https://ref.ly/Gal3:24\">GAL 3:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim1:9-1Tim1:11\">1TI 1:9–1:11</a></p>\n<h2>The state is ordained to restrain evil</h2>\n<p><strong><a href=\"https://ref.ly/Rom13:1-Rom13:4\">ROM 13:1–13:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut17:7\">DEU 17:7</a>, <a href=\"https://ref.ly/Deut17:12-Deut17:13\">DEU 17:12–17:13</a>, <a href=\"https://ref.ly/Deut21:21\">DEU 21:21</a>; <a href=\"https://ref.ly/1Tim2:1-1Tim2:2\">1TI 2:1–2:2</a>; <a href=\"https://ref.ly/1Pet2:13-1Pet2:14\">1PE 2:13–2:14</a></p>\n<h2>Evil rebounds on evildoers</h2>\n<p><strong><a href=\"https://ref.ly/Prov22:8\">PRO 22:8</a></strong>; <strong><a href=\"https://ref.ly/Gal6:7-Gal6:8\">GAL 6:7–6:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut19:18-Deut19:19\">DEU 19:18–19:19</a>; <a href=\"https://ref.ly/Esth9:25\">EST 9:25</a>; <a href=\"https://ref.ly/Prov1:29-Prov1:31\">PRO 1:29–1:31</a>, <a href=\"https://ref.ly/Prov14:22\">PRO 14:22</a>, <a href=\"https://ref.ly/Prov17:13\">PRO 17:13</a>; <a href=\"https://ref.ly/Hos8:7\">HOS 8:7</a></p>\n<h2>Evil ends in judgment</h2>\n<p><strong><a href=\"https://ref.ly/Isa65:12\">ISA 65:12</a></strong>; <strong><a href=\"https://ref.ly/Rom2:9\">ROM 2:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps37:9\">PSA 37:9</a>; <a href=\"https://ref.ly/Prov6:12-Prov6:15\">PRO 6:12–6:15</a>, <a href=\"https://ref.ly/Prov12:7\">PRO 12:7</a>; <a href=\"https://ref.ly/Mal4:1\">MAL 4:1</a>; <a href=\"https://ref.ly/Rom2:5\">ROM 2:5</a>, <a href=\"https://ref.ly/Rom6:23\">ROM 6:23</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19034016",
+"start_ref_usfm": "PSA 34:16",
+"end_ref": "19034016",
+"end_ref_usfm": "PSA 34:16"
+},
+{
+"start_ref": "20006016",
+"start_ref_usfm": "PRO 6:16",
+"end_ref": "20006019",
+"end_ref_usfm": "PRO 6:19"
+},
+{
+"start_ref": "23031002",
+"start_ref_usfm": "ISA 31:2",
+"end_ref": "23031002",
+"end_ref_usfm": "ISA 31:2"
+},
+{
+"start_ref": "33002001",
+"start_ref_usfm": "MIC 2:1",
+"end_ref": "33002001",
+"end_ref_usfm": "MIC 2:1"
+},
+{
+"start_ref": "03020023",
+"start_ref_usfm": "LEV 20:23",
+"end_ref": "03020023",
+"end_ref_usfm": "LEV 20:23"
+},
+{
+"start_ref": "47006014",
+"start_ref_usfm": "2CO 6:14",
+"end_ref": "47006014",
+"end_ref_usfm": "2CO 6:14"
+},
+{
+"start_ref": "26020018",
+"start_ref_usfm": "EZK 20:18",
+"end_ref": "26020018",
+"end_ref_usfm": "EZK 20:18"
+},
+{
+"start_ref": "42012001",
+"start_ref_usfm": "LUK 12:1",
+"end_ref": "42012001",
+"end_ref_usfm": "LUK 12:1"
+},
+{
+"start_ref": "42012015",
+"start_ref_usfm": "LUK 12:15",
+"end_ref": "42012015",
+"end_ref_usfm": "LUK 12:15"
+},
+{
+"start_ref": "44013040",
+"start_ref_usfm": "ACT 13:40",
+"end_ref": "44013040",
+"end_ref_usfm": "ACT 13:40"
+},
+{
+"start_ref": "46010021",
+"start_ref_usfm": "1CO 10:21",
+"end_ref": "46010021",
+"end_ref_usfm": "1CO 10:21"
+},
+{
+"start_ref": "61003017",
+"start_ref_usfm": "2PE 3:17",
+"end_ref": "61003017",
+"end_ref_usfm": "2PE 3:17"
+},
+{
+"start_ref": "45007007",
+"start_ref_usfm": "ROM 7:7",
+"end_ref": "45007007",
+"end_ref_usfm": "ROM 7:7"
+},
+{
+"start_ref": "45003020",
+"start_ref_usfm": "ROM 3:20",
+"end_ref": "45003020",
+"end_ref_usfm": "ROM 3:20"
+},
+{
+"start_ref": "45005020",
+"start_ref_usfm": "ROM 5:20",
+"end_ref": "45005020",
+"end_ref_usfm": "ROM 5:20"
+},
+{
+"start_ref": "45007013",
+"start_ref_usfm": "ROM 7:13",
+"end_ref": "45007013",
+"end_ref_usfm": "ROM 7:13"
+},
+{
+"start_ref": "48003019",
+"start_ref_usfm": "GAL 3:19",
+"end_ref": "48003019",
+"end_ref_usfm": "GAL 3:19"
+},
+{
+"start_ref": "48003024",
+"start_ref_usfm": "GAL 3:24",
+"end_ref": "48003024",
+"end_ref_usfm": "GAL 3:24"
+},
+{
+"start_ref": "54001009",
+"start_ref_usfm": "1TI 1:9",
+"end_ref": "54001011",
+"end_ref_usfm": "1TI 1:11"
+},
+{
+"start_ref": "45013001",
+"start_ref_usfm": "ROM 13:1",
+"end_ref": "45013004",
+"end_ref_usfm": "ROM 13:4"
+},
+{
+"start_ref": "05017007",
+"start_ref_usfm": "DEU 17:7",
+"end_ref": "05017007",
+"end_ref_usfm": "DEU 17:7"
+},
+{
+"start_ref": "05017012",
+"start_ref_usfm": "DEU 17:12",
+"end_ref": "05017013",
+"end_ref_usfm": "DEU 17:13"
+},
+{
+"start_ref": "05021021",
+"start_ref_usfm": "DEU 21:21",
+"end_ref": "05021021",
+"end_ref_usfm": "DEU 21:21"
+},
+{
+"start_ref": "54002001",
+"start_ref_usfm": "1TI 2:1",
+"end_ref": "54002002",
+"end_ref_usfm": "1TI 2:2"
+},
+{
+"start_ref": "60002013",
+"start_ref_usfm": "1PE 2:13",
+"end_ref": "60002014",
+"end_ref_usfm": "1PE 2:14"
+},
+{
+"start_ref": "20022008",
+"start_ref_usfm": "PRO 22:8",
+"end_ref": "20022008",
+"end_ref_usfm": "PRO 22:8"
+},
+{
+"start_ref": "48006007",
+"start_ref_usfm": "GAL 6:7",
+"end_ref": "48006008",
+"end_ref_usfm": "GAL 6:8"
+},
+{
+"start_ref": "05019018",
+"start_ref_usfm": "DEU 19:18",
+"end_ref": "05019019",
+"end_ref_usfm": "DEU 19:19"
+},
+{
+"start_ref": "17009025",
+"start_ref_usfm": "EST 9:25",
+"end_ref": "17009025",
+"end_ref_usfm": "EST 9:25"
+},
+{
+"start_ref": "20001029",
+"start_ref_usfm": "PRO 1:29",
+"end_ref": "20001031",
+"end_ref_usfm": "PRO 1:31"
+},
+{
+"start_ref": "20014022",
+"start_ref_usfm": "PRO 14:22",
+"end_ref": "20014022",
+"end_ref_usfm": "PRO 14:22"
+},
+{
+"start_ref": "20017013",
+"start_ref_usfm": "PRO 17:13",
+"end_ref": "20017013",
+"end_ref_usfm": "PRO 17:13"
+},
+{
+"start_ref": "28008007",
+"start_ref_usfm": "HOS 8:7",
+"end_ref": "28008007",
+"end_ref_usfm": "HOS 8:7"
+},
+{
+"start_ref": "23065012",
+"start_ref_usfm": "ISA 65:12",
+"end_ref": "23065012",
+"end_ref_usfm": "ISA 65:12"
+},
+{
+"start_ref": "45002009",
+"start_ref_usfm": "ROM 2:9",
+"end_ref": "45002009",
+"end_ref_usfm": "ROM 2:9"
+},
+{
+"start_ref": "19037009",
+"start_ref_usfm": "PSA 37:9",
+"end_ref": "19037009",
+"end_ref_usfm": "PSA 37:9"
+},
+{
+"start_ref": "20006012",
+"start_ref_usfm": "PRO 6:12",
+"end_ref": "20006015",
+"end_ref_usfm": "PRO 6:15"
+},
+{
+"start_ref": "20012007",
+"start_ref_usfm": "PRO 12:7",
+"end_ref": "20012007",
+"end_ref_usfm": "PRO 12:7"
+},
+{
+"start_ref": "39004001",
+"start_ref_usfm": "MAL 4:1",
+"end_ref": "39004001",
+"end_ref_usfm": "MAL 4:1"
+},
+{
+"start_ref": "45002005",
+"start_ref_usfm": "ROM 2:5",
+"end_ref": "45002005",
+"end_ref_usfm": "ROM 2:5"
+},
+{
+"start_ref": "45006023",
+"start_ref_usfm": "ROM 6:23",
+"end_ref": "45006023",
+"end_ref_usfm": "ROM 6:23"
+}
+],
+"resource": [
+{
+"reference_id": "1025",
+"content_id": "1025",
+"resource_code": "DictionaryBibleThemes",
+"label": "1025: God, anger of",
+"language": "eng"
+},
+{
+"reference_id": "1310",
+"content_id": "1310",
+"resource_code": "DictionaryBibleThemes",
+"label": "1310: God, as judge",
+"language": "eng"
+},
+{
+"reference_id": "5215",
+"content_id": "5215",
+"resource_code": "DictionaryBibleThemes",
+"label": "5215: authority",
+"language": "eng"
+},
+{
+"reference_id": "5376",
+"content_id": "5376",
+"resource_code": "DictionaryBibleThemes",
+"label": "5376: law, purpose of",
+"language": "eng"
+},
+{
+"reference_id": "5482",
+"content_id": "5482",
+"resource_code": "DictionaryBibleThemes",
+"label": "5482: punishment",
+"language": "eng"
+},
+{
+"reference_id": "5978",
+"content_id": "5978",
+"resource_code": "DictionaryBibleThemes",
+"label": "5978: warning",
+"language": "eng"
+},
+{
+"reference_id": "6187",
+"content_id": "6187",
+"resource_code": "DictionaryBibleThemes",
+"label": "6187: immorality",
+"language": "eng"
+},
+{
+"reference_id": "6193",
+"content_id": "6193",
+"resource_code": "DictionaryBibleThemes",
+"label": "6193: impenitence",
+"language": "eng"
+}
+]
+}
+}
+]

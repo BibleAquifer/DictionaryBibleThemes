@@ -1,0 +1,161 @@
+[
+{
+"content_id": "3287",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "3287: Holy Spirit, sealing of",
+"media_type": "Text",
+"index_reference": "3287: holy spirit, sealing of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Based on the practice of sealing letters, documents and property, the Holy Spirit is described as being a seal on the lives of God's people, affirming their Christian character, marking them out as belonging to God and guarding them from the world and the devil.</p>\n<h2>The Holy Spirit's seal on the life of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/John6:27\">JHN 6:27</a></strong> <em>The Greek implies a once-and-for-all sealing at a particular time in the past and probably alludes to the baptism of Jesus Christ when the Holy Spirit came upon him.</em> <em>See also</em> <a href=\"https://ref.ly/Isa42:1\">ISA 42:1</a>, <a href=\"https://ref.ly/Isa61:1\">ISA 61:1</a></p>\n<h2>The seal of the Holy Spirit in the life of believers</h2>\n<h3>The seal marks God's ownership</h3>\n<p><strong><a href=\"https://ref.ly/2Cor1:21-2Cor1:22\">2CO 1:21–1:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev7:3-Rev7:4\">REV 7:3–7:4</a>, <a href=\"https://ref.ly/Rev9:4\">REV 9:4</a>, <a href=\"https://ref.ly/Rev14:1\">REV 14:1</a>, <a href=\"https://ref.ly/Rev22:4\">REV 22:4</a></p>\n<h3>The seal acts as a guarantee of redemption</h3>\n<p><strong><a href=\"https://ref.ly/Eph1:13-Eph1:14\">EPH 1:13–1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor5:5\">2CO 5:5</a>; <a href=\"https://ref.ly/Eph4:30\">EPH 4:30</a>; <a href=\"https://ref.ly/1Pet1:5\">1PE 1:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "43006027",
+"start_ref_usfm": "JHN 6:27",
+"end_ref": "43006027",
+"end_ref_usfm": "JHN 6:27"
+},
+{
+"start_ref": "23042001",
+"start_ref_usfm": "ISA 42:1",
+"end_ref": "23042001",
+"end_ref_usfm": "ISA 42:1"
+},
+{
+"start_ref": "23061001",
+"start_ref_usfm": "ISA 61:1",
+"end_ref": "23061001",
+"end_ref_usfm": "ISA 61:1"
+},
+{
+"start_ref": "47001021",
+"start_ref_usfm": "2CO 1:21",
+"end_ref": "47001022",
+"end_ref_usfm": "2CO 1:22"
+},
+{
+"start_ref": "66007003",
+"start_ref_usfm": "REV 7:3",
+"end_ref": "66007004",
+"end_ref_usfm": "REV 7:4"
+},
+{
+"start_ref": "66009004",
+"start_ref_usfm": "REV 9:4",
+"end_ref": "66009004",
+"end_ref_usfm": "REV 9:4"
+},
+{
+"start_ref": "66014001",
+"start_ref_usfm": "REV 14:1",
+"end_ref": "66014001",
+"end_ref_usfm": "REV 14:1"
+},
+{
+"start_ref": "66022004",
+"start_ref_usfm": "REV 22:4",
+"end_ref": "66022004",
+"end_ref_usfm": "REV 22:4"
+},
+{
+"start_ref": "49001013",
+"start_ref_usfm": "EPH 1:13",
+"end_ref": "49001014",
+"end_ref_usfm": "EPH 1:14"
+},
+{
+"start_ref": "47005005",
+"start_ref_usfm": "2CO 5:5",
+"end_ref": "47005005",
+"end_ref_usfm": "2CO 5:5"
+},
+{
+"start_ref": "49004030",
+"start_ref_usfm": "EPH 4:30",
+"end_ref": "49004030",
+"end_ref_usfm": "EPH 4:30"
+},
+{
+"start_ref": "60001005",
+"start_ref_usfm": "1PE 1:5",
+"end_ref": "60001005",
+"end_ref_usfm": "1PE 1:5"
+}
+],
+"resource": [
+{
+"reference_id": "1511",
+"content_id": "1511",
+"resource_code": "DictionaryBibleThemes",
+"label": "1511: Trinity, relationships between the persons",
+"language": "eng"
+},
+{
+"reference_id": "2510",
+"content_id": "2510",
+"resource_code": "DictionaryBibleThemes",
+"label": "2510: Jesus Christ, baptism of",
+"language": "eng"
+},
+{
+"reference_id": "3110",
+"content_id": "3110",
+"resource_code": "DictionaryBibleThemes",
+"label": "3110: Holy Spirit, titles and names of",
+"language": "eng"
+},
+{
+"reference_id": "3120",
+"content_id": "3120",
+"resource_code": "DictionaryBibleThemes",
+"label": "3120: Holy Spirit, descriptions of",
+"language": "eng"
+},
+{
+"reference_id": "3239",
+"content_id": "3239",
+"resource_code": "DictionaryBibleThemes",
+"label": "3239: Holy Spirit, anointing of",
+"language": "eng"
+},
+{
+"reference_id": "3242",
+"content_id": "3242",
+"resource_code": "DictionaryBibleThemes",
+"label": "3242: Holy Spirit, baptism with",
+"language": "eng"
+},
+{
+"reference_id": "3257",
+"content_id": "3257",
+"resource_code": "DictionaryBibleThemes",
+"label": "3257: Holy Spirit, gift of",
+"language": "eng"
+},
+{
+"reference_id": "3269",
+"content_id": "3269",
+"resource_code": "DictionaryBibleThemes",
+"label": "3269: Holy Spirit, in life of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "5518",
+"content_id": "5518",
+"resource_code": "DictionaryBibleThemes",
+"label": "5518: seal",
+"language": "eng"
+},
+{
+"reference_id": "7903",
+"content_id": "7903",
+"resource_code": "DictionaryBibleThemes",
+"label": "7903: baptism",
+"language": "eng"
+}
+]
+}
+}
+]

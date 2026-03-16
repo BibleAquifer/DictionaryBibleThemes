@@ -1,0 +1,311 @@
+[
+{
+"content_id": "5841",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5841: ecstasy",
+"media_type": "Text",
+"index_reference": "5841: ecstasy",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An exalted condition of spiritual joy or rapture; usually reflecting the experience of the Holy Spirit.</p>\n<h2>Ecstasy in response to prophetic and visionary experiences</h2>\n<p><strong><a href=\"https://ref.ly/Num24:4\">NUM 24:4</a></strong>; <strong><a href=\"https://ref.ly/2Cor12:3-2Cor12:4\">2CO 12:3–12:4</a></strong>; <strong><a href=\"https://ref.ly/Rev1:10\">REV 1:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num24:16\">NUM 24:16</a>; <a href=\"https://ref.ly/1Sam10:10-1Sam10:11\">1SA 10:10–10:11</a>; <a href=\"https://ref.ly/Isa6:1\">ISA 6:1</a> <em>Isaiah's vision of the Lord</em>; <a href=\"https://ref.ly/Ezek11:24-Ezek11:25\">EZK 11:24–11:25</a>; <a href=\"https://ref.ly/Dan2:19-Dan2:21\">DAN 2:19–2:21</a>, <a href=\"https://ref.ly/Dan10:7-Dan10:8\">DAN 10:7–10:8</a>, <a href=\"https://ref.ly/Dan10:16\">DAN 10:16</a>; <a href=\"https://ref.ly/Acts9:10\">ACT 9:10</a> <em>Ananias' vision</em>; <a href=\"https://ref.ly/Acts10:3\">ACT 10:3</a> <em>Cornelius' vision of the angel of God</em>; <a href=\"https://ref.ly/Acts10:10-Acts10:16\">ACT 10:10–10:16</a>, <a href=\"https://ref.ly/Acts11:5\">ACT 11:5</a>; <a href=\"https://ref.ly/Rev4:2\">REV 4:2</a>, <a href=\"https://ref.ly/Rev17:3\">REV 17:3</a>, <a href=\"https://ref.ly/Rev21:10\">REV 21:10</a></p>\n<h2>Ecstasy in response to the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:4\">ACT 2:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts10:44-Acts10:46\">ACT 10:44–10:46</a>, <a href=\"https://ref.ly/Acts13:52\">ACT 13:52</a>, <a href=\"https://ref.ly/Acts19:6\">ACT 19:6</a></p>\n<h2>Ecstasy in response to Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Luke10:21\">LUK 10:21</a></strong>; <strong><a href=\"https://ref.ly/1Pet1:8\">1PE 1:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps4:7\">PSA 4:7</a>, <a href=\"https://ref.ly/Ps28:7\">PSA 28:7</a>; <a href=\"https://ref.ly/Matt28:8\">MAT 28:8</a></p>\n<h2>Ecstasy as a corporate experience</h2>\n<p><strong><a href=\"https://ref.ly/Ezra3:12\">EZR 3:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs8:11\">1KI 8:11</a> parallel <a href=\"https://ref.ly/2Chr7:2\">2CH 7:2</a>; <a href=\"https://ref.ly/Ezra6:16\">EZR 6:16</a></p>\n<h2>Transfiguration of appearance through ecstasy</h2>\n<p><strong><a href=\"https://ref.ly/Exod34:29\">EXO 34:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt17:2\">MAT 17:2</a>; <a href=\"https://ref.ly/Luke1:22\">LUK 1:22</a></p>\n<h2>Future ecstasy in response to God's coming kingdom</h2>\n<p><strong><a href=\"https://ref.ly/Isa55:12\">ISA 55:12</a></strong>; <strong><a href=\"https://ref.ly/1Cor2:9-1Cor2:10\">1CO 2:9–2:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa35:10\">ISA 35:10</a>, <a href=\"https://ref.ly/Isa51:11\">ISA 51:11</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04024004",
+"start_ref_usfm": "NUM 24:4",
+"end_ref": "04024004",
+"end_ref_usfm": "NUM 24:4"
+},
+{
+"start_ref": "47012003",
+"start_ref_usfm": "2CO 12:3",
+"end_ref": "47012004",
+"end_ref_usfm": "2CO 12:4"
+},
+{
+"start_ref": "66001010",
+"start_ref_usfm": "REV 1:10",
+"end_ref": "66001010",
+"end_ref_usfm": "REV 1:10"
+},
+{
+"start_ref": "04024016",
+"start_ref_usfm": "NUM 24:16",
+"end_ref": "04024016",
+"end_ref_usfm": "NUM 24:16"
+},
+{
+"start_ref": "09010010",
+"start_ref_usfm": "1SA 10:10",
+"end_ref": "09010011",
+"end_ref_usfm": "1SA 10:11"
+},
+{
+"start_ref": "23006001",
+"start_ref_usfm": "ISA 6:1",
+"end_ref": "23006001",
+"end_ref_usfm": "ISA 6:1"
+},
+{
+"start_ref": "26011024",
+"start_ref_usfm": "EZK 11:24",
+"end_ref": "26011025",
+"end_ref_usfm": "EZK 11:25"
+},
+{
+"start_ref": "27002019",
+"start_ref_usfm": "DAN 2:19",
+"end_ref": "27002021",
+"end_ref_usfm": "DAN 2:21"
+},
+{
+"start_ref": "27010007",
+"start_ref_usfm": "DAN 10:7",
+"end_ref": "27010008",
+"end_ref_usfm": "DAN 10:8"
+},
+{
+"start_ref": "27010016",
+"start_ref_usfm": "DAN 10:16",
+"end_ref": "27010016",
+"end_ref_usfm": "DAN 10:16"
+},
+{
+"start_ref": "44009010",
+"start_ref_usfm": "ACT 9:10",
+"end_ref": "44009010",
+"end_ref_usfm": "ACT 9:10"
+},
+{
+"start_ref": "44010003",
+"start_ref_usfm": "ACT 10:3",
+"end_ref": "44010003",
+"end_ref_usfm": "ACT 10:3"
+},
+{
+"start_ref": "44010010",
+"start_ref_usfm": "ACT 10:10",
+"end_ref": "44010016",
+"end_ref_usfm": "ACT 10:16"
+},
+{
+"start_ref": "44011005",
+"start_ref_usfm": "ACT 11:5",
+"end_ref": "44011005",
+"end_ref_usfm": "ACT 11:5"
+},
+{
+"start_ref": "66004002",
+"start_ref_usfm": "REV 4:2",
+"end_ref": "66004002",
+"end_ref_usfm": "REV 4:2"
+},
+{
+"start_ref": "66017003",
+"start_ref_usfm": "REV 17:3",
+"end_ref": "66017003",
+"end_ref_usfm": "REV 17:3"
+},
+{
+"start_ref": "66021010",
+"start_ref_usfm": "REV 21:10",
+"end_ref": "66021010",
+"end_ref_usfm": "REV 21:10"
+},
+{
+"start_ref": "44002004",
+"start_ref_usfm": "ACT 2:4",
+"end_ref": "44002004",
+"end_ref_usfm": "ACT 2:4"
+},
+{
+"start_ref": "44010044",
+"start_ref_usfm": "ACT 10:44",
+"end_ref": "44010046",
+"end_ref_usfm": "ACT 10:46"
+},
+{
+"start_ref": "44013052",
+"start_ref_usfm": "ACT 13:52",
+"end_ref": "44013052",
+"end_ref_usfm": "ACT 13:52"
+},
+{
+"start_ref": "44019006",
+"start_ref_usfm": "ACT 19:6",
+"end_ref": "44019006",
+"end_ref_usfm": "ACT 19:6"
+},
+{
+"start_ref": "42010021",
+"start_ref_usfm": "LUK 10:21",
+"end_ref": "42010021",
+"end_ref_usfm": "LUK 10:21"
+},
+{
+"start_ref": "60001008",
+"start_ref_usfm": "1PE 1:8",
+"end_ref": "60001008",
+"end_ref_usfm": "1PE 1:8"
+},
+{
+"start_ref": "19004007",
+"start_ref_usfm": "PSA 4:7",
+"end_ref": "19004007",
+"end_ref_usfm": "PSA 4:7"
+},
+{
+"start_ref": "19028007",
+"start_ref_usfm": "PSA 28:7",
+"end_ref": "19028007",
+"end_ref_usfm": "PSA 28:7"
+},
+{
+"start_ref": "40028008",
+"start_ref_usfm": "MAT 28:8",
+"end_ref": "40028008",
+"end_ref_usfm": "MAT 28:8"
+},
+{
+"start_ref": "15003012",
+"start_ref_usfm": "EZR 3:12",
+"end_ref": "15003012",
+"end_ref_usfm": "EZR 3:12"
+},
+{
+"start_ref": "11008011",
+"start_ref_usfm": "1KI 8:11",
+"end_ref": "11008011",
+"end_ref_usfm": "1KI 8:11"
+},
+{
+"start_ref": "14007002",
+"start_ref_usfm": "2CH 7:2",
+"end_ref": "14007002",
+"end_ref_usfm": "2CH 7:2"
+},
+{
+"start_ref": "15006016",
+"start_ref_usfm": "EZR 6:16",
+"end_ref": "15006016",
+"end_ref_usfm": "EZR 6:16"
+},
+{
+"start_ref": "02034029",
+"start_ref_usfm": "EXO 34:29",
+"end_ref": "02034029",
+"end_ref_usfm": "EXO 34:29"
+},
+{
+"start_ref": "40017002",
+"start_ref_usfm": "MAT 17:2",
+"end_ref": "40017002",
+"end_ref_usfm": "MAT 17:2"
+},
+{
+"start_ref": "42001022",
+"start_ref_usfm": "LUK 1:22",
+"end_ref": "42001022",
+"end_ref_usfm": "LUK 1:22"
+},
+{
+"start_ref": "23055012",
+"start_ref_usfm": "ISA 55:12",
+"end_ref": "23055012",
+"end_ref_usfm": "ISA 55:12"
+},
+{
+"start_ref": "46002009",
+"start_ref_usfm": "1CO 2:9",
+"end_ref": "46002010",
+"end_ref_usfm": "1CO 2:10"
+},
+{
+"start_ref": "23035010",
+"start_ref_usfm": "ISA 35:10",
+"end_ref": "23035010",
+"end_ref_usfm": "ISA 35:10"
+},
+{
+"start_ref": "23051011",
+"start_ref_usfm": "ISA 51:11",
+"end_ref": "23051011",
+"end_ref_usfm": "ISA 51:11"
+}
+],
+"resource": [
+{
+"reference_id": "1409",
+"content_id": "1409",
+"resource_code": "DictionaryBibleThemes",
+"label": "1409: dream",
+"language": "eng"
+},
+{
+"reference_id": "1427",
+"content_id": "1427",
+"resource_code": "DictionaryBibleThemes",
+"label": "1427: prophecy",
+"language": "eng"
+},
+{
+"reference_id": "1469",
+"content_id": "1469",
+"resource_code": "DictionaryBibleThemes",
+"label": "1469: visions",
+"language": "eng"
+},
+{
+"reference_id": "2039",
+"content_id": "2039",
+"resource_code": "DictionaryBibleThemes",
+"label": "2039: Jesus Christ, joy of",
+"language": "eng"
+},
+{
+"reference_id": "3020",
+"content_id": "3020",
+"resource_code": "DictionaryBibleThemes",
+"label": "3020: Holy Spirit, joy of",
+"language": "eng"
+},
+{
+"reference_id": "3281",
+"content_id": "3281",
+"resource_code": "DictionaryBibleThemes",
+"label": "3281: Holy Spirit, inspiration of",
+"language": "eng"
+},
+{
+"reference_id": "4942",
+"content_id": "4942",
+"resource_code": "DictionaryBibleThemes",
+"label": "4942: fulness",
+"language": "eng"
+},
+{
+"reference_id": "5830",
+"content_id": "5830",
+"resource_code": "DictionaryBibleThemes",
+"label": "5830: delight",
+"language": "eng"
+},
+{
+"reference_id": "7772",
+"content_id": "7772",
+"resource_code": "DictionaryBibleThemes",
+"label": "7772: prophets",
+"language": "eng"
+},
+{
+"reference_id": "8283",
+"content_id": "8283",
+"resource_code": "DictionaryBibleThemes",
+"label": "8283: joy",
+"language": "eng"
+}
+]
+}
+}
+]

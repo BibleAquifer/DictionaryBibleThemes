@@ -1,0 +1,227 @@
+[
+{
+"content_id": "4830",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4830: height",
+"media_type": "Text",
+"index_reference": "4830: height",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Height as a measurement</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs6:10\">1KI 6:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:15\">GEN 6:15</a>; <a href=\"https://ref.ly/Exod27:1\">EXO 27:1</a>; <a href=\"https://ref.ly/1Kgs6:2\">1KI 6:2</a>, <a href=\"https://ref.ly/1Kgs6:26\">1KI 6:26</a>; <a href=\"https://ref.ly/2Chr4:1-2Chr4:2\">2CH 4:1–4:2</a>; <a href=\"https://ref.ly/Neh4:6\">NEH 4:6</a>; <a href=\"https://ref.ly/Esth5:14\">EST 5:14</a>; <a href=\"https://ref.ly/Jer52:21-Jer52:22\">JER 52:21–52:22</a>; <a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a>; <a href=\"https://ref.ly/Rev21:16\">REV 21:16</a></p>\n<h2>Height in relation to physical stature</h2>\n<p><strong><a href=\"https://ref.ly/1Sam16:7\">1SA 16:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek19:11\">EZK 19:11</a>, <a href=\"https://ref.ly/Ezek31:10\">EZK 31:10</a>, <a href=\"https://ref.ly/Ezek31:14\">EZK 31:14</a>; <a href=\"https://ref.ly/Dan4:10\">DAN 4:10</a></p>\n<h2>Mountain peaks described as heights</h2>\n<p><strong><a href=\"https://ref.ly/Judg6:26\">JDG 6:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num23:3\">NUM 23:3</a>; <a href=\"https://ref.ly/Isa22:16\">ISA 22:16</a></p>\n<h2>Height equivalent to zenith</h2>\n<p><strong><a href=\"https://ref.ly/Dan8:8\">DAN 8:8</a></strong></p>\n<h2>Height used as a metaphor</h2>\n<p><strong><a href=\"https://ref.ly/Rev2:5\">REV 2:5</a></strong></p>\n<h2>Height used to express the love of God</h2>\n<p><strong><a href=\"https://ref.ly/Rom8:38-Rom8:39\">ROM 8:38–8:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph3:16-Eph3:19\">EPH 3:16–3:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11006010",
+"start_ref_usfm": "1KI 6:10",
+"end_ref": "11006010",
+"end_ref_usfm": "1KI 6:10"
+},
+{
+"start_ref": "01006015",
+"start_ref_usfm": "GEN 6:15",
+"end_ref": "01006015",
+"end_ref_usfm": "GEN 6:15"
+},
+{
+"start_ref": "02027001",
+"start_ref_usfm": "EXO 27:1",
+"end_ref": "02027001",
+"end_ref_usfm": "EXO 27:1"
+},
+{
+"start_ref": "11006002",
+"start_ref_usfm": "1KI 6:2",
+"end_ref": "11006002",
+"end_ref_usfm": "1KI 6:2"
+},
+{
+"start_ref": "11006026",
+"start_ref_usfm": "1KI 6:26",
+"end_ref": "11006026",
+"end_ref_usfm": "1KI 6:26"
+},
+{
+"start_ref": "14004001",
+"start_ref_usfm": "2CH 4:1",
+"end_ref": "14004002",
+"end_ref_usfm": "2CH 4:2"
+},
+{
+"start_ref": "16004006",
+"start_ref_usfm": "NEH 4:6",
+"end_ref": "16004006",
+"end_ref_usfm": "NEH 4:6"
+},
+{
+"start_ref": "17005014",
+"start_ref_usfm": "EST 5:14",
+"end_ref": "17005014",
+"end_ref_usfm": "EST 5:14"
+},
+{
+"start_ref": "24052021",
+"start_ref_usfm": "JER 52:21",
+"end_ref": "24052022",
+"end_ref_usfm": "JER 52:22"
+},
+{
+"start_ref": "26043013",
+"start_ref_usfm": "EZK 43:13",
+"end_ref": "26043013",
+"end_ref_usfm": "EZK 43:13"
+},
+{
+"start_ref": "66021016",
+"start_ref_usfm": "REV 21:16",
+"end_ref": "66021016",
+"end_ref_usfm": "REV 21:16"
+},
+{
+"start_ref": "09016007",
+"start_ref_usfm": "1SA 16:7",
+"end_ref": "09016007",
+"end_ref_usfm": "1SA 16:7"
+},
+{
+"start_ref": "26019011",
+"start_ref_usfm": "EZK 19:11",
+"end_ref": "26019011",
+"end_ref_usfm": "EZK 19:11"
+},
+{
+"start_ref": "26031010",
+"start_ref_usfm": "EZK 31:10",
+"end_ref": "26031010",
+"end_ref_usfm": "EZK 31:10"
+},
+{
+"start_ref": "26031014",
+"start_ref_usfm": "EZK 31:14",
+"end_ref": "26031014",
+"end_ref_usfm": "EZK 31:14"
+},
+{
+"start_ref": "27004010",
+"start_ref_usfm": "DAN 4:10",
+"end_ref": "27004010",
+"end_ref_usfm": "DAN 4:10"
+},
+{
+"start_ref": "07006026",
+"start_ref_usfm": "JDG 6:26",
+"end_ref": "07006026",
+"end_ref_usfm": "JDG 6:26"
+},
+{
+"start_ref": "04023003",
+"start_ref_usfm": "NUM 23:3",
+"end_ref": "04023003",
+"end_ref_usfm": "NUM 23:3"
+},
+{
+"start_ref": "23022016",
+"start_ref_usfm": "ISA 22:16",
+"end_ref": "23022016",
+"end_ref_usfm": "ISA 22:16"
+},
+{
+"start_ref": "27008008",
+"start_ref_usfm": "DAN 8:8",
+"end_ref": "27008008",
+"end_ref_usfm": "DAN 8:8"
+},
+{
+"start_ref": "66002005",
+"start_ref_usfm": "REV 2:5",
+"end_ref": "66002005",
+"end_ref_usfm": "REV 2:5"
+},
+{
+"start_ref": "45008038",
+"start_ref_usfm": "ROM 8:38",
+"end_ref": "45008039",
+"end_ref_usfm": "ROM 8:39"
+},
+{
+"start_ref": "49003016",
+"start_ref_usfm": "EPH 3:16",
+"end_ref": "49003019",
+"end_ref_usfm": "EPH 3:19"
+}
+],
+"resource": [
+{
+"reference_id": "1085",
+"content_id": "1085",
+"resource_code": "DictionaryBibleThemes",
+"label": "1085: God, love of",
+"language": "eng"
+},
+{
+"reference_id": "2048",
+"content_id": "2048",
+"resource_code": "DictionaryBibleThemes",
+"label": "2048: Jesus Christ, love of",
+"language": "eng"
+},
+{
+"reference_id": "4254",
+"content_id": "4254",
+"resource_code": "DictionaryBibleThemes",
+"label": "4254: mountains",
+"language": "eng"
+},
+{
+"reference_id": "4803",
+"content_id": "4803",
+"resource_code": "DictionaryBibleThemes",
+"label": "4803: breadth",
+"language": "eng"
+},
+{
+"reference_id": "4813",
+"content_id": "4813",
+"resource_code": "DictionaryBibleThemes",
+"label": "4813: depth",
+"language": "eng"
+},
+{
+"reference_id": "4832",
+"content_id": "4832",
+"resource_code": "DictionaryBibleThemes",
+"label": "4832: length",
+"language": "eng"
+},
+{
+"reference_id": "5173",
+"content_id": "5173",
+"resource_code": "DictionaryBibleThemes",
+"label": "5173: outward appearance",
+"language": "eng"
+},
+{
+"reference_id": "5585",
+"content_id": "5585",
+"resource_code": "DictionaryBibleThemes",
+"label": "5585: towers",
+"language": "eng"
+},
+{
+"reference_id": "5618",
+"content_id": "5618",
+"resource_code": "DictionaryBibleThemes",
+"label": "5618: weights and measures, linear",
+"language": "eng"
+},
+{
+"reference_id": "5619",
+"content_id": "5619",
+"resource_code": "DictionaryBibleThemes",
+"label": "5619: weights and measures, distance and area",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,169 @@
+[
+{
+"content_id": "1260",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1260: finger of God",
+"media_type": "Text",
+"index_reference": "1260: finger of god",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A figure of speech which gives expression to God's creative power and authority over his creation.</p>\n<h2>God creates with his finger</h2>\n<p><strong><a href=\"https://ref.ly/Ps8:3\">PSA 8:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa48:13\">ISA 48:13</a>, <a href=\"https://ref.ly/Isa64:8\">ISA 64:8</a></p>\n<h2>God writes with his finger</h2>\n<h3>He writes the law</h3>\n<p><strong><a href=\"https://ref.ly/Exod31:18\">EXO 31:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod24:12\">EXO 24:12</a>, <a href=\"https://ref.ly/Exod32:16\">EXO 32:16</a>, <a href=\"https://ref.ly/Exod34:1\">EXO 34:1</a></p>\n<h3>He writes judgment</h3>\n<p><strong><a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan5:24-Dan5:28\">DAN 5:24–5:28</a></p>\n<h2>God works miracles with his finger</h2>\n<h3>He sends plagues</h3>\n<p><strong><a href=\"https://ref.ly/Exod8:19\">EXO 8:19</a></strong></p>\n<h3>He exorcises evil spirits</h3>\n<p><strong><a href=\"https://ref.ly/Luke11:20\">LUK 11:20</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19008003",
+"start_ref_usfm": "PSA 8:3",
+"end_ref": "19008003",
+"end_ref_usfm": "PSA 8:3"
+},
+{
+"start_ref": "23048013",
+"start_ref_usfm": "ISA 48:13",
+"end_ref": "23048013",
+"end_ref_usfm": "ISA 48:13"
+},
+{
+"start_ref": "23064008",
+"start_ref_usfm": "ISA 64:8",
+"end_ref": "23064008",
+"end_ref_usfm": "ISA 64:8"
+},
+{
+"start_ref": "02031018",
+"start_ref_usfm": "EXO 31:18",
+"end_ref": "02031018",
+"end_ref_usfm": "EXO 31:18"
+},
+{
+"start_ref": "02024012",
+"start_ref_usfm": "EXO 24:12",
+"end_ref": "02024012",
+"end_ref_usfm": "EXO 24:12"
+},
+{
+"start_ref": "02032016",
+"start_ref_usfm": "EXO 32:16",
+"end_ref": "02032016",
+"end_ref_usfm": "EXO 32:16"
+},
+{
+"start_ref": "02034001",
+"start_ref_usfm": "EXO 34:1",
+"end_ref": "02034001",
+"end_ref_usfm": "EXO 34:1"
+},
+{
+"start_ref": "27005005",
+"start_ref_usfm": "DAN 5:5",
+"end_ref": "27005005",
+"end_ref_usfm": "DAN 5:5"
+},
+{
+"start_ref": "27005024",
+"start_ref_usfm": "DAN 5:24",
+"end_ref": "27005028",
+"end_ref_usfm": "DAN 5:28"
+},
+{
+"start_ref": "02008019",
+"start_ref_usfm": "EXO 8:19",
+"end_ref": "02008019",
+"end_ref_usfm": "EXO 8:19"
+},
+{
+"start_ref": "42011020",
+"start_ref_usfm": "LUK 11:20",
+"end_ref": "42011020",
+"end_ref_usfm": "LUK 11:20"
+}
+],
+"resource": [
+{
+"reference_id": "1105",
+"content_id": "1105",
+"resource_code": "DictionaryBibleThemes",
+"label": "1105: God, power of",
+"language": "eng"
+},
+{
+"reference_id": "1210",
+"content_id": "1210",
+"resource_code": "DictionaryBibleThemes",
+"label": "1210: God, human descriptions of",
+"language": "eng"
+},
+{
+"reference_id": "1265",
+"content_id": "1265",
+"resource_code": "DictionaryBibleThemes",
+"label": "1265: hand of God",
+"language": "eng"
+},
+{
+"reference_id": "1416",
+"content_id": "1416",
+"resource_code": "DictionaryBibleThemes",
+"label": "1416: miracles, nature of",
+"language": "eng"
+},
+{
+"reference_id": "1439",
+"content_id": "1439",
+"resource_code": "DictionaryBibleThemes",
+"label": "1439: revelation",
+"language": "eng"
+},
+{
+"reference_id": "2351",
+"content_id": "2351",
+"resource_code": "DictionaryBibleThemes",
+"label": "2351: Jesus Christ, miracles of",
+"language": "eng"
+},
+{
+"reference_id": "2375",
+"content_id": "2375",
+"resource_code": "DictionaryBibleThemes",
+"label": "2375: kingdom of God",
+"language": "eng"
+},
+{
+"reference_id": "4135",
+"content_id": "4135",
+"resource_code": "DictionaryBibleThemes",
+"label": "4135: demons, Jesus Christ's authority over",
+"language": "eng"
+},
+{
+"reference_id": "5152",
+"content_id": "5152",
+"resource_code": "DictionaryBibleThemes",
+"label": "5152: fingers",
+"language": "eng"
+},
+{
+"reference_id": "5352",
+"content_id": "5352",
+"resource_code": "DictionaryBibleThemes",
+"label": "5352: inscriptions",
+"language": "eng"
+},
+{
+"reference_id": "5452",
+"content_id": "5452",
+"resource_code": "DictionaryBibleThemes",
+"label": "5452: power",
+"language": "eng"
+},
+{
+"reference_id": "5638",
+"content_id": "5638",
+"resource_code": "DictionaryBibleThemes",
+"label": "5638: writing",
+"language": "eng"
+}
+]
+}
+}
+]

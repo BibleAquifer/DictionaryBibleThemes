@@ -1,0 +1,165 @@
+[
+{
+"content_id": "1457",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1457: trance",
+"media_type": "Text",
+"index_reference": "1457: trance",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An ecstatic state in which people may be aware of God communicating with them; it may cause them to lose control of their actions or to have abnormal strength.</p>\n<h2>God communicating with people through a trance</h2>\n<h3>Ezekiel</h3>\n<p><a href=\"https://ref.ly/Ezek8:1-Ezek8:3\">EZK 8:1–8:3</a></p>\n<h3>Peter</h3>\n<p><a href=\"https://ref.ly/Acts10:9-Acts10:23\">ACT 10:9–10:23</a>, <a href=\"https://ref.ly/Acts11:4-Acts11:18\">ACT 11:4–11:18</a></p>\n<h3>Paul</h3>\n<p><a href=\"https://ref.ly/Acts22:17-Acts22:21\">ACT 22:17–22:21</a></p>\n<h3>John</h3>\n<p><a href=\"https://ref.ly/Rev1:10-Rev1:13\">REV 1:10–1:13</a>, <a href=\"https://ref.ly/Rev4:2\">REV 4:2</a>, <a href=\"https://ref.ly/Rev17:3\">REV 17:3</a>, <a href=\"https://ref.ly/Rev21:10\">REV 21:10</a></p>\n<h2>Examples of the Holy Spirit's domination of individuals in a trance-like manner</h2>\n<h3>Balaam</h3>\n<p><a href=\"https://ref.ly/Num24:2-Num24:3\">NUM 24:2–24:3</a>, <a href=\"https://ref.ly/Num24:12-Num24:13\">NUM 24:12–24:13</a></p>\n<h3>King Saul and his men pursuing David</h3>\n<p><a href=\"https://ref.ly/1Sam19:19-1Sam19:24\">1SA 19:19–19:24</a></p>\n<h2>Under the influence of the Holy Spirit people may act with abnormal strength</h2>\n<h3>Samson</h3>\n<p><a href=\"https://ref.ly/Judg14:6\">JDG 14:6</a>, <a href=\"https://ref.ly/Judg14:19\">JDG 14:19</a>, <a href=\"https://ref.ly/Judg15:14\">JDG 15:14</a></p>\n<h3>Elijah</h3>\n<p><a href=\"https://ref.ly/1Kgs18:46\">1KI 18:46</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "26008001",
+"start_ref_usfm": "EZK 8:1",
+"end_ref": "26008003",
+"end_ref_usfm": "EZK 8:3"
+},
+{
+"start_ref": "44010009",
+"start_ref_usfm": "ACT 10:9",
+"end_ref": "44010023",
+"end_ref_usfm": "ACT 10:23"
+},
+{
+"start_ref": "44011004",
+"start_ref_usfm": "ACT 11:4",
+"end_ref": "44011018",
+"end_ref_usfm": "ACT 11:18"
+},
+{
+"start_ref": "44022017",
+"start_ref_usfm": "ACT 22:17",
+"end_ref": "44022021",
+"end_ref_usfm": "ACT 22:21"
+},
+{
+"start_ref": "66001010",
+"start_ref_usfm": "REV 1:10",
+"end_ref": "66001013",
+"end_ref_usfm": "REV 1:13"
+},
+{
+"start_ref": "66004002",
+"start_ref_usfm": "REV 4:2",
+"end_ref": "66004002",
+"end_ref_usfm": "REV 4:2"
+},
+{
+"start_ref": "66017003",
+"start_ref_usfm": "REV 17:3",
+"end_ref": "66017003",
+"end_ref_usfm": "REV 17:3"
+},
+{
+"start_ref": "66021010",
+"start_ref_usfm": "REV 21:10",
+"end_ref": "66021010",
+"end_ref_usfm": "REV 21:10"
+},
+{
+"start_ref": "04024002",
+"start_ref_usfm": "NUM 24:2",
+"end_ref": "04024003",
+"end_ref_usfm": "NUM 24:3"
+},
+{
+"start_ref": "04024012",
+"start_ref_usfm": "NUM 24:12",
+"end_ref": "04024013",
+"end_ref_usfm": "NUM 24:13"
+},
+{
+"start_ref": "09019019",
+"start_ref_usfm": "1SA 19:19",
+"end_ref": "09019024",
+"end_ref_usfm": "1SA 19:24"
+},
+{
+"start_ref": "07014006",
+"start_ref_usfm": "JDG 14:6",
+"end_ref": "07014006",
+"end_ref_usfm": "JDG 14:6"
+},
+{
+"start_ref": "07014019",
+"start_ref_usfm": "JDG 14:19",
+"end_ref": "07014019",
+"end_ref_usfm": "JDG 14:19"
+},
+{
+"start_ref": "07015014",
+"start_ref_usfm": "JDG 15:14",
+"end_ref": "07015014",
+"end_ref_usfm": "JDG 15:14"
+},
+{
+"start_ref": "11018046",
+"start_ref_usfm": "1KI 18:46",
+"end_ref": "11018046",
+"end_ref_usfm": "1KI 18:46"
+}
+],
+"resource": [
+{
+"reference_id": "1265",
+"content_id": "1265",
+"resource_code": "DictionaryBibleThemes",
+"label": "1265: hand of God",
+"language": "eng"
+},
+{
+"reference_id": "1403",
+"content_id": "1403",
+"resource_code": "DictionaryBibleThemes",
+"label": "1403: God, revelation of",
+"language": "eng"
+},
+{
+"reference_id": "1409",
+"content_id": "1409",
+"resource_code": "DictionaryBibleThemes",
+"label": "1409: dream",
+"language": "eng"
+},
+{
+"reference_id": "1469",
+"content_id": "1469",
+"resource_code": "DictionaryBibleThemes",
+"label": "1469: visions",
+"language": "eng"
+},
+{
+"reference_id": "3030",
+"content_id": "3030",
+"resource_code": "DictionaryBibleThemes",
+"label": "3030: Holy Spirit, power of",
+"language": "eng"
+},
+{
+"reference_id": "3239",
+"content_id": "3239",
+"resource_code": "DictionaryBibleThemes",
+"label": "3239: Holy Spirit, anointing of",
+"language": "eng"
+},
+{
+"reference_id": "3272",
+"content_id": "3272",
+"resource_code": "DictionaryBibleThemes",
+"label": "3272: Holy Spirit, in OT",
+"language": "eng"
+},
+{
+"reference_id": "5841",
+"content_id": "5841",
+"resource_code": "DictionaryBibleThemes",
+"label": "5841: ecstasy",
+"language": "eng"
+}
+]
+}
+}
+]

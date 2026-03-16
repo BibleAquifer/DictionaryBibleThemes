@@ -1,0 +1,349 @@
+[
+{
+"content_id": "5571",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5571: surgery",
+"media_type": "Text",
+"index_reference": "5571: surgery",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The physical removal of part of the human body, either in response to severe illness or as a form of punishment.</p>\n<h2>Medical surgery</h2>\n<p><a href=\"https://ref.ly/Ezek30:21\">EZK 30:21</a></p>\n<h2>Punitive surgery</h2>\n<p><a href=\"https://ref.ly/Deut25:12\">DEU 25:12</a>; ; <a href=\"https://ref.ly/Judg1:6-Judg1:7\">JDG 1:6–1:7</a>; ; <a href=\"https://ref.ly/1Sam17:51\">1SA 17:51</a>, <a href=\"https://ref.ly/1Sam31:9\">1SA 31:9</a>; ; <a href=\"https://ref.ly/2Sam4:7\">2SA 4:7</a>, <a href=\"https://ref.ly/2Sam4:12\">2SA 4:12</a>; ; <a href=\"https://ref.ly/2Kgs25:7\">2KI 25:7</a></p>\n<h2>Ritual or cultural surgery</h2>\n<h3>Castration</h3>\n<p>The primary meaning of <code>eunuch'' in the OT is</code>court officer'' and need not always imply castration; similarly with the NT counterpart:\n <a href=\"https://ref.ly/2Kgs20:18\">2KI 20:18</a>; ; <a href=\"https://ref.ly/Esth2:3\">EST 2:3</a>; ; <a href=\"https://ref.ly/Isa56:3\">ISA 56:3</a>; ; <a href=\"https://ref.ly/Matt19:12\">MAT 19:12</a>; ; <a href=\"https://ref.ly/Acts8:27\">ACT 8:27</a></p>\n<h3>Circumcision</h3>\n<p><a href=\"https://ref.ly/Gen17:10-Gen17:14\">GEN 17:10–17:14</a>; ; <a href=\"https://ref.ly/Exod4:25\">EXO 4:25</a>; ; <a href=\"https://ref.ly/Lev12:3\">LEV 12:3</a>; ; <a href=\"https://ref.ly/Josh5:8\">JOS 5:8</a>; ; <a href=\"https://ref.ly/Luke2:21\">LUK 2:21</a></p>\n<h3>Dismemberment</h3>\n<p>A solemn call to the nation to act:\n <a href=\"https://ref.ly/Judg19:29\">JDG 19:29</a>; ; <a href=\"https://ref.ly/1Sam11:7\">1SA 11:7</a></p>\n<h3>Ear piercing</h3>\n<p><a href=\"https://ref.ly/Exod21:5-Exod21:6\">EXO 21:5–21:6</a> <em>There may be a reference to this in <a href=\"https://ref.ly/Ps40:6\">Ps 40:6</a>.</em></p>\n<h3>Pagan mutilation</h3>\n<p><a href=\"https://ref.ly/Lev19:28\">LEV 19:28</a>; ; <a href=\"https://ref.ly/Deut14:1\">DEU 14:1</a>; ; <a href=\"https://ref.ly/1Kgs18:28\">1KI 18:28</a></p>\n<h3>Animal sacrifices</h3>\n<p><a href=\"https://ref.ly/Gen15:10\">GEN 15:10</a>; ; <a href=\"https://ref.ly/Exod29:17\">EXO 29:17</a>; ; <a href=\"https://ref.ly/Lev1:6\">LEV 1:6</a>, <a href=\"https://ref.ly/Lev1:12\">LEV 1:12</a>, <a href=\"https://ref.ly/Lev3:9\">LEV 3:9</a></p>\n<h2>Miraculous surgery</h2>\n<p><a href=\"https://ref.ly/Gen2:21-Gen2:22\">GEN 2:21–2:22</a>; ; <a href=\"https://ref.ly/Luke22:50-Luke22:51\">LUK 22:50–22:51</a></p>\n<h2>Spiritual surgery</h2>\n<h3>Heart transplant</h3>\n<p><strong><a href=\"https://ref.ly/Ezek36:26\">EZK 36:26</a></strong></p>\n<h3>Amputation</h3>\n<p><strong><a href=\"https://ref.ly/Matt5:29-Matt5:30\">MAT 5:29–5:30</a></strong> <em>Jesus Christ is using hyperbole (deliberate exaggeration) to stress the need at times for radical action.</em> <em>See also</em> <a href=\"https://ref.ly/Matt18:8-Matt18:9\">MAT 18:8–18:9</a>; <a href=\"https://ref.ly/Mark9:43-Mark9:47\">MRK 9:43–9:47</a></p>\n<h3>Grafting</h3>\n<p><a href=\"https://ref.ly/Rom11:17-Rom11:24\">ROM 11:17–11:24</a></p>\n<h3>Pruning</h3>\n<p><a href=\"https://ref.ly/Isa18:5\">ISA 18:5</a>; ; <a href=\"https://ref.ly/John15:1-John15:2\">JHN 15:1–15:2</a></p>\n<h3>Felling</h3>\n<p><a href=\"https://ref.ly/Isa10:33-Isa10:34\">ISA 10:33–10:34</a>; ; <a href=\"https://ref.ly/Luke3:9\">LUK 3:9</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "26030021",
+"start_ref_usfm": "EZK 30:21",
+"end_ref": "26030021",
+"end_ref_usfm": "EZK 30:21"
+},
+{
+"start_ref": "05025012",
+"start_ref_usfm": "DEU 25:12",
+"end_ref": "05025012",
+"end_ref_usfm": "DEU 25:12"
+},
+{
+"start_ref": "07001006",
+"start_ref_usfm": "JDG 1:6",
+"end_ref": "07001007",
+"end_ref_usfm": "JDG 1:7"
+},
+{
+"start_ref": "09017051",
+"start_ref_usfm": "1SA 17:51",
+"end_ref": "09017051",
+"end_ref_usfm": "1SA 17:51"
+},
+{
+"start_ref": "09031009",
+"start_ref_usfm": "1SA 31:9",
+"end_ref": "09031009",
+"end_ref_usfm": "1SA 31:9"
+},
+{
+"start_ref": "10004007",
+"start_ref_usfm": "2SA 4:7",
+"end_ref": "10004007",
+"end_ref_usfm": "2SA 4:7"
+},
+{
+"start_ref": "10004012",
+"start_ref_usfm": "2SA 4:12",
+"end_ref": "10004012",
+"end_ref_usfm": "2SA 4:12"
+},
+{
+"start_ref": "12025007",
+"start_ref_usfm": "2KI 25:7",
+"end_ref": "12025007",
+"end_ref_usfm": "2KI 25:7"
+},
+{
+"start_ref": "12020018",
+"start_ref_usfm": "2KI 20:18",
+"end_ref": "12020018",
+"end_ref_usfm": "2KI 20:18"
+},
+{
+"start_ref": "17002003",
+"start_ref_usfm": "EST 2:3",
+"end_ref": "17002003",
+"end_ref_usfm": "EST 2:3"
+},
+{
+"start_ref": "23056003",
+"start_ref_usfm": "ISA 56:3",
+"end_ref": "23056003",
+"end_ref_usfm": "ISA 56:3"
+},
+{
+"start_ref": "40019012",
+"start_ref_usfm": "MAT 19:12",
+"end_ref": "40019012",
+"end_ref_usfm": "MAT 19:12"
+},
+{
+"start_ref": "44008027",
+"start_ref_usfm": "ACT 8:27",
+"end_ref": "44008027",
+"end_ref_usfm": "ACT 8:27"
+},
+{
+"start_ref": "01017010",
+"start_ref_usfm": "GEN 17:10",
+"end_ref": "01017014",
+"end_ref_usfm": "GEN 17:14"
+},
+{
+"start_ref": "02004025",
+"start_ref_usfm": "EXO 4:25",
+"end_ref": "02004025",
+"end_ref_usfm": "EXO 4:25"
+},
+{
+"start_ref": "03012003",
+"start_ref_usfm": "LEV 12:3",
+"end_ref": "03012003",
+"end_ref_usfm": "LEV 12:3"
+},
+{
+"start_ref": "06005008",
+"start_ref_usfm": "JOS 5:8",
+"end_ref": "06005008",
+"end_ref_usfm": "JOS 5:8"
+},
+{
+"start_ref": "42002021",
+"start_ref_usfm": "LUK 2:21",
+"end_ref": "42002021",
+"end_ref_usfm": "LUK 2:21"
+},
+{
+"start_ref": "07019029",
+"start_ref_usfm": "JDG 19:29",
+"end_ref": "07019029",
+"end_ref_usfm": "JDG 19:29"
+},
+{
+"start_ref": "09011007",
+"start_ref_usfm": "1SA 11:7",
+"end_ref": "09011007",
+"end_ref_usfm": "1SA 11:7"
+},
+{
+"start_ref": "02021005",
+"start_ref_usfm": "EXO 21:5",
+"end_ref": "02021006",
+"end_ref_usfm": "EXO 21:6"
+},
+{
+"start_ref": "19040006",
+"start_ref_usfm": "PSA 40:6",
+"end_ref": "19040006",
+"end_ref_usfm": "PSA 40:6"
+},
+{
+"start_ref": "03019028",
+"start_ref_usfm": "LEV 19:28",
+"end_ref": "03019028",
+"end_ref_usfm": "LEV 19:28"
+},
+{
+"start_ref": "05014001",
+"start_ref_usfm": "DEU 14:1",
+"end_ref": "05014001",
+"end_ref_usfm": "DEU 14:1"
+},
+{
+"start_ref": "11018028",
+"start_ref_usfm": "1KI 18:28",
+"end_ref": "11018028",
+"end_ref_usfm": "1KI 18:28"
+},
+{
+"start_ref": "01015010",
+"start_ref_usfm": "GEN 15:10",
+"end_ref": "01015010",
+"end_ref_usfm": "GEN 15:10"
+},
+{
+"start_ref": "02029017",
+"start_ref_usfm": "EXO 29:17",
+"end_ref": "02029017",
+"end_ref_usfm": "EXO 29:17"
+},
+{
+"start_ref": "03001006",
+"start_ref_usfm": "LEV 1:6",
+"end_ref": "03001006",
+"end_ref_usfm": "LEV 1:6"
+},
+{
+"start_ref": "03001012",
+"start_ref_usfm": "LEV 1:12",
+"end_ref": "03001012",
+"end_ref_usfm": "LEV 1:12"
+},
+{
+"start_ref": "03003009",
+"start_ref_usfm": "LEV 3:9",
+"end_ref": "03003009",
+"end_ref_usfm": "LEV 3:9"
+},
+{
+"start_ref": "01002021",
+"start_ref_usfm": "GEN 2:21",
+"end_ref": "01002022",
+"end_ref_usfm": "GEN 2:22"
+},
+{
+"start_ref": "42022050",
+"start_ref_usfm": "LUK 22:50",
+"end_ref": "42022051",
+"end_ref_usfm": "LUK 22:51"
+},
+{
+"start_ref": "26036026",
+"start_ref_usfm": "EZK 36:26",
+"end_ref": "26036026",
+"end_ref_usfm": "EZK 36:26"
+},
+{
+"start_ref": "40005029",
+"start_ref_usfm": "MAT 5:29",
+"end_ref": "40005030",
+"end_ref_usfm": "MAT 5:30"
+},
+{
+"start_ref": "40018008",
+"start_ref_usfm": "MAT 18:8",
+"end_ref": "40018009",
+"end_ref_usfm": "MAT 18:9"
+},
+{
+"start_ref": "41009043",
+"start_ref_usfm": "MRK 9:43",
+"end_ref": "41009047",
+"end_ref_usfm": "MRK 9:47"
+},
+{
+"start_ref": "45011017",
+"start_ref_usfm": "ROM 11:17",
+"end_ref": "45011024",
+"end_ref_usfm": "ROM 11:24"
+},
+{
+"start_ref": "23018005",
+"start_ref_usfm": "ISA 18:5",
+"end_ref": "23018005",
+"end_ref_usfm": "ISA 18:5"
+},
+{
+"start_ref": "43015001",
+"start_ref_usfm": "JHN 15:1",
+"end_ref": "43015002",
+"end_ref_usfm": "JHN 15:2"
+},
+{
+"start_ref": "23010033",
+"start_ref_usfm": "ISA 10:33",
+"end_ref": "23010034",
+"end_ref_usfm": "ISA 10:34"
+},
+{
+"start_ref": "42003009",
+"start_ref_usfm": "LUK 3:9",
+"end_ref": "42003009",
+"end_ref_usfm": "LUK 3:9"
+}
+],
+"resource": [
+{
+"reference_id": "5012",
+"content_id": "5012",
+"resource_code": "DictionaryBibleThemes",
+"label": "5012: heart",
+"language": "eng"
+},
+{
+"reference_id": "5285",
+"content_id": "5285",
+"resource_code": "DictionaryBibleThemes",
+"label": "5285: cures",
+"language": "eng"
+},
+{
+"reference_id": "5309",
+"content_id": "5309",
+"resource_code": "DictionaryBibleThemes",
+"label": "5309: eunuchs",
+"language": "eng"
+},
+{
+"reference_id": "5372",
+"content_id": "5372",
+"resource_code": "DictionaryBibleThemes",
+"label": "5372: knife",
+"language": "eng"
+},
+{
+"reference_id": "5405",
+"content_id": "5405",
+"resource_code": "DictionaryBibleThemes",
+"label": "5405: medicine",
+"language": "eng"
+},
+{
+"reference_id": "5482",
+"content_id": "5482",
+"resource_code": "DictionaryBibleThemes",
+"label": "5482: punishment",
+"language": "eng"
+},
+{
+"reference_id": "6728",
+"content_id": "6728",
+"resource_code": "DictionaryBibleThemes",
+"label": "6728: regeneration",
+"language": "eng"
+},
+{
+"reference_id": "7332",
+"content_id": "7332",
+"resource_code": "DictionaryBibleThemes",
+"label": "7332: child sacrifice",
+"language": "eng"
+},
+{
+"reference_id": "7334",
+"content_id": "7334",
+"resource_code": "DictionaryBibleThemes",
+"label": "7334: circumcision",
+"language": "eng"
+},
+{
+"reference_id": "7346",
+"content_id": "7346",
+"resource_code": "DictionaryBibleThemes",
+"label": "7346: death penalty",
+"language": "eng"
+},
+{
+"reference_id": "7422",
+"content_id": "7422",
+"resource_code": "DictionaryBibleThemes",
+"label": "7422: ritual",
+"language": "eng"
+},
+{
+"reference_id": "7435",
+"content_id": "7435",
+"resource_code": "DictionaryBibleThemes",
+"label": "7435: sacrifice, in OT",
+"language": "eng"
+}
+]
+}
+}
+]

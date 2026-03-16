@@ -1,0 +1,233 @@
+[
+{
+"content_id": "5868",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5868: gossip",
+"media_type": "Text",
+"index_reference": "5868: gossip",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Idle talk which foolishly or maliciously spreads rumours or facts. The effects of gossiping are divisive and destructive.</p>\n<h2>Examples of gossiping</h2>\n<p><a href=\"https://ref.ly/Neh6:5-Neh6:8\">NEH 6:5–6:8</a> <em>False rumours were used to intimidate Nehemiah</em>; ; <a href=\"https://ref.ly/Ps41:5-Ps41:8\">PSA 41:5–41:8</a>; ; <a href=\"https://ref.ly/John7:12-John7:13\">JHN 7:12–7:13</a>; ; <a href=\"https://ref.ly/3John1:9-3John1:10\">3JN 1:9–1:10</a></p>\n<h2>Dangers of talking too much</h2>\n<p><strong><a href=\"https://ref.ly/Prov10:19\">PRO 10:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov18:6-Prov18:7\">PRO 18:6–18:7</a>, <a href=\"https://ref.ly/Prov21:23\">PRO 21:23</a>, <a href=\"https://ref.ly/Prov29:11\">PRO 29:11</a>; <a href=\"https://ref.ly/Eccl5:2-Eccl5:3\">ECC 5:2–5:3</a>; <a href=\"https://ref.ly/Matt12:36-Matt12:37\">MAT 12:36–12:37</a></p>\n<h2>Gossip can result from idleness</h2>\n<p><strong><a href=\"https://ref.ly/1Tim5:13\">1TI 5:13</a></strong></p>\n<h2>Gossip has disastrous effects</h2>\n<p><strong><a href=\"https://ref.ly/Prov16:28\">PRO 16:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov11:13\">PRO 11:13</a>, <a href=\"https://ref.ly/Prov17:9\">PRO 17:9</a>, <a href=\"https://ref.ly/Prov25:9-Prov25:10\">PRO 25:9–25:10</a>, <a href=\"https://ref.ly/Prov26:20\">PRO 26:20</a></p>\n<h2>Gossiping condemned and forbidden</h2>\n<p><strong><a href=\"https://ref.ly/Lev19:16\">LEV 19:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:1\">EXO 23:1</a>; <a href=\"https://ref.ly/Ps101:5\">PSA 101:5</a>; <a href=\"https://ref.ly/Prov10:18\">PRO 10:18</a>; <a href=\"https://ref.ly/Rom1:29-Rom1:30\">ROM 1:29–1:30</a>; <a href=\"https://ref.ly/2Cor12:20\">2CO 12:20</a></p>\n<h2>Advice on avoiding gossip</h2>\n<p><strong><a href=\"https://ref.ly/Ps141:3\">PSA 141:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov20:19\">PRO 20:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "16006005",
+"start_ref_usfm": "NEH 6:5",
+"end_ref": "16006008",
+"end_ref_usfm": "NEH 6:8"
+},
+{
+"start_ref": "19041005",
+"start_ref_usfm": "PSA 41:5",
+"end_ref": "19041008",
+"end_ref_usfm": "PSA 41:8"
+},
+{
+"start_ref": "43007012",
+"start_ref_usfm": "JHN 7:12",
+"end_ref": "43007013",
+"end_ref_usfm": "JHN 7:13"
+},
+{
+"start_ref": "64001009",
+"start_ref_usfm": "3JN 1:9",
+"end_ref": "64001010",
+"end_ref_usfm": "3JN 1:10"
+},
+{
+"start_ref": "20010019",
+"start_ref_usfm": "PRO 10:19",
+"end_ref": "20010019",
+"end_ref_usfm": "PRO 10:19"
+},
+{
+"start_ref": "20018006",
+"start_ref_usfm": "PRO 18:6",
+"end_ref": "20018007",
+"end_ref_usfm": "PRO 18:7"
+},
+{
+"start_ref": "20021023",
+"start_ref_usfm": "PRO 21:23",
+"end_ref": "20021023",
+"end_ref_usfm": "PRO 21:23"
+},
+{
+"start_ref": "20029011",
+"start_ref_usfm": "PRO 29:11",
+"end_ref": "20029011",
+"end_ref_usfm": "PRO 29:11"
+},
+{
+"start_ref": "21005002",
+"start_ref_usfm": "ECC 5:2",
+"end_ref": "21005003",
+"end_ref_usfm": "ECC 5:3"
+},
+{
+"start_ref": "40012036",
+"start_ref_usfm": "MAT 12:36",
+"end_ref": "40012037",
+"end_ref_usfm": "MAT 12:37"
+},
+{
+"start_ref": "54005013",
+"start_ref_usfm": "1TI 5:13",
+"end_ref": "54005013",
+"end_ref_usfm": "1TI 5:13"
+},
+{
+"start_ref": "20016028",
+"start_ref_usfm": "PRO 16:28",
+"end_ref": "20016028",
+"end_ref_usfm": "PRO 16:28"
+},
+{
+"start_ref": "20011013",
+"start_ref_usfm": "PRO 11:13",
+"end_ref": "20011013",
+"end_ref_usfm": "PRO 11:13"
+},
+{
+"start_ref": "20017009",
+"start_ref_usfm": "PRO 17:9",
+"end_ref": "20017009",
+"end_ref_usfm": "PRO 17:9"
+},
+{
+"start_ref": "20025009",
+"start_ref_usfm": "PRO 25:9",
+"end_ref": "20025010",
+"end_ref_usfm": "PRO 25:10"
+},
+{
+"start_ref": "20026020",
+"start_ref_usfm": "PRO 26:20",
+"end_ref": "20026020",
+"end_ref_usfm": "PRO 26:20"
+},
+{
+"start_ref": "03019016",
+"start_ref_usfm": "LEV 19:16",
+"end_ref": "03019016",
+"end_ref_usfm": "LEV 19:16"
+},
+{
+"start_ref": "02023001",
+"start_ref_usfm": "EXO 23:1",
+"end_ref": "02023001",
+"end_ref_usfm": "EXO 23:1"
+},
+{
+"start_ref": "19101005",
+"start_ref_usfm": "PSA 101:5",
+"end_ref": "19101005",
+"end_ref_usfm": "PSA 101:5"
+},
+{
+"start_ref": "20010018",
+"start_ref_usfm": "PRO 10:18",
+"end_ref": "20010018",
+"end_ref_usfm": "PRO 10:18"
+},
+{
+"start_ref": "45001029",
+"start_ref_usfm": "ROM 1:29",
+"end_ref": "45001030",
+"end_ref_usfm": "ROM 1:30"
+},
+{
+"start_ref": "47012020",
+"start_ref_usfm": "2CO 12:20",
+"end_ref": "47012020",
+"end_ref_usfm": "2CO 12:20"
+},
+{
+"start_ref": "19141003",
+"start_ref_usfm": "PSA 141:3",
+"end_ref": "19141003",
+"end_ref_usfm": "PSA 141:3"
+},
+{
+"start_ref": "20020019",
+"start_ref_usfm": "PRO 20:19",
+"end_ref": "20020019",
+"end_ref_usfm": "PRO 20:19"
+}
+],
+"resource": [
+{
+"reference_id": "5193",
+"content_id": "5193",
+"resource_code": "DictionaryBibleThemes",
+"label": "5193: tongue",
+"language": "eng"
+},
+{
+"reference_id": "5343",
+"content_id": "5343",
+"resource_code": "DictionaryBibleThemes",
+"label": "5343: idleness",
+"language": "eng"
+},
+{
+"reference_id": "5510",
+"content_id": "5510",
+"resource_code": "DictionaryBibleThemes",
+"label": "5510: rumours",
+"language": "eng"
+},
+{
+"reference_id": "5546",
+"content_id": "5546",
+"resource_code": "DictionaryBibleThemes",
+"label": "5546: speech",
+"language": "eng"
+},
+{
+"reference_id": "5575",
+"content_id": "5575",
+"resource_code": "DictionaryBibleThemes",
+"label": "5575: talk, idle",
+"language": "eng"
+},
+{
+"reference_id": "5951",
+"content_id": "5951",
+"resource_code": "DictionaryBibleThemes",
+"label": "5951: slander",
+"language": "eng"
+},
+{
+"reference_id": "8452",
+"content_id": "8452",
+"resource_code": "DictionaryBibleThemes",
+"label": "8452: neighbours, duty to",
+"language": "eng"
+},
+{
+"reference_id": "8815",
+"content_id": "8815",
+"resource_code": "DictionaryBibleThemes",
+"label": "8815: ridicule",
+"language": "eng"
+},
+{
+"reference_id": "8828",
+"content_id": "8828",
+"resource_code": "DictionaryBibleThemes",
+"label": "8828: spite",
+"language": "eng"
+},
+{
+"reference_id": "8830",
+"content_id": "8830",
+"resource_code": "DictionaryBibleThemes",
+"label": "8830: suspicion",
+"language": "eng"
+}
+]
+}
+}
+]

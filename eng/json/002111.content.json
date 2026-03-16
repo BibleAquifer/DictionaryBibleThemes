@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8277",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8277: innocence",
+"media_type": "Text",
+"index_reference": "8277: innocence",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The state of being devoid of guilt, experience of sin or evil motives or thoughts. Scripture commends this state to believers.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8278",
+"content_id": "8278",
+"resource_code": "DictionaryBibleThemes",
+"label": "8278: innocence, teaching on",
+"language": "eng"
+},
+{
+"reference_id": "8279",
+"content_id": "8279",
+"resource_code": "DictionaryBibleThemes",
+"label": "8279: innocence, examples of",
+"language": "eng"
+}
+]
+}
+}
+]

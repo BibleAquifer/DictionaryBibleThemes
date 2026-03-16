@@ -1,0 +1,74 @@
+[
+{
+"content_id": "5628",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5628: work",
+"media_type": "Text",
+"index_reference": "5628: work",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Work was ordained by God as a means of fulfilment, service and praise. It is to be supplemented by rest, following the pattern of God's creation of the world. Despite the effects of sin, work can still be honouring to God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5629",
+"content_id": "5629",
+"resource_code": "DictionaryBibleThemes",
+"label": "5629: work, as ordained by God",
+"language": "eng"
+},
+{
+"reference_id": "5630",
+"content_id": "5630",
+"resource_code": "DictionaryBibleThemes",
+"label": "5630: work, divine and human",
+"language": "eng"
+},
+{
+"reference_id": "5631",
+"content_id": "5631",
+"resource_code": "DictionaryBibleThemes",
+"label": "5631: work, of God",
+"language": "eng"
+},
+{
+"reference_id": "5632",
+"content_id": "5632",
+"resource_code": "DictionaryBibleThemes",
+"label": "5632: work, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "5633",
+"content_id": "5633",
+"resource_code": "DictionaryBibleThemes",
+"label": "5633: work, of Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "5634",
+"content_id": "5634",
+"resource_code": "DictionaryBibleThemes",
+"label": "5634: work, and the fall",
+"language": "eng"
+},
+{
+"reference_id": "5635",
+"content_id": "5635",
+"resource_code": "DictionaryBibleThemes",
+"label": "5635: work, and redemption",
+"language": "eng"
+},
+{
+"reference_id": "5636",
+"content_id": "5636",
+"resource_code": "DictionaryBibleThemes",
+"label": "5636: work, and rest",
+"language": "eng"
+}
+]
+}
+}
+]

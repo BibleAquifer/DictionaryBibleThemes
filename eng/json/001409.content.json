@@ -1,0 +1,163 @@
+[
+{
+"content_id": "5891",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5891: instability",
+"media_type": "Text",
+"index_reference": "5891: instability",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The danger of instability in the Christian life</h2>\n<p><strong><a href=\"https://ref.ly/Eph4:14\">EPH 4:14</a></strong>; <strong><a href=\"https://ref.ly/Jas1:6-Jas1:8\">JAS 1:6–1:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt7:26-Matt7:27\">MAT 7:26–7:27</a>; <a href=\"https://ref.ly/2Pet2:14\">2PE 2:14</a>, <a href=\"https://ref.ly/2Pet3:16\">2PE 3:16</a></p>\n<h2>Firmness of faith as an antidote to instability</h2>\n<p><strong><a href=\"https://ref.ly/1Cor15:58\">1CO 15:58</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt7:24-Matt7:25\">MAT 7:24–7:25</a>; <a href=\"https://ref.ly/Col1:23\">COL 1:23</a>; <a href=\"https://ref.ly/1Pet5:10\">1PE 5:10</a></p>\n<h2>Political instability</h2>\n<p><strong><a href=\"https://ref.ly/Prov29:4\">PRO 29:4</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "49004014",
+"start_ref_usfm": "EPH 4:14",
+"end_ref": "49004014",
+"end_ref_usfm": "EPH 4:14"
+},
+{
+"start_ref": "59001006",
+"start_ref_usfm": "JAS 1:6",
+"end_ref": "59001008",
+"end_ref_usfm": "JAS 1:8"
+},
+{
+"start_ref": "40007026",
+"start_ref_usfm": "MAT 7:26",
+"end_ref": "40007027",
+"end_ref_usfm": "MAT 7:27"
+},
+{
+"start_ref": "61002014",
+"start_ref_usfm": "2PE 2:14",
+"end_ref": "61002014",
+"end_ref_usfm": "2PE 2:14"
+},
+{
+"start_ref": "61003016",
+"start_ref_usfm": "2PE 3:16",
+"end_ref": "61003016",
+"end_ref_usfm": "2PE 3:16"
+},
+{
+"start_ref": "46015058",
+"start_ref_usfm": "1CO 15:58",
+"end_ref": "46015058",
+"end_ref_usfm": "1CO 15:58"
+},
+{
+"start_ref": "40007024",
+"start_ref_usfm": "MAT 7:24",
+"end_ref": "40007025",
+"end_ref_usfm": "MAT 7:25"
+},
+{
+"start_ref": "51001023",
+"start_ref_usfm": "COL 1:23",
+"end_ref": "51001023",
+"end_ref_usfm": "COL 1:23"
+},
+{
+"start_ref": "60005010",
+"start_ref_usfm": "1PE 5:10",
+"end_ref": "60005010",
+"end_ref_usfm": "1PE 5:10"
+},
+{
+"start_ref": "20029004",
+"start_ref_usfm": "PRO 29:4",
+"end_ref": "20029004",
+"end_ref_usfm": "PRO 29:4"
+}
+],
+"resource": [
+{
+"reference_id": "1160",
+"content_id": "1160",
+"resource_code": "DictionaryBibleThemes",
+"label": "1160: God, unchangeableness of",
+"language": "eng"
+},
+{
+"reference_id": "4360",
+"content_id": "4360",
+"resource_code": "DictionaryBibleThemes",
+"label": "4360: sand",
+"language": "eng"
+},
+{
+"reference_id": "4690",
+"content_id": "4690",
+"resource_code": "DictionaryBibleThemes",
+"label": "4690: wings",
+"language": "eng"
+},
+{
+"reference_id": "4860",
+"content_id": "4860",
+"resource_code": "DictionaryBibleThemes",
+"label": "4860: wind",
+"language": "eng"
+},
+{
+"reference_id": "5844",
+"content_id": "5844",
+"resource_code": "DictionaryBibleThemes",
+"label": "5844: emotions",
+"language": "eng"
+},
+{
+"reference_id": "5881",
+"content_id": "5881",
+"resource_code": "DictionaryBibleThemes",
+"label": "5881: immaturity",
+"language": "eng"
+},
+{
+"reference_id": "5953",
+"content_id": "5953",
+"resource_code": "DictionaryBibleThemes",
+"label": "5953: stability",
+"language": "eng"
+},
+{
+"reference_id": "8331",
+"content_id": "8331",
+"resource_code": "DictionaryBibleThemes",
+"label": "8331: reliability",
+"language": "eng"
+},
+{
+"reference_id": "8357",
+"content_id": "8357",
+"resource_code": "DictionaryBibleThemes",
+"label": "8357: weakness",
+"language": "eng"
+},
+{
+"reference_id": "8459",
+"content_id": "8459",
+"resource_code": "DictionaryBibleThemes",
+"label": "8459: perseverance",
+"language": "eng"
+},
+{
+"reference_id": "8704",
+"content_id": "8704",
+"resource_code": "DictionaryBibleThemes",
+"label": "8704: apostasy",
+"language": "eng"
+},
+{
+"reference_id": "8721",
+"content_id": "8721",
+"resource_code": "DictionaryBibleThemes",
+"label": "8721: doubt",
+"language": "eng"
+}
+]
+}
+}
+]

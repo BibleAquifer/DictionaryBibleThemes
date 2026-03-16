@@ -1,0 +1,238 @@
+[
+{
+"content_id": "5804",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5804: charm",
+"media_type": "Text",
+"index_reference": "5804: charm",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The gracious effect of attracting and captivating others or the subtle ability to deceive and mislead them.</p>\n<h2>Charm to attract and captivate others</h2>\n<h3>King Xerxes by Esther</h3>\n<p><a href=\"https://ref.ly/Esth2:17\">EST 2:17</a></p>\n<h3>A husband by his wife</h3>\n<p><strong><a href=\"https://ref.ly/Prov5:18-Prov5:19\">PRO 5:18–5:19</a></strong></p>\n<h3>The lovers in the Song of Solomon</h3>\n<p><strong><a href=\"https://ref.ly/Song1:15-Song1:16\">SNG 1:15–1:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song2:14\">SNG 2:14</a>, <a href=\"https://ref.ly/Song4:9-Song4:10\">SNG 4:9–4:10</a>, <a href=\"https://ref.ly/Song5:16\">SNG 5:16</a>, <a href=\"https://ref.ly/Song6:4-Song6:5\">SNG 6:4–6:5</a>, <a href=\"https://ref.ly/Song7:6\">SNG 7:6</a></p>\n<h2>Charm to deceive people</h2>\n<p><strong><a href=\"https://ref.ly/Prov26:24-Prov26:25\">PRO 26:24–26:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:25-Prov6:26\">PRO 6:25–6:26</a>, <a href=\"https://ref.ly/Prov31:30\">PRO 31:30</a></p>\n<h3>The devil subtly seeks to deceive people</h3>\n<p><strong><a href=\"https://ref.ly/2Cor11:3\">2CO 11:3</a>, <a href=\"https://ref.ly/2Cor11:14\">2CO 11:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen3:1-Gen3:5\">GEN 3:1–3:5</a>, <a href=\"https://ref.ly/Gen3:13\">GEN 3:13</a>; <a href=\"https://ref.ly/Matt4:1-Matt4:11\">MAT 4:1–4:11</a> parallels <a href=\"https://ref.ly/Mark1:12-Mark1:13\">MRK 1:12–1:13</a>, <a href=\"https://ref.ly/Luke4:1-Luke4:13\">LUK 4:1–4:13</a></p>\n<h3>Absalom deceived others</h3>\n<p><a href=\"https://ref.ly/2Sam15:1-2Sam15:6\">2SA 15:1–15:6</a></p>\n<h2>False teachers use charm to deceive others</h2>\n<h3>For their own gain</h3>\n<p><strong><a href=\"https://ref.ly/Rom16:18\">ROM 16:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jude1:16\">JUD 1:16</a></p>\n<h3>To draw people away from Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/2Pet2:18\">2PE 2:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor11:13-2Cor11:15\">2CO 11:13–11:15</a></p>\n<h3>Christians must not be deceived by such charm</h3>\n<p><a href=\"https://ref.ly/Eph4:14\">EPH 4:14</a>, <a href=\"https://ref.ly/Eph5:6\">EPH 5:6</a>; ; <a href=\"https://ref.ly/Col2:4\">COL 2:4</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "17002017",
+"start_ref_usfm": "EST 2:17",
+"end_ref": "17002017",
+"end_ref_usfm": "EST 2:17"
+},
+{
+"start_ref": "20005018",
+"start_ref_usfm": "PRO 5:18",
+"end_ref": "20005019",
+"end_ref_usfm": "PRO 5:19"
+},
+{
+"start_ref": "22001015",
+"start_ref_usfm": "SNG 1:15",
+"end_ref": "22001016",
+"end_ref_usfm": "SNG 1:16"
+},
+{
+"start_ref": "22002014",
+"start_ref_usfm": "SNG 2:14",
+"end_ref": "22002014",
+"end_ref_usfm": "SNG 2:14"
+},
+{
+"start_ref": "22004009",
+"start_ref_usfm": "SNG 4:9",
+"end_ref": "22004010",
+"end_ref_usfm": "SNG 4:10"
+},
+{
+"start_ref": "22005016",
+"start_ref_usfm": "SNG 5:16",
+"end_ref": "22005016",
+"end_ref_usfm": "SNG 5:16"
+},
+{
+"start_ref": "22006004",
+"start_ref_usfm": "SNG 6:4",
+"end_ref": "22006005",
+"end_ref_usfm": "SNG 6:5"
+},
+{
+"start_ref": "22007006",
+"start_ref_usfm": "SNG 7:6",
+"end_ref": "22007006",
+"end_ref_usfm": "SNG 7:6"
+},
+{
+"start_ref": "20026024",
+"start_ref_usfm": "PRO 26:24",
+"end_ref": "20026025",
+"end_ref_usfm": "PRO 26:25"
+},
+{
+"start_ref": "20006025",
+"start_ref_usfm": "PRO 6:25",
+"end_ref": "20006026",
+"end_ref_usfm": "PRO 6:26"
+},
+{
+"start_ref": "20031030",
+"start_ref_usfm": "PRO 31:30",
+"end_ref": "20031030",
+"end_ref_usfm": "PRO 31:30"
+},
+{
+"start_ref": "47011003",
+"start_ref_usfm": "2CO 11:3",
+"end_ref": "47011003",
+"end_ref_usfm": "2CO 11:3"
+},
+{
+"start_ref": "47011014",
+"start_ref_usfm": "2CO 11:14",
+"end_ref": "47011014",
+"end_ref_usfm": "2CO 11:14"
+},
+{
+"start_ref": "01003001",
+"start_ref_usfm": "GEN 3:1",
+"end_ref": "01003005",
+"end_ref_usfm": "GEN 3:5"
+},
+{
+"start_ref": "01003013",
+"start_ref_usfm": "GEN 3:13",
+"end_ref": "01003013",
+"end_ref_usfm": "GEN 3:13"
+},
+{
+"start_ref": "40004001",
+"start_ref_usfm": "MAT 4:1",
+"end_ref": "40004011",
+"end_ref_usfm": "MAT 4:11"
+},
+{
+"start_ref": "41001012",
+"start_ref_usfm": "MRK 1:12",
+"end_ref": "41001013",
+"end_ref_usfm": "MRK 1:13"
+},
+{
+"start_ref": "42004001",
+"start_ref_usfm": "LUK 4:1",
+"end_ref": "42004013",
+"end_ref_usfm": "LUK 4:13"
+},
+{
+"start_ref": "10015001",
+"start_ref_usfm": "2SA 15:1",
+"end_ref": "10015006",
+"end_ref_usfm": "2SA 15:6"
+},
+{
+"start_ref": "45016018",
+"start_ref_usfm": "ROM 16:18",
+"end_ref": "45016018",
+"end_ref_usfm": "ROM 16:18"
+},
+{
+"start_ref": "65001016",
+"start_ref_usfm": "JUD 1:16",
+"end_ref": "65001016",
+"end_ref_usfm": "JUD 1:16"
+},
+{
+"start_ref": "61002018",
+"start_ref_usfm": "2PE 2:18",
+"end_ref": "61002018",
+"end_ref_usfm": "2PE 2:18"
+},
+{
+"start_ref": "47011013",
+"start_ref_usfm": "2CO 11:13",
+"end_ref": "47011015",
+"end_ref_usfm": "2CO 11:15"
+},
+{
+"start_ref": "49004014",
+"start_ref_usfm": "EPH 4:14",
+"end_ref": "49004014",
+"end_ref_usfm": "EPH 4:14"
+},
+{
+"start_ref": "49005006",
+"start_ref_usfm": "EPH 5:6",
+"end_ref": "49005006",
+"end_ref_usfm": "EPH 5:6"
+},
+{
+"start_ref": "51002004",
+"start_ref_usfm": "COL 2:4",
+"end_ref": "51002004",
+"end_ref_usfm": "COL 2:4"
+}
+],
+"resource": [
+{
+"reference_id": "4040",
+"content_id": "4040",
+"resource_code": "DictionaryBibleThemes",
+"label": "4040: beauty",
+"language": "eng"
+},
+{
+"reference_id": "4185",
+"content_id": "4185",
+"resource_code": "DictionaryBibleThemes",
+"label": "4185: sorcery and magic",
+"language": "eng"
+},
+{
+"reference_id": "5863",
+"content_id": "5863",
+"resource_code": "DictionaryBibleThemes",
+"label": "5863: flattery",
+"language": "eng"
+},
+{
+"reference_id": "6145",
+"content_id": "6145",
+"resource_code": "DictionaryBibleThemes",
+"label": "6145: deceit",
+"language": "eng"
+},
+{
+"reference_id": "6241",
+"content_id": "6241",
+"resource_code": "DictionaryBibleThemes",
+"label": "6241: seduction",
+"language": "eng"
+},
+{
+"reference_id": "6248",
+"content_id": "6248",
+"resource_code": "DictionaryBibleThemes",
+"label": "6248: temptation",
+"language": "eng"
+},
+{
+"reference_id": "7751",
+"content_id": "7751",
+"resource_code": "DictionaryBibleThemes",
+"label": "7751: persuasion",
+"language": "eng"
+},
+{
+"reference_id": "8749",
+"content_id": "8749",
+"resource_code": "DictionaryBibleThemes",
+"label": "8749: false teachers",
+"language": "eng"
+},
+{
+"reference_id": "8750",
+"content_id": "8750",
+"resource_code": "DictionaryBibleThemes",
+"label": "8750: false teachings",
+"language": "eng"
+}
+]
+}
+}
+]

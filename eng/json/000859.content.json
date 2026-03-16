@@ -1,0 +1,167 @@
+[
+{
+"content_id": "5271",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5271: courtyard",
+"media_type": "Text",
+"index_reference": "5271: courtyard",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An enclosed, uncovered area within the precincts of large buildings such as temples, palaces and houses. The wilderness tabernacle also incorporated a courtyard.</p>\n<h2>The courtyard of the tabernacle</h2>\n<p><strong><a href=\"https://ref.ly/Exod27:9-Exod27:19\">EXO 27:9–27:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod38:9-Exod38:20\">EXO 38:9–38:20</a></p>\n<h2>The courtyard of the temple</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs7:12\">1KI 7:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs8:64\">1KI 8:64</a> parallel <a href=\"https://ref.ly/2Chr7:7\">2CH 7:7</a>; <a href=\"https://ref.ly/2Chr4:9\">2CH 4:9</a>, <a href=\"https://ref.ly/2Chr23:5\">2CH 23:5</a>, <a href=\"https://ref.ly/2Chr24:21\">2CH 24:21</a>; <a href=\"https://ref.ly/Jer26:2\">JER 26:2</a>, <a href=\"https://ref.ly/Jer36:10\">JER 36:10</a>; <a href=\"https://ref.ly/Ezek40:14\">EZK 40:14</a></p>\n<h2>Courtyards of palaces</h2>\n<p><strong><a href=\"https://ref.ly/Esth2:11\">EST 2:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer32:2\">JER 32:2</a>, <a href=\"https://ref.ly/Jer39:15\">JER 39:15</a></p>\n<h2>Courtyards of private houses</h2>\n<p><strong><a href=\"https://ref.ly/Neh8:16\">NEH 8:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam17:18\">2SA 17:18</a>; <a href=\"https://ref.ly/Matt26:69\">MAT 26:69</a> parallels <a href=\"https://ref.ly/Mark14:66\">MRK 14:66</a>, <a href=\"https://ref.ly/Luke22:55\">LUK 22:55</a>; <a href=\"https://ref.ly/John18:15\">JHN 18:15</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02027009",
+"start_ref_usfm": "EXO 27:9",
+"end_ref": "02027019",
+"end_ref_usfm": "EXO 27:19"
+},
+{
+"start_ref": "02038009",
+"start_ref_usfm": "EXO 38:9",
+"end_ref": "02038020",
+"end_ref_usfm": "EXO 38:20"
+},
+{
+"start_ref": "11007012",
+"start_ref_usfm": "1KI 7:12",
+"end_ref": "11007012",
+"end_ref_usfm": "1KI 7:12"
+},
+{
+"start_ref": "11008064",
+"start_ref_usfm": "1KI 8:64",
+"end_ref": "11008064",
+"end_ref_usfm": "1KI 8:64"
+},
+{
+"start_ref": "14007007",
+"start_ref_usfm": "2CH 7:7",
+"end_ref": "14007007",
+"end_ref_usfm": "2CH 7:7"
+},
+{
+"start_ref": "14004009",
+"start_ref_usfm": "2CH 4:9",
+"end_ref": "14004009",
+"end_ref_usfm": "2CH 4:9"
+},
+{
+"start_ref": "14023005",
+"start_ref_usfm": "2CH 23:5",
+"end_ref": "14023005",
+"end_ref_usfm": "2CH 23:5"
+},
+{
+"start_ref": "14024021",
+"start_ref_usfm": "2CH 24:21",
+"end_ref": "14024021",
+"end_ref_usfm": "2CH 24:21"
+},
+{
+"start_ref": "24026002",
+"start_ref_usfm": "JER 26:2",
+"end_ref": "24026002",
+"end_ref_usfm": "JER 26:2"
+},
+{
+"start_ref": "24036010",
+"start_ref_usfm": "JER 36:10",
+"end_ref": "24036010",
+"end_ref_usfm": "JER 36:10"
+},
+{
+"start_ref": "26040014",
+"start_ref_usfm": "EZK 40:14",
+"end_ref": "26040014",
+"end_ref_usfm": "EZK 40:14"
+},
+{
+"start_ref": "17002011",
+"start_ref_usfm": "EST 2:11",
+"end_ref": "17002011",
+"end_ref_usfm": "EST 2:11"
+},
+{
+"start_ref": "24032002",
+"start_ref_usfm": "JER 32:2",
+"end_ref": "24032002",
+"end_ref_usfm": "JER 32:2"
+},
+{
+"start_ref": "24039015",
+"start_ref_usfm": "JER 39:15",
+"end_ref": "24039015",
+"end_ref_usfm": "JER 39:15"
+},
+{
+"start_ref": "16008016",
+"start_ref_usfm": "NEH 8:16",
+"end_ref": "16008016",
+"end_ref_usfm": "NEH 8:16"
+},
+{
+"start_ref": "10017018",
+"start_ref_usfm": "2SA 17:18",
+"end_ref": "10017018",
+"end_ref_usfm": "2SA 17:18"
+},
+{
+"start_ref": "40026069",
+"start_ref_usfm": "MAT 26:69",
+"end_ref": "40026069",
+"end_ref_usfm": "MAT 26:69"
+},
+{
+"start_ref": "41014066",
+"start_ref_usfm": "MRK 14:66",
+"end_ref": "41014066",
+"end_ref_usfm": "MRK 14:66"
+},
+{
+"start_ref": "42022055",
+"start_ref_usfm": "LUK 22:55",
+"end_ref": "42022055",
+"end_ref_usfm": "LUK 22:55"
+},
+{
+"start_ref": "43018015",
+"start_ref_usfm": "JHN 18:15",
+"end_ref": "43018015",
+"end_ref_usfm": "JHN 18:15"
+}
+],
+"resource": [
+{
+"reference_id": "5340",
+"content_id": "5340",
+"resource_code": "DictionaryBibleThemes",
+"label": "5340: house",
+"language": "eng"
+},
+{
+"reference_id": "5437",
+"content_id": "5437",
+"resource_code": "DictionaryBibleThemes",
+"label": "5437: palaces",
+"language": "eng"
+},
+{
+"reference_id": "7459",
+"content_id": "7459",
+"resource_code": "DictionaryBibleThemes",
+"label": "7459: tabernacle, in OT",
+"language": "eng"
+},
+{
+"reference_id": "7469",
+"content_id": "7469",
+"resource_code": "DictionaryBibleThemes",
+"label": "7469: temple, Herod's",
+"language": "eng"
+}
+]
+}
+}
+]

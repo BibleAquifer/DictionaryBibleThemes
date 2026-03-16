@@ -1,0 +1,53 @@
+[
+{
+"content_id": "7948",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7948: mission",
+"media_type": "Text",
+"index_reference": "7948: mission",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Specific actions that bear witness to the good news of what God has done for his people. Israel, Jesus Christ and the church all in their different ways bear witness to the saving acts of God in history. Christian mission is empowered by the Holy Spirit.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7949",
+"content_id": "7949",
+"resource_code": "DictionaryBibleThemes",
+"label": "7949: mission, of Israel",
+"language": "eng"
+},
+{
+"reference_id": "7950",
+"content_id": "7950",
+"resource_code": "DictionaryBibleThemes",
+"label": "7950: mission, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "7951",
+"content_id": "7951",
+"resource_code": "DictionaryBibleThemes",
+"label": "7951: mission, of Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "7952",
+"content_id": "7952",
+"resource_code": "DictionaryBibleThemes",
+"label": "7952: mission, and Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "7953",
+"content_id": "7953",
+"resource_code": "DictionaryBibleThemes",
+"label": "7953: mission, of the church",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8759",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8759: fools",
+"media_type": "Text",
+"index_reference": "8759: fools",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Those who lack wisdom and understanding, especially in relation to God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8760",
+"content_id": "8760",
+"resource_code": "DictionaryBibleThemes",
+"label": "8760: fools, characteristics of",
+"language": "eng"
+},
+{
+"reference_id": "8761",
+"content_id": "8761",
+"resource_code": "DictionaryBibleThemes",
+"label": "8761: fools, in teaching of Jesus Christ",
+"language": "eng"
+}
+]
+}
+}
+]

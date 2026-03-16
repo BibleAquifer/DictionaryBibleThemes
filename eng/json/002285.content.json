@@ -1,0 +1,165 @@
+[
+{
+"content_id": "8607",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8607: prayer, God's promises concerning",
+"media_type": "Text",
+"index_reference": "8607: prayer, god's promises concerning",
+"language": "eng",
+"review_level": "None",
+"content": "<p>God promises to hear and respond to the prayers of his people, when they pray in the name of his Son and according to his will.</p>\n<h2>God expects his people to make requests of him in prayer</h2>\n<p><strong><a href=\"https://ref.ly/Matt7:7-Matt7:11\">MAT 7:7–7:11</a></strong> parallel <a href=\"https://ref.ly/Luke11:9-Luke11:13\">LUK 11:9–11:13</a> <em>See also</em> <a href=\"https://ref.ly/Matt21:22\">MAT 21:22</a></p>\n<h2>God promises to answer prayer in the name of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/John14:13-John14:14\">JHN 14:13–14:14</a>, <a href=\"https://ref.ly/John15:7\">JHN 15:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/John15:16\">JHN 15:16</a>, <a href=\"https://ref.ly/John16:23-John16:24\">JHN 16:23–16:24</a></p>\n<h2>God promises to respond to the prayers of his people in times of need</h2>\n<p><strong><a href=\"https://ref.ly/Ps91:14-Ps91:16\">PSA 91:14–91:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps50:14-Ps50:15\">PSA 50:14–50:15</a></p>\n<h2>God promises to hear the prayers of the oppressed</h2>\n<p><strong><a href=\"https://ref.ly/Ps10:17\">PSA 10:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod22:22-Exod22:23\">EXO 22:22–22:23</a>, <a href=\"https://ref.ly/Exod22:26-Exod22:27\">EXO 22:26–22:27</a>; <a href=\"https://ref.ly/Ps102:19-Ps102:20\">PSA 102:19–102:20</a>; <a href=\"https://ref.ly/Isa41:17\">ISA 41:17</a></p>\n<h2>God promises to hear the prayers of the truly penitent</h2>\n<p><strong><a href=\"https://ref.ly/2Chr7:14\">2CH 7:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek36:37\">EZK 36:37</a>; <a href=\"https://ref.ly/Zech10:6\">ZEC 10:6</a>, <a href=\"https://ref.ly/Zech13:8-Zech13:9\">ZEC 13:8–13:9</a></p>\n<h2>God promises to hear the prayers of his obedient people</h2>\n<p><strong><a href=\"https://ref.ly/1John3:22\">1JN 3:22</a></strong></p>\n<h2>The need in prayer to have confidence in God's promises</h2>\n<p><strong><a href=\"https://ref.ly/Mark11:24\">MRK 11:24</a></strong>; <strong><a href=\"https://ref.ly/1John5:14\">1JN 5:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt18:19\">MAT 18:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40007007",
+"start_ref_usfm": "MAT 7:7",
+"end_ref": "40007011",
+"end_ref_usfm": "MAT 7:11"
+},
+{
+"start_ref": "42011009",
+"start_ref_usfm": "LUK 11:9",
+"end_ref": "42011013",
+"end_ref_usfm": "LUK 11:13"
+},
+{
+"start_ref": "40021022",
+"start_ref_usfm": "MAT 21:22",
+"end_ref": "40021022",
+"end_ref_usfm": "MAT 21:22"
+},
+{
+"start_ref": "43014013",
+"start_ref_usfm": "JHN 14:13",
+"end_ref": "43014014",
+"end_ref_usfm": "JHN 14:14"
+},
+{
+"start_ref": "43015007",
+"start_ref_usfm": "JHN 15:7",
+"end_ref": "43015007",
+"end_ref_usfm": "JHN 15:7"
+},
+{
+"start_ref": "43015016",
+"start_ref_usfm": "JHN 15:16",
+"end_ref": "43015016",
+"end_ref_usfm": "JHN 15:16"
+},
+{
+"start_ref": "43016023",
+"start_ref_usfm": "JHN 16:23",
+"end_ref": "43016024",
+"end_ref_usfm": "JHN 16:24"
+},
+{
+"start_ref": "19091014",
+"start_ref_usfm": "PSA 91:14",
+"end_ref": "19091016",
+"end_ref_usfm": "PSA 91:16"
+},
+{
+"start_ref": "19050014",
+"start_ref_usfm": "PSA 50:14",
+"end_ref": "19050015",
+"end_ref_usfm": "PSA 50:15"
+},
+{
+"start_ref": "19010017",
+"start_ref_usfm": "PSA 10:17",
+"end_ref": "19010017",
+"end_ref_usfm": "PSA 10:17"
+},
+{
+"start_ref": "02022022",
+"start_ref_usfm": "EXO 22:22",
+"end_ref": "02022023",
+"end_ref_usfm": "EXO 22:23"
+},
+{
+"start_ref": "02022026",
+"start_ref_usfm": "EXO 22:26",
+"end_ref": "02022027",
+"end_ref_usfm": "EXO 22:27"
+},
+{
+"start_ref": "19102019",
+"start_ref_usfm": "PSA 102:19",
+"end_ref": "19102020",
+"end_ref_usfm": "PSA 102:20"
+},
+{
+"start_ref": "23041017",
+"start_ref_usfm": "ISA 41:17",
+"end_ref": "23041017",
+"end_ref_usfm": "ISA 41:17"
+},
+{
+"start_ref": "14007014",
+"start_ref_usfm": "2CH 7:14",
+"end_ref": "14007014",
+"end_ref_usfm": "2CH 7:14"
+},
+{
+"start_ref": "26036037",
+"start_ref_usfm": "EZK 36:37",
+"end_ref": "26036037",
+"end_ref_usfm": "EZK 36:37"
+},
+{
+"start_ref": "38010006",
+"start_ref_usfm": "ZEC 10:6",
+"end_ref": "38010006",
+"end_ref_usfm": "ZEC 10:6"
+},
+{
+"start_ref": "38013008",
+"start_ref_usfm": "ZEC 13:8",
+"end_ref": "38013009",
+"end_ref_usfm": "ZEC 13:9"
+},
+{
+"start_ref": "62003022",
+"start_ref_usfm": "1JN 3:22",
+"end_ref": "62003022",
+"end_ref_usfm": "1JN 3:22"
+},
+{
+"start_ref": "41011024",
+"start_ref_usfm": "MRK 11:24",
+"end_ref": "41011024",
+"end_ref_usfm": "MRK 11:24"
+},
+{
+"start_ref": "62005014",
+"start_ref_usfm": "1JN 5:14",
+"end_ref": "62005014",
+"end_ref_usfm": "1JN 5:14"
+},
+{
+"start_ref": "40018019",
+"start_ref_usfm": "MAT 18:19",
+"end_ref": "40018019",
+"end_ref_usfm": "MAT 18:19"
+}
+],
+"resource": [
+{
+"reference_id": "5467",
+"content_id": "5467",
+"resource_code": "DictionaryBibleThemes",
+"label": "5467: promises, divine",
+"language": "eng"
+},
+{
+"reference_id": "8024",
+"content_id": "8024",
+"resource_code": "DictionaryBibleThemes",
+"label": "8024: faith, and blessings of God",
+"language": "eng"
+}
+]
+}
+}
+]

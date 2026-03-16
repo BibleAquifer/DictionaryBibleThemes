@@ -1,0 +1,101 @@
+[
+{
+"content_id": "4470",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4470: hyssop",
+"media_type": "Text",
+"index_reference": "4470: hyssop",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A plant closely associated with cleansing in the OT, being used extensively in rituals for purification.</p>\n<h2>Hyssop associated with cleansing</h2>\n<p><strong><a href=\"https://ref.ly/Ps51:2-Ps51:7\">PSA 51:2–51:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb9:19-Heb9:22\">HEB 9:19–9:22</a></p>\n<h2>Hyssop in religious ritual</h2>\n<h3>At the Passover</h3>\n<p><strong><a href=\"https://ref.ly/Exod12:21-Exod12:25\">EXO 12:21–12:25</a></strong></p>\n<h3>At the slaughter of the red heifer</h3>\n<p><strong><a href=\"https://ref.ly/Num19:1-Num19:10\">NUM 19:1–19:10</a></strong></p>\n<h3>In rites of cleansing</h3>\n<p><strong><a href=\"https://ref.ly/Num19:17-Num19:20\">NUM 19:17–19:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev14:1-Lev14:7\">LEV 14:1–14:7</a>, <a href=\"https://ref.ly/Lev14:48-Lev14:53\">LEV 14:48–14:53</a></p>\n<h2>Hyssop as a well-known plant</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs4:33\">1KI 4:33</a></strong></p>\n<h2>Hyssop at the crucifixion</h2>\n<p><strong><a href=\"https://ref.ly/John19:28-John19:30\">JHN 19:28–19:30</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19051002",
+"start_ref_usfm": "PSA 51:2",
+"end_ref": "19051007",
+"end_ref_usfm": "PSA 51:7"
+},
+{
+"start_ref": "58009019",
+"start_ref_usfm": "HEB 9:19",
+"end_ref": "58009022",
+"end_ref_usfm": "HEB 9:22"
+},
+{
+"start_ref": "02012021",
+"start_ref_usfm": "EXO 12:21",
+"end_ref": "02012025",
+"end_ref_usfm": "EXO 12:25"
+},
+{
+"start_ref": "04019001",
+"start_ref_usfm": "NUM 19:1",
+"end_ref": "04019010",
+"end_ref_usfm": "NUM 19:10"
+},
+{
+"start_ref": "04019017",
+"start_ref_usfm": "NUM 19:17",
+"end_ref": "04019020",
+"end_ref_usfm": "NUM 19:20"
+},
+{
+"start_ref": "03014001",
+"start_ref_usfm": "LEV 14:1",
+"end_ref": "03014007",
+"end_ref_usfm": "LEV 14:7"
+},
+{
+"start_ref": "03014048",
+"start_ref_usfm": "LEV 14:48",
+"end_ref": "03014053",
+"end_ref_usfm": "LEV 14:53"
+},
+{
+"start_ref": "11004033",
+"start_ref_usfm": "1KI 4:33",
+"end_ref": "11004033",
+"end_ref_usfm": "1KI 4:33"
+},
+{
+"start_ref": "43019028",
+"start_ref_usfm": "JHN 19:28",
+"end_ref": "43019030",
+"end_ref_usfm": "JHN 19:30"
+}
+],
+"resource": [
+{
+"reference_id": "4402",
+"content_id": "4402",
+"resource_code": "DictionaryBibleThemes",
+"label": "4402: plants",
+"language": "eng"
+},
+{
+"reference_id": "7342",
+"content_id": "7342",
+"resource_code": "DictionaryBibleThemes",
+"label": "7342: cleanliness",
+"language": "eng"
+},
+{
+"reference_id": "7416",
+"content_id": "7416",
+"resource_code": "DictionaryBibleThemes",
+"label": "7416: purification",
+"language": "eng"
+},
+{
+"reference_id": "7478",
+"content_id": "7478",
+"resource_code": "DictionaryBibleThemes",
+"label": "7478: washing",
+"language": "eng"
+}
+]
+}
+}
+]

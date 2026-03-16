@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8314",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8314: orthodoxy",
+"media_type": "Text",
+"index_reference": "8314: orthodoxy",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The holding of religious beliefs that are in harmony with the accepted views of the community of faith. Right belief (orthodoxy) is to show itself in right practice (orthopraxis).</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8315",
+"content_id": "8315",
+"resource_code": "DictionaryBibleThemes",
+"label": "8315: orthodoxy, in OT",
+"language": "eng"
+},
+{
+"reference_id": "8316",
+"content_id": "8316",
+"resource_code": "DictionaryBibleThemes",
+"label": "8316: orthodoxy, in NT",
+"language": "eng"
+}
+]
+}
+}
+]

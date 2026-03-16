@@ -1,0 +1,39 @@
+[
+{
+"content_id": "4833",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4833: light",
+"media_type": "Text",
+"index_reference": "4833: light",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The brightness that enables sight in the darkness. Scripture often uses light as a symbol of the saving presence of God in a fallen world, with darkness being used as a symbol of sin or the absence of God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4834",
+"content_id": "4834",
+"resource_code": "DictionaryBibleThemes",
+"label": "4834: light, natural",
+"language": "eng"
+},
+{
+"reference_id": "4835",
+"content_id": "4835",
+"resource_code": "DictionaryBibleThemes",
+"label": "4835: light, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "4836",
+"content_id": "4836",
+"resource_code": "DictionaryBibleThemes",
+"label": "4836: light, and people of God",
+"language": "eng"
+}
+]
+}
+}
+]

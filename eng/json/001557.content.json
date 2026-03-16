@@ -1,0 +1,189 @@
+[
+{
+"content_id": "6209",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6209: pagans",
+"media_type": "Text",
+"index_reference": "6209: pagans",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>OT use of the term ``pagan''</h2>\n<h3>Used of foreign adherents of heathen religions</h3>\n<p><strong><a href=\"https://ref.ly/Isa2:6\">ISA 2:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs23:4-2Kgs23:7\">2KI 23:4–23:7</a>; <a href=\"https://ref.ly/Zeph1:4-Zeph1:6\">ZEP 1:4–1:6</a></p>\n<h3>Used of heathen religions, peoples and countries</h3>\n<p><strong><a href=\"https://ref.ly/Isa57:8\">ISA 57:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lam1:10\">LAM 1:10</a>; <a href=\"https://ref.ly/Amos7:17\">AMO 7:17</a></p>\n<h2>In the Gospels <code>pagans'' is synonymous with</code>Gentiles''</h2>\n<p><strong><a href=\"https://ref.ly/Matt6:7\">MAT 6:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt5:47\">MAT 5:47</a>, <a href=\"https://ref.ly/Matt6:32\">MAT 6:32</a> parallel <a href=\"https://ref.ly/Luke12:30\">LUK 12:30</a>; <a href=\"https://ref.ly/Matt18:17\">MAT 18:17</a></p>\n<h2>The term ``pagans'' is used to refer to people who were neither Jews nor Christians</h2>\n<h3>Pagans as idolaters</h3>\n<p><strong><a href=\"https://ref.ly/1Cor12:2\">1CO 12:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor10:7\">1CO 10:7</a>; <a href=\"https://ref.ly/Exod32:6\">EXO 32:6</a>; <a href=\"https://ref.ly/1Cor10:20\">1CO 10:20</a></p>\n<h3>Pagans as immoral</h3>\n<p><strong><a href=\"https://ref.ly/1Pet4:3\">1PE 4:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor5:1\">1CO 5:1</a></p>\n<h3>Many believers lived among the pagans</h3>\n<p><strong><a href=\"https://ref.ly/1Pet2:12\">1PE 2:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/3John1:7\">3JN 1:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23002006",
+"start_ref_usfm": "ISA 2:6",
+"end_ref": "23002006",
+"end_ref_usfm": "ISA 2:6"
+},
+{
+"start_ref": "12023004",
+"start_ref_usfm": "2KI 23:4",
+"end_ref": "12023007",
+"end_ref_usfm": "2KI 23:7"
+},
+{
+"start_ref": "36001004",
+"start_ref_usfm": "ZEP 1:4",
+"end_ref": "36001006",
+"end_ref_usfm": "ZEP 1:6"
+},
+{
+"start_ref": "23057008",
+"start_ref_usfm": "ISA 57:8",
+"end_ref": "23057008",
+"end_ref_usfm": "ISA 57:8"
+},
+{
+"start_ref": "25001010",
+"start_ref_usfm": "LAM 1:10",
+"end_ref": "25001010",
+"end_ref_usfm": "LAM 1:10"
+},
+{
+"start_ref": "30007017",
+"start_ref_usfm": "AMO 7:17",
+"end_ref": "30007017",
+"end_ref_usfm": "AMO 7:17"
+},
+{
+"start_ref": "40006007",
+"start_ref_usfm": "MAT 6:7",
+"end_ref": "40006007",
+"end_ref_usfm": "MAT 6:7"
+},
+{
+"start_ref": "40005047",
+"start_ref_usfm": "MAT 5:47",
+"end_ref": "40005047",
+"end_ref_usfm": "MAT 5:47"
+},
+{
+"start_ref": "40006032",
+"start_ref_usfm": "MAT 6:32",
+"end_ref": "40006032",
+"end_ref_usfm": "MAT 6:32"
+},
+{
+"start_ref": "42012030",
+"start_ref_usfm": "LUK 12:30",
+"end_ref": "42012030",
+"end_ref_usfm": "LUK 12:30"
+},
+{
+"start_ref": "40018017",
+"start_ref_usfm": "MAT 18:17",
+"end_ref": "40018017",
+"end_ref_usfm": "MAT 18:17"
+},
+{
+"start_ref": "46012002",
+"start_ref_usfm": "1CO 12:2",
+"end_ref": "46012002",
+"end_ref_usfm": "1CO 12:2"
+},
+{
+"start_ref": "46010007",
+"start_ref_usfm": "1CO 10:7",
+"end_ref": "46010007",
+"end_ref_usfm": "1CO 10:7"
+},
+{
+"start_ref": "02032006",
+"start_ref_usfm": "EXO 32:6",
+"end_ref": "02032006",
+"end_ref_usfm": "EXO 32:6"
+},
+{
+"start_ref": "46010020",
+"start_ref_usfm": "1CO 10:20",
+"end_ref": "46010020",
+"end_ref_usfm": "1CO 10:20"
+},
+{
+"start_ref": "60004003",
+"start_ref_usfm": "1PE 4:3",
+"end_ref": "60004003",
+"end_ref_usfm": "1PE 4:3"
+},
+{
+"start_ref": "46005001",
+"start_ref_usfm": "1CO 5:1",
+"end_ref": "46005001",
+"end_ref_usfm": "1CO 5:1"
+},
+{
+"start_ref": "60002012",
+"start_ref_usfm": "1PE 2:12",
+"end_ref": "60002012",
+"end_ref_usfm": "1PE 2:12"
+},
+{
+"start_ref": "64001007",
+"start_ref_usfm": "3JN 1:7",
+"end_ref": "64001007",
+"end_ref_usfm": "3JN 1:7"
+}
+],
+"resource": [
+{
+"reference_id": "4132",
+"content_id": "4132",
+"resource_code": "DictionaryBibleThemes",
+"label": "4132: demons, malevolence of",
+"language": "eng"
+},
+{
+"reference_id": "4936",
+"content_id": "4936",
+"resource_code": "DictionaryBibleThemes",
+"label": "4936: fate",
+"language": "eng"
+},
+{
+"reference_id": "5811",
+"content_id": "5811",
+"resource_code": "DictionaryBibleThemes",
+"label": "5811: compromise",
+"language": "eng"
+},
+{
+"reference_id": "6257",
+"content_id": "6257",
+"resource_code": "DictionaryBibleThemes",
+"label": "6257: unbelievers",
+"language": "eng"
+},
+{
+"reference_id": "7471",
+"content_id": "7471",
+"resource_code": "DictionaryBibleThemes",
+"label": "7471: temples, heathen",
+"language": "eng"
+},
+{
+"reference_id": "7510",
+"content_id": "7510",
+"resource_code": "DictionaryBibleThemes",
+"label": "7510: Gentiles",
+"language": "eng"
+},
+{
+"reference_id": "8142",
+"content_id": "8142",
+"resource_code": "DictionaryBibleThemes",
+"label": "8142: religion",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,241 @@
+[
+{
+"content_id": "6130",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6130: corruption",
+"media_type": "Text",
+"index_reference": "6130: corruption",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A state of spiritual decay and moral dishonesty, arising from the effects of sin, which expresses itself in disobedience towards God.</p>\n<h2>Corruption of nature as a result of the fall</h2>\n<p><strong><a href=\"https://ref.ly/Gen6:11\">GEN 6:11</a></strong></p>\n<h2>Sinful humanity is corrupt</h2>\n<p><strong><a href=\"https://ref.ly/Isa1:4\">ISA 1:4</a></strong>; <strong><a href=\"https://ref.ly/Acts2:40\">ACT 2:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut32:20\">DEU 32:20</a>; <a href=\"https://ref.ly/Job15:16\">JOB 15:16</a>; <a href=\"https://ref.ly/Ps14:1-Ps14:3\">PSA 14:1–14:3</a> parallel <a href=\"https://ref.ly/Ps53:1-Ps53:3\">PSA 53:1–53:3</a>; <a href=\"https://ref.ly/Prov4:24\">PRO 4:24</a>, <a href=\"https://ref.ly/Prov6:12\">PRO 6:12</a>; <a href=\"https://ref.ly/Hos9:9\">HOS 9:9</a>; <a href=\"https://ref.ly/Phil2:15\">PHP 2:15</a>; <a href=\"https://ref.ly/Titus1:15-Titus1:16\">TIT 1:15–1:16</a></p>\n<h2>The gospel breaks the power of corruption</h2>\n<p><strong><a href=\"https://ref.ly/2Pet1:4\">2PE 1:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor7:1-2Cor7:2\">2CO 7:1–7:2</a>; <a href=\"https://ref.ly/2Pet2:20\">2PE 2:20</a>; <a href=\"https://ref.ly/Jude1:23\">JUD 1:23</a></p>\n<h2>Examples and causes of corruption</h2>\n<h3>Corruption as injustice</h3>\n<p><strong><a href=\"https://ref.ly/Ps55:23\">PSA 55:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr19:7\">2CH 19:7</a>; <a href=\"https://ref.ly/Job5:16\">JOB 5:16</a>; <a href=\"https://ref.ly/Isa58:6\">ISA 58:6</a>; <a href=\"https://ref.ly/Ezek9:9\">EZK 9:9</a></p>\n<h3>Disobedience towards God</h3>\n<p><strong><a href=\"https://ref.ly/Deut31:29\">DEU 31:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut32:5\">DEU 32:5</a>; <a href=\"https://ref.ly/Judg2:19\">JDG 2:19</a></p>\n<h3>Denying the truth</h3>\n<p><a href=\"https://ref.ly/1Tim6:5\">1TI 6:5</a></p>\n<h3>Paganism</h3>\n<p><a href=\"https://ref.ly/Ezra9:11\">EZR 9:11</a></p>\n<h3>Mocking justice</h3>\n<p><strong><a href=\"https://ref.ly/Prov19:28\">PRO 19:28</a></strong></p>\n<h3>Taking bribes</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Eccl7:7\">ECC 7:7</a></p>\n<h3>Bad company</h3>\n<p><a href=\"https://ref.ly/1Cor15:33\">1CO 15:33</a></p>\n<h3>Careless talk</h3>\n<p><strong><a href=\"https://ref.ly/Jas3:5-Jas3:6\">JAS 3:5–3:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov4:24\">PRO 4:24</a>, <a href=\"https://ref.ly/Prov6:12\">PRO 6:12</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006011",
+"start_ref_usfm": "GEN 6:11",
+"end_ref": "01006011",
+"end_ref_usfm": "GEN 6:11"
+},
+{
+"start_ref": "23001004",
+"start_ref_usfm": "ISA 1:4",
+"end_ref": "23001004",
+"end_ref_usfm": "ISA 1:4"
+},
+{
+"start_ref": "44002040",
+"start_ref_usfm": "ACT 2:40",
+"end_ref": "44002040",
+"end_ref_usfm": "ACT 2:40"
+},
+{
+"start_ref": "05032020",
+"start_ref_usfm": "DEU 32:20",
+"end_ref": "05032020",
+"end_ref_usfm": "DEU 32:20"
+},
+{
+"start_ref": "18015016",
+"start_ref_usfm": "JOB 15:16",
+"end_ref": "18015016",
+"end_ref_usfm": "JOB 15:16"
+},
+{
+"start_ref": "19014001",
+"start_ref_usfm": "PSA 14:1",
+"end_ref": "19014003",
+"end_ref_usfm": "PSA 14:3"
+},
+{
+"start_ref": "19053001",
+"start_ref_usfm": "PSA 53:1",
+"end_ref": "19053003",
+"end_ref_usfm": "PSA 53:3"
+},
+{
+"start_ref": "20004024",
+"start_ref_usfm": "PRO 4:24",
+"end_ref": "20004024",
+"end_ref_usfm": "PRO 4:24"
+},
+{
+"start_ref": "20006012",
+"start_ref_usfm": "PRO 6:12",
+"end_ref": "20006012",
+"end_ref_usfm": "PRO 6:12"
+},
+{
+"start_ref": "28009009",
+"start_ref_usfm": "HOS 9:9",
+"end_ref": "28009009",
+"end_ref_usfm": "HOS 9:9"
+},
+{
+"start_ref": "50002015",
+"start_ref_usfm": "PHP 2:15",
+"end_ref": "50002015",
+"end_ref_usfm": "PHP 2:15"
+},
+{
+"start_ref": "56001015",
+"start_ref_usfm": "TIT 1:15",
+"end_ref": "56001016",
+"end_ref_usfm": "TIT 1:16"
+},
+{
+"start_ref": "61001004",
+"start_ref_usfm": "2PE 1:4",
+"end_ref": "61001004",
+"end_ref_usfm": "2PE 1:4"
+},
+{
+"start_ref": "47007001",
+"start_ref_usfm": "2CO 7:1",
+"end_ref": "47007002",
+"end_ref_usfm": "2CO 7:2"
+},
+{
+"start_ref": "61002020",
+"start_ref_usfm": "2PE 2:20",
+"end_ref": "61002020",
+"end_ref_usfm": "2PE 2:20"
+},
+{
+"start_ref": "65001023",
+"start_ref_usfm": "JUD 1:23",
+"end_ref": "65001023",
+"end_ref_usfm": "JUD 1:23"
+},
+{
+"start_ref": "19055023",
+"start_ref_usfm": "PSA 55:23",
+"end_ref": "19055023",
+"end_ref_usfm": "PSA 55:23"
+},
+{
+"start_ref": "14019007",
+"start_ref_usfm": "2CH 19:7",
+"end_ref": "14019007",
+"end_ref_usfm": "2CH 19:7"
+},
+{
+"start_ref": "18005016",
+"start_ref_usfm": "JOB 5:16",
+"end_ref": "18005016",
+"end_ref_usfm": "JOB 5:16"
+},
+{
+"start_ref": "23058006",
+"start_ref_usfm": "ISA 58:6",
+"end_ref": "23058006",
+"end_ref_usfm": "ISA 58:6"
+},
+{
+"start_ref": "26009009",
+"start_ref_usfm": "EZK 9:9",
+"end_ref": "26009009",
+"end_ref_usfm": "EZK 9:9"
+},
+{
+"start_ref": "05031029",
+"start_ref_usfm": "DEU 31:29",
+"end_ref": "05031029",
+"end_ref_usfm": "DEU 31:29"
+},
+{
+"start_ref": "05032005",
+"start_ref_usfm": "DEU 32:5",
+"end_ref": "05032005",
+"end_ref_usfm": "DEU 32:5"
+},
+{
+"start_ref": "07002019",
+"start_ref_usfm": "JDG 2:19",
+"end_ref": "07002019",
+"end_ref_usfm": "JDG 2:19"
+},
+{
+"start_ref": "54006005",
+"start_ref_usfm": "1TI 6:5",
+"end_ref": "54006005",
+"end_ref_usfm": "1TI 6:5"
+},
+{
+"start_ref": "15009011",
+"start_ref_usfm": "EZR 9:11",
+"end_ref": "15009011",
+"end_ref_usfm": "EZR 9:11"
+},
+{
+"start_ref": "20019028",
+"start_ref_usfm": "PRO 19:28",
+"end_ref": "20019028",
+"end_ref_usfm": "PRO 19:28"
+},
+{
+"start_ref": "21007007",
+"start_ref_usfm": "ECC 7:7",
+"end_ref": "21007007",
+"end_ref_usfm": "ECC 7:7"
+},
+{
+"start_ref": "46015033",
+"start_ref_usfm": "1CO 15:33",
+"end_ref": "46015033",
+"end_ref_usfm": "1CO 15:33"
+},
+{
+"start_ref": "59003005",
+"start_ref_usfm": "JAS 3:5",
+"end_ref": "59003006",
+"end_ref_usfm": "JAS 3:6"
+}
+],
+"resource": [
+{
+"reference_id": "4263",
+"content_id": "4263",
+"resource_code": "DictionaryBibleThemes",
+"label": "4263: Rome",
+"language": "eng"
+},
+{
+"reference_id": "5020",
+"content_id": "5020",
+"resource_code": "DictionaryBibleThemes",
+"label": "5020: human nature",
+"language": "eng"
+},
+{
+"reference_id": "6142",
+"content_id": "6142",
+"resource_code": "DictionaryBibleThemes",
+"label": "6142: decay",
+"language": "eng"
+},
+{
+"reference_id": "6185",
+"content_id": "6185",
+"resource_code": "DictionaryBibleThemes",
+"label": "6185: imagination, inward desires",
+"language": "eng"
+},
+{
+"reference_id": "8714",
+"content_id": "8714",
+"resource_code": "DictionaryBibleThemes",
+"label": "8714: dishonesty",
+"language": "eng"
+},
+{
+"reference_id": "8734",
+"content_id": "8734",
+"resource_code": "DictionaryBibleThemes",
+"label": "8734: evil",
+"language": "eng"
+}
+]
+}
+}
+]

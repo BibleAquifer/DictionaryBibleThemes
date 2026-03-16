@@ -1,0 +1,46 @@
+[
+{
+"content_id": "9410",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9410: heaven",
+"media_type": "Text",
+"index_reference": "9410: heaven",
+"language": "eng",
+"review_level": "None",
+"content": "<p>God's habitation where he is worshipped and served by angels. Solely on account of the sacrifice of Jesus Christ on the cross, believers will inherit a place in heaven and there for ever enjoy perfect fellowship with God in his worship and service.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "9411",
+"content_id": "9411",
+"resource_code": "DictionaryBibleThemes",
+"label": "9411: heaven, nature of",
+"language": "eng"
+},
+{
+"reference_id": "9412",
+"content_id": "9412",
+"resource_code": "DictionaryBibleThemes",
+"label": "9412: heaven, worship and service in",
+"language": "eng"
+},
+{
+"reference_id": "9413",
+"content_id": "9413",
+"resource_code": "DictionaryBibleThemes",
+"label": "9413: heaven, inheritance of",
+"language": "eng"
+},
+{
+"reference_id": "9414",
+"content_id": "9414",
+"resource_code": "DictionaryBibleThemes",
+"label": "9414: heaven, as community of the redeemed",
+"language": "eng"
+}
+]
+}
+}
+]

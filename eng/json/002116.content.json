@@ -1,0 +1,60 @@
+[
+{
+"content_id": "8283",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8283: joy",
+"media_type": "Text",
+"index_reference": "8283: joy",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A quality or attitude of delight and happiness, which is ultimately grounded in the work of God as Father, Son and Holy Spirit. Among the many situations in which joy is experienced, Scripture recognises as supreme being accepted in the presence of God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8284",
+"content_id": "8284",
+"resource_code": "DictionaryBibleThemes",
+"label": "8284: joy, of God",
+"language": "eng"
+},
+{
+"reference_id": "8285",
+"content_id": "8285",
+"resource_code": "DictionaryBibleThemes",
+"label": "8285: joy, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "8286",
+"content_id": "8286",
+"resource_code": "DictionaryBibleThemes",
+"label": "8286: joy, of Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "8287",
+"content_id": "8287",
+"resource_code": "DictionaryBibleThemes",
+"label": "8287: joy, and human experience",
+"language": "eng"
+},
+{
+"reference_id": "8288",
+"content_id": "8288",
+"resource_code": "DictionaryBibleThemes",
+"label": "8288: joy, of Israel",
+"language": "eng"
+},
+{
+"reference_id": "8289",
+"content_id": "8289",
+"resource_code": "DictionaryBibleThemes",
+"label": "8289: joy, of the church",
+"language": "eng"
+}
+]
+}
+}
+]

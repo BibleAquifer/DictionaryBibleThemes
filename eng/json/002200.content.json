@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8408",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8408: decision-making",
+"media_type": "Text",
+"index_reference": "8408: decision-making",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The ability to arrive at a decision after due consideration of all the factors involved. The Christian life involves making decisions at many levels. Scripture offers guidance concerning how such decisions should be made, and provides examples of good and bad decision-making.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8409",
+"content_id": "8409",
+"resource_code": "DictionaryBibleThemes",
+"label": "8409: decision-making, and providence",
+"language": "eng"
+},
+{
+"reference_id": "8410",
+"content_id": "8410",
+"resource_code": "DictionaryBibleThemes",
+"label": "8410: decision-making, examples of",
+"language": "eng"
+}
+]
+}
+}
+]

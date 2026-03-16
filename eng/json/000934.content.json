@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5347",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5347: injustice",
+"media_type": "Text",
+"index_reference": "5347: injustice",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The unnecessary and unjustified ill treatment of others, through false accusation or through the inflicting of pain or punishment. Having its origin in Satan, it works through the sinful human heart and shows itself in every sphere of life. It merits the wrath of God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5348",
+"content_id": "5348",
+"resource_code": "DictionaryBibleThemes",
+"label": "5348: injustice, nature and source of",
+"language": "eng"
+},
+{
+"reference_id": "5349",
+"content_id": "5349",
+"resource_code": "DictionaryBibleThemes",
+"label": "5349: injustice, examples of",
+"language": "eng"
+},
+{
+"reference_id": "5350",
+"content_id": "5350",
+"resource_code": "DictionaryBibleThemes",
+"label": "5350: injustice, hated by God",
+"language": "eng"
+}
+]
+}
+}
+]

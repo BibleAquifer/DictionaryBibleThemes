@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5359",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5359: justice",
+"media_type": "Text",
+"index_reference": "5359: justice",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A concern to act rightly, and to be seen by others to act rightly. Divine justice embraces every aspect of the right ordering of human society according to the will of God, its creator.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5360",
+"content_id": "5360",
+"resource_code": "DictionaryBibleThemes",
+"label": "5360: justice, of God",
+"language": "eng"
+},
+{
+"reference_id": "5361",
+"content_id": "5361",
+"resource_code": "DictionaryBibleThemes",
+"label": "5361: justice, human",
+"language": "eng"
+},
+{
+"reference_id": "5362",
+"content_id": "5362",
+"resource_code": "DictionaryBibleThemes",
+"label": "5362: justice, in believers' lives",
+"language": "eng"
+}
+]
+}
+}
+]

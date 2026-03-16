@@ -1,0 +1,53 @@
+[
+{
+"content_id": "6686",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6686: mercy",
+"media_type": "Text",
+"index_reference": "6686: mercy",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A quality of compassion, especially as expressed in God's forgiveness of human sin. Scripture stresses God's forbearance towards sinners. In his mercy, God shields sinners from what they deserve and gives gifts that they do not deserve.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6687",
+"content_id": "6687",
+"resource_code": "DictionaryBibleThemes",
+"label": "6687: mercy, nature of God's",
+"language": "eng"
+},
+{
+"reference_id": "6688",
+"content_id": "6688",
+"resource_code": "DictionaryBibleThemes",
+"label": "6688: mercy, demonstration of God's",
+"language": "eng"
+},
+{
+"reference_id": "6689",
+"content_id": "6689",
+"resource_code": "DictionaryBibleThemes",
+"label": "6689: mercy, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "6690",
+"content_id": "6690",
+"resource_code": "DictionaryBibleThemes",
+"label": "6690: mercy, response to God's",
+"language": "eng"
+},
+{
+"reference_id": "6691",
+"content_id": "6691",
+"resource_code": "DictionaryBibleThemes",
+"label": "6691: mercy, human",
+"language": "eng"
+}
+]
+}
+}
+]

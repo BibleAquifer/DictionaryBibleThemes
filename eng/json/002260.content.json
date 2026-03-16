@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8477",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8477: self-examination",
+"media_type": "Text",
+"index_reference": "8477: self-examination",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Reflection on one's own character, motives and actions, in order to judge whether they are truly in accordance with Christian values.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8478",
+"content_id": "8478",
+"resource_code": "DictionaryBibleThemes",
+"label": "8478: self-examination, teaching on",
+"language": "eng"
+},
+{
+"reference_id": "8479",
+"content_id": "8479",
+"resource_code": "DictionaryBibleThemes",
+"label": "8479: self-examination, examples of",
+"language": "eng"
+}
+]
+}
+}
+]

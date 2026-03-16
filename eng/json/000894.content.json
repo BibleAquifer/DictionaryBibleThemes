@@ -1,0 +1,248 @@
+[
+{
+"content_id": "5307",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5307: envoy",
+"media_type": "Text",
+"index_reference": "5307: envoy",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An official representative sent on behalf of a king or government to other kings or nations. Believers are God's envoys to his world, bearing the good news of salvation on his behalf.</p>\n<h2>Envoys sent to other kings or governments</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Ps68:31\">PSA 68:31</a>; <a href=\"https://ref.ly/Prov13:17\">PRO 13:17</a>; <a href=\"https://ref.ly/Isa30:4\">ISA 30:4</a></p>\n<h3>To continue or promote good relations</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs5:1\">1KI 5:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam10:2\">2SA 10:2</a> parallel <a href=\"https://ref.ly/1Chr19:2\">1CH 19:2</a>; <a href=\"https://ref.ly/2Kgs20:12-2Kgs20:13\">2KI 20:12–20:13</a> parallel <a href=\"https://ref.ly/Isa39:1-Isa39:2\">ISA 39:1–39:2</a>; <a href=\"https://ref.ly/Isa30:6\">ISA 30:6</a>, <a href=\"https://ref.ly/Isa57:9\">ISA 57:9</a> <em>in this instance with godless nations</em></p>\n<h3>To deceive</h3>\n<p><a href=\"https://ref.ly/Josh9:4\">JOS 9:4</a></p>\n<h3>To ask for military help</h3>\n<p><a href=\"https://ref.ly/2Kgs17:4\">2KI 17:4</a>; ; <a href=\"https://ref.ly/Ezek17:15\">EZK 17:15</a></p>\n<h3>To make enquiries</h3>\n<p><a href=\"https://ref.ly/2Chr32:31\">2CH 32:31</a>; ; <a href=\"https://ref.ly/Isa14:32\">ISA 14:32</a></p>\n<h3>With a message to prepare for war</h3>\n<p><a href=\"https://ref.ly/Isa18:2\">ISA 18:2</a>; ; <a href=\"https://ref.ly/Jer49:14\">JER 49:14</a> parallel <a href=\"https://ref.ly/Obad1:1\">OBA 1:1</a></p>\n<h3>To negotiate for peace</h3>\n<p><a href=\"https://ref.ly/Isa33:7\">ISA 33:7</a>; ; <a href=\"https://ref.ly/Luke14:32\">LUK 14:32</a></p>\n<h3>With a message of God's judgment to the nations</h3>\n<p><a href=\"https://ref.ly/Jer27:3\">JER 27:3</a></p>\n<h3>With a message of rebellion</h3>\n<p><a href=\"https://ref.ly/Luke19:14\">LUK 19:14</a></p>\n<h2>Believers are God's envoys to his world</h2>\n<p><strong><a href=\"https://ref.ly/2Cor5:20\">2CO 5:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt28:19\">MAT 28:19</a>; <a href=\"https://ref.ly/John17:18\">JHN 17:18</a>, <a href=\"https://ref.ly/John20:21\">JHN 20:21</a>; <a href=\"https://ref.ly/Rom10:15\">ROM 10:15</a>; <a href=\"https://ref.ly/Isa52:7\">ISA 52:7</a>; <a href=\"https://ref.ly/2Cor2:17\">2CO 2:17</a>; <a href=\"https://ref.ly/Eph6:20\">EPH 6:20</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19068031",
+"start_ref_usfm": "PSA 68:31",
+"end_ref": "19068031",
+"end_ref_usfm": "PSA 68:31"
+},
+{
+"start_ref": "20013017",
+"start_ref_usfm": "PRO 13:17",
+"end_ref": "20013017",
+"end_ref_usfm": "PRO 13:17"
+},
+{
+"start_ref": "23030004",
+"start_ref_usfm": "ISA 30:4",
+"end_ref": "23030004",
+"end_ref_usfm": "ISA 30:4"
+},
+{
+"start_ref": "11005001",
+"start_ref_usfm": "1KI 5:1",
+"end_ref": "11005001",
+"end_ref_usfm": "1KI 5:1"
+},
+{
+"start_ref": "10010002",
+"start_ref_usfm": "2SA 10:2",
+"end_ref": "10010002",
+"end_ref_usfm": "2SA 10:2"
+},
+{
+"start_ref": "13019002",
+"start_ref_usfm": "1CH 19:2",
+"end_ref": "13019002",
+"end_ref_usfm": "1CH 19:2"
+},
+{
+"start_ref": "12020012",
+"start_ref_usfm": "2KI 20:12",
+"end_ref": "12020013",
+"end_ref_usfm": "2KI 20:13"
+},
+{
+"start_ref": "23039001",
+"start_ref_usfm": "ISA 39:1",
+"end_ref": "23039002",
+"end_ref_usfm": "ISA 39:2"
+},
+{
+"start_ref": "23030006",
+"start_ref_usfm": "ISA 30:6",
+"end_ref": "23030006",
+"end_ref_usfm": "ISA 30:6"
+},
+{
+"start_ref": "23057009",
+"start_ref_usfm": "ISA 57:9",
+"end_ref": "23057009",
+"end_ref_usfm": "ISA 57:9"
+},
+{
+"start_ref": "06009004",
+"start_ref_usfm": "JOS 9:4",
+"end_ref": "06009004",
+"end_ref_usfm": "JOS 9:4"
+},
+{
+"start_ref": "12017004",
+"start_ref_usfm": "2KI 17:4",
+"end_ref": "12017004",
+"end_ref_usfm": "2KI 17:4"
+},
+{
+"start_ref": "26017015",
+"start_ref_usfm": "EZK 17:15",
+"end_ref": "26017015",
+"end_ref_usfm": "EZK 17:15"
+},
+{
+"start_ref": "14032031",
+"start_ref_usfm": "2CH 32:31",
+"end_ref": "14032031",
+"end_ref_usfm": "2CH 32:31"
+},
+{
+"start_ref": "23014032",
+"start_ref_usfm": "ISA 14:32",
+"end_ref": "23014032",
+"end_ref_usfm": "ISA 14:32"
+},
+{
+"start_ref": "23018002",
+"start_ref_usfm": "ISA 18:2",
+"end_ref": "23018002",
+"end_ref_usfm": "ISA 18:2"
+},
+{
+"start_ref": "24049014",
+"start_ref_usfm": "JER 49:14",
+"end_ref": "24049014",
+"end_ref_usfm": "JER 49:14"
+},
+{
+"start_ref": "31001001",
+"start_ref_usfm": "OBA 1:1",
+"end_ref": "31001001",
+"end_ref_usfm": "OBA 1:1"
+},
+{
+"start_ref": "23033007",
+"start_ref_usfm": "ISA 33:7",
+"end_ref": "23033007",
+"end_ref_usfm": "ISA 33:7"
+},
+{
+"start_ref": "42014032",
+"start_ref_usfm": "LUK 14:32",
+"end_ref": "42014032",
+"end_ref_usfm": "LUK 14:32"
+},
+{
+"start_ref": "24027003",
+"start_ref_usfm": "JER 27:3",
+"end_ref": "24027003",
+"end_ref_usfm": "JER 27:3"
+},
+{
+"start_ref": "42019014",
+"start_ref_usfm": "LUK 19:14",
+"end_ref": "42019014",
+"end_ref_usfm": "LUK 19:14"
+},
+{
+"start_ref": "47005020",
+"start_ref_usfm": "2CO 5:20",
+"end_ref": "47005020",
+"end_ref_usfm": "2CO 5:20"
+},
+{
+"start_ref": "40028019",
+"start_ref_usfm": "MAT 28:19",
+"end_ref": "40028019",
+"end_ref_usfm": "MAT 28:19"
+},
+{
+"start_ref": "43017018",
+"start_ref_usfm": "JHN 17:18",
+"end_ref": "43017018",
+"end_ref_usfm": "JHN 17:18"
+},
+{
+"start_ref": "43020021",
+"start_ref_usfm": "JHN 20:21",
+"end_ref": "43020021",
+"end_ref_usfm": "JHN 20:21"
+},
+{
+"start_ref": "45010015",
+"start_ref_usfm": "ROM 10:15",
+"end_ref": "45010015",
+"end_ref_usfm": "ROM 10:15"
+},
+{
+"start_ref": "23052007",
+"start_ref_usfm": "ISA 52:7",
+"end_ref": "23052007",
+"end_ref_usfm": "ISA 52:7"
+},
+{
+"start_ref": "47002017",
+"start_ref_usfm": "2CO 2:17",
+"end_ref": "47002017",
+"end_ref_usfm": "2CO 2:17"
+},
+{
+"start_ref": "49006020",
+"start_ref_usfm": "EPH 6:20",
+"end_ref": "49006020",
+"end_ref_usfm": "EPH 6:20"
+}
+],
+"resource": [
+{
+"reference_id": "5408",
+"content_id": "5408",
+"resource_code": "DictionaryBibleThemes",
+"label": "5408: messenger",
+"language": "eng"
+},
+{
+"reference_id": "7105",
+"content_id": "7105",
+"resource_code": "DictionaryBibleThemes",
+"label": "7105: believers",
+"language": "eng"
+},
+{
+"reference_id": "7706",
+"content_id": "7706",
+"resource_code": "DictionaryBibleThemes",
+"label": "7706: apostles",
+"language": "eng"
+},
+{
+"reference_id": "7724",
+"content_id": "7724",
+"resource_code": "DictionaryBibleThemes",
+"label": "7724: evangelists",
+"language": "eng"
+},
+{
+"reference_id": "7739",
+"content_id": "7739",
+"resource_code": "DictionaryBibleThemes",
+"label": "7739: missionaries",
+"language": "eng"
+},
+{
+"reference_id": "7754",
+"content_id": "7754",
+"resource_code": "DictionaryBibleThemes",
+"label": "7754: preaching",
+"language": "eng"
+},
+{
+"reference_id": "8424",
+"content_id": "8424",
+"resource_code": "DictionaryBibleThemes",
+"label": "8424: evangelism",
+"language": "eng"
+}
+]
+}
+}
+]

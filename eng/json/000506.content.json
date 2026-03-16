@@ -1,0 +1,317 @@
+[
+{
+"content_id": "4636",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4636: dove",
+"media_type": "Text",
+"index_reference": "4636: dove",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A common species of bird. In Scripture the dove symbolises the Spirit of God, and also certain kinds of human behaviour.</p>\n<h2>A kind of bird</h2>\n<p><a href=\"https://ref.ly/Gen8:8-Gen8:12\">GEN 8:8–8:12</a>; ; <a href=\"https://ref.ly/Song2:12\">SNG 2:12</a>; ; <a href=\"https://ref.ly/Jer8:7\">JER 8:7</a></p>\n<h2>Doves as sacrifices for those who were poor</h2>\n<p><strong><a href=\"https://ref.ly/Lev5:7\">LEV 5:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen15:9\">GEN 15:9</a>; <a href=\"https://ref.ly/Lev1:14\">LEV 1:14</a>, <a href=\"https://ref.ly/Lev5:11\">LEV 5:11</a>, <a href=\"https://ref.ly/Lev12:6-Lev12:8\">LEV 12:6–12:8</a>, <a href=\"https://ref.ly/Lev14:22\">LEV 14:22</a>, <a href=\"https://ref.ly/Lev14:30\">LEV 14:30</a>, <a href=\"https://ref.ly/Lev15:14\">LEV 15:14</a>, <a href=\"https://ref.ly/Lev15:29\">LEV 15:29</a>; <a href=\"https://ref.ly/Num6:10\">NUM 6:10</a>; <a href=\"https://ref.ly/Matt21:12\">MAT 21:12</a> parallel <a href=\"https://ref.ly/Mark11:15\">MRK 11:15</a>; <a href=\"https://ref.ly/Luke2:24\">LUK 2:24</a>; <a href=\"https://ref.ly/John2:14\">JHN 2:14</a></p>\n<h2>``Dove'' as a term of endearment</h2>\n<p><a href=\"https://ref.ly/Song2:14\">SNG 2:14</a>, <a href=\"https://ref.ly/Song5:2\">SNG 5:2</a>, <a href=\"https://ref.ly/Song6:9\">SNG 6:9</a></p>\n<h3>Israel as God's ``dove''</h3>\n<p><a href=\"https://ref.ly/Ps68:13\">PSA 68:13</a>, <a href=\"https://ref.ly/Ps74:19\">PSA 74:19</a></p>\n<h2>``Dove'' used figuratively</h2>\n<p><a href=\"https://ref.ly/Ps55:6\">PSA 55:6</a>; ; <a href=\"https://ref.ly/Song1:15\">SNG 1:15</a>, <a href=\"https://ref.ly/Song4:1\">SNG 4:1</a>, <a href=\"https://ref.ly/Song5:12\">SNG 5:12</a>; ; <a href=\"https://ref.ly/Isa38:14\">ISA 38:14</a>, <a href=\"https://ref.ly/Isa59:11\">ISA 59:11</a>; ; <a href=\"https://ref.ly/Jer48:28\">JER 48:28</a>; ; <a href=\"https://ref.ly/Ezek7:16\">EZK 7:16</a>; ; <a href=\"https://ref.ly/Hos7:11\">HOS 7:11</a>, <a href=\"https://ref.ly/Hos11:11\">HOS 11:11</a>; ; <a href=\"https://ref.ly/Nah2:7\">NAM 2:7</a>; ; <a href=\"https://ref.ly/Matt10:16\">MAT 10:16</a></p>\n<h2>The dove as a symbol of the Spirit of God</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:16\">MAT 3:16</a></strong> parallels <a href=\"https://ref.ly/Mark1:10\">MRK 1:10</a>, <a href=\"https://ref.ly/Luke3:22\">LUK 3:22</a>, <a href=\"https://ref.ly/John1:32-John1:34\">JHN 1:32–1:34</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01008008",
+"start_ref_usfm": "GEN 8:8",
+"end_ref": "01008012",
+"end_ref_usfm": "GEN 8:12"
+},
+{
+"start_ref": "22002012",
+"start_ref_usfm": "SNG 2:12",
+"end_ref": "22002012",
+"end_ref_usfm": "SNG 2:12"
+},
+{
+"start_ref": "24008007",
+"start_ref_usfm": "JER 8:7",
+"end_ref": "24008007",
+"end_ref_usfm": "JER 8:7"
+},
+{
+"start_ref": "03005007",
+"start_ref_usfm": "LEV 5:7",
+"end_ref": "03005007",
+"end_ref_usfm": "LEV 5:7"
+},
+{
+"start_ref": "01015009",
+"start_ref_usfm": "GEN 15:9",
+"end_ref": "01015009",
+"end_ref_usfm": "GEN 15:9"
+},
+{
+"start_ref": "03001014",
+"start_ref_usfm": "LEV 1:14",
+"end_ref": "03001014",
+"end_ref_usfm": "LEV 1:14"
+},
+{
+"start_ref": "03005011",
+"start_ref_usfm": "LEV 5:11",
+"end_ref": "03005011",
+"end_ref_usfm": "LEV 5:11"
+},
+{
+"start_ref": "03012006",
+"start_ref_usfm": "LEV 12:6",
+"end_ref": "03012008",
+"end_ref_usfm": "LEV 12:8"
+},
+{
+"start_ref": "03014022",
+"start_ref_usfm": "LEV 14:22",
+"end_ref": "03014022",
+"end_ref_usfm": "LEV 14:22"
+},
+{
+"start_ref": "03014030",
+"start_ref_usfm": "LEV 14:30",
+"end_ref": "03014030",
+"end_ref_usfm": "LEV 14:30"
+},
+{
+"start_ref": "03015014",
+"start_ref_usfm": "LEV 15:14",
+"end_ref": "03015014",
+"end_ref_usfm": "LEV 15:14"
+},
+{
+"start_ref": "03015029",
+"start_ref_usfm": "LEV 15:29",
+"end_ref": "03015029",
+"end_ref_usfm": "LEV 15:29"
+},
+{
+"start_ref": "04006010",
+"start_ref_usfm": "NUM 6:10",
+"end_ref": "04006010",
+"end_ref_usfm": "NUM 6:10"
+},
+{
+"start_ref": "40021012",
+"start_ref_usfm": "MAT 21:12",
+"end_ref": "40021012",
+"end_ref_usfm": "MAT 21:12"
+},
+{
+"start_ref": "41011015",
+"start_ref_usfm": "MRK 11:15",
+"end_ref": "41011015",
+"end_ref_usfm": "MRK 11:15"
+},
+{
+"start_ref": "42002024",
+"start_ref_usfm": "LUK 2:24",
+"end_ref": "42002024",
+"end_ref_usfm": "LUK 2:24"
+},
+{
+"start_ref": "43002014",
+"start_ref_usfm": "JHN 2:14",
+"end_ref": "43002014",
+"end_ref_usfm": "JHN 2:14"
+},
+{
+"start_ref": "22002014",
+"start_ref_usfm": "SNG 2:14",
+"end_ref": "22002014",
+"end_ref_usfm": "SNG 2:14"
+},
+{
+"start_ref": "22005002",
+"start_ref_usfm": "SNG 5:2",
+"end_ref": "22005002",
+"end_ref_usfm": "SNG 5:2"
+},
+{
+"start_ref": "22006009",
+"start_ref_usfm": "SNG 6:9",
+"end_ref": "22006009",
+"end_ref_usfm": "SNG 6:9"
+},
+{
+"start_ref": "19068013",
+"start_ref_usfm": "PSA 68:13",
+"end_ref": "19068013",
+"end_ref_usfm": "PSA 68:13"
+},
+{
+"start_ref": "19074019",
+"start_ref_usfm": "PSA 74:19",
+"end_ref": "19074019",
+"end_ref_usfm": "PSA 74:19"
+},
+{
+"start_ref": "19055006",
+"start_ref_usfm": "PSA 55:6",
+"end_ref": "19055006",
+"end_ref_usfm": "PSA 55:6"
+},
+{
+"start_ref": "22001015",
+"start_ref_usfm": "SNG 1:15",
+"end_ref": "22001015",
+"end_ref_usfm": "SNG 1:15"
+},
+{
+"start_ref": "22004001",
+"start_ref_usfm": "SNG 4:1",
+"end_ref": "22004001",
+"end_ref_usfm": "SNG 4:1"
+},
+{
+"start_ref": "22005012",
+"start_ref_usfm": "SNG 5:12",
+"end_ref": "22005012",
+"end_ref_usfm": "SNG 5:12"
+},
+{
+"start_ref": "23038014",
+"start_ref_usfm": "ISA 38:14",
+"end_ref": "23038014",
+"end_ref_usfm": "ISA 38:14"
+},
+{
+"start_ref": "23059011",
+"start_ref_usfm": "ISA 59:11",
+"end_ref": "23059011",
+"end_ref_usfm": "ISA 59:11"
+},
+{
+"start_ref": "24048028",
+"start_ref_usfm": "JER 48:28",
+"end_ref": "24048028",
+"end_ref_usfm": "JER 48:28"
+},
+{
+"start_ref": "26007016",
+"start_ref_usfm": "EZK 7:16",
+"end_ref": "26007016",
+"end_ref_usfm": "EZK 7:16"
+},
+{
+"start_ref": "28007011",
+"start_ref_usfm": "HOS 7:11",
+"end_ref": "28007011",
+"end_ref_usfm": "HOS 7:11"
+},
+{
+"start_ref": "28011011",
+"start_ref_usfm": "HOS 11:11",
+"end_ref": "28011011",
+"end_ref_usfm": "HOS 11:11"
+},
+{
+"start_ref": "34002007",
+"start_ref_usfm": "NAM 2:7",
+"end_ref": "34002007",
+"end_ref_usfm": "NAM 2:7"
+},
+{
+"start_ref": "40010016",
+"start_ref_usfm": "MAT 10:16",
+"end_ref": "40010016",
+"end_ref_usfm": "MAT 10:16"
+},
+{
+"start_ref": "40003016",
+"start_ref_usfm": "MAT 3:16",
+"end_ref": "40003016",
+"end_ref_usfm": "MAT 3:16"
+},
+{
+"start_ref": "41001010",
+"start_ref_usfm": "MRK 1:10",
+"end_ref": "41001010",
+"end_ref_usfm": "MRK 1:10"
+},
+{
+"start_ref": "42003022",
+"start_ref_usfm": "LUK 3:22",
+"end_ref": "42003022",
+"end_ref_usfm": "LUK 3:22"
+},
+{
+"start_ref": "43001032",
+"start_ref_usfm": "JHN 1:32",
+"end_ref": "43001034",
+"end_ref_usfm": "JHN 1:34"
+}
+],
+"resource": [
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "2510",
+"content_id": "2510",
+"resource_code": "DictionaryBibleThemes",
+"label": "2510: Jesus Christ, baptism of",
+"language": "eng"
+},
+{
+"reference_id": "3120",
+"content_id": "3120",
+"resource_code": "DictionaryBibleThemes",
+"label": "3120: Holy Spirit, descriptions of",
+"language": "eng"
+},
+{
+"reference_id": "3269",
+"content_id": "3269",
+"resource_code": "DictionaryBibleThemes",
+"label": "3269: Holy Spirit, in life of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "4612",
+"content_id": "4612",
+"resource_code": "DictionaryBibleThemes",
+"label": "4612: birds",
+"language": "eng"
+},
+{
+"reference_id": "4678",
+"content_id": "4678",
+"resource_code": "DictionaryBibleThemes",
+"label": "4678: pigeon",
+"language": "eng"
+},
+{
+"reference_id": "7435",
+"content_id": "7435",
+"resource_code": "DictionaryBibleThemes",
+"label": "7435: sacrifice, in OT",
+"language": "eng"
+},
+{
+"reference_id": "8264",
+"content_id": "8264",
+"resource_code": "DictionaryBibleThemes",
+"label": "8264: gentleness",
+"language": "eng"
+},
+{
+"reference_id": "8277",
+"content_id": "8277",
+"resource_code": "DictionaryBibleThemes",
+"label": "8277: innocence",
+"language": "eng"
+},
+{
+"reference_id": "8299",
+"content_id": "8299",
+"resource_code": "DictionaryBibleThemes",
+"label": "8299: love, in relationships",
+"language": "eng"
+}
+]
+}
+}
+]

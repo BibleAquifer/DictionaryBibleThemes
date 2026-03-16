@@ -1,0 +1,142 @@
+[
+{
+"content_id": "6253",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6253: temptation, avoiding causing",
+"media_type": "Text",
+"index_reference": "6253: temptation, avoiding causing",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Any behaviour which might cause others to do wrong is to be avoided.</p>\n<h2>Warnings not to cause temptation</h2>\n<p><strong><a href=\"https://ref.ly/Luke17:1\">LUK 17:1</a></strong></p>\n<h2>Special care is needed to avoid tempting those whose faith is young</h2>\n<p><strong><a href=\"https://ref.ly/Matt18:6\">MAT 18:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark9:42\">MRK 9:42</a>; <a href=\"https://ref.ly/Luke17:2\">LUK 17:2</a></p>\n<h2>Temptation is linked to passing judgment on others</h2>\n<p><strong><a href=\"https://ref.ly/Rom14:13\">ROM 14:13</a></strong></p>\n<h2>Allowance must be made to avoid causing temptation to those whose faith is weak</h2>\n<p><strong><a href=\"https://ref.ly/Rom14:15\">ROM 14:15</a>, <a href=\"https://ref.ly/Rom14:21\">ROM 14:21</a></strong></p>\n<h2>Avoiding causing temptation by exercising Christian freedom responsibly</h2>\n<p><strong><a href=\"https://ref.ly/1Cor8:9-1Cor8:13\">1CO 8:9–8:13</a></strong></p>\n<h2>Examples of causing temptation</h2>\n<p><strong><a href=\"https://ref.ly/Num25:1-Num25:2\">NUM 25:1–25:2</a></strong>; <strong><a href=\"https://ref.ly/Prov16:29\">PRO 16:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hab2:15\">HAB 2:15</a>; <a href=\"https://ref.ly/Matt18:6\">MAT 18:6</a></p>\n<h2>Examples of restraining sin or temptation</h2>\n<p><a href=\"https://ref.ly/Gen37:21-Gen37:22\">GEN 37:21–37:22</a>; ; <a href=\"https://ref.ly/Acts20:28-Acts20:31\">ACT 20:28–20:31</a>; ; <a href=\"https://ref.ly/Eph6:10-Eph6:13\">EPH 6:10–6:13</a>; ; <a href=\"https://ref.ly/Heb12:1-Heb12:3\">HEB 12:1–12:3</a>; ; <a href=\"https://ref.ly/1Pet5:8-1Pet5:9\">1PE 5:8–5:9</a>; ; <a href=\"https://ref.ly/1John3:7\">1JN 3:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42017001",
+"start_ref_usfm": "LUK 17:1",
+"end_ref": "42017001",
+"end_ref_usfm": "LUK 17:1"
+},
+{
+"start_ref": "40018006",
+"start_ref_usfm": "MAT 18:6",
+"end_ref": "40018006",
+"end_ref_usfm": "MAT 18:6"
+},
+{
+"start_ref": "41009042",
+"start_ref_usfm": "MRK 9:42",
+"end_ref": "41009042",
+"end_ref_usfm": "MRK 9:42"
+},
+{
+"start_ref": "42017002",
+"start_ref_usfm": "LUK 17:2",
+"end_ref": "42017002",
+"end_ref_usfm": "LUK 17:2"
+},
+{
+"start_ref": "45014013",
+"start_ref_usfm": "ROM 14:13",
+"end_ref": "45014013",
+"end_ref_usfm": "ROM 14:13"
+},
+{
+"start_ref": "45014015",
+"start_ref_usfm": "ROM 14:15",
+"end_ref": "45014015",
+"end_ref_usfm": "ROM 14:15"
+},
+{
+"start_ref": "45014021",
+"start_ref_usfm": "ROM 14:21",
+"end_ref": "45014021",
+"end_ref_usfm": "ROM 14:21"
+},
+{
+"start_ref": "46008009",
+"start_ref_usfm": "1CO 8:9",
+"end_ref": "46008013",
+"end_ref_usfm": "1CO 8:13"
+},
+{
+"start_ref": "04025001",
+"start_ref_usfm": "NUM 25:1",
+"end_ref": "04025002",
+"end_ref_usfm": "NUM 25:2"
+},
+{
+"start_ref": "20016029",
+"start_ref_usfm": "PRO 16:29",
+"end_ref": "20016029",
+"end_ref_usfm": "PRO 16:29"
+},
+{
+"start_ref": "35002015",
+"start_ref_usfm": "HAB 2:15",
+"end_ref": "35002015",
+"end_ref_usfm": "HAB 2:15"
+},
+{
+"start_ref": "01037021",
+"start_ref_usfm": "GEN 37:21",
+"end_ref": "01037022",
+"end_ref_usfm": "GEN 37:22"
+},
+{
+"start_ref": "44020028",
+"start_ref_usfm": "ACT 20:28",
+"end_ref": "44020031",
+"end_ref_usfm": "ACT 20:31"
+},
+{
+"start_ref": "49006010",
+"start_ref_usfm": "EPH 6:10",
+"end_ref": "49006013",
+"end_ref_usfm": "EPH 6:13"
+},
+{
+"start_ref": "58012001",
+"start_ref_usfm": "HEB 12:1",
+"end_ref": "58012003",
+"end_ref_usfm": "HEB 12:3"
+},
+{
+"start_ref": "60005008",
+"start_ref_usfm": "1PE 5:8",
+"end_ref": "60005009",
+"end_ref_usfm": "1PE 5:9"
+},
+{
+"start_ref": "62003007",
+"start_ref_usfm": "1JN 3:7",
+"end_ref": "62003007",
+"end_ref_usfm": "1JN 3:7"
+}
+],
+"resource": [
+{
+"reference_id": "5897",
+"content_id": "5897",
+"resource_code": "DictionaryBibleThemes",
+"label": "5897: judging others",
+"language": "eng"
+},
+{
+"reference_id": "6030",
+"content_id": "6030",
+"resource_code": "DictionaryBibleThemes",
+"label": "6030: sin, avoidance of",
+"language": "eng"
+},
+{
+"reference_id": "6206",
+"content_id": "6206",
+"resource_code": "DictionaryBibleThemes",
+"label": "6206: offence",
+"language": "eng"
+}
+]
+}
+}
+]

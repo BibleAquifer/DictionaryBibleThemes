@@ -1,0 +1,266 @@
+[
+{
+"content_id": "8419",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8419: enlightenment",
+"media_type": "Text",
+"index_reference": "8419: enlightenment",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The illumination of the mind, especially by the word of God, leading to delight and increased pleasure in God.</p>\n<h2>Enlightenment as God-given understanding and insight</h2>\n<p><strong><a href=\"https://ref.ly/Ps43:3\">PSA 43:3</a></strong>; <strong><a href=\"https://ref.ly/Mic7:8-Mic7:9\">MIC 7:8–7:9</a></strong>; <strong><a href=\"https://ref.ly/John8:12\">JHN 8:12</a></strong>; <strong><a href=\"https://ref.ly/Eph1:18\">EPH 1:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam22:29\">2SA 22:29</a>; <a href=\"https://ref.ly/Ezra9:8\">EZR 9:8</a>; <a href=\"https://ref.ly/Job29:2-Job29:3\">JOB 29:2–29:3</a>; <a href=\"https://ref.ly/Ps18:28\">PSA 18:28</a>, <a href=\"https://ref.ly/Ps36:10\">PSA 36:10</a>, <a href=\"https://ref.ly/Ps97:11\">PSA 97:11</a>; <a href=\"https://ref.ly/Isa9:2\">ISA 9:2</a>, <a href=\"https://ref.ly/Isa42:6\">ISA 42:6</a>, <a href=\"https://ref.ly/Isa42:16\">ISA 42:16</a>, <a href=\"https://ref.ly/Isa49:6\">ISA 49:6</a>, <a href=\"https://ref.ly/Isa60:1\">ISA 60:1</a>; <a href=\"https://ref.ly/Dan2:22\">DAN 2:22</a>; <a href=\"https://ref.ly/Luke2:32\">LUK 2:32</a>; <a href=\"https://ref.ly/John1:9\">JHN 1:9</a>, <a href=\"https://ref.ly/John9:5\">JHN 9:5</a>, <a href=\"https://ref.ly/John12:46\">JHN 12:46</a>; <a href=\"https://ref.ly/Acts13:47\">ACT 13:47</a>, <a href=\"https://ref.ly/Acts26:18\">ACT 26:18</a>, <a href=\"https://ref.ly/Acts26:23\">ACT 26:23</a>; <a href=\"https://ref.ly/2Cor4:6\">2CO 4:6</a>; <a href=\"https://ref.ly/Heb6:4\">HEB 6:4</a>, <a href=\"https://ref.ly/Heb10:32\">HEB 10:32</a>; <a href=\"https://ref.ly/1Pet2:9\">1PE 2:9</a></p>\n<h2>Enlightenment through the word of God</h2>\n<p><strong><a href=\"https://ref.ly/Ps119:130\">PSA 119:130</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps19:8\">PSA 19:8</a>; <a href=\"https://ref.ly/Prov6:23\">PRO 6:23</a>; <a href=\"https://ref.ly/Isa51:4\">ISA 51:4</a>; <a href=\"https://ref.ly/2Pet1:19\">2PE 1:19</a></p>\n<h2>God needs no enlightenment</h2>\n<p><strong><a href=\"https://ref.ly/Isa40:14\">ISA 40:14</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19043003",
+"start_ref_usfm": "PSA 43:3",
+"end_ref": "19043003",
+"end_ref_usfm": "PSA 43:3"
+},
+{
+"start_ref": "33007008",
+"start_ref_usfm": "MIC 7:8",
+"end_ref": "33007009",
+"end_ref_usfm": "MIC 7:9"
+},
+{
+"start_ref": "43008012",
+"start_ref_usfm": "JHN 8:12",
+"end_ref": "43008012",
+"end_ref_usfm": "JHN 8:12"
+},
+{
+"start_ref": "49001018",
+"start_ref_usfm": "EPH 1:18",
+"end_ref": "49001018",
+"end_ref_usfm": "EPH 1:18"
+},
+{
+"start_ref": "10022029",
+"start_ref_usfm": "2SA 22:29",
+"end_ref": "10022029",
+"end_ref_usfm": "2SA 22:29"
+},
+{
+"start_ref": "15009008",
+"start_ref_usfm": "EZR 9:8",
+"end_ref": "15009008",
+"end_ref_usfm": "EZR 9:8"
+},
+{
+"start_ref": "18029002",
+"start_ref_usfm": "JOB 29:2",
+"end_ref": "18029003",
+"end_ref_usfm": "JOB 29:3"
+},
+{
+"start_ref": "19018028",
+"start_ref_usfm": "PSA 18:28",
+"end_ref": "19018028",
+"end_ref_usfm": "PSA 18:28"
+},
+{
+"start_ref": "19036010",
+"start_ref_usfm": "PSA 36:10",
+"end_ref": "19036010",
+"end_ref_usfm": "PSA 36:10"
+},
+{
+"start_ref": "19097011",
+"start_ref_usfm": "PSA 97:11",
+"end_ref": "19097011",
+"end_ref_usfm": "PSA 97:11"
+},
+{
+"start_ref": "23009002",
+"start_ref_usfm": "ISA 9:2",
+"end_ref": "23009002",
+"end_ref_usfm": "ISA 9:2"
+},
+{
+"start_ref": "23042006",
+"start_ref_usfm": "ISA 42:6",
+"end_ref": "23042006",
+"end_ref_usfm": "ISA 42:6"
+},
+{
+"start_ref": "23042016",
+"start_ref_usfm": "ISA 42:16",
+"end_ref": "23042016",
+"end_ref_usfm": "ISA 42:16"
+},
+{
+"start_ref": "23049006",
+"start_ref_usfm": "ISA 49:6",
+"end_ref": "23049006",
+"end_ref_usfm": "ISA 49:6"
+},
+{
+"start_ref": "23060001",
+"start_ref_usfm": "ISA 60:1",
+"end_ref": "23060001",
+"end_ref_usfm": "ISA 60:1"
+},
+{
+"start_ref": "27002022",
+"start_ref_usfm": "DAN 2:22",
+"end_ref": "27002022",
+"end_ref_usfm": "DAN 2:22"
+},
+{
+"start_ref": "42002032",
+"start_ref_usfm": "LUK 2:32",
+"end_ref": "42002032",
+"end_ref_usfm": "LUK 2:32"
+},
+{
+"start_ref": "43001009",
+"start_ref_usfm": "JHN 1:9",
+"end_ref": "43001009",
+"end_ref_usfm": "JHN 1:9"
+},
+{
+"start_ref": "43009005",
+"start_ref_usfm": "JHN 9:5",
+"end_ref": "43009005",
+"end_ref_usfm": "JHN 9:5"
+},
+{
+"start_ref": "43012046",
+"start_ref_usfm": "JHN 12:46",
+"end_ref": "43012046",
+"end_ref_usfm": "JHN 12:46"
+},
+{
+"start_ref": "44013047",
+"start_ref_usfm": "ACT 13:47",
+"end_ref": "44013047",
+"end_ref_usfm": "ACT 13:47"
+},
+{
+"start_ref": "44026018",
+"start_ref_usfm": "ACT 26:18",
+"end_ref": "44026018",
+"end_ref_usfm": "ACT 26:18"
+},
+{
+"start_ref": "44026023",
+"start_ref_usfm": "ACT 26:23",
+"end_ref": "44026023",
+"end_ref_usfm": "ACT 26:23"
+},
+{
+"start_ref": "47004006",
+"start_ref_usfm": "2CO 4:6",
+"end_ref": "47004006",
+"end_ref_usfm": "2CO 4:6"
+},
+{
+"start_ref": "58006004",
+"start_ref_usfm": "HEB 6:4",
+"end_ref": "58006004",
+"end_ref_usfm": "HEB 6:4"
+},
+{
+"start_ref": "58010032",
+"start_ref_usfm": "HEB 10:32",
+"end_ref": "58010032",
+"end_ref_usfm": "HEB 10:32"
+},
+{
+"start_ref": "60002009",
+"start_ref_usfm": "1PE 2:9",
+"end_ref": "60002009",
+"end_ref_usfm": "1PE 2:9"
+},
+{
+"start_ref": "19119130",
+"start_ref_usfm": "PSA 119:130",
+"end_ref": "19119130",
+"end_ref_usfm": "PSA 119:130"
+},
+{
+"start_ref": "19019008",
+"start_ref_usfm": "PSA 19:8",
+"end_ref": "19019008",
+"end_ref_usfm": "PSA 19:8"
+},
+{
+"start_ref": "20006023",
+"start_ref_usfm": "PRO 6:23",
+"end_ref": "20006023",
+"end_ref_usfm": "PRO 6:23"
+},
+{
+"start_ref": "23051004",
+"start_ref_usfm": "ISA 51:4",
+"end_ref": "23051004",
+"end_ref_usfm": "ISA 51:4"
+},
+{
+"start_ref": "61001019",
+"start_ref_usfm": "2PE 1:19",
+"end_ref": "61001019",
+"end_ref_usfm": "2PE 1:19"
+},
+{
+"start_ref": "23040014",
+"start_ref_usfm": "ISA 40:14",
+"end_ref": "23040014",
+"end_ref_usfm": "ISA 40:14"
+}
+],
+"resource": [
+{
+"reference_id": "1441",
+"content_id": "1441",
+"resource_code": "DictionaryBibleThemes",
+"label": "1441: revelation, necessity of",
+"language": "eng"
+},
+{
+"reference_id": "4811",
+"content_id": "4811",
+"resource_code": "DictionaryBibleThemes",
+"label": "4811: darkness, as a symbol of sin",
+"language": "eng"
+},
+{
+"reference_id": "4835",
+"content_id": "4835",
+"resource_code": "DictionaryBibleThemes",
+"label": "4835: light, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "5026",
+"content_id": "5026",
+"resource_code": "DictionaryBibleThemes",
+"label": "5026: knowledge",
+"language": "eng"
+},
+{
+"reference_id": "8281",
+"content_id": "8281",
+"resource_code": "DictionaryBibleThemes",
+"label": "8281: insight",
+"language": "eng"
+},
+{
+"reference_id": "8355",
+"content_id": "8355",
+"resource_code": "DictionaryBibleThemes",
+"label": "8355: understanding",
+"language": "eng"
+},
+{
+"reference_id": "8361",
+"content_id": "8361",
+"resource_code": "DictionaryBibleThemes",
+"label": "8361: wisdom",
+"language": "eng"
+}
+]
+}
+}
+]

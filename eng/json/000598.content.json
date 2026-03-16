@@ -1,0 +1,222 @@
+[
+{
+"content_id": "4937",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4937: fate, and fatalism",
+"media_type": "Text",
+"index_reference": "4937: fate, and fatalism",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The belief that all things are predetermined, especially by the stars, removing human freedom and responsibility. Scripture affirms human freedom and responsibility and declares that the sun, moon and stars are all part of God's creation and are subject to him.</p>\n<h2>The heavenly bodies subject to God's authority</h2>\n<h3>The heavenly bodies are created by God</h3>\n<p><a href=\"https://ref.ly/Gen1:14-Gen1:18\">GEN 1:14–1:18</a>; ; <a href=\"https://ref.ly/Job9:9\">JOB 9:9</a>; ; <a href=\"https://ref.ly/Ps8:3\">PSA 8:3</a>, <a href=\"https://ref.ly/Ps74:16\">PSA 74:16</a>, <a href=\"https://ref.ly/Ps148:3-Ps148:5\">PSA 148:3–148:5</a>; ; <a href=\"https://ref.ly/Amos5:8\">AMO 5:8</a></p>\n<h3>The heavenly bodies are subject to the rule and providence of God</h3>\n<p><strong><a href=\"https://ref.ly/Isa40:26\">ISA 40:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job38:31-Job38:32\">JOB 38:31–38:32</a>; <a href=\"https://ref.ly/Ps104:19\">PSA 104:19</a>; <a href=\"https://ref.ly/Jer31:35\">JER 31:35</a>; <a href=\"https://ref.ly/Matt5:45\">MAT 5:45</a></p>\n<h2>The biblical rejection of fatalism in human choice</h2>\n<h3>Human beings are free to choose between right and wrong</h3>\n<p><strong><a href=\"https://ref.ly/Deut11:26-Deut11:28\">DEU 11:26–11:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut30:15-Deut30:19\">DEU 30:15–30:19</a>; <a href=\"https://ref.ly/Ezek18:21-Ezek18:23\">EZK 18:21–18:23</a></p>\n<h3>Human beings are free to call upon the name of the Lord</h3>\n<p><a href=\"https://ref.ly/Joel2:32\">JOL 2:32</a>; ; <a href=\"https://ref.ly/Acts2:21\">ACT 2:21</a>; ; <a href=\"https://ref.ly/Rom10:11-Rom10:13\">ROM 10:11–10:13</a></p>\n<h3>Human beings are free to seek the Lord</h3>\n<p><a href=\"https://ref.ly/1Chr28:9\">1CH 28:9</a>; ; <a href=\"https://ref.ly/Isa55:6\">ISA 55:6</a></p>\n<h3>Human beings are free to come to the Lord</h3>\n<p><strong><a href=\"https://ref.ly/Rev22:17\">REV 22:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt11:28\">MAT 11:28</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01001014",
+"start_ref_usfm": "GEN 1:14",
+"end_ref": "01001018",
+"end_ref_usfm": "GEN 1:18"
+},
+{
+"start_ref": "18009009",
+"start_ref_usfm": "JOB 9:9",
+"end_ref": "18009009",
+"end_ref_usfm": "JOB 9:9"
+},
+{
+"start_ref": "19008003",
+"start_ref_usfm": "PSA 8:3",
+"end_ref": "19008003",
+"end_ref_usfm": "PSA 8:3"
+},
+{
+"start_ref": "19074016",
+"start_ref_usfm": "PSA 74:16",
+"end_ref": "19074016",
+"end_ref_usfm": "PSA 74:16"
+},
+{
+"start_ref": "19148003",
+"start_ref_usfm": "PSA 148:3",
+"end_ref": "19148005",
+"end_ref_usfm": "PSA 148:5"
+},
+{
+"start_ref": "30005008",
+"start_ref_usfm": "AMO 5:8",
+"end_ref": "30005008",
+"end_ref_usfm": "AMO 5:8"
+},
+{
+"start_ref": "23040026",
+"start_ref_usfm": "ISA 40:26",
+"end_ref": "23040026",
+"end_ref_usfm": "ISA 40:26"
+},
+{
+"start_ref": "18038031",
+"start_ref_usfm": "JOB 38:31",
+"end_ref": "18038032",
+"end_ref_usfm": "JOB 38:32"
+},
+{
+"start_ref": "19104019",
+"start_ref_usfm": "PSA 104:19",
+"end_ref": "19104019",
+"end_ref_usfm": "PSA 104:19"
+},
+{
+"start_ref": "24031035",
+"start_ref_usfm": "JER 31:35",
+"end_ref": "24031035",
+"end_ref_usfm": "JER 31:35"
+},
+{
+"start_ref": "40005045",
+"start_ref_usfm": "MAT 5:45",
+"end_ref": "40005045",
+"end_ref_usfm": "MAT 5:45"
+},
+{
+"start_ref": "05011026",
+"start_ref_usfm": "DEU 11:26",
+"end_ref": "05011028",
+"end_ref_usfm": "DEU 11:28"
+},
+{
+"start_ref": "05030015",
+"start_ref_usfm": "DEU 30:15",
+"end_ref": "05030019",
+"end_ref_usfm": "DEU 30:19"
+},
+{
+"start_ref": "26018021",
+"start_ref_usfm": "EZK 18:21",
+"end_ref": "26018023",
+"end_ref_usfm": "EZK 18:23"
+},
+{
+"start_ref": "29002032",
+"start_ref_usfm": "JOL 2:32",
+"end_ref": "29002032",
+"end_ref_usfm": "JOL 2:32"
+},
+{
+"start_ref": "44002021",
+"start_ref_usfm": "ACT 2:21",
+"end_ref": "44002021",
+"end_ref_usfm": "ACT 2:21"
+},
+{
+"start_ref": "45010011",
+"start_ref_usfm": "ROM 10:11",
+"end_ref": "45010013",
+"end_ref_usfm": "ROM 10:13"
+},
+{
+"start_ref": "13028009",
+"start_ref_usfm": "1CH 28:9",
+"end_ref": "13028009",
+"end_ref_usfm": "1CH 28:9"
+},
+{
+"start_ref": "23055006",
+"start_ref_usfm": "ISA 55:6",
+"end_ref": "23055006",
+"end_ref_usfm": "ISA 55:6"
+},
+{
+"start_ref": "66022017",
+"start_ref_usfm": "REV 22:17",
+"end_ref": "66022017",
+"end_ref_usfm": "REV 22:17"
+},
+{
+"start_ref": "40011028",
+"start_ref_usfm": "MAT 11:28",
+"end_ref": "40011028",
+"end_ref_usfm": "MAT 11:28"
+}
+],
+"resource": [
+{
+"reference_id": "1115",
+"content_id": "1115",
+"resource_code": "DictionaryBibleThemes",
+"label": "1115: God, purpose of",
+"language": "eng"
+},
+{
+"reference_id": "1130",
+"content_id": "1130",
+"resource_code": "DictionaryBibleThemes",
+"label": "1130: God, sovereignty of",
+"language": "eng"
+},
+{
+"reference_id": "1355",
+"content_id": "1355",
+"resource_code": "DictionaryBibleThemes",
+"label": "1355: providence",
+"language": "eng"
+},
+{
+"reference_id": "4005",
+"content_id": "4005",
+"resource_code": "DictionaryBibleThemes",
+"label": "4005: creation",
+"language": "eng"
+},
+{
+"reference_id": "5051",
+"content_id": "5051",
+"resource_code": "DictionaryBibleThemes",
+"label": "5051: responsibility",
+"language": "eng"
+},
+{
+"reference_id": "6209",
+"content_id": "6209",
+"resource_code": "DictionaryBibleThemes",
+"label": "6209: pagans",
+"language": "eng"
+},
+{
+"reference_id": "6622",
+"content_id": "6622",
+"resource_code": "DictionaryBibleThemes",
+"label": "6622: choice",
+"language": "eng"
+},
+{
+"reference_id": "6658",
+"content_id": "6658",
+"resource_code": "DictionaryBibleThemes",
+"label": "6658: freedom",
+"language": "eng"
+},
+{
+"reference_id": "8160",
+"content_id": "8160",
+"resource_code": "DictionaryBibleThemes",
+"label": "8160: seeking God",
+"language": "eng"
+},
+{
+"reference_id": "8640",
+"content_id": "8640",
+"resource_code": "DictionaryBibleThemes",
+"label": "8640: calling upon God",
+"language": "eng"
+},
+{
+"reference_id": "8709",
+"content_id": "8709",
+"resource_code": "DictionaryBibleThemes",
+"label": "8709: astrology",
+"language": "eng"
+}
+]
+}
+}
+]

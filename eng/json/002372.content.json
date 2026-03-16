@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8742",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8742: faithlessness",
+"media_type": "Text",
+"index_reference": "8742: faithlessness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The lack or absence of faith, or the turning away from a professed commitment to God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8743",
+"content_id": "8743",
+"resource_code": "DictionaryBibleThemes",
+"label": "8743: faithlessness, nature and causes of",
+"language": "eng"
+},
+{
+"reference_id": "8744",
+"content_id": "8744",
+"resource_code": "DictionaryBibleThemes",
+"label": "8744: faithlessness, as disobedience",
+"language": "eng"
+}
+]
+}
+}
+]

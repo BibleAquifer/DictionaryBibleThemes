@@ -1,0 +1,343 @@
+[
+{
+"content_id": "5898",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5898: kissing",
+"media_type": "Text",
+"index_reference": "5898: kissing",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Kissing within the family</h2>\n<p><strong><a href=\"https://ref.ly/Gen29:13\">GEN 29:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:26-Gen27:27\">GEN 27:26–27:27</a>, <a href=\"https://ref.ly/Gen33:4\">GEN 33:4</a>, <a href=\"https://ref.ly/Gen48:10\">GEN 48:10</a></p>\n<h2>Kissing as an expression of love</h2>\n<p><strong><a href=\"https://ref.ly/Song1:2\">SNG 1:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen29:11\">GEN 29:11</a>; <a href=\"https://ref.ly/Song8:1\">SNG 8:1</a>; <a href=\"https://ref.ly/1Pet5:14\">1PE 5:14</a></p>\n<h2>Kissing as a sign of reconciliation</h2>\n<p><strong><a href=\"https://ref.ly/Luke15:20\">LUK 15:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen45:15\">GEN 45:15</a>; <a href=\"https://ref.ly/2Sam14:33\">2SA 14:33</a></p>\n<h2>Kissing as a sign of homage</h2>\n<p><strong><a href=\"https://ref.ly/1Sam10:1\">1SA 10:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs19:18\">1KI 19:18</a>; <a href=\"https://ref.ly/Job31:27\">JOB 31:27</a>; <a href=\"https://ref.ly/Ps2:12\">PSA 2:12</a>; <a href=\"https://ref.ly/Hos13:2\">HOS 13:2</a>; <a href=\"https://ref.ly/Luke7:38\">LUK 7:38</a>, <a href=\"https://ref.ly/Luke7:45\">LUK 7:45</a></p>\n<h2>Greeting with a kiss</h2>\n<p><strong><a href=\"https://ref.ly/Exod18:7\">EXO 18:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod4:27\">EXO 4:27</a>ROM <a href=\"https://ref.ly/Exod16:16\">16:16</a>; <a href=\"https://ref.ly/1Cor16:20\">1CO 16:20</a>; <a href=\"https://ref.ly/2Cor13:12\">2CO 13:12</a>; <a href=\"https://ref.ly/1Thess5:26\">1TH 5:26</a>; <a href=\"https://ref.ly/1Pet5:14\">1PE 5:14</a></p>\n<h2>Kissing good-bye</h2>\n<p><strong><a href=\"https://ref.ly/Ruth1:14\">RUT 1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen31:28\">GEN 31:28</a>, <a href=\"https://ref.ly/Gen31:55\">GEN 31:55</a>, <a href=\"https://ref.ly/Gen50:1\">GEN 50:1</a>; <a href=\"https://ref.ly/Ruth1:9\">RUT 1:9</a>; <a href=\"https://ref.ly/1Sam20:41\">1SA 20:41</a>; <a href=\"https://ref.ly/1Kgs19:20\">1KI 19:20</a>; <a href=\"https://ref.ly/Acts20:37\">ACT 20:37</a></p>\n<h2>Blessing with a kiss</h2>\n<p><a href=\"https://ref.ly/2Sam19:39\">2SA 19:39</a></p>\n<h2>Kissing linked with treachery</h2>\n<p><strong><a href=\"https://ref.ly/2Sam20:9-2Sam20:10\">2SA 20:9–20:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov7:13\">PRO 7:13</a>, <a href=\"https://ref.ly/Prov7:21\">PRO 7:21</a>, <a href=\"https://ref.ly/Prov27:6\">PRO 27:6</a>; <a href=\"https://ref.ly/Matt26:48-Matt26:49\">MAT 26:48–26:49</a> parallels <a href=\"https://ref.ly/Mark14:44-Mark14:45\">MRK 14:44–14:45</a>, <a href=\"https://ref.ly/Luke22:47-Luke22:48\">LUK 22:47–22:48</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01029013",
+"start_ref_usfm": "GEN 29:13",
+"end_ref": "01029013",
+"end_ref_usfm": "GEN 29:13"
+},
+{
+"start_ref": "01027026",
+"start_ref_usfm": "GEN 27:26",
+"end_ref": "01027027",
+"end_ref_usfm": "GEN 27:27"
+},
+{
+"start_ref": "01033004",
+"start_ref_usfm": "GEN 33:4",
+"end_ref": "01033004",
+"end_ref_usfm": "GEN 33:4"
+},
+{
+"start_ref": "01048010",
+"start_ref_usfm": "GEN 48:10",
+"end_ref": "01048010",
+"end_ref_usfm": "GEN 48:10"
+},
+{
+"start_ref": "22001002",
+"start_ref_usfm": "SNG 1:2",
+"end_ref": "22001002",
+"end_ref_usfm": "SNG 1:2"
+},
+{
+"start_ref": "01029011",
+"start_ref_usfm": "GEN 29:11",
+"end_ref": "01029011",
+"end_ref_usfm": "GEN 29:11"
+},
+{
+"start_ref": "22008001",
+"start_ref_usfm": "SNG 8:1",
+"end_ref": "22008001",
+"end_ref_usfm": "SNG 8:1"
+},
+{
+"start_ref": "60005014",
+"start_ref_usfm": "1PE 5:14",
+"end_ref": "60005014",
+"end_ref_usfm": "1PE 5:14"
+},
+{
+"start_ref": "42015020",
+"start_ref_usfm": "LUK 15:20",
+"end_ref": "42015020",
+"end_ref_usfm": "LUK 15:20"
+},
+{
+"start_ref": "01045015",
+"start_ref_usfm": "GEN 45:15",
+"end_ref": "01045015",
+"end_ref_usfm": "GEN 45:15"
+},
+{
+"start_ref": "10014033",
+"start_ref_usfm": "2SA 14:33",
+"end_ref": "10014033",
+"end_ref_usfm": "2SA 14:33"
+},
+{
+"start_ref": "09010001",
+"start_ref_usfm": "1SA 10:1",
+"end_ref": "09010001",
+"end_ref_usfm": "1SA 10:1"
+},
+{
+"start_ref": "11019018",
+"start_ref_usfm": "1KI 19:18",
+"end_ref": "11019018",
+"end_ref_usfm": "1KI 19:18"
+},
+{
+"start_ref": "18031027",
+"start_ref_usfm": "JOB 31:27",
+"end_ref": "18031027",
+"end_ref_usfm": "JOB 31:27"
+},
+{
+"start_ref": "19002012",
+"start_ref_usfm": "PSA 2:12",
+"end_ref": "19002012",
+"end_ref_usfm": "PSA 2:12"
+},
+{
+"start_ref": "28013002",
+"start_ref_usfm": "HOS 13:2",
+"end_ref": "28013002",
+"end_ref_usfm": "HOS 13:2"
+},
+{
+"start_ref": "42007038",
+"start_ref_usfm": "LUK 7:38",
+"end_ref": "42007038",
+"end_ref_usfm": "LUK 7:38"
+},
+{
+"start_ref": "42007045",
+"start_ref_usfm": "LUK 7:45",
+"end_ref": "42007045",
+"end_ref_usfm": "LUK 7:45"
+},
+{
+"start_ref": "02018007",
+"start_ref_usfm": "EXO 18:7",
+"end_ref": "02018007",
+"end_ref_usfm": "EXO 18:7"
+},
+{
+"start_ref": "02004027",
+"start_ref_usfm": "EXO 4:27",
+"end_ref": "02004027",
+"end_ref_usfm": "EXO 4:27"
+},
+{
+"start_ref": "02016016",
+"start_ref_usfm": "EXO 16:16",
+"end_ref": "02016016",
+"end_ref_usfm": "EXO 16:16"
+},
+{
+"start_ref": "46016020",
+"start_ref_usfm": "1CO 16:20",
+"end_ref": "46016020",
+"end_ref_usfm": "1CO 16:20"
+},
+{
+"start_ref": "47013012",
+"start_ref_usfm": "2CO 13:12",
+"end_ref": "47013012",
+"end_ref_usfm": "2CO 13:12"
+},
+{
+"start_ref": "52005026",
+"start_ref_usfm": "1TH 5:26",
+"end_ref": "52005026",
+"end_ref_usfm": "1TH 5:26"
+},
+{
+"start_ref": "08001014",
+"start_ref_usfm": "RUT 1:14",
+"end_ref": "08001014",
+"end_ref_usfm": "RUT 1:14"
+},
+{
+"start_ref": "01031028",
+"start_ref_usfm": "GEN 31:28",
+"end_ref": "01031028",
+"end_ref_usfm": "GEN 31:28"
+},
+{
+"start_ref": "01031055",
+"start_ref_usfm": "GEN 31:55",
+"end_ref": "01031055",
+"end_ref_usfm": "GEN 31:55"
+},
+{
+"start_ref": "01050001",
+"start_ref_usfm": "GEN 50:1",
+"end_ref": "01050001",
+"end_ref_usfm": "GEN 50:1"
+},
+{
+"start_ref": "08001009",
+"start_ref_usfm": "RUT 1:9",
+"end_ref": "08001009",
+"end_ref_usfm": "RUT 1:9"
+},
+{
+"start_ref": "09020041",
+"start_ref_usfm": "1SA 20:41",
+"end_ref": "09020041",
+"end_ref_usfm": "1SA 20:41"
+},
+{
+"start_ref": "11019020",
+"start_ref_usfm": "1KI 19:20",
+"end_ref": "11019020",
+"end_ref_usfm": "1KI 19:20"
+},
+{
+"start_ref": "44020037",
+"start_ref_usfm": "ACT 20:37",
+"end_ref": "44020037",
+"end_ref_usfm": "ACT 20:37"
+},
+{
+"start_ref": "10019039",
+"start_ref_usfm": "2SA 19:39",
+"end_ref": "10019039",
+"end_ref_usfm": "2SA 19:39"
+},
+{
+"start_ref": "10020009",
+"start_ref_usfm": "2SA 20:9",
+"end_ref": "10020010",
+"end_ref_usfm": "2SA 20:10"
+},
+{
+"start_ref": "20007013",
+"start_ref_usfm": "PRO 7:13",
+"end_ref": "20007013",
+"end_ref_usfm": "PRO 7:13"
+},
+{
+"start_ref": "20007021",
+"start_ref_usfm": "PRO 7:21",
+"end_ref": "20007021",
+"end_ref_usfm": "PRO 7:21"
+},
+{
+"start_ref": "20027006",
+"start_ref_usfm": "PRO 27:6",
+"end_ref": "20027006",
+"end_ref_usfm": "PRO 27:6"
+},
+{
+"start_ref": "40026048",
+"start_ref_usfm": "MAT 26:48",
+"end_ref": "40026049",
+"end_ref_usfm": "MAT 26:49"
+},
+{
+"start_ref": "41014044",
+"start_ref_usfm": "MRK 14:44",
+"end_ref": "41014045",
+"end_ref_usfm": "MRK 14:45"
+},
+{
+"start_ref": "42022047",
+"start_ref_usfm": "LUK 22:47",
+"end_ref": "42022048",
+"end_ref_usfm": "LUK 22:48"
+}
+],
+"resource": [
+{
+"reference_id": "1335",
+"content_id": "1335",
+"resource_code": "DictionaryBibleThemes",
+"label": "1335: blessing",
+"language": "eng"
+},
+{
+"reference_id": "5328",
+"content_id": "5328",
+"resource_code": "DictionaryBibleThemes",
+"label": "5328: greeting",
+"language": "eng"
+},
+{
+"reference_id": "5680",
+"content_id": "5680",
+"resource_code": "DictionaryBibleThemes",
+"label": "5680: family",
+"language": "eng"
+},
+{
+"reference_id": "5690",
+"content_id": "5690",
+"resource_code": "DictionaryBibleThemes",
+"label": "5690: friends",
+"language": "eng"
+},
+{
+"reference_id": "5734",
+"content_id": "5734",
+"resource_code": "DictionaryBibleThemes",
+"label": "5734: relationships",
+"language": "eng"
+},
+{
+"reference_id": "5781",
+"content_id": "5781",
+"resource_code": "DictionaryBibleThemes",
+"label": "5781: affection",
+"language": "eng"
+},
+{
+"reference_id": "5798",
+"content_id": "5798",
+"resource_code": "DictionaryBibleThemes",
+"label": "5798: betrayal",
+"language": "eng"
+},
+{
+"reference_id": "5895",
+"content_id": "5895",
+"resource_code": "DictionaryBibleThemes",
+"label": "5895: intimacy",
+"language": "eng"
+},
+{
+"reference_id": "5969",
+"content_id": "5969",
+"resource_code": "DictionaryBibleThemes",
+"label": "5969: treachery",
+"language": "eng"
+},
+{
+"reference_id": "6241",
+"content_id": "6241",
+"resource_code": "DictionaryBibleThemes",
+"label": "6241: seduction",
+"language": "eng"
+},
+{
+"reference_id": "7921",
+"content_id": "7921",
+"resource_code": "DictionaryBibleThemes",
+"label": "7921: fellowship",
+"language": "eng"
+},
+{
+"reference_id": "8292",
+"content_id": "8292",
+"resource_code": "DictionaryBibleThemes",
+"label": "8292: love",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+"content_id": "4853",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4853: weather",
+"media_type": "Text",
+"index_reference": "4853: weather",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Patterns of climatic conditions, such as wind and rain, which were of major importance to the rural economies of the Near East. Scripture stresses the sovereignty of God over the weather and sees it as a possible means of judgment or reward.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4854",
+"content_id": "4854",
+"resource_code": "DictionaryBibleThemes",
+"label": "4854: weather, God's sovereignty over",
+"language": "eng"
+},
+{
+"reference_id": "4855",
+"content_id": "4855",
+"resource_code": "DictionaryBibleThemes",
+"label": "4855: weather, as God's judgment",
+"language": "eng"
+}
+]
+}
+}
+]

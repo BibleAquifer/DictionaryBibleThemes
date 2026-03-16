@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5094",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5094: Jacob",
+"media_type": "Text",
+"index_reference": "5094: jacob",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The grandson of Abraham, and one of the two twin sons of Isaac. As the firstborn son of Isaac, Esau was entitled to inherit all of Isaac's property. However, he sold this to his brother Jacob to satisfy his immediate physical hunger. Through subsequent deception, Jacob was able to gain Isaac's blessing, and inherit all that was rightly Esau's. Despite such major faults, Scripture regards Jacob as further confirmation of God's promises to Abraham, and a model of faith and obedience.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5095",
+"content_id": "5095",
+"resource_code": "DictionaryBibleThemes",
+"label": "5095: Jacob, life and character of",
+"language": "eng"
+},
+{
+"reference_id": "5096",
+"content_id": "5096",
+"resource_code": "DictionaryBibleThemes",
+"label": "5096: Jacob, the patriarch",
+"language": "eng"
+}
+]
+}
+}
+]

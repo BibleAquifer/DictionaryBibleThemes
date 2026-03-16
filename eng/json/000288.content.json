@@ -1,0 +1,177 @@
+[
+{
+"content_id": "3284",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "3284: Holy Spirit, resisting",
+"media_type": "Text",
+"index_reference": "3284: holy spirit, resisting",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The work of the Holy Spirit can be resisted through disobedience and unbelief.</p>\n<h2>Scriptural images of resisting the Holy Spirit</h2>\n<h3>Grieving the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/Isa63:10\">ISA 63:10</a></strong>; <strong><a href=\"https://ref.ly/Eph4:30\">EPH 4:30</a></strong></p>\n<h3>Resisting the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/Acts7:51\">ACT 7:51</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:3\">GEN 6:3</a>; <a href=\"https://ref.ly/Acts6:9-Acts6:10\">ACT 6:9–6:10</a></p>\n<h3>Blaspheming against the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/Mark3:29\">MRK 3:29</a></strong> parallels <a href=\"https://ref.ly/Matt12:31\">MAT 12:31</a>, <a href=\"https://ref.ly/Luke12:10\">LUK 12:10</a> <em>See also</em> <a href=\"https://ref.ly/Heb10:29\">HEB 10:29</a></p>\n<h3>Quenching the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/1Thess5:19\">1TH 5:19</a></strong></p>\n<h3>Lying to the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/Acts5:3\">ACT 5:3</a></strong></p>\n<h3>Testing the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/Acts5:9\">ACT 5:9</a></strong></p>\n<h2>Ways in which the Holy Spirit is resisted</h2>\n<h3>Through sin</h3>\n<p><strong><a href=\"https://ref.ly/Gal5:17\">GAL 5:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph4:30-Eph4:31\">EPH 4:30–4:31</a></p>\n<h3>Through rebellion</h3>\n<p><strong><a href=\"https://ref.ly/Ps106:33\">PSA 106:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa63:10\">ISA 63:10</a></p>\n<h3>Through hardness of heart</h3>\n<p><strong><a href=\"https://ref.ly/Zech7:12\">ZEC 7:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts7:51\">ACT 7:51</a></p>\n<h3>Through spiritual blindness</h3>\n<p><strong><a href=\"https://ref.ly/1Cor2:14\">1CO 2:14</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23063010",
+"start_ref_usfm": "ISA 63:10",
+"end_ref": "23063010",
+"end_ref_usfm": "ISA 63:10"
+},
+{
+"start_ref": "49004030",
+"start_ref_usfm": "EPH 4:30",
+"end_ref": "49004030",
+"end_ref_usfm": "EPH 4:30"
+},
+{
+"start_ref": "44007051",
+"start_ref_usfm": "ACT 7:51",
+"end_ref": "44007051",
+"end_ref_usfm": "ACT 7:51"
+},
+{
+"start_ref": "01006003",
+"start_ref_usfm": "GEN 6:3",
+"end_ref": "01006003",
+"end_ref_usfm": "GEN 6:3"
+},
+{
+"start_ref": "44006009",
+"start_ref_usfm": "ACT 6:9",
+"end_ref": "44006010",
+"end_ref_usfm": "ACT 6:10"
+},
+{
+"start_ref": "41003029",
+"start_ref_usfm": "MRK 3:29",
+"end_ref": "41003029",
+"end_ref_usfm": "MRK 3:29"
+},
+{
+"start_ref": "40012031",
+"start_ref_usfm": "MAT 12:31",
+"end_ref": "40012031",
+"end_ref_usfm": "MAT 12:31"
+},
+{
+"start_ref": "42012010",
+"start_ref_usfm": "LUK 12:10",
+"end_ref": "42012010",
+"end_ref_usfm": "LUK 12:10"
+},
+{
+"start_ref": "58010029",
+"start_ref_usfm": "HEB 10:29",
+"end_ref": "58010029",
+"end_ref_usfm": "HEB 10:29"
+},
+{
+"start_ref": "52005019",
+"start_ref_usfm": "1TH 5:19",
+"end_ref": "52005019",
+"end_ref_usfm": "1TH 5:19"
+},
+{
+"start_ref": "44005003",
+"start_ref_usfm": "ACT 5:3",
+"end_ref": "44005003",
+"end_ref_usfm": "ACT 5:3"
+},
+{
+"start_ref": "44005009",
+"start_ref_usfm": "ACT 5:9",
+"end_ref": "44005009",
+"end_ref_usfm": "ACT 5:9"
+},
+{
+"start_ref": "48005017",
+"start_ref_usfm": "GAL 5:17",
+"end_ref": "48005017",
+"end_ref_usfm": "GAL 5:17"
+},
+{
+"start_ref": "49004030",
+"start_ref_usfm": "EPH 4:30",
+"end_ref": "49004031",
+"end_ref_usfm": "EPH 4:31"
+},
+{
+"start_ref": "19106033",
+"start_ref_usfm": "PSA 106:33",
+"end_ref": "19106033",
+"end_ref_usfm": "PSA 106:33"
+},
+{
+"start_ref": "38007012",
+"start_ref_usfm": "ZEC 7:12",
+"end_ref": "38007012",
+"end_ref_usfm": "ZEC 7:12"
+},
+{
+"start_ref": "46002014",
+"start_ref_usfm": "1CO 2:14",
+"end_ref": "46002014",
+"end_ref_usfm": "1CO 2:14"
+}
+],
+"resource": [
+{
+"reference_id": "3025",
+"content_id": "3025",
+"resource_code": "DictionaryBibleThemes",
+"label": "3025: Holy Spirit, personality of",
+"language": "eng"
+},
+{
+"reference_id": "3245",
+"content_id": "3245",
+"resource_code": "DictionaryBibleThemes",
+"label": "3245: Holy Spirit, blasphemy against",
+"language": "eng"
+},
+{
+"reference_id": "5931",
+"content_id": "5931",
+"resource_code": "DictionaryBibleThemes",
+"label": "5931: resistance",
+"language": "eng"
+},
+{
+"reference_id": "6222",
+"content_id": "6222",
+"resource_code": "DictionaryBibleThemes",
+"label": "6222: rebellion, against God",
+"language": "eng"
+},
+{
+"reference_id": "6245",
+"content_id": "6245",
+"resource_code": "DictionaryBibleThemes",
+"label": "6245: stubbornness",
+"language": "eng"
+},
+{
+"reference_id": "7966",
+"content_id": "7966",
+"resource_code": "DictionaryBibleThemes",
+"label": "7966: spiritual gifts",
+"language": "eng"
+},
+{
+"reference_id": "8718",
+"content_id": "8718",
+"resource_code": "DictionaryBibleThemes",
+"label": "8718: disobedience",
+"language": "eng"
+},
+{
+"reference_id": "8834",
+"content_id": "8834",
+"resource_code": "DictionaryBibleThemes",
+"label": "8834: unbelief",
+"language": "eng"
+}
+]
+}
+}
+]

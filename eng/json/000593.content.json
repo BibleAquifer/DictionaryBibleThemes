@@ -1,0 +1,211 @@
+[
+{
+"content_id": "4925",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4925: delay, divine",
+"media_type": "Text",
+"index_reference": "4925: delay, divine",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Delays by God do not result from any failure on his part, but reflect unrealistic human expectations concerning his actions. God delays his vengeance in order to give time for human repentance.</p>\n<h2>God delays to allow for repentance</h2>\n<h3>To give time for repentance</h3>\n<p><strong><a href=\"https://ref.ly/Luke13:6-Luke13:9\">LUK 13:6–13:9</a></strong>; <strong><a href=\"https://ref.ly/Rom2:4\">ROM 2:4</a></strong>; <strong><a href=\"https://ref.ly/2Pet3:8-2Pet3:9\">2PE 3:8–3:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt3:7-Matt3:11\">MAT 3:7–3:11</a> parallel <a href=\"https://ref.ly/Luke3:7-Luke3:10\">LUK 3:7–3:10</a>; <a href=\"https://ref.ly/1Tim2:4\">1TI 2:4</a>; <a href=\"https://ref.ly/Jas5:7\">JAS 5:7</a>; <a href=\"https://ref.ly/Rev2:21\">REV 2:21</a></p>\n<h3>In response to repentance</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs21:29\">1KI 21:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs21:21-1Kgs21:28\">1KI 21:21–21:28</a></p>\n<h3>Where there is no repentance, God does not delay</h3>\n<p><strong><a href=\"https://ref.ly/Ezek12:25\">EZK 12:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek21:24-Ezek21:26\">EZK 21:24–21:26</a>; <a href=\"https://ref.ly/Rev2:16\">REV 2:16</a></p>\n<h2>God delays judgment for the sake of his name</h2>\n<p><strong><a href=\"https://ref.ly/Isa48:9\">ISA 48:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh9:30-Neh9:31\">NEH 9:30–9:31</a></p>\n<h2>Jesus Christ delayed visiting Lazarus for God's glory</h2>\n<p><strong><a href=\"https://ref.ly/John11:1-John11:6\">JHN 11:1–11:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/John11:11-John11:23\">JHN 11:11–11:23</a>, <a href=\"https://ref.ly/John11:38-John11:44\">JHN 11:38–11:44</a></p>\n<h2>The giving of the Holy Spirit was delayed until Pentecost</h2>\n<p><strong><a href=\"https://ref.ly/Luke24:49\">LUK 24:49</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts1:4\">ACT 1:4</a>, <a href=\"https://ref.ly/Acts2:1-Acts2:4\">ACT 2:1–2:4</a></p>\n<h2>God acts when he wants and nothing can delay him</h2>\n<p><strong><a href=\"https://ref.ly/Heb10:37\">HEB 10:37</a></strong> <em>Referring to the second coming of Jesus Christ.</em> <em>See also</em> <a href=\"https://ref.ly/Hab2:3\">HAB 2:3</a> <em>Referring to the LORD's delay in sending the Babylonians to conquer Judah and take her inhabitants into exile</em>; <a href=\"https://ref.ly/Rev22:20\">REV 22:20</a></p>\n<h2>Other examples of delay</h2>\n<p><a href=\"https://ref.ly/Exod32:1\">EXO 32:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42013006",
+"start_ref_usfm": "LUK 13:6",
+"end_ref": "42013009",
+"end_ref_usfm": "LUK 13:9"
+},
+{
+"start_ref": "45002004",
+"start_ref_usfm": "ROM 2:4",
+"end_ref": "45002004",
+"end_ref_usfm": "ROM 2:4"
+},
+{
+"start_ref": "61003008",
+"start_ref_usfm": "2PE 3:8",
+"end_ref": "61003009",
+"end_ref_usfm": "2PE 3:9"
+},
+{
+"start_ref": "40003007",
+"start_ref_usfm": "MAT 3:7",
+"end_ref": "40003011",
+"end_ref_usfm": "MAT 3:11"
+},
+{
+"start_ref": "42003007",
+"start_ref_usfm": "LUK 3:7",
+"end_ref": "42003010",
+"end_ref_usfm": "LUK 3:10"
+},
+{
+"start_ref": "54002004",
+"start_ref_usfm": "1TI 2:4",
+"end_ref": "54002004",
+"end_ref_usfm": "1TI 2:4"
+},
+{
+"start_ref": "59005007",
+"start_ref_usfm": "JAS 5:7",
+"end_ref": "59005007",
+"end_ref_usfm": "JAS 5:7"
+},
+{
+"start_ref": "66002021",
+"start_ref_usfm": "REV 2:21",
+"end_ref": "66002021",
+"end_ref_usfm": "REV 2:21"
+},
+{
+"start_ref": "11021029",
+"start_ref_usfm": "1KI 21:29",
+"end_ref": "11021029",
+"end_ref_usfm": "1KI 21:29"
+},
+{
+"start_ref": "11021021",
+"start_ref_usfm": "1KI 21:21",
+"end_ref": "11021028",
+"end_ref_usfm": "1KI 21:28"
+},
+{
+"start_ref": "26012025",
+"start_ref_usfm": "EZK 12:25",
+"end_ref": "26012025",
+"end_ref_usfm": "EZK 12:25"
+},
+{
+"start_ref": "26021024",
+"start_ref_usfm": "EZK 21:24",
+"end_ref": "26021026",
+"end_ref_usfm": "EZK 21:26"
+},
+{
+"start_ref": "66002016",
+"start_ref_usfm": "REV 2:16",
+"end_ref": "66002016",
+"end_ref_usfm": "REV 2:16"
+},
+{
+"start_ref": "23048009",
+"start_ref_usfm": "ISA 48:9",
+"end_ref": "23048009",
+"end_ref_usfm": "ISA 48:9"
+},
+{
+"start_ref": "16009030",
+"start_ref_usfm": "NEH 9:30",
+"end_ref": "16009031",
+"end_ref_usfm": "NEH 9:31"
+},
+{
+"start_ref": "43011001",
+"start_ref_usfm": "JHN 11:1",
+"end_ref": "43011006",
+"end_ref_usfm": "JHN 11:6"
+},
+{
+"start_ref": "43011011",
+"start_ref_usfm": "JHN 11:11",
+"end_ref": "43011023",
+"end_ref_usfm": "JHN 11:23"
+},
+{
+"start_ref": "43011038",
+"start_ref_usfm": "JHN 11:38",
+"end_ref": "43011044",
+"end_ref_usfm": "JHN 11:44"
+},
+{
+"start_ref": "42024049",
+"start_ref_usfm": "LUK 24:49",
+"end_ref": "42024049",
+"end_ref_usfm": "LUK 24:49"
+},
+{
+"start_ref": "44001004",
+"start_ref_usfm": "ACT 1:4",
+"end_ref": "44001004",
+"end_ref_usfm": "ACT 1:4"
+},
+{
+"start_ref": "44002001",
+"start_ref_usfm": "ACT 2:1",
+"end_ref": "44002004",
+"end_ref_usfm": "ACT 2:4"
+},
+{
+"start_ref": "58010037",
+"start_ref_usfm": "HEB 10:37",
+"end_ref": "58010037",
+"end_ref_usfm": "HEB 10:37"
+},
+{
+"start_ref": "35002003",
+"start_ref_usfm": "HAB 2:3",
+"end_ref": "35002003",
+"end_ref_usfm": "HAB 2:3"
+},
+{
+"start_ref": "66022020",
+"start_ref_usfm": "REV 22:20",
+"end_ref": "66022020",
+"end_ref_usfm": "REV 22:20"
+},
+{
+"start_ref": "02032001",
+"start_ref_usfm": "EXO 32:1",
+"end_ref": "02032001",
+"end_ref_usfm": "EXO 32:1"
+}
+],
+"resource": [
+{
+"reference_id": "2565",
+"content_id": "2565",
+"resource_code": "DictionaryBibleThemes",
+"label": "2565: Jesus Christ, second coming of",
+"language": "eng"
+},
+{
+"reference_id": "3257",
+"content_id": "3257",
+"resource_code": "DictionaryBibleThemes",
+"label": "3257: Holy Spirit, gift of",
+"language": "eng"
+},
+{
+"reference_id": "4903",
+"content_id": "4903",
+"resource_code": "DictionaryBibleThemes",
+"label": "4903: time",
+"language": "eng"
+},
+{
+"reference_id": "5558",
+"content_id": "5558",
+"resource_code": "DictionaryBibleThemes",
+"label": "5558: storing",
+"language": "eng"
+},
+{
+"reference_id": "5977",
+"content_id": "5977",
+"resource_code": "DictionaryBibleThemes",
+"label": "5977: waiting",
+"language": "eng"
+},
+{
+"reference_id": "6732",
+"content_id": "6732",
+"resource_code": "DictionaryBibleThemes",
+"label": "6732: repentance",
+"language": "eng"
+}
+]
+}
+}
+]

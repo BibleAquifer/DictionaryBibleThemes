@@ -1,0 +1,169 @@
+[
+{
+"content_id": "5250",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5250: centurion",
+"media_type": "Text",
+"index_reference": "5250: centurion",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A Roman military officer in charge of one hundred soldiers.</p>\n<h2>The centurion who asked Jesus Christ to heal his servant</h2>\n<p><strong><a href=\"https://ref.ly/Matt8:5-Matt8:9\">MAT 8:5–8:9</a></strong> parallel <a href=\"https://ref.ly/Luke7:2-Luke7:8\">LUK 7:2–7:8</a></p>\n<h2>The centurion present at the death of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt27:54\">MAT 27:54</a></strong> parallels <a href=\"https://ref.ly/Mark15:39\">MRK 15:39</a>, <a href=\"https://ref.ly/Luke23:47\">LUK 23:47</a> <em>See also</em> <a href=\"https://ref.ly/Mark15:44-Mark15:45\">MRK 15:44–15:45</a></p>\n<h2>The centurion Cornelius</h2>\n<p><a href=\"https://ref.ly/Acts10:1-Acts10:48\">ACT 10:1–10:48</a>, <a href=\"https://ref.ly/Acts11:1-Acts11:18\">ACT 11:1–11:18</a></p>\n<h2>The centurions involved in guarding Paul</h2>\n<p><a href=\"https://ref.ly/Acts22:25-Acts22:26\">ACT 22:25–22:26</a>, <a href=\"https://ref.ly/Acts23:17-Acts23:18\">ACT 23:17–23:18</a>, <a href=\"https://ref.ly/Acts23:23\">ACT 23:23</a>, <a href=\"https://ref.ly/Acts24:23\">ACT 24:23</a>, <a href=\"https://ref.ly/Acts27:1\">ACT 27:1</a>, <a href=\"https://ref.ly/Acts27:3\">ACT 27:3</a>, <a href=\"https://ref.ly/Acts27:6\">ACT 27:6</a>, <a href=\"https://ref.ly/Acts27:11\">ACT 27:11</a>, <a href=\"https://ref.ly/Acts27:31\">ACT 27:31</a>, <a href=\"https://ref.ly/Acts27:43\">ACT 27:43</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40008005",
+"start_ref_usfm": "MAT 8:5",
+"end_ref": "40008009",
+"end_ref_usfm": "MAT 8:9"
+},
+{
+"start_ref": "42007002",
+"start_ref_usfm": "LUK 7:2",
+"end_ref": "42007008",
+"end_ref_usfm": "LUK 7:8"
+},
+{
+"start_ref": "40027054",
+"start_ref_usfm": "MAT 27:54",
+"end_ref": "40027054",
+"end_ref_usfm": "MAT 27:54"
+},
+{
+"start_ref": "41015039",
+"start_ref_usfm": "MRK 15:39",
+"end_ref": "41015039",
+"end_ref_usfm": "MRK 15:39"
+},
+{
+"start_ref": "42023047",
+"start_ref_usfm": "LUK 23:47",
+"end_ref": "42023047",
+"end_ref_usfm": "LUK 23:47"
+},
+{
+"start_ref": "41015044",
+"start_ref_usfm": "MRK 15:44",
+"end_ref": "41015045",
+"end_ref_usfm": "MRK 15:45"
+},
+{
+"start_ref": "44010001",
+"start_ref_usfm": "ACT 10:1",
+"end_ref": "44010048",
+"end_ref_usfm": "ACT 10:48"
+},
+{
+"start_ref": "44011001",
+"start_ref_usfm": "ACT 11:1",
+"end_ref": "44011018",
+"end_ref_usfm": "ACT 11:18"
+},
+{
+"start_ref": "44022025",
+"start_ref_usfm": "ACT 22:25",
+"end_ref": "44022026",
+"end_ref_usfm": "ACT 22:26"
+},
+{
+"start_ref": "44023017",
+"start_ref_usfm": "ACT 23:17",
+"end_ref": "44023018",
+"end_ref_usfm": "ACT 23:18"
+},
+{
+"start_ref": "44023023",
+"start_ref_usfm": "ACT 23:23",
+"end_ref": "44023023",
+"end_ref_usfm": "ACT 23:23"
+},
+{
+"start_ref": "44024023",
+"start_ref_usfm": "ACT 24:23",
+"end_ref": "44024023",
+"end_ref_usfm": "ACT 24:23"
+},
+{
+"start_ref": "44027001",
+"start_ref_usfm": "ACT 27:1",
+"end_ref": "44027001",
+"end_ref_usfm": "ACT 27:1"
+},
+{
+"start_ref": "44027003",
+"start_ref_usfm": "ACT 27:3",
+"end_ref": "44027003",
+"end_ref_usfm": "ACT 27:3"
+},
+{
+"start_ref": "44027006",
+"start_ref_usfm": "ACT 27:6",
+"end_ref": "44027006",
+"end_ref_usfm": "ACT 27:6"
+},
+{
+"start_ref": "44027011",
+"start_ref_usfm": "ACT 27:11",
+"end_ref": "44027011",
+"end_ref_usfm": "ACT 27:11"
+},
+{
+"start_ref": "44027031",
+"start_ref_usfm": "ACT 27:31",
+"end_ref": "44027031",
+"end_ref_usfm": "ACT 27:31"
+},
+{
+"start_ref": "44027043",
+"start_ref_usfm": "ACT 27:43",
+"end_ref": "44027043",
+"end_ref_usfm": "ACT 27:43"
+}
+],
+"resource": [
+{
+"reference_id": "5245",
+"content_id": "5245",
+"resource_code": "DictionaryBibleThemes",
+"label": "5245: captain",
+"language": "eng"
+},
+{
+"reference_id": "5261",
+"content_id": "5261",
+"resource_code": "DictionaryBibleThemes",
+"label": "5261: commander",
+"language": "eng"
+},
+{
+"reference_id": "5330",
+"content_id": "5330",
+"resource_code": "DictionaryBibleThemes",
+"label": "5330: guard",
+"language": "eng"
+},
+{
+"reference_id": "5434",
+"content_id": "5434",
+"resource_code": "DictionaryBibleThemes",
+"label": "5434: officer",
+"language": "eng"
+},
+{
+"reference_id": "5489",
+"content_id": "5489",
+"resource_code": "DictionaryBibleThemes",
+"label": "5489: rank",
+"language": "eng"
+},
+{
+"reference_id": "5544",
+"content_id": "5544",
+"resource_code": "DictionaryBibleThemes",
+"label": "5544: soldiers",
+"language": "eng"
+}
+]
+}
+}
+]

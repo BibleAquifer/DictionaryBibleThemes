@@ -1,0 +1,264 @@
+[
+{
+"content_id": "8646",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8646: doxology",
+"media_type": "Text",
+"index_reference": "8646: doxology",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A form of words that offers praise to God, especially for his work of creation and redemption. Scripture records a number of these forms of praise which were used in both public and private worship.</p>\n<h2>Doxologies used in the formal worship of Israel</h2>\n<p><strong><a href=\"https://ref.ly/1Chr29:10-1Chr29:13\">1CH 29:10–29:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps41:13\">PSA 41:13</a>, <a href=\"https://ref.ly/Ps72:18-Ps72:19\">PSA 72:18–72:19</a>, <a href=\"https://ref.ly/Ps106:48\">PSA 106:48</a>, <a href=\"https://ref.ly/Ps150:1-Ps150:6\">PSA 150:1–150:6</a></p>\n<h2>Doxologies used in the spontaneous praise of God's people</h2>\n<p><strong><a href=\"https://ref.ly/Rom11:33-Rom11:36\">ROM 11:33–11:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps57:5\">PSA 57:5</a>, <a href=\"https://ref.ly/Ps57:11\">PSA 57:11</a>; <a href=\"https://ref.ly/Matt21:9\">MAT 21:9</a> parallels <a href=\"https://ref.ly/Mark11:9-Mark11:10\">MRK 11:9–11:10</a>, <a href=\"https://ref.ly/Luke19:38\">LUK 19:38</a>; <a href=\"https://ref.ly/Gal1:5\">GAL 1:5</a>; <a href=\"https://ref.ly/Eph3:21\">EPH 3:21</a>; <a href=\"https://ref.ly/Phil4:20\">PHP 4:20</a>; <a href=\"https://ref.ly/1Tim1:17\">1TI 1:17</a></p>\n<h2>Doxologies used as a benediction</h2>\n<p><strong><a href=\"https://ref.ly/Jude1:24-Jude1:25\">JUD 1:24–1:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph3:20-Eph3:21\">EPH 3:20–3:21</a>; <a href=\"https://ref.ly/Rom16:25-Rom16:27\">ROM 16:25–16:27</a>; <a href=\"https://ref.ly/Heb13:20-Heb13:21\">HEB 13:20–13:21</a>; <a href=\"https://ref.ly/2Pet3:18\">2PE 3:18</a></p>\n<h2>Doxologies used in heavenly worship</h2>\n<p><strong><a href=\"https://ref.ly/Rev5:12-Rev5:13\">REV 5:12–5:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa6:3\">ISA 6:3</a>; <a href=\"https://ref.ly/Luke2:13-Luke2:14\">LUK 2:13–2:14</a>; <a href=\"https://ref.ly/Rev4:8\">REV 4:8</a>, <a href=\"https://ref.ly/Rev4:11\">REV 4:11</a>, <a href=\"https://ref.ly/Rev5:9-Rev5:14\">REV 5:9–5:14</a>, <a href=\"https://ref.ly/Rev7:12\">REV 7:12</a>, <a href=\"https://ref.ly/Rev19:1\">REV 19:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "13029010",
+"start_ref_usfm": "1CH 29:10",
+"end_ref": "13029013",
+"end_ref_usfm": "1CH 29:13"
+},
+{
+"start_ref": "19041013",
+"start_ref_usfm": "PSA 41:13",
+"end_ref": "19041013",
+"end_ref_usfm": "PSA 41:13"
+},
+{
+"start_ref": "19072018",
+"start_ref_usfm": "PSA 72:18",
+"end_ref": "19072019",
+"end_ref_usfm": "PSA 72:19"
+},
+{
+"start_ref": "19106048",
+"start_ref_usfm": "PSA 106:48",
+"end_ref": "19106048",
+"end_ref_usfm": "PSA 106:48"
+},
+{
+"start_ref": "19150001",
+"start_ref_usfm": "PSA 150:1",
+"end_ref": "19150006",
+"end_ref_usfm": "PSA 150:6"
+},
+{
+"start_ref": "45011033",
+"start_ref_usfm": "ROM 11:33",
+"end_ref": "45011036",
+"end_ref_usfm": "ROM 11:36"
+},
+{
+"start_ref": "19057005",
+"start_ref_usfm": "PSA 57:5",
+"end_ref": "19057005",
+"end_ref_usfm": "PSA 57:5"
+},
+{
+"start_ref": "19057011",
+"start_ref_usfm": "PSA 57:11",
+"end_ref": "19057011",
+"end_ref_usfm": "PSA 57:11"
+},
+{
+"start_ref": "40021009",
+"start_ref_usfm": "MAT 21:9",
+"end_ref": "40021009",
+"end_ref_usfm": "MAT 21:9"
+},
+{
+"start_ref": "41011009",
+"start_ref_usfm": "MRK 11:9",
+"end_ref": "41011010",
+"end_ref_usfm": "MRK 11:10"
+},
+{
+"start_ref": "42019038",
+"start_ref_usfm": "LUK 19:38",
+"end_ref": "42019038",
+"end_ref_usfm": "LUK 19:38"
+},
+{
+"start_ref": "48001005",
+"start_ref_usfm": "GAL 1:5",
+"end_ref": "48001005",
+"end_ref_usfm": "GAL 1:5"
+},
+{
+"start_ref": "49003021",
+"start_ref_usfm": "EPH 3:21",
+"end_ref": "49003021",
+"end_ref_usfm": "EPH 3:21"
+},
+{
+"start_ref": "50004020",
+"start_ref_usfm": "PHP 4:20",
+"end_ref": "50004020",
+"end_ref_usfm": "PHP 4:20"
+},
+{
+"start_ref": "54001017",
+"start_ref_usfm": "1TI 1:17",
+"end_ref": "54001017",
+"end_ref_usfm": "1TI 1:17"
+},
+{
+"start_ref": "65001024",
+"start_ref_usfm": "JUD 1:24",
+"end_ref": "65001025",
+"end_ref_usfm": "JUD 1:25"
+},
+{
+"start_ref": "49003020",
+"start_ref_usfm": "EPH 3:20",
+"end_ref": "49003021",
+"end_ref_usfm": "EPH 3:21"
+},
+{
+"start_ref": "45016025",
+"start_ref_usfm": "ROM 16:25",
+"end_ref": "45016027",
+"end_ref_usfm": "ROM 16:27"
+},
+{
+"start_ref": "58013020",
+"start_ref_usfm": "HEB 13:20",
+"end_ref": "58013021",
+"end_ref_usfm": "HEB 13:21"
+},
+{
+"start_ref": "61003018",
+"start_ref_usfm": "2PE 3:18",
+"end_ref": "61003018",
+"end_ref_usfm": "2PE 3:18"
+},
+{
+"start_ref": "66005012",
+"start_ref_usfm": "REV 5:12",
+"end_ref": "66005013",
+"end_ref_usfm": "REV 5:13"
+},
+{
+"start_ref": "23006003",
+"start_ref_usfm": "ISA 6:3",
+"end_ref": "23006003",
+"end_ref_usfm": "ISA 6:3"
+},
+{
+"start_ref": "42002013",
+"start_ref_usfm": "LUK 2:13",
+"end_ref": "42002014",
+"end_ref_usfm": "LUK 2:14"
+},
+{
+"start_ref": "66004008",
+"start_ref_usfm": "REV 4:8",
+"end_ref": "66004008",
+"end_ref_usfm": "REV 4:8"
+},
+{
+"start_ref": "66004011",
+"start_ref_usfm": "REV 4:11",
+"end_ref": "66004011",
+"end_ref_usfm": "REV 4:11"
+},
+{
+"start_ref": "66005009",
+"start_ref_usfm": "REV 5:9",
+"end_ref": "66005014",
+"end_ref_usfm": "REV 5:14"
+},
+{
+"start_ref": "66007012",
+"start_ref_usfm": "REV 7:12",
+"end_ref": "66007012",
+"end_ref_usfm": "REV 7:12"
+},
+{
+"start_ref": "66019001",
+"start_ref_usfm": "REV 19:1",
+"end_ref": "66019001",
+"end_ref_usfm": "REV 19:1"
+}
+],
+"resource": [
+{
+"reference_id": "1045",
+"content_id": "1045",
+"resource_code": "DictionaryBibleThemes",
+"label": "1045: God, glory of",
+"language": "eng"
+},
+{
+"reference_id": "1060",
+"content_id": "1060",
+"resource_code": "DictionaryBibleThemes",
+"label": "1060: God, greatness of",
+"language": "eng"
+},
+{
+"reference_id": "2321",
+"content_id": "2321",
+"resource_code": "DictionaryBibleThemes",
+"label": "2321: Jesus Christ, as redeemer",
+"language": "eng"
+},
+{
+"reference_id": "4114",
+"content_id": "4114",
+"resource_code": "DictionaryBibleThemes",
+"label": "4114: angels, and praise of God",
+"language": "eng"
+},
+{
+"reference_id": "7927",
+"content_id": "7927",
+"resource_code": "DictionaryBibleThemes",
+"label": "7927: hymn",
+"language": "eng"
+},
+{
+"reference_id": "8444",
+"content_id": "8444",
+"resource_code": "DictionaryBibleThemes",
+"label": "8444: honouring God",
+"language": "eng"
+},
+{
+"reference_id": "8624",
+"content_id": "8624",
+"resource_code": "DictionaryBibleThemes",
+"label": "8624: worship, reasons for",
+"language": "eng"
+},
+{
+"reference_id": "8632",
+"content_id": "8632",
+"resource_code": "DictionaryBibleThemes",
+"label": "8632: adoration",
+"language": "eng"
+},
+{
+"reference_id": "8638",
+"content_id": "8638",
+"resource_code": "DictionaryBibleThemes",
+"label": "8638: benedictions",
+"language": "eng"
+},
+{
+"reference_id": "8664",
+"content_id": "8664",
+"resource_code": "DictionaryBibleThemes",
+"label": "8664: praise",
+"language": "eng"
+},
+{
+"reference_id": "8676",
+"content_id": "8676",
+"resource_code": "DictionaryBibleThemes",
+"label": "8676: thanksgiving",
+"language": "eng"
+}
+]
+}
+}
+]

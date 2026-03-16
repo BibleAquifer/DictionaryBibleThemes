@@ -1,0 +1,239 @@
+[
+{
+"content_id": "5086",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5086: David, rise of",
+"media_type": "Text",
+"index_reference": "5086: david, rise of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>David rose from humble origins to become Israel's greatest king. His rise to power is seen by OT writers as evidence of God's guiding hand upon both David and Israel.</p>\n<h2>David was the great-grandson of Ruth and Boaz</h2>\n<p><strong><a href=\"https://ref.ly/Ruth4:13-Ruth4:22\">RUT 4:13–4:22</a></strong></p>\n<h2>David was anointed king by Samuel</h2>\n<p><strong><a href=\"https://ref.ly/1Sam16:1-1Sam16:13\">1SA 16:1–16:13</a></strong></p>\n<h2>David was a member of Saul's court</h2>\n<p><strong><a href=\"https://ref.ly/1Sam16:17-1Sam16:23\">1SA 16:17–16:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam18:2\">1SA 18:2</a>, <a href=\"https://ref.ly/1Sam18:5\">1SA 18:5</a></p>\n<h2>David's defeat of Goliath</h2>\n<p><strong><a href=\"https://ref.ly/1Sam17:50-1Sam17:51\">1SA 17:50–17:51</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:4-1Sam17:11\">1SA 17:4–17:11</a>, <a href=\"https://ref.ly/1Sam17:17-1Sam17:26\">1SA 17:17–17:26</a>, <a href=\"https://ref.ly/1Sam17:32-1Sam17:54\">1SA 17:32–17:54</a></p>\n<h2>David's friendship with Jonathan</h2>\n<p><strong><a href=\"https://ref.ly/1Sam18:1\">1SA 18:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam19:1-1Sam19:7\">1SA 19:1–19:7</a>, <a href=\"https://ref.ly/1Sam20:1-1Sam20:42\">1SA 20:1–20:42</a>, <a href=\"https://ref.ly/1Sam23:16-1Sam23:18\">1SA 23:16–23:18</a>; <a href=\"https://ref.ly/2Sam1:25-2Sam1:27\">2SA 1:25–1:27</a></p>\n<h2>The relationship between David and Saul</h2>\n<h3>Saul's jealousy of David</h3>\n<p><strong><a href=\"https://ref.ly/1Sam18:9-1Sam18:12\">1SA 18:9–18:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam18:15\">1SA 18:15</a>, <a href=\"https://ref.ly/1Sam18:28-1Sam18:29\">1SA 18:28–18:29</a>, <a href=\"https://ref.ly/1Sam19:1\">1SA 19:1</a>, <a href=\"https://ref.ly/1Sam19:9-1Sam19:17\">1SA 19:9–19:17</a>; <a href=\"https://ref.ly/Ps59:1-Ps59:4\">PSA 59:1–59:4</a></p>\n<h3>His flight from Saul</h3>\n<p><strong><a href=\"https://ref.ly/1Sam23:14\">1SA 23:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam21:10\">1SA 21:10</a>, <a href=\"https://ref.ly/1Sam22:1-1Sam22:5\">1SA 22:1–22:5</a>, <a href=\"https://ref.ly/1Sam27:1-1Sam27:6\">1SA 27:1–27:6</a>; <a href=\"https://ref.ly/Ps52:1\">PSA 52:1</a>, <a href=\"https://ref.ly/Ps54:1-Ps54:7\">PSA 54:1–54:7</a>, <a href=\"https://ref.ly/Ps56:1-Ps56:2\">PSA 56:1–56:2</a>, <a href=\"https://ref.ly/Ps57:1-Ps57:6\">PSA 57:1–57:6</a></p>\n<h3>His refusal to harm Saul</h3>\n<p><strong><a href=\"https://ref.ly/1Sam24:3-1Sam24:7\">1SA 24:3–24:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam26:7-1Sam26:25\">1SA 26:7–26:25</a></p>\n<h3>His reaction to Saul's death</h3>\n<p><strong><a href=\"https://ref.ly/2Sam1:11-2Sam1:12\">2SA 1:11–1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam1:17-2Sam1:27\">2SA 1:17–1:27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004013",
+"start_ref_usfm": "RUT 4:13",
+"end_ref": "08004022",
+"end_ref_usfm": "RUT 4:22"
+},
+{
+"start_ref": "09016001",
+"start_ref_usfm": "1SA 16:1",
+"end_ref": "09016013",
+"end_ref_usfm": "1SA 16:13"
+},
+{
+"start_ref": "09016017",
+"start_ref_usfm": "1SA 16:17",
+"end_ref": "09016023",
+"end_ref_usfm": "1SA 16:23"
+},
+{
+"start_ref": "09018002",
+"start_ref_usfm": "1SA 18:2",
+"end_ref": "09018002",
+"end_ref_usfm": "1SA 18:2"
+},
+{
+"start_ref": "09018005",
+"start_ref_usfm": "1SA 18:5",
+"end_ref": "09018005",
+"end_ref_usfm": "1SA 18:5"
+},
+{
+"start_ref": "09017050",
+"start_ref_usfm": "1SA 17:50",
+"end_ref": "09017051",
+"end_ref_usfm": "1SA 17:51"
+},
+{
+"start_ref": "09017004",
+"start_ref_usfm": "1SA 17:4",
+"end_ref": "09017011",
+"end_ref_usfm": "1SA 17:11"
+},
+{
+"start_ref": "09017017",
+"start_ref_usfm": "1SA 17:17",
+"end_ref": "09017026",
+"end_ref_usfm": "1SA 17:26"
+},
+{
+"start_ref": "09017032",
+"start_ref_usfm": "1SA 17:32",
+"end_ref": "09017054",
+"end_ref_usfm": "1SA 17:54"
+},
+{
+"start_ref": "09018001",
+"start_ref_usfm": "1SA 18:1",
+"end_ref": "09018001",
+"end_ref_usfm": "1SA 18:1"
+},
+{
+"start_ref": "09019001",
+"start_ref_usfm": "1SA 19:1",
+"end_ref": "09019007",
+"end_ref_usfm": "1SA 19:7"
+},
+{
+"start_ref": "09020001",
+"start_ref_usfm": "1SA 20:1",
+"end_ref": "09020042",
+"end_ref_usfm": "1SA 20:42"
+},
+{
+"start_ref": "09023016",
+"start_ref_usfm": "1SA 23:16",
+"end_ref": "09023018",
+"end_ref_usfm": "1SA 23:18"
+},
+{
+"start_ref": "10001025",
+"start_ref_usfm": "2SA 1:25",
+"end_ref": "10001027",
+"end_ref_usfm": "2SA 1:27"
+},
+{
+"start_ref": "09018009",
+"start_ref_usfm": "1SA 18:9",
+"end_ref": "09018012",
+"end_ref_usfm": "1SA 18:12"
+},
+{
+"start_ref": "09018015",
+"start_ref_usfm": "1SA 18:15",
+"end_ref": "09018015",
+"end_ref_usfm": "1SA 18:15"
+},
+{
+"start_ref": "09018028",
+"start_ref_usfm": "1SA 18:28",
+"end_ref": "09018029",
+"end_ref_usfm": "1SA 18:29"
+},
+{
+"start_ref": "09019001",
+"start_ref_usfm": "1SA 19:1",
+"end_ref": "09019001",
+"end_ref_usfm": "1SA 19:1"
+},
+{
+"start_ref": "09019009",
+"start_ref_usfm": "1SA 19:9",
+"end_ref": "09019017",
+"end_ref_usfm": "1SA 19:17"
+},
+{
+"start_ref": "19059001",
+"start_ref_usfm": "PSA 59:1",
+"end_ref": "19059004",
+"end_ref_usfm": "PSA 59:4"
+},
+{
+"start_ref": "09023014",
+"start_ref_usfm": "1SA 23:14",
+"end_ref": "09023014",
+"end_ref_usfm": "1SA 23:14"
+},
+{
+"start_ref": "09021010",
+"start_ref_usfm": "1SA 21:10",
+"end_ref": "09021010",
+"end_ref_usfm": "1SA 21:10"
+},
+{
+"start_ref": "09022001",
+"start_ref_usfm": "1SA 22:1",
+"end_ref": "09022005",
+"end_ref_usfm": "1SA 22:5"
+},
+{
+"start_ref": "09027001",
+"start_ref_usfm": "1SA 27:1",
+"end_ref": "09027006",
+"end_ref_usfm": "1SA 27:6"
+},
+{
+"start_ref": "19052001",
+"start_ref_usfm": "PSA 52:1",
+"end_ref": "19052001",
+"end_ref_usfm": "PSA 52:1"
+},
+{
+"start_ref": "19054001",
+"start_ref_usfm": "PSA 54:1",
+"end_ref": "19054007",
+"end_ref_usfm": "PSA 54:7"
+},
+{
+"start_ref": "19056001",
+"start_ref_usfm": "PSA 56:1",
+"end_ref": "19056002",
+"end_ref_usfm": "PSA 56:2"
+},
+{
+"start_ref": "19057001",
+"start_ref_usfm": "PSA 57:1",
+"end_ref": "19057006",
+"end_ref_usfm": "PSA 57:6"
+},
+{
+"start_ref": "09024003",
+"start_ref_usfm": "1SA 24:3",
+"end_ref": "09024007",
+"end_ref_usfm": "1SA 24:7"
+},
+{
+"start_ref": "09026007",
+"start_ref_usfm": "1SA 26:7",
+"end_ref": "09026025",
+"end_ref_usfm": "1SA 26:25"
+},
+{
+"start_ref": "10001011",
+"start_ref_usfm": "2SA 1:11",
+"end_ref": "10001012",
+"end_ref_usfm": "2SA 1:12"
+},
+{
+"start_ref": "10001017",
+"start_ref_usfm": "2SA 1:17",
+"end_ref": "10001027",
+"end_ref_usfm": "2SA 1:27"
+}
+],
+"resource": [
+{
+"reference_id": "5691",
+"content_id": "5691",
+"resource_code": "DictionaryBibleThemes",
+"label": "5691: friends, good",
+"language": "eng"
+},
+{
+"reference_id": "7784",
+"content_id": "7784",
+"resource_code": "DictionaryBibleThemes",
+"label": "7784: shepherd",
+"language": "eng"
+},
+{
+"reference_id": "8304",
+"content_id": "8304",
+"resource_code": "DictionaryBibleThemes",
+"label": "8304: loyalty",
+"language": "eng"
+},
+{
+"reference_id": "8773",
+"content_id": "8773",
+"resource_code": "DictionaryBibleThemes",
+"label": "8773: jealousy",
+"language": "eng"
+}
+]
+}
+}
+]

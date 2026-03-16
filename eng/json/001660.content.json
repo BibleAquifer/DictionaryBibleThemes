@@ -1,0 +1,60 @@
+[
+{
+"content_id": "6700",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6700: peace",
+"media_type": "Text",
+"index_reference": "6700: peace",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The state of harmony that is available to believers through having a right relationship with God and others and is especially associated with the presence of the Holy Spirit.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6701",
+"content_id": "6701",
+"resource_code": "DictionaryBibleThemes",
+"label": "6701: peace, human search for",
+"language": "eng"
+},
+{
+"reference_id": "6702",
+"content_id": "6702",
+"resource_code": "DictionaryBibleThemes",
+"label": "6702: peace, human destruction of",
+"language": "eng"
+},
+{
+"reference_id": "6703",
+"content_id": "6703",
+"resource_code": "DictionaryBibleThemes",
+"label": "6703: peace, divine in OT",
+"language": "eng"
+},
+{
+"reference_id": "6704",
+"content_id": "6704",
+"resource_code": "DictionaryBibleThemes",
+"label": "6704: peace, divine in NT",
+"language": "eng"
+},
+{
+"reference_id": "6705",
+"content_id": "6705",
+"resource_code": "DictionaryBibleThemes",
+"label": "6705: peace, believers' experience of",
+"language": "eng"
+},
+{
+"reference_id": "6706",
+"content_id": "6706",
+"resource_code": "DictionaryBibleThemes",
+"label": "6706: peace, and Holy Spirit",
+"language": "eng"
+}
+]
+}
+}
+]

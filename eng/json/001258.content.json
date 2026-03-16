@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5718",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5718: mothers",
+"media_type": "Text",
+"index_reference": "5718: mothers",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The female parent of children. The role and influence of mothers are frequently stressed in Scripture, and their care for children is used as a picture of God's care for his people.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5719",
+"content_id": "5719",
+"resource_code": "DictionaryBibleThemes",
+"label": "5719: mothers, responsibilities of",
+"language": "eng"
+},
+{
+"reference_id": "5720",
+"content_id": "5720",
+"resource_code": "DictionaryBibleThemes",
+"label": "5720: mothers, examples of",
+"language": "eng"
+},
+{
+"reference_id": "5721",
+"content_id": "5721",
+"resource_code": "DictionaryBibleThemes",
+"label": "5721: mothers, as a symbol",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8230",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8230: discipline",
+"media_type": "Text",
+"index_reference": "8230: discipline",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Loving and corrective training that leads to maturity and responsibility on the part of those who experience it.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8231",
+"content_id": "8231",
+"resource_code": "DictionaryBibleThemes",
+"label": "8231: discipline, divine",
+"language": "eng"
+},
+{
+"reference_id": "8232",
+"content_id": "8232",
+"resource_code": "DictionaryBibleThemes",
+"label": "8232: discipline, in the family",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,98 @@
+[
+{
+"content_id": "4484",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4484: mustard seed",
+"media_type": "Text",
+"index_reference": "4484: mustard seed",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A very small seed which grew rapidly into a substantial plant. It was used in parables by Jesus Christ to encourage the faith of the individual and to illustrate the growth of the kingdom of God.</p>\n<h2>The mustard seed and the faith of the individual</h2>\n<p><strong><a href=\"https://ref.ly/Luke17:5-Luke17:6\">LUK 17:5–17:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt17:14-Matt17:20\">MAT 17:14–17:20</a></p>\n<h2>The mustard seed and the kingdom of God</h2>\n<p><strong><a href=\"https://ref.ly/Matt13:31-Matt13:32\">MAT 13:31–13:32</a></strong> parallels <a href=\"https://ref.ly/Mark4:30-Mark4:32\">MRK 4:30–4:32</a>, <a href=\"https://ref.ly/Luke13:18-Luke13:19\">LUK 13:18–13:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42017005",
+"start_ref_usfm": "LUK 17:5",
+"end_ref": "42017006",
+"end_ref_usfm": "LUK 17:6"
+},
+{
+"start_ref": "40017014",
+"start_ref_usfm": "MAT 17:14",
+"end_ref": "40017020",
+"end_ref_usfm": "MAT 17:20"
+},
+{
+"start_ref": "40013031",
+"start_ref_usfm": "MAT 13:31",
+"end_ref": "40013032",
+"end_ref_usfm": "MAT 13:32"
+},
+{
+"start_ref": "41004030",
+"start_ref_usfm": "MRK 4:30",
+"end_ref": "41004032",
+"end_ref_usfm": "MRK 4:32"
+},
+{
+"start_ref": "42013018",
+"start_ref_usfm": "LUK 13:18",
+"end_ref": "42013019",
+"end_ref_usfm": "LUK 13:19"
+}
+],
+"resource": [
+{
+"reference_id": "2375",
+"content_id": "2375",
+"resource_code": "DictionaryBibleThemes",
+"label": "2375: kingdom of God",
+"language": "eng"
+},
+{
+"reference_id": "4402",
+"content_id": "4402",
+"resource_code": "DictionaryBibleThemes",
+"label": "4402: plants",
+"language": "eng"
+},
+{
+"reference_id": "4506",
+"content_id": "4506",
+"resource_code": "DictionaryBibleThemes",
+"label": "4506: seed",
+"language": "eng"
+},
+{
+"reference_id": "4528",
+"content_id": "4528",
+"resource_code": "DictionaryBibleThemes",
+"label": "4528: trees",
+"language": "eng"
+},
+{
+"reference_id": "5438",
+"content_id": "5438",
+"resource_code": "DictionaryBibleThemes",
+"label": "5438: parables",
+"language": "eng"
+},
+{
+"reference_id": "8020",
+"content_id": "8020",
+"resource_code": "DictionaryBibleThemes",
+"label": "8020: faith",
+"language": "eng"
+},
+{
+"reference_id": "8443",
+"content_id": "8443",
+"resource_code": "DictionaryBibleThemes",
+"label": "8443: growth",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,46 @@
+[
+{
+"content_id": "8333",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8333: reverence",
+"media_type": "Text",
+"index_reference": "8333: reverence",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The proper sense of awe, respect and wonder that is inspired and demanded by an encounter with, or meditation upon, the character and activity of the living God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8334",
+"content_id": "8334",
+"resource_code": "DictionaryBibleThemes",
+"label": "8334: reverence, and God's nature",
+"language": "eng"
+},
+{
+"reference_id": "8335",
+"content_id": "8335",
+"resource_code": "DictionaryBibleThemes",
+"label": "8335: reverence, and blessing",
+"language": "eng"
+},
+{
+"reference_id": "8336",
+"content_id": "8336",
+"resource_code": "DictionaryBibleThemes",
+"label": "8336: reverence, and obedience",
+"language": "eng"
+},
+{
+"reference_id": "8337",
+"content_id": "8337",
+"resource_code": "DictionaryBibleThemes",
+"label": "8337: reverence, and social behaviour",
+"language": "eng"
+}
+]
+}
+}
+]

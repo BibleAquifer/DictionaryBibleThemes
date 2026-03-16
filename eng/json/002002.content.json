@@ -1,0 +1,46 @@
+[
+{
+"content_id": "8104",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8104: assurance",
+"media_type": "Text",
+"index_reference": "8104: assurance",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Certainty of a present relationship with God through Jesus Christ and a secure future hope which is based upon divine revelation, centred on the person, promises and action of God and confirmed by the Holy Spirit.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8105",
+"content_id": "8105",
+"resource_code": "DictionaryBibleThemes",
+"label": "8105: assurance, basis of",
+"language": "eng"
+},
+{
+"reference_id": "8106",
+"content_id": "8106",
+"resource_code": "DictionaryBibleThemes",
+"label": "8106: assurance, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8107",
+"content_id": "8107",
+"resource_code": "DictionaryBibleThemes",
+"label": "8107: assurance, and life of faith",
+"language": "eng"
+},
+{
+"reference_id": "8108",
+"content_id": "8108",
+"resource_code": "DictionaryBibleThemes",
+"label": "8108: assurance, and Holy Spirit",
+"language": "eng"
+}
+]
+}
+}
+]

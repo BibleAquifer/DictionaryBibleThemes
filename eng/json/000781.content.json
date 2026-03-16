@@ -1,0 +1,82 @@
+[
+{
+"content_id": "5192",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5192: thumbs",
+"media_type": "Text",
+"index_reference": "5192: thumbs",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The role of the thumb in sacrificial ritual</h2>\n<p><a href=\"https://ref.ly/Exod29:20\">EXO 29:20</a>; ; <a href=\"https://ref.ly/Lev8:23-Lev8:24\">LEV 8:23–8:24</a>, <a href=\"https://ref.ly/Lev14:14\">LEV 14:14</a>, <a href=\"https://ref.ly/Lev14:17\">LEV 14:17</a>, <a href=\"https://ref.ly/Lev14:25\">LEV 14:25</a>, <a href=\"https://ref.ly/Lev14:28\">LEV 14:28</a></p>\n<h2>Thumbs cut off</h2>\n<p><a href=\"https://ref.ly/Judg1:6-Judg1:7\">JDG 1:6–1:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02029020",
+"start_ref_usfm": "EXO 29:20",
+"end_ref": "02029020",
+"end_ref_usfm": "EXO 29:20"
+},
+{
+"start_ref": "03008023",
+"start_ref_usfm": "LEV 8:23",
+"end_ref": "03008024",
+"end_ref_usfm": "LEV 8:24"
+},
+{
+"start_ref": "03014014",
+"start_ref_usfm": "LEV 14:14",
+"end_ref": "03014014",
+"end_ref_usfm": "LEV 14:14"
+},
+{
+"start_ref": "03014017",
+"start_ref_usfm": "LEV 14:17",
+"end_ref": "03014017",
+"end_ref_usfm": "LEV 14:17"
+},
+{
+"start_ref": "03014025",
+"start_ref_usfm": "LEV 14:25",
+"end_ref": "03014025",
+"end_ref_usfm": "LEV 14:25"
+},
+{
+"start_ref": "03014028",
+"start_ref_usfm": "LEV 14:28",
+"end_ref": "03014028",
+"end_ref_usfm": "LEV 14:28"
+},
+{
+"start_ref": "07001006",
+"start_ref_usfm": "JDG 1:6",
+"end_ref": "07001007",
+"end_ref_usfm": "JDG 1:7"
+}
+],
+"resource": [
+{
+"reference_id": "5152",
+"content_id": "5152",
+"resource_code": "DictionaryBibleThemes",
+"label": "5152: fingers",
+"language": "eng"
+},
+{
+"reference_id": "5156",
+"content_id": "5156",
+"resource_code": "DictionaryBibleThemes",
+"label": "5156: hand",
+"language": "eng"
+},
+{
+"reference_id": "7435",
+"content_id": "7435",
+"resource_code": "DictionaryBibleThemes",
+"label": "7435: sacrifice, in OT",
+"language": "eng"
+}
+]
+}
+}
+]

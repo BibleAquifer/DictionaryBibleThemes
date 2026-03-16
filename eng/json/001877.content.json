@@ -1,0 +1,32 @@
+[
+{
+"content_id": "7550",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7550: Pharisees",
+"media_type": "Text",
+"index_reference": "7550: pharisees",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A Jewish religious party whose members required a very strict adherence to the ritual law and to the traditions of their predecessors. They were hostile to the teaching of Jesus Christ, which they regarded as compromising their interpretation of the law.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7551",
+"content_id": "7551",
+"resource_code": "DictionaryBibleThemes",
+"label": "7551: Pharisees, beliefs of",
+"language": "eng"
+},
+{
+"reference_id": "7552",
+"content_id": "7552",
+"resource_code": "DictionaryBibleThemes",
+"label": "7552: Pharisees, attitudes to Jesus Christ",
+"language": "eng"
+}
+]
+}
+}
+]

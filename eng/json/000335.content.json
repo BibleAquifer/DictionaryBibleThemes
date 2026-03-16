@@ -1,0 +1,53 @@
+[
+{
+"content_id": "4130",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4130: demons",
+"media_type": "Text",
+"index_reference": "4130: demons",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Evil spiritual forces; Scripture stresses the reality of demonic forces and recognises a number of categories to which they may be assigned. Jesus Christ's authority over such demonic forces is seen at work in his ministry and in that of his disciples.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4131",
+"content_id": "4131",
+"resource_code": "DictionaryBibleThemes",
+"label": "4131: demons, kinds of",
+"language": "eng"
+},
+{
+"reference_id": "4132",
+"content_id": "4132",
+"resource_code": "DictionaryBibleThemes",
+"label": "4132: demons, malevolence of",
+"language": "eng"
+},
+{
+"reference_id": "4133",
+"content_id": "4133",
+"resource_code": "DictionaryBibleThemes",
+"label": "4133: demons, possession by",
+"language": "eng"
+},
+{
+"reference_id": "4134",
+"content_id": "4134",
+"resource_code": "DictionaryBibleThemes",
+"label": "4134: demons, exorcism of",
+"language": "eng"
+},
+{
+"reference_id": "4135",
+"content_id": "4135",
+"resource_code": "DictionaryBibleThemes",
+"label": "4135: demons, Jesus Christ's authority over",
+"language": "eng"
+}
+]
+}
+}
+]

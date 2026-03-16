@@ -1,0 +1,258 @@
+[
+{
+"content_id": "5442",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5442: pilgrimage",
+"media_type": "Text",
+"index_reference": "5442: pilgrimage",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A journey made to a holy or revered place as an act of devotion or duty. As well as Jerusalem, there were several such holy places in Israel.</p>\n<h2>The annual pilgrimages</h2>\n<p><strong><a href=\"https://ref.ly/Exod34:23-Exod34:24\">EXO 34:23–34:24</a></strong>; <strong><a href=\"https://ref.ly/Luke2:41-Luke2:42\">LUK 2:41–2:42</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:14\">EXO 23:14</a>, <a href=\"https://ref.ly/Exod23:17\">EXO 23:17</a>; <a href=\"https://ref.ly/Deut16:16\">DEU 16:16</a>, <a href=\"https://ref.ly/Deut31:11\">DEU 31:11</a>; <a href=\"https://ref.ly/2Chr5:2-2Chr5:3\">2CH 5:2–5:3</a>, <a href=\"https://ref.ly/2Chr30:1\">2CH 30:1</a>, <a href=\"https://ref.ly/2Chr30:13\">2CH 30:13</a>; <a href=\"https://ref.ly/Lam1:4\">LAM 1:4</a>; <a href=\"https://ref.ly/Ezek46:9\">EZK 46:9</a>; <a href=\"https://ref.ly/Zech14:16-Zech14:19\">ZEC 14:16–14:19</a>; <a href=\"https://ref.ly/John5:1\">JHN 5:1</a>, <a href=\"https://ref.ly/John7:14\">JHN 7:14</a></p>\n<h2>Pilgrimages to Jerusalem</h2>\n<p><strong><a href=\"https://ref.ly/Ps122:1-Ps122:4\">PSA 122:1–122:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps84:5\">PSA 84:5</a>; <a href=\"https://ref.ly/Isa2:3\">ISA 2:3</a>, <a href=\"https://ref.ly/Isa30:29\">ISA 30:29</a>; <a href=\"https://ref.ly/Mic4:2\">MIC 4:2</a>; <a href=\"https://ref.ly/Acts2:5-Acts2:11\">ACT 2:5–2:11</a></p>\n<h2>Accompanying sacrifices</h2>\n<p><a href=\"https://ref.ly/1Kgs12:27-1Kgs12:28\">1KI 12:27–12:28</a>; ; <a href=\"https://ref.ly/Isa1:12\">ISA 1:12</a></p>\n<h2>Other centres of pilgrimage</h2>\n<p><a href=\"https://ref.ly/1Sam1:3\">1SA 1:3</a>; ; <a href=\"https://ref.ly/1Kgs3:4\">1KI 3:4</a>, <a href=\"https://ref.ly/1Kgs12:26-1Kgs12:30\">1KI 12:26–12:30</a></p>\n<h2>Used metaphorically</h2>\n<p><strong><a href=\"https://ref.ly/Gen47:9\">GEN 47:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb11:13-Heb11:16\">HEB 11:13–11:16</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02034023",
+"start_ref_usfm": "EXO 34:23",
+"end_ref": "02034024",
+"end_ref_usfm": "EXO 34:24"
+},
+{
+"start_ref": "42002041",
+"start_ref_usfm": "LUK 2:41",
+"end_ref": "42002042",
+"end_ref_usfm": "LUK 2:42"
+},
+{
+"start_ref": "02023014",
+"start_ref_usfm": "EXO 23:14",
+"end_ref": "02023014",
+"end_ref_usfm": "EXO 23:14"
+},
+{
+"start_ref": "02023017",
+"start_ref_usfm": "EXO 23:17",
+"end_ref": "02023017",
+"end_ref_usfm": "EXO 23:17"
+},
+{
+"start_ref": "05016016",
+"start_ref_usfm": "DEU 16:16",
+"end_ref": "05016016",
+"end_ref_usfm": "DEU 16:16"
+},
+{
+"start_ref": "05031011",
+"start_ref_usfm": "DEU 31:11",
+"end_ref": "05031011",
+"end_ref_usfm": "DEU 31:11"
+},
+{
+"start_ref": "14005002",
+"start_ref_usfm": "2CH 5:2",
+"end_ref": "14005003",
+"end_ref_usfm": "2CH 5:3"
+},
+{
+"start_ref": "14030001",
+"start_ref_usfm": "2CH 30:1",
+"end_ref": "14030001",
+"end_ref_usfm": "2CH 30:1"
+},
+{
+"start_ref": "14030013",
+"start_ref_usfm": "2CH 30:13",
+"end_ref": "14030013",
+"end_ref_usfm": "2CH 30:13"
+},
+{
+"start_ref": "25001004",
+"start_ref_usfm": "LAM 1:4",
+"end_ref": "25001004",
+"end_ref_usfm": "LAM 1:4"
+},
+{
+"start_ref": "26046009",
+"start_ref_usfm": "EZK 46:9",
+"end_ref": "26046009",
+"end_ref_usfm": "EZK 46:9"
+},
+{
+"start_ref": "38014016",
+"start_ref_usfm": "ZEC 14:16",
+"end_ref": "38014019",
+"end_ref_usfm": "ZEC 14:19"
+},
+{
+"start_ref": "43005001",
+"start_ref_usfm": "JHN 5:1",
+"end_ref": "43005001",
+"end_ref_usfm": "JHN 5:1"
+},
+{
+"start_ref": "43007014",
+"start_ref_usfm": "JHN 7:14",
+"end_ref": "43007014",
+"end_ref_usfm": "JHN 7:14"
+},
+{
+"start_ref": "19122001",
+"start_ref_usfm": "PSA 122:1",
+"end_ref": "19122004",
+"end_ref_usfm": "PSA 122:4"
+},
+{
+"start_ref": "19084005",
+"start_ref_usfm": "PSA 84:5",
+"end_ref": "19084005",
+"end_ref_usfm": "PSA 84:5"
+},
+{
+"start_ref": "23002003",
+"start_ref_usfm": "ISA 2:3",
+"end_ref": "23002003",
+"end_ref_usfm": "ISA 2:3"
+},
+{
+"start_ref": "23030029",
+"start_ref_usfm": "ISA 30:29",
+"end_ref": "23030029",
+"end_ref_usfm": "ISA 30:29"
+},
+{
+"start_ref": "33004002",
+"start_ref_usfm": "MIC 4:2",
+"end_ref": "33004002",
+"end_ref_usfm": "MIC 4:2"
+},
+{
+"start_ref": "44002005",
+"start_ref_usfm": "ACT 2:5",
+"end_ref": "44002011",
+"end_ref_usfm": "ACT 2:11"
+},
+{
+"start_ref": "11012027",
+"start_ref_usfm": "1KI 12:27",
+"end_ref": "11012028",
+"end_ref_usfm": "1KI 12:28"
+},
+{
+"start_ref": "23001012",
+"start_ref_usfm": "ISA 1:12",
+"end_ref": "23001012",
+"end_ref_usfm": "ISA 1:12"
+},
+{
+"start_ref": "09001003",
+"start_ref_usfm": "1SA 1:3",
+"end_ref": "09001003",
+"end_ref_usfm": "1SA 1:3"
+},
+{
+"start_ref": "11003004",
+"start_ref_usfm": "1KI 3:4",
+"end_ref": "11003004",
+"end_ref_usfm": "1KI 3:4"
+},
+{
+"start_ref": "11012026",
+"start_ref_usfm": "1KI 12:26",
+"end_ref": "11012030",
+"end_ref_usfm": "1KI 12:30"
+},
+{
+"start_ref": "01047009",
+"start_ref_usfm": "GEN 47:9",
+"end_ref": "01047009",
+"end_ref_usfm": "GEN 47:9"
+},
+{
+"start_ref": "58011013",
+"start_ref_usfm": "HEB 11:13",
+"end_ref": "58011016",
+"end_ref_usfm": "HEB 11:16"
+}
+],
+"resource": [
+{
+"reference_id": "4020",
+"content_id": "4020",
+"resource_code": "DictionaryBibleThemes",
+"label": "4020: life, of faith",
+"language": "eng"
+},
+{
+"reference_id": "5312",
+"content_id": "5312",
+"resource_code": "DictionaryBibleThemes",
+"label": "5312: feasting",
+"language": "eng"
+},
+{
+"reference_id": "5357",
+"content_id": "5357",
+"resource_code": "DictionaryBibleThemes",
+"label": "5357: journey",
+"language": "eng"
+},
+{
+"reference_id": "5590",
+"content_id": "5590",
+"resource_code": "DictionaryBibleThemes",
+"label": "5590: travel",
+"language": "eng"
+},
+{
+"reference_id": "5976",
+"content_id": "5976",
+"resource_code": "DictionaryBibleThemes",
+"label": "5976: visiting",
+"language": "eng"
+},
+{
+"reference_id": "6606",
+"content_id": "6606",
+"resource_code": "DictionaryBibleThemes",
+"label": "6606: access to God",
+"language": "eng"
+},
+{
+"reference_id": "7266",
+"content_id": "7266",
+"resource_code": "DictionaryBibleThemes",
+"label": "7266: tribes of Israel",
+"language": "eng"
+},
+{
+"reference_id": "7354",
+"content_id": "7354",
+"resource_code": "DictionaryBibleThemes",
+"label": "7354: feasts and festivals",
+"language": "eng"
+},
+{
+"reference_id": "8288",
+"content_id": "8288",
+"resource_code": "DictionaryBibleThemes",
+"label": "8288: joy, of Israel",
+"language": "eng"
+},
+{
+"reference_id": "8622",
+"content_id": "8622",
+"resource_code": "DictionaryBibleThemes",
+"label": "8622: worship",
+"language": "eng"
+},
+{
+"reference_id": "8769",
+"content_id": "8769",
+"resource_code": "DictionaryBibleThemes",
+"label": "8769: idolatry, in OT",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,193 @@
+[
+{
+"content_id": "7384",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7384: household gods",
+"media_type": "Text",
+"index_reference": "7384: household gods",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Known in the Hebrew as “teraphim”, miniature idols small enough for their owners to keep in their homes or to carry with them when travelling.</p>\n<h2>Examples of the use of household gods</h2>\n<p><strong><a href=\"https://ref.ly/Gen31:19\">GEN 31:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen31:34\">GEN 31:34</a>; <a href=\"https://ref.ly/Judg17:1-Judg17:6\">JDG 17:1–17:6</a>, <a href=\"https://ref.ly/Judg18:18\">JDG 18:18</a>, <a href=\"https://ref.ly/Judg18:30-Judg18:31\">JDG 18:30–18:31</a>; <a href=\"https://ref.ly/1Sam19:13-1Sam19:16\">1SA 19:13–19:16</a>; <a href=\"https://ref.ly/Ezek21:21\">EZK 21:21</a> <em>Three methods of divination are described here, shaking the arrows (belomancy), consulting the household gods (necromancy) and the examination of the liver of a sacrificed victim (hepatoscopy).</em></p>\n<h2>The use of household gods was contrary to God's law</h2>\n<p><strong><a href=\"https://ref.ly/Deut7:25-Deut7:26\">DEU 7:25–7:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:4-Exod20:6\">EXO 20:4–20:6</a> parallel <a href=\"https://ref.ly/Deut5:8-Deut5:10\">DEU 5:8–5:10</a></p>\n<h2>The removal and condemnation of household gods</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs23:24\">2KI 23:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen35:2-Gen35:4\">GEN 35:2–35:4</a>; <a href=\"https://ref.ly/Isa44:9-Isa44:11\">ISA 44:9–44:11</a>; <a href=\"https://ref.ly/Ezek18:5-Ezek18:6\">EZK 18:5–18:6</a>; <a href=\"https://ref.ly/Zech10:2\">ZEC 10:2</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01031019",
+"start_ref_usfm": "GEN 31:19",
+"end_ref": "01031019",
+"end_ref_usfm": "GEN 31:19"
+},
+{
+"start_ref": "01031034",
+"start_ref_usfm": "GEN 31:34",
+"end_ref": "01031034",
+"end_ref_usfm": "GEN 31:34"
+},
+{
+"start_ref": "07017001",
+"start_ref_usfm": "JDG 17:1",
+"end_ref": "07017006",
+"end_ref_usfm": "JDG 17:6"
+},
+{
+"start_ref": "07018018",
+"start_ref_usfm": "JDG 18:18",
+"end_ref": "07018018",
+"end_ref_usfm": "JDG 18:18"
+},
+{
+"start_ref": "07018030",
+"start_ref_usfm": "JDG 18:30",
+"end_ref": "07018031",
+"end_ref_usfm": "JDG 18:31"
+},
+{
+"start_ref": "09019013",
+"start_ref_usfm": "1SA 19:13",
+"end_ref": "09019016",
+"end_ref_usfm": "1SA 19:16"
+},
+{
+"start_ref": "26021021",
+"start_ref_usfm": "EZK 21:21",
+"end_ref": "26021021",
+"end_ref_usfm": "EZK 21:21"
+},
+{
+"start_ref": "05007025",
+"start_ref_usfm": "DEU 7:25",
+"end_ref": "05007026",
+"end_ref_usfm": "DEU 7:26"
+},
+{
+"start_ref": "02020004",
+"start_ref_usfm": "EXO 20:4",
+"end_ref": "02020006",
+"end_ref_usfm": "EXO 20:6"
+},
+{
+"start_ref": "05005008",
+"start_ref_usfm": "DEU 5:8",
+"end_ref": "05005010",
+"end_ref_usfm": "DEU 5:10"
+},
+{
+"start_ref": "12023024",
+"start_ref_usfm": "2KI 23:24",
+"end_ref": "12023024",
+"end_ref_usfm": "2KI 23:24"
+},
+{
+"start_ref": "01035002",
+"start_ref_usfm": "GEN 35:2",
+"end_ref": "01035004",
+"end_ref_usfm": "GEN 35:4"
+},
+{
+"start_ref": "23044009",
+"start_ref_usfm": "ISA 44:9",
+"end_ref": "23044011",
+"end_ref_usfm": "ISA 44:11"
+},
+{
+"start_ref": "26018005",
+"start_ref_usfm": "EZK 18:5",
+"end_ref": "26018006",
+"end_ref_usfm": "EZK 18:6"
+},
+{
+"start_ref": "38010002",
+"start_ref_usfm": "ZEC 10:2",
+"end_ref": "38010002",
+"end_ref_usfm": "ZEC 10:2"
+}
+],
+"resource": [
+{
+"reference_id": "1080",
+"content_id": "1080",
+"resource_code": "DictionaryBibleThemes",
+"label": "1080: God, living and self-sustaining",
+"language": "eng"
+},
+{
+"reference_id": "4155",
+"content_id": "4155",
+"resource_code": "DictionaryBibleThemes",
+"label": "4155: divination",
+"language": "eng"
+},
+{
+"reference_id": "4363",
+"content_id": "4363",
+"resource_code": "DictionaryBibleThemes",
+"label": "4363: silver",
+"language": "eng"
+},
+{
+"reference_id": "5138",
+"content_id": "5138",
+"resource_code": "DictionaryBibleThemes",
+"label": "5138: bowing",
+"language": "eng"
+},
+{
+"reference_id": "5212",
+"content_id": "5212",
+"resource_code": "DictionaryBibleThemes",
+"label": "5212: arts and crafts",
+"language": "eng"
+},
+{
+"reference_id": "6243",
+"content_id": "6243",
+"resource_code": "DictionaryBibleThemes",
+"label": "6243: adultery, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "7324",
+"content_id": "7324",
+"resource_code": "DictionaryBibleThemes",
+"label": "7324: calf worship",
+"language": "eng"
+},
+{
+"reference_id": "8747",
+"content_id": "8747",
+"resource_code": "DictionaryBibleThemes",
+"label": "8747: false gods",
+"language": "eng"
+},
+{
+"reference_id": "8752",
+"content_id": "8752",
+"resource_code": "DictionaryBibleThemes",
+"label": "8752: false worship",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+},
+{
+"reference_id": "8807",
+"content_id": "8807",
+"resource_code": "DictionaryBibleThemes",
+"label": "8807: profanity",
+"language": "eng"
+},
+{
+"reference_id": "8840",
+"content_id": "8840",
+"resource_code": "DictionaryBibleThemes",
+"label": "8840: unfaithfulness, to God",
+"language": "eng"
+}
+]
+}
+}
+]

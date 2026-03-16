@@ -1,0 +1,240 @@
+[
+{
+"content_id": "5516",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5516: sculpture",
+"media_type": "Text",
+"index_reference": "5516: sculpture",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Sculpture created by carving</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs6:29\">1KI 6:29</a></strong> parallel <a href=\"https://ref.ly/2Chr3:7\">2CH 3:7</a> <em>See also</em> <a href=\"https://ref.ly/1Kgs6:32\">1KI 6:32</a>, <a href=\"https://ref.ly/1Kgs6:35\">1KI 6:35</a>; <a href=\"https://ref.ly/2Kgs21:7\">2KI 21:7</a>; <a href=\"https://ref.ly/Ezek41:17-Ezek41:18\">EZK 41:17–41:18</a>, <a href=\"https://ref.ly/Ezek41:25\">EZK 41:25</a></p>\n<h2>Sculpture created out of metal</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs7:23\">1KI 7:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod25:18\">EXO 25:18</a>; <a href=\"https://ref.ly/1Kgs7:24\">1KI 7:24</a>, <a href=\"https://ref.ly/1Kgs7:30\">1KI 7:30</a>, <a href=\"https://ref.ly/1Kgs7:37\">1KI 7:37</a>; <a href=\"https://ref.ly/2Chr4:3\">2CH 4:3</a>, <a href=\"https://ref.ly/2Chr28:2\">2CH 28:2</a></p>\n<h2>Sculpture used in the setting of idolatry</h2>\n<p><strong><a href=\"https://ref.ly/Exod32:4\">EXO 32:4</a></strong>; <strong><a href=\"https://ref.ly/Acts19:24\">ACT 19:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:15-Deut4:18\">DEU 4:15–4:18</a>; <a href=\"https://ref.ly/2Kgs17:16\">2KI 17:16</a>; <a href=\"https://ref.ly/Isa40:19-Isa40:20\">ISA 40:19–40:20</a>, <a href=\"https://ref.ly/Isa44:12-Isa44:13\">ISA 44:12–44:13</a>, <a href=\"https://ref.ly/Isa48:5\">ISA 48:5</a>; <a href=\"https://ref.ly/Dan3:1\">DAN 3:1</a>; <a href=\"https://ref.ly/Hab2:18\">HAB 2:18</a>; <a href=\"https://ref.ly/Acts17:29\">ACT 17:29</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11006029",
+"start_ref_usfm": "1KI 6:29",
+"end_ref": "11006029",
+"end_ref_usfm": "1KI 6:29"
+},
+{
+"start_ref": "14003007",
+"start_ref_usfm": "2CH 3:7",
+"end_ref": "14003007",
+"end_ref_usfm": "2CH 3:7"
+},
+{
+"start_ref": "11006032",
+"start_ref_usfm": "1KI 6:32",
+"end_ref": "11006032",
+"end_ref_usfm": "1KI 6:32"
+},
+{
+"start_ref": "11006035",
+"start_ref_usfm": "1KI 6:35",
+"end_ref": "11006035",
+"end_ref_usfm": "1KI 6:35"
+},
+{
+"start_ref": "12021007",
+"start_ref_usfm": "2KI 21:7",
+"end_ref": "12021007",
+"end_ref_usfm": "2KI 21:7"
+},
+{
+"start_ref": "26041017",
+"start_ref_usfm": "EZK 41:17",
+"end_ref": "26041018",
+"end_ref_usfm": "EZK 41:18"
+},
+{
+"start_ref": "26041025",
+"start_ref_usfm": "EZK 41:25",
+"end_ref": "26041025",
+"end_ref_usfm": "EZK 41:25"
+},
+{
+"start_ref": "11007023",
+"start_ref_usfm": "1KI 7:23",
+"end_ref": "11007023",
+"end_ref_usfm": "1KI 7:23"
+},
+{
+"start_ref": "02025018",
+"start_ref_usfm": "EXO 25:18",
+"end_ref": "02025018",
+"end_ref_usfm": "EXO 25:18"
+},
+{
+"start_ref": "11007024",
+"start_ref_usfm": "1KI 7:24",
+"end_ref": "11007024",
+"end_ref_usfm": "1KI 7:24"
+},
+{
+"start_ref": "11007030",
+"start_ref_usfm": "1KI 7:30",
+"end_ref": "11007030",
+"end_ref_usfm": "1KI 7:30"
+},
+{
+"start_ref": "11007037",
+"start_ref_usfm": "1KI 7:37",
+"end_ref": "11007037",
+"end_ref_usfm": "1KI 7:37"
+},
+{
+"start_ref": "14004003",
+"start_ref_usfm": "2CH 4:3",
+"end_ref": "14004003",
+"end_ref_usfm": "2CH 4:3"
+},
+{
+"start_ref": "14028002",
+"start_ref_usfm": "2CH 28:2",
+"end_ref": "14028002",
+"end_ref_usfm": "2CH 28:2"
+},
+{
+"start_ref": "02032004",
+"start_ref_usfm": "EXO 32:4",
+"end_ref": "02032004",
+"end_ref_usfm": "EXO 32:4"
+},
+{
+"start_ref": "44019024",
+"start_ref_usfm": "ACT 19:24",
+"end_ref": "44019024",
+"end_ref_usfm": "ACT 19:24"
+},
+{
+"start_ref": "05004015",
+"start_ref_usfm": "DEU 4:15",
+"end_ref": "05004018",
+"end_ref_usfm": "DEU 4:18"
+},
+{
+"start_ref": "12017016",
+"start_ref_usfm": "2KI 17:16",
+"end_ref": "12017016",
+"end_ref_usfm": "2KI 17:16"
+},
+{
+"start_ref": "23040019",
+"start_ref_usfm": "ISA 40:19",
+"end_ref": "23040020",
+"end_ref_usfm": "ISA 40:20"
+},
+{
+"start_ref": "23044012",
+"start_ref_usfm": "ISA 44:12",
+"end_ref": "23044013",
+"end_ref_usfm": "ISA 44:13"
+},
+{
+"start_ref": "23048005",
+"start_ref_usfm": "ISA 48:5",
+"end_ref": "23048005",
+"end_ref_usfm": "ISA 48:5"
+},
+{
+"start_ref": "27003001",
+"start_ref_usfm": "DAN 3:1",
+"end_ref": "27003001",
+"end_ref_usfm": "DAN 3:1"
+},
+{
+"start_ref": "35002018",
+"start_ref_usfm": "HAB 2:18",
+"end_ref": "35002018",
+"end_ref_usfm": "HAB 2:18"
+},
+{
+"start_ref": "44017029",
+"start_ref_usfm": "ACT 17:29",
+"end_ref": "44017029",
+"end_ref_usfm": "ACT 17:29"
+}
+],
+"resource": [
+{
+"reference_id": "4303",
+"content_id": "4303",
+"resource_code": "DictionaryBibleThemes",
+"label": "4303: metals",
+"language": "eng"
+},
+{
+"reference_id": "4315",
+"content_id": "4315",
+"resource_code": "DictionaryBibleThemes",
+"label": "4315: clay",
+"language": "eng"
+},
+{
+"reference_id": "4345",
+"content_id": "4345",
+"resource_code": "DictionaryBibleThemes",
+"label": "4345: metalworkers",
+"language": "eng"
+},
+{
+"reference_id": "4552",
+"content_id": "4552",
+"resource_code": "DictionaryBibleThemes",
+"label": "4552: wood",
+"language": "eng"
+},
+{
+"reference_id": "5211",
+"content_id": "5211",
+"resource_code": "DictionaryBibleThemes",
+"label": "5211: art",
+"language": "eng"
+},
+{
+"reference_id": "5212",
+"content_id": "5212",
+"resource_code": "DictionaryBibleThemes",
+"label": "5212: arts and crafts",
+"language": "eng"
+},
+{
+"reference_id": "5247",
+"content_id": "5247",
+"resource_code": "DictionaryBibleThemes",
+"label": "5247: carpenters",
+"language": "eng"
+},
+{
+"reference_id": "5272",
+"content_id": "5272",
+"resource_code": "DictionaryBibleThemes",
+"label": "5272: craftsmen",
+"language": "eng"
+},
+{
+"reference_id": "5403",
+"content_id": "5403",
+"resource_code": "DictionaryBibleThemes",
+"label": "5403: masons",
+"language": "eng"
+},
+{
+"reference_id": "5445",
+"content_id": "5445",
+"resource_code": "DictionaryBibleThemes",
+"label": "5445: potters and pottery",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+}
+]
+}
+}
+]

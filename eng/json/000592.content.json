@@ -1,0 +1,32 @@
+[
+{
+"content_id": "4924",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4924: delay",
+"media_type": "Text",
+"index_reference": "4924: delay",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A postponement or pause, which can result from a deliberate decision or a failure to achieve the intended objective in the time available. Scripture stresses that apparent delays on the part of God are due to his love and wisdom, especially to give sinners time for repentance.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4925",
+"content_id": "4925",
+"resource_code": "DictionaryBibleThemes",
+"label": "4925: delay, divine",
+"language": "eng"
+},
+{
+"reference_id": "4926",
+"content_id": "4926",
+"resource_code": "DictionaryBibleThemes",
+"label": "4926: delay, human",
+"language": "eng"
+}
+]
+}
+}
+]

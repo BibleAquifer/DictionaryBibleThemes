@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5051",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5051: responsibility",
+"media_type": "Text",
+"index_reference": "5051: responsibility",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An obligation, especially to give account of one's actions. Scripture stresses that the responsibilities which believers and the church have arise from their special and privileged relationship to God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5052",
+"content_id": "5052",
+"resource_code": "DictionaryBibleThemes",
+"label": "5052: responsibility, to God",
+"language": "eng"
+},
+{
+"reference_id": "5053",
+"content_id": "5053",
+"resource_code": "DictionaryBibleThemes",
+"label": "5053: responsibility, for God's world",
+"language": "eng"
+},
+{
+"reference_id": "5054",
+"content_id": "5054",
+"resource_code": "DictionaryBibleThemes",
+"label": "5054: responsibility, examples of",
+"language": "eng"
+}
+]
+}
+}
+]

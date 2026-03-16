@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5471",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5471: proof",
+"media_type": "Text",
+"index_reference": "5471: proof",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A confirmation and verification of a belief, such as belief in the existence of God, in the trustworthiness of a witness or in the resurrection of Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5472",
+"content_id": "5472",
+"resource_code": "DictionaryBibleThemes",
+"label": "5472: proof, as evidence",
+"language": "eng"
+},
+{
+"reference_id": "5473",
+"content_id": "5473",
+"resource_code": "DictionaryBibleThemes",
+"label": "5473: proof, through testing",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,206 @@
+[
+{
+"content_id": "7480",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7480: wave offering",
+"media_type": "Text",
+"index_reference": "7480: wave offering",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A gift specially dedicated to God. The term itself may not be intended to convey a particular action.</p>\n<h2>The wave offering was part of every fellowship offering</h2>\n<p><strong><a href=\"https://ref.ly/Lev7:34\">LEV 7:34</a></strong> <em>Although given to the priests, the offering belonged to the LORD.</em> <em>See also</em> <a href=\"https://ref.ly/Lev7:28-Lev7:32\">LEV 7:28–7:32</a>, <a href=\"https://ref.ly/Lev9:21\">LEV 9:21</a></p>\n<h2>The wave offering was eaten by the priests</h2>\n<p><a href=\"https://ref.ly/Exod29:26-Exod29:28\">EXO 29:26–29:28</a>; ; <a href=\"https://ref.ly/Lev10:15\">LEV 10:15</a>; ; <a href=\"https://ref.ly/Num18:11\">NUM 18:11</a>, <a href=\"https://ref.ly/Num18:18\">NUM 18:18</a></p>\n<h2>Occasions for making a wave offering</h2>\n<h3>As a cereal offering when priests were consecrated</h3>\n<p><a href=\"https://ref.ly/Exod29:23-Exod29:24\">EXO 29:23–29:24</a>; ; <a href=\"https://ref.ly/Lev8:27-Lev8:29\">LEV 8:27–8:29</a></p>\n<h3>As a guilt offering sacrificed at a ceremonial cleansing</h3>\n<p><a href=\"https://ref.ly/Lev14:12\">LEV 14:12</a>, <a href=\"https://ref.ly/Lev14:21\">LEV 14:21</a>, <a href=\"https://ref.ly/Lev14:24\">LEV 14:24</a></p>\n<h3>As part of the ritual when a woman was accused of adultery</h3>\n<p><a href=\"https://ref.ly/Num5:25\">NUM 5:25</a></p>\n<h3>When celebrating harvest</h3>\n<p><a href=\"https://ref.ly/Lev23:10-Lev23:11\">LEV 23:10–23:11</a> <em>the firstfruits of the harvest</em>; <a href=\"https://ref.ly/Lev23:15-Lev23:17\">LEV 23:15–23:17</a>, <a href=\"https://ref.ly/Lev23:20\">LEV 23:20</a></p>\n<h3>When presenting a gift to God</h3>\n<p>Materials given for constructing the tabernacle:\n <a href=\"https://ref.ly/Exod35:22\">EXO 35:22</a>, <a href=\"https://ref.ly/Exod38:24\">EXO 38:24</a>, <a href=\"https://ref.ly/Exod38:29\">EXO 38:29</a></p>\n<h3>When dedicating the Levites to God</h3>\n<p><strong><a href=\"https://ref.ly/Num8:11\">NUM 8:11</a></strong> <em>The dedication to God of the Levites symbolised the consecration of the whole nation.</em> <em>See also</em> <a href=\"https://ref.ly/Num8:13\">NUM 8:13</a>, <a href=\"https://ref.ly/Num8:15\">NUM 8:15</a>, <a href=\"https://ref.ly/Num8:21\">NUM 8:21</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03007034",
+"start_ref_usfm": "LEV 7:34",
+"end_ref": "03007034",
+"end_ref_usfm": "LEV 7:34"
+},
+{
+"start_ref": "03007028",
+"start_ref_usfm": "LEV 7:28",
+"end_ref": "03007032",
+"end_ref_usfm": "LEV 7:32"
+},
+{
+"start_ref": "03009021",
+"start_ref_usfm": "LEV 9:21",
+"end_ref": "03009021",
+"end_ref_usfm": "LEV 9:21"
+},
+{
+"start_ref": "02029026",
+"start_ref_usfm": "EXO 29:26",
+"end_ref": "02029028",
+"end_ref_usfm": "EXO 29:28"
+},
+{
+"start_ref": "03010015",
+"start_ref_usfm": "LEV 10:15",
+"end_ref": "03010015",
+"end_ref_usfm": "LEV 10:15"
+},
+{
+"start_ref": "04018011",
+"start_ref_usfm": "NUM 18:11",
+"end_ref": "04018011",
+"end_ref_usfm": "NUM 18:11"
+},
+{
+"start_ref": "04018018",
+"start_ref_usfm": "NUM 18:18",
+"end_ref": "04018018",
+"end_ref_usfm": "NUM 18:18"
+},
+{
+"start_ref": "02029023",
+"start_ref_usfm": "EXO 29:23",
+"end_ref": "02029024",
+"end_ref_usfm": "EXO 29:24"
+},
+{
+"start_ref": "03008027",
+"start_ref_usfm": "LEV 8:27",
+"end_ref": "03008029",
+"end_ref_usfm": "LEV 8:29"
+},
+{
+"start_ref": "03014012",
+"start_ref_usfm": "LEV 14:12",
+"end_ref": "03014012",
+"end_ref_usfm": "LEV 14:12"
+},
+{
+"start_ref": "03014021",
+"start_ref_usfm": "LEV 14:21",
+"end_ref": "03014021",
+"end_ref_usfm": "LEV 14:21"
+},
+{
+"start_ref": "03014024",
+"start_ref_usfm": "LEV 14:24",
+"end_ref": "03014024",
+"end_ref_usfm": "LEV 14:24"
+},
+{
+"start_ref": "04005025",
+"start_ref_usfm": "NUM 5:25",
+"end_ref": "04005025",
+"end_ref_usfm": "NUM 5:25"
+},
+{
+"start_ref": "03023010",
+"start_ref_usfm": "LEV 23:10",
+"end_ref": "03023011",
+"end_ref_usfm": "LEV 23:11"
+},
+{
+"start_ref": "03023015",
+"start_ref_usfm": "LEV 23:15",
+"end_ref": "03023017",
+"end_ref_usfm": "LEV 23:17"
+},
+{
+"start_ref": "03023020",
+"start_ref_usfm": "LEV 23:20",
+"end_ref": "03023020",
+"end_ref_usfm": "LEV 23:20"
+},
+{
+"start_ref": "02035022",
+"start_ref_usfm": "EXO 35:22",
+"end_ref": "02035022",
+"end_ref_usfm": "EXO 35:22"
+},
+{
+"start_ref": "02038024",
+"start_ref_usfm": "EXO 38:24",
+"end_ref": "02038024",
+"end_ref_usfm": "EXO 38:24"
+},
+{
+"start_ref": "02038029",
+"start_ref_usfm": "EXO 38:29",
+"end_ref": "02038029",
+"end_ref_usfm": "EXO 38:29"
+},
+{
+"start_ref": "04008011",
+"start_ref_usfm": "NUM 8:11",
+"end_ref": "04008011",
+"end_ref_usfm": "NUM 8:11"
+},
+{
+"start_ref": "04008013",
+"start_ref_usfm": "NUM 8:13",
+"end_ref": "04008013",
+"end_ref_usfm": "NUM 8:13"
+},
+{
+"start_ref": "04008015",
+"start_ref_usfm": "NUM 8:15",
+"end_ref": "04008015",
+"end_ref_usfm": "NUM 8:15"
+},
+{
+"start_ref": "04008021",
+"start_ref_usfm": "NUM 8:21",
+"end_ref": "04008021",
+"end_ref_usfm": "NUM 8:21"
+}
+],
+"resource": [
+{
+"reference_id": "4442",
+"content_id": "4442",
+"resource_code": "DictionaryBibleThemes",
+"label": "4442: firstfruits",
+"language": "eng"
+},
+{
+"reference_id": "7357",
+"content_id": "7357",
+"resource_code": "DictionaryBibleThemes",
+"label": "7357: Feast of Firstfruits",
+"language": "eng"
+},
+{
+"reference_id": "7361",
+"content_id": "7361",
+"resource_code": "DictionaryBibleThemes",
+"label": "7361: Feast of Weeks",
+"language": "eng"
+},
+{
+"reference_id": "7364",
+"content_id": "7364",
+"resource_code": "DictionaryBibleThemes",
+"label": "7364: fellowship offering",
+"language": "eng"
+},
+{
+"reference_id": "7370",
+"content_id": "7370",
+"resource_code": "DictionaryBibleThemes",
+"label": "7370: guilt offering",
+"language": "eng"
+},
+{
+"reference_id": "7390",
+"content_id": "7390",
+"resource_code": "DictionaryBibleThemes",
+"label": "7390: Levites",
+"language": "eng"
+},
+{
+"reference_id": "7412",
+"content_id": "7412",
+"resource_code": "DictionaryBibleThemes",
+"label": "7412: priesthood",
+"language": "eng"
+}
+]
+}
+}
+]

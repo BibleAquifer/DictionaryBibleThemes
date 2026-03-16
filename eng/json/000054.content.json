@@ -1,0 +1,107 @@
+[
+{
+"content_id": "1250",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1250: Abba",
+"media_type": "Text",
+"index_reference": "1250: abba",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The Aramaic word “Abba” is thought to be a very intimate term for “Father” suggesting that those who use it to refer to God enjoy a close relationship with him. Jesus Christ uses the term as a consequence of his natural sonship of God; believers may use it as a consequence of their adopted sonship of God through faith.</p>\n<h2>``Abba'' used in addressing God</h2>\n<h3>By Jesus Christ</h3>\n<p><a href=\"https://ref.ly/Mark14:36\">MRK 14:36</a></p>\n<h3>By believers</h3>\n<p><a href=\"https://ref.ly/Rom8:15\">ROM 8:15</a>; ; <a href=\"https://ref.ly/Gal4:6\">GAL 4:6</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41014036",
+"start_ref_usfm": "MRK 14:36",
+"end_ref": "41014036",
+"end_ref_usfm": "MRK 14:36"
+},
+{
+"start_ref": "45008015",
+"start_ref_usfm": "ROM 8:15",
+"end_ref": "45008015",
+"end_ref_usfm": "ROM 8:15"
+},
+{
+"start_ref": "48004006",
+"start_ref_usfm": "GAL 4:6",
+"end_ref": "48004006",
+"end_ref_usfm": "GAL 4:6"
+}
+],
+"resource": [
+{
+"reference_id": "1040",
+"content_id": "1040",
+"resource_code": "DictionaryBibleThemes",
+"label": "1040: God, fatherhood of",
+"language": "eng"
+},
+{
+"reference_id": "1205",
+"content_id": "1205",
+"resource_code": "DictionaryBibleThemes",
+"label": "1205: God, titles and names of",
+"language": "eng"
+},
+{
+"reference_id": "1510",
+"content_id": "1510",
+"resource_code": "DictionaryBibleThemes",
+"label": "1510: Trinity, the",
+"language": "eng"
+},
+{
+"reference_id": "2078",
+"content_id": "2078",
+"resource_code": "DictionaryBibleThemes",
+"label": "2078: Jesus Christ, sonship of",
+"language": "eng"
+},
+{
+"reference_id": "2218",
+"content_id": "2218",
+"resource_code": "DictionaryBibleThemes",
+"label": "2218: Jesus Christ, Son of God",
+"language": "eng"
+},
+{
+"reference_id": "3221",
+"content_id": "3221",
+"resource_code": "DictionaryBibleThemes",
+"label": "3221: Holy Spirit, and prayer",
+"language": "eng"
+},
+{
+"reference_id": "5895",
+"content_id": "5895",
+"resource_code": "DictionaryBibleThemes",
+"label": "5895: intimacy",
+"language": "eng"
+},
+{
+"reference_id": "7922",
+"content_id": "7922",
+"resource_code": "DictionaryBibleThemes",
+"label": "7922: fellowship, with God",
+"language": "eng"
+},
+{
+"reference_id": "8104",
+"content_id": "8104",
+"resource_code": "DictionaryBibleThemes",
+"label": "8104: assurance",
+"language": "eng"
+},
+{
+"reference_id": "8134",
+"content_id": "8134",
+"resource_code": "DictionaryBibleThemes",
+"label": "8134: knowing God",
+"language": "eng"
+}
+]
+}
+}
+]

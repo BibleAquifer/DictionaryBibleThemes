@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8823",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8823: self-righteousness",
+"media_type": "Text",
+"index_reference": "8823: self-righteousness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A moral self-confidence and superiority arising from satisfaction in one's own achievements. True righteousness can only be found in a relationship with Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8824",
+"content_id": "8824",
+"resource_code": "DictionaryBibleThemes",
+"label": "8824: self-righteousness, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8825",
+"content_id": "8825",
+"resource_code": "DictionaryBibleThemes",
+"label": "8825: self-righteousness, and the gospel",
+"language": "eng"
+}
+]
+}
+}
+]

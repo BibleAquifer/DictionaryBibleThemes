@@ -1,0 +1,121 @@
+[
+{
+"content_id": "4348",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4348: mining",
+"media_type": "Text",
+"index_reference": "4348: mining",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Metal ores and precious stones mined from the earth</h2>\n<p><strong><a href=\"https://ref.ly/Job28:1-Job28:11\">JOB 28:1–28:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut8:7-Deut8:9\">DEU 8:7–8:9</a>; <a href=\"https://ref.ly/1Kgs7:13-1Kgs7:50\">1KI 7:13–7:50</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18028001",
+"start_ref_usfm": "JOB 28:1",
+"end_ref": "18028011",
+"end_ref_usfm": "JOB 28:11"
+},
+{
+"start_ref": "05008007",
+"start_ref_usfm": "DEU 8:7",
+"end_ref": "05008009",
+"end_ref_usfm": "DEU 8:9"
+},
+{
+"start_ref": "11007013",
+"start_ref_usfm": "1KI 7:13",
+"end_ref": "11007050",
+"end_ref_usfm": "1KI 7:50"
+}
+],
+"resource": [
+{
+"reference_id": "4303",
+"content_id": "4303",
+"resource_code": "DictionaryBibleThemes",
+"label": "4303: metals",
+"language": "eng"
+},
+{
+"reference_id": "4306",
+"content_id": "4306",
+"resource_code": "DictionaryBibleThemes",
+"label": "4306: minerals",
+"language": "eng"
+},
+{
+"reference_id": "4312",
+"content_id": "4312",
+"resource_code": "DictionaryBibleThemes",
+"label": "4312: bronze",
+"language": "eng"
+},
+{
+"reference_id": "4318",
+"content_id": "4318",
+"resource_code": "DictionaryBibleThemes",
+"label": "4318: coal",
+"language": "eng"
+},
+{
+"reference_id": "4321",
+"content_id": "4321",
+"resource_code": "DictionaryBibleThemes",
+"label": "4321: copper",
+"language": "eng"
+},
+{
+"reference_id": "4333",
+"content_id": "4333",
+"resource_code": "DictionaryBibleThemes",
+"label": "4333: gold",
+"language": "eng"
+},
+{
+"reference_id": "4336",
+"content_id": "4336",
+"resource_code": "DictionaryBibleThemes",
+"label": "4336: iron",
+"language": "eng"
+},
+{
+"reference_id": "4342",
+"content_id": "4342",
+"resource_code": "DictionaryBibleThemes",
+"label": "4342: jewels",
+"language": "eng"
+},
+{
+"reference_id": "4345",
+"content_id": "4345",
+"resource_code": "DictionaryBibleThemes",
+"label": "4345: metalworkers",
+"language": "eng"
+},
+{
+"reference_id": "4351",
+"content_id": "4351",
+"resource_code": "DictionaryBibleThemes",
+"label": "4351: refining",
+"language": "eng"
+},
+{
+"reference_id": "4363",
+"content_id": "4363",
+"resource_code": "DictionaryBibleThemes",
+"label": "4363: silver",
+"language": "eng"
+},
+{
+"reference_id": "4372",
+"content_id": "4372",
+"resource_code": "DictionaryBibleThemes",
+"label": "4372: tin",
+"language": "eng"
+}
+]
+}
+}
+]

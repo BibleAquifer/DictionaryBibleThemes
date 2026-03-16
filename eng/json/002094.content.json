@@ -1,0 +1,307 @@
+[
+{
+"content_id": "8257",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8257: fruitfulness, natural",
+"media_type": "Text",
+"index_reference": "8257: fruitfulness, natural",
+"language": "eng",
+"review_level": "None",
+"content": "<p>In the OT fruitfulness is often used as a way of referring to God's material and physical blessings.</p>\n<h2>God's blessing on creation generally</h2>\n<p><strong><a href=\"https://ref.ly/Gen1:11-Gen1:12\">GEN 1:11–1:12</a>, <a href=\"https://ref.ly/Gen1:22\">GEN 1:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen8:17\">GEN 8:17</a></p>\n<h2>Fruitfulness in the promised land</h2>\n<p><strong><a href=\"https://ref.ly/Lev25:18-Lev25:19\">LEV 25:18–25:19</a></strong> <em>God's blessing was seen in terms of material prosperity.</em> <em>See also</em> <a href=\"https://ref.ly/Lev26:3-Lev26:4\">LEV 26:3–26:4</a>; <a href=\"https://ref.ly/Deut32:13\">DEU 32:13</a>, <a href=\"https://ref.ly/Deut33:13-Deut33:16\">DEU 33:13–33:16</a>; <a href=\"https://ref.ly/Ezek34:27\">EZK 34:27</a>; <a href=\"https://ref.ly/Amos9:14\">AMO 9:14</a>; <a href=\"https://ref.ly/Zech8:12\">ZEC 8:12</a></p>\n<h2>Fruitfulness in family relationships</h2>\n<h3>Such fruitfulness promised</h3>\n<p><strong><a href=\"https://ref.ly/Gen13:16\">GEN 13:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen15:5\">GEN 15:5</a>, <a href=\"https://ref.ly/Gen17:6\">GEN 17:6</a>, <a href=\"https://ref.ly/Gen17:20\">GEN 17:20</a>, <a href=\"https://ref.ly/Gen22:17\">GEN 22:17</a>; <a href=\"https://ref.ly/Lev26:9\">LEV 26:9</a>; <a href=\"https://ref.ly/Deut7:13\">DEU 7:13</a>, <a href=\"https://ref.ly/Deut28:4\">DEU 28:4</a>, <a href=\"https://ref.ly/Deut28:11\">DEU 28:11</a>, <a href=\"https://ref.ly/Deut30:9\">DEU 30:9</a>; <a href=\"https://ref.ly/Ps128:3\">PSA 128:3</a>; <a href=\"https://ref.ly/Jer23:3\">JER 23:3</a>; <a href=\"https://ref.ly/Ezek36:11\">EZK 36:11</a></p>\n<h3>Such fruitfulness commanded</h3>\n<p><strong><a href=\"https://ref.ly/Gen1:28\">GEN 1:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen9:1\">GEN 9:1</a>, <a href=\"https://ref.ly/Gen9:7\">GEN 9:7</a>, <a href=\"https://ref.ly/Gen35:11\">GEN 35:11</a>, <a href=\"https://ref.ly/Gen48:3-Gen48:4\">GEN 48:3–48:4</a></p>\n<h3>Examples of such fruitfulness</h3>\n<p><strong><a href=\"https://ref.ly/Ps105:24\">PSA 105:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen41:52\">GEN 41:52</a>, <a href=\"https://ref.ly/Gen47:27\">GEN 47:27</a>, <a href=\"https://ref.ly/Gen49:22\">GEN 49:22</a>; <a href=\"https://ref.ly/Exod1:7\">EXO 1:7</a>; <a href=\"https://ref.ly/Ps107:37-Ps107:38\">PSA 107:37–107:38</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01001011",
+"start_ref_usfm": "GEN 1:11",
+"end_ref": "01001012",
+"end_ref_usfm": "GEN 1:12"
+},
+{
+"start_ref": "01001022",
+"start_ref_usfm": "GEN 1:22",
+"end_ref": "01001022",
+"end_ref_usfm": "GEN 1:22"
+},
+{
+"start_ref": "01008017",
+"start_ref_usfm": "GEN 8:17",
+"end_ref": "01008017",
+"end_ref_usfm": "GEN 8:17"
+},
+{
+"start_ref": "03025018",
+"start_ref_usfm": "LEV 25:18",
+"end_ref": "03025019",
+"end_ref_usfm": "LEV 25:19"
+},
+{
+"start_ref": "03026003",
+"start_ref_usfm": "LEV 26:3",
+"end_ref": "03026004",
+"end_ref_usfm": "LEV 26:4"
+},
+{
+"start_ref": "05032013",
+"start_ref_usfm": "DEU 32:13",
+"end_ref": "05032013",
+"end_ref_usfm": "DEU 32:13"
+},
+{
+"start_ref": "05033013",
+"start_ref_usfm": "DEU 33:13",
+"end_ref": "05033016",
+"end_ref_usfm": "DEU 33:16"
+},
+{
+"start_ref": "26034027",
+"start_ref_usfm": "EZK 34:27",
+"end_ref": "26034027",
+"end_ref_usfm": "EZK 34:27"
+},
+{
+"start_ref": "30009014",
+"start_ref_usfm": "AMO 9:14",
+"end_ref": "30009014",
+"end_ref_usfm": "AMO 9:14"
+},
+{
+"start_ref": "38008012",
+"start_ref_usfm": "ZEC 8:12",
+"end_ref": "38008012",
+"end_ref_usfm": "ZEC 8:12"
+},
+{
+"start_ref": "01013016",
+"start_ref_usfm": "GEN 13:16",
+"end_ref": "01013016",
+"end_ref_usfm": "GEN 13:16"
+},
+{
+"start_ref": "01015005",
+"start_ref_usfm": "GEN 15:5",
+"end_ref": "01015005",
+"end_ref_usfm": "GEN 15:5"
+},
+{
+"start_ref": "01017006",
+"start_ref_usfm": "GEN 17:6",
+"end_ref": "01017006",
+"end_ref_usfm": "GEN 17:6"
+},
+{
+"start_ref": "01017020",
+"start_ref_usfm": "GEN 17:20",
+"end_ref": "01017020",
+"end_ref_usfm": "GEN 17:20"
+},
+{
+"start_ref": "01022017",
+"start_ref_usfm": "GEN 22:17",
+"end_ref": "01022017",
+"end_ref_usfm": "GEN 22:17"
+},
+{
+"start_ref": "03026009",
+"start_ref_usfm": "LEV 26:9",
+"end_ref": "03026009",
+"end_ref_usfm": "LEV 26:9"
+},
+{
+"start_ref": "05007013",
+"start_ref_usfm": "DEU 7:13",
+"end_ref": "05007013",
+"end_ref_usfm": "DEU 7:13"
+},
+{
+"start_ref": "05028004",
+"start_ref_usfm": "DEU 28:4",
+"end_ref": "05028004",
+"end_ref_usfm": "DEU 28:4"
+},
+{
+"start_ref": "05028011",
+"start_ref_usfm": "DEU 28:11",
+"end_ref": "05028011",
+"end_ref_usfm": "DEU 28:11"
+},
+{
+"start_ref": "05030009",
+"start_ref_usfm": "DEU 30:9",
+"end_ref": "05030009",
+"end_ref_usfm": "DEU 30:9"
+},
+{
+"start_ref": "19128003",
+"start_ref_usfm": "PSA 128:3",
+"end_ref": "19128003",
+"end_ref_usfm": "PSA 128:3"
+},
+{
+"start_ref": "24023003",
+"start_ref_usfm": "JER 23:3",
+"end_ref": "24023003",
+"end_ref_usfm": "JER 23:3"
+},
+{
+"start_ref": "26036011",
+"start_ref_usfm": "EZK 36:11",
+"end_ref": "26036011",
+"end_ref_usfm": "EZK 36:11"
+},
+{
+"start_ref": "01001028",
+"start_ref_usfm": "GEN 1:28",
+"end_ref": "01001028",
+"end_ref_usfm": "GEN 1:28"
+},
+{
+"start_ref": "01009001",
+"start_ref_usfm": "GEN 9:1",
+"end_ref": "01009001",
+"end_ref_usfm": "GEN 9:1"
+},
+{
+"start_ref": "01009007",
+"start_ref_usfm": "GEN 9:7",
+"end_ref": "01009007",
+"end_ref_usfm": "GEN 9:7"
+},
+{
+"start_ref": "01035011",
+"start_ref_usfm": "GEN 35:11",
+"end_ref": "01035011",
+"end_ref_usfm": "GEN 35:11"
+},
+{
+"start_ref": "01048003",
+"start_ref_usfm": "GEN 48:3",
+"end_ref": "01048004",
+"end_ref_usfm": "GEN 48:4"
+},
+{
+"start_ref": "19105024",
+"start_ref_usfm": "PSA 105:24",
+"end_ref": "19105024",
+"end_ref_usfm": "PSA 105:24"
+},
+{
+"start_ref": "01041052",
+"start_ref_usfm": "GEN 41:52",
+"end_ref": "01041052",
+"end_ref_usfm": "GEN 41:52"
+},
+{
+"start_ref": "01047027",
+"start_ref_usfm": "GEN 47:27",
+"end_ref": "01047027",
+"end_ref_usfm": "GEN 47:27"
+},
+{
+"start_ref": "01049022",
+"start_ref_usfm": "GEN 49:22",
+"end_ref": "01049022",
+"end_ref_usfm": "GEN 49:22"
+},
+{
+"start_ref": "02001007",
+"start_ref_usfm": "EXO 1:7",
+"end_ref": "02001007",
+"end_ref_usfm": "EXO 1:7"
+},
+{
+"start_ref": "19107037",
+"start_ref_usfm": "PSA 107:37",
+"end_ref": "19107038",
+"end_ref_usfm": "PSA 107:38"
+}
+],
+"resource": [
+{
+"reference_id": "1050",
+"content_id": "1050",
+"resource_code": "DictionaryBibleThemes",
+"label": "1050: God, goodness of",
+"language": "eng"
+},
+{
+"reference_id": "1330",
+"content_id": "1330",
+"resource_code": "DictionaryBibleThemes",
+"label": "1330: God, the provider",
+"language": "eng"
+},
+{
+"reference_id": "4005",
+"content_id": "4005",
+"resource_code": "DictionaryBibleThemes",
+"label": "4005: creation",
+"language": "eng"
+},
+{
+"reference_id": "4035",
+"content_id": "4035",
+"resource_code": "DictionaryBibleThemes",
+"label": "4035: abundance",
+"language": "eng"
+},
+{
+"reference_id": "5075",
+"content_id": "5075",
+"resource_code": "DictionaryBibleThemes",
+"label": "5075: Abraham",
+"language": "eng"
+},
+{
+"reference_id": "5225",
+"content_id": "5225",
+"resource_code": "DictionaryBibleThemes",
+"label": "5225: barrenness",
+"language": "eng"
+},
+{
+"reference_id": "5664",
+"content_id": "5664",
+"resource_code": "DictionaryBibleThemes",
+"label": "5664: children",
+"language": "eng"
+},
+{
+"reference_id": "5724",
+"content_id": "5724",
+"resource_code": "DictionaryBibleThemes",
+"label": "5724: offspring",
+"language": "eng"
+},
+{
+"reference_id": "5858",
+"content_id": "5858",
+"resource_code": "DictionaryBibleThemes",
+"label": "5858: fat",
+"language": "eng"
+},
+{
+"reference_id": "5960",
+"content_id": "5960",
+"resource_code": "DictionaryBibleThemes",
+"label": "5960: success",
+"language": "eng"
+},
+{
+"reference_id": "8808",
+"content_id": "8808",
+"resource_code": "DictionaryBibleThemes",
+"label": "8808: riches",
+"language": "eng"
+},
+{
+"reference_id": "8845",
+"content_id": "8845",
+"resource_code": "DictionaryBibleThemes",
+"label": "8845: unfruitfulness",
+"language": "eng"
+}
+]
+}
+}
+]

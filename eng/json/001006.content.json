@@ -1,0 +1,236 @@
+[
+{
+"content_id": "5427",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5427: nomads",
+"media_type": "Text",
+"index_reference": "5427: nomads",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>People who moved about from place to place, having no settled abode. They lived in tents and frequented desert places</h2>\n<h2>Examples of nomads</h2>\n<h3>The patriarchs</h3>\n<p><strong><a href=\"https://ref.ly/Ps105:12-Ps105:13\">PSA 105:12–105:13</a></strong>; <strong><a href=\"https://ref.ly/Heb11:8-Heb11:9\">HEB 11:8–11:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen12:8\">GEN 12:8</a>, <a href=\"https://ref.ly/Gen13:3\">GEN 13:3</a>, <a href=\"https://ref.ly/Gen13:15\">GEN 13:15</a>, <a href=\"https://ref.ly/Gen13:18\">GEN 13:18</a>, <a href=\"https://ref.ly/Gen26:25\">GEN 26:25</a>, <a href=\"https://ref.ly/Gen31:25\">GEN 31:25</a>, <a href=\"https://ref.ly/Gen35:21\">GEN 35:21</a>; <a href=\"https://ref.ly/Deut26:5\">DEU 26:5</a>; <a href=\"https://ref.ly/1Chr16:18-1Chr16:20\">1CH 16:18–16:20</a></p>\n<h3>Israel during her desert wanderings</h3>\n<p><strong><a href=\"https://ref.ly/Num32:13\">NUM 32:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr17:5-1Chr17:6\">1CH 17:5–17:6</a> <em>The Tabernacle was designed as a place of worship during this nomadic existence.</em></p>\n<h3>Other nomadic peoples</h3>\n<p><a href=\"https://ref.ly/Gen4:20\">GEN 4:20</a> <em>Jabal</em>; ; <a href=\"https://ref.ly/Judg4:17\">JDG 4:17</a> <em>the Kenites</em>; <a href=\"https://ref.ly/Judg6:3\">JDG 6:3</a>; ; <a href=\"https://ref.ly/Hab3:7\">HAB 3:7</a>; <a href=\"https://ref.ly/Ps120:5\">PSA 120:5</a>; ; <a href=\"https://ref.ly/Jer49:28-Jer49:29\">JER 49:28–49:29</a>; ; <a href=\"https://ref.ly/Ezek25:4\">EZK 25:4</a>; \n<a href=\"https://ref.ly/Isa13:20\">ISA 13:20</a> <em>Arabs</em>; ; <a href=\"https://ref.ly/Jer35:1-Jer35:11\">JER 35:1–35:11</a> <em>The Recabites retained their nomadic ways long after Israel had settled in the land of Canaan.</em></p>\n<h3>Desert tracks followed by nomads</h3>\n<p><a href=\"https://ref.ly/Judg8:11\">JDG 8:11</a>; ; <a href=\"https://ref.ly/Jer3:2\">JER 3:2</a></p>\n<h2>The nomadic life as a spiritual symbol</h2>\n<p><strong><a href=\"https://ref.ly/1Pet2:11\">1PE 2:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb11:13-Heb11:16\">HEB 11:13–11:16</a>; <a href=\"https://ref.ly/1Pet1:17\">1PE 1:17</a></p>\n<h2>Jesus Christ as a nomad</h2>\n<p><a href=\"https://ref.ly/Matt8:20\">MAT 8:20</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19105012",
+"start_ref_usfm": "PSA 105:12",
+"end_ref": "19105013",
+"end_ref_usfm": "PSA 105:13"
+},
+{
+"start_ref": "58011008",
+"start_ref_usfm": "HEB 11:8",
+"end_ref": "58011009",
+"end_ref_usfm": "HEB 11:9"
+},
+{
+"start_ref": "01012008",
+"start_ref_usfm": "GEN 12:8",
+"end_ref": "01012008",
+"end_ref_usfm": "GEN 12:8"
+},
+{
+"start_ref": "01013003",
+"start_ref_usfm": "GEN 13:3",
+"end_ref": "01013003",
+"end_ref_usfm": "GEN 13:3"
+},
+{
+"start_ref": "01013015",
+"start_ref_usfm": "GEN 13:15",
+"end_ref": "01013015",
+"end_ref_usfm": "GEN 13:15"
+},
+{
+"start_ref": "01013018",
+"start_ref_usfm": "GEN 13:18",
+"end_ref": "01013018",
+"end_ref_usfm": "GEN 13:18"
+},
+{
+"start_ref": "01026025",
+"start_ref_usfm": "GEN 26:25",
+"end_ref": "01026025",
+"end_ref_usfm": "GEN 26:25"
+},
+{
+"start_ref": "01031025",
+"start_ref_usfm": "GEN 31:25",
+"end_ref": "01031025",
+"end_ref_usfm": "GEN 31:25"
+},
+{
+"start_ref": "01035021",
+"start_ref_usfm": "GEN 35:21",
+"end_ref": "01035021",
+"end_ref_usfm": "GEN 35:21"
+},
+{
+"start_ref": "05026005",
+"start_ref_usfm": "DEU 26:5",
+"end_ref": "05026005",
+"end_ref_usfm": "DEU 26:5"
+},
+{
+"start_ref": "13016018",
+"start_ref_usfm": "1CH 16:18",
+"end_ref": "13016020",
+"end_ref_usfm": "1CH 16:20"
+},
+{
+"start_ref": "04032013",
+"start_ref_usfm": "NUM 32:13",
+"end_ref": "04032013",
+"end_ref_usfm": "NUM 32:13"
+},
+{
+"start_ref": "13017005",
+"start_ref_usfm": "1CH 17:5",
+"end_ref": "13017006",
+"end_ref_usfm": "1CH 17:6"
+},
+{
+"start_ref": "01004020",
+"start_ref_usfm": "GEN 4:20",
+"end_ref": "01004020",
+"end_ref_usfm": "GEN 4:20"
+},
+{
+"start_ref": "07004017",
+"start_ref_usfm": "JDG 4:17",
+"end_ref": "07004017",
+"end_ref_usfm": "JDG 4:17"
+},
+{
+"start_ref": "07006003",
+"start_ref_usfm": "JDG 6:3",
+"end_ref": "07006003",
+"end_ref_usfm": "JDG 6:3"
+},
+{
+"start_ref": "35003007",
+"start_ref_usfm": "HAB 3:7",
+"end_ref": "35003007",
+"end_ref_usfm": "HAB 3:7"
+},
+{
+"start_ref": "19120005",
+"start_ref_usfm": "PSA 120:5",
+"end_ref": "19120005",
+"end_ref_usfm": "PSA 120:5"
+},
+{
+"start_ref": "24049028",
+"start_ref_usfm": "JER 49:28",
+"end_ref": "24049029",
+"end_ref_usfm": "JER 49:29"
+},
+{
+"start_ref": "26025004",
+"start_ref_usfm": "EZK 25:4",
+"end_ref": "26025004",
+"end_ref_usfm": "EZK 25:4"
+},
+{
+"start_ref": "23013020",
+"start_ref_usfm": "ISA 13:20",
+"end_ref": "23013020",
+"end_ref_usfm": "ISA 13:20"
+},
+{
+"start_ref": "24035001",
+"start_ref_usfm": "JER 35:1",
+"end_ref": "24035011",
+"end_ref_usfm": "JER 35:11"
+},
+{
+"start_ref": "07008011",
+"start_ref_usfm": "JDG 8:11",
+"end_ref": "07008011",
+"end_ref_usfm": "JDG 8:11"
+},
+{
+"start_ref": "24003002",
+"start_ref_usfm": "JER 3:2",
+"end_ref": "24003002",
+"end_ref_usfm": "JER 3:2"
+},
+{
+"start_ref": "60002011",
+"start_ref_usfm": "1PE 2:11",
+"end_ref": "60002011",
+"end_ref_usfm": "1PE 2:11"
+},
+{
+"start_ref": "58011013",
+"start_ref_usfm": "HEB 11:13",
+"end_ref": "58011016",
+"end_ref_usfm": "HEB 11:16"
+},
+{
+"start_ref": "60001017",
+"start_ref_usfm": "1PE 1:17",
+"end_ref": "60001017",
+"end_ref_usfm": "1PE 1:17"
+},
+{
+"start_ref": "40008020",
+"start_ref_usfm": "MAT 8:20",
+"end_ref": "40008020",
+"end_ref_usfm": "MAT 8:20"
+}
+],
+"resource": [
+{
+"reference_id": "5076",
+"content_id": "5076",
+"resource_code": "DictionaryBibleThemes",
+"label": "5076: Abraham, life of",
+"language": "eng"
+},
+{
+"reference_id": "5244",
+"content_id": "5244",
+"resource_code": "DictionaryBibleThemes",
+"label": "5244: camp",
+"language": "eng"
+},
+{
+"reference_id": "5578",
+"content_id": "5578",
+"resource_code": "DictionaryBibleThemes",
+"label": "5578: tents",
+"language": "eng"
+},
+{
+"reference_id": "5590",
+"content_id": "5590",
+"resource_code": "DictionaryBibleThemes",
+"label": "5590: travel",
+"language": "eng"
+},
+{
+"reference_id": "7221",
+"content_id": "7221",
+"resource_code": "DictionaryBibleThemes",
+"label": "7221: exodus, the",
+"language": "eng"
+},
+{
+"reference_id": "7459",
+"content_id": "7459",
+"resource_code": "DictionaryBibleThemes",
+"label": "7459: tabernacle, in OT",
+"language": "eng"
+},
+{
+"reference_id": "7530",
+"content_id": "7530",
+"resource_code": "DictionaryBibleThemes",
+"label": "7530: foreigners",
+"language": "eng"
+}
+]
+}
+}
+]

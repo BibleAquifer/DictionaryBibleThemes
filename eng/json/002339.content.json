@@ -1,0 +1,39 @@
+[
+{
+"content_id": "8704",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8704: apostasy",
+"media_type": "Text",
+"index_reference": "8704: apostasy",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A general falling away from religion or a denial of the faith by those who once held it or professed to hold it. It is frequently described in terms of spiritual adultery and thus provokes the jealous anger of God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8705",
+"content_id": "8705",
+"resource_code": "DictionaryBibleThemes",
+"label": "8705: apostasy, in OT",
+"language": "eng"
+},
+{
+"reference_id": "8706",
+"content_id": "8706",
+"resource_code": "DictionaryBibleThemes",
+"label": "8706: apostasy, warnings against personal",
+"language": "eng"
+},
+{
+"reference_id": "8707",
+"content_id": "8707",
+"resource_code": "DictionaryBibleThemes",
+"label": "8707: apostasy, dealing with personal",
+"language": "eng"
+}
+]
+}
+}
+]

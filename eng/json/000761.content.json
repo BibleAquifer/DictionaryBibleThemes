@@ -1,0 +1,122 @@
+[
+{
+"content_id": "5172",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5172: offal",
+"media_type": "Text",
+"index_reference": "5172: offal",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The internal organs of an animal, traditionally regarded as being inferior to meat, and used as a symbol of disgrace.</p>\n<h2>Offal is symbolic of disgrace</h2>\n<p><strong><a href=\"https://ref.ly/Mal2:3\">MAL 2:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Nah3:6\">NAM 3:6</a></p>\n<h2>In animal sacrifices the offal was removed and burnt outside the camp</h2>\n<p><strong><a href=\"https://ref.ly/Exod29:14\">EXO 29:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev4:11-Lev4:12\">LEV 4:11–4:12</a>, <a href=\"https://ref.ly/Lev8:17\">LEV 8:17</a>, <a href=\"https://ref.ly/Lev16:27\">LEV 16:27</a>; <a href=\"https://ref.ly/Num19:3-Num19:5\">NUM 19:3–19:5</a>, <a href=\"https://ref.ly/Num19:5\">NUM 19:5</a></p>\n<h2>Jesus Christ bears the believer's disgrace</h2>\n<p><a href=\"https://ref.ly/Heb13:11-Heb13:13\">HEB 13:11–13:13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "39002003",
+"start_ref_usfm": "MAL 2:3",
+"end_ref": "39002003",
+"end_ref_usfm": "MAL 2:3"
+},
+{
+"start_ref": "34003006",
+"start_ref_usfm": "NAM 3:6",
+"end_ref": "34003006",
+"end_ref_usfm": "NAM 3:6"
+},
+{
+"start_ref": "02029014",
+"start_ref_usfm": "EXO 29:14",
+"end_ref": "02029014",
+"end_ref_usfm": "EXO 29:14"
+},
+{
+"start_ref": "03004011",
+"start_ref_usfm": "LEV 4:11",
+"end_ref": "03004012",
+"end_ref_usfm": "LEV 4:12"
+},
+{
+"start_ref": "03008017",
+"start_ref_usfm": "LEV 8:17",
+"end_ref": "03008017",
+"end_ref_usfm": "LEV 8:17"
+},
+{
+"start_ref": "03016027",
+"start_ref_usfm": "LEV 16:27",
+"end_ref": "03016027",
+"end_ref_usfm": "LEV 16:27"
+},
+{
+"start_ref": "04019003",
+"start_ref_usfm": "NUM 19:3",
+"end_ref": "04019005",
+"end_ref_usfm": "NUM 19:5"
+},
+{
+"start_ref": "04019005",
+"start_ref_usfm": "NUM 19:5",
+"end_ref": "04019005",
+"end_ref_usfm": "NUM 19:5"
+},
+{
+"start_ref": "58013011",
+"start_ref_usfm": "HEB 13:11",
+"end_ref": "58013013",
+"end_ref_usfm": "HEB 13:13"
+}
+],
+"resource": [
+{
+"reference_id": "2324",
+"content_id": "2324",
+"resource_code": "DictionaryBibleThemes",
+"label": "2324: Jesus Christ, as Saviour",
+"language": "eng"
+},
+{
+"reference_id": "2525",
+"content_id": "2525",
+"resource_code": "DictionaryBibleThemes",
+"label": "2525: Jesus Christ, cross of",
+"language": "eng"
+},
+{
+"reference_id": "5166",
+"content_id": "5166",
+"resource_code": "DictionaryBibleThemes",
+"label": "5166: liver and kidneys",
+"language": "eng"
+},
+{
+"reference_id": "5836",
+"content_id": "5836",
+"resource_code": "DictionaryBibleThemes",
+"label": "5836: disgrace",
+"language": "eng"
+},
+{
+"reference_id": "6027",
+"content_id": "6027",
+"resource_code": "DictionaryBibleThemes",
+"label": "6027: sin, God's remedy for",
+"language": "eng"
+},
+{
+"reference_id": "6752",
+"content_id": "6752",
+"resource_code": "DictionaryBibleThemes",
+"label": "6752: substitution",
+"language": "eng"
+},
+{
+"reference_id": "7435",
+"content_id": "7435",
+"resource_code": "DictionaryBibleThemes",
+"label": "7435: sacrifice, in OT",
+"language": "eng"
+}
+]
+}
+}
+]

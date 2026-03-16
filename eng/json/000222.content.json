@@ -1,0 +1,269 @@
+[
+{
+"content_id": "2427",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "2427: gospel, transmission of",
+"media_type": "Text",
+"index_reference": "2427: gospel, transmission of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The gospel has been passed down through the NT witness to Jesus Christ, through the proclamation of the good news about Jesus Christ, and through the providential guidance of the Holy Spirit.</p>\n<h2>The NT witness to Jesus Christ</h2>\n<h3>The events of Jesus Christ's life were carefully recorded</h3>\n<p><strong><a href=\"https://ref.ly/Luke1:1-Luke1:4\">LUK 1:1–1:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/John21:24\">JHN 21:24</a>; <a href=\"https://ref.ly/Acts1:1-Acts1:2\">ACT 1:1–1:2</a></p>\n<h2>The apostles bore witness to the gospel</h2>\n<p><strong><a href=\"https://ref.ly/1Cor15:3-1Cor15:8\">1CO 15:3–15:8</a></strong>; <strong><a href=\"https://ref.ly/2Pet1:16\">2PE 1:16</a></strong>; <strong><a href=\"https://ref.ly/1John1:1-1John1:4\">1JN 1:1–1:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke24:45-Luke24:48\">LUK 24:45–24:48</a>; <a href=\"https://ref.ly/John15:27\">JHN 15:27</a>; <a href=\"https://ref.ly/Acts1:8\">ACT 1:8</a>, <a href=\"https://ref.ly/Acts1:21-Acts1:22\">ACT 1:21–1:22</a>, <a href=\"https://ref.ly/Acts2:32\">ACT 2:32</a>, <a href=\"https://ref.ly/Acts4:1-Acts4:20\">ACT 4:1–4:20</a>, <a href=\"https://ref.ly/Acts5:32\">ACT 5:32</a>, <a href=\"https://ref.ly/Acts13:30-Acts13:31\">ACT 13:30–13:31</a>; <a href=\"https://ref.ly/Heb2:3-Heb2:4\">HEB 2:3–2:4</a>; <a href=\"https://ref.ly/1Pet5:1\">1PE 5:1</a>; <a href=\"https://ref.ly/1John4:14\">1JN 4:14</a></p>\n<h2>The proclamation of the gospel</h2>\n<p><strong><a href=\"https://ref.ly/Acts5:42\">ACT 5:42</a></strong>; <strong><a href=\"https://ref.ly/Rom10:14-Rom10:15\">ROM 10:14–10:15</a></strong>; <strong><a href=\"https://ref.ly/1Cor15:1-1Cor15:2\">1CO 15:1–15:2</a></strong>; <strong><a href=\"https://ref.ly/Eph3:8-Eph3:9\">EPH 3:8–3:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts8:12\">ACT 8:12</a>; <a href=\"https://ref.ly/1Cor1:21\">1CO 1:21</a>; <a href=\"https://ref.ly/Gal1:23\">GAL 1:23</a>; <a href=\"https://ref.ly/2Tim4:2\">2TI 4:2</a>; <a href=\"https://ref.ly/Heb13:7\">HEB 13:7</a></p>\n<h2>The guidance of the Holy Spirit in the transmission of the gospel</h2>\n<p><strong><a href=\"https://ref.ly/John14:26\">JHN 14:26</a>, <a href=\"https://ref.ly/John15:26\">JHN 15:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/John16:12-John16:15\">JHN 16:12–16:15</a>; <a href=\"https://ref.ly/Acts5:32\">ACT 5:32</a>; <a href=\"https://ref.ly/Heb2:3-Heb2:4\">HEB 2:3–2:4</a>; <a href=\"https://ref.ly/1John5:6\">1JN 5:6</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42001001",
+"start_ref_usfm": "LUK 1:1",
+"end_ref": "42001004",
+"end_ref_usfm": "LUK 1:4"
+},
+{
+"start_ref": "43021024",
+"start_ref_usfm": "JHN 21:24",
+"end_ref": "43021024",
+"end_ref_usfm": "JHN 21:24"
+},
+{
+"start_ref": "44001001",
+"start_ref_usfm": "ACT 1:1",
+"end_ref": "44001002",
+"end_ref_usfm": "ACT 1:2"
+},
+{
+"start_ref": "46015003",
+"start_ref_usfm": "1CO 15:3",
+"end_ref": "46015008",
+"end_ref_usfm": "1CO 15:8"
+},
+{
+"start_ref": "61001016",
+"start_ref_usfm": "2PE 1:16",
+"end_ref": "61001016",
+"end_ref_usfm": "2PE 1:16"
+},
+{
+"start_ref": "62001001",
+"start_ref_usfm": "1JN 1:1",
+"end_ref": "62001004",
+"end_ref_usfm": "1JN 1:4"
+},
+{
+"start_ref": "42024045",
+"start_ref_usfm": "LUK 24:45",
+"end_ref": "42024048",
+"end_ref_usfm": "LUK 24:48"
+},
+{
+"start_ref": "43015027",
+"start_ref_usfm": "JHN 15:27",
+"end_ref": "43015027",
+"end_ref_usfm": "JHN 15:27"
+},
+{
+"start_ref": "44001008",
+"start_ref_usfm": "ACT 1:8",
+"end_ref": "44001008",
+"end_ref_usfm": "ACT 1:8"
+},
+{
+"start_ref": "44001021",
+"start_ref_usfm": "ACT 1:21",
+"end_ref": "44001022",
+"end_ref_usfm": "ACT 1:22"
+},
+{
+"start_ref": "44002032",
+"start_ref_usfm": "ACT 2:32",
+"end_ref": "44002032",
+"end_ref_usfm": "ACT 2:32"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004020",
+"end_ref_usfm": "ACT 4:20"
+},
+{
+"start_ref": "44005032",
+"start_ref_usfm": "ACT 5:32",
+"end_ref": "44005032",
+"end_ref_usfm": "ACT 5:32"
+},
+{
+"start_ref": "44013030",
+"start_ref_usfm": "ACT 13:30",
+"end_ref": "44013031",
+"end_ref_usfm": "ACT 13:31"
+},
+{
+"start_ref": "58002003",
+"start_ref_usfm": "HEB 2:3",
+"end_ref": "58002004",
+"end_ref_usfm": "HEB 2:4"
+},
+{
+"start_ref": "60005001",
+"start_ref_usfm": "1PE 5:1",
+"end_ref": "60005001",
+"end_ref_usfm": "1PE 5:1"
+},
+{
+"start_ref": "62004014",
+"start_ref_usfm": "1JN 4:14",
+"end_ref": "62004014",
+"end_ref_usfm": "1JN 4:14"
+},
+{
+"start_ref": "44005042",
+"start_ref_usfm": "ACT 5:42",
+"end_ref": "44005042",
+"end_ref_usfm": "ACT 5:42"
+},
+{
+"start_ref": "45010014",
+"start_ref_usfm": "ROM 10:14",
+"end_ref": "45010015",
+"end_ref_usfm": "ROM 10:15"
+},
+{
+"start_ref": "46015001",
+"start_ref_usfm": "1CO 15:1",
+"end_ref": "46015002",
+"end_ref_usfm": "1CO 15:2"
+},
+{
+"start_ref": "49003008",
+"start_ref_usfm": "EPH 3:8",
+"end_ref": "49003009",
+"end_ref_usfm": "EPH 3:9"
+},
+{
+"start_ref": "44008012",
+"start_ref_usfm": "ACT 8:12",
+"end_ref": "44008012",
+"end_ref_usfm": "ACT 8:12"
+},
+{
+"start_ref": "46001021",
+"start_ref_usfm": "1CO 1:21",
+"end_ref": "46001021",
+"end_ref_usfm": "1CO 1:21"
+},
+{
+"start_ref": "48001023",
+"start_ref_usfm": "GAL 1:23",
+"end_ref": "48001023",
+"end_ref_usfm": "GAL 1:23"
+},
+{
+"start_ref": "55004002",
+"start_ref_usfm": "2TI 4:2",
+"end_ref": "55004002",
+"end_ref_usfm": "2TI 4:2"
+},
+{
+"start_ref": "58013007",
+"start_ref_usfm": "HEB 13:7",
+"end_ref": "58013007",
+"end_ref_usfm": "HEB 13:7"
+},
+{
+"start_ref": "43014026",
+"start_ref_usfm": "JHN 14:26",
+"end_ref": "43014026",
+"end_ref_usfm": "JHN 14:26"
+},
+{
+"start_ref": "43015026",
+"start_ref_usfm": "JHN 15:26",
+"end_ref": "43015026",
+"end_ref_usfm": "JHN 15:26"
+},
+{
+"start_ref": "43016012",
+"start_ref_usfm": "JHN 16:12",
+"end_ref": "43016015",
+"end_ref_usfm": "JHN 16:15"
+},
+{
+"start_ref": "62005006",
+"start_ref_usfm": "1JN 5:6",
+"end_ref": "62005006",
+"end_ref_usfm": "1JN 5:6"
+}
+],
+"resource": [
+{
+"reference_id": "3263",
+"content_id": "3263",
+"resource_code": "DictionaryBibleThemes",
+"label": "3263: Holy Spirit, guidance of",
+"language": "eng"
+},
+{
+"reference_id": "7027",
+"content_id": "7027",
+"resource_code": "DictionaryBibleThemes",
+"label": "7027: church, purpose and mission of",
+"language": "eng"
+},
+{
+"reference_id": "7724",
+"content_id": "7724",
+"resource_code": "DictionaryBibleThemes",
+"label": "7724: evangelists",
+"language": "eng"
+},
+{
+"reference_id": "7739",
+"content_id": "7739",
+"resource_code": "DictionaryBibleThemes",
+"label": "7739: missionaries",
+"language": "eng"
+},
+{
+"reference_id": "7754",
+"content_id": "7754",
+"resource_code": "DictionaryBibleThemes",
+"label": "7754: preaching",
+"language": "eng"
+},
+{
+"reference_id": "7797",
+"content_id": "7797",
+"resource_code": "DictionaryBibleThemes",
+"label": "7797: teaching",
+"language": "eng"
+},
+{
+"reference_id": "7953",
+"content_id": "7953",
+"resource_code": "DictionaryBibleThemes",
+"label": "7953: mission, of the church",
+"language": "eng"
+},
+{
+"reference_id": "8237",
+"content_id": "8237",
+"resource_code": "DictionaryBibleThemes",
+"label": "8237: doctrine, false",
+"language": "eng"
+},
+{
+"reference_id": "8425",
+"content_id": "8425",
+"resource_code": "DictionaryBibleThemes",
+"label": "8425: evangelism, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8495",
+"content_id": "8495",
+"resource_code": "DictionaryBibleThemes",
+"label": "8495: witnessing",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,296 @@
+[
+{
+"content_id": "4847",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4847: smallness",
+"media_type": "Text",
+"index_reference": "4847: smallness",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Smallness with regard to size</h2>\n<p><strong><a href=\"https://ref.ly/Jas3:4-Jas3:5\">JAS 3:4–3:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen19:20\">GEN 19:20</a>; <a href=\"https://ref.ly/Exod12:4\">EXO 12:4</a>; <a href=\"https://ref.ly/Josh17:15\">JOS 17:15</a>; <a href=\"https://ref.ly/1Kgs17:13\">1KI 17:13</a>, <a href=\"https://ref.ly/1Kgs18:44\">1KI 18:44</a>, <a href=\"https://ref.ly/1Kgs20:27\">1KI 20:27</a>; <a href=\"https://ref.ly/2Kgs4:10\">2KI 4:10</a>, <a href=\"https://ref.ly/2Kgs6:1\">2KI 6:1</a>; <a href=\"https://ref.ly/Prov30:24-Prov30:28\">PRO 30:24–30:28</a> <em>smallness equated with wisdom</em>; <a href=\"https://ref.ly/Eccl9:14\">ECC 9:14</a>; <a href=\"https://ref.ly/Isa49:19-Isa49:20\">ISA 49:19–49:20</a>; <a href=\"https://ref.ly/Mic5:2\">MIC 5:2</a>; <a href=\"https://ref.ly/Matt7:14\">MAT 7:14</a>, <a href=\"https://ref.ly/Matt17:20\">MAT 17:20</a>; <a href=\"https://ref.ly/Luke17:6\">LUK 17:6</a>; <a href=\"https://ref.ly/Acts27:16\">ACT 27:16</a></p>\n<h2>Smallness with regard to importance and social standing</h2>\n<p><strong><a href=\"https://ref.ly/Deut1:17\">DEU 1:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs22:31\">1KI 22:31</a> parallel <a href=\"https://ref.ly/2Chr18:30\">2CH 18:30</a>; <a href=\"https://ref.ly/2Chr15:13\">2CH 15:13</a>; <a href=\"https://ref.ly/Job3:16-Job3:19\">JOB 3:16–3:19</a>; <a href=\"https://ref.ly/Ps115:13\">PSA 115:13</a>; <a href=\"https://ref.ly/Jer49:15\">JER 49:15</a> parallel <a href=\"https://ref.ly/Obad1:2\">OBA 1:2</a>; <a href=\"https://ref.ly/Acts26:22\">ACT 26:22</a>; <a href=\"https://ref.ly/Rev11:18\">REV 11:18</a>, <a href=\"https://ref.ly/Rev13:16\">REV 13:16</a>, <a href=\"https://ref.ly/Rev19:5\">REV 19:5</a>, <a href=\"https://ref.ly/Rev19:18\">REV 19:18</a>, <a href=\"https://ref.ly/Rev20:12\">REV 20:12</a></p>\n<h2>Smallness with regard to insignificance</h2>\n<p><strong><a href=\"https://ref.ly/1Sam18:23\">1SA 18:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam15:17\">1SA 15:17</a>, <a href=\"https://ref.ly/1Sam20:2\">1SA 20:2</a>; <a href=\"https://ref.ly/1Kgs2:20\">1KI 2:20</a>; <a href=\"https://ref.ly/Isa49:6\">ISA 49:6</a>; <a href=\"https://ref.ly/Luke19:17\">LUK 19:17</a></p>\n<h2>Smallness with regard to weakness</h2>\n<p><strong><a href=\"https://ref.ly/Amos7:2-Amos7:5\">AMO 7:2–7:5</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "59003004",
+"start_ref_usfm": "JAS 3:4",
+"end_ref": "59003005",
+"end_ref_usfm": "JAS 3:5"
+},
+{
+"start_ref": "01019020",
+"start_ref_usfm": "GEN 19:20",
+"end_ref": "01019020",
+"end_ref_usfm": "GEN 19:20"
+},
+{
+"start_ref": "02012004",
+"start_ref_usfm": "EXO 12:4",
+"end_ref": "02012004",
+"end_ref_usfm": "EXO 12:4"
+},
+{
+"start_ref": "06017015",
+"start_ref_usfm": "JOS 17:15",
+"end_ref": "06017015",
+"end_ref_usfm": "JOS 17:15"
+},
+{
+"start_ref": "11017013",
+"start_ref_usfm": "1KI 17:13",
+"end_ref": "11017013",
+"end_ref_usfm": "1KI 17:13"
+},
+{
+"start_ref": "11018044",
+"start_ref_usfm": "1KI 18:44",
+"end_ref": "11018044",
+"end_ref_usfm": "1KI 18:44"
+},
+{
+"start_ref": "11020027",
+"start_ref_usfm": "1KI 20:27",
+"end_ref": "11020027",
+"end_ref_usfm": "1KI 20:27"
+},
+{
+"start_ref": "12004010",
+"start_ref_usfm": "2KI 4:10",
+"end_ref": "12004010",
+"end_ref_usfm": "2KI 4:10"
+},
+{
+"start_ref": "12006001",
+"start_ref_usfm": "2KI 6:1",
+"end_ref": "12006001",
+"end_ref_usfm": "2KI 6:1"
+},
+{
+"start_ref": "20030024",
+"start_ref_usfm": "PRO 30:24",
+"end_ref": "20030028",
+"end_ref_usfm": "PRO 30:28"
+},
+{
+"start_ref": "21009014",
+"start_ref_usfm": "ECC 9:14",
+"end_ref": "21009014",
+"end_ref_usfm": "ECC 9:14"
+},
+{
+"start_ref": "23049019",
+"start_ref_usfm": "ISA 49:19",
+"end_ref": "23049020",
+"end_ref_usfm": "ISA 49:20"
+},
+{
+"start_ref": "33005002",
+"start_ref_usfm": "MIC 5:2",
+"end_ref": "33005002",
+"end_ref_usfm": "MIC 5:2"
+},
+{
+"start_ref": "40007014",
+"start_ref_usfm": "MAT 7:14",
+"end_ref": "40007014",
+"end_ref_usfm": "MAT 7:14"
+},
+{
+"start_ref": "40017020",
+"start_ref_usfm": "MAT 17:20",
+"end_ref": "40017020",
+"end_ref_usfm": "MAT 17:20"
+},
+{
+"start_ref": "42017006",
+"start_ref_usfm": "LUK 17:6",
+"end_ref": "42017006",
+"end_ref_usfm": "LUK 17:6"
+},
+{
+"start_ref": "44027016",
+"start_ref_usfm": "ACT 27:16",
+"end_ref": "44027016",
+"end_ref_usfm": "ACT 27:16"
+},
+{
+"start_ref": "05001017",
+"start_ref_usfm": "DEU 1:17",
+"end_ref": "05001017",
+"end_ref_usfm": "DEU 1:17"
+},
+{
+"start_ref": "11022031",
+"start_ref_usfm": "1KI 22:31",
+"end_ref": "11022031",
+"end_ref_usfm": "1KI 22:31"
+},
+{
+"start_ref": "14018030",
+"start_ref_usfm": "2CH 18:30",
+"end_ref": "14018030",
+"end_ref_usfm": "2CH 18:30"
+},
+{
+"start_ref": "14015013",
+"start_ref_usfm": "2CH 15:13",
+"end_ref": "14015013",
+"end_ref_usfm": "2CH 15:13"
+},
+{
+"start_ref": "18003016",
+"start_ref_usfm": "JOB 3:16",
+"end_ref": "18003019",
+"end_ref_usfm": "JOB 3:19"
+},
+{
+"start_ref": "19115013",
+"start_ref_usfm": "PSA 115:13",
+"end_ref": "19115013",
+"end_ref_usfm": "PSA 115:13"
+},
+{
+"start_ref": "24049015",
+"start_ref_usfm": "JER 49:15",
+"end_ref": "24049015",
+"end_ref_usfm": "JER 49:15"
+},
+{
+"start_ref": "31001002",
+"start_ref_usfm": "OBA 1:2",
+"end_ref": "31001002",
+"end_ref_usfm": "OBA 1:2"
+},
+{
+"start_ref": "44026022",
+"start_ref_usfm": "ACT 26:22",
+"end_ref": "44026022",
+"end_ref_usfm": "ACT 26:22"
+},
+{
+"start_ref": "66011018",
+"start_ref_usfm": "REV 11:18",
+"end_ref": "66011018",
+"end_ref_usfm": "REV 11:18"
+},
+{
+"start_ref": "66013016",
+"start_ref_usfm": "REV 13:16",
+"end_ref": "66013016",
+"end_ref_usfm": "REV 13:16"
+},
+{
+"start_ref": "66019005",
+"start_ref_usfm": "REV 19:5",
+"end_ref": "66019005",
+"end_ref_usfm": "REV 19:5"
+},
+{
+"start_ref": "66019018",
+"start_ref_usfm": "REV 19:18",
+"end_ref": "66019018",
+"end_ref_usfm": "REV 19:18"
+},
+{
+"start_ref": "66020012",
+"start_ref_usfm": "REV 20:12",
+"end_ref": "66020012",
+"end_ref_usfm": "REV 20:12"
+},
+{
+"start_ref": "09018023",
+"start_ref_usfm": "1SA 18:23",
+"end_ref": "09018023",
+"end_ref_usfm": "1SA 18:23"
+},
+{
+"start_ref": "09015017",
+"start_ref_usfm": "1SA 15:17",
+"end_ref": "09015017",
+"end_ref_usfm": "1SA 15:17"
+},
+{
+"start_ref": "09020002",
+"start_ref_usfm": "1SA 20:2",
+"end_ref": "09020002",
+"end_ref_usfm": "1SA 20:2"
+},
+{
+"start_ref": "11002020",
+"start_ref_usfm": "1KI 2:20",
+"end_ref": "11002020",
+"end_ref_usfm": "1KI 2:20"
+},
+{
+"start_ref": "23049006",
+"start_ref_usfm": "ISA 49:6",
+"end_ref": "23049006",
+"end_ref_usfm": "ISA 49:6"
+},
+{
+"start_ref": "42019017",
+"start_ref_usfm": "LUK 19:17",
+"end_ref": "42019017",
+"end_ref_usfm": "LUK 19:17"
+},
+{
+"start_ref": "30007002",
+"start_ref_usfm": "AMO 7:2",
+"end_ref": "30007005",
+"end_ref_usfm": "AMO 7:5"
+}
+],
+"resource": [
+{
+"reference_id": "4484",
+"content_id": "4484",
+"resource_code": "DictionaryBibleThemes",
+"label": "4484: mustard seed",
+"language": "eng"
+},
+{
+"reference_id": "4831",
+"content_id": "4831",
+"resource_code": "DictionaryBibleThemes",
+"label": "4831: largeness",
+"language": "eng"
+},
+{
+"reference_id": "4841",
+"content_id": "4841",
+"resource_code": "DictionaryBibleThemes",
+"label": "4841: narrowness",
+"language": "eng"
+},
+{
+"reference_id": "5601",
+"content_id": "5601",
+"resource_code": "DictionaryBibleThemes",
+"label": "5601: village",
+"language": "eng"
+},
+{
+"reference_id": "5671",
+"content_id": "5671",
+"resource_code": "DictionaryBibleThemes",
+"label": "5671: clan",
+"language": "eng"
+},
+{
+"reference_id": "7145",
+"content_id": "7145",
+"resource_code": "DictionaryBibleThemes",
+"label": "7145: remnant",
+"language": "eng"
+},
+{
+"reference_id": "8357",
+"content_id": "8357",
+"resource_code": "DictionaryBibleThemes",
+"label": "8357: weakness",
+"language": "eng"
+}
+]
+}
+}
+]

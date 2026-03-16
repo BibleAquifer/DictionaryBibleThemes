@@ -1,0 +1,249 @@
+[
+{
+"content_id": "5128",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5128: baldness",
+"media_type": "Text",
+"index_reference": "5128: baldness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Loss of hair on the head as the result of natural causes or deliberate action. Baldness may be used to signify judgment, mourning or shame.</p>\n<h2>Instructions regarding baldness within Jewish law</h2>\n<h3>Associated with idolatrous practice</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Lev21:5\">LEV 21:5</a>; <a href=\"https://ref.ly/Deut14:1\">DEU 14:1</a>; <a href=\"https://ref.ly/Jer16:6\">JER 16:6</a> <em>In pagan Canaan mourners shaved their foreheads.</em></p>\n<h3>Regarding sores on bald heads</h3>\n<p><a href=\"https://ref.ly/Lev13:40-Lev13:42\">LEV 13:40–13:42</a></p>\n<h3>Cleansing may involve shaving the head</h3>\n<p><a href=\"https://ref.ly/Lev14:8-Lev14:9\">LEV 14:8–14:9</a>; ; <a href=\"https://ref.ly/Num6:9\">NUM 6:9</a>, <a href=\"https://ref.ly/Num6:18\">NUM 6:18</a>; ; <a href=\"https://ref.ly/Deut21:12\">DEU 21:12</a></p>\n<h3>Vows that involve shaving the head</h3>\n<p><a href=\"https://ref.ly/Judg13:5\">JDG 13:5</a>, <a href=\"https://ref.ly/Judg16:17-Judg16:19\">JDG 16:17–16:19</a>; ; <a href=\"https://ref.ly/Acts18:18\">ACT 18:18</a> <em>based on the Nazarite rule recorded in <a href=\"https://ref.ly/Num6:1-Num6:21\">Nu 6:1–21</a></em></p>\n<h2>Baldness may signify God's judgment</h2>\n<p><a href=\"https://ref.ly/Ezek5:1\">EZK 5:1</a> <em>Ezekiel instructed to shave his head to symbolise this</em></p>\n<h3>Judgment on Jerusalem and Judah</h3>\n<p><a href=\"https://ref.ly/Isa3:17\">ISA 3:17</a>, <a href=\"https://ref.ly/Isa3:24\">ISA 3:24</a>, <a href=\"https://ref.ly/Isa7:20\">ISA 7:20</a></p>\n<h2>Baldness as a symbol of mourning</h2>\n<p><strong><a href=\"https://ref.ly/Job1:20\">JOB 1:20</a></strong> <em>Job here mourns the loss of his children, household and livestock.</em> <em>See also</em> <a href=\"https://ref.ly/Isa15:2\">ISA 15:2</a>, <a href=\"https://ref.ly/Isa22:12\">ISA 22:12</a>; <a href=\"https://ref.ly/Jer48:37\">JER 48:37</a>; <a href=\"https://ref.ly/Ezek27:31\">EZK 27:31</a>; <a href=\"https://ref.ly/Amos8:10\">AMO 8:10</a>; <a href=\"https://ref.ly/Mic1:16\">MIC 1:16</a></p>\n<h3>Used figuratively to indicate the mourning of a nation</h3>\n<p><a href=\"https://ref.ly/Jer47:5\">JER 47:5</a></p>\n<h2>Baldness as a symbol of shame</h2>\n<p><a href=\"https://ref.ly/2Kgs2:23\">2KI 2:23</a>; ; <a href=\"https://ref.ly/Ezek7:18\">EZK 7:18</a>; ; <a href=\"https://ref.ly/1Cor11:5-1Cor11:6\">1CO 11:5–11:6</a></p>\n<h2>Examples of baldness</h2>\n<p><a href=\"https://ref.ly/Ezek29:18\">EZK 29:18</a> <em>baldness caused by the rubbing of leather helmets in warfare</em>; ; <a href=\"https://ref.ly/Judg16:19\">JDG 16:19</a> <em>Samson</em>; ; <a href=\"https://ref.ly/2Kgs2:23\">2KI 2:23</a> <em>Elisha</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03021005",
+"start_ref_usfm": "LEV 21:5",
+"end_ref": "03021005",
+"end_ref_usfm": "LEV 21:5"
+},
+{
+"start_ref": "05014001",
+"start_ref_usfm": "DEU 14:1",
+"end_ref": "05014001",
+"end_ref_usfm": "DEU 14:1"
+},
+{
+"start_ref": "24016006",
+"start_ref_usfm": "JER 16:6",
+"end_ref": "24016006",
+"end_ref_usfm": "JER 16:6"
+},
+{
+"start_ref": "03013040",
+"start_ref_usfm": "LEV 13:40",
+"end_ref": "03013042",
+"end_ref_usfm": "LEV 13:42"
+},
+{
+"start_ref": "03014008",
+"start_ref_usfm": "LEV 14:8",
+"end_ref": "03014009",
+"end_ref_usfm": "LEV 14:9"
+},
+{
+"start_ref": "04006009",
+"start_ref_usfm": "NUM 6:9",
+"end_ref": "04006009",
+"end_ref_usfm": "NUM 6:9"
+},
+{
+"start_ref": "04006018",
+"start_ref_usfm": "NUM 6:18",
+"end_ref": "04006018",
+"end_ref_usfm": "NUM 6:18"
+},
+{
+"start_ref": "05021012",
+"start_ref_usfm": "DEU 21:12",
+"end_ref": "05021012",
+"end_ref_usfm": "DEU 21:12"
+},
+{
+"start_ref": "07013005",
+"start_ref_usfm": "JDG 13:5",
+"end_ref": "07013005",
+"end_ref_usfm": "JDG 13:5"
+},
+{
+"start_ref": "07016017",
+"start_ref_usfm": "JDG 16:17",
+"end_ref": "07016019",
+"end_ref_usfm": "JDG 16:19"
+},
+{
+"start_ref": "44018018",
+"start_ref_usfm": "ACT 18:18",
+"end_ref": "44018018",
+"end_ref_usfm": "ACT 18:18"
+},
+{
+"start_ref": "04006001",
+"start_ref_usfm": "NUM 6:1",
+"end_ref": "04006021",
+"end_ref_usfm": "NUM 6:21"
+},
+{
+"start_ref": "26005001",
+"start_ref_usfm": "EZK 5:1",
+"end_ref": "26005001",
+"end_ref_usfm": "EZK 5:1"
+},
+{
+"start_ref": "23003017",
+"start_ref_usfm": "ISA 3:17",
+"end_ref": "23003017",
+"end_ref_usfm": "ISA 3:17"
+},
+{
+"start_ref": "23003024",
+"start_ref_usfm": "ISA 3:24",
+"end_ref": "23003024",
+"end_ref_usfm": "ISA 3:24"
+},
+{
+"start_ref": "23007020",
+"start_ref_usfm": "ISA 7:20",
+"end_ref": "23007020",
+"end_ref_usfm": "ISA 7:20"
+},
+{
+"start_ref": "18001020",
+"start_ref_usfm": "JOB 1:20",
+"end_ref": "18001020",
+"end_ref_usfm": "JOB 1:20"
+},
+{
+"start_ref": "23015002",
+"start_ref_usfm": "ISA 15:2",
+"end_ref": "23015002",
+"end_ref_usfm": "ISA 15:2"
+},
+{
+"start_ref": "23022012",
+"start_ref_usfm": "ISA 22:12",
+"end_ref": "23022012",
+"end_ref_usfm": "ISA 22:12"
+},
+{
+"start_ref": "24048037",
+"start_ref_usfm": "JER 48:37",
+"end_ref": "24048037",
+"end_ref_usfm": "JER 48:37"
+},
+{
+"start_ref": "26027031",
+"start_ref_usfm": "EZK 27:31",
+"end_ref": "26027031",
+"end_ref_usfm": "EZK 27:31"
+},
+{
+"start_ref": "30008010",
+"start_ref_usfm": "AMO 8:10",
+"end_ref": "30008010",
+"end_ref_usfm": "AMO 8:10"
+},
+{
+"start_ref": "33001016",
+"start_ref_usfm": "MIC 1:16",
+"end_ref": "33001016",
+"end_ref_usfm": "MIC 1:16"
+},
+{
+"start_ref": "24047005",
+"start_ref_usfm": "JER 47:5",
+"end_ref": "24047005",
+"end_ref_usfm": "JER 47:5"
+},
+{
+"start_ref": "12002023",
+"start_ref_usfm": "2KI 2:23",
+"end_ref": "12002023",
+"end_ref_usfm": "2KI 2:23"
+},
+{
+"start_ref": "26007018",
+"start_ref_usfm": "EZK 7:18",
+"end_ref": "26007018",
+"end_ref_usfm": "EZK 7:18"
+},
+{
+"start_ref": "46011005",
+"start_ref_usfm": "1CO 11:5",
+"end_ref": "46011006",
+"end_ref_usfm": "1CO 11:6"
+},
+{
+"start_ref": "26029018",
+"start_ref_usfm": "EZK 29:18",
+"end_ref": "26029018",
+"end_ref_usfm": "EZK 29:18"
+},
+{
+"start_ref": "07016019",
+"start_ref_usfm": "JDG 16:19",
+"end_ref": "07016019",
+"end_ref_usfm": "JDG 16:19"
+}
+],
+"resource": [
+{
+"reference_id": "5154",
+"content_id": "5154",
+"resource_code": "DictionaryBibleThemes",
+"label": "5154: forehead",
+"language": "eng"
+},
+{
+"reference_id": "5155",
+"content_id": "5155",
+"resource_code": "DictionaryBibleThemes",
+"label": "5155: hair",
+"language": "eng"
+},
+{
+"reference_id": "5157",
+"content_id": "5157",
+"resource_code": "DictionaryBibleThemes",
+"label": "5157: head",
+"language": "eng"
+},
+{
+"reference_id": "5158",
+"content_id": "5158",
+"resource_code": "DictionaryBibleThemes",
+"label": "5158: head-covering",
+"language": "eng"
+},
+{
+"reference_id": "5180",
+"content_id": "5180",
+"resource_code": "DictionaryBibleThemes",
+"label": "5180: shaving",
+"language": "eng"
+},
+{
+"reference_id": "5419",
+"content_id": "5419",
+"resource_code": "DictionaryBibleThemes",
+"label": "5419: mourning",
+"language": "eng"
+},
+{
+"reference_id": "5947",
+"content_id": "5947",
+"resource_code": "DictionaryBibleThemes",
+"label": "5947: shame",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

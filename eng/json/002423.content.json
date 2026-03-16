@@ -1,0 +1,188 @@
+[
+{
+"content_id": "8801",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8801: presumption",
+"media_type": "Text",
+"index_reference": "8801: presumption",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A form of self-confidence, which makes overconfident assumptions concerning one's importance and rights. It is criticised as a form of arrogance that is unacceptable among believers, whose lives should be characterised by humility.</p>\n<h2>Presumption is unacceptable</h2>\n<p><strong><a href=\"https://ref.ly/Ps5:5\">PSA 5:5</a></strong>; <strong><a href=\"https://ref.ly/Isa13:11\">ISA 13:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num15:30\">NUM 15:30</a>; <a href=\"https://ref.ly/Deut6:16\">DEU 6:16</a>, <a href=\"https://ref.ly/Deut18:20\">DEU 18:20</a>; <a href=\"https://ref.ly/Isa45:9\">ISA 45:9</a>; <a href=\"https://ref.ly/Rom2:4\">ROM 2:4</a>, <a href=\"https://ref.ly/Rom9:20\">ROM 9:20</a>; <a href=\"https://ref.ly/1Cor10:9\">1CO 10:9</a>; <a href=\"https://ref.ly/Jas4:13\">JAS 4:13</a>; <a href=\"https://ref.ly/2Pet2:10\">2PE 2:10</a></p>\n<h2>Examples of presumption</h2>\n<p><a href=\"https://ref.ly/Gen11:1-Gen11:4\">GEN 11:1–11:4</a> <em>those preparing to build the tower of Babel in defiance of God</em>; ; <a href=\"https://ref.ly/Num14:40-Num14:45\">NUM 14:40–14:45</a> <em>the Israelites, ignoring Moses' orders</em>; ; <a href=\"https://ref.ly/Luke12:16-Luke12:21\">LUK 12:16–12:21</a> <em>the rich fool</em></p>\n<h2>Humility is commended in place of presumption</h2>\n<p><strong><a href=\"https://ref.ly/Mic6:8\">MIC 6:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke14:10\">LUK 14:10</a>, <a href=\"https://ref.ly/Luke22:26\">LUK 22:26</a>; <a href=\"https://ref.ly/Rom12:3\">ROM 12:3</a>; <a href=\"https://ref.ly/Jas4:10\">JAS 4:10</a>; <a href=\"https://ref.ly/1Pet5:5\">1PE 5:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19005005",
+"start_ref_usfm": "PSA 5:5",
+"end_ref": "19005005",
+"end_ref_usfm": "PSA 5:5"
+},
+{
+"start_ref": "23013011",
+"start_ref_usfm": "ISA 13:11",
+"end_ref": "23013011",
+"end_ref_usfm": "ISA 13:11"
+},
+{
+"start_ref": "04015030",
+"start_ref_usfm": "NUM 15:30",
+"end_ref": "04015030",
+"end_ref_usfm": "NUM 15:30"
+},
+{
+"start_ref": "05006016",
+"start_ref_usfm": "DEU 6:16",
+"end_ref": "05006016",
+"end_ref_usfm": "DEU 6:16"
+},
+{
+"start_ref": "05018020",
+"start_ref_usfm": "DEU 18:20",
+"end_ref": "05018020",
+"end_ref_usfm": "DEU 18:20"
+},
+{
+"start_ref": "23045009",
+"start_ref_usfm": "ISA 45:9",
+"end_ref": "23045009",
+"end_ref_usfm": "ISA 45:9"
+},
+{
+"start_ref": "45002004",
+"start_ref_usfm": "ROM 2:4",
+"end_ref": "45002004",
+"end_ref_usfm": "ROM 2:4"
+},
+{
+"start_ref": "45009020",
+"start_ref_usfm": "ROM 9:20",
+"end_ref": "45009020",
+"end_ref_usfm": "ROM 9:20"
+},
+{
+"start_ref": "46010009",
+"start_ref_usfm": "1CO 10:9",
+"end_ref": "46010009",
+"end_ref_usfm": "1CO 10:9"
+},
+{
+"start_ref": "59004013",
+"start_ref_usfm": "JAS 4:13",
+"end_ref": "59004013",
+"end_ref_usfm": "JAS 4:13"
+},
+{
+"start_ref": "61002010",
+"start_ref_usfm": "2PE 2:10",
+"end_ref": "61002010",
+"end_ref_usfm": "2PE 2:10"
+},
+{
+"start_ref": "01011001",
+"start_ref_usfm": "GEN 11:1",
+"end_ref": "01011004",
+"end_ref_usfm": "GEN 11:4"
+},
+{
+"start_ref": "04014040",
+"start_ref_usfm": "NUM 14:40",
+"end_ref": "04014045",
+"end_ref_usfm": "NUM 14:45"
+},
+{
+"start_ref": "42012016",
+"start_ref_usfm": "LUK 12:16",
+"end_ref": "42012021",
+"end_ref_usfm": "LUK 12:21"
+},
+{
+"start_ref": "33006008",
+"start_ref_usfm": "MIC 6:8",
+"end_ref": "33006008",
+"end_ref_usfm": "MIC 6:8"
+},
+{
+"start_ref": "42014010",
+"start_ref_usfm": "LUK 14:10",
+"end_ref": "42014010",
+"end_ref_usfm": "LUK 14:10"
+},
+{
+"start_ref": "42022026",
+"start_ref_usfm": "LUK 22:26",
+"end_ref": "42022026",
+"end_ref_usfm": "LUK 22:26"
+},
+{
+"start_ref": "45012003",
+"start_ref_usfm": "ROM 12:3",
+"end_ref": "45012003",
+"end_ref_usfm": "ROM 12:3"
+},
+{
+"start_ref": "59004010",
+"start_ref_usfm": "JAS 4:10",
+"end_ref": "59004010",
+"end_ref_usfm": "JAS 4:10"
+},
+{
+"start_ref": "60005005",
+"start_ref_usfm": "1PE 5:5",
+"end_ref": "60005005",
+"end_ref_usfm": "1PE 5:5"
+}
+],
+"resource": [
+{
+"reference_id": "5761",
+"content_id": "5761",
+"resource_code": "DictionaryBibleThemes",
+"label": "5761: attitudes",
+"language": "eng"
+},
+{
+"reference_id": "5793",
+"content_id": "5793",
+"resource_code": "DictionaryBibleThemes",
+"label": "5793: arrogance",
+"language": "eng"
+},
+{
+"reference_id": "5956",
+"content_id": "5956",
+"resource_code": "DictionaryBibleThemes",
+"label": "5956: strength, human",
+"language": "eng"
+},
+{
+"reference_id": "8202",
+"content_id": "8202",
+"resource_code": "DictionaryBibleThemes",
+"label": "8202: boldness",
+"language": "eng"
+},
+{
+"reference_id": "8276",
+"content_id": "8276",
+"resource_code": "DictionaryBibleThemes",
+"label": "8276: humility",
+"language": "eng"
+},
+{
+"reference_id": "8802",
+"content_id": "8802",
+"resource_code": "DictionaryBibleThemes",
+"label": "8802: pride",
+"language": "eng"
+},
+{
+"reference_id": "8820",
+"content_id": "8820",
+"resource_code": "DictionaryBibleThemes",
+"label": "8820: self-confidence",
+"language": "eng"
+}
+]
+}
+}
+]

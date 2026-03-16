@@ -1,0 +1,174 @@
+[
+{
+"content_id": "3218",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "3218: Holy Spirit, and praise",
+"media_type": "Text",
+"index_reference": "3218: holy spirit, and praise",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The Holy Spirit inspires believers to extol, worship and thank God. His aim is to glorify the Father and the Son.</p>\n<h2>The promise that the Holy Spirit will bring praise</h2>\n<p><strong><a href=\"https://ref.ly/Isa61:1-Isa61:3\">ISA 61:1–61:3</a></strong></p>\n<h2>The Holy Spirit inspires praise</h2>\n<h3>True praise must be inspired by the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/John4:23-John4:24\">JHN 4:23–4:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil3:3\">PHP 3:3</a></p>\n<h3>The Spirit prompts praise</h3>\n<p><strong><a href=\"https://ref.ly/2Sam23:1-2Sam23:2\">2SA 23:1–23:2</a></strong> <a href=\"https://ref.ly/Luke1:67-Luke1:68\">LUK 1:67–1:68</a>, <a href=\"https://ref.ly/Luke2:27-Luke2:28\">LUK 2:27–2:28</a>; \n<a href=\"https://ref.ly/Luke10:21\">LUK 10:21</a> <em>The Spirit prompts Jesus Christ to praise the Father.</em></p>\n<h2>Evidence of the Holy Spirit's work inspires praise</h2>\n<h3>The Spirit's convicting work inspires praise</h3>\n<p><a href=\"https://ref.ly/1Cor14:24-1Cor14:25\">1CO 14:24–14:25</a></p>\n<h3>The Spirit's converting work inspires praise</h3>\n<p><strong><a href=\"https://ref.ly/Acts11:15-Acts11:18\">ACT 11:15–11:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Thess2:13\">2TH 2:13</a></p>\n<h2>The Holy Spirit activates the church's praise</h2>\n<p><strong><a href=\"https://ref.ly/Eph5:18-Eph5:20\">EPH 5:18–5:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts10:44-Acts10:46\">ACT 10:44–10:46</a>; <a href=\"https://ref.ly/Col3:16-Col3:17\">COL 3:16–3:17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23061001",
+"start_ref_usfm": "ISA 61:1",
+"end_ref": "23061003",
+"end_ref_usfm": "ISA 61:3"
+},
+{
+"start_ref": "43004023",
+"start_ref_usfm": "JHN 4:23",
+"end_ref": "43004024",
+"end_ref_usfm": "JHN 4:24"
+},
+{
+"start_ref": "50003003",
+"start_ref_usfm": "PHP 3:3",
+"end_ref": "50003003",
+"end_ref_usfm": "PHP 3:3"
+},
+{
+"start_ref": "10023001",
+"start_ref_usfm": "2SA 23:1",
+"end_ref": "10023002",
+"end_ref_usfm": "2SA 23:2"
+},
+{
+"start_ref": "42001067",
+"start_ref_usfm": "LUK 1:67",
+"end_ref": "42001068",
+"end_ref_usfm": "LUK 1:68"
+},
+{
+"start_ref": "42002027",
+"start_ref_usfm": "LUK 2:27",
+"end_ref": "42002028",
+"end_ref_usfm": "LUK 2:28"
+},
+{
+"start_ref": "42010021",
+"start_ref_usfm": "LUK 10:21",
+"end_ref": "42010021",
+"end_ref_usfm": "LUK 10:21"
+},
+{
+"start_ref": "46014024",
+"start_ref_usfm": "1CO 14:24",
+"end_ref": "46014025",
+"end_ref_usfm": "1CO 14:25"
+},
+{
+"start_ref": "44011015",
+"start_ref_usfm": "ACT 11:15",
+"end_ref": "44011018",
+"end_ref_usfm": "ACT 11:18"
+},
+{
+"start_ref": "53002013",
+"start_ref_usfm": "2TH 2:13",
+"end_ref": "53002013",
+"end_ref_usfm": "2TH 2:13"
+},
+{
+"start_ref": "49005018",
+"start_ref_usfm": "EPH 5:18",
+"end_ref": "49005020",
+"end_ref_usfm": "EPH 5:20"
+},
+{
+"start_ref": "44010044",
+"start_ref_usfm": "ACT 10:44",
+"end_ref": "44010046",
+"end_ref_usfm": "ACT 10:46"
+},
+{
+"start_ref": "51003016",
+"start_ref_usfm": "COL 3:16",
+"end_ref": "51003017",
+"end_ref_usfm": "COL 3:17"
+}
+],
+"resource": [
+{
+"reference_id": "3221",
+"content_id": "3221",
+"resource_code": "DictionaryBibleThemes",
+"label": "3221: Holy Spirit, and prayer",
+"language": "eng"
+},
+{
+"reference_id": "3275",
+"content_id": "3275",
+"resource_code": "DictionaryBibleThemes",
+"label": "3275: Holy Spirit, in the church",
+"language": "eng"
+},
+{
+"reference_id": "3281",
+"content_id": "3281",
+"resource_code": "DictionaryBibleThemes",
+"label": "3281: Holy Spirit, inspiration of",
+"language": "eng"
+},
+{
+"reference_id": "7028",
+"content_id": "7028",
+"resource_code": "DictionaryBibleThemes",
+"label": "7028: church, life of",
+"language": "eng"
+},
+{
+"reference_id": "8297",
+"content_id": "8297",
+"resource_code": "DictionaryBibleThemes",
+"label": "8297: love, for God",
+"language": "eng"
+},
+{
+"reference_id": "8352",
+"content_id": "8352",
+"resource_code": "DictionaryBibleThemes",
+"label": "8352: thankfulness",
+"language": "eng"
+},
+{
+"reference_id": "8602",
+"content_id": "8602",
+"resource_code": "DictionaryBibleThemes",
+"label": "8602: prayer",
+"language": "eng"
+},
+{
+"reference_id": "8622",
+"content_id": "8622",
+"resource_code": "DictionaryBibleThemes",
+"label": "8622: worship",
+"language": "eng"
+},
+{
+"reference_id": "8646",
+"content_id": "8646",
+"resource_code": "DictionaryBibleThemes",
+"label": "8646: doxology",
+"language": "eng"
+},
+{
+"reference_id": "8660",
+"content_id": "8660",
+"resource_code": "DictionaryBibleThemes",
+"label": "8660: magnifying God",
+"language": "eng"
+},
+{
+"reference_id": "8664",
+"content_id": "8664",
+"resource_code": "DictionaryBibleThemes",
+"label": "8664: praise",
+"language": "eng"
+}
+]
+}
+}
+]

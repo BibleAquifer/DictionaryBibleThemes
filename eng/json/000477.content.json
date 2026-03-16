@@ -1,0 +1,230 @@
+[
+{
+"content_id": "4524",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4524: threshing-floor",
+"media_type": "Text",
+"index_reference": "4524: threshing-floor",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The place where winnowing and threshing took place at harvest time.</p>\n<h2>The threshing-floor and agriculture</h2>\n<p><a href=\"https://ref.ly/Gen50:10-Gen50:11\">GEN 50:10–50:11</a>; ; <a href=\"https://ref.ly/Judg6:37\">JDG 6:37</a>; ; <a href=\"https://ref.ly/Ruth3:2-Ruth3:14\">RUT 3:2–3:14</a>; ; <a href=\"https://ref.ly/1Sam23:1\">1SA 23:1</a>; ; <a href=\"https://ref.ly/2Sam6:6\">2SA 6:6</a> parallel <a href=\"https://ref.ly/1Chr13:9\">1CH 13:9</a>; ; <a href=\"https://ref.ly/1Kgs22:10\">1KI 22:10</a> parallel <a href=\"https://ref.ly/2Chr18:9\">2CH 18:9</a>; ; <a href=\"https://ref.ly/Job39:12\">JOB 39:12</a></p>\n<h2>The threshing-floor as a symbol of harvest</h2>\n<p><strong><a href=\"https://ref.ly/Deut16:13\">DEU 16:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num15:20\">NUM 15:20</a>, <a href=\"https://ref.ly/Num18:27\">NUM 18:27</a>, <a href=\"https://ref.ly/Num18:30\">NUM 18:30</a>; <a href=\"https://ref.ly/Deut15:14\">DEU 15:14</a>; <a href=\"https://ref.ly/2Kgs6:27\">2KI 6:27</a>; <a href=\"https://ref.ly/Hos9:1-Hos9:2\">HOS 9:1–9:2</a>; <a href=\"https://ref.ly/Joel2:24\">JOL 2:24</a></p>\n<h2>The threshing-floor as a symbol of judgment</h2>\n<p><strong><a href=\"https://ref.ly/Isa21:10\">ISA 21:10</a></strong>; <strong><a href=\"https://ref.ly/Hos13:3\">HOS 13:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer51:33\">JER 51:33</a>; <a href=\"https://ref.ly/Dan2:35\">DAN 2:35</a>; <a href=\"https://ref.ly/Mic4:12\">MIC 4:12</a>; <a href=\"https://ref.ly/Matt3:12\">MAT 3:12</a> parallel <a href=\"https://ref.ly/Luke3:17\">LUK 3:17</a></p>\n<h2>A threshing-floor was the site of the Jerusalem temple</h2>\n<p><strong><a href=\"https://ref.ly/2Chr3:1\">2CH 3:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam24:16-2Sam24:25\">2SA 24:16–24:25</a> parallel <a href=\"https://ref.ly/1Chr21:15-1Chr21:26\">1CH 21:15–21:26</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01050010",
+"start_ref_usfm": "GEN 50:10",
+"end_ref": "01050011",
+"end_ref_usfm": "GEN 50:11"
+},
+{
+"start_ref": "07006037",
+"start_ref_usfm": "JDG 6:37",
+"end_ref": "07006037",
+"end_ref_usfm": "JDG 6:37"
+},
+{
+"start_ref": "08003002",
+"start_ref_usfm": "RUT 3:2",
+"end_ref": "08003014",
+"end_ref_usfm": "RUT 3:14"
+},
+{
+"start_ref": "09023001",
+"start_ref_usfm": "1SA 23:1",
+"end_ref": "09023001",
+"end_ref_usfm": "1SA 23:1"
+},
+{
+"start_ref": "10006006",
+"start_ref_usfm": "2SA 6:6",
+"end_ref": "10006006",
+"end_ref_usfm": "2SA 6:6"
+},
+{
+"start_ref": "13013009",
+"start_ref_usfm": "1CH 13:9",
+"end_ref": "13013009",
+"end_ref_usfm": "1CH 13:9"
+},
+{
+"start_ref": "11022010",
+"start_ref_usfm": "1KI 22:10",
+"end_ref": "11022010",
+"end_ref_usfm": "1KI 22:10"
+},
+{
+"start_ref": "14018009",
+"start_ref_usfm": "2CH 18:9",
+"end_ref": "14018009",
+"end_ref_usfm": "2CH 18:9"
+},
+{
+"start_ref": "18039012",
+"start_ref_usfm": "JOB 39:12",
+"end_ref": "18039012",
+"end_ref_usfm": "JOB 39:12"
+},
+{
+"start_ref": "05016013",
+"start_ref_usfm": "DEU 16:13",
+"end_ref": "05016013",
+"end_ref_usfm": "DEU 16:13"
+},
+{
+"start_ref": "04015020",
+"start_ref_usfm": "NUM 15:20",
+"end_ref": "04015020",
+"end_ref_usfm": "NUM 15:20"
+},
+{
+"start_ref": "04018027",
+"start_ref_usfm": "NUM 18:27",
+"end_ref": "04018027",
+"end_ref_usfm": "NUM 18:27"
+},
+{
+"start_ref": "04018030",
+"start_ref_usfm": "NUM 18:30",
+"end_ref": "04018030",
+"end_ref_usfm": "NUM 18:30"
+},
+{
+"start_ref": "05015014",
+"start_ref_usfm": "DEU 15:14",
+"end_ref": "05015014",
+"end_ref_usfm": "DEU 15:14"
+},
+{
+"start_ref": "12006027",
+"start_ref_usfm": "2KI 6:27",
+"end_ref": "12006027",
+"end_ref_usfm": "2KI 6:27"
+},
+{
+"start_ref": "28009001",
+"start_ref_usfm": "HOS 9:1",
+"end_ref": "28009002",
+"end_ref_usfm": "HOS 9:2"
+},
+{
+"start_ref": "29002024",
+"start_ref_usfm": "JOL 2:24",
+"end_ref": "29002024",
+"end_ref_usfm": "JOL 2:24"
+},
+{
+"start_ref": "23021010",
+"start_ref_usfm": "ISA 21:10",
+"end_ref": "23021010",
+"end_ref_usfm": "ISA 21:10"
+},
+{
+"start_ref": "28013003",
+"start_ref_usfm": "HOS 13:3",
+"end_ref": "28013003",
+"end_ref_usfm": "HOS 13:3"
+},
+{
+"start_ref": "24051033",
+"start_ref_usfm": "JER 51:33",
+"end_ref": "24051033",
+"end_ref_usfm": "JER 51:33"
+},
+{
+"start_ref": "27002035",
+"start_ref_usfm": "DAN 2:35",
+"end_ref": "27002035",
+"end_ref_usfm": "DAN 2:35"
+},
+{
+"start_ref": "33004012",
+"start_ref_usfm": "MIC 4:12",
+"end_ref": "33004012",
+"end_ref_usfm": "MIC 4:12"
+},
+{
+"start_ref": "40003012",
+"start_ref_usfm": "MAT 3:12",
+"end_ref": "40003012",
+"end_ref_usfm": "MAT 3:12"
+},
+{
+"start_ref": "42003017",
+"start_ref_usfm": "LUK 3:17",
+"end_ref": "42003017",
+"end_ref_usfm": "LUK 3:17"
+},
+{
+"start_ref": "14003001",
+"start_ref_usfm": "2CH 3:1",
+"end_ref": "14003001",
+"end_ref_usfm": "2CH 3:1"
+},
+{
+"start_ref": "10024016",
+"start_ref_usfm": "2SA 24:16",
+"end_ref": "10024025",
+"end_ref_usfm": "2SA 24:25"
+},
+{
+"start_ref": "13021015",
+"start_ref_usfm": "1CH 21:15",
+"end_ref": "13021026",
+"end_ref_usfm": "1CH 21:26"
+}
+],
+"resource": [
+{
+"reference_id": "4406",
+"content_id": "4406",
+"resource_code": "DictionaryBibleThemes",
+"label": "4406: agriculture",
+"language": "eng"
+},
+{
+"reference_id": "4426",
+"content_id": "4426",
+"resource_code": "DictionaryBibleThemes",
+"label": "4426: chaff",
+"language": "eng"
+},
+{
+"reference_id": "4464",
+"content_id": "4464",
+"resource_code": "DictionaryBibleThemes",
+"label": "4464: harvest",
+"language": "eng"
+},
+{
+"reference_id": "4522",
+"content_id": "4522",
+"resource_code": "DictionaryBibleThemes",
+"label": "4522: threshing",
+"language": "eng"
+},
+{
+"reference_id": "4550",
+"content_id": "4550",
+"resource_code": "DictionaryBibleThemes",
+"label": "4550: winnowing",
+"language": "eng"
+},
+{
+"reference_id": "7467",
+"content_id": "7467",
+"resource_code": "DictionaryBibleThemes",
+"label": "7467: temple, Solomon's",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

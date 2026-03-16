@@ -1,0 +1,184 @@
+[
+{
+"content_id": "8489",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8489: urgency",
+"media_type": "Text",
+"index_reference": "8489: urgency",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The urgency of the call to repent</h2>\n<h3>In the preaching of John the Baptist</h3>\n<p><strong><a href=\"https://ref.ly/Matt3:2\">MAT 3:2</a></strong> parallels <a href=\"https://ref.ly/Mark1:4\">MRK 1:4</a>, <a href=\"https://ref.ly/Luke3:3\">LUK 3:3</a></p>\n<h3>In the preaching of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Mark1:15\">MRK 1:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt4:17\">MAT 4:17</a>; <a href=\"https://ref.ly/Luke13:3\">LUK 13:3</a></p>\n<h3>In the preaching of Peter</h3>\n<p><strong><a href=\"https://ref.ly/Acts2:38\">ACT 2:38</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts3:19\">ACT 3:19</a></p>\n<h3>In the preaching of Paul</h3>\n<p><a href=\"https://ref.ly/Acts20:21\">ACT 20:21</a>, <a href=\"https://ref.ly/Acts26:20\">ACT 26:20</a></p>\n<h2>The urgency of the need to proclaim the gospel</h2>\n<p><strong><a href=\"https://ref.ly/2Tim4:1-2Tim4:2\">2TI 4:1–4:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/John4:35-John4:37\">JHN 4:35–4:37</a>; <a href=\"https://ref.ly/2Cor6:2\">2CO 6:2</a>; <a href=\"https://ref.ly/1Thess5:2\">1TH 5:2</a> <em>in the light of the coming day of the Lord</em></p>\n<h2>Examples of urgent summons by officials</h2>\n<p><a href=\"https://ref.ly/Num22:37\">NUM 22:37</a>; ; <a href=\"https://ref.ly/1Sam21:8\">1SA 21:8</a>; ; <a href=\"https://ref.ly/Dan3:22\">DAN 3:22</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40003002",
+"start_ref_usfm": "MAT 3:2",
+"end_ref": "40003002",
+"end_ref_usfm": "MAT 3:2"
+},
+{
+"start_ref": "41001004",
+"start_ref_usfm": "MRK 1:4",
+"end_ref": "41001004",
+"end_ref_usfm": "MRK 1:4"
+},
+{
+"start_ref": "42003003",
+"start_ref_usfm": "LUK 3:3",
+"end_ref": "42003003",
+"end_ref_usfm": "LUK 3:3"
+},
+{
+"start_ref": "41001015",
+"start_ref_usfm": "MRK 1:15",
+"end_ref": "41001015",
+"end_ref_usfm": "MRK 1:15"
+},
+{
+"start_ref": "40004017",
+"start_ref_usfm": "MAT 4:17",
+"end_ref": "40004017",
+"end_ref_usfm": "MAT 4:17"
+},
+{
+"start_ref": "42013003",
+"start_ref_usfm": "LUK 13:3",
+"end_ref": "42013003",
+"end_ref_usfm": "LUK 13:3"
+},
+{
+"start_ref": "44002038",
+"start_ref_usfm": "ACT 2:38",
+"end_ref": "44002038",
+"end_ref_usfm": "ACT 2:38"
+},
+{
+"start_ref": "44003019",
+"start_ref_usfm": "ACT 3:19",
+"end_ref": "44003019",
+"end_ref_usfm": "ACT 3:19"
+},
+{
+"start_ref": "44020021",
+"start_ref_usfm": "ACT 20:21",
+"end_ref": "44020021",
+"end_ref_usfm": "ACT 20:21"
+},
+{
+"start_ref": "44026020",
+"start_ref_usfm": "ACT 26:20",
+"end_ref": "44026020",
+"end_ref_usfm": "ACT 26:20"
+},
+{
+"start_ref": "55004001",
+"start_ref_usfm": "2TI 4:1",
+"end_ref": "55004002",
+"end_ref_usfm": "2TI 4:2"
+},
+{
+"start_ref": "43004035",
+"start_ref_usfm": "JHN 4:35",
+"end_ref": "43004037",
+"end_ref_usfm": "JHN 4:37"
+},
+{
+"start_ref": "47006002",
+"start_ref_usfm": "2CO 6:2",
+"end_ref": "47006002",
+"end_ref_usfm": "2CO 6:2"
+},
+{
+"start_ref": "52005002",
+"start_ref_usfm": "1TH 5:2",
+"end_ref": "52005002",
+"end_ref_usfm": "1TH 5:2"
+},
+{
+"start_ref": "04022037",
+"start_ref_usfm": "NUM 22:37",
+"end_ref": "04022037",
+"end_ref_usfm": "NUM 22:37"
+},
+{
+"start_ref": "09021008",
+"start_ref_usfm": "1SA 21:8",
+"end_ref": "09021008",
+"end_ref_usfm": "1SA 21:8"
+},
+{
+"start_ref": "27003022",
+"start_ref_usfm": "DAN 3:22",
+"end_ref": "27003022",
+"end_ref_usfm": "DAN 3:22"
+}
+],
+"resource": [
+{
+"reference_id": "2375",
+"content_id": "2375",
+"resource_code": "DictionaryBibleThemes",
+"label": "2375: kingdom of God",
+"language": "eng"
+},
+{
+"reference_id": "4903",
+"content_id": "4903",
+"resource_code": "DictionaryBibleThemes",
+"label": "4903: time",
+"language": "eng"
+},
+{
+"reference_id": "4924",
+"content_id": "4924",
+"resource_code": "DictionaryBibleThemes",
+"label": "4924: delay",
+"language": "eng"
+},
+{
+"reference_id": "5048",
+"content_id": "5048",
+"resource_code": "DictionaryBibleThemes",
+"label": "5048: opportunities, and salvation",
+"language": "eng"
+},
+{
+"reference_id": "5463",
+"content_id": "5463",
+"resource_code": "DictionaryBibleThemes",
+"label": "5463: proclamations",
+"language": "eng"
+},
+{
+"reference_id": "6734",
+"content_id": "6734",
+"resource_code": "DictionaryBibleThemes",
+"label": "6734: repentance, importance of",
+"language": "eng"
+},
+{
+"reference_id": "7754",
+"content_id": "7754",
+"resource_code": "DictionaryBibleThemes",
+"label": "7754: preaching",
+"language": "eng"
+},
+{
+"reference_id": "8461",
+"content_id": "8461",
+"resource_code": "DictionaryBibleThemes",
+"label": "8461: priorities",
+"language": "eng"
+},
+{
+"reference_id": "8652",
+"content_id": "8652",
+"resource_code": "DictionaryBibleThemes",
+"label": "8652: importunity",
+"language": "eng"
+}
+]
+}
+}
+]

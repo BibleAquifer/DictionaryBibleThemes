@@ -1,0 +1,157 @@
+[
+{
+"content_id": "3296",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "3296: Holy Spirit, work in the world",
+"media_type": "Text",
+"index_reference": "3296: holy spirit, work in the world",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The Holy Spirit, active in the created world, works to show the futility and sinfulness of life without God, and brings a conviction of the presence of God, his righteousness and coming judgment.</p>\n<h2>The Holy Spirit is active in the created world</h2>\n<h3>In creation itself</h3>\n<p><strong><a href=\"https://ref.ly/Job33:4\">JOB 33:4</a></strong>; <strong><a href=\"https://ref.ly/Ps33:6\">PSA 33:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen1:2\">GEN 1:2</a>; <a href=\"https://ref.ly/Job26:13\">JOB 26:13</a>; <a href=\"https://ref.ly/Ps104:30\">PSA 104:30</a></p>\n<h3>In ordering the natural world</h3>\n<p><strong><a href=\"https://ref.ly/Isa34:11-Isa34:17\">ISA 34:11–34:17</a></strong></p>\n<h2>The Holy Spirit is present everywhere in the world</h2>\n<p><strong><a href=\"https://ref.ly/Ps139:7\">PSA 139:7</a></strong></p>\n<h2>The unbelieving world will not recognise the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/John14:17\">JHN 14:17</a></strong> <em>John uses “the world” to describe those who live apart from God.</em> <em>See also</em> <a href=\"https://ref.ly/1Cor2:14\">1CO 2:14</a></p>\n<h2>The Holy Spirit testifies to the truth</h2>\n<p><strong><a href=\"https://ref.ly/John15:26\">JHN 15:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:16\">ROM 8:16</a>; <a href=\"https://ref.ly/1Cor2:11-1Cor2:14\">1CO 2:11–2:14</a></p>\n<h2>The Holy Spirit convicts the world</h2>\n<p><strong><a href=\"https://ref.ly/John16:7-John16:11\">JHN 16:7–16:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor14:24-1Cor14:25\">1CO 14:24–14:25</a></p>\n<h2>The Holy Spirit empowers the church to serve the world in mission</h2>\n<p><strong><a href=\"https://ref.ly/Acts1:8\">ACT 1:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/John15:26-John15:27\">JHN 15:26–15:27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18033004",
+"start_ref_usfm": "JOB 33:4",
+"end_ref": "18033004",
+"end_ref_usfm": "JOB 33:4"
+},
+{
+"start_ref": "19033006",
+"start_ref_usfm": "PSA 33:6",
+"end_ref": "19033006",
+"end_ref_usfm": "PSA 33:6"
+},
+{
+"start_ref": "01001002",
+"start_ref_usfm": "GEN 1:2",
+"end_ref": "01001002",
+"end_ref_usfm": "GEN 1:2"
+},
+{
+"start_ref": "18026013",
+"start_ref_usfm": "JOB 26:13",
+"end_ref": "18026013",
+"end_ref_usfm": "JOB 26:13"
+},
+{
+"start_ref": "19104030",
+"start_ref_usfm": "PSA 104:30",
+"end_ref": "19104030",
+"end_ref_usfm": "PSA 104:30"
+},
+{
+"start_ref": "23034011",
+"start_ref_usfm": "ISA 34:11",
+"end_ref": "23034017",
+"end_ref_usfm": "ISA 34:17"
+},
+{
+"start_ref": "19139007",
+"start_ref_usfm": "PSA 139:7",
+"end_ref": "19139007",
+"end_ref_usfm": "PSA 139:7"
+},
+{
+"start_ref": "43014017",
+"start_ref_usfm": "JHN 14:17",
+"end_ref": "43014017",
+"end_ref_usfm": "JHN 14:17"
+},
+{
+"start_ref": "46002014",
+"start_ref_usfm": "1CO 2:14",
+"end_ref": "46002014",
+"end_ref_usfm": "1CO 2:14"
+},
+{
+"start_ref": "43015026",
+"start_ref_usfm": "JHN 15:26",
+"end_ref": "43015026",
+"end_ref_usfm": "JHN 15:26"
+},
+{
+"start_ref": "45008016",
+"start_ref_usfm": "ROM 8:16",
+"end_ref": "45008016",
+"end_ref_usfm": "ROM 8:16"
+},
+{
+"start_ref": "46002011",
+"start_ref_usfm": "1CO 2:11",
+"end_ref": "46002014",
+"end_ref_usfm": "1CO 2:14"
+},
+{
+"start_ref": "43016007",
+"start_ref_usfm": "JHN 16:7",
+"end_ref": "43016011",
+"end_ref_usfm": "JHN 16:11"
+},
+{
+"start_ref": "46014024",
+"start_ref_usfm": "1CO 14:24",
+"end_ref": "46014025",
+"end_ref_usfm": "1CO 14:25"
+},
+{
+"start_ref": "44001008",
+"start_ref_usfm": "ACT 1:8",
+"end_ref": "44001008",
+"end_ref_usfm": "ACT 1:8"
+},
+{
+"start_ref": "43015026",
+"start_ref_usfm": "JHN 15:26",
+"end_ref": "43015027",
+"end_ref_usfm": "JHN 15:27"
+}
+],
+"resource": [
+{
+"reference_id": "1110",
+"content_id": "1110",
+"resource_code": "DictionaryBibleThemes",
+"label": "1110: God, present everywhere",
+"language": "eng"
+},
+{
+"reference_id": "1225",
+"content_id": "1225",
+"resource_code": "DictionaryBibleThemes",
+"label": "1225: God, as Spirit",
+"language": "eng"
+},
+{
+"reference_id": "3212",
+"content_id": "3212",
+"resource_code": "DictionaryBibleThemes",
+"label": "3212: Holy Spirit, and mission",
+"language": "eng"
+},
+{
+"reference_id": "3248",
+"content_id": "3248",
+"resource_code": "DictionaryBibleThemes",
+"label": "3248: Holy Spirit, conviction of",
+"language": "eng"
+},
+{
+"reference_id": "3266",
+"content_id": "3266",
+"resource_code": "DictionaryBibleThemes",
+"label": "3266: Holy Spirit, in creation",
+"language": "eng"
+},
+{
+"reference_id": "4025",
+"content_id": "4025",
+"resource_code": "DictionaryBibleThemes",
+"label": "4025: world, the",
+"language": "eng"
+}
+]
+}
+}
+]

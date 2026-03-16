@@ -1,0 +1,134 @@
+[
+{
+"content_id": "4508",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4508: sickle",
+"media_type": "Text",
+"index_reference": "4508: sickle",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A cutting tool with a short handle used in harvesting grain. Early blades were made of wood lined with flint teeth; these were later replaced with curved iron blades. The cutting down of grain at harvest with a sickle is used as a symbol of God's judgment.</p>\n<h2>Sickles used to harvest grain</h2>\n<p><strong><a href=\"https://ref.ly/Mark4:29\">MRK 4:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut16:9\">DEU 16:9</a>, <a href=\"https://ref.ly/Deut23:25\">DEU 23:25</a> <em>Sickles were not to be used in another person's field</em>; <a href=\"https://ref.ly/1Sam13:19-1Sam13:21\">1SA 13:19–13:21</a>; <a href=\"https://ref.ly/Jer50:16\">JER 50:16</a></p>\n<h2>Cutting down grain as a symbol of judgment</h2>\n<p><strong><a href=\"https://ref.ly/Joel3:13\">JOL 3:13</a></strong>; <strong><a href=\"https://ref.ly/Rev14:14-Rev14:19\">REV 14:14–14:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa17:5\">ISA 17:5</a>; <a href=\"https://ref.ly/Jer51:33\">JER 51:33</a>; <a href=\"https://ref.ly/Mic4:12\">MIC 4:12</a>; <a href=\"https://ref.ly/Matt13:30\">MAT 13:30</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41004029",
+"start_ref_usfm": "MRK 4:29",
+"end_ref": "41004029",
+"end_ref_usfm": "MRK 4:29"
+},
+{
+"start_ref": "05016009",
+"start_ref_usfm": "DEU 16:9",
+"end_ref": "05016009",
+"end_ref_usfm": "DEU 16:9"
+},
+{
+"start_ref": "05023025",
+"start_ref_usfm": "DEU 23:25",
+"end_ref": "05023025",
+"end_ref_usfm": "DEU 23:25"
+},
+{
+"start_ref": "09013019",
+"start_ref_usfm": "1SA 13:19",
+"end_ref": "09013021",
+"end_ref_usfm": "1SA 13:21"
+},
+{
+"start_ref": "24050016",
+"start_ref_usfm": "JER 50:16",
+"end_ref": "24050016",
+"end_ref_usfm": "JER 50:16"
+},
+{
+"start_ref": "29003013",
+"start_ref_usfm": "JOL 3:13",
+"end_ref": "29003013",
+"end_ref_usfm": "JOL 3:13"
+},
+{
+"start_ref": "66014014",
+"start_ref_usfm": "REV 14:14",
+"end_ref": "66014019",
+"end_ref_usfm": "REV 14:19"
+},
+{
+"start_ref": "23017005",
+"start_ref_usfm": "ISA 17:5",
+"end_ref": "23017005",
+"end_ref_usfm": "ISA 17:5"
+},
+{
+"start_ref": "24051033",
+"start_ref_usfm": "JER 51:33",
+"end_ref": "24051033",
+"end_ref_usfm": "JER 51:33"
+},
+{
+"start_ref": "33004012",
+"start_ref_usfm": "MIC 4:12",
+"end_ref": "33004012",
+"end_ref_usfm": "MIC 4:12"
+},
+{
+"start_ref": "40013030",
+"start_ref_usfm": "MAT 13:30",
+"end_ref": "40013030",
+"end_ref_usfm": "MAT 13:30"
+}
+],
+"resource": [
+{
+"reference_id": "4406",
+"content_id": "4406",
+"resource_code": "DictionaryBibleThemes",
+"label": "4406: agriculture",
+"language": "eng"
+},
+{
+"reference_id": "4428",
+"content_id": "4428",
+"resource_code": "DictionaryBibleThemes",
+"label": "4428: corn",
+"language": "eng"
+},
+{
+"reference_id": "4456",
+"content_id": "4456",
+"resource_code": "DictionaryBibleThemes",
+"label": "4456: grain",
+"language": "eng"
+},
+{
+"reference_id": "4464",
+"content_id": "4464",
+"resource_code": "DictionaryBibleThemes",
+"label": "4464: harvest",
+"language": "eng"
+},
+{
+"reference_id": "4510",
+"content_id": "4510",
+"resource_code": "DictionaryBibleThemes",
+"label": "4510: sowing and reaping",
+"language": "eng"
+},
+{
+"reference_id": "5583",
+"content_id": "5583",
+"resource_code": "DictionaryBibleThemes",
+"label": "5583: tools",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

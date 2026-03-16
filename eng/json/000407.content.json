@@ -1,0 +1,173 @@
+[
+{
+"content_id": "4351",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4351: refining",
+"media_type": "Text",
+"index_reference": "4351: refining",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The process of heating metals to high temperatures in order to burn away impurities. It is often used in a metaphorical sense to depict God refining his people to get rid of impurities in their faith.</p>\n<h2>Precious metals produced by refining</h2>\n<p><strong><a href=\"https://ref.ly/Ps12:6\">PSA 12:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr28:14-1Chr28:18\">1CH 28:14–28:18</a>, <a href=\"https://ref.ly/1Chr29:3-1Chr29:5\">1CH 29:3–29:5</a>; <a href=\"https://ref.ly/Job28:1-Job28:2\">JOB 28:1–28:2</a>; <a href=\"https://ref.ly/1Pet1:7\">1PE 1:7</a>; <a href=\"https://ref.ly/Rev3:18\">REV 3:18</a></p>\n<h2>God refines his people</h2>\n<h3>Refining involves suffering</h3>\n<p><strong><a href=\"https://ref.ly/Ps66:10-Ps66:12\">PSA 66:10–66:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa48:9-Isa48:11\">ISA 48:9–48:11</a>; <a href=\"https://ref.ly/Jer9:7-Jer9:9\">JER 9:7–9:9</a></p>\n<h3>Refining for purging and purification</h3>\n<p><strong><a href=\"https://ref.ly/Zech13:8-Zech13:9\">ZEC 13:8–13:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer6:27-Jer6:30\">JER 6:27–6:30</a>; <a href=\"https://ref.ly/Dan11:35\">DAN 11:35</a>, <a href=\"https://ref.ly/Dan12:10\">DAN 12:10</a>; <a href=\"https://ref.ly/Mal3:2-Mal3:4\">MAL 3:2–3:4</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19012006",
+"start_ref_usfm": "PSA 12:6",
+"end_ref": "19012006",
+"end_ref_usfm": "PSA 12:6"
+},
+{
+"start_ref": "13028014",
+"start_ref_usfm": "1CH 28:14",
+"end_ref": "13028018",
+"end_ref_usfm": "1CH 28:18"
+},
+{
+"start_ref": "13029003",
+"start_ref_usfm": "1CH 29:3",
+"end_ref": "13029005",
+"end_ref_usfm": "1CH 29:5"
+},
+{
+"start_ref": "18028001",
+"start_ref_usfm": "JOB 28:1",
+"end_ref": "18028002",
+"end_ref_usfm": "JOB 28:2"
+},
+{
+"start_ref": "60001007",
+"start_ref_usfm": "1PE 1:7",
+"end_ref": "60001007",
+"end_ref_usfm": "1PE 1:7"
+},
+{
+"start_ref": "66003018",
+"start_ref_usfm": "REV 3:18",
+"end_ref": "66003018",
+"end_ref_usfm": "REV 3:18"
+},
+{
+"start_ref": "19066010",
+"start_ref_usfm": "PSA 66:10",
+"end_ref": "19066012",
+"end_ref_usfm": "PSA 66:12"
+},
+{
+"start_ref": "23048009",
+"start_ref_usfm": "ISA 48:9",
+"end_ref": "23048011",
+"end_ref_usfm": "ISA 48:11"
+},
+{
+"start_ref": "24009007",
+"start_ref_usfm": "JER 9:7",
+"end_ref": "24009009",
+"end_ref_usfm": "JER 9:9"
+},
+{
+"start_ref": "38013008",
+"start_ref_usfm": "ZEC 13:8",
+"end_ref": "38013009",
+"end_ref_usfm": "ZEC 13:9"
+},
+{
+"start_ref": "24006027",
+"start_ref_usfm": "JER 6:27",
+"end_ref": "24006030",
+"end_ref_usfm": "JER 6:30"
+},
+{
+"start_ref": "27011035",
+"start_ref_usfm": "DAN 11:35",
+"end_ref": "27011035",
+"end_ref_usfm": "DAN 11:35"
+},
+{
+"start_ref": "27012010",
+"start_ref_usfm": "DAN 12:10",
+"end_ref": "27012010",
+"end_ref_usfm": "DAN 12:10"
+},
+{
+"start_ref": "39003002",
+"start_ref_usfm": "MAL 3:2",
+"end_ref": "39003004",
+"end_ref_usfm": "MAL 3:4"
+}
+],
+"resource": [
+{
+"reference_id": "4303",
+"content_id": "4303",
+"resource_code": "DictionaryBibleThemes",
+"label": "4303: metals",
+"language": "eng"
+},
+{
+"reference_id": "4324",
+"content_id": "4324",
+"resource_code": "DictionaryBibleThemes",
+"label": "4324: dross",
+"language": "eng"
+},
+{
+"reference_id": "4333",
+"content_id": "4333",
+"resource_code": "DictionaryBibleThemes",
+"label": "4333: gold",
+"language": "eng"
+},
+{
+"reference_id": "4345",
+"content_id": "4345",
+"resource_code": "DictionaryBibleThemes",
+"label": "4345: metalworkers",
+"language": "eng"
+},
+{
+"reference_id": "4348",
+"content_id": "4348",
+"resource_code": "DictionaryBibleThemes",
+"label": "4348: mining",
+"language": "eng"
+},
+{
+"reference_id": "4363",
+"content_id": "4363",
+"resource_code": "DictionaryBibleThemes",
+"label": "4363: silver",
+"language": "eng"
+},
+{
+"reference_id": "4826",
+"content_id": "4826",
+"resource_code": "DictionaryBibleThemes",
+"label": "4826: fire",
+"language": "eng"
+},
+{
+"reference_id": "7416",
+"content_id": "7416",
+"resource_code": "DictionaryBibleThemes",
+"label": "7416: purification",
+"language": "eng"
+},
+{
+"reference_id": "8325",
+"content_id": "8325",
+"resource_code": "DictionaryBibleThemes",
+"label": "8325: purity, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8832",
+"content_id": "8832",
+"resource_code": "DictionaryBibleThemes",
+"label": "8832: testing",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,231 @@
+[
+{
+"content_id": "5873",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5873: habits",
+"media_type": "Text",
+"index_reference": "5873: habits",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Set patterns of behaviour. These patterns can be helpful when they lead to spiritual discipline and a regular pattern of prayer and worship; others can be detrimental to faith.</p>\n<h2>Examples of good habits</h2>\n<h3>Reading and obeying God's word</h3>\n<p><strong><a href=\"https://ref.ly/Ps119:56\">PSA 119:56</a></strong>; <strong><a href=\"https://ref.ly/Heb5:14\">HEB 5:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps119:44\">PSA 119:44</a>, <a href=\"https://ref.ly/Ps119:97\">PSA 119:97</a></p>\n<h3>Private prayer</h3>\n<p><strong><a href=\"https://ref.ly/Luke5:16\">LUK 5:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps5:3\">PSA 5:3</a>; <a href=\"https://ref.ly/Matt6:5-Matt6:6\">MAT 6:5–6:6</a>, <a href=\"https://ref.ly/Matt14:23\">MAT 14:23</a> parallel <a href=\"https://ref.ly/Mark6:46\">MRK 6:46</a>; <a href=\"https://ref.ly/Mark1:35\">MRK 1:35</a> parallel <a href=\"https://ref.ly/Luke4:42\">LUK 4:42</a>; <a href=\"https://ref.ly/Luke6:12\">LUK 6:12</a>, <a href=\"https://ref.ly/Luke9:18\">LUK 9:18</a>, <a href=\"https://ref.ly/Luke11:1\">LUK 11:1</a></p>\n<h3>Attendance at public worship</h3>\n<p><a href=\"https://ref.ly/Luke4:16\">LUK 4:16</a>; ; <a href=\"https://ref.ly/Acts2:46\">ACT 2:46</a>, <a href=\"https://ref.ly/Acts14:1\">ACT 14:1</a>, <a href=\"https://ref.ly/Acts17:2\">ACT 17:2</a></p>\n<h2>Examples of bad habits</h2>\n<p><strong><a href=\"https://ref.ly/Jer22:21\">JER 22:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod21:29\">EXO 21:29</a>, <a href=\"https://ref.ly/Exod21:36\">EXO 21:36</a>; <a href=\"https://ref.ly/Judg2:19\">JDG 2:19</a>; <a href=\"https://ref.ly/Ezek33:31\">EZK 33:31</a></p>\n<h2>Warnings to avoid certain habits</h2>\n<p><strong><a href=\"https://ref.ly/Heb10:25\">HEB 10:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim5:13\">1TI 5:13</a></p>\n<h2>The difficulty of breaking bad habits</h2>\n<p><strong><a href=\"https://ref.ly/Jer13:23\">JER 13:23</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19119056",
+"start_ref_usfm": "PSA 119:56",
+"end_ref": "19119056",
+"end_ref_usfm": "PSA 119:56"
+},
+{
+"start_ref": "58005014",
+"start_ref_usfm": "HEB 5:14",
+"end_ref": "58005014",
+"end_ref_usfm": "HEB 5:14"
+},
+{
+"start_ref": "19119044",
+"start_ref_usfm": "PSA 119:44",
+"end_ref": "19119044",
+"end_ref_usfm": "PSA 119:44"
+},
+{
+"start_ref": "19119097",
+"start_ref_usfm": "PSA 119:97",
+"end_ref": "19119097",
+"end_ref_usfm": "PSA 119:97"
+},
+{
+"start_ref": "42005016",
+"start_ref_usfm": "LUK 5:16",
+"end_ref": "42005016",
+"end_ref_usfm": "LUK 5:16"
+},
+{
+"start_ref": "19005003",
+"start_ref_usfm": "PSA 5:3",
+"end_ref": "19005003",
+"end_ref_usfm": "PSA 5:3"
+},
+{
+"start_ref": "40006005",
+"start_ref_usfm": "MAT 6:5",
+"end_ref": "40006006",
+"end_ref_usfm": "MAT 6:6"
+},
+{
+"start_ref": "40014023",
+"start_ref_usfm": "MAT 14:23",
+"end_ref": "40014023",
+"end_ref_usfm": "MAT 14:23"
+},
+{
+"start_ref": "41006046",
+"start_ref_usfm": "MRK 6:46",
+"end_ref": "41006046",
+"end_ref_usfm": "MRK 6:46"
+},
+{
+"start_ref": "41001035",
+"start_ref_usfm": "MRK 1:35",
+"end_ref": "41001035",
+"end_ref_usfm": "MRK 1:35"
+},
+{
+"start_ref": "42004042",
+"start_ref_usfm": "LUK 4:42",
+"end_ref": "42004042",
+"end_ref_usfm": "LUK 4:42"
+},
+{
+"start_ref": "42006012",
+"start_ref_usfm": "LUK 6:12",
+"end_ref": "42006012",
+"end_ref_usfm": "LUK 6:12"
+},
+{
+"start_ref": "42009018",
+"start_ref_usfm": "LUK 9:18",
+"end_ref": "42009018",
+"end_ref_usfm": "LUK 9:18"
+},
+{
+"start_ref": "42011001",
+"start_ref_usfm": "LUK 11:1",
+"end_ref": "42011001",
+"end_ref_usfm": "LUK 11:1"
+},
+{
+"start_ref": "42004016",
+"start_ref_usfm": "LUK 4:16",
+"end_ref": "42004016",
+"end_ref_usfm": "LUK 4:16"
+},
+{
+"start_ref": "44002046",
+"start_ref_usfm": "ACT 2:46",
+"end_ref": "44002046",
+"end_ref_usfm": "ACT 2:46"
+},
+{
+"start_ref": "44014001",
+"start_ref_usfm": "ACT 14:1",
+"end_ref": "44014001",
+"end_ref_usfm": "ACT 14:1"
+},
+{
+"start_ref": "44017002",
+"start_ref_usfm": "ACT 17:2",
+"end_ref": "44017002",
+"end_ref_usfm": "ACT 17:2"
+},
+{
+"start_ref": "24022021",
+"start_ref_usfm": "JER 22:21",
+"end_ref": "24022021",
+"end_ref_usfm": "JER 22:21"
+},
+{
+"start_ref": "02021029",
+"start_ref_usfm": "EXO 21:29",
+"end_ref": "02021029",
+"end_ref_usfm": "EXO 21:29"
+},
+{
+"start_ref": "02021036",
+"start_ref_usfm": "EXO 21:36",
+"end_ref": "02021036",
+"end_ref_usfm": "EXO 21:36"
+},
+{
+"start_ref": "07002019",
+"start_ref_usfm": "JDG 2:19",
+"end_ref": "07002019",
+"end_ref_usfm": "JDG 2:19"
+},
+{
+"start_ref": "26033031",
+"start_ref_usfm": "EZK 33:31",
+"end_ref": "26033031",
+"end_ref_usfm": "EZK 33:31"
+},
+{
+"start_ref": "58010025",
+"start_ref_usfm": "HEB 10:25",
+"end_ref": "58010025",
+"end_ref_usfm": "HEB 10:25"
+},
+{
+"start_ref": "54005013",
+"start_ref_usfm": "1TI 5:13",
+"end_ref": "54005013",
+"end_ref_usfm": "1TI 5:13"
+},
+{
+"start_ref": "24013023",
+"start_ref_usfm": "JER 13:23",
+"end_ref": "24013023",
+"end_ref_usfm": "JER 13:23"
+}
+],
+"resource": [
+{
+"reference_id": "5286",
+"content_id": "5286",
+"resource_code": "DictionaryBibleThemes",
+"label": "5286: custom",
+"language": "eng"
+},
+{
+"reference_id": "5588",
+"content_id": "5588",
+"resource_code": "DictionaryBibleThemes",
+"label": "5588: traditions",
+"language": "eng"
+},
+{
+"reference_id": "5761",
+"content_id": "5761",
+"resource_code": "DictionaryBibleThemes",
+"label": "5761: attitudes",
+"language": "eng"
+},
+{
+"reference_id": "5769",
+"content_id": "5769",
+"resource_code": "DictionaryBibleThemes",
+"label": "5769: behaviour",
+"language": "eng"
+},
+{
+"reference_id": "6106",
+"content_id": "6106",
+"resource_code": "DictionaryBibleThemes",
+"label": "6106: addiction",
+"language": "eng"
+},
+{
+"reference_id": "8217",
+"content_id": "8217",
+"resource_code": "DictionaryBibleThemes",
+"label": "8217: conformity",
+"language": "eng"
+},
+{
+"reference_id": "8428",
+"content_id": "8428",
+"resource_code": "DictionaryBibleThemes",
+"label": "8428: example",
+"language": "eng"
+},
+{
+"reference_id": "8476",
+"content_id": "8476",
+"resource_code": "DictionaryBibleThemes",
+"label": "8476: self-discipline",
+"language": "eng"
+}
+]
+}
+}
+]

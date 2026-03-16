@@ -1,0 +1,240 @@
+[
+{
+"content_id": "4345",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4345: metalworkers",
+"media_type": "Text",
+"index_reference": "4345: metalworkers",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The work of goldsmiths</h2>\n<h3>Making idols</h3>\n<p><strong><a href=\"https://ref.ly/Isa40:19\">ISA 40:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa41:6-Isa41:7\">ISA 41:6–41:7</a>, <a href=\"https://ref.ly/Isa46:6\">ISA 46:6</a>; <a href=\"https://ref.ly/Jer10:8-Jer10:10\">JER 10:8–10:10</a>, <a href=\"https://ref.ly/Jer10:14-Jer10:15\">JER 10:14–10:15</a>, <a href=\"https://ref.ly/Jer51:17-Jer51:18\">JER 51:17–51:18</a></p>\n<h3>Rebuilding the wall of Jerusalem</h3>\n<p><strong><a href=\"https://ref.ly/Neh3:31-Neh3:32\">NEH 3:31–3:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh3:8\">NEH 3:8</a></p>\n<h2>The work of silversmiths</h2>\n<h3>Making idols</h3>\n<p><strong><a href=\"https://ref.ly/Judg17:4\">JDG 17:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts19:23-Acts19:41\">ACT 19:23–19:41</a></p>\n<h3>Working with refined silver</h3>\n<p><strong><a href=\"https://ref.ly/Prov25:4\">PRO 25:4</a></strong></p>\n<h2>The work of blacksmiths</h2>\n<h3>Making idols</h3>\n<p><strong><a href=\"https://ref.ly/Isa44:9-Isa44:12\">ISA 44:9–44:12</a></strong></p>\n<h3>Manufacturing weapons</h3>\n<p><strong><a href=\"https://ref.ly/Isa54:16-Isa54:17\">ISA 54:16–54:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam13:19\">1SA 13:19</a></p>\n<h2>The work of other metalworkers and craftsmen</h2>\n<h3>Making idols</h3>\n<p><strong><a href=\"https://ref.ly/Deut27:15\">DEU 27:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos8:4-Hos8:6\">HOS 8:4–8:6</a>; <a href=\"https://ref.ly/2Tim4:14-2Tim4:15\">2TI 4:14–4:15</a></p>\n<h3>The construction of the tabernacle</h3>\n<p><a href=\"https://ref.ly/Exod31:1-Exod31:6\">EXO 31:1–31:6</a>, <a href=\"https://ref.ly/Exod35:30-Exod36:2\">EXO 35:30–36:2</a>, <a href=\"https://ref.ly/Exod39:2-Exod39:3\">EXO 39:2–39:3</a></p>\n<h3>The construction of the temple</h3>\n<p><a href=\"https://ref.ly/1Chr22:14-1Chr22:16\">1CH 22:14–22:16</a>, <a href=\"https://ref.ly/1Chr29:1-1Chr29:5\">1CH 29:1–29:5</a>; ; <a href=\"https://ref.ly/2Chr2:7\">2CH 2:7</a>, <a href=\"https://ref.ly/2Chr2:13-2Chr2:14\">2CH 2:13–2:14</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23040019",
+"start_ref_usfm": "ISA 40:19",
+"end_ref": "23040019",
+"end_ref_usfm": "ISA 40:19"
+},
+{
+"start_ref": "23041006",
+"start_ref_usfm": "ISA 41:6",
+"end_ref": "23041007",
+"end_ref_usfm": "ISA 41:7"
+},
+{
+"start_ref": "23046006",
+"start_ref_usfm": "ISA 46:6",
+"end_ref": "23046006",
+"end_ref_usfm": "ISA 46:6"
+},
+{
+"start_ref": "24010008",
+"start_ref_usfm": "JER 10:8",
+"end_ref": "24010010",
+"end_ref_usfm": "JER 10:10"
+},
+{
+"start_ref": "24010014",
+"start_ref_usfm": "JER 10:14",
+"end_ref": "24010015",
+"end_ref_usfm": "JER 10:15"
+},
+{
+"start_ref": "24051017",
+"start_ref_usfm": "JER 51:17",
+"end_ref": "24051018",
+"end_ref_usfm": "JER 51:18"
+},
+{
+"start_ref": "16003031",
+"start_ref_usfm": "NEH 3:31",
+"end_ref": "16003032",
+"end_ref_usfm": "NEH 3:32"
+},
+{
+"start_ref": "16003008",
+"start_ref_usfm": "NEH 3:8",
+"end_ref": "16003008",
+"end_ref_usfm": "NEH 3:8"
+},
+{
+"start_ref": "07017004",
+"start_ref_usfm": "JDG 17:4",
+"end_ref": "07017004",
+"end_ref_usfm": "JDG 17:4"
+},
+{
+"start_ref": "44019023",
+"start_ref_usfm": "ACT 19:23",
+"end_ref": "44019041",
+"end_ref_usfm": "ACT 19:41"
+},
+{
+"start_ref": "20025004",
+"start_ref_usfm": "PRO 25:4",
+"end_ref": "20025004",
+"end_ref_usfm": "PRO 25:4"
+},
+{
+"start_ref": "23044009",
+"start_ref_usfm": "ISA 44:9",
+"end_ref": "23044012",
+"end_ref_usfm": "ISA 44:12"
+},
+{
+"start_ref": "23054016",
+"start_ref_usfm": "ISA 54:16",
+"end_ref": "23054017",
+"end_ref_usfm": "ISA 54:17"
+},
+{
+"start_ref": "09013019",
+"start_ref_usfm": "1SA 13:19",
+"end_ref": "09013019",
+"end_ref_usfm": "1SA 13:19"
+},
+{
+"start_ref": "05027015",
+"start_ref_usfm": "DEU 27:15",
+"end_ref": "05027015",
+"end_ref_usfm": "DEU 27:15"
+},
+{
+"start_ref": "28008004",
+"start_ref_usfm": "HOS 8:4",
+"end_ref": "28008006",
+"end_ref_usfm": "HOS 8:6"
+},
+{
+"start_ref": "55004014",
+"start_ref_usfm": "2TI 4:14",
+"end_ref": "55004015",
+"end_ref_usfm": "2TI 4:15"
+},
+{
+"start_ref": "02031001",
+"start_ref_usfm": "EXO 31:1",
+"end_ref": "02031006",
+"end_ref_usfm": "EXO 31:6"
+},
+{
+"start_ref": "02035030",
+"start_ref_usfm": "EXO 35:30",
+"end_ref": "02036002",
+"end_ref_usfm": "EXO 36:2"
+},
+{
+"start_ref": "02039002",
+"start_ref_usfm": "EXO 39:2",
+"end_ref": "02039003",
+"end_ref_usfm": "EXO 39:3"
+},
+{
+"start_ref": "13022014",
+"start_ref_usfm": "1CH 22:14",
+"end_ref": "13022016",
+"end_ref_usfm": "1CH 22:16"
+},
+{
+"start_ref": "13029001",
+"start_ref_usfm": "1CH 29:1",
+"end_ref": "13029005",
+"end_ref_usfm": "1CH 29:5"
+},
+{
+"start_ref": "14002007",
+"start_ref_usfm": "2CH 2:7",
+"end_ref": "14002007",
+"end_ref_usfm": "2CH 2:7"
+},
+{
+"start_ref": "14002013",
+"start_ref_usfm": "2CH 2:13",
+"end_ref": "14002014",
+"end_ref_usfm": "2CH 2:14"
+}
+],
+"resource": [
+{
+"reference_id": "4303",
+"content_id": "4303",
+"resource_code": "DictionaryBibleThemes",
+"label": "4303: metals",
+"language": "eng"
+},
+{
+"reference_id": "4312",
+"content_id": "4312",
+"resource_code": "DictionaryBibleThemes",
+"label": "4312: bronze",
+"language": "eng"
+},
+{
+"reference_id": "4321",
+"content_id": "4321",
+"resource_code": "DictionaryBibleThemes",
+"label": "4321: copper",
+"language": "eng"
+},
+{
+"reference_id": "4333",
+"content_id": "4333",
+"resource_code": "DictionaryBibleThemes",
+"label": "4333: gold",
+"language": "eng"
+},
+{
+"reference_id": "4336",
+"content_id": "4336",
+"resource_code": "DictionaryBibleThemes",
+"label": "4336: iron",
+"language": "eng"
+},
+{
+"reference_id": "4351",
+"content_id": "4351",
+"resource_code": "DictionaryBibleThemes",
+"label": "4351: refining",
+"language": "eng"
+},
+{
+"reference_id": "4363",
+"content_id": "4363",
+"resource_code": "DictionaryBibleThemes",
+"label": "4363: silver",
+"language": "eng"
+},
+{
+"reference_id": "4372",
+"content_id": "4372",
+"resource_code": "DictionaryBibleThemes",
+"label": "4372: tin",
+"language": "eng"
+},
+{
+"reference_id": "5212",
+"content_id": "5212",
+"resource_code": "DictionaryBibleThemes",
+"label": "5212: arts and crafts",
+"language": "eng"
+},
+{
+"reference_id": "5272",
+"content_id": "5272",
+"resource_code": "DictionaryBibleThemes",
+"label": "5272: craftsmen",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,289 @@
+[
+{
+"content_id": "2227",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "2227: Immanuel",
+"media_type": "Text",
+"index_reference": "2227: immanuel",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An OT name given to Jesus Christ, meaning “God with us”.</p>\n<h2>Actual uses of the name Immanuel</h2>\n<p><strong><a href=\"https://ref.ly/Isa7:14\">ISA 7:14</a></strong> <em>The name was given originally to a child of Isaiah's day who would signify God's salvation and judgment for Judah</em>; <strong><a href=\"https://ref.ly/Isa8:7-Isa8:10\">ISA 8:7–8:10</a></strong> <em>The original fulfilment of the Immanuel prophecy would bring judgment on Judah</em>; <strong><a href=\"https://ref.ly/Matt1:22-Matt1:23\">MAT 1:22–1:23</a></strong> <em>Isaiah's prophecy is fulfilled through the virginal conception of Jesus Christ.</em></p>\n<h2>The significance of Immanuel</h2>\n<h3>God is with his people</h3>\n<p><strong><a href=\"https://ref.ly/Gen28:15\">GEN 28:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod33:14\">EXO 33:14</a>; <a href=\"https://ref.ly/Num14:9\">NUM 14:9</a>; <a href=\"https://ref.ly/Deut4:7\">DEU 4:7</a>; <a href=\"https://ref.ly/2Chr13:12\">2CH 13:12</a>; <a href=\"https://ref.ly/Ps46:7\">PSA 46:7</a>, <a href=\"https://ref.ly/Ps46:11\">PSA 46:11</a>; <a href=\"https://ref.ly/Hag2:4\">HAG 2:4</a>; <a href=\"https://ref.ly/Rom8:31\">ROM 8:31</a>; <a href=\"https://ref.ly/Heb13:5\">HEB 13:5</a></p>\n<h3>God dwells with his people</h3>\n<p><strong><a href=\"https://ref.ly/Rev21:3\">REV 21:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev26:11-Lev26:12\">LEV 26:11–26:12</a>; <a href=\"https://ref.ly/Ezek37:27\">EZK 37:27</a>; <a href=\"https://ref.ly/2Cor6:16\">2CO 6:16</a></p>\n<h3>Jesus Christ is always with believers</h3>\n<p><strong><a href=\"https://ref.ly/Matt28:20\">MAT 28:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/John14:18\">JHN 14:18</a>, <a href=\"https://ref.ly/John14:23\">JHN 14:23</a>, <a href=\"https://ref.ly/John15:4-John15:5\">JHN 15:4–15:5</a>, <a href=\"https://ref.ly/John15:7\">JHN 15:7</a>; <a href=\"https://ref.ly/Acts18:10\">ACT 18:10</a>; <a href=\"https://ref.ly/Gal2:20\">GAL 2:20</a></p>\n<h3>The Holy Spirit is always with believers</h3>\n<p><strong><a href=\"https://ref.ly/John14:17\">JHN 14:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:9-Rom8:11\">ROM 8:9–8:11</a>; <a href=\"https://ref.ly/1Cor3:16\">1CO 3:16</a>; <a href=\"https://ref.ly/2Cor1:22\">2CO 1:22</a>; <a href=\"https://ref.ly/Eph2:22\">EPH 2:22</a>; <a href=\"https://ref.ly/2Tim1:14\">2TI 1:14</a>; <a href=\"https://ref.ly/1John4:13\">1JN 4:13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23007014",
+"start_ref_usfm": "ISA 7:14",
+"end_ref": "23007014",
+"end_ref_usfm": "ISA 7:14"
+},
+{
+"start_ref": "23008007",
+"start_ref_usfm": "ISA 8:7",
+"end_ref": "23008010",
+"end_ref_usfm": "ISA 8:10"
+},
+{
+"start_ref": "40001022",
+"start_ref_usfm": "MAT 1:22",
+"end_ref": "40001023",
+"end_ref_usfm": "MAT 1:23"
+},
+{
+"start_ref": "01028015",
+"start_ref_usfm": "GEN 28:15",
+"end_ref": "01028015",
+"end_ref_usfm": "GEN 28:15"
+},
+{
+"start_ref": "02033014",
+"start_ref_usfm": "EXO 33:14",
+"end_ref": "02033014",
+"end_ref_usfm": "EXO 33:14"
+},
+{
+"start_ref": "04014009",
+"start_ref_usfm": "NUM 14:9",
+"end_ref": "04014009",
+"end_ref_usfm": "NUM 14:9"
+},
+{
+"start_ref": "05004007",
+"start_ref_usfm": "DEU 4:7",
+"end_ref": "05004007",
+"end_ref_usfm": "DEU 4:7"
+},
+{
+"start_ref": "14013012",
+"start_ref_usfm": "2CH 13:12",
+"end_ref": "14013012",
+"end_ref_usfm": "2CH 13:12"
+},
+{
+"start_ref": "19046007",
+"start_ref_usfm": "PSA 46:7",
+"end_ref": "19046007",
+"end_ref_usfm": "PSA 46:7"
+},
+{
+"start_ref": "19046011",
+"start_ref_usfm": "PSA 46:11",
+"end_ref": "19046011",
+"end_ref_usfm": "PSA 46:11"
+},
+{
+"start_ref": "37002004",
+"start_ref_usfm": "HAG 2:4",
+"end_ref": "37002004",
+"end_ref_usfm": "HAG 2:4"
+},
+{
+"start_ref": "45008031",
+"start_ref_usfm": "ROM 8:31",
+"end_ref": "45008031",
+"end_ref_usfm": "ROM 8:31"
+},
+{
+"start_ref": "58013005",
+"start_ref_usfm": "HEB 13:5",
+"end_ref": "58013005",
+"end_ref_usfm": "HEB 13:5"
+},
+{
+"start_ref": "66021003",
+"start_ref_usfm": "REV 21:3",
+"end_ref": "66021003",
+"end_ref_usfm": "REV 21:3"
+},
+{
+"start_ref": "03026011",
+"start_ref_usfm": "LEV 26:11",
+"end_ref": "03026012",
+"end_ref_usfm": "LEV 26:12"
+},
+{
+"start_ref": "26037027",
+"start_ref_usfm": "EZK 37:27",
+"end_ref": "26037027",
+"end_ref_usfm": "EZK 37:27"
+},
+{
+"start_ref": "47006016",
+"start_ref_usfm": "2CO 6:16",
+"end_ref": "47006016",
+"end_ref_usfm": "2CO 6:16"
+},
+{
+"start_ref": "40028020",
+"start_ref_usfm": "MAT 28:20",
+"end_ref": "40028020",
+"end_ref_usfm": "MAT 28:20"
+},
+{
+"start_ref": "43014018",
+"start_ref_usfm": "JHN 14:18",
+"end_ref": "43014018",
+"end_ref_usfm": "JHN 14:18"
+},
+{
+"start_ref": "43014023",
+"start_ref_usfm": "JHN 14:23",
+"end_ref": "43014023",
+"end_ref_usfm": "JHN 14:23"
+},
+{
+"start_ref": "43015004",
+"start_ref_usfm": "JHN 15:4",
+"end_ref": "43015005",
+"end_ref_usfm": "JHN 15:5"
+},
+{
+"start_ref": "43015007",
+"start_ref_usfm": "JHN 15:7",
+"end_ref": "43015007",
+"end_ref_usfm": "JHN 15:7"
+},
+{
+"start_ref": "44018010",
+"start_ref_usfm": "ACT 18:10",
+"end_ref": "44018010",
+"end_ref_usfm": "ACT 18:10"
+},
+{
+"start_ref": "48002020",
+"start_ref_usfm": "GAL 2:20",
+"end_ref": "48002020",
+"end_ref_usfm": "GAL 2:20"
+},
+{
+"start_ref": "43014017",
+"start_ref_usfm": "JHN 14:17",
+"end_ref": "43014017",
+"end_ref_usfm": "JHN 14:17"
+},
+{
+"start_ref": "45008009",
+"start_ref_usfm": "ROM 8:9",
+"end_ref": "45008011",
+"end_ref_usfm": "ROM 8:11"
+},
+{
+"start_ref": "46003016",
+"start_ref_usfm": "1CO 3:16",
+"end_ref": "46003016",
+"end_ref_usfm": "1CO 3:16"
+},
+{
+"start_ref": "47001022",
+"start_ref_usfm": "2CO 1:22",
+"end_ref": "47001022",
+"end_ref_usfm": "2CO 1:22"
+},
+{
+"start_ref": "49002022",
+"start_ref_usfm": "EPH 2:22",
+"end_ref": "49002022",
+"end_ref_usfm": "EPH 2:22"
+},
+{
+"start_ref": "55001014",
+"start_ref_usfm": "2TI 1:14",
+"end_ref": "55001014",
+"end_ref_usfm": "2TI 1:14"
+},
+{
+"start_ref": "62004013",
+"start_ref_usfm": "1JN 4:13",
+"end_ref": "62004013",
+"end_ref_usfm": "1JN 4:13"
+}
+],
+"resource": [
+{
+"reference_id": "1035",
+"content_id": "1035",
+"resource_code": "DictionaryBibleThemes",
+"label": "1035: God, faithfulness of",
+"language": "eng"
+},
+{
+"reference_id": "1429",
+"content_id": "1429",
+"resource_code": "DictionaryBibleThemes",
+"label": "1429: prophecy, fulfilment of OT",
+"language": "eng"
+},
+{
+"reference_id": "2018",
+"content_id": "2018",
+"resource_code": "DictionaryBibleThemes",
+"label": "2018: Jesus Christ, divinity of",
+"language": "eng"
+},
+{
+"reference_id": "2021",
+"content_id": "2021",
+"resource_code": "DictionaryBibleThemes",
+"label": "2021: Jesus Christ, faithfulness of",
+"language": "eng"
+},
+{
+"reference_id": "2033",
+"content_id": "2033",
+"resource_code": "DictionaryBibleThemes",
+"label": "2033: Jesus Christ, humanity of",
+"language": "eng"
+},
+{
+"reference_id": "2203",
+"content_id": "2203",
+"resource_code": "DictionaryBibleThemes",
+"label": "2203: Jesus Christ, titles and names of",
+"language": "eng"
+},
+{
+"reference_id": "2206",
+"content_id": "2206",
+"resource_code": "DictionaryBibleThemes",
+"label": "2206: Jesus, the Christ",
+"language": "eng"
+},
+{
+"reference_id": "2218",
+"content_id": "2218",
+"resource_code": "DictionaryBibleThemes",
+"label": "2218: Jesus Christ, Son of God",
+"language": "eng"
+},
+{
+"reference_id": "2515",
+"content_id": "2515",
+"resource_code": "DictionaryBibleThemes",
+"label": "2515: Jesus Christ, birth of",
+"language": "eng"
+},
+{
+"reference_id": "2550",
+"content_id": "2550",
+"resource_code": "DictionaryBibleThemes",
+"label": "2550: Jesus Christ, pre-existence of",
+"language": "eng"
+},
+{
+"reference_id": "2595",
+"content_id": "2595",
+"resource_code": "DictionaryBibleThemes",
+"label": "2595: incarnation",
+"language": "eng"
+},
+{
+"reference_id": "7135",
+"content_id": "7135",
+"resource_code": "DictionaryBibleThemes",
+"label": "7135: Israel, as the people of God",
+"language": "eng"
+}
+]
+}
+}
+]

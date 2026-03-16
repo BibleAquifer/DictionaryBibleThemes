@@ -1,0 +1,222 @@
+[
+{
+"content_id": "4912",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4912: chance",
+"media_type": "Text",
+"index_reference": "4912: chance",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The occurrence of events at random, as undesigned happenings. While people may perceive events as random, in Scripture all events are subject to God's sovereignty.</p>\n<h2>Chance in human life</h2>\n<h3>Chance events</h3>\n<p><strong><a href=\"https://ref.ly/2Chr18:33-2Chr18:34\">2CH 18:33–18:34</a></strong> parallel <a href=\"https://ref.ly/1Kgs22:34-1Kgs22:38\">1KI 22:34–22:38</a> <em>See also</em> <a href=\"https://ref.ly/1Sam6:7-1Sam6:9\">1SA 6:7–6:9</a>; <a href=\"https://ref.ly/Prov26:10\">PRO 26:10</a></p>\n<h3>Human life seems to be governed by chance, not merit</h3>\n<p><strong><a href=\"https://ref.ly/Eccl9:11\">ECC 9:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl2:17-Eccl2:19\">ECC 2:17–2:19</a></p>\n<h3>Providence at work through apparent chance</h3>\n<p><strong><a href=\"https://ref.ly/Jonah1:17\">JON 1:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ruth2:3\">RUT 2:3</a>; <a href=\"https://ref.ly/Luke23:44-Luke23:45\">LUK 23:44–23:45</a> parallels <a href=\"https://ref.ly/Matt27:45\">MAT 27:45</a>, <a href=\"https://ref.ly/Matt27:51\">MAT 27:51</a>, <a href=\"https://ref.ly/Mark15:33\">MRK 15:33</a>, <a href=\"https://ref.ly/Mark15:38\">MRK 15:38</a>; <a href=\"https://ref.ly/Acts16:26\">ACT 16:26</a></p>\n<h2>Chance events overruled by God's sovereignty</h2>\n<h3>The casting of lots and the element of chance</h3>\n<p><strong><a href=\"https://ref.ly/Prov16:33\">PRO 16:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num33:53-Num33:54\">NUM 33:53–33:54</a>; <a href=\"https://ref.ly/Judg20:8-Judg20:10\">JDG 20:8–20:10</a>; <a href=\"https://ref.ly/Neh10:34\">NEH 10:34</a>, <a href=\"https://ref.ly/Neh11:1\">NEH 11:1</a>; <a href=\"https://ref.ly/Luke23:34\">LUK 23:34</a> parallels <a href=\"https://ref.ly/Matt27:35\">MAT 27:35</a>, <a href=\"https://ref.ly/Mark15:24\">MRK 15:24</a>; <a href=\"https://ref.ly/Acts1:23-Acts1:26\">ACT 1:23–1:26</a></p>\n<h3>Urim and Thummim, seeming to be dependent on chance</h3>\n<p><strong><a href=\"https://ref.ly/Exod28:29-Exod28:30\">EXO 28:29–28:30</a></strong> <em>The Urim and Thummim were used by the high priest to declare God's will. It was a form of casting lots showing either an affirmative or negative response to an enquiry.</em> <em>See also</em> <a href=\"https://ref.ly/Num27:21\">NUM 27:21</a>; <a href=\"https://ref.ly/1Sam28:4-1Sam28:6\">1SA 28:4–28:6</a>; <a href=\"https://ref.ly/Ezra2:62-Ezra2:63\">EZR 2:62–2:63</a> parallel <a href=\"https://ref.ly/Neh7:64-Neh7:65\">NEH 7:64–7:65</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "14018033",
+"start_ref_usfm": "2CH 18:33",
+"end_ref": "14018034",
+"end_ref_usfm": "2CH 18:34"
+},
+{
+"start_ref": "11022034",
+"start_ref_usfm": "1KI 22:34",
+"end_ref": "11022038",
+"end_ref_usfm": "1KI 22:38"
+},
+{
+"start_ref": "09006007",
+"start_ref_usfm": "1SA 6:7",
+"end_ref": "09006009",
+"end_ref_usfm": "1SA 6:9"
+},
+{
+"start_ref": "20026010",
+"start_ref_usfm": "PRO 26:10",
+"end_ref": "20026010",
+"end_ref_usfm": "PRO 26:10"
+},
+{
+"start_ref": "21009011",
+"start_ref_usfm": "ECC 9:11",
+"end_ref": "21009011",
+"end_ref_usfm": "ECC 9:11"
+},
+{
+"start_ref": "21002017",
+"start_ref_usfm": "ECC 2:17",
+"end_ref": "21002019",
+"end_ref_usfm": "ECC 2:19"
+},
+{
+"start_ref": "32001017",
+"start_ref_usfm": "JON 1:17",
+"end_ref": "32001017",
+"end_ref_usfm": "JON 1:17"
+},
+{
+"start_ref": "08002003",
+"start_ref_usfm": "RUT 2:3",
+"end_ref": "08002003",
+"end_ref_usfm": "RUT 2:3"
+},
+{
+"start_ref": "42023044",
+"start_ref_usfm": "LUK 23:44",
+"end_ref": "42023045",
+"end_ref_usfm": "LUK 23:45"
+},
+{
+"start_ref": "40027045",
+"start_ref_usfm": "MAT 27:45",
+"end_ref": "40027045",
+"end_ref_usfm": "MAT 27:45"
+},
+{
+"start_ref": "40027051",
+"start_ref_usfm": "MAT 27:51",
+"end_ref": "40027051",
+"end_ref_usfm": "MAT 27:51"
+},
+{
+"start_ref": "41015033",
+"start_ref_usfm": "MRK 15:33",
+"end_ref": "41015033",
+"end_ref_usfm": "MRK 15:33"
+},
+{
+"start_ref": "41015038",
+"start_ref_usfm": "MRK 15:38",
+"end_ref": "41015038",
+"end_ref_usfm": "MRK 15:38"
+},
+{
+"start_ref": "44016026",
+"start_ref_usfm": "ACT 16:26",
+"end_ref": "44016026",
+"end_ref_usfm": "ACT 16:26"
+},
+{
+"start_ref": "20016033",
+"start_ref_usfm": "PRO 16:33",
+"end_ref": "20016033",
+"end_ref_usfm": "PRO 16:33"
+},
+{
+"start_ref": "04033053",
+"start_ref_usfm": "NUM 33:53",
+"end_ref": "04033054",
+"end_ref_usfm": "NUM 33:54"
+},
+{
+"start_ref": "07020008",
+"start_ref_usfm": "JDG 20:8",
+"end_ref": "07020010",
+"end_ref_usfm": "JDG 20:10"
+},
+{
+"start_ref": "16010034",
+"start_ref_usfm": "NEH 10:34",
+"end_ref": "16010034",
+"end_ref_usfm": "NEH 10:34"
+},
+{
+"start_ref": "16011001",
+"start_ref_usfm": "NEH 11:1",
+"end_ref": "16011001",
+"end_ref_usfm": "NEH 11:1"
+},
+{
+"start_ref": "42023034",
+"start_ref_usfm": "LUK 23:34",
+"end_ref": "42023034",
+"end_ref_usfm": "LUK 23:34"
+},
+{
+"start_ref": "40027035",
+"start_ref_usfm": "MAT 27:35",
+"end_ref": "40027035",
+"end_ref_usfm": "MAT 27:35"
+},
+{
+"start_ref": "41015024",
+"start_ref_usfm": "MRK 15:24",
+"end_ref": "41015024",
+"end_ref_usfm": "MRK 15:24"
+},
+{
+"start_ref": "44001023",
+"start_ref_usfm": "ACT 1:23",
+"end_ref": "44001026",
+"end_ref_usfm": "ACT 1:26"
+},
+{
+"start_ref": "02028029",
+"start_ref_usfm": "EXO 28:29",
+"end_ref": "02028030",
+"end_ref_usfm": "EXO 28:30"
+},
+{
+"start_ref": "04027021",
+"start_ref_usfm": "NUM 27:21",
+"end_ref": "04027021",
+"end_ref_usfm": "NUM 27:21"
+},
+{
+"start_ref": "09028004",
+"start_ref_usfm": "1SA 28:4",
+"end_ref": "09028006",
+"end_ref_usfm": "1SA 28:6"
+},
+{
+"start_ref": "15002062",
+"start_ref_usfm": "EZR 2:62",
+"end_ref": "15002063",
+"end_ref_usfm": "EZR 2:63"
+},
+{
+"start_ref": "16007064",
+"start_ref_usfm": "NEH 7:64",
+"end_ref": "16007065",
+"end_ref_usfm": "NEH 7:65"
+}
+],
+"resource": [
+{
+"reference_id": "1130",
+"content_id": "1130",
+"resource_code": "DictionaryBibleThemes",
+"label": "1130: God, sovereignty of",
+"language": "eng"
+},
+{
+"reference_id": "1355",
+"content_id": "1355",
+"resource_code": "DictionaryBibleThemes",
+"label": "1355: providence",
+"language": "eng"
+},
+{
+"reference_id": "4937",
+"content_id": "4937",
+"resource_code": "DictionaryBibleThemes",
+"label": "4937: fate, and fatalism",
+"language": "eng"
+},
+{
+"reference_id": "7392",
+"content_id": "7392",
+"resource_code": "DictionaryBibleThemes",
+"label": "7392: lots, casting of",
+"language": "eng"
+},
+{
+"reference_id": "8124",
+"content_id": "8124",
+"resource_code": "DictionaryBibleThemes",
+"label": "8124: guidance",
+"language": "eng"
+}
+]
+}
+}
+]

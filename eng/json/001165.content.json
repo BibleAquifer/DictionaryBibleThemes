@@ -1,0 +1,167 @@
+[
+{
+"content_id": "5601",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5601: village",
+"media_type": "Text",
+"index_reference": "5601: village",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Villages were small rural settlements without walls</h2>\n<p><strong><a href=\"https://ref.ly/Lev25:31\">LEV 25:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut3:5\">DEU 3:5</a>; <a href=\"https://ref.ly/1Chr5:16\">1CH 5:16</a>; <a href=\"https://ref.ly/2Chr32:27-2Chr32:29\">2CH 32:27–32:29</a>; <a href=\"https://ref.ly/Esth9:19\">EST 9:19</a>; <a href=\"https://ref.ly/Song7:11\">SNG 7:11</a>; <a href=\"https://ref.ly/Matt14:15\">MAT 14:15</a></p>\n<h2>Villages associated with neighbouring towns and cities</h2>\n<p><strong><a href=\"https://ref.ly/Jer19:15\">JER 19:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh10:37\">JOS 10:37</a>, <a href=\"https://ref.ly/Josh13:23\">JOS 13:23</a>; <a href=\"https://ref.ly/1Sam6:18\">1SA 6:18</a>; <a href=\"https://ref.ly/Neh12:28\">NEH 12:28</a></p>\n<h2>Villages were particularly vulnerable to invasion</h2>\n<p><strong><a href=\"https://ref.ly/Ezek38:11\">EZK 38:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg5:7\">JDG 5:7</a>; <a href=\"https://ref.ly/2Chr14:14\">2CH 14:14</a></p>\n<h2>Village records and teachers</h2>\n<p><a href=\"https://ref.ly/1Chr4:32\">1CH 4:32</a>, <a href=\"https://ref.ly/1Chr9:22\">1CH 9:22</a>; ; <a href=\"https://ref.ly/Luke5:17\">LUK 5:17</a></p>\n<h2>Villages as the scene of gospel preaching</h2>\n<p><strong><a href=\"https://ref.ly/Mark6:6\">MRK 6:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts8:25\">ACT 8:25</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03025031",
+"start_ref_usfm": "LEV 25:31",
+"end_ref": "03025031",
+"end_ref_usfm": "LEV 25:31"
+},
+{
+"start_ref": "05003005",
+"start_ref_usfm": "DEU 3:5",
+"end_ref": "05003005",
+"end_ref_usfm": "DEU 3:5"
+},
+{
+"start_ref": "13005016",
+"start_ref_usfm": "1CH 5:16",
+"end_ref": "13005016",
+"end_ref_usfm": "1CH 5:16"
+},
+{
+"start_ref": "14032027",
+"start_ref_usfm": "2CH 32:27",
+"end_ref": "14032029",
+"end_ref_usfm": "2CH 32:29"
+},
+{
+"start_ref": "17009019",
+"start_ref_usfm": "EST 9:19",
+"end_ref": "17009019",
+"end_ref_usfm": "EST 9:19"
+},
+{
+"start_ref": "22007011",
+"start_ref_usfm": "SNG 7:11",
+"end_ref": "22007011",
+"end_ref_usfm": "SNG 7:11"
+},
+{
+"start_ref": "40014015",
+"start_ref_usfm": "MAT 14:15",
+"end_ref": "40014015",
+"end_ref_usfm": "MAT 14:15"
+},
+{
+"start_ref": "24019015",
+"start_ref_usfm": "JER 19:15",
+"end_ref": "24019015",
+"end_ref_usfm": "JER 19:15"
+},
+{
+"start_ref": "06010037",
+"start_ref_usfm": "JOS 10:37",
+"end_ref": "06010037",
+"end_ref_usfm": "JOS 10:37"
+},
+{
+"start_ref": "06013023",
+"start_ref_usfm": "JOS 13:23",
+"end_ref": "06013023",
+"end_ref_usfm": "JOS 13:23"
+},
+{
+"start_ref": "09006018",
+"start_ref_usfm": "1SA 6:18",
+"end_ref": "09006018",
+"end_ref_usfm": "1SA 6:18"
+},
+{
+"start_ref": "16012028",
+"start_ref_usfm": "NEH 12:28",
+"end_ref": "16012028",
+"end_ref_usfm": "NEH 12:28"
+},
+{
+"start_ref": "26038011",
+"start_ref_usfm": "EZK 38:11",
+"end_ref": "26038011",
+"end_ref_usfm": "EZK 38:11"
+},
+{
+"start_ref": "07005007",
+"start_ref_usfm": "JDG 5:7",
+"end_ref": "07005007",
+"end_ref_usfm": "JDG 5:7"
+},
+{
+"start_ref": "14014014",
+"start_ref_usfm": "2CH 14:14",
+"end_ref": "14014014",
+"end_ref_usfm": "2CH 14:14"
+},
+{
+"start_ref": "13004032",
+"start_ref_usfm": "1CH 4:32",
+"end_ref": "13004032",
+"end_ref_usfm": "1CH 4:32"
+},
+{
+"start_ref": "13009022",
+"start_ref_usfm": "1CH 9:22",
+"end_ref": "13009022",
+"end_ref_usfm": "1CH 9:22"
+},
+{
+"start_ref": "42005017",
+"start_ref_usfm": "LUK 5:17",
+"end_ref": "42005017",
+"end_ref_usfm": "LUK 5:17"
+},
+{
+"start_ref": "41006006",
+"start_ref_usfm": "MRK 6:6",
+"end_ref": "41006006",
+"end_ref_usfm": "MRK 6:6"
+},
+{
+"start_ref": "44008025",
+"start_ref_usfm": "ACT 8:25",
+"end_ref": "44008025",
+"end_ref_usfm": "ACT 8:25"
+}
+],
+"resource": [
+{
+"reference_id": "2363",
+"content_id": "2363",
+"resource_code": "DictionaryBibleThemes",
+"label": "2363: Jesus Christ, preaching and teaching of",
+"language": "eng"
+},
+{
+"reference_id": "5256",
+"content_id": "5256",
+"resource_code": "DictionaryBibleThemes",
+"label": "5256: city",
+"language": "eng"
+},
+{
+"reference_id": "5586",
+"content_id": "5586",
+"resource_code": "DictionaryBibleThemes",
+"label": "5586: town",
+"language": "eng"
+},
+{
+"reference_id": "7206",
+"content_id": "7206",
+"resource_code": "DictionaryBibleThemes",
+"label": "7206: community",
+"language": "eng"
+}
+]
+}
+}
+]

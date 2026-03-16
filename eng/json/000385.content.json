@@ -1,0 +1,324 @@
+[
+{
+"content_id": "4287",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4287: universe",
+"media_type": "Text",
+"index_reference": "4287: universe",
+"language": "eng",
+"review_level": "None",
+"content": "<p>All existing things, including the earth and its creatures and all the heavenly bodies. The universe was made by God and is sustained by Jesus Christ.</p>\n<h2>God as the Maker of all things</h2>\n<p><strong><a href=\"https://ref.ly/Ps115:15\">PSA 115:15</a></strong>; <strong><a href=\"https://ref.ly/Jer10:16\">JER 10:16</a></strong>; <strong><a href=\"https://ref.ly/Rev4:11\">REV 4:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen14:19\">GEN 14:19</a>; <a href=\"https://ref.ly/2Kgs19:15\">2KI 19:15</a>; <a href=\"https://ref.ly/Eccl11:5\">ECC 11:5</a>; <a href=\"https://ref.ly/Isa37:16\">ISA 37:16</a>, <a href=\"https://ref.ly/Isa44:24\">ISA 44:24</a>; <a href=\"https://ref.ly/Acts14:15\">ACT 14:15</a>; <a href=\"https://ref.ly/Rom11:33-Rom11:36\">ROM 11:33–11:36</a>; <a href=\"https://ref.ly/1Cor8:6\">1CO 8:6</a>; <a href=\"https://ref.ly/Eph3:9\">EPH 3:9</a>; <a href=\"https://ref.ly/Heb11:3\">HEB 11:3</a></p>\n<h2>God as the ruler of the universe</h2>\n<p><strong><a href=\"https://ref.ly/1Chr29:12\">1CH 29:12</a></strong>; <strong><a href=\"https://ref.ly/Acts17:24\">ACT 17:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps119:91\">PSA 119:91</a>; <a href=\"https://ref.ly/Jer33:25\">JER 33:25</a>; <a href=\"https://ref.ly/Matt11:25\">MAT 11:25</a></p>\n<h2>Jesus Christ, the one through whom the universe was made, now sustains all things</h2>\n<p><strong><a href=\"https://ref.ly/John1:3\">JHN 1:3</a></strong>; <strong><a href=\"https://ref.ly/Col1:15-Col1:17\">COL 1:15–1:17</a></strong> <em>The title “firstborn” implies that Jesus Christ is the heir, that everything belongs to him</em>; <strong><a href=\"https://ref.ly/Heb1:2-Heb1:3\">HEB 1:2–1:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/John13:3\">JHN 13:3</a>; <a href=\"https://ref.ly/1Cor8:6\">1CO 8:6</a>; <a href=\"https://ref.ly/Eph1:22\">EPH 1:22</a>, <a href=\"https://ref.ly/Eph4:10\">EPH 4:10</a></p>\n<h2>The universe is temporary</h2>\n<p><strong><a href=\"https://ref.ly/Matt24:35\">MAT 24:35</a></strong>; <strong><a href=\"https://ref.ly/2Pet3:10-2Pet3:12\">2PE 3:10–3:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt5:18\">MAT 5:18</a>, <a href=\"https://ref.ly/Matt24:29\">MAT 24:29</a>; <a href=\"https://ref.ly/Luke21:26\">LUK 21:26</a></p>\n<h2>Future renewal of the universe</h2>\n<p><strong><a href=\"https://ref.ly/Eph1:10\">EPH 1:10</a></strong>; <strong><a href=\"https://ref.ly/2Pet3:13\">2PE 3:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa65:17\">ISA 65:17</a>, <a href=\"https://ref.ly/Isa66:22\">ISA 66:22</a>; <a href=\"https://ref.ly/Matt19:28\">MAT 19:28</a>; <a href=\"https://ref.ly/Rom8:19-Rom8:22\">ROM 8:19–8:22</a>; <a href=\"https://ref.ly/Eph1:10\">EPH 1:10</a></p>\n<h2>Other references to the universe</h2>\n<p><a href=\"https://ref.ly/Deut4:25-Deut4:26\">DEU 4:25–4:26</a>, <a href=\"https://ref.ly/Deut30:19\">DEU 30:19</a>; ; <a href=\"https://ref.ly/Phil2:15\">PHP 2:15</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19115015",
+"start_ref_usfm": "PSA 115:15",
+"end_ref": "19115015",
+"end_ref_usfm": "PSA 115:15"
+},
+{
+"start_ref": "24010016",
+"start_ref_usfm": "JER 10:16",
+"end_ref": "24010016",
+"end_ref_usfm": "JER 10:16"
+},
+{
+"start_ref": "66004011",
+"start_ref_usfm": "REV 4:11",
+"end_ref": "66004011",
+"end_ref_usfm": "REV 4:11"
+},
+{
+"start_ref": "01014019",
+"start_ref_usfm": "GEN 14:19",
+"end_ref": "01014019",
+"end_ref_usfm": "GEN 14:19"
+},
+{
+"start_ref": "12019015",
+"start_ref_usfm": "2KI 19:15",
+"end_ref": "12019015",
+"end_ref_usfm": "2KI 19:15"
+},
+{
+"start_ref": "21011005",
+"start_ref_usfm": "ECC 11:5",
+"end_ref": "21011005",
+"end_ref_usfm": "ECC 11:5"
+},
+{
+"start_ref": "23037016",
+"start_ref_usfm": "ISA 37:16",
+"end_ref": "23037016",
+"end_ref_usfm": "ISA 37:16"
+},
+{
+"start_ref": "23044024",
+"start_ref_usfm": "ISA 44:24",
+"end_ref": "23044024",
+"end_ref_usfm": "ISA 44:24"
+},
+{
+"start_ref": "44014015",
+"start_ref_usfm": "ACT 14:15",
+"end_ref": "44014015",
+"end_ref_usfm": "ACT 14:15"
+},
+{
+"start_ref": "45011033",
+"start_ref_usfm": "ROM 11:33",
+"end_ref": "45011036",
+"end_ref_usfm": "ROM 11:36"
+},
+{
+"start_ref": "46008006",
+"start_ref_usfm": "1CO 8:6",
+"end_ref": "46008006",
+"end_ref_usfm": "1CO 8:6"
+},
+{
+"start_ref": "49003009",
+"start_ref_usfm": "EPH 3:9",
+"end_ref": "49003009",
+"end_ref_usfm": "EPH 3:9"
+},
+{
+"start_ref": "58011003",
+"start_ref_usfm": "HEB 11:3",
+"end_ref": "58011003",
+"end_ref_usfm": "HEB 11:3"
+},
+{
+"start_ref": "13029012",
+"start_ref_usfm": "1CH 29:12",
+"end_ref": "13029012",
+"end_ref_usfm": "1CH 29:12"
+},
+{
+"start_ref": "44017024",
+"start_ref_usfm": "ACT 17:24",
+"end_ref": "44017024",
+"end_ref_usfm": "ACT 17:24"
+},
+{
+"start_ref": "19119091",
+"start_ref_usfm": "PSA 119:91",
+"end_ref": "19119091",
+"end_ref_usfm": "PSA 119:91"
+},
+{
+"start_ref": "24033025",
+"start_ref_usfm": "JER 33:25",
+"end_ref": "24033025",
+"end_ref_usfm": "JER 33:25"
+},
+{
+"start_ref": "40011025",
+"start_ref_usfm": "MAT 11:25",
+"end_ref": "40011025",
+"end_ref_usfm": "MAT 11:25"
+},
+{
+"start_ref": "43001003",
+"start_ref_usfm": "JHN 1:3",
+"end_ref": "43001003",
+"end_ref_usfm": "JHN 1:3"
+},
+{
+"start_ref": "51001015",
+"start_ref_usfm": "COL 1:15",
+"end_ref": "51001017",
+"end_ref_usfm": "COL 1:17"
+},
+{
+"start_ref": "58001002",
+"start_ref_usfm": "HEB 1:2",
+"end_ref": "58001003",
+"end_ref_usfm": "HEB 1:3"
+},
+{
+"start_ref": "43013003",
+"start_ref_usfm": "JHN 13:3",
+"end_ref": "43013003",
+"end_ref_usfm": "JHN 13:3"
+},
+{
+"start_ref": "49001022",
+"start_ref_usfm": "EPH 1:22",
+"end_ref": "49001022",
+"end_ref_usfm": "EPH 1:22"
+},
+{
+"start_ref": "49004010",
+"start_ref_usfm": "EPH 4:10",
+"end_ref": "49004010",
+"end_ref_usfm": "EPH 4:10"
+},
+{
+"start_ref": "40024035",
+"start_ref_usfm": "MAT 24:35",
+"end_ref": "40024035",
+"end_ref_usfm": "MAT 24:35"
+},
+{
+"start_ref": "61003010",
+"start_ref_usfm": "2PE 3:10",
+"end_ref": "61003012",
+"end_ref_usfm": "2PE 3:12"
+},
+{
+"start_ref": "40005018",
+"start_ref_usfm": "MAT 5:18",
+"end_ref": "40005018",
+"end_ref_usfm": "MAT 5:18"
+},
+{
+"start_ref": "40024029",
+"start_ref_usfm": "MAT 24:29",
+"end_ref": "40024029",
+"end_ref_usfm": "MAT 24:29"
+},
+{
+"start_ref": "42021026",
+"start_ref_usfm": "LUK 21:26",
+"end_ref": "42021026",
+"end_ref_usfm": "LUK 21:26"
+},
+{
+"start_ref": "49001010",
+"start_ref_usfm": "EPH 1:10",
+"end_ref": "49001010",
+"end_ref_usfm": "EPH 1:10"
+},
+{
+"start_ref": "61003013",
+"start_ref_usfm": "2PE 3:13",
+"end_ref": "61003013",
+"end_ref_usfm": "2PE 3:13"
+},
+{
+"start_ref": "23065017",
+"start_ref_usfm": "ISA 65:17",
+"end_ref": "23065017",
+"end_ref_usfm": "ISA 65:17"
+},
+{
+"start_ref": "23066022",
+"start_ref_usfm": "ISA 66:22",
+"end_ref": "23066022",
+"end_ref_usfm": "ISA 66:22"
+},
+{
+"start_ref": "40019028",
+"start_ref_usfm": "MAT 19:28",
+"end_ref": "40019028",
+"end_ref_usfm": "MAT 19:28"
+},
+{
+"start_ref": "45008019",
+"start_ref_usfm": "ROM 8:19",
+"end_ref": "45008022",
+"end_ref_usfm": "ROM 8:22"
+},
+{
+"start_ref": "05004025",
+"start_ref_usfm": "DEU 4:25",
+"end_ref": "05004026",
+"end_ref_usfm": "DEU 4:26"
+},
+{
+"start_ref": "05030019",
+"start_ref_usfm": "DEU 30:19",
+"end_ref": "05030019",
+"end_ref_usfm": "DEU 30:19"
+},
+{
+"start_ref": "50002015",
+"start_ref_usfm": "PHP 2:15",
+"end_ref": "50002015",
+"end_ref_usfm": "PHP 2:15"
+}
+],
+"resource": [
+{
+"reference_id": "1325",
+"content_id": "1325",
+"resource_code": "DictionaryBibleThemes",
+"label": "1325: God, the Creator",
+"language": "eng"
+},
+{
+"reference_id": "1355",
+"content_id": "1355",
+"resource_code": "DictionaryBibleThemes",
+"label": "1355: providence",
+"language": "eng"
+},
+{
+"reference_id": "2303",
+"content_id": "2303",
+"resource_code": "DictionaryBibleThemes",
+"label": "2303: Jesus Christ, as creator",
+"language": "eng"
+},
+{
+"reference_id": "3266",
+"content_id": "3266",
+"resource_code": "DictionaryBibleThemes",
+"label": "3266: Holy Spirit, in creation",
+"language": "eng"
+},
+{
+"reference_id": "4005",
+"content_id": "4005",
+"resource_code": "DictionaryBibleThemes",
+"label": "4005: creation",
+"language": "eng"
+},
+{
+"reference_id": "4025",
+"content_id": "4025",
+"resource_code": "DictionaryBibleThemes",
+"label": "4025: world, the",
+"language": "eng"
+},
+{
+"reference_id": "4055",
+"content_id": "4055",
+"resource_code": "DictionaryBibleThemes",
+"label": "4055: heaven and earth",
+"language": "eng"
+},
+{
+"reference_id": "5215",
+"content_id": "5215",
+"resource_code": "DictionaryBibleThemes",
+"label": "5215: authority",
+"language": "eng"
+},
+{
+"reference_id": "8146",
+"content_id": "8146",
+"resource_code": "DictionaryBibleThemes",
+"label": "8146: renewal, of natural order",
+"language": "eng"
+},
+{
+"reference_id": "9120",
+"content_id": "9120",
+"resource_code": "DictionaryBibleThemes",
+"label": "9120: eternity",
+"language": "eng"
+},
+{
+"reference_id": "9160",
+"content_id": "9160",
+"resource_code": "DictionaryBibleThemes",
+"label": "9160: new heavens and new earth",
+"language": "eng"
+}
+]
+}
+}
+]

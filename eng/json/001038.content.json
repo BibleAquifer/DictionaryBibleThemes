@@ -1,0 +1,188 @@
+[
+{
+"content_id": "5463",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5463: proclamations",
+"media_type": "Text",
+"index_reference": "5463: proclamations",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Edicts or public declarations issued by the civil or religious authorities.</p>\n<h2>Examples of proclamations in biblical times</h2>\n<p><a href=\"https://ref.ly/Exod1:15-Exod1:22\">EXO 1:15–1:22</a> <em>Pharaoh's edict that all Hebrew boys were to be drowned</em>; ; <a href=\"https://ref.ly/Exod32:5\">EXO 32:5</a> <em>Aaron's proclamation of a festival to the LORD</em>; ; <a href=\"https://ref.ly/1Kgs21:9-1Kgs21:10\">1KI 21:9–21:10</a> <em>Jezebel's proclamation to ensnare Naboth</em>; ; <a href=\"https://ref.ly/2Kgs10:20\">2KI 10:20</a> <em>Jehu's proclamation of an assembly in honour of Baal</em>; ; <a href=\"https://ref.ly/2Chr24:9\">2CH 24:9</a> <em>Joash's proclamation of a tax for the LORD</em>; ; <a href=\"https://ref.ly/2Chr30:1-2Chr30:10\">2CH 30:1–30:10</a> <em>Hezekiah's invitation to celebrate the Passover</em>; <a href=\"https://ref.ly/Ezra1:1\">EZR 1:1</a>, <a href=\"https://ref.ly/Ezra5:13\">EZR 5:13</a>, <a href=\"https://ref.ly/Ezra6:3\">EZR 6:3</a>, <a href=\"https://ref.ly/Ezra7:13\">EZR 7:13</a>; \n<a href=\"https://ref.ly/Neh8:14-Neh8:15\">NEH 8:14–8:15</a> <em>the Levites' proclamation of festival arrangements</em>; <a href=\"https://ref.ly/Esth1:20\">EST 1:20</a>, <a href=\"https://ref.ly/Esth2:8\">EST 2:8</a>, <a href=\"https://ref.ly/Esth3:14\">EST 3:14</a>, <a href=\"https://ref.ly/Esth4:3\">EST 4:3</a>, <a href=\"https://ref.ly/Esth8:11\">EST 8:11</a>; <a href=\"https://ref.ly/Dan6:7\">DAN 6:7</a>, <a href=\"https://ref.ly/Dan6:15\">DAN 6:15</a>; \n<a href=\"https://ref.ly/Jonah3:7\">JON 3:7</a> <em>the king of Nineveh's proclamation of a fast of repentance</em>; ; <a href=\"https://ref.ly/Luke2:1\">LUK 2:1</a> <em>Caesar Augustus' proclamation of a census</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02001015",
+"start_ref_usfm": "EXO 1:15",
+"end_ref": "02001022",
+"end_ref_usfm": "EXO 1:22"
+},
+{
+"start_ref": "02032005",
+"start_ref_usfm": "EXO 32:5",
+"end_ref": "02032005",
+"end_ref_usfm": "EXO 32:5"
+},
+{
+"start_ref": "11021009",
+"start_ref_usfm": "1KI 21:9",
+"end_ref": "11021010",
+"end_ref_usfm": "1KI 21:10"
+},
+{
+"start_ref": "12010020",
+"start_ref_usfm": "2KI 10:20",
+"end_ref": "12010020",
+"end_ref_usfm": "2KI 10:20"
+},
+{
+"start_ref": "14024009",
+"start_ref_usfm": "2CH 24:9",
+"end_ref": "14024009",
+"end_ref_usfm": "2CH 24:9"
+},
+{
+"start_ref": "14030001",
+"start_ref_usfm": "2CH 30:1",
+"end_ref": "14030010",
+"end_ref_usfm": "2CH 30:10"
+},
+{
+"start_ref": "15001001",
+"start_ref_usfm": "EZR 1:1",
+"end_ref": "15001001",
+"end_ref_usfm": "EZR 1:1"
+},
+{
+"start_ref": "15005013",
+"start_ref_usfm": "EZR 5:13",
+"end_ref": "15005013",
+"end_ref_usfm": "EZR 5:13"
+},
+{
+"start_ref": "15006003",
+"start_ref_usfm": "EZR 6:3",
+"end_ref": "15006003",
+"end_ref_usfm": "EZR 6:3"
+},
+{
+"start_ref": "15007013",
+"start_ref_usfm": "EZR 7:13",
+"end_ref": "15007013",
+"end_ref_usfm": "EZR 7:13"
+},
+{
+"start_ref": "16008014",
+"start_ref_usfm": "NEH 8:14",
+"end_ref": "16008015",
+"end_ref_usfm": "NEH 8:15"
+},
+{
+"start_ref": "17001020",
+"start_ref_usfm": "EST 1:20",
+"end_ref": "17001020",
+"end_ref_usfm": "EST 1:20"
+},
+{
+"start_ref": "17002008",
+"start_ref_usfm": "EST 2:8",
+"end_ref": "17002008",
+"end_ref_usfm": "EST 2:8"
+},
+{
+"start_ref": "17003014",
+"start_ref_usfm": "EST 3:14",
+"end_ref": "17003014",
+"end_ref_usfm": "EST 3:14"
+},
+{
+"start_ref": "17004003",
+"start_ref_usfm": "EST 4:3",
+"end_ref": "17004003",
+"end_ref_usfm": "EST 4:3"
+},
+{
+"start_ref": "17008011",
+"start_ref_usfm": "EST 8:11",
+"end_ref": "17008011",
+"end_ref_usfm": "EST 8:11"
+},
+{
+"start_ref": "27006007",
+"start_ref_usfm": "DAN 6:7",
+"end_ref": "27006007",
+"end_ref_usfm": "DAN 6:7"
+},
+{
+"start_ref": "27006015",
+"start_ref_usfm": "DAN 6:15",
+"end_ref": "27006015",
+"end_ref_usfm": "DAN 6:15"
+},
+{
+"start_ref": "32003007",
+"start_ref_usfm": "JON 3:7",
+"end_ref": "32003007",
+"end_ref_usfm": "JON 3:7"
+},
+{
+"start_ref": "42002001",
+"start_ref_usfm": "LUK 2:1",
+"end_ref": "42002001",
+"end_ref_usfm": "LUK 2:1"
+}
+],
+"resource": [
+{
+"reference_id": "2427",
+"content_id": "2427",
+"resource_code": "DictionaryBibleThemes",
+"label": "2427: gospel, transmission of",
+"language": "eng"
+},
+{
+"reference_id": "5219",
+"content_id": "5219",
+"resource_code": "DictionaryBibleThemes",
+"label": "5219: authority, of human institutions",
+"language": "eng"
+},
+{
+"reference_id": "5335",
+"content_id": "5335",
+"resource_code": "DictionaryBibleThemes",
+"label": "5335: herald",
+"language": "eng"
+},
+{
+"reference_id": "7354",
+"content_id": "7354",
+"resource_code": "DictionaryBibleThemes",
+"label": "7354: feasts and festivals",
+"language": "eng"
+},
+{
+"reference_id": "7754",
+"content_id": "7754",
+"resource_code": "DictionaryBibleThemes",
+"label": "7754: preaching",
+"language": "eng"
+},
+{
+"reference_id": "8424",
+"content_id": "8424",
+"resource_code": "DictionaryBibleThemes",
+"label": "8424: evangelism",
+"language": "eng"
+},
+{
+"reference_id": "8489",
+"content_id": "8489",
+"resource_code": "DictionaryBibleThemes",
+"label": "8489: urgency",
+"language": "eng"
+}
+]
+}
+}
+]

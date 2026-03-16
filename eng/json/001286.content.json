@@ -1,0 +1,60 @@
+[
+{
+"content_id": "5761",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5761: attitudes",
+"media_type": "Text",
+"index_reference": "5761: attitudes",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The ways in which people think or feel about something or someone and which affect their behaviour.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5762",
+"content_id": "5762",
+"resource_code": "DictionaryBibleThemes",
+"label": "5762: attitudes, God's to people",
+"language": "eng"
+},
+{
+"reference_id": "5763",
+"content_id": "5763",
+"resource_code": "DictionaryBibleThemes",
+"label": "5763: attitudes, positive to God",
+"language": "eng"
+},
+{
+"reference_id": "5764",
+"content_id": "5764",
+"resource_code": "DictionaryBibleThemes",
+"label": "5764: attitudes, negative to God",
+"language": "eng"
+},
+{
+"reference_id": "5765",
+"content_id": "5765",
+"resource_code": "DictionaryBibleThemes",
+"label": "5765: attitudes, to other people",
+"language": "eng"
+},
+{
+"reference_id": "5766",
+"content_id": "5766",
+"resource_code": "DictionaryBibleThemes",
+"label": "5766: attitudes, to life",
+"language": "eng"
+},
+{
+"reference_id": "5767",
+"content_id": "5767",
+"resource_code": "DictionaryBibleThemes",
+"label": "5767: attitudes, in prayer",
+"language": "eng"
+}
+]
+}
+}
+]

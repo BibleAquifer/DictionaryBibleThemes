@@ -1,0 +1,53 @@
+[
+{
+"content_id": "4005",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4005: creation",
+"media_type": "Text",
+"index_reference": "4005: creation",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The created order, established as a sovereign decision on the part of God. The creation is dependent upon and under the authority of its Creator. Scripture affirms the role of both Jesus Christ and the Holy Spirit in the work of creation.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4006",
+"content_id": "4006",
+"resource_code": "DictionaryBibleThemes",
+"label": "4006: creation, origin of",
+"language": "eng"
+},
+{
+"reference_id": "4007",
+"content_id": "4007",
+"resource_code": "DictionaryBibleThemes",
+"label": "4007: creation, and God",
+"language": "eng"
+},
+{
+"reference_id": "4008",
+"content_id": "4008",
+"resource_code": "DictionaryBibleThemes",
+"label": "4008: creation, and Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "4009",
+"content_id": "4009",
+"resource_code": "DictionaryBibleThemes",
+"label": "4009: creation, and Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "4010",
+"content_id": "4010",
+"resource_code": "DictionaryBibleThemes",
+"label": "4010: creation, renewal of",
+"language": "eng"
+}
+]
+}
+}
+]

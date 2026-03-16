@@ -1,0 +1,149 @@
+[
+{
+"content_id": "5512",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5512: scales and balances",
+"media_type": "Text",
+"index_reference": "5512: scales and balances",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Weighing devices designed to ensure fair dealing. The terms are also used metaphorically in Scripture.</p>\n<h2>Scales and balances were used in business transactions</h2>\n<p><a href=\"https://ref.ly/Jer32:10\">JER 32:10</a></p>\n<h2>Scales and balances should not be used dishonestly</h2>\n<h3>Exhortations to honest dealing</h3>\n<p><strong><a href=\"https://ref.ly/Lev19:35-Lev19:36\">LEV 19:35–19:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek45:10\">EZK 45:10</a></p>\n<h3>The LORD hates dishonest dealing</h3>\n<p><strong><a href=\"https://ref.ly/Prov20:10\">PRO 20:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov11:1\">PRO 11:1</a>, <a href=\"https://ref.ly/Prov16:11\">PRO 16:11</a>, <a href=\"https://ref.ly/Prov20:23\">PRO 20:23</a></p>\n<h3>Dishonest dealing was one of the reasons for God's judgment on his people</h3>\n<p><strong><a href=\"https://ref.ly/Jer5:1\">JER 5:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos12:6-Hos12:7\">HOS 12:6–12:7</a>; <a href=\"https://ref.ly/Amos8:4-Amos8:8\">AMO 8:4–8:8</a>; <a href=\"https://ref.ly/Mic6:10-Mic6:13\">MIC 6:10–6:13</a></p>\n<h2>Scales and balances used metaphorically</h2>\n<h3>To emphasise Job's distress</h3>\n<p><strong><a href=\"https://ref.ly/Job6:2\">JOB 6:2</a></strong></p>\n<h3>To highlight God's greatness</h3>\n<p><strong><a href=\"https://ref.ly/Isa40:15\">ISA 40:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:12\">ISA 40:12</a></p>\n<h3>Of God's judgment</h3>\n<p><strong><a href=\"https://ref.ly/Dan5:25-Dan5:30\">DAN 5:25–5:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek5:1-Ezek5:2\">EZK 5:1–5:2</a>; <a href=\"https://ref.ly/Rev6:5-Rev6:6\">REV 6:5–6:6</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "24032010",
+"start_ref_usfm": "JER 32:10",
+"end_ref": "24032010",
+"end_ref_usfm": "JER 32:10"
+},
+{
+"start_ref": "03019035",
+"start_ref_usfm": "LEV 19:35",
+"end_ref": "03019036",
+"end_ref_usfm": "LEV 19:36"
+},
+{
+"start_ref": "26045010",
+"start_ref_usfm": "EZK 45:10",
+"end_ref": "26045010",
+"end_ref_usfm": "EZK 45:10"
+},
+{
+"start_ref": "20020010",
+"start_ref_usfm": "PRO 20:10",
+"end_ref": "20020010",
+"end_ref_usfm": "PRO 20:10"
+},
+{
+"start_ref": "20011001",
+"start_ref_usfm": "PRO 11:1",
+"end_ref": "20011001",
+"end_ref_usfm": "PRO 11:1"
+},
+{
+"start_ref": "20016011",
+"start_ref_usfm": "PRO 16:11",
+"end_ref": "20016011",
+"end_ref_usfm": "PRO 16:11"
+},
+{
+"start_ref": "20020023",
+"start_ref_usfm": "PRO 20:23",
+"end_ref": "20020023",
+"end_ref_usfm": "PRO 20:23"
+},
+{
+"start_ref": "24005001",
+"start_ref_usfm": "JER 5:1",
+"end_ref": "24005001",
+"end_ref_usfm": "JER 5:1"
+},
+{
+"start_ref": "28012006",
+"start_ref_usfm": "HOS 12:6",
+"end_ref": "28012007",
+"end_ref_usfm": "HOS 12:7"
+},
+{
+"start_ref": "30008004",
+"start_ref_usfm": "AMO 8:4",
+"end_ref": "30008008",
+"end_ref_usfm": "AMO 8:8"
+},
+{
+"start_ref": "33006010",
+"start_ref_usfm": "MIC 6:10",
+"end_ref": "33006013",
+"end_ref_usfm": "MIC 6:13"
+},
+{
+"start_ref": "18006002",
+"start_ref_usfm": "JOB 6:2",
+"end_ref": "18006002",
+"end_ref_usfm": "JOB 6:2"
+},
+{
+"start_ref": "23040015",
+"start_ref_usfm": "ISA 40:15",
+"end_ref": "23040015",
+"end_ref_usfm": "ISA 40:15"
+},
+{
+"start_ref": "23040012",
+"start_ref_usfm": "ISA 40:12",
+"end_ref": "23040012",
+"end_ref_usfm": "ISA 40:12"
+},
+{
+"start_ref": "27005025",
+"start_ref_usfm": "DAN 5:25",
+"end_ref": "27005030",
+"end_ref_usfm": "DAN 5:30"
+},
+{
+"start_ref": "26005001",
+"start_ref_usfm": "EZK 5:1",
+"end_ref": "26005002",
+"end_ref_usfm": "EZK 5:2"
+},
+{
+"start_ref": "66006005",
+"start_ref_usfm": "REV 6:5",
+"end_ref": "66006006",
+"end_ref_usfm": "REV 6:6"
+}
+],
+"resource": [
+{
+"reference_id": "5347",
+"content_id": "5347",
+"resource_code": "DictionaryBibleThemes",
+"label": "5347: injustice",
+"language": "eng"
+},
+{
+"reference_id": "5614",
+"content_id": "5614",
+"resource_code": "DictionaryBibleThemes",
+"label": "5614: weights and measures, laws concerning",
+"language": "eng"
+},
+{
+"reference_id": "8714",
+"content_id": "8714",
+"resource_code": "DictionaryBibleThemes",
+"label": "8714: dishonesty",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8652",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8652: importunity",
+"media_type": "Text",
+"index_reference": "8652: importunity",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Persistence and boldness in making requests to God in prayer and to other people, and persevering until a favourable response is received.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8653",
+"content_id": "8653",
+"resource_code": "DictionaryBibleThemes",
+"label": "8653: importunity, towards God",
+"language": "eng"
+},
+{
+"reference_id": "8654",
+"content_id": "8654",
+"resource_code": "DictionaryBibleThemes",
+"label": "8654: importunity, towards people",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+"content_id": "9120",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9120: eternity",
+"media_type": "Text",
+"index_reference": "9120: eternity",
+"language": "eng",
+"review_level": "None",
+"content": "<p>In Scripture eternity is not an abstraction but limitless time, over which God is totally sovereign.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "9121",
+"content_id": "9121",
+"resource_code": "DictionaryBibleThemes",
+"label": "9121: eternity, nature of",
+"language": "eng"
+},
+{
+"reference_id": "9122",
+"content_id": "9122",
+"resource_code": "DictionaryBibleThemes",
+"label": "9122: eternity, and God",
+"language": "eng"
+}
+]
+}
+}
+]

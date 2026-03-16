@@ -1,0 +1,175 @@
+[
+{
+"content_id": "4609",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4609: beast, the",
+"media_type": "Text",
+"index_reference": "4609: beast, the",
+"language": "eng",
+"review_level": "None",
+"content": "<p>In apocalyptic literature, symbol of the ultimate adversary of God in the great final spiritual battle.</p>\n<h2>Beasts represent rulers and nations opposed to God</h2>\n<p><a href=\"https://ref.ly/Dan7:3-Dan7:7\">DAN 7:3–7:7</a>, <a href=\"https://ref.ly/Dan7:11-Dan7:12\">DAN 7:11–7:12</a>, <a href=\"https://ref.ly/Dan7:17\">DAN 7:17</a>, <a href=\"https://ref.ly/Dan7:19-Dan7:23\">DAN 7:19–7:23</a></p>\n<h2>The beast represents the antichrist in the final spiritual battle</h2>\n<h3>The emergence of the beast</h3>\n<p><a href=\"https://ref.ly/Rev11:7\">REV 11:7</a>, <a href=\"https://ref.ly/Rev13:1\">REV 13:1</a>, <a href=\"https://ref.ly/Rev13:11\">REV 13:11</a>, <a href=\"https://ref.ly/Rev17:3\">REV 17:3</a></p>\n<h3>The power and authority of the beast</h3>\n<p><a href=\"https://ref.ly/Rev13:2-Rev13:7\">REV 13:2–13:7</a>, <a href=\"https://ref.ly/Rev13:12-Rev13:15\">REV 13:12–13:15</a></p>\n<h3>Those who will worship the beast, and those who will not</h3>\n<p><a href=\"https://ref.ly/Rev13:8\">REV 13:8</a>, <a href=\"https://ref.ly/Rev13:16-Rev13:18\">REV 13:16–13:18</a>, <a href=\"https://ref.ly/Rev14:9-Rev14:11\">REV 14:9–14:11</a>, <a href=\"https://ref.ly/Rev16:2\">REV 16:2</a>, <a href=\"https://ref.ly/Rev20:4\">REV 20:4</a></p>\n<h3>The defeat of the beast and the fulfilment of God's purposes</h3>\n<p><a href=\"https://ref.ly/Rev16:10-Rev16:11\">REV 16:10–16:11</a>, <a href=\"https://ref.ly/Rev17:7-Rev17:14\">REV 17:7–17:14</a>, <a href=\"https://ref.ly/Rev17:16-Rev17:17\">REV 17:16–17:17</a>, <a href=\"https://ref.ly/Rev19:19-Rev19:20\">REV 19:19–19:20</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "27007003",
+"start_ref_usfm": "DAN 7:3",
+"end_ref": "27007007",
+"end_ref_usfm": "DAN 7:7"
+},
+{
+"start_ref": "27007011",
+"start_ref_usfm": "DAN 7:11",
+"end_ref": "27007012",
+"end_ref_usfm": "DAN 7:12"
+},
+{
+"start_ref": "27007017",
+"start_ref_usfm": "DAN 7:17",
+"end_ref": "27007017",
+"end_ref_usfm": "DAN 7:17"
+},
+{
+"start_ref": "27007019",
+"start_ref_usfm": "DAN 7:19",
+"end_ref": "27007023",
+"end_ref_usfm": "DAN 7:23"
+},
+{
+"start_ref": "66011007",
+"start_ref_usfm": "REV 11:7",
+"end_ref": "66011007",
+"end_ref_usfm": "REV 11:7"
+},
+{
+"start_ref": "66013001",
+"start_ref_usfm": "REV 13:1",
+"end_ref": "66013001",
+"end_ref_usfm": "REV 13:1"
+},
+{
+"start_ref": "66013011",
+"start_ref_usfm": "REV 13:11",
+"end_ref": "66013011",
+"end_ref_usfm": "REV 13:11"
+},
+{
+"start_ref": "66017003",
+"start_ref_usfm": "REV 17:3",
+"end_ref": "66017003",
+"end_ref_usfm": "REV 17:3"
+},
+{
+"start_ref": "66013002",
+"start_ref_usfm": "REV 13:2",
+"end_ref": "66013007",
+"end_ref_usfm": "REV 13:7"
+},
+{
+"start_ref": "66013012",
+"start_ref_usfm": "REV 13:12",
+"end_ref": "66013015",
+"end_ref_usfm": "REV 13:15"
+},
+{
+"start_ref": "66013008",
+"start_ref_usfm": "REV 13:8",
+"end_ref": "66013008",
+"end_ref_usfm": "REV 13:8"
+},
+{
+"start_ref": "66013016",
+"start_ref_usfm": "REV 13:16",
+"end_ref": "66013018",
+"end_ref_usfm": "REV 13:18"
+},
+{
+"start_ref": "66014009",
+"start_ref_usfm": "REV 14:9",
+"end_ref": "66014011",
+"end_ref_usfm": "REV 14:11"
+},
+{
+"start_ref": "66016002",
+"start_ref_usfm": "REV 16:2",
+"end_ref": "66016002",
+"end_ref_usfm": "REV 16:2"
+},
+{
+"start_ref": "66020004",
+"start_ref_usfm": "REV 20:4",
+"end_ref": "66020004",
+"end_ref_usfm": "REV 20:4"
+},
+{
+"start_ref": "66016010",
+"start_ref_usfm": "REV 16:10",
+"end_ref": "66016011",
+"end_ref_usfm": "REV 16:11"
+},
+{
+"start_ref": "66017007",
+"start_ref_usfm": "REV 17:7",
+"end_ref": "66017014",
+"end_ref_usfm": "REV 17:14"
+},
+{
+"start_ref": "66017016",
+"start_ref_usfm": "REV 17:16",
+"end_ref": "66017017",
+"end_ref_usfm": "REV 17:17"
+},
+{
+"start_ref": "66019019",
+"start_ref_usfm": "REV 19:19",
+"end_ref": "66019020",
+"end_ref_usfm": "REV 19:20"
+}
+],
+"resource": [
+{
+"reference_id": "2372",
+"content_id": "2372",
+"resource_code": "DictionaryBibleThemes",
+"label": "2372: Jesus Christ, victory of",
+"language": "eng"
+},
+{
+"reference_id": "4121",
+"content_id": "4121",
+"resource_code": "DictionaryBibleThemes",
+"label": "4121: Satan, as the enemy of God",
+"language": "eng"
+},
+{
+"reference_id": "8704",
+"content_id": "8704",
+"resource_code": "DictionaryBibleThemes",
+"label": "8704: apostasy",
+"language": "eng"
+},
+{
+"reference_id": "9105",
+"content_id": "9105",
+"resource_code": "DictionaryBibleThemes",
+"label": "9105: last things",
+"language": "eng"
+},
+{
+"reference_id": "9115",
+"content_id": "9115",
+"resource_code": "DictionaryBibleThemes",
+"label": "9115: antichrist, the",
+"language": "eng"
+},
+{
+"reference_id": "9240",
+"content_id": "9240",
+"resource_code": "DictionaryBibleThemes",
+"label": "9240: last judgment",
+"language": "eng"
+}
+]
+}
+}
+]

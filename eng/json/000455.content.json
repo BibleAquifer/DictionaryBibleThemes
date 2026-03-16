@@ -1,0 +1,208 @@
+[
+{
+"content_id": "4480",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4480: milk",
+"media_type": "Text",
+"index_reference": "4480: milk",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A common source of food and nourishment, associated with rich and productive land. The term is also used figuratively as a form of spiritual food suitable for those who have yet to reach maturity in the Christian faith.</p>\n<h2>Milk as a source of nourishment</h2>\n<p><strong><a href=\"https://ref.ly/Deut32:13-Deut32:14\">DEU 32:13–32:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:8\">GEN 18:8</a>; <a href=\"https://ref.ly/Judg4:19\">JDG 4:19</a>; <a href=\"https://ref.ly/2Sam17:29\">2SA 17:29</a>; <a href=\"https://ref.ly/Prov27:27\">PRO 27:27</a>; <a href=\"https://ref.ly/Ezek25:4\">EZK 25:4</a>; <a href=\"https://ref.ly/1Cor9:7\">1CO 9:7</a> <em>illustrating the support of the ministry</em></p>\n<h2>Milk as an indication of prosperity and well-being</h2>\n<p><strong><a href=\"https://ref.ly/Deut6:3\">DEU 6:3</a></strong> <em>A frequent description of the promised land</em>; <strong><a href=\"https://ref.ly/Isa55:1\">ISA 55:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod3:8\">EXO 3:8</a>; <a href=\"https://ref.ly/Lev20:24\">LEV 20:24</a>; <a href=\"https://ref.ly/Num13:27\">NUM 13:27</a>; <a href=\"https://ref.ly/Isa7:22\">ISA 7:22</a>, <a href=\"https://ref.ly/Isa60:16\">ISA 60:16</a>; <a href=\"https://ref.ly/Ezek20:6\">EZK 20:6</a>; <a href=\"https://ref.ly/Joel3:18\">JOL 3:18</a></p>\n<h2>Laws concerning milk</h2>\n<p><a href=\"https://ref.ly/Exod23:19\">EXO 23:19</a>, <a href=\"https://ref.ly/Exod34:26\">EXO 34:26</a>; ; <a href=\"https://ref.ly/Deut14:21\">DEU 14:21</a></p>\n<h2>Elementary Christian teaching likened to milk</h2>\n<p><strong><a href=\"https://ref.ly/Heb5:12-Heb5:13\">HEB 5:12–5:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor3:2\">1CO 3:2</a>; <a href=\"https://ref.ly/1Pet2:2\">1PE 2:2</a></p>\n<h2>Milk used figuratively</h2>\n<p><strong><a href=\"https://ref.ly/Prov30:33\">PRO 30:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:12\">GEN 49:12</a>; <a href=\"https://ref.ly/Job10:10\">JOB 10:10</a>; <a href=\"https://ref.ly/Song4:11\">SNG 4:11</a>, <a href=\"https://ref.ly/Song5:12\">SNG 5:12</a>; <a href=\"https://ref.ly/Lam4:7\">LAM 4:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05032013",
+"start_ref_usfm": "DEU 32:13",
+"end_ref": "05032014",
+"end_ref_usfm": "DEU 32:14"
+},
+{
+"start_ref": "01018008",
+"start_ref_usfm": "GEN 18:8",
+"end_ref": "01018008",
+"end_ref_usfm": "GEN 18:8"
+},
+{
+"start_ref": "07004019",
+"start_ref_usfm": "JDG 4:19",
+"end_ref": "07004019",
+"end_ref_usfm": "JDG 4:19"
+},
+{
+"start_ref": "10017029",
+"start_ref_usfm": "2SA 17:29",
+"end_ref": "10017029",
+"end_ref_usfm": "2SA 17:29"
+},
+{
+"start_ref": "20027027",
+"start_ref_usfm": "PRO 27:27",
+"end_ref": "20027027",
+"end_ref_usfm": "PRO 27:27"
+},
+{
+"start_ref": "26025004",
+"start_ref_usfm": "EZK 25:4",
+"end_ref": "26025004",
+"end_ref_usfm": "EZK 25:4"
+},
+{
+"start_ref": "46009007",
+"start_ref_usfm": "1CO 9:7",
+"end_ref": "46009007",
+"end_ref_usfm": "1CO 9:7"
+},
+{
+"start_ref": "05006003",
+"start_ref_usfm": "DEU 6:3",
+"end_ref": "05006003",
+"end_ref_usfm": "DEU 6:3"
+},
+{
+"start_ref": "23055001",
+"start_ref_usfm": "ISA 55:1",
+"end_ref": "23055001",
+"end_ref_usfm": "ISA 55:1"
+},
+{
+"start_ref": "02003008",
+"start_ref_usfm": "EXO 3:8",
+"end_ref": "02003008",
+"end_ref_usfm": "EXO 3:8"
+},
+{
+"start_ref": "03020024",
+"start_ref_usfm": "LEV 20:24",
+"end_ref": "03020024",
+"end_ref_usfm": "LEV 20:24"
+},
+{
+"start_ref": "04013027",
+"start_ref_usfm": "NUM 13:27",
+"end_ref": "04013027",
+"end_ref_usfm": "NUM 13:27"
+},
+{
+"start_ref": "23007022",
+"start_ref_usfm": "ISA 7:22",
+"end_ref": "23007022",
+"end_ref_usfm": "ISA 7:22"
+},
+{
+"start_ref": "23060016",
+"start_ref_usfm": "ISA 60:16",
+"end_ref": "23060016",
+"end_ref_usfm": "ISA 60:16"
+},
+{
+"start_ref": "26020006",
+"start_ref_usfm": "EZK 20:6",
+"end_ref": "26020006",
+"end_ref_usfm": "EZK 20:6"
+},
+{
+"start_ref": "29003018",
+"start_ref_usfm": "JOL 3:18",
+"end_ref": "29003018",
+"end_ref_usfm": "JOL 3:18"
+},
+{
+"start_ref": "02023019",
+"start_ref_usfm": "EXO 23:19",
+"end_ref": "02023019",
+"end_ref_usfm": "EXO 23:19"
+},
+{
+"start_ref": "02034026",
+"start_ref_usfm": "EXO 34:26",
+"end_ref": "02034026",
+"end_ref_usfm": "EXO 34:26"
+},
+{
+"start_ref": "05014021",
+"start_ref_usfm": "DEU 14:21",
+"end_ref": "05014021",
+"end_ref_usfm": "DEU 14:21"
+},
+{
+"start_ref": "58005012",
+"start_ref_usfm": "HEB 5:12",
+"end_ref": "58005013",
+"end_ref_usfm": "HEB 5:13"
+},
+{
+"start_ref": "46003002",
+"start_ref_usfm": "1CO 3:2",
+"end_ref": "46003002",
+"end_ref_usfm": "1CO 3:2"
+},
+{
+"start_ref": "60002002",
+"start_ref_usfm": "1PE 2:2",
+"end_ref": "60002002",
+"end_ref_usfm": "1PE 2:2"
+},
+{
+"start_ref": "20030033",
+"start_ref_usfm": "PRO 30:33",
+"end_ref": "20030033",
+"end_ref_usfm": "PRO 30:33"
+},
+{
+"start_ref": "01049012",
+"start_ref_usfm": "GEN 49:12",
+"end_ref": "01049012",
+"end_ref_usfm": "GEN 49:12"
+},
+{
+"start_ref": "18010010",
+"start_ref_usfm": "JOB 10:10",
+"end_ref": "18010010",
+"end_ref_usfm": "JOB 10:10"
+},
+{
+"start_ref": "22004011",
+"start_ref_usfm": "SNG 4:11",
+"end_ref": "22004011",
+"end_ref_usfm": "SNG 4:11"
+},
+{
+"start_ref": "22005012",
+"start_ref_usfm": "SNG 5:12",
+"end_ref": "22005012",
+"end_ref_usfm": "SNG 5:12"
+},
+{
+"start_ref": "25004007",
+"start_ref_usfm": "LAM 4:7",
+"end_ref": "25004007",
+"end_ref_usfm": "LAM 4:7"
+}
+],
+"resource": [
+{
+"reference_id": "4404",
+"content_id": "4404",
+"resource_code": "DictionaryBibleThemes",
+"label": "4404: food",
+"language": "eng"
+},
+{
+"reference_id": "5881",
+"content_id": "5881",
+"resource_code": "DictionaryBibleThemes",
+"label": "5881: immaturity",
+"language": "eng"
+},
+{
+"reference_id": "7257",
+"content_id": "7257",
+"resource_code": "DictionaryBibleThemes",
+"label": "7257: promised land, the",
+"language": "eng"
+}
+]
+}
+}
+]

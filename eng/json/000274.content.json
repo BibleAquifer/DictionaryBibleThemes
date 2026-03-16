@@ -1,0 +1,208 @@
+[
+{
+"content_id": "3242",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "3242: Holy Spirit, baptism with",
+"media_type": "Text",
+"index_reference": "3242: holy spirit, baptism with",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A divine act, promised by John the Baptist and by Jesus Christ, whereby the Holy Spirit initiates Christians into realised union and communion with the glorified Jesus Christ, thus equipping and enabling them for sanctity and service.</p>\n<h2>Baptism with the Holy Spirit promised</h2>\n<h3>John the Baptist anticipates baptism with the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/John1:33\">JHN 1:33</a></strong> parallels <a href=\"https://ref.ly/Matt3:11\">MAT 3:11</a>, <a href=\"https://ref.ly/Mark1:8\">MRK 1:8</a>, <a href=\"https://ref.ly/Luke3:16\">LUK 3:16</a></p>\n<h3>Jesus Christ promises baptism with the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/Acts1:4-Acts1:5\">ACT 1:4–1:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke24:49\">LUK 24:49</a>; <a href=\"https://ref.ly/Acts1:8\">ACT 1:8</a></p>\n<h2>The gift of the Holy Spirit followed Jesus Christ's glorification</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:33\">ACT 2:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/John7:39\">JHN 7:39</a></p>\n<h2>Instances of baptism with the Holy Spirit</h2>\n<p><a href=\"https://ref.ly/Acts2:2-Acts2:4\">ACT 2:2–2:4</a> <em>at Pentecost</em>; <a href=\"https://ref.ly/Acts8:15-Acts8:17\">ACT 8:15–8:17</a>, <a href=\"https://ref.ly/Acts10:44-Acts10:47\">ACT 10:44–10:47</a>, <a href=\"https://ref.ly/Acts19:6\">ACT 19:6</a>; <a href=\"https://ref.ly/Acts10:46-Acts10:47\">ACT 10:46–10:47</a>, <a href=\"https://ref.ly/Acts11:15-Acts11:17\">ACT 11:15–11:17</a>, <a href=\"https://ref.ly/Acts15:8\">ACT 15:8</a></p>\n<h2>The gift of the Holy Spirit is for all believers at the outset of their Christian lives</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:38-Acts2:39\">ACT 2:38–2:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts2:16-Acts2:18\">ACT 2:16–2:18</a>; <a href=\"https://ref.ly/Joel2:28-Joel2:29\">JOL 2:28–2:29</a>; <a href=\"https://ref.ly/Gal3:2-Gal3:5\">GAL 3:2–3:5</a></p>\n<h2>This gift of the Holy Spirit links believers together in the one body of Christ</h2>\n<p><strong><a href=\"https://ref.ly/1Cor12:13\">1CO 12:13</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "43001033",
+"start_ref_usfm": "JHN 1:33",
+"end_ref": "43001033",
+"end_ref_usfm": "JHN 1:33"
+},
+{
+"start_ref": "40003011",
+"start_ref_usfm": "MAT 3:11",
+"end_ref": "40003011",
+"end_ref_usfm": "MAT 3:11"
+},
+{
+"start_ref": "41001008",
+"start_ref_usfm": "MRK 1:8",
+"end_ref": "41001008",
+"end_ref_usfm": "MRK 1:8"
+},
+{
+"start_ref": "42003016",
+"start_ref_usfm": "LUK 3:16",
+"end_ref": "42003016",
+"end_ref_usfm": "LUK 3:16"
+},
+{
+"start_ref": "44001004",
+"start_ref_usfm": "ACT 1:4",
+"end_ref": "44001005",
+"end_ref_usfm": "ACT 1:5"
+},
+{
+"start_ref": "42024049",
+"start_ref_usfm": "LUK 24:49",
+"end_ref": "42024049",
+"end_ref_usfm": "LUK 24:49"
+},
+{
+"start_ref": "44001008",
+"start_ref_usfm": "ACT 1:8",
+"end_ref": "44001008",
+"end_ref_usfm": "ACT 1:8"
+},
+{
+"start_ref": "44002033",
+"start_ref_usfm": "ACT 2:33",
+"end_ref": "44002033",
+"end_ref_usfm": "ACT 2:33"
+},
+{
+"start_ref": "43007039",
+"start_ref_usfm": "JHN 7:39",
+"end_ref": "43007039",
+"end_ref_usfm": "JHN 7:39"
+},
+{
+"start_ref": "44002002",
+"start_ref_usfm": "ACT 2:2",
+"end_ref": "44002004",
+"end_ref_usfm": "ACT 2:4"
+},
+{
+"start_ref": "44008015",
+"start_ref_usfm": "ACT 8:15",
+"end_ref": "44008017",
+"end_ref_usfm": "ACT 8:17"
+},
+{
+"start_ref": "44010044",
+"start_ref_usfm": "ACT 10:44",
+"end_ref": "44010047",
+"end_ref_usfm": "ACT 10:47"
+},
+{
+"start_ref": "44019006",
+"start_ref_usfm": "ACT 19:6",
+"end_ref": "44019006",
+"end_ref_usfm": "ACT 19:6"
+},
+{
+"start_ref": "44010046",
+"start_ref_usfm": "ACT 10:46",
+"end_ref": "44010047",
+"end_ref_usfm": "ACT 10:47"
+},
+{
+"start_ref": "44011015",
+"start_ref_usfm": "ACT 11:15",
+"end_ref": "44011017",
+"end_ref_usfm": "ACT 11:17"
+},
+{
+"start_ref": "44015008",
+"start_ref_usfm": "ACT 15:8",
+"end_ref": "44015008",
+"end_ref_usfm": "ACT 15:8"
+},
+{
+"start_ref": "44002038",
+"start_ref_usfm": "ACT 2:38",
+"end_ref": "44002039",
+"end_ref_usfm": "ACT 2:39"
+},
+{
+"start_ref": "44002016",
+"start_ref_usfm": "ACT 2:16",
+"end_ref": "44002018",
+"end_ref_usfm": "ACT 2:18"
+},
+{
+"start_ref": "29002028",
+"start_ref_usfm": "JOL 2:28",
+"end_ref": "29002029",
+"end_ref_usfm": "JOL 2:29"
+},
+{
+"start_ref": "48003002",
+"start_ref_usfm": "GAL 3:2",
+"end_ref": "48003005",
+"end_ref_usfm": "GAL 3:5"
+},
+{
+"start_ref": "46012013",
+"start_ref_usfm": "1CO 12:13",
+"end_ref": "46012013",
+"end_ref_usfm": "1CO 12:13"
+}
+],
+"resource": [
+{
+"reference_id": "3040",
+"content_id": "3040",
+"resource_code": "DictionaryBibleThemes",
+"label": "3040: Holy Spirit, promise of",
+"language": "eng"
+},
+{
+"reference_id": "3239",
+"content_id": "3239",
+"resource_code": "DictionaryBibleThemes",
+"label": "3239: Holy Spirit, anointing of",
+"language": "eng"
+},
+{
+"reference_id": "3251",
+"content_id": "3251",
+"resource_code": "DictionaryBibleThemes",
+"label": "3251: Holy Spirit, filling with",
+"language": "eng"
+},
+{
+"reference_id": "3257",
+"content_id": "3257",
+"resource_code": "DictionaryBibleThemes",
+"label": "3257: Holy Spirit, gift of",
+"language": "eng"
+},
+{
+"reference_id": "3269",
+"content_id": "3269",
+"resource_code": "DictionaryBibleThemes",
+"label": "3269: Holy Spirit, in life of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "5098",
+"content_id": "5098",
+"resource_code": "DictionaryBibleThemes",
+"label": "5098: John the Baptist",
+"language": "eng"
+},
+{
+"reference_id": "6754",
+"content_id": "6754",
+"resource_code": "DictionaryBibleThemes",
+"label": "6754: union with Christ",
+"language": "eng"
+},
+{
+"reference_id": "7903",
+"content_id": "7903",
+"resource_code": "DictionaryBibleThemes",
+"label": "7903: baptism",
+"language": "eng"
+},
+{
+"reference_id": "8422",
+"content_id": "8422",
+"resource_code": "DictionaryBibleThemes",
+"label": "8422: equipping, spiritual",
+"language": "eng"
+}
+]
+}
+}
+]

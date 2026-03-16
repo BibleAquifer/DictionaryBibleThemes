@@ -1,0 +1,160 @@
+[
+{
+"content_id": "4236",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4236: fountain",
+"media_type": "Text",
+"index_reference": "4236: fountain",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A source of natural spring water. Figuratively, it symbolises a place of cleansing, tears or sexual fulfilment. Significantly, God is pictured as a fountain of life.</p>\n<h2>The fountain as a source of spring water</h2>\n<p><strong><a href=\"https://ref.ly/Prov18:4\">PRO 18:4</a></strong></p>\n<h2>Figurative use of fountains</h2>\n<h3>A place of cleansing</h3>\n<p><strong><a href=\"https://ref.ly/Zech13:1\">ZEC 13:1</a></strong></p>\n<h3>Tears of inconsolable grief</h3>\n<p><strong><a href=\"https://ref.ly/Jer9:1\">JER 9:1</a></strong></p>\n<h3>Sexual fulfilment</h3>\n<p><strong><a href=\"https://ref.ly/Song4:12\">SNG 4:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov5:15-Prov5:18\">PRO 5:15–5:18</a>; <a href=\"https://ref.ly/Song4:15\">SNG 4:15</a></p>\n<h3>A source of life</h3>\n<p><strong><a href=\"https://ref.ly/Prov14:27\">PRO 14:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps36:8-Ps36:9\">PSA 36:8–36:9</a>, <a href=\"https://ref.ly/Ps87:7\">PSA 87:7</a>; <a href=\"https://ref.ly/Prov10:11\">PRO 10:11</a>, <a href=\"https://ref.ly/Prov13:14\">PRO 13:14</a>, <a href=\"https://ref.ly/Prov16:22\">PRO 16:22</a>; <a href=\"https://ref.ly/Joel3:18\">JOL 3:18</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "20018004",
+"start_ref_usfm": "PRO 18:4",
+"end_ref": "20018004",
+"end_ref_usfm": "PRO 18:4"
+},
+{
+"start_ref": "38013001",
+"start_ref_usfm": "ZEC 13:1",
+"end_ref": "38013001",
+"end_ref_usfm": "ZEC 13:1"
+},
+{
+"start_ref": "24009001",
+"start_ref_usfm": "JER 9:1",
+"end_ref": "24009001",
+"end_ref_usfm": "JER 9:1"
+},
+{
+"start_ref": "22004012",
+"start_ref_usfm": "SNG 4:12",
+"end_ref": "22004012",
+"end_ref_usfm": "SNG 4:12"
+},
+{
+"start_ref": "20005015",
+"start_ref_usfm": "PRO 5:15",
+"end_ref": "20005018",
+"end_ref_usfm": "PRO 5:18"
+},
+{
+"start_ref": "22004015",
+"start_ref_usfm": "SNG 4:15",
+"end_ref": "22004015",
+"end_ref_usfm": "SNG 4:15"
+},
+{
+"start_ref": "20014027",
+"start_ref_usfm": "PRO 14:27",
+"end_ref": "20014027",
+"end_ref_usfm": "PRO 14:27"
+},
+{
+"start_ref": "19036008",
+"start_ref_usfm": "PSA 36:8",
+"end_ref": "19036009",
+"end_ref_usfm": "PSA 36:9"
+},
+{
+"start_ref": "19087007",
+"start_ref_usfm": "PSA 87:7",
+"end_ref": "19087007",
+"end_ref_usfm": "PSA 87:7"
+},
+{
+"start_ref": "20010011",
+"start_ref_usfm": "PRO 10:11",
+"end_ref": "20010011",
+"end_ref_usfm": "PRO 10:11"
+},
+{
+"start_ref": "20013014",
+"start_ref_usfm": "PRO 13:14",
+"end_ref": "20013014",
+"end_ref_usfm": "PRO 13:14"
+},
+{
+"start_ref": "20016022",
+"start_ref_usfm": "PRO 16:22",
+"end_ref": "20016022",
+"end_ref_usfm": "PRO 16:22"
+},
+{
+"start_ref": "29003018",
+"start_ref_usfm": "JOL 3:18",
+"end_ref": "29003018",
+"end_ref_usfm": "JOL 3:18"
+}
+],
+"resource": [
+{
+"reference_id": "3120",
+"content_id": "3120",
+"resource_code": "DictionaryBibleThemes",
+"label": "3120: Holy Spirit, descriptions of",
+"language": "eng"
+},
+{
+"reference_id": "3290",
+"content_id": "3290",
+"resource_code": "DictionaryBibleThemes",
+"label": "3290: Holy Spirit, the life-giver",
+"language": "eng"
+},
+{
+"reference_id": "4018",
+"content_id": "4018",
+"resource_code": "DictionaryBibleThemes",
+"label": "4018: life, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "4227",
+"content_id": "4227",
+"resource_code": "DictionaryBibleThemes",
+"label": "4227: deep, the",
+"language": "eng"
+},
+{
+"reference_id": "4260",
+"content_id": "4260",
+"resource_code": "DictionaryBibleThemes",
+"label": "4260: rivers and streams",
+"language": "eng"
+},
+{
+"reference_id": "4278",
+"content_id": "4278",
+"resource_code": "DictionaryBibleThemes",
+"label": "4278: spring of water",
+"language": "eng"
+},
+{
+"reference_id": "4293",
+"content_id": "4293",
+"resource_code": "DictionaryBibleThemes",
+"label": "4293: water",
+"language": "eng"
+},
+{
+"reference_id": "4296",
+"content_id": "4296",
+"resource_code": "DictionaryBibleThemes",
+"label": "4296: wells",
+"language": "eng"
+},
+{
+"reference_id": "5198",
+"content_id": "5198",
+"resource_code": "DictionaryBibleThemes",
+"label": "5198: weeping",
+"language": "eng"
+}
+]
+}
+}
+]

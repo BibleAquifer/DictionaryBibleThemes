@@ -1,0 +1,46 @@
+[
+{
+"content_id": "5605",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5605: warfare",
+"media_type": "Text",
+"index_reference": "5605: warfare",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The state of being at war with an opposing nation or people. Scripture neither condemns nor glories in warfare, but recognises it as a continuing aspect of this fallen world. In particular, the NT stresses the importance of spiritual warfare in the life of faith.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5606",
+"content_id": "5606",
+"resource_code": "DictionaryBibleThemes",
+"label": "5606: warfare, nature of",
+"language": "eng"
+},
+{
+"reference_id": "5607",
+"content_id": "5607",
+"resource_code": "DictionaryBibleThemes",
+"label": "5607: warfare, examples of",
+"language": "eng"
+},
+{
+"reference_id": "5608",
+"content_id": "5608",
+"resource_code": "DictionaryBibleThemes",
+"label": "5608: warfare, strategies in",
+"language": "eng"
+},
+{
+"reference_id": "5609",
+"content_id": "5609",
+"resource_code": "DictionaryBibleThemes",
+"label": "5609: warfare, spiritual",
+"language": "eng"
+}
+]
+}
+}
+]

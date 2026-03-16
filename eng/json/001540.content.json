@@ -1,0 +1,32 @@
+[
+{
+"content_id": "6181",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6181: ignorance",
+"media_type": "Text",
+"index_reference": "6181: ignorance",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A state of lack of knowledge or information, including a failure to know the person, will and ways of God. Scripture emphasises the importance of a true knowledge of God and makes such knowledge available.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6182",
+"content_id": "6182",
+"resource_code": "DictionaryBibleThemes",
+"label": "6182: ignorance, and human situation",
+"language": "eng"
+},
+{
+"reference_id": "6183",
+"content_id": "6183",
+"resource_code": "DictionaryBibleThemes",
+"label": "6183: ignorance, of God",
+"language": "eng"
+}
+]
+}
+}
+]

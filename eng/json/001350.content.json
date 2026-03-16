@@ -1,0 +1,200 @@
+[
+{
+"content_id": "5829",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5829: defiance",
+"media_type": "Text",
+"index_reference": "5829: defiance",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Open refusal to obey any authority. Defiance is seen in the Bible as evil when authority is legitimate but good when authority is ungodly.</p>\n<h2>Defiance of God is condemned</h2>\n<p><strong><a href=\"https://ref.ly/Jer50:29\">JER 50:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs13:21-1Kgs13:22\">1KI 13:21–13:22</a>, <a href=\"https://ref.ly/1Kgs13:26\">1KI 13:26</a>; <a href=\"https://ref.ly/Ps139:19-Ps139:22\">PSA 139:19–139:22</a>; <a href=\"https://ref.ly/Isa3:8\">ISA 3:8</a>, <a href=\"https://ref.ly/Isa65:7\">ISA 65:7</a>; <a href=\"https://ref.ly/Jer48:26\">JER 48:26</a>, <a href=\"https://ref.ly/Jer48:42\">JER 48:42</a></p>\n<h3>To defy God's people is to defy God</h3>\n<p><a href=\"https://ref.ly/1Sam17:10\">1SA 17:10</a>, <a href=\"https://ref.ly/1Sam17:23\">1SA 17:23</a>, <a href=\"https://ref.ly/1Sam17:25-1Sam17:26\">1SA 17:25–17:26</a>, <a href=\"https://ref.ly/1Sam17:36\">1SA 17:36</a>, <a href=\"https://ref.ly/1Sam17:45\">1SA 17:45</a></p>\n<h2>Defiance of legitimate authority</h2>\n<p><strong><a href=\"https://ref.ly/Rom13:2\">ROM 13:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num15:30\">NUM 15:30</a>; <a href=\"https://ref.ly/1Pet2:13\">1PE 2:13</a></p>\n<h2>Defiance of ungodly authority</h2>\n<p><strong><a href=\"https://ref.ly/Dan3:28\">DAN 3:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan6:13\">DAN 6:13</a>; <a href=\"https://ref.ly/Acts4:19\">ACT 4:19</a>, <a href=\"https://ref.ly/Acts5:29\">ACT 5:29</a>, <a href=\"https://ref.ly/Acts17:7\">ACT 17:7</a>; <a href=\"https://ref.ly/Rev20:4\">REV 20:4</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "24050029",
+"start_ref_usfm": "JER 50:29",
+"end_ref": "24050029",
+"end_ref_usfm": "JER 50:29"
+},
+{
+"start_ref": "11013021",
+"start_ref_usfm": "1KI 13:21",
+"end_ref": "11013022",
+"end_ref_usfm": "1KI 13:22"
+},
+{
+"start_ref": "11013026",
+"start_ref_usfm": "1KI 13:26",
+"end_ref": "11013026",
+"end_ref_usfm": "1KI 13:26"
+},
+{
+"start_ref": "19139019",
+"start_ref_usfm": "PSA 139:19",
+"end_ref": "19139022",
+"end_ref_usfm": "PSA 139:22"
+},
+{
+"start_ref": "23003008",
+"start_ref_usfm": "ISA 3:8",
+"end_ref": "23003008",
+"end_ref_usfm": "ISA 3:8"
+},
+{
+"start_ref": "23065007",
+"start_ref_usfm": "ISA 65:7",
+"end_ref": "23065007",
+"end_ref_usfm": "ISA 65:7"
+},
+{
+"start_ref": "24048026",
+"start_ref_usfm": "JER 48:26",
+"end_ref": "24048026",
+"end_ref_usfm": "JER 48:26"
+},
+{
+"start_ref": "24048042",
+"start_ref_usfm": "JER 48:42",
+"end_ref": "24048042",
+"end_ref_usfm": "JER 48:42"
+},
+{
+"start_ref": "09017010",
+"start_ref_usfm": "1SA 17:10",
+"end_ref": "09017010",
+"end_ref_usfm": "1SA 17:10"
+},
+{
+"start_ref": "09017023",
+"start_ref_usfm": "1SA 17:23",
+"end_ref": "09017023",
+"end_ref_usfm": "1SA 17:23"
+},
+{
+"start_ref": "09017025",
+"start_ref_usfm": "1SA 17:25",
+"end_ref": "09017026",
+"end_ref_usfm": "1SA 17:26"
+},
+{
+"start_ref": "09017036",
+"start_ref_usfm": "1SA 17:36",
+"end_ref": "09017036",
+"end_ref_usfm": "1SA 17:36"
+},
+{
+"start_ref": "09017045",
+"start_ref_usfm": "1SA 17:45",
+"end_ref": "09017045",
+"end_ref_usfm": "1SA 17:45"
+},
+{
+"start_ref": "45013002",
+"start_ref_usfm": "ROM 13:2",
+"end_ref": "45013002",
+"end_ref_usfm": "ROM 13:2"
+},
+{
+"start_ref": "04015030",
+"start_ref_usfm": "NUM 15:30",
+"end_ref": "04015030",
+"end_ref_usfm": "NUM 15:30"
+},
+{
+"start_ref": "60002013",
+"start_ref_usfm": "1PE 2:13",
+"end_ref": "60002013",
+"end_ref_usfm": "1PE 2:13"
+},
+{
+"start_ref": "27003028",
+"start_ref_usfm": "DAN 3:28",
+"end_ref": "27003028",
+"end_ref_usfm": "DAN 3:28"
+},
+{
+"start_ref": "27006013",
+"start_ref_usfm": "DAN 6:13",
+"end_ref": "27006013",
+"end_ref_usfm": "DAN 6:13"
+},
+{
+"start_ref": "44004019",
+"start_ref_usfm": "ACT 4:19",
+"end_ref": "44004019",
+"end_ref_usfm": "ACT 4:19"
+},
+{
+"start_ref": "44005029",
+"start_ref_usfm": "ACT 5:29",
+"end_ref": "44005029",
+"end_ref_usfm": "ACT 5:29"
+},
+{
+"start_ref": "44017007",
+"start_ref_usfm": "ACT 17:7",
+"end_ref": "44017007",
+"end_ref_usfm": "ACT 17:7"
+},
+{
+"start_ref": "66020004",
+"start_ref_usfm": "REV 20:4",
+"end_ref": "66020004",
+"end_ref_usfm": "REV 20:4"
+}
+],
+"resource": [
+{
+"reference_id": "5215",
+"content_id": "5215",
+"resource_code": "DictionaryBibleThemes",
+"label": "5215: authority",
+"language": "eng"
+},
+{
+"reference_id": "5257",
+"content_id": "5257",
+"resource_code": "DictionaryBibleThemes",
+"label": "5257: civil authorities",
+"language": "eng"
+},
+{
+"reference_id": "5326",
+"content_id": "5326",
+"resource_code": "DictionaryBibleThemes",
+"label": "5326: government",
+"language": "eng"
+},
+{
+"reference_id": "5457",
+"content_id": "5457",
+"resource_code": "DictionaryBibleThemes",
+"label": "5457: power, human",
+"language": "eng"
+},
+{
+"reference_id": "6193",
+"content_id": "6193",
+"resource_code": "DictionaryBibleThemes",
+"label": "6193: impenitence",
+"language": "eng"
+},
+{
+"reference_id": "6221",
+"content_id": "6221",
+"resource_code": "DictionaryBibleThemes",
+"label": "6221: rebellion",
+"language": "eng"
+},
+{
+"reference_id": "8718",
+"content_id": "8718",
+"resource_code": "DictionaryBibleThemes",
+"label": "8718: disobedience",
+"language": "eng"
+}
+]
+}
+}
+]

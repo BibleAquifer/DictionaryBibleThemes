@@ -1,0 +1,265 @@
+[
+{
+"content_id": "5692",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5692: friends, bad",
+"media_type": "Text",
+"index_reference": "5692: friends, bad",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Those who are close or who exercise influence, who prove to be unreliable or deceptive or who lead astray. Scripture provides numerous instructive examples of the negative effects of bad friends upon believers.</p>\n<h2>Friends who lead astray</h2>\n<h3>From worship</h3>\n<p><strong><a href=\"https://ref.ly/Deut13:6-Deut13:8\">DEU 13:6–13:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut23:6\">DEU 23:6</a>; <a href=\"https://ref.ly/1Kgs11:2\">1KI 11:2</a></p>\n<h3>From good character</h3>\n<p><strong><a href=\"https://ref.ly/1Cor15:33\">1CO 15:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov12:26\">PRO 12:26</a>, <a href=\"https://ref.ly/Prov22:24-Prov22:25\">PRO 22:24–22:25</a></p>\n<h3>From friendship with God</h3>\n<p><strong><a href=\"https://ref.ly/Jas4:4\">JAS 4:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa52:11\">ISA 52:11</a>; <a href=\"https://ref.ly/Jer9:4-Jer9:5\">JER 9:4–9:5</a>; <a href=\"https://ref.ly/Mic7:5\">MIC 7:5</a>; <a href=\"https://ref.ly/2Cor6:14-2Cor6:18\">2CO 6:14–6:18</a>, <a href=\"https://ref.ly/2Cor7:1\">2CO 7:1</a></p>\n<h2>Friends who are unreliable</h2>\n<h3>In their commitment</h3>\n<p><strong><a href=\"https://ref.ly/Job6:14-Job6:17\">JOB 6:14–6:17</a></strong></p>\n<h3>In their trustworthiness</h3>\n<p><strong><a href=\"https://ref.ly/Ps41:9\">PSA 41:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps38:11\">PSA 38:11</a>, <a href=\"https://ref.ly/Ps55:20-Ps55:21\">PSA 55:20–55:21</a>; <a href=\"https://ref.ly/Obad1:7\">OBA 1:7</a>; <a href=\"https://ref.ly/Matt26:14-Matt26:15\">MAT 26:14–26:15</a>; <a href=\"https://ref.ly/John13:18\">JHN 13:18</a> <em>Jesus Christ is speaking about his betrayal by Judas.</em></p>\n<h3>In their support</h3>\n<p><strong><a href=\"https://ref.ly/2Tim4:16\">2TI 4:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Tim4:10\">2TI 4:10</a></p>\n<h2>Examples of bad friends</h2>\n<h3>Those who lead astray</h3>\n<p><strong><a href=\"https://ref.ly/Gen3:12\">GEN 3:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs12:8-1Kgs12:11\">1KI 12:8–12:11</a>; <a href=\"https://ref.ly/Esth5:14\">EST 5:14</a></p>\n<h3>Those who are inconstant</h3>\n<p><strong><a href=\"https://ref.ly/Job19:19\">JOB 19:19</a></strong> <em>Presumably these friends are not merely the ones who attempted to comfort him.</em> <em>See also</em> <a href=\"https://ref.ly/Matt26:31\">MAT 26:31</a>, <a href=\"https://ref.ly/Matt26:33-Matt26:34\">MAT 26:33–26:34</a>; <a href=\"https://ref.ly/2Tim4:10\">2TI 4:10</a>, <a href=\"https://ref.ly/2Tim4:16\">2TI 4:16</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05013006",
+"start_ref_usfm": "DEU 13:6",
+"end_ref": "05013008",
+"end_ref_usfm": "DEU 13:8"
+},
+{
+"start_ref": "05023006",
+"start_ref_usfm": "DEU 23:6",
+"end_ref": "05023006",
+"end_ref_usfm": "DEU 23:6"
+},
+{
+"start_ref": "11011002",
+"start_ref_usfm": "1KI 11:2",
+"end_ref": "11011002",
+"end_ref_usfm": "1KI 11:2"
+},
+{
+"start_ref": "46015033",
+"start_ref_usfm": "1CO 15:33",
+"end_ref": "46015033",
+"end_ref_usfm": "1CO 15:33"
+},
+{
+"start_ref": "20012026",
+"start_ref_usfm": "PRO 12:26",
+"end_ref": "20012026",
+"end_ref_usfm": "PRO 12:26"
+},
+{
+"start_ref": "20022024",
+"start_ref_usfm": "PRO 22:24",
+"end_ref": "20022025",
+"end_ref_usfm": "PRO 22:25"
+},
+{
+"start_ref": "59004004",
+"start_ref_usfm": "JAS 4:4",
+"end_ref": "59004004",
+"end_ref_usfm": "JAS 4:4"
+},
+{
+"start_ref": "23052011",
+"start_ref_usfm": "ISA 52:11",
+"end_ref": "23052011",
+"end_ref_usfm": "ISA 52:11"
+},
+{
+"start_ref": "24009004",
+"start_ref_usfm": "JER 9:4",
+"end_ref": "24009005",
+"end_ref_usfm": "JER 9:5"
+},
+{
+"start_ref": "33007005",
+"start_ref_usfm": "MIC 7:5",
+"end_ref": "33007005",
+"end_ref_usfm": "MIC 7:5"
+},
+{
+"start_ref": "47006014",
+"start_ref_usfm": "2CO 6:14",
+"end_ref": "47006018",
+"end_ref_usfm": "2CO 6:18"
+},
+{
+"start_ref": "47007001",
+"start_ref_usfm": "2CO 7:1",
+"end_ref": "47007001",
+"end_ref_usfm": "2CO 7:1"
+},
+{
+"start_ref": "18006014",
+"start_ref_usfm": "JOB 6:14",
+"end_ref": "18006017",
+"end_ref_usfm": "JOB 6:17"
+},
+{
+"start_ref": "19041009",
+"start_ref_usfm": "PSA 41:9",
+"end_ref": "19041009",
+"end_ref_usfm": "PSA 41:9"
+},
+{
+"start_ref": "19038011",
+"start_ref_usfm": "PSA 38:11",
+"end_ref": "19038011",
+"end_ref_usfm": "PSA 38:11"
+},
+{
+"start_ref": "19055020",
+"start_ref_usfm": "PSA 55:20",
+"end_ref": "19055021",
+"end_ref_usfm": "PSA 55:21"
+},
+{
+"start_ref": "31001007",
+"start_ref_usfm": "OBA 1:7",
+"end_ref": "31001007",
+"end_ref_usfm": "OBA 1:7"
+},
+{
+"start_ref": "40026014",
+"start_ref_usfm": "MAT 26:14",
+"end_ref": "40026015",
+"end_ref_usfm": "MAT 26:15"
+},
+{
+"start_ref": "43013018",
+"start_ref_usfm": "JHN 13:18",
+"end_ref": "43013018",
+"end_ref_usfm": "JHN 13:18"
+},
+{
+"start_ref": "55004016",
+"start_ref_usfm": "2TI 4:16",
+"end_ref": "55004016",
+"end_ref_usfm": "2TI 4:16"
+},
+{
+"start_ref": "55004010",
+"start_ref_usfm": "2TI 4:10",
+"end_ref": "55004010",
+"end_ref_usfm": "2TI 4:10"
+},
+{
+"start_ref": "01003012",
+"start_ref_usfm": "GEN 3:12",
+"end_ref": "01003012",
+"end_ref_usfm": "GEN 3:12"
+},
+{
+"start_ref": "11012008",
+"start_ref_usfm": "1KI 12:8",
+"end_ref": "11012011",
+"end_ref_usfm": "1KI 12:11"
+},
+{
+"start_ref": "17005014",
+"start_ref_usfm": "EST 5:14",
+"end_ref": "17005014",
+"end_ref_usfm": "EST 5:14"
+},
+{
+"start_ref": "18019019",
+"start_ref_usfm": "JOB 19:19",
+"end_ref": "18019019",
+"end_ref_usfm": "JOB 19:19"
+},
+{
+"start_ref": "40026031",
+"start_ref_usfm": "MAT 26:31",
+"end_ref": "40026031",
+"end_ref_usfm": "MAT 26:31"
+},
+{
+"start_ref": "40026033",
+"start_ref_usfm": "MAT 26:33",
+"end_ref": "40026034",
+"end_ref_usfm": "MAT 26:34"
+}
+],
+"resource": [
+{
+"reference_id": "5798",
+"content_id": "5798",
+"resource_code": "DictionaryBibleThemes",
+"label": "5798: betrayal",
+"language": "eng"
+},
+{
+"reference_id": "5835",
+"content_id": "5835",
+"resource_code": "DictionaryBibleThemes",
+"label": "5835: disappointment",
+"language": "eng"
+},
+{
+"reference_id": "5863",
+"content_id": "5863",
+"resource_code": "DictionaryBibleThemes",
+"label": "5863: flattery",
+"language": "eng"
+},
+{
+"reference_id": "5868",
+"content_id": "5868",
+"resource_code": "DictionaryBibleThemes",
+"label": "5868: gossip",
+"language": "eng"
+},
+{
+"reference_id": "5973",
+"content_id": "5973",
+"resource_code": "DictionaryBibleThemes",
+"label": "5973: unreliability",
+"language": "eng"
+},
+{
+"reference_id": "6145",
+"content_id": "6145",
+"resource_code": "DictionaryBibleThemes",
+"label": "6145: deceit",
+"language": "eng"
+},
+{
+"reference_id": "8729",
+"content_id": "8729",
+"resource_code": "DictionaryBibleThemes",
+"label": "8729: enemies, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "8755",
+"content_id": "8755",
+"resource_code": "DictionaryBibleThemes",
+"label": "8755: folly",
+"language": "eng"
+},
+{
+"reference_id": "8759",
+"content_id": "8759",
+"resource_code": "DictionaryBibleThemes",
+"label": "8759: fools",
+"language": "eng"
+},
+{
+"reference_id": "8767",
+"content_id": "8767",
+"resource_code": "DictionaryBibleThemes",
+"label": "8767: hypocrisy",
+"language": "eng"
+},
+{
+"reference_id": "8773",
+"content_id": "8773",
+"resource_code": "DictionaryBibleThemes",
+"label": "8773: jealousy",
+"language": "eng"
+},
+{
+"reference_id": "8841",
+"content_id": "8841",
+"resource_code": "DictionaryBibleThemes",
+"label": "8841: unfaithfulness, to people",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,53 @@
+[
+{
+"content_id": "7903",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7903: baptism",
+"media_type": "Text",
+"index_reference": "7903: baptism",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A washing with water, which symbolises the cleansing of believers from the stain and dirt of sin through the grace of God. Jesus Christ submitted to baptism as an example to believers. Through the work of the Holy Spirit, baptism is linked with union with the risen Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7904",
+"content_id": "7904",
+"resource_code": "DictionaryBibleThemes",
+"label": "7904: baptism, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "7905",
+"content_id": "7905",
+"resource_code": "DictionaryBibleThemes",
+"label": "7905: baptism, with Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "7906",
+"content_id": "7906",
+"resource_code": "DictionaryBibleThemes",
+"label": "7906: baptism, in the Gospels",
+"language": "eng"
+},
+{
+"reference_id": "7907",
+"content_id": "7907",
+"resource_code": "DictionaryBibleThemes",
+"label": "7907: baptism, practice of",
+"language": "eng"
+},
+{
+"reference_id": "7908",
+"content_id": "7908",
+"resource_code": "DictionaryBibleThemes",
+"label": "7908: baptism, significance of",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,82 @@
+[
+{
+"content_id": "5406",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5406: mercenaries",
+"media_type": "Text",
+"index_reference": "5406: mercenaries",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Soldiers who offers their services for money, irrespective of the nationality of the army in question.</p>\n<h2>Mercenaries in the Egyptian army</h2>\n<p><strong><a href=\"https://ref.ly/Jer46:20-Jer46:21\">JER 46:20–46:21</a></strong> <em>These mercenaries were drawn from Cush to the south of Egypt, Put to the west of Egypt and Lydia in north Africa.</em></p>\n<h2>Mercenaries in the Ammonite army</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/2Sam10:6\">2SA 10:6</a> parallel <a href=\"https://ref.ly/1Chr19:7\">1CH 19:7</a></p>\n<h2>Mercenaries hired by Jehoiada the priest</h2>\n<p><a href=\"https://ref.ly/2Kgs11:4\">2KI 11:4</a>, <a href=\"https://ref.ly/2Kgs11:19\">2KI 11:19</a> <em>The Carites were from Caria in south-west Asia Minor.</em></p>\n<h2>Mercenaries in the army of Judah</h2>\n<p><a href=\"https://ref.ly/2Chr25:6\">2CH 25:6</a></p>\n<h2>Fear of mercenary attack</h2>\n<p><a href=\"https://ref.ly/2Kgs7:6-2Kgs7:7\">2KI 7:6–7:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "24046020",
+"start_ref_usfm": "JER 46:20",
+"end_ref": "24046021",
+"end_ref_usfm": "JER 46:21"
+},
+{
+"start_ref": "10010006",
+"start_ref_usfm": "2SA 10:6",
+"end_ref": "10010006",
+"end_ref_usfm": "2SA 10:6"
+},
+{
+"start_ref": "13019007",
+"start_ref_usfm": "1CH 19:7",
+"end_ref": "13019007",
+"end_ref_usfm": "1CH 19:7"
+},
+{
+"start_ref": "12011004",
+"start_ref_usfm": "2KI 11:4",
+"end_ref": "12011004",
+"end_ref_usfm": "2KI 11:4"
+},
+{
+"start_ref": "12011019",
+"start_ref_usfm": "2KI 11:19",
+"end_ref": "12011019",
+"end_ref_usfm": "2KI 11:19"
+},
+{
+"start_ref": "14025006",
+"start_ref_usfm": "2CH 25:6",
+"end_ref": "14025006",
+"end_ref_usfm": "2CH 25:6"
+},
+{
+"start_ref": "12007006",
+"start_ref_usfm": "2KI 7:6",
+"end_ref": "12007007",
+"end_ref_usfm": "2KI 7:7"
+}
+],
+"resource": [
+{
+"reference_id": "5208",
+"content_id": "5208",
+"resource_code": "DictionaryBibleThemes",
+"label": "5208: armies",
+"language": "eng"
+},
+{
+"reference_id": "5337",
+"content_id": "5337",
+"resource_code": "DictionaryBibleThemes",
+"label": "5337: hiring",
+"language": "eng"
+},
+{
+"reference_id": "5544",
+"content_id": "5544",
+"resource_code": "DictionaryBibleThemes",
+"label": "5544: soldiers",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,241 @@
+[
+{
+"content_id": "2590",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "2590: Jesus Christ, triumphal entry of",
+"media_type": "Text",
+"index_reference": "2590: jesus christ, triumphal entry of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Jesus Christ rode into Jerusalem on a colt, royally yet humbly, to the rejoicing of his followers, but provoking opposition from the Jewish religious leaders.</p>\n<h2>The colt used in Jesus Christ's entry into Jerusalem</h2>\n<h3>Jesus Christ's instructions to his disciples</h3>\n<p><strong><a href=\"https://ref.ly/Luke19:29-Luke19:31\">LUK 19:29–19:31</a></strong> parallels <a href=\"https://ref.ly/Matt21:1-Matt21:3\">MAT 21:1–21:3</a>, <a href=\"https://ref.ly/Mark11:1-Mark11:3\">MRK 11:1–11:3</a></p>\n<h3>The obedience of the disciples</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Matt21:6\">MAT 21:6</a> parallels <a href=\"https://ref.ly/Mark11:4-Mark11:6\">MRK 11:4–11:6</a>, <a href=\"https://ref.ly/Luke19:32-Luke19:34\">LUK 19:32–19:34</a></p>\n<h2>Jesus Christ's entry into Jerusalem</h2>\n<p><strong><a href=\"https://ref.ly/John12:14-John12:15\">JHN 12:14–12:15</a></strong> parallel <a href=\"https://ref.ly/Matt21:4-Matt21:5\">MAT 21:4–21:5</a> <em>See also</em> <a href=\"https://ref.ly/Isa62:11\">ISA 62:11</a>; <a href=\"https://ref.ly/Zech9:9\">ZEC 9:9</a></p>\n<h2>The response of the crowd to Jesus Christ's entry into Jerusalem</h2>\n<h3>Proclamation of Jesus Christ's kingship</h3>\n<p><a href=\"https://ref.ly/Matt21:8\">MAT 21:8</a> parallels <a href=\"https://ref.ly/Mark11:8\">MRK 11:8</a>, <a href=\"https://ref.ly/Luke19:36\">LUK 19:36</a>; ; <a href=\"https://ref.ly/2Kgs9:13\">2KI 9:13</a> <em>Spreading cloaks on the road was an act of royal homage.</em></p>\n<h3>Proclamation of Jesus' messiahship</h3>\n<p><strong><a href=\"https://ref.ly/Matt21:9\">MAT 21:9</a></strong> parallels <a href=\"https://ref.ly/Mark11:9-Mark11:10\">MRK 11:9–11:10</a>, <a href=\"https://ref.ly/Luke19:37-Luke19:38\">LUK 19:37–19:38</a> <em>See also</em> <a href=\"https://ref.ly/Ps118:26\">PSA 118:26</a></p>\n<h3>Proclamation of Jesus Christ's victory</h3>\n<p><strong><a href=\"https://ref.ly/John12:13\">JHN 12:13</a></strong> <em>Palm branches were used in celebration of victory.</em> <em>See also</em> <a href=\"https://ref.ly/Lev23:40\">LEV 23:40</a>; <a href=\"https://ref.ly/Ps118:27\">PSA 118:27</a>; <a href=\"https://ref.ly/Rev7:9\">REV 7:9</a></p>\n<h2>The response of the Pharisees to Jesus Christ's entry into Jerusalem</h2>\n<p><a href=\"https://ref.ly/Luke19:39-Luke19:40\">LUK 19:39–19:40</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42019029",
+"start_ref_usfm": "LUK 19:29",
+"end_ref": "42019031",
+"end_ref_usfm": "LUK 19:31"
+},
+{
+"start_ref": "40021001",
+"start_ref_usfm": "MAT 21:1",
+"end_ref": "40021003",
+"end_ref_usfm": "MAT 21:3"
+},
+{
+"start_ref": "41011001",
+"start_ref_usfm": "MRK 11:1",
+"end_ref": "41011003",
+"end_ref_usfm": "MRK 11:3"
+},
+{
+"start_ref": "40021006",
+"start_ref_usfm": "MAT 21:6",
+"end_ref": "40021006",
+"end_ref_usfm": "MAT 21:6"
+},
+{
+"start_ref": "41011004",
+"start_ref_usfm": "MRK 11:4",
+"end_ref": "41011006",
+"end_ref_usfm": "MRK 11:6"
+},
+{
+"start_ref": "42019032",
+"start_ref_usfm": "LUK 19:32",
+"end_ref": "42019034",
+"end_ref_usfm": "LUK 19:34"
+},
+{
+"start_ref": "43012014",
+"start_ref_usfm": "JHN 12:14",
+"end_ref": "43012015",
+"end_ref_usfm": "JHN 12:15"
+},
+{
+"start_ref": "40021004",
+"start_ref_usfm": "MAT 21:4",
+"end_ref": "40021005",
+"end_ref_usfm": "MAT 21:5"
+},
+{
+"start_ref": "23062011",
+"start_ref_usfm": "ISA 62:11",
+"end_ref": "23062011",
+"end_ref_usfm": "ISA 62:11"
+},
+{
+"start_ref": "38009009",
+"start_ref_usfm": "ZEC 9:9",
+"end_ref": "38009009",
+"end_ref_usfm": "ZEC 9:9"
+},
+{
+"start_ref": "40021008",
+"start_ref_usfm": "MAT 21:8",
+"end_ref": "40021008",
+"end_ref_usfm": "MAT 21:8"
+},
+{
+"start_ref": "41011008",
+"start_ref_usfm": "MRK 11:8",
+"end_ref": "41011008",
+"end_ref_usfm": "MRK 11:8"
+},
+{
+"start_ref": "42019036",
+"start_ref_usfm": "LUK 19:36",
+"end_ref": "42019036",
+"end_ref_usfm": "LUK 19:36"
+},
+{
+"start_ref": "12009013",
+"start_ref_usfm": "2KI 9:13",
+"end_ref": "12009013",
+"end_ref_usfm": "2KI 9:13"
+},
+{
+"start_ref": "40021009",
+"start_ref_usfm": "MAT 21:9",
+"end_ref": "40021009",
+"end_ref_usfm": "MAT 21:9"
+},
+{
+"start_ref": "41011009",
+"start_ref_usfm": "MRK 11:9",
+"end_ref": "41011010",
+"end_ref_usfm": "MRK 11:10"
+},
+{
+"start_ref": "42019037",
+"start_ref_usfm": "LUK 19:37",
+"end_ref": "42019038",
+"end_ref_usfm": "LUK 19:38"
+},
+{
+"start_ref": "19118026",
+"start_ref_usfm": "PSA 118:26",
+"end_ref": "19118026",
+"end_ref_usfm": "PSA 118:26"
+},
+{
+"start_ref": "43012013",
+"start_ref_usfm": "JHN 12:13",
+"end_ref": "43012013",
+"end_ref_usfm": "JHN 12:13"
+},
+{
+"start_ref": "03023040",
+"start_ref_usfm": "LEV 23:40",
+"end_ref": "03023040",
+"end_ref_usfm": "LEV 23:40"
+},
+{
+"start_ref": "19118027",
+"start_ref_usfm": "PSA 118:27",
+"end_ref": "19118027",
+"end_ref_usfm": "PSA 118:27"
+},
+{
+"start_ref": "66007009",
+"start_ref_usfm": "REV 7:9",
+"end_ref": "66007009",
+"end_ref_usfm": "REV 7:9"
+},
+{
+"start_ref": "42019039",
+"start_ref_usfm": "LUK 19:39",
+"end_ref": "42019040",
+"end_ref_usfm": "LUK 19:40"
+}
+],
+"resource": [
+{
+"reference_id": "2036",
+"content_id": "2036",
+"resource_code": "DictionaryBibleThemes",
+"label": "2036: Jesus Christ, humility of",
+"language": "eng"
+},
+{
+"reference_id": "2051",
+"content_id": "2051",
+"resource_code": "DictionaryBibleThemes",
+"label": "2051: Jesus Christ, majesty of",
+"language": "eng"
+},
+{
+"reference_id": "2206",
+"content_id": "2206",
+"resource_code": "DictionaryBibleThemes",
+"label": "2206: Jesus, the Christ",
+"language": "eng"
+},
+{
+"reference_id": "2215",
+"content_id": "2215",
+"resource_code": "DictionaryBibleThemes",
+"label": "2215: Jesus Christ, Son of David",
+"language": "eng"
+},
+{
+"reference_id": "2221",
+"content_id": "2221",
+"resource_code": "DictionaryBibleThemes",
+"label": "2221: Jesus Christ, Son of Man",
+"language": "eng"
+},
+{
+"reference_id": "2312",
+"content_id": "2312",
+"resource_code": "DictionaryBibleThemes",
+"label": "2312: Jesus Christ, as king",
+"language": "eng"
+},
+{
+"reference_id": "2324",
+"content_id": "2324",
+"resource_code": "DictionaryBibleThemes",
+"label": "2324: Jesus Christ, as Saviour",
+"language": "eng"
+},
+{
+"reference_id": "2345",
+"content_id": "2345",
+"resource_code": "DictionaryBibleThemes",
+"label": "2345: Jesus Christ, kingdom of",
+"language": "eng"
+},
+{
+"reference_id": "2372",
+"content_id": "2372",
+"resource_code": "DictionaryBibleThemes",
+"label": "2372: Jesus Christ, victory of",
+"language": "eng"
+},
+{
+"reference_id": "2545",
+"content_id": "2545",
+"resource_code": "DictionaryBibleThemes",
+"label": "2545: Jesus Christ, opposition to",
+"language": "eng"
+},
+{
+"reference_id": "7240",
+"content_id": "7240",
+"resource_code": "DictionaryBibleThemes",
+"label": "7240: Jerusalem, history of",
+"language": "eng"
+},
+{
+"reference_id": "8664",
+"content_id": "8664",
+"resource_code": "DictionaryBibleThemes",
+"label": "8664: praise",
+"language": "eng"
+}
+]
+}
+}
+]

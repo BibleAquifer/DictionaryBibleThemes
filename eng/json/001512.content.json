@@ -1,0 +1,184 @@
+[
+{
+"content_id": "6118",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6118: blemish",
+"media_type": "Text",
+"index_reference": "6118: blemish",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A mark or stain which spoils something or lessens its value. The term is often used symbolically to refer to sin. The OT sacrificial system specified that only unblemished animals should be sacrificed.</p>\n<h2>A blemish is ritually unacceptable</h2>\n<h3>In animals to be sacrified</h3>\n<p><strong><a href=\"https://ref.ly/Deut15:21\">DEU 15:21</a></strong>; <strong><a href=\"https://ref.ly/Mal1:13-Mal1:14\">MAL 1:13–1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:5\">EXO 12:5</a>; <a href=\"https://ref.ly/Lev22:20-Lev22:25\">LEV 22:20–22:25</a>; <a href=\"https://ref.ly/Deut17:1\">DEU 17:1</a></p>\n<h3>In priests offering sacrifices</h3>\n<p><strong><a href=\"https://ref.ly/Lev21:17-Lev21:23\">LEV 21:17–21:23</a></strong></p>\n<h2>A blemish or stain as a symbol of sin</h2>\n<p><strong><a href=\"https://ref.ly/Jer2:22\">JER 2:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa59:3\">ISA 59:3</a>; <a href=\"https://ref.ly/Jude1:23\">JUD 1:23</a></p>\n<h3>Sinful people represented as blemishes</h3>\n<p><strong><a href=\"https://ref.ly/2Pet2:13\">2PE 2:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jude1:12\">JUD 1:12</a></p>\n<h2>Without blemish: physical or moral perfection</h2>\n<h3>Absalom</h3>\n<p><a href=\"https://ref.ly/2Sam14:25\">2SA 14:25</a></p>\n<h3>Daniel and his companions</h3>\n<p><a href=\"https://ref.ly/Dan1:3-Dan1:4\">DAN 1:3–1:4</a></p>\n<h3>Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/1Pet1:18-1Pet1:19\">1PE 1:18–1:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb9:12-Heb9:14\">HEB 9:12–9:14</a></p>\n<h3>The church</h3>\n<p><strong><a href=\"https://ref.ly/Eph5:27\">EPH 5:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Col1:22\">COL 1:22</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05015021",
+"start_ref_usfm": "DEU 15:21",
+"end_ref": "05015021",
+"end_ref_usfm": "DEU 15:21"
+},
+{
+"start_ref": "39001013",
+"start_ref_usfm": "MAL 1:13",
+"end_ref": "39001014",
+"end_ref_usfm": "MAL 1:14"
+},
+{
+"start_ref": "02012005",
+"start_ref_usfm": "EXO 12:5",
+"end_ref": "02012005",
+"end_ref_usfm": "EXO 12:5"
+},
+{
+"start_ref": "03022020",
+"start_ref_usfm": "LEV 22:20",
+"end_ref": "03022025",
+"end_ref_usfm": "LEV 22:25"
+},
+{
+"start_ref": "05017001",
+"start_ref_usfm": "DEU 17:1",
+"end_ref": "05017001",
+"end_ref_usfm": "DEU 17:1"
+},
+{
+"start_ref": "03021017",
+"start_ref_usfm": "LEV 21:17",
+"end_ref": "03021023",
+"end_ref_usfm": "LEV 21:23"
+},
+{
+"start_ref": "24002022",
+"start_ref_usfm": "JER 2:22",
+"end_ref": "24002022",
+"end_ref_usfm": "JER 2:22"
+},
+{
+"start_ref": "23059003",
+"start_ref_usfm": "ISA 59:3",
+"end_ref": "23059003",
+"end_ref_usfm": "ISA 59:3"
+},
+{
+"start_ref": "65001023",
+"start_ref_usfm": "JUD 1:23",
+"end_ref": "65001023",
+"end_ref_usfm": "JUD 1:23"
+},
+{
+"start_ref": "61002013",
+"start_ref_usfm": "2PE 2:13",
+"end_ref": "61002013",
+"end_ref_usfm": "2PE 2:13"
+},
+{
+"start_ref": "65001012",
+"start_ref_usfm": "JUD 1:12",
+"end_ref": "65001012",
+"end_ref_usfm": "JUD 1:12"
+},
+{
+"start_ref": "10014025",
+"start_ref_usfm": "2SA 14:25",
+"end_ref": "10014025",
+"end_ref_usfm": "2SA 14:25"
+},
+{
+"start_ref": "27001003",
+"start_ref_usfm": "DAN 1:3",
+"end_ref": "27001004",
+"end_ref_usfm": "DAN 1:4"
+},
+{
+"start_ref": "60001018",
+"start_ref_usfm": "1PE 1:18",
+"end_ref": "60001019",
+"end_ref_usfm": "1PE 1:19"
+},
+{
+"start_ref": "58009012",
+"start_ref_usfm": "HEB 9:12",
+"end_ref": "58009014",
+"end_ref_usfm": "HEB 9:14"
+},
+{
+"start_ref": "49005027",
+"start_ref_usfm": "EPH 5:27",
+"end_ref": "49005027",
+"end_ref_usfm": "EPH 5:27"
+},
+{
+"start_ref": "51001022",
+"start_ref_usfm": "COL 1:22",
+"end_ref": "51001022",
+"end_ref_usfm": "COL 1:22"
+}
+],
+"resource": [
+{
+"reference_id": "2075",
+"content_id": "2075",
+"resource_code": "DictionaryBibleThemes",
+"label": "2075: Jesus Christ, sinlessness of",
+"language": "eng"
+},
+{
+"reference_id": "2315",
+"content_id": "2315",
+"resource_code": "DictionaryBibleThemes",
+"label": "2315: Jesus Christ, as Lamb",
+"language": "eng"
+},
+{
+"reference_id": "6020",
+"content_id": "6020",
+"resource_code": "DictionaryBibleThemes",
+"label": "6020: sin",
+"language": "eng"
+},
+{
+"reference_id": "7027",
+"content_id": "7027",
+"resource_code": "DictionaryBibleThemes",
+"label": "7027: church, purpose and mission of",
+"language": "eng"
+},
+{
+"reference_id": "7402",
+"content_id": "7402",
+"resource_code": "DictionaryBibleThemes",
+"label": "7402: offerings",
+"language": "eng"
+},
+{
+"reference_id": "7416",
+"content_id": "7416",
+"resource_code": "DictionaryBibleThemes",
+"label": "7416: purification",
+"language": "eng"
+},
+{
+"reference_id": "7435",
+"content_id": "7435",
+"resource_code": "DictionaryBibleThemes",
+"label": "7435: sacrifice, in OT",
+"language": "eng"
+},
+{
+"reference_id": "8320",
+"content_id": "8320",
+"resource_code": "DictionaryBibleThemes",
+"label": "8320: perfection",
+"language": "eng"
+},
+{
+"reference_id": "8324",
+"content_id": "8324",
+"resource_code": "DictionaryBibleThemes",
+"label": "8324: purity",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,232 @@
+[
+{
+"content_id": "6240",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6240: rape",
+"media_type": "Text",
+"index_reference": "6240: rape",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The sexual violation of an individual (normally, though not necessarily, female). This is a deeply traumatic and degrading experience for the victim and is an evil that Scripture condemns.</p>\n<h2>Lust is the motivation for rape</h2>\n<p><strong><a href=\"https://ref.ly/2Sam13:1-2Sam13:15\">2SA 13:1–13:15</a></strong></p>\n<h2>Women and rape</h2>\n<h3>Women are particularly vulnerable to male assault</h3>\n<p><strong><a href=\"https://ref.ly/2Sam13:14\">2SA 13:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Zech14:2\">ZEC 14:2</a></p>\n<h3>Women were protected under the law</h3>\n<p><a href=\"https://ref.ly/Deut22:25-Deut22:29\">DEU 22:25–22:29</a></p>\n<h3>Women are to be loved and cared for</h3>\n<p><strong><a href=\"https://ref.ly/Eph5:25\">EPH 5:25</a>, <a href=\"https://ref.ly/Eph5:28-Eph5:29\">EPH 5:28–5:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen12:18-Gen12:20\">GEN 12:18–12:20</a>; <a href=\"https://ref.ly/1Pet3:7\">1PE 3:7</a></p>\n<h2>The trauma of rape</h2>\n<h3>Its psychological and emotional effects</h3>\n<p><strong><a href=\"https://ref.ly/2Sam13:19-2Sam13:20\">2SA 13:19–13:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen34:6-Gen34:7\">GEN 34:6–34:7</a></p>\n<h3>Its physical effects</h3>\n<p><strong><a href=\"https://ref.ly/Judg19:26-Judg19:28\">JDG 19:26–19:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg20:4-Judg20:5\">JDG 20:4–20:5</a></p>\n<h2>Avenging the victim of rape</h2>\n<p><a href=\"https://ref.ly/Gen34:7-Gen34:31\">GEN 34:7–34:31</a>; ; <a href=\"https://ref.ly/2Sam13:22-2Sam13:32\">2SA 13:22–13:32</a>; ; <a href=\"https://ref.ly/Judg20:6-Judg20:11\">JDG 20:6–20:11</a>; ; <a href=\"https://ref.ly/Rom12:19\">ROM 12:19</a>, <a href=\"https://ref.ly/Rom13:3-Rom13:4\">ROM 13:3–13:4</a>; ; <a href=\"https://ref.ly/Jas1:20\">JAS 1:20</a></p>\n<h2>Examples of rape</h2>\n<h3>Female rape</h3>\n<p><a href=\"https://ref.ly/Gen34:1-Gen34:3\">GEN 34:1–34:3</a>; ; <a href=\"https://ref.ly/Judg19:24-Judg19:25\">JDG 19:24–19:25</a>; ; <a href=\"https://ref.ly/2Sam13:2-2Sam13:13\">2SA 13:2–13:13</a>; ; <a href=\"https://ref.ly/Zech14:2\">ZEC 14:2</a></p>\n<h3>Attempted male rape</h3>\n<p><a href=\"https://ref.ly/Gen19:4-Gen19:9\">GEN 19:4–19:9</a>; ; <a href=\"https://ref.ly/Judg19:22-Judg19:23\">JDG 19:22–19:23</a>; ; <a href=\"https://ref.ly/Lev18:22\">LEV 18:22</a>, <a href=\"https://ref.ly/Lev20:13\">LEV 20:13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "10013001",
+"start_ref_usfm": "2SA 13:1",
+"end_ref": "10013015",
+"end_ref_usfm": "2SA 13:15"
+},
+{
+"start_ref": "10013014",
+"start_ref_usfm": "2SA 13:14",
+"end_ref": "10013014",
+"end_ref_usfm": "2SA 13:14"
+},
+{
+"start_ref": "38014002",
+"start_ref_usfm": "ZEC 14:2",
+"end_ref": "38014002",
+"end_ref_usfm": "ZEC 14:2"
+},
+{
+"start_ref": "05022025",
+"start_ref_usfm": "DEU 22:25",
+"end_ref": "05022029",
+"end_ref_usfm": "DEU 22:29"
+},
+{
+"start_ref": "49005025",
+"start_ref_usfm": "EPH 5:25",
+"end_ref": "49005025",
+"end_ref_usfm": "EPH 5:25"
+},
+{
+"start_ref": "49005028",
+"start_ref_usfm": "EPH 5:28",
+"end_ref": "49005029",
+"end_ref_usfm": "EPH 5:29"
+},
+{
+"start_ref": "01012018",
+"start_ref_usfm": "GEN 12:18",
+"end_ref": "01012020",
+"end_ref_usfm": "GEN 12:20"
+},
+{
+"start_ref": "60003007",
+"start_ref_usfm": "1PE 3:7",
+"end_ref": "60003007",
+"end_ref_usfm": "1PE 3:7"
+},
+{
+"start_ref": "10013019",
+"start_ref_usfm": "2SA 13:19",
+"end_ref": "10013020",
+"end_ref_usfm": "2SA 13:20"
+},
+{
+"start_ref": "01034006",
+"start_ref_usfm": "GEN 34:6",
+"end_ref": "01034007",
+"end_ref_usfm": "GEN 34:7"
+},
+{
+"start_ref": "07019026",
+"start_ref_usfm": "JDG 19:26",
+"end_ref": "07019028",
+"end_ref_usfm": "JDG 19:28"
+},
+{
+"start_ref": "07020004",
+"start_ref_usfm": "JDG 20:4",
+"end_ref": "07020005",
+"end_ref_usfm": "JDG 20:5"
+},
+{
+"start_ref": "01034007",
+"start_ref_usfm": "GEN 34:7",
+"end_ref": "01034031",
+"end_ref_usfm": "GEN 34:31"
+},
+{
+"start_ref": "10013022",
+"start_ref_usfm": "2SA 13:22",
+"end_ref": "10013032",
+"end_ref_usfm": "2SA 13:32"
+},
+{
+"start_ref": "07020006",
+"start_ref_usfm": "JDG 20:6",
+"end_ref": "07020011",
+"end_ref_usfm": "JDG 20:11"
+},
+{
+"start_ref": "45012019",
+"start_ref_usfm": "ROM 12:19",
+"end_ref": "45012019",
+"end_ref_usfm": "ROM 12:19"
+},
+{
+"start_ref": "45013003",
+"start_ref_usfm": "ROM 13:3",
+"end_ref": "45013004",
+"end_ref_usfm": "ROM 13:4"
+},
+{
+"start_ref": "59001020",
+"start_ref_usfm": "JAS 1:20",
+"end_ref": "59001020",
+"end_ref_usfm": "JAS 1:20"
+},
+{
+"start_ref": "01034001",
+"start_ref_usfm": "GEN 34:1",
+"end_ref": "01034003",
+"end_ref_usfm": "GEN 34:3"
+},
+{
+"start_ref": "07019024",
+"start_ref_usfm": "JDG 19:24",
+"end_ref": "07019025",
+"end_ref_usfm": "JDG 19:25"
+},
+{
+"start_ref": "10013002",
+"start_ref_usfm": "2SA 13:2",
+"end_ref": "10013013",
+"end_ref_usfm": "2SA 13:13"
+},
+{
+"start_ref": "01019004",
+"start_ref_usfm": "GEN 19:4",
+"end_ref": "01019009",
+"end_ref_usfm": "GEN 19:9"
+},
+{
+"start_ref": "07019022",
+"start_ref_usfm": "JDG 19:22",
+"end_ref": "07019023",
+"end_ref_usfm": "JDG 19:23"
+},
+{
+"start_ref": "03018022",
+"start_ref_usfm": "LEV 18:22",
+"end_ref": "03018022",
+"end_ref_usfm": "LEV 18:22"
+},
+{
+"start_ref": "03020013",
+"start_ref_usfm": "LEV 20:13",
+"end_ref": "03020013",
+"end_ref_usfm": "LEV 20:13"
+}
+],
+"resource": [
+{
+"reference_id": "5494",
+"content_id": "5494",
+"resource_code": "DictionaryBibleThemes",
+"label": "5494: revenge",
+"language": "eng"
+},
+{
+"reference_id": "5695",
+"content_id": "5695",
+"resource_code": "DictionaryBibleThemes",
+"label": "5695: girls",
+"language": "eng"
+},
+{
+"reference_id": "5714",
+"content_id": "5714",
+"resource_code": "DictionaryBibleThemes",
+"label": "5714: men",
+"language": "eng"
+},
+{
+"reference_id": "5740",
+"content_id": "5740",
+"resource_code": "DictionaryBibleThemes",
+"label": "5740: virgin",
+"language": "eng"
+},
+{
+"reference_id": "5745",
+"content_id": "5745",
+"resource_code": "DictionaryBibleThemes",
+"label": "5745: women",
+"language": "eng"
+},
+{
+"reference_id": "5832",
+"content_id": "5832",
+"resource_code": "DictionaryBibleThemes",
+"label": "5832: desire",
+"language": "eng"
+},
+{
+"reference_id": "5844",
+"content_id": "5844",
+"resource_code": "DictionaryBibleThemes",
+"label": "5844: emotions",
+"language": "eng"
+},
+{
+"reference_id": "5975",
+"content_id": "5975",
+"resource_code": "DictionaryBibleThemes",
+"label": "5975: violence",
+"language": "eng"
+},
+{
+"reference_id": "8777",
+"content_id": "8777",
+"resource_code": "DictionaryBibleThemes",
+"label": "8777: lust",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,46 @@
+[
+{
+"content_id": "6732",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6732: repentance",
+"media_type": "Text",
+"index_reference": "6732: repentance",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A change of mind leading to a change of action. It involves a sincere turning from sin to serve God and includes sorrow for, and confession of, sin and where possible restitution. At points, Scripture refers to God changing his plans in response to events.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6733",
+"content_id": "6733",
+"resource_code": "DictionaryBibleThemes",
+"label": "6733: repentance, nature of",
+"language": "eng"
+},
+{
+"reference_id": "6734",
+"content_id": "6734",
+"resource_code": "DictionaryBibleThemes",
+"label": "6734: repentance, importance of",
+"language": "eng"
+},
+{
+"reference_id": "6735",
+"content_id": "6735",
+"resource_code": "DictionaryBibleThemes",
+"label": "6735: repentance, examples of",
+"language": "eng"
+},
+{
+"reference_id": "6736",
+"content_id": "6736",
+"resource_code": "DictionaryBibleThemes",
+"label": "6736: repentance, of God",
+"language": "eng"
+}
+]
+}
+}
+]

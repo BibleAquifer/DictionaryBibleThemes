@@ -1,0 +1,39 @@
+[
+{
+"content_id": "6644",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6644: eternal life",
+"media_type": "Text",
+"index_reference": "6644: eternal life",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The state of being in a permanent living relationship with God, through Jesus Christ, begun in this life and consummated at the resurrection of believers.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6645",
+"content_id": "6645",
+"resource_code": "DictionaryBibleThemes",
+"label": "6645: eternal life, nature of",
+"language": "eng"
+},
+{
+"reference_id": "6646",
+"content_id": "6646",
+"resource_code": "DictionaryBibleThemes",
+"label": "6646: eternal life, gift of",
+"language": "eng"
+},
+{
+"reference_id": "6647",
+"content_id": "6647",
+"resource_code": "DictionaryBibleThemes",
+"label": "6647: eternal life, experience of",
+"language": "eng"
+}
+]
+}
+}
+]

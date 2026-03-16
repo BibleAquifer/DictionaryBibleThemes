@@ -1,0 +1,32 @@
+[
+{
+"content_id": "7620",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7620: disciples",
+"media_type": "Text",
+"index_reference": "7620: disciples",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The group of people called to follow and serve Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7621",
+"content_id": "7621",
+"resource_code": "DictionaryBibleThemes",
+"label": "7621: disciples, calling of",
+"language": "eng"
+},
+{
+"reference_id": "7622",
+"content_id": "7622",
+"resource_code": "DictionaryBibleThemes",
+"label": "7622: disciples, characteristics of",
+"language": "eng"
+}
+]
+}
+}
+]

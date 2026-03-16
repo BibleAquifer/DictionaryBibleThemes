@@ -1,0 +1,67 @@
+[
+{
+"content_id": "1650",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1650: numbers, significance of",
+"media_type": "Text",
+"index_reference": "1650: numbers, significance of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Numbers appear frequently in Scripture and in a variety of contexts. Occasionally they have a special theological significance.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "1651",
+"content_id": "1651",
+"resource_code": "DictionaryBibleThemes",
+"label": "1651: numbers, 1-2",
+"language": "eng"
+},
+{
+"reference_id": "1652",
+"content_id": "1652",
+"resource_code": "DictionaryBibleThemes",
+"label": "1652: numbers, 3-5",
+"language": "eng"
+},
+{
+"reference_id": "1653",
+"content_id": "1653",
+"resource_code": "DictionaryBibleThemes",
+"label": "1653: numbers, 6-10",
+"language": "eng"
+},
+{
+"reference_id": "1654",
+"content_id": "1654",
+"resource_code": "DictionaryBibleThemes",
+"label": "1654: numbers, 11-99",
+"language": "eng"
+},
+{
+"reference_id": "1655",
+"content_id": "1655",
+"resource_code": "DictionaryBibleThemes",
+"label": "1655: numbers, hundreds and thousands",
+"language": "eng"
+},
+{
+"reference_id": "1656",
+"content_id": "1656",
+"resource_code": "DictionaryBibleThemes",
+"label": "1656: numbers, combinations",
+"language": "eng"
+},
+{
+"reference_id": "1657",
+"content_id": "1657",
+"resource_code": "DictionaryBibleThemes",
+"label": "1657: numbers, fractions",
+"language": "eng"
+}
+]
+}
+}
+]

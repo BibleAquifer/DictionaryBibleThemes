@@ -1,0 +1,185 @@
+[
+{
+"content_id": "1215",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1215: God, feminine descriptions of",
+"media_type": "Text",
+"index_reference": "1215: god, feminine descriptions of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Some expressions attribute feminine qualities to God, especially relating to motherhood.</p>\n<h2>Descriptions of God relating to childbirth</h2>\n<h3>God gives birth to his people</h3>\n<p><strong><a href=\"https://ref.ly/Isa44:2\">ISA 44:2</a></strong> <em>God giving birth to Israel at the exodus.</em> <em>See also</em> <a href=\"https://ref.ly/Num11:12\">NUM 11:12</a>; <a href=\"https://ref.ly/Deut32:18\">DEU 32:18</a>; <a href=\"https://ref.ly/Isa44:24\">ISA 44:24</a></p>\n<h3>God gives birth to individuals</h3>\n<p><strong><a href=\"https://ref.ly/Ps139:13\">PSA 139:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen29:31\">GEN 29:31</a>, <a href=\"https://ref.ly/Gen30:22\">GEN 30:22</a>; <a href=\"https://ref.ly/Eccl11:5\">ECC 11:5</a>; <a href=\"https://ref.ly/Isa49:5\">ISA 49:5</a>; <a href=\"https://ref.ly/Jer1:5\">JER 1:5</a></p>\n<h3>God as a midwife</h3>\n<p><strong><a href=\"https://ref.ly/Ps22:9\">PSA 22:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job10:18\">JOB 10:18</a>; <a href=\"https://ref.ly/Ps71:6\">PSA 71:6</a>; <a href=\"https://ref.ly/Isa66:9\">ISA 66:9</a></p>\n<h2>Descriptions of God relating to motherhood</h2>\n<h3>God nurses his people</h3>\n<p><strong><a href=\"https://ref.ly/Isa49:15\">ISA 49:15</a></strong></p>\n<h3>God comforts his people</h3>\n<p><strong><a href=\"https://ref.ly/Isa66:13\">ISA 66:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:11\">ISA 40:11</a></p>\n<h3>God as a mother bird protecting her young</h3>\n<p><strong><a href=\"https://ref.ly/Deut32:10-Deut32:11\">DEU 32:10–32:11</a></strong>; <strong><a href=\"https://ref.ly/Matt23:37\">MAT 23:37</a></strong> parallel <a href=\"https://ref.ly/Luke13:34\">LUK 13:34</a> <em>See also</em> <a href=\"https://ref.ly/Ruth2:12\">RUT 2:12</a>; <a href=\"https://ref.ly/Ps17:8\">PSA 17:8</a>, <a href=\"https://ref.ly/Ps91:4\">PSA 91:4</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23044002",
+"start_ref_usfm": "ISA 44:2",
+"end_ref": "23044002",
+"end_ref_usfm": "ISA 44:2"
+},
+{
+"start_ref": "04011012",
+"start_ref_usfm": "NUM 11:12",
+"end_ref": "04011012",
+"end_ref_usfm": "NUM 11:12"
+},
+{
+"start_ref": "05032018",
+"start_ref_usfm": "DEU 32:18",
+"end_ref": "05032018",
+"end_ref_usfm": "DEU 32:18"
+},
+{
+"start_ref": "23044024",
+"start_ref_usfm": "ISA 44:24",
+"end_ref": "23044024",
+"end_ref_usfm": "ISA 44:24"
+},
+{
+"start_ref": "19139013",
+"start_ref_usfm": "PSA 139:13",
+"end_ref": "19139013",
+"end_ref_usfm": "PSA 139:13"
+},
+{
+"start_ref": "01029031",
+"start_ref_usfm": "GEN 29:31",
+"end_ref": "01029031",
+"end_ref_usfm": "GEN 29:31"
+},
+{
+"start_ref": "01030022",
+"start_ref_usfm": "GEN 30:22",
+"end_ref": "01030022",
+"end_ref_usfm": "GEN 30:22"
+},
+{
+"start_ref": "21011005",
+"start_ref_usfm": "ECC 11:5",
+"end_ref": "21011005",
+"end_ref_usfm": "ECC 11:5"
+},
+{
+"start_ref": "23049005",
+"start_ref_usfm": "ISA 49:5",
+"end_ref": "23049005",
+"end_ref_usfm": "ISA 49:5"
+},
+{
+"start_ref": "24001005",
+"start_ref_usfm": "JER 1:5",
+"end_ref": "24001005",
+"end_ref_usfm": "JER 1:5"
+},
+{
+"start_ref": "19022009",
+"start_ref_usfm": "PSA 22:9",
+"end_ref": "19022009",
+"end_ref_usfm": "PSA 22:9"
+},
+{
+"start_ref": "18010018",
+"start_ref_usfm": "JOB 10:18",
+"end_ref": "18010018",
+"end_ref_usfm": "JOB 10:18"
+},
+{
+"start_ref": "19071006",
+"start_ref_usfm": "PSA 71:6",
+"end_ref": "19071006",
+"end_ref_usfm": "PSA 71:6"
+},
+{
+"start_ref": "23066009",
+"start_ref_usfm": "ISA 66:9",
+"end_ref": "23066009",
+"end_ref_usfm": "ISA 66:9"
+},
+{
+"start_ref": "23049015",
+"start_ref_usfm": "ISA 49:15",
+"end_ref": "23049015",
+"end_ref_usfm": "ISA 49:15"
+},
+{
+"start_ref": "23066013",
+"start_ref_usfm": "ISA 66:13",
+"end_ref": "23066013",
+"end_ref_usfm": "ISA 66:13"
+},
+{
+"start_ref": "23040011",
+"start_ref_usfm": "ISA 40:11",
+"end_ref": "23040011",
+"end_ref_usfm": "ISA 40:11"
+},
+{
+"start_ref": "05032010",
+"start_ref_usfm": "DEU 32:10",
+"end_ref": "05032011",
+"end_ref_usfm": "DEU 32:11"
+},
+{
+"start_ref": "40023037",
+"start_ref_usfm": "MAT 23:37",
+"end_ref": "40023037",
+"end_ref_usfm": "MAT 23:37"
+},
+{
+"start_ref": "42013034",
+"start_ref_usfm": "LUK 13:34",
+"end_ref": "42013034",
+"end_ref_usfm": "LUK 13:34"
+},
+{
+"start_ref": "08002012",
+"start_ref_usfm": "RUT 2:12",
+"end_ref": "08002012",
+"end_ref_usfm": "RUT 2:12"
+},
+{
+"start_ref": "19017008",
+"start_ref_usfm": "PSA 17:8",
+"end_ref": "19017008",
+"end_ref_usfm": "PSA 17:8"
+},
+{
+"start_ref": "19091004",
+"start_ref_usfm": "PSA 91:4",
+"end_ref": "19091004",
+"end_ref_usfm": "PSA 91:4"
+}
+],
+"resource": [
+{
+"reference_id": "1030",
+"content_id": "1030",
+"resource_code": "DictionaryBibleThemes",
+"label": "1030: God, compassion of",
+"language": "eng"
+},
+{
+"reference_id": "1210",
+"content_id": "1210",
+"resource_code": "DictionaryBibleThemes",
+"label": "1210: God, human descriptions of",
+"language": "eng"
+},
+{
+"reference_id": "5140",
+"content_id": "5140",
+"resource_code": "DictionaryBibleThemes",
+"label": "5140: breasts",
+"language": "eng"
+},
+{
+"reference_id": "5721",
+"content_id": "5721",
+"resource_code": "DictionaryBibleThemes",
+"label": "5721: mothers, as a symbol",
+"language": "eng"
+}
+]
+}
+}
+]

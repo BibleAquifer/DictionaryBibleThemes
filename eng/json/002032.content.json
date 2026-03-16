@@ -1,0 +1,39 @@
+[
+{
+"content_id": "8148",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8148: revival",
+"media_type": "Text",
+"index_reference": "8148: revival",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The soveriegn activity of God whereby he renews his people individually and corporately in vigour, affecting both sincerity of belief and quality of behaviour.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8149",
+"content_id": "8149",
+"resource_code": "DictionaryBibleThemes",
+"label": "8149: revival, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8150",
+"content_id": "8150",
+"resource_code": "DictionaryBibleThemes",
+"label": "8150: revival, personal",
+"language": "eng"
+},
+{
+"reference_id": "8151",
+"content_id": "8151",
+"resource_code": "DictionaryBibleThemes",
+"label": "8151: revival, corporate",
+"language": "eng"
+}
+]
+}
+}
+]

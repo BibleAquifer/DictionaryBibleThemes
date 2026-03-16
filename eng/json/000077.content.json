@@ -1,0 +1,130 @@
+[
+{
+"content_id": "1400",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1400: God, knowledge of",
+"media_type": "Text",
+"index_reference": "1400: god, knowledge of",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"1403\" data-resourcetype=\"DictionaryOfBibleThemes\">1403: God, revelation of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1406\" data-resourcetype=\"DictionaryOfBibleThemes\">1406: burning bush</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1409\" data-resourcetype=\"DictionaryOfBibleThemes\">1409: dream</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1412\" data-resourcetype=\"DictionaryOfBibleThemes\">1412: foreknowledge</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1415\" data-resourcetype=\"DictionaryOfBibleThemes\">1415: miracles</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1421\" data-resourcetype=\"DictionaryOfBibleThemes\">1421: oracles</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1424\" data-resourcetype=\"DictionaryOfBibleThemes\">1424: predictions</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1427\" data-resourcetype=\"DictionaryOfBibleThemes\">1427: prophecy</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1436\" data-resourcetype=\"DictionaryOfBibleThemes\">1436: reality</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1439\" data-resourcetype=\"DictionaryOfBibleThemes\">1439: revelation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1448\" data-resourcetype=\"DictionaryOfBibleThemes\">1448: signs</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1454\" data-resourcetype=\"DictionaryOfBibleThemes\">1454: theophany</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1457\" data-resourcetype=\"DictionaryOfBibleThemes\">1457: trance</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1460\" data-resourcetype=\"DictionaryOfBibleThemes\">1460: truth</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1466\" data-resourcetype=\"DictionaryOfBibleThemes\">1466: vision</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1469\" data-resourcetype=\"DictionaryOfBibleThemes\">1469: visions</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "1403",
+"content_id": "1403",
+"resource_code": "DictionaryBibleThemes",
+"label": "1403: God, revelation of",
+"language": "eng"
+},
+{
+"reference_id": "1406",
+"content_id": "1406",
+"resource_code": "DictionaryBibleThemes",
+"label": "1406: burning bush",
+"language": "eng"
+},
+{
+"reference_id": "1409",
+"content_id": "1409",
+"resource_code": "DictionaryBibleThemes",
+"label": "1409: dream",
+"language": "eng"
+},
+{
+"reference_id": "1412",
+"content_id": "1412",
+"resource_code": "DictionaryBibleThemes",
+"label": "1412: foreknowledge",
+"language": "eng"
+},
+{
+"reference_id": "1415",
+"content_id": "1415",
+"resource_code": "DictionaryBibleThemes",
+"label": "1415: miracles",
+"language": "eng"
+},
+{
+"reference_id": "1421",
+"content_id": "1421",
+"resource_code": "DictionaryBibleThemes",
+"label": "1421: oracles",
+"language": "eng"
+},
+{
+"reference_id": "1424",
+"content_id": "1424",
+"resource_code": "DictionaryBibleThemes",
+"label": "1424: predictions",
+"language": "eng"
+},
+{
+"reference_id": "1427",
+"content_id": "1427",
+"resource_code": "DictionaryBibleThemes",
+"label": "1427: prophecy",
+"language": "eng"
+},
+{
+"reference_id": "1436",
+"content_id": "1436",
+"resource_code": "DictionaryBibleThemes",
+"label": "1436: reality",
+"language": "eng"
+},
+{
+"reference_id": "1439",
+"content_id": "1439",
+"resource_code": "DictionaryBibleThemes",
+"label": "1439: revelation",
+"language": "eng"
+},
+{
+"reference_id": "1448",
+"content_id": "1448",
+"resource_code": "DictionaryBibleThemes",
+"label": "1448: signs",
+"language": "eng"
+},
+{
+"reference_id": "1454",
+"content_id": "1454",
+"resource_code": "DictionaryBibleThemes",
+"label": "1454: theophany",
+"language": "eng"
+},
+{
+"reference_id": "1457",
+"content_id": "1457",
+"resource_code": "DictionaryBibleThemes",
+"label": "1457: trance",
+"language": "eng"
+},
+{
+"reference_id": "1460",
+"content_id": "1460",
+"resource_code": "DictionaryBibleThemes",
+"label": "1460: truth",
+"language": "eng"
+},
+{
+"reference_id": "1466",
+"content_id": "1466",
+"resource_code": "DictionaryBibleThemes",
+"label": "1466: vision",
+"language": "eng"
+},
+{
+"reference_id": "1469",
+"content_id": "1469",
+"resource_code": "DictionaryBibleThemes",
+"label": "1469: visions",
+"language": "eng"
+}
+]
+}
+}
+]

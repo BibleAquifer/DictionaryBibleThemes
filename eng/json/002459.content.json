@@ -1,0 +1,116 @@
+[
+{
+"content_id": "8843",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8843: unforgivable sin",
+"media_type": "Text",
+"index_reference": "8843: unforgivable sin",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The wilful, outwardly expressed and impenitent slander against the Holy Spirit, when Jesus Christ's mighty works, clearly performed by the power of the Holy Spirit, are attributed to Satan, thus subjecting Christ to public disgrace.</p>\n<h2>The unforgivable sin is slandering the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/Matt12:31-Matt12:32\">MAT 12:31–12:32</a></strong> parallel <a href=\"https://ref.ly/Mark3:28-Mark3:29\">MRK 3:28–3:29</a> <em>See also</em> <a href=\"https://ref.ly/Luke12:10\">LUK 12:10</a>; <a href=\"https://ref.ly/Heb10:26-Heb10:29\">HEB 10:26–10:29</a></p>\n<h2>The unforgivable sin is attributing Jesus Christ's miracles to Satan</h2>\n<p><strong><a href=\"https://ref.ly/Mark3:30\">MRK 3:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt12:24\">MAT 12:24</a> parallels <a href=\"https://ref.ly/Mark3:22\">MRK 3:22</a>, <a href=\"https://ref.ly/Luke11:15\">LUK 11:15</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40012031",
+"start_ref_usfm": "MAT 12:31",
+"end_ref": "40012032",
+"end_ref_usfm": "MAT 12:32"
+},
+{
+"start_ref": "41003028",
+"start_ref_usfm": "MRK 3:28",
+"end_ref": "41003029",
+"end_ref_usfm": "MRK 3:29"
+},
+{
+"start_ref": "42012010",
+"start_ref_usfm": "LUK 12:10",
+"end_ref": "42012010",
+"end_ref_usfm": "LUK 12:10"
+},
+{
+"start_ref": "58010026",
+"start_ref_usfm": "HEB 10:26",
+"end_ref": "58010029",
+"end_ref_usfm": "HEB 10:29"
+},
+{
+"start_ref": "41003030",
+"start_ref_usfm": "MRK 3:30",
+"end_ref": "41003030",
+"end_ref_usfm": "MRK 3:30"
+},
+{
+"start_ref": "40012024",
+"start_ref_usfm": "MAT 12:24",
+"end_ref": "40012024",
+"end_ref_usfm": "MAT 12:24"
+},
+{
+"start_ref": "41003022",
+"start_ref_usfm": "MRK 3:22",
+"end_ref": "41003022",
+"end_ref_usfm": "MRK 3:22"
+},
+{
+"start_ref": "42011015",
+"start_ref_usfm": "LUK 11:15",
+"end_ref": "42011015",
+"end_ref_usfm": "LUK 11:15"
+}
+],
+"resource": [
+{
+"reference_id": "2369",
+"content_id": "2369",
+"resource_code": "DictionaryBibleThemes",
+"label": "2369: Jesus Christ, responses to",
+"language": "eng"
+},
+{
+"reference_id": "3245",
+"content_id": "3245",
+"resource_code": "DictionaryBibleThemes",
+"label": "3245: Holy Spirit, blasphemy against",
+"language": "eng"
+},
+{
+"reference_id": "5800",
+"content_id": "5800",
+"resource_code": "DictionaryBibleThemes",
+"label": "5800: blasphemy",
+"language": "eng"
+},
+{
+"reference_id": "5951",
+"content_id": "5951",
+"resource_code": "DictionaryBibleThemes",
+"label": "5951: slander",
+"language": "eng"
+},
+{
+"reference_id": "6193",
+"content_id": "6193",
+"resource_code": "DictionaryBibleThemes",
+"label": "6193: impenitence",
+"language": "eng"
+},
+{
+"reference_id": "8704",
+"content_id": "8704",
+"resource_code": "DictionaryBibleThemes",
+"label": "8704: apostasy",
+"language": "eng"
+},
+{
+"reference_id": "8844",
+"content_id": "8844",
+"resource_code": "DictionaryBibleThemes",
+"label": "8844: unforgiveness",
+"language": "eng"
+}
+]
+}
+}
+]

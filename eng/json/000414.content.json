@@ -1,0 +1,92 @@
+[
+{
+"content_id": "4372",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4372: tin",
+"media_type": "Text",
+"index_reference": "4372: tin",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Tin smelted in furnaces</h2>\n<p><strong><a href=\"https://ref.ly/Ezek22:20\">EZK 22:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num31:21-Num31:23\">NUM 31:21–31:23</a>; <a href=\"https://ref.ly/Ezek22:18\">EZK 22:18</a></p>\n<h2>Tin traded by merchants</h2>\n<p><strong><a href=\"https://ref.ly/Ezek27:12\">EZK 27:12</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "26022020",
+"start_ref_usfm": "EZK 22:20",
+"end_ref": "26022020",
+"end_ref_usfm": "EZK 22:20"
+},
+{
+"start_ref": "04031021",
+"start_ref_usfm": "NUM 31:21",
+"end_ref": "04031023",
+"end_ref_usfm": "NUM 31:23"
+},
+{
+"start_ref": "26022018",
+"start_ref_usfm": "EZK 22:18",
+"end_ref": "26022018",
+"end_ref_usfm": "EZK 22:18"
+},
+{
+"start_ref": "26027012",
+"start_ref_usfm": "EZK 27:12",
+"end_ref": "26027012",
+"end_ref_usfm": "EZK 27:12"
+}
+],
+"resource": [
+{
+"reference_id": "4303",
+"content_id": "4303",
+"resource_code": "DictionaryBibleThemes",
+"label": "4303: metals",
+"language": "eng"
+},
+{
+"reference_id": "4306",
+"content_id": "4306",
+"resource_code": "DictionaryBibleThemes",
+"label": "4306: minerals",
+"language": "eng"
+},
+{
+"reference_id": "4345",
+"content_id": "4345",
+"resource_code": "DictionaryBibleThemes",
+"label": "4345: metalworkers",
+"language": "eng"
+},
+{
+"reference_id": "4351",
+"content_id": "4351",
+"resource_code": "DictionaryBibleThemes",
+"label": "4351: refining",
+"language": "eng"
+},
+{
+"reference_id": "5321",
+"content_id": "5321",
+"resource_code": "DictionaryBibleThemes",
+"label": "5321: furnace",
+"language": "eng"
+},
+{
+"reference_id": "5407",
+"content_id": "5407",
+"resource_code": "DictionaryBibleThemes",
+"label": "5407: merchants",
+"language": "eng"
+},
+{
+"reference_id": "5587",
+"content_id": "5587",
+"resource_code": "DictionaryBibleThemes",
+"label": "5587: trade",
+"language": "eng"
+}
+]
+}
+}
+]

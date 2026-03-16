@@ -1,0 +1,193 @@
+[
+{
+"content_id": "8140",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8140: prize",
+"media_type": "Text",
+"index_reference": "8140: prize",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Something of value given to those competing in a race, which the Christian life is likened to. Though believers must accept discipline and training, a prize is reserved for everyone who is committed to Jesus Christ.</p>\n<h2>A prize is reserved for all believers</h2>\n<p><strong><a href=\"https://ref.ly/2Tim4:7-2Tim4:8\">2TI 4:7–4:8</a></strong> <em>The crown is the wreath given to the winner of a race.</em> <em>See also</em> <a href=\"https://ref.ly/Jas1:12\">JAS 1:12</a>; <a href=\"https://ref.ly/1Pet5:4\">1PE 5:4</a></p>\n<h2>Requirements for winning the prize</h2>\n<h3>Total dedication to God</h3>\n<p><strong><a href=\"https://ref.ly/Acts20:24\">ACT 20:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil3:7-Phil3:8\">PHP 3:7–3:8</a></p>\n<h3>Perseverance</h3>\n<p><strong><a href=\"https://ref.ly/Phil3:14\">PHP 3:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil2:16\">PHP 2:16</a>; <a href=\"https://ref.ly/Heb12:1\">HEB 12:1</a>; <a href=\"https://ref.ly/Rev2:10\">REV 2:10</a>, <a href=\"https://ref.ly/Rev3:11\">REV 3:11</a></p>\n<h3>Keeping God's rules</h3>\n<p><strong><a href=\"https://ref.ly/2Tim2:5\">2TI 2:5</a></strong></p>\n<h3>Self-discipline</h3>\n<p><strong><a href=\"https://ref.ly/1Cor9:25-1Cor9:27\">1CO 9:25–9:27</a></strong></p>\n<h2>Hindrances to winning the prize</h2>\n<h3>Falling into sin</h3>\n<p><strong><a href=\"https://ref.ly/Heb12:1\">HEB 12:1</a></strong></p>\n<h3>Following false teaching</h3>\n<p><strong><a href=\"https://ref.ly/Gal5:7\">GAL 5:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal2:2\">GAL 2:2</a>; <a href=\"https://ref.ly/Col2:18\">COL 2:18</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "55004007",
+"start_ref_usfm": "2TI 4:7",
+"end_ref": "55004008",
+"end_ref_usfm": "2TI 4:8"
+},
+{
+"start_ref": "59001012",
+"start_ref_usfm": "JAS 1:12",
+"end_ref": "59001012",
+"end_ref_usfm": "JAS 1:12"
+},
+{
+"start_ref": "60005004",
+"start_ref_usfm": "1PE 5:4",
+"end_ref": "60005004",
+"end_ref_usfm": "1PE 5:4"
+},
+{
+"start_ref": "44020024",
+"start_ref_usfm": "ACT 20:24",
+"end_ref": "44020024",
+"end_ref_usfm": "ACT 20:24"
+},
+{
+"start_ref": "50003007",
+"start_ref_usfm": "PHP 3:7",
+"end_ref": "50003008",
+"end_ref_usfm": "PHP 3:8"
+},
+{
+"start_ref": "50003014",
+"start_ref_usfm": "PHP 3:14",
+"end_ref": "50003014",
+"end_ref_usfm": "PHP 3:14"
+},
+{
+"start_ref": "50002016",
+"start_ref_usfm": "PHP 2:16",
+"end_ref": "50002016",
+"end_ref_usfm": "PHP 2:16"
+},
+{
+"start_ref": "58012001",
+"start_ref_usfm": "HEB 12:1",
+"end_ref": "58012001",
+"end_ref_usfm": "HEB 12:1"
+},
+{
+"start_ref": "66002010",
+"start_ref_usfm": "REV 2:10",
+"end_ref": "66002010",
+"end_ref_usfm": "REV 2:10"
+},
+{
+"start_ref": "66003011",
+"start_ref_usfm": "REV 3:11",
+"end_ref": "66003011",
+"end_ref_usfm": "REV 3:11"
+},
+{
+"start_ref": "55002005",
+"start_ref_usfm": "2TI 2:5",
+"end_ref": "55002005",
+"end_ref_usfm": "2TI 2:5"
+},
+{
+"start_ref": "46009025",
+"start_ref_usfm": "1CO 9:25",
+"end_ref": "46009027",
+"end_ref_usfm": "1CO 9:27"
+},
+{
+"start_ref": "48005007",
+"start_ref_usfm": "GAL 5:7",
+"end_ref": "48005007",
+"end_ref_usfm": "GAL 5:7"
+},
+{
+"start_ref": "48002002",
+"start_ref_usfm": "GAL 2:2",
+"end_ref": "48002002",
+"end_ref_usfm": "GAL 2:2"
+},
+{
+"start_ref": "51002018",
+"start_ref_usfm": "COL 2:18",
+"end_ref": "51002018",
+"end_ref_usfm": "COL 2:18"
+}
+],
+"resource": [
+{
+"reference_id": "5280",
+"content_id": "5280",
+"resource_code": "DictionaryBibleThemes",
+"label": "5280: crown",
+"language": "eng"
+},
+{
+"reference_id": "5498",
+"content_id": "5498",
+"resource_code": "DictionaryBibleThemes",
+"label": "5498: reward",
+"language": "eng"
+},
+{
+"reference_id": "5591",
+"content_id": "5591",
+"resource_code": "DictionaryBibleThemes",
+"label": "5591: treasure",
+"language": "eng"
+},
+{
+"reference_id": "5596",
+"content_id": "5596",
+"resource_code": "DictionaryBibleThemes",
+"label": "5596: victory",
+"language": "eng"
+},
+{
+"reference_id": "8110",
+"content_id": "8110",
+"resource_code": "DictionaryBibleThemes",
+"label": "8110: athletics",
+"language": "eng"
+},
+{
+"reference_id": "8207",
+"content_id": "8207",
+"resource_code": "DictionaryBibleThemes",
+"label": "8207: commitment",
+"language": "eng"
+},
+{
+"reference_id": "8223",
+"content_id": "8223",
+"resource_code": "DictionaryBibleThemes",
+"label": "8223: dedication",
+"language": "eng"
+},
+{
+"reference_id": "8248",
+"content_id": "8248",
+"resource_code": "DictionaryBibleThemes",
+"label": "8248: faithfulness",
+"language": "eng"
+},
+{
+"reference_id": "8453",
+"content_id": "8453",
+"resource_code": "DictionaryBibleThemes",
+"label": "8453: obedience",
+"language": "eng"
+},
+{
+"reference_id": "8459",
+"content_id": "8459",
+"resource_code": "DictionaryBibleThemes",
+"label": "8459: perseverance",
+"language": "eng"
+},
+{
+"reference_id": "8476",
+"content_id": "8476",
+"resource_code": "DictionaryBibleThemes",
+"label": "8476: self-discipline",
+"language": "eng"
+},
+{
+"reference_id": "9413",
+"content_id": "9413",
+"resource_code": "DictionaryBibleThemes",
+"label": "9413: heaven, inheritance of",
+"language": "eng"
+}
+]
+}
+}
+]

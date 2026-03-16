@@ -1,0 +1,95 @@
+[
+{
+"content_id": "5239",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5239: bricks",
+"media_type": "Text",
+"index_reference": "5239: bricks",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Bricks used in construction</h2>\n<h3>The tower of Babel</h3>\n<p><strong><a href=\"https://ref.ly/Gen11:3-Gen11:4\">GEN 11:3–11:4</a></strong></p>\n<h3>Altars</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Isa65:3\">ISA 65:3</a></p>\n<h3>Pavements</h3>\n<p><a href=\"https://ref.ly/Jer43:9\">JER 43:9</a></p>\n<h3>Bricks were cheaper than stone</h3>\n<p><a href=\"https://ref.ly/Isa9:10\">ISA 9:10</a></p>\n<h3>Repair of brickwork</h3>\n<p><a href=\"https://ref.ly/Nah3:14\">NAM 3:14</a></p>\n<h2>Making bricks as a punishment</h2>\n<p><strong><a href=\"https://ref.ly/Exod1:14\">EXO 1:14</a></strong>; <strong><a href=\"https://ref.ly/2Sam12:30-2Sam12:31\">2SA 12:30–12:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod5:7-Exod5:19\">EXO 5:7–5:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01011003",
+"start_ref_usfm": "GEN 11:3",
+"end_ref": "01011004",
+"end_ref_usfm": "GEN 11:4"
+},
+{
+"start_ref": "23065003",
+"start_ref_usfm": "ISA 65:3",
+"end_ref": "23065003",
+"end_ref_usfm": "ISA 65:3"
+},
+{
+"start_ref": "24043009",
+"start_ref_usfm": "JER 43:9",
+"end_ref": "24043009",
+"end_ref_usfm": "JER 43:9"
+},
+{
+"start_ref": "23009010",
+"start_ref_usfm": "ISA 9:10",
+"end_ref": "23009010",
+"end_ref_usfm": "ISA 9:10"
+},
+{
+"start_ref": "34003014",
+"start_ref_usfm": "NAM 3:14",
+"end_ref": "34003014",
+"end_ref_usfm": "NAM 3:14"
+},
+{
+"start_ref": "02001014",
+"start_ref_usfm": "EXO 1:14",
+"end_ref": "02001014",
+"end_ref_usfm": "EXO 1:14"
+},
+{
+"start_ref": "10012030",
+"start_ref_usfm": "2SA 12:30",
+"end_ref": "10012031",
+"end_ref_usfm": "2SA 12:31"
+},
+{
+"start_ref": "02005007",
+"start_ref_usfm": "EXO 5:7",
+"end_ref": "02005019",
+"end_ref_usfm": "EXO 5:19"
+}
+],
+"resource": [
+{
+"reference_id": "4315",
+"content_id": "4315",
+"resource_code": "DictionaryBibleThemes",
+"label": "4315: clay",
+"language": "eng"
+},
+{
+"reference_id": "4366",
+"content_id": "4366",
+"resource_code": "DictionaryBibleThemes",
+"label": "4366: stones",
+"language": "eng"
+},
+{
+"reference_id": "5240",
+"content_id": "5240",
+"resource_code": "DictionaryBibleThemes",
+"label": "5240: building",
+"language": "eng"
+},
+{
+"reference_id": "5269",
+"content_id": "5269",
+"resource_code": "DictionaryBibleThemes",
+"label": "5269: cornerstone",
+"language": "eng"
+}
+]
+}
+}
+]

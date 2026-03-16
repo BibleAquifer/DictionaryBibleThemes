@@ -1,0 +1,179 @@
+[
+{
+"content_id": "8600",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8600: Prayer and worship of the believer",
+"media_type": "Text",
+"index_reference": "8600: prayer and worship of the believer",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"8602\" data-resourcetype=\"DictionaryOfBibleThemes\">8602: prayer</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8622\" data-resourcetype=\"DictionaryOfBibleThemes\">8622: worship</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8632\" data-resourcetype=\"DictionaryOfBibleThemes\">8632: adoration</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8634\" data-resourcetype=\"DictionaryOfBibleThemes\">8634: amen</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8636\" data-resourcetype=\"DictionaryOfBibleThemes\">8636: asking</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8638\" data-resourcetype=\"DictionaryOfBibleThemes\">8638: benedictions</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8640\" data-resourcetype=\"DictionaryOfBibleThemes\">8640: calling upon God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8642\" data-resourcetype=\"DictionaryOfBibleThemes\">8642: celebration</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8644\" data-resourcetype=\"DictionaryOfBibleThemes\">8644: commemoration</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8646\" data-resourcetype=\"DictionaryOfBibleThemes\">8646: doxology</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8648\" data-resourcetype=\"DictionaryOfBibleThemes\">8648: enquiring of God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8650\" data-resourcetype=\"DictionaryOfBibleThemes\">8650: hands, lifting up of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8652\" data-resourcetype=\"DictionaryOfBibleThemes\">8652: importunity</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8656\" data-resourcetype=\"DictionaryOfBibleThemes\">8656: longing for God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8658\" data-resourcetype=\"DictionaryOfBibleThemes\">8658: Lord's Prayer, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8660\" data-resourcetype=\"DictionaryOfBibleThemes\">8660: magnifying God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8662\" data-resourcetype=\"DictionaryOfBibleThemes\">8662: meditation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8664\" data-resourcetype=\"DictionaryOfBibleThemes\">8664: praise</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8670\" data-resourcetype=\"DictionaryOfBibleThemes\">8670: remembering</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8672\" data-resourcetype=\"DictionaryOfBibleThemes\">8672: striving with God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8674\" data-resourcetype=\"DictionaryOfBibleThemes\">8674: study</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8676\" data-resourcetype=\"DictionaryOfBibleThemes\">8676: thanksgiving</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8678\" data-resourcetype=\"DictionaryOfBibleThemes\">8678: waiting on God</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8602",
+"content_id": "8602",
+"resource_code": "DictionaryBibleThemes",
+"label": "8602: prayer",
+"language": "eng"
+},
+{
+"reference_id": "8622",
+"content_id": "8622",
+"resource_code": "DictionaryBibleThemes",
+"label": "8622: worship",
+"language": "eng"
+},
+{
+"reference_id": "8632",
+"content_id": "8632",
+"resource_code": "DictionaryBibleThemes",
+"label": "8632: adoration",
+"language": "eng"
+},
+{
+"reference_id": "8634",
+"content_id": "8634",
+"resource_code": "DictionaryBibleThemes",
+"label": "8634: amen",
+"language": "eng"
+},
+{
+"reference_id": "8636",
+"content_id": "8636",
+"resource_code": "DictionaryBibleThemes",
+"label": "8636: asking",
+"language": "eng"
+},
+{
+"reference_id": "8638",
+"content_id": "8638",
+"resource_code": "DictionaryBibleThemes",
+"label": "8638: benedictions",
+"language": "eng"
+},
+{
+"reference_id": "8640",
+"content_id": "8640",
+"resource_code": "DictionaryBibleThemes",
+"label": "8640: calling upon God",
+"language": "eng"
+},
+{
+"reference_id": "8642",
+"content_id": "8642",
+"resource_code": "DictionaryBibleThemes",
+"label": "8642: celebration",
+"language": "eng"
+},
+{
+"reference_id": "8644",
+"content_id": "8644",
+"resource_code": "DictionaryBibleThemes",
+"label": "8644: commemoration",
+"language": "eng"
+},
+{
+"reference_id": "8646",
+"content_id": "8646",
+"resource_code": "DictionaryBibleThemes",
+"label": "8646: doxology",
+"language": "eng"
+},
+{
+"reference_id": "8648",
+"content_id": "8648",
+"resource_code": "DictionaryBibleThemes",
+"label": "8648: enquiring of God",
+"language": "eng"
+},
+{
+"reference_id": "8650",
+"content_id": "8650",
+"resource_code": "DictionaryBibleThemes",
+"label": "8650: hands, lifting up of",
+"language": "eng"
+},
+{
+"reference_id": "8652",
+"content_id": "8652",
+"resource_code": "DictionaryBibleThemes",
+"label": "8652: importunity",
+"language": "eng"
+},
+{
+"reference_id": "8656",
+"content_id": "8656",
+"resource_code": "DictionaryBibleThemes",
+"label": "8656: longing for God",
+"language": "eng"
+},
+{
+"reference_id": "8658",
+"content_id": "8658",
+"resource_code": "DictionaryBibleThemes",
+"label": "8658: Lord's Prayer, the",
+"language": "eng"
+},
+{
+"reference_id": "8660",
+"content_id": "8660",
+"resource_code": "DictionaryBibleThemes",
+"label": "8660: magnifying God",
+"language": "eng"
+},
+{
+"reference_id": "8662",
+"content_id": "8662",
+"resource_code": "DictionaryBibleThemes",
+"label": "8662: meditation",
+"language": "eng"
+},
+{
+"reference_id": "8664",
+"content_id": "8664",
+"resource_code": "DictionaryBibleThemes",
+"label": "8664: praise",
+"language": "eng"
+},
+{
+"reference_id": "8670",
+"content_id": "8670",
+"resource_code": "DictionaryBibleThemes",
+"label": "8670: remembering",
+"language": "eng"
+},
+{
+"reference_id": "8672",
+"content_id": "8672",
+"resource_code": "DictionaryBibleThemes",
+"label": "8672: striving with God",
+"language": "eng"
+},
+{
+"reference_id": "8674",
+"content_id": "8674",
+"resource_code": "DictionaryBibleThemes",
+"label": "8674: study",
+"language": "eng"
+},
+{
+"reference_id": "8676",
+"content_id": "8676",
+"resource_code": "DictionaryBibleThemes",
+"label": "8676: thanksgiving",
+"language": "eng"
+},
+{
+"reference_id": "8678",
+"content_id": "8678",
+"resource_code": "DictionaryBibleThemes",
+"label": "8678: waiting on God",
+"language": "eng"
+}
+]
+}
+}
+]

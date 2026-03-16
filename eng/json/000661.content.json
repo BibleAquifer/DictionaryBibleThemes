@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5056",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5056: rest",
+"media_type": "Text",
+"index_reference": "5056: rest",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture recognises the need for physical and spiritual relief and stresses that the true resting-place of humanity lies in God, the Creator and Redeemer.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5057",
+"content_id": "5057",
+"resource_code": "DictionaryBibleThemes",
+"label": "5057: rest, physical",
+"language": "eng"
+},
+{
+"reference_id": "5058",
+"content_id": "5058",
+"resource_code": "DictionaryBibleThemes",
+"label": "5058: rest, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "5059",
+"content_id": "5059",
+"resource_code": "DictionaryBibleThemes",
+"label": "5059: rest, eternal",
+"language": "eng"
+}
+]
+}
+}
+]

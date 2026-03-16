@@ -1,0 +1,227 @@
+[
+{
+"content_id": "5190",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5190: thigh",
+"media_type": "Text",
+"index_reference": "5190: thigh",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The human thigh</h2>\n<h3>A symbol of strength</h3>\n<p><a href=\"https://ref.ly/Job40:17\">JOB 40:17</a>; ; <a href=\"https://ref.ly/Dan2:32\">DAN 2:32</a></p>\n<h3>Weapons strapped to the thigh</h3>\n<p><a href=\"https://ref.ly/Judg3:16\">JDG 3:16</a>, <a href=\"https://ref.ly/Judg3:21\">JDG 3:21</a></p>\n<h3>The hand is placed under the thigh when taking an oath</h3>\n<p><a href=\"https://ref.ly/Gen24:2\">GEN 24:2</a>, <a href=\"https://ref.ly/Gen24:9\">GEN 24:9</a>, <a href=\"https://ref.ly/Gen47:29\">GEN 47:29</a></p>\n<h3>The priests' undergarments covered the thigh</h3>\n<p><strong><a href=\"https://ref.ly/Exod28:42-Exod28:43\">EXO 28:42–28:43</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:26\">EXO 20:26</a>; <a href=\"https://ref.ly/Lev6:10\">LEV 6:10</a>, <a href=\"https://ref.ly/Lev16:3-Lev16:4\">LEV 16:3–16:4</a>; <a href=\"https://ref.ly/Ezek44:17-Ezek44:18\">EZK 44:17–44:18</a></p>\n<h3>The wasting of the thigh</h3>\n<p>The wasting away of the thigh is part of the judgment on an unfaithful wife:\n <a href=\"https://ref.ly/Num5:21-Num5:22\">NUM 5:21–5:22</a>, <a href=\"https://ref.ly/Num5:27\">NUM 5:27</a></p>\n<h3>The thigh as a place of identification</h3>\n<p><a href=\"https://ref.ly/Rev19:16\">REV 19:16</a></p>\n<h2>The right thighs of animals used in sacrificial offerings</h2>\n<p><a href=\"https://ref.ly/Exod29:22\">EXO 29:22</a>, <a href=\"https://ref.ly/Exod29:27\">EXO 29:27</a>; ; <a href=\"https://ref.ly/Lev7:32-Lev7:34\">LEV 7:32–7:34</a>, <a href=\"https://ref.ly/Lev8:25-Lev8:26\">LEV 8:25–8:26</a>, <a href=\"https://ref.ly/Lev9:21\">LEV 9:21</a>, <a href=\"https://ref.ly/Lev10:14-Lev10:15\">LEV 10:14–10:15</a>; ; <a href=\"https://ref.ly/Num6:20\">NUM 6:20</a>, <a href=\"https://ref.ly/Num18:18\">NUM 18:18</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18040017",
+"start_ref_usfm": "JOB 40:17",
+"end_ref": "18040017",
+"end_ref_usfm": "JOB 40:17"
+},
+{
+"start_ref": "27002032",
+"start_ref_usfm": "DAN 2:32",
+"end_ref": "27002032",
+"end_ref_usfm": "DAN 2:32"
+},
+{
+"start_ref": "07003016",
+"start_ref_usfm": "JDG 3:16",
+"end_ref": "07003016",
+"end_ref_usfm": "JDG 3:16"
+},
+{
+"start_ref": "07003021",
+"start_ref_usfm": "JDG 3:21",
+"end_ref": "07003021",
+"end_ref_usfm": "JDG 3:21"
+},
+{
+"start_ref": "01024002",
+"start_ref_usfm": "GEN 24:2",
+"end_ref": "01024002",
+"end_ref_usfm": "GEN 24:2"
+},
+{
+"start_ref": "01024009",
+"start_ref_usfm": "GEN 24:9",
+"end_ref": "01024009",
+"end_ref_usfm": "GEN 24:9"
+},
+{
+"start_ref": "01047029",
+"start_ref_usfm": "GEN 47:29",
+"end_ref": "01047029",
+"end_ref_usfm": "GEN 47:29"
+},
+{
+"start_ref": "02028042",
+"start_ref_usfm": "EXO 28:42",
+"end_ref": "02028043",
+"end_ref_usfm": "EXO 28:43"
+},
+{
+"start_ref": "02020026",
+"start_ref_usfm": "EXO 20:26",
+"end_ref": "02020026",
+"end_ref_usfm": "EXO 20:26"
+},
+{
+"start_ref": "03006010",
+"start_ref_usfm": "LEV 6:10",
+"end_ref": "03006010",
+"end_ref_usfm": "LEV 6:10"
+},
+{
+"start_ref": "03016003",
+"start_ref_usfm": "LEV 16:3",
+"end_ref": "03016004",
+"end_ref_usfm": "LEV 16:4"
+},
+{
+"start_ref": "26044017",
+"start_ref_usfm": "EZK 44:17",
+"end_ref": "26044018",
+"end_ref_usfm": "EZK 44:18"
+},
+{
+"start_ref": "04005021",
+"start_ref_usfm": "NUM 5:21",
+"end_ref": "04005022",
+"end_ref_usfm": "NUM 5:22"
+},
+{
+"start_ref": "04005027",
+"start_ref_usfm": "NUM 5:27",
+"end_ref": "04005027",
+"end_ref_usfm": "NUM 5:27"
+},
+{
+"start_ref": "66019016",
+"start_ref_usfm": "REV 19:16",
+"end_ref": "66019016",
+"end_ref_usfm": "REV 19:16"
+},
+{
+"start_ref": "02029022",
+"start_ref_usfm": "EXO 29:22",
+"end_ref": "02029022",
+"end_ref_usfm": "EXO 29:22"
+},
+{
+"start_ref": "02029027",
+"start_ref_usfm": "EXO 29:27",
+"end_ref": "02029027",
+"end_ref_usfm": "EXO 29:27"
+},
+{
+"start_ref": "03007032",
+"start_ref_usfm": "LEV 7:32",
+"end_ref": "03007034",
+"end_ref_usfm": "LEV 7:34"
+},
+{
+"start_ref": "03008025",
+"start_ref_usfm": "LEV 8:25",
+"end_ref": "03008026",
+"end_ref_usfm": "LEV 8:26"
+},
+{
+"start_ref": "03009021",
+"start_ref_usfm": "LEV 9:21",
+"end_ref": "03009021",
+"end_ref_usfm": "LEV 9:21"
+},
+{
+"start_ref": "03010014",
+"start_ref_usfm": "LEV 10:14",
+"end_ref": "03010015",
+"end_ref_usfm": "LEV 10:15"
+},
+{
+"start_ref": "04006020",
+"start_ref_usfm": "NUM 6:20",
+"end_ref": "04006020",
+"end_ref_usfm": "NUM 6:20"
+},
+{
+"start_ref": "04018018",
+"start_ref_usfm": "NUM 18:18",
+"end_ref": "04018018",
+"end_ref_usfm": "NUM 18:18"
+}
+],
+"resource": [
+{
+"reference_id": "5136",
+"content_id": "5136",
+"resource_code": "DictionaryBibleThemes",
+"label": "5136: body",
+"language": "eng"
+},
+{
+"reference_id": "5145",
+"content_id": "5145",
+"resource_code": "DictionaryBibleThemes",
+"label": "5145: clothing",
+"language": "eng"
+},
+{
+"reference_id": "5163",
+"content_id": "5163",
+"resource_code": "DictionaryBibleThemes",
+"label": "5163: legs",
+"language": "eng"
+},
+{
+"reference_id": "5169",
+"content_id": "5169",
+"resource_code": "DictionaryBibleThemes",
+"label": "5169: nakedness",
+"language": "eng"
+},
+{
+"reference_id": "5429",
+"content_id": "5429",
+"resource_code": "DictionaryBibleThemes",
+"label": "5429: oaths",
+"language": "eng"
+},
+{
+"reference_id": "5612",
+"content_id": "5612",
+"resource_code": "DictionaryBibleThemes",
+"label": "5612: weapons",
+"language": "eng"
+},
+{
+"reference_id": "5865",
+"content_id": "5865",
+"resource_code": "DictionaryBibleThemes",
+"label": "5865: gestures",
+"language": "eng"
+},
+{
+"reference_id": "5954",
+"content_id": "5954",
+"resource_code": "DictionaryBibleThemes",
+"label": "5954: strength",
+"language": "eng"
+},
+{
+"reference_id": "7435",
+"content_id": "7435",
+"resource_code": "DictionaryBibleThemes",
+"label": "7435: sacrifice, in OT",
+"language": "eng"
+},
+{
+"reference_id": "8839",
+"content_id": "8839",
+"resource_code": "DictionaryBibleThemes",
+"label": "8839: unfaithfulness",
+"language": "eng"
+}
+]
+}
+}
+]

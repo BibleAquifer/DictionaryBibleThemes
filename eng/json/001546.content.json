@@ -1,0 +1,32 @@
+[
+{
+"content_id": "6187",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6187: immorality",
+"media_type": "Text",
+"index_reference": "6187: immorality",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Behaviour which is contrary to the will of God for his people. Although the term may be used to refer to a wide range of immoral actions, it is used especially in relation to unacceptable sexual behaviour.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6188",
+"content_id": "6188",
+"resource_code": "DictionaryBibleThemes",
+"label": "6188: immorality, nature of sexual",
+"language": "eng"
+},
+{
+"reference_id": "6189",
+"content_id": "6189",
+"resource_code": "DictionaryBibleThemes",
+"label": "6189: immorality, examples of sexual",
+"language": "eng"
+}
+]
+}
+}
+]

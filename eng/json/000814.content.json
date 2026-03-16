@@ -1,0 +1,171 @@
+[
+{
+"content_id": "5226",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5226: basin",
+"media_type": "Text",
+"index_reference": "5226: basin",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A receptacle for liquids, often used for washing or purification rites.</p>\n<h2>Basins used as receptacles</h2>\n<p><strong><a href=\"https://ref.ly/Exod12:22\">EXO 12:22</a></strong> <em>A basin is used to collect the blood of sacrifices.</em> <em>See also</em> <a href=\"https://ref.ly/Exod24:6\">EXO 24:6</a>; <a href=\"https://ref.ly/Lev14:5\">LEV 14:5</a>, <a href=\"https://ref.ly/Lev14:50\">LEV 14:50</a></p>\n<h2>Basins used for ritual washing</h2>\n<h3>Between the altar and the Tent of Meeting</h3>\n<p><a href=\"https://ref.ly/Exod30:18\">EXO 30:18</a>, <a href=\"https://ref.ly/Exod40:11\">EXO 40:11</a>, <a href=\"https://ref.ly/Exod40:30\">EXO 40:30</a>; ; <a href=\"https://ref.ly/Lev8:11\">LEV 8:11</a></p>\n<h3>In Solomon's temple</h3>\n<p><strong><a href=\"https://ref.ly/2Chr4:6\">2CH 4:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs7:30\">1KI 7:30</a>, <a href=\"https://ref.ly/1Kgs7:38\">1KI 7:38</a> parallel <a href=\"https://ref.ly/2Chr4:14\">2CH 4:14</a>; <a href=\"https://ref.ly/2Kgs16:171\">2KI 16:171</a>KI <a href=\"https://ref.ly/2Kgs7:40\">7:40</a>; <a href=\"https://ref.ly/Jer52:17-Jer52:18\">JER 52:17–52:18</a></p>\n<h2>A basin used for ritual washing</h2>\n<p><strong><a href=\"https://ref.ly/John13:5\">JHN 13:5</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012022",
+"start_ref_usfm": "EXO 12:22",
+"end_ref": "02012022",
+"end_ref_usfm": "EXO 12:22"
+},
+{
+"start_ref": "02024006",
+"start_ref_usfm": "EXO 24:6",
+"end_ref": "02024006",
+"end_ref_usfm": "EXO 24:6"
+},
+{
+"start_ref": "03014005",
+"start_ref_usfm": "LEV 14:5",
+"end_ref": "03014005",
+"end_ref_usfm": "LEV 14:5"
+},
+{
+"start_ref": "03014050",
+"start_ref_usfm": "LEV 14:50",
+"end_ref": "03014050",
+"end_ref_usfm": "LEV 14:50"
+},
+{
+"start_ref": "02030018",
+"start_ref_usfm": "EXO 30:18",
+"end_ref": "02030018",
+"end_ref_usfm": "EXO 30:18"
+},
+{
+"start_ref": "02040011",
+"start_ref_usfm": "EXO 40:11",
+"end_ref": "02040011",
+"end_ref_usfm": "EXO 40:11"
+},
+{
+"start_ref": "02040030",
+"start_ref_usfm": "EXO 40:30",
+"end_ref": "02040030",
+"end_ref_usfm": "EXO 40:30"
+},
+{
+"start_ref": "03008011",
+"start_ref_usfm": "LEV 8:11",
+"end_ref": "03008011",
+"end_ref_usfm": "LEV 8:11"
+},
+{
+"start_ref": "14004006",
+"start_ref_usfm": "2CH 4:6",
+"end_ref": "14004006",
+"end_ref_usfm": "2CH 4:6"
+},
+{
+"start_ref": "11007030",
+"start_ref_usfm": "1KI 7:30",
+"end_ref": "11007030",
+"end_ref_usfm": "1KI 7:30"
+},
+{
+"start_ref": "11007038",
+"start_ref_usfm": "1KI 7:38",
+"end_ref": "11007038",
+"end_ref_usfm": "1KI 7:38"
+},
+{
+"start_ref": "14004014",
+"start_ref_usfm": "2CH 4:14",
+"end_ref": "14004014",
+"end_ref_usfm": "2CH 4:14"
+},
+{
+"start_ref": "12016171",
+"start_ref_usfm": "2KI 16:171",
+"end_ref": "12016171",
+"end_ref_usfm": "2KI 16:171"
+},
+{
+"start_ref": "12007040",
+"start_ref_usfm": "2KI 7:40",
+"end_ref": "12007040",
+"end_ref_usfm": "2KI 7:40"
+},
+{
+"start_ref": "24052017",
+"start_ref_usfm": "JER 52:17",
+"end_ref": "24052018",
+"end_ref_usfm": "JER 52:18"
+},
+{
+"start_ref": "43013005",
+"start_ref_usfm": "JHN 13:5",
+"end_ref": "43013005",
+"end_ref_usfm": "JHN 13:5"
+}
+],
+"resource": [
+{
+"reference_id": "5153",
+"content_id": "5153",
+"resource_code": "DictionaryBibleThemes",
+"label": "5153: foot-washing",
+"language": "eng"
+},
+{
+"reference_id": "5445",
+"content_id": "5445",
+"resource_code": "DictionaryBibleThemes",
+"label": "5445: potters and pottery",
+"language": "eng"
+},
+{
+"reference_id": "7342",
+"content_id": "7342",
+"resource_code": "DictionaryBibleThemes",
+"label": "7342: cleanliness",
+"language": "eng"
+},
+{
+"reference_id": "7416",
+"content_id": "7416",
+"resource_code": "DictionaryBibleThemes",
+"label": "7416: purification",
+"language": "eng"
+},
+{
+"reference_id": "7426",
+"content_id": "7426",
+"resource_code": "DictionaryBibleThemes",
+"label": "7426: ritual washing",
+"language": "eng"
+},
+{
+"reference_id": "7467",
+"content_id": "7467",
+"resource_code": "DictionaryBibleThemes",
+"label": "7467: temple, Solomon's",
+"language": "eng"
+},
+{
+"reference_id": "7478",
+"content_id": "7478",
+"resource_code": "DictionaryBibleThemes",
+"label": "7478: washing",
+"language": "eng"
+},
+{
+"reference_id": "7766",
+"content_id": "7766",
+"resource_code": "DictionaryBibleThemes",
+"label": "7766: priests",
+"language": "eng"
+}
+]
+}
+}
+]

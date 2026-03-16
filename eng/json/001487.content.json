@@ -1,0 +1,325 @@
+[
+{
+"content_id": "5975",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5975: violence",
+"media_type": "Text",
+"index_reference": "5975: violence",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Unrestrained physical or verbal force designed to hurt others, or to gain mastery over them.</p>\n<h2>The world is full of violence</h2>\n<p><a href=\"https://ref.ly/Gen6:11-Gen6:13\">GEN 6:11–6:13</a>; ; <a href=\"https://ref.ly/Job24:2-Job24:4\">JOB 24:2–24:4</a>; ; <a href=\"https://ref.ly/Ps55:9\">PSA 55:9</a>, <a href=\"https://ref.ly/Ps74:20\">PSA 74:20</a>; ; <a href=\"https://ref.ly/Prov13:2\">PRO 13:2</a>; ; <a href=\"https://ref.ly/Isa59:1-Isa59:8\">ISA 59:1–59:8</a>; ; <a href=\"https://ref.ly/Ezek7:23\">EZK 7:23</a>; ; <a href=\"https://ref.ly/Mic2:1-Mic2:2\">MIC 2:1–2:2</a></p>\n<h2>God hates violence</h2>\n<p><a href=\"https://ref.ly/Ps11:5\">PSA 11:5</a>, <a href=\"https://ref.ly/Ps139:19\">PSA 139:19</a>; ; <a href=\"https://ref.ly/Jer22:3\">JER 22:3</a>; ; <a href=\"https://ref.ly/Ezek45:9\">EZK 45:9</a>; ; <a href=\"https://ref.ly/Mal2:16\">MAL 2:16</a></p>\n<h2>Jesus Christ was not violent</h2>\n<p><a href=\"https://ref.ly/Isa42:1-Isa42:3\">ISA 42:1–42:3</a>, <a href=\"https://ref.ly/Isa53:9\">ISA 53:9</a>; ; <a href=\"https://ref.ly/1Pet2:23\">1PE 2:23</a></p>\n<h2>Christians should not be violent</h2>\n<p><a href=\"https://ref.ly/Gal5:19-Gal5:21\">GAL 5:19–5:21</a>; ; <a href=\"https://ref.ly/Eph4:2\">EPH 4:2</a>, <a href=\"https://ref.ly/Eph4:31\">EPH 4:31</a>; ; <a href=\"https://ref.ly/Phil4:5\">PHP 4:5</a></p>\n<h2>Christian leaders should not be violent</h2>\n<p><a href=\"https://ref.ly/1Chr22:8-1Chr22:9\">1CH 22:8–22:9</a>; ; <a href=\"https://ref.ly/1Tim3:3\">1TI 3:3</a>; ; <a href=\"https://ref.ly/2Tim2:24\">2TI 2:24</a>; ; <a href=\"https://ref.ly/Titus1:7\">TIT 1:7</a></p>\n<h2>God helps the victims of violence</h2>\n<p><a href=\"https://ref.ly/2Sam22:3\">2SA 22:3</a>, <a href=\"https://ref.ly/2Sam22:49\">2SA 22:49</a>; ; <a href=\"https://ref.ly/Ps18:48\">PSA 18:48</a>, <a href=\"https://ref.ly/Ps72:14\">PSA 72:14</a>, <a href=\"https://ref.ly/Ps140:1-Ps140:4\">PSA 140:1–140:4</a>; ; <a href=\"https://ref.ly/Matt2:13\">MAT 2:13</a>; ; <a href=\"https://ref.ly/Luke22:50-Luke22:51\">LUK 22:50–22:51</a></p>\n<h2>Christians should help the victims of violence</h2>\n<p><a href=\"https://ref.ly/Gen14:14\">GEN 14:14</a>; ; <a href=\"https://ref.ly/2Chr28:9-2Chr28:15\">2CH 28:9–28:15</a>; ; <a href=\"https://ref.ly/Jer38:9-Jer38:12\">JER 38:9–38:12</a>; ; <a href=\"https://ref.ly/Luke10:30\">LUK 10:30</a>, <a href=\"https://ref.ly/Luke10:33\">LUK 10:33</a>; ; <a href=\"https://ref.ly/Acts23:15-Acts23:16\">ACT 23:15–23:16</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006011",
+"start_ref_usfm": "GEN 6:11",
+"end_ref": "01006013",
+"end_ref_usfm": "GEN 6:13"
+},
+{
+"start_ref": "18024002",
+"start_ref_usfm": "JOB 24:2",
+"end_ref": "18024004",
+"end_ref_usfm": "JOB 24:4"
+},
+{
+"start_ref": "19055009",
+"start_ref_usfm": "PSA 55:9",
+"end_ref": "19055009",
+"end_ref_usfm": "PSA 55:9"
+},
+{
+"start_ref": "19074020",
+"start_ref_usfm": "PSA 74:20",
+"end_ref": "19074020",
+"end_ref_usfm": "PSA 74:20"
+},
+{
+"start_ref": "20013002",
+"start_ref_usfm": "PRO 13:2",
+"end_ref": "20013002",
+"end_ref_usfm": "PRO 13:2"
+},
+{
+"start_ref": "23059001",
+"start_ref_usfm": "ISA 59:1",
+"end_ref": "23059008",
+"end_ref_usfm": "ISA 59:8"
+},
+{
+"start_ref": "26007023",
+"start_ref_usfm": "EZK 7:23",
+"end_ref": "26007023",
+"end_ref_usfm": "EZK 7:23"
+},
+{
+"start_ref": "33002001",
+"start_ref_usfm": "MIC 2:1",
+"end_ref": "33002002",
+"end_ref_usfm": "MIC 2:2"
+},
+{
+"start_ref": "19011005",
+"start_ref_usfm": "PSA 11:5",
+"end_ref": "19011005",
+"end_ref_usfm": "PSA 11:5"
+},
+{
+"start_ref": "19139019",
+"start_ref_usfm": "PSA 139:19",
+"end_ref": "19139019",
+"end_ref_usfm": "PSA 139:19"
+},
+{
+"start_ref": "24022003",
+"start_ref_usfm": "JER 22:3",
+"end_ref": "24022003",
+"end_ref_usfm": "JER 22:3"
+},
+{
+"start_ref": "26045009",
+"start_ref_usfm": "EZK 45:9",
+"end_ref": "26045009",
+"end_ref_usfm": "EZK 45:9"
+},
+{
+"start_ref": "39002016",
+"start_ref_usfm": "MAL 2:16",
+"end_ref": "39002016",
+"end_ref_usfm": "MAL 2:16"
+},
+{
+"start_ref": "23042001",
+"start_ref_usfm": "ISA 42:1",
+"end_ref": "23042003",
+"end_ref_usfm": "ISA 42:3"
+},
+{
+"start_ref": "23053009",
+"start_ref_usfm": "ISA 53:9",
+"end_ref": "23053009",
+"end_ref_usfm": "ISA 53:9"
+},
+{
+"start_ref": "60002023",
+"start_ref_usfm": "1PE 2:23",
+"end_ref": "60002023",
+"end_ref_usfm": "1PE 2:23"
+},
+{
+"start_ref": "48005019",
+"start_ref_usfm": "GAL 5:19",
+"end_ref": "48005021",
+"end_ref_usfm": "GAL 5:21"
+},
+{
+"start_ref": "49004002",
+"start_ref_usfm": "EPH 4:2",
+"end_ref": "49004002",
+"end_ref_usfm": "EPH 4:2"
+},
+{
+"start_ref": "49004031",
+"start_ref_usfm": "EPH 4:31",
+"end_ref": "49004031",
+"end_ref_usfm": "EPH 4:31"
+},
+{
+"start_ref": "50004005",
+"start_ref_usfm": "PHP 4:5",
+"end_ref": "50004005",
+"end_ref_usfm": "PHP 4:5"
+},
+{
+"start_ref": "13022008",
+"start_ref_usfm": "1CH 22:8",
+"end_ref": "13022009",
+"end_ref_usfm": "1CH 22:9"
+},
+{
+"start_ref": "54003003",
+"start_ref_usfm": "1TI 3:3",
+"end_ref": "54003003",
+"end_ref_usfm": "1TI 3:3"
+},
+{
+"start_ref": "55002024",
+"start_ref_usfm": "2TI 2:24",
+"end_ref": "55002024",
+"end_ref_usfm": "2TI 2:24"
+},
+{
+"start_ref": "56001007",
+"start_ref_usfm": "TIT 1:7",
+"end_ref": "56001007",
+"end_ref_usfm": "TIT 1:7"
+},
+{
+"start_ref": "10022003",
+"start_ref_usfm": "2SA 22:3",
+"end_ref": "10022003",
+"end_ref_usfm": "2SA 22:3"
+},
+{
+"start_ref": "10022049",
+"start_ref_usfm": "2SA 22:49",
+"end_ref": "10022049",
+"end_ref_usfm": "2SA 22:49"
+},
+{
+"start_ref": "19018048",
+"start_ref_usfm": "PSA 18:48",
+"end_ref": "19018048",
+"end_ref_usfm": "PSA 18:48"
+},
+{
+"start_ref": "19072014",
+"start_ref_usfm": "PSA 72:14",
+"end_ref": "19072014",
+"end_ref_usfm": "PSA 72:14"
+},
+{
+"start_ref": "19140001",
+"start_ref_usfm": "PSA 140:1",
+"end_ref": "19140004",
+"end_ref_usfm": "PSA 140:4"
+},
+{
+"start_ref": "40002013",
+"start_ref_usfm": "MAT 2:13",
+"end_ref": "40002013",
+"end_ref_usfm": "MAT 2:13"
+},
+{
+"start_ref": "42022050",
+"start_ref_usfm": "LUK 22:50",
+"end_ref": "42022051",
+"end_ref_usfm": "LUK 22:51"
+},
+{
+"start_ref": "01014014",
+"start_ref_usfm": "GEN 14:14",
+"end_ref": "01014014",
+"end_ref_usfm": "GEN 14:14"
+},
+{
+"start_ref": "14028009",
+"start_ref_usfm": "2CH 28:9",
+"end_ref": "14028015",
+"end_ref_usfm": "2CH 28:15"
+},
+{
+"start_ref": "24038009",
+"start_ref_usfm": "JER 38:9",
+"end_ref": "24038012",
+"end_ref_usfm": "JER 38:12"
+},
+{
+"start_ref": "42010030",
+"start_ref_usfm": "LUK 10:30",
+"end_ref": "42010030",
+"end_ref_usfm": "LUK 10:30"
+},
+{
+"start_ref": "42010033",
+"start_ref_usfm": "LUK 10:33",
+"end_ref": "42010033",
+"end_ref_usfm": "LUK 10:33"
+},
+{
+"start_ref": "44023015",
+"start_ref_usfm": "ACT 23:15",
+"end_ref": "44023016",
+"end_ref_usfm": "ACT 23:16"
+}
+],
+"resource": [
+{
+"reference_id": "1075",
+"content_id": "1075",
+"resource_code": "DictionaryBibleThemes",
+"label": "1075: God, justice of",
+"language": "eng"
+},
+{
+"reference_id": "5025",
+"content_id": "5025",
+"resource_code": "DictionaryBibleThemes",
+"label": "5025: killing",
+"language": "eng"
+},
+{
+"reference_id": "5040",
+"content_id": "5040",
+"resource_code": "DictionaryBibleThemes",
+"label": "5040: murder",
+"language": "eng"
+},
+{
+"reference_id": "5214",
+"content_id": "5214",
+"resource_code": "DictionaryBibleThemes",
+"label": "5214: attack",
+"language": "eng"
+},
+{
+"reference_id": "5282",
+"content_id": "5282",
+"resource_code": "DictionaryBibleThemes",
+"label": "5282: crushing",
+"language": "eng"
+},
+{
+"reference_id": "5311",
+"content_id": "5311",
+"resource_code": "DictionaryBibleThemes",
+"label": "5311: extortion",
+"language": "eng"
+},
+{
+"reference_id": "5346",
+"content_id": "5346",
+"resource_code": "DictionaryBibleThemes",
+"label": "5346: injury",
+"language": "eng"
+},
+{
+"reference_id": "5568",
+"content_id": "5568",
+"resource_code": "DictionaryBibleThemes",
+"label": "5568: suffering, causes of",
+"language": "eng"
+},
+{
+"reference_id": "5584",
+"content_id": "5584",
+"resource_code": "DictionaryBibleThemes",
+"label": "5584: torture",
+"language": "eng"
+},
+{
+"reference_id": "5605",
+"content_id": "5605",
+"resource_code": "DictionaryBibleThemes",
+"label": "5605: warfare",
+"language": "eng"
+},
+{
+"reference_id": "5823",
+"content_id": "5823",
+"resource_code": "DictionaryBibleThemes",
+"label": "5823: cruelty",
+"language": "eng"
+},
+{
+"reference_id": "8734",
+"content_id": "8734",
+"resource_code": "DictionaryBibleThemes",
+"label": "8734: evil",
+"language": "eng"
+}
+]
+}
+}
+]

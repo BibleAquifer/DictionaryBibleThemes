@@ -1,0 +1,32 @@
+[
+{
+"content_id": "6145",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6145: deceit",
+"media_type": "Text",
+"index_reference": "6145: deceit",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Behaviour, in words or actions, which is deliberately intended to make people believe things that are not true.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6146",
+"content_id": "6146",
+"resource_code": "DictionaryBibleThemes",
+"label": "6146: deceit, and God's nature",
+"language": "eng"
+},
+{
+"reference_id": "6147",
+"content_id": "6147",
+"resource_code": "DictionaryBibleThemes",
+"label": "6147: deceit, practice of",
+"language": "eng"
+}
+]
+}
+}
+]

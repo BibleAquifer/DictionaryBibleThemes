@@ -1,0 +1,212 @@
+[
+{
+"content_id": "6742",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6742: sackcloth and ashes",
+"media_type": "Text",
+"index_reference": "6742: sackcloth and ashes",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Sackcloth is a coarse, black cloth made from goat's hair that was worn together with the burnt ashes of wood as a sign of mourning for personal and national disaster, as a sign of repentance and at times of prayer for deliverance.</p>\n<h2>Sackcloth and ashes worn as a sign of mourning for the dead</h2>\n<h3>By Jacob for Joseph</h3>\n<p><strong><a href=\"https://ref.ly/Gen37:34\">GEN 37:34</a></strong></p>\n<h3>By David, Joab and the people for Abner</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/2Sam3:31\">2SA 3:31</a></p>\n<h2>Sackcloth and ashes worn as a sign of mourning for personal or national disaster</h2>\n<p><strong><a href=\"https://ref.ly/Job16:15\">JOB 16:15</a>, <a href=\"https://ref.ly/Job42:6\">JOB 42:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth4:1\">EST 4:1</a>; <a href=\"https://ref.ly/Lam2:10\">LAM 2:10</a>; <a href=\"https://ref.ly/Joel1:8\">JOL 1:8</a></p>\n<h2>Sackcloth and ashes worn as a sign of repentance for sin</h2>\n<h3>By Ahab</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs21:27\">1KI 21:27</a></strong></p>\n<h3>By David and the elders</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/1Chr21:16\">1CH 21:16</a></p>\n<h3>By the Israelites</h3>\n<p><strong><a href=\"https://ref.ly/Neh9:1\">NEH 9:1</a></strong></p>\n<h3>By the Ninevites and their king</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Jonah3:5-Jonah3:9\">JON 3:5–3:9</a> <em>Even the animals were to wear sackcloth.</em></p>\n<h3>By others</h3>\n<p><a href=\"https://ref.ly/Isa15:3\">ISA 15:3</a>; ; <a href=\"https://ref.ly/Jer49:3\">JER 49:3</a>; ; <a href=\"https://ref.ly/Ezek27:31\">EZK 27:31</a>; ; <a href=\"https://ref.ly/Matt11:21\">MAT 11:21</a> parallel <a href=\"https://ref.ly/Luke10:13\">LUK 10:13</a></p>\n<h2>Sackcloth and ashes worn at times of prayer for deliverance</h2>\n<h3>By Hezekiah and his companions</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs19:1-2Kgs19:2\">2KI 19:1–19:2</a></strong></p>\n<h3>By Daniel</h3>\n<p><strong><a href=\"https://ref.ly/Dan9:3\">DAN 9:3</a></strong></p>\n<h2>Sackcloth was worn in many different ways</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/1Kgs20:31\">1KI 20:31</a>; <a href=\"https://ref.ly/2Kgs6:30\">2KI 6:30</a>; <a href=\"https://ref.ly/Isa3:24\">ISA 3:24</a>, <a href=\"https://ref.ly/Isa58:5\">ISA 58:5</a>; <a href=\"https://ref.ly/Joel1:13\">JOL 1:13</a></p>\n<h2>Sackcloth used figuratively</h2>\n<p><a href=\"https://ref.ly/Isa50:3\">ISA 50:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01037034",
+"start_ref_usfm": "GEN 37:34",
+"end_ref": "01037034",
+"end_ref_usfm": "GEN 37:34"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003031",
+"end_ref_usfm": "2SA 3:31"
+},
+{
+"start_ref": "18016015",
+"start_ref_usfm": "JOB 16:15",
+"end_ref": "18016015",
+"end_ref_usfm": "JOB 16:15"
+},
+{
+"start_ref": "18042006",
+"start_ref_usfm": "JOB 42:6",
+"end_ref": "18042006",
+"end_ref_usfm": "JOB 42:6"
+},
+{
+"start_ref": "17004001",
+"start_ref_usfm": "EST 4:1",
+"end_ref": "17004001",
+"end_ref_usfm": "EST 4:1"
+},
+{
+"start_ref": "25002010",
+"start_ref_usfm": "LAM 2:10",
+"end_ref": "25002010",
+"end_ref_usfm": "LAM 2:10"
+},
+{
+"start_ref": "29001008",
+"start_ref_usfm": "JOL 1:8",
+"end_ref": "29001008",
+"end_ref_usfm": "JOL 1:8"
+},
+{
+"start_ref": "11021027",
+"start_ref_usfm": "1KI 21:27",
+"end_ref": "11021027",
+"end_ref_usfm": "1KI 21:27"
+},
+{
+"start_ref": "13021016",
+"start_ref_usfm": "1CH 21:16",
+"end_ref": "13021016",
+"end_ref_usfm": "1CH 21:16"
+},
+{
+"start_ref": "16009001",
+"start_ref_usfm": "NEH 9:1",
+"end_ref": "16009001",
+"end_ref_usfm": "NEH 9:1"
+},
+{
+"start_ref": "32003005",
+"start_ref_usfm": "JON 3:5",
+"end_ref": "32003009",
+"end_ref_usfm": "JON 3:9"
+},
+{
+"start_ref": "23015003",
+"start_ref_usfm": "ISA 15:3",
+"end_ref": "23015003",
+"end_ref_usfm": "ISA 15:3"
+},
+{
+"start_ref": "24049003",
+"start_ref_usfm": "JER 49:3",
+"end_ref": "24049003",
+"end_ref_usfm": "JER 49:3"
+},
+{
+"start_ref": "26027031",
+"start_ref_usfm": "EZK 27:31",
+"end_ref": "26027031",
+"end_ref_usfm": "EZK 27:31"
+},
+{
+"start_ref": "40011021",
+"start_ref_usfm": "MAT 11:21",
+"end_ref": "40011021",
+"end_ref_usfm": "MAT 11:21"
+},
+{
+"start_ref": "42010013",
+"start_ref_usfm": "LUK 10:13",
+"end_ref": "42010013",
+"end_ref_usfm": "LUK 10:13"
+},
+{
+"start_ref": "12019001",
+"start_ref_usfm": "2KI 19:1",
+"end_ref": "12019002",
+"end_ref_usfm": "2KI 19:2"
+},
+{
+"start_ref": "27009003",
+"start_ref_usfm": "DAN 9:3",
+"end_ref": "27009003",
+"end_ref_usfm": "DAN 9:3"
+},
+{
+"start_ref": "11020031",
+"start_ref_usfm": "1KI 20:31",
+"end_ref": "11020031",
+"end_ref_usfm": "1KI 20:31"
+},
+{
+"start_ref": "12006030",
+"start_ref_usfm": "2KI 6:30",
+"end_ref": "12006030",
+"end_ref_usfm": "2KI 6:30"
+},
+{
+"start_ref": "23003024",
+"start_ref_usfm": "ISA 3:24",
+"end_ref": "23003024",
+"end_ref_usfm": "ISA 3:24"
+},
+{
+"start_ref": "23058005",
+"start_ref_usfm": "ISA 58:5",
+"end_ref": "23058005",
+"end_ref_usfm": "ISA 58:5"
+},
+{
+"start_ref": "29001013",
+"start_ref_usfm": "JOL 1:13",
+"end_ref": "29001013",
+"end_ref_usfm": "JOL 1:13"
+},
+{
+"start_ref": "23050003",
+"start_ref_usfm": "ISA 50:3",
+"end_ref": "23050003",
+"end_ref_usfm": "ISA 50:3"
+}
+],
+"resource": [
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "4050",
+"content_id": "4050",
+"resource_code": "DictionaryBibleThemes",
+"label": "4050: dust",
+"language": "eng"
+},
+{
+"reference_id": "5145",
+"content_id": "5145",
+"resource_code": "DictionaryBibleThemes",
+"label": "5145: clothing",
+"language": "eng"
+},
+{
+"reference_id": "5419",
+"content_id": "5419",
+"resource_code": "DictionaryBibleThemes",
+"label": "5419: mourning",
+"language": "eng"
+},
+{
+"reference_id": "6634",
+"content_id": "6634",
+"resource_code": "DictionaryBibleThemes",
+"label": "6634: deliverance",
+"language": "eng"
+},
+{
+"reference_id": "6732",
+"content_id": "6732",
+"resource_code": "DictionaryBibleThemes",
+"label": "6732: repentance",
+"language": "eng"
+},
+{
+"reference_id": "8602",
+"content_id": "8602",
+"resource_code": "DictionaryBibleThemes",
+"label": "8602: prayer",
+"language": "eng"
+}
+]
+}
+}
+]

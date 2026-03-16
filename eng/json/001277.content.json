@@ -1,0 +1,107 @@
+[
+{
+"content_id": "5739",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5739: twins",
+"media_type": "Text",
+"index_reference": "5739: twins",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Two children born of the same parents at the same time. Figuratively used to describe a matching pair.</p>\n<h2>Examples of twins</h2>\n<p><strong><a href=\"https://ref.ly/Gen25:21-Gen25:26\">GEN 25:21–25:26</a></strong> <em>Although Jacob and Esau were twins, their very different characters indicate that God deals with and relates to people individually.</em> <em>See also</em> <a href=\"https://ref.ly/Gen38:27-Gen38:30\">GEN 38:27–38:30</a>; <a href=\"https://ref.ly/John20:24\">JHN 20:24</a> <em>Didymus means “twin”. It is not known who his twin was</em>; <a href=\"https://ref.ly/John21:2\">JHN 21:2</a>; <a href=\"https://ref.ly/Acts28:11\">ACT 28:11</a> <em>the mythical twin sons of Zeus regarded as special protectors of sailors</em></p>\n<h2>Twins used to illustrate God's election</h2>\n<p><a href=\"https://ref.ly/Rom9:10-Rom9:16\">ROM 9:10–9:16</a></p>\n<h2>Twins used figuratively for matching pairs</h2>\n<p><a href=\"https://ref.ly/Song4:2\">SNG 4:2</a>, <a href=\"https://ref.ly/Song4:5\">SNG 4:5</a>, <a href=\"https://ref.ly/Song6:6\">SNG 6:6</a>, <a href=\"https://ref.ly/Song7:3\">SNG 7:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01025021",
+"start_ref_usfm": "GEN 25:21",
+"end_ref": "01025026",
+"end_ref_usfm": "GEN 25:26"
+},
+{
+"start_ref": "01038027",
+"start_ref_usfm": "GEN 38:27",
+"end_ref": "01038030",
+"end_ref_usfm": "GEN 38:30"
+},
+{
+"start_ref": "43020024",
+"start_ref_usfm": "JHN 20:24",
+"end_ref": "43020024",
+"end_ref_usfm": "JHN 20:24"
+},
+{
+"start_ref": "43021002",
+"start_ref_usfm": "JHN 21:2",
+"end_ref": "43021002",
+"end_ref_usfm": "JHN 21:2"
+},
+{
+"start_ref": "44028011",
+"start_ref_usfm": "ACT 28:11",
+"end_ref": "44028011",
+"end_ref_usfm": "ACT 28:11"
+},
+{
+"start_ref": "45009010",
+"start_ref_usfm": "ROM 9:10",
+"end_ref": "45009016",
+"end_ref_usfm": "ROM 9:16"
+},
+{
+"start_ref": "22004002",
+"start_ref_usfm": "SNG 4:2",
+"end_ref": "22004002",
+"end_ref_usfm": "SNG 4:2"
+},
+{
+"start_ref": "22004005",
+"start_ref_usfm": "SNG 4:5",
+"end_ref": "22004005",
+"end_ref_usfm": "SNG 4:5"
+},
+{
+"start_ref": "22006006",
+"start_ref_usfm": "SNG 6:6",
+"end_ref": "22006006",
+"end_ref_usfm": "SNG 6:6"
+},
+{
+"start_ref": "22007003",
+"start_ref_usfm": "SNG 7:3",
+"end_ref": "22007003",
+"end_ref_usfm": "SNG 7:3"
+}
+],
+"resource": [
+{
+"reference_id": "5094",
+"content_id": "5094",
+"resource_code": "DictionaryBibleThemes",
+"label": "5094: Jacob",
+"language": "eng"
+},
+{
+"reference_id": "5661",
+"content_id": "5661",
+"resource_code": "DictionaryBibleThemes",
+"label": "5661: brothers",
+"language": "eng"
+},
+{
+"reference_id": "5664",
+"content_id": "5664",
+"resource_code": "DictionaryBibleThemes",
+"label": "5664: children",
+"language": "eng"
+},
+{
+"reference_id": "5737",
+"content_id": "5737",
+"resource_code": "DictionaryBibleThemes",
+"label": "5737: sisters",
+"language": "eng"
+}
+]
+}
+}
+]

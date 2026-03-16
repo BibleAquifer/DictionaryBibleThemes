@@ -1,0 +1,67 @@
+[
+{
+"content_id": "9000",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9000: Last things",
+"media_type": "Text",
+"index_reference": "9000: last things",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"9010\" data-resourcetype=\"DictionaryOfBibleThemes\">9010: Death</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9100\" data-resourcetype=\"DictionaryOfBibleThemes\">9100: Aspects of the last things</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9200\" data-resourcetype=\"DictionaryOfBibleThemes\">9200: Judgment</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9300\" data-resourcetype=\"DictionaryOfBibleThemes\">9300: Resurrection</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9400\" data-resourcetype=\"DictionaryOfBibleThemes\">9400: Heaven</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9500\" data-resourcetype=\"DictionaryOfBibleThemes\">9500: Hell</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9600\" data-resourcetype=\"DictionaryOfBibleThemes\">9600: Hope</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "9010",
+"content_id": "9010",
+"resource_code": "DictionaryBibleThemes",
+"label": "9010: Death",
+"language": "eng"
+},
+{
+"reference_id": "9100",
+"content_id": "9100",
+"resource_code": "DictionaryBibleThemes",
+"label": "9100: Aspects of the last things",
+"language": "eng"
+},
+{
+"reference_id": "9200",
+"content_id": "9200",
+"resource_code": "DictionaryBibleThemes",
+"label": "9200: Judgment",
+"language": "eng"
+},
+{
+"reference_id": "9300",
+"content_id": "9300",
+"resource_code": "DictionaryBibleThemes",
+"label": "9300: Resurrection",
+"language": "eng"
+},
+{
+"reference_id": "9400",
+"content_id": "9400",
+"resource_code": "DictionaryBibleThemes",
+"label": "9400: Heaven",
+"language": "eng"
+},
+{
+"reference_id": "9500",
+"content_id": "9500",
+"resource_code": "DictionaryBibleThemes",
+"label": "9500: Hell",
+"language": "eng"
+},
+{
+"reference_id": "9600",
+"content_id": "9600",
+"resource_code": "DictionaryBibleThemes",
+"label": "9600: Hope",
+"language": "eng"
+}
+]
+}
+}
+]

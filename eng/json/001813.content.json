@@ -1,0 +1,195 @@
+[
+{
+"content_id": "7394",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7394: memorial",
+"media_type": "Text",
+"index_reference": "7394: memorial",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An object, institution or custom established or founded as a reminder of an important person or event held to be worth remembering in the life of the community.</p>\n<h2>Objects as a memorial</h2>\n<h3>Stones</h3>\n<p><strong><a href=\"https://ref.ly/Josh4:4-Josh4:7\">JOS 4:4–4:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod28:9-Exod28:12\">EXO 28:9–28:12</a> parallel <a href=\"https://ref.ly/Exod39:6-Exod39:7\">EXO 39:6–39:7</a>; <a href=\"https://ref.ly/Exod28:29\">EXO 28:29</a></p>\n<h3>Money or gold</h3>\n<p><strong><a href=\"https://ref.ly/Exod30:16\">EXO 30:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num31:54\">NUM 31:54</a></p>\n<h3>Incense</h3>\n<p><strong><a href=\"https://ref.ly/Lev24:7\">LEV 24:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa66:3\">ISA 66:3</a></p>\n<h3>A crown</h3>\n<p><strong><a href=\"https://ref.ly/Zech6:9-Zech6:15\">ZEC 6:9–6:15</a></strong></p>\n<h2>Offerings as a memorial</h2>\n<p><strong><a href=\"https://ref.ly/Lev2:1-Lev2:2\">LEV 2:1–2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev5:11-Lev5:13\">LEV 5:11–5:13</a>; <a href=\"https://ref.ly/Num10:10\">NUM 10:10</a></p>\n<h2>Meals as a memorial</h2>\n<h3>The Lord's Supper</h3>\n<p><strong><a href=\"https://ref.ly/1Cor11:23-1Cor11:26\">1CO 11:23–11:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt26:26-Matt26:28\">MAT 26:26–26:28</a> parallels <a href=\"https://ref.ly/Mark14:22-Mark14:24\">MRK 14:22–14:24</a>, <a href=\"https://ref.ly/Luke22:17-Luke22:20\">LUK 22:17–22:20</a></p>\n<h3>The Passover and the Feast of Unleavened Bread</h3>\n<p><a href=\"https://ref.ly/Deut16:1-Deut16:8\">DEU 16:1–16:8</a> parallels <a href=\"https://ref.ly/Exod12:14-Exod12:20\">EXO 12:14–12:20</a>, <a href=\"https://ref.ly/Lev23:4-Lev23:8\">LEV 23:4–23:8</a>, <a href=\"https://ref.ly/Num28:16-Num28:25\">NUM 28:16–28:25</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06004004",
+"start_ref_usfm": "JOS 4:4",
+"end_ref": "06004007",
+"end_ref_usfm": "JOS 4:7"
+},
+{
+"start_ref": "02028009",
+"start_ref_usfm": "EXO 28:9",
+"end_ref": "02028012",
+"end_ref_usfm": "EXO 28:12"
+},
+{
+"start_ref": "02039006",
+"start_ref_usfm": "EXO 39:6",
+"end_ref": "02039007",
+"end_ref_usfm": "EXO 39:7"
+},
+{
+"start_ref": "02028029",
+"start_ref_usfm": "EXO 28:29",
+"end_ref": "02028029",
+"end_ref_usfm": "EXO 28:29"
+},
+{
+"start_ref": "02030016",
+"start_ref_usfm": "EXO 30:16",
+"end_ref": "02030016",
+"end_ref_usfm": "EXO 30:16"
+},
+{
+"start_ref": "04031054",
+"start_ref_usfm": "NUM 31:54",
+"end_ref": "04031054",
+"end_ref_usfm": "NUM 31:54"
+},
+{
+"start_ref": "03024007",
+"start_ref_usfm": "LEV 24:7",
+"end_ref": "03024007",
+"end_ref_usfm": "LEV 24:7"
+},
+{
+"start_ref": "23066003",
+"start_ref_usfm": "ISA 66:3",
+"end_ref": "23066003",
+"end_ref_usfm": "ISA 66:3"
+},
+{
+"start_ref": "38006009",
+"start_ref_usfm": "ZEC 6:9",
+"end_ref": "38006015",
+"end_ref_usfm": "ZEC 6:15"
+},
+{
+"start_ref": "03002001",
+"start_ref_usfm": "LEV 2:1",
+"end_ref": "03002002",
+"end_ref_usfm": "LEV 2:2"
+},
+{
+"start_ref": "03005011",
+"start_ref_usfm": "LEV 5:11",
+"end_ref": "03005013",
+"end_ref_usfm": "LEV 5:13"
+},
+{
+"start_ref": "04010010",
+"start_ref_usfm": "NUM 10:10",
+"end_ref": "04010010",
+"end_ref_usfm": "NUM 10:10"
+},
+{
+"start_ref": "46011023",
+"start_ref_usfm": "1CO 11:23",
+"end_ref": "46011026",
+"end_ref_usfm": "1CO 11:26"
+},
+{
+"start_ref": "40026026",
+"start_ref_usfm": "MAT 26:26",
+"end_ref": "40026028",
+"end_ref_usfm": "MAT 26:28"
+},
+{
+"start_ref": "41014022",
+"start_ref_usfm": "MRK 14:22",
+"end_ref": "41014024",
+"end_ref_usfm": "MRK 14:24"
+},
+{
+"start_ref": "42022017",
+"start_ref_usfm": "LUK 22:17",
+"end_ref": "42022020",
+"end_ref_usfm": "LUK 22:20"
+},
+{
+"start_ref": "05016001",
+"start_ref_usfm": "DEU 16:1",
+"end_ref": "05016008",
+"end_ref_usfm": "DEU 16:8"
+},
+{
+"start_ref": "02012014",
+"start_ref_usfm": "EXO 12:14",
+"end_ref": "02012020",
+"end_ref_usfm": "EXO 12:20"
+},
+{
+"start_ref": "03023004",
+"start_ref_usfm": "LEV 23:4",
+"end_ref": "03023008",
+"end_ref_usfm": "LEV 23:8"
+},
+{
+"start_ref": "04028016",
+"start_ref_usfm": "NUM 28:16",
+"end_ref": "04028025",
+"end_ref_usfm": "NUM 28:25"
+}
+],
+"resource": [
+{
+"reference_id": "4963",
+"content_id": "4963",
+"resource_code": "DictionaryBibleThemes",
+"label": "4963: past, the",
+"language": "eng"
+},
+{
+"reference_id": "5443",
+"content_id": "5443",
+"resource_code": "DictionaryBibleThemes",
+"label": "5443: pillars",
+"language": "eng"
+},
+{
+"reference_id": "7354",
+"content_id": "7354",
+"resource_code": "DictionaryBibleThemes",
+"label": "7354: feasts and festivals",
+"language": "eng"
+},
+{
+"reference_id": "7933",
+"content_id": "7933",
+"resource_code": "DictionaryBibleThemes",
+"label": "7933: Lord's Supper",
+"language": "eng"
+},
+{
+"reference_id": "8467",
+"content_id": "8467",
+"resource_code": "DictionaryBibleThemes",
+"label": "8467: reminders",
+"language": "eng"
+},
+{
+"reference_id": "8644",
+"content_id": "8644",
+"resource_code": "DictionaryBibleThemes",
+"label": "8644: commemoration",
+"language": "eng"
+},
+{
+"reference_id": "8670",
+"content_id": "8670",
+"resource_code": "DictionaryBibleThemes",
+"label": "8670: remembering",
+"language": "eng"
+},
+{
+"reference_id": "8763",
+"content_id": "8763",
+"resource_code": "DictionaryBibleThemes",
+"label": "8763: forgetting",
+"language": "eng"
+}
+]
+}
+}
+]

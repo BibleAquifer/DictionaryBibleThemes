@@ -1,0 +1,30 @@
+[
+{
+"content_id": "4233",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4233: field of blood",
+"media_type": "Text",
+"index_reference": "4233: field of blood",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The field purchased by Judas Iscariot in which he subsequently died</h2>\n<p><strong><a href=\"https://ref.ly/Acts1:18-Acts1:19\">ACT 1:18–1:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt27:3-Matt27:10\">MAT 27:3–27:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44001018",
+"start_ref_usfm": "ACT 1:18",
+"end_ref": "44001019",
+"end_ref_usfm": "ACT 1:19"
+},
+{
+"start_ref": "40027003",
+"start_ref_usfm": "MAT 27:3",
+"end_ref": "40027010",
+"end_ref_usfm": "MAT 27:10"
+}
+],
+"resource": []
+}
+}
+]

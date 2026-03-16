@@ -1,0 +1,25 @@
+[
+{
+"content_id": "2003",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "2003: Jesus Christ, qualities of",
+"media_type": "Text",
+"index_reference": "2003: jesus christ, qualities of",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"2006\" data-resourcetype=\"DictionaryOfBibleThemes\">2006: God, the Son</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "2006",
+"content_id": "2006",
+"resource_code": "DictionaryBibleThemes",
+"label": "2006: God, the Son",
+"language": "eng"
+}
+]
+}
+}
+]

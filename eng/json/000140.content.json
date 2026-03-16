@@ -1,0 +1,53 @@
+[
+{
+"content_id": "2000",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "2000: Jesus Christ",
+"media_type": "Text",
+"index_reference": "2000: jesus christ",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"2003\" data-resourcetype=\"DictionaryOfBibleThemes\">2003: Jesus Christ, qualities of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"2200\" data-resourcetype=\"DictionaryOfBibleThemes\">2200: Jesus Christ, titles and descriptions of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"2300\" data-resourcetype=\"DictionaryOfBibleThemes\">2300: Jesus Christ, ministry and work of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"2400\" data-resourcetype=\"DictionaryOfBibleThemes\">2400: Jesus Christ, gospel of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"2500\" data-resourcetype=\"DictionaryOfBibleThemes\">2500: Jesus Christ, history of</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "2003",
+"content_id": "2003",
+"resource_code": "DictionaryBibleThemes",
+"label": "2003: Jesus Christ, qualities of",
+"language": "eng"
+},
+{
+"reference_id": "2200",
+"content_id": "2200",
+"resource_code": "DictionaryBibleThemes",
+"label": "2200: Jesus Christ, titles and descriptions of",
+"language": "eng"
+},
+{
+"reference_id": "2300",
+"content_id": "2300",
+"resource_code": "DictionaryBibleThemes",
+"label": "2300: Jesus Christ, ministry and work of",
+"language": "eng"
+},
+{
+"reference_id": "2400",
+"content_id": "2400",
+"resource_code": "DictionaryBibleThemes",
+"label": "2400: Jesus Christ, gospel of",
+"language": "eng"
+},
+{
+"reference_id": "2500",
+"content_id": "2500",
+"resource_code": "DictionaryBibleThemes",
+"label": "2500: Jesus Christ, history of",
+"language": "eng"
+}
+]
+}
+}
+]

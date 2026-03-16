@@ -1,0 +1,32 @@
+[
+{
+"content_id": "7718",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7718: elders",
+"media_type": "Text",
+"index_reference": "7718: elders",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Senior figures within Israel and the Christian church who are given special responsibilities for their people.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7719",
+"content_id": "7719",
+"resource_code": "DictionaryBibleThemes",
+"label": "7719: elders, as community leaders",
+"language": "eng"
+},
+{
+"reference_id": "7720",
+"content_id": "7720",
+"resource_code": "DictionaryBibleThemes",
+"label": "7720: elders, in the church",
+"language": "eng"
+}
+]
+}
+}
+]

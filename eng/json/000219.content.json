@@ -1,0 +1,312 @@
+[
+{
+"content_id": "2424",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "2424: gospel, promises of",
+"media_type": "Text",
+"index_reference": "2424: gospel, promises of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>To all who believe and submit to its demands, the promises of the gospel include forgiveness of sins, new life in Jesus Christ and adoption into the family of God.</p>\n<h2>Forgiveness of sins</h2>\n<h3>The sin of God's people is imputed to God's Son</h3>\n<p><strong><a href=\"https://ref.ly/John1:29\">JHN 1:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa53:4-Isa53:6\">ISA 53:4–53:6</a>; <a href=\"https://ref.ly/Luke24:46-Luke24:47\">LUK 24:46–24:47</a>; <a href=\"https://ref.ly/Acts5:30-Acts5:32\">ACT 5:30–5:32</a>, <a href=\"https://ref.ly/Acts13:38\">ACT 13:38</a>; <a href=\"https://ref.ly/Titus2:13-Titus2:14\">TIT 2:13–2:14</a>; <a href=\"https://ref.ly/Heb9:28\">HEB 9:28</a>; <a href=\"https://ref.ly/1Pet2:24\">1PE 2:24</a></p>\n<h3>The righteousness of God's Son is imputed to God's people</h3>\n<p><strong><a href=\"https://ref.ly/Rom1:16-Rom1:17\">ROM 1:16–1:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom3:21-Rom3:26\">ROM 3:21–3:26</a>, <a href=\"https://ref.ly/Rom9:30\">ROM 9:30</a>; <a href=\"https://ref.ly/Phil3:7-Phil3:9\">PHP 3:7–3:9</a></p>\n<h2>Peace with God</h2>\n<p><strong><a href=\"https://ref.ly/Rom5:1-Rom5:2\">ROM 5:1–5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/John14:27\">JHN 14:27</a>; <a href=\"https://ref.ly/Rom8:1-Rom8:4\">ROM 8:1–8:4</a>, <a href=\"https://ref.ly/Rom8:31-Rom8:35\">ROM 8:31–8:35</a></p>\n<h2>New birth</h2>\n<p><strong><a href=\"https://ref.ly/1Pet1:23-1Pet1:25\">1PE 1:23–1:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/John1:12-John1:13\">JHN 1:12–1:13</a>, <a href=\"https://ref.ly/John3:5-John3:8\">JHN 3:5–3:8</a>; <a href=\"https://ref.ly/Jas1:18\">JAS 1:18</a></p>\n<h2>Eternal life</h2>\n<p><strong><a href=\"https://ref.ly/John3:14-John3:16\">JHN 3:14–3:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/John1:4\">JHN 1:4</a>, <a href=\"https://ref.ly/John6:68-John6:69\">JHN 6:68–6:69</a>, <a href=\"https://ref.ly/John10:10\">JHN 10:10</a>, <a href=\"https://ref.ly/John20:31\">JHN 20:31</a>; <a href=\"https://ref.ly/1John1:1-1John1:2\">1JN 1:1–1:2</a>, <a href=\"https://ref.ly/1John5:12\">1JN 5:12</a></p>\n<h2>The gift of the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:38\">ACT 2:38</a></strong> <em>See also</em> <a href=\"https://ref.ly/Joel2:28-Joel2:32\">JOL 2:28–2:32</a>; <a href=\"https://ref.ly/John7:37-John7:39\">JHN 7:37–7:39</a>; <a href=\"https://ref.ly/Acts8:14-Acts8:17\">ACT 8:14–8:17</a>, <a href=\"https://ref.ly/Acts19:1-Acts19:7\">ACT 19:1–19:7</a></p>\n<h2>Adoption into God's family</h2>\n<p><strong><a href=\"https://ref.ly/Rom8:12-Rom8:17\">ROM 8:12–8:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/John1:12-John1:13\">JHN 1:12–1:13</a>; <a href=\"https://ref.ly/Gal3:26\">GAL 3:26</a>, <a href=\"https://ref.ly/Gal4:4-Gal4:6\">GAL 4:4–4:6</a>; <a href=\"https://ref.ly/Eph1:5\">EPH 1:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "43001029",
+"start_ref_usfm": "JHN 1:29",
+"end_ref": "43001029",
+"end_ref_usfm": "JHN 1:29"
+},
+{
+"start_ref": "23053004",
+"start_ref_usfm": "ISA 53:4",
+"end_ref": "23053006",
+"end_ref_usfm": "ISA 53:6"
+},
+{
+"start_ref": "42024046",
+"start_ref_usfm": "LUK 24:46",
+"end_ref": "42024047",
+"end_ref_usfm": "LUK 24:47"
+},
+{
+"start_ref": "44005030",
+"start_ref_usfm": "ACT 5:30",
+"end_ref": "44005032",
+"end_ref_usfm": "ACT 5:32"
+},
+{
+"start_ref": "44013038",
+"start_ref_usfm": "ACT 13:38",
+"end_ref": "44013038",
+"end_ref_usfm": "ACT 13:38"
+},
+{
+"start_ref": "56002013",
+"start_ref_usfm": "TIT 2:13",
+"end_ref": "56002014",
+"end_ref_usfm": "TIT 2:14"
+},
+{
+"start_ref": "58009028",
+"start_ref_usfm": "HEB 9:28",
+"end_ref": "58009028",
+"end_ref_usfm": "HEB 9:28"
+},
+{
+"start_ref": "60002024",
+"start_ref_usfm": "1PE 2:24",
+"end_ref": "60002024",
+"end_ref_usfm": "1PE 2:24"
+},
+{
+"start_ref": "45001016",
+"start_ref_usfm": "ROM 1:16",
+"end_ref": "45001017",
+"end_ref_usfm": "ROM 1:17"
+},
+{
+"start_ref": "45003021",
+"start_ref_usfm": "ROM 3:21",
+"end_ref": "45003026",
+"end_ref_usfm": "ROM 3:26"
+},
+{
+"start_ref": "45009030",
+"start_ref_usfm": "ROM 9:30",
+"end_ref": "45009030",
+"end_ref_usfm": "ROM 9:30"
+},
+{
+"start_ref": "50003007",
+"start_ref_usfm": "PHP 3:7",
+"end_ref": "50003009",
+"end_ref_usfm": "PHP 3:9"
+},
+{
+"start_ref": "45005001",
+"start_ref_usfm": "ROM 5:1",
+"end_ref": "45005002",
+"end_ref_usfm": "ROM 5:2"
+},
+{
+"start_ref": "43014027",
+"start_ref_usfm": "JHN 14:27",
+"end_ref": "43014027",
+"end_ref_usfm": "JHN 14:27"
+},
+{
+"start_ref": "45008001",
+"start_ref_usfm": "ROM 8:1",
+"end_ref": "45008004",
+"end_ref_usfm": "ROM 8:4"
+},
+{
+"start_ref": "45008031",
+"start_ref_usfm": "ROM 8:31",
+"end_ref": "45008035",
+"end_ref_usfm": "ROM 8:35"
+},
+{
+"start_ref": "60001023",
+"start_ref_usfm": "1PE 1:23",
+"end_ref": "60001025",
+"end_ref_usfm": "1PE 1:25"
+},
+{
+"start_ref": "43001012",
+"start_ref_usfm": "JHN 1:12",
+"end_ref": "43001013",
+"end_ref_usfm": "JHN 1:13"
+},
+{
+"start_ref": "43003005",
+"start_ref_usfm": "JHN 3:5",
+"end_ref": "43003008",
+"end_ref_usfm": "JHN 3:8"
+},
+{
+"start_ref": "59001018",
+"start_ref_usfm": "JAS 1:18",
+"end_ref": "59001018",
+"end_ref_usfm": "JAS 1:18"
+},
+{
+"start_ref": "43003014",
+"start_ref_usfm": "JHN 3:14",
+"end_ref": "43003016",
+"end_ref_usfm": "JHN 3:16"
+},
+{
+"start_ref": "43001004",
+"start_ref_usfm": "JHN 1:4",
+"end_ref": "43001004",
+"end_ref_usfm": "JHN 1:4"
+},
+{
+"start_ref": "43006068",
+"start_ref_usfm": "JHN 6:68",
+"end_ref": "43006069",
+"end_ref_usfm": "JHN 6:69"
+},
+{
+"start_ref": "43010010",
+"start_ref_usfm": "JHN 10:10",
+"end_ref": "43010010",
+"end_ref_usfm": "JHN 10:10"
+},
+{
+"start_ref": "43020031",
+"start_ref_usfm": "JHN 20:31",
+"end_ref": "43020031",
+"end_ref_usfm": "JHN 20:31"
+},
+{
+"start_ref": "62001001",
+"start_ref_usfm": "1JN 1:1",
+"end_ref": "62001002",
+"end_ref_usfm": "1JN 1:2"
+},
+{
+"start_ref": "62005012",
+"start_ref_usfm": "1JN 5:12",
+"end_ref": "62005012",
+"end_ref_usfm": "1JN 5:12"
+},
+{
+"start_ref": "44002038",
+"start_ref_usfm": "ACT 2:38",
+"end_ref": "44002038",
+"end_ref_usfm": "ACT 2:38"
+},
+{
+"start_ref": "29002028",
+"start_ref_usfm": "JOL 2:28",
+"end_ref": "29002032",
+"end_ref_usfm": "JOL 2:32"
+},
+{
+"start_ref": "43007037",
+"start_ref_usfm": "JHN 7:37",
+"end_ref": "43007039",
+"end_ref_usfm": "JHN 7:39"
+},
+{
+"start_ref": "44008014",
+"start_ref_usfm": "ACT 8:14",
+"end_ref": "44008017",
+"end_ref_usfm": "ACT 8:17"
+},
+{
+"start_ref": "44019001",
+"start_ref_usfm": "ACT 19:1",
+"end_ref": "44019007",
+"end_ref_usfm": "ACT 19:7"
+},
+{
+"start_ref": "45008012",
+"start_ref_usfm": "ROM 8:12",
+"end_ref": "45008017",
+"end_ref_usfm": "ROM 8:17"
+},
+{
+"start_ref": "48003026",
+"start_ref_usfm": "GAL 3:26",
+"end_ref": "48003026",
+"end_ref_usfm": "GAL 3:26"
+},
+{
+"start_ref": "48004004",
+"start_ref_usfm": "GAL 4:4",
+"end_ref": "48004006",
+"end_ref_usfm": "GAL 4:6"
+},
+{
+"start_ref": "49001005",
+"start_ref_usfm": "EPH 1:5",
+"end_ref": "49001005",
+"end_ref_usfm": "EPH 1:5"
+}
+],
+"resource": [
+{
+"reference_id": "3257",
+"content_id": "3257",
+"resource_code": "DictionaryBibleThemes",
+"label": "3257: Holy Spirit, gift of",
+"language": "eng"
+},
+{
+"reference_id": "6606",
+"content_id": "6606",
+"resource_code": "DictionaryBibleThemes",
+"label": "6606: access to God",
+"language": "eng"
+},
+{
+"reference_id": "6608",
+"content_id": "6608",
+"resource_code": "DictionaryBibleThemes",
+"label": "6608: adoption",
+"language": "eng"
+},
+{
+"reference_id": "6644",
+"content_id": "6644",
+"resource_code": "DictionaryBibleThemes",
+"label": "6644: eternal life",
+"language": "eng"
+},
+{
+"reference_id": "6652",
+"content_id": "6652",
+"resource_code": "DictionaryBibleThemes",
+"label": "6652: forgiveness",
+"language": "eng"
+},
+{
+"reference_id": "6676",
+"content_id": "6676",
+"resource_code": "DictionaryBibleThemes",
+"label": "6676: justification",
+"language": "eng"
+},
+{
+"reference_id": "6705",
+"content_id": "6705",
+"resource_code": "DictionaryBibleThemes",
+"label": "6705: peace, believers' experience of",
+"language": "eng"
+},
+{
+"reference_id": "6728",
+"content_id": "6728",
+"resource_code": "DictionaryBibleThemes",
+"label": "6728: regeneration",
+"language": "eng"
+},
+{
+"reference_id": "7115",
+"content_id": "7115",
+"resource_code": "DictionaryBibleThemes",
+"label": "7115: children of God",
+"language": "eng"
+},
+{
+"reference_id": "8104",
+"content_id": "8104",
+"resource_code": "DictionaryBibleThemes",
+"label": "8104: assurance",
+"language": "eng"
+},
+{
+"reference_id": "8154",
+"content_id": "8154",
+"resource_code": "DictionaryBibleThemes",
+"label": "8154: righteousness",
+"language": "eng"
+}
+]
+}
+}
+]

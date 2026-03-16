@@ -1,0 +1,53 @@
+[
+{
+"content_id": "8248",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8248: faithfulness",
+"media_type": "Text",
+"index_reference": "8248: faithfulness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Commitment to a relationship with God or fellow human beings; seen in that loyalty, devotion and service which is a reflection of God's own faithfulness. Scripture points to the faithfulness of Jesus Christ as an example for believers.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8249",
+"content_id": "8249",
+"resource_code": "DictionaryBibleThemes",
+"label": "8249: faithfulness, of God",
+"language": "eng"
+},
+{
+"reference_id": "8250",
+"content_id": "8250",
+"resource_code": "DictionaryBibleThemes",
+"label": "8250: faithfulness, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "8251",
+"content_id": "8251",
+"resource_code": "DictionaryBibleThemes",
+"label": "8251: faithfulness, to God",
+"language": "eng"
+},
+{
+"reference_id": "8252",
+"content_id": "8252",
+"resource_code": "DictionaryBibleThemes",
+"label": "8252: faithfulness, in human relationships",
+"language": "eng"
+},
+{
+"reference_id": "8253",
+"content_id": "8253",
+"resource_code": "DictionaryBibleThemes",
+"label": "8253: faithfulness, examples of",
+"language": "eng"
+}
+]
+}
+}
+]

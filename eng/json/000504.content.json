@@ -1,0 +1,231 @@
+[
+{
+"content_id": "4630",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4630: dog",
+"media_type": "Text",
+"index_reference": "4630: dog",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Although used by shepherds and occasionally kept as pets, in Bible times most dogs were semi-wild scavengers.</p>\n<h2>The animal</h2>\n<p><a href=\"https://ref.ly/Exod11:7\">EXO 11:7</a>; ; <a href=\"https://ref.ly/Judg7:5\">JDG 7:5</a>; ; <a href=\"https://ref.ly/Job30:1\">JOB 30:1</a></p>\n<h3>Dogs as scavengers</h3>\n<p><a href=\"https://ref.ly/Exod22:31\">EXO 22:31</a>; ; <a href=\"https://ref.ly/1Kgs14:11\">1KI 14:11</a>, <a href=\"https://ref.ly/1Kgs16:4\">1KI 16:4</a>, <a href=\"https://ref.ly/1Kgs21:19\">1KI 21:19</a>, <a href=\"https://ref.ly/1Kgs21:23\">1KI 21:23</a>, <a href=\"https://ref.ly/1Kgs22:38\">1KI 22:38</a>; ; <a href=\"https://ref.ly/2Kgs9:10\">2KI 9:10</a>, <a href=\"https://ref.ly/2Kgs9:36\">2KI 9:36</a>; ; <a href=\"https://ref.ly/Ps59:6\">PSA 59:6</a>, <a href=\"https://ref.ly/Ps59:14\">PSA 59:14</a>, <a href=\"https://ref.ly/Ps68:23\">PSA 68:23</a></p>\n<h3>Dogs as dangerous and bloodthirsty</h3>\n<p><a href=\"https://ref.ly/Jer15:3\">JER 15:3</a>; ; <a href=\"https://ref.ly/Ps22:16\">PSA 22:16</a>, <a href=\"https://ref.ly/Ps22:20\">PSA 22:20</a>; ; <a href=\"https://ref.ly/2Pet2:22\">2PE 2:22</a></p>\n<h2>Dogs in the teaching of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt7:6\">MAT 7:6</a>, <a href=\"https://ref.ly/Matt15:26-Matt15:27\">MAT 15:26–15:27</a></strong> parallel <a href=\"https://ref.ly/Mark7:27-Mark7:28\">MRK 7:27–7:28</a> <em>See also</em> <a href=\"https://ref.ly/Luke16:21\">LUK 16:21</a></p>\n<h2>Dogs in proverbs</h2>\n<p><a href=\"https://ref.ly/Prov26:11\">PRO 26:11</a>, <a href=\"https://ref.ly/Prov26:17\">PRO 26:17</a>; ; <a href=\"https://ref.ly/Eccl9:4\">ECC 9:4</a></p>\n<h2>Dogs used as a term of abuse or low esteem</h2>\n<p><a href=\"https://ref.ly/1Sam17:43\">1SA 17:43</a>, <a href=\"https://ref.ly/1Sam24:14\">1SA 24:14</a>; ; <a href=\"https://ref.ly/2Sam9:8\">2SA 9:8</a>, <a href=\"https://ref.ly/2Sam16:9\">2SA 16:9</a>; ; <a href=\"https://ref.ly/2Kgs8:13\">2KI 8:13</a>; ; <a href=\"https://ref.ly/Isa56:10-Isa56:11\">ISA 56:10–56:11</a>; ; <a href=\"https://ref.ly/Phil3:2\">PHP 3:2</a>; ; <a href=\"https://ref.ly/Rev22:15\">REV 22:15</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02011007",
+"start_ref_usfm": "EXO 11:7",
+"end_ref": "02011007",
+"end_ref_usfm": "EXO 11:7"
+},
+{
+"start_ref": "07007005",
+"start_ref_usfm": "JDG 7:5",
+"end_ref": "07007005",
+"end_ref_usfm": "JDG 7:5"
+},
+{
+"start_ref": "18030001",
+"start_ref_usfm": "JOB 30:1",
+"end_ref": "18030001",
+"end_ref_usfm": "JOB 30:1"
+},
+{
+"start_ref": "02022031",
+"start_ref_usfm": "EXO 22:31",
+"end_ref": "02022031",
+"end_ref_usfm": "EXO 22:31"
+},
+{
+"start_ref": "11014011",
+"start_ref_usfm": "1KI 14:11",
+"end_ref": "11014011",
+"end_ref_usfm": "1KI 14:11"
+},
+{
+"start_ref": "11016004",
+"start_ref_usfm": "1KI 16:4",
+"end_ref": "11016004",
+"end_ref_usfm": "1KI 16:4"
+},
+{
+"start_ref": "11021019",
+"start_ref_usfm": "1KI 21:19",
+"end_ref": "11021019",
+"end_ref_usfm": "1KI 21:19"
+},
+{
+"start_ref": "11021023",
+"start_ref_usfm": "1KI 21:23",
+"end_ref": "11021023",
+"end_ref_usfm": "1KI 21:23"
+},
+{
+"start_ref": "11022038",
+"start_ref_usfm": "1KI 22:38",
+"end_ref": "11022038",
+"end_ref_usfm": "1KI 22:38"
+},
+{
+"start_ref": "12009010",
+"start_ref_usfm": "2KI 9:10",
+"end_ref": "12009010",
+"end_ref_usfm": "2KI 9:10"
+},
+{
+"start_ref": "12009036",
+"start_ref_usfm": "2KI 9:36",
+"end_ref": "12009036",
+"end_ref_usfm": "2KI 9:36"
+},
+{
+"start_ref": "19059006",
+"start_ref_usfm": "PSA 59:6",
+"end_ref": "19059006",
+"end_ref_usfm": "PSA 59:6"
+},
+{
+"start_ref": "19059014",
+"start_ref_usfm": "PSA 59:14",
+"end_ref": "19059014",
+"end_ref_usfm": "PSA 59:14"
+},
+{
+"start_ref": "19068023",
+"start_ref_usfm": "PSA 68:23",
+"end_ref": "19068023",
+"end_ref_usfm": "PSA 68:23"
+},
+{
+"start_ref": "24015003",
+"start_ref_usfm": "JER 15:3",
+"end_ref": "24015003",
+"end_ref_usfm": "JER 15:3"
+},
+{
+"start_ref": "19022016",
+"start_ref_usfm": "PSA 22:16",
+"end_ref": "19022016",
+"end_ref_usfm": "PSA 22:16"
+},
+{
+"start_ref": "19022020",
+"start_ref_usfm": "PSA 22:20",
+"end_ref": "19022020",
+"end_ref_usfm": "PSA 22:20"
+},
+{
+"start_ref": "61002022",
+"start_ref_usfm": "2PE 2:22",
+"end_ref": "61002022",
+"end_ref_usfm": "2PE 2:22"
+},
+{
+"start_ref": "40007006",
+"start_ref_usfm": "MAT 7:6",
+"end_ref": "40007006",
+"end_ref_usfm": "MAT 7:6"
+},
+{
+"start_ref": "40015026",
+"start_ref_usfm": "MAT 15:26",
+"end_ref": "40015027",
+"end_ref_usfm": "MAT 15:27"
+},
+{
+"start_ref": "41007027",
+"start_ref_usfm": "MRK 7:27",
+"end_ref": "41007028",
+"end_ref_usfm": "MRK 7:28"
+},
+{
+"start_ref": "42016021",
+"start_ref_usfm": "LUK 16:21",
+"end_ref": "42016021",
+"end_ref_usfm": "LUK 16:21"
+},
+{
+"start_ref": "20026011",
+"start_ref_usfm": "PRO 26:11",
+"end_ref": "20026011",
+"end_ref_usfm": "PRO 26:11"
+},
+{
+"start_ref": "20026017",
+"start_ref_usfm": "PRO 26:17",
+"end_ref": "20026017",
+"end_ref_usfm": "PRO 26:17"
+},
+{
+"start_ref": "21009004",
+"start_ref_usfm": "ECC 9:4",
+"end_ref": "21009004",
+"end_ref_usfm": "ECC 9:4"
+},
+{
+"start_ref": "09017043",
+"start_ref_usfm": "1SA 17:43",
+"end_ref": "09017043",
+"end_ref_usfm": "1SA 17:43"
+},
+{
+"start_ref": "09024014",
+"start_ref_usfm": "1SA 24:14",
+"end_ref": "09024014",
+"end_ref_usfm": "1SA 24:14"
+},
+{
+"start_ref": "10009008",
+"start_ref_usfm": "2SA 9:8",
+"end_ref": "10009008",
+"end_ref_usfm": "2SA 9:8"
+},
+{
+"start_ref": "10016009",
+"start_ref_usfm": "2SA 16:9",
+"end_ref": "10016009",
+"end_ref_usfm": "2SA 16:9"
+},
+{
+"start_ref": "12008013",
+"start_ref_usfm": "2KI 8:13",
+"end_ref": "12008013",
+"end_ref_usfm": "2KI 8:13"
+},
+{
+"start_ref": "23056010",
+"start_ref_usfm": "ISA 56:10",
+"end_ref": "23056011",
+"end_ref_usfm": "ISA 56:11"
+},
+{
+"start_ref": "50003002",
+"start_ref_usfm": "PHP 3:2",
+"end_ref": "50003002",
+"end_ref_usfm": "PHP 3:2"
+},
+{
+"start_ref": "66022015",
+"start_ref_usfm": "REV 22:15",
+"end_ref": "66022015",
+"end_ref_usfm": "REV 22:15"
+}
+],
+"resource": [
+{
+"reference_id": "4604",
+"content_id": "4604",
+"resource_code": "DictionaryBibleThemes",
+"label": "4604: animals, nature of",
+"language": "eng"
+},
+{
+"reference_id": "7512",
+"content_id": "7512",
+"resource_code": "DictionaryBibleThemes",
+"label": "7512: Gentiles, in NT",
+"language": "eng"
+}
+]
+}
+}
+]

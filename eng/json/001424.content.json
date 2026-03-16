@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5908",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5908: motives",
+"media_type": "Text",
+"index_reference": "5908: motives",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The underlying reasons for a course of action. Scripture stresses the importance of doing things with the intention of honouring and glorifying God and building up his people.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5909",
+"content_id": "5909",
+"resource_code": "DictionaryBibleThemes",
+"label": "5909: motives, importance of",
+"language": "eng"
+},
+{
+"reference_id": "5910",
+"content_id": "5910",
+"resource_code": "DictionaryBibleThemes",
+"label": "5910: motives, examples of",
+"language": "eng"
+}
+]
+}
+}
+]

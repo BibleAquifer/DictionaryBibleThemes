@@ -1,0 +1,82 @@
+[
+{
+"content_id": "4839",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4839: mildew",
+"media_type": "Text",
+"index_reference": "4839: mildew",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>A fungal plant disease, often seen as a sign of God's judgment</h2>\n<p><strong><a href=\"https://ref.ly/Deut28:22\">DEU 28:22</a></strong>; <strong><a href=\"https://ref.ly/Amos4:9\">AMO 4:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs8:37\">1KI 8:37</a> parallel <a href=\"https://ref.ly/2Chr6:28\">2CH 6:28</a>; <a href=\"https://ref.ly/Hag2:17\">HAG 2:17</a></p>\n<h2>Regulations concerning mildew</h2>\n<p><a href=\"https://ref.ly/Lev13:47-Lev13:59\">LEV 13:47–13:59</a>, <a href=\"https://ref.ly/Lev14:34-Lev14:57\">LEV 14:34–14:57</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05028022",
+"start_ref_usfm": "DEU 28:22",
+"end_ref": "05028022",
+"end_ref_usfm": "DEU 28:22"
+},
+{
+"start_ref": "30004009",
+"start_ref_usfm": "AMO 4:9",
+"end_ref": "30004009",
+"end_ref_usfm": "AMO 4:9"
+},
+{
+"start_ref": "11008037",
+"start_ref_usfm": "1KI 8:37",
+"end_ref": "11008037",
+"end_ref_usfm": "1KI 8:37"
+},
+{
+"start_ref": "14006028",
+"start_ref_usfm": "2CH 6:28",
+"end_ref": "14006028",
+"end_ref_usfm": "2CH 6:28"
+},
+{
+"start_ref": "37002017",
+"start_ref_usfm": "HAG 2:17",
+"end_ref": "37002017",
+"end_ref_usfm": "HAG 2:17"
+},
+{
+"start_ref": "03013047",
+"start_ref_usfm": "LEV 13:47",
+"end_ref": "03013059",
+"end_ref_usfm": "LEV 13:59"
+},
+{
+"start_ref": "03014034",
+"start_ref_usfm": "LEV 14:34",
+"end_ref": "03014057",
+"end_ref_usfm": "LEV 14:57"
+}
+],
+"resource": [
+{
+"reference_id": "4802",
+"content_id": "4802",
+"resource_code": "DictionaryBibleThemes",
+"label": "4802: blight",
+"language": "eng"
+},
+{
+"reference_id": "4843",
+"content_id": "4843",
+"resource_code": "DictionaryBibleThemes",
+"label": "4843: plague",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

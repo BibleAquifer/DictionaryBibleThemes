@@ -1,0 +1,283 @@
+[
+{
+"content_id": "5002",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5002: human race, and creation",
+"media_type": "Text",
+"index_reference": "5002: human race, and creation",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Although the human race is the pinnacle of God's creative work, it shares the inherent limitations of the physical realm. Human beings are nevertheless given responsibility to manage and steward the world.</p>\n<h2>The human race is an integral part of the physical creation</h2>\n<h3>The human race was created from the ground</h3>\n<p><strong><a href=\"https://ref.ly/Gen2:7\">GEN 2:7</a></strong> <em>The Hebrew word for man, “adam” sounds like the Hebrew word for ground “adamah”.</em> <em>See also</em> <a href=\"https://ref.ly/Gen3:17-Gen3:19\">GEN 3:17–3:19</a>; <a href=\"https://ref.ly/Job10:8-Job10:9\">JOB 10:8–10:9</a>; <a href=\"https://ref.ly/Ps103:13-Ps103:14\">PSA 103:13–103:14</a></p>\n<h3>The human race was created on the same day as the animals</h3>\n<p><a href=\"https://ref.ly/Gen1:24-Gen1:27\">GEN 1:24–1:27</a></p>\n<h3>The human race was created from dust like the animals</h3>\n<p><a href=\"https://ref.ly/Gen2:7\">GEN 2:7</a>, <a href=\"https://ref.ly/Gen2:19\">GEN 2:19</a></p>\n<h2>The human race is set apart from the rest of creation</h2>\n<h3>The human race is uniquely created in God's image</h3>\n<p><strong><a href=\"https://ref.ly/Gen5:1-Gen5:2\">GEN 5:1–5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen1:26-Gen1:27\">GEN 1:26–1:27</a>, <a href=\"https://ref.ly/Gen9:6\">GEN 9:6</a>; <a href=\"https://ref.ly/Jas3:9\">JAS 3:9</a></p>\n<h3>The human race is given authority to take care of creation</h3>\n<p><strong><a href=\"https://ref.ly/Gen1:26-Gen1:28\">GEN 1:26–1:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen2:15\">GEN 2:15</a>, <a href=\"https://ref.ly/Gen9:1-Gen9:3\">GEN 9:1–9:3</a>; <a href=\"https://ref.ly/Ps8:3-Ps8:8\">PSA 8:3–8:8</a>; <a href=\"https://ref.ly/Heb2:5-Heb2:8\">HEB 2:5–2:8</a></p>\n<h3>The human race is created with the power of choice</h3>\n<p><strong><a href=\"https://ref.ly/Gen2:16-Gen2:17\">GEN 2:16–2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen2:19\">GEN 2:19</a></p>\n<h3>Human beings are created accountable to God for their actions</h3>\n<p><strong><a href=\"https://ref.ly/Matt12:36\">MAT 12:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek18:20\">EZK 18:20</a>; <a href=\"https://ref.ly/John3:18-John3:19\">JHN 3:18–3:19</a>; <a href=\"https://ref.ly/Rom2:14-Rom2:15\">ROM 2:14–2:15</a>; <a href=\"https://ref.ly/Rev2:23\">REV 2:23</a></p>\n<h3>The human race is created dependent upon God</h3>\n<p><strong><a href=\"https://ref.ly/Matt4:4\">MAT 4:4</a></strong>; <strong><a href=\"https://ref.ly/2Cor3:5\">2CO 3:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr20:12\">2CH 20:12</a>; <a href=\"https://ref.ly/Jer10:23\">JER 10:23</a>; <a href=\"https://ref.ly/Jas4:13-Jas4:15\">JAS 4:13–4:15</a></p>\n<h2>The human race comprises two complementary genders</h2>\n<p><strong><a href=\"https://ref.ly/Gen2:18-Gen2:24\">GEN 2:18–2:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen1:26-Gen1:27\">GEN 1:26–1:27</a>, <a href=\"https://ref.ly/Gen5:1-Gen5:2\">GEN 5:1–5:2</a></p>\n<h2>The human race is one entity with a common ancestry in Adam</h2>\n<p><strong><a href=\"https://ref.ly/Acts17:26\">ACT 17:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen9:18-Gen9:19\">GEN 9:18–9:19</a>, <a href=\"https://ref.ly/Gen10:32-Gen11:1\">GEN 10:32–11:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01002007",
+"start_ref_usfm": "GEN 2:7",
+"end_ref": "01002007",
+"end_ref_usfm": "GEN 2:7"
+},
+{
+"start_ref": "01003017",
+"start_ref_usfm": "GEN 3:17",
+"end_ref": "01003019",
+"end_ref_usfm": "GEN 3:19"
+},
+{
+"start_ref": "18010008",
+"start_ref_usfm": "JOB 10:8",
+"end_ref": "18010009",
+"end_ref_usfm": "JOB 10:9"
+},
+{
+"start_ref": "19103013",
+"start_ref_usfm": "PSA 103:13",
+"end_ref": "19103014",
+"end_ref_usfm": "PSA 103:14"
+},
+{
+"start_ref": "01001024",
+"start_ref_usfm": "GEN 1:24",
+"end_ref": "01001027",
+"end_ref_usfm": "GEN 1:27"
+},
+{
+"start_ref": "01002019",
+"start_ref_usfm": "GEN 2:19",
+"end_ref": "01002019",
+"end_ref_usfm": "GEN 2:19"
+},
+{
+"start_ref": "01005001",
+"start_ref_usfm": "GEN 5:1",
+"end_ref": "01005002",
+"end_ref_usfm": "GEN 5:2"
+},
+{
+"start_ref": "01001026",
+"start_ref_usfm": "GEN 1:26",
+"end_ref": "01001027",
+"end_ref_usfm": "GEN 1:27"
+},
+{
+"start_ref": "01009006",
+"start_ref_usfm": "GEN 9:6",
+"end_ref": "01009006",
+"end_ref_usfm": "GEN 9:6"
+},
+{
+"start_ref": "59003009",
+"start_ref_usfm": "JAS 3:9",
+"end_ref": "59003009",
+"end_ref_usfm": "JAS 3:9"
+},
+{
+"start_ref": "01001026",
+"start_ref_usfm": "GEN 1:26",
+"end_ref": "01001028",
+"end_ref_usfm": "GEN 1:28"
+},
+{
+"start_ref": "01002015",
+"start_ref_usfm": "GEN 2:15",
+"end_ref": "01002015",
+"end_ref_usfm": "GEN 2:15"
+},
+{
+"start_ref": "01009001",
+"start_ref_usfm": "GEN 9:1",
+"end_ref": "01009003",
+"end_ref_usfm": "GEN 9:3"
+},
+{
+"start_ref": "19008003",
+"start_ref_usfm": "PSA 8:3",
+"end_ref": "19008008",
+"end_ref_usfm": "PSA 8:8"
+},
+{
+"start_ref": "58002005",
+"start_ref_usfm": "HEB 2:5",
+"end_ref": "58002008",
+"end_ref_usfm": "HEB 2:8"
+},
+{
+"start_ref": "01002016",
+"start_ref_usfm": "GEN 2:16",
+"end_ref": "01002017",
+"end_ref_usfm": "GEN 2:17"
+},
+{
+"start_ref": "40012036",
+"start_ref_usfm": "MAT 12:36",
+"end_ref": "40012036",
+"end_ref_usfm": "MAT 12:36"
+},
+{
+"start_ref": "26018020",
+"start_ref_usfm": "EZK 18:20",
+"end_ref": "26018020",
+"end_ref_usfm": "EZK 18:20"
+},
+{
+"start_ref": "43003018",
+"start_ref_usfm": "JHN 3:18",
+"end_ref": "43003019",
+"end_ref_usfm": "JHN 3:19"
+},
+{
+"start_ref": "45002014",
+"start_ref_usfm": "ROM 2:14",
+"end_ref": "45002015",
+"end_ref_usfm": "ROM 2:15"
+},
+{
+"start_ref": "66002023",
+"start_ref_usfm": "REV 2:23",
+"end_ref": "66002023",
+"end_ref_usfm": "REV 2:23"
+},
+{
+"start_ref": "40004004",
+"start_ref_usfm": "MAT 4:4",
+"end_ref": "40004004",
+"end_ref_usfm": "MAT 4:4"
+},
+{
+"start_ref": "47003005",
+"start_ref_usfm": "2CO 3:5",
+"end_ref": "47003005",
+"end_ref_usfm": "2CO 3:5"
+},
+{
+"start_ref": "14020012",
+"start_ref_usfm": "2CH 20:12",
+"end_ref": "14020012",
+"end_ref_usfm": "2CH 20:12"
+},
+{
+"start_ref": "24010023",
+"start_ref_usfm": "JER 10:23",
+"end_ref": "24010023",
+"end_ref_usfm": "JER 10:23"
+},
+{
+"start_ref": "59004013",
+"start_ref_usfm": "JAS 4:13",
+"end_ref": "59004015",
+"end_ref_usfm": "JAS 4:15"
+},
+{
+"start_ref": "01002018",
+"start_ref_usfm": "GEN 2:18",
+"end_ref": "01002024",
+"end_ref_usfm": "GEN 2:24"
+},
+{
+"start_ref": "44017026",
+"start_ref_usfm": "ACT 17:26",
+"end_ref": "44017026",
+"end_ref_usfm": "ACT 17:26"
+},
+{
+"start_ref": "01009018",
+"start_ref_usfm": "GEN 9:18",
+"end_ref": "01009019",
+"end_ref_usfm": "GEN 9:19"
+},
+{
+"start_ref": "01010032",
+"start_ref_usfm": "GEN 10:32",
+"end_ref": "01011001",
+"end_ref_usfm": "GEN 11:1"
+}
+],
+"resource": [
+{
+"reference_id": "1325",
+"content_id": "1325",
+"resource_code": "DictionaryBibleThemes",
+"label": "1325: God, the Creator",
+"language": "eng"
+},
+{
+"reference_id": "4005",
+"content_id": "4005",
+"resource_code": "DictionaryBibleThemes",
+"label": "4005: creation",
+"language": "eng"
+},
+{
+"reference_id": "4029",
+"content_id": "4029",
+"resource_code": "DictionaryBibleThemes",
+"label": "4029: world, human beings in",
+"language": "eng"
+},
+{
+"reference_id": "5023",
+"content_id": "5023",
+"resource_code": "DictionaryBibleThemes",
+"label": "5023: image of God",
+"language": "eng"
+},
+{
+"reference_id": "5082",
+"content_id": "5082",
+"resource_code": "DictionaryBibleThemes",
+"label": "5082: Adam, significance of",
+"language": "eng"
+},
+{
+"reference_id": "5093",
+"content_id": "5093",
+"resource_code": "DictionaryBibleThemes",
+"label": "5093: Eve",
+"language": "eng"
+},
+{
+"reference_id": "5664",
+"content_id": "5664",
+"resource_code": "DictionaryBibleThemes",
+"label": "5664: children",
+"language": "eng"
+},
+{
+"reference_id": "5700",
+"content_id": "5700",
+"resource_code": "DictionaryBibleThemes",
+"label": "5700: headship",
+"language": "eng"
+},
+{
+"reference_id": "5707",
+"content_id": "5707",
+"resource_code": "DictionaryBibleThemes",
+"label": "5707: male and female",
+"language": "eng"
+},
+{
+"reference_id": "5708",
+"content_id": "5708",
+"resource_code": "DictionaryBibleThemes",
+"label": "5708: marriage",
+"language": "eng"
+},
+{
+"reference_id": "5714",
+"content_id": "5714",
+"resource_code": "DictionaryBibleThemes",
+"label": "5714: men",
+"language": "eng"
+},
+{
+"reference_id": "5745",
+"content_id": "5745",
+"resource_code": "DictionaryBibleThemes",
+"label": "5745: women",
+"language": "eng"
+}
+]
+}
+}
+]

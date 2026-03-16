@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5385",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5385: leisure",
+"media_type": "Text",
+"index_reference": "5385: leisure",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Time for rest and recreational activities. Economic conditions in biblical times did not allow ordinary people much free time for leisure. However Scripture does give principles which apply to leisure.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5386",
+"content_id": "5386",
+"resource_code": "DictionaryBibleThemes",
+"label": "5386: leisure, nature and purpose of",
+"language": "eng"
+},
+{
+"reference_id": "5387",
+"content_id": "5387",
+"resource_code": "DictionaryBibleThemes",
+"label": "5387: leisure, and pastimes",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,280 @@
+[
+{
+"content_id": "5618",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5618: weights and measures, linear",
+"media_type": "Text",
+"index_reference": "5618: weights and measures, linear",
+"language": "eng",
+"review_level": "None",
+"content": "<p>These terms were based on natural units of measurement that could be easily applied. Measures are given in ascending order, with their approximate imperial and metric equivalents.</p>\n<h2>Finger (1/4 handbreadth): about 3/4 inch (about 1.85 centimetres)</h2>\n<p><strong><a href=\"https://ref.ly/Jer52:21\">JER 52:21</a></strong> <em>The finger was 1/4 handbreadth and was the smallest subdivision of the cubit. This is its only mention in Scripture.</em></p>\n<h2>Handbreadth (4 fingers): about 3 inches (about 8 centimetres)</h2>\n<p><strong><a href=\"https://ref.ly/Exod25:25\">EXO 25:25</a></strong> parallel <a href=\"https://ref.ly/Exod37:12\">EXO 37:12</a> <em>The handbreadth was the width of the hand at the base of the four fingers.</em> <em>See also</em> <a href=\"https://ref.ly/1Kgs7:26\">1KI 7:26</a> parallel <a href=\"https://ref.ly/2Chr4:5\">2CH 4:5</a>; <a href=\"https://ref.ly/Ps39:5\">PSA 39:5</a> <em>The handbreadth is here used figuratively of the shortness of human life</em>; <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a></p>\n<h2>Span (half a cubit): about 9 inches (about 23 centimetres)</h2>\n<p><strong><a href=\"https://ref.ly/Exod28:16\">EXO 28:16</a></strong> parallel <a href=\"https://ref.ly/Exod39:9\">EXO 39:9</a> <em>The span was the width of the outstretched hand from thumb to little finger.</em> <em>See also</em> <a href=\"https://ref.ly/1Sam17:4\">1SA 17:4</a> <em>Goliath's height is given in the Hebrew as “six cubits and a span”</em>; <a href=\"https://ref.ly/Ps90:10\">PSA 90:10</a> <em>The span is here used figuratively of the shortness of human life</em>; <a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a></p>\n<h2>Cubit (2 spans): about 18 inches (about 0.5 metre)</h2>\n<p><strong><a href=\"https://ref.ly/Exod25:10\">EXO 25:10</a></strong> parallel <a href=\"https://ref.ly/Exod37:1\">EXO 37:1</a> <em>The cubit was the distance from the fingertip to the elbow, and was used to measure height, size, depth and distance.</em> <em>See also</em> <a href=\"https://ref.ly/Gen7:20\">GEN 7:20</a> <em>The Hebrew describes the depth of the water as “fifteen cubits”</em>; <a href=\"https://ref.ly/Exod27:9-Exod27:18\">EXO 27:9–27:18</a> parallel <a href=\"https://ref.ly/Exod38:9-Exod38:15\">EXO 38:9–38:15</a>; <a href=\"https://ref.ly/1Kgs6:2-1Kgs6:3\">1KI 6:2–6:3</a> parallel <a href=\"https://ref.ly/2Chr3:3-2Chr3:4\">2CH 3:3–3:4</a>; <a href=\"https://ref.ly/1Chr11:23\">1CH 11:23</a> <em>The Hebrew describes the man as “five cubits tall”</em>; <a href=\"https://ref.ly/Ezek40:5\">EZK 40:5</a>, <a href=\"https://ref.ly/Ezek45:1-Ezek45:6\">EZK 45:1–45:6</a>, <a href=\"https://ref.ly/Ezek47:3-Ezek47:5\">EZK 47:3–47:5</a>; <a href=\"https://ref.ly/John21:8\">JHN 21:8</a> <em>The Greek text describes the distance as “about two hundred cubits”</em>; <a href=\"https://ref.ly/Rev21:17\">REV 21:17</a></p>\n<h2>Reed (6 cubits): about 10 feet (about 3 metres)</h2>\n<p><strong><a href=\"https://ref.ly/Ezek41:8\">EZK 41:8</a></strong> <em>Originally a measuring instrument, the reed became a recognised measure of six cubits (the rod).</em> <em>See also</em> <a href=\"https://ref.ly/Ezek40:3\">EZK 40:3</a>, <a href=\"https://ref.ly/Ezek40:5-Ezek40:7\">EZK 40:5–40:7</a>; <a href=\"https://ref.ly/Rev11:1\">REV 11:1</a>, <a href=\"https://ref.ly/Rev21:15-Rev21:16\">REV 21:15–21:16</a></p>\n<h2>Mile</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:41\">MAT 5:41</a></strong> <em>The Greek word for “mile” here is “milion”, a transliteration of the Roman measurement “mille passuum”, “a thousand paces”.</em> <em>See also</em> <a href=\"https://ref.ly/Luke24:13\">LUK 24:13</a> <em>The measurement in the Greek is “sixty stadia”. Eight stadia were about one mile (about 1480 metres)</em>; <a href=\"https://ref.ly/John6:19\">JHN 6:19</a> <em>The measurement in the Greek is “twenty-five or thirty stadia”</em>; <a href=\"https://ref.ly/John11:18\">JHN 11:18</a> <em>The measurement in the Greek is “fifteen stadia”.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "24052021",
+"start_ref_usfm": "JER 52:21",
+"end_ref": "24052021",
+"end_ref_usfm": "JER 52:21"
+},
+{
+"start_ref": "02025025",
+"start_ref_usfm": "EXO 25:25",
+"end_ref": "02025025",
+"end_ref_usfm": "EXO 25:25"
+},
+{
+"start_ref": "02037012",
+"start_ref_usfm": "EXO 37:12",
+"end_ref": "02037012",
+"end_ref_usfm": "EXO 37:12"
+},
+{
+"start_ref": "11007026",
+"start_ref_usfm": "1KI 7:26",
+"end_ref": "11007026",
+"end_ref_usfm": "1KI 7:26"
+},
+{
+"start_ref": "14004005",
+"start_ref_usfm": "2CH 4:5",
+"end_ref": "14004005",
+"end_ref_usfm": "2CH 4:5"
+},
+{
+"start_ref": "19039005",
+"start_ref_usfm": "PSA 39:5",
+"end_ref": "19039005",
+"end_ref_usfm": "PSA 39:5"
+},
+{
+"start_ref": "26040005",
+"start_ref_usfm": "EZK 40:5",
+"end_ref": "26040005",
+"end_ref_usfm": "EZK 40:5"
+},
+{
+"start_ref": "02028016",
+"start_ref_usfm": "EXO 28:16",
+"end_ref": "02028016",
+"end_ref_usfm": "EXO 28:16"
+},
+{
+"start_ref": "02039009",
+"start_ref_usfm": "EXO 39:9",
+"end_ref": "02039009",
+"end_ref_usfm": "EXO 39:9"
+},
+{
+"start_ref": "09017004",
+"start_ref_usfm": "1SA 17:4",
+"end_ref": "09017004",
+"end_ref_usfm": "1SA 17:4"
+},
+{
+"start_ref": "19090010",
+"start_ref_usfm": "PSA 90:10",
+"end_ref": "19090010",
+"end_ref_usfm": "PSA 90:10"
+},
+{
+"start_ref": "26043013",
+"start_ref_usfm": "EZK 43:13",
+"end_ref": "26043013",
+"end_ref_usfm": "EZK 43:13"
+},
+{
+"start_ref": "02025010",
+"start_ref_usfm": "EXO 25:10",
+"end_ref": "02025010",
+"end_ref_usfm": "EXO 25:10"
+},
+{
+"start_ref": "02037001",
+"start_ref_usfm": "EXO 37:1",
+"end_ref": "02037001",
+"end_ref_usfm": "EXO 37:1"
+},
+{
+"start_ref": "01007020",
+"start_ref_usfm": "GEN 7:20",
+"end_ref": "01007020",
+"end_ref_usfm": "GEN 7:20"
+},
+{
+"start_ref": "02027009",
+"start_ref_usfm": "EXO 27:9",
+"end_ref": "02027018",
+"end_ref_usfm": "EXO 27:18"
+},
+{
+"start_ref": "02038009",
+"start_ref_usfm": "EXO 38:9",
+"end_ref": "02038015",
+"end_ref_usfm": "EXO 38:15"
+},
+{
+"start_ref": "11006002",
+"start_ref_usfm": "1KI 6:2",
+"end_ref": "11006003",
+"end_ref_usfm": "1KI 6:3"
+},
+{
+"start_ref": "14003003",
+"start_ref_usfm": "2CH 3:3",
+"end_ref": "14003004",
+"end_ref_usfm": "2CH 3:4"
+},
+{
+"start_ref": "13011023",
+"start_ref_usfm": "1CH 11:23",
+"end_ref": "13011023",
+"end_ref_usfm": "1CH 11:23"
+},
+{
+"start_ref": "26045001",
+"start_ref_usfm": "EZK 45:1",
+"end_ref": "26045006",
+"end_ref_usfm": "EZK 45:6"
+},
+{
+"start_ref": "26047003",
+"start_ref_usfm": "EZK 47:3",
+"end_ref": "26047005",
+"end_ref_usfm": "EZK 47:5"
+},
+{
+"start_ref": "43021008",
+"start_ref_usfm": "JHN 21:8",
+"end_ref": "43021008",
+"end_ref_usfm": "JHN 21:8"
+},
+{
+"start_ref": "66021017",
+"start_ref_usfm": "REV 21:17",
+"end_ref": "66021017",
+"end_ref_usfm": "REV 21:17"
+},
+{
+"start_ref": "26041008",
+"start_ref_usfm": "EZK 41:8",
+"end_ref": "26041008",
+"end_ref_usfm": "EZK 41:8"
+},
+{
+"start_ref": "26040003",
+"start_ref_usfm": "EZK 40:3",
+"end_ref": "26040003",
+"end_ref_usfm": "EZK 40:3"
+},
+{
+"start_ref": "26040005",
+"start_ref_usfm": "EZK 40:5",
+"end_ref": "26040007",
+"end_ref_usfm": "EZK 40:7"
+},
+{
+"start_ref": "66011001",
+"start_ref_usfm": "REV 11:1",
+"end_ref": "66011001",
+"end_ref_usfm": "REV 11:1"
+},
+{
+"start_ref": "66021015",
+"start_ref_usfm": "REV 21:15",
+"end_ref": "66021016",
+"end_ref_usfm": "REV 21:16"
+},
+{
+"start_ref": "40005041",
+"start_ref_usfm": "MAT 5:41",
+"end_ref": "40005041",
+"end_ref_usfm": "MAT 5:41"
+},
+{
+"start_ref": "42024013",
+"start_ref_usfm": "LUK 24:13",
+"end_ref": "42024013",
+"end_ref_usfm": "LUK 24:13"
+},
+{
+"start_ref": "43006019",
+"start_ref_usfm": "JHN 6:19",
+"end_ref": "43006019",
+"end_ref_usfm": "JHN 6:19"
+},
+{
+"start_ref": "43011018",
+"start_ref_usfm": "JHN 11:18",
+"end_ref": "43011018",
+"end_ref_usfm": "JHN 11:18"
+}
+],
+"resource": [
+{
+"reference_id": "4803",
+"content_id": "4803",
+"resource_code": "DictionaryBibleThemes",
+"label": "4803: breadth",
+"language": "eng"
+},
+{
+"reference_id": "4813",
+"content_id": "4813",
+"resource_code": "DictionaryBibleThemes",
+"label": "4813: depth",
+"language": "eng"
+},
+{
+"reference_id": "4830",
+"content_id": "4830",
+"resource_code": "DictionaryBibleThemes",
+"label": "4830: height",
+"language": "eng"
+},
+{
+"reference_id": "4832",
+"content_id": "4832",
+"resource_code": "DictionaryBibleThemes",
+"label": "4832: length",
+"language": "eng"
+},
+{
+"reference_id": "4841",
+"content_id": "4841",
+"resource_code": "DictionaryBibleThemes",
+"label": "4841: narrowness",
+"language": "eng"
+},
+{
+"reference_id": "4847",
+"content_id": "4847",
+"resource_code": "DictionaryBibleThemes",
+"label": "4847: smallness",
+"language": "eng"
+},
+{
+"reference_id": "4903",
+"content_id": "4903",
+"resource_code": "DictionaryBibleThemes",
+"label": "4903: time",
+"language": "eng"
+},
+{
+"reference_id": "5152",
+"content_id": "5152",
+"resource_code": "DictionaryBibleThemes",
+"label": "5152: fingers",
+"language": "eng"
+},
+{
+"reference_id": "7254",
+"content_id": "7254",
+"resource_code": "DictionaryBibleThemes",
+"label": "7254: plumb-line",
+"language": "eng"
+}
+]
+}
+}
+]

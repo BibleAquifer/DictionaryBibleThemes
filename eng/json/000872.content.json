@@ -1,0 +1,162 @@
+[
+{
+"content_id": "5284",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5284: cupbearer",
+"media_type": "Text",
+"index_reference": "5284: cupbearer",
+"language": "eng",
+"review_level": "None",
+"content": "<p>One who served a king with wine, often having himself first tasted it for quality and as a safety measure. Some cupbearers became favourites of the king and so wielded considerable political influence.</p>\n<h2>Pharaoh's cupbearer</h2>\n<h3>Imprisoned</h3>\n<p><strong><a href=\"https://ref.ly/Gen40:1\">GEN 40:1</a>, <a href=\"https://ref.ly/Gen40:5\">GEN 40:5</a></strong></p>\n<h3>His dream</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Gen40:9-Gen40:11\">GEN 40:9–40:11</a></p>\n<h3>Dream interpreted by Joseph</h3>\n<p><a href=\"https://ref.ly/Gen40:12-Gen40:14\">GEN 40:12–40:14</a></p>\n<h3>Restored to court</h3>\n<p><a href=\"https://ref.ly/Gen40:21\">GEN 40:21</a></p>\n<h3>Forgetful of Joseph</h3>\n<p><a href=\"https://ref.ly/Gen40:23\">GEN 40:23</a></p>\n<h3>Remembers Joseph</h3>\n<p><a href=\"https://ref.ly/Gen41:9\">GEN 41:9</a></p>\n<h2>Solomon's cupbearers</h2>\n<p><a href=\"https://ref.ly/1Kgs10:4-1Kgs10:5\">1KI 10:4–10:5</a> parallel <a href=\"https://ref.ly/2Chr9:4\">2CH 9:4</a></p>\n<h2>Artaxerxes' cupbearer, Nehemiah</h2>\n<p><strong><a href=\"https://ref.ly/Neh1:11\">NEH 1:11</a>, <a href=\"https://ref.ly/Neh2:1\">NEH 2:1</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01040001",
+"start_ref_usfm": "GEN 40:1",
+"end_ref": "01040001",
+"end_ref_usfm": "GEN 40:1"
+},
+{
+"start_ref": "01040005",
+"start_ref_usfm": "GEN 40:5",
+"end_ref": "01040005",
+"end_ref_usfm": "GEN 40:5"
+},
+{
+"start_ref": "01040009",
+"start_ref_usfm": "GEN 40:9",
+"end_ref": "01040011",
+"end_ref_usfm": "GEN 40:11"
+},
+{
+"start_ref": "01040012",
+"start_ref_usfm": "GEN 40:12",
+"end_ref": "01040014",
+"end_ref_usfm": "GEN 40:14"
+},
+{
+"start_ref": "01040021",
+"start_ref_usfm": "GEN 40:21",
+"end_ref": "01040021",
+"end_ref_usfm": "GEN 40:21"
+},
+{
+"start_ref": "01040023",
+"start_ref_usfm": "GEN 40:23",
+"end_ref": "01040023",
+"end_ref_usfm": "GEN 40:23"
+},
+{
+"start_ref": "01041009",
+"start_ref_usfm": "GEN 41:9",
+"end_ref": "01041009",
+"end_ref_usfm": "GEN 41:9"
+},
+{
+"start_ref": "11010004",
+"start_ref_usfm": "1KI 10:4",
+"end_ref": "11010005",
+"end_ref_usfm": "1KI 10:5"
+},
+{
+"start_ref": "14009004",
+"start_ref_usfm": "2CH 9:4",
+"end_ref": "14009004",
+"end_ref_usfm": "2CH 9:4"
+},
+{
+"start_ref": "16001011",
+"start_ref_usfm": "NEH 1:11",
+"end_ref": "16001011",
+"end_ref_usfm": "NEH 1:11"
+},
+{
+"start_ref": "16002001",
+"start_ref_usfm": "NEH 2:1",
+"end_ref": "16002001",
+"end_ref_usfm": "NEH 2:1"
+}
+],
+"resource": [
+{
+"reference_id": "1409",
+"content_id": "1409",
+"resource_code": "DictionaryBibleThemes",
+"label": "1409: dream",
+"language": "eng"
+},
+{
+"reference_id": "5118",
+"content_id": "5118",
+"resource_code": "DictionaryBibleThemes",
+"label": "5118: Solomon",
+"language": "eng"
+},
+{
+"reference_id": "5270",
+"content_id": "5270",
+"resource_code": "DictionaryBibleThemes",
+"label": "5270: court",
+"language": "eng"
+},
+{
+"reference_id": "5283",
+"content_id": "5283",
+"resource_code": "DictionaryBibleThemes",
+"label": "5283: cup",
+"language": "eng"
+},
+{
+"reference_id": "5344",
+"content_id": "5344",
+"resource_code": "DictionaryBibleThemes",
+"label": "5344: imprisonment",
+"language": "eng"
+},
+{
+"reference_id": "5345",
+"content_id": "5345",
+"resource_code": "DictionaryBibleThemes",
+"label": "5345: influence",
+"language": "eng"
+},
+{
+"reference_id": "5460",
+"content_id": "5460",
+"resource_code": "DictionaryBibleThemes",
+"label": "5460: prison",
+"language": "eng"
+},
+{
+"reference_id": "5523",
+"content_id": "5523",
+"resource_code": "DictionaryBibleThemes",
+"label": "5523: servants, good",
+"language": "eng"
+},
+{
+"reference_id": "8670",
+"content_id": "8670",
+"resource_code": "DictionaryBibleThemes",
+"label": "8670: remembering",
+"language": "eng"
+},
+{
+"reference_id": "8763",
+"content_id": "8763",
+"resource_code": "DictionaryBibleThemes",
+"label": "8763: forgetting",
+"language": "eng"
+},
+{
+"reference_id": "9165",
+"content_id": "9165",
+"resource_code": "DictionaryBibleThemes",
+"label": "9165: restoration",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,249 @@
+[
+{
+"content_id": "8828",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8828: spite",
+"media_type": "Text",
+"index_reference": "8828: spite",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The malicious desire to retaliate in words or action. It may be in response to good or evil. Believers are to rid themselves of any such vindictive spirit.</p>\n<h2>Examples of people acting out of spite</h2>\n<h3>In response to good</h3>\n<p><a href=\"https://ref.ly/1Kgs19:1-1Kgs19:2\">1KI 19:1–19:2</a> <em>Jezebel</em>; ; <a href=\"https://ref.ly/2Chr16:10\">2CH 16:10</a> <em>Asa, king of Judah</em>; ; <a href=\"https://ref.ly/Esth3:6\">EST 3:6</a> <em>Haman</em>; ; <a href=\"https://ref.ly/Matt14:3-Matt14:12\">MAT 14:3–14:12</a> parallel <a href=\"https://ref.ly/Mark6:17-Mark6:29\">MRK 6:17–6:29</a> <em>Herodias</em>; ; <a href=\"https://ref.ly/John12:10\">JHN 12:10</a> <em>the chief priests</em>; <a href=\"https://ref.ly/Acts7:54\">ACT 7:54</a>, <a href=\"https://ref.ly/Acts7:57-Acts7:58\">ACT 7:57–7:58</a></p>\n<h3>In response to evil</h3>\n<p><strong><a href=\"https://ref.ly/Ps140:3\">PSA 140:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:41\">GEN 27:41</a> <em>Esau</em><a href=\"https://ref.ly/Gen37:4\">GEN 37:4</a>, <a href=\"https://ref.ly/Gen37:8\">GEN 37:8</a>, <a href=\"https://ref.ly/Gen37:11\">GEN 37:11</a>, <a href=\"https://ref.ly/Gen37:18-Gen37:27\">GEN 37:18–37:27</a>\n<a href=\"https://ref.ly/Ezek25:15\">EZK 25:15</a> <em>the Philistines</em>; <a href=\"https://ref.ly/Acts23:12-Acts23:15\">ACT 23:12–23:15</a> <em>some Jews</em></p>\n<h2>Spite has no place in the lives of believers</h2>\n<h3>Believers are to rid themselves of all spitefulness</h3>\n<p><strong><a href=\"https://ref.ly/Eph4:31\">EPH 4:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor5:8\">1CO 5:8</a>; <a href=\"https://ref.ly/Col3:8\">COL 3:8</a>; <a href=\"https://ref.ly/1Pet2:1\">1PE 2:1</a></p>\n<h3>As a result believers are enabled not to retaliate against others</h3>\n<p><strong><a href=\"https://ref.ly/Lev19:18\">LEV 19:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov20:22\">PRO 20:22</a>, <a href=\"https://ref.ly/Prov24:29\">PRO 24:29</a>; <a href=\"https://ref.ly/Matt5:38-Matt5:40\">MAT 5:38–5:40</a>; <a href=\"https://ref.ly/Rom12:17\">ROM 12:17</a>, <a href=\"https://ref.ly/Rom12:19-Rom12:21\">ROM 12:19–12:21</a>; <a href=\"https://ref.ly/1Thess5:15\">1TH 5:15</a>; <a href=\"https://ref.ly/1Pet2:21-1Pet2:23\">1PE 2:21–2:23</a>, <a href=\"https://ref.ly/1Pet3:9\">1PE 3:9</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11019001",
+"start_ref_usfm": "1KI 19:1",
+"end_ref": "11019002",
+"end_ref_usfm": "1KI 19:2"
+},
+{
+"start_ref": "14016010",
+"start_ref_usfm": "2CH 16:10",
+"end_ref": "14016010",
+"end_ref_usfm": "2CH 16:10"
+},
+{
+"start_ref": "17003006",
+"start_ref_usfm": "EST 3:6",
+"end_ref": "17003006",
+"end_ref_usfm": "EST 3:6"
+},
+{
+"start_ref": "40014003",
+"start_ref_usfm": "MAT 14:3",
+"end_ref": "40014012",
+"end_ref_usfm": "MAT 14:12"
+},
+{
+"start_ref": "41006017",
+"start_ref_usfm": "MRK 6:17",
+"end_ref": "41006029",
+"end_ref_usfm": "MRK 6:29"
+},
+{
+"start_ref": "43012010",
+"start_ref_usfm": "JHN 12:10",
+"end_ref": "43012010",
+"end_ref_usfm": "JHN 12:10"
+},
+{
+"start_ref": "44007054",
+"start_ref_usfm": "ACT 7:54",
+"end_ref": "44007054",
+"end_ref_usfm": "ACT 7:54"
+},
+{
+"start_ref": "44007057",
+"start_ref_usfm": "ACT 7:57",
+"end_ref": "44007058",
+"end_ref_usfm": "ACT 7:58"
+},
+{
+"start_ref": "19140003",
+"start_ref_usfm": "PSA 140:3",
+"end_ref": "19140003",
+"end_ref_usfm": "PSA 140:3"
+},
+{
+"start_ref": "01027041",
+"start_ref_usfm": "GEN 27:41",
+"end_ref": "01027041",
+"end_ref_usfm": "GEN 27:41"
+},
+{
+"start_ref": "01037004",
+"start_ref_usfm": "GEN 37:4",
+"end_ref": "01037004",
+"end_ref_usfm": "GEN 37:4"
+},
+{
+"start_ref": "01037008",
+"start_ref_usfm": "GEN 37:8",
+"end_ref": "01037008",
+"end_ref_usfm": "GEN 37:8"
+},
+{
+"start_ref": "01037011",
+"start_ref_usfm": "GEN 37:11",
+"end_ref": "01037011",
+"end_ref_usfm": "GEN 37:11"
+},
+{
+"start_ref": "01037018",
+"start_ref_usfm": "GEN 37:18",
+"end_ref": "01037027",
+"end_ref_usfm": "GEN 37:27"
+},
+{
+"start_ref": "26025015",
+"start_ref_usfm": "EZK 25:15",
+"end_ref": "26025015",
+"end_ref_usfm": "EZK 25:15"
+},
+{
+"start_ref": "44023012",
+"start_ref_usfm": "ACT 23:12",
+"end_ref": "44023015",
+"end_ref_usfm": "ACT 23:15"
+},
+{
+"start_ref": "49004031",
+"start_ref_usfm": "EPH 4:31",
+"end_ref": "49004031",
+"end_ref_usfm": "EPH 4:31"
+},
+{
+"start_ref": "46005008",
+"start_ref_usfm": "1CO 5:8",
+"end_ref": "46005008",
+"end_ref_usfm": "1CO 5:8"
+},
+{
+"start_ref": "51003008",
+"start_ref_usfm": "COL 3:8",
+"end_ref": "51003008",
+"end_ref_usfm": "COL 3:8"
+},
+{
+"start_ref": "60002001",
+"start_ref_usfm": "1PE 2:1",
+"end_ref": "60002001",
+"end_ref_usfm": "1PE 2:1"
+},
+{
+"start_ref": "03019018",
+"start_ref_usfm": "LEV 19:18",
+"end_ref": "03019018",
+"end_ref_usfm": "LEV 19:18"
+},
+{
+"start_ref": "20020022",
+"start_ref_usfm": "PRO 20:22",
+"end_ref": "20020022",
+"end_ref_usfm": "PRO 20:22"
+},
+{
+"start_ref": "20024029",
+"start_ref_usfm": "PRO 24:29",
+"end_ref": "20024029",
+"end_ref_usfm": "PRO 24:29"
+},
+{
+"start_ref": "40005038",
+"start_ref_usfm": "MAT 5:38",
+"end_ref": "40005040",
+"end_ref_usfm": "MAT 5:40"
+},
+{
+"start_ref": "45012017",
+"start_ref_usfm": "ROM 12:17",
+"end_ref": "45012017",
+"end_ref_usfm": "ROM 12:17"
+},
+{
+"start_ref": "45012019",
+"start_ref_usfm": "ROM 12:19",
+"end_ref": "45012021",
+"end_ref_usfm": "ROM 12:21"
+},
+{
+"start_ref": "52005015",
+"start_ref_usfm": "1TH 5:15",
+"end_ref": "52005015",
+"end_ref_usfm": "1TH 5:15"
+},
+{
+"start_ref": "60002021",
+"start_ref_usfm": "1PE 2:21",
+"end_ref": "60002023",
+"end_ref_usfm": "1PE 2:23"
+},
+{
+"start_ref": "60003009",
+"start_ref_usfm": "1PE 3:9",
+"end_ref": "60003009",
+"end_ref_usfm": "1PE 3:9"
+}
+],
+"resource": [
+{
+"reference_id": "5495",
+"content_id": "5495",
+"resource_code": "DictionaryBibleThemes",
+"label": "5495: revenge, and retaliation",
+"language": "eng"
+},
+{
+"reference_id": "5510",
+"content_id": "5510",
+"resource_code": "DictionaryBibleThemes",
+"label": "5510: rumours",
+"language": "eng"
+},
+{
+"reference_id": "5546",
+"content_id": "5546",
+"resource_code": "DictionaryBibleThemes",
+"label": "5546: speech",
+"language": "eng"
+},
+{
+"reference_id": "5817",
+"content_id": "5817",
+"resource_code": "DictionaryBibleThemes",
+"label": "5817: conspiracies",
+"language": "eng"
+},
+{
+"reference_id": "5818",
+"content_id": "5818",
+"resource_code": "DictionaryBibleThemes",
+"label": "5818: contempt",
+"language": "eng"
+},
+{
+"reference_id": "5875",
+"content_id": "5875",
+"resource_code": "DictionaryBibleThemes",
+"label": "5875: hatred",
+"language": "eng"
+},
+{
+"reference_id": "5917",
+"content_id": "5917",
+"resource_code": "DictionaryBibleThemes",
+"label": "5917: plans",
+"language": "eng"
+},
+{
+"reference_id": "5951",
+"content_id": "5951",
+"resource_code": "DictionaryBibleThemes",
+"label": "5951: slander",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,130 @@
+[
+{
+"content_id": "4858",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4858: whirlwind",
+"media_type": "Text",
+"index_reference": "4858: whirlwind",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A violent wind, often associated with the presence and activity of God.</p>\n<h2>The presence of God in whirlwinds</h2>\n<h3>In replying to Job</h3>\n<p><strong><a href=\"https://ref.ly/Job38:1\">JOB 38:1</a></strong></p>\n<h3>In the forces of nature</h3>\n<p><strong><a href=\"https://ref.ly/Ps77:18\">PSA 77:18</a></strong></p>\n<h3>In taking Elijah up to heaven</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs2:11\">2KI 2:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs2:1\">2KI 2:1</a>; <a href=\"https://ref.ly/Nah1:3\">NAM 1:3</a></p>\n<h2>Whirlwinds as symbols of disaster or divine judgment</h2>\n<p><strong><a href=\"https://ref.ly/Isa40:24\">ISA 40:24</a></strong>; <strong><a href=\"https://ref.ly/Jer23:19\">JER 23:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov1:27\">PRO 1:27</a>; <a href=\"https://ref.ly/Isa5:28\">ISA 5:28</a>, <a href=\"https://ref.ly/Isa21:1\">ISA 21:1</a>, <a href=\"https://ref.ly/Isa66:15\">ISA 66:15</a>; <a href=\"https://ref.ly/Jer4:13\">JER 4:13</a>; <a href=\"https://ref.ly/Hos4:19\">HOS 4:19</a>, <a href=\"https://ref.ly/Hos8:7\">HOS 8:7</a>; <a href=\"https://ref.ly/Zech7:14\">ZEC 7:14</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18038001",
+"start_ref_usfm": "JOB 38:1",
+"end_ref": "18038001",
+"end_ref_usfm": "JOB 38:1"
+},
+{
+"start_ref": "19077018",
+"start_ref_usfm": "PSA 77:18",
+"end_ref": "19077018",
+"end_ref_usfm": "PSA 77:18"
+},
+{
+"start_ref": "12002011",
+"start_ref_usfm": "2KI 2:11",
+"end_ref": "12002011",
+"end_ref_usfm": "2KI 2:11"
+},
+{
+"start_ref": "12002001",
+"start_ref_usfm": "2KI 2:1",
+"end_ref": "12002001",
+"end_ref_usfm": "2KI 2:1"
+},
+{
+"start_ref": "34001003",
+"start_ref_usfm": "NAM 1:3",
+"end_ref": "34001003",
+"end_ref_usfm": "NAM 1:3"
+},
+{
+"start_ref": "23040024",
+"start_ref_usfm": "ISA 40:24",
+"end_ref": "23040024",
+"end_ref_usfm": "ISA 40:24"
+},
+{
+"start_ref": "24023019",
+"start_ref_usfm": "JER 23:19",
+"end_ref": "24023019",
+"end_ref_usfm": "JER 23:19"
+},
+{
+"start_ref": "20001027",
+"start_ref_usfm": "PRO 1:27",
+"end_ref": "20001027",
+"end_ref_usfm": "PRO 1:27"
+},
+{
+"start_ref": "23005028",
+"start_ref_usfm": "ISA 5:28",
+"end_ref": "23005028",
+"end_ref_usfm": "ISA 5:28"
+},
+{
+"start_ref": "23021001",
+"start_ref_usfm": "ISA 21:1",
+"end_ref": "23021001",
+"end_ref_usfm": "ISA 21:1"
+},
+{
+"start_ref": "23066015",
+"start_ref_usfm": "ISA 66:15",
+"end_ref": "23066015",
+"end_ref_usfm": "ISA 66:15"
+},
+{
+"start_ref": "24004013",
+"start_ref_usfm": "JER 4:13",
+"end_ref": "24004013",
+"end_ref_usfm": "JER 4:13"
+},
+{
+"start_ref": "28004019",
+"start_ref_usfm": "HOS 4:19",
+"end_ref": "28004019",
+"end_ref_usfm": "HOS 4:19"
+},
+{
+"start_ref": "28008007",
+"start_ref_usfm": "HOS 8:7",
+"end_ref": "28008007",
+"end_ref_usfm": "HOS 8:7"
+},
+{
+"start_ref": "38007014",
+"start_ref_usfm": "ZEC 7:14",
+"end_ref": "38007014",
+"end_ref_usfm": "ZEC 7:14"
+}
+],
+"resource": [
+{
+"reference_id": "4851",
+"content_id": "4851",
+"resource_code": "DictionaryBibleThemes",
+"label": "4851: storm",
+"language": "eng"
+},
+{
+"reference_id": "4853",
+"content_id": "4853",
+"resource_code": "DictionaryBibleThemes",
+"label": "4853: weather",
+"language": "eng"
+},
+{
+"reference_id": "4860",
+"content_id": "4860",
+"resource_code": "DictionaryBibleThemes",
+"label": "4860: wind",
+"language": "eng"
+}
+]
+}
+}
+]

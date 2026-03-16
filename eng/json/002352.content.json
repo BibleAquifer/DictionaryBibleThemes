@@ -1,0 +1,264 @@
+[
+{
+"content_id": "8719",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8719: distrust",
+"media_type": "Text",
+"index_reference": "8719: distrust",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Failure to trust another, or a tendency to be suspicious of others' abilities or intentions. Though sometimes justifiable towards other human beings, such an attitude is never acceptable towards God.</p>\n<h2>Distrust between human beings</h2>\n<p><strong><a href=\"https://ref.ly/Gen50:15-Gen50:17\">GEN 50:15–50:17</a></strong> <em>Joseph's brothers distrusted him because they could not believe he had forgiven them.</em> <em>See also</em> <a href=\"https://ref.ly/Gen32:6-Gen32:8\">GEN 32:6–32:8</a> <em>Jacob distrusted Esau because he thought he was seeking revenge</em>; <a href=\"https://ref.ly/Judg11:19-Judg11:20\">JDG 11:19–11:20</a> <em>Sihon distrusted Israel because he suspected a trick</em>; <a href=\"https://ref.ly/Acts15:37-Acts15:38\">ACT 15:37–15:38</a> <em>Paul distrusted John Mark, having been let down by him.</em></p>\n<h2>Distrust of God</h2>\n<h3>Israel distrusted God</h3>\n<p><strong><a href=\"https://ref.ly/Zeph3:2\">ZEP 3:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut1:32-Deut1:33\">DEU 1:32–1:33</a>, <a href=\"https://ref.ly/Deut9:23-Deut9:24\">DEU 9:23–9:24</a> <em>Because that generation distrusted God, they failed to enter the promised land</em>; <a href=\"https://ref.ly/Ps78:7\">PSA 78:7</a>, <a href=\"https://ref.ly/Ps78:22\">PSA 78:22</a> <em>Israel distrusted God in spite of the miracles he had done for her.</em><a href=\"https://ref.ly/2Kgs17:14-2Kgs17:15\">2KI 17:14–17:15</a>; <a href=\"https://ref.ly/Jer13:25\">JER 13:25</a></p>\n<h3>Other examples</h3>\n<p>Distrust in God involves failure to trust God's promises and placing trust in other things:\n <a href=\"https://ref.ly/Jer13:25\">JER 13:25</a>; ; <a href=\"https://ref.ly/Ezek33:13\">EZK 33:13</a>; ; <a href=\"https://ref.ly/Mal3:6-Mal3:10\">MAL 3:6–3:10</a>; ; <a href=\"https://ref.ly/Matt19:22\">MAT 19:22</a> parallel <a href=\"https://ref.ly/Mark10:22\">MRK 10:22</a></p>\n<h2>Distrust by God</h2>\n<p><strong><a href=\"https://ref.ly/Job4:18\">JOB 4:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job15:15\">JOB 15:15</a>; <a href=\"https://ref.ly/John2:24\">JHN 2:24</a></p>\n<h2>Distrust is sometimes justified</h2>\n<p><strong><a href=\"https://ref.ly/Ps118:8\">PSA 118:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job39:12\">JOB 39:12</a>; <a href=\"https://ref.ly/Ps5:9\">PSA 5:9</a>, <a href=\"https://ref.ly/Ps44:6\">PSA 44:6</a>, <a href=\"https://ref.ly/Ps146:3\">PSA 146:3</a>; <a href=\"https://ref.ly/Jer7:4\">JER 7:4</a>, <a href=\"https://ref.ly/Jer9:4\">JER 9:4</a>, <a href=\"https://ref.ly/Jer12:6\">JER 12:6</a>; <a href=\"https://ref.ly/Mic7:5\">MIC 7:5</a>; <a href=\"https://ref.ly/Hab2:18\">HAB 2:18</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01050015",
+"start_ref_usfm": "GEN 50:15",
+"end_ref": "01050017",
+"end_ref_usfm": "GEN 50:17"
+},
+{
+"start_ref": "01032006",
+"start_ref_usfm": "GEN 32:6",
+"end_ref": "01032008",
+"end_ref_usfm": "GEN 32:8"
+},
+{
+"start_ref": "07011019",
+"start_ref_usfm": "JDG 11:19",
+"end_ref": "07011020",
+"end_ref_usfm": "JDG 11:20"
+},
+{
+"start_ref": "44015037",
+"start_ref_usfm": "ACT 15:37",
+"end_ref": "44015038",
+"end_ref_usfm": "ACT 15:38"
+},
+{
+"start_ref": "36003002",
+"start_ref_usfm": "ZEP 3:2",
+"end_ref": "36003002",
+"end_ref_usfm": "ZEP 3:2"
+},
+{
+"start_ref": "05001032",
+"start_ref_usfm": "DEU 1:32",
+"end_ref": "05001033",
+"end_ref_usfm": "DEU 1:33"
+},
+{
+"start_ref": "05009023",
+"start_ref_usfm": "DEU 9:23",
+"end_ref": "05009024",
+"end_ref_usfm": "DEU 9:24"
+},
+{
+"start_ref": "19078007",
+"start_ref_usfm": "PSA 78:7",
+"end_ref": "19078007",
+"end_ref_usfm": "PSA 78:7"
+},
+{
+"start_ref": "19078022",
+"start_ref_usfm": "PSA 78:22",
+"end_ref": "19078022",
+"end_ref_usfm": "PSA 78:22"
+},
+{
+"start_ref": "12017014",
+"start_ref_usfm": "2KI 17:14",
+"end_ref": "12017015",
+"end_ref_usfm": "2KI 17:15"
+},
+{
+"start_ref": "24013025",
+"start_ref_usfm": "JER 13:25",
+"end_ref": "24013025",
+"end_ref_usfm": "JER 13:25"
+},
+{
+"start_ref": "26033013",
+"start_ref_usfm": "EZK 33:13",
+"end_ref": "26033013",
+"end_ref_usfm": "EZK 33:13"
+},
+{
+"start_ref": "39003006",
+"start_ref_usfm": "MAL 3:6",
+"end_ref": "39003010",
+"end_ref_usfm": "MAL 3:10"
+},
+{
+"start_ref": "40019022",
+"start_ref_usfm": "MAT 19:22",
+"end_ref": "40019022",
+"end_ref_usfm": "MAT 19:22"
+},
+{
+"start_ref": "41010022",
+"start_ref_usfm": "MRK 10:22",
+"end_ref": "41010022",
+"end_ref_usfm": "MRK 10:22"
+},
+{
+"start_ref": "18004018",
+"start_ref_usfm": "JOB 4:18",
+"end_ref": "18004018",
+"end_ref_usfm": "JOB 4:18"
+},
+{
+"start_ref": "18015015",
+"start_ref_usfm": "JOB 15:15",
+"end_ref": "18015015",
+"end_ref_usfm": "JOB 15:15"
+},
+{
+"start_ref": "43002024",
+"start_ref_usfm": "JHN 2:24",
+"end_ref": "43002024",
+"end_ref_usfm": "JHN 2:24"
+},
+{
+"start_ref": "19118008",
+"start_ref_usfm": "PSA 118:8",
+"end_ref": "19118008",
+"end_ref_usfm": "PSA 118:8"
+},
+{
+"start_ref": "18039012",
+"start_ref_usfm": "JOB 39:12",
+"end_ref": "18039012",
+"end_ref_usfm": "JOB 39:12"
+},
+{
+"start_ref": "19005009",
+"start_ref_usfm": "PSA 5:9",
+"end_ref": "19005009",
+"end_ref_usfm": "PSA 5:9"
+},
+{
+"start_ref": "19044006",
+"start_ref_usfm": "PSA 44:6",
+"end_ref": "19044006",
+"end_ref_usfm": "PSA 44:6"
+},
+{
+"start_ref": "19146003",
+"start_ref_usfm": "PSA 146:3",
+"end_ref": "19146003",
+"end_ref_usfm": "PSA 146:3"
+},
+{
+"start_ref": "24007004",
+"start_ref_usfm": "JER 7:4",
+"end_ref": "24007004",
+"end_ref_usfm": "JER 7:4"
+},
+{
+"start_ref": "24009004",
+"start_ref_usfm": "JER 9:4",
+"end_ref": "24009004",
+"end_ref_usfm": "JER 9:4"
+},
+{
+"start_ref": "24012006",
+"start_ref_usfm": "JER 12:6",
+"end_ref": "24012006",
+"end_ref_usfm": "JER 12:6"
+},
+{
+"start_ref": "33007005",
+"start_ref_usfm": "MIC 7:5",
+"end_ref": "33007005",
+"end_ref_usfm": "MIC 7:5"
+},
+{
+"start_ref": "35002018",
+"start_ref_usfm": "HAB 2:18",
+"end_ref": "35002018",
+"end_ref_usfm": "HAB 2:18"
+}
+],
+"resource": [
+{
+"reference_id": "1415",
+"content_id": "1415",
+"resource_code": "DictionaryBibleThemes",
+"label": "1415: miracles",
+"language": "eng"
+},
+{
+"reference_id": "5020",
+"content_id": "5020",
+"resource_code": "DictionaryBibleThemes",
+"label": "5020: human nature",
+"language": "eng"
+},
+{
+"reference_id": "7257",
+"content_id": "7257",
+"resource_code": "DictionaryBibleThemes",
+"label": "7257: promised land, the",
+"language": "eng"
+},
+{
+"reference_id": "8020",
+"content_id": "8020",
+"resource_code": "DictionaryBibleThemes",
+"label": "8020: faith",
+"language": "eng"
+},
+{
+"reference_id": "8030",
+"content_id": "8030",
+"resource_code": "DictionaryBibleThemes",
+"label": "8030: trust",
+"language": "eng"
+},
+{
+"reference_id": "8354",
+"content_id": "8354",
+"resource_code": "DictionaryBibleThemes",
+"label": "8354: trustworthiness",
+"language": "eng"
+},
+{
+"reference_id": "8721",
+"content_id": "8721",
+"resource_code": "DictionaryBibleThemes",
+"label": "8721: doubt",
+"language": "eng"
+},
+{
+"reference_id": "8742",
+"content_id": "8742",
+"resource_code": "DictionaryBibleThemes",
+"label": "8742: faithlessness",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+},
+{
+"reference_id": "8830",
+"content_id": "8830",
+"resource_code": "DictionaryBibleThemes",
+"label": "8830: suspicion",
+"language": "eng"
+},
+{
+"reference_id": "8834",
+"content_id": "8834",
+"resource_code": "DictionaryBibleThemes",
+"label": "8834: unbelief",
+"language": "eng"
+}
+]
+}
+}
+]

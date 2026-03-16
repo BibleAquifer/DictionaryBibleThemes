@@ -1,0 +1,39 @@
+[
+{
+"content_id": "4809",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4809: darkness",
+"media_type": "Text",
+"index_reference": "4809: darkness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The absence of light. Often used figuratively as a symbol of sin, chaos or the absence of God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4810",
+"content_id": "4810",
+"resource_code": "DictionaryBibleThemes",
+"label": "4810: darkness, natural",
+"language": "eng"
+},
+{
+"reference_id": "4811",
+"content_id": "4811",
+"resource_code": "DictionaryBibleThemes",
+"label": "4811: darkness, as a symbol of sin",
+"language": "eng"
+},
+{
+"reference_id": "4812",
+"content_id": "4812",
+"resource_code": "DictionaryBibleThemes",
+"label": "4812: darkness, and God's judgment",
+"language": "eng"
+}
+]
+}
+}
+]

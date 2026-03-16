@@ -1,0 +1,181 @@
+[
+{
+"content_id": "5131",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5131: belt",
+"media_type": "Text",
+"index_reference": "5131: belt",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An item of clothing, worn round the waist, used for gathering clothes and holding weapons or money.</p>\n<h2>The belt as an item of clothing</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs18:46\">1KI 18:46</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam20:8\">2SA 20:8</a>; <a href=\"https://ref.ly/1Kgs2:5\">1KI 2:5</a>; <a href=\"https://ref.ly/2Kgs4:29\">2KI 4:29</a>, <a href=\"https://ref.ly/2Kgs9:1\">2KI 9:1</a>; <a href=\"https://ref.ly/Ps109:19\">PSA 109:19</a>; <a href=\"https://ref.ly/Isa5:27\">ISA 5:27</a>; <a href=\"https://ref.ly/Jer13:1-Jer13:11\">JER 13:1–13:11</a>; <a href=\"https://ref.ly/Dan10:5\">DAN 10:5</a>; <a href=\"https://ref.ly/Matt10:9\">MAT 10:9</a> parallel <a href=\"https://ref.ly/Mark6:8\">MRK 6:8</a>; <a href=\"https://ref.ly/Acts21:11\">ACT 21:11</a></p>\n<h2>Part of the battledress of a warrior</h2>\n<p><strong><a href=\"https://ref.ly/1Sam18:4\">1SA 18:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam18:11\">2SA 18:11</a>; <a href=\"https://ref.ly/Ezek23:15\">EZK 23:15</a></p>\n<h2>A leather belt was a sign of rough living</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs1:8\">2KI 1:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt3:4\">MAT 3:4</a> parallel <a href=\"https://ref.ly/Mark1:6\">MRK 1:6</a></p>\n<h2>The belt symbolises truth and righteousness</h2>\n<p><strong><a href=\"https://ref.ly/Isa11:5\">ISA 11:5</a></strong>; <strong><a href=\"https://ref.ly/Eph6:14\">EPH 6:14</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11018046",
+"start_ref_usfm": "1KI 18:46",
+"end_ref": "11018046",
+"end_ref_usfm": "1KI 18:46"
+},
+{
+"start_ref": "10020008",
+"start_ref_usfm": "2SA 20:8",
+"end_ref": "10020008",
+"end_ref_usfm": "2SA 20:8"
+},
+{
+"start_ref": "11002005",
+"start_ref_usfm": "1KI 2:5",
+"end_ref": "11002005",
+"end_ref_usfm": "1KI 2:5"
+},
+{
+"start_ref": "12004029",
+"start_ref_usfm": "2KI 4:29",
+"end_ref": "12004029",
+"end_ref_usfm": "2KI 4:29"
+},
+{
+"start_ref": "12009001",
+"start_ref_usfm": "2KI 9:1",
+"end_ref": "12009001",
+"end_ref_usfm": "2KI 9:1"
+},
+{
+"start_ref": "19109019",
+"start_ref_usfm": "PSA 109:19",
+"end_ref": "19109019",
+"end_ref_usfm": "PSA 109:19"
+},
+{
+"start_ref": "23005027",
+"start_ref_usfm": "ISA 5:27",
+"end_ref": "23005027",
+"end_ref_usfm": "ISA 5:27"
+},
+{
+"start_ref": "24013001",
+"start_ref_usfm": "JER 13:1",
+"end_ref": "24013011",
+"end_ref_usfm": "JER 13:11"
+},
+{
+"start_ref": "27010005",
+"start_ref_usfm": "DAN 10:5",
+"end_ref": "27010005",
+"end_ref_usfm": "DAN 10:5"
+},
+{
+"start_ref": "40010009",
+"start_ref_usfm": "MAT 10:9",
+"end_ref": "40010009",
+"end_ref_usfm": "MAT 10:9"
+},
+{
+"start_ref": "41006008",
+"start_ref_usfm": "MRK 6:8",
+"end_ref": "41006008",
+"end_ref_usfm": "MRK 6:8"
+},
+{
+"start_ref": "44021011",
+"start_ref_usfm": "ACT 21:11",
+"end_ref": "44021011",
+"end_ref_usfm": "ACT 21:11"
+},
+{
+"start_ref": "09018004",
+"start_ref_usfm": "1SA 18:4",
+"end_ref": "09018004",
+"end_ref_usfm": "1SA 18:4"
+},
+{
+"start_ref": "10018011",
+"start_ref_usfm": "2SA 18:11",
+"end_ref": "10018011",
+"end_ref_usfm": "2SA 18:11"
+},
+{
+"start_ref": "26023015",
+"start_ref_usfm": "EZK 23:15",
+"end_ref": "26023015",
+"end_ref_usfm": "EZK 23:15"
+},
+{
+"start_ref": "12001008",
+"start_ref_usfm": "2KI 1:8",
+"end_ref": "12001008",
+"end_ref_usfm": "2KI 1:8"
+},
+{
+"start_ref": "40003004",
+"start_ref_usfm": "MAT 3:4",
+"end_ref": "40003004",
+"end_ref_usfm": "MAT 3:4"
+},
+{
+"start_ref": "41001006",
+"start_ref_usfm": "MRK 1:6",
+"end_ref": "41001006",
+"end_ref_usfm": "MRK 1:6"
+},
+{
+"start_ref": "23011005",
+"start_ref_usfm": "ISA 11:5",
+"end_ref": "23011005",
+"end_ref_usfm": "ISA 11:5"
+},
+{
+"start_ref": "49006014",
+"start_ref_usfm": "EPH 6:14",
+"end_ref": "49006014",
+"end_ref_usfm": "EPH 6:14"
+}
+],
+"resource": [
+{
+"reference_id": "5144",
+"content_id": "5144",
+"resource_code": "DictionaryBibleThemes",
+"label": "5144: cloak",
+"language": "eng"
+},
+{
+"reference_id": "5145",
+"content_id": "5145",
+"resource_code": "DictionaryBibleThemes",
+"label": "5145: clothing",
+"language": "eng"
+},
+{
+"reference_id": "5177",
+"content_id": "5177",
+"resource_code": "DictionaryBibleThemes",
+"label": "5177: robes",
+"language": "eng"
+},
+{
+"reference_id": "5612",
+"content_id": "5612",
+"resource_code": "DictionaryBibleThemes",
+"label": "5612: weapons",
+"language": "eng"
+},
+{
+"reference_id": "8154",
+"content_id": "8154",
+"resource_code": "DictionaryBibleThemes",
+"label": "8154: righteousness",
+"language": "eng"
+},
+{
+"reference_id": "8486",
+"content_id": "8486",
+"resource_code": "DictionaryBibleThemes",
+"label": "8486: spiritual warfare, armour",
+"language": "eng"
+}
+]
+}
+}
+]

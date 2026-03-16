@@ -1,0 +1,32 @@
+[
+{
+"content_id": "4603",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4603: animals",
+"media_type": "Text",
+"index_reference": "4603: animals",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A category of living creatures that dwell mainly on the land, distinguished from fishes, birds and insects. Scripture stresses that all animals are created by God and are subordinate to human beings.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4604",
+"content_id": "4604",
+"resource_code": "DictionaryBibleThemes",
+"label": "4604: animals, nature of",
+"language": "eng"
+},
+{
+"reference_id": "4605",
+"content_id": "4605",
+"resource_code": "DictionaryBibleThemes",
+"label": "4605: animals, religious role of",
+"language": "eng"
+}
+]
+}
+}
+]

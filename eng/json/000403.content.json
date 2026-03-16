@@ -1,0 +1,132 @@
+[
+{
+"content_id": "4339",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4339: ivory",
+"media_type": "Text",
+"index_reference": "4339: ivory",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Ivory, a semiprecious substance derived from elephant tusks, was procured through trade</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs10:22\">1KI 10:22</a></strong> parallel <a href=\"https://ref.ly/2Chr9:21\">2CH 9:21</a> <em>See also</em> <a href=\"https://ref.ly/Ezek27:15\">EZK 27:15</a>; <a href=\"https://ref.ly/Rev18:11-Rev18:13\">REV 18:11–18:13</a></p>\n<h2>Articles inlaid with ivory were a sign of wealth</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs10:18\">1KI 10:18</a></strong> parallel <a href=\"https://ref.ly/2Chr9:17\">2CH 9:17</a> <em>See also</em> <a href=\"https://ref.ly/1Kgs22:39\">1KI 22:39</a>; <a href=\"https://ref.ly/Ps45:8\">PSA 45:8</a>; <a href=\"https://ref.ly/Ezek27:6\">EZK 27:6</a>; <a href=\"https://ref.ly/Amos3:15\">AMO 3:15</a>, <a href=\"https://ref.ly/Amos6:4\">AMO 6:4</a></p>\n<h2>The metaphorical use of ivory</h2>\n<p><strong><a href=\"https://ref.ly/Song5:14\">SNG 5:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song7:4\">SNG 7:4</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11010022",
+"start_ref_usfm": "1KI 10:22",
+"end_ref": "11010022",
+"end_ref_usfm": "1KI 10:22"
+},
+{
+"start_ref": "14009021",
+"start_ref_usfm": "2CH 9:21",
+"end_ref": "14009021",
+"end_ref_usfm": "2CH 9:21"
+},
+{
+"start_ref": "26027015",
+"start_ref_usfm": "EZK 27:15",
+"end_ref": "26027015",
+"end_ref_usfm": "EZK 27:15"
+},
+{
+"start_ref": "66018011",
+"start_ref_usfm": "REV 18:11",
+"end_ref": "66018013",
+"end_ref_usfm": "REV 18:13"
+},
+{
+"start_ref": "11010018",
+"start_ref_usfm": "1KI 10:18",
+"end_ref": "11010018",
+"end_ref_usfm": "1KI 10:18"
+},
+{
+"start_ref": "14009017",
+"start_ref_usfm": "2CH 9:17",
+"end_ref": "14009017",
+"end_ref_usfm": "2CH 9:17"
+},
+{
+"start_ref": "11022039",
+"start_ref_usfm": "1KI 22:39",
+"end_ref": "11022039",
+"end_ref_usfm": "1KI 22:39"
+},
+{
+"start_ref": "19045008",
+"start_ref_usfm": "PSA 45:8",
+"end_ref": "19045008",
+"end_ref_usfm": "PSA 45:8"
+},
+{
+"start_ref": "26027006",
+"start_ref_usfm": "EZK 27:6",
+"end_ref": "26027006",
+"end_ref_usfm": "EZK 27:6"
+},
+{
+"start_ref": "30003015",
+"start_ref_usfm": "AMO 3:15",
+"end_ref": "30003015",
+"end_ref_usfm": "AMO 3:15"
+},
+{
+"start_ref": "30006004",
+"start_ref_usfm": "AMO 6:4",
+"end_ref": "30006004",
+"end_ref_usfm": "AMO 6:4"
+},
+{
+"start_ref": "22005014",
+"start_ref_usfm": "SNG 5:14",
+"end_ref": "22005014",
+"end_ref_usfm": "SNG 5:14"
+},
+{
+"start_ref": "22007004",
+"start_ref_usfm": "SNG 7:4",
+"end_ref": "22007004",
+"end_ref_usfm": "SNG 7:4"
+}
+],
+"resource": [
+{
+"reference_id": "4342",
+"content_id": "4342",
+"resource_code": "DictionaryBibleThemes",
+"label": "4342: jewels",
+"language": "eng"
+},
+{
+"reference_id": "5211",
+"content_id": "5211",
+"resource_code": "DictionaryBibleThemes",
+"label": "5211: art",
+"language": "eng"
+},
+{
+"reference_id": "5437",
+"content_id": "5437",
+"resource_code": "DictionaryBibleThemes",
+"label": "5437: palaces",
+"language": "eng"
+},
+{
+"reference_id": "5574",
+"content_id": "5574",
+"resource_code": "DictionaryBibleThemes",
+"label": "5574: tablet",
+"language": "eng"
+},
+{
+"reference_id": "5587",
+"content_id": "5587",
+"resource_code": "DictionaryBibleThemes",
+"label": "5587: trade",
+"language": "eng"
+}
+]
+}
+}
+]

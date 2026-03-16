@@ -1,0 +1,94 @@
+[
+{
+"content_id": "5384",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5384: lawyer",
+"media_type": "Text",
+"index_reference": "5384: lawyer",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>A lawyer as a person skilled in the Mosaic law</h2>\n<p><a href=\"https://ref.ly/Matt22:35\">MAT 22:35</a>; ; <a href=\"https://ref.ly/Luke7:30\">LUK 7:30</a>, <a href=\"https://ref.ly/Luke10:25\">LUK 10:25</a>, <a href=\"https://ref.ly/Luke10:37\">LUK 10:37</a>, <a href=\"https://ref.ly/Luke11:45-Luke11:46\">LUK 11:45–11:46</a>, <a href=\"https://ref.ly/Luke11:52\">LUK 11:52</a>, <a href=\"https://ref.ly/Luke14:3\">LUK 14:3</a>; ; <a href=\"https://ref.ly/Titus3:13\">TIT 3:13</a></p>\n<h2>A lawyer as a person trained in rhetoric</h2>\n<p><a href=\"https://ref.ly/Acts24:1\">ACT 24:1</a> <em>The word translated “lawyer” means literally “orator”: a person trained in rhetoric who served as an attorney-at-law in a court trial.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40022035",
+"start_ref_usfm": "MAT 22:35",
+"end_ref": "40022035",
+"end_ref_usfm": "MAT 22:35"
+},
+{
+"start_ref": "42007030",
+"start_ref_usfm": "LUK 7:30",
+"end_ref": "42007030",
+"end_ref_usfm": "LUK 7:30"
+},
+{
+"start_ref": "42010025",
+"start_ref_usfm": "LUK 10:25",
+"end_ref": "42010025",
+"end_ref_usfm": "LUK 10:25"
+},
+{
+"start_ref": "42010037",
+"start_ref_usfm": "LUK 10:37",
+"end_ref": "42010037",
+"end_ref_usfm": "LUK 10:37"
+},
+{
+"start_ref": "42011045",
+"start_ref_usfm": "LUK 11:45",
+"end_ref": "42011046",
+"end_ref_usfm": "LUK 11:46"
+},
+{
+"start_ref": "42011052",
+"start_ref_usfm": "LUK 11:52",
+"end_ref": "42011052",
+"end_ref_usfm": "LUK 11:52"
+},
+{
+"start_ref": "42014003",
+"start_ref_usfm": "LUK 14:3",
+"end_ref": "42014003",
+"end_ref_usfm": "LUK 14:3"
+},
+{
+"start_ref": "56003013",
+"start_ref_usfm": "TIT 3:13",
+"end_ref": "56003013",
+"end_ref_usfm": "TIT 3:13"
+},
+{
+"start_ref": "44024001",
+"start_ref_usfm": "ACT 24:1",
+"end_ref": "44024001",
+"end_ref_usfm": "ACT 24:1"
+}
+],
+"resource": [
+{
+"reference_id": "5375",
+"content_id": "5375",
+"resource_code": "DictionaryBibleThemes",
+"label": "5375: law",
+"language": "eng"
+},
+{
+"reference_id": "5383",
+"content_id": "5383",
+"resource_code": "DictionaryBibleThemes",
+"label": "5383: lawsuits",
+"language": "eng"
+},
+{
+"reference_id": "7464",
+"content_id": "7464",
+"resource_code": "DictionaryBibleThemes",
+"label": "7464: teachers of the law",
+"language": "eng"
+}
+]
+}
+}
+]

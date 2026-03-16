@@ -1,0 +1,234 @@
+[
+{
+"content_id": "5665",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5665: children, attitudes towards",
+"media_type": "Text",
+"index_reference": "5665: children, attitudes towards",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Christians must welcome children as Jesus Christ did. They are used by Christ as an example of how believers should receive the kingdom, and as an example of immaturity by Paul.</p>\n<h2>Children as a gift from God</h2>\n<p><strong><a href=\"https://ref.ly/Ps113:9\">PSA 113:9</a>, <a href=\"https://ref.ly/Ps127:3\">PSA 127:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen33:5\">GEN 33:5</a>, <a href=\"https://ref.ly/Gen48:9\">GEN 48:9</a>; <a href=\"https://ref.ly/Josh24:3\">JOS 24:3</a></p>\n<h2>Jesus Christ welcomes children</h2>\n<p><strong><a href=\"https://ref.ly/Matt19:13-Matt19:14\">MAT 19:13–19:14</a></strong> parallels <a href=\"https://ref.ly/Mark10:13-Mark10:16\">MRK 10:13–10:16</a>, <a href=\"https://ref.ly/Luke18:15-Luke18:17\">LUK 18:15–18:17</a></p>\n<h2>Those who enter the kingdom must be like children</h2>\n<h3>God's truth is revealed to the childlike</h3>\n<p><strong><a href=\"https://ref.ly/Matt11:25\">MAT 11:25</a></strong> parallel <a href=\"https://ref.ly/Luke10:21\">LUK 10:21</a> <em>See also</em> <a href=\"https://ref.ly/1Cor1:26-1Cor1:29\">1CO 1:26–1:29</a></p>\n<h3>Children as people welcomed by Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Matt18:2-Matt18:5\">MAT 18:2–18:5</a></strong> parallels <a href=\"https://ref.ly/Mark9:36-Mark9:37\">MRK 9:36–9:37</a>, <a href=\"https://ref.ly/Luke9:47-Luke9:48\">LUK 9:47–9:48</a> <em>See also</em> <a href=\"https://ref.ly/Matt10:40-Matt10:42\">MAT 10:40–10:42</a> parallel <a href=\"https://ref.ly/Mark9:41\">MRK 9:41</a>; <a href=\"https://ref.ly/Matt18:10\">MAT 18:10</a>, <a href=\"https://ref.ly/Matt18:14\">MAT 18:14</a></p>\n<h2>Children as a picture of immature Christians</h2>\n<p><strong><a href=\"https://ref.ly/1Cor14:20\">1CO 14:20</a></strong>; <strong><a href=\"https://ref.ly/1Pet2:2-1Pet2:3\">1PE 2:2–2:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor13:11\">1CO 13:11</a>; <a href=\"https://ref.ly/Heb5:13\">HEB 5:13</a></p>\n<h2>Promises to children</h2>\n<p><strong><a href=\"https://ref.ly/Deut5:16\">DEU 5:16</a></strong>; <strong><a href=\"https://ref.ly/Acts2:39\">ACT 2:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov8:32\">PRO 8:32</a>; <a href=\"https://ref.ly/Eph6:2-Eph6:3\">EPH 6:2–6:3</a></p>\n<h2>Warnings relating to children</h2>\n<h3>Warnings to those who cause children to stumble</h3>\n<p><strong><a href=\"https://ref.ly/Matt18:6\">MAT 18:6</a></strong> parallel <a href=\"https://ref.ly/Mark9:42\">MRK 9:42</a></p>\n<h3>Warnings to Israel, the disobedient child</h3>\n<p><strong><a href=\"https://ref.ly/Isa30:1\">ISA 30:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa30:9\">ISA 30:9</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19113009",
+"start_ref_usfm": "PSA 113:9",
+"end_ref": "19113009",
+"end_ref_usfm": "PSA 113:9"
+},
+{
+"start_ref": "19127003",
+"start_ref_usfm": "PSA 127:3",
+"end_ref": "19127003",
+"end_ref_usfm": "PSA 127:3"
+},
+{
+"start_ref": "01033005",
+"start_ref_usfm": "GEN 33:5",
+"end_ref": "01033005",
+"end_ref_usfm": "GEN 33:5"
+},
+{
+"start_ref": "01048009",
+"start_ref_usfm": "GEN 48:9",
+"end_ref": "01048009",
+"end_ref_usfm": "GEN 48:9"
+},
+{
+"start_ref": "06024003",
+"start_ref_usfm": "JOS 24:3",
+"end_ref": "06024003",
+"end_ref_usfm": "JOS 24:3"
+},
+{
+"start_ref": "40019013",
+"start_ref_usfm": "MAT 19:13",
+"end_ref": "40019014",
+"end_ref_usfm": "MAT 19:14"
+},
+{
+"start_ref": "41010013",
+"start_ref_usfm": "MRK 10:13",
+"end_ref": "41010016",
+"end_ref_usfm": "MRK 10:16"
+},
+{
+"start_ref": "42018015",
+"start_ref_usfm": "LUK 18:15",
+"end_ref": "42018017",
+"end_ref_usfm": "LUK 18:17"
+},
+{
+"start_ref": "40011025",
+"start_ref_usfm": "MAT 11:25",
+"end_ref": "40011025",
+"end_ref_usfm": "MAT 11:25"
+},
+{
+"start_ref": "42010021",
+"start_ref_usfm": "LUK 10:21",
+"end_ref": "42010021",
+"end_ref_usfm": "LUK 10:21"
+},
+{
+"start_ref": "46001026",
+"start_ref_usfm": "1CO 1:26",
+"end_ref": "46001029",
+"end_ref_usfm": "1CO 1:29"
+},
+{
+"start_ref": "40018002",
+"start_ref_usfm": "MAT 18:2",
+"end_ref": "40018005",
+"end_ref_usfm": "MAT 18:5"
+},
+{
+"start_ref": "41009036",
+"start_ref_usfm": "MRK 9:36",
+"end_ref": "41009037",
+"end_ref_usfm": "MRK 9:37"
+},
+{
+"start_ref": "42009047",
+"start_ref_usfm": "LUK 9:47",
+"end_ref": "42009048",
+"end_ref_usfm": "LUK 9:48"
+},
+{
+"start_ref": "40010040",
+"start_ref_usfm": "MAT 10:40",
+"end_ref": "40010042",
+"end_ref_usfm": "MAT 10:42"
+},
+{
+"start_ref": "41009041",
+"start_ref_usfm": "MRK 9:41",
+"end_ref": "41009041",
+"end_ref_usfm": "MRK 9:41"
+},
+{
+"start_ref": "40018010",
+"start_ref_usfm": "MAT 18:10",
+"end_ref": "40018010",
+"end_ref_usfm": "MAT 18:10"
+},
+{
+"start_ref": "40018014",
+"start_ref_usfm": "MAT 18:14",
+"end_ref": "40018014",
+"end_ref_usfm": "MAT 18:14"
+},
+{
+"start_ref": "46014020",
+"start_ref_usfm": "1CO 14:20",
+"end_ref": "46014020",
+"end_ref_usfm": "1CO 14:20"
+},
+{
+"start_ref": "60002002",
+"start_ref_usfm": "1PE 2:2",
+"end_ref": "60002003",
+"end_ref_usfm": "1PE 2:3"
+},
+{
+"start_ref": "46013011",
+"start_ref_usfm": "1CO 13:11",
+"end_ref": "46013011",
+"end_ref_usfm": "1CO 13:11"
+},
+{
+"start_ref": "58005013",
+"start_ref_usfm": "HEB 5:13",
+"end_ref": "58005013",
+"end_ref_usfm": "HEB 5:13"
+},
+{
+"start_ref": "05005016",
+"start_ref_usfm": "DEU 5:16",
+"end_ref": "05005016",
+"end_ref_usfm": "DEU 5:16"
+},
+{
+"start_ref": "44002039",
+"start_ref_usfm": "ACT 2:39",
+"end_ref": "44002039",
+"end_ref_usfm": "ACT 2:39"
+},
+{
+"start_ref": "20008032",
+"start_ref_usfm": "PRO 8:32",
+"end_ref": "20008032",
+"end_ref_usfm": "PRO 8:32"
+},
+{
+"start_ref": "49006002",
+"start_ref_usfm": "EPH 6:2",
+"end_ref": "49006003",
+"end_ref_usfm": "EPH 6:3"
+},
+{
+"start_ref": "40018006",
+"start_ref_usfm": "MAT 18:6",
+"end_ref": "40018006",
+"end_ref_usfm": "MAT 18:6"
+},
+{
+"start_ref": "41009042",
+"start_ref_usfm": "MRK 9:42",
+"end_ref": "41009042",
+"end_ref_usfm": "MRK 9:42"
+},
+{
+"start_ref": "23030001",
+"start_ref_usfm": "ISA 30:1",
+"end_ref": "23030001",
+"end_ref_usfm": "ISA 30:1"
+},
+{
+"start_ref": "23030009",
+"start_ref_usfm": "ISA 30:9",
+"end_ref": "23030009",
+"end_ref_usfm": "ISA 30:9"
+}
+],
+"resource": [
+{
+"reference_id": "2375",
+"content_id": "2375",
+"resource_code": "DictionaryBibleThemes",
+"label": "2375: kingdom of God",
+"language": "eng"
+},
+{
+"reference_id": "5730",
+"content_id": "5730",
+"resource_code": "DictionaryBibleThemes",
+"label": "5730: orphans",
+"language": "eng"
+},
+{
+"reference_id": "5881",
+"content_id": "5881",
+"resource_code": "DictionaryBibleThemes",
+"label": "5881: immaturity",
+"language": "eng"
+},
+{
+"reference_id": "8205",
+"content_id": "8205",
+"resource_code": "DictionaryBibleThemes",
+"label": "8205: childlikeness",
+"language": "eng"
+},
+{
+"reference_id": "8276",
+"content_id": "8276",
+"resource_code": "DictionaryBibleThemes",
+"label": "8276: humility",
+"language": "eng"
+}
+]
+}
+}
+]

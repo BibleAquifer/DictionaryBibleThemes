@@ -1,0 +1,118 @@
+[
+{
+"content_id": "4472",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4472: lily",
+"media_type": "Text",
+"index_reference": "4472: lily",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Lilies admired for their beauty</h2>\n<p><strong><a href=\"https://ref.ly/Luke12:22-Luke12:31\">LUK 12:22–12:31</a></strong> parallel <a href=\"https://ref.ly/Matt6:25-Matt6:34\">MAT 6:25–6:34</a> <em>See also</em> <a href=\"https://ref.ly/Song2:16\">SNG 2:16</a>, <a href=\"https://ref.ly/Song4:5\">SNG 4:5</a>, <a href=\"https://ref.ly/Song6:2-Song6:3\">SNG 6:2–6:3</a></p>\n<h2>The metaphorical use of lilies</h2>\n<p><strong><a href=\"https://ref.ly/Song2:1-Song2:2\">SNG 2:1–2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song5:13\">SNG 5:13</a>, <a href=\"https://ref.ly/Song7:2\">SNG 7:2</a>; <a href=\"https://ref.ly/Hos14:5\">HOS 14:5</a></p>\n<h2>Ornamental representations of lilies adorned Solomon's temple</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs7:19\">1KI 7:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs7:22\">1KI 7:22</a>, <a href=\"https://ref.ly/1Kgs7:25-1Kgs7:26\">1KI 7:25–7:26</a> parallel <a href=\"https://ref.ly/2Chr4:4-2Chr4:5\">2CH 4:4–4:5</a></p>\n<h2>Lilies mentioned in some titles of tunes in the Psalms</h2>\n<p><strong>PSA 69:0</strong> <em>See also</em> PSA 45:0, PSA 60:0, PSA 80:0</p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42012022",
+"start_ref_usfm": "LUK 12:22",
+"end_ref": "42012031",
+"end_ref_usfm": "LUK 12:31"
+},
+{
+"start_ref": "40006025",
+"start_ref_usfm": "MAT 6:25",
+"end_ref": "40006034",
+"end_ref_usfm": "MAT 6:34"
+},
+{
+"start_ref": "22002016",
+"start_ref_usfm": "SNG 2:16",
+"end_ref": "22002016",
+"end_ref_usfm": "SNG 2:16"
+},
+{
+"start_ref": "22004005",
+"start_ref_usfm": "SNG 4:5",
+"end_ref": "22004005",
+"end_ref_usfm": "SNG 4:5"
+},
+{
+"start_ref": "22006002",
+"start_ref_usfm": "SNG 6:2",
+"end_ref": "22006003",
+"end_ref_usfm": "SNG 6:3"
+},
+{
+"start_ref": "22002001",
+"start_ref_usfm": "SNG 2:1",
+"end_ref": "22002002",
+"end_ref_usfm": "SNG 2:2"
+},
+{
+"start_ref": "22005013",
+"start_ref_usfm": "SNG 5:13",
+"end_ref": "22005013",
+"end_ref_usfm": "SNG 5:13"
+},
+{
+"start_ref": "22007002",
+"start_ref_usfm": "SNG 7:2",
+"end_ref": "22007002",
+"end_ref_usfm": "SNG 7:2"
+},
+{
+"start_ref": "28014005",
+"start_ref_usfm": "HOS 14:5",
+"end_ref": "28014005",
+"end_ref_usfm": "HOS 14:5"
+},
+{
+"start_ref": "11007019",
+"start_ref_usfm": "1KI 7:19",
+"end_ref": "11007019",
+"end_ref_usfm": "1KI 7:19"
+},
+{
+"start_ref": "11007022",
+"start_ref_usfm": "1KI 7:22",
+"end_ref": "11007022",
+"end_ref_usfm": "1KI 7:22"
+},
+{
+"start_ref": "11007025",
+"start_ref_usfm": "1KI 7:25",
+"end_ref": "11007026",
+"end_ref_usfm": "1KI 7:26"
+},
+{
+"start_ref": "14004004",
+"start_ref_usfm": "2CH 4:4",
+"end_ref": "14004005",
+"end_ref_usfm": "2CH 4:5"
+}
+],
+"resource": [
+{
+"reference_id": "4402",
+"content_id": "4402",
+"resource_code": "DictionaryBibleThemes",
+"label": "4402: plants",
+"language": "eng"
+},
+{
+"reference_id": "4446",
+"content_id": "4446",
+"resource_code": "DictionaryBibleThemes",
+"label": "4446: flowers",
+"language": "eng"
+},
+{
+"reference_id": "7467",
+"content_id": "7467",
+"resource_code": "DictionaryBibleThemes",
+"label": "7467: temple, Solomon's",
+"language": "eng"
+}
+]
+}
+}
+]

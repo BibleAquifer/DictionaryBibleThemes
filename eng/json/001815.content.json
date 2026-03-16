@@ -1,0 +1,200 @@
+[
+{
+"content_id": "7398",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7398: New Moon festival",
+"media_type": "Text",
+"index_reference": "7398: new moon festival",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The festival which marked the consecration to God of each new month in the year.</p>\n<h2>New Moon festivals were required under the Mosaic law</h2>\n<p><strong><a href=\"https://ref.ly/Num28:11\">NUM 28:11</a></strong></p>\n<h2>New Moon festivals were times of celebration</h2>\n<h3>They were marked by blowing of trumpets</h3>\n<p><strong><a href=\"https://ref.ly/Num10:10\">NUM 10:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps81:3\">PSA 81:3</a></p>\n<h3>They were celebrated with offerings</h3>\n<p><a href=\"https://ref.ly/Num28:11-Num28:15\">NUM 28:11–28:15</a>; ; <a href=\"https://ref.ly/1Chr23:30-1Chr23:31\">1CH 23:30–23:31</a>; ; <a href=\"https://ref.ly/2Chr2:4\">2CH 2:4</a>, <a href=\"https://ref.ly/2Chr8:12-2Chr8:13\">2CH 8:12–8:13</a>, <a href=\"https://ref.ly/2Chr31:3\">2CH 31:3</a> <em>reformed temple worship under Hezekiah</em>; ; <a href=\"https://ref.ly/Neh10:32-Neh10:33\">NEH 10:32–10:33</a> <em>New Moon festivals were restored on the return from exile</em>; ; <a href=\"https://ref.ly/Ezek45:17\">EZK 45:17</a>, <a href=\"https://ref.ly/Ezek46:1\">EZK 46:1</a>, <a href=\"https://ref.ly/Ezek46:3\">EZK 46:3</a>, <a href=\"https://ref.ly/Ezek46:6\">EZK 46:6</a></p>\n<h3>They were times when normal work ceased</h3>\n<p>David was to dine with Saul:\n <a href=\"https://ref.ly/1Sam20:5\">1SA 20:5</a>, <a href=\"https://ref.ly/1Sam20:18\">1SA 20:18</a>, <a href=\"https://ref.ly/1Sam20:24\">1SA 20:24</a>; \n<a href=\"https://ref.ly/2Kgs4:23\">2KI 4:23</a> <em>the Shunammite woman and her husband</em>; ; <a href=\"https://ref.ly/Amos8:5\">AMO 8:5</a> <em>Some saw them as a hindrance to business.</em></p>\n<h2>A wrong inner attitude at New Moon celebrations incurs God's anger</h2>\n<p><a href=\"https://ref.ly/Isa1:13-Isa1:14\">ISA 1:13–1:14</a>; ; <a href=\"https://ref.ly/Hos2:11\">HOS 2:11</a>, <a href=\"https://ref.ly/Hos5:7\">HOS 5:7</a></p>\n<h2>NT reference to the New Moon festival</h2>\n<p><strong><a href=\"https://ref.ly/Col2:16-Col2:17\">COL 2:16–2:17</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04028011",
+"start_ref_usfm": "NUM 28:11",
+"end_ref": "04028011",
+"end_ref_usfm": "NUM 28:11"
+},
+{
+"start_ref": "04010010",
+"start_ref_usfm": "NUM 10:10",
+"end_ref": "04010010",
+"end_ref_usfm": "NUM 10:10"
+},
+{
+"start_ref": "19081003",
+"start_ref_usfm": "PSA 81:3",
+"end_ref": "19081003",
+"end_ref_usfm": "PSA 81:3"
+},
+{
+"start_ref": "04028011",
+"start_ref_usfm": "NUM 28:11",
+"end_ref": "04028015",
+"end_ref_usfm": "NUM 28:15"
+},
+{
+"start_ref": "13023030",
+"start_ref_usfm": "1CH 23:30",
+"end_ref": "13023031",
+"end_ref_usfm": "1CH 23:31"
+},
+{
+"start_ref": "14002004",
+"start_ref_usfm": "2CH 2:4",
+"end_ref": "14002004",
+"end_ref_usfm": "2CH 2:4"
+},
+{
+"start_ref": "14008012",
+"start_ref_usfm": "2CH 8:12",
+"end_ref": "14008013",
+"end_ref_usfm": "2CH 8:13"
+},
+{
+"start_ref": "14031003",
+"start_ref_usfm": "2CH 31:3",
+"end_ref": "14031003",
+"end_ref_usfm": "2CH 31:3"
+},
+{
+"start_ref": "16010032",
+"start_ref_usfm": "NEH 10:32",
+"end_ref": "16010033",
+"end_ref_usfm": "NEH 10:33"
+},
+{
+"start_ref": "26045017",
+"start_ref_usfm": "EZK 45:17",
+"end_ref": "26045017",
+"end_ref_usfm": "EZK 45:17"
+},
+{
+"start_ref": "26046001",
+"start_ref_usfm": "EZK 46:1",
+"end_ref": "26046001",
+"end_ref_usfm": "EZK 46:1"
+},
+{
+"start_ref": "26046003",
+"start_ref_usfm": "EZK 46:3",
+"end_ref": "26046003",
+"end_ref_usfm": "EZK 46:3"
+},
+{
+"start_ref": "26046006",
+"start_ref_usfm": "EZK 46:6",
+"end_ref": "26046006",
+"end_ref_usfm": "EZK 46:6"
+},
+{
+"start_ref": "09020005",
+"start_ref_usfm": "1SA 20:5",
+"end_ref": "09020005",
+"end_ref_usfm": "1SA 20:5"
+},
+{
+"start_ref": "09020018",
+"start_ref_usfm": "1SA 20:18",
+"end_ref": "09020018",
+"end_ref_usfm": "1SA 20:18"
+},
+{
+"start_ref": "09020024",
+"start_ref_usfm": "1SA 20:24",
+"end_ref": "09020024",
+"end_ref_usfm": "1SA 20:24"
+},
+{
+"start_ref": "12004023",
+"start_ref_usfm": "2KI 4:23",
+"end_ref": "12004023",
+"end_ref_usfm": "2KI 4:23"
+},
+{
+"start_ref": "30008005",
+"start_ref_usfm": "AMO 8:5",
+"end_ref": "30008005",
+"end_ref_usfm": "AMO 8:5"
+},
+{
+"start_ref": "23001013",
+"start_ref_usfm": "ISA 1:13",
+"end_ref": "23001014",
+"end_ref_usfm": "ISA 1:14"
+},
+{
+"start_ref": "28002011",
+"start_ref_usfm": "HOS 2:11",
+"end_ref": "28002011",
+"end_ref_usfm": "HOS 2:11"
+},
+{
+"start_ref": "28005007",
+"start_ref_usfm": "HOS 5:7",
+"end_ref": "28005007",
+"end_ref_usfm": "HOS 5:7"
+},
+{
+"start_ref": "51002016",
+"start_ref_usfm": "COL 2:16",
+"end_ref": "51002017",
+"end_ref_usfm": "COL 2:17"
+}
+],
+"resource": [
+{
+"reference_id": "4951",
+"content_id": "4951",
+"resource_code": "DictionaryBibleThemes",
+"label": "4951: month",
+"language": "eng"
+},
+{
+"reference_id": "5595",
+"content_id": "5595",
+"resource_code": "DictionaryBibleThemes",
+"label": "5595: trumpet",
+"language": "eng"
+},
+{
+"reference_id": "7354",
+"content_id": "7354",
+"resource_code": "DictionaryBibleThemes",
+"label": "7354: feasts and festivals",
+"language": "eng"
+},
+{
+"reference_id": "7359",
+"content_id": "7359",
+"resource_code": "DictionaryBibleThemes",
+"label": "7359: Feast of Trumpets",
+"language": "eng"
+},
+{
+"reference_id": "7402",
+"content_id": "7402",
+"resource_code": "DictionaryBibleThemes",
+"label": "7402: offerings",
+"language": "eng"
+},
+{
+"reference_id": "7429",
+"content_id": "7429",
+"resource_code": "DictionaryBibleThemes",
+"label": "7429: Sabbath, in OT",
+"language": "eng"
+},
+{
+"reference_id": "8218",
+"content_id": "8218",
+"resource_code": "DictionaryBibleThemes",
+"label": "8218: consecration",
+"language": "eng"
+}
+]
+}
+}
+]

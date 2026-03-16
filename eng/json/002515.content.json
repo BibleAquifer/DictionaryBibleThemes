@@ -1,0 +1,72 @@
+[
+{
+"content_id": "9430",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9430: paradise",
+"media_type": "Text",
+"index_reference": "9430: paradise",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The destination of the righteous after death</h2>\n<p><strong><a href=\"https://ref.ly/Luke23:43\">LUK 23:43</a></strong> <em>This Persian term originally described a park or pleasure garden. It was used by the Jews of the Garden of Eden, and of the future blessedness of the saints.</em> <em>See also</em> <a href=\"https://ref.ly/2Cor12:3-2Cor12:4\">2CO 12:3–12:4</a>; <a href=\"https://ref.ly/Rev2:7\">REV 2:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42023043",
+"start_ref_usfm": "LUK 23:43",
+"end_ref": "42023043",
+"end_ref_usfm": "LUK 23:43"
+},
+{
+"start_ref": "47012003",
+"start_ref_usfm": "2CO 12:3",
+"end_ref": "47012004",
+"end_ref_usfm": "2CO 12:4"
+},
+{
+"start_ref": "66002007",
+"start_ref_usfm": "REV 2:7",
+"end_ref": "66002007",
+"end_ref_usfm": "REV 2:7"
+}
+],
+"resource": [
+{
+"reference_id": "4209",
+"content_id": "4209",
+"resource_code": "DictionaryBibleThemes",
+"label": "4209: land, spiritual aspects of",
+"language": "eng"
+},
+{
+"reference_id": "4241",
+"content_id": "4241",
+"resource_code": "DictionaryBibleThemes",
+"label": "4241: Garden of Eden, the",
+"language": "eng"
+},
+{
+"reference_id": "6644",
+"content_id": "6644",
+"resource_code": "DictionaryBibleThemes",
+"label": "6644: eternal life",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+},
+{
+"reference_id": "9410",
+"content_id": "9410",
+"resource_code": "DictionaryBibleThemes",
+"label": "9410: heaven",
+"language": "eng"
+}
+]
+}
+}
+]

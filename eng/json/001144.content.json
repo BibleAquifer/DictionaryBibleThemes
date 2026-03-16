@@ -1,0 +1,122 @@
+[
+{
+"content_id": "5579",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5579: tetrarch",
+"media_type": "Text",
+"index_reference": "5579: tetrarch",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A ruler over one quarter of a region; a son of Herod the Great who ruled one quarter of the area originally ruled by his father.</p>\n<h2>Herod Archelaus, governor of Judea, Idumea and Samaria</h2>\n<p><strong><a href=\"https://ref.ly/Matt2:22\">MAT 2:22</a></strong> <em>The tetrarchy system had been started by Philip of Macedon and adopted by the Romans.</em></p>\n<h2>Herod Antipas, tetrarch of Galilee and Perea</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Matt14:1\">MAT 14:1</a>, <a href=\"https://ref.ly/Matt14:9\">MAT 14:9</a> <em>Sometimes a tetrarch would be given the courtesy title of king</em>; <a href=\"https://ref.ly/Mark6:14\">MRK 6:14</a> parallel <a href=\"https://ref.ly/Luke9:7\">LUK 9:7</a>; <a href=\"https://ref.ly/Luke3:1\">LUK 3:1</a>, <a href=\"https://ref.ly/Luke3:19\">LUK 3:19</a>, <a href=\"https://ref.ly/Luke23:7\">LUK 23:7</a>; <a href=\"https://ref.ly/Acts13:1\">ACT 13:1</a></p>\n<h2>Herod Philip, tetrarch of Iturea and Traconitis</h2>\n<p><a href=\"https://ref.ly/Luke3:1\">LUK 3:1</a></p>\n<h2>Lysanias, tetrarch of Abilene</h2>\n<p><a href=\"https://ref.ly/Luke3:1\">LUK 3:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40002022",
+"start_ref_usfm": "MAT 2:22",
+"end_ref": "40002022",
+"end_ref_usfm": "MAT 2:22"
+},
+{
+"start_ref": "40014001",
+"start_ref_usfm": "MAT 14:1",
+"end_ref": "40014001",
+"end_ref_usfm": "MAT 14:1"
+},
+{
+"start_ref": "40014009",
+"start_ref_usfm": "MAT 14:9",
+"end_ref": "40014009",
+"end_ref_usfm": "MAT 14:9"
+},
+{
+"start_ref": "41006014",
+"start_ref_usfm": "MRK 6:14",
+"end_ref": "41006014",
+"end_ref_usfm": "MRK 6:14"
+},
+{
+"start_ref": "42009007",
+"start_ref_usfm": "LUK 9:7",
+"end_ref": "42009007",
+"end_ref_usfm": "LUK 9:7"
+},
+{
+"start_ref": "42003001",
+"start_ref_usfm": "LUK 3:1",
+"end_ref": "42003001",
+"end_ref_usfm": "LUK 3:1"
+},
+{
+"start_ref": "42003019",
+"start_ref_usfm": "LUK 3:19",
+"end_ref": "42003019",
+"end_ref_usfm": "LUK 3:19"
+},
+{
+"start_ref": "42023007",
+"start_ref_usfm": "LUK 23:7",
+"end_ref": "42023007",
+"end_ref_usfm": "LUK 23:7"
+},
+{
+"start_ref": "44013001",
+"start_ref_usfm": "ACT 13:1",
+"end_ref": "44013001",
+"end_ref_usfm": "ACT 13:1"
+}
+],
+"resource": [
+{
+"reference_id": "5219",
+"content_id": "5219",
+"resource_code": "DictionaryBibleThemes",
+"label": "5219: authority, of human institutions",
+"language": "eng"
+},
+{
+"reference_id": "5327",
+"content_id": "5327",
+"resource_code": "DictionaryBibleThemes",
+"label": "5327: governors",
+"language": "eng"
+},
+{
+"reference_id": "5361",
+"content_id": "5361",
+"resource_code": "DictionaryBibleThemes",
+"label": "5361: justice, human",
+"language": "eng"
+},
+{
+"reference_id": "5366",
+"content_id": "5366",
+"resource_code": "DictionaryBibleThemes",
+"label": "5366: king",
+"language": "eng"
+},
+{
+"reference_id": "5509",
+"content_id": "5509",
+"resource_code": "DictionaryBibleThemes",
+"label": "5509: rulers",
+"language": "eng"
+},
+{
+"reference_id": "7735",
+"content_id": "7735",
+"resource_code": "DictionaryBibleThemes",
+"label": "7735: leaders, political",
+"language": "eng"
+},
+{
+"reference_id": "8456",
+"content_id": "8456",
+"resource_code": "DictionaryBibleThemes",
+"label": "8456: obedience, to human authorities",
+"language": "eng"
+}
+]
+}
+}
+]

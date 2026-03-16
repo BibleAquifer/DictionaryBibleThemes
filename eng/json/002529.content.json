@@ -1,0 +1,254 @@
+[
+{
+"content_id": "9614",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9614: hope, results of its absence",
+"media_type": "Text",
+"index_reference": "9614: hope, results of its absence",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An absence of hope leads to a loss of vision, a sense of despondency and ultimately to despair. This contrasts sharply with the Christian hope.</p>\n<h2>Feelings produced by a lack of hope</h2>\n<h3>Despair</h3>\n<p><strong><a href=\"https://ref.ly/Job17:13-Job17:15\">JOB 17:13–17:15</a></strong>; <strong><a href=\"https://ref.ly/Prov13:12\">PRO 13:12</a></strong>; <strong><a href=\"https://ref.ly/1Chr29:15\">1CH 29:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job6:11\">JOB 6:11</a>, <a href=\"https://ref.ly/Job7:6\">JOB 7:6</a>; <a href=\"https://ref.ly/Ps88:15-Ps88:18\">PSA 88:15–88:18</a>; <a href=\"https://ref.ly/Eccl2:17\">ECC 2:17</a>; <a href=\"https://ref.ly/Isa19:9\">ISA 19:9</a>, <a href=\"https://ref.ly/Isa38:18\">ISA 38:18</a>; <a href=\"https://ref.ly/2Cor1:8\">2CO 1:8</a></p>\n<h3>A sense of being abandoned by God</h3>\n<p><strong><a href=\"https://ref.ly/Ps22:1-Ps22:2\">PSA 22:1–22:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lam3:18\">LAM 3:18</a>; <a href=\"https://ref.ly/Ezek37:11\">EZK 37:11</a></p>\n<h3>A deep longing for life to end</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs19:4\">1KI 19:4</a></strong>; <strong><a href=\"https://ref.ly/Job3:20-Job3:21\">JOB 3:20–3:21</a></strong>; <strong><a href=\"https://ref.ly/Eccl4:1-Eccl4:2\">ECC 4:1–4:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:46\">GEN 27:46</a>; <a href=\"https://ref.ly/Num11:15\">NUM 11:15</a>; <a href=\"https://ref.ly/Job7:13-Job7:15\">JOB 7:13–7:15</a>; <a href=\"https://ref.ly/Jer8:3\">JER 8:3</a>; <a href=\"https://ref.ly/Jonah4:3\">JON 4:3</a>, <a href=\"https://ref.ly/Jonah4:8\">JON 4:8</a>; <a href=\"https://ref.ly/Rev9:6\">REV 9:6</a></p>\n<h2>The outcome of a lack of hope</h2>\n<h3>The choice of trusting in God or futile self-effort</h3>\n<p><strong><a href=\"https://ref.ly/Rom4:18\">ROM 4:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jonah1:13-Jonah1:14\">JON 1:13–1:14</a>; <a href=\"https://ref.ly/Jer18:11-Jer18:12\">JER 18:11–18:12</a>; <a href=\"https://ref.ly/Acts27:20\">ACT 27:20</a></p>\n<h3>Suicide</h3>\n<p><strong><a href=\"https://ref.ly/Matt27:5\">MAT 27:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam31:4\">1SA 31:4</a>; <a href=\"https://ref.ly/2Sam17:23\">2SA 17:23</a>; <a href=\"https://ref.ly/1Kgs16:18\">1KI 16:18</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18017013",
+"start_ref_usfm": "JOB 17:13",
+"end_ref": "18017015",
+"end_ref_usfm": "JOB 17:15"
+},
+{
+"start_ref": "20013012",
+"start_ref_usfm": "PRO 13:12",
+"end_ref": "20013012",
+"end_ref_usfm": "PRO 13:12"
+},
+{
+"start_ref": "13029015",
+"start_ref_usfm": "1CH 29:15",
+"end_ref": "13029015",
+"end_ref_usfm": "1CH 29:15"
+},
+{
+"start_ref": "18006011",
+"start_ref_usfm": "JOB 6:11",
+"end_ref": "18006011",
+"end_ref_usfm": "JOB 6:11"
+},
+{
+"start_ref": "18007006",
+"start_ref_usfm": "JOB 7:6",
+"end_ref": "18007006",
+"end_ref_usfm": "JOB 7:6"
+},
+{
+"start_ref": "19088015",
+"start_ref_usfm": "PSA 88:15",
+"end_ref": "19088018",
+"end_ref_usfm": "PSA 88:18"
+},
+{
+"start_ref": "21002017",
+"start_ref_usfm": "ECC 2:17",
+"end_ref": "21002017",
+"end_ref_usfm": "ECC 2:17"
+},
+{
+"start_ref": "23019009",
+"start_ref_usfm": "ISA 19:9",
+"end_ref": "23019009",
+"end_ref_usfm": "ISA 19:9"
+},
+{
+"start_ref": "23038018",
+"start_ref_usfm": "ISA 38:18",
+"end_ref": "23038018",
+"end_ref_usfm": "ISA 38:18"
+},
+{
+"start_ref": "47001008",
+"start_ref_usfm": "2CO 1:8",
+"end_ref": "47001008",
+"end_ref_usfm": "2CO 1:8"
+},
+{
+"start_ref": "19022001",
+"start_ref_usfm": "PSA 22:1",
+"end_ref": "19022002",
+"end_ref_usfm": "PSA 22:2"
+},
+{
+"start_ref": "25003018",
+"start_ref_usfm": "LAM 3:18",
+"end_ref": "25003018",
+"end_ref_usfm": "LAM 3:18"
+},
+{
+"start_ref": "26037011",
+"start_ref_usfm": "EZK 37:11",
+"end_ref": "26037011",
+"end_ref_usfm": "EZK 37:11"
+},
+{
+"start_ref": "11019004",
+"start_ref_usfm": "1KI 19:4",
+"end_ref": "11019004",
+"end_ref_usfm": "1KI 19:4"
+},
+{
+"start_ref": "18003020",
+"start_ref_usfm": "JOB 3:20",
+"end_ref": "18003021",
+"end_ref_usfm": "JOB 3:21"
+},
+{
+"start_ref": "21004001",
+"start_ref_usfm": "ECC 4:1",
+"end_ref": "21004002",
+"end_ref_usfm": "ECC 4:2"
+},
+{
+"start_ref": "01027046",
+"start_ref_usfm": "GEN 27:46",
+"end_ref": "01027046",
+"end_ref_usfm": "GEN 27:46"
+},
+{
+"start_ref": "04011015",
+"start_ref_usfm": "NUM 11:15",
+"end_ref": "04011015",
+"end_ref_usfm": "NUM 11:15"
+},
+{
+"start_ref": "18007013",
+"start_ref_usfm": "JOB 7:13",
+"end_ref": "18007015",
+"end_ref_usfm": "JOB 7:15"
+},
+{
+"start_ref": "24008003",
+"start_ref_usfm": "JER 8:3",
+"end_ref": "24008003",
+"end_ref_usfm": "JER 8:3"
+},
+{
+"start_ref": "32004003",
+"start_ref_usfm": "JON 4:3",
+"end_ref": "32004003",
+"end_ref_usfm": "JON 4:3"
+},
+{
+"start_ref": "32004008",
+"start_ref_usfm": "JON 4:8",
+"end_ref": "32004008",
+"end_ref_usfm": "JON 4:8"
+},
+{
+"start_ref": "66009006",
+"start_ref_usfm": "REV 9:6",
+"end_ref": "66009006",
+"end_ref_usfm": "REV 9:6"
+},
+{
+"start_ref": "45004018",
+"start_ref_usfm": "ROM 4:18",
+"end_ref": "45004018",
+"end_ref_usfm": "ROM 4:18"
+},
+{
+"start_ref": "32001013",
+"start_ref_usfm": "JON 1:13",
+"end_ref": "32001014",
+"end_ref_usfm": "JON 1:14"
+},
+{
+"start_ref": "24018011",
+"start_ref_usfm": "JER 18:11",
+"end_ref": "24018012",
+"end_ref_usfm": "JER 18:12"
+},
+{
+"start_ref": "44027020",
+"start_ref_usfm": "ACT 27:20",
+"end_ref": "44027020",
+"end_ref_usfm": "ACT 27:20"
+},
+{
+"start_ref": "40027005",
+"start_ref_usfm": "MAT 27:5",
+"end_ref": "40027005",
+"end_ref_usfm": "MAT 27:5"
+},
+{
+"start_ref": "09031004",
+"start_ref_usfm": "1SA 31:4",
+"end_ref": "09031004",
+"end_ref_usfm": "1SA 31:4"
+},
+{
+"start_ref": "10017023",
+"start_ref_usfm": "2SA 17:23",
+"end_ref": "10017023",
+"end_ref_usfm": "2SA 17:23"
+},
+{
+"start_ref": "11016018",
+"start_ref_usfm": "1KI 16:18",
+"end_ref": "11016018",
+"end_ref_usfm": "1KI 16:18"
+}
+],
+"resource": [
+{
+"reference_id": "5067",
+"content_id": "5067",
+"resource_code": "DictionaryBibleThemes",
+"label": "5067: suicide",
+"language": "eng"
+},
+{
+"reference_id": "5770",
+"content_id": "5770",
+"resource_code": "DictionaryBibleThemes",
+"label": "5770: abandonment",
+"language": "eng"
+},
+{
+"reference_id": "5831",
+"content_id": "5831",
+"resource_code": "DictionaryBibleThemes",
+"label": "5831: depression",
+"language": "eng"
+},
+{
+"reference_id": "5916",
+"content_id": "5916",
+"resource_code": "DictionaryBibleThemes",
+"label": "5916: pessimism",
+"language": "eng"
+},
+{
+"reference_id": "6230",
+"content_id": "6230",
+"resource_code": "DictionaryBibleThemes",
+"label": "6230: rejection",
+"language": "eng"
+},
+{
+"reference_id": "8713",
+"content_id": "8713",
+"resource_code": "DictionaryBibleThemes",
+"label": "8713: discouragement",
+"language": "eng"
+},
+{
+"reference_id": "8820",
+"content_id": "8820",
+"resource_code": "DictionaryBibleThemes",
+"label": "8820: self-confidence",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,66 @@
+[
+{
+"content_id": "7357",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7357: Feast of Firstfruits",
+"media_type": "Text",
+"index_reference": "7357: feast of firstfruits",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The date of the offering of firstfruits, a celebration of God's gift of the harvest, is not clear; it was probably held on 16th Abib.</p>\n<h2>Offerings made at the celebration of the firstfruits</h2>\n<h3>A burnt offering and a grain offering</h3>\n<p><a href=\"https://ref.ly/Lev23:12-Lev23:13\">LEV 23:12–23:13</a></p>\n<h3>Other offerings</h3>\n<p><a href=\"https://ref.ly/Lev23:19-Lev23:20\">LEV 23:19–23:20</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03023012",
+"start_ref_usfm": "LEV 23:12",
+"end_ref": "03023013",
+"end_ref_usfm": "LEV 23:13"
+},
+{
+"start_ref": "03023019",
+"start_ref_usfm": "LEV 23:19",
+"end_ref": "03023020",
+"end_ref_usfm": "LEV 23:20"
+}
+],
+"resource": [
+{
+"reference_id": "4442",
+"content_id": "4442",
+"resource_code": "DictionaryBibleThemes",
+"label": "4442: firstfruits",
+"language": "eng"
+},
+{
+"reference_id": "4464",
+"content_id": "4464",
+"resource_code": "DictionaryBibleThemes",
+"label": "4464: harvest",
+"language": "eng"
+},
+{
+"reference_id": "7322",
+"content_id": "7322",
+"resource_code": "DictionaryBibleThemes",
+"label": "7322: burnt offering",
+"language": "eng"
+},
+{
+"reference_id": "7368",
+"content_id": "7368",
+"resource_code": "DictionaryBibleThemes",
+"label": "7368: grain offering",
+"language": "eng"
+},
+{
+"reference_id": "7480",
+"content_id": "7480",
+"resource_code": "DictionaryBibleThemes",
+"label": "7480: wave offering",
+"language": "eng"
+}
+]
+}
+}
+]

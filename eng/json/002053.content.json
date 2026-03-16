@@ -1,0 +1,46 @@
+[
+{
+"content_id": "8207",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8207: commitment",
+"media_type": "Text",
+"index_reference": "8207: commitment",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A state of personal dedication to something or someone, which results in actively promoting and working for their good and well-being.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8208",
+"content_id": "8208",
+"resource_code": "DictionaryBibleThemes",
+"label": "8208: commitment, to God",
+"language": "eng"
+},
+{
+"reference_id": "8209",
+"content_id": "8209",
+"resource_code": "DictionaryBibleThemes",
+"label": "8209: commitment, to Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "8210",
+"content_id": "8210",
+"resource_code": "DictionaryBibleThemes",
+"label": "8210: commitment, to God's people",
+"language": "eng"
+},
+{
+"reference_id": "8211",
+"content_id": "8211",
+"resource_code": "DictionaryBibleThemes",
+"label": "8211: commitment, to the world",
+"language": "eng"
+}
+]
+}
+}
+]

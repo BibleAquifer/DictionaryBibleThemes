@@ -1,0 +1,301 @@
+[
+{
+"content_id": "5372",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5372: knife",
+"media_type": "Text",
+"index_reference": "5372: knife",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The knife as a domestic cutting implement</h2>\n<h3>Used for general purposes</h3>\n<p><a href=\"https://ref.ly/Prov23:2\">PRO 23:2</a>, <a href=\"https://ref.ly/Prov30:14\">PRO 30:14</a>; ; <a href=\"https://ref.ly/Jer36:23\">JER 36:23</a> <em>cutting a scroll</em></p>\n<h2>Knives used for shaving</h2>\n<p><a href=\"https://ref.ly/Lev19:27\">LEV 19:27</a>, <a href=\"https://ref.ly/Lev21:5\">LEV 21:5</a>; ; <a href=\"https://ref.ly/Judg16:17\">JDG 16:17</a>; ; <a href=\"https://ref.ly/Isa15:2\">ISA 15:2</a>; ; <a href=\"https://ref.ly/Ezek7:18\">EZK 7:18</a>; ; <a href=\"https://ref.ly/Mic1:16\">MIC 1:16</a></p>\n<h2>Knives used in religious ceremonies</h2>\n<h3>In circumcision</h3>\n<p>Flint rather than metal knives were used because of their sharpness:\n <a href=\"https://ref.ly/Exod4:25\">EXO 4:25</a>; ; <a href=\"https://ref.ly/Josh5:2-Josh5:3\">JOS 5:2–5:3</a></p>\n<h3>In sacrifice</h3>\n<p><a href=\"https://ref.ly/Gen15:10\">GEN 15:10</a>, <a href=\"https://ref.ly/Gen22:10\">GEN 22:10</a>; ; <a href=\"https://ref.ly/Exod29:17\">EXO 29:17</a>; ; <a href=\"https://ref.ly/Lev8:20\">LEV 8:20</a></p>\n<h2>Knives used for wounding</h2>\n<h3>For self-mutilation</h3>\n<p>This practice was associated with pagan worship, sometimes as an expression of mourning:\n <a href=\"https://ref.ly/Lev19:28\">LEV 19:28</a>, <a href=\"https://ref.ly/Lev21:5\">LEV 21:5</a>; ; <a href=\"https://ref.ly/Deut14:1-Deut14:2\">DEU 14:1–14:2</a>; ; <a href=\"https://ref.ly/1Kgs18:28\">1KI 18:28</a>; ; <a href=\"https://ref.ly/Jer16:6\">JER 16:6</a>, <a href=\"https://ref.ly/Jer41:5\">JER 41:5</a>, <a href=\"https://ref.ly/Jer47:5\">JER 47:5</a>, <a href=\"https://ref.ly/Jer48:37\">JER 48:37</a></p>\n<h3>In mutilation of others</h3>\n<p>As a punishment:\n <a href=\"https://ref.ly/Exod21:23-Exod21:25\">EXO 21:23–21:25</a>; ; <a href=\"https://ref.ly/Lev24:17-Lev24:20\">LEV 24:17–24:20</a>; ; <a href=\"https://ref.ly/Deut25:12\">DEU 25:12</a>; <a href=\"https://ref.ly/Judg1:6\">JDG 1:6</a>, <a href=\"https://ref.ly/Judg16:21\">JDG 16:21</a>; <a href=\"https://ref.ly/1Sam11:7\">1SA 11:7</a></p>\n<h2>Knives used in figures of speech</h2>\n<h3>For self-discipline</h3>\n<p><a href=\"https://ref.ly/Prov23:2\">PRO 23:2</a>; ; <a href=\"https://ref.ly/Matt5:29-Matt5:30\">MAT 5:29–5:30</a>, <a href=\"https://ref.ly/Matt18:8-Matt18:9\">MAT 18:8–18:9</a>; ; <a href=\"https://ref.ly/Mark9:43-Mark9:47\">MRK 9:43–9:47</a></p>\n<h3>As a symbol of pruning</h3>\n<p><a href=\"https://ref.ly/Isa18:5\">ISA 18:5</a>; ; <a href=\"https://ref.ly/John15:1-John15:2\">JHN 15:1–15:2</a></p>\n<h3>As a symbol of wickedness</h3>\n<p><a href=\"https://ref.ly/Prov30:14\">PRO 30:14</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "20023002",
+"start_ref_usfm": "PRO 23:2",
+"end_ref": "20023002",
+"end_ref_usfm": "PRO 23:2"
+},
+{
+"start_ref": "20030014",
+"start_ref_usfm": "PRO 30:14",
+"end_ref": "20030014",
+"end_ref_usfm": "PRO 30:14"
+},
+{
+"start_ref": "24036023",
+"start_ref_usfm": "JER 36:23",
+"end_ref": "24036023",
+"end_ref_usfm": "JER 36:23"
+},
+{
+"start_ref": "03019027",
+"start_ref_usfm": "LEV 19:27",
+"end_ref": "03019027",
+"end_ref_usfm": "LEV 19:27"
+},
+{
+"start_ref": "03021005",
+"start_ref_usfm": "LEV 21:5",
+"end_ref": "03021005",
+"end_ref_usfm": "LEV 21:5"
+},
+{
+"start_ref": "07016017",
+"start_ref_usfm": "JDG 16:17",
+"end_ref": "07016017",
+"end_ref_usfm": "JDG 16:17"
+},
+{
+"start_ref": "23015002",
+"start_ref_usfm": "ISA 15:2",
+"end_ref": "23015002",
+"end_ref_usfm": "ISA 15:2"
+},
+{
+"start_ref": "26007018",
+"start_ref_usfm": "EZK 7:18",
+"end_ref": "26007018",
+"end_ref_usfm": "EZK 7:18"
+},
+{
+"start_ref": "33001016",
+"start_ref_usfm": "MIC 1:16",
+"end_ref": "33001016",
+"end_ref_usfm": "MIC 1:16"
+},
+{
+"start_ref": "02004025",
+"start_ref_usfm": "EXO 4:25",
+"end_ref": "02004025",
+"end_ref_usfm": "EXO 4:25"
+},
+{
+"start_ref": "06005002",
+"start_ref_usfm": "JOS 5:2",
+"end_ref": "06005003",
+"end_ref_usfm": "JOS 5:3"
+},
+{
+"start_ref": "01015010",
+"start_ref_usfm": "GEN 15:10",
+"end_ref": "01015010",
+"end_ref_usfm": "GEN 15:10"
+},
+{
+"start_ref": "01022010",
+"start_ref_usfm": "GEN 22:10",
+"end_ref": "01022010",
+"end_ref_usfm": "GEN 22:10"
+},
+{
+"start_ref": "02029017",
+"start_ref_usfm": "EXO 29:17",
+"end_ref": "02029017",
+"end_ref_usfm": "EXO 29:17"
+},
+{
+"start_ref": "03008020",
+"start_ref_usfm": "LEV 8:20",
+"end_ref": "03008020",
+"end_ref_usfm": "LEV 8:20"
+},
+{
+"start_ref": "03019028",
+"start_ref_usfm": "LEV 19:28",
+"end_ref": "03019028",
+"end_ref_usfm": "LEV 19:28"
+},
+{
+"start_ref": "05014001",
+"start_ref_usfm": "DEU 14:1",
+"end_ref": "05014002",
+"end_ref_usfm": "DEU 14:2"
+},
+{
+"start_ref": "11018028",
+"start_ref_usfm": "1KI 18:28",
+"end_ref": "11018028",
+"end_ref_usfm": "1KI 18:28"
+},
+{
+"start_ref": "24016006",
+"start_ref_usfm": "JER 16:6",
+"end_ref": "24016006",
+"end_ref_usfm": "JER 16:6"
+},
+{
+"start_ref": "24041005",
+"start_ref_usfm": "JER 41:5",
+"end_ref": "24041005",
+"end_ref_usfm": "JER 41:5"
+},
+{
+"start_ref": "24047005",
+"start_ref_usfm": "JER 47:5",
+"end_ref": "24047005",
+"end_ref_usfm": "JER 47:5"
+},
+{
+"start_ref": "24048037",
+"start_ref_usfm": "JER 48:37",
+"end_ref": "24048037",
+"end_ref_usfm": "JER 48:37"
+},
+{
+"start_ref": "02021023",
+"start_ref_usfm": "EXO 21:23",
+"end_ref": "02021025",
+"end_ref_usfm": "EXO 21:25"
+},
+{
+"start_ref": "03024017",
+"start_ref_usfm": "LEV 24:17",
+"end_ref": "03024020",
+"end_ref_usfm": "LEV 24:20"
+},
+{
+"start_ref": "05025012",
+"start_ref_usfm": "DEU 25:12",
+"end_ref": "05025012",
+"end_ref_usfm": "DEU 25:12"
+},
+{
+"start_ref": "07001006",
+"start_ref_usfm": "JDG 1:6",
+"end_ref": "07001006",
+"end_ref_usfm": "JDG 1:6"
+},
+{
+"start_ref": "07016021",
+"start_ref_usfm": "JDG 16:21",
+"end_ref": "07016021",
+"end_ref_usfm": "JDG 16:21"
+},
+{
+"start_ref": "09011007",
+"start_ref_usfm": "1SA 11:7",
+"end_ref": "09011007",
+"end_ref_usfm": "1SA 11:7"
+},
+{
+"start_ref": "40005029",
+"start_ref_usfm": "MAT 5:29",
+"end_ref": "40005030",
+"end_ref_usfm": "MAT 5:30"
+},
+{
+"start_ref": "40018008",
+"start_ref_usfm": "MAT 18:8",
+"end_ref": "40018009",
+"end_ref_usfm": "MAT 18:9"
+},
+{
+"start_ref": "41009043",
+"start_ref_usfm": "MRK 9:43",
+"end_ref": "41009047",
+"end_ref_usfm": "MRK 9:47"
+},
+{
+"start_ref": "23018005",
+"start_ref_usfm": "ISA 18:5",
+"end_ref": "23018005",
+"end_ref_usfm": "ISA 18:5"
+},
+{
+"start_ref": "43015001",
+"start_ref_usfm": "JHN 15:1",
+"end_ref": "43015002",
+"end_ref_usfm": "JHN 15:2"
+}
+],
+"resource": [
+{
+"reference_id": "4327",
+"content_id": "4327",
+"resource_code": "DictionaryBibleThemes",
+"label": "4327: flint",
+"language": "eng"
+},
+{
+"reference_id": "5130",
+"content_id": "5130",
+"resource_code": "DictionaryBibleThemes",
+"label": "5130: beard",
+"language": "eng"
+},
+{
+"reference_id": "5155",
+"content_id": "5155",
+"resource_code": "DictionaryBibleThemes",
+"label": "5155: hair",
+"language": "eng"
+},
+{
+"reference_id": "5346",
+"content_id": "5346",
+"resource_code": "DictionaryBibleThemes",
+"label": "5346: injury",
+"language": "eng"
+},
+{
+"reference_id": "5419",
+"content_id": "5419",
+"resource_code": "DictionaryBibleThemes",
+"label": "5419: mourning",
+"language": "eng"
+},
+{
+"reference_id": "5482",
+"content_id": "5482",
+"resource_code": "DictionaryBibleThemes",
+"label": "5482: punishment",
+"language": "eng"
+},
+{
+"reference_id": "5571",
+"content_id": "5571",
+"resource_code": "DictionaryBibleThemes",
+"label": "5571: surgery",
+"language": "eng"
+},
+{
+"reference_id": "5572",
+"content_id": "5572",
+"resource_code": "DictionaryBibleThemes",
+"label": "5572: sword",
+"language": "eng"
+},
+{
+"reference_id": "5583",
+"content_id": "5583",
+"resource_code": "DictionaryBibleThemes",
+"label": "5583: tools",
+"language": "eng"
+},
+{
+"reference_id": "7334",
+"content_id": "7334",
+"resource_code": "DictionaryBibleThemes",
+"label": "7334: circumcision",
+"language": "eng"
+},
+{
+"reference_id": "7402",
+"content_id": "7402",
+"resource_code": "DictionaryBibleThemes",
+"label": "7402: offerings",
+"language": "eng"
+},
+{
+"reference_id": "7435",
+"content_id": "7435",
+"resource_code": "DictionaryBibleThemes",
+"label": "7435: sacrifice, in OT",
+"language": "eng"
+}
+]
+}
+}
+]

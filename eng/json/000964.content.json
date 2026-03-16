@@ -1,0 +1,264 @@
+[
+{
+"content_id": "5380",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5380: law, and gospel",
+"media_type": "Text",
+"index_reference": "5380: law, and gospel",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The law, which bears witness to the grace of God, points ahead to its fulfilment and climax in the gospel of Jesus Christ. The gospel does not abolish the law, but fulfils it, by allowing it to be seen in its proper light.</p>\n<h2>Human beings cannot fulfil the law by their own efforts</h2>\n<p><strong><a href=\"https://ref.ly/Rom3:20\">ROM 3:20</a></strong>; <strong><a href=\"https://ref.ly/Gal2:15-Gal2:16\">GAL 2:15–2:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts13:39\">ACT 13:39</a>; <a href=\"https://ref.ly/Rom4:13-Rom4:15\">ROM 4:13–4:15</a></p>\n<h2>The law brings knowledge of human sin and the need for redemption</h2>\n<p><strong><a href=\"https://ref.ly/Rom3:20\">ROM 3:20</a>, <a href=\"https://ref.ly/Rom5:20\">ROM 5:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim1:9-1Tim1:10\">1TI 1:9–1:10</a>; <a href=\"https://ref.ly/1John3:4\">1JN 3:4</a></p>\n<h2>The law points to the coming of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Gal3:24\">GAL 3:24</a></strong></p>\n<h2>Believers are not justified by works of the law, but through faith in the blood of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Rom3:28\">ROM 3:28</a></strong>; <strong><a href=\"https://ref.ly/Gal3:11\">GAL 3:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hab2:4\">HAB 2:4</a>; <a href=\"https://ref.ly/Rom4:1-Rom4:5\">ROM 4:1–4:5</a>; <a href=\"https://ref.ly/Gal3:10-Gal3:14\">GAL 3:10–3:14</a>; <a href=\"https://ref.ly/Eph2:15\">EPH 2:15</a></p>\n<h2>The relationship between believers and the law</h2>\n<h3>Dying to the law through Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Gal2:19\">GAL 2:19</a></strong></p>\n<h3>The law remains valid for believers</h3>\n<p><strong><a href=\"https://ref.ly/Rom7:11-Rom7:12\">ROM 7:11–7:12</a></strong>; <strong><a href=\"https://ref.ly/1Tim1:8\">1TI 1:8</a></strong>; <strong><a href=\"https://ref.ly/1Pet1:15-1Pet1:16\">1PE 1:15–1:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev11:44-Lev11:45\">LEV 11:44–11:45</a>, <a href=\"https://ref.ly/Lev19:2\">LEV 19:2</a>, <a href=\"https://ref.ly/Lev20:7\">LEV 20:7</a>; <a href=\"https://ref.ly/Rom7:7-Rom7:11\">ROM 7:7–7:11</a>, <a href=\"https://ref.ly/Rom13:8-Rom13:10\">ROM 13:8–13:10</a>; <a href=\"https://ref.ly/Jas2:8-Jas2:11\">JAS 2:8–2:11</a></p>\n<h3>The Holy Spirit enables believers to fulfil the law through Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:3-Rom8:4\">ROM 8:3–8:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer31:31-Jer31:34\">JER 31:31–31:34</a>; <a href=\"https://ref.ly/Ezek11:19-Ezek11:20\">EZK 11:19–11:20</a>; <a href=\"https://ref.ly/Gal5:13-Gal5:18\">GAL 5:13–5:18</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "45003020",
+"start_ref_usfm": "ROM 3:20",
+"end_ref": "45003020",
+"end_ref_usfm": "ROM 3:20"
+},
+{
+"start_ref": "48002015",
+"start_ref_usfm": "GAL 2:15",
+"end_ref": "48002016",
+"end_ref_usfm": "GAL 2:16"
+},
+{
+"start_ref": "44013039",
+"start_ref_usfm": "ACT 13:39",
+"end_ref": "44013039",
+"end_ref_usfm": "ACT 13:39"
+},
+{
+"start_ref": "45004013",
+"start_ref_usfm": "ROM 4:13",
+"end_ref": "45004015",
+"end_ref_usfm": "ROM 4:15"
+},
+{
+"start_ref": "45005020",
+"start_ref_usfm": "ROM 5:20",
+"end_ref": "45005020",
+"end_ref_usfm": "ROM 5:20"
+},
+{
+"start_ref": "54001009",
+"start_ref_usfm": "1TI 1:9",
+"end_ref": "54001010",
+"end_ref_usfm": "1TI 1:10"
+},
+{
+"start_ref": "62003004",
+"start_ref_usfm": "1JN 3:4",
+"end_ref": "62003004",
+"end_ref_usfm": "1JN 3:4"
+},
+{
+"start_ref": "48003024",
+"start_ref_usfm": "GAL 3:24",
+"end_ref": "48003024",
+"end_ref_usfm": "GAL 3:24"
+},
+{
+"start_ref": "45003028",
+"start_ref_usfm": "ROM 3:28",
+"end_ref": "45003028",
+"end_ref_usfm": "ROM 3:28"
+},
+{
+"start_ref": "48003011",
+"start_ref_usfm": "GAL 3:11",
+"end_ref": "48003011",
+"end_ref_usfm": "GAL 3:11"
+},
+{
+"start_ref": "35002004",
+"start_ref_usfm": "HAB 2:4",
+"end_ref": "35002004",
+"end_ref_usfm": "HAB 2:4"
+},
+{
+"start_ref": "45004001",
+"start_ref_usfm": "ROM 4:1",
+"end_ref": "45004005",
+"end_ref_usfm": "ROM 4:5"
+},
+{
+"start_ref": "48003010",
+"start_ref_usfm": "GAL 3:10",
+"end_ref": "48003014",
+"end_ref_usfm": "GAL 3:14"
+},
+{
+"start_ref": "49002015",
+"start_ref_usfm": "EPH 2:15",
+"end_ref": "49002015",
+"end_ref_usfm": "EPH 2:15"
+},
+{
+"start_ref": "48002019",
+"start_ref_usfm": "GAL 2:19",
+"end_ref": "48002019",
+"end_ref_usfm": "GAL 2:19"
+},
+{
+"start_ref": "45007011",
+"start_ref_usfm": "ROM 7:11",
+"end_ref": "45007012",
+"end_ref_usfm": "ROM 7:12"
+},
+{
+"start_ref": "54001008",
+"start_ref_usfm": "1TI 1:8",
+"end_ref": "54001008",
+"end_ref_usfm": "1TI 1:8"
+},
+{
+"start_ref": "60001015",
+"start_ref_usfm": "1PE 1:15",
+"end_ref": "60001016",
+"end_ref_usfm": "1PE 1:16"
+},
+{
+"start_ref": "03011044",
+"start_ref_usfm": "LEV 11:44",
+"end_ref": "03011045",
+"end_ref_usfm": "LEV 11:45"
+},
+{
+"start_ref": "03019002",
+"start_ref_usfm": "LEV 19:2",
+"end_ref": "03019002",
+"end_ref_usfm": "LEV 19:2"
+},
+{
+"start_ref": "03020007",
+"start_ref_usfm": "LEV 20:7",
+"end_ref": "03020007",
+"end_ref_usfm": "LEV 20:7"
+},
+{
+"start_ref": "45007007",
+"start_ref_usfm": "ROM 7:7",
+"end_ref": "45007011",
+"end_ref_usfm": "ROM 7:11"
+},
+{
+"start_ref": "45013008",
+"start_ref_usfm": "ROM 13:8",
+"end_ref": "45013010",
+"end_ref_usfm": "ROM 13:10"
+},
+{
+"start_ref": "59002008",
+"start_ref_usfm": "JAS 2:8",
+"end_ref": "59002011",
+"end_ref_usfm": "JAS 2:11"
+},
+{
+"start_ref": "45008003",
+"start_ref_usfm": "ROM 8:3",
+"end_ref": "45008004",
+"end_ref_usfm": "ROM 8:4"
+},
+{
+"start_ref": "24031031",
+"start_ref_usfm": "JER 31:31",
+"end_ref": "24031034",
+"end_ref_usfm": "JER 31:34"
+},
+{
+"start_ref": "26011019",
+"start_ref_usfm": "EZK 11:19",
+"end_ref": "26011020",
+"end_ref_usfm": "EZK 11:20"
+},
+{
+"start_ref": "48005013",
+"start_ref_usfm": "GAL 5:13",
+"end_ref": "48005018",
+"end_ref_usfm": "GAL 5:18"
+}
+],
+"resource": [
+{
+"reference_id": "2324",
+"content_id": "2324",
+"resource_code": "DictionaryBibleThemes",
+"label": "2324: Jesus Christ, as Saviour",
+"language": "eng"
+},
+{
+"reference_id": "2420",
+"content_id": "2420",
+"resource_code": "DictionaryBibleThemes",
+"label": "2420: gospel",
+"language": "eng"
+},
+{
+"reference_id": "4018",
+"content_id": "4018",
+"resource_code": "DictionaryBibleThemes",
+"label": "4018: life, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "6020",
+"content_id": "6020",
+"resource_code": "DictionaryBibleThemes",
+"label": "6020: sin",
+"language": "eng"
+},
+{
+"reference_id": "6661",
+"content_id": "6661",
+"resource_code": "DictionaryBibleThemes",
+"label": "6661: freedom, and the law",
+"language": "eng"
+},
+{
+"reference_id": "6669",
+"content_id": "6669",
+"resource_code": "DictionaryBibleThemes",
+"label": "6669: grace, and salvation",
+"language": "eng"
+},
+{
+"reference_id": "6676",
+"content_id": "6676",
+"resource_code": "DictionaryBibleThemes",
+"label": "6676: justification",
+"language": "eng"
+},
+{
+"reference_id": "8158",
+"content_id": "8158",
+"resource_code": "DictionaryBibleThemes",
+"label": "8158: righteousness, of believers",
+"language": "eng"
+},
+{
+"reference_id": "8241",
+"content_id": "8241",
+"resource_code": "DictionaryBibleThemes",
+"label": "8241: ethics, basis of",
+"language": "eng"
+},
+{
+"reference_id": "8292",
+"content_id": "8292",
+"resource_code": "DictionaryBibleThemes",
+"label": "8292: love",
+"language": "eng"
+},
+{
+"reference_id": "8311",
+"content_id": "8311",
+"resource_code": "DictionaryBibleThemes",
+"label": "8311: morality, and redemption",
+"language": "eng"
+}
+]
+}
+}
+]

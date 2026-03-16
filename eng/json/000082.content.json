@@ -1,0 +1,39 @@
+[
+{
+"content_id": "1415",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1415: miracles",
+"media_type": "Text",
+"index_reference": "1415: miracles",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Events that are totally out of the ordinary and that cannot be adequately explained on the basis of natural occurrences, such as those associated with the ministry of Jesus Christ. They are seen as evidence of the presence and power of God in the world or as demonstrating authority on the part of one of his servants.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "1416",
+"content_id": "1416",
+"resource_code": "DictionaryBibleThemes",
+"label": "1416: miracles, nature of",
+"language": "eng"
+},
+{
+"reference_id": "1417",
+"content_id": "1417",
+"resource_code": "DictionaryBibleThemes",
+"label": "1417: miracles, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "1418",
+"content_id": "1418",
+"resource_code": "DictionaryBibleThemes",
+"label": "1418: miracles, responses to",
+"language": "eng"
+}
+]
+}
+}
+]

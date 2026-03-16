@@ -1,0 +1,148 @@
+[
+{
+"content_id": "4175",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4175: mediums",
+"media_type": "Text",
+"index_reference": "4175: mediums",
+"language": "eng",
+"review_level": "None",
+"content": "<p>People who claim to be channels through whom the spirits of the dead speak to the living.</p>\n<h2>God's people must not be mediums</h2>\n<p><strong><a href=\"https://ref.ly/Deut18:10-Deut18:12\">DEU 18:10–18:12</a></strong></p>\n<h2>God's people must not consult mediums</h2>\n<p><strong><a href=\"https://ref.ly/Isa8:19-Isa8:20\">ISA 8:19–8:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev19:31\">LEV 19:31</a>, <a href=\"https://ref.ly/Lev20:6\">LEV 20:6</a>; <a href=\"https://ref.ly/2Kgs23:24\">2KI 23:24</a>; <a href=\"https://ref.ly/Jer27:9\">JER 27:9</a></p>\n<h2>Examples of those who turned to mediums</h2>\n<h3>King Saul</h3>\n<p><a href=\"https://ref.ly/1Sam28:3-1Sam28:16\">1SA 28:3–28:16</a>; ; <a href=\"https://ref.ly/1Chr10:13\">1CH 10:13</a></p>\n<h3>King Manasseh</h3>\n<p><a href=\"https://ref.ly/2Kgs21:6\">2KI 21:6</a> parallel <a href=\"https://ref.ly/2Chr33:6\">2CH 33:6</a></p>\n<h3>The Egyptians</h3>\n<p><a href=\"https://ref.ly/Isa19:3\">ISA 19:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05018010",
+"start_ref_usfm": "DEU 18:10",
+"end_ref": "05018012",
+"end_ref_usfm": "DEU 18:12"
+},
+{
+"start_ref": "23008019",
+"start_ref_usfm": "ISA 8:19",
+"end_ref": "23008020",
+"end_ref_usfm": "ISA 8:20"
+},
+{
+"start_ref": "03019031",
+"start_ref_usfm": "LEV 19:31",
+"end_ref": "03019031",
+"end_ref_usfm": "LEV 19:31"
+},
+{
+"start_ref": "03020006",
+"start_ref_usfm": "LEV 20:6",
+"end_ref": "03020006",
+"end_ref_usfm": "LEV 20:6"
+},
+{
+"start_ref": "12023024",
+"start_ref_usfm": "2KI 23:24",
+"end_ref": "12023024",
+"end_ref_usfm": "2KI 23:24"
+},
+{
+"start_ref": "24027009",
+"start_ref_usfm": "JER 27:9",
+"end_ref": "24027009",
+"end_ref_usfm": "JER 27:9"
+},
+{
+"start_ref": "09028003",
+"start_ref_usfm": "1SA 28:3",
+"end_ref": "09028016",
+"end_ref_usfm": "1SA 28:16"
+},
+{
+"start_ref": "13010013",
+"start_ref_usfm": "1CH 10:13",
+"end_ref": "13010013",
+"end_ref_usfm": "1CH 10:13"
+},
+{
+"start_ref": "12021006",
+"start_ref_usfm": "2KI 21:6",
+"end_ref": "12021006",
+"end_ref_usfm": "2KI 21:6"
+},
+{
+"start_ref": "14033006",
+"start_ref_usfm": "2CH 33:6",
+"end_ref": "14033006",
+"end_ref_usfm": "2CH 33:6"
+},
+{
+"start_ref": "23019003",
+"start_ref_usfm": "ISA 19:3",
+"end_ref": "23019003",
+"end_ref_usfm": "ISA 19:3"
+}
+],
+"resource": [
+{
+"reference_id": "1025",
+"content_id": "1025",
+"resource_code": "DictionaryBibleThemes",
+"label": "1025: God, anger of",
+"language": "eng"
+},
+{
+"reference_id": "1690",
+"content_id": "1690",
+"resource_code": "DictionaryBibleThemes",
+"label": "1690: word of God",
+"language": "eng"
+},
+{
+"reference_id": "4185",
+"content_id": "4185",
+"resource_code": "DictionaryBibleThemes",
+"label": "4185: sorcery and magic",
+"language": "eng"
+},
+{
+"reference_id": "4190",
+"content_id": "4190",
+"resource_code": "DictionaryBibleThemes",
+"label": "4190: spiritism",
+"language": "eng"
+},
+{
+"reference_id": "5288",
+"content_id": "5288",
+"resource_code": "DictionaryBibleThemes",
+"label": "5288: dead, the",
+"language": "eng"
+},
+{
+"reference_id": "7141",
+"content_id": "7141",
+"resource_code": "DictionaryBibleThemes",
+"label": "7141: people of God, in OT",
+"language": "eng"
+},
+{
+"reference_id": "8021",
+"content_id": "8021",
+"resource_code": "DictionaryBibleThemes",
+"label": "8021: faith, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8460",
+"content_id": "8460",
+"resource_code": "DictionaryBibleThemes",
+"label": "8460: pleasing God",
+"language": "eng"
+},
+{
+"reference_id": "8754",
+"content_id": "8754",
+"resource_code": "DictionaryBibleThemes",
+"label": "8754: fear",
+"language": "eng"
+}
+]
+}
+}
+]

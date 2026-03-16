@@ -1,0 +1,445 @@
+[
+{
+"content_id": "5650",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5650: Human relationships",
+"media_type": "Text",
+"index_reference": "5650: human relationships",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"5651\" data-resourcetype=\"DictionaryOfBibleThemes\">5651: ancestors</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5652\" data-resourcetype=\"DictionaryOfBibleThemes\">5652: babies</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5654\" data-resourcetype=\"DictionaryOfBibleThemes\">5654: betrothal</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5655\" data-resourcetype=\"DictionaryOfBibleThemes\">5655: birth</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5657\" data-resourcetype=\"DictionaryOfBibleThemes\">5657: birthright</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5658\" data-resourcetype=\"DictionaryOfBibleThemes\">5658: boys</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5659\" data-resourcetype=\"DictionaryOfBibleThemes\">5659: bride</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5660\" data-resourcetype=\"DictionaryOfBibleThemes\">5660: bridegroom</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5661\" data-resourcetype=\"DictionaryOfBibleThemes\">5661: brothers</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5662\" data-resourcetype=\"DictionaryOfBibleThemes\">5662: certificate of divorce</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5663\" data-resourcetype=\"DictionaryOfBibleThemes\">5663: childbirth</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5664\" data-resourcetype=\"DictionaryOfBibleThemes\">5664: children</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5671\" data-resourcetype=\"DictionaryOfBibleThemes\">5671: clan</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5672\" data-resourcetype=\"DictionaryOfBibleThemes\">5672: concubines</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5673\" data-resourcetype=\"DictionaryOfBibleThemes\">5673: cousins</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5674\" data-resourcetype=\"DictionaryOfBibleThemes\">5674: daughters</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5675\" data-resourcetype=\"DictionaryOfBibleThemes\">5675: divorce</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5679\" data-resourcetype=\"DictionaryOfBibleThemes\">5679: dowry</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5680\" data-resourcetype=\"DictionaryOfBibleThemes\">5680: family</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5684\" data-resourcetype=\"DictionaryOfBibleThemes\">5684: fathers</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5688\" data-resourcetype=\"DictionaryOfBibleThemes\">5688: firstborn</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5689\" data-resourcetype=\"DictionaryOfBibleThemes\">5689: friendlessness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5690\" data-resourcetype=\"DictionaryOfBibleThemes\">5690: friends</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5694\" data-resourcetype=\"DictionaryOfBibleThemes\">5694: generation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5695\" data-resourcetype=\"DictionaryOfBibleThemes\">5695: girls</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5696\" data-resourcetype=\"DictionaryOfBibleThemes\">5696: grandchildren</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5697\" data-resourcetype=\"DictionaryOfBibleThemes\">5697: grandparents</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5698\" data-resourcetype=\"DictionaryOfBibleThemes\">5698: guardian</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5699\" data-resourcetype=\"DictionaryOfBibleThemes\">5699: guests</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5700\" data-resourcetype=\"DictionaryOfBibleThemes\">5700: headship</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5701\" data-resourcetype=\"DictionaryOfBibleThemes\">5701: heir</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5702\" data-resourcetype=\"DictionaryOfBibleThemes\">5702: husband</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5703\" data-resourcetype=\"DictionaryOfBibleThemes\">5703: inheritance</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5707\" data-resourcetype=\"DictionaryOfBibleThemes\">5707: male and female</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5708\" data-resourcetype=\"DictionaryOfBibleThemes\">5708: marriage</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5714\" data-resourcetype=\"DictionaryOfBibleThemes\">5714: men</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5715\" data-resourcetype=\"DictionaryOfBibleThemes\">5715: menstruation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5716\" data-resourcetype=\"DictionaryOfBibleThemes\">5716: middle age</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5717\" data-resourcetype=\"DictionaryOfBibleThemes\">5717: monogamy</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5718\" data-resourcetype=\"DictionaryOfBibleThemes\">5718: mothers</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5723\" data-resourcetype=\"DictionaryOfBibleThemes\">5723: nobles</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5724\" data-resourcetype=\"DictionaryOfBibleThemes\">5724: offspring</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5725\" data-resourcetype=\"DictionaryOfBibleThemes\">5725: old age</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5729\" data-resourcetype=\"DictionaryOfBibleThemes\">5729: one flesh</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5730\" data-resourcetype=\"DictionaryOfBibleThemes\">5730: orphans</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5731\" data-resourcetype=\"DictionaryOfBibleThemes\">5731: parents</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5732\" data-resourcetype=\"DictionaryOfBibleThemes\">5732: polygamy</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5733\" data-resourcetype=\"DictionaryOfBibleThemes\">5733: pregnancy</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5734\" data-resourcetype=\"DictionaryOfBibleThemes\">5734: relationships</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5735\" data-resourcetype=\"DictionaryOfBibleThemes\">5735: sexuality</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5736\" data-resourcetype=\"DictionaryOfBibleThemes\">5736: singleness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5737\" data-resourcetype=\"DictionaryOfBibleThemes\">5737: sisters</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5738\" data-resourcetype=\"DictionaryOfBibleThemes\">5738: sons</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5739\" data-resourcetype=\"DictionaryOfBibleThemes\">5739: twins</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5740\" data-resourcetype=\"DictionaryOfBibleThemes\">5740: virgin</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5741\" data-resourcetype=\"DictionaryOfBibleThemes\">5741: vows</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5742\" data-resourcetype=\"DictionaryOfBibleThemes\">5742: wedding</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5743\" data-resourcetype=\"DictionaryOfBibleThemes\">5743: widows</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5744\" data-resourcetype=\"DictionaryOfBibleThemes\">5744: wife</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5745\" data-resourcetype=\"DictionaryOfBibleThemes\">5745: women</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5746\" data-resourcetype=\"DictionaryOfBibleThemes\">5746: youth</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5651",
+"content_id": "5651",
+"resource_code": "DictionaryBibleThemes",
+"label": "5651: ancestors",
+"language": "eng"
+},
+{
+"reference_id": "5652",
+"content_id": "5652",
+"resource_code": "DictionaryBibleThemes",
+"label": "5652: babies",
+"language": "eng"
+},
+{
+"reference_id": "5654",
+"content_id": "5654",
+"resource_code": "DictionaryBibleThemes",
+"label": "5654: betrothal",
+"language": "eng"
+},
+{
+"reference_id": "5655",
+"content_id": "5655",
+"resource_code": "DictionaryBibleThemes",
+"label": "5655: birth",
+"language": "eng"
+},
+{
+"reference_id": "5657",
+"content_id": "5657",
+"resource_code": "DictionaryBibleThemes",
+"label": "5657: birthright",
+"language": "eng"
+},
+{
+"reference_id": "5658",
+"content_id": "5658",
+"resource_code": "DictionaryBibleThemes",
+"label": "5658: boys",
+"language": "eng"
+},
+{
+"reference_id": "5659",
+"content_id": "5659",
+"resource_code": "DictionaryBibleThemes",
+"label": "5659: bride",
+"language": "eng"
+},
+{
+"reference_id": "5660",
+"content_id": "5660",
+"resource_code": "DictionaryBibleThemes",
+"label": "5660: bridegroom",
+"language": "eng"
+},
+{
+"reference_id": "5661",
+"content_id": "5661",
+"resource_code": "DictionaryBibleThemes",
+"label": "5661: brothers",
+"language": "eng"
+},
+{
+"reference_id": "5662",
+"content_id": "5662",
+"resource_code": "DictionaryBibleThemes",
+"label": "5662: certificate of divorce",
+"language": "eng"
+},
+{
+"reference_id": "5663",
+"content_id": "5663",
+"resource_code": "DictionaryBibleThemes",
+"label": "5663: childbirth",
+"language": "eng"
+},
+{
+"reference_id": "5664",
+"content_id": "5664",
+"resource_code": "DictionaryBibleThemes",
+"label": "5664: children",
+"language": "eng"
+},
+{
+"reference_id": "5671",
+"content_id": "5671",
+"resource_code": "DictionaryBibleThemes",
+"label": "5671: clan",
+"language": "eng"
+},
+{
+"reference_id": "5672",
+"content_id": "5672",
+"resource_code": "DictionaryBibleThemes",
+"label": "5672: concubines",
+"language": "eng"
+},
+{
+"reference_id": "5673",
+"content_id": "5673",
+"resource_code": "DictionaryBibleThemes",
+"label": "5673: cousins",
+"language": "eng"
+},
+{
+"reference_id": "5674",
+"content_id": "5674",
+"resource_code": "DictionaryBibleThemes",
+"label": "5674: daughters",
+"language": "eng"
+},
+{
+"reference_id": "5675",
+"content_id": "5675",
+"resource_code": "DictionaryBibleThemes",
+"label": "5675: divorce",
+"language": "eng"
+},
+{
+"reference_id": "5679",
+"content_id": "5679",
+"resource_code": "DictionaryBibleThemes",
+"label": "5679: dowry",
+"language": "eng"
+},
+{
+"reference_id": "5680",
+"content_id": "5680",
+"resource_code": "DictionaryBibleThemes",
+"label": "5680: family",
+"language": "eng"
+},
+{
+"reference_id": "5684",
+"content_id": "5684",
+"resource_code": "DictionaryBibleThemes",
+"label": "5684: fathers",
+"language": "eng"
+},
+{
+"reference_id": "5688",
+"content_id": "5688",
+"resource_code": "DictionaryBibleThemes",
+"label": "5688: firstborn",
+"language": "eng"
+},
+{
+"reference_id": "5689",
+"content_id": "5689",
+"resource_code": "DictionaryBibleThemes",
+"label": "5689: friendlessness",
+"language": "eng"
+},
+{
+"reference_id": "5690",
+"content_id": "5690",
+"resource_code": "DictionaryBibleThemes",
+"label": "5690: friends",
+"language": "eng"
+},
+{
+"reference_id": "5694",
+"content_id": "5694",
+"resource_code": "DictionaryBibleThemes",
+"label": "5694: generation",
+"language": "eng"
+},
+{
+"reference_id": "5695",
+"content_id": "5695",
+"resource_code": "DictionaryBibleThemes",
+"label": "5695: girls",
+"language": "eng"
+},
+{
+"reference_id": "5696",
+"content_id": "5696",
+"resource_code": "DictionaryBibleThemes",
+"label": "5696: grandchildren",
+"language": "eng"
+},
+{
+"reference_id": "5697",
+"content_id": "5697",
+"resource_code": "DictionaryBibleThemes",
+"label": "5697: grandparents",
+"language": "eng"
+},
+{
+"reference_id": "5698",
+"content_id": "5698",
+"resource_code": "DictionaryBibleThemes",
+"label": "5698: guardian",
+"language": "eng"
+},
+{
+"reference_id": "5699",
+"content_id": "5699",
+"resource_code": "DictionaryBibleThemes",
+"label": "5699: guests",
+"language": "eng"
+},
+{
+"reference_id": "5700",
+"content_id": "5700",
+"resource_code": "DictionaryBibleThemes",
+"label": "5700: headship",
+"language": "eng"
+},
+{
+"reference_id": "5701",
+"content_id": "5701",
+"resource_code": "DictionaryBibleThemes",
+"label": "5701: heir",
+"language": "eng"
+},
+{
+"reference_id": "5702",
+"content_id": "5702",
+"resource_code": "DictionaryBibleThemes",
+"label": "5702: husband",
+"language": "eng"
+},
+{
+"reference_id": "5703",
+"content_id": "5703",
+"resource_code": "DictionaryBibleThemes",
+"label": "5703: inheritance",
+"language": "eng"
+},
+{
+"reference_id": "5707",
+"content_id": "5707",
+"resource_code": "DictionaryBibleThemes",
+"label": "5707: male and female",
+"language": "eng"
+},
+{
+"reference_id": "5708",
+"content_id": "5708",
+"resource_code": "DictionaryBibleThemes",
+"label": "5708: marriage",
+"language": "eng"
+},
+{
+"reference_id": "5714",
+"content_id": "5714",
+"resource_code": "DictionaryBibleThemes",
+"label": "5714: men",
+"language": "eng"
+},
+{
+"reference_id": "5715",
+"content_id": "5715",
+"resource_code": "DictionaryBibleThemes",
+"label": "5715: menstruation",
+"language": "eng"
+},
+{
+"reference_id": "5716",
+"content_id": "5716",
+"resource_code": "DictionaryBibleThemes",
+"label": "5716: middle age",
+"language": "eng"
+},
+{
+"reference_id": "5717",
+"content_id": "5717",
+"resource_code": "DictionaryBibleThemes",
+"label": "5717: monogamy",
+"language": "eng"
+},
+{
+"reference_id": "5718",
+"content_id": "5718",
+"resource_code": "DictionaryBibleThemes",
+"label": "5718: mothers",
+"language": "eng"
+},
+{
+"reference_id": "5723",
+"content_id": "5723",
+"resource_code": "DictionaryBibleThemes",
+"label": "5723: nobles",
+"language": "eng"
+},
+{
+"reference_id": "5724",
+"content_id": "5724",
+"resource_code": "DictionaryBibleThemes",
+"label": "5724: offspring",
+"language": "eng"
+},
+{
+"reference_id": "5725",
+"content_id": "5725",
+"resource_code": "DictionaryBibleThemes",
+"label": "5725: old age",
+"language": "eng"
+},
+{
+"reference_id": "5729",
+"content_id": "5729",
+"resource_code": "DictionaryBibleThemes",
+"label": "5729: one flesh",
+"language": "eng"
+},
+{
+"reference_id": "5730",
+"content_id": "5730",
+"resource_code": "DictionaryBibleThemes",
+"label": "5730: orphans",
+"language": "eng"
+},
+{
+"reference_id": "5731",
+"content_id": "5731",
+"resource_code": "DictionaryBibleThemes",
+"label": "5731: parents",
+"language": "eng"
+},
+{
+"reference_id": "5732",
+"content_id": "5732",
+"resource_code": "DictionaryBibleThemes",
+"label": "5732: polygamy",
+"language": "eng"
+},
+{
+"reference_id": "5733",
+"content_id": "5733",
+"resource_code": "DictionaryBibleThemes",
+"label": "5733: pregnancy",
+"language": "eng"
+},
+{
+"reference_id": "5734",
+"content_id": "5734",
+"resource_code": "DictionaryBibleThemes",
+"label": "5734: relationships",
+"language": "eng"
+},
+{
+"reference_id": "5735",
+"content_id": "5735",
+"resource_code": "DictionaryBibleThemes",
+"label": "5735: sexuality",
+"language": "eng"
+},
+{
+"reference_id": "5736",
+"content_id": "5736",
+"resource_code": "DictionaryBibleThemes",
+"label": "5736: singleness",
+"language": "eng"
+},
+{
+"reference_id": "5737",
+"content_id": "5737",
+"resource_code": "DictionaryBibleThemes",
+"label": "5737: sisters",
+"language": "eng"
+},
+{
+"reference_id": "5738",
+"content_id": "5738",
+"resource_code": "DictionaryBibleThemes",
+"label": "5738: sons",
+"language": "eng"
+},
+{
+"reference_id": "5739",
+"content_id": "5739",
+"resource_code": "DictionaryBibleThemes",
+"label": "5739: twins",
+"language": "eng"
+},
+{
+"reference_id": "5740",
+"content_id": "5740",
+"resource_code": "DictionaryBibleThemes",
+"label": "5740: virgin",
+"language": "eng"
+},
+{
+"reference_id": "5741",
+"content_id": "5741",
+"resource_code": "DictionaryBibleThemes",
+"label": "5741: vows",
+"language": "eng"
+},
+{
+"reference_id": "5742",
+"content_id": "5742",
+"resource_code": "DictionaryBibleThemes",
+"label": "5742: wedding",
+"language": "eng"
+},
+{
+"reference_id": "5743",
+"content_id": "5743",
+"resource_code": "DictionaryBibleThemes",
+"label": "5743: widows",
+"language": "eng"
+},
+{
+"reference_id": "5744",
+"content_id": "5744",
+"resource_code": "DictionaryBibleThemes",
+"label": "5744: wife",
+"language": "eng"
+},
+{
+"reference_id": "5745",
+"content_id": "5745",
+"resource_code": "DictionaryBibleThemes",
+"label": "5745: women",
+"language": "eng"
+},
+{
+"reference_id": "5746",
+"content_id": "5746",
+"resource_code": "DictionaryBibleThemes",
+"label": "5746: youth",
+"language": "eng"
+}
+]
+}
+}
+]

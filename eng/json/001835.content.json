@@ -1,0 +1,32 @@
+[
+{
+"content_id": "7434",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7434: sacrifice",
+"media_type": "Text",
+"index_reference": "7434: sacrifice",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An important aspect of the relationship between God and humanity but whereas the OT describes many sacrifices, the NT announces the fulfilment of sacrifice in Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7435",
+"content_id": "7435",
+"resource_code": "DictionaryBibleThemes",
+"label": "7435: sacrifice, in OT",
+"language": "eng"
+},
+{
+"reference_id": "7436",
+"content_id": "7436",
+"resource_code": "DictionaryBibleThemes",
+"label": "7436: sacrifice, NT fulfilment of",
+"language": "eng"
+}
+]
+}
+}
+]

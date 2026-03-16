@@ -1,0 +1,158 @@
+[
+{
+"content_id": "5551",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5551: spinning and weaving",
+"media_type": "Text",
+"index_reference": "5551: spinning and weaving",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Spinning as the process of making thread</h2>\n<p><a href=\"https://ref.ly/Prov31:19\">PRO 31:19</a>; ; <a href=\"https://ref.ly/Matt6:28\">MAT 6:28</a> parallel <a href=\"https://ref.ly/Luke12:27\">LUK 12:27</a></p>\n<h2>Weaving as the process of making cloth</h2>\n<p><a href=\"https://ref.ly/Exod28:39\">EXO 28:39</a></p>\n<h2>Weavers and spinners</h2>\n<p><strong><a href=\"https://ref.ly/Isa19:9\">ISA 19:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod35:25\">EXO 35:25</a>, <a href=\"https://ref.ly/Exod35:35\">EXO 35:35</a>, <a href=\"https://ref.ly/Exod39:22\">EXO 39:22</a>, <a href=\"https://ref.ly/Exod39:27\">EXO 39:27</a>; <a href=\"https://ref.ly/2Kgs23:7\">2KI 23:7</a></p>\n<h2>The figurative use of spinning and weaving</h2>\n<p><strong><a href=\"https://ref.ly/Job7:6\">JOB 7:6</a></strong>; <strong><a href=\"https://ref.ly/Isa38:12\">ISA 38:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg16:13\">JDG 16:13</a>; <a href=\"https://ref.ly/1Sam17:7\">1SA 17:7</a>; <a href=\"https://ref.ly/Isa59:5\">ISA 59:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "20031019",
+"start_ref_usfm": "PRO 31:19",
+"end_ref": "20031019",
+"end_ref_usfm": "PRO 31:19"
+},
+{
+"start_ref": "40006028",
+"start_ref_usfm": "MAT 6:28",
+"end_ref": "40006028",
+"end_ref_usfm": "MAT 6:28"
+},
+{
+"start_ref": "42012027",
+"start_ref_usfm": "LUK 12:27",
+"end_ref": "42012027",
+"end_ref_usfm": "LUK 12:27"
+},
+{
+"start_ref": "02028039",
+"start_ref_usfm": "EXO 28:39",
+"end_ref": "02028039",
+"end_ref_usfm": "EXO 28:39"
+},
+{
+"start_ref": "23019009",
+"start_ref_usfm": "ISA 19:9",
+"end_ref": "23019009",
+"end_ref_usfm": "ISA 19:9"
+},
+{
+"start_ref": "02035025",
+"start_ref_usfm": "EXO 35:25",
+"end_ref": "02035025",
+"end_ref_usfm": "EXO 35:25"
+},
+{
+"start_ref": "02035035",
+"start_ref_usfm": "EXO 35:35",
+"end_ref": "02035035",
+"end_ref_usfm": "EXO 35:35"
+},
+{
+"start_ref": "02039022",
+"start_ref_usfm": "EXO 39:22",
+"end_ref": "02039022",
+"end_ref_usfm": "EXO 39:22"
+},
+{
+"start_ref": "02039027",
+"start_ref_usfm": "EXO 39:27",
+"end_ref": "02039027",
+"end_ref_usfm": "EXO 39:27"
+},
+{
+"start_ref": "12023007",
+"start_ref_usfm": "2KI 23:7",
+"end_ref": "12023007",
+"end_ref_usfm": "2KI 23:7"
+},
+{
+"start_ref": "18007006",
+"start_ref_usfm": "JOB 7:6",
+"end_ref": "18007006",
+"end_ref_usfm": "JOB 7:6"
+},
+{
+"start_ref": "23038012",
+"start_ref_usfm": "ISA 38:12",
+"end_ref": "23038012",
+"end_ref_usfm": "ISA 38:12"
+},
+{
+"start_ref": "07016013",
+"start_ref_usfm": "JDG 16:13",
+"end_ref": "07016013",
+"end_ref_usfm": "JDG 16:13"
+},
+{
+"start_ref": "09017007",
+"start_ref_usfm": "1SA 17:7",
+"end_ref": "09017007",
+"end_ref_usfm": "1SA 17:7"
+},
+{
+"start_ref": "23059005",
+"start_ref_usfm": "ISA 59:5",
+"end_ref": "23059005",
+"end_ref_usfm": "ISA 59:5"
+}
+],
+"resource": [
+{
+"reference_id": "4444",
+"content_id": "4444",
+"resource_code": "DictionaryBibleThemes",
+"label": "4444: flax",
+"language": "eng"
+},
+{
+"reference_id": "5145",
+"content_id": "5145",
+"resource_code": "DictionaryBibleThemes",
+"label": "5145: clothing",
+"language": "eng"
+},
+{
+"reference_id": "5212",
+"content_id": "5212",
+"resource_code": "DictionaryBibleThemes",
+"label": "5212: arts and crafts",
+"language": "eng"
+},
+{
+"reference_id": "5258",
+"content_id": "5258",
+"resource_code": "DictionaryBibleThemes",
+"label": "5258: cloth",
+"language": "eng"
+},
+{
+"reference_id": "5272",
+"content_id": "5272",
+"resource_code": "DictionaryBibleThemes",
+"label": "5272: craftsmen",
+"language": "eng"
+},
+{
+"reference_id": "5392",
+"content_id": "5392",
+"resource_code": "DictionaryBibleThemes",
+"label": "5392: linen",
+"language": "eng"
+},
+{
+"reference_id": "5433",
+"content_id": "5433",
+"resource_code": "DictionaryBibleThemes",
+"label": "5433: occupations",
+"language": "eng"
+}
+]
+}
+}
+]

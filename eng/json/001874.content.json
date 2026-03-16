@@ -1,0 +1,235 @@
+[
+{
+"content_id": "7535",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7535: Greeks",
+"media_type": "Text",
+"index_reference": "7535: greeks",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The inhabitants of Greece and her empire. The term is also used to describe non-Jews, so that “Greek”, in the NT, is virtually synonymous with “Gentile”. While distinctions between Greek and Jew on the one hand, and Greek and barbarian on the other, were important in the world at large, such divisions are to have no place within the church.</p>\n<h2>The cultural distinctiveness of Greeks in NT times</h2>\n<p><strong><a href=\"https://ref.ly/John7:35\">JHN 7:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark7:26\">MRK 7:26</a>; <a href=\"https://ref.ly/Acts6:1\">ACT 6:1</a>, <a href=\"https://ref.ly/Acts9:29\">ACT 9:29</a>; <a href=\"https://ref.ly/Rom1:14\">ROM 1:14</a></p>\n<h2>``Greeks'' used to describe non-Jews</h2>\n<p><strong><a href=\"https://ref.ly/Acts21:27-Acts21:28\">ACT 21:27–21:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts16:1-Acts16:3\">ACT 16:1–16:3</a>, <a href=\"https://ref.ly/Acts20:21\">ACT 20:21</a>; <a href=\"https://ref.ly/Gal2:3\">GAL 2:3</a></p>\n<h2>``Greeks'' used to refer to God-fearers</h2>\n<p><strong><a href=\"https://ref.ly/John12:20\">JHN 12:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts17:4\">ACT 17:4</a>, <a href=\"https://ref.ly/Acts17:12\">ACT 17:12</a>, <a href=\"https://ref.ly/Acts17:17\">ACT 17:17</a>, <a href=\"https://ref.ly/Acts18:4\">ACT 18:4</a></p>\n<h2>Greeks may reject the gospel as foolishness</h2>\n<p><strong><a href=\"https://ref.ly/1Cor1:22-1Cor1:23\">1CO 1:22–1:23</a></strong> <em>The high value placed by the Greeks upon human wisdom could hinder their response to the gospel.</em> <em>See also</em> <a href=\"https://ref.ly/Acts17:18-Acts17:34\">ACT 17:18–17:34</a></p>\n<h2>In Christ there is no distinction between Greeks and Jews</h2>\n<h3>Greeks and Jews share the same salvation</h3>\n<p><strong><a href=\"https://ref.ly/Rom10:11-Rom10:13\">ROM 10:11–10:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom3:28-Rom3:30\">ROM 3:28–3:30</a>; <a href=\"https://ref.ly/1Cor1:22-1Cor1:24\">1CO 1:22–1:24</a></p>\n<h3>Greeks and Jews are united in Christ</h3>\n<p><strong><a href=\"https://ref.ly/Col3:11\">COL 3:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor12:13\">1CO 12:13</a>; <a href=\"https://ref.ly/Gal3:26-Gal3:29\">GAL 3:26–3:29</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "43007035",
+"start_ref_usfm": "JHN 7:35",
+"end_ref": "43007035",
+"end_ref_usfm": "JHN 7:35"
+},
+{
+"start_ref": "41007026",
+"start_ref_usfm": "MRK 7:26",
+"end_ref": "41007026",
+"end_ref_usfm": "MRK 7:26"
+},
+{
+"start_ref": "44006001",
+"start_ref_usfm": "ACT 6:1",
+"end_ref": "44006001",
+"end_ref_usfm": "ACT 6:1"
+},
+{
+"start_ref": "44009029",
+"start_ref_usfm": "ACT 9:29",
+"end_ref": "44009029",
+"end_ref_usfm": "ACT 9:29"
+},
+{
+"start_ref": "45001014",
+"start_ref_usfm": "ROM 1:14",
+"end_ref": "45001014",
+"end_ref_usfm": "ROM 1:14"
+},
+{
+"start_ref": "44021027",
+"start_ref_usfm": "ACT 21:27",
+"end_ref": "44021028",
+"end_ref_usfm": "ACT 21:28"
+},
+{
+"start_ref": "44016001",
+"start_ref_usfm": "ACT 16:1",
+"end_ref": "44016003",
+"end_ref_usfm": "ACT 16:3"
+},
+{
+"start_ref": "44020021",
+"start_ref_usfm": "ACT 20:21",
+"end_ref": "44020021",
+"end_ref_usfm": "ACT 20:21"
+},
+{
+"start_ref": "48002003",
+"start_ref_usfm": "GAL 2:3",
+"end_ref": "48002003",
+"end_ref_usfm": "GAL 2:3"
+},
+{
+"start_ref": "43012020",
+"start_ref_usfm": "JHN 12:20",
+"end_ref": "43012020",
+"end_ref_usfm": "JHN 12:20"
+},
+{
+"start_ref": "44017004",
+"start_ref_usfm": "ACT 17:4",
+"end_ref": "44017004",
+"end_ref_usfm": "ACT 17:4"
+},
+{
+"start_ref": "44017012",
+"start_ref_usfm": "ACT 17:12",
+"end_ref": "44017012",
+"end_ref_usfm": "ACT 17:12"
+},
+{
+"start_ref": "44017017",
+"start_ref_usfm": "ACT 17:17",
+"end_ref": "44017017",
+"end_ref_usfm": "ACT 17:17"
+},
+{
+"start_ref": "44018004",
+"start_ref_usfm": "ACT 18:4",
+"end_ref": "44018004",
+"end_ref_usfm": "ACT 18:4"
+},
+{
+"start_ref": "46001022",
+"start_ref_usfm": "1CO 1:22",
+"end_ref": "46001023",
+"end_ref_usfm": "1CO 1:23"
+},
+{
+"start_ref": "44017018",
+"start_ref_usfm": "ACT 17:18",
+"end_ref": "44017034",
+"end_ref_usfm": "ACT 17:34"
+},
+{
+"start_ref": "45010011",
+"start_ref_usfm": "ROM 10:11",
+"end_ref": "45010013",
+"end_ref_usfm": "ROM 10:13"
+},
+{
+"start_ref": "45003028",
+"start_ref_usfm": "ROM 3:28",
+"end_ref": "45003030",
+"end_ref_usfm": "ROM 3:30"
+},
+{
+"start_ref": "46001022",
+"start_ref_usfm": "1CO 1:22",
+"end_ref": "46001024",
+"end_ref_usfm": "1CO 1:24"
+},
+{
+"start_ref": "51003011",
+"start_ref_usfm": "COL 3:11",
+"end_ref": "51003011",
+"end_ref_usfm": "COL 3:11"
+},
+{
+"start_ref": "46012013",
+"start_ref_usfm": "1CO 12:13",
+"end_ref": "46012013",
+"end_ref_usfm": "1CO 12:13"
+},
+{
+"start_ref": "48003026",
+"start_ref_usfm": "GAL 3:26",
+"end_ref": "48003029",
+"end_ref_usfm": "GAL 3:29"
+}
+],
+"resource": [
+{
+"reference_id": "5107",
+"content_id": "5107",
+"resource_code": "DictionaryBibleThemes",
+"label": "5107: Paul",
+"language": "eng"
+},
+{
+"reference_id": "5374",
+"content_id": "5374",
+"resource_code": "DictionaryBibleThemes",
+"label": "5374: languages",
+"language": "eng"
+},
+{
+"reference_id": "5441",
+"content_id": "5441",
+"resource_code": "DictionaryBibleThemes",
+"label": "5441: philosophy",
+"language": "eng"
+},
+{
+"reference_id": "6209",
+"content_id": "6209",
+"resource_code": "DictionaryBibleThemes",
+"label": "6209: pagans",
+"language": "eng"
+},
+{
+"reference_id": "7025",
+"content_id": "7025",
+"resource_code": "DictionaryBibleThemes",
+"label": "7025: church, unity and fellowship of",
+"language": "eng"
+},
+{
+"reference_id": "7032",
+"content_id": "7032",
+"resource_code": "DictionaryBibleThemes",
+"label": "7032: unity, of God's people",
+"language": "eng"
+},
+{
+"reference_id": "7105",
+"content_id": "7105",
+"resource_code": "DictionaryBibleThemes",
+"label": "7105: believers",
+"language": "eng"
+},
+{
+"reference_id": "7336",
+"content_id": "7336",
+"resource_code": "DictionaryBibleThemes",
+"label": "7336: circumcision, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "7505",
+"content_id": "7505",
+"resource_code": "DictionaryBibleThemes",
+"label": "7505: Jews, the",
+"language": "eng"
+},
+{
+"reference_id": "7512",
+"content_id": "7512",
+"resource_code": "DictionaryBibleThemes",
+"label": "7512: Gentiles, in NT",
+"language": "eng"
+},
+{
+"reference_id": "7545",
+"content_id": "7545",
+"resource_code": "DictionaryBibleThemes",
+"label": "7545: outsiders",
+"language": "eng"
+},
+{
+"reference_id": "8361",
+"content_id": "8361",
+"resource_code": "DictionaryBibleThemes",
+"label": "8361: wisdom",
+"language": "eng"
+}
+]
+}
+}
+]

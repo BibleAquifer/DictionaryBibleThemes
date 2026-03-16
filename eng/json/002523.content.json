@@ -1,0 +1,254 @@
+[
+{
+"content_id": "9540",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9540: Sheol",
+"media_type": "Text",
+"index_reference": "9540: sheol",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A Hebrew term used to refer to the grave, the pit or the tomb. Some older translations have the term incorrectly translated as “hell”.</p>\n<h2>Sheol is the destiny of all</h2>\n<p><strong><a href=\"https://ref.ly/Ps89:48\">PSA 89:48</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen37:35\">GEN 37:35</a>, <a href=\"https://ref.ly/Gen44:29\">GEN 44:29</a>; <a href=\"https://ref.ly/1Kgs2:9\">1KI 2:9</a>; <a href=\"https://ref.ly/Ps18:5\">PSA 18:5</a>, <a href=\"https://ref.ly/Ps107:20\">PSA 107:20</a>; <a href=\"https://ref.ly/Prov1:12\">PRO 1:12</a>, <a href=\"https://ref.ly/Prov30:16\">PRO 30:16</a>; <a href=\"https://ref.ly/Ezek31:15-Ezek31:17\">EZK 31:15–31:17</a>; <a href=\"https://ref.ly/Jonah2:2\">JON 2:2</a></p>\n<h2>Sheol is often described in terms suggesting a grave</h2>\n<p><strong><a href=\"https://ref.ly/Ps88:11-Ps88:12\">PSA 88:11–88:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job3:13-Job3:19\">JOB 3:13–3:19</a>, <a href=\"https://ref.ly/Job7:9\">JOB 7:9</a>, <a href=\"https://ref.ly/Job17:13-Job17:16\">JOB 17:13–17:16</a>; <a href=\"https://ref.ly/Ps6:5\">PSA 6:5</a>; <a href=\"https://ref.ly/Eccl9:10\">ECC 9:10</a>; <a href=\"https://ref.ly/Isa14:9-Isa14:11\">ISA 14:9–14:11</a>, <a href=\"https://ref.ly/Isa38:18\">ISA 38:18</a></p>\n<h2>To go to Sheol was regarded as a punishment</h2>\n<p><strong><a href=\"https://ref.ly/Num16:33\">NUM 16:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam2:6\">1SA 2:6</a>; <a href=\"https://ref.ly/Job24:19\">JOB 24:19</a>; <a href=\"https://ref.ly/Ps9:17\">PSA 9:17</a>, <a href=\"https://ref.ly/Ps31:17\">PSA 31:17</a>, <a href=\"https://ref.ly/Ps49:14\">PSA 49:14</a>, <a href=\"https://ref.ly/Ps55:15\">PSA 55:15</a>; <a href=\"https://ref.ly/Isa14:15\">ISA 14:15</a></p>\n<h2>There is hope even in Sheol</h2>\n<p><strong><a href=\"https://ref.ly/Job14:13\">JOB 14:13</a></strong>; <strong><a href=\"https://ref.ly/Ps16:10\">PSA 16:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps30:3\">PSA 30:3</a>, <a href=\"https://ref.ly/Ps49:15\">PSA 49:15</a>, <a href=\"https://ref.ly/Ps86:13\">PSA 86:13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19089048",
+"start_ref_usfm": "PSA 89:48",
+"end_ref": "19089048",
+"end_ref_usfm": "PSA 89:48"
+},
+{
+"start_ref": "01037035",
+"start_ref_usfm": "GEN 37:35",
+"end_ref": "01037035",
+"end_ref_usfm": "GEN 37:35"
+},
+{
+"start_ref": "01044029",
+"start_ref_usfm": "GEN 44:29",
+"end_ref": "01044029",
+"end_ref_usfm": "GEN 44:29"
+},
+{
+"start_ref": "11002009",
+"start_ref_usfm": "1KI 2:9",
+"end_ref": "11002009",
+"end_ref_usfm": "1KI 2:9"
+},
+{
+"start_ref": "19018005",
+"start_ref_usfm": "PSA 18:5",
+"end_ref": "19018005",
+"end_ref_usfm": "PSA 18:5"
+},
+{
+"start_ref": "19107020",
+"start_ref_usfm": "PSA 107:20",
+"end_ref": "19107020",
+"end_ref_usfm": "PSA 107:20"
+},
+{
+"start_ref": "20001012",
+"start_ref_usfm": "PRO 1:12",
+"end_ref": "20001012",
+"end_ref_usfm": "PRO 1:12"
+},
+{
+"start_ref": "20030016",
+"start_ref_usfm": "PRO 30:16",
+"end_ref": "20030016",
+"end_ref_usfm": "PRO 30:16"
+},
+{
+"start_ref": "26031015",
+"start_ref_usfm": "EZK 31:15",
+"end_ref": "26031017",
+"end_ref_usfm": "EZK 31:17"
+},
+{
+"start_ref": "32002002",
+"start_ref_usfm": "JON 2:2",
+"end_ref": "32002002",
+"end_ref_usfm": "JON 2:2"
+},
+{
+"start_ref": "19088011",
+"start_ref_usfm": "PSA 88:11",
+"end_ref": "19088012",
+"end_ref_usfm": "PSA 88:12"
+},
+{
+"start_ref": "18003013",
+"start_ref_usfm": "JOB 3:13",
+"end_ref": "18003019",
+"end_ref_usfm": "JOB 3:19"
+},
+{
+"start_ref": "18007009",
+"start_ref_usfm": "JOB 7:9",
+"end_ref": "18007009",
+"end_ref_usfm": "JOB 7:9"
+},
+{
+"start_ref": "18017013",
+"start_ref_usfm": "JOB 17:13",
+"end_ref": "18017016",
+"end_ref_usfm": "JOB 17:16"
+},
+{
+"start_ref": "19006005",
+"start_ref_usfm": "PSA 6:5",
+"end_ref": "19006005",
+"end_ref_usfm": "PSA 6:5"
+},
+{
+"start_ref": "21009010",
+"start_ref_usfm": "ECC 9:10",
+"end_ref": "21009010",
+"end_ref_usfm": "ECC 9:10"
+},
+{
+"start_ref": "23014009",
+"start_ref_usfm": "ISA 14:9",
+"end_ref": "23014011",
+"end_ref_usfm": "ISA 14:11"
+},
+{
+"start_ref": "23038018",
+"start_ref_usfm": "ISA 38:18",
+"end_ref": "23038018",
+"end_ref_usfm": "ISA 38:18"
+},
+{
+"start_ref": "04016033",
+"start_ref_usfm": "NUM 16:33",
+"end_ref": "04016033",
+"end_ref_usfm": "NUM 16:33"
+},
+{
+"start_ref": "09002006",
+"start_ref_usfm": "1SA 2:6",
+"end_ref": "09002006",
+"end_ref_usfm": "1SA 2:6"
+},
+{
+"start_ref": "18024019",
+"start_ref_usfm": "JOB 24:19",
+"end_ref": "18024019",
+"end_ref_usfm": "JOB 24:19"
+},
+{
+"start_ref": "19009017",
+"start_ref_usfm": "PSA 9:17",
+"end_ref": "19009017",
+"end_ref_usfm": "PSA 9:17"
+},
+{
+"start_ref": "19031017",
+"start_ref_usfm": "PSA 31:17",
+"end_ref": "19031017",
+"end_ref_usfm": "PSA 31:17"
+},
+{
+"start_ref": "19049014",
+"start_ref_usfm": "PSA 49:14",
+"end_ref": "19049014",
+"end_ref_usfm": "PSA 49:14"
+},
+{
+"start_ref": "19055015",
+"start_ref_usfm": "PSA 55:15",
+"end_ref": "19055015",
+"end_ref_usfm": "PSA 55:15"
+},
+{
+"start_ref": "23014015",
+"start_ref_usfm": "ISA 14:15",
+"end_ref": "23014015",
+"end_ref_usfm": "ISA 14:15"
+},
+{
+"start_ref": "18014013",
+"start_ref_usfm": "JOB 14:13",
+"end_ref": "18014013",
+"end_ref_usfm": "JOB 14:13"
+},
+{
+"start_ref": "19016010",
+"start_ref_usfm": "PSA 16:10",
+"end_ref": "19016010",
+"end_ref_usfm": "PSA 16:10"
+},
+{
+"start_ref": "19030003",
+"start_ref_usfm": "PSA 30:3",
+"end_ref": "19030003",
+"end_ref_usfm": "PSA 30:3"
+},
+{
+"start_ref": "19049015",
+"start_ref_usfm": "PSA 49:15",
+"end_ref": "19049015",
+"end_ref_usfm": "PSA 49:15"
+},
+{
+"start_ref": "19086013",
+"start_ref_usfm": "PSA 86:13",
+"end_ref": "19086013",
+"end_ref_usfm": "PSA 86:13"
+}
+],
+"resource": [
+{
+"reference_id": "4257",
+"content_id": "4257",
+"resource_code": "DictionaryBibleThemes",
+"label": "4257: pit",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+},
+{
+"reference_id": "9040",
+"content_id": "9040",
+"resource_code": "DictionaryBibleThemes",
+"label": "9040: grave, the",
+"language": "eng"
+},
+{
+"reference_id": "9050",
+"content_id": "9050",
+"resource_code": "DictionaryBibleThemes",
+"label": "9050: tombs",
+"language": "eng"
+},
+{
+"reference_id": "9110",
+"content_id": "9110",
+"resource_code": "DictionaryBibleThemes",
+"label": "9110: after-life",
+"language": "eng"
+},
+{
+"reference_id": "9510",
+"content_id": "9510",
+"resource_code": "DictionaryBibleThemes",
+"label": "9510: hell",
+"language": "eng"
+},
+{
+"reference_id": "9530",
+"content_id": "9530",
+"resource_code": "DictionaryBibleThemes",
+"label": "9530: Hades",
+"language": "eng"
+}
+]
+}
+}
+]

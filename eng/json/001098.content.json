@@ -1,0 +1,71 @@
+[
+{
+"content_id": "5530",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5530: sifting",
+"media_type": "Text",
+"index_reference": "5530: sifting",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The process of separating different substances, especially grain and chaff, normally by passing them through sieves. It is used as a symbol of judgment in which the good are separated from the evil.</p>\n<h2>Sifting as an act of separation</h2>\n<p><strong><a href=\"https://ref.ly/Judg7:4\">JDG 7:4</a></strong></p>\n<h2>Sifting as a symbol of judgment</h2>\n<p><strong><a href=\"https://ref.ly/Isa30:28\">ISA 30:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Amos9:9\">AMO 9:9</a>; <a href=\"https://ref.ly/Luke22:31\">LUK 22:31</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07007004",
+"start_ref_usfm": "JDG 7:4",
+"end_ref": "07007004",
+"end_ref_usfm": "JDG 7:4"
+},
+{
+"start_ref": "23030028",
+"start_ref_usfm": "ISA 30:28",
+"end_ref": "23030028",
+"end_ref_usfm": "ISA 30:28"
+},
+{
+"start_ref": "30009009",
+"start_ref_usfm": "AMO 9:9",
+"end_ref": "30009009",
+"end_ref_usfm": "AMO 9:9"
+},
+{
+"start_ref": "42022031",
+"start_ref_usfm": "LUK 22:31",
+"end_ref": "42022031",
+"end_ref_usfm": "LUK 22:31"
+}
+],
+"resource": [
+{
+"reference_id": "4426",
+"content_id": "4426",
+"resource_code": "DictionaryBibleThemes",
+"label": "4426: chaff",
+"language": "eng"
+},
+{
+"reference_id": "4456",
+"content_id": "4456",
+"resource_code": "DictionaryBibleThemes",
+"label": "4456: grain",
+"language": "eng"
+},
+{
+"reference_id": "4550",
+"content_id": "4550",
+"resource_code": "DictionaryBibleThemes",
+"label": "4550: winnowing",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

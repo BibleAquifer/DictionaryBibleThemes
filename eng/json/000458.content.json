@@ -1,0 +1,177 @@
+[
+{
+"content_id": "4486",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4486: myrrh",
+"media_type": "Text",
+"index_reference": "4486: myrrh",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A resinous substance derived from certain trees and bushes native to the Near East. It was a valuable commodity and had a variety of uses.</p>\n<h2>Myrrh was traded by merchants</h2>\n<p><strong><a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev18:11-Rev18:13\">REV 18:11–18:13</a></p>\n<h2>Myrrh was presented as a gift</h2>\n<p><strong><a href=\"https://ref.ly/Matt2:11\">MAT 2:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen43:11\">GEN 43:11</a></p>\n<h2>Uses of myrrh</h2>\n<h3>In the sacred anointing oil</h3>\n<p><strong><a href=\"https://ref.ly/Exod30:22-Exod30:28\">EXO 30:22–30:28</a></strong></p>\n<h3>As a perfume</h3>\n<p><strong><a href=\"https://ref.ly/Song1:13\">SNG 1:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps45:8\">PSA 45:8</a>; <a href=\"https://ref.ly/Prov7:10-Prov7:18\">PRO 7:10–7:18</a>; <a href=\"https://ref.ly/Song3:6\">SNG 3:6</a></p>\n<h3>In beauty treatments</h3>\n<p><strong><a href=\"https://ref.ly/Esth2:12\">EST 2:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song5:5\">SNG 5:5</a></p>\n<h3>As a painkiller</h3>\n<p><strong><a href=\"https://ref.ly/Mark15:22-Mark15:23\">MRK 15:22–15:23</a></strong></p>\n<h3>In embalming</h3>\n<p><strong><a href=\"https://ref.ly/John19:38-John19:40\">JHN 19:38–19:40</a></strong></p>\n<h2>The metaphorical use of myrrh</h2>\n<p><strong><a href=\"https://ref.ly/Song5:13\">SNG 5:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song4:1-Song4:7\">SNG 4:1–4:7</a>, <a href=\"https://ref.ly/Song4:12-Song4:14\">SNG 4:12–4:14</a>, <a href=\"https://ref.ly/Song5:1\">SNG 5:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01037025",
+"start_ref_usfm": "GEN 37:25",
+"end_ref": "01037025",
+"end_ref_usfm": "GEN 37:25"
+},
+{
+"start_ref": "66018011",
+"start_ref_usfm": "REV 18:11",
+"end_ref": "66018013",
+"end_ref_usfm": "REV 18:13"
+},
+{
+"start_ref": "40002011",
+"start_ref_usfm": "MAT 2:11",
+"end_ref": "40002011",
+"end_ref_usfm": "MAT 2:11"
+},
+{
+"start_ref": "01043011",
+"start_ref_usfm": "GEN 43:11",
+"end_ref": "01043011",
+"end_ref_usfm": "GEN 43:11"
+},
+{
+"start_ref": "02030022",
+"start_ref_usfm": "EXO 30:22",
+"end_ref": "02030028",
+"end_ref_usfm": "EXO 30:28"
+},
+{
+"start_ref": "22001013",
+"start_ref_usfm": "SNG 1:13",
+"end_ref": "22001013",
+"end_ref_usfm": "SNG 1:13"
+},
+{
+"start_ref": "19045008",
+"start_ref_usfm": "PSA 45:8",
+"end_ref": "19045008",
+"end_ref_usfm": "PSA 45:8"
+},
+{
+"start_ref": "20007010",
+"start_ref_usfm": "PRO 7:10",
+"end_ref": "20007018",
+"end_ref_usfm": "PRO 7:18"
+},
+{
+"start_ref": "22003006",
+"start_ref_usfm": "SNG 3:6",
+"end_ref": "22003006",
+"end_ref_usfm": "SNG 3:6"
+},
+{
+"start_ref": "17002012",
+"start_ref_usfm": "EST 2:12",
+"end_ref": "17002012",
+"end_ref_usfm": "EST 2:12"
+},
+{
+"start_ref": "22005005",
+"start_ref_usfm": "SNG 5:5",
+"end_ref": "22005005",
+"end_ref_usfm": "SNG 5:5"
+},
+{
+"start_ref": "41015022",
+"start_ref_usfm": "MRK 15:22",
+"end_ref": "41015023",
+"end_ref_usfm": "MRK 15:23"
+},
+{
+"start_ref": "43019038",
+"start_ref_usfm": "JHN 19:38",
+"end_ref": "43019040",
+"end_ref_usfm": "JHN 19:40"
+},
+{
+"start_ref": "22005013",
+"start_ref_usfm": "SNG 5:13",
+"end_ref": "22005013",
+"end_ref_usfm": "SNG 5:13"
+},
+{
+"start_ref": "22004001",
+"start_ref_usfm": "SNG 4:1",
+"end_ref": "22004007",
+"end_ref_usfm": "SNG 4:7"
+},
+{
+"start_ref": "22004012",
+"start_ref_usfm": "SNG 4:12",
+"end_ref": "22004014",
+"end_ref_usfm": "SNG 4:14"
+},
+{
+"start_ref": "22005001",
+"start_ref_usfm": "SNG 5:1",
+"end_ref": "22005001",
+"end_ref_usfm": "SNG 5:1"
+}
+],
+"resource": [
+{
+"reference_id": "4466",
+"content_id": "4466",
+"resource_code": "DictionaryBibleThemes",
+"label": "4466: herbs and spices",
+"language": "eng"
+},
+{
+"reference_id": "4496",
+"content_id": "4496",
+"resource_code": "DictionaryBibleThemes",
+"label": "4496: perfume",
+"language": "eng"
+},
+{
+"reference_id": "4528",
+"content_id": "4528",
+"resource_code": "DictionaryBibleThemes",
+"label": "4528: trees",
+"language": "eng"
+},
+{
+"reference_id": "5241",
+"content_id": "5241",
+"resource_code": "DictionaryBibleThemes",
+"label": "5241: burial",
+"language": "eng"
+},
+{
+"reference_id": "5325",
+"content_id": "5325",
+"resource_code": "DictionaryBibleThemes",
+"label": "5325: gifts",
+"language": "eng"
+},
+{
+"reference_id": "5407",
+"content_id": "5407",
+"resource_code": "DictionaryBibleThemes",
+"label": "5407: merchants",
+"language": "eng"
+},
+{
+"reference_id": "5587",
+"content_id": "5587",
+"resource_code": "DictionaryBibleThemes",
+"label": "5587: trade",
+"language": "eng"
+},
+{
+"reference_id": "7386",
+"content_id": "7386",
+"resource_code": "DictionaryBibleThemes",
+"label": "7386: incense",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,46 @@
+[
+{
+"content_id": "8664",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8664: praise",
+"media_type": "Text",
+"index_reference": "8664: praise",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The celebration, honouring and adoration of God, in the power of the Holy Spirit, whether by individual believers or communities of believers.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8665",
+"content_id": "8665",
+"resource_code": "DictionaryBibleThemes",
+"label": "8665: praise, reasons for",
+"language": "eng"
+},
+{
+"reference_id": "8666",
+"content_id": "8666",
+"resource_code": "DictionaryBibleThemes",
+"label": "8666: praise, manner and methods of",
+"language": "eng"
+},
+{
+"reference_id": "8667",
+"content_id": "8667",
+"resource_code": "DictionaryBibleThemes",
+"label": "8667: praise, examples of",
+"language": "eng"
+},
+{
+"reference_id": "8668",
+"content_id": "8668",
+"resource_code": "DictionaryBibleThemes",
+"label": "8668: praise, and Holy Spirit",
+"language": "eng"
+}
+]
+}
+}
+]

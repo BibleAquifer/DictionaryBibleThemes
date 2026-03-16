@@ -1,0 +1,147 @@
+[
+{
+"content_id": "5300",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5300: drowning",
+"media_type": "Text",
+"index_reference": "5300: drowning",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The Egyptians pursuing Israel drowned in the Red Sea</h2>\n<p><strong><a href=\"https://ref.ly/Heb11:29\">HEB 11:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod14:21-Exod14:28\">EXO 14:21–14:28</a>, <a href=\"https://ref.ly/Exod15:1-Exod15:5\">EXO 15:1–15:5</a></p>\n<h2>Jonah was delivered from drowning</h2>\n<p><strong><a href=\"https://ref.ly/Jonah2:2-Jonah2:7\">JON 2:2–2:7</a></strong></p>\n<h2>The demon-possessed herd of pigs drowned in the Sea of Galilee</h2>\n<p><strong><a href=\"https://ref.ly/Mark5:1-Mark5:13\">MRK 5:1–5:13</a></strong> parallels <a href=\"https://ref.ly/Matt8:28-Matt8:32\">MAT 8:28–8:32</a>, <a href=\"https://ref.ly/Luke8:26-Luke8:33\">LUK 8:26–8:33</a></p>\n<h2>Jesus Christ's disciples feared they would drown in a storm</h2>\n<p><strong><a href=\"https://ref.ly/Mark4:35-Mark4:41\">MRK 4:35–4:41</a></strong> parallels <a href=\"https://ref.ly/Matt8:23-Matt8:27\">MAT 8:23–8:27</a>, <a href=\"https://ref.ly/Luke8:22-Luke8:25\">LUK 8:22–8:25</a></p>\n<h2>Drowning in the teaching of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt18:6\">MAT 18:6</a></strong></p>\n<h2>Metaphorical use</h2>\n<p><strong><a href=\"https://ref.ly/Job10:15\">JOB 10:15</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "58011029",
+"start_ref_usfm": "HEB 11:29",
+"end_ref": "58011029",
+"end_ref_usfm": "HEB 11:29"
+},
+{
+"start_ref": "02014021",
+"start_ref_usfm": "EXO 14:21",
+"end_ref": "02014028",
+"end_ref_usfm": "EXO 14:28"
+},
+{
+"start_ref": "02015001",
+"start_ref_usfm": "EXO 15:1",
+"end_ref": "02015005",
+"end_ref_usfm": "EXO 15:5"
+},
+{
+"start_ref": "32002002",
+"start_ref_usfm": "JON 2:2",
+"end_ref": "32002007",
+"end_ref_usfm": "JON 2:7"
+},
+{
+"start_ref": "41005001",
+"start_ref_usfm": "MRK 5:1",
+"end_ref": "41005013",
+"end_ref_usfm": "MRK 5:13"
+},
+{
+"start_ref": "40008028",
+"start_ref_usfm": "MAT 8:28",
+"end_ref": "40008032",
+"end_ref_usfm": "MAT 8:32"
+},
+{
+"start_ref": "42008026",
+"start_ref_usfm": "LUK 8:26",
+"end_ref": "42008033",
+"end_ref_usfm": "LUK 8:33"
+},
+{
+"start_ref": "41004035",
+"start_ref_usfm": "MRK 4:35",
+"end_ref": "41004041",
+"end_ref_usfm": "MRK 4:41"
+},
+{
+"start_ref": "40008023",
+"start_ref_usfm": "MAT 8:23",
+"end_ref": "40008027",
+"end_ref_usfm": "MAT 8:27"
+},
+{
+"start_ref": "42008022",
+"start_ref_usfm": "LUK 8:22",
+"end_ref": "42008025",
+"end_ref_usfm": "LUK 8:25"
+},
+{
+"start_ref": "40018006",
+"start_ref_usfm": "MAT 18:6",
+"end_ref": "40018006",
+"end_ref_usfm": "MAT 18:6"
+},
+{
+"start_ref": "18010015",
+"start_ref_usfm": "JOB 10:15",
+"end_ref": "18010015",
+"end_ref_usfm": "JOB 10:15"
+}
+],
+"resource": [
+{
+"reference_id": "4266",
+"content_id": "4266",
+"resource_code": "DictionaryBibleThemes",
+"label": "4266: sea",
+"language": "eng"
+},
+{
+"reference_id": "4851",
+"content_id": "4851",
+"resource_code": "DictionaryBibleThemes",
+"label": "4851: storm",
+"language": "eng"
+},
+{
+"reference_id": "5517",
+"content_id": "5517",
+"resource_code": "DictionaryBibleThemes",
+"label": "5517: seafaring",
+"language": "eng"
+},
+{
+"reference_id": "5569",
+"content_id": "5569",
+"resource_code": "DictionaryBibleThemes",
+"label": "5569: suffering, hardship",
+"language": "eng"
+},
+{
+"reference_id": "6022",
+"content_id": "6022",
+"resource_code": "DictionaryBibleThemes",
+"label": "6022: sin, causes of",
+"language": "eng"
+},
+{
+"reference_id": "6634",
+"content_id": "6634",
+"resource_code": "DictionaryBibleThemes",
+"label": "6634: deliverance",
+"language": "eng"
+},
+{
+"reference_id": "7222",
+"content_id": "7222",
+"resource_code": "DictionaryBibleThemes",
+"label": "7222: exodus, events of",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+}
+]
+}
+}
+]

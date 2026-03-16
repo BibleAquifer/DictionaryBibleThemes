@@ -1,0 +1,133 @@
+[
+{
+"content_id": "5428",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5428: nurse",
+"media_type": "Text",
+"index_reference": "5428: nurse",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A woman who breast-feeds an infant.</p>\n<h2>The child's mother as nurse</h2>\n<p><strong><a href=\"https://ref.ly/Gen21:7\">GEN 21:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs3:21\">1KI 3:21</a></p>\n<h2>A servant as nurse</h2>\n<p><strong><a href=\"https://ref.ly/Exod2:7\">EXO 2:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod2:9\">EXO 2:9</a></p>\n<h3>Often wet-nurses remained in the family after the child was weaned</h3>\n<p><strong><a href=\"https://ref.ly/Gen24:56-Gen24:59\">GEN 24:56–24:59</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen35:8\">GEN 35:8</a>; <a href=\"https://ref.ly/2Sam4:4\">2SA 4:4</a>; <a href=\"https://ref.ly/2Kgs11:2-2Kgs11:3\">2KI 11:2–11:3</a> parallel <a href=\"https://ref.ly/2Chr22:11\">2CH 22:11</a></p>\n<h2>Metaphorical use</h2>\n<p><strong><a href=\"https://ref.ly/Num11:12\">NUM 11:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa66:9-Isa66:13\">ISA 66:9–66:13</a>; <a href=\"https://ref.ly/Lam4:3\">LAM 4:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01021007",
+"start_ref_usfm": "GEN 21:7",
+"end_ref": "01021007",
+"end_ref_usfm": "GEN 21:7"
+},
+{
+"start_ref": "11003021",
+"start_ref_usfm": "1KI 3:21",
+"end_ref": "11003021",
+"end_ref_usfm": "1KI 3:21"
+},
+{
+"start_ref": "02002007",
+"start_ref_usfm": "EXO 2:7",
+"end_ref": "02002007",
+"end_ref_usfm": "EXO 2:7"
+},
+{
+"start_ref": "02002009",
+"start_ref_usfm": "EXO 2:9",
+"end_ref": "02002009",
+"end_ref_usfm": "EXO 2:9"
+},
+{
+"start_ref": "01024056",
+"start_ref_usfm": "GEN 24:56",
+"end_ref": "01024059",
+"end_ref_usfm": "GEN 24:59"
+},
+{
+"start_ref": "01035008",
+"start_ref_usfm": "GEN 35:8",
+"end_ref": "01035008",
+"end_ref_usfm": "GEN 35:8"
+},
+{
+"start_ref": "10004004",
+"start_ref_usfm": "2SA 4:4",
+"end_ref": "10004004",
+"end_ref_usfm": "2SA 4:4"
+},
+{
+"start_ref": "12011002",
+"start_ref_usfm": "2KI 11:2",
+"end_ref": "12011003",
+"end_ref_usfm": "2KI 11:3"
+},
+{
+"start_ref": "14022011",
+"start_ref_usfm": "2CH 22:11",
+"end_ref": "14022011",
+"end_ref_usfm": "2CH 22:11"
+},
+{
+"start_ref": "04011012",
+"start_ref_usfm": "NUM 11:12",
+"end_ref": "04011012",
+"end_ref_usfm": "NUM 11:12"
+},
+{
+"start_ref": "23066009",
+"start_ref_usfm": "ISA 66:9",
+"end_ref": "23066013",
+"end_ref_usfm": "ISA 66:13"
+},
+{
+"start_ref": "25004003",
+"start_ref_usfm": "LAM 4:3",
+"end_ref": "25004003",
+"end_ref_usfm": "LAM 4:3"
+}
+],
+"resource": [
+{
+"reference_id": "5140",
+"content_id": "5140",
+"resource_code": "DictionaryBibleThemes",
+"label": "5140: breasts",
+"language": "eng"
+},
+{
+"reference_id": "5520",
+"content_id": "5520",
+"resource_code": "DictionaryBibleThemes",
+"label": "5520: servants",
+"language": "eng"
+},
+{
+"reference_id": "5652",
+"content_id": "5652",
+"resource_code": "DictionaryBibleThemes",
+"label": "5652: babies",
+"language": "eng"
+},
+{
+"reference_id": "5664",
+"content_id": "5664",
+"resource_code": "DictionaryBibleThemes",
+"label": "5664: children",
+"language": "eng"
+},
+{
+"reference_id": "5718",
+"content_id": "5718",
+"resource_code": "DictionaryBibleThemes",
+"label": "5718: mothers",
+"language": "eng"
+},
+{
+"reference_id": "8313",
+"content_id": "8313",
+"resource_code": "DictionaryBibleThemes",
+"label": "8313: nurture",
+"language": "eng"
+}
+]
+}
+}
+]

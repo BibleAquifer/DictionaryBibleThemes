@@ -1,0 +1,32 @@
+[
+{
+"content_id": "4239",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4239: garden",
+"media_type": "Text",
+"index_reference": "4239: garden",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A piece of land where flowers, fruit and vegetables may be grown. The Garden of Eden was the garden entrusted to the care of Adam and Eve.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4240",
+"content_id": "4240",
+"resource_code": "DictionaryBibleThemes",
+"label": "4240: garden, natural",
+"language": "eng"
+},
+{
+"reference_id": "4241",
+"content_id": "4241",
+"resource_code": "DictionaryBibleThemes",
+"label": "4241: Garden of Eden, the",
+"language": "eng"
+}
+]
+}
+}
+]

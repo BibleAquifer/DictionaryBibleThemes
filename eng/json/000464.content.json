@@ -1,0 +1,200 @@
+[
+{
+"content_id": "4498",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4498: ploughing",
+"media_type": "Text",
+"index_reference": "4498: ploughing",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Cutting up the furrows in soil and turning it up before work can be done on the land.</p>\n<h2>Ploughing as a way of life</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs19:19-1Kgs19:21\">1KI 19:19–19:21</a></strong>; <strong><a href=\"https://ref.ly/Luke17:7\">LUK 17:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam8:12\">1SA 8:12</a>, <a href=\"https://ref.ly/1Sam13:19-1Sam13:21\">1SA 13:19–13:21</a>; <a href=\"https://ref.ly/Job1:14\">JOB 1:14</a>; <a href=\"https://ref.ly/Prov20:4\">PRO 20:4</a>; <a href=\"https://ref.ly/Isa28:24\">ISA 28:24</a>; <a href=\"https://ref.ly/Ezek36:9\">EZK 36:9</a>; <a href=\"https://ref.ly/Amos9:13\">AMO 9:13</a></p>\n<h2>Rules concerning ploughing</h2>\n<p><a href=\"https://ref.ly/Exod23:10-Exod23:11\">EXO 23:10–23:11</a>, <a href=\"https://ref.ly/Exod34:21\">EXO 34:21</a>; ; <a href=\"https://ref.ly/Deut22:10\">DEU 22:10</a></p>\n<h2>Ploughing used figuratively</h2>\n<p><strong><a href=\"https://ref.ly/Job4:8\">JOB 4:8</a></strong>; <strong><a href=\"https://ref.ly/Luke9:62\">LUK 9:62</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg14:18\">JDG 14:18</a>; <a href=\"https://ref.ly/Ps129:3\">PSA 129:3</a>, <a href=\"https://ref.ly/Ps141:7\">PSA 141:7</a>; <a href=\"https://ref.ly/Isa2:4\">ISA 2:4</a>; <a href=\"https://ref.ly/Jer4:3\">JER 4:3</a>; <a href=\"https://ref.ly/Hos10:11-Hos10:12\">HOS 10:11–10:12</a>; <a href=\"https://ref.ly/Amos6:12\">AMO 6:12</a>; <a href=\"https://ref.ly/1Cor9:10\">1CO 9:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11019019",
+"start_ref_usfm": "1KI 19:19",
+"end_ref": "11019021",
+"end_ref_usfm": "1KI 19:21"
+},
+{
+"start_ref": "42017007",
+"start_ref_usfm": "LUK 17:7",
+"end_ref": "42017007",
+"end_ref_usfm": "LUK 17:7"
+},
+{
+"start_ref": "09008012",
+"start_ref_usfm": "1SA 8:12",
+"end_ref": "09008012",
+"end_ref_usfm": "1SA 8:12"
+},
+{
+"start_ref": "09013019",
+"start_ref_usfm": "1SA 13:19",
+"end_ref": "09013021",
+"end_ref_usfm": "1SA 13:21"
+},
+{
+"start_ref": "18001014",
+"start_ref_usfm": "JOB 1:14",
+"end_ref": "18001014",
+"end_ref_usfm": "JOB 1:14"
+},
+{
+"start_ref": "20020004",
+"start_ref_usfm": "PRO 20:4",
+"end_ref": "20020004",
+"end_ref_usfm": "PRO 20:4"
+},
+{
+"start_ref": "23028024",
+"start_ref_usfm": "ISA 28:24",
+"end_ref": "23028024",
+"end_ref_usfm": "ISA 28:24"
+},
+{
+"start_ref": "26036009",
+"start_ref_usfm": "EZK 36:9",
+"end_ref": "26036009",
+"end_ref_usfm": "EZK 36:9"
+},
+{
+"start_ref": "30009013",
+"start_ref_usfm": "AMO 9:13",
+"end_ref": "30009013",
+"end_ref_usfm": "AMO 9:13"
+},
+{
+"start_ref": "02023010",
+"start_ref_usfm": "EXO 23:10",
+"end_ref": "02023011",
+"end_ref_usfm": "EXO 23:11"
+},
+{
+"start_ref": "02034021",
+"start_ref_usfm": "EXO 34:21",
+"end_ref": "02034021",
+"end_ref_usfm": "EXO 34:21"
+},
+{
+"start_ref": "05022010",
+"start_ref_usfm": "DEU 22:10",
+"end_ref": "05022010",
+"end_ref_usfm": "DEU 22:10"
+},
+{
+"start_ref": "18004008",
+"start_ref_usfm": "JOB 4:8",
+"end_ref": "18004008",
+"end_ref_usfm": "JOB 4:8"
+},
+{
+"start_ref": "42009062",
+"start_ref_usfm": "LUK 9:62",
+"end_ref": "42009062",
+"end_ref_usfm": "LUK 9:62"
+},
+{
+"start_ref": "07014018",
+"start_ref_usfm": "JDG 14:18",
+"end_ref": "07014018",
+"end_ref_usfm": "JDG 14:18"
+},
+{
+"start_ref": "19129003",
+"start_ref_usfm": "PSA 129:3",
+"end_ref": "19129003",
+"end_ref_usfm": "PSA 129:3"
+},
+{
+"start_ref": "19141007",
+"start_ref_usfm": "PSA 141:7",
+"end_ref": "19141007",
+"end_ref_usfm": "PSA 141:7"
+},
+{
+"start_ref": "23002004",
+"start_ref_usfm": "ISA 2:4",
+"end_ref": "23002004",
+"end_ref_usfm": "ISA 2:4"
+},
+{
+"start_ref": "24004003",
+"start_ref_usfm": "JER 4:3",
+"end_ref": "24004003",
+"end_ref_usfm": "JER 4:3"
+},
+{
+"start_ref": "28010011",
+"start_ref_usfm": "HOS 10:11",
+"end_ref": "28010012",
+"end_ref_usfm": "HOS 10:12"
+},
+{
+"start_ref": "30006012",
+"start_ref_usfm": "AMO 6:12",
+"end_ref": "30006012",
+"end_ref_usfm": "AMO 6:12"
+},
+{
+"start_ref": "46009010",
+"start_ref_usfm": "1CO 9:10",
+"end_ref": "46009010",
+"end_ref_usfm": "1CO 9:10"
+}
+],
+"resource": [
+{
+"reference_id": "4208",
+"content_id": "4208",
+"resource_code": "DictionaryBibleThemes",
+"label": "4208: land, as a divine responsibility",
+"language": "eng"
+},
+{
+"reference_id": "4406",
+"content_id": "4406",
+"resource_code": "DictionaryBibleThemes",
+"label": "4406: agriculture",
+"language": "eng"
+},
+{
+"reference_id": "4464",
+"content_id": "4464",
+"resource_code": "DictionaryBibleThemes",
+"label": "4464: harvest",
+"language": "eng"
+},
+{
+"reference_id": "4510",
+"content_id": "4510",
+"resource_code": "DictionaryBibleThemes",
+"label": "4510: sowing and reaping",
+"language": "eng"
+},
+{
+"reference_id": "4970",
+"content_id": "4970",
+"resource_code": "DictionaryBibleThemes",
+"label": "4970: seasons, of the year",
+"language": "eng"
+},
+{
+"reference_id": "5056",
+"content_id": "5056",
+"resource_code": "DictionaryBibleThemes",
+"label": "5056: rest",
+"language": "eng"
+},
+{
+"reference_id": "7482",
+"content_id": "7482",
+"resource_code": "DictionaryBibleThemes",
+"label": "7482: Year of Jubilee",
+"language": "eng"
+}
+]
+}
+}
+]

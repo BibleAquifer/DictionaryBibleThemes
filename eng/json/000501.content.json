@@ -1,0 +1,89 @@
+[
+{
+"content_id": "4621",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4621: colt",
+"media_type": "Text",
+"index_reference": "4621: colt",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A young, untrained horse or donkey, associated in Scripture with humility or peace.</p>\n<h2>A colt is a young donkey</h2>\n<p><strong><a href=\"https://ref.ly/Job11:12\">JOB 11:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:11\">GEN 49:11</a></p>\n<h2>The use of a colt by the coming king</h2>\n<p><strong><a href=\"https://ref.ly/Zech9:9\">ZEC 9:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt21:2-Matt21:7\">MAT 21:2–21:7</a> parallels <a href=\"https://ref.ly/Mark11:2-Mark11:7\">MRK 11:2–11:7</a>, <a href=\"https://ref.ly/Luke19:30-Luke19:35\">LUK 19:30–19:35</a>; <a href=\"https://ref.ly/John12:15\">JHN 12:15</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18011012",
+"start_ref_usfm": "JOB 11:12",
+"end_ref": "18011012",
+"end_ref_usfm": "JOB 11:12"
+},
+{
+"start_ref": "01049011",
+"start_ref_usfm": "GEN 49:11",
+"end_ref": "01049011",
+"end_ref_usfm": "GEN 49:11"
+},
+{
+"start_ref": "38009009",
+"start_ref_usfm": "ZEC 9:9",
+"end_ref": "38009009",
+"end_ref_usfm": "ZEC 9:9"
+},
+{
+"start_ref": "40021002",
+"start_ref_usfm": "MAT 21:2",
+"end_ref": "40021007",
+"end_ref_usfm": "MAT 21:7"
+},
+{
+"start_ref": "41011002",
+"start_ref_usfm": "MRK 11:2",
+"end_ref": "41011007",
+"end_ref_usfm": "MRK 11:7"
+},
+{
+"start_ref": "42019030",
+"start_ref_usfm": "LUK 19:30",
+"end_ref": "42019035",
+"end_ref_usfm": "LUK 19:35"
+},
+{
+"start_ref": "43012015",
+"start_ref_usfm": "JHN 12:15",
+"end_ref": "43012015",
+"end_ref_usfm": "JHN 12:15"
+}
+],
+"resource": [
+{
+"reference_id": "2036",
+"content_id": "2036",
+"resource_code": "DictionaryBibleThemes",
+"label": "2036: Jesus Christ, humility of",
+"language": "eng"
+},
+{
+"reference_id": "2590",
+"content_id": "2590",
+"resource_code": "DictionaryBibleThemes",
+"label": "2590: Jesus Christ, triumphal entry of",
+"language": "eng"
+},
+{
+"reference_id": "4633",
+"content_id": "4633",
+"resource_code": "DictionaryBibleThemes",
+"label": "4633: donkey",
+"language": "eng"
+},
+{
+"reference_id": "4657",
+"content_id": "4657",
+"resource_code": "DictionaryBibleThemes",
+"label": "4657: horse",
+"language": "eng"
+}
+]
+}
+}
+]

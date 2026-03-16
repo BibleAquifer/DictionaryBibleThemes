@@ -1,0 +1,53 @@
+[
+{
+"content_id": "8734",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8734: evil",
+"media_type": "Text",
+"index_reference": "8734: evil",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The presence of corruption, malevolence and depravity in the world, opposed to God's nature and will. Scripture stresses that evil is a force in its own right, rather than the mere absence of good, and describes its origins and the manner in which God deals with its continuing presence and power in his world.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8735",
+"content_id": "8735",
+"resource_code": "DictionaryBibleThemes",
+"label": "8735: evil, origins of",
+"language": "eng"
+},
+{
+"reference_id": "8736",
+"content_id": "8736",
+"resource_code": "DictionaryBibleThemes",
+"label": "8736: evil, warnings against",
+"language": "eng"
+},
+{
+"reference_id": "8737",
+"content_id": "8737",
+"resource_code": "DictionaryBibleThemes",
+"label": "8737: evil, believers' responses to",
+"language": "eng"
+},
+{
+"reference_id": "8738",
+"content_id": "8738",
+"resource_code": "DictionaryBibleThemes",
+"label": "8738: evil, victory over",
+"language": "eng"
+},
+{
+"reference_id": "8739",
+"content_id": "8739",
+"resource_code": "DictionaryBibleThemes",
+"label": "8739: evil, examples of",
+"language": "eng"
+}
+]
+}
+}
+]

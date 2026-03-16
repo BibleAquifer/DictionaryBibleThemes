@@ -1,0 +1,90 @@
+[
+{
+"content_id": "4224",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4224: cities of the plain",
+"media_type": "Text",
+"index_reference": "4224: cities of the plain",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The cities of the plain of the River Jordan, chosen by Lot as a place of residence</h2>\n<p><strong><a href=\"https://ref.ly/Gen13:10-Gen13:12\">GEN 13:10–13:12</a></strong></p>\n<h3>Abraham rescues their inhabitants</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Gen14:1-Gen14:24\">GEN 14:1–14:24</a></p>\n<h3>Abraham prays for their inhabitants</h3>\n<p><a href=\"https://ref.ly/Gen18:17-Gen18:33\">GEN 18:17–18:33</a></p>\n<h3>Judgment on their sin</h3>\n<p><a href=\"https://ref.ly/Gen19:1-Gen19:29\">GEN 19:1–19:29</a></p>\n<h2>The cities of the plain as symbols of sin and judgment</h2>\n<p><strong><a href=\"https://ref.ly/Deut29:23\">DEU 29:23</a></strong>; <strong><a href=\"https://ref.ly/Luke17:28-Luke17:29\">LUK 17:28–17:29</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01013010",
+"start_ref_usfm": "GEN 13:10",
+"end_ref": "01013012",
+"end_ref_usfm": "GEN 13:12"
+},
+{
+"start_ref": "01014001",
+"start_ref_usfm": "GEN 14:1",
+"end_ref": "01014024",
+"end_ref_usfm": "GEN 14:24"
+},
+{
+"start_ref": "01018017",
+"start_ref_usfm": "GEN 18:17",
+"end_ref": "01018033",
+"end_ref_usfm": "GEN 18:33"
+},
+{
+"start_ref": "01019001",
+"start_ref_usfm": "GEN 19:1",
+"end_ref": "01019029",
+"end_ref_usfm": "GEN 19:29"
+},
+{
+"start_ref": "05029023",
+"start_ref_usfm": "DEU 29:23",
+"end_ref": "05029023",
+"end_ref_usfm": "DEU 29:23"
+},
+{
+"start_ref": "42017028",
+"start_ref_usfm": "LUK 17:28",
+"end_ref": "42017029",
+"end_ref_usfm": "LUK 17:29"
+}
+],
+"resource": [
+{
+"reference_id": "4275",
+"content_id": "4275",
+"resource_code": "DictionaryBibleThemes",
+"label": "4275: Sodom and Gomorrah",
+"language": "eng"
+},
+{
+"reference_id": "5295",
+"content_id": "5295",
+"resource_code": "DictionaryBibleThemes",
+"label": "5295: destruction",
+"language": "eng"
+},
+{
+"reference_id": "6026",
+"content_id": "6026",
+"resource_code": "DictionaryBibleThemes",
+"label": "6026: sin, God's judgment on",
+"language": "eng"
+},
+{
+"reference_id": "6738",
+"content_id": "6738",
+"resource_code": "DictionaryBibleThemes",
+"label": "6738: rescue",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

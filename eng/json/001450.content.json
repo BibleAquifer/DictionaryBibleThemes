@@ -1,0 +1,197 @@
+[
+{
+"content_id": "5937",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5937: rivalry",
+"media_type": "Text",
+"index_reference": "5937: rivalry",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Viewing other people as a threat to oneself in the accomplishment of some aim, or being in active competition with others for recognition or achievement.</p>\n<h2>Examples of rivalry at a national level</h2>\n<h3>Between Israel and Judah</h3>\n<p><a href=\"https://ref.ly/1Kgs15:25-1Kgs15:31\">1KI 15:25–15:31</a> <em>This is typical of the conflict that existed for 80 years after the division of the kingdom.</em></p>\n<h3>Within Israel</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs16:21-1Kgs16:22\">1KI 16:21–16:22</a></strong></p>\n<h3>Between Assyria and Judah</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/2Chr32:13-2Chr32:22\">2CH 32:13–32:22</a>; <a href=\"https://ref.ly/Isa37:10-Isa37:13\">ISA 37:10–37:13</a> <em>Assyria claimed that behind the rivalry of the nations lay the rivalry of their gods. The LORD vindicated himself in answer to Hezekiah's prayer (see <a href=\"https://ref.ly/Isa37:14-Isa37:38\">Isa 37:14–38</a>).</em></p>\n<h2>Examples of rivalry at an individual level</h2>\n<h3>Between Esau and Jacob</h3>\n<p><a href=\"https://ref.ly/Gen25:29-Gen25:34\">GEN 25:29–25:34</a>, <a href=\"https://ref.ly/Gen27:41\">GEN 27:41</a></p>\n<h3>Between Peninnah and Hannah</h3>\n<p><strong><a href=\"https://ref.ly/1Sam1:6-1Sam1:7\">1SA 1:6–1:7</a></strong></p>\n<h3>Between Saul and David</h3>\n<p><strong><a href=\"https://ref.ly/1Sam18:7-1Sam18:9\">1SA 18:7–18:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam20:31\">1SA 20:31</a></p>\n<h3>Between Absalom and David</h3>\n<p><a href=\"https://ref.ly/2Sam15:1-2Sam15:13\">2SA 15:1–15:13</a></p>\n<h3>Between Rehoboam and Jeroboam</h3>\n<p><a href=\"https://ref.ly/1Kgs12:26-1Kgs12:27\">1KI 12:26–12:27</a></p>\n<h2>Condemnation of rivalry at an individual level</h2>\n<h3>By the Mosaic law</h3>\n<p><a href=\"https://ref.ly/Lev18:18\">LEV 18:18</a></p>\n<h3>By Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Luke9:46-Luke9:48\">LUK 9:46–9:48</a></strong> parallels <a href=\"https://ref.ly/Matt18:1-Matt18:4\">MAT 18:1–18:4</a>, <a href=\"https://ref.ly/Mark9:34-Mark9:37\">MRK 9:34–9:37</a> <em>See also</em> <a href=\"https://ref.ly/Matt20:20-Matt20:24\">MAT 20:20–20:24</a> parallel <a href=\"https://ref.ly/Mark10:35-Mark10:41\">MRK 10:35–10:41</a>; <a href=\"https://ref.ly/Matt23:8-Matt23:11\">MAT 23:8–23:11</a></p>\n<h3>By Paul</h3>\n<p><strong><a href=\"https://ref.ly/1Cor3:3-1Cor3:4\">1CO 3:3–3:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor1:12-1Cor1:13\">1CO 1:12–1:13</a></p>\n<h2>Rivalry between individuals is overcome in Christ</h2>\n<p><strong><a href=\"https://ref.ly/Gal3:26-Gal3:28\">GAL 3:26–3:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark10:42-Mark10:45\">MRK 10:42–10:45</a> parallel <a href=\"https://ref.ly/Matt20:25-Matt20:28\">MAT 20:25–20:28</a>; <a href=\"https://ref.ly/Phil1:15-Phil1:18\">PHP 1:15–1:18</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11015025",
+"start_ref_usfm": "1KI 15:25",
+"end_ref": "11015031",
+"end_ref_usfm": "1KI 15:31"
+},
+{
+"start_ref": "11016021",
+"start_ref_usfm": "1KI 16:21",
+"end_ref": "11016022",
+"end_ref_usfm": "1KI 16:22"
+},
+{
+"start_ref": "14032013",
+"start_ref_usfm": "2CH 32:13",
+"end_ref": "14032022",
+"end_ref_usfm": "2CH 32:22"
+},
+{
+"start_ref": "23037010",
+"start_ref_usfm": "ISA 37:10",
+"end_ref": "23037013",
+"end_ref_usfm": "ISA 37:13"
+},
+{
+"start_ref": "23037014",
+"start_ref_usfm": "ISA 37:14",
+"end_ref": "23037038",
+"end_ref_usfm": "ISA 37:38"
+},
+{
+"start_ref": "01025029",
+"start_ref_usfm": "GEN 25:29",
+"end_ref": "01025034",
+"end_ref_usfm": "GEN 25:34"
+},
+{
+"start_ref": "01027041",
+"start_ref_usfm": "GEN 27:41",
+"end_ref": "01027041",
+"end_ref_usfm": "GEN 27:41"
+},
+{
+"start_ref": "09001006",
+"start_ref_usfm": "1SA 1:6",
+"end_ref": "09001007",
+"end_ref_usfm": "1SA 1:7"
+},
+{
+"start_ref": "09018007",
+"start_ref_usfm": "1SA 18:7",
+"end_ref": "09018009",
+"end_ref_usfm": "1SA 18:9"
+},
+{
+"start_ref": "09020031",
+"start_ref_usfm": "1SA 20:31",
+"end_ref": "09020031",
+"end_ref_usfm": "1SA 20:31"
+},
+{
+"start_ref": "10015001",
+"start_ref_usfm": "2SA 15:1",
+"end_ref": "10015013",
+"end_ref_usfm": "2SA 15:13"
+},
+{
+"start_ref": "11012026",
+"start_ref_usfm": "1KI 12:26",
+"end_ref": "11012027",
+"end_ref_usfm": "1KI 12:27"
+},
+{
+"start_ref": "03018018",
+"start_ref_usfm": "LEV 18:18",
+"end_ref": "03018018",
+"end_ref_usfm": "LEV 18:18"
+},
+{
+"start_ref": "42009046",
+"start_ref_usfm": "LUK 9:46",
+"end_ref": "42009048",
+"end_ref_usfm": "LUK 9:48"
+},
+{
+"start_ref": "40018001",
+"start_ref_usfm": "MAT 18:1",
+"end_ref": "40018004",
+"end_ref_usfm": "MAT 18:4"
+},
+{
+"start_ref": "41009034",
+"start_ref_usfm": "MRK 9:34",
+"end_ref": "41009037",
+"end_ref_usfm": "MRK 9:37"
+},
+{
+"start_ref": "40020020",
+"start_ref_usfm": "MAT 20:20",
+"end_ref": "40020024",
+"end_ref_usfm": "MAT 20:24"
+},
+{
+"start_ref": "41010035",
+"start_ref_usfm": "MRK 10:35",
+"end_ref": "41010041",
+"end_ref_usfm": "MRK 10:41"
+},
+{
+"start_ref": "40023008",
+"start_ref_usfm": "MAT 23:8",
+"end_ref": "40023011",
+"end_ref_usfm": "MAT 23:11"
+},
+{
+"start_ref": "46003003",
+"start_ref_usfm": "1CO 3:3",
+"end_ref": "46003004",
+"end_ref_usfm": "1CO 3:4"
+},
+{
+"start_ref": "46001012",
+"start_ref_usfm": "1CO 1:12",
+"end_ref": "46001013",
+"end_ref_usfm": "1CO 1:13"
+},
+{
+"start_ref": "48003026",
+"start_ref_usfm": "GAL 3:26",
+"end_ref": "48003028",
+"end_ref_usfm": "GAL 3:28"
+},
+{
+"start_ref": "41010042",
+"start_ref_usfm": "MRK 10:42",
+"end_ref": "41010045",
+"end_ref_usfm": "MRK 10:45"
+},
+{
+"start_ref": "40020025",
+"start_ref_usfm": "MAT 20:25",
+"end_ref": "40020028",
+"end_ref_usfm": "MAT 20:28"
+},
+{
+"start_ref": "50001015",
+"start_ref_usfm": "PHP 1:15",
+"end_ref": "50001018",
+"end_ref_usfm": "PHP 1:18"
+}
+],
+"resource": [
+{
+"reference_id": "5834",
+"content_id": "5834",
+"resource_code": "DictionaryBibleThemes",
+"label": "5834: disagreement",
+"language": "eng"
+},
+{
+"reference_id": "7030",
+"content_id": "7030",
+"resource_code": "DictionaryBibleThemes",
+"label": "7030: unity",
+"language": "eng"
+},
+{
+"reference_id": "8773",
+"content_id": "8773",
+"resource_code": "DictionaryBibleThemes",
+"label": "8773: jealousy",
+"language": "eng"
+},
+{
+"reference_id": "8785",
+"content_id": "8785",
+"resource_code": "DictionaryBibleThemes",
+"label": "8785: opposition",
+"language": "eng"
+}
+]
+}
+}
+]

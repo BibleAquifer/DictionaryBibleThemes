@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5080",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5080: Adam",
+"media_type": "Text",
+"index_reference": "5080: adam",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The Hebrew word “adam” is used both for “man” in general and also as the personal name of the first man that God created. It sounds like the word “adamah”, meaning “ground”.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5081",
+"content_id": "5081",
+"resource_code": "DictionaryBibleThemes",
+"label": "5081: Adam, creation and life of",
+"language": "eng"
+},
+{
+"reference_id": "5082",
+"content_id": "5082",
+"resource_code": "DictionaryBibleThemes",
+"label": "5082: Adam, significance of",
+"language": "eng"
+},
+{
+"reference_id": "5083",
+"content_id": "5083",
+"resource_code": "DictionaryBibleThemes",
+"label": "5083: Adam, and Jesus Christ",
+"language": "eng"
+}
+]
+}
+}
+]

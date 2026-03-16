@@ -1,0 +1,192 @@
+[
+{
+"content_id": "5287",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5287: dance",
+"media_type": "Text",
+"index_reference": "5287: dance",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Movement, usually in response to music, which is often a spontaneous expression of joy and delight in the Lord.</p>\n<h2>Dance as an expression of joy</h2>\n<p><strong><a href=\"https://ref.ly/Exod15:20\">EXO 15:20</a></strong>; <strong><a href=\"https://ref.ly/Ps30:11\">PSA 30:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg11:34\">JDG 11:34</a>, <a href=\"https://ref.ly/Judg21:21-Judg21:23\">JDG 21:21–21:23</a>; <a href=\"https://ref.ly/1Sam18:6-1Sam18:7\">1SA 18:6–18:7</a>, <a href=\"https://ref.ly/1Sam21:11\">1SA 21:11</a>, <a href=\"https://ref.ly/1Sam29:5\">1SA 29:5</a>; <a href=\"https://ref.ly/Eccl3:4\">ECC 3:4</a>; <a href=\"https://ref.ly/Song6:13\">SNG 6:13</a>; <a href=\"https://ref.ly/Jer31:4\">JER 31:4</a>, <a href=\"https://ref.ly/Jer31:13\">JER 31:13</a>; <a href=\"https://ref.ly/Lam5:15\">LAM 5:15</a>; <a href=\"https://ref.ly/Matt11:17\">MAT 11:17</a> parallel <a href=\"https://ref.ly/Luke7:32\">LUK 7:32</a>; <a href=\"https://ref.ly/Mark6:22\">MRK 6:22</a> <em>The daughter of Herodias dances for Herod</em>; <a href=\"https://ref.ly/Luke15:25\">LUK 15:25</a></p>\n<h2>Dance as an expression of praise</h2>\n<p><strong><a href=\"https://ref.ly/Ps150:4\">PSA 150:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps149:3\">PSA 149:3</a>; <a href=\"https://ref.ly/2Sam6:14\">2SA 6:14</a>, <a href=\"https://ref.ly/2Sam6:16\">2SA 6:16</a>; <a href=\"https://ref.ly/1Chr15:29\">1CH 15:29</a></p>\n<h2>Dance as an aspect of pagan worship</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs18:26\">1KI 18:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:19\">EXO 32:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02015020",
+"start_ref_usfm": "EXO 15:20",
+"end_ref": "02015020",
+"end_ref_usfm": "EXO 15:20"
+},
+{
+"start_ref": "19030011",
+"start_ref_usfm": "PSA 30:11",
+"end_ref": "19030011",
+"end_ref_usfm": "PSA 30:11"
+},
+{
+"start_ref": "07011034",
+"start_ref_usfm": "JDG 11:34",
+"end_ref": "07011034",
+"end_ref_usfm": "JDG 11:34"
+},
+{
+"start_ref": "07021021",
+"start_ref_usfm": "JDG 21:21",
+"end_ref": "07021023",
+"end_ref_usfm": "JDG 21:23"
+},
+{
+"start_ref": "09018006",
+"start_ref_usfm": "1SA 18:6",
+"end_ref": "09018007",
+"end_ref_usfm": "1SA 18:7"
+},
+{
+"start_ref": "09021011",
+"start_ref_usfm": "1SA 21:11",
+"end_ref": "09021011",
+"end_ref_usfm": "1SA 21:11"
+},
+{
+"start_ref": "09029005",
+"start_ref_usfm": "1SA 29:5",
+"end_ref": "09029005",
+"end_ref_usfm": "1SA 29:5"
+},
+{
+"start_ref": "21003004",
+"start_ref_usfm": "ECC 3:4",
+"end_ref": "21003004",
+"end_ref_usfm": "ECC 3:4"
+},
+{
+"start_ref": "22006013",
+"start_ref_usfm": "SNG 6:13",
+"end_ref": "22006013",
+"end_ref_usfm": "SNG 6:13"
+},
+{
+"start_ref": "24031004",
+"start_ref_usfm": "JER 31:4",
+"end_ref": "24031004",
+"end_ref_usfm": "JER 31:4"
+},
+{
+"start_ref": "24031013",
+"start_ref_usfm": "JER 31:13",
+"end_ref": "24031013",
+"end_ref_usfm": "JER 31:13"
+},
+{
+"start_ref": "25005015",
+"start_ref_usfm": "LAM 5:15",
+"end_ref": "25005015",
+"end_ref_usfm": "LAM 5:15"
+},
+{
+"start_ref": "40011017",
+"start_ref_usfm": "MAT 11:17",
+"end_ref": "40011017",
+"end_ref_usfm": "MAT 11:17"
+},
+{
+"start_ref": "42007032",
+"start_ref_usfm": "LUK 7:32",
+"end_ref": "42007032",
+"end_ref_usfm": "LUK 7:32"
+},
+{
+"start_ref": "41006022",
+"start_ref_usfm": "MRK 6:22",
+"end_ref": "41006022",
+"end_ref_usfm": "MRK 6:22"
+},
+{
+"start_ref": "42015025",
+"start_ref_usfm": "LUK 15:25",
+"end_ref": "42015025",
+"end_ref_usfm": "LUK 15:25"
+},
+{
+"start_ref": "19150004",
+"start_ref_usfm": "PSA 150:4",
+"end_ref": "19150004",
+"end_ref_usfm": "PSA 150:4"
+},
+{
+"start_ref": "19149003",
+"start_ref_usfm": "PSA 149:3",
+"end_ref": "19149003",
+"end_ref_usfm": "PSA 149:3"
+},
+{
+"start_ref": "10006014",
+"start_ref_usfm": "2SA 6:14",
+"end_ref": "10006014",
+"end_ref_usfm": "2SA 6:14"
+},
+{
+"start_ref": "10006016",
+"start_ref_usfm": "2SA 6:16",
+"end_ref": "10006016",
+"end_ref_usfm": "2SA 6:16"
+},
+{
+"start_ref": "13015029",
+"start_ref_usfm": "1CH 15:29",
+"end_ref": "13015029",
+"end_ref_usfm": "1CH 15:29"
+},
+{
+"start_ref": "11018026",
+"start_ref_usfm": "1KI 18:26",
+"end_ref": "11018026",
+"end_ref_usfm": "1KI 18:26"
+},
+{
+"start_ref": "02032019",
+"start_ref_usfm": "EXO 32:19",
+"end_ref": "02032019",
+"end_ref_usfm": "EXO 32:19"
+}
+],
+"resource": [
+{
+"reference_id": "5273",
+"content_id": "5273",
+"resource_code": "DictionaryBibleThemes",
+"label": "5273: creativity",
+"language": "eng"
+},
+{
+"reference_id": "5420",
+"content_id": "5420",
+"resource_code": "DictionaryBibleThemes",
+"label": "5420: music",
+"language": "eng"
+},
+{
+"reference_id": "8283",
+"content_id": "8283",
+"resource_code": "DictionaryBibleThemes",
+"label": "8283: joy",
+"language": "eng"
+},
+{
+"reference_id": "8627",
+"content_id": "8627",
+"resource_code": "DictionaryBibleThemes",
+"label": "8627: worship, elements of",
+"language": "eng"
+},
+{
+"reference_id": "8666",
+"content_id": "8666",
+"resource_code": "DictionaryBibleThemes",
+"label": "8666: praise, manner and methods of",
+"language": "eng"
+}
+]
+}
+}
+]

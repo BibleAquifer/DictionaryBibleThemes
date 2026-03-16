@@ -1,0 +1,139 @@
+[
+{
+"content_id": "5024",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5024: inner being",
+"media_type": "Text",
+"index_reference": "5024: inner being",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The deepest aspects of human nature, known completely by God, to be contrasted with the outward appearance or public image of a person.</p>\n<h2>The contrast of the inner being with the outward person</h2>\n<h3>The desires of the inner being</h3>\n<p><strong><a href=\"https://ref.ly/Rom7:14-Rom7:25\">ROM 7:14–7:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps51:3-Ps51:6\">PSA 51:3–51:6</a></p>\n<h3>The inner being is not subject to physical constraints</h3>\n<p><strong><a href=\"https://ref.ly/2Cor4:7-2Cor4:18\">2CO 4:7–4:18</a></strong></p>\n<h2>The inner being should take priority over the outward person</h2>\n<p><strong><a href=\"https://ref.ly/1Pet3:3-1Pet3:4\">1PE 3:3–3:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam16:7\">1SA 16:7</a>; <a href=\"https://ref.ly/Eph3:16-Eph3:19\">EPH 3:16–3:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "45007014",
+"start_ref_usfm": "ROM 7:14",
+"end_ref": "45007025",
+"end_ref_usfm": "ROM 7:25"
+},
+{
+"start_ref": "19051003",
+"start_ref_usfm": "PSA 51:3",
+"end_ref": "19051006",
+"end_ref_usfm": "PSA 51:6"
+},
+{
+"start_ref": "47004007",
+"start_ref_usfm": "2CO 4:7",
+"end_ref": "47004018",
+"end_ref_usfm": "2CO 4:18"
+},
+{
+"start_ref": "60003003",
+"start_ref_usfm": "1PE 3:3",
+"end_ref": "60003004",
+"end_ref_usfm": "1PE 3:4"
+},
+{
+"start_ref": "09016007",
+"start_ref_usfm": "1SA 16:7",
+"end_ref": "09016007",
+"end_ref_usfm": "1SA 16:7"
+},
+{
+"start_ref": "49003016",
+"start_ref_usfm": "EPH 3:16",
+"end_ref": "49003019",
+"end_ref_usfm": "EPH 3:19"
+}
+],
+"resource": [
+{
+"reference_id": "4018",
+"content_id": "4018",
+"resource_code": "DictionaryBibleThemes",
+"label": "4018: life, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "4813",
+"content_id": "4813",
+"resource_code": "DictionaryBibleThemes",
+"label": "4813: depth",
+"language": "eng"
+},
+{
+"reference_id": "5008",
+"content_id": "5008",
+"resource_code": "DictionaryBibleThemes",
+"label": "5008: conscience",
+"language": "eng"
+},
+{
+"reference_id": "5012",
+"content_id": "5012",
+"resource_code": "DictionaryBibleThemes",
+"label": "5012: heart",
+"language": "eng"
+},
+{
+"reference_id": "5062",
+"content_id": "5062",
+"resource_code": "DictionaryBibleThemes",
+"label": "5062: spirit",
+"language": "eng"
+},
+{
+"reference_id": "5173",
+"content_id": "5173",
+"resource_code": "DictionaryBibleThemes",
+"label": "5173: outward appearance",
+"language": "eng"
+},
+{
+"reference_id": "5844",
+"content_id": "5844",
+"resource_code": "DictionaryBibleThemes",
+"label": "5844: emotions",
+"language": "eng"
+},
+{
+"reference_id": "5940",
+"content_id": "5940",
+"resource_code": "DictionaryBibleThemes",
+"label": "5940: searching",
+"language": "eng"
+},
+{
+"reference_id": "5965",
+"content_id": "5965",
+"resource_code": "DictionaryBibleThemes",
+"label": "5965: temperament",
+"language": "eng"
+},
+{
+"reference_id": "6166",
+"content_id": "6166",
+"resource_code": "DictionaryBibleThemes",
+"label": "6166: flesh, sinful nature",
+"language": "eng"
+},
+{
+"reference_id": "8162",
+"content_id": "8162",
+"resource_code": "DictionaryBibleThemes",
+"label": "8162: spiritual vitality",
+"language": "eng"
+},
+{
+"reference_id": "8164",
+"content_id": "8164",
+"resource_code": "DictionaryBibleThemes",
+"label": "8164: spirituality",
+"language": "eng"
+}
+]
+}
+}
+]

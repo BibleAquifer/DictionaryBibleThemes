@@ -1,0 +1,202 @@
+[
+{
+"content_id": "5440",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5440: perjury",
+"media_type": "Text",
+"index_reference": "5440: perjury",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Swearing falsely, usually in a legal context, either by taking a false oath or by breaking one's oath later. God hates perjury.</p>\n<h2>God hates perjury</h2>\n<p><strong><a href=\"https://ref.ly/Zech8:16-Zech8:17\">ZEC 8:16–8:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps24:3-Ps24:4\">PSA 24:3–24:4</a>; <a href=\"https://ref.ly/Isa48:1\">ISA 48:1</a>; <a href=\"https://ref.ly/Jer5:2\">JER 5:2</a>, <a href=\"https://ref.ly/Jer7:9-Jer7:10\">JER 7:9–7:10</a>; <a href=\"https://ref.ly/Hos10:4\">HOS 10:4</a>; <a href=\"https://ref.ly/Zech5:3-Zech5:4\">ZEC 5:3–5:4</a>; <a href=\"https://ref.ly/Mal3:5\">MAL 3:5</a>; <a href=\"https://ref.ly/1Tim1:9-1Tim1:10\">1TI 1:9–1:10</a></p>\n<h2>The Law forbade perjury</h2>\n<p><a href=\"https://ref.ly/Exod20:16\">EXO 20:16</a> parallel <a href=\"https://ref.ly/Deut5:20\">DEU 5:20</a>; ; <a href=\"https://ref.ly/Exod23:1-Exod23:3\">EXO 23:1–23:3</a>; ; <a href=\"https://ref.ly/Lev19:12\">LEV 19:12</a>; ; <a href=\"https://ref.ly/Num30:2\">NUM 30:2</a></p>\n<h2>Punishment for perjury</h2>\n<p><a href=\"https://ref.ly/Lev6:1-Lev6:7\">LEV 6:1–6:7</a>; ; <a href=\"https://ref.ly/Deut19:16-Deut19:21\">DEU 19:16–19:21</a></p>\n<h2>Examples of perjury</h2>\n<h3>Against Naboth</h3>\n<p><a href=\"https://ref.ly/1Kgs21:1-1Kgs21:19\">1KI 21:1–21:19</a></p>\n<h3>Against Jesus Christ</h3>\n<p><a href=\"https://ref.ly/Matt26:59-Matt26:61\">MAT 26:59–26:61</a> parallel <a href=\"https://ref.ly/Mark14:55-Mark14:59\">MRK 14:55–14:59</a></p>\n<h3>Against Stephen</h3>\n<p><a href=\"https://ref.ly/Acts6:12-Acts6:14\">ACT 6:12–6:14</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "38008016",
+"start_ref_usfm": "ZEC 8:16",
+"end_ref": "38008017",
+"end_ref_usfm": "ZEC 8:17"
+},
+{
+"start_ref": "19024003",
+"start_ref_usfm": "PSA 24:3",
+"end_ref": "19024004",
+"end_ref_usfm": "PSA 24:4"
+},
+{
+"start_ref": "23048001",
+"start_ref_usfm": "ISA 48:1",
+"end_ref": "23048001",
+"end_ref_usfm": "ISA 48:1"
+},
+{
+"start_ref": "24005002",
+"start_ref_usfm": "JER 5:2",
+"end_ref": "24005002",
+"end_ref_usfm": "JER 5:2"
+},
+{
+"start_ref": "24007009",
+"start_ref_usfm": "JER 7:9",
+"end_ref": "24007010",
+"end_ref_usfm": "JER 7:10"
+},
+{
+"start_ref": "28010004",
+"start_ref_usfm": "HOS 10:4",
+"end_ref": "28010004",
+"end_ref_usfm": "HOS 10:4"
+},
+{
+"start_ref": "38005003",
+"start_ref_usfm": "ZEC 5:3",
+"end_ref": "38005004",
+"end_ref_usfm": "ZEC 5:4"
+},
+{
+"start_ref": "39003005",
+"start_ref_usfm": "MAL 3:5",
+"end_ref": "39003005",
+"end_ref_usfm": "MAL 3:5"
+},
+{
+"start_ref": "54001009",
+"start_ref_usfm": "1TI 1:9",
+"end_ref": "54001010",
+"end_ref_usfm": "1TI 1:10"
+},
+{
+"start_ref": "02020016",
+"start_ref_usfm": "EXO 20:16",
+"end_ref": "02020016",
+"end_ref_usfm": "EXO 20:16"
+},
+{
+"start_ref": "05005020",
+"start_ref_usfm": "DEU 5:20",
+"end_ref": "05005020",
+"end_ref_usfm": "DEU 5:20"
+},
+{
+"start_ref": "02023001",
+"start_ref_usfm": "EXO 23:1",
+"end_ref": "02023003",
+"end_ref_usfm": "EXO 23:3"
+},
+{
+"start_ref": "03019012",
+"start_ref_usfm": "LEV 19:12",
+"end_ref": "03019012",
+"end_ref_usfm": "LEV 19:12"
+},
+{
+"start_ref": "04030002",
+"start_ref_usfm": "NUM 30:2",
+"end_ref": "04030002",
+"end_ref_usfm": "NUM 30:2"
+},
+{
+"start_ref": "03006001",
+"start_ref_usfm": "LEV 6:1",
+"end_ref": "03006007",
+"end_ref_usfm": "LEV 6:7"
+},
+{
+"start_ref": "05019016",
+"start_ref_usfm": "DEU 19:16",
+"end_ref": "05019021",
+"end_ref_usfm": "DEU 19:21"
+},
+{
+"start_ref": "11021001",
+"start_ref_usfm": "1KI 21:1",
+"end_ref": "11021019",
+"end_ref_usfm": "1KI 21:19"
+},
+{
+"start_ref": "40026059",
+"start_ref_usfm": "MAT 26:59",
+"end_ref": "40026061",
+"end_ref_usfm": "MAT 26:61"
+},
+{
+"start_ref": "41014055",
+"start_ref_usfm": "MRK 14:55",
+"end_ref": "41014059",
+"end_ref_usfm": "MRK 14:59"
+},
+{
+"start_ref": "44006012",
+"start_ref_usfm": "ACT 6:12",
+"end_ref": "44006014",
+"end_ref_usfm": "ACT 6:14"
+}
+],
+"resource": [
+{
+"reference_id": "1461",
+"content_id": "1461",
+"resource_code": "DictionaryBibleThemes",
+"label": "1461: truth, nature of",
+"language": "eng"
+},
+{
+"reference_id": "5276",
+"content_id": "5276",
+"resource_code": "DictionaryBibleThemes",
+"label": "5276: crime",
+"language": "eng"
+},
+{
+"reference_id": "5277",
+"content_id": "5277",
+"resource_code": "DictionaryBibleThemes",
+"label": "5277: criminals",
+"language": "eng"
+},
+{
+"reference_id": "5361",
+"content_id": "5361",
+"resource_code": "DictionaryBibleThemes",
+"label": "5361: justice, human",
+"language": "eng"
+},
+{
+"reference_id": "5430",
+"content_id": "5430",
+"resource_code": "DictionaryBibleThemes",
+"label": "5430: oaths, human",
+"language": "eng"
+},
+{
+"reference_id": "5444",
+"content_id": "5444",
+"resource_code": "DictionaryBibleThemes",
+"label": "5444: pledges",
+"language": "eng"
+},
+{
+"reference_id": "8751",
+"content_id": "8751",
+"resource_code": "DictionaryBibleThemes",
+"label": "8751: false witness",
+"language": "eng"
+},
+{
+"reference_id": "8776",
+"content_id": "8776",
+"resource_code": "DictionaryBibleThemes",
+"label": "8776: lies",
+"language": "eng"
+},
+{
+"reference_id": "8828",
+"content_id": "8828",
+"resource_code": "DictionaryBibleThemes",
+"label": "8828: spite",
+"language": "eng"
+}
+]
+}
+}
+]

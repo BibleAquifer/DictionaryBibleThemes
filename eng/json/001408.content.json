@@ -1,0 +1,323 @@
+[
+{
+"content_id": "5890",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5890: insecurity",
+"media_type": "Text",
+"index_reference": "5890: insecurity",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Lack of security, often in relation to one's future or to one's present position. All human life is insecure, but the future of sinners is particularly dangerous and real security is found only in God.</p>\n<h2>The insecurity of human life</h2>\n<p><strong><a href=\"https://ref.ly/Isa40:6-Isa40:8\">ISA 40:6–40:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job1:13-Job1:21\">JOB 1:13–1:21</a>; <a href=\"https://ref.ly/Ps90:10\">PSA 90:10</a>, <a href=\"https://ref.ly/Ps146:3-Ps146:6\">PSA 146:3–146:6</a>; <a href=\"https://ref.ly/Eccl9:1\">ECC 9:1</a>, <a href=\"https://ref.ly/Eccl9:12\">ECC 9:12</a>, <a href=\"https://ref.ly/Eccl10:8-Eccl10:9\">ECC 10:8–10:9</a>; <a href=\"https://ref.ly/Jer51:58\">JER 51:58</a>; <a href=\"https://ref.ly/1Thess5:1-1Thess5:3\">1TH 5:1–5:3</a></p>\n<h2>The insecurity of the sinner's life</h2>\n<p><strong><a href=\"https://ref.ly/Ps37:1-Ps37:2\">PSA 37:1–37:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps37:9-Ps37:11\">PSA 37:9–37:11</a>; <a href=\"https://ref.ly/Prov6:12-Prov6:15\">PRO 6:12–6:15</a>, <a href=\"https://ref.ly/Prov11:5\">PRO 11:5</a>, <a href=\"https://ref.ly/Prov24:19-Prov24:22\">PRO 24:19–24:22</a>, <a href=\"https://ref.ly/Prov29:1\">PRO 29:1</a>; <a href=\"https://ref.ly/Isa30:12-Isa30:14\">ISA 30:12–30:14</a>, <a href=\"https://ref.ly/Isa47:8-Isa47:11\">ISA 47:8–47:11</a>; <a href=\"https://ref.ly/Jer6:13-Jer6:15\">JER 6:13–6:15</a>, <a href=\"https://ref.ly/Jer15:5-Jer15:9\">JER 15:5–15:9</a>, <a href=\"https://ref.ly/Jer49:16-Jer49:18\">JER 49:16–49:18</a>; <a href=\"https://ref.ly/Amos8:14\">AMO 8:14</a></p>\n<h2>The insecurity of the rich</h2>\n<p><strong><a href=\"https://ref.ly/1Tim6:17\">1TI 6:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov27:24\">PRO 27:24</a>; <a href=\"https://ref.ly/Luke12:15-Luke12:21\">LUK 12:15–12:21</a>; <a href=\"https://ref.ly/1Tim6:7-1Tim6:10\">1TI 6:7–6:10</a></p>\n<h2>Examples of behaviour motivated by insecurity</h2>\n<h3>Saul's vendetta against David</h3>\n<p><strong><a href=\"https://ref.ly/1Sam18:6-1Sam18:12\">1SA 18:6–18:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam18:17-1Sam18:29\">1SA 18:17–18:29</a>, <a href=\"https://ref.ly/1Sam19:1\">1SA 19:1</a>, <a href=\"https://ref.ly/1Sam19:9-1Sam19:17\">1SA 19:9–19:17</a>, <a href=\"https://ref.ly/1Sam20:30-1Sam20:31\">1SA 20:30–20:31</a></p>\n<h3>Assassination of political rivals</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs11:1\">2KI 11:1</a></strong> parallel <a href=\"https://ref.ly/2Chr22:10\">2CH 22:10</a> <em>See also</em> <a href=\"https://ref.ly/Judg9:1-Judg9:6\">JDG 9:1–9:6</a></p>\n<h2>True security is to be found in God alone</h2>\n<p><strong><a href=\"https://ref.ly/Prov14:26\">PRO 14:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut33:12\">DEU 33:12</a>; <a href=\"https://ref.ly/1Kgs2:45\">1KI 2:45</a>; <a href=\"https://ref.ly/Ps16:5\">PSA 16:5</a>, <a href=\"https://ref.ly/Ps48:8\">PSA 48:8</a>; <a href=\"https://ref.ly/Prov3:5-Prov3:6\">PRO 3:5–3:6</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23040006",
+"start_ref_usfm": "ISA 40:6",
+"end_ref": "23040008",
+"end_ref_usfm": "ISA 40:8"
+},
+{
+"start_ref": "18001013",
+"start_ref_usfm": "JOB 1:13",
+"end_ref": "18001021",
+"end_ref_usfm": "JOB 1:21"
+},
+{
+"start_ref": "19090010",
+"start_ref_usfm": "PSA 90:10",
+"end_ref": "19090010",
+"end_ref_usfm": "PSA 90:10"
+},
+{
+"start_ref": "19146003",
+"start_ref_usfm": "PSA 146:3",
+"end_ref": "19146006",
+"end_ref_usfm": "PSA 146:6"
+},
+{
+"start_ref": "21009001",
+"start_ref_usfm": "ECC 9:1",
+"end_ref": "21009001",
+"end_ref_usfm": "ECC 9:1"
+},
+{
+"start_ref": "21009012",
+"start_ref_usfm": "ECC 9:12",
+"end_ref": "21009012",
+"end_ref_usfm": "ECC 9:12"
+},
+{
+"start_ref": "21010008",
+"start_ref_usfm": "ECC 10:8",
+"end_ref": "21010009",
+"end_ref_usfm": "ECC 10:9"
+},
+{
+"start_ref": "24051058",
+"start_ref_usfm": "JER 51:58",
+"end_ref": "24051058",
+"end_ref_usfm": "JER 51:58"
+},
+{
+"start_ref": "52005001",
+"start_ref_usfm": "1TH 5:1",
+"end_ref": "52005003",
+"end_ref_usfm": "1TH 5:3"
+},
+{
+"start_ref": "19037001",
+"start_ref_usfm": "PSA 37:1",
+"end_ref": "19037002",
+"end_ref_usfm": "PSA 37:2"
+},
+{
+"start_ref": "19037009",
+"start_ref_usfm": "PSA 37:9",
+"end_ref": "19037011",
+"end_ref_usfm": "PSA 37:11"
+},
+{
+"start_ref": "20006012",
+"start_ref_usfm": "PRO 6:12",
+"end_ref": "20006015",
+"end_ref_usfm": "PRO 6:15"
+},
+{
+"start_ref": "20011005",
+"start_ref_usfm": "PRO 11:5",
+"end_ref": "20011005",
+"end_ref_usfm": "PRO 11:5"
+},
+{
+"start_ref": "20024019",
+"start_ref_usfm": "PRO 24:19",
+"end_ref": "20024022",
+"end_ref_usfm": "PRO 24:22"
+},
+{
+"start_ref": "20029001",
+"start_ref_usfm": "PRO 29:1",
+"end_ref": "20029001",
+"end_ref_usfm": "PRO 29:1"
+},
+{
+"start_ref": "23030012",
+"start_ref_usfm": "ISA 30:12",
+"end_ref": "23030014",
+"end_ref_usfm": "ISA 30:14"
+},
+{
+"start_ref": "23047008",
+"start_ref_usfm": "ISA 47:8",
+"end_ref": "23047011",
+"end_ref_usfm": "ISA 47:11"
+},
+{
+"start_ref": "24006013",
+"start_ref_usfm": "JER 6:13",
+"end_ref": "24006015",
+"end_ref_usfm": "JER 6:15"
+},
+{
+"start_ref": "24015005",
+"start_ref_usfm": "JER 15:5",
+"end_ref": "24015009",
+"end_ref_usfm": "JER 15:9"
+},
+{
+"start_ref": "24049016",
+"start_ref_usfm": "JER 49:16",
+"end_ref": "24049018",
+"end_ref_usfm": "JER 49:18"
+},
+{
+"start_ref": "30008014",
+"start_ref_usfm": "AMO 8:14",
+"end_ref": "30008014",
+"end_ref_usfm": "AMO 8:14"
+},
+{
+"start_ref": "54006017",
+"start_ref_usfm": "1TI 6:17",
+"end_ref": "54006017",
+"end_ref_usfm": "1TI 6:17"
+},
+{
+"start_ref": "20027024",
+"start_ref_usfm": "PRO 27:24",
+"end_ref": "20027024",
+"end_ref_usfm": "PRO 27:24"
+},
+{
+"start_ref": "42012015",
+"start_ref_usfm": "LUK 12:15",
+"end_ref": "42012021",
+"end_ref_usfm": "LUK 12:21"
+},
+{
+"start_ref": "54006007",
+"start_ref_usfm": "1TI 6:7",
+"end_ref": "54006010",
+"end_ref_usfm": "1TI 6:10"
+},
+{
+"start_ref": "09018006",
+"start_ref_usfm": "1SA 18:6",
+"end_ref": "09018012",
+"end_ref_usfm": "1SA 18:12"
+},
+{
+"start_ref": "09018017",
+"start_ref_usfm": "1SA 18:17",
+"end_ref": "09018029",
+"end_ref_usfm": "1SA 18:29"
+},
+{
+"start_ref": "09019001",
+"start_ref_usfm": "1SA 19:1",
+"end_ref": "09019001",
+"end_ref_usfm": "1SA 19:1"
+},
+{
+"start_ref": "09019009",
+"start_ref_usfm": "1SA 19:9",
+"end_ref": "09019017",
+"end_ref_usfm": "1SA 19:17"
+},
+{
+"start_ref": "09020030",
+"start_ref_usfm": "1SA 20:30",
+"end_ref": "09020031",
+"end_ref_usfm": "1SA 20:31"
+},
+{
+"start_ref": "12011001",
+"start_ref_usfm": "2KI 11:1",
+"end_ref": "12011001",
+"end_ref_usfm": "2KI 11:1"
+},
+{
+"start_ref": "14022010",
+"start_ref_usfm": "2CH 22:10",
+"end_ref": "14022010",
+"end_ref_usfm": "2CH 22:10"
+},
+{
+"start_ref": "07009001",
+"start_ref_usfm": "JDG 9:1",
+"end_ref": "07009006",
+"end_ref_usfm": "JDG 9:6"
+},
+{
+"start_ref": "20014026",
+"start_ref_usfm": "PRO 14:26",
+"end_ref": "20014026",
+"end_ref_usfm": "PRO 14:26"
+},
+{
+"start_ref": "05033012",
+"start_ref_usfm": "DEU 33:12",
+"end_ref": "05033012",
+"end_ref_usfm": "DEU 33:12"
+},
+{
+"start_ref": "11002045",
+"start_ref_usfm": "1KI 2:45",
+"end_ref": "11002045",
+"end_ref_usfm": "1KI 2:45"
+},
+{
+"start_ref": "19016005",
+"start_ref_usfm": "PSA 16:5",
+"end_ref": "19016005",
+"end_ref_usfm": "PSA 16:5"
+},
+{
+"start_ref": "19048008",
+"start_ref_usfm": "PSA 48:8",
+"end_ref": "19048008",
+"end_ref_usfm": "PSA 48:8"
+},
+{
+"start_ref": "20003005",
+"start_ref_usfm": "PRO 3:5",
+"end_ref": "20003006",
+"end_ref_usfm": "PRO 3:6"
+}
+],
+"resource": [
+{
+"reference_id": "4015",
+"content_id": "4015",
+"resource_code": "DictionaryBibleThemes",
+"label": "4015: life",
+"language": "eng"
+},
+{
+"reference_id": "5398",
+"content_id": "5398",
+"resource_code": "DictionaryBibleThemes",
+"label": "5398: loss",
+"language": "eng"
+},
+{
+"reference_id": "5828",
+"content_id": "5828",
+"resource_code": "DictionaryBibleThemes",
+"label": "5828: danger",
+"language": "eng"
+},
+{
+"reference_id": "5839",
+"content_id": "5839",
+"resource_code": "DictionaryBibleThemes",
+"label": "5839: dissatisfaction",
+"language": "eng"
+},
+{
+"reference_id": "5877",
+"content_id": "5877",
+"resource_code": "DictionaryBibleThemes",
+"label": "5877: hesitation",
+"language": "eng"
+},
+{
+"reference_id": "5884",
+"content_id": "5884",
+"resource_code": "DictionaryBibleThemes",
+"label": "5884: indecision",
+"language": "eng"
+},
+{
+"reference_id": "5942",
+"content_id": "5942",
+"resource_code": "DictionaryBibleThemes",
+"label": "5942: security",
+"language": "eng"
+},
+{
+"reference_id": "6040",
+"content_id": "6040",
+"resource_code": "DictionaryBibleThemes",
+"label": "6040: sinners",
+"language": "eng"
+},
+{
+"reference_id": "8722",
+"content_id": "8722",
+"resource_code": "DictionaryBibleThemes",
+"label": "8722: doubt, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8808",
+"content_id": "8808",
+"resource_code": "DictionaryBibleThemes",
+"label": "8808: riches",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5394",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5394: lordship",
+"media_type": "Text",
+"index_reference": "5394: lordship",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The exercise of power and authority. Lordship belongs to God by nature but may be delegated to human beings. The lordship of Jesus Christ over humanity rests upon his divine nature.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5395",
+"content_id": "5395",
+"resource_code": "DictionaryBibleThemes",
+"label": "5395: lordship, human and divine",
+"language": "eng"
+},
+{
+"reference_id": "5396",
+"content_id": "5396",
+"resource_code": "DictionaryBibleThemes",
+"label": "5396: lordship, of Jesus Christ",
+"language": "eng"
+}
+]
+}
+}
+]

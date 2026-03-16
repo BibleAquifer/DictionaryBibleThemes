@@ -1,0 +1,53 @@
+[
+{
+"content_id": "9310",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9310: resurrection",
+"media_type": "Text",
+"index_reference": "9310: resurrection",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The raising of Jesus Christ from the dead by God after his suffering and death on the cross. Historical evidence for his resurrection includes the empty tomb and the appearance of the risen Christ to the disciples. It has significance both in relation to the identity of Jesus Christ and the future hope of believers.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "9311",
+"content_id": "9311",
+"resource_code": "DictionaryBibleThemes",
+"label": "9311: resurrection, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "9312",
+"content_id": "9312",
+"resource_code": "DictionaryBibleThemes",
+"label": "9312: resurrection, significance of Jesus Christ's",
+"language": "eng"
+},
+{
+"reference_id": "9313",
+"content_id": "9313",
+"resource_code": "DictionaryBibleThemes",
+"label": "9313: resurrection, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "9314",
+"content_id": "9314",
+"resource_code": "DictionaryBibleThemes",
+"label": "9314: resurrection, of the dead",
+"language": "eng"
+},
+{
+"reference_id": "9315",
+"content_id": "9315",
+"resource_code": "DictionaryBibleThemes",
+"label": "9315: resurrection, of believers",
+"language": "eng"
+}
+]
+}
+}
+]

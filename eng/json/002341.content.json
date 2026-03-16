@@ -1,0 +1,313 @@
+[
+{
+"content_id": "8706",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8706: apostasy, warnings against personal",
+"media_type": "Text",
+"index_reference": "8706: apostasy, warnings against personal",
+"language": "eng",
+"review_level": "None",
+"content": "<p>It is possible for individuals to fall away from faith or turn against Jesus Christ. Scripture identifies this danger and warns against its negative consequences.</p>\n<h2>Personal apostasy described</h2>\n<p><strong><a href=\"https://ref.ly/Heb6:4-Heb6:8\">HEB 6:4–6:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt13:20-Matt13:21\">MAT 13:20–13:21</a> parallels <a href=\"https://ref.ly/Mark4:16-Mark4:17\">MRK 4:16–4:17</a>, <a href=\"https://ref.ly/Luke8:13\">LUK 8:13</a>; <a href=\"https://ref.ly/Matt24:10-Matt24:12\">MAT 24:10–24:12</a>; <a href=\"https://ref.ly/Gal1:6\">GAL 1:6</a>, <a href=\"https://ref.ly/Gal5:4\">GAL 5:4</a>; <a href=\"https://ref.ly/2Thess2:3\">2TH 2:3</a>; <a href=\"https://ref.ly/2Tim4:3-2Tim4:4\">2TI 4:3–4:4</a>; <a href=\"https://ref.ly/1Tim4:1\">1TI 4:1</a>; <a href=\"https://ref.ly/1John2:19\">1JN 2:19</a>, <a href=\"https://ref.ly/1John5:16\">1JN 5:16</a></p>\n<h2>Warnings against personal apostasy</h2>\n<p><strong><a href=\"https://ref.ly/Heb10:26-Heb10:31\">HEB 10:26–10:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt10:33\">MAT 10:33</a> parallels <a href=\"https://ref.ly/Mark8:38\">MRK 8:38</a>, <a href=\"https://ref.ly/Luke12:9\">LUK 12:9</a>; <a href=\"https://ref.ly/John15:6\">JHN 15:6</a>; <a href=\"https://ref.ly/2Tim2:12\">2TI 2:12</a>; <a href=\"https://ref.ly/Heb3:12\">HEB 3:12</a>; <a href=\"https://ref.ly/2Pet3:17\">2PE 3:17</a></p>\n<h2>OT examples of personal apostasy</h2>\n<p><a href=\"https://ref.ly/Deut13:1-Deut13:11\">DEU 13:1–13:11</a> <em>an unfruitful prophet or relative</em>; <a href=\"https://ref.ly/1Sam15:11\">1SA 15:11</a>, <a href=\"https://ref.ly/1Sam15:28\">1SA 15:28</a>, <a href=\"https://ref.ly/1Sam16:14\">1SA 16:14</a>; ; <a href=\"https://ref.ly/2Sam7:15\">2SA 7:15</a>; \n<a href=\"https://ref.ly/2Chr26:16-2Chr26:21\">2CH 26:16–26:21</a> <em>King Uzziah</em>; ; <a href=\"https://ref.ly/2Chr28:19-2Chr28:27\">2CH 28:19–28:27</a> <em>King Ahaz</em></p>\n<h2>NT examples of personal apostasy</h2>\n<p><a href=\"https://ref.ly/Matt26:14-Matt26:16\">MAT 26:14–26:16</a> parallels <a href=\"https://ref.ly/Mark14:10-Mark14:11\">MRK 14:10–14:11</a>, <a href=\"https://ref.ly/Luke22:3-Luke22:6\">LUK 22:3–22:6</a> <em>Judas</em>; ; <a href=\"https://ref.ly/Luke13:26-Luke13:27\">LUK 13:26–13:27</a>; ; <a href=\"https://ref.ly/John6:66\">JHN 6:66</a>; ; <a href=\"https://ref.ly/Acts5:1-Acts5:11\">ACT 5:1–5:11</a> <em>Ananias and Sapphira</em>; ; <a href=\"https://ref.ly/1Tim1:19-1Tim1:20\">1TI 1:19–1:20</a> <em>Hymenaeus and Alexander</em>; ; <a href=\"https://ref.ly/Titus1:16\">TIT 1:16</a>; ; <a href=\"https://ref.ly/2Tim4:10\">2TI 4:10</a> <em>Demas</em>; ; <a href=\"https://ref.ly/2Pet2:1-2Pet2:3\">2PE 2:1–2:3</a>, <a href=\"https://ref.ly/2Pet2:10-2Pet2:15\">2PE 2:10–2:15</a>, <a href=\"https://ref.ly/2Pet2:20-2Pet2:22\">2PE 2:20–2:22</a>; ; <a href=\"https://ref.ly/Jude1:4\">JUD 1:4</a>, <a href=\"https://ref.ly/Jude1:8-Jude1:16\">JUD 1:8–1:16</a>; ; <a href=\"https://ref.ly/Rev2:20-Rev2:22\">REV 2:20–2:22</a> <em>Jezebel</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "58006004",
+"start_ref_usfm": "HEB 6:4",
+"end_ref": "58006008",
+"end_ref_usfm": "HEB 6:8"
+},
+{
+"start_ref": "40013020",
+"start_ref_usfm": "MAT 13:20",
+"end_ref": "40013021",
+"end_ref_usfm": "MAT 13:21"
+},
+{
+"start_ref": "41004016",
+"start_ref_usfm": "MRK 4:16",
+"end_ref": "41004017",
+"end_ref_usfm": "MRK 4:17"
+},
+{
+"start_ref": "42008013",
+"start_ref_usfm": "LUK 8:13",
+"end_ref": "42008013",
+"end_ref_usfm": "LUK 8:13"
+},
+{
+"start_ref": "40024010",
+"start_ref_usfm": "MAT 24:10",
+"end_ref": "40024012",
+"end_ref_usfm": "MAT 24:12"
+},
+{
+"start_ref": "48001006",
+"start_ref_usfm": "GAL 1:6",
+"end_ref": "48001006",
+"end_ref_usfm": "GAL 1:6"
+},
+{
+"start_ref": "48005004",
+"start_ref_usfm": "GAL 5:4",
+"end_ref": "48005004",
+"end_ref_usfm": "GAL 5:4"
+},
+{
+"start_ref": "53002003",
+"start_ref_usfm": "2TH 2:3",
+"end_ref": "53002003",
+"end_ref_usfm": "2TH 2:3"
+},
+{
+"start_ref": "55004003",
+"start_ref_usfm": "2TI 4:3",
+"end_ref": "55004004",
+"end_ref_usfm": "2TI 4:4"
+},
+{
+"start_ref": "54004001",
+"start_ref_usfm": "1TI 4:1",
+"end_ref": "54004001",
+"end_ref_usfm": "1TI 4:1"
+},
+{
+"start_ref": "62002019",
+"start_ref_usfm": "1JN 2:19",
+"end_ref": "62002019",
+"end_ref_usfm": "1JN 2:19"
+},
+{
+"start_ref": "62005016",
+"start_ref_usfm": "1JN 5:16",
+"end_ref": "62005016",
+"end_ref_usfm": "1JN 5:16"
+},
+{
+"start_ref": "58010026",
+"start_ref_usfm": "HEB 10:26",
+"end_ref": "58010031",
+"end_ref_usfm": "HEB 10:31"
+},
+{
+"start_ref": "40010033",
+"start_ref_usfm": "MAT 10:33",
+"end_ref": "40010033",
+"end_ref_usfm": "MAT 10:33"
+},
+{
+"start_ref": "41008038",
+"start_ref_usfm": "MRK 8:38",
+"end_ref": "41008038",
+"end_ref_usfm": "MRK 8:38"
+},
+{
+"start_ref": "42012009",
+"start_ref_usfm": "LUK 12:9",
+"end_ref": "42012009",
+"end_ref_usfm": "LUK 12:9"
+},
+{
+"start_ref": "43015006",
+"start_ref_usfm": "JHN 15:6",
+"end_ref": "43015006",
+"end_ref_usfm": "JHN 15:6"
+},
+{
+"start_ref": "55002012",
+"start_ref_usfm": "2TI 2:12",
+"end_ref": "55002012",
+"end_ref_usfm": "2TI 2:12"
+},
+{
+"start_ref": "58003012",
+"start_ref_usfm": "HEB 3:12",
+"end_ref": "58003012",
+"end_ref_usfm": "HEB 3:12"
+},
+{
+"start_ref": "61003017",
+"start_ref_usfm": "2PE 3:17",
+"end_ref": "61003017",
+"end_ref_usfm": "2PE 3:17"
+},
+{
+"start_ref": "05013001",
+"start_ref_usfm": "DEU 13:1",
+"end_ref": "05013011",
+"end_ref_usfm": "DEU 13:11"
+},
+{
+"start_ref": "09015011",
+"start_ref_usfm": "1SA 15:11",
+"end_ref": "09015011",
+"end_ref_usfm": "1SA 15:11"
+},
+{
+"start_ref": "09015028",
+"start_ref_usfm": "1SA 15:28",
+"end_ref": "09015028",
+"end_ref_usfm": "1SA 15:28"
+},
+{
+"start_ref": "09016014",
+"start_ref_usfm": "1SA 16:14",
+"end_ref": "09016014",
+"end_ref_usfm": "1SA 16:14"
+},
+{
+"start_ref": "10007015",
+"start_ref_usfm": "2SA 7:15",
+"end_ref": "10007015",
+"end_ref_usfm": "2SA 7:15"
+},
+{
+"start_ref": "14026016",
+"start_ref_usfm": "2CH 26:16",
+"end_ref": "14026021",
+"end_ref_usfm": "2CH 26:21"
+},
+{
+"start_ref": "14028019",
+"start_ref_usfm": "2CH 28:19",
+"end_ref": "14028027",
+"end_ref_usfm": "2CH 28:27"
+},
+{
+"start_ref": "40026014",
+"start_ref_usfm": "MAT 26:14",
+"end_ref": "40026016",
+"end_ref_usfm": "MAT 26:16"
+},
+{
+"start_ref": "41014010",
+"start_ref_usfm": "MRK 14:10",
+"end_ref": "41014011",
+"end_ref_usfm": "MRK 14:11"
+},
+{
+"start_ref": "42022003",
+"start_ref_usfm": "LUK 22:3",
+"end_ref": "42022006",
+"end_ref_usfm": "LUK 22:6"
+},
+{
+"start_ref": "42013026",
+"start_ref_usfm": "LUK 13:26",
+"end_ref": "42013027",
+"end_ref_usfm": "LUK 13:27"
+},
+{
+"start_ref": "43006066",
+"start_ref_usfm": "JHN 6:66",
+"end_ref": "43006066",
+"end_ref_usfm": "JHN 6:66"
+},
+{
+"start_ref": "44005001",
+"start_ref_usfm": "ACT 5:1",
+"end_ref": "44005011",
+"end_ref_usfm": "ACT 5:11"
+},
+{
+"start_ref": "54001019",
+"start_ref_usfm": "1TI 1:19",
+"end_ref": "54001020",
+"end_ref_usfm": "1TI 1:20"
+},
+{
+"start_ref": "56001016",
+"start_ref_usfm": "TIT 1:16",
+"end_ref": "56001016",
+"end_ref_usfm": "TIT 1:16"
+},
+{
+"start_ref": "55004010",
+"start_ref_usfm": "2TI 4:10",
+"end_ref": "55004010",
+"end_ref_usfm": "2TI 4:10"
+},
+{
+"start_ref": "61002001",
+"start_ref_usfm": "2PE 2:1",
+"end_ref": "61002003",
+"end_ref_usfm": "2PE 2:3"
+},
+{
+"start_ref": "61002010",
+"start_ref_usfm": "2PE 2:10",
+"end_ref": "61002015",
+"end_ref_usfm": "2PE 2:15"
+},
+{
+"start_ref": "61002020",
+"start_ref_usfm": "2PE 2:20",
+"end_ref": "61002022",
+"end_ref_usfm": "2PE 2:22"
+},
+{
+"start_ref": "65001004",
+"start_ref_usfm": "JUD 1:4",
+"end_ref": "65001004",
+"end_ref_usfm": "JUD 1:4"
+},
+{
+"start_ref": "65001008",
+"start_ref_usfm": "JUD 1:8",
+"end_ref": "65001016",
+"end_ref_usfm": "JUD 1:16"
+},
+{
+"start_ref": "66002020",
+"start_ref_usfm": "REV 2:20",
+"end_ref": "66002022",
+"end_ref_usfm": "REV 2:22"
+}
+],
+"resource": [
+{
+"reference_id": "6218",
+"content_id": "6218",
+"resource_code": "DictionaryBibleThemes",
+"label": "6218: provoking God",
+"language": "eng"
+},
+{
+"reference_id": "6232",
+"content_id": "6232",
+"resource_code": "DictionaryBibleThemes",
+"label": "6232: rejection of God, results of",
+"language": "eng"
+},
+{
+"reference_id": "8712",
+"content_id": "8712",
+"resource_code": "DictionaryBibleThemes",
+"label": "8712: denial of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "8749",
+"content_id": "8749",
+"resource_code": "DictionaryBibleThemes",
+"label": "8749: false teachers",
+"language": "eng"
+},
+{
+"reference_id": "8766",
+"content_id": "8766",
+"resource_code": "DictionaryBibleThemes",
+"label": "8766: heresies",
+"language": "eng"
+},
+{
+"reference_id": "8839",
+"content_id": "8839",
+"resource_code": "DictionaryBibleThemes",
+"label": "8839: unfaithfulness",
+"language": "eng"
+}
+]
+}
+}
+]

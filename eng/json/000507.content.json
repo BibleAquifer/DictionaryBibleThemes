@@ -1,0 +1,126 @@
+[
+{
+"content_id": "4639",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4639: dung and manure",
+"media_type": "Text",
+"index_reference": "4639: dung and manure",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Human dung is considered unclean</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Deut23:12-Deut23:14\">DEU 23:12–23:14</a>; <a href=\"https://ref.ly/Ezek4:12-Ezek4:14\">EZK 4:12–4:14</a></p>\n<h3>The Dung Gate of Jerusalem</h3>\n<p><a href=\"https://ref.ly/Neh2:13\">NEH 2:13</a>, <a href=\"https://ref.ly/Neh3:13-Neh3:14\">NEH 3:13–3:14</a>, <a href=\"https://ref.ly/Neh12:31\">NEH 12:31</a></p>\n<h2>Uses of manure</h2>\n<h3>As fertiliser</h3>\n<p><a href=\"https://ref.ly/Luke13:8\">LUK 13:8</a>, <a href=\"https://ref.ly/Luke14:35\">LUK 14:35</a></p>\n<h3>As fuel</h3>\n<p><a href=\"https://ref.ly/Ezek4:15\">EZK 4:15</a></p>\n<h2>Symbolic references to dung</h2>\n<h3>As fuel</h3>\n<p><a href=\"https://ref.ly/1Kgs14:10\">1KI 14:10</a></p>\n<h3>As something perishable</h3>\n<p><a href=\"https://ref.ly/Job20:7\">JOB 20:7</a></p>\n<h3>As something trampled down</h3>\n<p><a href=\"https://ref.ly/Isa25:10\">ISA 25:10</a></p>\n<h3>As something worthless</h3>\n<p><a href=\"https://ref.ly/Phil3:8\">PHP 3:8</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05023012",
+"start_ref_usfm": "DEU 23:12",
+"end_ref": "05023014",
+"end_ref_usfm": "DEU 23:14"
+},
+{
+"start_ref": "26004012",
+"start_ref_usfm": "EZK 4:12",
+"end_ref": "26004014",
+"end_ref_usfm": "EZK 4:14"
+},
+{
+"start_ref": "16002013",
+"start_ref_usfm": "NEH 2:13",
+"end_ref": "16002013",
+"end_ref_usfm": "NEH 2:13"
+},
+{
+"start_ref": "16003013",
+"start_ref_usfm": "NEH 3:13",
+"end_ref": "16003014",
+"end_ref_usfm": "NEH 3:14"
+},
+{
+"start_ref": "16012031",
+"start_ref_usfm": "NEH 12:31",
+"end_ref": "16012031",
+"end_ref_usfm": "NEH 12:31"
+},
+{
+"start_ref": "42013008",
+"start_ref_usfm": "LUK 13:8",
+"end_ref": "42013008",
+"end_ref_usfm": "LUK 13:8"
+},
+{
+"start_ref": "42014035",
+"start_ref_usfm": "LUK 14:35",
+"end_ref": "42014035",
+"end_ref_usfm": "LUK 14:35"
+},
+{
+"start_ref": "26004015",
+"start_ref_usfm": "EZK 4:15",
+"end_ref": "26004015",
+"end_ref_usfm": "EZK 4:15"
+},
+{
+"start_ref": "11014010",
+"start_ref_usfm": "1KI 14:10",
+"end_ref": "11014010",
+"end_ref_usfm": "1KI 14:10"
+},
+{
+"start_ref": "18020007",
+"start_ref_usfm": "JOB 20:7",
+"end_ref": "18020007",
+"end_ref_usfm": "JOB 20:7"
+},
+{
+"start_ref": "23025010",
+"start_ref_usfm": "ISA 25:10",
+"end_ref": "23025010",
+"end_ref_usfm": "ISA 25:10"
+},
+{
+"start_ref": "50003008",
+"start_ref_usfm": "PHP 3:8",
+"end_ref": "50003008",
+"end_ref_usfm": "PHP 3:8"
+}
+],
+"resource": [
+{
+"reference_id": "4406",
+"content_id": "4406",
+"resource_code": "DictionaryBibleThemes",
+"label": "4406: agriculture",
+"language": "eng"
+},
+{
+"reference_id": "5268",
+"content_id": "5268",
+"resource_code": "DictionaryBibleThemes",
+"label": "5268: cooking",
+"language": "eng"
+},
+{
+"reference_id": "5979",
+"content_id": "5979",
+"resource_code": "DictionaryBibleThemes",
+"label": "5979: waste",
+"language": "eng"
+},
+{
+"reference_id": "6151",
+"content_id": "6151",
+"resource_code": "DictionaryBibleThemes",
+"label": "6151: dirt",
+"language": "eng"
+},
+{
+"reference_id": "7340",
+"content_id": "7340",
+"resource_code": "DictionaryBibleThemes",
+"label": "7340: clean and unclean",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,177 @@
+[
+{
+"content_id": "6654",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6654: forgiveness, Jesus Christ's ministry of",
+"media_type": "Text",
+"index_reference": "6654: forgiveness, jesus christ's ministry of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A central feature of Jesus Christ's ministry was his declaration that believers' sins were forgiven through their faith in him.</p>\n<h2>Jesus Christ's ministry of forgiveness was foretold</h2>\n<p><strong><a href=\"https://ref.ly/Matt1:20-Matt1:21\">MAT 1:20–1:21</a></strong>; <strong><a href=\"https://ref.ly/John1:29\">JHN 1:29</a></strong></p>\n<h2>Jesus Christ's exercise of forgiveness</h2>\n<p><strong><a href=\"https://ref.ly/Luke23:33-Luke23:34\">LUK 23:33–23:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/John8:3-John8:11\">JHN 8:3–8:11</a></p>\n<h2>Jesus Christ has authority on account of his divinity to forgive sins</h2>\n<p><strong><a href=\"https://ref.ly/Matt9:1-Matt9:8\">MAT 9:1–9:8</a></strong> parallels <a href=\"https://ref.ly/Mark2:1-Mark2:12\">MRK 2:1–2:12</a>, <a href=\"https://ref.ly/Luke5:17-Luke5:26\">LUK 5:17–5:26</a> <em>Jesus Christ's authority to forgive is authenticated by his healing of the paralytic.</em></p>\n<h2>People's offence at Jesus Christ's exercise of forgiveness</h2>\n<p><strong><a href=\"https://ref.ly/Mark2:5-Mark2:7\">MRK 2:5–2:7</a></strong> parallels <a href=\"https://ref.ly/Matt9:2-Matt9:3\">MAT 9:2–9:3</a>, <a href=\"https://ref.ly/Luke5:20-Luke5:21\">LUK 5:20–5:21</a></p>\n<h2>Parables of forgiveness</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Matt18:23-Matt18:35\">MAT 18:23–18:35</a> <em>the unmerciful servant</em>; <a href=\"https://ref.ly/Luke7:36-Luke7:50\">LUK 7:36–7:50</a>, <a href=\"https://ref.ly/Luke15:11-Luke15:32\">LUK 15:11–15:32</a> <em>the lost son</em></p>\n<h2>The church's ministry of forgiveness in Jesus Christ's name</h2>\n<p><strong><a href=\"https://ref.ly/John20:21-John20:23\">JHN 20:21–20:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts2:38\">ACT 2:38</a>, <a href=\"https://ref.ly/Acts13:38\">ACT 13:38</a>, <a href=\"https://ref.ly/Acts26:15-Acts26:18\">ACT 26:15–26:18</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40001020",
+"start_ref_usfm": "MAT 1:20",
+"end_ref": "40001021",
+"end_ref_usfm": "MAT 1:21"
+},
+{
+"start_ref": "43001029",
+"start_ref_usfm": "JHN 1:29",
+"end_ref": "43001029",
+"end_ref_usfm": "JHN 1:29"
+},
+{
+"start_ref": "42023033",
+"start_ref_usfm": "LUK 23:33",
+"end_ref": "42023034",
+"end_ref_usfm": "LUK 23:34"
+},
+{
+"start_ref": "43008003",
+"start_ref_usfm": "JHN 8:3",
+"end_ref": "43008011",
+"end_ref_usfm": "JHN 8:11"
+},
+{
+"start_ref": "40009001",
+"start_ref_usfm": "MAT 9:1",
+"end_ref": "40009008",
+"end_ref_usfm": "MAT 9:8"
+},
+{
+"start_ref": "41002001",
+"start_ref_usfm": "MRK 2:1",
+"end_ref": "41002012",
+"end_ref_usfm": "MRK 2:12"
+},
+{
+"start_ref": "42005017",
+"start_ref_usfm": "LUK 5:17",
+"end_ref": "42005026",
+"end_ref_usfm": "LUK 5:26"
+},
+{
+"start_ref": "41002005",
+"start_ref_usfm": "MRK 2:5",
+"end_ref": "41002007",
+"end_ref_usfm": "MRK 2:7"
+},
+{
+"start_ref": "40009002",
+"start_ref_usfm": "MAT 9:2",
+"end_ref": "40009003",
+"end_ref_usfm": "MAT 9:3"
+},
+{
+"start_ref": "42005020",
+"start_ref_usfm": "LUK 5:20",
+"end_ref": "42005021",
+"end_ref_usfm": "LUK 5:21"
+},
+{
+"start_ref": "40018023",
+"start_ref_usfm": "MAT 18:23",
+"end_ref": "40018035",
+"end_ref_usfm": "MAT 18:35"
+},
+{
+"start_ref": "42007036",
+"start_ref_usfm": "LUK 7:36",
+"end_ref": "42007050",
+"end_ref_usfm": "LUK 7:50"
+},
+{
+"start_ref": "42015011",
+"start_ref_usfm": "LUK 15:11",
+"end_ref": "42015032",
+"end_ref_usfm": "LUK 15:32"
+},
+{
+"start_ref": "43020021",
+"start_ref_usfm": "JHN 20:21",
+"end_ref": "43020023",
+"end_ref_usfm": "JHN 20:23"
+},
+{
+"start_ref": "44002038",
+"start_ref_usfm": "ACT 2:38",
+"end_ref": "44002038",
+"end_ref_usfm": "ACT 2:38"
+},
+{
+"start_ref": "44013038",
+"start_ref_usfm": "ACT 13:38",
+"end_ref": "44013038",
+"end_ref_usfm": "ACT 13:38"
+},
+{
+"start_ref": "44026015",
+"start_ref_usfm": "ACT 26:15",
+"end_ref": "44026018",
+"end_ref_usfm": "ACT 26:18"
+}
+],
+"resource": [
+{
+"reference_id": "1352",
+"content_id": "1352",
+"resource_code": "DictionaryBibleThemes",
+"label": "1352: covenant, the new",
+"language": "eng"
+},
+{
+"reference_id": "2012",
+"content_id": "2012",
+"resource_code": "DictionaryBibleThemes",
+"label": "2012: Jesus Christ, authority of",
+"language": "eng"
+},
+{
+"reference_id": "2351",
+"content_id": "2351",
+"resource_code": "DictionaryBibleThemes",
+"label": "2351: Jesus Christ, miracles of",
+"language": "eng"
+},
+{
+"reference_id": "2357",
+"content_id": "2357",
+"resource_code": "DictionaryBibleThemes",
+"label": "2357: Jesus Christ, parables of",
+"language": "eng"
+},
+{
+"reference_id": "2424",
+"content_id": "2424",
+"resource_code": "DictionaryBibleThemes",
+"label": "2424: gospel, promises of",
+"language": "eng"
+},
+{
+"reference_id": "2530",
+"content_id": "2530",
+"resource_code": "DictionaryBibleThemes",
+"label": "2530: Jesus Christ, death of",
+"language": "eng"
+},
+{
+"reference_id": "2545",
+"content_id": "2545",
+"resource_code": "DictionaryBibleThemes",
+"label": "2545: Jesus Christ, opposition to",
+"language": "eng"
+},
+{
+"reference_id": "5438",
+"content_id": "5438",
+"resource_code": "DictionaryBibleThemes",
+"label": "5438: parables",
+"language": "eng"
+}
+]
+}
+}
+]

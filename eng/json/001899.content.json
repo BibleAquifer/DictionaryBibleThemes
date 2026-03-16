@@ -1,0 +1,145 @@
+[
+{
+"content_id": "7715",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7715: deacons",
+"media_type": "Text",
+"index_reference": "7715: deacons",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Those who “serve” in the Christian community, assisting the elders or overseers (bishops). The Greek word which the NIV translates four times as “deacon” occurs a further 25 times in the NT, where it is translated as “servant”. It seems that all Christians have a general servant role, whereas some (deacons) are called to a specific office of service within the church.</p>\n<h2>The Seven: assistants to the apostles</h2>\n<h3>Why they were needed</h3>\n<p><strong><a href=\"https://ref.ly/Acts6:1-Acts6:4\">ACT 6:1–6:4</a></strong> <em>The verb “wait” means “to serve”.</em></p>\n<h3>Their qualifications and selection</h3>\n<p><strong><a href=\"https://ref.ly/Acts6:3\">ACT 6:3</a></strong></p>\n<h3>Their names and appointment</h3>\n<p><strong><a href=\"https://ref.ly/Acts6:5-Acts6:6\">ACT 6:5–6:6</a></strong> <em>Although the Seven are not actually called “deacons”, they were probably the earliest example of Christians carrying out the tasks which came to be linked with deacons.</em></p>\n<h2>Deacons were assistants to overseers in Philippi</h2>\n<p><strong><a href=\"https://ref.ly/Phil1:1\">PHP 1:1</a></strong> <em>All Christians are “saints” (that is, set apart for God), but overseers and deacons have specific roles assigned to them.</em></p>\n<h2>Qualifications for men and women deacons</h2>\n<p><strong><a href=\"https://ref.ly/1Tim3:8-1Tim3:13\">1TI 3:8–3:13</a></strong> <em>There is no NT description of the precise role of deacons (although <a href=\"https://ref.ly/Acts6:1-Acts6:4\">Ac 6:1–4</a> may imply a certain role). These qualifications would be appropriate for people responsible for financial management, administration, and social service, such as that offered to widows</em>; <strong><a href=\"https://ref.ly/1Tim3:11\">1TI 3:11</a></strong> <em>The women may be deacons' wives (NIV text), or deaconesses (NIV footnote).</em></p>\n<h2>Phoebe, a deaconess</h2>\n<p><strong><a href=\"https://ref.ly/Rom16:1\">ROM 16:1</a></strong> <em>NIV footnote.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44006001",
+"start_ref_usfm": "ACT 6:1",
+"end_ref": "44006004",
+"end_ref_usfm": "ACT 6:4"
+},
+{
+"start_ref": "44006003",
+"start_ref_usfm": "ACT 6:3",
+"end_ref": "44006003",
+"end_ref_usfm": "ACT 6:3"
+},
+{
+"start_ref": "44006005",
+"start_ref_usfm": "ACT 6:5",
+"end_ref": "44006006",
+"end_ref_usfm": "ACT 6:6"
+},
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001001",
+"end_ref_usfm": "PHP 1:1"
+},
+{
+"start_ref": "54003008",
+"start_ref_usfm": "1TI 3:8",
+"end_ref": "54003013",
+"end_ref_usfm": "1TI 3:13"
+},
+{
+"start_ref": "54003011",
+"start_ref_usfm": "1TI 3:11",
+"end_ref": "54003011",
+"end_ref_usfm": "1TI 3:11"
+},
+{
+"start_ref": "45016001",
+"start_ref_usfm": "ROM 16:1",
+"end_ref": "45016001",
+"end_ref_usfm": "ROM 16:1"
+}
+],
+"resource": [
+{
+"reference_id": "2327",
+"content_id": "2327",
+"resource_code": "DictionaryBibleThemes",
+"label": "2327: Jesus Christ, as servant",
+"language": "eng"
+},
+{
+"reference_id": "5520",
+"content_id": "5520",
+"resource_code": "DictionaryBibleThemes",
+"label": "5520: servants",
+"language": "eng"
+},
+{
+"reference_id": "7026",
+"content_id": "7026",
+"resource_code": "DictionaryBibleThemes",
+"label": "7026: church, leadership of",
+"language": "eng"
+},
+{
+"reference_id": "7372",
+"content_id": "7372",
+"resource_code": "DictionaryBibleThemes",
+"label": "7372: hands, laying on of",
+"language": "eng"
+},
+{
+"reference_id": "7706",
+"content_id": "7706",
+"resource_code": "DictionaryBibleThemes",
+"label": "7706: apostles",
+"language": "eng"
+},
+{
+"reference_id": "7718",
+"content_id": "7718",
+"resource_code": "DictionaryBibleThemes",
+"label": "7718: elders",
+"language": "eng"
+},
+{
+"reference_id": "7734",
+"content_id": "7734",
+"resource_code": "DictionaryBibleThemes",
+"label": "7734: leaders, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "7748",
+"content_id": "7748",
+"resource_code": "DictionaryBibleThemes",
+"label": "7748: overseers",
+"language": "eng"
+},
+{
+"reference_id": "7784",
+"content_id": "7784",
+"resource_code": "DictionaryBibleThemes",
+"label": "7784: shepherd",
+"language": "eng"
+},
+{
+"reference_id": "7939",
+"content_id": "7939",
+"resource_code": "DictionaryBibleThemes",
+"label": "7939: ministry",
+"language": "eng"
+},
+{
+"reference_id": "8342",
+"content_id": "8342",
+"resource_code": "DictionaryBibleThemes",
+"label": "8342: servanthood",
+"language": "eng"
+},
+{
+"reference_id": "8492",
+"content_id": "8492",
+"resource_code": "DictionaryBibleThemes",
+"label": "8492: watchfulness, of leaders",
+"language": "eng"
+}
+]
+}
+}
+]

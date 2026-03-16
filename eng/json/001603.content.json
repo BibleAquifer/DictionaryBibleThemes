@@ -1,0 +1,39 @@
+[
+{
+"content_id": "6614",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6614: atonement",
+"media_type": "Text",
+"index_reference": "6614: atonement",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Reconciliation; sin has alienated humanity from God and provoked God's anger. God has responded by providing the means of restoring this broken relationship, bringing both sides to a place where they are at one again (“at-one-ment”).</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6615",
+"content_id": "6615",
+"resource_code": "DictionaryBibleThemes",
+"label": "6615: atonement, necessity and nature of",
+"language": "eng"
+},
+{
+"reference_id": "6616",
+"content_id": "6616",
+"resource_code": "DictionaryBibleThemes",
+"label": "6616: atonement, in OT",
+"language": "eng"
+},
+{
+"reference_id": "6617",
+"content_id": "6617",
+"resource_code": "DictionaryBibleThemes",
+"label": "6617: atonement, in NT",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,295 @@
+[
+{
+"content_id": "5574",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5574: tablet",
+"media_type": "Text",
+"index_reference": "5574: tablet",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A flat, usually rectangular, surface used for writing. Stone tablets, symbolising permanence, were usually engraved with an iron tool. Tablets of moist clay and writing boards of wood or ivory containing a layer of wax were inscribed with a stylus. The term is also used figuratively to refer to the human heart.</p>\n<h2>Tablets engraved with an iron tool</h2>\n<p><strong><a href=\"https://ref.ly/Job19:23-Job19:24\">JOB 19:23–19:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer17:1\">JER 17:1</a></p>\n<h2>The Ten Commandments were inscribed on stone tablets</h2>\n<h3>The tablets were inscribed by God</h3>\n<p><strong><a href=\"https://ref.ly/Deut9:9-Deut9:11\">DEU 9:9–9:11</a></strong> <em>In keeping with ancient Near Eastern practice, the two tablets may have been duplicates of a single covenant document.</em> <em>See also</em> <a href=\"https://ref.ly/Exod24:12\">EXO 24:12</a>, <a href=\"https://ref.ly/Exod31:18\">EXO 31:18</a>; <a href=\"https://ref.ly/Deut4:13\">DEU 4:13</a>, <a href=\"https://ref.ly/Deut5:22\">DEU 5:22</a></p>\n<h3>The tablets were broken</h3>\n<p><strong><a href=\"https://ref.ly/Exod32:15-Exod32:19\">EXO 32:15–32:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut9:15-Deut9:17\">DEU 9:15–9:17</a></p>\n<h3>New tablets were inscribed by God</h3>\n<p><strong><a href=\"https://ref.ly/Deut10:1-Deut10:4\">DEU 10:1–10:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod34:4\">EXO 34:4</a>, <a href=\"https://ref.ly/Exod34:28-Exod34:29\">EXO 34:28–34:29</a></p>\n<h3>The new tablets were put into the ark</h3>\n<p><strong><a href=\"https://ref.ly/Deut10:5\">DEU 10:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs8:9\">1KI 8:9</a> parallel <a href=\"https://ref.ly/2Chr5:10\">2CH 5:10</a>; <a href=\"https://ref.ly/Heb9:4\">HEB 9:4</a></p>\n<h3>God's commands were copied onto altar stones</h3>\n<p><strong><a href=\"https://ref.ly/Deut27:2-Deut27:8\">DEU 27:2–27:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh8:30-Josh8:32\">JOS 8:30–8:32</a></p>\n<h2>Writing tablets</h2>\n<h3>Tablets of unspecified material</h3>\n<p><strong><a href=\"https://ref.ly/Hab2:2\">HAB 2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa30:8\">ISA 30:8</a>; <a href=\"https://ref.ly/Luke1:63\">LUK 1:63</a></p>\n<h3>Other surfaces used for writing</h3>\n<p><a href=\"https://ref.ly/1Kgs7:36\">1KI 7:36</a> <em>The bases of the bronze lavers in Solomon's temple were engraved</em>; ; <a href=\"https://ref.ly/Isa8:1\">ISA 8:1</a> <em>Isaiah's inscription is with a pen on a scroll</em>; ; <a href=\"https://ref.ly/Ezek4:1\">EZK 4:1</a> <em>Ezekiel draws a plan of Jerusalem on a clay tablet. This was a common medium for plans in Babylon.</em></p>\n<h2>Tablets of the heart</h2>\n<h3>The commands and teachings of Proverbs</h3>\n<p><strong><a href=\"https://ref.ly/Prov3:3\">PRO 3:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:21\">PRO 6:21</a>, <a href=\"https://ref.ly/Prov7:3\">PRO 7:3</a></p>\n<h3>The new covenant</h3>\n<p><strong><a href=\"https://ref.ly/Jer31:33\">JER 31:33</a></strong> <em>Under the new covenant God's law will be inward, written on human hearts rather than on tablets of stone.</em> <em>See also</em> <a href=\"https://ref.ly/Ezek36:26-Ezek36:27\">EZK 36:26–36:27</a>; <a href=\"https://ref.ly/2Cor3:3\">2CO 3:3</a>; <a href=\"https://ref.ly/Heb8:10\">HEB 8:10</a>, <a href=\"https://ref.ly/Heb10:16\">HEB 10:16</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18019023",
+"start_ref_usfm": "JOB 19:23",
+"end_ref": "18019024",
+"end_ref_usfm": "JOB 19:24"
+},
+{
+"start_ref": "24017001",
+"start_ref_usfm": "JER 17:1",
+"end_ref": "24017001",
+"end_ref_usfm": "JER 17:1"
+},
+{
+"start_ref": "05009009",
+"start_ref_usfm": "DEU 9:9",
+"end_ref": "05009011",
+"end_ref_usfm": "DEU 9:11"
+},
+{
+"start_ref": "02024012",
+"start_ref_usfm": "EXO 24:12",
+"end_ref": "02024012",
+"end_ref_usfm": "EXO 24:12"
+},
+{
+"start_ref": "02031018",
+"start_ref_usfm": "EXO 31:18",
+"end_ref": "02031018",
+"end_ref_usfm": "EXO 31:18"
+},
+{
+"start_ref": "05004013",
+"start_ref_usfm": "DEU 4:13",
+"end_ref": "05004013",
+"end_ref_usfm": "DEU 4:13"
+},
+{
+"start_ref": "05005022",
+"start_ref_usfm": "DEU 5:22",
+"end_ref": "05005022",
+"end_ref_usfm": "DEU 5:22"
+},
+{
+"start_ref": "02032015",
+"start_ref_usfm": "EXO 32:15",
+"end_ref": "02032019",
+"end_ref_usfm": "EXO 32:19"
+},
+{
+"start_ref": "05009015",
+"start_ref_usfm": "DEU 9:15",
+"end_ref": "05009017",
+"end_ref_usfm": "DEU 9:17"
+},
+{
+"start_ref": "05010001",
+"start_ref_usfm": "DEU 10:1",
+"end_ref": "05010004",
+"end_ref_usfm": "DEU 10:4"
+},
+{
+"start_ref": "02034004",
+"start_ref_usfm": "EXO 34:4",
+"end_ref": "02034004",
+"end_ref_usfm": "EXO 34:4"
+},
+{
+"start_ref": "02034028",
+"start_ref_usfm": "EXO 34:28",
+"end_ref": "02034029",
+"end_ref_usfm": "EXO 34:29"
+},
+{
+"start_ref": "05010005",
+"start_ref_usfm": "DEU 10:5",
+"end_ref": "05010005",
+"end_ref_usfm": "DEU 10:5"
+},
+{
+"start_ref": "11008009",
+"start_ref_usfm": "1KI 8:9",
+"end_ref": "11008009",
+"end_ref_usfm": "1KI 8:9"
+},
+{
+"start_ref": "14005010",
+"start_ref_usfm": "2CH 5:10",
+"end_ref": "14005010",
+"end_ref_usfm": "2CH 5:10"
+},
+{
+"start_ref": "58009004",
+"start_ref_usfm": "HEB 9:4",
+"end_ref": "58009004",
+"end_ref_usfm": "HEB 9:4"
+},
+{
+"start_ref": "05027002",
+"start_ref_usfm": "DEU 27:2",
+"end_ref": "05027008",
+"end_ref_usfm": "DEU 27:8"
+},
+{
+"start_ref": "06008030",
+"start_ref_usfm": "JOS 8:30",
+"end_ref": "06008032",
+"end_ref_usfm": "JOS 8:32"
+},
+{
+"start_ref": "35002002",
+"start_ref_usfm": "HAB 2:2",
+"end_ref": "35002002",
+"end_ref_usfm": "HAB 2:2"
+},
+{
+"start_ref": "23030008",
+"start_ref_usfm": "ISA 30:8",
+"end_ref": "23030008",
+"end_ref_usfm": "ISA 30:8"
+},
+{
+"start_ref": "42001063",
+"start_ref_usfm": "LUK 1:63",
+"end_ref": "42001063",
+"end_ref_usfm": "LUK 1:63"
+},
+{
+"start_ref": "11007036",
+"start_ref_usfm": "1KI 7:36",
+"end_ref": "11007036",
+"end_ref_usfm": "1KI 7:36"
+},
+{
+"start_ref": "23008001",
+"start_ref_usfm": "ISA 8:1",
+"end_ref": "23008001",
+"end_ref_usfm": "ISA 8:1"
+},
+{
+"start_ref": "26004001",
+"start_ref_usfm": "EZK 4:1",
+"end_ref": "26004001",
+"end_ref_usfm": "EZK 4:1"
+},
+{
+"start_ref": "20003003",
+"start_ref_usfm": "PRO 3:3",
+"end_ref": "20003003",
+"end_ref_usfm": "PRO 3:3"
+},
+{
+"start_ref": "20006021",
+"start_ref_usfm": "PRO 6:21",
+"end_ref": "20006021",
+"end_ref_usfm": "PRO 6:21"
+},
+{
+"start_ref": "20007003",
+"start_ref_usfm": "PRO 7:3",
+"end_ref": "20007003",
+"end_ref_usfm": "PRO 7:3"
+},
+{
+"start_ref": "24031033",
+"start_ref_usfm": "JER 31:33",
+"end_ref": "24031033",
+"end_ref_usfm": "JER 31:33"
+},
+{
+"start_ref": "26036026",
+"start_ref_usfm": "EZK 36:26",
+"end_ref": "26036027",
+"end_ref_usfm": "EZK 36:27"
+},
+{
+"start_ref": "47003003",
+"start_ref_usfm": "2CO 3:3",
+"end_ref": "47003003",
+"end_ref_usfm": "2CO 3:3"
+},
+{
+"start_ref": "58008010",
+"start_ref_usfm": "HEB 8:10",
+"end_ref": "58008010",
+"end_ref_usfm": "HEB 8:10"
+},
+{
+"start_ref": "58010016",
+"start_ref_usfm": "HEB 10:16",
+"end_ref": "58010016",
+"end_ref_usfm": "HEB 10:16"
+}
+],
+"resource": [
+{
+"reference_id": "1260",
+"content_id": "1260",
+"resource_code": "DictionaryBibleThemes",
+"label": "1260: finger of God",
+"language": "eng"
+},
+{
+"reference_id": "1349",
+"content_id": "1349",
+"resource_code": "DictionaryBibleThemes",
+"label": "1349: covenant, God's at Sinai",
+"language": "eng"
+},
+{
+"reference_id": "1352",
+"content_id": "1352",
+"resource_code": "DictionaryBibleThemes",
+"label": "1352: covenant, the new",
+"language": "eng"
+},
+{
+"reference_id": "4366",
+"content_id": "4366",
+"resource_code": "DictionaryBibleThemes",
+"label": "4366: stones",
+"language": "eng"
+},
+{
+"reference_id": "5012",
+"content_id": "5012",
+"resource_code": "DictionaryBibleThemes",
+"label": "5012: heart",
+"language": "eng"
+},
+{
+"reference_id": "5306",
+"content_id": "5306",
+"resource_code": "DictionaryBibleThemes",
+"label": "5306: engraving",
+"language": "eng"
+},
+{
+"reference_id": "5352",
+"content_id": "5352",
+"resource_code": "DictionaryBibleThemes",
+"label": "5352: inscriptions",
+"language": "eng"
+},
+{
+"reference_id": "5377",
+"content_id": "5377",
+"resource_code": "DictionaryBibleThemes",
+"label": "5377: law, Ten Commandments",
+"language": "eng"
+},
+{
+"reference_id": "5439",
+"content_id": "5439",
+"resource_code": "DictionaryBibleThemes",
+"label": "5439: pen",
+"language": "eng"
+},
+{
+"reference_id": "5638",
+"content_id": "5638",
+"resource_code": "DictionaryBibleThemes",
+"label": "5638: writing",
+"language": "eng"
+},
+{
+"reference_id": "7306",
+"content_id": "7306",
+"resource_code": "DictionaryBibleThemes",
+"label": "7306: ark of the covenant",
+"language": "eng"
+},
+{
+"reference_id": "7410",
+"content_id": "7410",
+"resource_code": "DictionaryBibleThemes",
+"label": "7410: phylactery",
+"language": "eng"
+}
+]
+}
+}
+]

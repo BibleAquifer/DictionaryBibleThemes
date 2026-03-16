@@ -1,0 +1,202 @@
+[
+{
+"content_id": "7908",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7908: baptism, significance of",
+"media_type": "Text",
+"index_reference": "7908: baptism, significance of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The NT uses a variety of images to explain the meaning of baptism, such as dying and rising with Christ, sharing in his death and being cleansed from sin.</p>\n<h2>Baptism is a symbol of the death of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Luke12:50\">LUK 12:50</a></strong> <em>Jesus Christ described his death as a baptism or a flood overwhelming him.</em> <em>See also</em> <a href=\"https://ref.ly/Ps42:7\">PSA 42:7</a>, <a href=\"https://ref.ly/Ps69:1-Ps69:2\">PSA 69:1–69:2</a>, <a href=\"https://ref.ly/Ps88:7\">PSA 88:7</a>; <a href=\"https://ref.ly/Mark10:38-Mark10:39\">MRK 10:38–10:39</a></p>\n<h2>Baptism is a symbol of the burial of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Rom6:3-Rom6:4\">ROM 6:3–6:4</a></strong> <em>Immersion in water symbolises how the old sinful life is buried with Christ.</em> <a href=\"https://ref.ly/Rom8:13\">ROM 8:13</a>; ; <a href=\"https://ref.ly/Col3:5\">COL 3:5</a></p>\n<h2>Baptism is a symbol of being saved from the flood</h2>\n<p><strong><a href=\"https://ref.ly/1Pet3:21\">1PE 3:21</a></strong> <em>The flood/baptism symbolises both judgment (the death of sinners and the death of Jesus Christ) and salvation (those in the ark and those in Christ passing safely through judgment).</em> <em>See also</em> <a href=\"https://ref.ly/Gen7:6-Gen7:7\">GEN 7:6–7:7</a></p>\n<h2>Baptism is the gospel equivalent of circumcision</h2>\n<p><strong><a href=\"https://ref.ly/Col2:11-Col2:12\">COL 2:11–2:12</a></strong> <em>The “circumcision in Christ” may refer either to his death on the cross or to baptism.</em> <em>See also</em> <a href=\"https://ref.ly/Deut10:16\">DEU 10:16</a></p>\n<h2>Baptism recalls the exodus</h2>\n<p><strong><a href=\"https://ref.ly/1Cor10:1-1Cor10:2\">1CO 10:1–10:2</a></strong> <em>In and through the exodus experience Israel was united with and obedient to Moses, as Jesus Christ's people are to him.</em> <em>See also</em> <a href=\"https://ref.ly/Exod14:19-Exod14:24\">EXO 14:19–14:24</a></p>\n<h2>Baptism symbolises washing from sin</h2>\n<p><strong><a href=\"https://ref.ly/Acts22:16\">ACT 22:16</a></strong> <em>Baptism is an outward sign of cleansing from sin and from a defiled life and conscience.</em> <em>See also</em> <a href=\"https://ref.ly/1Cor6:11\">1CO 6:11</a>; <a href=\"https://ref.ly/Titus3:5\">TIT 3:5</a>; <a href=\"https://ref.ly/1Pet3:21\">1PE 3:21</a></p>\n<h2>Baptism is a symbol of putting on Christ</h2>\n<p><strong><a href=\"https://ref.ly/Gal3:27\">GAL 3:27</a></strong> <em>Baptism is seen as putting on Christ, as one might put on a coat or garment, and thus be “clothed with Christ”.</em></p>\n<h2>Baptism as a symbol of unity</h2>\n<p><strong><a href=\"https://ref.ly/Eph4:5\">EPH 4:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor12:13\">1CO 12:13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42012050",
+"start_ref_usfm": "LUK 12:50",
+"end_ref": "42012050",
+"end_ref_usfm": "LUK 12:50"
+},
+{
+"start_ref": "19042007",
+"start_ref_usfm": "PSA 42:7",
+"end_ref": "19042007",
+"end_ref_usfm": "PSA 42:7"
+},
+{
+"start_ref": "19069001",
+"start_ref_usfm": "PSA 69:1",
+"end_ref": "19069002",
+"end_ref_usfm": "PSA 69:2"
+},
+{
+"start_ref": "19088007",
+"start_ref_usfm": "PSA 88:7",
+"end_ref": "19088007",
+"end_ref_usfm": "PSA 88:7"
+},
+{
+"start_ref": "41010038",
+"start_ref_usfm": "MRK 10:38",
+"end_ref": "41010039",
+"end_ref_usfm": "MRK 10:39"
+},
+{
+"start_ref": "45006003",
+"start_ref_usfm": "ROM 6:3",
+"end_ref": "45006004",
+"end_ref_usfm": "ROM 6:4"
+},
+{
+"start_ref": "45008013",
+"start_ref_usfm": "ROM 8:13",
+"end_ref": "45008013",
+"end_ref_usfm": "ROM 8:13"
+},
+{
+"start_ref": "51003005",
+"start_ref_usfm": "COL 3:5",
+"end_ref": "51003005",
+"end_ref_usfm": "COL 3:5"
+},
+{
+"start_ref": "60003021",
+"start_ref_usfm": "1PE 3:21",
+"end_ref": "60003021",
+"end_ref_usfm": "1PE 3:21"
+},
+{
+"start_ref": "01007006",
+"start_ref_usfm": "GEN 7:6",
+"end_ref": "01007007",
+"end_ref_usfm": "GEN 7:7"
+},
+{
+"start_ref": "51002011",
+"start_ref_usfm": "COL 2:11",
+"end_ref": "51002012",
+"end_ref_usfm": "COL 2:12"
+},
+{
+"start_ref": "05010016",
+"start_ref_usfm": "DEU 10:16",
+"end_ref": "05010016",
+"end_ref_usfm": "DEU 10:16"
+},
+{
+"start_ref": "46010001",
+"start_ref_usfm": "1CO 10:1",
+"end_ref": "46010002",
+"end_ref_usfm": "1CO 10:2"
+},
+{
+"start_ref": "02014019",
+"start_ref_usfm": "EXO 14:19",
+"end_ref": "02014024",
+"end_ref_usfm": "EXO 14:24"
+},
+{
+"start_ref": "44022016",
+"start_ref_usfm": "ACT 22:16",
+"end_ref": "44022016",
+"end_ref_usfm": "ACT 22:16"
+},
+{
+"start_ref": "46006011",
+"start_ref_usfm": "1CO 6:11",
+"end_ref": "46006011",
+"end_ref_usfm": "1CO 6:11"
+},
+{
+"start_ref": "56003005",
+"start_ref_usfm": "TIT 3:5",
+"end_ref": "56003005",
+"end_ref_usfm": "TIT 3:5"
+},
+{
+"start_ref": "48003027",
+"start_ref_usfm": "GAL 3:27",
+"end_ref": "48003027",
+"end_ref_usfm": "GAL 3:27"
+},
+{
+"start_ref": "49004005",
+"start_ref_usfm": "EPH 4:5",
+"end_ref": "49004005",
+"end_ref_usfm": "EPH 4:5"
+},
+{
+"start_ref": "46012013",
+"start_ref_usfm": "1CO 12:13",
+"end_ref": "46012013",
+"end_ref_usfm": "1CO 12:13"
+}
+],
+"resource": [
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "2410",
+"content_id": "2410",
+"resource_code": "DictionaryBibleThemes",
+"label": "2410: cross, the",
+"language": "eng"
+},
+{
+"reference_id": "2530",
+"content_id": "2530",
+"resource_code": "DictionaryBibleThemes",
+"label": "2530: Jesus Christ, death of",
+"language": "eng"
+},
+{
+"reference_id": "6029",
+"content_id": "6029",
+"resource_code": "DictionaryBibleThemes",
+"label": "6029: sin, accepting forgiveness of",
+"language": "eng"
+},
+{
+"reference_id": "6728",
+"content_id": "6728",
+"resource_code": "DictionaryBibleThemes",
+"label": "6728: regeneration",
+"language": "eng"
+},
+{
+"reference_id": "6754",
+"content_id": "6754",
+"resource_code": "DictionaryBibleThemes",
+"label": "6754: union with Christ",
+"language": "eng"
+},
+{
+"reference_id": "7221",
+"content_id": "7221",
+"resource_code": "DictionaryBibleThemes",
+"label": "7221: exodus, the",
+"language": "eng"
+},
+{
+"reference_id": "7336",
+"content_id": "7336",
+"resource_code": "DictionaryBibleThemes",
+"label": "7336: circumcision, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "7478",
+"content_id": "7478",
+"resource_code": "DictionaryBibleThemes",
+"label": "7478: washing",
+"language": "eng"
+}
+]
+}
+}
+]

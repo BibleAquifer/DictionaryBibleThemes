@@ -1,0 +1,238 @@
+[
+{
+"content_id": "5913",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5913: negotiation",
+"media_type": "Text",
+"index_reference": "5913: negotiation",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Negotiation between peoples</h2>\n<p><strong><a href=\"https://ref.ly/Gen21:23\">GEN 21:23</a></strong>; <strong><a href=\"https://ref.ly/Luke14:31-Luke14:32\">LUK 14:31–14:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh9:6\">JOS 9:6</a>, <a href=\"https://ref.ly/Josh10:4\">JOS 10:4</a>; <a href=\"https://ref.ly/1Sam11:2\">1SA 11:2</a>; <a href=\"https://ref.ly/2Sam3:12-2Sam3:13\">2SA 3:12–3:13</a>; <a href=\"https://ref.ly/1Kgs15:19\">1KI 15:19</a>; <a href=\"https://ref.ly/2Kgs18:23\">2KI 18:23</a> parallel <a href=\"https://ref.ly/Isa36:8\">ISA 36:8</a></p>\n<h2>Negotiation in the buying of land</h2>\n<p><strong><a href=\"https://ref.ly/Gen23:8-Gen23:9\">GEN 23:8–23:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ruth4:4\">RUT 4:4</a>; <a href=\"https://ref.ly/2Sam24:24\">2SA 24:24</a>; <a href=\"https://ref.ly/Jer32:8\">JER 32:8</a></p>\n<h2>Negotiation in the setting of wages</h2>\n<p><strong><a href=\"https://ref.ly/Gen29:15\">GEN 29:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen29:27\">GEN 29:27</a>, <a href=\"https://ref.ly/Gen30:32\">GEN 30:32</a>; <a href=\"https://ref.ly/Judg17:10-Judg17:11\">JDG 17:10–17:11</a>; <a href=\"https://ref.ly/1Kgs5:6\">1KI 5:6</a>; <a href=\"https://ref.ly/Matt20:2\">MAT 20:2</a>, <a href=\"https://ref.ly/Matt26:14-Matt26:15\">MAT 26:14–26:15</a> parallels <a href=\"https://ref.ly/Mark14:10\">MRK 14:10</a>, <a href=\"https://ref.ly/Luke22:4\">LUK 22:4</a></p>\n<h2>Negotiation for personal safety</h2>\n<p><strong><a href=\"https://ref.ly/Josh2:12-Josh2:13\">JOS 2:12–2:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg15:12-Judg15:13\">JDG 15:12–15:13</a>; <a href=\"https://ref.ly/1Sam20:8\">1SA 20:8</a>, <a href=\"https://ref.ly/1Sam30:15\">1SA 30:15</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01021023",
+"start_ref_usfm": "GEN 21:23",
+"end_ref": "01021023",
+"end_ref_usfm": "GEN 21:23"
+},
+{
+"start_ref": "42014031",
+"start_ref_usfm": "LUK 14:31",
+"end_ref": "42014032",
+"end_ref_usfm": "LUK 14:32"
+},
+{
+"start_ref": "06009006",
+"start_ref_usfm": "JOS 9:6",
+"end_ref": "06009006",
+"end_ref_usfm": "JOS 9:6"
+},
+{
+"start_ref": "06010004",
+"start_ref_usfm": "JOS 10:4",
+"end_ref": "06010004",
+"end_ref_usfm": "JOS 10:4"
+},
+{
+"start_ref": "09011002",
+"start_ref_usfm": "1SA 11:2",
+"end_ref": "09011002",
+"end_ref_usfm": "1SA 11:2"
+},
+{
+"start_ref": "10003012",
+"start_ref_usfm": "2SA 3:12",
+"end_ref": "10003013",
+"end_ref_usfm": "2SA 3:13"
+},
+{
+"start_ref": "11015019",
+"start_ref_usfm": "1KI 15:19",
+"end_ref": "11015019",
+"end_ref_usfm": "1KI 15:19"
+},
+{
+"start_ref": "12018023",
+"start_ref_usfm": "2KI 18:23",
+"end_ref": "12018023",
+"end_ref_usfm": "2KI 18:23"
+},
+{
+"start_ref": "23036008",
+"start_ref_usfm": "ISA 36:8",
+"end_ref": "23036008",
+"end_ref_usfm": "ISA 36:8"
+},
+{
+"start_ref": "01023008",
+"start_ref_usfm": "GEN 23:8",
+"end_ref": "01023009",
+"end_ref_usfm": "GEN 23:9"
+},
+{
+"start_ref": "08004004",
+"start_ref_usfm": "RUT 4:4",
+"end_ref": "08004004",
+"end_ref_usfm": "RUT 4:4"
+},
+{
+"start_ref": "10024024",
+"start_ref_usfm": "2SA 24:24",
+"end_ref": "10024024",
+"end_ref_usfm": "2SA 24:24"
+},
+{
+"start_ref": "24032008",
+"start_ref_usfm": "JER 32:8",
+"end_ref": "24032008",
+"end_ref_usfm": "JER 32:8"
+},
+{
+"start_ref": "01029015",
+"start_ref_usfm": "GEN 29:15",
+"end_ref": "01029015",
+"end_ref_usfm": "GEN 29:15"
+},
+{
+"start_ref": "01029027",
+"start_ref_usfm": "GEN 29:27",
+"end_ref": "01029027",
+"end_ref_usfm": "GEN 29:27"
+},
+{
+"start_ref": "01030032",
+"start_ref_usfm": "GEN 30:32",
+"end_ref": "01030032",
+"end_ref_usfm": "GEN 30:32"
+},
+{
+"start_ref": "07017010",
+"start_ref_usfm": "JDG 17:10",
+"end_ref": "07017011",
+"end_ref_usfm": "JDG 17:11"
+},
+{
+"start_ref": "11005006",
+"start_ref_usfm": "1KI 5:6",
+"end_ref": "11005006",
+"end_ref_usfm": "1KI 5:6"
+},
+{
+"start_ref": "40020002",
+"start_ref_usfm": "MAT 20:2",
+"end_ref": "40020002",
+"end_ref_usfm": "MAT 20:2"
+},
+{
+"start_ref": "40026014",
+"start_ref_usfm": "MAT 26:14",
+"end_ref": "40026015",
+"end_ref_usfm": "MAT 26:15"
+},
+{
+"start_ref": "41014010",
+"start_ref_usfm": "MRK 14:10",
+"end_ref": "41014010",
+"end_ref_usfm": "MRK 14:10"
+},
+{
+"start_ref": "42022004",
+"start_ref_usfm": "LUK 22:4",
+"end_ref": "42022004",
+"end_ref_usfm": "LUK 22:4"
+},
+{
+"start_ref": "06002012",
+"start_ref_usfm": "JOS 2:12",
+"end_ref": "06002013",
+"end_ref_usfm": "JOS 2:13"
+},
+{
+"start_ref": "07015012",
+"start_ref_usfm": "JDG 15:12",
+"end_ref": "07015013",
+"end_ref_usfm": "JDG 15:13"
+},
+{
+"start_ref": "09020008",
+"start_ref_usfm": "1SA 20:8",
+"end_ref": "09020008",
+"end_ref_usfm": "1SA 20:8"
+},
+{
+"start_ref": "09030015",
+"start_ref_usfm": "1SA 30:15",
+"end_ref": "09030015",
+"end_ref_usfm": "1SA 30:15"
+}
+],
+"resource": [
+{
+"reference_id": "5242",
+"content_id": "5242",
+"resource_code": "DictionaryBibleThemes",
+"label": "5242: buying and selling",
+"language": "eng"
+},
+{
+"reference_id": "5468",
+"content_id": "5468",
+"resource_code": "DictionaryBibleThemes",
+"label": "5468: promises, human",
+"language": "eng"
+},
+{
+"reference_id": "5587",
+"content_id": "5587",
+"resource_code": "DictionaryBibleThemes",
+"label": "5587: trade",
+"language": "eng"
+},
+{
+"reference_id": "5592",
+"content_id": "5592",
+"resource_code": "DictionaryBibleThemes",
+"label": "5592: treaty",
+"language": "eng"
+},
+{
+"reference_id": "5783",
+"content_id": "5783",
+"resource_code": "DictionaryBibleThemes",
+"label": "5783: agreement",
+"language": "eng"
+},
+{
+"reference_id": "5811",
+"content_id": "5811",
+"resource_code": "DictionaryBibleThemes",
+"label": "5811: compromise",
+"language": "eng"
+},
+{
+"reference_id": "6682",
+"content_id": "6682",
+"resource_code": "DictionaryBibleThemes",
+"label": "6682: mediation",
+"language": "eng"
+},
+{
+"reference_id": "6684",
+"content_id": "6684",
+"resource_code": "DictionaryBibleThemes",
+"label": "6684: mediator",
+"language": "eng"
+},
+{
+"reference_id": "8458",
+"content_id": "8458",
+"resource_code": "DictionaryBibleThemes",
+"label": "8458: peacemakers",
+"language": "eng"
+}
+]
+}
+}
+]

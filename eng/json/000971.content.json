@@ -1,0 +1,283 @@
+[
+{
+"content_id": "5389",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5389: lending",
+"media_type": "Text",
+"index_reference": "5389: lending",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Freely giving the temporary use of property or possessions at no personal advantage. Scripture lays down conditions for lending and emphasises the responsibilities that it brings.</p>\n<h2>The motivation for lending</h2>\n<h3>Generosity</h3>\n<p><strong><a href=\"https://ref.ly/Ps37:25-Ps37:26\">PSA 37:25–37:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut15:11\">DEU 15:11</a>; <a href=\"https://ref.ly/Prov3:27-Prov3:28\">PRO 3:27–3:28</a>; <a href=\"https://ref.ly/Matt5:42\">MAT 5:42</a></p>\n<h3>Pity</h3>\n<p><strong><a href=\"https://ref.ly/Deut15:7-Deut15:8\">DEU 15:7–15:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev25:35-Lev25:36\">LEV 25:35–25:36</a>; <a href=\"https://ref.ly/Mark14:7\">MRK 14:7</a></p>\n<h3>Not necessarily expecting repayment</h3>\n<p><a href=\"https://ref.ly/Luke6:34-Luke6:36\">LUK 6:34–6:36</a></p>\n<h2>The dangers of lending</h2>\n<h3>Domination</h3>\n<p><strong><a href=\"https://ref.ly/Prov22:7\">PRO 22:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut15:6\">DEU 15:6</a>, <a href=\"https://ref.ly/Deut28:12-Deut28:13\">DEU 28:12–28:13</a>, <a href=\"https://ref.ly/Deut28:43-Deut28:44\">DEU 28:43–28:44</a>; <a href=\"https://ref.ly/Neh5:4-Neh5:5\">NEH 5:4–5:5</a></p>\n<h3>Loss</h3>\n<p><a href=\"https://ref.ly/Exod22:14\">EXO 22:14</a>; ; <a href=\"https://ref.ly/2Kgs6:5\">2KI 6:5</a>; ; <a href=\"https://ref.ly/Isa24:1-Isa24:2\">ISA 24:1–24:2</a></p>\n<h3>Exploitation</h3>\n<p><strong><a href=\"https://ref.ly/Lev25:36-Lev25:37\">LEV 25:36–25:37</a></strong></p>\n<h3>Usury</h3>\n<p><strong><a href=\"https://ref.ly/Exod22:25\">EXO 22:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut23:19\">DEU 23:19</a>; <a href=\"https://ref.ly/Ps15:5\">PSA 15:5</a>; <a href=\"https://ref.ly/Ezek18:8\">EZK 18:8</a>, <a href=\"https://ref.ly/Ezek18:12-Ezek18:13\">EZK 18:12–18:13</a></p>\n<h2>Safeguards for the lender</h2>\n<h3>Under the old covenant</h3>\n<p><strong><a href=\"https://ref.ly/Exod22:14\">EXO 22:14</a></strong> <em>This specific case probably represents a general principle of restitution governing all kinds of lending.</em></p>\n<h3>Under the new covenant</h3>\n<p><strong><a href=\"https://ref.ly/Luke6:30-Luke6:31\">LUK 6:30–6:31</a></strong></p>\n<h3>Generosity may be risky but brings its reward</h3>\n<p><strong><a href=\"https://ref.ly/Prov19:17\">PRO 19:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps112:5\">PSA 112:5</a>; <a href=\"https://ref.ly/Matt5:7\">MAT 5:7</a></p>\n<h2>Jesus Christ was lent a donkey</h2>\n<p><a href=\"https://ref.ly/Matt21:3\">MAT 21:3</a> parallels <a href=\"https://ref.ly/Mark11:3\">MRK 11:3</a>, <a href=\"https://ref.ly/Luke19:31\">LUK 19:31</a>; ; <a href=\"https://ref.ly/Luke19:34\">LUK 19:34</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19037025",
+"start_ref_usfm": "PSA 37:25",
+"end_ref": "19037026",
+"end_ref_usfm": "PSA 37:26"
+},
+{
+"start_ref": "05015011",
+"start_ref_usfm": "DEU 15:11",
+"end_ref": "05015011",
+"end_ref_usfm": "DEU 15:11"
+},
+{
+"start_ref": "20003027",
+"start_ref_usfm": "PRO 3:27",
+"end_ref": "20003028",
+"end_ref_usfm": "PRO 3:28"
+},
+{
+"start_ref": "40005042",
+"start_ref_usfm": "MAT 5:42",
+"end_ref": "40005042",
+"end_ref_usfm": "MAT 5:42"
+},
+{
+"start_ref": "05015007",
+"start_ref_usfm": "DEU 15:7",
+"end_ref": "05015008",
+"end_ref_usfm": "DEU 15:8"
+},
+{
+"start_ref": "03025035",
+"start_ref_usfm": "LEV 25:35",
+"end_ref": "03025036",
+"end_ref_usfm": "LEV 25:36"
+},
+{
+"start_ref": "41014007",
+"start_ref_usfm": "MRK 14:7",
+"end_ref": "41014007",
+"end_ref_usfm": "MRK 14:7"
+},
+{
+"start_ref": "42006034",
+"start_ref_usfm": "LUK 6:34",
+"end_ref": "42006036",
+"end_ref_usfm": "LUK 6:36"
+},
+{
+"start_ref": "20022007",
+"start_ref_usfm": "PRO 22:7",
+"end_ref": "20022007",
+"end_ref_usfm": "PRO 22:7"
+},
+{
+"start_ref": "05015006",
+"start_ref_usfm": "DEU 15:6",
+"end_ref": "05015006",
+"end_ref_usfm": "DEU 15:6"
+},
+{
+"start_ref": "05028012",
+"start_ref_usfm": "DEU 28:12",
+"end_ref": "05028013",
+"end_ref_usfm": "DEU 28:13"
+},
+{
+"start_ref": "05028043",
+"start_ref_usfm": "DEU 28:43",
+"end_ref": "05028044",
+"end_ref_usfm": "DEU 28:44"
+},
+{
+"start_ref": "16005004",
+"start_ref_usfm": "NEH 5:4",
+"end_ref": "16005005",
+"end_ref_usfm": "NEH 5:5"
+},
+{
+"start_ref": "02022014",
+"start_ref_usfm": "EXO 22:14",
+"end_ref": "02022014",
+"end_ref_usfm": "EXO 22:14"
+},
+{
+"start_ref": "12006005",
+"start_ref_usfm": "2KI 6:5",
+"end_ref": "12006005",
+"end_ref_usfm": "2KI 6:5"
+},
+{
+"start_ref": "23024001",
+"start_ref_usfm": "ISA 24:1",
+"end_ref": "23024002",
+"end_ref_usfm": "ISA 24:2"
+},
+{
+"start_ref": "03025036",
+"start_ref_usfm": "LEV 25:36",
+"end_ref": "03025037",
+"end_ref_usfm": "LEV 25:37"
+},
+{
+"start_ref": "02022025",
+"start_ref_usfm": "EXO 22:25",
+"end_ref": "02022025",
+"end_ref_usfm": "EXO 22:25"
+},
+{
+"start_ref": "05023019",
+"start_ref_usfm": "DEU 23:19",
+"end_ref": "05023019",
+"end_ref_usfm": "DEU 23:19"
+},
+{
+"start_ref": "19015005",
+"start_ref_usfm": "PSA 15:5",
+"end_ref": "19015005",
+"end_ref_usfm": "PSA 15:5"
+},
+{
+"start_ref": "26018008",
+"start_ref_usfm": "EZK 18:8",
+"end_ref": "26018008",
+"end_ref_usfm": "EZK 18:8"
+},
+{
+"start_ref": "26018012",
+"start_ref_usfm": "EZK 18:12",
+"end_ref": "26018013",
+"end_ref_usfm": "EZK 18:13"
+},
+{
+"start_ref": "42006030",
+"start_ref_usfm": "LUK 6:30",
+"end_ref": "42006031",
+"end_ref_usfm": "LUK 6:31"
+},
+{
+"start_ref": "20019017",
+"start_ref_usfm": "PRO 19:17",
+"end_ref": "20019017",
+"end_ref_usfm": "PRO 19:17"
+},
+{
+"start_ref": "19112005",
+"start_ref_usfm": "PSA 112:5",
+"end_ref": "19112005",
+"end_ref_usfm": "PSA 112:5"
+},
+{
+"start_ref": "40005007",
+"start_ref_usfm": "MAT 5:7",
+"end_ref": "40005007",
+"end_ref_usfm": "MAT 5:7"
+},
+{
+"start_ref": "40021003",
+"start_ref_usfm": "MAT 21:3",
+"end_ref": "40021003",
+"end_ref_usfm": "MAT 21:3"
+},
+{
+"start_ref": "41011003",
+"start_ref_usfm": "MRK 11:3",
+"end_ref": "41011003",
+"end_ref_usfm": "MRK 11:3"
+},
+{
+"start_ref": "42019031",
+"start_ref_usfm": "LUK 19:31",
+"end_ref": "42019031",
+"end_ref_usfm": "LUK 19:31"
+},
+{
+"start_ref": "42019034",
+"start_ref_usfm": "LUK 19:34",
+"end_ref": "42019034",
+"end_ref_usfm": "LUK 19:34"
+}
+],
+"resource": [
+{
+"reference_id": "5233",
+"content_id": "5233",
+"resource_code": "DictionaryBibleThemes",
+"label": "5233: borrowing",
+"language": "eng"
+},
+{
+"reference_id": "5274",
+"content_id": "5274",
+"resource_code": "DictionaryBibleThemes",
+"label": "5274: credit",
+"language": "eng"
+},
+{
+"reference_id": "5289",
+"content_id": "5289",
+"resource_code": "DictionaryBibleThemes",
+"label": "5289: debt",
+"language": "eng"
+},
+{
+"reference_id": "5310",
+"content_id": "5310",
+"resource_code": "DictionaryBibleThemes",
+"label": "5310: exploitation",
+"language": "eng"
+},
+{
+"reference_id": "5353",
+"content_id": "5353",
+"resource_code": "DictionaryBibleThemes",
+"label": "5353: interest",
+"language": "eng"
+},
+{
+"reference_id": "5446",
+"content_id": "5446",
+"resource_code": "DictionaryBibleThemes",
+"label": "5446: poverty",
+"language": "eng"
+},
+{
+"reference_id": "5492",
+"content_id": "5492",
+"resource_code": "DictionaryBibleThemes",
+"label": "5492: restitution",
+"language": "eng"
+},
+{
+"reference_id": "5806",
+"content_id": "5806",
+"resource_code": "DictionaryBibleThemes",
+"label": "5806: compassion",
+"language": "eng"
+},
+{
+"reference_id": "8260",
+"content_id": "8260",
+"resource_code": "DictionaryBibleThemes",
+"label": "8260: generosity",
+"language": "eng"
+},
+{
+"reference_id": "8291",
+"content_id": "8291",
+"resource_code": "DictionaryBibleThemes",
+"label": "8291: kindness",
+"language": "eng"
+},
+{
+"reference_id": "8434",
+"content_id": "8434",
+"resource_code": "DictionaryBibleThemes",
+"label": "8434: giving",
+"language": "eng"
+},
+{
+"reference_id": "8790",
+"content_id": "8790",
+"resource_code": "DictionaryBibleThemes",
+"label": "8790: oppression",
+"language": "eng"
+}
+]
+}
+}
+]

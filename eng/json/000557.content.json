@@ -1,0 +1,238 @@
+[
+{
+"content_id": "4832",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4832: length",
+"media_type": "Text",
+"index_reference": "4832: length",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Length as measurement</h2>\n<p><strong><a href=\"https://ref.ly/Lev19:35\">LEV 19:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:15\">GEN 6:15</a>; <a href=\"https://ref.ly/Exod26:12\">EXO 26:12</a>; <a href=\"https://ref.ly/2Sam8:2\">2SA 8:2</a>; <a href=\"https://ref.ly/2Chr3:8\">2CH 3:8</a>EZK <a href=\"https://ref.ly/2Chr40:5\">40:5</a>, <a href=\"https://ref.ly/Ezek40:11\">EZK 40:11</a>, <a href=\"https://ref.ly/Ezek40:20\">EZK 40:20</a>, <a href=\"https://ref.ly/Ezek41:4\">EZK 41:4</a>, <a href=\"https://ref.ly/Ezek41:8\">EZK 41:8</a>, <a href=\"https://ref.ly/Ezek41:12\">EZK 41:12</a>, <a href=\"https://ref.ly/Ezek41:15\">EZK 41:15</a>, <a href=\"https://ref.ly/Ezek42:10-Ezek42:11\">EZK 42:10–42:11</a>\n<a href=\"https://ref.ly/Acts12:10\">ACT 12:10</a>; <a href=\"https://ref.ly/Rev21:16\">REV 21:16</a></p>\n<h2>Length of land</h2>\n<p><strong><a href=\"https://ref.ly/Gen13:17\">GEN 13:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek48:8\">EZK 48:8</a>, <a href=\"https://ref.ly/Ezek48:13\">EZK 48:13</a>, <a href=\"https://ref.ly/Ezek48:18\">EZK 48:18</a>, <a href=\"https://ref.ly/Ezek48:21\">EZK 48:21</a></p>\n<h2>Length of life</h2>\n<p><strong><a href=\"https://ref.ly/Ps90:10\">PSA 90:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps21:4\">PSA 21:4</a>; <a href=\"https://ref.ly/Prov10:27\">PRO 10:27</a></p>\n<h2>Length of time</h2>\n<p><strong><a href=\"https://ref.ly/Exod12:40\">EXO 12:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam2:11\">2SA 2:11</a></p>\n<h2>Length of Jesus Christ's love</h2>\n<p><a href=\"https://ref.ly/Eph3:14-Eph3:19\">EPH 3:14–3:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03019035",
+"start_ref_usfm": "LEV 19:35",
+"end_ref": "03019035",
+"end_ref_usfm": "LEV 19:35"
+},
+{
+"start_ref": "01006015",
+"start_ref_usfm": "GEN 6:15",
+"end_ref": "01006015",
+"end_ref_usfm": "GEN 6:15"
+},
+{
+"start_ref": "02026012",
+"start_ref_usfm": "EXO 26:12",
+"end_ref": "02026012",
+"end_ref_usfm": "EXO 26:12"
+},
+{
+"start_ref": "10008002",
+"start_ref_usfm": "2SA 8:2",
+"end_ref": "10008002",
+"end_ref_usfm": "2SA 8:2"
+},
+{
+"start_ref": "14003008",
+"start_ref_usfm": "2CH 3:8",
+"end_ref": "14003008",
+"end_ref_usfm": "2CH 3:8"
+},
+{
+"start_ref": "14040005",
+"start_ref_usfm": "2CH 40:5",
+"end_ref": "14040005",
+"end_ref_usfm": "2CH 40:5"
+},
+{
+"start_ref": "26040011",
+"start_ref_usfm": "EZK 40:11",
+"end_ref": "26040011",
+"end_ref_usfm": "EZK 40:11"
+},
+{
+"start_ref": "26040020",
+"start_ref_usfm": "EZK 40:20",
+"end_ref": "26040020",
+"end_ref_usfm": "EZK 40:20"
+},
+{
+"start_ref": "26041004",
+"start_ref_usfm": "EZK 41:4",
+"end_ref": "26041004",
+"end_ref_usfm": "EZK 41:4"
+},
+{
+"start_ref": "26041008",
+"start_ref_usfm": "EZK 41:8",
+"end_ref": "26041008",
+"end_ref_usfm": "EZK 41:8"
+},
+{
+"start_ref": "26041012",
+"start_ref_usfm": "EZK 41:12",
+"end_ref": "26041012",
+"end_ref_usfm": "EZK 41:12"
+},
+{
+"start_ref": "26041015",
+"start_ref_usfm": "EZK 41:15",
+"end_ref": "26041015",
+"end_ref_usfm": "EZK 41:15"
+},
+{
+"start_ref": "26042010",
+"start_ref_usfm": "EZK 42:10",
+"end_ref": "26042011",
+"end_ref_usfm": "EZK 42:11"
+},
+{
+"start_ref": "44012010",
+"start_ref_usfm": "ACT 12:10",
+"end_ref": "44012010",
+"end_ref_usfm": "ACT 12:10"
+},
+{
+"start_ref": "66021016",
+"start_ref_usfm": "REV 21:16",
+"end_ref": "66021016",
+"end_ref_usfm": "REV 21:16"
+},
+{
+"start_ref": "01013017",
+"start_ref_usfm": "GEN 13:17",
+"end_ref": "01013017",
+"end_ref_usfm": "GEN 13:17"
+},
+{
+"start_ref": "26048008",
+"start_ref_usfm": "EZK 48:8",
+"end_ref": "26048008",
+"end_ref_usfm": "EZK 48:8"
+},
+{
+"start_ref": "26048013",
+"start_ref_usfm": "EZK 48:13",
+"end_ref": "26048013",
+"end_ref_usfm": "EZK 48:13"
+},
+{
+"start_ref": "26048018",
+"start_ref_usfm": "EZK 48:18",
+"end_ref": "26048018",
+"end_ref_usfm": "EZK 48:18"
+},
+{
+"start_ref": "26048021",
+"start_ref_usfm": "EZK 48:21",
+"end_ref": "26048021",
+"end_ref_usfm": "EZK 48:21"
+},
+{
+"start_ref": "19090010",
+"start_ref_usfm": "PSA 90:10",
+"end_ref": "19090010",
+"end_ref_usfm": "PSA 90:10"
+},
+{
+"start_ref": "19021004",
+"start_ref_usfm": "PSA 21:4",
+"end_ref": "19021004",
+"end_ref_usfm": "PSA 21:4"
+},
+{
+"start_ref": "20010027",
+"start_ref_usfm": "PRO 10:27",
+"end_ref": "20010027",
+"end_ref_usfm": "PRO 10:27"
+},
+{
+"start_ref": "02012040",
+"start_ref_usfm": "EXO 12:40",
+"end_ref": "02012040",
+"end_ref_usfm": "EXO 12:40"
+},
+{
+"start_ref": "10002011",
+"start_ref_usfm": "2SA 2:11",
+"end_ref": "10002011",
+"end_ref_usfm": "2SA 2:11"
+},
+{
+"start_ref": "49003014",
+"start_ref_usfm": "EPH 3:14",
+"end_ref": "49003019",
+"end_ref_usfm": "EPH 3:19"
+}
+],
+"resource": [
+{
+"reference_id": "2048",
+"content_id": "2048",
+"resource_code": "DictionaryBibleThemes",
+"label": "2048: Jesus Christ, love of",
+"language": "eng"
+},
+{
+"reference_id": "4016",
+"content_id": "4016",
+"resource_code": "DictionaryBibleThemes",
+"label": "4016: life, human",
+"language": "eng"
+},
+{
+"reference_id": "4803",
+"content_id": "4803",
+"resource_code": "DictionaryBibleThemes",
+"label": "4803: breadth",
+"language": "eng"
+},
+{
+"reference_id": "4813",
+"content_id": "4813",
+"resource_code": "DictionaryBibleThemes",
+"label": "4813: depth",
+"language": "eng"
+},
+{
+"reference_id": "4830",
+"content_id": "4830",
+"resource_code": "DictionaryBibleThemes",
+"label": "4830: height",
+"language": "eng"
+},
+{
+"reference_id": "5618",
+"content_id": "5618",
+"resource_code": "DictionaryBibleThemes",
+"label": "5618: weights and measures, linear",
+"language": "eng"
+},
+{
+"reference_id": "5619",
+"content_id": "5619",
+"resource_code": "DictionaryBibleThemes",
+"label": "5619: weights and measures, distance and area",
+"language": "eng"
+},
+{
+"reference_id": "7257",
+"content_id": "7257",
+"resource_code": "DictionaryBibleThemes",
+"label": "7257: promised land, the",
+"language": "eng"
+},
+{
+"reference_id": "8275",
+"content_id": "8275",
+"resource_code": "DictionaryBibleThemes",
+"label": "8275: honesty",
+"language": "eng"
+}
+]
+}
+}
+]

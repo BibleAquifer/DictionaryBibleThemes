@@ -1,0 +1,53 @@
+[
+{
+"content_id": "4025",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4025: world, the",
+"media_type": "Text",
+"index_reference": "4025: world, the",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture understands “the world” in a number of senses. It initially refers to the world as God's good creation. However, that same world has now fallen into sin, with the result that it can be a threat to believers. Believers are called to live in the world, maintaining contact with it, while remaining distinct from it, and avoiding being contaminated by it.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4026",
+"content_id": "4026",
+"resource_code": "DictionaryBibleThemes",
+"label": "4026: world, as God's creation",
+"language": "eng"
+},
+{
+"reference_id": "4027",
+"content_id": "4027",
+"resource_code": "DictionaryBibleThemes",
+"label": "4027: world, as fallen",
+"language": "eng"
+},
+{
+"reference_id": "4028",
+"content_id": "4028",
+"resource_code": "DictionaryBibleThemes",
+"label": "4028: world, as redeemed",
+"language": "eng"
+},
+{
+"reference_id": "4029",
+"content_id": "4029",
+"resource_code": "DictionaryBibleThemes",
+"label": "4029: world, human beings in",
+"language": "eng"
+},
+{
+"reference_id": "4030",
+"content_id": "4030",
+"resource_code": "DictionaryBibleThemes",
+"label": "4030: world, human behaviour in",
+"language": "eng"
+}
+]
+}
+}
+]

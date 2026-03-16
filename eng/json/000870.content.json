@@ -1,0 +1,202 @@
+[
+{
+"content_id": "5282",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5282: crushing",
+"media_type": "Text",
+"index_reference": "5282: crushing",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Crushing as physically breaking in pieces</h2>\n<p><strong><a href=\"https://ref.ly/Deut9:21\">DEU 9:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr34:7\">2CH 34:7</a>; <a href=\"https://ref.ly/Job39:14-Job39:15\">JOB 39:14–39:15</a>; <a href=\"https://ref.ly/Isa27:9\">ISA 27:9</a>; <a href=\"https://ref.ly/Dan2:40\">DAN 2:40</a></p>\n<h2>Crushing in the preparation of food and drink</h2>\n<p><a href=\"https://ref.ly/Lev2:14\">LEV 2:14</a>, <a href=\"https://ref.ly/Lev2:16\">LEV 2:16</a>; ; <a href=\"https://ref.ly/Num11:8\">NUM 11:8</a>; ; <a href=\"https://ref.ly/Job24:11\">JOB 24:11</a>; ; <a href=\"https://ref.ly/Mic6:15\">MIC 6:15</a></p>\n<h2>Crushing denoting physical violence</h2>\n<p><strong><a href=\"https://ref.ly/2Sam22:38-2Sam22:39\">2SA 22:38–22:39</a></strong>; <strong><a href=\"https://ref.ly/Ps110:5-Ps110:6\">PSA 110:5–110:6</a></strong>; <strong><a href=\"https://ref.ly/Isa53:5\">ISA 53:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev22:24\">LEV 22:24</a>; <a href=\"https://ref.ly/Deut23:1\">DEU 23:1</a>; <a href=\"https://ref.ly/Job6:8-Job6:9\">JOB 6:8–6:9</a>; <a href=\"https://ref.ly/Isa3:15\">ISA 3:15</a>; <a href=\"https://ref.ly/Amos2:13\">AMO 2:13</a>; <a href=\"https://ref.ly/Mal1:4\">MAL 1:4</a></p>\n<h2>Crushing used metaphorically</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:15\">GEN 3:15</a></strong> <em>Widely regarded as being the earliest prediction of Jesus Christ's triumph over Satan</em>; <strong><a href=\"https://ref.ly/Prov18:14\">PRO 18:14</a></strong>; <strong><a href=\"https://ref.ly/2Cor4:8\">2CO 4:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job19:2\">JOB 19:2</a>; <a href=\"https://ref.ly/Prov15:4\">PRO 15:4</a>; <a href=\"https://ref.ly/Matt21:44\">MAT 21:44</a> parallel <a href=\"https://ref.ly/Luke20:18\">LUK 20:18</a>; <a href=\"https://ref.ly/Rom16:20\">ROM 16:20</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05009021",
+"start_ref_usfm": "DEU 9:21",
+"end_ref": "05009021",
+"end_ref_usfm": "DEU 9:21"
+},
+{
+"start_ref": "14034007",
+"start_ref_usfm": "2CH 34:7",
+"end_ref": "14034007",
+"end_ref_usfm": "2CH 34:7"
+},
+{
+"start_ref": "18039014",
+"start_ref_usfm": "JOB 39:14",
+"end_ref": "18039015",
+"end_ref_usfm": "JOB 39:15"
+},
+{
+"start_ref": "23027009",
+"start_ref_usfm": "ISA 27:9",
+"end_ref": "23027009",
+"end_ref_usfm": "ISA 27:9"
+},
+{
+"start_ref": "27002040",
+"start_ref_usfm": "DAN 2:40",
+"end_ref": "27002040",
+"end_ref_usfm": "DAN 2:40"
+},
+{
+"start_ref": "03002014",
+"start_ref_usfm": "LEV 2:14",
+"end_ref": "03002014",
+"end_ref_usfm": "LEV 2:14"
+},
+{
+"start_ref": "03002016",
+"start_ref_usfm": "LEV 2:16",
+"end_ref": "03002016",
+"end_ref_usfm": "LEV 2:16"
+},
+{
+"start_ref": "04011008",
+"start_ref_usfm": "NUM 11:8",
+"end_ref": "04011008",
+"end_ref_usfm": "NUM 11:8"
+},
+{
+"start_ref": "18024011",
+"start_ref_usfm": "JOB 24:11",
+"end_ref": "18024011",
+"end_ref_usfm": "JOB 24:11"
+},
+{
+"start_ref": "33006015",
+"start_ref_usfm": "MIC 6:15",
+"end_ref": "33006015",
+"end_ref_usfm": "MIC 6:15"
+},
+{
+"start_ref": "10022038",
+"start_ref_usfm": "2SA 22:38",
+"end_ref": "10022039",
+"end_ref_usfm": "2SA 22:39"
+},
+{
+"start_ref": "19110005",
+"start_ref_usfm": "PSA 110:5",
+"end_ref": "19110006",
+"end_ref_usfm": "PSA 110:6"
+},
+{
+"start_ref": "23053005",
+"start_ref_usfm": "ISA 53:5",
+"end_ref": "23053005",
+"end_ref_usfm": "ISA 53:5"
+},
+{
+"start_ref": "03022024",
+"start_ref_usfm": "LEV 22:24",
+"end_ref": "03022024",
+"end_ref_usfm": "LEV 22:24"
+},
+{
+"start_ref": "05023001",
+"start_ref_usfm": "DEU 23:1",
+"end_ref": "05023001",
+"end_ref_usfm": "DEU 23:1"
+},
+{
+"start_ref": "18006008",
+"start_ref_usfm": "JOB 6:8",
+"end_ref": "18006009",
+"end_ref_usfm": "JOB 6:9"
+},
+{
+"start_ref": "23003015",
+"start_ref_usfm": "ISA 3:15",
+"end_ref": "23003015",
+"end_ref_usfm": "ISA 3:15"
+},
+{
+"start_ref": "30002013",
+"start_ref_usfm": "AMO 2:13",
+"end_ref": "30002013",
+"end_ref_usfm": "AMO 2:13"
+},
+{
+"start_ref": "39001004",
+"start_ref_usfm": "MAL 1:4",
+"end_ref": "39001004",
+"end_ref_usfm": "MAL 1:4"
+},
+{
+"start_ref": "01003015",
+"start_ref_usfm": "GEN 3:15",
+"end_ref": "01003015",
+"end_ref_usfm": "GEN 3:15"
+},
+{
+"start_ref": "20018014",
+"start_ref_usfm": "PRO 18:14",
+"end_ref": "20018014",
+"end_ref_usfm": "PRO 18:14"
+},
+{
+"start_ref": "47004008",
+"start_ref_usfm": "2CO 4:8",
+"end_ref": "47004008",
+"end_ref_usfm": "2CO 4:8"
+},
+{
+"start_ref": "18019002",
+"start_ref_usfm": "JOB 19:2",
+"end_ref": "18019002",
+"end_ref_usfm": "JOB 19:2"
+},
+{
+"start_ref": "20015004",
+"start_ref_usfm": "PRO 15:4",
+"end_ref": "20015004",
+"end_ref_usfm": "PRO 15:4"
+},
+{
+"start_ref": "40021044",
+"start_ref_usfm": "MAT 21:44",
+"end_ref": "40021044",
+"end_ref_usfm": "MAT 21:44"
+},
+{
+"start_ref": "42020018",
+"start_ref_usfm": "LUK 20:18",
+"end_ref": "42020018",
+"end_ref_usfm": "LUK 20:18"
+},
+{
+"start_ref": "45016020",
+"start_ref_usfm": "ROM 16:20",
+"end_ref": "45016020",
+"end_ref_usfm": "ROM 16:20"
+}
+],
+"resource": [
+{
+"reference_id": "5347",
+"content_id": "5347",
+"resource_code": "DictionaryBibleThemes",
+"label": "5347: injustice",
+"language": "eng"
+},
+{
+"reference_id": "5801",
+"content_id": "5801",
+"resource_code": "DictionaryBibleThemes",
+"label": "5801: brokenness",
+"language": "eng"
+},
+{
+"reference_id": "5975",
+"content_id": "5975",
+"resource_code": "DictionaryBibleThemes",
+"label": "5975: violence",
+"language": "eng"
+}
+]
+}
+}
+]

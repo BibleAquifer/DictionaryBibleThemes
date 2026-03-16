@@ -1,0 +1,330 @@
+[
+{
+"content_id": "5782",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5782: agony",
+"media_type": "Text",
+"index_reference": "5782: agony",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Intense suffering of body, mind or spirit, brought about by illness, death or the judgment of God.</p>\n<h2>Examples of agony</h2>\n<h3>Agony of body</h3>\n<p><strong><a href=\"https://ref.ly/Ps6:2\">PSA 6:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps31:10\">PSA 31:10</a>, <a href=\"https://ref.ly/Ps42:10\">PSA 42:10</a>; <a href=\"https://ref.ly/Isa21:3\">ISA 21:3</a>; <a href=\"https://ref.ly/John16:21\">JHN 16:21</a>; <a href=\"https://ref.ly/Rev9:5\">REV 9:5</a>, <a href=\"https://ref.ly/Rev16:10\">REV 16:10</a></p>\n<h3>Agony of heart</h3>\n<p><strong><a href=\"https://ref.ly/Jer4:19\">JER 4:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut2:25\">DEU 2:25</a>; <a href=\"https://ref.ly/1Sam1:16\">1SA 1:16</a> <em>Hannah prays for a son</em>; <a href=\"https://ref.ly/Job6:2\">JOB 6:2</a>, <a href=\"https://ref.ly/Job7:11\">JOB 7:11</a>; <a href=\"https://ref.ly/Ps6:3\">PSA 6:3</a>, <a href=\"https://ref.ly/Ps25:17\">PSA 25:17</a>, <a href=\"https://ref.ly/Ps31:7\">PSA 31:7</a>, <a href=\"https://ref.ly/Ps38:8\">PSA 38:8</a>, <a href=\"https://ref.ly/Ps55:4\">PSA 55:4</a>; <a href=\"https://ref.ly/Isa65:14\">ISA 65:14</a>; <a href=\"https://ref.ly/Matt26:38\">MAT 26:38</a>; <a href=\"https://ref.ly/Mark14:33\">MRK 14:33</a>; <a href=\"https://ref.ly/Luke22:44\">LUK 22:44</a> <em>Jesus Christ prays on the Mount of Olives</em>; <a href=\"https://ref.ly/Rom9:2\">ROM 9:2</a>; <a href=\"https://ref.ly/2Cor2:4\">2CO 2:4</a></p>\n<h2>Causes of agony</h2>\n<h3>Illness</h3>\n<p><strong><a href=\"https://ref.ly/Jer15:18\">JER 15:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job30:16-Job30:17\">JOB 30:16–30:17</a>; <a href=\"https://ref.ly/Ps6:2-Ps6:3\">PSA 6:2–6:3</a>, <a href=\"https://ref.ly/Ps38:7\">PSA 38:7</a>, <a href=\"https://ref.ly/Ps69:29\">PSA 69:29</a></p>\n<h3>Death</h3>\n<p><strong><a href=\"https://ref.ly/Acts2:24\">ACT 2:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job26:5\">JOB 26:5</a>; <a href=\"https://ref.ly/Ps18:4-Ps18:6\">PSA 18:4–18:6</a>, <a href=\"https://ref.ly/Ps42:10\">PSA 42:10</a>, <a href=\"https://ref.ly/Ps55:4\">PSA 55:4</a>, <a href=\"https://ref.ly/Ps116:3\">PSA 116:3</a></p>\n<h3>The judgment of God</h3>\n<p><strong><a href=\"https://ref.ly/Luke16:24-Luke16:25\">LUK 16:24–16:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer4:19\">JER 4:19</a>; <a href=\"https://ref.ly/Ezek30:16\">EZK 30:16</a>; <a href=\"https://ref.ly/Mic4:10\">MIC 4:10</a>; <a href=\"https://ref.ly/Zech9:5\">ZEC 9:5</a>; <a href=\"https://ref.ly/Matt22:13\">MAT 22:13</a>, <a href=\"https://ref.ly/Matt24:51\">MAT 24:51</a>, <a href=\"https://ref.ly/Matt25:30\">MAT 25:30</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19006002",
+"start_ref_usfm": "PSA 6:2",
+"end_ref": "19006002",
+"end_ref_usfm": "PSA 6:2"
+},
+{
+"start_ref": "19031010",
+"start_ref_usfm": "PSA 31:10",
+"end_ref": "19031010",
+"end_ref_usfm": "PSA 31:10"
+},
+{
+"start_ref": "19042010",
+"start_ref_usfm": "PSA 42:10",
+"end_ref": "19042010",
+"end_ref_usfm": "PSA 42:10"
+},
+{
+"start_ref": "23021003",
+"start_ref_usfm": "ISA 21:3",
+"end_ref": "23021003",
+"end_ref_usfm": "ISA 21:3"
+},
+{
+"start_ref": "43016021",
+"start_ref_usfm": "JHN 16:21",
+"end_ref": "43016021",
+"end_ref_usfm": "JHN 16:21"
+},
+{
+"start_ref": "66009005",
+"start_ref_usfm": "REV 9:5",
+"end_ref": "66009005",
+"end_ref_usfm": "REV 9:5"
+},
+{
+"start_ref": "66016010",
+"start_ref_usfm": "REV 16:10",
+"end_ref": "66016010",
+"end_ref_usfm": "REV 16:10"
+},
+{
+"start_ref": "24004019",
+"start_ref_usfm": "JER 4:19",
+"end_ref": "24004019",
+"end_ref_usfm": "JER 4:19"
+},
+{
+"start_ref": "05002025",
+"start_ref_usfm": "DEU 2:25",
+"end_ref": "05002025",
+"end_ref_usfm": "DEU 2:25"
+},
+{
+"start_ref": "09001016",
+"start_ref_usfm": "1SA 1:16",
+"end_ref": "09001016",
+"end_ref_usfm": "1SA 1:16"
+},
+{
+"start_ref": "18006002",
+"start_ref_usfm": "JOB 6:2",
+"end_ref": "18006002",
+"end_ref_usfm": "JOB 6:2"
+},
+{
+"start_ref": "18007011",
+"start_ref_usfm": "JOB 7:11",
+"end_ref": "18007011",
+"end_ref_usfm": "JOB 7:11"
+},
+{
+"start_ref": "19006003",
+"start_ref_usfm": "PSA 6:3",
+"end_ref": "19006003",
+"end_ref_usfm": "PSA 6:3"
+},
+{
+"start_ref": "19025017",
+"start_ref_usfm": "PSA 25:17",
+"end_ref": "19025017",
+"end_ref_usfm": "PSA 25:17"
+},
+{
+"start_ref": "19031007",
+"start_ref_usfm": "PSA 31:7",
+"end_ref": "19031007",
+"end_ref_usfm": "PSA 31:7"
+},
+{
+"start_ref": "19038008",
+"start_ref_usfm": "PSA 38:8",
+"end_ref": "19038008",
+"end_ref_usfm": "PSA 38:8"
+},
+{
+"start_ref": "19055004",
+"start_ref_usfm": "PSA 55:4",
+"end_ref": "19055004",
+"end_ref_usfm": "PSA 55:4"
+},
+{
+"start_ref": "23065014",
+"start_ref_usfm": "ISA 65:14",
+"end_ref": "23065014",
+"end_ref_usfm": "ISA 65:14"
+},
+{
+"start_ref": "40026038",
+"start_ref_usfm": "MAT 26:38",
+"end_ref": "40026038",
+"end_ref_usfm": "MAT 26:38"
+},
+{
+"start_ref": "41014033",
+"start_ref_usfm": "MRK 14:33",
+"end_ref": "41014033",
+"end_ref_usfm": "MRK 14:33"
+},
+{
+"start_ref": "42022044",
+"start_ref_usfm": "LUK 22:44",
+"end_ref": "42022044",
+"end_ref_usfm": "LUK 22:44"
+},
+{
+"start_ref": "45009002",
+"start_ref_usfm": "ROM 9:2",
+"end_ref": "45009002",
+"end_ref_usfm": "ROM 9:2"
+},
+{
+"start_ref": "47002004",
+"start_ref_usfm": "2CO 2:4",
+"end_ref": "47002004",
+"end_ref_usfm": "2CO 2:4"
+},
+{
+"start_ref": "24015018",
+"start_ref_usfm": "JER 15:18",
+"end_ref": "24015018",
+"end_ref_usfm": "JER 15:18"
+},
+{
+"start_ref": "18030016",
+"start_ref_usfm": "JOB 30:16",
+"end_ref": "18030017",
+"end_ref_usfm": "JOB 30:17"
+},
+{
+"start_ref": "19006002",
+"start_ref_usfm": "PSA 6:2",
+"end_ref": "19006003",
+"end_ref_usfm": "PSA 6:3"
+},
+{
+"start_ref": "19038007",
+"start_ref_usfm": "PSA 38:7",
+"end_ref": "19038007",
+"end_ref_usfm": "PSA 38:7"
+},
+{
+"start_ref": "19069029",
+"start_ref_usfm": "PSA 69:29",
+"end_ref": "19069029",
+"end_ref_usfm": "PSA 69:29"
+},
+{
+"start_ref": "44002024",
+"start_ref_usfm": "ACT 2:24",
+"end_ref": "44002024",
+"end_ref_usfm": "ACT 2:24"
+},
+{
+"start_ref": "18026005",
+"start_ref_usfm": "JOB 26:5",
+"end_ref": "18026005",
+"end_ref_usfm": "JOB 26:5"
+},
+{
+"start_ref": "19018004",
+"start_ref_usfm": "PSA 18:4",
+"end_ref": "19018006",
+"end_ref_usfm": "PSA 18:6"
+},
+{
+"start_ref": "19116003",
+"start_ref_usfm": "PSA 116:3",
+"end_ref": "19116003",
+"end_ref_usfm": "PSA 116:3"
+},
+{
+"start_ref": "42016024",
+"start_ref_usfm": "LUK 16:24",
+"end_ref": "42016025",
+"end_ref_usfm": "LUK 16:25"
+},
+{
+"start_ref": "26030016",
+"start_ref_usfm": "EZK 30:16",
+"end_ref": "26030016",
+"end_ref_usfm": "EZK 30:16"
+},
+{
+"start_ref": "33004010",
+"start_ref_usfm": "MIC 4:10",
+"end_ref": "33004010",
+"end_ref_usfm": "MIC 4:10"
+},
+{
+"start_ref": "38009005",
+"start_ref_usfm": "ZEC 9:5",
+"end_ref": "38009005",
+"end_ref_usfm": "ZEC 9:5"
+},
+{
+"start_ref": "40022013",
+"start_ref_usfm": "MAT 22:13",
+"end_ref": "40022013",
+"end_ref_usfm": "MAT 22:13"
+},
+{
+"start_ref": "40024051",
+"start_ref_usfm": "MAT 24:51",
+"end_ref": "40024051",
+"end_ref_usfm": "MAT 24:51"
+},
+{
+"start_ref": "40025030",
+"start_ref_usfm": "MAT 25:30",
+"end_ref": "40025030",
+"end_ref_usfm": "MAT 25:30"
+}
+],
+"resource": [
+{
+"reference_id": "1135",
+"content_id": "1135",
+"resource_code": "DictionaryBibleThemes",
+"label": "1135: God, suffering of",
+"language": "eng"
+},
+{
+"reference_id": "2570",
+"content_id": "2570",
+"resource_code": "DictionaryBibleThemes",
+"label": "2570: Jesus Christ, suffering of",
+"language": "eng"
+},
+{
+"reference_id": "5349",
+"content_id": "5349",
+"resource_code": "DictionaryBibleThemes",
+"label": "5349: injustice, examples of",
+"language": "eng"
+},
+{
+"reference_id": "5436",
+"content_id": "5436",
+"resource_code": "DictionaryBibleThemes",
+"label": "5436: pain",
+"language": "eng"
+},
+{
+"reference_id": "5560",
+"content_id": "5560",
+"resource_code": "DictionaryBibleThemes",
+"label": "5560: suffering",
+"language": "eng"
+},
+{
+"reference_id": "5823",
+"content_id": "5823",
+"resource_code": "DictionaryBibleThemes",
+"label": "5823: cruelty",
+"language": "eng"
+},
+{
+"reference_id": "5879",
+"content_id": "5879",
+"resource_code": "DictionaryBibleThemes",
+"label": "5879: humiliation",
+"language": "eng"
+},
+{
+"reference_id": "5952",
+"content_id": "5952",
+"resource_code": "DictionaryBibleThemes",
+"label": "5952: sorrow",
+"language": "eng"
+},
+{
+"reference_id": "8794",
+"content_id": "8794",
+"resource_code": "DictionaryBibleThemes",
+"label": "8794: persecution",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

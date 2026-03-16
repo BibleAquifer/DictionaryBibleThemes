@@ -1,0 +1,138 @@
+[
+{
+"content_id": "5510",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5510: rumours",
+"media_type": "Text",
+"index_reference": "5510: rumours",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Insubstantial information, frequently not factual and leading to groundless fears.</p>\n<h2>Rumours can give rise to fear</h2>\n<p><strong><a href=\"https://ref.ly/Jer51:46\">JER 51:46</a></strong>; <strong><a href=\"https://ref.ly/Matt24:6\">MAT 24:6</a></strong> parallel <a href=\"https://ref.ly/Mark13:7\">MRK 13:7</a> <em>See also</em> <a href=\"https://ref.ly/Job28:22\">JOB 28:22</a>; <a href=\"https://ref.ly/Ezek7:26\">EZK 7:26</a>; <a href=\"https://ref.ly/1Tim4:7\">1TI 4:7</a></p>\n<h2>Rumours can come from misunderstanding what has been said</h2>\n<p><strong><a href=\"https://ref.ly/John21:23\">JHN 21:23</a></strong></p>\n<h2>Rumours are sometimes maliciously spread</h2>\n<p><strong><a href=\"https://ref.ly/Prov17:4\">PRO 17:4</a></strong>; <strong><a href=\"https://ref.ly/3John1:10\">3JN 1:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov16:28\">PRO 16:28</a>, <a href=\"https://ref.ly/Prov26:24\">PRO 26:24</a>; <a href=\"https://ref.ly/1Tim3:11\">1TI 3:11</a>, <a href=\"https://ref.ly/1Tim5:13\">1TI 5:13</a>, <a href=\"https://ref.ly/1Tim6:11\">1TI 6:11</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "24051046",
+"start_ref_usfm": "JER 51:46",
+"end_ref": "24051046",
+"end_ref_usfm": "JER 51:46"
+},
+{
+"start_ref": "40024006",
+"start_ref_usfm": "MAT 24:6",
+"end_ref": "40024006",
+"end_ref_usfm": "MAT 24:6"
+},
+{
+"start_ref": "41013007",
+"start_ref_usfm": "MRK 13:7",
+"end_ref": "41013007",
+"end_ref_usfm": "MRK 13:7"
+},
+{
+"start_ref": "18028022",
+"start_ref_usfm": "JOB 28:22",
+"end_ref": "18028022",
+"end_ref_usfm": "JOB 28:22"
+},
+{
+"start_ref": "26007026",
+"start_ref_usfm": "EZK 7:26",
+"end_ref": "26007026",
+"end_ref_usfm": "EZK 7:26"
+},
+{
+"start_ref": "54004007",
+"start_ref_usfm": "1TI 4:7",
+"end_ref": "54004007",
+"end_ref_usfm": "1TI 4:7"
+},
+{
+"start_ref": "43021023",
+"start_ref_usfm": "JHN 21:23",
+"end_ref": "43021023",
+"end_ref_usfm": "JHN 21:23"
+},
+{
+"start_ref": "20017004",
+"start_ref_usfm": "PRO 17:4",
+"end_ref": "20017004",
+"end_ref_usfm": "PRO 17:4"
+},
+{
+"start_ref": "64001010",
+"start_ref_usfm": "3JN 1:10",
+"end_ref": "64001010",
+"end_ref_usfm": "3JN 1:10"
+},
+{
+"start_ref": "20016028",
+"start_ref_usfm": "PRO 16:28",
+"end_ref": "20016028",
+"end_ref_usfm": "PRO 16:28"
+},
+{
+"start_ref": "20026024",
+"start_ref_usfm": "PRO 26:24",
+"end_ref": "20026024",
+"end_ref_usfm": "PRO 26:24"
+},
+{
+"start_ref": "54003011",
+"start_ref_usfm": "1TI 3:11",
+"end_ref": "54003011",
+"end_ref_usfm": "1TI 3:11"
+},
+{
+"start_ref": "54005013",
+"start_ref_usfm": "1TI 5:13",
+"end_ref": "54005013",
+"end_ref_usfm": "1TI 5:13"
+},
+{
+"start_ref": "54006011",
+"start_ref_usfm": "1TI 6:11",
+"end_ref": "54006011",
+"end_ref_usfm": "1TI 6:11"
+}
+],
+"resource": [
+{
+"reference_id": "5193",
+"content_id": "5193",
+"resource_code": "DictionaryBibleThemes",
+"label": "5193: tongue",
+"language": "eng"
+},
+{
+"reference_id": "5426",
+"content_id": "5426",
+"resource_code": "DictionaryBibleThemes",
+"label": "5426: news",
+"language": "eng"
+},
+{
+"reference_id": "5575",
+"content_id": "5575",
+"resource_code": "DictionaryBibleThemes",
+"label": "5575: talk, idle",
+"language": "eng"
+},
+{
+"reference_id": "5868",
+"content_id": "5868",
+"resource_code": "DictionaryBibleThemes",
+"label": "5868: gossip",
+"language": "eng"
+},
+{
+"reference_id": "8830",
+"content_id": "8830",
+"resource_code": "DictionaryBibleThemes",
+"label": "8830: suspicion",
+"language": "eng"
+}
+]
+}
+}
+]

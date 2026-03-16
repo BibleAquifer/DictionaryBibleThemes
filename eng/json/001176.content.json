@@ -1,0 +1,60 @@
+[
+{
+"content_id": "5613",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5613: weights and measures",
+"media_type": "Text",
+"index_reference": "5613: weights and measures",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The peoples of the ancient Near East used a variety of standards of weights and measures, so that modern equivalents can only be approximate. The focus of Scripture is on the importance of keeping just weights and measures, and the prophets denounced those who used false balances and deceitful measures.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5614",
+"content_id": "5614",
+"resource_code": "DictionaryBibleThemes",
+"label": "5614: weights and measures, laws concerning",
+"language": "eng"
+},
+{
+"reference_id": "5615",
+"content_id": "5615",
+"resource_code": "DictionaryBibleThemes",
+"label": "5615: weights and measures, weights",
+"language": "eng"
+},
+{
+"reference_id": "5616",
+"content_id": "5616",
+"resource_code": "DictionaryBibleThemes",
+"label": "5616: weights and measures, dry",
+"language": "eng"
+},
+{
+"reference_id": "5617",
+"content_id": "5617",
+"resource_code": "DictionaryBibleThemes",
+"label": "5617: weights and measures, liquid",
+"language": "eng"
+},
+{
+"reference_id": "5618",
+"content_id": "5618",
+"resource_code": "DictionaryBibleThemes",
+"label": "5618: weights and measures, linear",
+"language": "eng"
+},
+{
+"reference_id": "5619",
+"content_id": "5619",
+"resource_code": "DictionaryBibleThemes",
+"label": "5619: weights and measures, distance and area",
+"language": "eng"
+}
+]
+}
+}
+]

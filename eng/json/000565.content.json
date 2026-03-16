@@ -1,0 +1,120 @@
+[
+{
+"content_id": "4841",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4841: narrowness",
+"media_type": "Text",
+"index_reference": "4841: narrowness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A state in which something is confined and restricted, lacking in breadth. It usually has pejorative implications, but Jesus Christ described the way of salvation in terms of narrowness.</p>\n<h2>Narrowness equated with no escape</h2>\n<p><strong><a href=\"https://ref.ly/Num22:24-Num22:26\">NUM 22:24–22:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov23:26-Prov23:28\">PRO 23:26–23:28</a></p>\n<h2>Narrowness associated with discomfort</h2>\n<p><strong><a href=\"https://ref.ly/Isa28:20\">ISA 28:20</a></strong></p>\n<h2>The narrow gate</h2>\n<p><strong><a href=\"https://ref.ly/Matt7:13-Matt7:14\">MAT 7:13–7:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke13:22-Luke13:30\">LUK 13:22–13:30</a></p>\n<h2>Narrowness in the architecture of the temple</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs6:4\">1KI 6:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek40:16\">EZK 40:16</a>, <a href=\"https://ref.ly/Ezek40:25\">EZK 40:25</a>, <a href=\"https://ref.ly/Ezek41:16\">EZK 41:16</a>, <a href=\"https://ref.ly/Ezek41:26\">EZK 41:26</a>, <a href=\"https://ref.ly/Ezek42:5\">EZK 42:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04022024",
+"start_ref_usfm": "NUM 22:24",
+"end_ref": "04022026",
+"end_ref_usfm": "NUM 22:26"
+},
+{
+"start_ref": "20023026",
+"start_ref_usfm": "PRO 23:26",
+"end_ref": "20023028",
+"end_ref_usfm": "PRO 23:28"
+},
+{
+"start_ref": "23028020",
+"start_ref_usfm": "ISA 28:20",
+"end_ref": "23028020",
+"end_ref_usfm": "ISA 28:20"
+},
+{
+"start_ref": "40007013",
+"start_ref_usfm": "MAT 7:13",
+"end_ref": "40007014",
+"end_ref_usfm": "MAT 7:14"
+},
+{
+"start_ref": "42013022",
+"start_ref_usfm": "LUK 13:22",
+"end_ref": "42013030",
+"end_ref_usfm": "LUK 13:30"
+},
+{
+"start_ref": "11006004",
+"start_ref_usfm": "1KI 6:4",
+"end_ref": "11006004",
+"end_ref_usfm": "1KI 6:4"
+},
+{
+"start_ref": "26040016",
+"start_ref_usfm": "EZK 40:16",
+"end_ref": "26040016",
+"end_ref_usfm": "EZK 40:16"
+},
+{
+"start_ref": "26040025",
+"start_ref_usfm": "EZK 40:25",
+"end_ref": "26040025",
+"end_ref_usfm": "EZK 40:25"
+},
+{
+"start_ref": "26041016",
+"start_ref_usfm": "EZK 41:16",
+"end_ref": "26041016",
+"end_ref_usfm": "EZK 41:16"
+},
+{
+"start_ref": "26041026",
+"start_ref_usfm": "EZK 41:26",
+"end_ref": "26041026",
+"end_ref_usfm": "EZK 41:26"
+},
+{
+"start_ref": "26042005",
+"start_ref_usfm": "EZK 42:5",
+"end_ref": "26042005",
+"end_ref_usfm": "EZK 42:5"
+}
+],
+"resource": [
+{
+"reference_id": "4803",
+"content_id": "4803",
+"resource_code": "DictionaryBibleThemes",
+"label": "4803: breadth",
+"language": "eng"
+},
+{
+"reference_id": "4831",
+"content_id": "4831",
+"resource_code": "DictionaryBibleThemes",
+"label": "4831: largeness",
+"language": "eng"
+},
+{
+"reference_id": "4847",
+"content_id": "4847",
+"resource_code": "DictionaryBibleThemes",
+"label": "4847: smallness",
+"language": "eng"
+},
+{
+"reference_id": "5323",
+"content_id": "5323",
+"resource_code": "DictionaryBibleThemes",
+"label": "5323: gate",
+"language": "eng"
+},
+{
+"reference_id": "7467",
+"content_id": "7467",
+"resource_code": "DictionaryBibleThemes",
+"label": "7467: temple, Solomon's",
+"language": "eng"
+}
+]
+}
+}
+]

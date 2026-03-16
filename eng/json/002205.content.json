@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8414",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8414: encouragement",
+"media_type": "Text",
+"index_reference": "8414: encouragement",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Giving someone confidence and courage to do something. Scripture encourages believers to trust in God and to rely on the enabling of the Holy Spirit.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8415",
+"content_id": "8415",
+"resource_code": "DictionaryBibleThemes",
+"label": "8415: encouragement, examples of",
+"language": "eng"
+},
+{
+"reference_id": "8416",
+"content_id": "8416",
+"resource_code": "DictionaryBibleThemes",
+"label": "8416: encouragement, promises of God's",
+"language": "eng"
+}
+]
+}
+}
+]

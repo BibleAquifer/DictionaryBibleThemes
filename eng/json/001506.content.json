@@ -1,0 +1,291 @@
+[
+{
+"content_id": "6100",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6100: Aspects of sin",
+"media_type": "Text",
+"index_reference": "6100: aspects of sin",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"6103\" data-resourcetype=\"DictionaryOfBibleThemes\">6103: abomination</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6106\" data-resourcetype=\"DictionaryOfBibleThemes\">6106: addiction</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6109\" data-resourcetype=\"DictionaryOfBibleThemes\">6109: alienation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6112\" data-resourcetype=\"DictionaryOfBibleThemes\">6112: banishment</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6115\" data-resourcetype=\"DictionaryOfBibleThemes\">6115: blame</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6118\" data-resourcetype=\"DictionaryOfBibleThemes\">6118: blemish</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6121\" data-resourcetype=\"DictionaryOfBibleThemes\">6121: boasting</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6124\" data-resourcetype=\"DictionaryOfBibleThemes\">6124: condemnation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6130\" data-resourcetype=\"DictionaryOfBibleThemes\">6130: corruption</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6133\" data-resourcetype=\"DictionaryOfBibleThemes\">6133: coveting</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6139\" data-resourcetype=\"DictionaryOfBibleThemes\">6139: deadness, spiritual</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6142\" data-resourcetype=\"DictionaryOfBibleThemes\">6142: decay</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6145\" data-resourcetype=\"DictionaryOfBibleThemes\">6145: deceit</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6151\" data-resourcetype=\"DictionaryOfBibleThemes\">6151: dirt</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6154\" data-resourcetype=\"DictionaryOfBibleThemes\">6154: fall, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6160\" data-resourcetype=\"DictionaryOfBibleThemes\">6160: fathers, sin of the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6163\" data-resourcetype=\"DictionaryOfBibleThemes\">6163: faults</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6166\" data-resourcetype=\"DictionaryOfBibleThemes\">6166: flesh, sinful nature</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6169\" data-resourcetype=\"DictionaryOfBibleThemes\">6169: godlessness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6172\" data-resourcetype=\"DictionaryOfBibleThemes\">6172: guilt</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6178\" data-resourcetype=\"DictionaryOfBibleThemes\">6178: hardness of heart</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6181\" data-resourcetype=\"DictionaryOfBibleThemes\">6181: ignorance</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6184\" data-resourcetype=\"DictionaryOfBibleThemes\">6184: imagination</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6187\" data-resourcetype=\"DictionaryOfBibleThemes\">6187: immorality</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6193\" data-resourcetype=\"DictionaryOfBibleThemes\">6193: impenitence</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6199\" data-resourcetype=\"DictionaryOfBibleThemes\">6199: imperfection</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6203\" data-resourcetype=\"DictionaryOfBibleThemes\">6203: mortality</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6206\" data-resourcetype=\"DictionaryOfBibleThemes\">6206: offence</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6209\" data-resourcetype=\"DictionaryOfBibleThemes\">6209: pagans</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6212\" data-resourcetype=\"DictionaryOfBibleThemes\">6212: participation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6218\" data-resourcetype=\"DictionaryOfBibleThemes\">6218: provoking God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6221\" data-resourcetype=\"DictionaryOfBibleThemes\">6221: rebellion</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6227\" data-resourcetype=\"DictionaryOfBibleThemes\">6227: regret</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6230\" data-resourcetype=\"DictionaryOfBibleThemes\">6230: rejection</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6236\" data-resourcetype=\"DictionaryOfBibleThemes\">6236: sexual sin</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6245\" data-resourcetype=\"DictionaryOfBibleThemes\">6245: stubbornness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6248\" data-resourcetype=\"DictionaryOfBibleThemes\">6248: temptation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6257\" data-resourcetype=\"DictionaryOfBibleThemes\">6257: unbelievers</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6260\" data-resourcetype=\"DictionaryOfBibleThemes\">6260: uncircumcised</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6103",
+"content_id": "6103",
+"resource_code": "DictionaryBibleThemes",
+"label": "6103: abomination",
+"language": "eng"
+},
+{
+"reference_id": "6106",
+"content_id": "6106",
+"resource_code": "DictionaryBibleThemes",
+"label": "6106: addiction",
+"language": "eng"
+},
+{
+"reference_id": "6109",
+"content_id": "6109",
+"resource_code": "DictionaryBibleThemes",
+"label": "6109: alienation",
+"language": "eng"
+},
+{
+"reference_id": "6112",
+"content_id": "6112",
+"resource_code": "DictionaryBibleThemes",
+"label": "6112: banishment",
+"language": "eng"
+},
+{
+"reference_id": "6115",
+"content_id": "6115",
+"resource_code": "DictionaryBibleThemes",
+"label": "6115: blame",
+"language": "eng"
+},
+{
+"reference_id": "6118",
+"content_id": "6118",
+"resource_code": "DictionaryBibleThemes",
+"label": "6118: blemish",
+"language": "eng"
+},
+{
+"reference_id": "6121",
+"content_id": "6121",
+"resource_code": "DictionaryBibleThemes",
+"label": "6121: boasting",
+"language": "eng"
+},
+{
+"reference_id": "6124",
+"content_id": "6124",
+"resource_code": "DictionaryBibleThemes",
+"label": "6124: condemnation",
+"language": "eng"
+},
+{
+"reference_id": "6130",
+"content_id": "6130",
+"resource_code": "DictionaryBibleThemes",
+"label": "6130: corruption",
+"language": "eng"
+},
+{
+"reference_id": "6133",
+"content_id": "6133",
+"resource_code": "DictionaryBibleThemes",
+"label": "6133: coveting",
+"language": "eng"
+},
+{
+"reference_id": "6139",
+"content_id": "6139",
+"resource_code": "DictionaryBibleThemes",
+"label": "6139: deadness, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "6142",
+"content_id": "6142",
+"resource_code": "DictionaryBibleThemes",
+"label": "6142: decay",
+"language": "eng"
+},
+{
+"reference_id": "6145",
+"content_id": "6145",
+"resource_code": "DictionaryBibleThemes",
+"label": "6145: deceit",
+"language": "eng"
+},
+{
+"reference_id": "6151",
+"content_id": "6151",
+"resource_code": "DictionaryBibleThemes",
+"label": "6151: dirt",
+"language": "eng"
+},
+{
+"reference_id": "6154",
+"content_id": "6154",
+"resource_code": "DictionaryBibleThemes",
+"label": "6154: fall, the",
+"language": "eng"
+},
+{
+"reference_id": "6160",
+"content_id": "6160",
+"resource_code": "DictionaryBibleThemes",
+"label": "6160: fathers, sin of the",
+"language": "eng"
+},
+{
+"reference_id": "6163",
+"content_id": "6163",
+"resource_code": "DictionaryBibleThemes",
+"label": "6163: faults",
+"language": "eng"
+},
+{
+"reference_id": "6166",
+"content_id": "6166",
+"resource_code": "DictionaryBibleThemes",
+"label": "6166: flesh, sinful nature",
+"language": "eng"
+},
+{
+"reference_id": "6169",
+"content_id": "6169",
+"resource_code": "DictionaryBibleThemes",
+"label": "6169: godlessness",
+"language": "eng"
+},
+{
+"reference_id": "6172",
+"content_id": "6172",
+"resource_code": "DictionaryBibleThemes",
+"label": "6172: guilt",
+"language": "eng"
+},
+{
+"reference_id": "6178",
+"content_id": "6178",
+"resource_code": "DictionaryBibleThemes",
+"label": "6178: hardness of heart",
+"language": "eng"
+},
+{
+"reference_id": "6181",
+"content_id": "6181",
+"resource_code": "DictionaryBibleThemes",
+"label": "6181: ignorance",
+"language": "eng"
+},
+{
+"reference_id": "6184",
+"content_id": "6184",
+"resource_code": "DictionaryBibleThemes",
+"label": "6184: imagination",
+"language": "eng"
+},
+{
+"reference_id": "6187",
+"content_id": "6187",
+"resource_code": "DictionaryBibleThemes",
+"label": "6187: immorality",
+"language": "eng"
+},
+{
+"reference_id": "6193",
+"content_id": "6193",
+"resource_code": "DictionaryBibleThemes",
+"label": "6193: impenitence",
+"language": "eng"
+},
+{
+"reference_id": "6199",
+"content_id": "6199",
+"resource_code": "DictionaryBibleThemes",
+"label": "6199: imperfection",
+"language": "eng"
+},
+{
+"reference_id": "6203",
+"content_id": "6203",
+"resource_code": "DictionaryBibleThemes",
+"label": "6203: mortality",
+"language": "eng"
+},
+{
+"reference_id": "6206",
+"content_id": "6206",
+"resource_code": "DictionaryBibleThemes",
+"label": "6206: offence",
+"language": "eng"
+},
+{
+"reference_id": "6209",
+"content_id": "6209",
+"resource_code": "DictionaryBibleThemes",
+"label": "6209: pagans",
+"language": "eng"
+},
+{
+"reference_id": "6212",
+"content_id": "6212",
+"resource_code": "DictionaryBibleThemes",
+"label": "6212: participation",
+"language": "eng"
+},
+{
+"reference_id": "6218",
+"content_id": "6218",
+"resource_code": "DictionaryBibleThemes",
+"label": "6218: provoking God",
+"language": "eng"
+},
+{
+"reference_id": "6221",
+"content_id": "6221",
+"resource_code": "DictionaryBibleThemes",
+"label": "6221: rebellion",
+"language": "eng"
+},
+{
+"reference_id": "6227",
+"content_id": "6227",
+"resource_code": "DictionaryBibleThemes",
+"label": "6227: regret",
+"language": "eng"
+},
+{
+"reference_id": "6230",
+"content_id": "6230",
+"resource_code": "DictionaryBibleThemes",
+"label": "6230: rejection",
+"language": "eng"
+},
+{
+"reference_id": "6236",
+"content_id": "6236",
+"resource_code": "DictionaryBibleThemes",
+"label": "6236: sexual sin",
+"language": "eng"
+},
+{
+"reference_id": "6245",
+"content_id": "6245",
+"resource_code": "DictionaryBibleThemes",
+"label": "6245: stubbornness",
+"language": "eng"
+},
+{
+"reference_id": "6248",
+"content_id": "6248",
+"resource_code": "DictionaryBibleThemes",
+"label": "6248: temptation",
+"language": "eng"
+},
+{
+"reference_id": "6257",
+"content_id": "6257",
+"resource_code": "DictionaryBibleThemes",
+"label": "6257: unbelievers",
+"language": "eng"
+},
+{
+"reference_id": "6260",
+"content_id": "6260",
+"resource_code": "DictionaryBibleThemes",
+"label": "6260: uncircumcised",
+"language": "eng"
+}
+]
+}
+}
+]

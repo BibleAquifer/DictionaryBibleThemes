@@ -1,0 +1,32 @@
+[
+{
+"content_id": "7140",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7140: people of God",
+"media_type": "Text",
+"index_reference": "7140: people of god",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Those called out to belong to God and serve him in his world.  God called Israel to be his people in the OT, anticicpating the calling of the church in the NT.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7141",
+"content_id": "7141",
+"resource_code": "DictionaryBibleThemes",
+"label": "7141: people of God, in OT",
+"language": "eng"
+},
+{
+"reference_id": "7142",
+"content_id": "7142",
+"resource_code": "DictionaryBibleThemes",
+"label": "7142: people of God, in NT",
+"language": "eng"
+}
+]
+}
+}
+]

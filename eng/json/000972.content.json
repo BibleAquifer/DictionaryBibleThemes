@@ -1,0 +1,170 @@
+[
+{
+"content_id": "5390",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5390: leprosy",
+"media_type": "Text",
+"index_reference": "5390: leprosy",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An infectious skin disease. The leprosy mentioned in Scripture, however, covers a wider range of dermatological conditions than that now referred to as the modern Hansen's disease, known colloquially as leprosy.</p>\n<h2>Regulations for the control of leprosy</h2>\n<h3>Sufferers are banned from society</h3>\n<p><strong><a href=\"https://ref.ly/Num5:2\">NUM 5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev13:1-Lev13:46\">LEV 13:1–13:46</a>; <a href=\"https://ref.ly/Deut24:8-Deut24:9\">DEU 24:8–24:9</a>; <a href=\"https://ref.ly/2Kgs7:3\">2KI 7:3</a></p>\n<h3>Sufferers are banned from Levitical service</h3>\n<p><strong><a href=\"https://ref.ly/Lev22:4\">LEV 22:4</a></strong></p>\n<h3>Sufferers are to report to a priest on being cured</h3>\n<p><strong><a href=\"https://ref.ly/Matt8:4\">MAT 8:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke17:14\">LUK 17:14</a>; <a href=\"https://ref.ly/Lev14:1-Lev14:9\">LEV 14:1–14:9</a></p>\n<h2>The healing of leprosy</h2>\n<p><a href=\"https://ref.ly/2Kgs5:1\">2KI 5:1</a>, <a href=\"https://ref.ly/2Kgs5:14\">2KI 5:14</a>; ; <a href=\"https://ref.ly/Matt8:2-Matt8:3\">MAT 8:2–8:3</a> parallel <a href=\"https://ref.ly/Mark1:40-Mark1:41\">MRK 1:40–1:41</a>; ; <a href=\"https://ref.ly/Luke17:12-Luke17:15\">LUK 17:12–17:15</a></p>\n<h2>Spiritual significance of leprosy</h2>\n<h3>As a validating sign from God</h3>\n<p><a href=\"https://ref.ly/Exod4:6-Exod4:7\">EXO 4:6–4:7</a></p>\n<h3>As a judgment from God</h3>\n<p><a href=\"https://ref.ly/Num12:10-Num12:15\">NUM 12:10–12:15</a>; ; <a href=\"https://ref.ly/2Kgs5:27\">2KI 5:27</a>; ; <a href=\"https://ref.ly/2Chr26:19-2Chr26:23\">2CH 26:19–26:23</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04005002",
+"start_ref_usfm": "NUM 5:2",
+"end_ref": "04005002",
+"end_ref_usfm": "NUM 5:2"
+},
+{
+"start_ref": "03013001",
+"start_ref_usfm": "LEV 13:1",
+"end_ref": "03013046",
+"end_ref_usfm": "LEV 13:46"
+},
+{
+"start_ref": "05024008",
+"start_ref_usfm": "DEU 24:8",
+"end_ref": "05024009",
+"end_ref_usfm": "DEU 24:9"
+},
+{
+"start_ref": "12007003",
+"start_ref_usfm": "2KI 7:3",
+"end_ref": "12007003",
+"end_ref_usfm": "2KI 7:3"
+},
+{
+"start_ref": "03022004",
+"start_ref_usfm": "LEV 22:4",
+"end_ref": "03022004",
+"end_ref_usfm": "LEV 22:4"
+},
+{
+"start_ref": "40008004",
+"start_ref_usfm": "MAT 8:4",
+"end_ref": "40008004",
+"end_ref_usfm": "MAT 8:4"
+},
+{
+"start_ref": "42017014",
+"start_ref_usfm": "LUK 17:14",
+"end_ref": "42017014",
+"end_ref_usfm": "LUK 17:14"
+},
+{
+"start_ref": "03014001",
+"start_ref_usfm": "LEV 14:1",
+"end_ref": "03014009",
+"end_ref_usfm": "LEV 14:9"
+},
+{
+"start_ref": "12005001",
+"start_ref_usfm": "2KI 5:1",
+"end_ref": "12005001",
+"end_ref_usfm": "2KI 5:1"
+},
+{
+"start_ref": "12005014",
+"start_ref_usfm": "2KI 5:14",
+"end_ref": "12005014",
+"end_ref_usfm": "2KI 5:14"
+},
+{
+"start_ref": "40008002",
+"start_ref_usfm": "MAT 8:2",
+"end_ref": "40008003",
+"end_ref_usfm": "MAT 8:3"
+},
+{
+"start_ref": "41001040",
+"start_ref_usfm": "MRK 1:40",
+"end_ref": "41001041",
+"end_ref_usfm": "MRK 1:41"
+},
+{
+"start_ref": "42017012",
+"start_ref_usfm": "LUK 17:12",
+"end_ref": "42017015",
+"end_ref_usfm": "LUK 17:15"
+},
+{
+"start_ref": "02004006",
+"start_ref_usfm": "EXO 4:6",
+"end_ref": "02004007",
+"end_ref_usfm": "EXO 4:7"
+},
+{
+"start_ref": "04012010",
+"start_ref_usfm": "NUM 12:10",
+"end_ref": "04012015",
+"end_ref_usfm": "NUM 12:15"
+},
+{
+"start_ref": "12005027",
+"start_ref_usfm": "2KI 5:27",
+"end_ref": "12005027",
+"end_ref_usfm": "2KI 5:27"
+},
+{
+"start_ref": "14026019",
+"start_ref_usfm": "2CH 26:19",
+"end_ref": "14026023",
+"end_ref_usfm": "2CH 26:23"
+}
+],
+"resource": [
+{
+"reference_id": "2351",
+"content_id": "2351",
+"resource_code": "DictionaryBibleThemes",
+"label": "2351: Jesus Christ, miracles of",
+"language": "eng"
+},
+{
+"reference_id": "5182",
+"content_id": "5182",
+"resource_code": "DictionaryBibleThemes",
+"label": "5182: skin",
+"language": "eng"
+},
+{
+"reference_id": "5297",
+"content_id": "5297",
+"resource_code": "DictionaryBibleThemes",
+"label": "5297: disease",
+"language": "eng"
+},
+{
+"reference_id": "5333",
+"content_id": "5333",
+"resource_code": "DictionaryBibleThemes",
+"label": "5333: healing",
+"language": "eng"
+},
+{
+"reference_id": "7340",
+"content_id": "7340",
+"resource_code": "DictionaryBibleThemes",
+"label": "7340: clean and unclean",
+"language": "eng"
+},
+{
+"reference_id": "8341",
+"content_id": "8341",
+"resource_code": "DictionaryBibleThemes",
+"label": "8341: separation",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

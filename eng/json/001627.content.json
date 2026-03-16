@@ -1,0 +1,39 @@
+[
+{
+"content_id": "6652",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6652: forgiveness",
+"media_type": "Text",
+"index_reference": "6652: forgiveness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The freeing of a person from guilt and its consequences, including punishment; usually as an act of favour, compassion or love, with the aim of restoring a broken personal relationship. Forgiveness can involve both the remission of punishment and the cancellation of debts.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6653",
+"content_id": "6653",
+"resource_code": "DictionaryBibleThemes",
+"label": "6653: forgiveness, divine",
+"language": "eng"
+},
+{
+"reference_id": "6654",
+"content_id": "6654",
+"resource_code": "DictionaryBibleThemes",
+"label": "6654: forgiveness, Jesus Christ's ministry of",
+"language": "eng"
+},
+{
+"reference_id": "6655",
+"content_id": "6655",
+"resource_code": "DictionaryBibleThemes",
+"label": "6655: forgiveness, application of",
+"language": "eng"
+}
+]
+}
+}
+]

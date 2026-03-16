@@ -1,0 +1,32 @@
+[
+{
+"content_id": "6212",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6212: participation",
+"media_type": "Text",
+"index_reference": "6212: participation",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Sharing in actions or identifying with actions or people. All human beings share in Adam's fall and its consequences; believers share in Christ and his life.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6213",
+"content_id": "6213",
+"resource_code": "DictionaryBibleThemes",
+"label": "6213: participation, in sin",
+"language": "eng"
+},
+{
+"reference_id": "6214",
+"content_id": "6214",
+"resource_code": "DictionaryBibleThemes",
+"label": "6214: participation, in Christ",
+"language": "eng"
+}
+]
+}
+}
+]

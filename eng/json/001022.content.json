@@ -1,0 +1,259 @@
+[
+{
+"content_id": "5444",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5444: pledges",
+"media_type": "Text",
+"index_reference": "5444: pledges",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A solemn, binding promise, often involving the deposit of valuable items or property as a guarantee that the promise will be kept. To break a pledge is to sin against God.</p>\n<h2>Pledges were binding</h2>\n<p><strong><a href=\"https://ref.ly/Num30:2\">NUM 30:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num30:3-Num30:15\">NUM 30:3–30:15</a> <em>In certain cases pledges made by daughters or wives could be nullified by fathers or husbands respectively.</em></p>\n<h2>Pledges were solemn promises</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs23:3\">2KI 23:3</a></strong> parallel <a href=\"https://ref.ly/2Chr34:31-2Chr34:32\">2CH 34:31–34:32</a> <em>See also</em> <a href=\"https://ref.ly/1Chr29:24\">1CH 29:24</a>; <a href=\"https://ref.ly/Ezra10:19\">EZR 10:19</a>; <a href=\"https://ref.ly/Ezek17:16-Ezek17:18\">EZK 17:16–17:18</a>; <a href=\"https://ref.ly/Mic7:20\">MIC 7:20</a>; <a href=\"https://ref.ly/1Pet3:21\">1PE 3:21</a></p>\n<h2>Pledges were guarantees that a promise would be kept</h2>\n<h3>Items deposited to secure a pledge</h3>\n<p><strong><a href=\"https://ref.ly/Gen38:17-Gen38:18\">GEN 38:17–38:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod22:26-Exod22:27\">EXO 22:26–22:27</a>; <a href=\"https://ref.ly/Deut24:10-Deut24:13\">DEU 24:10–24:13</a>; <a href=\"https://ref.ly/Prov20:16\">PRO 20:16</a>, <a href=\"https://ref.ly/Prov27:13\">PRO 27:13</a></p>\n<h3>Unjust exaction of pledges condemned</h3>\n<p><strong><a href=\"https://ref.ly/Deut24:17\">DEU 24:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job22:4-Job22:6\">JOB 22:4–22:6</a>, <a href=\"https://ref.ly/Job24:2-Job24:3\">JOB 24:2–24:3</a>; <a href=\"https://ref.ly/Amos2:6-Amos2:8\">AMO 2:6–2:8</a></p>\n<h2>Warning against making pledges on behalf of others</h2>\n<p><strong><a href=\"https://ref.ly/Prov11:15\">PRO 11:15</a></strong> <em>The foolishness of making a pledge as security for someone else's debt.</em> <em>See also</em> <a href=\"https://ref.ly/Prov6:1-Prov6:5\">PRO 6:1–6:5</a>, <a href=\"https://ref.ly/Prov17:18\">PRO 17:18</a>, <a href=\"https://ref.ly/Prov22:26-Prov22:27\">PRO 22:26–22:27</a></p>\n<h2>Pledges and betrothal</h2>\n<p><strong><a href=\"https://ref.ly/Matt1:18-Matt1:19\">MAT 1:18–1:19</a></strong> <em>Betrothal was a pledge to marry and as such was much more binding than the modern Western practice of engagement. It could only be broken by divorce and the betrothed woman was already described as a wife.</em> <em>See also</em> <a href=\"https://ref.ly/Exod22:16\">EXO 22:16</a>; <a href=\"https://ref.ly/Deut22:23-Deut22:25\">DEU 22:23–22:25</a>; <a href=\"https://ref.ly/Luke1:27\">LUK 1:27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04030002",
+"start_ref_usfm": "NUM 30:2",
+"end_ref": "04030002",
+"end_ref_usfm": "NUM 30:2"
+},
+{
+"start_ref": "04030003",
+"start_ref_usfm": "NUM 30:3",
+"end_ref": "04030015",
+"end_ref_usfm": "NUM 30:15"
+},
+{
+"start_ref": "12023003",
+"start_ref_usfm": "2KI 23:3",
+"end_ref": "12023003",
+"end_ref_usfm": "2KI 23:3"
+},
+{
+"start_ref": "14034031",
+"start_ref_usfm": "2CH 34:31",
+"end_ref": "14034032",
+"end_ref_usfm": "2CH 34:32"
+},
+{
+"start_ref": "13029024",
+"start_ref_usfm": "1CH 29:24",
+"end_ref": "13029024",
+"end_ref_usfm": "1CH 29:24"
+},
+{
+"start_ref": "15010019",
+"start_ref_usfm": "EZR 10:19",
+"end_ref": "15010019",
+"end_ref_usfm": "EZR 10:19"
+},
+{
+"start_ref": "26017016",
+"start_ref_usfm": "EZK 17:16",
+"end_ref": "26017018",
+"end_ref_usfm": "EZK 17:18"
+},
+{
+"start_ref": "33007020",
+"start_ref_usfm": "MIC 7:20",
+"end_ref": "33007020",
+"end_ref_usfm": "MIC 7:20"
+},
+{
+"start_ref": "60003021",
+"start_ref_usfm": "1PE 3:21",
+"end_ref": "60003021",
+"end_ref_usfm": "1PE 3:21"
+},
+{
+"start_ref": "01038017",
+"start_ref_usfm": "GEN 38:17",
+"end_ref": "01038018",
+"end_ref_usfm": "GEN 38:18"
+},
+{
+"start_ref": "02022026",
+"start_ref_usfm": "EXO 22:26",
+"end_ref": "02022027",
+"end_ref_usfm": "EXO 22:27"
+},
+{
+"start_ref": "05024010",
+"start_ref_usfm": "DEU 24:10",
+"end_ref": "05024013",
+"end_ref_usfm": "DEU 24:13"
+},
+{
+"start_ref": "20020016",
+"start_ref_usfm": "PRO 20:16",
+"end_ref": "20020016",
+"end_ref_usfm": "PRO 20:16"
+},
+{
+"start_ref": "20027013",
+"start_ref_usfm": "PRO 27:13",
+"end_ref": "20027013",
+"end_ref_usfm": "PRO 27:13"
+},
+{
+"start_ref": "05024017",
+"start_ref_usfm": "DEU 24:17",
+"end_ref": "05024017",
+"end_ref_usfm": "DEU 24:17"
+},
+{
+"start_ref": "18022004",
+"start_ref_usfm": "JOB 22:4",
+"end_ref": "18022006",
+"end_ref_usfm": "JOB 22:6"
+},
+{
+"start_ref": "18024002",
+"start_ref_usfm": "JOB 24:2",
+"end_ref": "18024003",
+"end_ref_usfm": "JOB 24:3"
+},
+{
+"start_ref": "30002006",
+"start_ref_usfm": "AMO 2:6",
+"end_ref": "30002008",
+"end_ref_usfm": "AMO 2:8"
+},
+{
+"start_ref": "20011015",
+"start_ref_usfm": "PRO 11:15",
+"end_ref": "20011015",
+"end_ref_usfm": "PRO 11:15"
+},
+{
+"start_ref": "20006001",
+"start_ref_usfm": "PRO 6:1",
+"end_ref": "20006005",
+"end_ref_usfm": "PRO 6:5"
+},
+{
+"start_ref": "20017018",
+"start_ref_usfm": "PRO 17:18",
+"end_ref": "20017018",
+"end_ref_usfm": "PRO 17:18"
+},
+{
+"start_ref": "20022026",
+"start_ref_usfm": "PRO 22:26",
+"end_ref": "20022027",
+"end_ref_usfm": "PRO 22:27"
+},
+{
+"start_ref": "40001018",
+"start_ref_usfm": "MAT 1:18",
+"end_ref": "40001019",
+"end_ref_usfm": "MAT 1:19"
+},
+{
+"start_ref": "02022016",
+"start_ref_usfm": "EXO 22:16",
+"end_ref": "02022016",
+"end_ref_usfm": "EXO 22:16"
+},
+{
+"start_ref": "05022023",
+"start_ref_usfm": "DEU 22:23",
+"end_ref": "05022025",
+"end_ref_usfm": "DEU 22:25"
+},
+{
+"start_ref": "42001027",
+"start_ref_usfm": "LUK 1:27",
+"end_ref": "42001027",
+"end_ref_usfm": "LUK 1:27"
+}
+],
+"resource": [
+{
+"reference_id": "1346",
+"content_id": "1346",
+"resource_code": "DictionaryBibleThemes",
+"label": "1346: covenants, nature of",
+"language": "eng"
+},
+{
+"reference_id": "1690",
+"content_id": "1690",
+"resource_code": "DictionaryBibleThemes",
+"label": "1690: word of God",
+"language": "eng"
+},
+{
+"reference_id": "3040",
+"content_id": "3040",
+"resource_code": "DictionaryBibleThemes",
+"label": "3040: Holy Spirit, promise of",
+"language": "eng"
+},
+{
+"reference_id": "5329",
+"content_id": "5329",
+"resource_code": "DictionaryBibleThemes",
+"label": "5329: guarantee",
+"language": "eng"
+},
+{
+"reference_id": "5429",
+"content_id": "5429",
+"resource_code": "DictionaryBibleThemes",
+"label": "5429: oaths",
+"language": "eng"
+},
+{
+"reference_id": "5440",
+"content_id": "5440",
+"resource_code": "DictionaryBibleThemes",
+"label": "5440: perjury",
+"language": "eng"
+},
+{
+"reference_id": "5466",
+"content_id": "5466",
+"resource_code": "DictionaryBibleThemes",
+"label": "5466: promises",
+"language": "eng"
+},
+{
+"reference_id": "5518",
+"content_id": "5518",
+"resource_code": "DictionaryBibleThemes",
+"label": "5518: seal",
+"language": "eng"
+},
+{
+"reference_id": "5654",
+"content_id": "5654",
+"resource_code": "DictionaryBibleThemes",
+"label": "5654: betrothal",
+"language": "eng"
+},
+{
+"reference_id": "5708",
+"content_id": "5708",
+"resource_code": "DictionaryBibleThemes",
+"label": "5708: marriage",
+"language": "eng"
+},
+{
+"reference_id": "5741",
+"content_id": "5741",
+"resource_code": "DictionaryBibleThemes",
+"label": "5741: vows",
+"language": "eng"
+},
+{
+"reference_id": "5925",
+"content_id": "5925",
+"resource_code": "DictionaryBibleThemes",
+"label": "5925: rashness",
+"language": "eng"
+}
+]
+}
+}
+]
