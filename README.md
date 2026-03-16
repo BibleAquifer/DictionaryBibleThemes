@@ -4,7 +4,7 @@ This repository (`DictionaryBibleThemes`) contains Aquifer resource data with re
 
 ## License
 
-Copyright 1999 by Martin Manser. Biblica has been granted a license to make this content available for non\-commercial purposes under a [CC BY\-SA 4\.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).  
+Copyright 1999 by Martin Manser. Biblica has been granted a license to make this content available under a [CC BY\-SA 4\.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).  
 **Source:** [BibleThemes GitHub repository](https://github.com/Clear-Bible/BibleThemes).
 
 ## Structure
