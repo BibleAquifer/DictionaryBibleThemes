@@ -1,0 +1,78 @@
+[
+{
+"content_id": "5526",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5526: shibboleth",
+"media_type": "Text",
+"index_reference": "5526: shibboleth",
+"language": "eng",
+"review_level": "None",
+"content": "<h2><code>Shibboleth'' a Hebrew word meaning</code>flood'' or ``ear of corn''</h2>\n<p><strong><a href=\"https://ref.ly/Ps69:15\">PSA 69:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps69:2\">PSA 69:2</a>; <a href=\"https://ref.ly/Isa27:12\">ISA 27:12</a> <em>“Shibboleth” is here translated as flowing.</em></p>\n<h2>Dialectal variation in the pronunciation of ``shibboleth''</h2>\n<p><strong><a href=\"https://ref.ly/Judg12:6\">JDG 12:6</a></strong></p>\n<h2>The pronunciation of ``shibboleth'' featured in a civil war between Gilead and Ephraim</h2>\n<h3>The Gileadites had defeated the Ammonites</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Judg10:7-Judg10:9\">JDG 10:7–10:9</a>, <a href=\"https://ref.ly/Judg10:17-Judg10:18\">JDG 10:17–10:18</a>, <a href=\"https://ref.ly/Judg11:4-Judg11:11\">JDG 11:4–11:11</a>, <a href=\"https://ref.ly/Judg11:32-Judg11:33\">JDG 11:32–11:33</a></p>\n<h3>This victory led to civil war between Gilead and Ephraim</h3>\n<p><a href=\"https://ref.ly/Judg12:1-Judg12:4\">JDG 12:1–12:4</a></p>\n<h3>Ephraimites were identified on the basis of their pronunciation of ``shibboleth''</h3>\n<p><strong><a href=\"https://ref.ly/Judg12:5-Judg12:6\">JDG 12:5–12:6</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19069015",
+"start_ref_usfm": "PSA 69:15",
+"end_ref": "19069015",
+"end_ref_usfm": "PSA 69:15"
+},
+{
+"start_ref": "19069002",
+"start_ref_usfm": "PSA 69:2",
+"end_ref": "19069002",
+"end_ref_usfm": "PSA 69:2"
+},
+{
+"start_ref": "23027012",
+"start_ref_usfm": "ISA 27:12",
+"end_ref": "23027012",
+"end_ref_usfm": "ISA 27:12"
+},
+{
+"start_ref": "07012006",
+"start_ref_usfm": "JDG 12:6",
+"end_ref": "07012006",
+"end_ref_usfm": "JDG 12:6"
+},
+{
+"start_ref": "07010007",
+"start_ref_usfm": "JDG 10:7",
+"end_ref": "07010009",
+"end_ref_usfm": "JDG 10:9"
+},
+{
+"start_ref": "07010017",
+"start_ref_usfm": "JDG 10:17",
+"end_ref": "07010018",
+"end_ref_usfm": "JDG 10:18"
+},
+{
+"start_ref": "07011004",
+"start_ref_usfm": "JDG 11:4",
+"end_ref": "07011011",
+"end_ref_usfm": "JDG 11:11"
+},
+{
+"start_ref": "07011032",
+"start_ref_usfm": "JDG 11:32",
+"end_ref": "07011033",
+"end_ref_usfm": "JDG 11:33"
+},
+{
+"start_ref": "07012001",
+"start_ref_usfm": "JDG 12:1",
+"end_ref": "07012004",
+"end_ref_usfm": "JDG 12:4"
+},
+{
+"start_ref": "07012005",
+"start_ref_usfm": "JDG 12:5",
+"end_ref": "07012006",
+"end_ref_usfm": "JDG 12:6"
+}
+],
+"resource": []
+}
+}
+]

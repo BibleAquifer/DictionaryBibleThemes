@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5869",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5869: greed",
+"media_type": "Text",
+"index_reference": "5869: greed",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An excessive appetite for further goods or food, often linked with selfishness and gluttony.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5870",
+"content_id": "5870",
+"resource_code": "DictionaryBibleThemes",
+"label": "5870: greed, condemnation of",
+"language": "eng"
+},
+{
+"reference_id": "5871",
+"content_id": "5871",
+"resource_code": "DictionaryBibleThemes",
+"label": "5871: greed, believers' response to",
+"language": "eng"
+}
+]
+}
+}
+]

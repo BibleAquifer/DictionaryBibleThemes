@@ -1,0 +1,185 @@
+[
+{
+"content_id": "5552",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5552: spies",
+"media_type": "Text",
+"index_reference": "5552: spies",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Spies were used to collect information, usually of a military nature</h2>\n<p>Joseph's brothers accused of being spies:\n <a href=\"https://ref.ly/Gen42:9-Gen42:11\">GEN 42:9–42:11</a>, <a href=\"https://ref.ly/Gen42:14-Gen42:16\">GEN 42:14–42:16</a>, <a href=\"https://ref.ly/Gen42:30-Gen42:34\">GEN 42:30–42:34</a>; <a href=\"https://ref.ly/Num13:1-Num13:20\">NUM 13:1–13:20</a>, <a href=\"https://ref.ly/Num21:32\">NUM 21:32</a>; ; <a href=\"https://ref.ly/Deut1:22\">DEU 1:22</a>; ; <a href=\"https://ref.ly/Josh2:1-Josh2:3\">JOS 2:1–2:3</a>; <a href=\"https://ref.ly/Josh6:17\">JOS 6:17</a>, <a href=\"https://ref.ly/Josh6:22\">JOS 6:22</a>, <a href=\"https://ref.ly/Josh6:25\">JOS 6:25</a>; ; <a href=\"https://ref.ly/Heb11:31\">HEB 11:31</a>; ; <a href=\"https://ref.ly/Jas2:25\">JAS 2:25</a>; \n<a href=\"https://ref.ly/Josh7:2\">JOS 7:2</a>; ; <a href=\"https://ref.ly/Judg1:23-Judg1:24\">JDG 1:23–1:24</a>, <a href=\"https://ref.ly/Judg18:2\">JDG 18:2</a>, <a href=\"https://ref.ly/Judg18:14\">JDG 18:14</a>, <a href=\"https://ref.ly/Judg18:17\">JDG 18:17</a>; ; <a href=\"https://ref.ly/2Sam10:3\">2SA 10:3</a> parallel <a href=\"https://ref.ly/1Chr19:3\">1CH 19:3</a></p>\n<h2>Spies were used to incriminate Jesus Christ and the first Christians</h2>\n<p><a href=\"https://ref.ly/Luke20:20-Luke20:22\">LUK 20:20–20:22</a> parallels <a href=\"https://ref.ly/Matt22:15-Matt22:16\">MAT 22:15–22:16</a>, <a href=\"https://ref.ly/Mark12:13-Mark12:14\">MRK 12:13–12:14</a>; ; <a href=\"https://ref.ly/Gal2:4\">GAL 2:4</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01042009",
+"start_ref_usfm": "GEN 42:9",
+"end_ref": "01042011",
+"end_ref_usfm": "GEN 42:11"
+},
+{
+"start_ref": "01042014",
+"start_ref_usfm": "GEN 42:14",
+"end_ref": "01042016",
+"end_ref_usfm": "GEN 42:16"
+},
+{
+"start_ref": "01042030",
+"start_ref_usfm": "GEN 42:30",
+"end_ref": "01042034",
+"end_ref_usfm": "GEN 42:34"
+},
+{
+"start_ref": "04013001",
+"start_ref_usfm": "NUM 13:1",
+"end_ref": "04013020",
+"end_ref_usfm": "NUM 13:20"
+},
+{
+"start_ref": "04021032",
+"start_ref_usfm": "NUM 21:32",
+"end_ref": "04021032",
+"end_ref_usfm": "NUM 21:32"
+},
+{
+"start_ref": "05001022",
+"start_ref_usfm": "DEU 1:22",
+"end_ref": "05001022",
+"end_ref_usfm": "DEU 1:22"
+},
+{
+"start_ref": "06002001",
+"start_ref_usfm": "JOS 2:1",
+"end_ref": "06002003",
+"end_ref_usfm": "JOS 2:3"
+},
+{
+"start_ref": "06006017",
+"start_ref_usfm": "JOS 6:17",
+"end_ref": "06006017",
+"end_ref_usfm": "JOS 6:17"
+},
+{
+"start_ref": "06006022",
+"start_ref_usfm": "JOS 6:22",
+"end_ref": "06006022",
+"end_ref_usfm": "JOS 6:22"
+},
+{
+"start_ref": "06006025",
+"start_ref_usfm": "JOS 6:25",
+"end_ref": "06006025",
+"end_ref_usfm": "JOS 6:25"
+},
+{
+"start_ref": "58011031",
+"start_ref_usfm": "HEB 11:31",
+"end_ref": "58011031",
+"end_ref_usfm": "HEB 11:31"
+},
+{
+"start_ref": "59002025",
+"start_ref_usfm": "JAS 2:25",
+"end_ref": "59002025",
+"end_ref_usfm": "JAS 2:25"
+},
+{
+"start_ref": "06007002",
+"start_ref_usfm": "JOS 7:2",
+"end_ref": "06007002",
+"end_ref_usfm": "JOS 7:2"
+},
+{
+"start_ref": "07001023",
+"start_ref_usfm": "JDG 1:23",
+"end_ref": "07001024",
+"end_ref_usfm": "JDG 1:24"
+},
+{
+"start_ref": "07018002",
+"start_ref_usfm": "JDG 18:2",
+"end_ref": "07018002",
+"end_ref_usfm": "JDG 18:2"
+},
+{
+"start_ref": "07018014",
+"start_ref_usfm": "JDG 18:14",
+"end_ref": "07018014",
+"end_ref_usfm": "JDG 18:14"
+},
+{
+"start_ref": "07018017",
+"start_ref_usfm": "JDG 18:17",
+"end_ref": "07018017",
+"end_ref_usfm": "JDG 18:17"
+},
+{
+"start_ref": "10010003",
+"start_ref_usfm": "2SA 10:3",
+"end_ref": "10010003",
+"end_ref_usfm": "2SA 10:3"
+},
+{
+"start_ref": "13019003",
+"start_ref_usfm": "1CH 19:3",
+"end_ref": "13019003",
+"end_ref_usfm": "1CH 19:3"
+},
+{
+"start_ref": "42020020",
+"start_ref_usfm": "LUK 20:20",
+"end_ref": "42020022",
+"end_ref_usfm": "LUK 20:22"
+},
+{
+"start_ref": "40022015",
+"start_ref_usfm": "MAT 22:15",
+"end_ref": "40022016",
+"end_ref_usfm": "MAT 22:16"
+},
+{
+"start_ref": "41012013",
+"start_ref_usfm": "MRK 12:13",
+"end_ref": "41012014",
+"end_ref_usfm": "MRK 12:14"
+},
+{
+"start_ref": "48002004",
+"start_ref_usfm": "GAL 2:4",
+"end_ref": "48002004",
+"end_ref_usfm": "GAL 2:4"
+}
+],
+"resource": [
+{
+"reference_id": "5202",
+"content_id": "5202",
+"resource_code": "DictionaryBibleThemes",
+"label": "5202: accusation, false",
+"language": "eng"
+},
+{
+"reference_id": "5605",
+"content_id": "5605",
+"resource_code": "DictionaryBibleThemes",
+"label": "5605: warfare",
+"language": "eng"
+},
+{
+"reference_id": "5941",
+"content_id": "5941",
+"resource_code": "DictionaryBibleThemes",
+"label": "5941: secrecy",
+"language": "eng"
+},
+{
+"reference_id": "5969",
+"content_id": "5969",
+"resource_code": "DictionaryBibleThemes",
+"label": "5969: treachery",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,170 @@
+[
+{
+"content_id": "5667",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5667: children, responsibilities to God",
+"media_type": "Text",
+"index_reference": "5667: children, responsibilities to god",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The responsibilities of children to God as their heavenly Father include honouring and obeying him.</p>\n<h2>The responsibilities of children to their heavenly Father</h2>\n<h3>To honour and obey him in reverent fear</h3>\n<p><strong><a href=\"https://ref.ly/Ps34:11\">PSA 34:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov2:5\">PRO 2:5</a>, <a href=\"https://ref.ly/Prov9:10\">PRO 9:10</a></p>\n<h3>To seek wisdom</h3>\n<p><strong><a href=\"https://ref.ly/Prov4:5-Prov4:7\">PRO 4:5–4:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov1:1-Prov1:4\">PRO 1:1–1:4</a>, <a href=\"https://ref.ly/Prov8:32-Prov8:33\">PRO 8:32–8:33</a>, <a href=\"https://ref.ly/Prov10:1\">PRO 10:1</a></p>\n<h3>To listen and learn</h3>\n<p><strong><a href=\"https://ref.ly/Prov1:8-Prov1:9\">PRO 1:8–1:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov4:1-Prov4:4\">PRO 4:1–4:4</a>, <a href=\"https://ref.ly/Prov23:22\">PRO 23:22</a></p>\n<h3>To praise God</h3>\n<p><strong><a href=\"https://ref.ly/Ps8:2\">PSA 8:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt21:15-Matt21:16\">MAT 21:15–21:16</a></p>\n<h3>To join in worship</h3>\n<p><strong><a href=\"https://ref.ly/Neh12:43\">NEH 12:43</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh8:35\">JOS 8:35</a></p>\n<h2>Relationship to Jesus Christ transcends the child-parent relationship</h2>\n<p><strong><a href=\"https://ref.ly/Luke18:29-Luke18:30\">LUK 18:29–18:30</a></strong> parallels <a href=\"https://ref.ly/Matt19:29\">MAT 19:29</a>, <a href=\"https://ref.ly/Mark10:29-Mark10:30\">MRK 10:29–10:30</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19034011",
+"start_ref_usfm": "PSA 34:11",
+"end_ref": "19034011",
+"end_ref_usfm": "PSA 34:11"
+},
+{
+"start_ref": "20002005",
+"start_ref_usfm": "PRO 2:5",
+"end_ref": "20002005",
+"end_ref_usfm": "PRO 2:5"
+},
+{
+"start_ref": "20009010",
+"start_ref_usfm": "PRO 9:10",
+"end_ref": "20009010",
+"end_ref_usfm": "PRO 9:10"
+},
+{
+"start_ref": "20004005",
+"start_ref_usfm": "PRO 4:5",
+"end_ref": "20004007",
+"end_ref_usfm": "PRO 4:7"
+},
+{
+"start_ref": "20001001",
+"start_ref_usfm": "PRO 1:1",
+"end_ref": "20001004",
+"end_ref_usfm": "PRO 1:4"
+},
+{
+"start_ref": "20008032",
+"start_ref_usfm": "PRO 8:32",
+"end_ref": "20008033",
+"end_ref_usfm": "PRO 8:33"
+},
+{
+"start_ref": "20010001",
+"start_ref_usfm": "PRO 10:1",
+"end_ref": "20010001",
+"end_ref_usfm": "PRO 10:1"
+},
+{
+"start_ref": "20001008",
+"start_ref_usfm": "PRO 1:8",
+"end_ref": "20001009",
+"end_ref_usfm": "PRO 1:9"
+},
+{
+"start_ref": "20004001",
+"start_ref_usfm": "PRO 4:1",
+"end_ref": "20004004",
+"end_ref_usfm": "PRO 4:4"
+},
+{
+"start_ref": "20023022",
+"start_ref_usfm": "PRO 23:22",
+"end_ref": "20023022",
+"end_ref_usfm": "PRO 23:22"
+},
+{
+"start_ref": "19008002",
+"start_ref_usfm": "PSA 8:2",
+"end_ref": "19008002",
+"end_ref_usfm": "PSA 8:2"
+},
+{
+"start_ref": "40021015",
+"start_ref_usfm": "MAT 21:15",
+"end_ref": "40021016",
+"end_ref_usfm": "MAT 21:16"
+},
+{
+"start_ref": "16012043",
+"start_ref_usfm": "NEH 12:43",
+"end_ref": "16012043",
+"end_ref_usfm": "NEH 12:43"
+},
+{
+"start_ref": "06008035",
+"start_ref_usfm": "JOS 8:35",
+"end_ref": "06008035",
+"end_ref_usfm": "JOS 8:35"
+},
+{
+"start_ref": "42018029",
+"start_ref_usfm": "LUK 18:29",
+"end_ref": "42018030",
+"end_ref_usfm": "LUK 18:30"
+},
+{
+"start_ref": "40019029",
+"start_ref_usfm": "MAT 19:29",
+"end_ref": "40019029",
+"end_ref_usfm": "MAT 19:29"
+},
+{
+"start_ref": "41010029",
+"start_ref_usfm": "MRK 10:29",
+"end_ref": "41010030",
+"end_ref_usfm": "MRK 10:30"
+}
+],
+"resource": [
+{
+"reference_id": "1040",
+"content_id": "1040",
+"resource_code": "DictionaryBibleThemes",
+"label": "1040: God, fatherhood of",
+"language": "eng"
+},
+{
+"reference_id": "5052",
+"content_id": "5052",
+"resource_code": "DictionaryBibleThemes",
+"label": "5052: responsibility, to God",
+"language": "eng"
+},
+{
+"reference_id": "8120",
+"content_id": "8120",
+"resource_code": "DictionaryBibleThemes",
+"label": "8120: following Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "8361",
+"content_id": "8361",
+"resource_code": "DictionaryBibleThemes",
+"label": "8361: wisdom",
+"language": "eng"
+},
+{
+"reference_id": "8444",
+"content_id": "8444",
+"resource_code": "DictionaryBibleThemes",
+"label": "8444: honouring God",
+"language": "eng"
+},
+{
+"reference_id": "8460",
+"content_id": "8460",
+"resource_code": "DictionaryBibleThemes",
+"label": "8460: pleasing God",
+"language": "eng"
+},
+{
+"reference_id": "8664",
+"content_id": "8664",
+"resource_code": "DictionaryBibleThemes",
+"label": "8664: praise",
+"language": "eng"
+}
+]
+}
+}
+]

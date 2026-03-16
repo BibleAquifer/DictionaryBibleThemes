@@ -1,0 +1,222 @@
+[
+{
+"content_id": "5524",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5524: servants, bad",
+"media_type": "Text",
+"index_reference": "5524: servants, bad",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Bad servants are characterised by disobedience, idleness and dishonesty.</p>\n<h2>Characteristics of bad servants</h2>\n<h3>Idleness</h3>\n<p><strong><a href=\"https://ref.ly/2Thess3:11\">2TH 3:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov18:9\">PRO 18:9</a>; <a href=\"https://ref.ly/Matt25:24-Matt25:30\">MAT 25:24–25:30</a> parallel <a href=\"https://ref.ly/Luke19:20-Luke19:26\">LUK 19:20–19:26</a></p>\n<h3>Dishonesty</h3>\n<p><strong><a href=\"https://ref.ly/Luke16:12\">LUK 16:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen21:25\">GEN 21:25</a>; <a href=\"https://ref.ly/Lev6:2\">LEV 6:2</a>; <a href=\"https://ref.ly/2Kgs5:20-2Kgs5:25\">2KI 5:20–5:25</a>; <a href=\"https://ref.ly/Eph6:6\">EPH 6:6</a>; <a href=\"https://ref.ly/Col3:22\">COL 3:22</a></p>\n<h3>Disloyalty</h3>\n<p><strong><a href=\"https://ref.ly/Luke16:13\">LUK 16:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam19:24-2Sam19:27\">2SA 19:24–19:27</a>; <a href=\"https://ref.ly/John10:13\">JHN 10:13</a>; <a href=\"https://ref.ly/Acts27:30\">ACT 27:30</a></p>\n<h3>Quarrelsomeness</h3>\n<p><strong><a href=\"https://ref.ly/Matt24:48-Matt24:49\">MAT 24:48–24:49</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen13:7\">GEN 13:7</a>, <a href=\"https://ref.ly/Gen26:20\">GEN 26:20</a>; <a href=\"https://ref.ly/Matt18:23-Matt18:30\">MAT 18:23–18:30</a></p>\n<h3>Discontentment</h3>\n<p><strong><a href=\"https://ref.ly/Luke3:14\">LUK 3:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt20:9-Matt20:15\">MAT 20:9–20:15</a></p>\n<h3>Refusing correction</h3>\n<p><a href=\"https://ref.ly/Prov29:19\">PRO 29:19</a></p>\n<h2>Examples of bad servants</h2>\n<p>Ziba:\n <a href=\"https://ref.ly/2Sam16:1-2Sam16:4\">2SA 16:1–16:4</a>, <a href=\"https://ref.ly/2Sam19:26-2Sam19:29\">2SA 19:26–19:29</a>; \n<a href=\"https://ref.ly/1Kgs2:39\">1KI 2:39</a> <em>Shimei's slaves</em>; ; <a href=\"https://ref.ly/1Kgs16:9-1Kgs16:10\">1KI 16:9–16:10</a> <em>Zimri</em>; ; <a href=\"https://ref.ly/2Kgs5:19-2Kgs5:27\">2KI 5:19–5:27</a> <em>Gehazi</em>; ; <a href=\"https://ref.ly/Job19:16\">JOB 19:16</a> <em>Job's servants</em>; ; <a href=\"https://ref.ly/Phlm1:8-Phlm1:16\">PHM 1:8–1:16</a> <em>Onesimus was a bad servant who became good.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "53003011",
+"start_ref_usfm": "2TH 3:11",
+"end_ref": "53003011",
+"end_ref_usfm": "2TH 3:11"
+},
+{
+"start_ref": "20018009",
+"start_ref_usfm": "PRO 18:9",
+"end_ref": "20018009",
+"end_ref_usfm": "PRO 18:9"
+},
+{
+"start_ref": "40025024",
+"start_ref_usfm": "MAT 25:24",
+"end_ref": "40025030",
+"end_ref_usfm": "MAT 25:30"
+},
+{
+"start_ref": "42019020",
+"start_ref_usfm": "LUK 19:20",
+"end_ref": "42019026",
+"end_ref_usfm": "LUK 19:26"
+},
+{
+"start_ref": "42016012",
+"start_ref_usfm": "LUK 16:12",
+"end_ref": "42016012",
+"end_ref_usfm": "LUK 16:12"
+},
+{
+"start_ref": "01021025",
+"start_ref_usfm": "GEN 21:25",
+"end_ref": "01021025",
+"end_ref_usfm": "GEN 21:25"
+},
+{
+"start_ref": "03006002",
+"start_ref_usfm": "LEV 6:2",
+"end_ref": "03006002",
+"end_ref_usfm": "LEV 6:2"
+},
+{
+"start_ref": "12005020",
+"start_ref_usfm": "2KI 5:20",
+"end_ref": "12005025",
+"end_ref_usfm": "2KI 5:25"
+},
+{
+"start_ref": "49006006",
+"start_ref_usfm": "EPH 6:6",
+"end_ref": "49006006",
+"end_ref_usfm": "EPH 6:6"
+},
+{
+"start_ref": "51003022",
+"start_ref_usfm": "COL 3:22",
+"end_ref": "51003022",
+"end_ref_usfm": "COL 3:22"
+},
+{
+"start_ref": "42016013",
+"start_ref_usfm": "LUK 16:13",
+"end_ref": "42016013",
+"end_ref_usfm": "LUK 16:13"
+},
+{
+"start_ref": "10019024",
+"start_ref_usfm": "2SA 19:24",
+"end_ref": "10019027",
+"end_ref_usfm": "2SA 19:27"
+},
+{
+"start_ref": "43010013",
+"start_ref_usfm": "JHN 10:13",
+"end_ref": "43010013",
+"end_ref_usfm": "JHN 10:13"
+},
+{
+"start_ref": "44027030",
+"start_ref_usfm": "ACT 27:30",
+"end_ref": "44027030",
+"end_ref_usfm": "ACT 27:30"
+},
+{
+"start_ref": "40024048",
+"start_ref_usfm": "MAT 24:48",
+"end_ref": "40024049",
+"end_ref_usfm": "MAT 24:49"
+},
+{
+"start_ref": "01013007",
+"start_ref_usfm": "GEN 13:7",
+"end_ref": "01013007",
+"end_ref_usfm": "GEN 13:7"
+},
+{
+"start_ref": "01026020",
+"start_ref_usfm": "GEN 26:20",
+"end_ref": "01026020",
+"end_ref_usfm": "GEN 26:20"
+},
+{
+"start_ref": "40018023",
+"start_ref_usfm": "MAT 18:23",
+"end_ref": "40018030",
+"end_ref_usfm": "MAT 18:30"
+},
+{
+"start_ref": "42003014",
+"start_ref_usfm": "LUK 3:14",
+"end_ref": "42003014",
+"end_ref_usfm": "LUK 3:14"
+},
+{
+"start_ref": "40020009",
+"start_ref_usfm": "MAT 20:9",
+"end_ref": "40020015",
+"end_ref_usfm": "MAT 20:15"
+},
+{
+"start_ref": "20029019",
+"start_ref_usfm": "PRO 29:19",
+"end_ref": "20029019",
+"end_ref_usfm": "PRO 29:19"
+},
+{
+"start_ref": "10016001",
+"start_ref_usfm": "2SA 16:1",
+"end_ref": "10016004",
+"end_ref_usfm": "2SA 16:4"
+},
+{
+"start_ref": "10019026",
+"start_ref_usfm": "2SA 19:26",
+"end_ref": "10019029",
+"end_ref_usfm": "2SA 19:29"
+},
+{
+"start_ref": "11002039",
+"start_ref_usfm": "1KI 2:39",
+"end_ref": "11002039",
+"end_ref_usfm": "1KI 2:39"
+},
+{
+"start_ref": "11016009",
+"start_ref_usfm": "1KI 16:9",
+"end_ref": "11016010",
+"end_ref_usfm": "1KI 16:10"
+},
+{
+"start_ref": "12005019",
+"start_ref_usfm": "2KI 5:19",
+"end_ref": "12005027",
+"end_ref_usfm": "2KI 5:27"
+},
+{
+"start_ref": "18019016",
+"start_ref_usfm": "JOB 19:16",
+"end_ref": "18019016",
+"end_ref_usfm": "JOB 19:16"
+},
+{
+"start_ref": "57001008",
+"start_ref_usfm": "PHM 1:8",
+"end_ref": "57001016",
+"end_ref_usfm": "PHM 1:16"
+}
+],
+"resource": [
+{
+"reference_id": "5343",
+"content_id": "5343",
+"resource_code": "DictionaryBibleThemes",
+"label": "5343: idleness",
+"language": "eng"
+},
+{
+"reference_id": "5924",
+"content_id": "5924",
+"resource_code": "DictionaryBibleThemes",
+"label": "5924: quarrelsomeness",
+"language": "eng"
+},
+{
+"reference_id": "6145",
+"content_id": "6145",
+"resource_code": "DictionaryBibleThemes",
+"label": "6145: deceit",
+"language": "eng"
+},
+{
+"reference_id": "8714",
+"content_id": "8714",
+"resource_code": "DictionaryBibleThemes",
+"label": "8714: dishonesty",
+"language": "eng"
+},
+{
+"reference_id": "8839",
+"content_id": "8839",
+"resource_code": "DictionaryBibleThemes",
+"label": "8839: unfaithfulness",
+"language": "eng"
+}
+]
+}
+}
+]

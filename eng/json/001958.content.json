@@ -1,0 +1,46 @@
+[
+{
+"content_id": "7921",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7921: fellowship",
+"media_type": "Text",
+"index_reference": "7921: fellowship",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Association based upon the sharing of something in common. Believers have fellowship with one another on the basis of their common fellowship with God, their participation in the blessings of the gospel and their common task of mission. True fellowship is demonstrated in concern for, and practical commitment to, one another.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7922",
+"content_id": "7922",
+"resource_code": "DictionaryBibleThemes",
+"label": "7922: fellowship, with God",
+"language": "eng"
+},
+{
+"reference_id": "7923",
+"content_id": "7923",
+"resource_code": "DictionaryBibleThemes",
+"label": "7923: fellowship, in the gospel",
+"language": "eng"
+},
+{
+"reference_id": "7924",
+"content_id": "7924",
+"resource_code": "DictionaryBibleThemes",
+"label": "7924: fellowship, in Christian service",
+"language": "eng"
+},
+{
+"reference_id": "7925",
+"content_id": "7925",
+"resource_code": "DictionaryBibleThemes",
+"label": "7925: fellowship, among believers",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,296 @@
+[
+{
+"content_id": "4829",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4829: heat",
+"media_type": "Text",
+"index_reference": "4829: heat",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The heat of the sun</h2>\n<p><strong><a href=\"https://ref.ly/Isa4:6\">ISA 4:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen8:22\">GEN 8:22</a>, <a href=\"https://ref.ly/Gen18:1\">GEN 18:1</a>, <a href=\"https://ref.ly/Gen31:40\">GEN 31:40</a>; <a href=\"https://ref.ly/Deut28:22\">DEU 28:22</a> <em>Scorching heat was a curse for disobedience</em>; <a href=\"https://ref.ly/1Sam11:11\">1SA 11:11</a>; <a href=\"https://ref.ly/2Sam4:5\">2SA 4:5</a>; <a href=\"https://ref.ly/Neh7:3\">NEH 7:3</a>; <a href=\"https://ref.ly/Job24:19\">JOB 24:19</a>; <a href=\"https://ref.ly/Ps19:6\">PSA 19:6</a>; <a href=\"https://ref.ly/Isa18:4\">ISA 18:4</a>, <a href=\"https://ref.ly/Isa49:10\">ISA 49:10</a> <em>relief from heat in the promised restoration of Israel</em>; <a href=\"https://ref.ly/Jer36:30\">JER 36:30</a>; <a href=\"https://ref.ly/Hos13:5\">HOS 13:5</a>; <a href=\"https://ref.ly/Jonah4:8\">JON 4:8</a>; <a href=\"https://ref.ly/Matt20:12\">MAT 20:12</a>; <a href=\"https://ref.ly/Luke12:55\">LUK 12:55</a> <em>Jesus Christ on interpreting the times</em>; <a href=\"https://ref.ly/Jas1:11\">JAS 1:11</a>; <a href=\"https://ref.ly/Rev7:16\">REV 7:16</a></p>\n<h2>Artificial heat</h2>\n<p><strong><a href=\"https://ref.ly/Acts28:3\">ACT 28:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs19:6\">1KI 19:6</a>; <a href=\"https://ref.ly/Ezek24:11\">EZK 24:11</a>; <a href=\"https://ref.ly/Dan3:22\">DAN 3:22</a>; <a href=\"https://ref.ly/Hos7:7\">HOS 7:7</a>; <a href=\"https://ref.ly/1Tim4:2\">1TI 4:2</a></p>\n<h2>Bodily heat</h2>\n<p><a href=\"https://ref.ly/Lam5:10\">LAM 5:10</a></p>\n<h2>Heat associated with action in battle</h2>\n<p><a href=\"https://ref.ly/1Sam14:22\">1SA 14:22</a>; ; <a href=\"https://ref.ly/Isa21:15\">ISA 21:15</a></p>\n<h2>Heat associated with anger</h2>\n<p><strong><a href=\"https://ref.ly/Isa25:4-Isa25:5\">ISA 25:4–25:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod11:8\">EXO 11:8</a>; <a href=\"https://ref.ly/2Kgs23:26\">2KI 23:26</a>; <a href=\"https://ref.ly/Ps39:3\">PSA 39:3</a>, <a href=\"https://ref.ly/Ps78:49\">PSA 78:49</a>; <a href=\"https://ref.ly/Ezek38:18\">EZK 38:18</a></p>\n<h2>Heat associated with judgment</h2>\n<p><a href=\"https://ref.ly/2Pet3:12\">2PE 3:12</a>; ; <a href=\"https://ref.ly/Rev16:9\">REV 16:9</a></p>\n<h2>Heat referring to animals entering period of fertility</h2>\n<p><a href=\"https://ref.ly/Gen30:41-Gen30:42\">GEN 30:41–30:42</a>; ; <a href=\"https://ref.ly/Jer2:24\">JER 2:24</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23004006",
+"start_ref_usfm": "ISA 4:6",
+"end_ref": "23004006",
+"end_ref_usfm": "ISA 4:6"
+},
+{
+"start_ref": "01008022",
+"start_ref_usfm": "GEN 8:22",
+"end_ref": "01008022",
+"end_ref_usfm": "GEN 8:22"
+},
+{
+"start_ref": "01018001",
+"start_ref_usfm": "GEN 18:1",
+"end_ref": "01018001",
+"end_ref_usfm": "GEN 18:1"
+},
+{
+"start_ref": "01031040",
+"start_ref_usfm": "GEN 31:40",
+"end_ref": "01031040",
+"end_ref_usfm": "GEN 31:40"
+},
+{
+"start_ref": "05028022",
+"start_ref_usfm": "DEU 28:22",
+"end_ref": "05028022",
+"end_ref_usfm": "DEU 28:22"
+},
+{
+"start_ref": "09011011",
+"start_ref_usfm": "1SA 11:11",
+"end_ref": "09011011",
+"end_ref_usfm": "1SA 11:11"
+},
+{
+"start_ref": "10004005",
+"start_ref_usfm": "2SA 4:5",
+"end_ref": "10004005",
+"end_ref_usfm": "2SA 4:5"
+},
+{
+"start_ref": "16007003",
+"start_ref_usfm": "NEH 7:3",
+"end_ref": "16007003",
+"end_ref_usfm": "NEH 7:3"
+},
+{
+"start_ref": "18024019",
+"start_ref_usfm": "JOB 24:19",
+"end_ref": "18024019",
+"end_ref_usfm": "JOB 24:19"
+},
+{
+"start_ref": "19019006",
+"start_ref_usfm": "PSA 19:6",
+"end_ref": "19019006",
+"end_ref_usfm": "PSA 19:6"
+},
+{
+"start_ref": "23018004",
+"start_ref_usfm": "ISA 18:4",
+"end_ref": "23018004",
+"end_ref_usfm": "ISA 18:4"
+},
+{
+"start_ref": "23049010",
+"start_ref_usfm": "ISA 49:10",
+"end_ref": "23049010",
+"end_ref_usfm": "ISA 49:10"
+},
+{
+"start_ref": "24036030",
+"start_ref_usfm": "JER 36:30",
+"end_ref": "24036030",
+"end_ref_usfm": "JER 36:30"
+},
+{
+"start_ref": "28013005",
+"start_ref_usfm": "HOS 13:5",
+"end_ref": "28013005",
+"end_ref_usfm": "HOS 13:5"
+},
+{
+"start_ref": "32004008",
+"start_ref_usfm": "JON 4:8",
+"end_ref": "32004008",
+"end_ref_usfm": "JON 4:8"
+},
+{
+"start_ref": "40020012",
+"start_ref_usfm": "MAT 20:12",
+"end_ref": "40020012",
+"end_ref_usfm": "MAT 20:12"
+},
+{
+"start_ref": "42012055",
+"start_ref_usfm": "LUK 12:55",
+"end_ref": "42012055",
+"end_ref_usfm": "LUK 12:55"
+},
+{
+"start_ref": "59001011",
+"start_ref_usfm": "JAS 1:11",
+"end_ref": "59001011",
+"end_ref_usfm": "JAS 1:11"
+},
+{
+"start_ref": "66007016",
+"start_ref_usfm": "REV 7:16",
+"end_ref": "66007016",
+"end_ref_usfm": "REV 7:16"
+},
+{
+"start_ref": "44028003",
+"start_ref_usfm": "ACT 28:3",
+"end_ref": "44028003",
+"end_ref_usfm": "ACT 28:3"
+},
+{
+"start_ref": "11019006",
+"start_ref_usfm": "1KI 19:6",
+"end_ref": "11019006",
+"end_ref_usfm": "1KI 19:6"
+},
+{
+"start_ref": "26024011",
+"start_ref_usfm": "EZK 24:11",
+"end_ref": "26024011",
+"end_ref_usfm": "EZK 24:11"
+},
+{
+"start_ref": "27003022",
+"start_ref_usfm": "DAN 3:22",
+"end_ref": "27003022",
+"end_ref_usfm": "DAN 3:22"
+},
+{
+"start_ref": "28007007",
+"start_ref_usfm": "HOS 7:7",
+"end_ref": "28007007",
+"end_ref_usfm": "HOS 7:7"
+},
+{
+"start_ref": "54004002",
+"start_ref_usfm": "1TI 4:2",
+"end_ref": "54004002",
+"end_ref_usfm": "1TI 4:2"
+},
+{
+"start_ref": "25005010",
+"start_ref_usfm": "LAM 5:10",
+"end_ref": "25005010",
+"end_ref_usfm": "LAM 5:10"
+},
+{
+"start_ref": "09014022",
+"start_ref_usfm": "1SA 14:22",
+"end_ref": "09014022",
+"end_ref_usfm": "1SA 14:22"
+},
+{
+"start_ref": "23021015",
+"start_ref_usfm": "ISA 21:15",
+"end_ref": "23021015",
+"end_ref_usfm": "ISA 21:15"
+},
+{
+"start_ref": "23025004",
+"start_ref_usfm": "ISA 25:4",
+"end_ref": "23025005",
+"end_ref_usfm": "ISA 25:5"
+},
+{
+"start_ref": "02011008",
+"start_ref_usfm": "EXO 11:8",
+"end_ref": "02011008",
+"end_ref_usfm": "EXO 11:8"
+},
+{
+"start_ref": "12023026",
+"start_ref_usfm": "2KI 23:26",
+"end_ref": "12023026",
+"end_ref_usfm": "2KI 23:26"
+},
+{
+"start_ref": "19039003",
+"start_ref_usfm": "PSA 39:3",
+"end_ref": "19039003",
+"end_ref_usfm": "PSA 39:3"
+},
+{
+"start_ref": "19078049",
+"start_ref_usfm": "PSA 78:49",
+"end_ref": "19078049",
+"end_ref_usfm": "PSA 78:49"
+},
+{
+"start_ref": "26038018",
+"start_ref_usfm": "EZK 38:18",
+"end_ref": "26038018",
+"end_ref_usfm": "EZK 38:18"
+},
+{
+"start_ref": "61003012",
+"start_ref_usfm": "2PE 3:12",
+"end_ref": "61003012",
+"end_ref_usfm": "2PE 3:12"
+},
+{
+"start_ref": "66016009",
+"start_ref_usfm": "REV 16:9",
+"end_ref": "66016009",
+"end_ref_usfm": "REV 16:9"
+},
+{
+"start_ref": "01030041",
+"start_ref_usfm": "GEN 30:41",
+"end_ref": "01030042",
+"end_ref_usfm": "GEN 30:42"
+},
+{
+"start_ref": "24002024",
+"start_ref_usfm": "JER 2:24",
+"end_ref": "24002024",
+"end_ref_usfm": "JER 2:24"
+}
+],
+"resource": [
+{
+"reference_id": "4284",
+"content_id": "4284",
+"resource_code": "DictionaryBibleThemes",
+"label": "4284: sun",
+"language": "eng"
+},
+{
+"reference_id": "4351",
+"content_id": "4351",
+"resource_code": "DictionaryBibleThemes",
+"label": "4351: refining",
+"language": "eng"
+},
+{
+"reference_id": "4826",
+"content_id": "4826",
+"resource_code": "DictionaryBibleThemes",
+"label": "4826: fire",
+"language": "eng"
+},
+{
+"reference_id": "4855",
+"content_id": "4855",
+"resource_code": "DictionaryBibleThemes",
+"label": "4855: weather, as God's judgment",
+"language": "eng"
+},
+{
+"reference_id": "4960",
+"content_id": "4960",
+"resource_code": "DictionaryBibleThemes",
+"label": "4960: noon",
+"language": "eng"
+},
+{
+"reference_id": "5435",
+"content_id": "5435",
+"resource_code": "DictionaryBibleThemes",
+"label": "5435: ovens",
+"language": "eng"
+},
+{
+"reference_id": "5789",
+"content_id": "5789",
+"resource_code": "DictionaryBibleThemes",
+"label": "5789: anger",
+"language": "eng"
+}
+]
+}
+}
+]

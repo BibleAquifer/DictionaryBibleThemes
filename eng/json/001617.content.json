@@ -1,0 +1,39 @@
+[
+{
+"content_id": "6638",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6638: election",
+"media_type": "Text",
+"index_reference": "6638: election",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture affirms that God chooses a people as his own, not on account of their numerical strength or moral merits, but on account of his love for them.  Election is on the basis of divine grace, not human merit.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6639",
+"content_id": "6639",
+"resource_code": "DictionaryBibleThemes",
+"label": "6639: election, to salvation",
+"language": "eng"
+},
+{
+"reference_id": "6640",
+"content_id": "6640",
+"resource_code": "DictionaryBibleThemes",
+"label": "6640: election, privileges of",
+"language": "eng"
+},
+{
+"reference_id": "6641",
+"content_id": "6641",
+"resource_code": "DictionaryBibleThemes",
+"label": "6641: election, responsibilities of",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,216 @@
+[
+{
+"content_id": "5050",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5050: reason",
+"media_type": "Text",
+"index_reference": "5050: reason",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The human capacity to think logically and intelligently, thereby discovering truth or persuading others. But human reason is limited and cannot arrive at a true and full knowledge of God without divine assistance and revelation.</p>\n<h2>The human power of reason</h2>\n<p><strong><a href=\"https://ref.ly/1Cor13:11\">1CO 13:11</a></strong></p>\n<h2>Human reason is limited</h2>\n<p><strong><a href=\"https://ref.ly/Job32:11-Job32:12\">JOB 32:11–32:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job32:3\">JOB 32:3</a></p>\n<h2>Human reason is far inferior to divine reason</h2>\n<p><strong><a href=\"https://ref.ly/1Cor1:18-1Cor1:31\">1CO 1:18–1:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job12:20\">JOB 12:20</a>, <a href=\"https://ref.ly/Job12:24-Job12:25\">JOB 12:24–12:25</a>; <a href=\"https://ref.ly/Isa29:14\">ISA 29:14</a>, <a href=\"https://ref.ly/Isa55:8-Isa55:9\">ISA 55:8–55:9</a></p>\n<h2>Human reason may point people towards God</h2>\n<p><strong><a href=\"https://ref.ly/Rom2:14-Rom2:15\">ROM 2:14–2:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa1:18-Isa1:20\">ISA 1:18–1:20</a>; <a href=\"https://ref.ly/Acts17:22-Acts17:23\">ACT 17:22–17:23</a>, <a href=\"https://ref.ly/Acts17:27-Acts17:28\">ACT 17:27–17:28</a>; <a href=\"https://ref.ly/Rom1:19-Rom1:20\">ROM 1:19–1:20</a>; <a href=\"https://ref.ly/Heb11:17-Heb11:19\">HEB 11:17–11:19</a></p>\n<h2>Paul reasons with unbelievers</h2>\n<p><strong><a href=\"https://ref.ly/Acts17:2-Acts17:4\">ACT 17:2–17:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts17:17\">ACT 17:17</a>, <a href=\"https://ref.ly/Acts18:4\">ACT 18:4</a>, <a href=\"https://ref.ly/Acts18:19\">ACT 18:19</a></p>\n<h2>Believers are to give reasons for their faith</h2>\n<p><strong><a href=\"https://ref.ly/1Pet3:15\">1PE 3:15</a></strong></p>\n<h2>God reasons with his rebellious people</h2>\n<p><strong><a href=\"https://ref.ly/Isa1:18-Isa1:19\">ISA 1:18–1:19</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "46013011",
+"start_ref_usfm": "1CO 13:11",
+"end_ref": "46013011",
+"end_ref_usfm": "1CO 13:11"
+},
+{
+"start_ref": "18032011",
+"start_ref_usfm": "JOB 32:11",
+"end_ref": "18032012",
+"end_ref_usfm": "JOB 32:12"
+},
+{
+"start_ref": "18032003",
+"start_ref_usfm": "JOB 32:3",
+"end_ref": "18032003",
+"end_ref_usfm": "JOB 32:3"
+},
+{
+"start_ref": "46001018",
+"start_ref_usfm": "1CO 1:18",
+"end_ref": "46001031",
+"end_ref_usfm": "1CO 1:31"
+},
+{
+"start_ref": "18012020",
+"start_ref_usfm": "JOB 12:20",
+"end_ref": "18012020",
+"end_ref_usfm": "JOB 12:20"
+},
+{
+"start_ref": "18012024",
+"start_ref_usfm": "JOB 12:24",
+"end_ref": "18012025",
+"end_ref_usfm": "JOB 12:25"
+},
+{
+"start_ref": "23029014",
+"start_ref_usfm": "ISA 29:14",
+"end_ref": "23029014",
+"end_ref_usfm": "ISA 29:14"
+},
+{
+"start_ref": "23055008",
+"start_ref_usfm": "ISA 55:8",
+"end_ref": "23055009",
+"end_ref_usfm": "ISA 55:9"
+},
+{
+"start_ref": "45002014",
+"start_ref_usfm": "ROM 2:14",
+"end_ref": "45002015",
+"end_ref_usfm": "ROM 2:15"
+},
+{
+"start_ref": "23001018",
+"start_ref_usfm": "ISA 1:18",
+"end_ref": "23001020",
+"end_ref_usfm": "ISA 1:20"
+},
+{
+"start_ref": "44017022",
+"start_ref_usfm": "ACT 17:22",
+"end_ref": "44017023",
+"end_ref_usfm": "ACT 17:23"
+},
+{
+"start_ref": "44017027",
+"start_ref_usfm": "ACT 17:27",
+"end_ref": "44017028",
+"end_ref_usfm": "ACT 17:28"
+},
+{
+"start_ref": "45001019",
+"start_ref_usfm": "ROM 1:19",
+"end_ref": "45001020",
+"end_ref_usfm": "ROM 1:20"
+},
+{
+"start_ref": "58011017",
+"start_ref_usfm": "HEB 11:17",
+"end_ref": "58011019",
+"end_ref_usfm": "HEB 11:19"
+},
+{
+"start_ref": "44017002",
+"start_ref_usfm": "ACT 17:2",
+"end_ref": "44017004",
+"end_ref_usfm": "ACT 17:4"
+},
+{
+"start_ref": "44017017",
+"start_ref_usfm": "ACT 17:17",
+"end_ref": "44017017",
+"end_ref_usfm": "ACT 17:17"
+},
+{
+"start_ref": "44018004",
+"start_ref_usfm": "ACT 18:4",
+"end_ref": "44018004",
+"end_ref_usfm": "ACT 18:4"
+},
+{
+"start_ref": "44018019",
+"start_ref_usfm": "ACT 18:19",
+"end_ref": "44018019",
+"end_ref_usfm": "ACT 18:19"
+},
+{
+"start_ref": "60003015",
+"start_ref_usfm": "1PE 3:15",
+"end_ref": "60003015",
+"end_ref_usfm": "1PE 3:15"
+},
+{
+"start_ref": "23001018",
+"start_ref_usfm": "ISA 1:18",
+"end_ref": "23001019",
+"end_ref_usfm": "ISA 1:19"
+}
+],
+"resource": [
+{
+"reference_id": "1440",
+"content_id": "1440",
+"resource_code": "DictionaryBibleThemes",
+"label": "1440: revelation, through creation",
+"language": "eng"
+},
+{
+"reference_id": "2054",
+"content_id": "2054",
+"resource_code": "DictionaryBibleThemes",
+"label": "2054: Jesus Christ, mind of",
+"language": "eng"
+},
+{
+"reference_id": "5008",
+"content_id": "5008",
+"resource_code": "DictionaryBibleThemes",
+"label": "5008: conscience",
+"language": "eng"
+},
+{
+"reference_id": "5029",
+"content_id": "5029",
+"resource_code": "DictionaryBibleThemes",
+"label": "5029: knowledge, of God",
+"language": "eng"
+},
+{
+"reference_id": "5038",
+"content_id": "5038",
+"resource_code": "DictionaryBibleThemes",
+"label": "5038: mind, the human",
+"language": "eng"
+},
+{
+"reference_id": "5191",
+"content_id": "5191",
+"resource_code": "DictionaryBibleThemes",
+"label": "5191: thought",
+"language": "eng"
+},
+{
+"reference_id": "5441",
+"content_id": "5441",
+"resource_code": "DictionaryBibleThemes",
+"label": "5441: philosophy",
+"language": "eng"
+},
+{
+"reference_id": "5894",
+"content_id": "5894",
+"resource_code": "DictionaryBibleThemes",
+"label": "5894: intelligence",
+"language": "eng"
+},
+{
+"reference_id": "7703",
+"content_id": "7703",
+"resource_code": "DictionaryBibleThemes",
+"label": "7703: apologetics",
+"language": "eng"
+},
+{
+"reference_id": "7751",
+"content_id": "7751",
+"resource_code": "DictionaryBibleThemes",
+"label": "7751: persuasion",
+"language": "eng"
+},
+{
+"reference_id": "8361",
+"content_id": "8361",
+"resource_code": "DictionaryBibleThemes",
+"label": "8361: wisdom",
+"language": "eng"
+}
+]
+}
+}
+]

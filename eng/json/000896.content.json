@@ -1,0 +1,124 @@
+[
+{
+"content_id": "5309",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5309: eunuchs",
+"media_type": "Text",
+"index_reference": "5309: eunuchs",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Castrated men. In the Bible eunuchs are usually portrayed as having positions of responsibility in royal courts. Though eunuchs were excluded from certain privileges under the old covenant, they were at no disadvantage under the new.</p>\n<h2>Eunuchs as royal servants</h2>\n<p><strong><a href=\"https://ref.ly/Esth1:10-Esth1:11\">EST 1:10–1:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs20:16-2Kgs20:18\">2KI 20:16–20:18</a> parallel <a href=\"https://ref.ly/Isa39:5-Isa39:7\">ISA 39:5–39:7</a>; <a href=\"https://ref.ly/Esth2:1-Esth2:3\">EST 2:1–2:3</a>, <a href=\"https://ref.ly/Esth2:15\">EST 2:15</a>, <a href=\"https://ref.ly/Esth4:4-Esth4:11\">EST 4:4–4:11</a>; <a href=\"https://ref.ly/Jer38:7\">JER 38:7</a>; <a href=\"https://ref.ly/Acts8:27\">ACT 8:27</a></p>\n<h2>Eunuchs among the people of God</h2>\n<h3>Exclusions of eunuchs from the assembly and the priesthood</h3>\n<p><strong><a href=\"https://ref.ly/Deut23:1\">DEU 23:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev21:16-Lev21:23\">LEV 21:16–21:23</a></p>\n<h3>Eunuchs not excluded from God's blessings if obedient</h3>\n<p><strong><a href=\"https://ref.ly/Isa56:3-Isa56:5\">ISA 56:3–56:5</a></strong></p>\n<h3>Eunuchs could become Christians like anyone else</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Acts8:26-Acts8:39\">ACT 8:26–8:39</a> <em>the Ethiopian eunuch</em></p>\n<h2>Eunuch as an image for celibacy</h2>\n<p><strong><a href=\"https://ref.ly/Matt19:10-Matt19:12\">MAT 19:10–19:12</a></strong> <em>Jesus Christ teaches that castration is not the only legitimate reason for celibacy. Some men may be called to voluntary celibacy because of the demands of their role in the kingdom of heaven.</em></p>\n<h2>Paul suggests that a dogmatic demand for circumcision might lead to a demand for emasculation</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Gal5:12\">GAL 5:12</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "17001010",
+"start_ref_usfm": "EST 1:10",
+"end_ref": "17001011",
+"end_ref_usfm": "EST 1:11"
+},
+{
+"start_ref": "12020016",
+"start_ref_usfm": "2KI 20:16",
+"end_ref": "12020018",
+"end_ref_usfm": "2KI 20:18"
+},
+{
+"start_ref": "23039005",
+"start_ref_usfm": "ISA 39:5",
+"end_ref": "23039007",
+"end_ref_usfm": "ISA 39:7"
+},
+{
+"start_ref": "17002001",
+"start_ref_usfm": "EST 2:1",
+"end_ref": "17002003",
+"end_ref_usfm": "EST 2:3"
+},
+{
+"start_ref": "17002015",
+"start_ref_usfm": "EST 2:15",
+"end_ref": "17002015",
+"end_ref_usfm": "EST 2:15"
+},
+{
+"start_ref": "17004004",
+"start_ref_usfm": "EST 4:4",
+"end_ref": "17004011",
+"end_ref_usfm": "EST 4:11"
+},
+{
+"start_ref": "24038007",
+"start_ref_usfm": "JER 38:7",
+"end_ref": "24038007",
+"end_ref_usfm": "JER 38:7"
+},
+{
+"start_ref": "44008027",
+"start_ref_usfm": "ACT 8:27",
+"end_ref": "44008027",
+"end_ref_usfm": "ACT 8:27"
+},
+{
+"start_ref": "05023001",
+"start_ref_usfm": "DEU 23:1",
+"end_ref": "05023001",
+"end_ref_usfm": "DEU 23:1"
+},
+{
+"start_ref": "03021016",
+"start_ref_usfm": "LEV 21:16",
+"end_ref": "03021023",
+"end_ref_usfm": "LEV 21:23"
+},
+{
+"start_ref": "23056003",
+"start_ref_usfm": "ISA 56:3",
+"end_ref": "23056005",
+"end_ref_usfm": "ISA 56:5"
+},
+{
+"start_ref": "44008026",
+"start_ref_usfm": "ACT 8:26",
+"end_ref": "44008039",
+"end_ref_usfm": "ACT 8:39"
+},
+{
+"start_ref": "40019010",
+"start_ref_usfm": "MAT 19:10",
+"end_ref": "40019012",
+"end_ref_usfm": "MAT 19:12"
+},
+{
+"start_ref": "48005012",
+"start_ref_usfm": "GAL 5:12",
+"end_ref": "48005012",
+"end_ref_usfm": "GAL 5:12"
+}
+],
+"resource": [
+{
+"reference_id": "5736",
+"content_id": "5736",
+"resource_code": "DictionaryBibleThemes",
+"label": "5736: singleness",
+"language": "eng"
+},
+{
+"reference_id": "7334",
+"content_id": "7334",
+"resource_code": "DictionaryBibleThemes",
+"label": "7334: circumcision",
+"language": "eng"
+},
+{
+"reference_id": "8468",
+"content_id": "8468",
+"resource_code": "DictionaryBibleThemes",
+"label": "8468: renunciation",
+"language": "eng"
+}
+]
+}
+}
+]

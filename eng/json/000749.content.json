@@ -1,0 +1,90 @@
+[
+{
+"content_id": "5160",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5160: heel",
+"media_type": "Text",
+"index_reference": "5160: heel",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The heel as a vulnerable part of the body</h2>\n<p><a href=\"https://ref.ly/Gen3:15\">GEN 3:15</a>; ; <a href=\"https://ref.ly/Job18:9\">JOB 18:9</a></p>\n<h2>``Lifting up one's heel'' as a metaphor of betrayal</h2>\n<p><a href=\"https://ref.ly/Ps41:9\">PSA 41:9</a>; ; <a href=\"https://ref.ly/John13:18\">JHN 13:18</a></p>\n<h2>Jacob grasps Esau by the heel at birth</h2>\n<p><a href=\"https://ref.ly/Gen25:26\">GEN 25:26</a> <em>Jacob's name means “he grasps the heel” which, figuratively, means “he deceives”</em>; ; <a href=\"https://ref.ly/Hos12:3\">HOS 12:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01003015",
+"start_ref_usfm": "GEN 3:15",
+"end_ref": "01003015",
+"end_ref_usfm": "GEN 3:15"
+},
+{
+"start_ref": "18018009",
+"start_ref_usfm": "JOB 18:9",
+"end_ref": "18018009",
+"end_ref_usfm": "JOB 18:9"
+},
+{
+"start_ref": "19041009",
+"start_ref_usfm": "PSA 41:9",
+"end_ref": "19041009",
+"end_ref_usfm": "PSA 41:9"
+},
+{
+"start_ref": "43013018",
+"start_ref_usfm": "JHN 13:18",
+"end_ref": "43013018",
+"end_ref_usfm": "JHN 13:18"
+},
+{
+"start_ref": "01025026",
+"start_ref_usfm": "GEN 25:26",
+"end_ref": "01025026",
+"end_ref_usfm": "GEN 25:26"
+},
+{
+"start_ref": "28012003",
+"start_ref_usfm": "HOS 12:3",
+"end_ref": "28012003",
+"end_ref_usfm": "HOS 12:3"
+}
+],
+"resource": [
+{
+"reference_id": "5095",
+"content_id": "5095",
+"resource_code": "DictionaryBibleThemes",
+"label": "5095: Jacob, life and character of",
+"language": "eng"
+},
+{
+"reference_id": "5151",
+"content_id": "5151",
+"resource_code": "DictionaryBibleThemes",
+"label": "5151: feet",
+"language": "eng"
+},
+{
+"reference_id": "5798",
+"content_id": "5798",
+"resource_code": "DictionaryBibleThemes",
+"label": "5798: betrayal",
+"language": "eng"
+},
+{
+"reference_id": "5865",
+"content_id": "5865",
+"resource_code": "DictionaryBibleThemes",
+"label": "5865: gestures",
+"language": "eng"
+},
+{
+"reference_id": "6145",
+"content_id": "6145",
+"resource_code": "DictionaryBibleThemes",
+"label": "6145: deceit",
+"language": "eng"
+}
+]
+}
+}
+]

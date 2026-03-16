@@ -1,0 +1,355 @@
+[
+{
+"content_id": "8313",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8313: nurture",
+"media_type": "Text",
+"index_reference": "8313: nurture",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The activity of caring for others and nourishing them in the life of faith. This is necessary not only for children in the home but also for new or weak believers in the church.</p>\n<h2>The nurture of children in the home</h2>\n<h3>By parental instruction and example</h3>\n<p><strong><a href=\"https://ref.ly/Deut4:9-Deut4:10\">DEU 4:9–4:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut6:4-Deut6:9\">DEU 6:4–6:9</a>, <a href=\"https://ref.ly/Deut11:18-Deut11:21\">DEU 11:18–11:21</a>; <a href=\"https://ref.ly/Prov22:6\">PRO 22:6</a>; <a href=\"https://ref.ly/Eph6:4\">EPH 6:4</a>; <a href=\"https://ref.ly/Col3:21\">COL 3:21</a>; <a href=\"https://ref.ly/2Tim1:5\">2TI 1:5</a>, <a href=\"https://ref.ly/2Tim3:15\">2TI 3:15</a></p>\n<h3>Examples of parental care</h3>\n<p><strong><a href=\"https://ref.ly/Prov1:8-Prov1:10\">PRO 1:8–1:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov2:1-Prov2:5\">PRO 2:1–2:5</a>, <a href=\"https://ref.ly/Prov3:1-Prov3:2\">PRO 3:1–3:2</a>, <a href=\"https://ref.ly/Prov4:1-Prov4:4\">PRO 4:1–4:4</a>, <a href=\"https://ref.ly/Prov5:1-Prov5:2\">PRO 5:1–5:2</a>, <a href=\"https://ref.ly/Prov6:1-Prov6:3\">PRO 6:1–6:3</a>, <a href=\"https://ref.ly/Prov6:20-Prov6:24\">PRO 6:20–6:24</a></p>\n<h2>The nurture of young believers in the church</h2>\n<h3>By the caring attitude of leaders</h3>\n<p><strong><a href=\"https://ref.ly/1Thess2:7-1Thess2:12\">1TH 2:7–2:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/John21:15-John21:17\">JHN 21:15–21:17</a>; <a href=\"https://ref.ly/Acts20:18-Acts20:20\">ACT 20:18–20:20</a>; <a href=\"https://ref.ly/1Cor4:14-1Cor4:15\">1CO 4:14–4:15</a>; <a href=\"https://ref.ly/1Thess3:10\">1TH 3:10</a>; <a href=\"https://ref.ly/Titus1:9\">TIT 1:9</a>; <a href=\"https://ref.ly/1Pet5:1-1Pet5:3\">1PE 5:1–5:3</a></p>\n<h3>By the leader's pattern of life</h3>\n<p><strong><a href=\"https://ref.ly/Titus2:6-Titus2:7\">TIT 2:6–2:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts20:33-Acts20:35\">ACT 20:33–20:35</a>; <a href=\"https://ref.ly/1Cor4:16-1Cor4:17\">1CO 4:16–4:17</a>, <a href=\"https://ref.ly/1Cor11:1\">1CO 11:1</a>; <a href=\"https://ref.ly/Phil4:9\">PHP 4:9</a>; <a href=\"https://ref.ly/1Thess1:5-1Thess1:6\">1TH 1:5–1:6</a></p>\n<h3>By the caring attitude of fellow believers</h3>\n<p><strong><a href=\"https://ref.ly/1Thess5:14-1Thess5:15\">1TH 5:14–5:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom14:1\">ROM 14:1</a>; <a href=\"https://ref.ly/1Cor8:9-1Cor8:13\">1CO 8:9–8:13</a>; <a href=\"https://ref.ly/Gal6:1-Gal6:2\">GAL 6:1–6:2</a>; <a href=\"https://ref.ly/1Thess5:11\">1TH 5:11</a>; <a href=\"https://ref.ly/Titus2:3-Titus2:5\">TIT 2:3–2:5</a></p>\n<h3>By appropriate teaching</h3>\n<p><strong><a href=\"https://ref.ly/1Pet2:2\">1PE 2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor3:2\">1CO 3:2</a>, <a href=\"https://ref.ly/1Cor14:20\">1CO 14:20</a>; <a href=\"https://ref.ly/Heb5:11-Heb5:14\">HEB 5:11–5:14</a></p>\n<h3>By encouraging spiritual growth</h3>\n<p><strong><a href=\"https://ref.ly/2Pet3:18\">2PE 3:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor3:18\">2CO 3:18</a>; <a href=\"https://ref.ly/Eph4:15\">EPH 4:15</a>; <a href=\"https://ref.ly/2Thess1:3\">2TH 1:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05004009",
+"start_ref_usfm": "DEU 4:9",
+"end_ref": "05004010",
+"end_ref_usfm": "DEU 4:10"
+},
+{
+"start_ref": "05006004",
+"start_ref_usfm": "DEU 6:4",
+"end_ref": "05006009",
+"end_ref_usfm": "DEU 6:9"
+},
+{
+"start_ref": "05011018",
+"start_ref_usfm": "DEU 11:18",
+"end_ref": "05011021",
+"end_ref_usfm": "DEU 11:21"
+},
+{
+"start_ref": "20022006",
+"start_ref_usfm": "PRO 22:6",
+"end_ref": "20022006",
+"end_ref_usfm": "PRO 22:6"
+},
+{
+"start_ref": "49006004",
+"start_ref_usfm": "EPH 6:4",
+"end_ref": "49006004",
+"end_ref_usfm": "EPH 6:4"
+},
+{
+"start_ref": "51003021",
+"start_ref_usfm": "COL 3:21",
+"end_ref": "51003021",
+"end_ref_usfm": "COL 3:21"
+},
+{
+"start_ref": "55001005",
+"start_ref_usfm": "2TI 1:5",
+"end_ref": "55001005",
+"end_ref_usfm": "2TI 1:5"
+},
+{
+"start_ref": "55003015",
+"start_ref_usfm": "2TI 3:15",
+"end_ref": "55003015",
+"end_ref_usfm": "2TI 3:15"
+},
+{
+"start_ref": "20001008",
+"start_ref_usfm": "PRO 1:8",
+"end_ref": "20001010",
+"end_ref_usfm": "PRO 1:10"
+},
+{
+"start_ref": "20002001",
+"start_ref_usfm": "PRO 2:1",
+"end_ref": "20002005",
+"end_ref_usfm": "PRO 2:5"
+},
+{
+"start_ref": "20003001",
+"start_ref_usfm": "PRO 3:1",
+"end_ref": "20003002",
+"end_ref_usfm": "PRO 3:2"
+},
+{
+"start_ref": "20004001",
+"start_ref_usfm": "PRO 4:1",
+"end_ref": "20004004",
+"end_ref_usfm": "PRO 4:4"
+},
+{
+"start_ref": "20005001",
+"start_ref_usfm": "PRO 5:1",
+"end_ref": "20005002",
+"end_ref_usfm": "PRO 5:2"
+},
+{
+"start_ref": "20006001",
+"start_ref_usfm": "PRO 6:1",
+"end_ref": "20006003",
+"end_ref_usfm": "PRO 6:3"
+},
+{
+"start_ref": "20006020",
+"start_ref_usfm": "PRO 6:20",
+"end_ref": "20006024",
+"end_ref_usfm": "PRO 6:24"
+},
+{
+"start_ref": "52002007",
+"start_ref_usfm": "1TH 2:7",
+"end_ref": "52002012",
+"end_ref_usfm": "1TH 2:12"
+},
+{
+"start_ref": "43021015",
+"start_ref_usfm": "JHN 21:15",
+"end_ref": "43021017",
+"end_ref_usfm": "JHN 21:17"
+},
+{
+"start_ref": "44020018",
+"start_ref_usfm": "ACT 20:18",
+"end_ref": "44020020",
+"end_ref_usfm": "ACT 20:20"
+},
+{
+"start_ref": "46004014",
+"start_ref_usfm": "1CO 4:14",
+"end_ref": "46004015",
+"end_ref_usfm": "1CO 4:15"
+},
+{
+"start_ref": "52003010",
+"start_ref_usfm": "1TH 3:10",
+"end_ref": "52003010",
+"end_ref_usfm": "1TH 3:10"
+},
+{
+"start_ref": "56001009",
+"start_ref_usfm": "TIT 1:9",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+},
+{
+"start_ref": "60005001",
+"start_ref_usfm": "1PE 5:1",
+"end_ref": "60005003",
+"end_ref_usfm": "1PE 5:3"
+},
+{
+"start_ref": "56002006",
+"start_ref_usfm": "TIT 2:6",
+"end_ref": "56002007",
+"end_ref_usfm": "TIT 2:7"
+},
+{
+"start_ref": "44020033",
+"start_ref_usfm": "ACT 20:33",
+"end_ref": "44020035",
+"end_ref_usfm": "ACT 20:35"
+},
+{
+"start_ref": "46004016",
+"start_ref_usfm": "1CO 4:16",
+"end_ref": "46004017",
+"end_ref_usfm": "1CO 4:17"
+},
+{
+"start_ref": "46011001",
+"start_ref_usfm": "1CO 11:1",
+"end_ref": "46011001",
+"end_ref_usfm": "1CO 11:1"
+},
+{
+"start_ref": "50004009",
+"start_ref_usfm": "PHP 4:9",
+"end_ref": "50004009",
+"end_ref_usfm": "PHP 4:9"
+},
+{
+"start_ref": "52001005",
+"start_ref_usfm": "1TH 1:5",
+"end_ref": "52001006",
+"end_ref_usfm": "1TH 1:6"
+},
+{
+"start_ref": "52005014",
+"start_ref_usfm": "1TH 5:14",
+"end_ref": "52005015",
+"end_ref_usfm": "1TH 5:15"
+},
+{
+"start_ref": "45014001",
+"start_ref_usfm": "ROM 14:1",
+"end_ref": "45014001",
+"end_ref_usfm": "ROM 14:1"
+},
+{
+"start_ref": "46008009",
+"start_ref_usfm": "1CO 8:9",
+"end_ref": "46008013",
+"end_ref_usfm": "1CO 8:13"
+},
+{
+"start_ref": "48006001",
+"start_ref_usfm": "GAL 6:1",
+"end_ref": "48006002",
+"end_ref_usfm": "GAL 6:2"
+},
+{
+"start_ref": "52005011",
+"start_ref_usfm": "1TH 5:11",
+"end_ref": "52005011",
+"end_ref_usfm": "1TH 5:11"
+},
+{
+"start_ref": "56002003",
+"start_ref_usfm": "TIT 2:3",
+"end_ref": "56002005",
+"end_ref_usfm": "TIT 2:5"
+},
+{
+"start_ref": "60002002",
+"start_ref_usfm": "1PE 2:2",
+"end_ref": "60002002",
+"end_ref_usfm": "1PE 2:2"
+},
+{
+"start_ref": "46003002",
+"start_ref_usfm": "1CO 3:2",
+"end_ref": "46003002",
+"end_ref_usfm": "1CO 3:2"
+},
+{
+"start_ref": "46014020",
+"start_ref_usfm": "1CO 14:20",
+"end_ref": "46014020",
+"end_ref_usfm": "1CO 14:20"
+},
+{
+"start_ref": "58005011",
+"start_ref_usfm": "HEB 5:11",
+"end_ref": "58005014",
+"end_ref_usfm": "HEB 5:14"
+},
+{
+"start_ref": "61003018",
+"start_ref_usfm": "2PE 3:18",
+"end_ref": "61003018",
+"end_ref_usfm": "2PE 3:18"
+},
+{
+"start_ref": "47003018",
+"start_ref_usfm": "2CO 3:18",
+"end_ref": "47003018",
+"end_ref_usfm": "2CO 3:18"
+},
+{
+"start_ref": "49004015",
+"start_ref_usfm": "EPH 4:15",
+"end_ref": "49004015",
+"end_ref_usfm": "EPH 4:15"
+},
+{
+"start_ref": "53001003",
+"start_ref_usfm": "2TH 1:3",
+"end_ref": "53001003",
+"end_ref_usfm": "2TH 1:3"
+}
+],
+"resource": [
+{
+"reference_id": "1613",
+"content_id": "1613",
+"resource_code": "DictionaryBibleThemes",
+"label": "1613: Scripture, purpose of",
+"language": "eng"
+},
+{
+"reference_id": "4480",
+"content_id": "4480",
+"resource_code": "DictionaryBibleThemes",
+"label": "4480: milk",
+"language": "eng"
+},
+{
+"reference_id": "5664",
+"content_id": "5664",
+"resource_code": "DictionaryBibleThemes",
+"label": "5664: children",
+"language": "eng"
+},
+{
+"reference_id": "5682",
+"content_id": "5682",
+"resource_code": "DictionaryBibleThemes",
+"label": "5682: family, significance of",
+"language": "eng"
+},
+{
+"reference_id": "5731",
+"content_id": "5731",
+"resource_code": "DictionaryBibleThemes",
+"label": "5731: parents",
+"language": "eng"
+},
+{
+"reference_id": "5777",
+"content_id": "5777",
+"resource_code": "DictionaryBibleThemes",
+"label": "5777: admonition",
+"language": "eng"
+},
+{
+"reference_id": "5802",
+"content_id": "5802",
+"resource_code": "DictionaryBibleThemes",
+"label": "5802: care",
+"language": "eng"
+},
+{
+"reference_id": "7130",
+"content_id": "7130",
+"resource_code": "DictionaryBibleThemes",
+"label": "7130: flock, God's",
+"language": "eng"
+},
+{
+"reference_id": "7942",
+"content_id": "7942",
+"resource_code": "DictionaryBibleThemes",
+"label": "7942: ministry, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8031",
+"content_id": "8031",
+"resource_code": "DictionaryBibleThemes",
+"label": "8031: trust, importance of",
+"language": "eng"
+},
+{
+"reference_id": "8292",
+"content_id": "8292",
+"resource_code": "DictionaryBibleThemes",
+"label": "8292: love",
+"language": "eng"
+},
+{
+"reference_id": "8443",
+"content_id": "8443",
+"resource_code": "DictionaryBibleThemes",
+"label": "8443: growth",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5062",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5062: spirit",
+"media_type": "Text",
+"index_reference": "5062: spirit",
+"language": "eng",
+"review_level": "None",
+"content": "<p>In Scripture the innermost aspect of human nature. The three-fold division of spirit, soul and body is sometimes used to refer to this distinction between the physical and spiritual aspects of human existence.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5063",
+"content_id": "5063",
+"resource_code": "DictionaryBibleThemes",
+"label": "5063: spirit, nature of",
+"language": "eng"
+},
+{
+"reference_id": "5064",
+"content_id": "5064",
+"resource_code": "DictionaryBibleThemes",
+"label": "5064: spirit, emotional aspects of",
+"language": "eng"
+},
+{
+"reference_id": "5065",
+"content_id": "5065",
+"resource_code": "DictionaryBibleThemes",
+"label": "5065: spirit, fallen and redeemed",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,53 @@
+[
+{
+"content_id": "9200",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9200: Judgment",
+"media_type": "Text",
+"index_reference": "9200: judgment",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"9210\" data-resourcetype=\"DictionaryOfBibleThemes\">9210: judgment, God's</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9220\" data-resourcetype=\"DictionaryOfBibleThemes\">9220: day of the LORD</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9230\" data-resourcetype=\"DictionaryOfBibleThemes\">9230: judgment seat</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9240\" data-resourcetype=\"DictionaryOfBibleThemes\">9240: last judgment</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9250\" data-resourcetype=\"DictionaryOfBibleThemes\">9250: woe</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+},
+{
+"reference_id": "9220",
+"content_id": "9220",
+"resource_code": "DictionaryBibleThemes",
+"label": "9220: day of the LORD",
+"language": "eng"
+},
+{
+"reference_id": "9230",
+"content_id": "9230",
+"resource_code": "DictionaryBibleThemes",
+"label": "9230: judgment seat",
+"language": "eng"
+},
+{
+"reference_id": "9240",
+"content_id": "9240",
+"resource_code": "DictionaryBibleThemes",
+"label": "9240: last judgment",
+"language": "eng"
+},
+{
+"reference_id": "9250",
+"content_id": "9250",
+"resource_code": "DictionaryBibleThemes",
+"label": "9250: woe",
+"language": "eng"
+}
+]
+}
+}
+]

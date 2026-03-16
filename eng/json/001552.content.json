@@ -1,0 +1,32 @@
+[
+{
+"content_id": "6199",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6199: imperfection",
+"media_type": "Text",
+"index_reference": "6199: imperfection",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The state of incompletion or decay that characterises the fallen world. Although God created the world perfect, it lapsed into its present state of imperfection through human sin.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6200",
+"content_id": "6200",
+"resource_code": "DictionaryBibleThemes",
+"label": "6200: imperfection, influence of",
+"language": "eng"
+},
+{
+"reference_id": "6201",
+"content_id": "6201",
+"resource_code": "DictionaryBibleThemes",
+"label": "6201: imperfection, and God's purposes",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,178 @@
+[
+{
+"content_id": "5839",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5839: dissatisfaction",
+"media_type": "Text",
+"index_reference": "5839: dissatisfaction",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The human feeling of emptiness and unfulfilment, at either a physical or spiritual level.</p>\n<h2>Hunger and thirst are never permanently satisfied</h2>\n<p><strong><a href=\"https://ref.ly/Eccl6:7\">ECC 6:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps59:15\">PSA 59:15</a>; <a href=\"https://ref.ly/Isa55:2\">ISA 55:2</a>; <a href=\"https://ref.ly/John4:13-John4:14\">JHN 4:13–4:14</a></p>\n<h2>Dissatisfaction as a result of divine judgment</h2>\n<p><strong><a href=\"https://ref.ly/Lev26:26\">LEV 26:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa9:19-Isa9:21\">ISA 9:19–9:21</a>; <a href=\"https://ref.ly/Ezek7:19\">EZK 7:19</a>; <a href=\"https://ref.ly/Mic6:14\">MIC 6:14</a></p>\n<h2>Death is never satisfied</h2>\n<p><strong><a href=\"https://ref.ly/Prov27:20\">PRO 27:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov30:15-Prov30:16\">PRO 30:15–30:16</a>; <a href=\"https://ref.ly/Hab2:5\">HAB 2:5</a></p>\n<h2>Dissatisfaction is characteristic of the unrighteous</h2>\n<p><strong><a href=\"https://ref.ly/Prov13:4\">PRO 13:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth5:9-Esth5:13\">EST 5:9–5:13</a>; <a href=\"https://ref.ly/Eccl5:10\">ECC 5:10</a>; <a href=\"https://ref.ly/Ezek16:28-Ezek16:29\">EZK 16:28–16:29</a>; <a href=\"https://ref.ly/3John1:9-3John1:10\">3JN 1:9–1:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "21006007",
+"start_ref_usfm": "ECC 6:7",
+"end_ref": "21006007",
+"end_ref_usfm": "ECC 6:7"
+},
+{
+"start_ref": "19059015",
+"start_ref_usfm": "PSA 59:15",
+"end_ref": "19059015",
+"end_ref_usfm": "PSA 59:15"
+},
+{
+"start_ref": "23055002",
+"start_ref_usfm": "ISA 55:2",
+"end_ref": "23055002",
+"end_ref_usfm": "ISA 55:2"
+},
+{
+"start_ref": "43004013",
+"start_ref_usfm": "JHN 4:13",
+"end_ref": "43004014",
+"end_ref_usfm": "JHN 4:14"
+},
+{
+"start_ref": "03026026",
+"start_ref_usfm": "LEV 26:26",
+"end_ref": "03026026",
+"end_ref_usfm": "LEV 26:26"
+},
+{
+"start_ref": "23009019",
+"start_ref_usfm": "ISA 9:19",
+"end_ref": "23009021",
+"end_ref_usfm": "ISA 9:21"
+},
+{
+"start_ref": "26007019",
+"start_ref_usfm": "EZK 7:19",
+"end_ref": "26007019",
+"end_ref_usfm": "EZK 7:19"
+},
+{
+"start_ref": "33006014",
+"start_ref_usfm": "MIC 6:14",
+"end_ref": "33006014",
+"end_ref_usfm": "MIC 6:14"
+},
+{
+"start_ref": "20027020",
+"start_ref_usfm": "PRO 27:20",
+"end_ref": "20027020",
+"end_ref_usfm": "PRO 27:20"
+},
+{
+"start_ref": "20030015",
+"start_ref_usfm": "PRO 30:15",
+"end_ref": "20030016",
+"end_ref_usfm": "PRO 30:16"
+},
+{
+"start_ref": "35002005",
+"start_ref_usfm": "HAB 2:5",
+"end_ref": "35002005",
+"end_ref_usfm": "HAB 2:5"
+},
+{
+"start_ref": "20013004",
+"start_ref_usfm": "PRO 13:4",
+"end_ref": "20013004",
+"end_ref_usfm": "PRO 13:4"
+},
+{
+"start_ref": "17005009",
+"start_ref_usfm": "EST 5:9",
+"end_ref": "17005013",
+"end_ref_usfm": "EST 5:13"
+},
+{
+"start_ref": "21005010",
+"start_ref_usfm": "ECC 5:10",
+"end_ref": "21005010",
+"end_ref_usfm": "ECC 5:10"
+},
+{
+"start_ref": "26016028",
+"start_ref_usfm": "EZK 16:28",
+"end_ref": "26016029",
+"end_ref_usfm": "EZK 16:29"
+},
+{
+"start_ref": "64001009",
+"start_ref_usfm": "3JN 1:9",
+"end_ref": "64001010",
+"end_ref_usfm": "3JN 1:10"
+}
+],
+"resource": [
+{
+"reference_id": "4822",
+"content_id": "4822",
+"resource_code": "DictionaryBibleThemes",
+"label": "4822: famine",
+"language": "eng"
+},
+{
+"reference_id": "5341",
+"content_id": "5341",
+"resource_code": "DictionaryBibleThemes",
+"label": "5341: hunger",
+"language": "eng"
+},
+{
+"reference_id": "5580",
+"content_id": "5580",
+"resource_code": "DictionaryBibleThemes",
+"label": "5580: thirst",
+"language": "eng"
+},
+{
+"reference_id": "5835",
+"content_id": "5835",
+"resource_code": "DictionaryBibleThemes",
+"label": "5835: disappointment",
+"language": "eng"
+},
+{
+"reference_id": "5853",
+"content_id": "5853",
+"resource_code": "DictionaryBibleThemes",
+"label": "5853: experience, of life",
+"language": "eng"
+},
+{
+"reference_id": "5869",
+"content_id": "5869",
+"resource_code": "DictionaryBibleThemes",
+"label": "5869: greed",
+"language": "eng"
+},
+{
+"reference_id": "5939",
+"content_id": "5939",
+"resource_code": "DictionaryBibleThemes",
+"label": "5939: satisfaction",
+"language": "eng"
+},
+{
+"reference_id": "5970",
+"content_id": "5970",
+"resource_code": "DictionaryBibleThemes",
+"label": "5970: unhappiness",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+}
+]
+}
+}
+]

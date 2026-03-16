@@ -1,0 +1,409 @@
+[
+{
+"content_id": "2505",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "2505: Jesus Christ, ascension of",
+"media_type": "Text",
+"index_reference": "2505: jesus christ, ascension of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The return of Jesus Christ to his Father in order to establish his kingdom, having completed his work on earth.</p>\n<h2>Jesus Christ's ascension described</h2>\n<p><strong><a href=\"https://ref.ly/Acts1:9-Acts1:11\">ACT 1:9–1:11</a></strong> <em>As in the OT, the cloud symbolises God's presence.</em> <em>See also</em> <a href=\"https://ref.ly/Mark16:19\">MRK 16:19</a>; <a href=\"https://ref.ly/Luke24:51\">LUK 24:51</a>; <a href=\"https://ref.ly/Acts1:2\">ACT 1:2</a>; <a href=\"https://ref.ly/Eph4:10\">EPH 4:10</a>; <a href=\"https://ref.ly/1Tim3:16\">1TI 3:16</a>; <a href=\"https://ref.ly/Heb9:24\">HEB 9:24</a>; <a href=\"https://ref.ly/1Pet3:22\">1PE 3:22</a>; <a href=\"https://ref.ly/Rev12:5\">REV 12:5</a></p>\n<h2>Predictions of Jesus Christ's ascension</h2>\n<h3>In the OT</h3>\n<p><strong><a href=\"https://ref.ly/Eph4:7-Eph4:8\">EPH 4:7–4:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps68:18\">PSA 68:18</a></p>\n<h3>Jesus Christ looks forward to his ascension as his return to his Father</h3>\n<p><strong><a href=\"https://ref.ly/John16:28\">JHN 16:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/John6:62\">JHN 6:62</a>, <a href=\"https://ref.ly/John7:33\">JHN 7:33</a>, <a href=\"https://ref.ly/John14:28\">JHN 14:28</a>, <a href=\"https://ref.ly/John16:5\">JHN 16:5</a>, <a href=\"https://ref.ly/John16:10\">JHN 16:10</a>, <a href=\"https://ref.ly/John17:11\">JHN 17:11</a>, <a href=\"https://ref.ly/John17:13\">JHN 17:13</a>, <a href=\"https://ref.ly/John20:17\">JHN 20:17</a></p>\n<h2>Jesus Christ establishes his kingdom by his ascension</h2>\n<h3>He ascended to send the Holy Spirit</h3>\n<p><strong><a href=\"https://ref.ly/John16:7\">JHN 16:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/John7:39\">JHN 7:39</a>, <a href=\"https://ref.ly/John14:16-John14:19\">JHN 14:16–14:19</a>, <a href=\"https://ref.ly/John14:25-John14:26\">JHN 14:25–14:26</a>, <a href=\"https://ref.ly/John15:26-John15:27\">JHN 15:26–15:27</a>; <a href=\"https://ref.ly/Acts2:33\">ACT 2:33</a></p>\n<h3>He ascended to prepare a place for his people</h3>\n<p><strong><a href=\"https://ref.ly/John14:2-John14:4\">JHN 14:2–14:4</a></strong></p>\n<h3>He ascended to exaltation and glory</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Luke24:26\">LUK 24:26</a>; <a href=\"https://ref.ly/Acts2:33\">ACT 2:33</a>; <a href=\"https://ref.ly/Eph1:20-Eph1:21\">EPH 1:20–1:21</a>; <a href=\"https://ref.ly/1Pet3:22\">1PE 3:22</a></p>\n<h3>He ascended to exercise his high priestly ministry</h3>\n<p><strong><a href=\"https://ref.ly/Heb4:14\">HEB 4:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb7:25\">HEB 7:25</a>, <a href=\"https://ref.ly/Heb9:24\">HEB 9:24</a></p>\n<h3>He ascended so that believers may follow him</h3>\n<p><strong><a href=\"https://ref.ly/1Thess4:17\">1TH 4:17</a></strong></p>\n<h2>Jesus Christ's ascension indicates the manner of his return</h2>\n<p><strong><a href=\"https://ref.ly/Acts1:11\">ACT 1:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt24:30\">MAT 24:30</a> parallels <a href=\"https://ref.ly/Mark13:26\">MRK 13:26</a>, <a href=\"https://ref.ly/Luke21:27\">LUK 21:27</a>; <a href=\"https://ref.ly/Rev1:7\">REV 1:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44001009",
+"start_ref_usfm": "ACT 1:9",
+"end_ref": "44001011",
+"end_ref_usfm": "ACT 1:11"
+},
+{
+"start_ref": "41016019",
+"start_ref_usfm": "MRK 16:19",
+"end_ref": "41016019",
+"end_ref_usfm": "MRK 16:19"
+},
+{
+"start_ref": "42024051",
+"start_ref_usfm": "LUK 24:51",
+"end_ref": "42024051",
+"end_ref_usfm": "LUK 24:51"
+},
+{
+"start_ref": "44001002",
+"start_ref_usfm": "ACT 1:2",
+"end_ref": "44001002",
+"end_ref_usfm": "ACT 1:2"
+},
+{
+"start_ref": "49004010",
+"start_ref_usfm": "EPH 4:10",
+"end_ref": "49004010",
+"end_ref_usfm": "EPH 4:10"
+},
+{
+"start_ref": "54003016",
+"start_ref_usfm": "1TI 3:16",
+"end_ref": "54003016",
+"end_ref_usfm": "1TI 3:16"
+},
+{
+"start_ref": "58009024",
+"start_ref_usfm": "HEB 9:24",
+"end_ref": "58009024",
+"end_ref_usfm": "HEB 9:24"
+},
+{
+"start_ref": "60003022",
+"start_ref_usfm": "1PE 3:22",
+"end_ref": "60003022",
+"end_ref_usfm": "1PE 3:22"
+},
+{
+"start_ref": "66012005",
+"start_ref_usfm": "REV 12:5",
+"end_ref": "66012005",
+"end_ref_usfm": "REV 12:5"
+},
+{
+"start_ref": "49004007",
+"start_ref_usfm": "EPH 4:7",
+"end_ref": "49004008",
+"end_ref_usfm": "EPH 4:8"
+},
+{
+"start_ref": "19068018",
+"start_ref_usfm": "PSA 68:18",
+"end_ref": "19068018",
+"end_ref_usfm": "PSA 68:18"
+},
+{
+"start_ref": "43016028",
+"start_ref_usfm": "JHN 16:28",
+"end_ref": "43016028",
+"end_ref_usfm": "JHN 16:28"
+},
+{
+"start_ref": "43006062",
+"start_ref_usfm": "JHN 6:62",
+"end_ref": "43006062",
+"end_ref_usfm": "JHN 6:62"
+},
+{
+"start_ref": "43007033",
+"start_ref_usfm": "JHN 7:33",
+"end_ref": "43007033",
+"end_ref_usfm": "JHN 7:33"
+},
+{
+"start_ref": "43014028",
+"start_ref_usfm": "JHN 14:28",
+"end_ref": "43014028",
+"end_ref_usfm": "JHN 14:28"
+},
+{
+"start_ref": "43016005",
+"start_ref_usfm": "JHN 16:5",
+"end_ref": "43016005",
+"end_ref_usfm": "JHN 16:5"
+},
+{
+"start_ref": "43016010",
+"start_ref_usfm": "JHN 16:10",
+"end_ref": "43016010",
+"end_ref_usfm": "JHN 16:10"
+},
+{
+"start_ref": "43017011",
+"start_ref_usfm": "JHN 17:11",
+"end_ref": "43017011",
+"end_ref_usfm": "JHN 17:11"
+},
+{
+"start_ref": "43017013",
+"start_ref_usfm": "JHN 17:13",
+"end_ref": "43017013",
+"end_ref_usfm": "JHN 17:13"
+},
+{
+"start_ref": "43020017",
+"start_ref_usfm": "JHN 20:17",
+"end_ref": "43020017",
+"end_ref_usfm": "JHN 20:17"
+},
+{
+"start_ref": "43016007",
+"start_ref_usfm": "JHN 16:7",
+"end_ref": "43016007",
+"end_ref_usfm": "JHN 16:7"
+},
+{
+"start_ref": "43007039",
+"start_ref_usfm": "JHN 7:39",
+"end_ref": "43007039",
+"end_ref_usfm": "JHN 7:39"
+},
+{
+"start_ref": "43014016",
+"start_ref_usfm": "JHN 14:16",
+"end_ref": "43014019",
+"end_ref_usfm": "JHN 14:19"
+},
+{
+"start_ref": "43014025",
+"start_ref_usfm": "JHN 14:25",
+"end_ref": "43014026",
+"end_ref_usfm": "JHN 14:26"
+},
+{
+"start_ref": "43015026",
+"start_ref_usfm": "JHN 15:26",
+"end_ref": "43015027",
+"end_ref_usfm": "JHN 15:27"
+},
+{
+"start_ref": "44002033",
+"start_ref_usfm": "ACT 2:33",
+"end_ref": "44002033",
+"end_ref_usfm": "ACT 2:33"
+},
+{
+"start_ref": "43014002",
+"start_ref_usfm": "JHN 14:2",
+"end_ref": "43014004",
+"end_ref_usfm": "JHN 14:4"
+},
+{
+"start_ref": "42024026",
+"start_ref_usfm": "LUK 24:26",
+"end_ref": "42024026",
+"end_ref_usfm": "LUK 24:26"
+},
+{
+"start_ref": "49001020",
+"start_ref_usfm": "EPH 1:20",
+"end_ref": "49001021",
+"end_ref_usfm": "EPH 1:21"
+},
+{
+"start_ref": "58004014",
+"start_ref_usfm": "HEB 4:14",
+"end_ref": "58004014",
+"end_ref_usfm": "HEB 4:14"
+},
+{
+"start_ref": "58007025",
+"start_ref_usfm": "HEB 7:25",
+"end_ref": "58007025",
+"end_ref_usfm": "HEB 7:25"
+},
+{
+"start_ref": "52004017",
+"start_ref_usfm": "1TH 4:17",
+"end_ref": "52004017",
+"end_ref_usfm": "1TH 4:17"
+},
+{
+"start_ref": "44001011",
+"start_ref_usfm": "ACT 1:11",
+"end_ref": "44001011",
+"end_ref_usfm": "ACT 1:11"
+},
+{
+"start_ref": "40024030",
+"start_ref_usfm": "MAT 24:30",
+"end_ref": "40024030",
+"end_ref_usfm": "MAT 24:30"
+},
+{
+"start_ref": "41013026",
+"start_ref_usfm": "MRK 13:26",
+"end_ref": "41013026",
+"end_ref_usfm": "MRK 13:26"
+},
+{
+"start_ref": "42021027",
+"start_ref_usfm": "LUK 21:27",
+"end_ref": "42021027",
+"end_ref_usfm": "LUK 21:27"
+},
+{
+"start_ref": "66001007",
+"start_ref_usfm": "REV 1:7",
+"end_ref": "66001007",
+"end_ref_usfm": "REV 1:7"
+}
+],
+"resource": [
+{
+"reference_id": "2510",
+"content_id": "2510",
+"resource_code": "DictionaryBibleThemes",
+"label": "2510: Jesus Christ, baptism of",
+"language": "eng"
+},
+{
+"reference_id": "2515",
+"content_id": "2515",
+"resource_code": "DictionaryBibleThemes",
+"label": "2515: Jesus Christ, birth of",
+"language": "eng"
+},
+{
+"reference_id": "2520",
+"content_id": "2520",
+"resource_code": "DictionaryBibleThemes",
+"label": "2520: Jesus Christ, childhood of",
+"language": "eng"
+},
+{
+"reference_id": "2525",
+"content_id": "2525",
+"resource_code": "DictionaryBibleThemes",
+"label": "2525: Jesus Christ, cross of",
+"language": "eng"
+},
+{
+"reference_id": "2530",
+"content_id": "2530",
+"resource_code": "DictionaryBibleThemes",
+"label": "2530: Jesus Christ, death of",
+"language": "eng"
+},
+{
+"reference_id": "2535",
+"content_id": "2535",
+"resource_code": "DictionaryBibleThemes",
+"label": "2535: Jesus Christ, family of",
+"language": "eng"
+},
+{
+"reference_id": "2540",
+"content_id": "2540",
+"resource_code": "DictionaryBibleThemes",
+"label": "2540: Jesus Christ, genealogy of",
+"language": "eng"
+},
+{
+"reference_id": "2545",
+"content_id": "2545",
+"resource_code": "DictionaryBibleThemes",
+"label": "2545: Jesus Christ, opposition to",
+"language": "eng"
+},
+{
+"reference_id": "2550",
+"content_id": "2550",
+"resource_code": "DictionaryBibleThemes",
+"label": "2550: Jesus Christ, pre-existence of",
+"language": "eng"
+},
+{
+"reference_id": "2555",
+"content_id": "2555",
+"resource_code": "DictionaryBibleThemes",
+"label": "2555: Jesus Christ, resurrection appearances of",
+"language": "eng"
+},
+{
+"reference_id": "2560",
+"content_id": "2560",
+"resource_code": "DictionaryBibleThemes",
+"label": "2560: Jesus Christ, resurrection of",
+"language": "eng"
+},
+{
+"reference_id": "2565",
+"content_id": "2565",
+"resource_code": "DictionaryBibleThemes",
+"label": "2565: Jesus Christ, second coming of",
+"language": "eng"
+},
+{
+"reference_id": "2570",
+"content_id": "2570",
+"resource_code": "DictionaryBibleThemes",
+"label": "2570: Jesus Christ, suffering of",
+"language": "eng"
+},
+{
+"reference_id": "2575",
+"content_id": "2575",
+"resource_code": "DictionaryBibleThemes",
+"label": "2575: Jesus Christ, temptation of",
+"language": "eng"
+},
+{
+"reference_id": "2580",
+"content_id": "2580",
+"resource_code": "DictionaryBibleThemes",
+"label": "2580: Jesus Christ, transfiguration of",
+"language": "eng"
+},
+{
+"reference_id": "2585",
+"content_id": "2585",
+"resource_code": "DictionaryBibleThemes",
+"label": "2585: Jesus Christ, trial of",
+"language": "eng"
+},
+{
+"reference_id": "2590",
+"content_id": "2590",
+"resource_code": "DictionaryBibleThemes",
+"label": "2590: Jesus Christ, triumphal entry of",
+"language": "eng"
+},
+{
+"reference_id": "2306",
+"content_id": "2306",
+"resource_code": "DictionaryBibleThemes",
+"label": "2306: Jesus Christ, as high priest",
+"language": "eng"
+},
+{
+"reference_id": "2336",
+"content_id": "2336",
+"resource_code": "DictionaryBibleThemes",
+"label": "2336: Jesus Christ, exaltation of",
+"language": "eng"
+},
+{
+"reference_id": "2366",
+"content_id": "2366",
+"resource_code": "DictionaryBibleThemes",
+"label": "2366: Jesus Christ, prophecies concerning",
+"language": "eng"
+},
+{
+"reference_id": "2421",
+"content_id": "2421",
+"resource_code": "DictionaryBibleThemes",
+"label": "2421: gospel, historical foundation of",
+"language": "eng"
+},
+{
+"reference_id": "2560",
+"content_id": "2560",
+"resource_code": "DictionaryBibleThemes",
+"label": "2560: Jesus Christ, resurrection of",
+"language": "eng"
+},
+{
+"reference_id": "2565",
+"content_id": "2565",
+"resource_code": "DictionaryBibleThemes",
+"label": "2565: Jesus Christ, second coming of",
+"language": "eng"
+},
+{
+"reference_id": "3040",
+"content_id": "3040",
+"resource_code": "DictionaryBibleThemes",
+"label": "3040: Holy Spirit, promise of",
+"language": "eng"
+}
+]
+}
+}
+]

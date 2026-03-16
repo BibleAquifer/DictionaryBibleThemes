@@ -1,0 +1,328 @@
+[
+{
+"content_id": "5810",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5810: complacency",
+"media_type": "Text",
+"index_reference": "5810: complacency",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A self-satisfied state of negligence or carelessness, especially in relation to one's personal situation.</p>\n<h2>Spiritual complacency</h2>\n<p><strong><a href=\"https://ref.ly/Zeph1:12\">ZEP 1:12</a></strong>; <strong><a href=\"https://ref.ly/Luke12:19\">LUK 12:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut8:14\">DEU 8:14</a>; <a href=\"https://ref.ly/2Chr20:33\">2CH 20:33</a>; <a href=\"https://ref.ly/Ps10:4\">PSA 10:4</a>; <a href=\"https://ref.ly/Isa43:22\">ISA 43:22</a>, <a href=\"https://ref.ly/Isa64:7\">ISA 64:7</a>; <a href=\"https://ref.ly/Jer10:21\">JER 10:21</a>; <a href=\"https://ref.ly/Ezek33:31\">EZK 33:31</a>; <a href=\"https://ref.ly/Dan9:13\">DAN 9:13</a>; <a href=\"https://ref.ly/Hos7:7\">HOS 7:7</a>; <a href=\"https://ref.ly/Zeph1:6\">ZEP 1:6</a>; <a href=\"https://ref.ly/Heb6:12\">HEB 6:12</a>, <a href=\"https://ref.ly/Heb12:25\">HEB 12:25</a></p>\n<h2>Examples of complacency</h2>\n<p><strong><a href=\"https://ref.ly/Jer6:14\">JER 6:14</a></strong>; <strong><a href=\"https://ref.ly/Obad1:3\">OBA 1:3</a></strong>; <strong><a href=\"https://ref.ly/1Cor5:1-1Cor5:2\">1CO 5:1–5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov30:20\">PRO 30:20</a>; <a href=\"https://ref.ly/Isa16:6\">ISA 16:6</a>; <a href=\"https://ref.ly/Ezek28:2\">EZK 28:2</a>; <a href=\"https://ref.ly/Hag1:2\">HAG 1:2</a>; <a href=\"https://ref.ly/Mal1:6-Mal1:14\">MAL 1:6–1:14</a>; <a href=\"https://ref.ly/Matt7:26\">MAT 7:26</a>, <a href=\"https://ref.ly/Matt22:5\">MAT 22:5</a>, <a href=\"https://ref.ly/Matt26:33\">MAT 26:33</a>; <a href=\"https://ref.ly/Luke12:47-Luke12:48\">LUK 12:47–12:48</a>, <a href=\"https://ref.ly/Luke14:18\">LUK 14:18</a>; <a href=\"https://ref.ly/1Cor4:8\">1CO 4:8</a>; <a href=\"https://ref.ly/Rev3:15-Rev3:17\">REV 3:15–3:17</a></p>\n<h2>Warnings against complacency</h2>\n<p><strong><a href=\"https://ref.ly/Amos6:1\">AMO 6:1</a></strong>; <strong><a href=\"https://ref.ly/2Cor13:5\">2CO 13:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov1:32\">PRO 1:32</a>, <a href=\"https://ref.ly/Prov10:4\">PRO 10:4</a>, <a href=\"https://ref.ly/Prov12:27\">PRO 12:27</a>; <a href=\"https://ref.ly/Eccl10:18\">ECC 10:18</a>; <a href=\"https://ref.ly/Isa32:9\">ISA 32:9</a>, <a href=\"https://ref.ly/Isa32:11\">ISA 32:11</a>, <a href=\"https://ref.ly/Isa47:8-Isa47:9\">ISA 47:8–47:9</a>; <a href=\"https://ref.ly/Ezek30:9\">EZK 30:9</a>; <a href=\"https://ref.ly/1Cor10:12\">1CO 10:12</a>; <a href=\"https://ref.ly/Heb2:3\">HEB 2:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "36001012",
+"start_ref_usfm": "ZEP 1:12",
+"end_ref": "36001012",
+"end_ref_usfm": "ZEP 1:12"
+},
+{
+"start_ref": "42012019",
+"start_ref_usfm": "LUK 12:19",
+"end_ref": "42012019",
+"end_ref_usfm": "LUK 12:19"
+},
+{
+"start_ref": "05008014",
+"start_ref_usfm": "DEU 8:14",
+"end_ref": "05008014",
+"end_ref_usfm": "DEU 8:14"
+},
+{
+"start_ref": "14020033",
+"start_ref_usfm": "2CH 20:33",
+"end_ref": "14020033",
+"end_ref_usfm": "2CH 20:33"
+},
+{
+"start_ref": "19010004",
+"start_ref_usfm": "PSA 10:4",
+"end_ref": "19010004",
+"end_ref_usfm": "PSA 10:4"
+},
+{
+"start_ref": "23043022",
+"start_ref_usfm": "ISA 43:22",
+"end_ref": "23043022",
+"end_ref_usfm": "ISA 43:22"
+},
+{
+"start_ref": "23064007",
+"start_ref_usfm": "ISA 64:7",
+"end_ref": "23064007",
+"end_ref_usfm": "ISA 64:7"
+},
+{
+"start_ref": "24010021",
+"start_ref_usfm": "JER 10:21",
+"end_ref": "24010021",
+"end_ref_usfm": "JER 10:21"
+},
+{
+"start_ref": "26033031",
+"start_ref_usfm": "EZK 33:31",
+"end_ref": "26033031",
+"end_ref_usfm": "EZK 33:31"
+},
+{
+"start_ref": "27009013",
+"start_ref_usfm": "DAN 9:13",
+"end_ref": "27009013",
+"end_ref_usfm": "DAN 9:13"
+},
+{
+"start_ref": "28007007",
+"start_ref_usfm": "HOS 7:7",
+"end_ref": "28007007",
+"end_ref_usfm": "HOS 7:7"
+},
+{
+"start_ref": "36001006",
+"start_ref_usfm": "ZEP 1:6",
+"end_ref": "36001006",
+"end_ref_usfm": "ZEP 1:6"
+},
+{
+"start_ref": "58006012",
+"start_ref_usfm": "HEB 6:12",
+"end_ref": "58006012",
+"end_ref_usfm": "HEB 6:12"
+},
+{
+"start_ref": "58012025",
+"start_ref_usfm": "HEB 12:25",
+"end_ref": "58012025",
+"end_ref_usfm": "HEB 12:25"
+},
+{
+"start_ref": "24006014",
+"start_ref_usfm": "JER 6:14",
+"end_ref": "24006014",
+"end_ref_usfm": "JER 6:14"
+},
+{
+"start_ref": "31001003",
+"start_ref_usfm": "OBA 1:3",
+"end_ref": "31001003",
+"end_ref_usfm": "OBA 1:3"
+},
+{
+"start_ref": "46005001",
+"start_ref_usfm": "1CO 5:1",
+"end_ref": "46005002",
+"end_ref_usfm": "1CO 5:2"
+},
+{
+"start_ref": "20030020",
+"start_ref_usfm": "PRO 30:20",
+"end_ref": "20030020",
+"end_ref_usfm": "PRO 30:20"
+},
+{
+"start_ref": "23016006",
+"start_ref_usfm": "ISA 16:6",
+"end_ref": "23016006",
+"end_ref_usfm": "ISA 16:6"
+},
+{
+"start_ref": "26028002",
+"start_ref_usfm": "EZK 28:2",
+"end_ref": "26028002",
+"end_ref_usfm": "EZK 28:2"
+},
+{
+"start_ref": "37001002",
+"start_ref_usfm": "HAG 1:2",
+"end_ref": "37001002",
+"end_ref_usfm": "HAG 1:2"
+},
+{
+"start_ref": "39001006",
+"start_ref_usfm": "MAL 1:6",
+"end_ref": "39001014",
+"end_ref_usfm": "MAL 1:14"
+},
+{
+"start_ref": "40007026",
+"start_ref_usfm": "MAT 7:26",
+"end_ref": "40007026",
+"end_ref_usfm": "MAT 7:26"
+},
+{
+"start_ref": "40022005",
+"start_ref_usfm": "MAT 22:5",
+"end_ref": "40022005",
+"end_ref_usfm": "MAT 22:5"
+},
+{
+"start_ref": "40026033",
+"start_ref_usfm": "MAT 26:33",
+"end_ref": "40026033",
+"end_ref_usfm": "MAT 26:33"
+},
+{
+"start_ref": "42012047",
+"start_ref_usfm": "LUK 12:47",
+"end_ref": "42012048",
+"end_ref_usfm": "LUK 12:48"
+},
+{
+"start_ref": "42014018",
+"start_ref_usfm": "LUK 14:18",
+"end_ref": "42014018",
+"end_ref_usfm": "LUK 14:18"
+},
+{
+"start_ref": "46004008",
+"start_ref_usfm": "1CO 4:8",
+"end_ref": "46004008",
+"end_ref_usfm": "1CO 4:8"
+},
+{
+"start_ref": "66003015",
+"start_ref_usfm": "REV 3:15",
+"end_ref": "66003017",
+"end_ref_usfm": "REV 3:17"
+},
+{
+"start_ref": "30006001",
+"start_ref_usfm": "AMO 6:1",
+"end_ref": "30006001",
+"end_ref_usfm": "AMO 6:1"
+},
+{
+"start_ref": "47013005",
+"start_ref_usfm": "2CO 13:5",
+"end_ref": "47013005",
+"end_ref_usfm": "2CO 13:5"
+},
+{
+"start_ref": "20001032",
+"start_ref_usfm": "PRO 1:32",
+"end_ref": "20001032",
+"end_ref_usfm": "PRO 1:32"
+},
+{
+"start_ref": "20010004",
+"start_ref_usfm": "PRO 10:4",
+"end_ref": "20010004",
+"end_ref_usfm": "PRO 10:4"
+},
+{
+"start_ref": "20012027",
+"start_ref_usfm": "PRO 12:27",
+"end_ref": "20012027",
+"end_ref_usfm": "PRO 12:27"
+},
+{
+"start_ref": "21010018",
+"start_ref_usfm": "ECC 10:18",
+"end_ref": "21010018",
+"end_ref_usfm": "ECC 10:18"
+},
+{
+"start_ref": "23032009",
+"start_ref_usfm": "ISA 32:9",
+"end_ref": "23032009",
+"end_ref_usfm": "ISA 32:9"
+},
+{
+"start_ref": "23032011",
+"start_ref_usfm": "ISA 32:11",
+"end_ref": "23032011",
+"end_ref_usfm": "ISA 32:11"
+},
+{
+"start_ref": "23047008",
+"start_ref_usfm": "ISA 47:8",
+"end_ref": "23047009",
+"end_ref_usfm": "ISA 47:9"
+},
+{
+"start_ref": "26030009",
+"start_ref_usfm": "EZK 30:9",
+"end_ref": "26030009",
+"end_ref_usfm": "EZK 30:9"
+},
+{
+"start_ref": "46010012",
+"start_ref_usfm": "1CO 10:12",
+"end_ref": "46010012",
+"end_ref_usfm": "1CO 10:12"
+},
+{
+"start_ref": "58002003",
+"start_ref_usfm": "HEB 2:3",
+"end_ref": "58002003",
+"end_ref_usfm": "HEB 2:3"
+}
+],
+"resource": [
+{
+"reference_id": "5135",
+"content_id": "5135",
+"resource_code": "DictionaryBibleThemes",
+"label": "5135: blindness, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "5343",
+"content_id": "5343",
+"resource_code": "DictionaryBibleThemes",
+"label": "5343: idleness",
+"language": "eng"
+},
+{
+"reference_id": "5539",
+"content_id": "5539",
+"resource_code": "DictionaryBibleThemes",
+"label": "5539: sluggard",
+"language": "eng"
+},
+{
+"reference_id": "5803",
+"content_id": "5803",
+"resource_code": "DictionaryBibleThemes",
+"label": "5803: carelessness",
+"language": "eng"
+},
+{
+"reference_id": "5885",
+"content_id": "5885",
+"resource_code": "DictionaryBibleThemes",
+"label": "5885: indifference",
+"language": "eng"
+},
+{
+"reference_id": "8704",
+"content_id": "8704",
+"resource_code": "DictionaryBibleThemes",
+"label": "8704: apostasy",
+"language": "eng"
+},
+{
+"reference_id": "8783",
+"content_id": "8783",
+"resource_code": "DictionaryBibleThemes",
+"label": "8783: neglect",
+"language": "eng"
+},
+{
+"reference_id": "8802",
+"content_id": "8802",
+"resource_code": "DictionaryBibleThemes",
+"label": "8802: pride",
+"language": "eng"
+},
+{
+"reference_id": "8823",
+"content_id": "8823",
+"resource_code": "DictionaryBibleThemes",
+"label": "8823: self-righteousness",
+"language": "eng"
+}
+]
+}
+}
+]

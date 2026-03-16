@@ -1,0 +1,331 @@
+[
+{
+"content_id": "8829",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8829: superstition",
+"media_type": "Text",
+"index_reference": "8829: superstition",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Misplaced credulity concerning the supernatural, which leads to irrational fear, misdirected reverence, false religion and magic, and which brings God's judgment. Scripture warns against and condemns such things.</p>\n<h2>Superstition causing irrational fear</h2>\n<p><strong><a href=\"https://ref.ly/Jer10:2\">JER 10:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job15:20-Job15:24\">JOB 15:20–15:24</a>, <a href=\"https://ref.ly/Job18:11\">JOB 18:11</a></p>\n<h3>Fear of Jesus Christ or his disciples</h3>\n<p><strong><a href=\"https://ref.ly/Matt14:26-Matt14:27\">MAT 14:26–14:27</a></strong> parallel <a href=\"https://ref.ly/Mark6:49-Mark6:50\">MRK 6:49–6:50</a> <em>See also</em> <a href=\"https://ref.ly/Matt14:2\">MAT 14:2</a> parallel <a href=\"https://ref.ly/Mark6:14\">MRK 6:14</a>; <a href=\"https://ref.ly/Acts5:13\">ACT 5:13</a></p>\n<h3>Fear of other gods</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs20:23\">1KI 20:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs18:28\">1KI 18:28</a>, <a href=\"https://ref.ly/1Kgs20:28\">1KI 20:28</a>; <a href=\"https://ref.ly/Acts17:23\">ACT 17:23</a></p>\n<h2>Misunderstanding God's work</h2>\n<p><strong><a href=\"https://ref.ly/Acts8:18-Acts8:19\">ACT 8:18–8:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke24:36-Luke24:37\">LUK 24:36–24:37</a>; <a href=\"https://ref.ly/Acts12:15\">ACT 12:15</a>, <a href=\"https://ref.ly/Acts19:13\">ACT 19:13</a> <em>invoking the name of Jesus Christ for exorcism as though it were a magic formula</em>; <a href=\"https://ref.ly/Acts28:3-Acts28:4\">ACT 28:3–28:4</a></p>\n<h2>Superstition leading to misdirected reverence</h2>\n<p><strong><a href=\"https://ref.ly/Acts14:11-Acts14:13\">ACT 14:11–14:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts28:5-Acts28:6\">ACT 28:5–28:6</a>; <a href=\"https://ref.ly/Rev22:8-Rev22:9\">REV 22:8–22:9</a></p>\n<h2>False religion</h2>\n<p><strong><a href=\"https://ref.ly/Judg10:6-Judg10:7\">JDG 10:6–10:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam7:3-1Sam7:4\">1SA 7:3–7:4</a>; <a href=\"https://ref.ly/1Kgs13:33\">1KI 13:33</a>, <a href=\"https://ref.ly/1Kgs14:15-1Kgs14:16\">1KI 14:15–14:16</a>, <a href=\"https://ref.ly/1Kgs14:22-1Kgs14:24\">1KI 14:22–14:24</a>; <a href=\"https://ref.ly/2Chr28:2-2Chr28:4\">2CH 28:2–28:4</a> parallel <a href=\"https://ref.ly/2Kgs16:3-2Kgs16:4\">2KI 16:3–16:4</a>; <a href=\"https://ref.ly/Jer9:14\">JER 9:14</a>, <a href=\"https://ref.ly/Jer44:17-Jer44:18\">JER 44:17–44:18</a>; <a href=\"https://ref.ly/Hos11:2\">HOS 11:2</a></p>\n<h2>Unhelpful speculations</h2>\n<p><strong><a href=\"https://ref.ly/1Tim1:3-1Tim1:4\">1TI 1:3–1:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa65:2-Isa65:3\">ISA 65:2–65:3</a>, <a href=\"https://ref.ly/Isa66:17-Isa66:18\">ISA 66:17–66:18</a>; <a href=\"https://ref.ly/Ezek13:2\">EZK 13:2</a>, <a href=\"https://ref.ly/Ezek13:17\">EZK 13:17</a>; <a href=\"https://ref.ly/1Tim6:3-1Tim6:4\">1TI 6:3–6:4</a></p>\n<h2>The true demonic source of superstition</h2>\n<p><strong><a href=\"https://ref.ly/1Tim4:1\">1TI 4:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev9:20-Rev9:21\">REV 9:20–9:21</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "24010002",
+"start_ref_usfm": "JER 10:2",
+"end_ref": "24010002",
+"end_ref_usfm": "JER 10:2"
+},
+{
+"start_ref": "18015020",
+"start_ref_usfm": "JOB 15:20",
+"end_ref": "18015024",
+"end_ref_usfm": "JOB 15:24"
+},
+{
+"start_ref": "18018011",
+"start_ref_usfm": "JOB 18:11",
+"end_ref": "18018011",
+"end_ref_usfm": "JOB 18:11"
+},
+{
+"start_ref": "40014026",
+"start_ref_usfm": "MAT 14:26",
+"end_ref": "40014027",
+"end_ref_usfm": "MAT 14:27"
+},
+{
+"start_ref": "41006049",
+"start_ref_usfm": "MRK 6:49",
+"end_ref": "41006050",
+"end_ref_usfm": "MRK 6:50"
+},
+{
+"start_ref": "40014002",
+"start_ref_usfm": "MAT 14:2",
+"end_ref": "40014002",
+"end_ref_usfm": "MAT 14:2"
+},
+{
+"start_ref": "41006014",
+"start_ref_usfm": "MRK 6:14",
+"end_ref": "41006014",
+"end_ref_usfm": "MRK 6:14"
+},
+{
+"start_ref": "44005013",
+"start_ref_usfm": "ACT 5:13",
+"end_ref": "44005013",
+"end_ref_usfm": "ACT 5:13"
+},
+{
+"start_ref": "11020023",
+"start_ref_usfm": "1KI 20:23",
+"end_ref": "11020023",
+"end_ref_usfm": "1KI 20:23"
+},
+{
+"start_ref": "11018028",
+"start_ref_usfm": "1KI 18:28",
+"end_ref": "11018028",
+"end_ref_usfm": "1KI 18:28"
+},
+{
+"start_ref": "11020028",
+"start_ref_usfm": "1KI 20:28",
+"end_ref": "11020028",
+"end_ref_usfm": "1KI 20:28"
+},
+{
+"start_ref": "44017023",
+"start_ref_usfm": "ACT 17:23",
+"end_ref": "44017023",
+"end_ref_usfm": "ACT 17:23"
+},
+{
+"start_ref": "44008018",
+"start_ref_usfm": "ACT 8:18",
+"end_ref": "44008019",
+"end_ref_usfm": "ACT 8:19"
+},
+{
+"start_ref": "42024036",
+"start_ref_usfm": "LUK 24:36",
+"end_ref": "42024037",
+"end_ref_usfm": "LUK 24:37"
+},
+{
+"start_ref": "44012015",
+"start_ref_usfm": "ACT 12:15",
+"end_ref": "44012015",
+"end_ref_usfm": "ACT 12:15"
+},
+{
+"start_ref": "44019013",
+"start_ref_usfm": "ACT 19:13",
+"end_ref": "44019013",
+"end_ref_usfm": "ACT 19:13"
+},
+{
+"start_ref": "44028003",
+"start_ref_usfm": "ACT 28:3",
+"end_ref": "44028004",
+"end_ref_usfm": "ACT 28:4"
+},
+{
+"start_ref": "44014011",
+"start_ref_usfm": "ACT 14:11",
+"end_ref": "44014013",
+"end_ref_usfm": "ACT 14:13"
+},
+{
+"start_ref": "44028005",
+"start_ref_usfm": "ACT 28:5",
+"end_ref": "44028006",
+"end_ref_usfm": "ACT 28:6"
+},
+{
+"start_ref": "66022008",
+"start_ref_usfm": "REV 22:8",
+"end_ref": "66022009",
+"end_ref_usfm": "REV 22:9"
+},
+{
+"start_ref": "07010006",
+"start_ref_usfm": "JDG 10:6",
+"end_ref": "07010007",
+"end_ref_usfm": "JDG 10:7"
+},
+{
+"start_ref": "09007003",
+"start_ref_usfm": "1SA 7:3",
+"end_ref": "09007004",
+"end_ref_usfm": "1SA 7:4"
+},
+{
+"start_ref": "11013033",
+"start_ref_usfm": "1KI 13:33",
+"end_ref": "11013033",
+"end_ref_usfm": "1KI 13:33"
+},
+{
+"start_ref": "11014015",
+"start_ref_usfm": "1KI 14:15",
+"end_ref": "11014016",
+"end_ref_usfm": "1KI 14:16"
+},
+{
+"start_ref": "11014022",
+"start_ref_usfm": "1KI 14:22",
+"end_ref": "11014024",
+"end_ref_usfm": "1KI 14:24"
+},
+{
+"start_ref": "14028002",
+"start_ref_usfm": "2CH 28:2",
+"end_ref": "14028004",
+"end_ref_usfm": "2CH 28:4"
+},
+{
+"start_ref": "12016003",
+"start_ref_usfm": "2KI 16:3",
+"end_ref": "12016004",
+"end_ref_usfm": "2KI 16:4"
+},
+{
+"start_ref": "24009014",
+"start_ref_usfm": "JER 9:14",
+"end_ref": "24009014",
+"end_ref_usfm": "JER 9:14"
+},
+{
+"start_ref": "24044017",
+"start_ref_usfm": "JER 44:17",
+"end_ref": "24044018",
+"end_ref_usfm": "JER 44:18"
+},
+{
+"start_ref": "28011002",
+"start_ref_usfm": "HOS 11:2",
+"end_ref": "28011002",
+"end_ref_usfm": "HOS 11:2"
+},
+{
+"start_ref": "54001003",
+"start_ref_usfm": "1TI 1:3",
+"end_ref": "54001004",
+"end_ref_usfm": "1TI 1:4"
+},
+{
+"start_ref": "23065002",
+"start_ref_usfm": "ISA 65:2",
+"end_ref": "23065003",
+"end_ref_usfm": "ISA 65:3"
+},
+{
+"start_ref": "23066017",
+"start_ref_usfm": "ISA 66:17",
+"end_ref": "23066018",
+"end_ref_usfm": "ISA 66:18"
+},
+{
+"start_ref": "26013002",
+"start_ref_usfm": "EZK 13:2",
+"end_ref": "26013002",
+"end_ref_usfm": "EZK 13:2"
+},
+{
+"start_ref": "26013017",
+"start_ref_usfm": "EZK 13:17",
+"end_ref": "26013017",
+"end_ref_usfm": "EZK 13:17"
+},
+{
+"start_ref": "54006003",
+"start_ref_usfm": "1TI 6:3",
+"end_ref": "54006004",
+"end_ref_usfm": "1TI 6:4"
+},
+{
+"start_ref": "54004001",
+"start_ref_usfm": "1TI 4:1",
+"end_ref": "54004001",
+"end_ref_usfm": "1TI 4:1"
+},
+{
+"start_ref": "66009020",
+"start_ref_usfm": "REV 9:20",
+"end_ref": "66009021",
+"end_ref_usfm": "REV 9:21"
+}
+],
+"resource": [
+{
+"reference_id": "1409",
+"content_id": "1409",
+"resource_code": "DictionaryBibleThemes",
+"label": "1409: dream",
+"language": "eng"
+},
+{
+"reference_id": "4130",
+"content_id": "4130",
+"resource_code": "DictionaryBibleThemes",
+"label": "4130: demons",
+"language": "eng"
+},
+{
+"reference_id": "4155",
+"content_id": "4155",
+"resource_code": "DictionaryBibleThemes",
+"label": "4155: divination",
+"language": "eng"
+},
+{
+"reference_id": "4185",
+"content_id": "4185",
+"resource_code": "DictionaryBibleThemes",
+"label": "4185: sorcery and magic",
+"language": "eng"
+},
+{
+"reference_id": "5423",
+"content_id": "5423",
+"resource_code": "DictionaryBibleThemes",
+"label": "5423: myths",
+"language": "eng"
+},
+{
+"reference_id": "5864",
+"content_id": "5864",
+"resource_code": "DictionaryBibleThemes",
+"label": "5864: futility",
+"language": "eng"
+},
+{
+"reference_id": "8333",
+"content_id": "8333",
+"resource_code": "DictionaryBibleThemes",
+"label": "8333: reverence",
+"language": "eng"
+},
+{
+"reference_id": "8709",
+"content_id": "8709",
+"resource_code": "DictionaryBibleThemes",
+"label": "8709: astrology",
+"language": "eng"
+},
+{
+"reference_id": "8747",
+"content_id": "8747",
+"resource_code": "DictionaryBibleThemes",
+"label": "8747: false gods",
+"language": "eng"
+},
+{
+"reference_id": "8748",
+"content_id": "8748",
+"resource_code": "DictionaryBibleThemes",
+"label": "8748: false religion",
+"language": "eng"
+},
+{
+"reference_id": "8750",
+"content_id": "8750",
+"resource_code": "DictionaryBibleThemes",
+"label": "8750: false teachings",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+}
+]
+}
+}
+]

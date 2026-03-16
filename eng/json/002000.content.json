@@ -1,0 +1,158 @@
+[
+{
+"content_id": "8100",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8100: The life of faith",
+"media_type": "Text",
+"index_reference": "8100: the life of faith",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"8102\" data-resourcetype=\"DictionaryOfBibleThemes\">8102: abiding in Christ</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8104\" data-resourcetype=\"DictionaryOfBibleThemes\">8104: assurance</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8110\" data-resourcetype=\"DictionaryOfBibleThemes\">8110: athletics</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8112\" data-resourcetype=\"DictionaryOfBibleThemes\">8112: certainty</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8114\" data-resourcetype=\"DictionaryOfBibleThemes\">8114: discipleship</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8120\" data-resourcetype=\"DictionaryOfBibleThemes\">8120: following Jesus Christ</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8122\" data-resourcetype=\"DictionaryOfBibleThemes\">8122: friendship, with God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8124\" data-resourcetype=\"DictionaryOfBibleThemes\">8124: guidance</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8134\" data-resourcetype=\"DictionaryOfBibleThemes\">8134: knowing God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8138\" data-resourcetype=\"DictionaryOfBibleThemes\">8138: monotheism</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8140\" data-resourcetype=\"DictionaryOfBibleThemes\">8140: prize</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8142\" data-resourcetype=\"DictionaryOfBibleThemes\">8142: religion</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8144\" data-resourcetype=\"DictionaryOfBibleThemes\">8144: renewal</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8148\" data-resourcetype=\"DictionaryOfBibleThemes\">8148: revival</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8154\" data-resourcetype=\"DictionaryOfBibleThemes\">8154: righteousness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8160\" data-resourcetype=\"DictionaryOfBibleThemes\">8160: seeking God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8162\" data-resourcetype=\"DictionaryOfBibleThemes\">8162: spiritual vitality</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8164\" data-resourcetype=\"DictionaryOfBibleThemes\">8164: spirituality</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8166\" data-resourcetype=\"DictionaryOfBibleThemes\">8166: theology</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8168\" data-resourcetype=\"DictionaryOfBibleThemes\">8168: way, the</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8102",
+"content_id": "8102",
+"resource_code": "DictionaryBibleThemes",
+"label": "8102: abiding in Christ",
+"language": "eng"
+},
+{
+"reference_id": "8104",
+"content_id": "8104",
+"resource_code": "DictionaryBibleThemes",
+"label": "8104: assurance",
+"language": "eng"
+},
+{
+"reference_id": "8110",
+"content_id": "8110",
+"resource_code": "DictionaryBibleThemes",
+"label": "8110: athletics",
+"language": "eng"
+},
+{
+"reference_id": "8112",
+"content_id": "8112",
+"resource_code": "DictionaryBibleThemes",
+"label": "8112: certainty",
+"language": "eng"
+},
+{
+"reference_id": "8114",
+"content_id": "8114",
+"resource_code": "DictionaryBibleThemes",
+"label": "8114: discipleship",
+"language": "eng"
+},
+{
+"reference_id": "8120",
+"content_id": "8120",
+"resource_code": "DictionaryBibleThemes",
+"label": "8120: following Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "8122",
+"content_id": "8122",
+"resource_code": "DictionaryBibleThemes",
+"label": "8122: friendship, with God",
+"language": "eng"
+},
+{
+"reference_id": "8124",
+"content_id": "8124",
+"resource_code": "DictionaryBibleThemes",
+"label": "8124: guidance",
+"language": "eng"
+},
+{
+"reference_id": "8134",
+"content_id": "8134",
+"resource_code": "DictionaryBibleThemes",
+"label": "8134: knowing God",
+"language": "eng"
+},
+{
+"reference_id": "8138",
+"content_id": "8138",
+"resource_code": "DictionaryBibleThemes",
+"label": "8138: monotheism",
+"language": "eng"
+},
+{
+"reference_id": "8140",
+"content_id": "8140",
+"resource_code": "DictionaryBibleThemes",
+"label": "8140: prize",
+"language": "eng"
+},
+{
+"reference_id": "8142",
+"content_id": "8142",
+"resource_code": "DictionaryBibleThemes",
+"label": "8142: religion",
+"language": "eng"
+},
+{
+"reference_id": "8144",
+"content_id": "8144",
+"resource_code": "DictionaryBibleThemes",
+"label": "8144: renewal",
+"language": "eng"
+},
+{
+"reference_id": "8148",
+"content_id": "8148",
+"resource_code": "DictionaryBibleThemes",
+"label": "8148: revival",
+"language": "eng"
+},
+{
+"reference_id": "8154",
+"content_id": "8154",
+"resource_code": "DictionaryBibleThemes",
+"label": "8154: righteousness",
+"language": "eng"
+},
+{
+"reference_id": "8160",
+"content_id": "8160",
+"resource_code": "DictionaryBibleThemes",
+"label": "8160: seeking God",
+"language": "eng"
+},
+{
+"reference_id": "8162",
+"content_id": "8162",
+"resource_code": "DictionaryBibleThemes",
+"label": "8162: spiritual vitality",
+"language": "eng"
+},
+{
+"reference_id": "8164",
+"content_id": "8164",
+"resource_code": "DictionaryBibleThemes",
+"label": "8164: spirituality",
+"language": "eng"
+},
+{
+"reference_id": "8166",
+"content_id": "8166",
+"resource_code": "DictionaryBibleThemes",
+"label": "8166: theology",
+"language": "eng"
+},
+{
+"reference_id": "8168",
+"content_id": "8168",
+"resource_code": "DictionaryBibleThemes",
+"label": "8168: way, the",
+"language": "eng"
+}
+]
+}
+}
+]

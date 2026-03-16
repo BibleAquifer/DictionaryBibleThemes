@@ -1,0 +1,223 @@
+[
+{
+"content_id": "5169",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5169: nakedness",
+"media_type": "Text",
+"index_reference": "5169: nakedness",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Nakedness was innocent before the fall</h2>\n<p><a href=\"https://ref.ly/Gen2:25\">GEN 2:25</a></p>\n<h2>The shame of nakedness a result of the fall</h2>\n<p><a href=\"https://ref.ly/Gen3:7-Gen3:11\">GEN 3:7–3:11</a></p>\n<h2>Public exposure of nakedness is indicative of shame or humiliation</h2>\n<p><strong><a href=\"https://ref.ly/Rev3:18\">REV 3:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen9:22-Gen9:23\">GEN 9:22–9:23</a>; <a href=\"https://ref.ly/Exod20:26\">EXO 20:26</a>; <a href=\"https://ref.ly/Isa47:3\">ISA 47:3</a>; <a href=\"https://ref.ly/Ezek16:8\">EZK 16:8</a>, <a href=\"https://ref.ly/Ezek16:35-Ezek16:37\">EZK 16:35–16:37</a>; <a href=\"https://ref.ly/Hos2:9-Hos2:10\">HOS 2:9–2:10</a>; <a href=\"https://ref.ly/Amos2:16\">AMO 2:16</a>; <a href=\"https://ref.ly/Nah3:5\">NAM 3:5</a>; <a href=\"https://ref.ly/Hab2:15\">HAB 2:15</a>; <a href=\"https://ref.ly/Rev17:16\">REV 17:16</a></p>\n<h2>Exposure of nakedness is symbolic of adultery and prostitution</h2>\n<p><strong><a href=\"https://ref.ly/Ezek23:18\">EZK 23:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa57:8\">ISA 57:8</a>; <a href=\"https://ref.ly/Lam1:8\">LAM 1:8</a>; <a href=\"https://ref.ly/Ezek16:36\">EZK 16:36</a></p>\n<h2>Nakedness is symbolic of dire poverty</h2>\n<p><strong><a href=\"https://ref.ly/Rev3:17\">REV 3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut28:48\">DEU 28:48</a>; <a href=\"https://ref.ly/2Chr28:15\">2CH 28:15</a>; <a href=\"https://ref.ly/Job1:21\">JOB 1:21</a>, <a href=\"https://ref.ly/Job24:4-Job24:10\">JOB 24:4–24:10</a>; <a href=\"https://ref.ly/Isa58:6-Isa58:7\">ISA 58:6–58:7</a>; <a href=\"https://ref.ly/Mic1:8\">MIC 1:8</a>, <a href=\"https://ref.ly/Mic1:11\">MIC 1:11</a>; <a href=\"https://ref.ly/Rom8:35\">ROM 8:35</a>; <a href=\"https://ref.ly/2Cor11:27\">2CO 11:27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01002025",
+"start_ref_usfm": "GEN 2:25",
+"end_ref": "01002025",
+"end_ref_usfm": "GEN 2:25"
+},
+{
+"start_ref": "01003007",
+"start_ref_usfm": "GEN 3:7",
+"end_ref": "01003011",
+"end_ref_usfm": "GEN 3:11"
+},
+{
+"start_ref": "66003018",
+"start_ref_usfm": "REV 3:18",
+"end_ref": "66003018",
+"end_ref_usfm": "REV 3:18"
+},
+{
+"start_ref": "01009022",
+"start_ref_usfm": "GEN 9:22",
+"end_ref": "01009023",
+"end_ref_usfm": "GEN 9:23"
+},
+{
+"start_ref": "02020026",
+"start_ref_usfm": "EXO 20:26",
+"end_ref": "02020026",
+"end_ref_usfm": "EXO 20:26"
+},
+{
+"start_ref": "23047003",
+"start_ref_usfm": "ISA 47:3",
+"end_ref": "23047003",
+"end_ref_usfm": "ISA 47:3"
+},
+{
+"start_ref": "26016008",
+"start_ref_usfm": "EZK 16:8",
+"end_ref": "26016008",
+"end_ref_usfm": "EZK 16:8"
+},
+{
+"start_ref": "26016035",
+"start_ref_usfm": "EZK 16:35",
+"end_ref": "26016037",
+"end_ref_usfm": "EZK 16:37"
+},
+{
+"start_ref": "28002009",
+"start_ref_usfm": "HOS 2:9",
+"end_ref": "28002010",
+"end_ref_usfm": "HOS 2:10"
+},
+{
+"start_ref": "30002016",
+"start_ref_usfm": "AMO 2:16",
+"end_ref": "30002016",
+"end_ref_usfm": "AMO 2:16"
+},
+{
+"start_ref": "34003005",
+"start_ref_usfm": "NAM 3:5",
+"end_ref": "34003005",
+"end_ref_usfm": "NAM 3:5"
+},
+{
+"start_ref": "35002015",
+"start_ref_usfm": "HAB 2:15",
+"end_ref": "35002015",
+"end_ref_usfm": "HAB 2:15"
+},
+{
+"start_ref": "66017016",
+"start_ref_usfm": "REV 17:16",
+"end_ref": "66017016",
+"end_ref_usfm": "REV 17:16"
+},
+{
+"start_ref": "26023018",
+"start_ref_usfm": "EZK 23:18",
+"end_ref": "26023018",
+"end_ref_usfm": "EZK 23:18"
+},
+{
+"start_ref": "23057008",
+"start_ref_usfm": "ISA 57:8",
+"end_ref": "23057008",
+"end_ref_usfm": "ISA 57:8"
+},
+{
+"start_ref": "25001008",
+"start_ref_usfm": "LAM 1:8",
+"end_ref": "25001008",
+"end_ref_usfm": "LAM 1:8"
+},
+{
+"start_ref": "26016036",
+"start_ref_usfm": "EZK 16:36",
+"end_ref": "26016036",
+"end_ref_usfm": "EZK 16:36"
+},
+{
+"start_ref": "66003017",
+"start_ref_usfm": "REV 3:17",
+"end_ref": "66003017",
+"end_ref_usfm": "REV 3:17"
+},
+{
+"start_ref": "05028048",
+"start_ref_usfm": "DEU 28:48",
+"end_ref": "05028048",
+"end_ref_usfm": "DEU 28:48"
+},
+{
+"start_ref": "14028015",
+"start_ref_usfm": "2CH 28:15",
+"end_ref": "14028015",
+"end_ref_usfm": "2CH 28:15"
+},
+{
+"start_ref": "18001021",
+"start_ref_usfm": "JOB 1:21",
+"end_ref": "18001021",
+"end_ref_usfm": "JOB 1:21"
+},
+{
+"start_ref": "18024004",
+"start_ref_usfm": "JOB 24:4",
+"end_ref": "18024010",
+"end_ref_usfm": "JOB 24:10"
+},
+{
+"start_ref": "23058006",
+"start_ref_usfm": "ISA 58:6",
+"end_ref": "23058007",
+"end_ref_usfm": "ISA 58:7"
+},
+{
+"start_ref": "33001008",
+"start_ref_usfm": "MIC 1:8",
+"end_ref": "33001008",
+"end_ref_usfm": "MIC 1:8"
+},
+{
+"start_ref": "33001011",
+"start_ref_usfm": "MIC 1:11",
+"end_ref": "33001011",
+"end_ref_usfm": "MIC 1:11"
+},
+{
+"start_ref": "45008035",
+"start_ref_usfm": "ROM 8:35",
+"end_ref": "45008035",
+"end_ref_usfm": "ROM 8:35"
+},
+{
+"start_ref": "47011027",
+"start_ref_usfm": "2CO 11:27",
+"end_ref": "47011027",
+"end_ref_usfm": "2CO 11:27"
+}
+],
+"resource": [
+{
+"reference_id": "5446",
+"content_id": "5446",
+"resource_code": "DictionaryBibleThemes",
+"label": "5446: poverty",
+"language": "eng"
+},
+{
+"reference_id": "5947",
+"content_id": "5947",
+"resource_code": "DictionaryBibleThemes",
+"label": "5947: shame",
+"language": "eng"
+},
+{
+"reference_id": "6155",
+"content_id": "6155",
+"resource_code": "DictionaryBibleThemes",
+"label": "6155: fall, of Adam and Eve",
+"language": "eng"
+},
+{
+"reference_id": "6239",
+"content_id": "6239",
+"resource_code": "DictionaryBibleThemes",
+"label": "6239: prostitution",
+"language": "eng"
+},
+{
+"reference_id": "6243",
+"content_id": "6243",
+"resource_code": "DictionaryBibleThemes",
+"label": "6243: adultery, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "8277",
+"content_id": "8277",
+"resource_code": "DictionaryBibleThemes",
+"label": "8277: innocence",
+"language": "eng"
+}
+]
+}
+}
+]

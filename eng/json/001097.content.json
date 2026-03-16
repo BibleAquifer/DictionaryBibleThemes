@@ -1,0 +1,258 @@
+[
+{
+"content_id": "5529",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5529: sieges",
+"media_type": "Text",
+"index_reference": "5529: sieges",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Sustained battle against fortified cities, preventing renewal of supplies; a common tactic in OT times. Samaria and Jerusalem both fell to sieges.</p>\n<h2>Sieges used by and against Israel</h2>\n<p><a href=\"https://ref.ly/Deut20:12\">DEU 20:12</a>, <a href=\"https://ref.ly/Deut20:19-Deut20:20\">DEU 20:19–20:20</a>; ; <a href=\"https://ref.ly/Judg9:50\">JDG 9:50</a>; ; <a href=\"https://ref.ly/1Sam11:1\">1SA 11:1</a>; ; <a href=\"https://ref.ly/2Sam11:1\">2SA 11:1</a>, <a href=\"https://ref.ly/2Sam20:15\">2SA 20:15</a></p>\n<h2>Ben-Hadad II twice besieged Samaria, unsuccessfully</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs20:1\">1KI 20:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs20:15-1Kgs20:20\">1KI 20:15–20:20</a>; <a href=\"https://ref.ly/2Kgs6:24\">2KI 6:24</a>, <a href=\"https://ref.ly/2Kgs7:3-2Kgs7:7\">2KI 7:3–7:7</a></p>\n<h2>Shalmaneser V besieged Samaria</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs17:5-2Kgs17:6\">2KI 17:5–17:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs18:9-2Kgs18:12\">2KI 18:9–18:12</a></p>\n<h2>Sennacherib besieged Jerusalem, unsuccessfully</h2>\n<p><a href=\"https://ref.ly/2Kgs18:17\">2KI 18:17</a>, <a href=\"https://ref.ly/2Kgs18:35-2Kgs18:36\">2KI 18:35–18:36</a>; ; <a href=\"https://ref.ly/2Chr32:1-2Chr32:5\">2CH 32:1–32:5</a>; ; <a href=\"https://ref.ly/Isa29:5-Isa29:8\">ISA 29:5–29:8</a>, <a href=\"https://ref.ly/Isa37:36-Isa37:37\">ISA 37:36–37:37</a></p>\n<h2>Nebuchadnezzar besieged Jerusalem</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs25:1\">2KI 25:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs25:2-2Kgs25:11\">2KI 25:2–25:11</a> parallel <a href=\"https://ref.ly/Jer39:1-Jer39:10\">JER 39:1–39:10</a>; <a href=\"https://ref.ly/2Chr36:17-2Chr36:20\">2CH 36:17–36:20</a> parallel <a href=\"https://ref.ly/Jer52:4-Jer52:15\">JER 52:4–52:15</a></p>\n<h2>Jesus Christ warned that Jerusalem would be besieged and destroyed</h2>\n<p><strong><a href=\"https://ref.ly/Luke19:43\">LUK 19:43</a></strong> <em>The Roman army destroyed Jerusalem in A.D. 70 using an embankment to besiege the city.</em> <em>See also</em> <a href=\"https://ref.ly/Luke21:20-Luke21:24\">LUK 21:20–21:24</a></p>\n<h2>Sieges caused great suffering and people adopted desperate measures for survival</h2>\n<p><a href=\"https://ref.ly/Deut28:51-Deut28:57\">DEU 28:51–28:57</a>; ; <a href=\"https://ref.ly/2Kgs6:24-2Kgs6:29\">2KI 6:24–6:29</a>, <a href=\"https://ref.ly/2Kgs18:27\">2KI 18:27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05020012",
+"start_ref_usfm": "DEU 20:12",
+"end_ref": "05020012",
+"end_ref_usfm": "DEU 20:12"
+},
+{
+"start_ref": "05020019",
+"start_ref_usfm": "DEU 20:19",
+"end_ref": "05020020",
+"end_ref_usfm": "DEU 20:20"
+},
+{
+"start_ref": "07009050",
+"start_ref_usfm": "JDG 9:50",
+"end_ref": "07009050",
+"end_ref_usfm": "JDG 9:50"
+},
+{
+"start_ref": "09011001",
+"start_ref_usfm": "1SA 11:1",
+"end_ref": "09011001",
+"end_ref_usfm": "1SA 11:1"
+},
+{
+"start_ref": "10011001",
+"start_ref_usfm": "2SA 11:1",
+"end_ref": "10011001",
+"end_ref_usfm": "2SA 11:1"
+},
+{
+"start_ref": "10020015",
+"start_ref_usfm": "2SA 20:15",
+"end_ref": "10020015",
+"end_ref_usfm": "2SA 20:15"
+},
+{
+"start_ref": "11020001",
+"start_ref_usfm": "1KI 20:1",
+"end_ref": "11020001",
+"end_ref_usfm": "1KI 20:1"
+},
+{
+"start_ref": "11020015",
+"start_ref_usfm": "1KI 20:15",
+"end_ref": "11020020",
+"end_ref_usfm": "1KI 20:20"
+},
+{
+"start_ref": "12006024",
+"start_ref_usfm": "2KI 6:24",
+"end_ref": "12006024",
+"end_ref_usfm": "2KI 6:24"
+},
+{
+"start_ref": "12007003",
+"start_ref_usfm": "2KI 7:3",
+"end_ref": "12007007",
+"end_ref_usfm": "2KI 7:7"
+},
+{
+"start_ref": "12017005",
+"start_ref_usfm": "2KI 17:5",
+"end_ref": "12017006",
+"end_ref_usfm": "2KI 17:6"
+},
+{
+"start_ref": "12018009",
+"start_ref_usfm": "2KI 18:9",
+"end_ref": "12018012",
+"end_ref_usfm": "2KI 18:12"
+},
+{
+"start_ref": "12018017",
+"start_ref_usfm": "2KI 18:17",
+"end_ref": "12018017",
+"end_ref_usfm": "2KI 18:17"
+},
+{
+"start_ref": "12018035",
+"start_ref_usfm": "2KI 18:35",
+"end_ref": "12018036",
+"end_ref_usfm": "2KI 18:36"
+},
+{
+"start_ref": "14032001",
+"start_ref_usfm": "2CH 32:1",
+"end_ref": "14032005",
+"end_ref_usfm": "2CH 32:5"
+},
+{
+"start_ref": "23029005",
+"start_ref_usfm": "ISA 29:5",
+"end_ref": "23029008",
+"end_ref_usfm": "ISA 29:8"
+},
+{
+"start_ref": "23037036",
+"start_ref_usfm": "ISA 37:36",
+"end_ref": "23037037",
+"end_ref_usfm": "ISA 37:37"
+},
+{
+"start_ref": "12025001",
+"start_ref_usfm": "2KI 25:1",
+"end_ref": "12025001",
+"end_ref_usfm": "2KI 25:1"
+},
+{
+"start_ref": "12025002",
+"start_ref_usfm": "2KI 25:2",
+"end_ref": "12025011",
+"end_ref_usfm": "2KI 25:11"
+},
+{
+"start_ref": "24039001",
+"start_ref_usfm": "JER 39:1",
+"end_ref": "24039010",
+"end_ref_usfm": "JER 39:10"
+},
+{
+"start_ref": "14036017",
+"start_ref_usfm": "2CH 36:17",
+"end_ref": "14036020",
+"end_ref_usfm": "2CH 36:20"
+},
+{
+"start_ref": "24052004",
+"start_ref_usfm": "JER 52:4",
+"end_ref": "24052015",
+"end_ref_usfm": "JER 52:15"
+},
+{
+"start_ref": "42019043",
+"start_ref_usfm": "LUK 19:43",
+"end_ref": "42019043",
+"end_ref_usfm": "LUK 19:43"
+},
+{
+"start_ref": "42021020",
+"start_ref_usfm": "LUK 21:20",
+"end_ref": "42021024",
+"end_ref_usfm": "LUK 21:24"
+},
+{
+"start_ref": "05028051",
+"start_ref_usfm": "DEU 28:51",
+"end_ref": "05028057",
+"end_ref_usfm": "DEU 28:57"
+},
+{
+"start_ref": "12006024",
+"start_ref_usfm": "2KI 6:24",
+"end_ref": "12006029",
+"end_ref_usfm": "2KI 6:29"
+},
+{
+"start_ref": "12018027",
+"start_ref_usfm": "2KI 18:27",
+"end_ref": "12018027",
+"end_ref_usfm": "2KI 18:27"
+}
+],
+"resource": [
+{
+"reference_id": "5208",
+"content_id": "5208",
+"resource_code": "DictionaryBibleThemes",
+"label": "5208: armies",
+"language": "eng"
+},
+{
+"reference_id": "5214",
+"content_id": "5214",
+"resource_code": "DictionaryBibleThemes",
+"label": "5214: attack",
+"language": "eng"
+},
+{
+"reference_id": "5228",
+"content_id": "5228",
+"resource_code": "DictionaryBibleThemes",
+"label": "5228: battering-rams",
+"language": "eng"
+},
+{
+"reference_id": "5244",
+"content_id": "5244",
+"resource_code": "DictionaryBibleThemes",
+"label": "5244: camp",
+"language": "eng"
+},
+{
+"reference_id": "5246",
+"content_id": "5246",
+"resource_code": "DictionaryBibleThemes",
+"label": "5246: captivity",
+"language": "eng"
+},
+{
+"reference_id": "5344",
+"content_id": "5344",
+"resource_code": "DictionaryBibleThemes",
+"label": "5344: imprisonment",
+"language": "eng"
+},
+{
+"reference_id": "5354",
+"content_id": "5354",
+"resource_code": "DictionaryBibleThemes",
+"label": "5354: invasions",
+"language": "eng"
+},
+{
+"reference_id": "5605",
+"content_id": "5605",
+"resource_code": "DictionaryBibleThemes",
+"label": "5605: warfare",
+"language": "eng"
+},
+{
+"reference_id": "7215",
+"content_id": "7215",
+"resource_code": "DictionaryBibleThemes",
+"label": "7215: exile, the",
+"language": "eng"
+},
+{
+"reference_id": "7239",
+"content_id": "7239",
+"resource_code": "DictionaryBibleThemes",
+"label": "7239: Jerusalem",
+"language": "eng"
+},
+{
+"reference_id": "9220",
+"content_id": "9220",
+"resource_code": "DictionaryBibleThemes",
+"label": "9220: day of the LORD",
+"language": "eng"
+}
+]
+}
+}
+]

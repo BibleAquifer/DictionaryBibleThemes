@@ -1,0 +1,202 @@
+[
+{
+"content_id": "3245",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "3245: Holy Spirit, blasphemy against",
+"media_type": "Text",
+"index_reference": "3245: holy spirit, blasphemy against",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The denial of the action of the Holy Spirit in the ministry of Jesus Christ, or the attribution of his works to demonic influence.</p>\n<h2>Jesus Christ warns against blasphemy</h2>\n<p><strong><a href=\"https://ref.ly/Mark3:29\">MRK 3:29</a></strong> parallels <a href=\"https://ref.ly/Matt12:31-Matt12:32\">MAT 12:31–12:32</a>, <a href=\"https://ref.ly/Luke12:10\">LUK 12:10</a> <em>See also</em> <a href=\"https://ref.ly/1John5:16\">1JN 5:16</a></p>\n<h2>Blasphemy as erroneously attributing the work of the Holy Spirit to demonic influence</h2>\n<h3>Jesus Christ is accused of being possessed by demons</h3>\n<p><strong><a href=\"https://ref.ly/Mark3:22\">MRK 3:22</a></strong> parallels <a href=\"https://ref.ly/Matt12:24\">MAT 12:24</a>, <a href=\"https://ref.ly/Luke11:15\">LUK 11:15</a> <em>See also</em> <a href=\"https://ref.ly/Matt10:25\">MAT 10:25</a>; <a href=\"https://ref.ly/John7:20\">JHN 7:20</a>, <a href=\"https://ref.ly/John8:48\">JHN 8:48</a>, <a href=\"https://ref.ly/John8:52\">JHN 8:52</a>, <a href=\"https://ref.ly/John10:20\">JHN 10:20</a></p>\n<h3>Jesus Christ is accused of casting out demons by demonic power</h3>\n<p><strong><a href=\"https://ref.ly/Matt9:34\">MAT 9:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt12:24\">MAT 12:24</a> parallels <a href=\"https://ref.ly/Mark3:22\">MRK 3:22</a>, <a href=\"https://ref.ly/Luke11:15\">LUK 11:15</a></p>\n<h3>Jesus Christ refutes these charges</h3>\n<p><a href=\"https://ref.ly/Matt12:25-Matt12:29\">MAT 12:25–12:29</a> parallels <a href=\"https://ref.ly/Mark3:23-Mark3:27\">MRK 3:23–3:27</a>, <a href=\"https://ref.ly/Luke11:17-Luke11:22\">LUK 11:17–11:22</a></p>\n<h2>Blasphemy as acting in ways which deny the Holy Spirit's work</h2>\n<p><strong><a href=\"https://ref.ly/Acts5:3\">ACT 5:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa63:10\">ISA 63:10</a>; <a href=\"https://ref.ly/1Thess5:19\">1TH 5:19</a>; <a href=\"https://ref.ly/Heb10:26-Heb10:31\">HEB 10:26–10:31</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41003029",
+"start_ref_usfm": "MRK 3:29",
+"end_ref": "41003029",
+"end_ref_usfm": "MRK 3:29"
+},
+{
+"start_ref": "40012031",
+"start_ref_usfm": "MAT 12:31",
+"end_ref": "40012032",
+"end_ref_usfm": "MAT 12:32"
+},
+{
+"start_ref": "42012010",
+"start_ref_usfm": "LUK 12:10",
+"end_ref": "42012010",
+"end_ref_usfm": "LUK 12:10"
+},
+{
+"start_ref": "62005016",
+"start_ref_usfm": "1JN 5:16",
+"end_ref": "62005016",
+"end_ref_usfm": "1JN 5:16"
+},
+{
+"start_ref": "41003022",
+"start_ref_usfm": "MRK 3:22",
+"end_ref": "41003022",
+"end_ref_usfm": "MRK 3:22"
+},
+{
+"start_ref": "40012024",
+"start_ref_usfm": "MAT 12:24",
+"end_ref": "40012024",
+"end_ref_usfm": "MAT 12:24"
+},
+{
+"start_ref": "42011015",
+"start_ref_usfm": "LUK 11:15",
+"end_ref": "42011015",
+"end_ref_usfm": "LUK 11:15"
+},
+{
+"start_ref": "40010025",
+"start_ref_usfm": "MAT 10:25",
+"end_ref": "40010025",
+"end_ref_usfm": "MAT 10:25"
+},
+{
+"start_ref": "43007020",
+"start_ref_usfm": "JHN 7:20",
+"end_ref": "43007020",
+"end_ref_usfm": "JHN 7:20"
+},
+{
+"start_ref": "43008048",
+"start_ref_usfm": "JHN 8:48",
+"end_ref": "43008048",
+"end_ref_usfm": "JHN 8:48"
+},
+{
+"start_ref": "43008052",
+"start_ref_usfm": "JHN 8:52",
+"end_ref": "43008052",
+"end_ref_usfm": "JHN 8:52"
+},
+{
+"start_ref": "43010020",
+"start_ref_usfm": "JHN 10:20",
+"end_ref": "43010020",
+"end_ref_usfm": "JHN 10:20"
+},
+{
+"start_ref": "40009034",
+"start_ref_usfm": "MAT 9:34",
+"end_ref": "40009034",
+"end_ref_usfm": "MAT 9:34"
+},
+{
+"start_ref": "40012025",
+"start_ref_usfm": "MAT 12:25",
+"end_ref": "40012029",
+"end_ref_usfm": "MAT 12:29"
+},
+{
+"start_ref": "41003023",
+"start_ref_usfm": "MRK 3:23",
+"end_ref": "41003027",
+"end_ref_usfm": "MRK 3:27"
+},
+{
+"start_ref": "42011017",
+"start_ref_usfm": "LUK 11:17",
+"end_ref": "42011022",
+"end_ref_usfm": "LUK 11:22"
+},
+{
+"start_ref": "44005003",
+"start_ref_usfm": "ACT 5:3",
+"end_ref": "44005003",
+"end_ref_usfm": "ACT 5:3"
+},
+{
+"start_ref": "23063010",
+"start_ref_usfm": "ISA 63:10",
+"end_ref": "23063010",
+"end_ref_usfm": "ISA 63:10"
+},
+{
+"start_ref": "52005019",
+"start_ref_usfm": "1TH 5:19",
+"end_ref": "52005019",
+"end_ref_usfm": "1TH 5:19"
+},
+{
+"start_ref": "58010026",
+"start_ref_usfm": "HEB 10:26",
+"end_ref": "58010031",
+"end_ref_usfm": "HEB 10:31"
+}
+],
+"resource": [
+{
+"reference_id": "2372",
+"content_id": "2372",
+"resource_code": "DictionaryBibleThemes",
+"label": "2372: Jesus Christ, victory of",
+"language": "eng"
+},
+{
+"reference_id": "3284",
+"content_id": "3284",
+"resource_code": "DictionaryBibleThemes",
+"label": "3284: Holy Spirit, resisting",
+"language": "eng"
+},
+{
+"reference_id": "3293",
+"content_id": "3293",
+"resource_code": "DictionaryBibleThemes",
+"label": "3293: Holy Spirit, witness of",
+"language": "eng"
+},
+{
+"reference_id": "4130",
+"content_id": "4130",
+"resource_code": "DictionaryBibleThemes",
+"label": "4130: demons",
+"language": "eng"
+},
+{
+"reference_id": "4165",
+"content_id": "4165",
+"resource_code": "DictionaryBibleThemes",
+"label": "4165: exorcism",
+"language": "eng"
+},
+{
+"reference_id": "5800",
+"content_id": "5800",
+"resource_code": "DictionaryBibleThemes",
+"label": "5800: blasphemy",
+"language": "eng"
+},
+{
+"reference_id": "6020",
+"content_id": "6020",
+"resource_code": "DictionaryBibleThemes",
+"label": "6020: sin",
+"language": "eng"
+},
+{
+"reference_id": "6652",
+"content_id": "6652",
+"resource_code": "DictionaryBibleThemes",
+"label": "6652: forgiveness",
+"language": "eng"
+},
+{
+"reference_id": "8843",
+"content_id": "8843",
+"resource_code": "DictionaryBibleThemes",
+"label": "8843: unforgivable sin",
+"language": "eng"
+}
+]
+}
+}
+]

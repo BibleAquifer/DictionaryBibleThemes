@@ -1,0 +1,39 @@
+[
+{
+"content_id": "6172",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6172: guilt",
+"media_type": "Text",
+"index_reference": "6172: guilt",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Primarily a state of being at fault, often accompanied by a feeling of being in the wrong. Scripture affirms that human guilt arises from sin before God, and can only be purged through accepting the forgiveness offered through the death of Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6173",
+"content_id": "6173",
+"resource_code": "DictionaryBibleThemes",
+"label": "6173: guilt, and God",
+"language": "eng"
+},
+{
+"reference_id": "6174",
+"content_id": "6174",
+"resource_code": "DictionaryBibleThemes",
+"label": "6174: guilt, human aspects of",
+"language": "eng"
+},
+{
+"reference_id": "6175",
+"content_id": "6175",
+"resource_code": "DictionaryBibleThemes",
+"label": "6175: guilt, removal of",
+"language": "eng"
+}
+]
+}
+}
+]

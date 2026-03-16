@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8213",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8213: confidence",
+"media_type": "Text",
+"index_reference": "8213: confidence",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A state of self-assurance regarding one's status or ability, often grounded in human achievements. Scripture insists that Christian confidence is to be grounded in what God has done for believers, rather than in what they themselves have achieved.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8214",
+"content_id": "8214",
+"resource_code": "DictionaryBibleThemes",
+"label": "8214: confidence, basis of",
+"language": "eng"
+},
+{
+"reference_id": "8215",
+"content_id": "8215",
+"resource_code": "DictionaryBibleThemes",
+"label": "8215: confidence, results of",
+"language": "eng"
+}
+]
+}
+}
+]

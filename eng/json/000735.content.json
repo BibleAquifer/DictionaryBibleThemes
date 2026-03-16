@@ -1,0 +1,242 @@
+[
+{
+"content_id": "5146",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5146: covering",
+"media_type": "Text",
+"index_reference": "5146: covering",
+"language": "eng",
+"review_level": "None",
+"content": "<p>That which literally or metaphorically hides from the human or divine eye what should not be seen.</p>\n<h2>Covering for the human body</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:7\">GEN 3:7</a></strong>; <strong><a href=\"https://ref.ly/Ezek16:8\">EZK 16:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen9:23\">GEN 9:23</a>; <a href=\"https://ref.ly/Exod22:26-Exod22:27\">EXO 22:26–22:27</a>, <a href=\"https://ref.ly/Exod28:42\">EXO 28:42</a>; <a href=\"https://ref.ly/Isa47:3\">ISA 47:3</a>, <a href=\"https://ref.ly/Isa57:8\">ISA 57:8</a>; <a href=\"https://ref.ly/Ezek16:10\">EZK 16:10</a>; <a href=\"https://ref.ly/Hos2:9\">HOS 2:9</a>; <a href=\"https://ref.ly/Jonah3:6\">JON 3:6</a>; <a href=\"https://ref.ly/Rev3:18\">REV 3:18</a></p>\n<h2>Covering as a sign of submission or humility</h2>\n<p><strong><a href=\"https://ref.ly/Isa6:2\">ISA 6:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen24:65\">GEN 24:65</a>; <a href=\"https://ref.ly/1Cor11:5-1Cor11:15\">1CO 11:5–11:15</a> <em>Some suggest that this passage refers either to a woman's modesty or to her dignity considering her new Christian status of equality with man.</em></p>\n<h2>The covering of human sin through atonement</h2>\n<p><strong><a href=\"https://ref.ly/Ps32:1-Ps32:2\">PSA 32:1–32:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen20:16\">GEN 20:16</a>; <a href=\"https://ref.ly/Lev4:20\">LEV 4:20</a> <em>The word translated “atonement” literally means “covering”</em>; <a href=\"https://ref.ly/Neh4:5\">NEH 4:5</a>; <a href=\"https://ref.ly/Job14:17\">JOB 14:17</a>; <a href=\"https://ref.ly/Ps32:5\">PSA 32:5</a>, <a href=\"https://ref.ly/Ps85:2\">PSA 85:2</a>; <a href=\"https://ref.ly/Prov17:9\">PRO 17:9</a>; <a href=\"https://ref.ly/Rom4:7-Rom4:8\">ROM 4:7–4:8</a>; <a href=\"https://ref.ly/Jas5:20\">JAS 5:20</a>; <a href=\"https://ref.ly/1Pet4:8\">1PE 4:8</a></p>\n<h2>Natural phenomena as God's covering</h2>\n<p><strong><a href=\"https://ref.ly/Ps18:11\">PSA 18:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod19:18\">EXO 19:18</a>; <a href=\"https://ref.ly/Num9:15-Num9:16\">NUM 9:15–9:16</a>; <a href=\"https://ref.ly/Ps105:39\">PSA 105:39</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01003007",
+"start_ref_usfm": "GEN 3:7",
+"end_ref": "01003007",
+"end_ref_usfm": "GEN 3:7"
+},
+{
+"start_ref": "26016008",
+"start_ref_usfm": "EZK 16:8",
+"end_ref": "26016008",
+"end_ref_usfm": "EZK 16:8"
+},
+{
+"start_ref": "01009023",
+"start_ref_usfm": "GEN 9:23",
+"end_ref": "01009023",
+"end_ref_usfm": "GEN 9:23"
+},
+{
+"start_ref": "02022026",
+"start_ref_usfm": "EXO 22:26",
+"end_ref": "02022027",
+"end_ref_usfm": "EXO 22:27"
+},
+{
+"start_ref": "02028042",
+"start_ref_usfm": "EXO 28:42",
+"end_ref": "02028042",
+"end_ref_usfm": "EXO 28:42"
+},
+{
+"start_ref": "23047003",
+"start_ref_usfm": "ISA 47:3",
+"end_ref": "23047003",
+"end_ref_usfm": "ISA 47:3"
+},
+{
+"start_ref": "23057008",
+"start_ref_usfm": "ISA 57:8",
+"end_ref": "23057008",
+"end_ref_usfm": "ISA 57:8"
+},
+{
+"start_ref": "26016010",
+"start_ref_usfm": "EZK 16:10",
+"end_ref": "26016010",
+"end_ref_usfm": "EZK 16:10"
+},
+{
+"start_ref": "28002009",
+"start_ref_usfm": "HOS 2:9",
+"end_ref": "28002009",
+"end_ref_usfm": "HOS 2:9"
+},
+{
+"start_ref": "32003006",
+"start_ref_usfm": "JON 3:6",
+"end_ref": "32003006",
+"end_ref_usfm": "JON 3:6"
+},
+{
+"start_ref": "66003018",
+"start_ref_usfm": "REV 3:18",
+"end_ref": "66003018",
+"end_ref_usfm": "REV 3:18"
+},
+{
+"start_ref": "23006002",
+"start_ref_usfm": "ISA 6:2",
+"end_ref": "23006002",
+"end_ref_usfm": "ISA 6:2"
+},
+{
+"start_ref": "01024065",
+"start_ref_usfm": "GEN 24:65",
+"end_ref": "01024065",
+"end_ref_usfm": "GEN 24:65"
+},
+{
+"start_ref": "46011005",
+"start_ref_usfm": "1CO 11:5",
+"end_ref": "46011015",
+"end_ref_usfm": "1CO 11:15"
+},
+{
+"start_ref": "19032001",
+"start_ref_usfm": "PSA 32:1",
+"end_ref": "19032002",
+"end_ref_usfm": "PSA 32:2"
+},
+{
+"start_ref": "01020016",
+"start_ref_usfm": "GEN 20:16",
+"end_ref": "01020016",
+"end_ref_usfm": "GEN 20:16"
+},
+{
+"start_ref": "03004020",
+"start_ref_usfm": "LEV 4:20",
+"end_ref": "03004020",
+"end_ref_usfm": "LEV 4:20"
+},
+{
+"start_ref": "16004005",
+"start_ref_usfm": "NEH 4:5",
+"end_ref": "16004005",
+"end_ref_usfm": "NEH 4:5"
+},
+{
+"start_ref": "18014017",
+"start_ref_usfm": "JOB 14:17",
+"end_ref": "18014017",
+"end_ref_usfm": "JOB 14:17"
+},
+{
+"start_ref": "19032005",
+"start_ref_usfm": "PSA 32:5",
+"end_ref": "19032005",
+"end_ref_usfm": "PSA 32:5"
+},
+{
+"start_ref": "19085002",
+"start_ref_usfm": "PSA 85:2",
+"end_ref": "19085002",
+"end_ref_usfm": "PSA 85:2"
+},
+{
+"start_ref": "20017009",
+"start_ref_usfm": "PRO 17:9",
+"end_ref": "20017009",
+"end_ref_usfm": "PRO 17:9"
+},
+{
+"start_ref": "45004007",
+"start_ref_usfm": "ROM 4:7",
+"end_ref": "45004008",
+"end_ref_usfm": "ROM 4:8"
+},
+{
+"start_ref": "59005020",
+"start_ref_usfm": "JAS 5:20",
+"end_ref": "59005020",
+"end_ref_usfm": "JAS 5:20"
+},
+{
+"start_ref": "60004008",
+"start_ref_usfm": "1PE 4:8",
+"end_ref": "60004008",
+"end_ref_usfm": "1PE 4:8"
+},
+{
+"start_ref": "19018011",
+"start_ref_usfm": "PSA 18:11",
+"end_ref": "19018011",
+"end_ref_usfm": "PSA 18:11"
+},
+{
+"start_ref": "02019018",
+"start_ref_usfm": "EXO 19:18",
+"end_ref": "02019018",
+"end_ref_usfm": "EXO 19:18"
+},
+{
+"start_ref": "04009015",
+"start_ref_usfm": "NUM 9:15",
+"end_ref": "04009016",
+"end_ref_usfm": "NUM 9:16"
+},
+{
+"start_ref": "19105039",
+"start_ref_usfm": "PSA 105:39",
+"end_ref": "19105039",
+"end_ref_usfm": "PSA 105:39"
+}
+],
+"resource": [
+{
+"reference_id": "5145",
+"content_id": "5145",
+"resource_code": "DictionaryBibleThemes",
+"label": "5145: clothing",
+"language": "eng"
+},
+{
+"reference_id": "5158",
+"content_id": "5158",
+"resource_code": "DictionaryBibleThemes",
+"label": "5158: head-covering",
+"language": "eng"
+},
+{
+"reference_id": "5169",
+"content_id": "5169",
+"resource_code": "DictionaryBibleThemes",
+"label": "5169: nakedness",
+"language": "eng"
+},
+{
+"reference_id": "5195",
+"content_id": "5195",
+"resource_code": "DictionaryBibleThemes",
+"label": "5195: veil",
+"language": "eng"
+},
+{
+"reference_id": "5258",
+"content_id": "5258",
+"resource_code": "DictionaryBibleThemes",
+"label": "5258: cloth",
+"language": "eng"
+},
+{
+"reference_id": "5812",
+"content_id": "5812",
+"resource_code": "DictionaryBibleThemes",
+"label": "5812: concealment",
+"language": "eng"
+},
+{
+"reference_id": "6614",
+"content_id": "6614",
+"resource_code": "DictionaryBibleThemes",
+"label": "6614: atonement",
+"language": "eng"
+}
+]
+}
+}
+]

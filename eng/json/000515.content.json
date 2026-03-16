@@ -1,0 +1,303 @@
+[
+{
+"content_id": "4663",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4663: lamb",
+"media_type": "Text",
+"index_reference": "4663: lamb",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A common source of clothing and meat, this animal was given heightened significance by its place in the Jewish sacrificial system and was used figuratively of Jesus Christ.</p>\n<h2>The economic importance of lambs</h2>\n<h3>As food</h3>\n<p><strong><a href=\"https://ref.ly/2Sam12:4\">2SA 12:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut28:4\">DEU 28:4</a>; <a href=\"https://ref.ly/Amos6:4\">AMO 6:4</a></p>\n<h3>As a means of exchange</h3>\n<p><strong><a href=\"https://ref.ly/Gen30:32\">GEN 30:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs3:4\">2KI 3:4</a></p>\n<h2>The sacrificial significance of lambs</h2>\n<h3>Their general use</h3>\n<p><strong><a href=\"https://ref.ly/Gen22:7\">GEN 22:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod29:38\">EXO 29:38</a>; <a href=\"https://ref.ly/Lev3:7\">LEV 3:7</a>, <a href=\"https://ref.ly/Lev14:12\">LEV 14:12</a>, <a href=\"https://ref.ly/Lev14:24\">LEV 14:24</a>; <a href=\"https://ref.ly/1Sam7:9\">1SA 7:9</a></p>\n<h3>The Passover lamb</h3>\n<p><strong><a href=\"https://ref.ly/Exod12:21\">EXO 12:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:3\">EXO 12:3</a>, <a href=\"https://ref.ly/Exod12:7\">EXO 12:7</a>; <a href=\"https://ref.ly/2Chr30:15-2Chr30:17\">2CH 30:15–30:17</a>; <a href=\"https://ref.ly/Ezra6:20\">EZR 6:20</a>; <a href=\"https://ref.ly/Luke22:7\">LUK 22:7</a></p>\n<h3>The best had to be chosen</h3>\n<p><strong><a href=\"https://ref.ly/Num6:14\">NUM 6:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev4:32\">LEV 4:32</a>, <a href=\"https://ref.ly/Lev23:12\">LEV 23:12</a>; <a href=\"https://ref.ly/Num28:3-Num28:4\">NUM 28:3–28:4</a>, <a href=\"https://ref.ly/Num28:11\">NUM 28:11</a>; <a href=\"https://ref.ly/Ezek46:4\">EZK 46:4</a></p>\n<h3>They were costly</h3>\n<p><strong><a href=\"https://ref.ly/Lev12:8\">LEV 12:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod34:20\">EXO 34:20</a></p>\n<h2>The figurative use of lambs</h2>\n<h3>In general</h3>\n<p><strong><a href=\"https://ref.ly/Ps114:4\">PSA 114:4</a></strong>; <strong><a href=\"https://ref.ly/Luke10:3\">LUK 10:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:11\">ISA 40:11</a>, <a href=\"https://ref.ly/Isa65:25\">ISA 65:25</a>; <a href=\"https://ref.ly/Jer11:19\">JER 11:19</a>; <a href=\"https://ref.ly/John21:15\">JHN 21:15</a></p>\n<h3>Describing Jesus Christ and his work</h3>\n<p><strong><a href=\"https://ref.ly/John1:36\">JHN 1:36</a></strong>; <strong><a href=\"https://ref.ly/1Pet1:18-1Pet1:19\">1PE 1:18–1:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts8:32\">ACT 8:32</a>; <a href=\"https://ref.ly/Isa53:7\">ISA 53:7</a>; <a href=\"https://ref.ly/1Cor5:7\">1CO 5:7</a>; <a href=\"https://ref.ly/Rev5:12\">REV 5:12</a>, <a href=\"https://ref.ly/Rev22:3\">REV 22:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "10012004",
+"start_ref_usfm": "2SA 12:4",
+"end_ref": "10012004",
+"end_ref_usfm": "2SA 12:4"
+},
+{
+"start_ref": "05028004",
+"start_ref_usfm": "DEU 28:4",
+"end_ref": "05028004",
+"end_ref_usfm": "DEU 28:4"
+},
+{
+"start_ref": "30006004",
+"start_ref_usfm": "AMO 6:4",
+"end_ref": "30006004",
+"end_ref_usfm": "AMO 6:4"
+},
+{
+"start_ref": "01030032",
+"start_ref_usfm": "GEN 30:32",
+"end_ref": "01030032",
+"end_ref_usfm": "GEN 30:32"
+},
+{
+"start_ref": "12003004",
+"start_ref_usfm": "2KI 3:4",
+"end_ref": "12003004",
+"end_ref_usfm": "2KI 3:4"
+},
+{
+"start_ref": "01022007",
+"start_ref_usfm": "GEN 22:7",
+"end_ref": "01022007",
+"end_ref_usfm": "GEN 22:7"
+},
+{
+"start_ref": "02029038",
+"start_ref_usfm": "EXO 29:38",
+"end_ref": "02029038",
+"end_ref_usfm": "EXO 29:38"
+},
+{
+"start_ref": "03003007",
+"start_ref_usfm": "LEV 3:7",
+"end_ref": "03003007",
+"end_ref_usfm": "LEV 3:7"
+},
+{
+"start_ref": "03014012",
+"start_ref_usfm": "LEV 14:12",
+"end_ref": "03014012",
+"end_ref_usfm": "LEV 14:12"
+},
+{
+"start_ref": "03014024",
+"start_ref_usfm": "LEV 14:24",
+"end_ref": "03014024",
+"end_ref_usfm": "LEV 14:24"
+},
+{
+"start_ref": "09007009",
+"start_ref_usfm": "1SA 7:9",
+"end_ref": "09007009",
+"end_ref_usfm": "1SA 7:9"
+},
+{
+"start_ref": "02012021",
+"start_ref_usfm": "EXO 12:21",
+"end_ref": "02012021",
+"end_ref_usfm": "EXO 12:21"
+},
+{
+"start_ref": "02012003",
+"start_ref_usfm": "EXO 12:3",
+"end_ref": "02012003",
+"end_ref_usfm": "EXO 12:3"
+},
+{
+"start_ref": "02012007",
+"start_ref_usfm": "EXO 12:7",
+"end_ref": "02012007",
+"end_ref_usfm": "EXO 12:7"
+},
+{
+"start_ref": "14030015",
+"start_ref_usfm": "2CH 30:15",
+"end_ref": "14030017",
+"end_ref_usfm": "2CH 30:17"
+},
+{
+"start_ref": "15006020",
+"start_ref_usfm": "EZR 6:20",
+"end_ref": "15006020",
+"end_ref_usfm": "EZR 6:20"
+},
+{
+"start_ref": "42022007",
+"start_ref_usfm": "LUK 22:7",
+"end_ref": "42022007",
+"end_ref_usfm": "LUK 22:7"
+},
+{
+"start_ref": "04006014",
+"start_ref_usfm": "NUM 6:14",
+"end_ref": "04006014",
+"end_ref_usfm": "NUM 6:14"
+},
+{
+"start_ref": "03004032",
+"start_ref_usfm": "LEV 4:32",
+"end_ref": "03004032",
+"end_ref_usfm": "LEV 4:32"
+},
+{
+"start_ref": "03023012",
+"start_ref_usfm": "LEV 23:12",
+"end_ref": "03023012",
+"end_ref_usfm": "LEV 23:12"
+},
+{
+"start_ref": "04028003",
+"start_ref_usfm": "NUM 28:3",
+"end_ref": "04028004",
+"end_ref_usfm": "NUM 28:4"
+},
+{
+"start_ref": "04028011",
+"start_ref_usfm": "NUM 28:11",
+"end_ref": "04028011",
+"end_ref_usfm": "NUM 28:11"
+},
+{
+"start_ref": "26046004",
+"start_ref_usfm": "EZK 46:4",
+"end_ref": "26046004",
+"end_ref_usfm": "EZK 46:4"
+},
+{
+"start_ref": "03012008",
+"start_ref_usfm": "LEV 12:8",
+"end_ref": "03012008",
+"end_ref_usfm": "LEV 12:8"
+},
+{
+"start_ref": "02034020",
+"start_ref_usfm": "EXO 34:20",
+"end_ref": "02034020",
+"end_ref_usfm": "EXO 34:20"
+},
+{
+"start_ref": "19114004",
+"start_ref_usfm": "PSA 114:4",
+"end_ref": "19114004",
+"end_ref_usfm": "PSA 114:4"
+},
+{
+"start_ref": "42010003",
+"start_ref_usfm": "LUK 10:3",
+"end_ref": "42010003",
+"end_ref_usfm": "LUK 10:3"
+},
+{
+"start_ref": "23040011",
+"start_ref_usfm": "ISA 40:11",
+"end_ref": "23040011",
+"end_ref_usfm": "ISA 40:11"
+},
+{
+"start_ref": "23065025",
+"start_ref_usfm": "ISA 65:25",
+"end_ref": "23065025",
+"end_ref_usfm": "ISA 65:25"
+},
+{
+"start_ref": "24011019",
+"start_ref_usfm": "JER 11:19",
+"end_ref": "24011019",
+"end_ref_usfm": "JER 11:19"
+},
+{
+"start_ref": "43021015",
+"start_ref_usfm": "JHN 21:15",
+"end_ref": "43021015",
+"end_ref_usfm": "JHN 21:15"
+},
+{
+"start_ref": "43001036",
+"start_ref_usfm": "JHN 1:36",
+"end_ref": "43001036",
+"end_ref_usfm": "JHN 1:36"
+},
+{
+"start_ref": "60001018",
+"start_ref_usfm": "1PE 1:18",
+"end_ref": "60001019",
+"end_ref_usfm": "1PE 1:19"
+},
+{
+"start_ref": "44008032",
+"start_ref_usfm": "ACT 8:32",
+"end_ref": "44008032",
+"end_ref_usfm": "ACT 8:32"
+},
+{
+"start_ref": "23053007",
+"start_ref_usfm": "ISA 53:7",
+"end_ref": "23053007",
+"end_ref_usfm": "ISA 53:7"
+},
+{
+"start_ref": "46005007",
+"start_ref_usfm": "1CO 5:7",
+"end_ref": "46005007",
+"end_ref_usfm": "1CO 5:7"
+},
+{
+"start_ref": "66005012",
+"start_ref_usfm": "REV 5:12",
+"end_ref": "66005012",
+"end_ref_usfm": "REV 5:12"
+},
+{
+"start_ref": "66022003",
+"start_ref_usfm": "REV 22:3",
+"end_ref": "66022003",
+"end_ref_usfm": "REV 22:3"
+}
+],
+"resource": [
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "2315",
+"content_id": "2315",
+"resource_code": "DictionaryBibleThemes",
+"label": "2315: Jesus Christ, as Lamb",
+"language": "eng"
+},
+{
+"reference_id": "4681",
+"content_id": "4681",
+"resource_code": "DictionaryBibleThemes",
+"label": "4681: ram",
+"language": "eng"
+},
+{
+"reference_id": "4684",
+"content_id": "4684",
+"resource_code": "DictionaryBibleThemes",
+"label": "4684: sheep",
+"language": "eng"
+},
+{
+"reference_id": "4693",
+"content_id": "4693",
+"resource_code": "DictionaryBibleThemes",
+"label": "4693: wool",
+"language": "eng"
+},
+{
+"reference_id": "7406",
+"content_id": "7406",
+"resource_code": "DictionaryBibleThemes",
+"label": "7406: Passover",
+"language": "eng"
+},
+{
+"reference_id": "7435",
+"content_id": "7435",
+"resource_code": "DictionaryBibleThemes",
+"label": "7435: sacrifice, in OT",
+"language": "eng"
+},
+{
+"reference_id": "7784",
+"content_id": "7784",
+"resource_code": "DictionaryBibleThemes",
+"label": "7784: shepherd",
+"language": "eng"
+}
+]
+}
+}
+]

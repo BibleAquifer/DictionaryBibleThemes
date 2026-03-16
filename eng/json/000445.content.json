@@ -1,0 +1,293 @@
+[
+{
+"content_id": "4460",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4460: grass",
+"media_type": "Text",
+"index_reference": "4460: grass",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Green vegetation, which grows rapidly after rainfall, and serves as good food for many animals. The withering of grass in hot weather is often used in Scripture as a symbol of the frailty and brevity of human life.</p>\n<h2>Grass is food for animals</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs18:5\">1KI 18:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num22:4\">NUM 22:4</a>; <a href=\"https://ref.ly/Deut11:15\">DEU 11:15</a>; <a href=\"https://ref.ly/Job6:5\">JOB 6:5</a>, <a href=\"https://ref.ly/Job40:15\">JOB 40:15</a>; <a href=\"https://ref.ly/Ps104:14\">PSA 104:14</a>, <a href=\"https://ref.ly/Ps106:20\">PSA 106:20</a>; <a href=\"https://ref.ly/Jer14:5\">JER 14:5</a>; <a href=\"https://ref.ly/Dan4:25\">DAN 4:25</a>, <a href=\"https://ref.ly/Dan4:32-Dan4:33\">DAN 4:32–4:33</a>, <a href=\"https://ref.ly/Dan5:21\">DAN 5:21</a></p>\n<h2>Rain is essential for the growth of grass</h2>\n<p><strong><a href=\"https://ref.ly/Job38:25-Job38:27\">JOB 38:25–38:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut32:2\">DEU 32:2</a>; <a href=\"https://ref.ly/2Sam23:4\">2SA 23:4</a>; <a href=\"https://ref.ly/Ps147:8\">PSA 147:8</a>; <a href=\"https://ref.ly/Prov19:12\">PRO 19:12</a>; <a href=\"https://ref.ly/Mic5:7\">MIC 5:7</a></p>\n<h2>Grass grows quickly and abundantly</h2>\n<p><strong><a href=\"https://ref.ly/Isa44:3-Isa44:4\">ISA 44:3–44:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job5:25\">JOB 5:25</a>; <a href=\"https://ref.ly/Ps72:16\">PSA 72:16</a>, <a href=\"https://ref.ly/Ps92:7\">PSA 92:7</a>; <a href=\"https://ref.ly/Isa35:7\">ISA 35:7</a>, <a href=\"https://ref.ly/Isa66:14\">ISA 66:14</a></p>\n<h2>Grass withers, dies and burns easily</h2>\n<p><strong><a href=\"https://ref.ly/Isa15:6\">ISA 15:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps102:4\">PSA 102:4</a>, <a href=\"https://ref.ly/Ps102:11\">PSA 102:11</a>; <a href=\"https://ref.ly/Isa5:24\">ISA 5:24</a>; <a href=\"https://ref.ly/Jer12:4\">JER 12:4</a>; <a href=\"https://ref.ly/Rev8:7\">REV 8:7</a></p>\n<h2>The life cycle of grass is short</h2>\n<p><strong><a href=\"https://ref.ly/Ps129:6\">PSA 129:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a>; <a href=\"https://ref.ly/Matt6:28-Matt6:34\">MAT 6:28–6:34</a> parallel <a href=\"https://ref.ly/Luke12:27-Luke12:31\">LUK 12:27–12:31</a></p>\n<h2>The brevity of human life is compared to that of grass</h2>\n<p><strong><a href=\"https://ref.ly/Isa40:6-Isa40:8\">ISA 40:6–40:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs19:25-2Kgs19:26\">2KI 19:25–19:26</a>; <a href=\"https://ref.ly/Job8:11-Job8:13\">JOB 8:11–8:13</a>; <a href=\"https://ref.ly/Ps37:1-Ps37:2\">PSA 37:1–37:2</a>, <a href=\"https://ref.ly/Ps90:5\">PSA 90:5</a>, <a href=\"https://ref.ly/Ps103:13-Ps103:19\">PSA 103:13–103:19</a>; <a href=\"https://ref.ly/Isa51:12\">ISA 51:12</a>; <a href=\"https://ref.ly/1Pet1:24-1Pet1:25\">1PE 1:24–1:25</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11018005",
+"start_ref_usfm": "1KI 18:5",
+"end_ref": "11018005",
+"end_ref_usfm": "1KI 18:5"
+},
+{
+"start_ref": "04022004",
+"start_ref_usfm": "NUM 22:4",
+"end_ref": "04022004",
+"end_ref_usfm": "NUM 22:4"
+},
+{
+"start_ref": "05011015",
+"start_ref_usfm": "DEU 11:15",
+"end_ref": "05011015",
+"end_ref_usfm": "DEU 11:15"
+},
+{
+"start_ref": "18006005",
+"start_ref_usfm": "JOB 6:5",
+"end_ref": "18006005",
+"end_ref_usfm": "JOB 6:5"
+},
+{
+"start_ref": "18040015",
+"start_ref_usfm": "JOB 40:15",
+"end_ref": "18040015",
+"end_ref_usfm": "JOB 40:15"
+},
+{
+"start_ref": "19104014",
+"start_ref_usfm": "PSA 104:14",
+"end_ref": "19104014",
+"end_ref_usfm": "PSA 104:14"
+},
+{
+"start_ref": "19106020",
+"start_ref_usfm": "PSA 106:20",
+"end_ref": "19106020",
+"end_ref_usfm": "PSA 106:20"
+},
+{
+"start_ref": "24014005",
+"start_ref_usfm": "JER 14:5",
+"end_ref": "24014005",
+"end_ref_usfm": "JER 14:5"
+},
+{
+"start_ref": "27004025",
+"start_ref_usfm": "DAN 4:25",
+"end_ref": "27004025",
+"end_ref_usfm": "DAN 4:25"
+},
+{
+"start_ref": "27004032",
+"start_ref_usfm": "DAN 4:32",
+"end_ref": "27004033",
+"end_ref_usfm": "DAN 4:33"
+},
+{
+"start_ref": "27005021",
+"start_ref_usfm": "DAN 5:21",
+"end_ref": "27005021",
+"end_ref_usfm": "DAN 5:21"
+},
+{
+"start_ref": "18038025",
+"start_ref_usfm": "JOB 38:25",
+"end_ref": "18038027",
+"end_ref_usfm": "JOB 38:27"
+},
+{
+"start_ref": "05032002",
+"start_ref_usfm": "DEU 32:2",
+"end_ref": "05032002",
+"end_ref_usfm": "DEU 32:2"
+},
+{
+"start_ref": "10023004",
+"start_ref_usfm": "2SA 23:4",
+"end_ref": "10023004",
+"end_ref_usfm": "2SA 23:4"
+},
+{
+"start_ref": "19147008",
+"start_ref_usfm": "PSA 147:8",
+"end_ref": "19147008",
+"end_ref_usfm": "PSA 147:8"
+},
+{
+"start_ref": "20019012",
+"start_ref_usfm": "PRO 19:12",
+"end_ref": "20019012",
+"end_ref_usfm": "PRO 19:12"
+},
+{
+"start_ref": "33005007",
+"start_ref_usfm": "MIC 5:7",
+"end_ref": "33005007",
+"end_ref_usfm": "MIC 5:7"
+},
+{
+"start_ref": "23044003",
+"start_ref_usfm": "ISA 44:3",
+"end_ref": "23044004",
+"end_ref_usfm": "ISA 44:4"
+},
+{
+"start_ref": "18005025",
+"start_ref_usfm": "JOB 5:25",
+"end_ref": "18005025",
+"end_ref_usfm": "JOB 5:25"
+},
+{
+"start_ref": "19072016",
+"start_ref_usfm": "PSA 72:16",
+"end_ref": "19072016",
+"end_ref_usfm": "PSA 72:16"
+},
+{
+"start_ref": "19092007",
+"start_ref_usfm": "PSA 92:7",
+"end_ref": "19092007",
+"end_ref_usfm": "PSA 92:7"
+},
+{
+"start_ref": "23035007",
+"start_ref_usfm": "ISA 35:7",
+"end_ref": "23035007",
+"end_ref_usfm": "ISA 35:7"
+},
+{
+"start_ref": "23066014",
+"start_ref_usfm": "ISA 66:14",
+"end_ref": "23066014",
+"end_ref_usfm": "ISA 66:14"
+},
+{
+"start_ref": "23015006",
+"start_ref_usfm": "ISA 15:6",
+"end_ref": "23015006",
+"end_ref_usfm": "ISA 15:6"
+},
+{
+"start_ref": "19102004",
+"start_ref_usfm": "PSA 102:4",
+"end_ref": "19102004",
+"end_ref_usfm": "PSA 102:4"
+},
+{
+"start_ref": "19102011",
+"start_ref_usfm": "PSA 102:11",
+"end_ref": "19102011",
+"end_ref_usfm": "PSA 102:11"
+},
+{
+"start_ref": "23005024",
+"start_ref_usfm": "ISA 5:24",
+"end_ref": "23005024",
+"end_ref_usfm": "ISA 5:24"
+},
+{
+"start_ref": "24012004",
+"start_ref_usfm": "JER 12:4",
+"end_ref": "24012004",
+"end_ref_usfm": "JER 12:4"
+},
+{
+"start_ref": "66008007",
+"start_ref_usfm": "REV 8:7",
+"end_ref": "66008007",
+"end_ref_usfm": "REV 8:7"
+},
+{
+"start_ref": "19129006",
+"start_ref_usfm": "PSA 129:6",
+"end_ref": "19129006",
+"end_ref_usfm": "PSA 129:6"
+},
+{
+"start_ref": "23037027",
+"start_ref_usfm": "ISA 37:27",
+"end_ref": "23037027",
+"end_ref_usfm": "ISA 37:27"
+},
+{
+"start_ref": "40006028",
+"start_ref_usfm": "MAT 6:28",
+"end_ref": "40006034",
+"end_ref_usfm": "MAT 6:34"
+},
+{
+"start_ref": "42012027",
+"start_ref_usfm": "LUK 12:27",
+"end_ref": "42012031",
+"end_ref_usfm": "LUK 12:31"
+},
+{
+"start_ref": "23040006",
+"start_ref_usfm": "ISA 40:6",
+"end_ref": "23040008",
+"end_ref_usfm": "ISA 40:8"
+},
+{
+"start_ref": "12019025",
+"start_ref_usfm": "2KI 19:25",
+"end_ref": "12019026",
+"end_ref_usfm": "2KI 19:26"
+},
+{
+"start_ref": "18008011",
+"start_ref_usfm": "JOB 8:11",
+"end_ref": "18008013",
+"end_ref_usfm": "JOB 8:13"
+},
+{
+"start_ref": "19037001",
+"start_ref_usfm": "PSA 37:1",
+"end_ref": "19037002",
+"end_ref_usfm": "PSA 37:2"
+},
+{
+"start_ref": "19090005",
+"start_ref_usfm": "PSA 90:5",
+"end_ref": "19090005",
+"end_ref_usfm": "PSA 90:5"
+},
+{
+"start_ref": "19103013",
+"start_ref_usfm": "PSA 103:13",
+"end_ref": "19103019",
+"end_ref_usfm": "PSA 103:19"
+},
+{
+"start_ref": "23051012",
+"start_ref_usfm": "ISA 51:12",
+"end_ref": "23051012",
+"end_ref_usfm": "ISA 51:12"
+},
+{
+"start_ref": "60001024",
+"start_ref_usfm": "1PE 1:24",
+"end_ref": "60001025",
+"end_ref_usfm": "1PE 1:25"
+}
+],
+"resource": [
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "4016",
+"content_id": "4016",
+"resource_code": "DictionaryBibleThemes",
+"label": "4016: life, human",
+"language": "eng"
+},
+{
+"reference_id": "4402",
+"content_id": "4402",
+"resource_code": "DictionaryBibleThemes",
+"label": "4402: plants",
+"language": "eng"
+},
+{
+"reference_id": "4528",
+"content_id": "4528",
+"resource_code": "DictionaryBibleThemes",
+"label": "4528: trees",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,177 @@
+[
+{
+"content_id": "8110",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8110: athletics",
+"media_type": "Text",
+"index_reference": "8110: athletics",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Sports engaged in by athletes. Scripture uses the image of running in a race to represent the Christian life. Believers should show similar perseverance as they press on to their heavenly reward.</p>\n<h2>The Christian life is like running a race</h2>\n<p><strong><a href=\"https://ref.ly/Acts20:24\">ACT 20:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal2:2\">GAL 2:2</a>, <a href=\"https://ref.ly/Gal5:7\">GAL 5:7</a>; <a href=\"https://ref.ly/Phil2:16\">PHP 2:16</a>; <a href=\"https://ref.ly/1Tim1:18-1Tim1:19\">1TI 1:18–1:19</a></p>\n<h2>Christians, like athletes, are to be single-minded</h2>\n<p><strong><a href=\"https://ref.ly/2Tim2:4-2Tim2:5\">2TI 2:4–2:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor9:24-1Cor9:27\">1CO 9:24–9:27</a></p>\n<h2>Christians, like athletes, are to persevere</h2>\n<p><strong><a href=\"https://ref.ly/Heb12:1\">HEB 12:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil3:12-Phil3:14\">PHP 3:12–3:14</a>; <a href=\"https://ref.ly/1Tim6:12\">1TI 6:12</a>; <a href=\"https://ref.ly/Rev3:11\">REV 3:11</a></p>\n<h2>The reward at the end of the race of life</h2>\n<p><strong><a href=\"https://ref.ly/2Tim4:7-2Tim4:8\">2TI 4:7–4:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor9:25\">1CO 9:25</a>; <a href=\"https://ref.ly/Jas1:12\">JAS 1:12</a>; <a href=\"https://ref.ly/1Pet5:4\">1PE 5:4</a>; <a href=\"https://ref.ly/Rev2:10\">REV 2:10</a> <em>The “crown” referred to is the garland or wreath awarded to the winner in athletics contests.</em></p>\n<h2>The race is not necessarily won by the swiftest</h2>\n<p><a href=\"https://ref.ly/Eccl9:11\">ECC 9:11</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44020024",
+"start_ref_usfm": "ACT 20:24",
+"end_ref": "44020024",
+"end_ref_usfm": "ACT 20:24"
+},
+{
+"start_ref": "48002002",
+"start_ref_usfm": "GAL 2:2",
+"end_ref": "48002002",
+"end_ref_usfm": "GAL 2:2"
+},
+{
+"start_ref": "48005007",
+"start_ref_usfm": "GAL 5:7",
+"end_ref": "48005007",
+"end_ref_usfm": "GAL 5:7"
+},
+{
+"start_ref": "50002016",
+"start_ref_usfm": "PHP 2:16",
+"end_ref": "50002016",
+"end_ref_usfm": "PHP 2:16"
+},
+{
+"start_ref": "54001018",
+"start_ref_usfm": "1TI 1:18",
+"end_ref": "54001019",
+"end_ref_usfm": "1TI 1:19"
+},
+{
+"start_ref": "55002004",
+"start_ref_usfm": "2TI 2:4",
+"end_ref": "55002005",
+"end_ref_usfm": "2TI 2:5"
+},
+{
+"start_ref": "46009024",
+"start_ref_usfm": "1CO 9:24",
+"end_ref": "46009027",
+"end_ref_usfm": "1CO 9:27"
+},
+{
+"start_ref": "58012001",
+"start_ref_usfm": "HEB 12:1",
+"end_ref": "58012001",
+"end_ref_usfm": "HEB 12:1"
+},
+{
+"start_ref": "50003012",
+"start_ref_usfm": "PHP 3:12",
+"end_ref": "50003014",
+"end_ref_usfm": "PHP 3:14"
+},
+{
+"start_ref": "54006012",
+"start_ref_usfm": "1TI 6:12",
+"end_ref": "54006012",
+"end_ref_usfm": "1TI 6:12"
+},
+{
+"start_ref": "66003011",
+"start_ref_usfm": "REV 3:11",
+"end_ref": "66003011",
+"end_ref_usfm": "REV 3:11"
+},
+{
+"start_ref": "55004007",
+"start_ref_usfm": "2TI 4:7",
+"end_ref": "55004008",
+"end_ref_usfm": "2TI 4:8"
+},
+{
+"start_ref": "46009025",
+"start_ref_usfm": "1CO 9:25",
+"end_ref": "46009025",
+"end_ref_usfm": "1CO 9:25"
+},
+{
+"start_ref": "59001012",
+"start_ref_usfm": "JAS 1:12",
+"end_ref": "59001012",
+"end_ref_usfm": "JAS 1:12"
+},
+{
+"start_ref": "60005004",
+"start_ref_usfm": "1PE 5:4",
+"end_ref": "60005004",
+"end_ref_usfm": "1PE 5:4"
+},
+{
+"start_ref": "66002010",
+"start_ref_usfm": "REV 2:10",
+"end_ref": "66002010",
+"end_ref_usfm": "REV 2:10"
+},
+{
+"start_ref": "21009011",
+"start_ref_usfm": "ECC 9:11",
+"end_ref": "21009011",
+"end_ref_usfm": "ECC 9:11"
+}
+],
+"resource": [
+{
+"reference_id": "5178",
+"content_id": "5178",
+"resource_code": "DictionaryBibleThemes",
+"label": "5178: running",
+"language": "eng"
+},
+{
+"reference_id": "5280",
+"content_id": "5280",
+"resource_code": "DictionaryBibleThemes",
+"label": "5280: crown",
+"language": "eng"
+},
+{
+"reference_id": "5387",
+"content_id": "5387",
+"resource_code": "DictionaryBibleThemes",
+"label": "5387: leisure, and pastimes",
+"language": "eng"
+},
+{
+"reference_id": "5498",
+"content_id": "5498",
+"resource_code": "DictionaryBibleThemes",
+"label": "5498: reward",
+"language": "eng"
+},
+{
+"reference_id": "8140",
+"content_id": "8140",
+"resource_code": "DictionaryBibleThemes",
+"label": "8140: prize",
+"language": "eng"
+},
+{
+"reference_id": "8207",
+"content_id": "8207",
+"resource_code": "DictionaryBibleThemes",
+"label": "8207: commitment",
+"language": "eng"
+},
+{
+"reference_id": "8459",
+"content_id": "8459",
+"resource_code": "DictionaryBibleThemes",
+"label": "8459: perseverance",
+"language": "eng"
+},
+{
+"reference_id": "9410",
+"content_id": "9410",
+"resource_code": "DictionaryBibleThemes",
+"label": "9410: heaven",
+"language": "eng"
+}
+]
+}
+}
+]

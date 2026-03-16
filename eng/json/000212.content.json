@@ -1,0 +1,260 @@
+[
+{
+"content_id": "2412",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "2412: cross, Gospel accounts of",
+"media_type": "Text",
+"index_reference": "2412: cross, gospel accounts of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Each of the four Gospels provides a detailed account of Jesus Christ's death on the cross.</p>\n<h2>The way to the cross</h2>\n<h3>Simon is compelled to carry the cross</h3>\n<p><strong><a href=\"https://ref.ly/Mark15:21\">MRK 15:21</a></strong> parallels <a href=\"https://ref.ly/Matt27:32\">MAT 27:32</a>, <a href=\"https://ref.ly/Luke23:26\">LUK 23:26</a></p>\n<h3>Women follow the cross and Jesus Christ is offered relief from pain</h3>\n<p><strong><a href=\"https://ref.ly/Luke23:27-Luke23:31\">LUK 23:27–23:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt27:34\">MAT 27:34</a> parallel <a href=\"https://ref.ly/Mark15:23\">MRK 15:23</a></p>\n<h2>The crucifixion of Jesus Christ</h2>\n<h3>Jesus Christ crucified between two criminals</h3>\n<p><strong><a href=\"https://ref.ly/Mark15:22-Mark15:27\">MRK 15:22–15:27</a></strong> parallels <a href=\"https://ref.ly/Matt27:33-Matt27:38\">MAT 27:33–27:38</a>, <a href=\"https://ref.ly/Luke23:32-Luke23:43\">LUK 23:32–23:43</a> <em>“Golgotha” is a transliteration of the Aramaic word for “a skull”. Its actual location is uncertain.</em></p>\n<h3>The humiliation of Jesus Christ on the cross</h3>\n<p><strong><a href=\"https://ref.ly/Mark15:29-Mark15:32\">MRK 15:29–15:32</a></strong> parallels <a href=\"https://ref.ly/Matt27:39-Matt27:44\">MAT 27:39–27:44</a>, <a href=\"https://ref.ly/Luke23:35-Luke23:39\">LUK 23:35–23:39</a></p>\n<h3>The words of Jesus Christ on the cross</h3>\n<p><strong><a href=\"https://ref.ly/John19:30\">JHN 19:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt27:46\">MAT 27:46</a> parallel <a href=\"https://ref.ly/Mark15:34\">MRK 15:34</a>; <a href=\"https://ref.ly/Matt27:50\">MAT 27:50</a>; <a href=\"https://ref.ly/Mark15:37\">MRK 15:37</a>; <a href=\"https://ref.ly/Luke23:28-Luke23:31\">LUK 23:28–23:31</a>, <a href=\"https://ref.ly/Luke23:34\">LUK 23:34</a>, <a href=\"https://ref.ly/Luke23:43\">LUK 23:43</a>, <a href=\"https://ref.ly/Luke23:46\">LUK 23:46</a>; <a href=\"https://ref.ly/John19:26-John19:28\">JHN 19:26–19:28</a></p>\n<h3>The death of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Mark15:33-Mark15:37\">MRK 15:33–15:37</a></strong> parallels <a href=\"https://ref.ly/Matt27:45-Matt27:50\">MAT 27:45–27:50</a>, <a href=\"https://ref.ly/Luke23:44-Luke23:46\">LUK 23:44–23:46</a> <em>See also</em> <a href=\"https://ref.ly/John19:28-John19:35\">JHN 19:28–19:35</a> <em>According to John, Jesus Christ was on the cross while the Passover lambs were being sacrificed.</em></p>\n<h2>Supernatural events at the cross</h2>\n<p><strong><a href=\"https://ref.ly/Mark15:38\">MRK 15:38</a></strong> parallels <a href=\"https://ref.ly/Matt27:51-Matt27:53\">MAT 27:51–27:53</a>, <a href=\"https://ref.ly/Luke23:45\">LUK 23:45</a></p>\n<h2>Witnesses of the crucifixion</h2>\n<p><strong><a href=\"https://ref.ly/Mark15:39-Mark15:41\">MRK 15:39–15:41</a></strong> parallels <a href=\"https://ref.ly/Matt27:54-Matt27:56\">MAT 27:54–27:56</a>, <a href=\"https://ref.ly/Luke23:47-Luke23:49\">LUK 23:47–23:49</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "41015021",
+"start_ref_usfm": "MRK 15:21",
+"end_ref": "41015021",
+"end_ref_usfm": "MRK 15:21"
+},
+{
+"start_ref": "40027032",
+"start_ref_usfm": "MAT 27:32",
+"end_ref": "40027032",
+"end_ref_usfm": "MAT 27:32"
+},
+{
+"start_ref": "42023026",
+"start_ref_usfm": "LUK 23:26",
+"end_ref": "42023026",
+"end_ref_usfm": "LUK 23:26"
+},
+{
+"start_ref": "42023027",
+"start_ref_usfm": "LUK 23:27",
+"end_ref": "42023031",
+"end_ref_usfm": "LUK 23:31"
+},
+{
+"start_ref": "40027034",
+"start_ref_usfm": "MAT 27:34",
+"end_ref": "40027034",
+"end_ref_usfm": "MAT 27:34"
+},
+{
+"start_ref": "41015023",
+"start_ref_usfm": "MRK 15:23",
+"end_ref": "41015023",
+"end_ref_usfm": "MRK 15:23"
+},
+{
+"start_ref": "41015022",
+"start_ref_usfm": "MRK 15:22",
+"end_ref": "41015027",
+"end_ref_usfm": "MRK 15:27"
+},
+{
+"start_ref": "40027033",
+"start_ref_usfm": "MAT 27:33",
+"end_ref": "40027038",
+"end_ref_usfm": "MAT 27:38"
+},
+{
+"start_ref": "42023032",
+"start_ref_usfm": "LUK 23:32",
+"end_ref": "42023043",
+"end_ref_usfm": "LUK 23:43"
+},
+{
+"start_ref": "41015029",
+"start_ref_usfm": "MRK 15:29",
+"end_ref": "41015032",
+"end_ref_usfm": "MRK 15:32"
+},
+{
+"start_ref": "40027039",
+"start_ref_usfm": "MAT 27:39",
+"end_ref": "40027044",
+"end_ref_usfm": "MAT 27:44"
+},
+{
+"start_ref": "42023035",
+"start_ref_usfm": "LUK 23:35",
+"end_ref": "42023039",
+"end_ref_usfm": "LUK 23:39"
+},
+{
+"start_ref": "43019030",
+"start_ref_usfm": "JHN 19:30",
+"end_ref": "43019030",
+"end_ref_usfm": "JHN 19:30"
+},
+{
+"start_ref": "40027046",
+"start_ref_usfm": "MAT 27:46",
+"end_ref": "40027046",
+"end_ref_usfm": "MAT 27:46"
+},
+{
+"start_ref": "41015034",
+"start_ref_usfm": "MRK 15:34",
+"end_ref": "41015034",
+"end_ref_usfm": "MRK 15:34"
+},
+{
+"start_ref": "40027050",
+"start_ref_usfm": "MAT 27:50",
+"end_ref": "40027050",
+"end_ref_usfm": "MAT 27:50"
+},
+{
+"start_ref": "41015037",
+"start_ref_usfm": "MRK 15:37",
+"end_ref": "41015037",
+"end_ref_usfm": "MRK 15:37"
+},
+{
+"start_ref": "42023028",
+"start_ref_usfm": "LUK 23:28",
+"end_ref": "42023031",
+"end_ref_usfm": "LUK 23:31"
+},
+{
+"start_ref": "42023034",
+"start_ref_usfm": "LUK 23:34",
+"end_ref": "42023034",
+"end_ref_usfm": "LUK 23:34"
+},
+{
+"start_ref": "42023043",
+"start_ref_usfm": "LUK 23:43",
+"end_ref": "42023043",
+"end_ref_usfm": "LUK 23:43"
+},
+{
+"start_ref": "42023046",
+"start_ref_usfm": "LUK 23:46",
+"end_ref": "42023046",
+"end_ref_usfm": "LUK 23:46"
+},
+{
+"start_ref": "43019026",
+"start_ref_usfm": "JHN 19:26",
+"end_ref": "43019028",
+"end_ref_usfm": "JHN 19:28"
+},
+{
+"start_ref": "41015033",
+"start_ref_usfm": "MRK 15:33",
+"end_ref": "41015037",
+"end_ref_usfm": "MRK 15:37"
+},
+{
+"start_ref": "40027045",
+"start_ref_usfm": "MAT 27:45",
+"end_ref": "40027050",
+"end_ref_usfm": "MAT 27:50"
+},
+{
+"start_ref": "42023044",
+"start_ref_usfm": "LUK 23:44",
+"end_ref": "42023046",
+"end_ref_usfm": "LUK 23:46"
+},
+{
+"start_ref": "43019028",
+"start_ref_usfm": "JHN 19:28",
+"end_ref": "43019035",
+"end_ref_usfm": "JHN 19:35"
+},
+{
+"start_ref": "41015038",
+"start_ref_usfm": "MRK 15:38",
+"end_ref": "41015038",
+"end_ref_usfm": "MRK 15:38"
+},
+{
+"start_ref": "40027051",
+"start_ref_usfm": "MAT 27:51",
+"end_ref": "40027053",
+"end_ref_usfm": "MAT 27:53"
+},
+{
+"start_ref": "42023045",
+"start_ref_usfm": "LUK 23:45",
+"end_ref": "42023045",
+"end_ref_usfm": "LUK 23:45"
+},
+{
+"start_ref": "41015039",
+"start_ref_usfm": "MRK 15:39",
+"end_ref": "41015041",
+"end_ref_usfm": "MRK 15:41"
+},
+{
+"start_ref": "40027054",
+"start_ref_usfm": "MAT 27:54",
+"end_ref": "40027056",
+"end_ref_usfm": "MAT 27:56"
+},
+{
+"start_ref": "42023047",
+"start_ref_usfm": "LUK 23:47",
+"end_ref": "42023049",
+"end_ref_usfm": "LUK 23:49"
+}
+],
+"resource": [
+{
+"reference_id": "2525",
+"content_id": "2525",
+"resource_code": "DictionaryBibleThemes",
+"label": "2525: Jesus Christ, cross of",
+"language": "eng"
+},
+{
+"reference_id": "2530",
+"content_id": "2530",
+"resource_code": "DictionaryBibleThemes",
+"label": "2530: Jesus Christ, death of",
+"language": "eng"
+},
+{
+"reference_id": "2545",
+"content_id": "2545",
+"resource_code": "DictionaryBibleThemes",
+"label": "2545: Jesus Christ, opposition to",
+"language": "eng"
+},
+{
+"reference_id": "2570",
+"content_id": "2570",
+"resource_code": "DictionaryBibleThemes",
+"label": "2570: Jesus Christ, suffering of",
+"language": "eng"
+},
+{
+"reference_id": "5281",
+"content_id": "5281",
+"resource_code": "DictionaryBibleThemes",
+"label": "5281: crucifixion",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+},
+{
+"reference_id": "9310",
+"content_id": "9310",
+"resource_code": "DictionaryBibleThemes",
+"label": "9310: resurrection",
+"language": "eng"
+}
+]
+}
+}
+]

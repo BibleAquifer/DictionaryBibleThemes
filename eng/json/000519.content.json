@@ -1,0 +1,153 @@
+[
+{
+"content_id": "4675",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4675: nest",
+"media_type": "Text",
+"index_reference": "4675: nest",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The nest as the home of a bird rearing its young</h2>\n<p><strong><a href=\"https://ref.ly/Ps84:3\">PSA 84:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut22:6-Deut22:7\">DEU 22:6–22:7</a>; <a href=\"https://ref.ly/Job39:27-Job39:30\">JOB 39:27–39:30</a>; <a href=\"https://ref.ly/Ps104:12\">PSA 104:12</a>, <a href=\"https://ref.ly/Ps104:17\">PSA 104:17</a>; <a href=\"https://ref.ly/Isa34:11\">ISA 34:11</a>, <a href=\"https://ref.ly/Isa34:15\">ISA 34:15</a>; <a href=\"https://ref.ly/Jer48:28\">JER 48:28</a>; <a href=\"https://ref.ly/Ezek17:23\">EZK 17:23</a></p>\n<h2>The nest as a place of security</h2>\n<p><strong><a href=\"https://ref.ly/Matt8:20\">MAT 8:20</a></strong> parallel <a href=\"https://ref.ly/Luke9:58\">LUK 9:58</a> <em>See also</em> <a href=\"https://ref.ly/Deut32:10-Deut32:11\">DEU 32:10–32:11</a>; <a href=\"https://ref.ly/Prov27:8\">PRO 27:8</a>; <a href=\"https://ref.ly/Hab2:9\">HAB 2:9</a></p>\n<h2>The nest may not always be safe</h2>\n<p><strong><a href=\"https://ref.ly/Isa10:14\">ISA 10:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num24:21-Num24:22\">NUM 24:21–24:22</a>; <a href=\"https://ref.ly/Isa16:2\">ISA 16:2</a>; <a href=\"https://ref.ly/Jer49:16\">JER 49:16</a>; <a href=\"https://ref.ly/Obad1:4\">OBA 1:4</a></p>\n<h2>The nest as the home of the viper</h2>\n<p><a href=\"https://ref.ly/Isa11:8\">ISA 11:8</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19084003",
+"start_ref_usfm": "PSA 84:3",
+"end_ref": "19084003",
+"end_ref_usfm": "PSA 84:3"
+},
+{
+"start_ref": "05022006",
+"start_ref_usfm": "DEU 22:6",
+"end_ref": "05022007",
+"end_ref_usfm": "DEU 22:7"
+},
+{
+"start_ref": "18039027",
+"start_ref_usfm": "JOB 39:27",
+"end_ref": "18039030",
+"end_ref_usfm": "JOB 39:30"
+},
+{
+"start_ref": "19104012",
+"start_ref_usfm": "PSA 104:12",
+"end_ref": "19104012",
+"end_ref_usfm": "PSA 104:12"
+},
+{
+"start_ref": "19104017",
+"start_ref_usfm": "PSA 104:17",
+"end_ref": "19104017",
+"end_ref_usfm": "PSA 104:17"
+},
+{
+"start_ref": "23034011",
+"start_ref_usfm": "ISA 34:11",
+"end_ref": "23034011",
+"end_ref_usfm": "ISA 34:11"
+},
+{
+"start_ref": "23034015",
+"start_ref_usfm": "ISA 34:15",
+"end_ref": "23034015",
+"end_ref_usfm": "ISA 34:15"
+},
+{
+"start_ref": "24048028",
+"start_ref_usfm": "JER 48:28",
+"end_ref": "24048028",
+"end_ref_usfm": "JER 48:28"
+},
+{
+"start_ref": "26017023",
+"start_ref_usfm": "EZK 17:23",
+"end_ref": "26017023",
+"end_ref_usfm": "EZK 17:23"
+},
+{
+"start_ref": "40008020",
+"start_ref_usfm": "MAT 8:20",
+"end_ref": "40008020",
+"end_ref_usfm": "MAT 8:20"
+},
+{
+"start_ref": "42009058",
+"start_ref_usfm": "LUK 9:58",
+"end_ref": "42009058",
+"end_ref_usfm": "LUK 9:58"
+},
+{
+"start_ref": "05032010",
+"start_ref_usfm": "DEU 32:10",
+"end_ref": "05032011",
+"end_ref_usfm": "DEU 32:11"
+},
+{
+"start_ref": "20027008",
+"start_ref_usfm": "PRO 27:8",
+"end_ref": "20027008",
+"end_ref_usfm": "PRO 27:8"
+},
+{
+"start_ref": "35002009",
+"start_ref_usfm": "HAB 2:9",
+"end_ref": "35002009",
+"end_ref_usfm": "HAB 2:9"
+},
+{
+"start_ref": "23010014",
+"start_ref_usfm": "ISA 10:14",
+"end_ref": "23010014",
+"end_ref_usfm": "ISA 10:14"
+},
+{
+"start_ref": "04024021",
+"start_ref_usfm": "NUM 24:21",
+"end_ref": "04024022",
+"end_ref_usfm": "NUM 24:22"
+},
+{
+"start_ref": "23016002",
+"start_ref_usfm": "ISA 16:2",
+"end_ref": "23016002",
+"end_ref_usfm": "ISA 16:2"
+},
+{
+"start_ref": "24049016",
+"start_ref_usfm": "JER 49:16",
+"end_ref": "24049016",
+"end_ref_usfm": "JER 49:16"
+},
+{
+"start_ref": "31001004",
+"start_ref_usfm": "OBA 1:4",
+"end_ref": "31001004",
+"end_ref_usfm": "OBA 1:4"
+},
+{
+"start_ref": "23011008",
+"start_ref_usfm": "ISA 11:8",
+"end_ref": "23011008",
+"end_ref_usfm": "ISA 11:8"
+}
+],
+"resource": [
+{
+"reference_id": "4612",
+"content_id": "4612",
+"resource_code": "DictionaryBibleThemes",
+"label": "4612: birds",
+"language": "eng"
+},
+{
+"reference_id": "5942",
+"content_id": "5942",
+"resource_code": "DictionaryBibleThemes",
+"label": "5942: security",
+"language": "eng"
+}
+]
+}
+}
+]

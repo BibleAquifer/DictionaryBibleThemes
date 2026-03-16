@@ -1,0 +1,205 @@
+[
+{
+"content_id": "7551",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7551: Pharisees, beliefs of",
+"media_type": "Text",
+"index_reference": "7551: pharisees, beliefs of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The Pharisees placed considerable emphasis upon the rigorous upholding of the law, particularly the traditional forms in which the law had been established by their predecessors.</p>\n<h2>Pharisaic interpretation of the law</h2>\n<h3>Pharisees were the recognised custodians of the law</h3>\n<p><strong><a href=\"https://ref.ly/Matt23:1-Matt23:3\">MAT 23:1–23:3</a></strong></p>\n<h3>Pharisees emphasised the traditions of the elders</h3>\n<p><strong><a href=\"https://ref.ly/Mark7:3-Mark7:4\">MRK 7:3–7:4</a></strong> <em>For the Pharisees the oral law, the traditions of their predecessors, had an authority equal to that of the written law.</em> <em>See also</em> <a href=\"https://ref.ly/Matt15:1-Matt15:2\">MAT 15:1–15:2</a> parallel <a href=\"https://ref.ly/Mark7:5\">MRK 7:5</a>; <a href=\"https://ref.ly/Gal1:14\">GAL 1:14</a></p>\n<h2>Pharisaic observance of the law</h2>\n<h3>The Sabbath</h3>\n<p><strong><a href=\"https://ref.ly/Matt12:1-Matt12:2\">MAT 12:1–12:2</a></strong> parallels <a href=\"https://ref.ly/Mark2:23-Mark2:24\">MRK 2:23–2:24</a>, <a href=\"https://ref.ly/Luke6:1-Luke6:2\">LUK 6:1–6:2</a> <em>See also</em> <a href=\"https://ref.ly/Luke13:14\">LUK 13:14</a></p>\n<h3>Fasting</h3>\n<p><strong><a href=\"https://ref.ly/Matt9:14\">MAT 9:14</a></strong> parallels <a href=\"https://ref.ly/Mark2:18\">MRK 2:18</a>, <a href=\"https://ref.ly/Luke5:33\">LUK 5:33</a> <em>See also</em> <a href=\"https://ref.ly/Luke18:9-Luke18:12\">LUK 18:9–18:12</a></p>\n<h3>Tithing</h3>\n<p><strong><a href=\"https://ref.ly/Matt23:23\">MAT 23:23</a></strong> parallel <a href=\"https://ref.ly/Luke11:42\">LUK 11:42</a></p>\n<h2>Pharisaic doctrine</h2>\n<p><strong><a href=\"https://ref.ly/Acts23:6-Acts23:9\">ACT 23:6–23:9</a></strong></p>\n<h2>Pharisaic proselytism</h2>\n<p><strong><a href=\"https://ref.ly/Matt23:15\">MAT 23:15</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40023001",
+"start_ref_usfm": "MAT 23:1",
+"end_ref": "40023003",
+"end_ref_usfm": "MAT 23:3"
+},
+{
+"start_ref": "41007003",
+"start_ref_usfm": "MRK 7:3",
+"end_ref": "41007004",
+"end_ref_usfm": "MRK 7:4"
+},
+{
+"start_ref": "40015001",
+"start_ref_usfm": "MAT 15:1",
+"end_ref": "40015002",
+"end_ref_usfm": "MAT 15:2"
+},
+{
+"start_ref": "41007005",
+"start_ref_usfm": "MRK 7:5",
+"end_ref": "41007005",
+"end_ref_usfm": "MRK 7:5"
+},
+{
+"start_ref": "48001014",
+"start_ref_usfm": "GAL 1:14",
+"end_ref": "48001014",
+"end_ref_usfm": "GAL 1:14"
+},
+{
+"start_ref": "40012001",
+"start_ref_usfm": "MAT 12:1",
+"end_ref": "40012002",
+"end_ref_usfm": "MAT 12:2"
+},
+{
+"start_ref": "41002023",
+"start_ref_usfm": "MRK 2:23",
+"end_ref": "41002024",
+"end_ref_usfm": "MRK 2:24"
+},
+{
+"start_ref": "42006001",
+"start_ref_usfm": "LUK 6:1",
+"end_ref": "42006002",
+"end_ref_usfm": "LUK 6:2"
+},
+{
+"start_ref": "42013014",
+"start_ref_usfm": "LUK 13:14",
+"end_ref": "42013014",
+"end_ref_usfm": "LUK 13:14"
+},
+{
+"start_ref": "40009014",
+"start_ref_usfm": "MAT 9:14",
+"end_ref": "40009014",
+"end_ref_usfm": "MAT 9:14"
+},
+{
+"start_ref": "41002018",
+"start_ref_usfm": "MRK 2:18",
+"end_ref": "41002018",
+"end_ref_usfm": "MRK 2:18"
+},
+{
+"start_ref": "42005033",
+"start_ref_usfm": "LUK 5:33",
+"end_ref": "42005033",
+"end_ref_usfm": "LUK 5:33"
+},
+{
+"start_ref": "42018009",
+"start_ref_usfm": "LUK 18:9",
+"end_ref": "42018012",
+"end_ref_usfm": "LUK 18:12"
+},
+{
+"start_ref": "40023023",
+"start_ref_usfm": "MAT 23:23",
+"end_ref": "40023023",
+"end_ref_usfm": "MAT 23:23"
+},
+{
+"start_ref": "42011042",
+"start_ref_usfm": "LUK 11:42",
+"end_ref": "42011042",
+"end_ref_usfm": "LUK 11:42"
+},
+{
+"start_ref": "44023006",
+"start_ref_usfm": "ACT 23:6",
+"end_ref": "44023009",
+"end_ref_usfm": "ACT 23:9"
+},
+{
+"start_ref": "40023015",
+"start_ref_usfm": "MAT 23:15",
+"end_ref": "40023015",
+"end_ref_usfm": "MAT 23:15"
+}
+],
+"resource": [
+{
+"reference_id": "2333",
+"content_id": "2333",
+"resource_code": "DictionaryBibleThemes",
+"label": "2333: Jesus Christ, attitude to OT",
+"language": "eng"
+},
+{
+"reference_id": "5381",
+"content_id": "5381",
+"resource_code": "DictionaryBibleThemes",
+"label": "5381: law, letter and spirit of",
+"language": "eng"
+},
+{
+"reference_id": "7430",
+"content_id": "7430",
+"resource_code": "DictionaryBibleThemes",
+"label": "7430: Sabbath, in NT",
+"language": "eng"
+},
+{
+"reference_id": "7464",
+"content_id": "7464",
+"resource_code": "DictionaryBibleThemes",
+"label": "7464: teachers of the law",
+"language": "eng"
+},
+{
+"reference_id": "7555",
+"content_id": "7555",
+"resource_code": "DictionaryBibleThemes",
+"label": "7555: Sadducees",
+"language": "eng"
+},
+{
+"reference_id": "7570",
+"content_id": "7570",
+"resource_code": "DictionaryBibleThemes",
+"label": "7570: sects",
+"language": "eng"
+},
+{
+"reference_id": "8432",
+"content_id": "8432",
+"resource_code": "DictionaryBibleThemes",
+"label": "8432: fasting, practice of",
+"language": "eng"
+},
+{
+"reference_id": "8488",
+"content_id": "8488",
+"resource_code": "DictionaryBibleThemes",
+"label": "8488: tithing",
+"language": "eng"
+},
+{
+"reference_id": "8774",
+"content_id": "8774",
+"resource_code": "DictionaryBibleThemes",
+"label": "8774: legalism",
+"language": "eng"
+},
+{
+"reference_id": "8802",
+"content_id": "8802",
+"resource_code": "DictionaryBibleThemes",
+"label": "8802: pride",
+"language": "eng"
+},
+{
+"reference_id": "8824",
+"content_id": "8824",
+"resource_code": "DictionaryBibleThemes",
+"label": "8824: self-righteousness, nature of",
+"language": "eng"
+},
+{
+"reference_id": "9314",
+"content_id": "9314",
+"resource_code": "DictionaryBibleThemes",
+"label": "9314: resurrection, of the dead",
+"language": "eng"
+}
+]
+}
+}
+]

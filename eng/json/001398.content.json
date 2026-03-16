@@ -1,0 +1,87 @@
+[
+{
+"content_id": "5880",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5880: humour",
+"media_type": "Text",
+"index_reference": "5880: humour",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>A time and place for humour</h2>\n<p><strong><a href=\"https://ref.ly/Eccl3:1-Eccl3:4\">ECC 3:1–3:4</a></strong></p>\n<h2>Touches of humour in Scripture</h2>\n<h3>Things people found funny</h3>\n<p><strong><a href=\"https://ref.ly/Gen18:12\">GEN 18:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen17:17\">GEN 17:17</a></p>\n<h3>Humour at others' expense</h3>\n<p><strong><a href=\"https://ref.ly/Job12:4\">JOB 12:4</a></strong></p>\n<h3>OT writers found wordplay humorous</h3>\n<p><strong><a href=\"https://ref.ly/Mic1:10-Mic1:11\">MIC 1:10–1:11</a></strong></p>\n<h3>Some passages seem to have a humorous intent</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/1Kgs18:27\">1KI 18:27</a>MAT <a href=\"https://ref.ly/1Kgs19:24\">19:24</a>; <a href=\"https://ref.ly/Luke6:42\">LUK 6:42</a>\n<a href=\"https://ref.ly/Acts12:13-Acts12:16\">ACT 12:13–12:16</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "21003001",
+"start_ref_usfm": "ECC 3:1",
+"end_ref": "21003004",
+"end_ref_usfm": "ECC 3:4"
+},
+{
+"start_ref": "01018012",
+"start_ref_usfm": "GEN 18:12",
+"end_ref": "01018012",
+"end_ref_usfm": "GEN 18:12"
+},
+{
+"start_ref": "01017017",
+"start_ref_usfm": "GEN 17:17",
+"end_ref": "01017017",
+"end_ref_usfm": "GEN 17:17"
+},
+{
+"start_ref": "18012004",
+"start_ref_usfm": "JOB 12:4",
+"end_ref": "18012004",
+"end_ref_usfm": "JOB 12:4"
+},
+{
+"start_ref": "33001010",
+"start_ref_usfm": "MIC 1:10",
+"end_ref": "33001011",
+"end_ref_usfm": "MIC 1:11"
+},
+{
+"start_ref": "11018027",
+"start_ref_usfm": "1KI 18:27",
+"end_ref": "11018027",
+"end_ref_usfm": "1KI 18:27"
+},
+{
+"start_ref": "11019024",
+"start_ref_usfm": "1KI 19:24",
+"end_ref": "11019024",
+"end_ref_usfm": "1KI 19:24"
+},
+{
+"start_ref": "42006042",
+"start_ref_usfm": "LUK 6:42",
+"end_ref": "42006042",
+"end_ref_usfm": "LUK 6:42"
+},
+{
+"start_ref": "44012013",
+"start_ref_usfm": "ACT 12:13",
+"end_ref": "44012016",
+"end_ref_usfm": "ACT 12:16"
+}
+],
+"resource": [
+{
+"reference_id": "5356",
+"content_id": "5356",
+"resource_code": "DictionaryBibleThemes",
+"label": "5356: irony",
+"language": "eng"
+},
+{
+"reference_id": "5900",
+"content_id": "5900",
+"resource_code": "DictionaryBibleThemes",
+"label": "5900: laughter",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,53 @@
+[
+{
+"content_id": "5664",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5664: children",
+"media_type": "Text",
+"index_reference": "5664: children",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture indicates that children are a gift from God and are to be loved, disciplined and cared for. The term “children of God” is used to describe Christian believers, who must grow up in the faith which they have accepted.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5665",
+"content_id": "5665",
+"resource_code": "DictionaryBibleThemes",
+"label": "5665: children, attitudes towards",
+"language": "eng"
+},
+{
+"reference_id": "5666",
+"content_id": "5666",
+"resource_code": "DictionaryBibleThemes",
+"label": "5666: children, needs of",
+"language": "eng"
+},
+{
+"reference_id": "5667",
+"content_id": "5667",
+"resource_code": "DictionaryBibleThemes",
+"label": "5667: children, responsibilities to God",
+"language": "eng"
+},
+{
+"reference_id": "5668",
+"content_id": "5668",
+"resource_code": "DictionaryBibleThemes",
+"label": "5668: children, responsibilities to parents",
+"language": "eng"
+},
+{
+"reference_id": "5669",
+"content_id": "5669",
+"resource_code": "DictionaryBibleThemes",
+"label": "5669: children, examples of",
+"language": "eng"
+}
+]
+}
+}
+]

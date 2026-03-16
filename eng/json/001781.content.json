@@ -1,0 +1,74 @@
+[
+{
+"content_id": "7338",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7338: cities of refuge",
+"media_type": "Text",
+"index_reference": "7338: cities of refuge",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Cities set apart at the time of the conquest of Canaan as places of refuge for those who had killed people by accident.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5025",
+"content_id": "5025",
+"resource_code": "DictionaryBibleThemes",
+"label": "5025: killing",
+"language": "eng"
+},
+{
+"reference_id": "5040",
+"content_id": "5040",
+"resource_code": "DictionaryBibleThemes",
+"label": "5040: murder",
+"language": "eng"
+},
+{
+"reference_id": "5490",
+"content_id": "5490",
+"resource_code": "DictionaryBibleThemes",
+"label": "5490: refuge",
+"language": "eng"
+},
+{
+"reference_id": "5491",
+"content_id": "5491",
+"resource_code": "DictionaryBibleThemes",
+"label": "5491: refugees",
+"language": "eng"
+},
+{
+"reference_id": "5511",
+"content_id": "5511",
+"resource_code": "DictionaryBibleThemes",
+"label": "5511: safety",
+"language": "eng"
+},
+{
+"reference_id": "5942",
+"content_id": "5942",
+"resource_code": "DictionaryBibleThemes",
+"label": "5942: security",
+"language": "eng"
+},
+{
+"reference_id": "7310",
+"content_id": "7310",
+"resource_code": "DictionaryBibleThemes",
+"label": "7310: avenger of blood",
+"language": "eng"
+},
+{
+"reference_id": "7438",
+"content_id": "7438",
+"resource_code": "DictionaryBibleThemes",
+"label": "7438: sanctuary",
+"language": "eng"
+}
+]
+}
+}
+]

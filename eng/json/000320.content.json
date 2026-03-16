@@ -1,0 +1,60 @@
+[
+{
+"content_id": "4110",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4110: angels",
+"media_type": "Text",
+"index_reference": "4110: angels",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Spiritual beings who assist God, especially in his work of salvation, conveying his word to human beings and attending to the needs of God's people.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4111",
+"content_id": "4111",
+"resource_code": "DictionaryBibleThemes",
+"label": "4111: angels, as God's servants",
+"language": "eng"
+},
+{
+"reference_id": "4112",
+"content_id": "4112",
+"resource_code": "DictionaryBibleThemes",
+"label": "4112: angels, as God's messengers",
+"language": "eng"
+},
+{
+"reference_id": "4113",
+"content_id": "4113",
+"resource_code": "DictionaryBibleThemes",
+"label": "4113: angels, as agents of God's judgment",
+"language": "eng"
+},
+{
+"reference_id": "4114",
+"content_id": "4114",
+"resource_code": "DictionaryBibleThemes",
+"label": "4114: angels, and praise of God",
+"language": "eng"
+},
+{
+"reference_id": "4115",
+"content_id": "4115",
+"resource_code": "DictionaryBibleThemes",
+"label": "4115: angel, of the Lord",
+"language": "eng"
+},
+{
+"reference_id": "4116",
+"content_id": "4116",
+"resource_code": "DictionaryBibleThemes",
+"label": "4116: angels, opposed to God",
+"language": "eng"
+}
+]
+}
+}
+]

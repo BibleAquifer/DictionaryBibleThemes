@@ -1,0 +1,200 @@
+[
+{
+"content_id": "4428",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4428: corn",
+"media_type": "Text",
+"index_reference": "4428: corn",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A cereal crop cultivated for food use. An important agricultural crop in biblical times, it is mentioned frequently in Scripture.</p>\n<h2>The importance of corn</h2>\n<h3>It was a basic foodstuff</h3>\n<p><strong><a href=\"https://ref.ly/Ps65:9\">PSA 65:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs4:42-2Kgs4:44\">2KI 4:42–4:44</a>; <a href=\"https://ref.ly/Ezek36:24-Ezek36:31\">EZK 36:24–36:31</a>; <a href=\"https://ref.ly/Matt12:1-Matt12:8\">MAT 12:1–12:8</a> parallels <a href=\"https://ref.ly/Mark2:23-Mark2:28\">MRK 2:23–2:28</a>, <a href=\"https://ref.ly/Luke6:1-Luke6:5\">LUK 6:1–6:5</a></p>\n<h3>It was an important cereal crop</h3>\n<p><strong><a href=\"https://ref.ly/Ps72:16\">PSA 72:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg15:1-Judg15:6\">JDG 15:1–15:6</a>; <a href=\"https://ref.ly/Ps65:11-Ps65:13\">PSA 65:11–65:13</a>; <a href=\"https://ref.ly/Isa36:16-Isa36:17\">ISA 36:16–36:17</a></p>\n<h2>Harvesting corn</h2>\n<p><strong><a href=\"https://ref.ly/Mark4:26-Mark4:29\">MRK 4:26–4:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut16:9-Deut16:10\">DEU 16:9–16:10</a>; <a href=\"https://ref.ly/Job24:22-Job24:24\">JOB 24:22–24:24</a>; <a href=\"https://ref.ly/Isa17:4-Isa17:6\">ISA 17:4–17:6</a>; <a href=\"https://ref.ly/Jer9:22\">JER 9:22</a></p>\n<h2>Legislation relating to corn</h2>\n<p><strong><a href=\"https://ref.ly/Deut23:25\">DEU 23:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod22:6\">EXO 22:6</a></p>\n<h2>Corn featuring in dreams</h2>\n<p><strong><a href=\"https://ref.ly/Gen37:5-Gen37:8\">GEN 37:5–37:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen41:5-Gen41:7\">GEN 41:5–41:7</a>, <a href=\"https://ref.ly/Gen41:22-Gen41:32\">GEN 41:22–41:32</a></p>\n<h2>The metaphorical use of corn</h2>\n<p><strong><a href=\"https://ref.ly/Hos14:5-Hos14:7\">HOS 14:5–14:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer50:11-Jer50:13\">JER 50:11–50:13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19065009",
+"start_ref_usfm": "PSA 65:9",
+"end_ref": "19065009",
+"end_ref_usfm": "PSA 65:9"
+},
+{
+"start_ref": "12004042",
+"start_ref_usfm": "2KI 4:42",
+"end_ref": "12004044",
+"end_ref_usfm": "2KI 4:44"
+},
+{
+"start_ref": "26036024",
+"start_ref_usfm": "EZK 36:24",
+"end_ref": "26036031",
+"end_ref_usfm": "EZK 36:31"
+},
+{
+"start_ref": "40012001",
+"start_ref_usfm": "MAT 12:1",
+"end_ref": "40012008",
+"end_ref_usfm": "MAT 12:8"
+},
+{
+"start_ref": "41002023",
+"start_ref_usfm": "MRK 2:23",
+"end_ref": "41002028",
+"end_ref_usfm": "MRK 2:28"
+},
+{
+"start_ref": "42006001",
+"start_ref_usfm": "LUK 6:1",
+"end_ref": "42006005",
+"end_ref_usfm": "LUK 6:5"
+},
+{
+"start_ref": "19072016",
+"start_ref_usfm": "PSA 72:16",
+"end_ref": "19072016",
+"end_ref_usfm": "PSA 72:16"
+},
+{
+"start_ref": "07015001",
+"start_ref_usfm": "JDG 15:1",
+"end_ref": "07015006",
+"end_ref_usfm": "JDG 15:6"
+},
+{
+"start_ref": "19065011",
+"start_ref_usfm": "PSA 65:11",
+"end_ref": "19065013",
+"end_ref_usfm": "PSA 65:13"
+},
+{
+"start_ref": "23036016",
+"start_ref_usfm": "ISA 36:16",
+"end_ref": "23036017",
+"end_ref_usfm": "ISA 36:17"
+},
+{
+"start_ref": "41004026",
+"start_ref_usfm": "MRK 4:26",
+"end_ref": "41004029",
+"end_ref_usfm": "MRK 4:29"
+},
+{
+"start_ref": "05016009",
+"start_ref_usfm": "DEU 16:9",
+"end_ref": "05016010",
+"end_ref_usfm": "DEU 16:10"
+},
+{
+"start_ref": "18024022",
+"start_ref_usfm": "JOB 24:22",
+"end_ref": "18024024",
+"end_ref_usfm": "JOB 24:24"
+},
+{
+"start_ref": "23017004",
+"start_ref_usfm": "ISA 17:4",
+"end_ref": "23017006",
+"end_ref_usfm": "ISA 17:6"
+},
+{
+"start_ref": "24009022",
+"start_ref_usfm": "JER 9:22",
+"end_ref": "24009022",
+"end_ref_usfm": "JER 9:22"
+},
+{
+"start_ref": "05023025",
+"start_ref_usfm": "DEU 23:25",
+"end_ref": "05023025",
+"end_ref_usfm": "DEU 23:25"
+},
+{
+"start_ref": "02022006",
+"start_ref_usfm": "EXO 22:6",
+"end_ref": "02022006",
+"end_ref_usfm": "EXO 22:6"
+},
+{
+"start_ref": "01037005",
+"start_ref_usfm": "GEN 37:5",
+"end_ref": "01037008",
+"end_ref_usfm": "GEN 37:8"
+},
+{
+"start_ref": "01041005",
+"start_ref_usfm": "GEN 41:5",
+"end_ref": "01041007",
+"end_ref_usfm": "GEN 41:7"
+},
+{
+"start_ref": "01041022",
+"start_ref_usfm": "GEN 41:22",
+"end_ref": "01041032",
+"end_ref_usfm": "GEN 41:32"
+},
+{
+"start_ref": "28014005",
+"start_ref_usfm": "HOS 14:5",
+"end_ref": "28014007",
+"end_ref_usfm": "HOS 14:7"
+},
+{
+"start_ref": "24050011",
+"start_ref_usfm": "JER 50:11",
+"end_ref": "24050013",
+"end_ref_usfm": "JER 50:13"
+}
+],
+"resource": [
+{
+"reference_id": "4404",
+"content_id": "4404",
+"resource_code": "DictionaryBibleThemes",
+"label": "4404: food",
+"language": "eng"
+},
+{
+"reference_id": "4406",
+"content_id": "4406",
+"resource_code": "DictionaryBibleThemes",
+"label": "4406: agriculture",
+"language": "eng"
+},
+{
+"reference_id": "4412",
+"content_id": "4412",
+"resource_code": "DictionaryBibleThemes",
+"label": "4412: binding corn",
+"language": "eng"
+},
+{
+"reference_id": "4430",
+"content_id": "4430",
+"resource_code": "DictionaryBibleThemes",
+"label": "4430: crops",
+"language": "eng"
+},
+{
+"reference_id": "4456",
+"content_id": "4456",
+"resource_code": "DictionaryBibleThemes",
+"label": "4456: grain",
+"language": "eng"
+},
+{
+"reference_id": "4464",
+"content_id": "4464",
+"resource_code": "DictionaryBibleThemes",
+"label": "4464: harvest",
+"language": "eng"
+},
+{
+"reference_id": "4542",
+"content_id": "4542",
+"resource_code": "DictionaryBibleThemes",
+"label": "4542: wheat",
+"language": "eng"
+}
+]
+}
+}
+]

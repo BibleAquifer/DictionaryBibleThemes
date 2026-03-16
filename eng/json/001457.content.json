@@ -1,0 +1,275 @@
+[
+{
+"content_id": "5944",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5944: self-defence",
+"media_type": "Text",
+"index_reference": "5944: self-defence",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The people of God in the OT defended themselves, but their ultimate defence was to be God himself. Paul, using the channels open to him, answered false charges against him in the church and before civil authorities. Christians are not to take personal revenge but, following Jesus Christ's example, are to entrust themselves to God.</p>\n<h2>Defence of one's property</h2>\n<p><strong><a href=\"https://ref.ly/Exod22:2-Exod22:3\">EXO 22:2–22:3</a></strong></p>\n<h2>Defence of one's person</h2>\n<h3>The use of a stronghold</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Judg6:2\">JDG 6:2</a>; <a href=\"https://ref.ly/1Sam23:14\">1SA 23:14</a>; <a href=\"https://ref.ly/2Sam5:17\">2SA 5:17</a></p>\n<h3>The strength of numbers</h3>\n<p><strong><a href=\"https://ref.ly/Eccl4:12\">ECC 4:12</a></strong></p>\n<h3>Trust in the Lord</h3>\n<p><strong><a href=\"https://ref.ly/Dan3:16-Dan3:18\">DAN 3:16–3:18</a></strong></p>\n<h2>The example of Jesus Christ in self-defence</h2>\n<p><strong><a href=\"https://ref.ly/1Pet2:20-1Pet2:23\">1PE 2:20–2:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa53:7\">ISA 53:7</a>; <a href=\"https://ref.ly/Matt5:39\">MAT 5:39</a> parallel <a href=\"https://ref.ly/Luke6:29\">LUK 6:29</a>; <a href=\"https://ref.ly/Matt26:52\">MAT 26:52</a>; <a href=\"https://ref.ly/John18:11\">JHN 18:11</a>; <a href=\"https://ref.ly/Rom12:19\">ROM 12:19</a>; <a href=\"https://ref.ly/2Tim4:14\">2TI 4:14</a></p>\n<h2>Defence against spiritual enemies</h2>\n<p><strong><a href=\"https://ref.ly/Acts20:28\">ACT 20:28</a></strong>; <strong><a href=\"https://ref.ly/Eph6:10-Eph6:12\">EPH 6:10–6:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph6:13-Eph6:18\">EPH 6:13–6:18</a></p>\n<h2>Self-defence in the face of false accusations</h2>\n<h3>Paul to the Corinthian church</h3>\n<p><a href=\"https://ref.ly/1Cor9:1-1Cor9:3\">1CO 9:1–9:3</a>; ; <a href=\"https://ref.ly/2Cor12:17-2Cor12:19\">2CO 12:17–12:19</a></p>\n<h3>Paul before the civil authorities</h3>\n<p><a href=\"https://ref.ly/Acts21:39-Acts22:1\">ACT 21:39–22:1</a>, <a href=\"https://ref.ly/Acts22:3-Acts22:21\">ACT 22:3–22:21</a>, <a href=\"https://ref.ly/Acts22:30-Acts23:5\">ACT 22:30–23:5</a>, <a href=\"https://ref.ly/Acts24:10\">ACT 24:10</a>, <a href=\"https://ref.ly/Acts25:6-Acts25:8\">ACT 25:6–25:8</a>, <a href=\"https://ref.ly/Acts25:13-Acts25:16\">ACT 25:13–25:16</a>, <a href=\"https://ref.ly/Acts26:1-Acts26:2\">ACT 26:1–26:2</a>; ; <a href=\"https://ref.ly/2Tim4:16\">2TI 4:16</a></p>\n<h3>The promise of the help of the Holy Spirit</h3>\n<p><strong><a href=\"https://ref.ly/Luke12:11-Luke12:12\">LUK 12:11–12:12</a></strong> parallels <a href=\"https://ref.ly/Matt10:19-Matt10:20\">MAT 10:19–10:20</a>, <a href=\"https://ref.ly/Mark13:11\">MRK 13:11</a> <em>See also</em> <a href=\"https://ref.ly/Luke21:14-Luke21:15\">LUK 21:14–21:15</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02022002",
+"start_ref_usfm": "EXO 22:2",
+"end_ref": "02022003",
+"end_ref_usfm": "EXO 22:3"
+},
+{
+"start_ref": "07006002",
+"start_ref_usfm": "JDG 6:2",
+"end_ref": "07006002",
+"end_ref_usfm": "JDG 6:2"
+},
+{
+"start_ref": "09023014",
+"start_ref_usfm": "1SA 23:14",
+"end_ref": "09023014",
+"end_ref_usfm": "1SA 23:14"
+},
+{
+"start_ref": "10005017",
+"start_ref_usfm": "2SA 5:17",
+"end_ref": "10005017",
+"end_ref_usfm": "2SA 5:17"
+},
+{
+"start_ref": "21004012",
+"start_ref_usfm": "ECC 4:12",
+"end_ref": "21004012",
+"end_ref_usfm": "ECC 4:12"
+},
+{
+"start_ref": "27003016",
+"start_ref_usfm": "DAN 3:16",
+"end_ref": "27003018",
+"end_ref_usfm": "DAN 3:18"
+},
+{
+"start_ref": "60002020",
+"start_ref_usfm": "1PE 2:20",
+"end_ref": "60002023",
+"end_ref_usfm": "1PE 2:23"
+},
+{
+"start_ref": "23053007",
+"start_ref_usfm": "ISA 53:7",
+"end_ref": "23053007",
+"end_ref_usfm": "ISA 53:7"
+},
+{
+"start_ref": "40005039",
+"start_ref_usfm": "MAT 5:39",
+"end_ref": "40005039",
+"end_ref_usfm": "MAT 5:39"
+},
+{
+"start_ref": "42006029",
+"start_ref_usfm": "LUK 6:29",
+"end_ref": "42006029",
+"end_ref_usfm": "LUK 6:29"
+},
+{
+"start_ref": "40026052",
+"start_ref_usfm": "MAT 26:52",
+"end_ref": "40026052",
+"end_ref_usfm": "MAT 26:52"
+},
+{
+"start_ref": "43018011",
+"start_ref_usfm": "JHN 18:11",
+"end_ref": "43018011",
+"end_ref_usfm": "JHN 18:11"
+},
+{
+"start_ref": "45012019",
+"start_ref_usfm": "ROM 12:19",
+"end_ref": "45012019",
+"end_ref_usfm": "ROM 12:19"
+},
+{
+"start_ref": "55004014",
+"start_ref_usfm": "2TI 4:14",
+"end_ref": "55004014",
+"end_ref_usfm": "2TI 4:14"
+},
+{
+"start_ref": "44020028",
+"start_ref_usfm": "ACT 20:28",
+"end_ref": "44020028",
+"end_ref_usfm": "ACT 20:28"
+},
+{
+"start_ref": "49006010",
+"start_ref_usfm": "EPH 6:10",
+"end_ref": "49006012",
+"end_ref_usfm": "EPH 6:12"
+},
+{
+"start_ref": "49006013",
+"start_ref_usfm": "EPH 6:13",
+"end_ref": "49006018",
+"end_ref_usfm": "EPH 6:18"
+},
+{
+"start_ref": "46009001",
+"start_ref_usfm": "1CO 9:1",
+"end_ref": "46009003",
+"end_ref_usfm": "1CO 9:3"
+},
+{
+"start_ref": "47012017",
+"start_ref_usfm": "2CO 12:17",
+"end_ref": "47012019",
+"end_ref_usfm": "2CO 12:19"
+},
+{
+"start_ref": "44021039",
+"start_ref_usfm": "ACT 21:39",
+"end_ref": "44022001",
+"end_ref_usfm": "ACT 22:1"
+},
+{
+"start_ref": "44022003",
+"start_ref_usfm": "ACT 22:3",
+"end_ref": "44022021",
+"end_ref_usfm": "ACT 22:21"
+},
+{
+"start_ref": "44022030",
+"start_ref_usfm": "ACT 22:30",
+"end_ref": "44023005",
+"end_ref_usfm": "ACT 23:5"
+},
+{
+"start_ref": "44024010",
+"start_ref_usfm": "ACT 24:10",
+"end_ref": "44024010",
+"end_ref_usfm": "ACT 24:10"
+},
+{
+"start_ref": "44025006",
+"start_ref_usfm": "ACT 25:6",
+"end_ref": "44025008",
+"end_ref_usfm": "ACT 25:8"
+},
+{
+"start_ref": "44025013",
+"start_ref_usfm": "ACT 25:13",
+"end_ref": "44025016",
+"end_ref_usfm": "ACT 25:16"
+},
+{
+"start_ref": "44026001",
+"start_ref_usfm": "ACT 26:1",
+"end_ref": "44026002",
+"end_ref_usfm": "ACT 26:2"
+},
+{
+"start_ref": "55004016",
+"start_ref_usfm": "2TI 4:16",
+"end_ref": "55004016",
+"end_ref_usfm": "2TI 4:16"
+},
+{
+"start_ref": "42012011",
+"start_ref_usfm": "LUK 12:11",
+"end_ref": "42012012",
+"end_ref_usfm": "LUK 12:12"
+},
+{
+"start_ref": "40010019",
+"start_ref_usfm": "MAT 10:19",
+"end_ref": "40010020",
+"end_ref_usfm": "MAT 10:20"
+},
+{
+"start_ref": "41013011",
+"start_ref_usfm": "MRK 13:11",
+"end_ref": "41013011",
+"end_ref_usfm": "MRK 13:11"
+},
+{
+"start_ref": "42021014",
+"start_ref_usfm": "LUK 21:14",
+"end_ref": "42021015",
+"end_ref_usfm": "LUK 21:15"
+}
+],
+"resource": [
+{
+"reference_id": "3281",
+"content_id": "3281",
+"resource_code": "DictionaryBibleThemes",
+"label": "3281: Holy Spirit, inspiration of",
+"language": "eng"
+},
+{
+"reference_id": "5209",
+"content_id": "5209",
+"resource_code": "DictionaryBibleThemes",
+"label": "5209: armour",
+"language": "eng"
+},
+{
+"reference_id": "5214",
+"content_id": "5214",
+"resource_code": "DictionaryBibleThemes",
+"label": "5214: attack",
+"language": "eng"
+},
+{
+"reference_id": "5291",
+"content_id": "5291",
+"resource_code": "DictionaryBibleThemes",
+"label": "5291: defence",
+"language": "eng"
+},
+{
+"reference_id": "5315",
+"content_id": "5315",
+"resource_code": "DictionaryBibleThemes",
+"label": "5315: fortifications",
+"language": "eng"
+},
+{
+"reference_id": "5480",
+"content_id": "5480",
+"resource_code": "DictionaryBibleThemes",
+"label": "5480: protection",
+"language": "eng"
+},
+{
+"reference_id": "5495",
+"content_id": "5495",
+"resource_code": "DictionaryBibleThemes",
+"label": "5495: revenge, and retaliation",
+"language": "eng"
+},
+{
+"reference_id": "5605",
+"content_id": "5605",
+"resource_code": "DictionaryBibleThemes",
+"label": "5605: warfare",
+"language": "eng"
+},
+{
+"reference_id": "8490",
+"content_id": "8490",
+"resource_code": "DictionaryBibleThemes",
+"label": "8490: watchfulness",
+"language": "eng"
+},
+{
+"reference_id": "8822",
+"content_id": "8822",
+"resource_code": "DictionaryBibleThemes",
+"label": "8822: self-justification",
+"language": "eng"
+}
+]
+}
+}
+]

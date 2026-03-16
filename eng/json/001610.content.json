@@ -1,0 +1,39 @@
+[
+{
+"content_id": "6626",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6626: conversion",
+"media_type": "Text",
+"index_reference": "6626: conversion",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Turning or returning to God in repentance, faith and obedience by those who do not know God or who have turned from him. Although conversion can be seen as a human act or decision, Scripture stresses that the work of God lies behind this human decision, guiding and motivating it.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6627",
+"content_id": "6627",
+"resource_code": "DictionaryBibleThemes",
+"label": "6627: conversion, nature of",
+"language": "eng"
+},
+{
+"reference_id": "6628",
+"content_id": "6628",
+"resource_code": "DictionaryBibleThemes",
+"label": "6628: conversion, God's demands for",
+"language": "eng"
+},
+{
+"reference_id": "6629",
+"content_id": "6629",
+"resource_code": "DictionaryBibleThemes",
+"label": "6629: conversion, examples of",
+"language": "eng"
+}
+]
+}
+}
+]

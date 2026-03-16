@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5823",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5823: cruelty",
+"media_type": "Text",
+"index_reference": "5823: cruelty",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Behaviour in which pain or suffering is deliberately inflicted on others, especially the weak and defenceless.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5824",
+"content_id": "5824",
+"resource_code": "DictionaryBibleThemes",
+"label": "5824: cruelty, examples of",
+"language": "eng"
+},
+{
+"reference_id": "5825",
+"content_id": "5825",
+"resource_code": "DictionaryBibleThemes",
+"label": "5825: cruelty, God's attitude to",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,112 @@
+[
+{
+"content_id": "5892",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5892: instinct",
+"media_type": "Text",
+"index_reference": "5892: instinct",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An innate urge, rooted in natural conditioning rather than reason. Scripture likens sinners to creatures of instinct.</p>\n<h2>Animals are creatures of instinct</h2>\n<p><strong><a href=\"https://ref.ly/2Pet2:12\">2PE 2:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jude1:10\">JUD 1:10</a></p>\n<h2>Sinners are likened to creatures of instinct</h2>\n<p><strong><a href=\"https://ref.ly/Jude1:10\">JUD 1:10</a></strong></p>\n<h2>People without the Holy Spirit are likened to creatures of instinct</h2>\n<p><strong><a href=\"https://ref.ly/Jude1:19\">JUD 1:19</a></strong></p>\n<h2>Believers ought instinctively to obey God</h2>\n<p><strong><a href=\"https://ref.ly/Isa1:3\">ISA 1:3</a></strong> <em>Just as the animals instinctively know their masters, so Israel should know and obey God.</em> <em>See also</em> <a href=\"https://ref.ly/Jer8:7\">JER 8:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "61002012",
+"start_ref_usfm": "2PE 2:12",
+"end_ref": "61002012",
+"end_ref_usfm": "2PE 2:12"
+},
+{
+"start_ref": "65001010",
+"start_ref_usfm": "JUD 1:10",
+"end_ref": "65001010",
+"end_ref_usfm": "JUD 1:10"
+},
+{
+"start_ref": "65001019",
+"start_ref_usfm": "JUD 1:19",
+"end_ref": "65001019",
+"end_ref_usfm": "JUD 1:19"
+},
+{
+"start_ref": "23001003",
+"start_ref_usfm": "ISA 1:3",
+"end_ref": "23001003",
+"end_ref_usfm": "ISA 1:3"
+},
+{
+"start_ref": "24008007",
+"start_ref_usfm": "JER 8:7",
+"end_ref": "24008007",
+"end_ref_usfm": "JER 8:7"
+}
+],
+"resource": [
+{
+"reference_id": "4604",
+"content_id": "4604",
+"resource_code": "DictionaryBibleThemes",
+"label": "4604: animals, nature of",
+"language": "eng"
+},
+{
+"reference_id": "5050",
+"content_id": "5050",
+"resource_code": "DictionaryBibleThemes",
+"label": "5050: reason",
+"language": "eng"
+},
+{
+"reference_id": "5769",
+"content_id": "5769",
+"resource_code": "DictionaryBibleThemes",
+"label": "5769: behaviour",
+"language": "eng"
+},
+{
+"reference_id": "5800",
+"content_id": "5800",
+"resource_code": "DictionaryBibleThemes",
+"label": "5800: blasphemy",
+"language": "eng"
+},
+{
+"reference_id": "5832",
+"content_id": "5832",
+"resource_code": "DictionaryBibleThemes",
+"label": "5832: desire",
+"language": "eng"
+},
+{
+"reference_id": "6040",
+"content_id": "6040",
+"resource_code": "DictionaryBibleThemes",
+"label": "6040: sinners",
+"language": "eng"
+},
+{
+"reference_id": "6257",
+"content_id": "6257",
+"resource_code": "DictionaryBibleThemes",
+"label": "6257: unbelievers",
+"language": "eng"
+},
+{
+"reference_id": "7130",
+"content_id": "7130",
+"resource_code": "DictionaryBibleThemes",
+"label": "7130: flock, God's",
+"language": "eng"
+},
+{
+"reference_id": "8454",
+"content_id": "8454",
+"resource_code": "DictionaryBibleThemes",
+"label": "8454: obedience, to God",
+"language": "eng"
+}
+]
+}
+}
+]

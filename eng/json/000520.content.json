@@ -1,0 +1,108 @@
+[
+{
+"content_id": "4678",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4678: pigeon",
+"media_type": "Text",
+"index_reference": "4678: pigeon",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A bird used, along with doves, for sacrifices, especially by those who could not afford lambs.</p>\n<h2>A pigeon offered as sacrifice</h2>\n<p><strong><a href=\"https://ref.ly/Lev1:14\">LEV 1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen15:9\">GEN 15:9</a>; <a href=\"https://ref.ly/Lev1:15-Lev1:17\">LEV 1:15–1:17</a>, <a href=\"https://ref.ly/Lev14:21-Lev14:22\">LEV 14:21–14:22</a>, <a href=\"https://ref.ly/Lev15:14\">LEV 15:14</a>, <a href=\"https://ref.ly/Lev15:29\">LEV 15:29</a>; <a href=\"https://ref.ly/Num6:10\">NUM 6:10</a></p>\n<h2>Pigeons offered as a sacrifice by the poor</h2>\n<p><strong><a href=\"https://ref.ly/Lev5:7\">LEV 5:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke2:22-Luke2:24\">LUK 2:22–2:24</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03001014",
+"start_ref_usfm": "LEV 1:14",
+"end_ref": "03001014",
+"end_ref_usfm": "LEV 1:14"
+},
+{
+"start_ref": "01015009",
+"start_ref_usfm": "GEN 15:9",
+"end_ref": "01015009",
+"end_ref_usfm": "GEN 15:9"
+},
+{
+"start_ref": "03001015",
+"start_ref_usfm": "LEV 1:15",
+"end_ref": "03001017",
+"end_ref_usfm": "LEV 1:17"
+},
+{
+"start_ref": "03014021",
+"start_ref_usfm": "LEV 14:21",
+"end_ref": "03014022",
+"end_ref_usfm": "LEV 14:22"
+},
+{
+"start_ref": "03015014",
+"start_ref_usfm": "LEV 15:14",
+"end_ref": "03015014",
+"end_ref_usfm": "LEV 15:14"
+},
+{
+"start_ref": "03015029",
+"start_ref_usfm": "LEV 15:29",
+"end_ref": "03015029",
+"end_ref_usfm": "LEV 15:29"
+},
+{
+"start_ref": "04006010",
+"start_ref_usfm": "NUM 6:10",
+"end_ref": "04006010",
+"end_ref_usfm": "NUM 6:10"
+},
+{
+"start_ref": "03005007",
+"start_ref_usfm": "LEV 5:7",
+"end_ref": "03005007",
+"end_ref_usfm": "LEV 5:7"
+},
+{
+"start_ref": "42002022",
+"start_ref_usfm": "LUK 2:22",
+"end_ref": "42002024",
+"end_ref_usfm": "LUK 2:24"
+}
+],
+"resource": [
+{
+"reference_id": "4612",
+"content_id": "4612",
+"resource_code": "DictionaryBibleThemes",
+"label": "4612: birds",
+"language": "eng"
+},
+{
+"reference_id": "4636",
+"content_id": "4636",
+"resource_code": "DictionaryBibleThemes",
+"label": "4636: dove",
+"language": "eng"
+},
+{
+"reference_id": "7340",
+"content_id": "7340",
+"resource_code": "DictionaryBibleThemes",
+"label": "7340: clean and unclean",
+"language": "eng"
+},
+{
+"reference_id": "7402",
+"content_id": "7402",
+"resource_code": "DictionaryBibleThemes",
+"label": "7402: offerings",
+"language": "eng"
+},
+{
+"reference_id": "7435",
+"content_id": "7435",
+"resource_code": "DictionaryBibleThemes",
+"label": "7435: sacrifice, in OT",
+"language": "eng"
+}
+]
+}
+}
+]

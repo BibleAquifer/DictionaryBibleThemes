@@ -1,0 +1,300 @@
+[
+{
+"content_id": "7511",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7511: Gentiles, in OT",
+"media_type": "Text",
+"index_reference": "7511: gentiles, in ot",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Under the OT, Gentiles were generally excluded from the worship of the synagogue and from all the privileges of being Jewish. However, the OT made provision for non-Jews who believed in the God of Israel.</p>\n<h2>Believing foreigners were permitted to participate in worship</h2>\n<p><strong><a href=\"https://ref.ly/Exod12:48-Exod12:49\">EXO 12:48–12:49</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num9:14\">NUM 9:14</a>, <a href=\"https://ref.ly/Num15:13-Num15:16\">NUM 15:13–15:16</a>; <a href=\"https://ref.ly/1Kgs8:41-1Kgs8:43\">1KI 8:41–8:43</a>; <a href=\"https://ref.ly/Isa56:6-Isa56:8\">ISA 56:6–56:8</a></p>\n<h2>Foreigners living in Israel were to be treated kindly</h2>\n<p><strong><a href=\"https://ref.ly/Exod23:9\">EXO 23:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod22:21\">EXO 22:21</a>; <a href=\"https://ref.ly/Lev19:9-Lev19:10\">LEV 19:9–19:10</a>, <a href=\"https://ref.ly/Lev24:22\">LEV 24:22</a>; <a href=\"https://ref.ly/Deut26:12-Deut26:15\">DEU 26:12–26:15</a>, <a href=\"https://ref.ly/Deut27:19\">DEU 27:19</a></p>\n<h2>Divine promises concerning the Gentiles</h2>\n<h3>All people will be blessed through Abraham</h3>\n<p><strong><a href=\"https://ref.ly/Gen12:3\">GEN 12:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:18\">GEN 18:18</a>, <a href=\"https://ref.ly/Gen22:18\">GEN 22:18</a>; <a href=\"https://ref.ly/Gal3:8-Gal3:9\">GAL 3:8–3:9</a></p>\n<h3>All nations will bow before God</h3>\n<p><strong><a href=\"https://ref.ly/Ps22:27-Ps22:28\">PSA 22:27–22:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps86:9\">PSA 86:9</a>; <a href=\"https://ref.ly/Dan7:14\">DAN 7:14</a>; <a href=\"https://ref.ly/Amos9:11-Amos9:12\">AMO 9:11–9:12</a></p>\n<h3>The Gentiles will be enlightened</h3>\n<p><strong><a href=\"https://ref.ly/Isa49:6\">ISA 49:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa9:1-Isa9:2\">ISA 9:1–9:2</a>, <a href=\"https://ref.ly/Isa42:6\">ISA 42:6</a>, <a href=\"https://ref.ly/Isa60:1-Isa60:3\">ISA 60:1–60:3</a>; <a href=\"https://ref.ly/Luke2:30-Luke2:32\">LUK 2:30–2:32</a></p>\n<h3>The Messiah will bring justice to the Gentiles</h3>\n<p><strong><a href=\"https://ref.ly/Matt12:18-Matt12:21\">MAT 12:18–12:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa42:1-Isa42:4\">ISA 42:1–42:4</a></p>\n<h3>Gentiles will become God's people</h3>\n<p><strong><a href=\"https://ref.ly/Rom9:22-Rom9:25\">ROM 9:22–9:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos2:23\">HOS 2:23</a>; <a href=\"https://ref.ly/1Pet2:10\">1PE 2:10</a></p>\n<h3>Gentiles will praise God</h3>\n<p><strong><a href=\"https://ref.ly/Rom15:9-Rom15:12\">ROM 15:9–15:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut32:43\">DEU 32:43</a>; <a href=\"https://ref.ly/2Sam22:50\">2SA 22:50</a>; <a href=\"https://ref.ly/Ps18:49\">PSA 18:49</a>; <a href=\"https://ref.ly/Isa11:10\">ISA 11:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012048",
+"start_ref_usfm": "EXO 12:48",
+"end_ref": "02012049",
+"end_ref_usfm": "EXO 12:49"
+},
+{
+"start_ref": "04009014",
+"start_ref_usfm": "NUM 9:14",
+"end_ref": "04009014",
+"end_ref_usfm": "NUM 9:14"
+},
+{
+"start_ref": "04015013",
+"start_ref_usfm": "NUM 15:13",
+"end_ref": "04015016",
+"end_ref_usfm": "NUM 15:16"
+},
+{
+"start_ref": "11008041",
+"start_ref_usfm": "1KI 8:41",
+"end_ref": "11008043",
+"end_ref_usfm": "1KI 8:43"
+},
+{
+"start_ref": "23056006",
+"start_ref_usfm": "ISA 56:6",
+"end_ref": "23056008",
+"end_ref_usfm": "ISA 56:8"
+},
+{
+"start_ref": "02023009",
+"start_ref_usfm": "EXO 23:9",
+"end_ref": "02023009",
+"end_ref_usfm": "EXO 23:9"
+},
+{
+"start_ref": "02022021",
+"start_ref_usfm": "EXO 22:21",
+"end_ref": "02022021",
+"end_ref_usfm": "EXO 22:21"
+},
+{
+"start_ref": "03019009",
+"start_ref_usfm": "LEV 19:9",
+"end_ref": "03019010",
+"end_ref_usfm": "LEV 19:10"
+},
+{
+"start_ref": "03024022",
+"start_ref_usfm": "LEV 24:22",
+"end_ref": "03024022",
+"end_ref_usfm": "LEV 24:22"
+},
+{
+"start_ref": "05026012",
+"start_ref_usfm": "DEU 26:12",
+"end_ref": "05026015",
+"end_ref_usfm": "DEU 26:15"
+},
+{
+"start_ref": "05027019",
+"start_ref_usfm": "DEU 27:19",
+"end_ref": "05027019",
+"end_ref_usfm": "DEU 27:19"
+},
+{
+"start_ref": "01012003",
+"start_ref_usfm": "GEN 12:3",
+"end_ref": "01012003",
+"end_ref_usfm": "GEN 12:3"
+},
+{
+"start_ref": "01018018",
+"start_ref_usfm": "GEN 18:18",
+"end_ref": "01018018",
+"end_ref_usfm": "GEN 18:18"
+},
+{
+"start_ref": "01022018",
+"start_ref_usfm": "GEN 22:18",
+"end_ref": "01022018",
+"end_ref_usfm": "GEN 22:18"
+},
+{
+"start_ref": "48003008",
+"start_ref_usfm": "GAL 3:8",
+"end_ref": "48003009",
+"end_ref_usfm": "GAL 3:9"
+},
+{
+"start_ref": "19022027",
+"start_ref_usfm": "PSA 22:27",
+"end_ref": "19022028",
+"end_ref_usfm": "PSA 22:28"
+},
+{
+"start_ref": "19086009",
+"start_ref_usfm": "PSA 86:9",
+"end_ref": "19086009",
+"end_ref_usfm": "PSA 86:9"
+},
+{
+"start_ref": "27007014",
+"start_ref_usfm": "DAN 7:14",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
+},
+{
+"start_ref": "30009011",
+"start_ref_usfm": "AMO 9:11",
+"end_ref": "30009012",
+"end_ref_usfm": "AMO 9:12"
+},
+{
+"start_ref": "23049006",
+"start_ref_usfm": "ISA 49:6",
+"end_ref": "23049006",
+"end_ref_usfm": "ISA 49:6"
+},
+{
+"start_ref": "23009001",
+"start_ref_usfm": "ISA 9:1",
+"end_ref": "23009002",
+"end_ref_usfm": "ISA 9:2"
+},
+{
+"start_ref": "23042006",
+"start_ref_usfm": "ISA 42:6",
+"end_ref": "23042006",
+"end_ref_usfm": "ISA 42:6"
+},
+{
+"start_ref": "23060001",
+"start_ref_usfm": "ISA 60:1",
+"end_ref": "23060003",
+"end_ref_usfm": "ISA 60:3"
+},
+{
+"start_ref": "42002030",
+"start_ref_usfm": "LUK 2:30",
+"end_ref": "42002032",
+"end_ref_usfm": "LUK 2:32"
+},
+{
+"start_ref": "40012018",
+"start_ref_usfm": "MAT 12:18",
+"end_ref": "40012021",
+"end_ref_usfm": "MAT 12:21"
+},
+{
+"start_ref": "23042001",
+"start_ref_usfm": "ISA 42:1",
+"end_ref": "23042004",
+"end_ref_usfm": "ISA 42:4"
+},
+{
+"start_ref": "45009022",
+"start_ref_usfm": "ROM 9:22",
+"end_ref": "45009025",
+"end_ref_usfm": "ROM 9:25"
+},
+{
+"start_ref": "28002023",
+"start_ref_usfm": "HOS 2:23",
+"end_ref": "28002023",
+"end_ref_usfm": "HOS 2:23"
+},
+{
+"start_ref": "60002010",
+"start_ref_usfm": "1PE 2:10",
+"end_ref": "60002010",
+"end_ref_usfm": "1PE 2:10"
+},
+{
+"start_ref": "45015009",
+"start_ref_usfm": "ROM 15:9",
+"end_ref": "45015012",
+"end_ref_usfm": "ROM 15:12"
+},
+{
+"start_ref": "05032043",
+"start_ref_usfm": "DEU 32:43",
+"end_ref": "05032043",
+"end_ref_usfm": "DEU 32:43"
+},
+{
+"start_ref": "10022050",
+"start_ref_usfm": "2SA 22:50",
+"end_ref": "10022050",
+"end_ref_usfm": "2SA 22:50"
+},
+{
+"start_ref": "19018049",
+"start_ref_usfm": "PSA 18:49",
+"end_ref": "19018049",
+"end_ref_usfm": "PSA 18:49"
+},
+{
+"start_ref": "23011010",
+"start_ref_usfm": "ISA 11:10",
+"end_ref": "23011010",
+"end_ref_usfm": "ISA 11:10"
+}
+],
+"resource": [
+{
+"reference_id": "2230",
+"content_id": "2230",
+"resource_code": "DictionaryBibleThemes",
+"label": "2230: Messiah, coming of",
+"language": "eng"
+},
+{
+"reference_id": "2375",
+"content_id": "2375",
+"resource_code": "DictionaryBibleThemes",
+"label": "2375: kingdom of God",
+"language": "eng"
+},
+{
+"reference_id": "5075",
+"content_id": "5075",
+"resource_code": "DictionaryBibleThemes",
+"label": "5075: Abraham",
+"language": "eng"
+},
+{
+"reference_id": "5359",
+"content_id": "5359",
+"resource_code": "DictionaryBibleThemes",
+"label": "5359: justice",
+"language": "eng"
+},
+{
+"reference_id": "7141",
+"content_id": "7141",
+"resource_code": "DictionaryBibleThemes",
+"label": "7141: people of God, in OT",
+"language": "eng"
+},
+{
+"reference_id": "7340",
+"content_id": "7340",
+"resource_code": "DictionaryBibleThemes",
+"label": "7340: clean and unclean",
+"language": "eng"
+},
+{
+"reference_id": "7505",
+"content_id": "7505",
+"resource_code": "DictionaryBibleThemes",
+"label": "7505: Jews, the",
+"language": "eng"
+},
+{
+"reference_id": "7530",
+"content_id": "7530",
+"resource_code": "DictionaryBibleThemes",
+"label": "7530: foreigners",
+"language": "eng"
+},
+{
+"reference_id": "7545",
+"content_id": "7545",
+"resource_code": "DictionaryBibleThemes",
+"label": "7545: outsiders",
+"language": "eng"
+},
+{
+"reference_id": "7754",
+"content_id": "7754",
+"resource_code": "DictionaryBibleThemes",
+"label": "7754: preaching",
+"language": "eng"
+},
+{
+"reference_id": "8020",
+"content_id": "8020",
+"resource_code": "DictionaryBibleThemes",
+"label": "8020: faith",
+"language": "eng"
+}
+]
+}
+}
+]

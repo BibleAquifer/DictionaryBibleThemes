@@ -1,0 +1,92 @@
+[
+{
+"content_id": "4845",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4845: rainbow",
+"media_type": "Text",
+"index_reference": "4845: rainbow",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An arch of colours in the sky, formed by the sun's rays passing through raindrops. It was the sign of God's covenant with Noah, established in the aftermath of the great flood.</p>\n<h2>The rainbow as a sign of God's covenant with Noah</h2>\n<p><a href=\"https://ref.ly/Gen9:12-Gen9:17\">GEN 9:12–9:17</a></p>\n<h2>The rainbow as a sign of God's glory</h2>\n<p><a href=\"https://ref.ly/Ezek1:28\">EZK 1:28</a>; ; <a href=\"https://ref.ly/Rev4:3\">REV 4:3</a>, <a href=\"https://ref.ly/Rev10:1\">REV 10:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01009012",
+"start_ref_usfm": "GEN 9:12",
+"end_ref": "01009017",
+"end_ref_usfm": "GEN 9:17"
+},
+{
+"start_ref": "26001028",
+"start_ref_usfm": "EZK 1:28",
+"end_ref": "26001028",
+"end_ref_usfm": "EZK 1:28"
+},
+{
+"start_ref": "66004003",
+"start_ref_usfm": "REV 4:3",
+"end_ref": "66004003",
+"end_ref_usfm": "REV 4:3"
+},
+{
+"start_ref": "66010001",
+"start_ref_usfm": "REV 10:1",
+"end_ref": "66010001",
+"end_ref_usfm": "REV 10:1"
+}
+],
+"resource": [
+{
+"reference_id": "1045",
+"content_id": "1045",
+"resource_code": "DictionaryBibleThemes",
+"label": "1045: God, glory of",
+"language": "eng"
+},
+{
+"reference_id": "1347",
+"content_id": "1347",
+"resource_code": "DictionaryBibleThemes",
+"label": "1347: covenant, God's with Noah",
+"language": "eng"
+},
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "4807",
+"content_id": "4807",
+"resource_code": "DictionaryBibleThemes",
+"label": "4807: colours",
+"language": "eng"
+},
+{
+"reference_id": "4844",
+"content_id": "4844",
+"resource_code": "DictionaryBibleThemes",
+"label": "4844: rain",
+"language": "eng"
+},
+{
+"reference_id": "5106",
+"content_id": "5106",
+"resource_code": "DictionaryBibleThemes",
+"label": "5106: Noah",
+"language": "eng"
+},
+{
+"reference_id": "7227",
+"content_id": "7227",
+"resource_code": "DictionaryBibleThemes",
+"label": "7227: flood, the",
+"language": "eng"
+}
+]
+}
+}
+]

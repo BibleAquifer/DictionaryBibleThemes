@@ -1,0 +1,328 @@
+[
+{
+"content_id": "5723",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5723: nobles",
+"media_type": "Text",
+"index_reference": "5723: nobles",
+"language": "eng",
+"review_level": "None",
+"content": "<p>People of high rank who therefore had great power and importance.</p>\n<h2>Nobles were of high rank</h2>\n<p><strong><a href=\"https://ref.ly/Esth1:14\">EST 1:14</a></strong>; <strong><a href=\"https://ref.ly/Prov25:6-Prov25:7\">PRO 25:6–25:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg5:25\">JDG 5:25</a>; <a href=\"https://ref.ly/1Kgs21:8\">1KI 21:8</a>, <a href=\"https://ref.ly/1Kgs21:11\">1KI 21:11</a>; <a href=\"https://ref.ly/2Kgs24:12\">2KI 24:12</a>; <a href=\"https://ref.ly/2Chr23:20\">2CH 23:20</a>; <a href=\"https://ref.ly/Neh4:14\">NEH 4:14</a>, <a href=\"https://ref.ly/Neh4:19\">NEH 4:19</a>, <a href=\"https://ref.ly/Neh7:5\">NEH 7:5</a>; <a href=\"https://ref.ly/Esth5:11\">EST 5:11</a>; <a href=\"https://ref.ly/Jer27:20\">JER 27:20</a>; <a href=\"https://ref.ly/Luke19:12\">LUK 19:12</a>; <a href=\"https://ref.ly/1Cor1:26\">1CO 1:26</a></p>\n<h2>Nobles had great power and importance</h2>\n<p><strong><a href=\"https://ref.ly/Dan5:1-Dan5:3\">DAN 5:1–5:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg5:13\">JDG 5:13</a>; <a href=\"https://ref.ly/2Sam10:2-2Sam10:3\">2SA 10:2–10:3</a> parallel <a href=\"https://ref.ly/1Chr19:2-1Chr19:3\">1CH 19:2–19:3</a>; <a href=\"https://ref.ly/Esth1:3\">EST 1:3</a>, <a href=\"https://ref.ly/Esth1:11\">EST 1:11</a>, <a href=\"https://ref.ly/Esth1:16\">EST 1:16</a>, <a href=\"https://ref.ly/Esth1:21\">EST 1:21</a>, <a href=\"https://ref.ly/Esth2:18\">EST 2:18</a>, <a href=\"https://ref.ly/Esth9:3\">EST 9:3</a>; <a href=\"https://ref.ly/Ps47:9\">PSA 47:9</a>; <a href=\"https://ref.ly/Prov8:15-Prov8:16\">PRO 8:15–8:16</a>; <a href=\"https://ref.ly/Jer14:3\">JER 14:3</a>; <a href=\"https://ref.ly/Jonah3:7\">JON 3:7</a></p>\n<h2>Nobles' abuse of their rank and power</h2>\n<p><strong><a href=\"https://ref.ly/Neh5:6-Neh5:7\">NEH 5:6–5:7</a>, <a href=\"https://ref.ly/Neh5:12\">NEH 5:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh3:5\">NEH 3:5</a>, <a href=\"https://ref.ly/Neh13:17\">NEH 13:17</a>; <a href=\"https://ref.ly/Ezek34:2\">EZK 34:2</a></p>\n<h2>God's judgment of nobles who abused their power</h2>\n<p><strong><a href=\"https://ref.ly/Job34:18-Job34:19\">JOB 34:18–34:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job12:20-Job12:21\">JOB 12:20–12:21</a>; <a href=\"https://ref.ly/Ps107:40\">PSA 107:40</a>, <a href=\"https://ref.ly/Ps149:6-Ps149:8\">PSA 149:6–149:8</a>; <a href=\"https://ref.ly/Isa5:13-Isa5:14\">ISA 5:13–5:14</a>, <a href=\"https://ref.ly/Isa34:12\">ISA 34:12</a>; <a href=\"https://ref.ly/Ezek17:12\">EZK 17:12</a>; <a href=\"https://ref.ly/Nah3:10\">NAM 3:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "17001014",
+"start_ref_usfm": "EST 1:14",
+"end_ref": "17001014",
+"end_ref_usfm": "EST 1:14"
+},
+{
+"start_ref": "20025006",
+"start_ref_usfm": "PRO 25:6",
+"end_ref": "20025007",
+"end_ref_usfm": "PRO 25:7"
+},
+{
+"start_ref": "07005025",
+"start_ref_usfm": "JDG 5:25",
+"end_ref": "07005025",
+"end_ref_usfm": "JDG 5:25"
+},
+{
+"start_ref": "11021008",
+"start_ref_usfm": "1KI 21:8",
+"end_ref": "11021008",
+"end_ref_usfm": "1KI 21:8"
+},
+{
+"start_ref": "11021011",
+"start_ref_usfm": "1KI 21:11",
+"end_ref": "11021011",
+"end_ref_usfm": "1KI 21:11"
+},
+{
+"start_ref": "12024012",
+"start_ref_usfm": "2KI 24:12",
+"end_ref": "12024012",
+"end_ref_usfm": "2KI 24:12"
+},
+{
+"start_ref": "14023020",
+"start_ref_usfm": "2CH 23:20",
+"end_ref": "14023020",
+"end_ref_usfm": "2CH 23:20"
+},
+{
+"start_ref": "16004014",
+"start_ref_usfm": "NEH 4:14",
+"end_ref": "16004014",
+"end_ref_usfm": "NEH 4:14"
+},
+{
+"start_ref": "16004019",
+"start_ref_usfm": "NEH 4:19",
+"end_ref": "16004019",
+"end_ref_usfm": "NEH 4:19"
+},
+{
+"start_ref": "16007005",
+"start_ref_usfm": "NEH 7:5",
+"end_ref": "16007005",
+"end_ref_usfm": "NEH 7:5"
+},
+{
+"start_ref": "17005011",
+"start_ref_usfm": "EST 5:11",
+"end_ref": "17005011",
+"end_ref_usfm": "EST 5:11"
+},
+{
+"start_ref": "24027020",
+"start_ref_usfm": "JER 27:20",
+"end_ref": "24027020",
+"end_ref_usfm": "JER 27:20"
+},
+{
+"start_ref": "42019012",
+"start_ref_usfm": "LUK 19:12",
+"end_ref": "42019012",
+"end_ref_usfm": "LUK 19:12"
+},
+{
+"start_ref": "46001026",
+"start_ref_usfm": "1CO 1:26",
+"end_ref": "46001026",
+"end_ref_usfm": "1CO 1:26"
+},
+{
+"start_ref": "27005001",
+"start_ref_usfm": "DAN 5:1",
+"end_ref": "27005003",
+"end_ref_usfm": "DAN 5:3"
+},
+{
+"start_ref": "07005013",
+"start_ref_usfm": "JDG 5:13",
+"end_ref": "07005013",
+"end_ref_usfm": "JDG 5:13"
+},
+{
+"start_ref": "10010002",
+"start_ref_usfm": "2SA 10:2",
+"end_ref": "10010003",
+"end_ref_usfm": "2SA 10:3"
+},
+{
+"start_ref": "13019002",
+"start_ref_usfm": "1CH 19:2",
+"end_ref": "13019003",
+"end_ref_usfm": "1CH 19:3"
+},
+{
+"start_ref": "17001003",
+"start_ref_usfm": "EST 1:3",
+"end_ref": "17001003",
+"end_ref_usfm": "EST 1:3"
+},
+{
+"start_ref": "17001011",
+"start_ref_usfm": "EST 1:11",
+"end_ref": "17001011",
+"end_ref_usfm": "EST 1:11"
+},
+{
+"start_ref": "17001016",
+"start_ref_usfm": "EST 1:16",
+"end_ref": "17001016",
+"end_ref_usfm": "EST 1:16"
+},
+{
+"start_ref": "17001021",
+"start_ref_usfm": "EST 1:21",
+"end_ref": "17001021",
+"end_ref_usfm": "EST 1:21"
+},
+{
+"start_ref": "17002018",
+"start_ref_usfm": "EST 2:18",
+"end_ref": "17002018",
+"end_ref_usfm": "EST 2:18"
+},
+{
+"start_ref": "17009003",
+"start_ref_usfm": "EST 9:3",
+"end_ref": "17009003",
+"end_ref_usfm": "EST 9:3"
+},
+{
+"start_ref": "19047009",
+"start_ref_usfm": "PSA 47:9",
+"end_ref": "19047009",
+"end_ref_usfm": "PSA 47:9"
+},
+{
+"start_ref": "20008015",
+"start_ref_usfm": "PRO 8:15",
+"end_ref": "20008016",
+"end_ref_usfm": "PRO 8:16"
+},
+{
+"start_ref": "24014003",
+"start_ref_usfm": "JER 14:3",
+"end_ref": "24014003",
+"end_ref_usfm": "JER 14:3"
+},
+{
+"start_ref": "32003007",
+"start_ref_usfm": "JON 3:7",
+"end_ref": "32003007",
+"end_ref_usfm": "JON 3:7"
+},
+{
+"start_ref": "16005006",
+"start_ref_usfm": "NEH 5:6",
+"end_ref": "16005007",
+"end_ref_usfm": "NEH 5:7"
+},
+{
+"start_ref": "16005012",
+"start_ref_usfm": "NEH 5:12",
+"end_ref": "16005012",
+"end_ref_usfm": "NEH 5:12"
+},
+{
+"start_ref": "16003005",
+"start_ref_usfm": "NEH 3:5",
+"end_ref": "16003005",
+"end_ref_usfm": "NEH 3:5"
+},
+{
+"start_ref": "16013017",
+"start_ref_usfm": "NEH 13:17",
+"end_ref": "16013017",
+"end_ref_usfm": "NEH 13:17"
+},
+{
+"start_ref": "26034002",
+"start_ref_usfm": "EZK 34:2",
+"end_ref": "26034002",
+"end_ref_usfm": "EZK 34:2"
+},
+{
+"start_ref": "18034018",
+"start_ref_usfm": "JOB 34:18",
+"end_ref": "18034019",
+"end_ref_usfm": "JOB 34:19"
+},
+{
+"start_ref": "18012020",
+"start_ref_usfm": "JOB 12:20",
+"end_ref": "18012021",
+"end_ref_usfm": "JOB 12:21"
+},
+{
+"start_ref": "19107040",
+"start_ref_usfm": "PSA 107:40",
+"end_ref": "19107040",
+"end_ref_usfm": "PSA 107:40"
+},
+{
+"start_ref": "19149006",
+"start_ref_usfm": "PSA 149:6",
+"end_ref": "19149008",
+"end_ref_usfm": "PSA 149:8"
+},
+{
+"start_ref": "23005013",
+"start_ref_usfm": "ISA 5:13",
+"end_ref": "23005014",
+"end_ref_usfm": "ISA 5:14"
+},
+{
+"start_ref": "23034012",
+"start_ref_usfm": "ISA 34:12",
+"end_ref": "23034012",
+"end_ref_usfm": "ISA 34:12"
+},
+{
+"start_ref": "26017012",
+"start_ref_usfm": "EZK 17:12",
+"end_ref": "26017012",
+"end_ref_usfm": "EZK 17:12"
+},
+{
+"start_ref": "34003010",
+"start_ref_usfm": "NAM 3:10",
+"end_ref": "34003010",
+"end_ref_usfm": "NAM 3:10"
+}
+],
+"resource": [
+{
+"reference_id": "5347",
+"content_id": "5347",
+"resource_code": "DictionaryBibleThemes",
+"label": "5347: injustice",
+"language": "eng"
+},
+{
+"reference_id": "5395",
+"content_id": "5395",
+"resource_code": "DictionaryBibleThemes",
+"label": "5395: lordship, human and divine",
+"language": "eng"
+},
+{
+"reference_id": "5457",
+"content_id": "5457",
+"resource_code": "DictionaryBibleThemes",
+"label": "5457: power, human",
+"language": "eng"
+},
+{
+"reference_id": "5489",
+"content_id": "5489",
+"resource_code": "DictionaryBibleThemes",
+"label": "5489: rank",
+"language": "eng"
+},
+{
+"reference_id": "5509",
+"content_id": "5509",
+"resource_code": "DictionaryBibleThemes",
+"label": "5509: rulers",
+"language": "eng"
+},
+{
+"reference_id": "5878",
+"content_id": "5878",
+"resource_code": "DictionaryBibleThemes",
+"label": "5878: honour",
+"language": "eng"
+},
+{
+"reference_id": "7735",
+"content_id": "7735",
+"resource_code": "DictionaryBibleThemes",
+"label": "7735: leaders, political",
+"language": "eng"
+},
+{
+"reference_id": "8790",
+"content_id": "8790",
+"resource_code": "DictionaryBibleThemes",
+"label": "8790: oppression",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

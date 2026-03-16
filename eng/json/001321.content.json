@@ -1,0 +1,287 @@
+[
+{
+"content_id": "5799",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5799: bitterness",
+"media_type": "Text",
+"index_reference": "5799: bitterness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A feeling of anger and resentment, caused particularly by perceived unfairness in suffering or by adverse circumstances.</p>\n<h2>The causes of bitterness</h2>\n<h3>Adverse personal circumstances</h3>\n<p><strong><a href=\"https://ref.ly/Job10:1\">JOB 10:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:34\">GEN 27:34</a>; <a href=\"https://ref.ly/Ruth1:20\">RUT 1:20</a> <em>“Mara” means “bitter”</em>; <a href=\"https://ref.ly/1Sam30:6\">1SA 30:6</a>; <a href=\"https://ref.ly/2Sam13:36\">2SA 13:36</a>; <a href=\"https://ref.ly/2Kgs4:27\">2KI 4:27</a>; <a href=\"https://ref.ly/Ps55:4-Ps55:14\">PSA 55:4–55:14</a>; <a href=\"https://ref.ly/Prov17:25\">PRO 17:25</a>; <a href=\"https://ref.ly/Jer6:26\">JER 6:26</a></p>\n<h3>External circumstances</h3>\n<p><strong><a href=\"https://ref.ly/Ezek3:14\">EZK 3:14</a></strong> <em>Because of the exiles' hardness of heart.</em> <em>See also</em> <a href=\"https://ref.ly/Job21:25\">JOB 21:25</a>, <a href=\"https://ref.ly/Job27:2\">JOB 27:2</a>; <a href=\"https://ref.ly/Lam3:1-Lam3:20\">LAM 3:1–3:20</a>; <a href=\"https://ref.ly/Ezek21:6\">EZK 21:6</a></p>\n<h3>Human failure</h3>\n<p><strong><a href=\"https://ref.ly/Matt26:75\">MAT 26:75</a></strong> parallel <a href=\"https://ref.ly/Luke22:61-Luke22:62\">LUK 22:61–22:62</a> <em>See also</em> <a href=\"https://ref.ly/Ezra10:1\">EZR 10:1</a>; <a href=\"https://ref.ly/Jer2:19\">JER 2:19</a>, <a href=\"https://ref.ly/Jer4:18\">JER 4:18</a>; <a href=\"https://ref.ly/Lam1:4\">LAM 1:4</a></p>\n<h2>Bitterness is evidence of a sinful heart</h2>\n<p><strong><a href=\"https://ref.ly/Acts8:23\">ACT 8:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom3:10-Rom3:18\">ROM 3:10–3:18</a></p>\n<h2>Bitterness is to be avoided</h2>\n<p><strong><a href=\"https://ref.ly/Heb12:15\">HEB 12:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph4:31\">EPH 4:31</a>; <a href=\"https://ref.ly/Jas3:14\">JAS 3:14</a></p>\n<h2>The remedy for bitterness</h2>\n<h3>Forgiveness</h3>\n<p><a href=\"https://ref.ly/Gen33:1-Gen33:11\">GEN 33:1–33:11</a>; ; <a href=\"https://ref.ly/Luke15:25-Luke15:32\">LUK 15:25–15:32</a>; ; <a href=\"https://ref.ly/Eph4:31-Eph4:32\">EPH 4:31–4:32</a></p>\n<h3>The causes of bitterness will pass away</h3>\n<p><strong><a href=\"https://ref.ly/Ps37:1-Ps37:2\">PSA 37:1–37:2</a></strong></p>\n<h2>Examples of bitterness in people's lives</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Ruth1:19-Ruth1:21\">RUT 1:19–1:21</a>; <a href=\"https://ref.ly/2Sam13:22\">2SA 13:22</a>; <a href=\"https://ref.ly/Esth5:9\">EST 5:9</a>; <a href=\"https://ref.ly/Luke15:30\">LUK 15:30</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18010001",
+"start_ref_usfm": "JOB 10:1",
+"end_ref": "18010001",
+"end_ref_usfm": "JOB 10:1"
+},
+{
+"start_ref": "01027034",
+"start_ref_usfm": "GEN 27:34",
+"end_ref": "01027034",
+"end_ref_usfm": "GEN 27:34"
+},
+{
+"start_ref": "08001020",
+"start_ref_usfm": "RUT 1:20",
+"end_ref": "08001020",
+"end_ref_usfm": "RUT 1:20"
+},
+{
+"start_ref": "09030006",
+"start_ref_usfm": "1SA 30:6",
+"end_ref": "09030006",
+"end_ref_usfm": "1SA 30:6"
+},
+{
+"start_ref": "10013036",
+"start_ref_usfm": "2SA 13:36",
+"end_ref": "10013036",
+"end_ref_usfm": "2SA 13:36"
+},
+{
+"start_ref": "12004027",
+"start_ref_usfm": "2KI 4:27",
+"end_ref": "12004027",
+"end_ref_usfm": "2KI 4:27"
+},
+{
+"start_ref": "19055004",
+"start_ref_usfm": "PSA 55:4",
+"end_ref": "19055014",
+"end_ref_usfm": "PSA 55:14"
+},
+{
+"start_ref": "20017025",
+"start_ref_usfm": "PRO 17:25",
+"end_ref": "20017025",
+"end_ref_usfm": "PRO 17:25"
+},
+{
+"start_ref": "24006026",
+"start_ref_usfm": "JER 6:26",
+"end_ref": "24006026",
+"end_ref_usfm": "JER 6:26"
+},
+{
+"start_ref": "26003014",
+"start_ref_usfm": "EZK 3:14",
+"end_ref": "26003014",
+"end_ref_usfm": "EZK 3:14"
+},
+{
+"start_ref": "18021025",
+"start_ref_usfm": "JOB 21:25",
+"end_ref": "18021025",
+"end_ref_usfm": "JOB 21:25"
+},
+{
+"start_ref": "18027002",
+"start_ref_usfm": "JOB 27:2",
+"end_ref": "18027002",
+"end_ref_usfm": "JOB 27:2"
+},
+{
+"start_ref": "25003001",
+"start_ref_usfm": "LAM 3:1",
+"end_ref": "25003020",
+"end_ref_usfm": "LAM 3:20"
+},
+{
+"start_ref": "26021006",
+"start_ref_usfm": "EZK 21:6",
+"end_ref": "26021006",
+"end_ref_usfm": "EZK 21:6"
+},
+{
+"start_ref": "40026075",
+"start_ref_usfm": "MAT 26:75",
+"end_ref": "40026075",
+"end_ref_usfm": "MAT 26:75"
+},
+{
+"start_ref": "42022061",
+"start_ref_usfm": "LUK 22:61",
+"end_ref": "42022062",
+"end_ref_usfm": "LUK 22:62"
+},
+{
+"start_ref": "15010001",
+"start_ref_usfm": "EZR 10:1",
+"end_ref": "15010001",
+"end_ref_usfm": "EZR 10:1"
+},
+{
+"start_ref": "24002019",
+"start_ref_usfm": "JER 2:19",
+"end_ref": "24002019",
+"end_ref_usfm": "JER 2:19"
+},
+{
+"start_ref": "24004018",
+"start_ref_usfm": "JER 4:18",
+"end_ref": "24004018",
+"end_ref_usfm": "JER 4:18"
+},
+{
+"start_ref": "25001004",
+"start_ref_usfm": "LAM 1:4",
+"end_ref": "25001004",
+"end_ref_usfm": "LAM 1:4"
+},
+{
+"start_ref": "44008023",
+"start_ref_usfm": "ACT 8:23",
+"end_ref": "44008023",
+"end_ref_usfm": "ACT 8:23"
+},
+{
+"start_ref": "45003010",
+"start_ref_usfm": "ROM 3:10",
+"end_ref": "45003018",
+"end_ref_usfm": "ROM 3:18"
+},
+{
+"start_ref": "58012015",
+"start_ref_usfm": "HEB 12:15",
+"end_ref": "58012015",
+"end_ref_usfm": "HEB 12:15"
+},
+{
+"start_ref": "49004031",
+"start_ref_usfm": "EPH 4:31",
+"end_ref": "49004031",
+"end_ref_usfm": "EPH 4:31"
+},
+{
+"start_ref": "59003014",
+"start_ref_usfm": "JAS 3:14",
+"end_ref": "59003014",
+"end_ref_usfm": "JAS 3:14"
+},
+{
+"start_ref": "01033001",
+"start_ref_usfm": "GEN 33:1",
+"end_ref": "01033011",
+"end_ref_usfm": "GEN 33:11"
+},
+{
+"start_ref": "42015025",
+"start_ref_usfm": "LUK 15:25",
+"end_ref": "42015032",
+"end_ref_usfm": "LUK 15:32"
+},
+{
+"start_ref": "49004031",
+"start_ref_usfm": "EPH 4:31",
+"end_ref": "49004032",
+"end_ref_usfm": "EPH 4:32"
+},
+{
+"start_ref": "19037001",
+"start_ref_usfm": "PSA 37:1",
+"end_ref": "19037002",
+"end_ref_usfm": "PSA 37:2"
+},
+{
+"start_ref": "08001019",
+"start_ref_usfm": "RUT 1:19",
+"end_ref": "08001021",
+"end_ref_usfm": "RUT 1:21"
+},
+{
+"start_ref": "10013022",
+"start_ref_usfm": "2SA 13:22",
+"end_ref": "10013022",
+"end_ref_usfm": "2SA 13:22"
+},
+{
+"start_ref": "17005009",
+"start_ref_usfm": "EST 5:9",
+"end_ref": "17005009",
+"end_ref_usfm": "EST 5:9"
+},
+{
+"start_ref": "42015030",
+"start_ref_usfm": "LUK 15:30",
+"end_ref": "42015030",
+"end_ref_usfm": "LUK 15:30"
+}
+],
+"resource": [
+{
+"reference_id": "4452",
+"content_id": "4452",
+"resource_code": "DictionaryBibleThemes",
+"label": "4452: gall",
+"language": "eng"
+},
+{
+"reference_id": "4500",
+"content_id": "4500",
+"resource_code": "DictionaryBibleThemes",
+"label": "4500: poison",
+"language": "eng"
+},
+{
+"reference_id": "5494",
+"content_id": "5494",
+"resource_code": "DictionaryBibleThemes",
+"label": "5494: revenge",
+"language": "eng"
+},
+{
+"reference_id": "5560",
+"content_id": "5560",
+"resource_code": "DictionaryBibleThemes",
+"label": "5560: suffering",
+"language": "eng"
+},
+{
+"reference_id": "5875",
+"content_id": "5875",
+"resource_code": "DictionaryBibleThemes",
+"label": "5875: hatred",
+"language": "eng"
+},
+{
+"reference_id": "5927",
+"content_id": "5927",
+"resource_code": "DictionaryBibleThemes",
+"label": "5927: resentment",
+"language": "eng"
+},
+{
+"reference_id": "5952",
+"content_id": "5952",
+"resource_code": "DictionaryBibleThemes",
+"label": "5952: sorrow",
+"language": "eng"
+},
+{
+"reference_id": "6178",
+"content_id": "6178",
+"resource_code": "DictionaryBibleThemes",
+"label": "6178: hardness of heart",
+"language": "eng"
+},
+{
+"reference_id": "6227",
+"content_id": "6227",
+"resource_code": "DictionaryBibleThemes",
+"label": "6227: regret",
+"language": "eng"
+},
+{
+"reference_id": "6652",
+"content_id": "6652",
+"resource_code": "DictionaryBibleThemes",
+"label": "6652: forgiveness",
+"language": "eng"
+}
+]
+}
+}
+]

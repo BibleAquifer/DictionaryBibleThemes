@@ -1,0 +1,343 @@
+[
+{
+"content_id": "4542",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4542: wheat",
+"media_type": "Text",
+"index_reference": "4542: wheat",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A cereal widely cultivated for use as food. One of the main agricultural crops in biblical times, it is referred to throughout the Scriptures and features several times in Jesus Christ's teaching.</p>\n<h2>The cultivation of wheat</h2>\n<h3>Sowing wheat</h3>\n<p><strong><a href=\"https://ref.ly/Isa28:24-Isa28:25\">ISA 28:24–28:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer12:13\">JER 12:13</a>; <a href=\"https://ref.ly/1Cor15:37-1Cor15:38\">1CO 15:37–15:38</a></p>\n<h3>The growth of the plant</h3>\n<p><strong><a href=\"https://ref.ly/Exod9:31-Exod9:32\">EXO 9:31–9:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/John12:24\">JHN 12:24</a></p>\n<h3>The wheat harvest</h3>\n<p><strong><a href=\"https://ref.ly/1Sam6:13\">1SA 6:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen30:14\">GEN 30:14</a>; <a href=\"https://ref.ly/Judg15:1\">JDG 15:1</a>; <a href=\"https://ref.ly/Ruth2:23\">RUT 2:23</a>; <a href=\"https://ref.ly/1Sam12:16-1Sam12:18\">1SA 12:16–12:18</a>; <a href=\"https://ref.ly/Joel1:8-Joel1:11\">JOL 1:8–1:11</a></p>\n<h3>Threshing wheat</h3>\n<p><strong><a href=\"https://ref.ly/Judg6:11\">JDG 6:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr21:18-1Chr21:28\">1CH 21:18–21:28</a></p>\n<h3>The parable of the wheat and the weeds</h3>\n<p><a href=\"https://ref.ly/Matt13:24-Matt13:30\">MAT 13:24–13:30</a>, <a href=\"https://ref.ly/Matt13:36-Matt13:43\">MAT 13:36–13:43</a></p>\n<h2>Wheat as food</h2>\n<p><strong><a href=\"https://ref.ly/Ps81:13-Ps81:16\">PSA 81:13–81:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut8:7-Deut8:8\">DEU 8:7–8:8</a>, <a href=\"https://ref.ly/Deut32:13-Deut32:14\">DEU 32:13–32:14</a>; <a href=\"https://ref.ly/2Sam17:27-2Sam17:29\">2SA 17:27–17:29</a>; <a href=\"https://ref.ly/Ps147:12-Ps147:14\">PSA 147:12–147:14</a>; <a href=\"https://ref.ly/Jer41:4-Jer41:8\">JER 41:4–41:8</a>; <a href=\"https://ref.ly/Ezek4:9-Ezek4:13\">EZK 4:9–4:13</a></p>\n<h2>Offerings of wheat</h2>\n<p><strong><a href=\"https://ref.ly/Exod34:22\">EXO 34:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod29:2-Exod29:3\">EXO 29:2–29:3</a>; <a href=\"https://ref.ly/Ezra6:9\">EZR 6:9</a>, <a href=\"https://ref.ly/Ezra7:21-Ezra7:23\">EZR 7:21–7:23</a>; <a href=\"https://ref.ly/Ezek45:13\">EZK 45:13</a></p>\n<h2>Trade in wheat</h2>\n<p><strong><a href=\"https://ref.ly/Ezek27:17\">EZK 27:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Amos8:4-Amos8:6\">AMO 8:4–8:6</a>; <a href=\"https://ref.ly/Rev18:11-Rev18:13\">REV 18:11–18:13</a></p>\n<h2>Wheat as payment or tribute</h2>\n<p><strong><a href=\"https://ref.ly/2Chr2:8-2Chr2:10\">2CH 2:8–2:10</a></strong> parallel <a href=\"https://ref.ly/1Kgs5:11\">1KI 5:11</a> <em>See also</em> <a href=\"https://ref.ly/2Chr2:15-2Chr2:16\">2CH 2:15–2:16</a>, <a href=\"https://ref.ly/2Chr27:5\">2CH 27:5</a>; <a href=\"https://ref.ly/Luke16:1-Luke16:7\">LUK 16:1–16:7</a>; <a href=\"https://ref.ly/Rev6:6\">REV 6:6</a></p>\n<h2>Metaphorical references to wheat</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:11-Matt3:12\">MAT 3:11–3:12</a></strong> parallel <a href=\"https://ref.ly/Luke3:16-Luke3:17\">LUK 3:16–3:17</a> <em>See also</em> <a href=\"https://ref.ly/Song7:2\">SNG 7:2</a>; <a href=\"https://ref.ly/Luke22:31-Luke22:32\">LUK 22:31–22:32</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23028024",
+"start_ref_usfm": "ISA 28:24",
+"end_ref": "23028025",
+"end_ref_usfm": "ISA 28:25"
+},
+{
+"start_ref": "24012013",
+"start_ref_usfm": "JER 12:13",
+"end_ref": "24012013",
+"end_ref_usfm": "JER 12:13"
+},
+{
+"start_ref": "46015037",
+"start_ref_usfm": "1CO 15:37",
+"end_ref": "46015038",
+"end_ref_usfm": "1CO 15:38"
+},
+{
+"start_ref": "02009031",
+"start_ref_usfm": "EXO 9:31",
+"end_ref": "02009032",
+"end_ref_usfm": "EXO 9:32"
+},
+{
+"start_ref": "43012024",
+"start_ref_usfm": "JHN 12:24",
+"end_ref": "43012024",
+"end_ref_usfm": "JHN 12:24"
+},
+{
+"start_ref": "09006013",
+"start_ref_usfm": "1SA 6:13",
+"end_ref": "09006013",
+"end_ref_usfm": "1SA 6:13"
+},
+{
+"start_ref": "01030014",
+"start_ref_usfm": "GEN 30:14",
+"end_ref": "01030014",
+"end_ref_usfm": "GEN 30:14"
+},
+{
+"start_ref": "07015001",
+"start_ref_usfm": "JDG 15:1",
+"end_ref": "07015001",
+"end_ref_usfm": "JDG 15:1"
+},
+{
+"start_ref": "08002023",
+"start_ref_usfm": "RUT 2:23",
+"end_ref": "08002023",
+"end_ref_usfm": "RUT 2:23"
+},
+{
+"start_ref": "09012016",
+"start_ref_usfm": "1SA 12:16",
+"end_ref": "09012018",
+"end_ref_usfm": "1SA 12:18"
+},
+{
+"start_ref": "29001008",
+"start_ref_usfm": "JOL 1:8",
+"end_ref": "29001011",
+"end_ref_usfm": "JOL 1:11"
+},
+{
+"start_ref": "07006011",
+"start_ref_usfm": "JDG 6:11",
+"end_ref": "07006011",
+"end_ref_usfm": "JDG 6:11"
+},
+{
+"start_ref": "13021018",
+"start_ref_usfm": "1CH 21:18",
+"end_ref": "13021028",
+"end_ref_usfm": "1CH 21:28"
+},
+{
+"start_ref": "40013024",
+"start_ref_usfm": "MAT 13:24",
+"end_ref": "40013030",
+"end_ref_usfm": "MAT 13:30"
+},
+{
+"start_ref": "40013036",
+"start_ref_usfm": "MAT 13:36",
+"end_ref": "40013043",
+"end_ref_usfm": "MAT 13:43"
+},
+{
+"start_ref": "19081013",
+"start_ref_usfm": "PSA 81:13",
+"end_ref": "19081016",
+"end_ref_usfm": "PSA 81:16"
+},
+{
+"start_ref": "05008007",
+"start_ref_usfm": "DEU 8:7",
+"end_ref": "05008008",
+"end_ref_usfm": "DEU 8:8"
+},
+{
+"start_ref": "05032013",
+"start_ref_usfm": "DEU 32:13",
+"end_ref": "05032014",
+"end_ref_usfm": "DEU 32:14"
+},
+{
+"start_ref": "10017027",
+"start_ref_usfm": "2SA 17:27",
+"end_ref": "10017029",
+"end_ref_usfm": "2SA 17:29"
+},
+{
+"start_ref": "19147012",
+"start_ref_usfm": "PSA 147:12",
+"end_ref": "19147014",
+"end_ref_usfm": "PSA 147:14"
+},
+{
+"start_ref": "24041004",
+"start_ref_usfm": "JER 41:4",
+"end_ref": "24041008",
+"end_ref_usfm": "JER 41:8"
+},
+{
+"start_ref": "26004009",
+"start_ref_usfm": "EZK 4:9",
+"end_ref": "26004013",
+"end_ref_usfm": "EZK 4:13"
+},
+{
+"start_ref": "02034022",
+"start_ref_usfm": "EXO 34:22",
+"end_ref": "02034022",
+"end_ref_usfm": "EXO 34:22"
+},
+{
+"start_ref": "02029002",
+"start_ref_usfm": "EXO 29:2",
+"end_ref": "02029003",
+"end_ref_usfm": "EXO 29:3"
+},
+{
+"start_ref": "15006009",
+"start_ref_usfm": "EZR 6:9",
+"end_ref": "15006009",
+"end_ref_usfm": "EZR 6:9"
+},
+{
+"start_ref": "15007021",
+"start_ref_usfm": "EZR 7:21",
+"end_ref": "15007023",
+"end_ref_usfm": "EZR 7:23"
+},
+{
+"start_ref": "26045013",
+"start_ref_usfm": "EZK 45:13",
+"end_ref": "26045013",
+"end_ref_usfm": "EZK 45:13"
+},
+{
+"start_ref": "26027017",
+"start_ref_usfm": "EZK 27:17",
+"end_ref": "26027017",
+"end_ref_usfm": "EZK 27:17"
+},
+{
+"start_ref": "30008004",
+"start_ref_usfm": "AMO 8:4",
+"end_ref": "30008006",
+"end_ref_usfm": "AMO 8:6"
+},
+{
+"start_ref": "66018011",
+"start_ref_usfm": "REV 18:11",
+"end_ref": "66018013",
+"end_ref_usfm": "REV 18:13"
+},
+{
+"start_ref": "14002008",
+"start_ref_usfm": "2CH 2:8",
+"end_ref": "14002010",
+"end_ref_usfm": "2CH 2:10"
+},
+{
+"start_ref": "11005011",
+"start_ref_usfm": "1KI 5:11",
+"end_ref": "11005011",
+"end_ref_usfm": "1KI 5:11"
+},
+{
+"start_ref": "14002015",
+"start_ref_usfm": "2CH 2:15",
+"end_ref": "14002016",
+"end_ref_usfm": "2CH 2:16"
+},
+{
+"start_ref": "14027005",
+"start_ref_usfm": "2CH 27:5",
+"end_ref": "14027005",
+"end_ref_usfm": "2CH 27:5"
+},
+{
+"start_ref": "42016001",
+"start_ref_usfm": "LUK 16:1",
+"end_ref": "42016007",
+"end_ref_usfm": "LUK 16:7"
+},
+{
+"start_ref": "66006006",
+"start_ref_usfm": "REV 6:6",
+"end_ref": "66006006",
+"end_ref_usfm": "REV 6:6"
+},
+{
+"start_ref": "40003011",
+"start_ref_usfm": "MAT 3:11",
+"end_ref": "40003012",
+"end_ref_usfm": "MAT 3:12"
+},
+{
+"start_ref": "42003016",
+"start_ref_usfm": "LUK 3:16",
+"end_ref": "42003017",
+"end_ref_usfm": "LUK 3:17"
+},
+{
+"start_ref": "22007002",
+"start_ref_usfm": "SNG 7:2",
+"end_ref": "22007002",
+"end_ref_usfm": "SNG 7:2"
+},
+{
+"start_ref": "42022031",
+"start_ref_usfm": "LUK 22:31",
+"end_ref": "42022032",
+"end_ref_usfm": "LUK 22:32"
+}
+],
+"resource": [
+{
+"reference_id": "4404",
+"content_id": "4404",
+"resource_code": "DictionaryBibleThemes",
+"label": "4404: food",
+"language": "eng"
+},
+{
+"reference_id": "4426",
+"content_id": "4426",
+"resource_code": "DictionaryBibleThemes",
+"label": "4426: chaff",
+"language": "eng"
+},
+{
+"reference_id": "4428",
+"content_id": "4428",
+"resource_code": "DictionaryBibleThemes",
+"label": "4428: corn",
+"language": "eng"
+},
+{
+"reference_id": "4430",
+"content_id": "4430",
+"resource_code": "DictionaryBibleThemes",
+"label": "4430: crops",
+"language": "eng"
+},
+{
+"reference_id": "4456",
+"content_id": "4456",
+"resource_code": "DictionaryBibleThemes",
+"label": "4456: grain",
+"language": "eng"
+},
+{
+"reference_id": "4464",
+"content_id": "4464",
+"resource_code": "DictionaryBibleThemes",
+"label": "4464: harvest",
+"language": "eng"
+},
+{
+"reference_id": "4510",
+"content_id": "4510",
+"resource_code": "DictionaryBibleThemes",
+"label": "4510: sowing and reaping",
+"language": "eng"
+},
+{
+"reference_id": "4522",
+"content_id": "4522",
+"resource_code": "DictionaryBibleThemes",
+"label": "4522: threshing",
+"language": "eng"
+},
+{
+"reference_id": "4524",
+"content_id": "4524",
+"resource_code": "DictionaryBibleThemes",
+"label": "4524: threshing-floor",
+"language": "eng"
+},
+{
+"reference_id": "4540",
+"content_id": "4540",
+"resource_code": "DictionaryBibleThemes",
+"label": "4540: weeds",
+"language": "eng"
+},
+{
+"reference_id": "5282",
+"content_id": "5282",
+"resource_code": "DictionaryBibleThemes",
+"label": "5282: crushing",
+"language": "eng"
+},
+{
+"reference_id": "7368",
+"content_id": "7368",
+"resource_code": "DictionaryBibleThemes",
+"label": "7368: grain offering",
+"language": "eng"
+}
+]
+}
+}
+]

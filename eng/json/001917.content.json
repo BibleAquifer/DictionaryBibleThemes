@@ -1,0 +1,74 @@
+[
+{
+"content_id": "7754",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7754: preaching",
+"media_type": "Text",
+"index_reference": "7754: preaching",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The announcing of the good news of God by his servants through the faithful revelation of God's will, the exposition of God's word and the proclamation of Jesus Christ, the Son of God. Jesus Christ had an important preaching ministry.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7755",
+"content_id": "7755",
+"resource_code": "DictionaryBibleThemes",
+"label": "7755: preaching, importance of",
+"language": "eng"
+},
+{
+"reference_id": "7756",
+"content_id": "7756",
+"resource_code": "DictionaryBibleThemes",
+"label": "7756: preaching, content of",
+"language": "eng"
+},
+{
+"reference_id": "7757",
+"content_id": "7757",
+"resource_code": "DictionaryBibleThemes",
+"label": "7757: preaching, effects of",
+"language": "eng"
+},
+{
+"reference_id": "7758",
+"content_id": "7758",
+"resource_code": "DictionaryBibleThemes",
+"label": "7758: preachers, call of",
+"language": "eng"
+},
+{
+"reference_id": "7759",
+"content_id": "7759",
+"resource_code": "DictionaryBibleThemes",
+"label": "7759: preachers, qualifications for",
+"language": "eng"
+},
+{
+"reference_id": "7760",
+"content_id": "7760",
+"resource_code": "DictionaryBibleThemes",
+"label": "7760: preachers, responsibilities of",
+"language": "eng"
+},
+{
+"reference_id": "7761",
+"content_id": "7761",
+"resource_code": "DictionaryBibleThemes",
+"label": "7761: preaching, and Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "7762",
+"content_id": "7762",
+"resource_code": "DictionaryBibleThemes",
+"label": "7762: preaching, of Jesus Christ",
+"language": "eng"
+}
+]
+}
+}
+]

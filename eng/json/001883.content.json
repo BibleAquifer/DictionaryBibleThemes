@@ -1,0 +1,128 @@
+[
+{
+"content_id": "7570",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7570: sects",
+"media_type": "Text",
+"index_reference": "7570: sects",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The Pharisees described as a sect</h2>\n<p><strong><a href=\"https://ref.ly/Acts26:5\">ACT 26:5</a></strong> <em>The word “sect” in the NT does not have the same negative connotations as in modern society. The Greek word for “sect” is also translated as “party” in the NIV.</em> <em>See also</em> <a href=\"https://ref.ly/Luke5:30\">LUK 5:30</a>; <a href=\"https://ref.ly/Acts15:5\">ACT 15:5</a></p>\n<h2>The Sadducees described as a sect</h2>\n<p><strong><a href=\"https://ref.ly/Acts5:17\">ACT 5:17</a></strong></p>\n<h2>Christians described as a sect</h2>\n<p><strong><a href=\"https://ref.ly/Acts24:14\">ACT 24:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts24:5\">ACT 24:5</a>, <a href=\"https://ref.ly/Acts28:21-Acts28:22\">ACT 28:21–28:22</a></p>\n<h2>Sectarianism condemned</h2>\n<p><a href=\"https://ref.ly/1Cor3:3-1Cor3:4\">1CO 3:3–3:4</a>; ; <a href=\"https://ref.ly/2Cor12:20\">2CO 12:20</a>; ; <a href=\"https://ref.ly/Gal5:20\">GAL 5:20</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44026005",
+"start_ref_usfm": "ACT 26:5",
+"end_ref": "44026005",
+"end_ref_usfm": "ACT 26:5"
+},
+{
+"start_ref": "42005030",
+"start_ref_usfm": "LUK 5:30",
+"end_ref": "42005030",
+"end_ref_usfm": "LUK 5:30"
+},
+{
+"start_ref": "44015005",
+"start_ref_usfm": "ACT 15:5",
+"end_ref": "44015005",
+"end_ref_usfm": "ACT 15:5"
+},
+{
+"start_ref": "44005017",
+"start_ref_usfm": "ACT 5:17",
+"end_ref": "44005017",
+"end_ref_usfm": "ACT 5:17"
+},
+{
+"start_ref": "44024014",
+"start_ref_usfm": "ACT 24:14",
+"end_ref": "44024014",
+"end_ref_usfm": "ACT 24:14"
+},
+{
+"start_ref": "44024005",
+"start_ref_usfm": "ACT 24:5",
+"end_ref": "44024005",
+"end_ref_usfm": "ACT 24:5"
+},
+{
+"start_ref": "44028021",
+"start_ref_usfm": "ACT 28:21",
+"end_ref": "44028022",
+"end_ref_usfm": "ACT 28:22"
+},
+{
+"start_ref": "46003003",
+"start_ref_usfm": "1CO 3:3",
+"end_ref": "46003004",
+"end_ref_usfm": "1CO 3:4"
+},
+{
+"start_ref": "47012020",
+"start_ref_usfm": "2CO 12:20",
+"end_ref": "47012020",
+"end_ref_usfm": "2CO 12:20"
+},
+{
+"start_ref": "48005020",
+"start_ref_usfm": "GAL 5:20",
+"end_ref": "48005020",
+"end_ref_usfm": "GAL 5:20"
+}
+],
+"resource": [
+{
+"reference_id": "7120",
+"content_id": "7120",
+"resource_code": "DictionaryBibleThemes",
+"label": "7120: Christians",
+"language": "eng"
+},
+{
+"reference_id": "7540",
+"content_id": "7540",
+"resource_code": "DictionaryBibleThemes",
+"label": "7540: Judaism",
+"language": "eng"
+},
+{
+"reference_id": "7550",
+"content_id": "7550",
+"resource_code": "DictionaryBibleThemes",
+"label": "7550: Pharisees",
+"language": "eng"
+},
+{
+"reference_id": "7555",
+"content_id": "7555",
+"resource_code": "DictionaryBibleThemes",
+"label": "7555: Sadducees",
+"language": "eng"
+},
+{
+"reference_id": "8237",
+"content_id": "8237",
+"resource_code": "DictionaryBibleThemes",
+"label": "8237: doctrine, false",
+"language": "eng"
+},
+{
+"reference_id": "8748",
+"content_id": "8748",
+"resource_code": "DictionaryBibleThemes",
+"label": "8748: false religion",
+"language": "eng"
+},
+{
+"reference_id": "8766",
+"content_id": "8766",
+"resource_code": "DictionaryBibleThemes",
+"label": "8766: heresies",
+"language": "eng"
+}
+]
+}
+}
+]

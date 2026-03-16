@@ -1,0 +1,127 @@
+[
+{
+"content_id": "7320",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7320: breastpiece",
+"media_type": "Text",
+"index_reference": "7320: breastpiece",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A pouch worn on the chest of the high priest.</p>\n<h2>The breastpiece was worn by the high priest</h2>\n<p><strong><a href=\"https://ref.ly/Lev8:5-Lev8:9\">LEV 8:5–8:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod28:15-Exod28:16\">EXO 28:15–28:16</a>, <a href=\"https://ref.ly/Exod28:29\">EXO 28:29</a>, <a href=\"https://ref.ly/Exod39:8-Exod39:9\">EXO 39:8–39:9</a></p>\n<h3>It was adorned with twelve precious stones</h3>\n<p><strong><a href=\"https://ref.ly/Exod28:17-Exod28:21\">EXO 28:17–28:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod25:3-Exod25:7\">EXO 25:3–25:7</a>, <a href=\"https://ref.ly/Exod39:10-Exod39:14\">EXO 39:10–39:14</a></p>\n<h3>It contained the Urim and Thummim</h3>\n<p><strong><a href=\"https://ref.ly/Exod28:30\">EXO 28:30</a></strong> <em>The Urim and Thummim were used in decision-making.</em> <em>See also</em> <a href=\"https://ref.ly/Lev8:8\">LEV 8:8</a></p>\n<h3>It was attached to the ephod</h3>\n<p><strong><a href=\"https://ref.ly/Exod28:22-Exod28:28\">EXO 28:22–28:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod39:15-Exod39:21\">EXO 39:15–39:21</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03008005",
+"start_ref_usfm": "LEV 8:5",
+"end_ref": "03008009",
+"end_ref_usfm": "LEV 8:9"
+},
+{
+"start_ref": "02028015",
+"start_ref_usfm": "EXO 28:15",
+"end_ref": "02028016",
+"end_ref_usfm": "EXO 28:16"
+},
+{
+"start_ref": "02028029",
+"start_ref_usfm": "EXO 28:29",
+"end_ref": "02028029",
+"end_ref_usfm": "EXO 28:29"
+},
+{
+"start_ref": "02039008",
+"start_ref_usfm": "EXO 39:8",
+"end_ref": "02039009",
+"end_ref_usfm": "EXO 39:9"
+},
+{
+"start_ref": "02028017",
+"start_ref_usfm": "EXO 28:17",
+"end_ref": "02028021",
+"end_ref_usfm": "EXO 28:21"
+},
+{
+"start_ref": "02025003",
+"start_ref_usfm": "EXO 25:3",
+"end_ref": "02025007",
+"end_ref_usfm": "EXO 25:7"
+},
+{
+"start_ref": "02039010",
+"start_ref_usfm": "EXO 39:10",
+"end_ref": "02039014",
+"end_ref_usfm": "EXO 39:14"
+},
+{
+"start_ref": "02028030",
+"start_ref_usfm": "EXO 28:30",
+"end_ref": "02028030",
+"end_ref_usfm": "EXO 28:30"
+},
+{
+"start_ref": "03008008",
+"start_ref_usfm": "LEV 8:8",
+"end_ref": "03008008",
+"end_ref_usfm": "LEV 8:8"
+},
+{
+"start_ref": "02028022",
+"start_ref_usfm": "EXO 28:22",
+"end_ref": "02028028",
+"end_ref_usfm": "EXO 28:28"
+},
+{
+"start_ref": "02039015",
+"start_ref_usfm": "EXO 39:15",
+"end_ref": "02039021",
+"end_ref_usfm": "EXO 39:21"
+}
+],
+"resource": [
+{
+"reference_id": "4342",
+"content_id": "4342",
+"resource_code": "DictionaryBibleThemes",
+"label": "4342: jewels",
+"language": "eng"
+},
+{
+"reference_id": "5237",
+"content_id": "5237",
+"resource_code": "DictionaryBibleThemes",
+"label": "5237: breastplate",
+"language": "eng"
+},
+{
+"reference_id": "7352",
+"content_id": "7352",
+"resource_code": "DictionaryBibleThemes",
+"label": "7352: ephod",
+"language": "eng"
+},
+{
+"reference_id": "7376",
+"content_id": "7376",
+"resource_code": "DictionaryBibleThemes",
+"label": "7376: high priest",
+"language": "eng"
+},
+{
+"reference_id": "7392",
+"content_id": "7392",
+"resource_code": "DictionaryBibleThemes",
+"label": "7392: lots, casting of",
+"language": "eng"
+},
+{
+"reference_id": "8408",
+"content_id": "8408",
+"resource_code": "DictionaryBibleThemes",
+"label": "8408: decision-making",
+"language": "eng"
+}
+]
+}
+}
+]

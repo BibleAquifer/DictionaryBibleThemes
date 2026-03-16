@@ -1,0 +1,194 @@
+[
+{
+"content_id": "8630",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8630: worship, results of",
+"media_type": "Text",
+"index_reference": "8630: worship, results of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Worship not only gives God what is due to him but also results in many benefits for his people.</p>\n<h2>True worship brings benefits for God's people</h2>\n<h3>Blessing</h3>\n<p><strong><a href=\"https://ref.ly/Exod23:25-Exod23:26\">EXO 23:25–23:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut11:13-Deut11:15\">DEU 11:13–11:15</a></p>\n<h3>Guidance</h3>\n<p><strong><a href=\"https://ref.ly/Acts13:2-Acts13:3\">ACT 13:2–13:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa58:6-Isa58:11\">ISA 58:6–58:11</a>; <a href=\"https://ref.ly/Num7:89\">NUM 7:89</a></p>\n<h3>Deliverance</h3>\n<p><strong><a href=\"https://ref.ly/Acts16:25-Acts16:26\">ACT 16:25–16:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps50:14-Ps50:15\">PSA 50:14–50:15</a></p>\n<h3>Joy</h3>\n<p><strong><a href=\"https://ref.ly/1Chr29:21-1Chr29:22\">1CH 29:21–29:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr29:30\">2CH 29:30</a>; <a href=\"https://ref.ly/Ps43:4\">PSA 43:4</a>; <a href=\"https://ref.ly/Isa56:7\">ISA 56:7</a>; <a href=\"https://ref.ly/Luke24:52\">LUK 24:52</a></p>\n<h3>A sense of God's presence</h3>\n<p><strong><a href=\"https://ref.ly/2Chr5:13-2Chr5:14\">2CH 5:13–5:14</a></strong> parallel <a href=\"https://ref.ly/1Kgs8:10-1Kgs8:11\">1KI 8:10–8:11</a> <em>See also</em> <a href=\"https://ref.ly/Exod40:35\">EXO 40:35</a></p>\n<h3>A deeper sense of Jesus Christ's lordship</h3>\n<p><strong><a href=\"https://ref.ly/Phil2:9-Phil2:11\">PHP 2:9–2:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev1:10-Rev1:18\">REV 1:10–1:18</a></p>\n<h2>Boldness to witness</h2>\n<p><strong><a href=\"https://ref.ly/Acts4:31\">ACT 4:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps57:9\">PSA 57:9</a>; <a href=\"https://ref.ly/Acts18:9-Acts18:10\">ACT 18:9–18:10</a></p>\n<h2>True worship convicts sinners</h2>\n<p><strong><a href=\"https://ref.ly/1Cor14:24-1Cor14:25\">1CO 14:24–14:25</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02023025",
+"start_ref_usfm": "EXO 23:25",
+"end_ref": "02023026",
+"end_ref_usfm": "EXO 23:26"
+},
+{
+"start_ref": "05011013",
+"start_ref_usfm": "DEU 11:13",
+"end_ref": "05011015",
+"end_ref_usfm": "DEU 11:15"
+},
+{
+"start_ref": "44013002",
+"start_ref_usfm": "ACT 13:2",
+"end_ref": "44013003",
+"end_ref_usfm": "ACT 13:3"
+},
+{
+"start_ref": "23058006",
+"start_ref_usfm": "ISA 58:6",
+"end_ref": "23058011",
+"end_ref_usfm": "ISA 58:11"
+},
+{
+"start_ref": "04007089",
+"start_ref_usfm": "NUM 7:89",
+"end_ref": "04007089",
+"end_ref_usfm": "NUM 7:89"
+},
+{
+"start_ref": "44016025",
+"start_ref_usfm": "ACT 16:25",
+"end_ref": "44016026",
+"end_ref_usfm": "ACT 16:26"
+},
+{
+"start_ref": "19050014",
+"start_ref_usfm": "PSA 50:14",
+"end_ref": "19050015",
+"end_ref_usfm": "PSA 50:15"
+},
+{
+"start_ref": "13029021",
+"start_ref_usfm": "1CH 29:21",
+"end_ref": "13029022",
+"end_ref_usfm": "1CH 29:22"
+},
+{
+"start_ref": "14029030",
+"start_ref_usfm": "2CH 29:30",
+"end_ref": "14029030",
+"end_ref_usfm": "2CH 29:30"
+},
+{
+"start_ref": "19043004",
+"start_ref_usfm": "PSA 43:4",
+"end_ref": "19043004",
+"end_ref_usfm": "PSA 43:4"
+},
+{
+"start_ref": "23056007",
+"start_ref_usfm": "ISA 56:7",
+"end_ref": "23056007",
+"end_ref_usfm": "ISA 56:7"
+},
+{
+"start_ref": "42024052",
+"start_ref_usfm": "LUK 24:52",
+"end_ref": "42024052",
+"end_ref_usfm": "LUK 24:52"
+},
+{
+"start_ref": "14005013",
+"start_ref_usfm": "2CH 5:13",
+"end_ref": "14005014",
+"end_ref_usfm": "2CH 5:14"
+},
+{
+"start_ref": "11008010",
+"start_ref_usfm": "1KI 8:10",
+"end_ref": "11008011",
+"end_ref_usfm": "1KI 8:11"
+},
+{
+"start_ref": "02040035",
+"start_ref_usfm": "EXO 40:35",
+"end_ref": "02040035",
+"end_ref_usfm": "EXO 40:35"
+},
+{
+"start_ref": "50002009",
+"start_ref_usfm": "PHP 2:9",
+"end_ref": "50002011",
+"end_ref_usfm": "PHP 2:11"
+},
+{
+"start_ref": "66001010",
+"start_ref_usfm": "REV 1:10",
+"end_ref": "66001018",
+"end_ref_usfm": "REV 1:18"
+},
+{
+"start_ref": "44004031",
+"start_ref_usfm": "ACT 4:31",
+"end_ref": "44004031",
+"end_ref_usfm": "ACT 4:31"
+},
+{
+"start_ref": "19057009",
+"start_ref_usfm": "PSA 57:9",
+"end_ref": "19057009",
+"end_ref_usfm": "PSA 57:9"
+},
+{
+"start_ref": "44018009",
+"start_ref_usfm": "ACT 18:9",
+"end_ref": "44018010",
+"end_ref_usfm": "ACT 18:10"
+},
+{
+"start_ref": "46014024",
+"start_ref_usfm": "1CO 14:24",
+"end_ref": "46014025",
+"end_ref_usfm": "1CO 14:25"
+}
+],
+"resource": [
+{
+"reference_id": "1335",
+"content_id": "1335",
+"resource_code": "DictionaryBibleThemes",
+"label": "1335: blessing",
+"language": "eng"
+},
+{
+"reference_id": "3248",
+"content_id": "3248",
+"resource_code": "DictionaryBibleThemes",
+"label": "3248: Holy Spirit, conviction of",
+"language": "eng"
+},
+{
+"reference_id": "3263",
+"content_id": "3263",
+"resource_code": "DictionaryBibleThemes",
+"label": "3263: Holy Spirit, guidance of",
+"language": "eng"
+},
+{
+"reference_id": "7028",
+"content_id": "7028",
+"resource_code": "DictionaryBibleThemes",
+"label": "7028: church, life of",
+"language": "eng"
+},
+{
+"reference_id": "8117",
+"content_id": "8117",
+"resource_code": "DictionaryBibleThemes",
+"label": "8117: discipleship, benefits of",
+"language": "eng"
+},
+{
+"reference_id": "8283",
+"content_id": "8283",
+"resource_code": "DictionaryBibleThemes",
+"label": "8283: joy",
+"language": "eng"
+},
+{
+"reference_id": "8495",
+"content_id": "8495",
+"resource_code": "DictionaryBibleThemes",
+"label": "8495: witnessing",
+"language": "eng"
+}
+]
+}
+}
+]

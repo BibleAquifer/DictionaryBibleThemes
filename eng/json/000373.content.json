@@ -1,0 +1,311 @@
+[
+{
+"content_id": "4251",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4251: moon",
+"media_type": "Text",
+"index_reference": "4251: moon",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The moon created by God</h2>\n<p><strong><a href=\"https://ref.ly/Ps8:3\">PSA 8:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps74:16\">PSA 74:16</a></p>\n<h2>The moon listed among the heavenly bodies</h2>\n<p><a href=\"https://ref.ly/Gen37:9\">GEN 37:9</a>; ; <a href=\"https://ref.ly/Ps148:3\">PSA 148:3</a>; ; <a href=\"https://ref.ly/Eccl12:2\">ECC 12:2</a>; ; <a href=\"https://ref.ly/1Cor15:41\">1CO 15:41</a></p>\n<h2>The moon as a basis for the calendar</h2>\n<h3>The moon governs the night</h3>\n<p><strong><a href=\"https://ref.ly/Gen1:16-Gen1:18\">GEN 1:16–1:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps136:7-Ps136:9\">PSA 136:7–136:9</a>; <a href=\"https://ref.ly/Jer31:35\">JER 31:35</a></p>\n<h3>Seasons marked by the moon</h3>\n<p><strong><a href=\"https://ref.ly/Ps104:19\">PSA 104:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen1:14\">GEN 1:14</a></p>\n<h3>Months marked by the new moon</h3>\n<p><a href=\"https://ref.ly/Num28:14\">NUM 28:14</a>; ; <a href=\"https://ref.ly/1Chr23:31\">1CH 23:31</a>; ; <a href=\"https://ref.ly/Isa66:23\">ISA 66:23</a></p>\n<h2>The moon as a symbol of permanence</h2>\n<p><strong><a href=\"https://ref.ly/Ps89:37\">PSA 89:37</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps72:5\">PSA 72:5</a>, <a href=\"https://ref.ly/Ps72:7\">PSA 72:7</a>ISA <a href=\"https://ref.ly/Ps60:19-Ps60:20\">60:19–60:20</a>; <a href=\"https://ref.ly/Rev21:23\">REV 21:23</a></p>\n<h2>Idolatrous worship of the moon</h2>\n<p><strong><a href=\"https://ref.ly/Deut4:19\">DEU 4:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut17:3\">DEU 17:3</a>; <a href=\"https://ref.ly/2Kgs23:5\">2KI 23:5</a>; <a href=\"https://ref.ly/Job31:26\">JOB 31:26</a>; <a href=\"https://ref.ly/Jer8:2\">JER 8:2</a></p>\n<h2>Signs in the moon indicating divine intervention</h2>\n<h3>At the close of history</h3>\n<p><a href=\"https://ref.ly/Isa13:10\">ISA 13:10</a>, <a href=\"https://ref.ly/Isa30:26\">ISA 30:26</a>; ; <a href=\"https://ref.ly/Joel2:10\">JOL 2:10</a>, <a href=\"https://ref.ly/Joel2:31\">JOL 2:31</a>; ; <a href=\"https://ref.ly/Acts2:20\">ACT 2:20</a>; ; <a href=\"https://ref.ly/Matt24:29\">MAT 24:29</a> parallel <a href=\"https://ref.ly/Mark13:24-Mark13:25\">MRK 13:24–13:25</a>; ; <a href=\"https://ref.ly/Rev6:12\">REV 6:12</a>, <a href=\"https://ref.ly/Rev12:1\">REV 12:1</a></p>\n<h3>Other examples</h3>\n<p><a href=\"https://ref.ly/Josh10:12-Josh10:13\">JOS 10:12–10:13</a>; ; <a href=\"https://ref.ly/Ezek32:7\">EZK 32:7</a></p>\n<h2>The moon thought to affect the mind</h2>\n<p><a href=\"https://ref.ly/Ps121:6\">PSA 121:6</a> <em>The moon is indicated as a source of danger</em>; ; <a href=\"https://ref.ly/Matt4:24\">MAT 4:24</a> <em>The Greek expression translated “having seizures” originally meant “moonstruck”.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19008003",
+"start_ref_usfm": "PSA 8:3",
+"end_ref": "19008003",
+"end_ref_usfm": "PSA 8:3"
+},
+{
+"start_ref": "19074016",
+"start_ref_usfm": "PSA 74:16",
+"end_ref": "19074016",
+"end_ref_usfm": "PSA 74:16"
+},
+{
+"start_ref": "01037009",
+"start_ref_usfm": "GEN 37:9",
+"end_ref": "01037009",
+"end_ref_usfm": "GEN 37:9"
+},
+{
+"start_ref": "19148003",
+"start_ref_usfm": "PSA 148:3",
+"end_ref": "19148003",
+"end_ref_usfm": "PSA 148:3"
+},
+{
+"start_ref": "21012002",
+"start_ref_usfm": "ECC 12:2",
+"end_ref": "21012002",
+"end_ref_usfm": "ECC 12:2"
+},
+{
+"start_ref": "46015041",
+"start_ref_usfm": "1CO 15:41",
+"end_ref": "46015041",
+"end_ref_usfm": "1CO 15:41"
+},
+{
+"start_ref": "01001016",
+"start_ref_usfm": "GEN 1:16",
+"end_ref": "01001018",
+"end_ref_usfm": "GEN 1:18"
+},
+{
+"start_ref": "19136007",
+"start_ref_usfm": "PSA 136:7",
+"end_ref": "19136009",
+"end_ref_usfm": "PSA 136:9"
+},
+{
+"start_ref": "24031035",
+"start_ref_usfm": "JER 31:35",
+"end_ref": "24031035",
+"end_ref_usfm": "JER 31:35"
+},
+{
+"start_ref": "19104019",
+"start_ref_usfm": "PSA 104:19",
+"end_ref": "19104019",
+"end_ref_usfm": "PSA 104:19"
+},
+{
+"start_ref": "01001014",
+"start_ref_usfm": "GEN 1:14",
+"end_ref": "01001014",
+"end_ref_usfm": "GEN 1:14"
+},
+{
+"start_ref": "04028014",
+"start_ref_usfm": "NUM 28:14",
+"end_ref": "04028014",
+"end_ref_usfm": "NUM 28:14"
+},
+{
+"start_ref": "13023031",
+"start_ref_usfm": "1CH 23:31",
+"end_ref": "13023031",
+"end_ref_usfm": "1CH 23:31"
+},
+{
+"start_ref": "23066023",
+"start_ref_usfm": "ISA 66:23",
+"end_ref": "23066023",
+"end_ref_usfm": "ISA 66:23"
+},
+{
+"start_ref": "19089037",
+"start_ref_usfm": "PSA 89:37",
+"end_ref": "19089037",
+"end_ref_usfm": "PSA 89:37"
+},
+{
+"start_ref": "19072005",
+"start_ref_usfm": "PSA 72:5",
+"end_ref": "19072005",
+"end_ref_usfm": "PSA 72:5"
+},
+{
+"start_ref": "19072007",
+"start_ref_usfm": "PSA 72:7",
+"end_ref": "19072007",
+"end_ref_usfm": "PSA 72:7"
+},
+{
+"start_ref": "19060019",
+"start_ref_usfm": "PSA 60:19",
+"end_ref": "19060020",
+"end_ref_usfm": "PSA 60:20"
+},
+{
+"start_ref": "66021023",
+"start_ref_usfm": "REV 21:23",
+"end_ref": "66021023",
+"end_ref_usfm": "REV 21:23"
+},
+{
+"start_ref": "05004019",
+"start_ref_usfm": "DEU 4:19",
+"end_ref": "05004019",
+"end_ref_usfm": "DEU 4:19"
+},
+{
+"start_ref": "05017003",
+"start_ref_usfm": "DEU 17:3",
+"end_ref": "05017003",
+"end_ref_usfm": "DEU 17:3"
+},
+{
+"start_ref": "12023005",
+"start_ref_usfm": "2KI 23:5",
+"end_ref": "12023005",
+"end_ref_usfm": "2KI 23:5"
+},
+{
+"start_ref": "18031026",
+"start_ref_usfm": "JOB 31:26",
+"end_ref": "18031026",
+"end_ref_usfm": "JOB 31:26"
+},
+{
+"start_ref": "24008002",
+"start_ref_usfm": "JER 8:2",
+"end_ref": "24008002",
+"end_ref_usfm": "JER 8:2"
+},
+{
+"start_ref": "23013010",
+"start_ref_usfm": "ISA 13:10",
+"end_ref": "23013010",
+"end_ref_usfm": "ISA 13:10"
+},
+{
+"start_ref": "23030026",
+"start_ref_usfm": "ISA 30:26",
+"end_ref": "23030026",
+"end_ref_usfm": "ISA 30:26"
+},
+{
+"start_ref": "29002010",
+"start_ref_usfm": "JOL 2:10",
+"end_ref": "29002010",
+"end_ref_usfm": "JOL 2:10"
+},
+{
+"start_ref": "29002031",
+"start_ref_usfm": "JOL 2:31",
+"end_ref": "29002031",
+"end_ref_usfm": "JOL 2:31"
+},
+{
+"start_ref": "44002020",
+"start_ref_usfm": "ACT 2:20",
+"end_ref": "44002020",
+"end_ref_usfm": "ACT 2:20"
+},
+{
+"start_ref": "40024029",
+"start_ref_usfm": "MAT 24:29",
+"end_ref": "40024029",
+"end_ref_usfm": "MAT 24:29"
+},
+{
+"start_ref": "41013024",
+"start_ref_usfm": "MRK 13:24",
+"end_ref": "41013025",
+"end_ref_usfm": "MRK 13:25"
+},
+{
+"start_ref": "66006012",
+"start_ref_usfm": "REV 6:12",
+"end_ref": "66006012",
+"end_ref_usfm": "REV 6:12"
+},
+{
+"start_ref": "66012001",
+"start_ref_usfm": "REV 12:1",
+"end_ref": "66012001",
+"end_ref_usfm": "REV 12:1"
+},
+{
+"start_ref": "06010012",
+"start_ref_usfm": "JOS 10:12",
+"end_ref": "06010013",
+"end_ref_usfm": "JOS 10:13"
+},
+{
+"start_ref": "26032007",
+"start_ref_usfm": "EZK 32:7",
+"end_ref": "26032007",
+"end_ref_usfm": "EZK 32:7"
+},
+{
+"start_ref": "19121006",
+"start_ref_usfm": "PSA 121:6",
+"end_ref": "19121006",
+"end_ref_usfm": "PSA 121:6"
+},
+{
+"start_ref": "40004024",
+"start_ref_usfm": "MAT 4:24",
+"end_ref": "40004024",
+"end_ref_usfm": "MAT 4:24"
+}
+],
+"resource": [
+{
+"reference_id": "2565",
+"content_id": "2565",
+"resource_code": "DictionaryBibleThemes",
+"label": "2565: Jesus Christ, second coming of",
+"language": "eng"
+},
+{
+"reference_id": "4281",
+"content_id": "4281",
+"resource_code": "DictionaryBibleThemes",
+"label": "4281: stars",
+"language": "eng"
+},
+{
+"reference_id": "4284",
+"content_id": "4284",
+"resource_code": "DictionaryBibleThemes",
+"label": "4284: sun",
+"language": "eng"
+},
+{
+"reference_id": "4809",
+"content_id": "4809",
+"resource_code": "DictionaryBibleThemes",
+"label": "4809: darkness",
+"language": "eng"
+},
+{
+"reference_id": "4951",
+"content_id": "4951",
+"resource_code": "DictionaryBibleThemes",
+"label": "4951: month",
+"language": "eng"
+},
+{
+"reference_id": "4957",
+"content_id": "4957",
+"resource_code": "DictionaryBibleThemes",
+"label": "4957: night",
+"language": "eng"
+},
+{
+"reference_id": "4970",
+"content_id": "4970",
+"resource_code": "DictionaryBibleThemes",
+"label": "4970: seasons, of the year",
+"language": "eng"
+},
+{
+"reference_id": "7398",
+"content_id": "7398",
+"resource_code": "DictionaryBibleThemes",
+"label": "7398: New Moon festival",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+},
+{
+"reference_id": "9220",
+"content_id": "9220",
+"resource_code": "DictionaryBibleThemes",
+"label": "9220: day of the LORD",
+"language": "eng"
+}
+]
+}
+}
+]

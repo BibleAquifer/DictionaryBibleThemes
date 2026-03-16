@@ -1,0 +1,46 @@
+[
+{
+"content_id": "7766",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7766: priests",
+"media_type": "Text",
+"index_reference": "7766: priests",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A group of men charged with the responsibility of mediating between God and his people, ensuring proper worship, and maintaining the spiritual health of the people of God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7767",
+"content_id": "7767",
+"resource_code": "DictionaryBibleThemes",
+"label": "7767: priests, institution in OT times",
+"language": "eng"
+},
+{
+"reference_id": "7768",
+"content_id": "7768",
+"resource_code": "DictionaryBibleThemes",
+"label": "7768: priests, function in OT times",
+"language": "eng"
+},
+{
+"reference_id": "7769",
+"content_id": "7769",
+"resource_code": "DictionaryBibleThemes",
+"label": "7769: priests, types of in NT times",
+"language": "eng"
+},
+{
+"reference_id": "7770",
+"content_id": "7770",
+"resource_code": "DictionaryBibleThemes",
+"label": "7770: priests, tasks in NT times",
+"language": "eng"
+}
+]
+}
+}
+]

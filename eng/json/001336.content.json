@@ -1,0 +1,385 @@
+[
+{
+"content_id": "5814",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5814: confrontation",
+"media_type": "Text",
+"index_reference": "5814: confrontation",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Confrontation in battle</h2>\n<h3>Between armies</h3>\n<p><strong><a href=\"https://ref.ly/Judg20:20\">JDG 20:20</a></strong>; <strong><a href=\"https://ref.ly/2Chr14:11\">2CH 14:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg20:25\">JDG 20:25</a>; <a href=\"https://ref.ly/1Sam4:1\">1SA 4:1</a>, <a href=\"https://ref.ly/1Sam17:2\">1SA 17:2</a>, <a href=\"https://ref.ly/1Sam31:1\">1SA 31:1</a>; <a href=\"https://ref.ly/2Sam10:17\">2SA 10:17</a>; <a href=\"https://ref.ly/2Chr13:3\">2CH 13:3</a></p>\n<h3>Between individuals</h3>\n<p><strong><a href=\"https://ref.ly/1Sam17:45\">1SA 17:45</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam23:21\">2SA 23:21</a>; <a href=\"https://ref.ly/1Kgs11:14\">1KI 11:14</a>; <a href=\"https://ref.ly/2Kgs14:11\">2KI 14:11</a></p>\n<h2>Personal confrontation</h2>\n<h3>Between individuals</h3>\n<p><strong><a href=\"https://ref.ly/Gal2:11\">GAL 2:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod8:20\">EXO 8:20</a>; <a href=\"https://ref.ly/2Sam22:19\">2SA 22:19</a> parallel <a href=\"https://ref.ly/Ps18:18\">PSA 18:18</a>; <a href=\"https://ref.ly/1Kgs22:24\">1KI 22:24</a>; <a href=\"https://ref.ly/2Chr26:18\">2CH 26:18</a>; <a href=\"https://ref.ly/Jer28:10\">JER 28:10</a>; <a href=\"https://ref.ly/John18:26\">JHN 18:26</a>; <a href=\"https://ref.ly/Acts13:8\">ACT 13:8</a>, <a href=\"https://ref.ly/Acts23:2\">ACT 23:2</a></p>\n<h3>Between individuals and groups</h3>\n<p><strong><a href=\"https://ref.ly/Num16:3\">NUM 16:3</a></strong>; <strong><a href=\"https://ref.ly/Acts18:6\">ACT 18:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam12:7\">1SA 12:7</a>; <a href=\"https://ref.ly/Ezek16:2\">EZK 16:2</a>; <a href=\"https://ref.ly/Acts5:28-Acts5:29\">ACT 5:28–5:29</a>, <a href=\"https://ref.ly/Acts6:9\">ACT 6:9</a></p>\n<h3>Between believers and a sinner</h3>\n<p><strong><a href=\"https://ref.ly/Luke17:3\">LUK 17:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev19:17\">LEV 19:17</a>; <a href=\"https://ref.ly/Matt18:15\">MAT 18:15</a>; <a href=\"https://ref.ly/Gal6:1\">GAL 6:1</a>; <a href=\"https://ref.ly/Jas5:19-Jas5:20\">JAS 5:19–5:20</a></p>\n<h2>Confrontation between Jesus Christ and the Pharisees</h2>\n<p><strong><a href=\"https://ref.ly/Luke11:53-Luke11:54\">LUK 11:53–11:54</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt16:1\">MAT 16:1</a>, <a href=\"https://ref.ly/Matt22:15\">MAT 22:15</a>; <a href=\"https://ref.ly/Mark2:16\">MRK 2:16</a>, <a href=\"https://ref.ly/Mark7:5\">MRK 7:5</a>; <a href=\"https://ref.ly/Luke6:2\">LUK 6:2</a>, <a href=\"https://ref.ly/Luke19:39\">LUK 19:39</a>; <a href=\"https://ref.ly/John8:13\">JHN 8:13</a></p>\n<h2>Confrontation with God</h2>\n<p><strong><a href=\"https://ref.ly/Job9:32\">JOB 9:32</a></strong>; <strong><a href=\"https://ref.ly/Acts9:4-Acts9:5\">ACT 9:4–9:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen32:24\">GEN 32:24</a>; <a href=\"https://ref.ly/Exod15:7\">EXO 15:7</a>; <a href=\"https://ref.ly/Num22:22\">NUM 22:22</a>; <a href=\"https://ref.ly/2Chr35:21\">2CH 35:21</a>; <a href=\"https://ref.ly/Job23:13\">JOB 23:13</a>, <a href=\"https://ref.ly/Job31:14\">JOB 31:14</a>, <a href=\"https://ref.ly/Job33:5\">JOB 33:5</a>; <a href=\"https://ref.ly/Ps17:13\">PSA 17:13</a>; <a href=\"https://ref.ly/Isa30:11\">ISA 30:11</a>; <a href=\"https://ref.ly/Jer50:24\">JER 50:24</a>; <a href=\"https://ref.ly/Acts11:17\">ACT 11:17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07020020",
+"start_ref_usfm": "JDG 20:20",
+"end_ref": "07020020",
+"end_ref_usfm": "JDG 20:20"
+},
+{
+"start_ref": "14014011",
+"start_ref_usfm": "2CH 14:11",
+"end_ref": "14014011",
+"end_ref_usfm": "2CH 14:11"
+},
+{
+"start_ref": "07020025",
+"start_ref_usfm": "JDG 20:25",
+"end_ref": "07020025",
+"end_ref_usfm": "JDG 20:25"
+},
+{
+"start_ref": "09004001",
+"start_ref_usfm": "1SA 4:1",
+"end_ref": "09004001",
+"end_ref_usfm": "1SA 4:1"
+},
+{
+"start_ref": "09017002",
+"start_ref_usfm": "1SA 17:2",
+"end_ref": "09017002",
+"end_ref_usfm": "1SA 17:2"
+},
+{
+"start_ref": "09031001",
+"start_ref_usfm": "1SA 31:1",
+"end_ref": "09031001",
+"end_ref_usfm": "1SA 31:1"
+},
+{
+"start_ref": "10010017",
+"start_ref_usfm": "2SA 10:17",
+"end_ref": "10010017",
+"end_ref_usfm": "2SA 10:17"
+},
+{
+"start_ref": "14013003",
+"start_ref_usfm": "2CH 13:3",
+"end_ref": "14013003",
+"end_ref_usfm": "2CH 13:3"
+},
+{
+"start_ref": "09017045",
+"start_ref_usfm": "1SA 17:45",
+"end_ref": "09017045",
+"end_ref_usfm": "1SA 17:45"
+},
+{
+"start_ref": "10023021",
+"start_ref_usfm": "2SA 23:21",
+"end_ref": "10023021",
+"end_ref_usfm": "2SA 23:21"
+},
+{
+"start_ref": "11011014",
+"start_ref_usfm": "1KI 11:14",
+"end_ref": "11011014",
+"end_ref_usfm": "1KI 11:14"
+},
+{
+"start_ref": "12014011",
+"start_ref_usfm": "2KI 14:11",
+"end_ref": "12014011",
+"end_ref_usfm": "2KI 14:11"
+},
+{
+"start_ref": "48002011",
+"start_ref_usfm": "GAL 2:11",
+"end_ref": "48002011",
+"end_ref_usfm": "GAL 2:11"
+},
+{
+"start_ref": "02008020",
+"start_ref_usfm": "EXO 8:20",
+"end_ref": "02008020",
+"end_ref_usfm": "EXO 8:20"
+},
+{
+"start_ref": "10022019",
+"start_ref_usfm": "2SA 22:19",
+"end_ref": "10022019",
+"end_ref_usfm": "2SA 22:19"
+},
+{
+"start_ref": "19018018",
+"start_ref_usfm": "PSA 18:18",
+"end_ref": "19018018",
+"end_ref_usfm": "PSA 18:18"
+},
+{
+"start_ref": "11022024",
+"start_ref_usfm": "1KI 22:24",
+"end_ref": "11022024",
+"end_ref_usfm": "1KI 22:24"
+},
+{
+"start_ref": "14026018",
+"start_ref_usfm": "2CH 26:18",
+"end_ref": "14026018",
+"end_ref_usfm": "2CH 26:18"
+},
+{
+"start_ref": "24028010",
+"start_ref_usfm": "JER 28:10",
+"end_ref": "24028010",
+"end_ref_usfm": "JER 28:10"
+},
+{
+"start_ref": "43018026",
+"start_ref_usfm": "JHN 18:26",
+"end_ref": "43018026",
+"end_ref_usfm": "JHN 18:26"
+},
+{
+"start_ref": "44013008",
+"start_ref_usfm": "ACT 13:8",
+"end_ref": "44013008",
+"end_ref_usfm": "ACT 13:8"
+},
+{
+"start_ref": "44023002",
+"start_ref_usfm": "ACT 23:2",
+"end_ref": "44023002",
+"end_ref_usfm": "ACT 23:2"
+},
+{
+"start_ref": "04016003",
+"start_ref_usfm": "NUM 16:3",
+"end_ref": "04016003",
+"end_ref_usfm": "NUM 16:3"
+},
+{
+"start_ref": "44018006",
+"start_ref_usfm": "ACT 18:6",
+"end_ref": "44018006",
+"end_ref_usfm": "ACT 18:6"
+},
+{
+"start_ref": "09012007",
+"start_ref_usfm": "1SA 12:7",
+"end_ref": "09012007",
+"end_ref_usfm": "1SA 12:7"
+},
+{
+"start_ref": "26016002",
+"start_ref_usfm": "EZK 16:2",
+"end_ref": "26016002",
+"end_ref_usfm": "EZK 16:2"
+},
+{
+"start_ref": "44005028",
+"start_ref_usfm": "ACT 5:28",
+"end_ref": "44005029",
+"end_ref_usfm": "ACT 5:29"
+},
+{
+"start_ref": "44006009",
+"start_ref_usfm": "ACT 6:9",
+"end_ref": "44006009",
+"end_ref_usfm": "ACT 6:9"
+},
+{
+"start_ref": "42017003",
+"start_ref_usfm": "LUK 17:3",
+"end_ref": "42017003",
+"end_ref_usfm": "LUK 17:3"
+},
+{
+"start_ref": "03019017",
+"start_ref_usfm": "LEV 19:17",
+"end_ref": "03019017",
+"end_ref_usfm": "LEV 19:17"
+},
+{
+"start_ref": "40018015",
+"start_ref_usfm": "MAT 18:15",
+"end_ref": "40018015",
+"end_ref_usfm": "MAT 18:15"
+},
+{
+"start_ref": "48006001",
+"start_ref_usfm": "GAL 6:1",
+"end_ref": "48006001",
+"end_ref_usfm": "GAL 6:1"
+},
+{
+"start_ref": "59005019",
+"start_ref_usfm": "JAS 5:19",
+"end_ref": "59005020",
+"end_ref_usfm": "JAS 5:20"
+},
+{
+"start_ref": "42011053",
+"start_ref_usfm": "LUK 11:53",
+"end_ref": "42011054",
+"end_ref_usfm": "LUK 11:54"
+},
+{
+"start_ref": "40016001",
+"start_ref_usfm": "MAT 16:1",
+"end_ref": "40016001",
+"end_ref_usfm": "MAT 16:1"
+},
+{
+"start_ref": "40022015",
+"start_ref_usfm": "MAT 22:15",
+"end_ref": "40022015",
+"end_ref_usfm": "MAT 22:15"
+},
+{
+"start_ref": "41002016",
+"start_ref_usfm": "MRK 2:16",
+"end_ref": "41002016",
+"end_ref_usfm": "MRK 2:16"
+},
+{
+"start_ref": "41007005",
+"start_ref_usfm": "MRK 7:5",
+"end_ref": "41007005",
+"end_ref_usfm": "MRK 7:5"
+},
+{
+"start_ref": "42006002",
+"start_ref_usfm": "LUK 6:2",
+"end_ref": "42006002",
+"end_ref_usfm": "LUK 6:2"
+},
+{
+"start_ref": "42019039",
+"start_ref_usfm": "LUK 19:39",
+"end_ref": "42019039",
+"end_ref_usfm": "LUK 19:39"
+},
+{
+"start_ref": "43008013",
+"start_ref_usfm": "JHN 8:13",
+"end_ref": "43008013",
+"end_ref_usfm": "JHN 8:13"
+},
+{
+"start_ref": "18009032",
+"start_ref_usfm": "JOB 9:32",
+"end_ref": "18009032",
+"end_ref_usfm": "JOB 9:32"
+},
+{
+"start_ref": "44009004",
+"start_ref_usfm": "ACT 9:4",
+"end_ref": "44009005",
+"end_ref_usfm": "ACT 9:5"
+},
+{
+"start_ref": "01032024",
+"start_ref_usfm": "GEN 32:24",
+"end_ref": "01032024",
+"end_ref_usfm": "GEN 32:24"
+},
+{
+"start_ref": "02015007",
+"start_ref_usfm": "EXO 15:7",
+"end_ref": "02015007",
+"end_ref_usfm": "EXO 15:7"
+},
+{
+"start_ref": "04022022",
+"start_ref_usfm": "NUM 22:22",
+"end_ref": "04022022",
+"end_ref_usfm": "NUM 22:22"
+},
+{
+"start_ref": "14035021",
+"start_ref_usfm": "2CH 35:21",
+"end_ref": "14035021",
+"end_ref_usfm": "2CH 35:21"
+},
+{
+"start_ref": "18023013",
+"start_ref_usfm": "JOB 23:13",
+"end_ref": "18023013",
+"end_ref_usfm": "JOB 23:13"
+},
+{
+"start_ref": "18031014",
+"start_ref_usfm": "JOB 31:14",
+"end_ref": "18031014",
+"end_ref_usfm": "JOB 31:14"
+},
+{
+"start_ref": "18033005",
+"start_ref_usfm": "JOB 33:5",
+"end_ref": "18033005",
+"end_ref_usfm": "JOB 33:5"
+},
+{
+"start_ref": "19017013",
+"start_ref_usfm": "PSA 17:13",
+"end_ref": "19017013",
+"end_ref_usfm": "PSA 17:13"
+},
+{
+"start_ref": "23030011",
+"start_ref_usfm": "ISA 30:11",
+"end_ref": "23030011",
+"end_ref_usfm": "ISA 30:11"
+},
+{
+"start_ref": "24050024",
+"start_ref_usfm": "JER 50:24",
+"end_ref": "24050024",
+"end_ref_usfm": "JER 50:24"
+},
+{
+"start_ref": "44011017",
+"start_ref_usfm": "ACT 11:17",
+"end_ref": "44011017",
+"end_ref_usfm": "ACT 11:17"
+}
+],
+"resource": [
+{
+"reference_id": "2545",
+"content_id": "2545",
+"resource_code": "DictionaryBibleThemes",
+"label": "2545: Jesus Christ, opposition to",
+"language": "eng"
+},
+{
+"reference_id": "5605",
+"content_id": "5605",
+"resource_code": "DictionaryBibleThemes",
+"label": "5605: warfare",
+"language": "eng"
+},
+{
+"reference_id": "5924",
+"content_id": "5924",
+"resource_code": "DictionaryBibleThemes",
+"label": "5924: quarrelsomeness",
+"language": "eng"
+},
+{
+"reference_id": "8401",
+"content_id": "8401",
+"resource_code": "DictionaryBibleThemes",
+"label": "8401: challenges",
+"language": "eng"
+},
+{
+"reference_id": "8785",
+"content_id": "8785",
+"resource_code": "DictionaryBibleThemes",
+"label": "8785: opposition",
+"language": "eng"
+},
+{
+"reference_id": "8794",
+"content_id": "8794",
+"resource_code": "DictionaryBibleThemes",
+"label": "8794: persecution",
+"language": "eng"
+}
+]
+}
+}
+]

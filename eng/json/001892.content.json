@@ -1,0 +1,158 @@
+[
+{
+"content_id": "7700",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7700: Leadership and the people of God",
+"media_type": "Text",
+"index_reference": "7700: leadership and the people of god",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"7703\" data-resourcetype=\"DictionaryOfBibleThemes\">7703: apologetics</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7706\" data-resourcetype=\"DictionaryOfBibleThemes\">7706: apostles</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7712\" data-resourcetype=\"DictionaryOfBibleThemes\">7712: convincing</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7715\" data-resourcetype=\"DictionaryOfBibleThemes\">7715: deacons</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7718\" data-resourcetype=\"DictionaryOfBibleThemes\">7718: elders</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7724\" data-resourcetype=\"DictionaryOfBibleThemes\">7724: evangelists</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7730\" data-resourcetype=\"DictionaryOfBibleThemes\">7730: explanation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7733\" data-resourcetype=\"DictionaryOfBibleThemes\">7733: leaders</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7739\" data-resourcetype=\"DictionaryOfBibleThemes\">7739: missionaries</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7745\" data-resourcetype=\"DictionaryOfBibleThemes\">7745: ordination</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7748\" data-resourcetype=\"DictionaryOfBibleThemes\">7748: overseers</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7751\" data-resourcetype=\"DictionaryOfBibleThemes\">7751: persuasion</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7754\" data-resourcetype=\"DictionaryOfBibleThemes\">7754: preaching</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7766\" data-resourcetype=\"DictionaryOfBibleThemes\">7766: priests</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7772\" data-resourcetype=\"DictionaryOfBibleThemes\">7772: prophets</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7778\" data-resourcetype=\"DictionaryOfBibleThemes\">7778: school of prophets</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7781\" data-resourcetype=\"DictionaryOfBibleThemes\">7781: seer</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7784\" data-resourcetype=\"DictionaryOfBibleThemes\">7784: shepherd</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7793\" data-resourcetype=\"DictionaryOfBibleThemes\">7793: teachers</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7796\" data-resourcetype=\"DictionaryOfBibleThemes\">7796: teaching</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7703",
+"content_id": "7703",
+"resource_code": "DictionaryBibleThemes",
+"label": "7703: apologetics",
+"language": "eng"
+},
+{
+"reference_id": "7706",
+"content_id": "7706",
+"resource_code": "DictionaryBibleThemes",
+"label": "7706: apostles",
+"language": "eng"
+},
+{
+"reference_id": "7712",
+"content_id": "7712",
+"resource_code": "DictionaryBibleThemes",
+"label": "7712: convincing",
+"language": "eng"
+},
+{
+"reference_id": "7715",
+"content_id": "7715",
+"resource_code": "DictionaryBibleThemes",
+"label": "7715: deacons",
+"language": "eng"
+},
+{
+"reference_id": "7718",
+"content_id": "7718",
+"resource_code": "DictionaryBibleThemes",
+"label": "7718: elders",
+"language": "eng"
+},
+{
+"reference_id": "7724",
+"content_id": "7724",
+"resource_code": "DictionaryBibleThemes",
+"label": "7724: evangelists",
+"language": "eng"
+},
+{
+"reference_id": "7730",
+"content_id": "7730",
+"resource_code": "DictionaryBibleThemes",
+"label": "7730: explanation",
+"language": "eng"
+},
+{
+"reference_id": "7733",
+"content_id": "7733",
+"resource_code": "DictionaryBibleThemes",
+"label": "7733: leaders",
+"language": "eng"
+},
+{
+"reference_id": "7739",
+"content_id": "7739",
+"resource_code": "DictionaryBibleThemes",
+"label": "7739: missionaries",
+"language": "eng"
+},
+{
+"reference_id": "7745",
+"content_id": "7745",
+"resource_code": "DictionaryBibleThemes",
+"label": "7745: ordination",
+"language": "eng"
+},
+{
+"reference_id": "7748",
+"content_id": "7748",
+"resource_code": "DictionaryBibleThemes",
+"label": "7748: overseers",
+"language": "eng"
+},
+{
+"reference_id": "7751",
+"content_id": "7751",
+"resource_code": "DictionaryBibleThemes",
+"label": "7751: persuasion",
+"language": "eng"
+},
+{
+"reference_id": "7754",
+"content_id": "7754",
+"resource_code": "DictionaryBibleThemes",
+"label": "7754: preaching",
+"language": "eng"
+},
+{
+"reference_id": "7766",
+"content_id": "7766",
+"resource_code": "DictionaryBibleThemes",
+"label": "7766: priests",
+"language": "eng"
+},
+{
+"reference_id": "7772",
+"content_id": "7772",
+"resource_code": "DictionaryBibleThemes",
+"label": "7772: prophets",
+"language": "eng"
+},
+{
+"reference_id": "7778",
+"content_id": "7778",
+"resource_code": "DictionaryBibleThemes",
+"label": "7778: school of prophets",
+"language": "eng"
+},
+{
+"reference_id": "7781",
+"content_id": "7781",
+"resource_code": "DictionaryBibleThemes",
+"label": "7781: seer",
+"language": "eng"
+},
+{
+"reference_id": "7784",
+"content_id": "7784",
+"resource_code": "DictionaryBibleThemes",
+"label": "7784: shepherd",
+"language": "eng"
+},
+{
+"reference_id": "7793",
+"content_id": "7793",
+"resource_code": "DictionaryBibleThemes",
+"label": "7793: teachers",
+"language": "eng"
+},
+{
+"reference_id": "7796",
+"content_id": "7796",
+"resource_code": "DictionaryBibleThemes",
+"label": "7796: teaching",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,274 @@
+[
+{
+"content_id": "5842",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5842: eloquence",
+"media_type": "Text",
+"index_reference": "5842: eloquence",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The ability to speak with fluency and persuasive power, using words appropriate to the circumstances.</p>\n<h2>Examples of lack of eloquence</h2>\n<p><strong><a href=\"https://ref.ly/Exod4:10\">EXO 4:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod6:12\">EXO 6:12</a>, <a href=\"https://ref.ly/Exod6:30\">EXO 6:30</a>; <a href=\"https://ref.ly/2Cor10:10\">2CO 10:10</a>, <a href=\"https://ref.ly/2Cor11:6\">2CO 11:6</a></p>\n<h2>Preaching the gospel does not rely on human eloquence</h2>\n<p><strong><a href=\"https://ref.ly/1Cor1:17\">1CO 1:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor1:19-1Cor1:21\">1CO 1:19–1:21</a>, <a href=\"https://ref.ly/1Cor2:1\">1CO 2:1</a>, <a href=\"https://ref.ly/1Cor13:1\">1CO 13:1</a></p>\n<h2>Eloquence that comes from God</h2>\n<p><strong><a href=\"https://ref.ly/Acts6:9-Acts6:10\">ACT 6:9–6:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod4:11\">EXO 4:11</a>, <a href=\"https://ref.ly/Exod4:15-Exod4:16\">EXO 4:15–4:16</a>; <a href=\"https://ref.ly/Isa32:4\">ISA 32:4</a>; <a href=\"https://ref.ly/Mark13:11\">MRK 13:11</a>; <a href=\"https://ref.ly/Luke21:15\">LUK 21:15</a>; <a href=\"https://ref.ly/Acts18:4\">ACT 18:4</a>, <a href=\"https://ref.ly/Acts19:8-Acts19:10\">ACT 19:8–19:10</a></p>\n<h2>Examples of eloquence in speeches</h2>\n<p><a href=\"https://ref.ly/Acts5:35-Acts5:40\">ACT 5:35–5:40</a>, <a href=\"https://ref.ly/Acts17:22-Acts17:23\">ACT 17:22–17:23</a>, <a href=\"https://ref.ly/Acts18:24-Acts18:28\">ACT 18:24–18:28</a></p>\n<h2>Eloquent words may lead to sin</h2>\n<p><strong><a href=\"https://ref.ly/Prov7:21\">PRO 7:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps12:3-Ps12:4\">PSA 12:3–12:4</a>, <a href=\"https://ref.ly/Ps55:21\">PSA 55:21</a>; <a href=\"https://ref.ly/Prov2:16\">PRO 2:16</a>, <a href=\"https://ref.ly/Prov5:3\">PRO 5:3</a>, <a href=\"https://ref.ly/Prov6:24\">PRO 6:24</a>, <a href=\"https://ref.ly/Prov29:5\">PRO 29:5</a></p>\n<h2>Sayings concerning eloquence</h2>\n<p><strong><a href=\"https://ref.ly/Ps45:1\">PSA 45:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov10:31-Prov10:32\">PRO 10:31–10:32</a>, <a href=\"https://ref.ly/Prov12:18\">PRO 12:18</a>, <a href=\"https://ref.ly/Prov22:11\">PRO 22:11</a>; <a href=\"https://ref.ly/Eccl10:12\">ECC 10:12</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02004010",
+"start_ref_usfm": "EXO 4:10",
+"end_ref": "02004010",
+"end_ref_usfm": "EXO 4:10"
+},
+{
+"start_ref": "02006012",
+"start_ref_usfm": "EXO 6:12",
+"end_ref": "02006012",
+"end_ref_usfm": "EXO 6:12"
+},
+{
+"start_ref": "02006030",
+"start_ref_usfm": "EXO 6:30",
+"end_ref": "02006030",
+"end_ref_usfm": "EXO 6:30"
+},
+{
+"start_ref": "47010010",
+"start_ref_usfm": "2CO 10:10",
+"end_ref": "47010010",
+"end_ref_usfm": "2CO 10:10"
+},
+{
+"start_ref": "47011006",
+"start_ref_usfm": "2CO 11:6",
+"end_ref": "47011006",
+"end_ref_usfm": "2CO 11:6"
+},
+{
+"start_ref": "46001017",
+"start_ref_usfm": "1CO 1:17",
+"end_ref": "46001017",
+"end_ref_usfm": "1CO 1:17"
+},
+{
+"start_ref": "46001019",
+"start_ref_usfm": "1CO 1:19",
+"end_ref": "46001021",
+"end_ref_usfm": "1CO 1:21"
+},
+{
+"start_ref": "46002001",
+"start_ref_usfm": "1CO 2:1",
+"end_ref": "46002001",
+"end_ref_usfm": "1CO 2:1"
+},
+{
+"start_ref": "46013001",
+"start_ref_usfm": "1CO 13:1",
+"end_ref": "46013001",
+"end_ref_usfm": "1CO 13:1"
+},
+{
+"start_ref": "44006009",
+"start_ref_usfm": "ACT 6:9",
+"end_ref": "44006010",
+"end_ref_usfm": "ACT 6:10"
+},
+{
+"start_ref": "02004011",
+"start_ref_usfm": "EXO 4:11",
+"end_ref": "02004011",
+"end_ref_usfm": "EXO 4:11"
+},
+{
+"start_ref": "02004015",
+"start_ref_usfm": "EXO 4:15",
+"end_ref": "02004016",
+"end_ref_usfm": "EXO 4:16"
+},
+{
+"start_ref": "23032004",
+"start_ref_usfm": "ISA 32:4",
+"end_ref": "23032004",
+"end_ref_usfm": "ISA 32:4"
+},
+{
+"start_ref": "41013011",
+"start_ref_usfm": "MRK 13:11",
+"end_ref": "41013011",
+"end_ref_usfm": "MRK 13:11"
+},
+{
+"start_ref": "42021015",
+"start_ref_usfm": "LUK 21:15",
+"end_ref": "42021015",
+"end_ref_usfm": "LUK 21:15"
+},
+{
+"start_ref": "44018004",
+"start_ref_usfm": "ACT 18:4",
+"end_ref": "44018004",
+"end_ref_usfm": "ACT 18:4"
+},
+{
+"start_ref": "44019008",
+"start_ref_usfm": "ACT 19:8",
+"end_ref": "44019010",
+"end_ref_usfm": "ACT 19:10"
+},
+{
+"start_ref": "44005035",
+"start_ref_usfm": "ACT 5:35",
+"end_ref": "44005040",
+"end_ref_usfm": "ACT 5:40"
+},
+{
+"start_ref": "44017022",
+"start_ref_usfm": "ACT 17:22",
+"end_ref": "44017023",
+"end_ref_usfm": "ACT 17:23"
+},
+{
+"start_ref": "44018024",
+"start_ref_usfm": "ACT 18:24",
+"end_ref": "44018028",
+"end_ref_usfm": "ACT 18:28"
+},
+{
+"start_ref": "20007021",
+"start_ref_usfm": "PRO 7:21",
+"end_ref": "20007021",
+"end_ref_usfm": "PRO 7:21"
+},
+{
+"start_ref": "19012003",
+"start_ref_usfm": "PSA 12:3",
+"end_ref": "19012004",
+"end_ref_usfm": "PSA 12:4"
+},
+{
+"start_ref": "19055021",
+"start_ref_usfm": "PSA 55:21",
+"end_ref": "19055021",
+"end_ref_usfm": "PSA 55:21"
+},
+{
+"start_ref": "20002016",
+"start_ref_usfm": "PRO 2:16",
+"end_ref": "20002016",
+"end_ref_usfm": "PRO 2:16"
+},
+{
+"start_ref": "20005003",
+"start_ref_usfm": "PRO 5:3",
+"end_ref": "20005003",
+"end_ref_usfm": "PRO 5:3"
+},
+{
+"start_ref": "20006024",
+"start_ref_usfm": "PRO 6:24",
+"end_ref": "20006024",
+"end_ref_usfm": "PRO 6:24"
+},
+{
+"start_ref": "20029005",
+"start_ref_usfm": "PRO 29:5",
+"end_ref": "20029005",
+"end_ref_usfm": "PRO 29:5"
+},
+{
+"start_ref": "19045001",
+"start_ref_usfm": "PSA 45:1",
+"end_ref": "19045001",
+"end_ref_usfm": "PSA 45:1"
+},
+{
+"start_ref": "20010031",
+"start_ref_usfm": "PRO 10:31",
+"end_ref": "20010032",
+"end_ref_usfm": "PRO 10:32"
+},
+{
+"start_ref": "20012018",
+"start_ref_usfm": "PRO 12:18",
+"end_ref": "20012018",
+"end_ref_usfm": "PRO 12:18"
+},
+{
+"start_ref": "20022011",
+"start_ref_usfm": "PRO 22:11",
+"end_ref": "20022011",
+"end_ref_usfm": "PRO 22:11"
+},
+{
+"start_ref": "21010012",
+"start_ref_usfm": "ECC 10:12",
+"end_ref": "21010012",
+"end_ref_usfm": "ECC 10:12"
+}
+],
+"resource": [
+{
+"reference_id": "2410",
+"content_id": "2410",
+"resource_code": "DictionaryBibleThemes",
+"label": "2410: cross, the",
+"language": "eng"
+},
+{
+"reference_id": "2420",
+"content_id": "2420",
+"resource_code": "DictionaryBibleThemes",
+"label": "2420: gospel",
+"language": "eng"
+},
+{
+"reference_id": "5101",
+"content_id": "5101",
+"resource_code": "DictionaryBibleThemes",
+"label": "5101: Moses",
+"language": "eng"
+},
+{
+"reference_id": "5107",
+"content_id": "5107",
+"resource_code": "DictionaryBibleThemes",
+"label": "5107: Paul",
+"language": "eng"
+},
+{
+"reference_id": "5193",
+"content_id": "5193",
+"resource_code": "DictionaryBibleThemes",
+"label": "5193: tongue",
+"language": "eng"
+},
+{
+"reference_id": "5345",
+"content_id": "5345",
+"resource_code": "DictionaryBibleThemes",
+"label": "5345: influence",
+"language": "eng"
+},
+{
+"reference_id": "5547",
+"content_id": "5547",
+"resource_code": "DictionaryBibleThemes",
+"label": "5547: speech, power and significance of",
+"language": "eng"
+},
+{
+"reference_id": "6020",
+"content_id": "6020",
+"resource_code": "DictionaryBibleThemes",
+"label": "6020: sin",
+"language": "eng"
+},
+{
+"reference_id": "7751",
+"content_id": "7751",
+"resource_code": "DictionaryBibleThemes",
+"label": "7751: persuasion",
+"language": "eng"
+}
+]
+}
+}
+]

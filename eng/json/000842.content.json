@@ -1,0 +1,150 @@
+[
+{
+"content_id": "5254",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5254: citadel",
+"media_type": "Text",
+"index_reference": "5254: citadel",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An especially secure city, or part of a city, where soldiers were often based.</p>\n<h2>Examples of citadels</h2>\n<p><strong><a href=\"https://ref.ly/Ps48:12-Ps48:13\">PSA 48:12–48:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam12:26\">2SA 12:26</a>; <a href=\"https://ref.ly/1Kgs16:18\">1KI 16:18</a>; <a href=\"https://ref.ly/2Kgs15:25\">2KI 15:25</a>; <a href=\"https://ref.ly/Neh1:1-Neh1:2\">NEH 1:1–1:2</a>, <a href=\"https://ref.ly/Neh2:8\">NEH 2:8</a>, <a href=\"https://ref.ly/Neh7:2\">NEH 7:2</a>; <a href=\"https://ref.ly/Esth1:2\">EST 1:2</a>, <a href=\"https://ref.ly/Esth1:5\">EST 1:5</a>, <a href=\"https://ref.ly/Esth3:15\">EST 3:15</a>, <a href=\"https://ref.ly/Esth9:6\">EST 9:6</a>; <a href=\"https://ref.ly/Ps48:1-Ps48:3\">PSA 48:1–48:3</a>, <a href=\"https://ref.ly/Ps122:7\">PSA 122:7</a>; <a href=\"https://ref.ly/Isa34:13\">ISA 34:13</a>; <a href=\"https://ref.ly/Dan8:2\">DAN 8:2</a></p>\n<h2>Proverbial use of citadel</h2>\n<p><strong><a href=\"https://ref.ly/Prov18:19\">PRO 18:19</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19048012",
+"start_ref_usfm": "PSA 48:12",
+"end_ref": "19048013",
+"end_ref_usfm": "PSA 48:13"
+},
+{
+"start_ref": "10012026",
+"start_ref_usfm": "2SA 12:26",
+"end_ref": "10012026",
+"end_ref_usfm": "2SA 12:26"
+},
+{
+"start_ref": "11016018",
+"start_ref_usfm": "1KI 16:18",
+"end_ref": "11016018",
+"end_ref_usfm": "1KI 16:18"
+},
+{
+"start_ref": "12015025",
+"start_ref_usfm": "2KI 15:25",
+"end_ref": "12015025",
+"end_ref_usfm": "2KI 15:25"
+},
+{
+"start_ref": "16001001",
+"start_ref_usfm": "NEH 1:1",
+"end_ref": "16001002",
+"end_ref_usfm": "NEH 1:2"
+},
+{
+"start_ref": "16002008",
+"start_ref_usfm": "NEH 2:8",
+"end_ref": "16002008",
+"end_ref_usfm": "NEH 2:8"
+},
+{
+"start_ref": "16007002",
+"start_ref_usfm": "NEH 7:2",
+"end_ref": "16007002",
+"end_ref_usfm": "NEH 7:2"
+},
+{
+"start_ref": "17001002",
+"start_ref_usfm": "EST 1:2",
+"end_ref": "17001002",
+"end_ref_usfm": "EST 1:2"
+},
+{
+"start_ref": "17001005",
+"start_ref_usfm": "EST 1:5",
+"end_ref": "17001005",
+"end_ref_usfm": "EST 1:5"
+},
+{
+"start_ref": "17003015",
+"start_ref_usfm": "EST 3:15",
+"end_ref": "17003015",
+"end_ref_usfm": "EST 3:15"
+},
+{
+"start_ref": "17009006",
+"start_ref_usfm": "EST 9:6",
+"end_ref": "17009006",
+"end_ref_usfm": "EST 9:6"
+},
+{
+"start_ref": "19048001",
+"start_ref_usfm": "PSA 48:1",
+"end_ref": "19048003",
+"end_ref_usfm": "PSA 48:3"
+},
+{
+"start_ref": "19122007",
+"start_ref_usfm": "PSA 122:7",
+"end_ref": "19122007",
+"end_ref_usfm": "PSA 122:7"
+},
+{
+"start_ref": "23034013",
+"start_ref_usfm": "ISA 34:13",
+"end_ref": "23034013",
+"end_ref_usfm": "ISA 34:13"
+},
+{
+"start_ref": "27008002",
+"start_ref_usfm": "DAN 8:2",
+"end_ref": "27008002",
+"end_ref_usfm": "DAN 8:2"
+},
+{
+"start_ref": "20018019",
+"start_ref_usfm": "PRO 18:19",
+"end_ref": "20018019",
+"end_ref_usfm": "PRO 18:19"
+}
+],
+"resource": [
+{
+"reference_id": "5256",
+"content_id": "5256",
+"resource_code": "DictionaryBibleThemes",
+"label": "5256: city",
+"language": "eng"
+},
+{
+"reference_id": "5315",
+"content_id": "5315",
+"resource_code": "DictionaryBibleThemes",
+"label": "5315: fortifications",
+"language": "eng"
+},
+{
+"reference_id": "5316",
+"content_id": "5316",
+"resource_code": "DictionaryBibleThemes",
+"label": "5316: fortress",
+"language": "eng"
+},
+{
+"reference_id": "5437",
+"content_id": "5437",
+"resource_code": "DictionaryBibleThemes",
+"label": "5437: palaces",
+"language": "eng"
+},
+{
+"reference_id": "7270",
+"content_id": "7270",
+"resource_code": "DictionaryBibleThemes",
+"label": "7270: Zion, as a place",
+"language": "eng"
+}
+]
+}
+}
+]

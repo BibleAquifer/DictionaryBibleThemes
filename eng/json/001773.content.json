@@ -1,0 +1,189 @@
+[
+{
+"content_id": "7324",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7324: calf worship",
+"media_type": "Text",
+"index_reference": "7324: calf worship",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A heathen (notably Egyptian and Canaanite) practice, in which statues of bull calves were worshipped as symbols of fertility and physical strength. Contrary to the second commandment this was copied by the Israelites and by Jeroboam after the division of the kingdom, in both cases incurring God's wrath.</p>\n<h2>Aaron made a golden calf for the Israelites to worship</h2>\n<h3>This act was born partly of impatience</h3>\n<p><strong><a href=\"https://ref.ly/Exod32:1-Exod32:4\">EXO 32:1–32:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:7-Exod32:8\">EXO 32:7–32:8</a>; <a href=\"https://ref.ly/Ps106:19-Ps106:22\">PSA 106:19–106:22</a>; <a href=\"https://ref.ly/Acts7:41\">ACT 7:41</a></p>\n<h3>It was swiftly condemned</h3>\n<p><strong><a href=\"https://ref.ly/Exod32:19-Exod32:20\">EXO 32:19–32:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:35\">EXO 32:35</a>; <a href=\"https://ref.ly/Deut9:16-Deut9:21\">DEU 9:16–9:21</a>; <a href=\"https://ref.ly/Ps106:23\">PSA 106:23</a></p>\n<h2>King Jeroboam initiated calf worship</h2>\n<h3>As a matter of expediency</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs12:26-1Kgs12:30\">1KI 12:26–12:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs17:15-2Kgs17:16\">2KI 17:15–17:16</a>; <a href=\"https://ref.ly/2Chr11:14-2Chr11:15\">2CH 11:14–11:15</a>, <a href=\"https://ref.ly/2Chr13:8\">2CH 13:8</a></p>\n<h3>Jeroboam's sin was one of the main reasons for the Assyrian captivity</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs17:18-2Kgs17:28\">2KI 17:18–17:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos8:4-Hos8:9\">HOS 8:4–8:9</a>, <a href=\"https://ref.ly/Hos10:5-Hos10:6\">HOS 10:5–10:6</a></p>\n<h2>Calf worship is detestable and useless</h2>\n<p><a href=\"https://ref.ly/Deut7:25\">DEU 7:25</a>; ; <a href=\"https://ref.ly/Isa44:9-Isa44:20\">ISA 44:9–44:20</a>, <a href=\"https://ref.ly/Isa46:6-Isa46:7\">ISA 46:6–46:7</a>; ; <a href=\"https://ref.ly/Rom1:21-Rom1:23\">ROM 1:21–1:23</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02032001",
+"start_ref_usfm": "EXO 32:1",
+"end_ref": "02032004",
+"end_ref_usfm": "EXO 32:4"
+},
+{
+"start_ref": "02032007",
+"start_ref_usfm": "EXO 32:7",
+"end_ref": "02032008",
+"end_ref_usfm": "EXO 32:8"
+},
+{
+"start_ref": "19106019",
+"start_ref_usfm": "PSA 106:19",
+"end_ref": "19106022",
+"end_ref_usfm": "PSA 106:22"
+},
+{
+"start_ref": "44007041",
+"start_ref_usfm": "ACT 7:41",
+"end_ref": "44007041",
+"end_ref_usfm": "ACT 7:41"
+},
+{
+"start_ref": "02032019",
+"start_ref_usfm": "EXO 32:19",
+"end_ref": "02032020",
+"end_ref_usfm": "EXO 32:20"
+},
+{
+"start_ref": "02032035",
+"start_ref_usfm": "EXO 32:35",
+"end_ref": "02032035",
+"end_ref_usfm": "EXO 32:35"
+},
+{
+"start_ref": "05009016",
+"start_ref_usfm": "DEU 9:16",
+"end_ref": "05009021",
+"end_ref_usfm": "DEU 9:21"
+},
+{
+"start_ref": "19106023",
+"start_ref_usfm": "PSA 106:23",
+"end_ref": "19106023",
+"end_ref_usfm": "PSA 106:23"
+},
+{
+"start_ref": "11012026",
+"start_ref_usfm": "1KI 12:26",
+"end_ref": "11012030",
+"end_ref_usfm": "1KI 12:30"
+},
+{
+"start_ref": "12017015",
+"start_ref_usfm": "2KI 17:15",
+"end_ref": "12017016",
+"end_ref_usfm": "2KI 17:16"
+},
+{
+"start_ref": "14011014",
+"start_ref_usfm": "2CH 11:14",
+"end_ref": "14011015",
+"end_ref_usfm": "2CH 11:15"
+},
+{
+"start_ref": "14013008",
+"start_ref_usfm": "2CH 13:8",
+"end_ref": "14013008",
+"end_ref_usfm": "2CH 13:8"
+},
+{
+"start_ref": "12017018",
+"start_ref_usfm": "2KI 17:18",
+"end_ref": "12017028",
+"end_ref_usfm": "2KI 17:28"
+},
+{
+"start_ref": "28008004",
+"start_ref_usfm": "HOS 8:4",
+"end_ref": "28008009",
+"end_ref_usfm": "HOS 8:9"
+},
+{
+"start_ref": "28010005",
+"start_ref_usfm": "HOS 10:5",
+"end_ref": "28010006",
+"end_ref_usfm": "HOS 10:6"
+},
+{
+"start_ref": "05007025",
+"start_ref_usfm": "DEU 7:25",
+"end_ref": "05007025",
+"end_ref_usfm": "DEU 7:25"
+},
+{
+"start_ref": "23044009",
+"start_ref_usfm": "ISA 44:9",
+"end_ref": "23044020",
+"end_ref_usfm": "ISA 44:20"
+},
+{
+"start_ref": "23046006",
+"start_ref_usfm": "ISA 46:6",
+"end_ref": "23046007",
+"end_ref_usfm": "ISA 46:7"
+},
+{
+"start_ref": "45001021",
+"start_ref_usfm": "ROM 1:21",
+"end_ref": "45001023",
+"end_ref_usfm": "ROM 1:23"
+}
+],
+"resource": [
+{
+"reference_id": "4615",
+"content_id": "4615",
+"resource_code": "DictionaryBibleThemes",
+"label": "4615: bull",
+"language": "eng"
+},
+{
+"reference_id": "4618",
+"content_id": "4618",
+"resource_code": "DictionaryBibleThemes",
+"label": "4618: calf",
+"language": "eng"
+},
+{
+"reference_id": "5071",
+"content_id": "5071",
+"resource_code": "DictionaryBibleThemes",
+"label": "5071: Aaron",
+"language": "eng"
+},
+{
+"reference_id": "6103",
+"content_id": "6103",
+"resource_code": "DictionaryBibleThemes",
+"label": "6103: abomination",
+"language": "eng"
+},
+{
+"reference_id": "8718",
+"content_id": "8718",
+"resource_code": "DictionaryBibleThemes",
+"label": "8718: disobedience",
+"language": "eng"
+},
+{
+"reference_id": "8747",
+"content_id": "8747",
+"resource_code": "DictionaryBibleThemes",
+"label": "8747: false gods",
+"language": "eng"
+},
+{
+"reference_id": "8752",
+"content_id": "8752",
+"resource_code": "DictionaryBibleThemes",
+"label": "8752: false worship",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,217 @@
+[
+{
+"content_id": "7471",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7471: temples, heathen",
+"media_type": "Text",
+"index_reference": "7471: temples, heathen",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Other nations also built temples to their gods, and apostate kings of Judah and Israel were condemned for erecting heathen temples in their own countries.</p>\n<h2>Heathen temples</h2>\n<p>The temple of Dagon:\n <a href=\"https://ref.ly/Judg16:28-Judg16:30\">JDG 16:28–16:30</a>; ; <a href=\"https://ref.ly/1Sam5:2-1Sam5:4\">1SA 5:2–5:4</a>; \n<a href=\"https://ref.ly/1Sam31:8-1Sam31:10\">1SA 31:8–31:10</a>; ; <a href=\"https://ref.ly/2Kgs5:18\">2KI 5:18</a> <em>the temple of Rimmon</em>; ; <a href=\"https://ref.ly/Nah1:14\">NAM 1:14</a></p>\n<h2>Idolatrous temples in Israel and Judah</h2>\n<p><a href=\"https://ref.ly/1Kgs12:26-1Kgs12:30\">1KI 12:26–12:30</a> <em>Jeroboam's temples at Bethel and Dan</em>; <a href=\"https://ref.ly/1Kgs16:32\">1KI 16:32</a>; ; <a href=\"https://ref.ly/2Kgs10:21\">2KI 10:21</a>, <a href=\"https://ref.ly/2Kgs10:23-2Kgs10:27\">2KI 10:23–10:27</a>; \n<a href=\"https://ref.ly/2Chr23:17\">2CH 23:17</a> <em>A temple to Baal in Judah was destroyed in the reign of Joash.</em></p>\n<h2>The command to destroy pagan places of worship in Israel</h2>\n<p><strong><a href=\"https://ref.ly/Deut12:2-Deut12:3\">DEU 12:2–12:3</a></strong></p>\n<h2>Holy things and holy places were used for pagan worship</h2>\n<p>Ahaz:\n <a href=\"https://ref.ly/2Kgs16:10-2Kgs16:13\">2KI 16:10–16:13</a>; ; <a href=\"https://ref.ly/2Chr28:23\">2CH 28:23</a>; <a href=\"https://ref.ly/2Kgs21:4-2Kgs21:5\">2KI 21:4–21:5</a>; ; <a href=\"https://ref.ly/2Chr33:5\">2CH 33:5</a>, <a href=\"https://ref.ly/2Chr33:7\">2CH 33:7</a>; \n<a href=\"https://ref.ly/2Chr24:7\">2CH 24:7</a> <em>Athaliah's sons used objects from the temple for the worship of the Baals</em>; ; <a href=\"https://ref.ly/Ezek8:12-Ezek8:16\">EZK 8:12–8:16</a> <em>God showed Ezekiel a vision of people worshipping false gods in the temple</em>; ; <a href=\"https://ref.ly/2Chr26:16-2Chr26:20\">2CH 26:16–26:20</a> <em>Uzziah incurred judgment by usurping the priestly task of offering incense in the temple.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07016028",
+"start_ref_usfm": "JDG 16:28",
+"end_ref": "07016030",
+"end_ref_usfm": "JDG 16:30"
+},
+{
+"start_ref": "09005002",
+"start_ref_usfm": "1SA 5:2",
+"end_ref": "09005004",
+"end_ref_usfm": "1SA 5:4"
+},
+{
+"start_ref": "09031008",
+"start_ref_usfm": "1SA 31:8",
+"end_ref": "09031010",
+"end_ref_usfm": "1SA 31:10"
+},
+{
+"start_ref": "12005018",
+"start_ref_usfm": "2KI 5:18",
+"end_ref": "12005018",
+"end_ref_usfm": "2KI 5:18"
+},
+{
+"start_ref": "34001014",
+"start_ref_usfm": "NAM 1:14",
+"end_ref": "34001014",
+"end_ref_usfm": "NAM 1:14"
+},
+{
+"start_ref": "11012026",
+"start_ref_usfm": "1KI 12:26",
+"end_ref": "11012030",
+"end_ref_usfm": "1KI 12:30"
+},
+{
+"start_ref": "11016032",
+"start_ref_usfm": "1KI 16:32",
+"end_ref": "11016032",
+"end_ref_usfm": "1KI 16:32"
+},
+{
+"start_ref": "12010021",
+"start_ref_usfm": "2KI 10:21",
+"end_ref": "12010021",
+"end_ref_usfm": "2KI 10:21"
+},
+{
+"start_ref": "12010023",
+"start_ref_usfm": "2KI 10:23",
+"end_ref": "12010027",
+"end_ref_usfm": "2KI 10:27"
+},
+{
+"start_ref": "14023017",
+"start_ref_usfm": "2CH 23:17",
+"end_ref": "14023017",
+"end_ref_usfm": "2CH 23:17"
+},
+{
+"start_ref": "05012002",
+"start_ref_usfm": "DEU 12:2",
+"end_ref": "05012003",
+"end_ref_usfm": "DEU 12:3"
+},
+{
+"start_ref": "12016010",
+"start_ref_usfm": "2KI 16:10",
+"end_ref": "12016013",
+"end_ref_usfm": "2KI 16:13"
+},
+{
+"start_ref": "14028023",
+"start_ref_usfm": "2CH 28:23",
+"end_ref": "14028023",
+"end_ref_usfm": "2CH 28:23"
+},
+{
+"start_ref": "12021004",
+"start_ref_usfm": "2KI 21:4",
+"end_ref": "12021005",
+"end_ref_usfm": "2KI 21:5"
+},
+{
+"start_ref": "14033005",
+"start_ref_usfm": "2CH 33:5",
+"end_ref": "14033005",
+"end_ref_usfm": "2CH 33:5"
+},
+{
+"start_ref": "14033007",
+"start_ref_usfm": "2CH 33:7",
+"end_ref": "14033007",
+"end_ref_usfm": "2CH 33:7"
+},
+{
+"start_ref": "14024007",
+"start_ref_usfm": "2CH 24:7",
+"end_ref": "14024007",
+"end_ref_usfm": "2CH 24:7"
+},
+{
+"start_ref": "26008012",
+"start_ref_usfm": "EZK 8:12",
+"end_ref": "26008016",
+"end_ref_usfm": "EZK 8:16"
+},
+{
+"start_ref": "14026016",
+"start_ref_usfm": "2CH 26:16",
+"end_ref": "14026020",
+"end_ref_usfm": "2CH 26:20"
+}
+],
+"resource": [
+{
+"reference_id": "4812",
+"content_id": "4812",
+"resource_code": "DictionaryBibleThemes",
+"label": "4812: darkness, and God's judgment",
+"language": "eng"
+},
+{
+"reference_id": "5688",
+"content_id": "5688",
+"resource_code": "DictionaryBibleThemes",
+"label": "5688: firstborn",
+"language": "eng"
+},
+{
+"reference_id": "5947",
+"content_id": "5947",
+"resource_code": "DictionaryBibleThemes",
+"label": "5947: shame",
+"language": "eng"
+},
+{
+"reference_id": "6239",
+"content_id": "6239",
+"resource_code": "DictionaryBibleThemes",
+"label": "6239: prostitution",
+"language": "eng"
+},
+{
+"reference_id": "7236",
+"content_id": "7236",
+"resource_code": "DictionaryBibleThemes",
+"label": "7236: Israel, as united kingdom",
+"language": "eng"
+},
+{
+"reference_id": "7245",
+"content_id": "7245",
+"resource_code": "DictionaryBibleThemes",
+"label": "7245: Judah, kingdom of",
+"language": "eng"
+},
+{
+"reference_id": "7442",
+"content_id": "7442",
+"resource_code": "DictionaryBibleThemes",
+"label": "7442: shrine",
+"language": "eng"
+},
+{
+"reference_id": "8625",
+"content_id": "8625",
+"resource_code": "DictionaryBibleThemes",
+"label": "8625: worship, acceptable attitudes in",
+"language": "eng"
+},
+{
+"reference_id": "8704",
+"content_id": "8704",
+"resource_code": "DictionaryBibleThemes",
+"label": "8704: apostasy",
+"language": "eng"
+},
+{
+"reference_id": "8747",
+"content_id": "8747",
+"resource_code": "DictionaryBibleThemes",
+"label": "8747: false gods",
+"language": "eng"
+},
+{
+"reference_id": "8752",
+"content_id": "8752",
+"resource_code": "DictionaryBibleThemes",
+"label": "8752: false worship",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+}
+]
+}
+}
+]

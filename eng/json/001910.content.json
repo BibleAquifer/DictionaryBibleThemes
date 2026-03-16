@@ -1,0 +1,39 @@
+[
+{
+"content_id": "7739",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7739: missionaries",
+"media_type": "Text",
+"index_reference": "7739: missionaries",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Those called and commissioned by God to fulfil specific tasks, especially that of taking the gospel to those who have not heard it. Missionaries may be sent to other towns, cities or nations, or may be called to fulfil their task closer to home.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7740",
+"content_id": "7740",
+"resource_code": "DictionaryBibleThemes",
+"label": "7740: missionaries, call of",
+"language": "eng"
+},
+{
+"reference_id": "7741",
+"content_id": "7741",
+"resource_code": "DictionaryBibleThemes",
+"label": "7741: missionaries, task of",
+"language": "eng"
+},
+{
+"reference_id": "7742",
+"content_id": "7742",
+"resource_code": "DictionaryBibleThemes",
+"label": "7742: missionaries, support for",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,260 @@
+[
+{
+"content_id": "7315",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7315: blood, as basis of life",
+"media_type": "Text",
+"index_reference": "7315: blood, as basis of life",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture treats blood as the basis of life, and regards the shedding of blood as representing the end of life.</p>\n<h2>Blood symbolises life</h2>\n<p><strong><a href=\"https://ref.ly/Lev17:10-Lev17:14\">LEV 17:10–17:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen9:4-Gen9:6\">GEN 9:4–9:6</a>; <a href=\"https://ref.ly/Deut12:20-Deut12:25\">DEU 12:20–12:25</a>; <a href=\"https://ref.ly/2Sam23:15-2Sam23:17\">2SA 23:15–23:17</a>; <a href=\"https://ref.ly/Ps72:14\">PSA 72:14</a>; <a href=\"https://ref.ly/Jer2:34\">JER 2:34</a>; <a href=\"https://ref.ly/Ezek33:1-Ezek33:6\">EZK 33:1–33:6</a>; <a href=\"https://ref.ly/Matt27:3-Matt27:4\">MAT 27:3–27:4</a>; <a href=\"https://ref.ly/Luke11:50-Luke11:51\">LUK 11:50–11:51</a> parallel <a href=\"https://ref.ly/Matt23:35-Matt23:36\">MAT 23:35–23:36</a></p>\n<h2>Blood indicating violent death</h2>\n<p><strong><a href=\"https://ref.ly/Gen4:8-Gen4:11\">GEN 4:8–4:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen9:6\">GEN 9:6</a>; <a href=\"https://ref.ly/Judg9:22-Judg9:24\">JDG 9:22–9:24</a>; <a href=\"https://ref.ly/1Kgs2:5-1Kgs2:6\">1KI 2:5–2:6</a>, <a href=\"https://ref.ly/1Kgs2:28-1Kgs2:34\">1KI 2:28–2:34</a>; <a href=\"https://ref.ly/2Kgs9:30-2Kgs9:33\">2KI 9:30–9:33</a></p>\n<h2>Shedding blood as a sin</h2>\n<p><strong><a href=\"https://ref.ly/Exod20:13\">EXO 20:13</a></strong> parallel <a href=\"https://ref.ly/Deut5:17\">DEU 5:17</a> <em>See also</em> <a href=\"https://ref.ly/Gen42:21-Gen42:22\">GEN 42:21–42:22</a>; <a href=\"https://ref.ly/Deut21:1-Deut21:9\">DEU 21:1–21:9</a>; <a href=\"https://ref.ly/2Kgs21:16\">2KI 21:16</a>; <a href=\"https://ref.ly/Prov1:10-Prov1:19\">PRO 1:10–1:19</a>; <a href=\"https://ref.ly/Isa26:21\">ISA 26:21</a>; <a href=\"https://ref.ly/Matt15:18-Matt15:19\">MAT 15:18–15:19</a> parallel <a href=\"https://ref.ly/Mark7:20-Mark7:21\">MRK 7:20–7:21</a>; <a href=\"https://ref.ly/Rom1:28-Rom1:29\">ROM 1:28–1:29</a></p>\n<h2>The eating of blood forbidden</h2>\n<p><strong><a href=\"https://ref.ly/Lev3:17\">LEV 3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev7:26-Lev7:27\">LEV 7:26–7:27</a>, <a href=\"https://ref.ly/Lev17:10-Lev17:14\">LEV 17:10–17:14</a>; <a href=\"https://ref.ly/Deut12:23\">DEU 12:23</a>; <a href=\"https://ref.ly/1Sam14:31-1Sam14:34\">1SA 14:31–14:34</a>; <a href=\"https://ref.ly/Acts15:19-Acts15:20\">ACT 15:19–15:20</a>, <a href=\"https://ref.ly/Acts15:29\">ACT 15:29</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03017010",
+"start_ref_usfm": "LEV 17:10",
+"end_ref": "03017014",
+"end_ref_usfm": "LEV 17:14"
+},
+{
+"start_ref": "01009004",
+"start_ref_usfm": "GEN 9:4",
+"end_ref": "01009006",
+"end_ref_usfm": "GEN 9:6"
+},
+{
+"start_ref": "05012020",
+"start_ref_usfm": "DEU 12:20",
+"end_ref": "05012025",
+"end_ref_usfm": "DEU 12:25"
+},
+{
+"start_ref": "10023015",
+"start_ref_usfm": "2SA 23:15",
+"end_ref": "10023017",
+"end_ref_usfm": "2SA 23:17"
+},
+{
+"start_ref": "19072014",
+"start_ref_usfm": "PSA 72:14",
+"end_ref": "19072014",
+"end_ref_usfm": "PSA 72:14"
+},
+{
+"start_ref": "24002034",
+"start_ref_usfm": "JER 2:34",
+"end_ref": "24002034",
+"end_ref_usfm": "JER 2:34"
+},
+{
+"start_ref": "26033001",
+"start_ref_usfm": "EZK 33:1",
+"end_ref": "26033006",
+"end_ref_usfm": "EZK 33:6"
+},
+{
+"start_ref": "40027003",
+"start_ref_usfm": "MAT 27:3",
+"end_ref": "40027004",
+"end_ref_usfm": "MAT 27:4"
+},
+{
+"start_ref": "42011050",
+"start_ref_usfm": "LUK 11:50",
+"end_ref": "42011051",
+"end_ref_usfm": "LUK 11:51"
+},
+{
+"start_ref": "40023035",
+"start_ref_usfm": "MAT 23:35",
+"end_ref": "40023036",
+"end_ref_usfm": "MAT 23:36"
+},
+{
+"start_ref": "01004008",
+"start_ref_usfm": "GEN 4:8",
+"end_ref": "01004011",
+"end_ref_usfm": "GEN 4:11"
+},
+{
+"start_ref": "01009006",
+"start_ref_usfm": "GEN 9:6",
+"end_ref": "01009006",
+"end_ref_usfm": "GEN 9:6"
+},
+{
+"start_ref": "07009022",
+"start_ref_usfm": "JDG 9:22",
+"end_ref": "07009024",
+"end_ref_usfm": "JDG 9:24"
+},
+{
+"start_ref": "11002005",
+"start_ref_usfm": "1KI 2:5",
+"end_ref": "11002006",
+"end_ref_usfm": "1KI 2:6"
+},
+{
+"start_ref": "11002028",
+"start_ref_usfm": "1KI 2:28",
+"end_ref": "11002034",
+"end_ref_usfm": "1KI 2:34"
+},
+{
+"start_ref": "12009030",
+"start_ref_usfm": "2KI 9:30",
+"end_ref": "12009033",
+"end_ref_usfm": "2KI 9:33"
+},
+{
+"start_ref": "02020013",
+"start_ref_usfm": "EXO 20:13",
+"end_ref": "02020013",
+"end_ref_usfm": "EXO 20:13"
+},
+{
+"start_ref": "05005017",
+"start_ref_usfm": "DEU 5:17",
+"end_ref": "05005017",
+"end_ref_usfm": "DEU 5:17"
+},
+{
+"start_ref": "01042021",
+"start_ref_usfm": "GEN 42:21",
+"end_ref": "01042022",
+"end_ref_usfm": "GEN 42:22"
+},
+{
+"start_ref": "05021001",
+"start_ref_usfm": "DEU 21:1",
+"end_ref": "05021009",
+"end_ref_usfm": "DEU 21:9"
+},
+{
+"start_ref": "12021016",
+"start_ref_usfm": "2KI 21:16",
+"end_ref": "12021016",
+"end_ref_usfm": "2KI 21:16"
+},
+{
+"start_ref": "20001010",
+"start_ref_usfm": "PRO 1:10",
+"end_ref": "20001019",
+"end_ref_usfm": "PRO 1:19"
+},
+{
+"start_ref": "23026021",
+"start_ref_usfm": "ISA 26:21",
+"end_ref": "23026021",
+"end_ref_usfm": "ISA 26:21"
+},
+{
+"start_ref": "40015018",
+"start_ref_usfm": "MAT 15:18",
+"end_ref": "40015019",
+"end_ref_usfm": "MAT 15:19"
+},
+{
+"start_ref": "41007020",
+"start_ref_usfm": "MRK 7:20",
+"end_ref": "41007021",
+"end_ref_usfm": "MRK 7:21"
+},
+{
+"start_ref": "45001028",
+"start_ref_usfm": "ROM 1:28",
+"end_ref": "45001029",
+"end_ref_usfm": "ROM 1:29"
+},
+{
+"start_ref": "03003017",
+"start_ref_usfm": "LEV 3:17",
+"end_ref": "03003017",
+"end_ref_usfm": "LEV 3:17"
+},
+{
+"start_ref": "03007026",
+"start_ref_usfm": "LEV 7:26",
+"end_ref": "03007027",
+"end_ref_usfm": "LEV 7:27"
+},
+{
+"start_ref": "05012023",
+"start_ref_usfm": "DEU 12:23",
+"end_ref": "05012023",
+"end_ref_usfm": "DEU 12:23"
+},
+{
+"start_ref": "09014031",
+"start_ref_usfm": "1SA 14:31",
+"end_ref": "09014034",
+"end_ref_usfm": "1SA 14:34"
+},
+{
+"start_ref": "44015019",
+"start_ref_usfm": "ACT 15:19",
+"end_ref": "44015020",
+"end_ref_usfm": "ACT 15:20"
+},
+{
+"start_ref": "44015029",
+"start_ref_usfm": "ACT 15:29",
+"end_ref": "44015029",
+"end_ref_usfm": "ACT 15:29"
+}
+],
+"resource": [
+{
+"reference_id": "4015",
+"content_id": "4015",
+"resource_code": "DictionaryBibleThemes",
+"label": "4015: life",
+"language": "eng"
+},
+{
+"reference_id": "4233",
+"content_id": "4233",
+"resource_code": "DictionaryBibleThemes",
+"label": "4233: field of blood",
+"language": "eng"
+},
+{
+"reference_id": "5025",
+"content_id": "5025",
+"resource_code": "DictionaryBibleThemes",
+"label": "5025: killing",
+"language": "eng"
+},
+{
+"reference_id": "5040",
+"content_id": "5040",
+"resource_code": "DictionaryBibleThemes",
+"label": "5040: murder",
+"language": "eng"
+},
+{
+"reference_id": "7346",
+"content_id": "7346",
+"resource_code": "DictionaryBibleThemes",
+"label": "7346: death penalty",
+"language": "eng"
+},
+{
+"reference_id": "8278",
+"content_id": "8278",
+"resource_code": "DictionaryBibleThemes",
+"label": "8278: innocence, teaching on",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+}
+]
+}
+}
+]

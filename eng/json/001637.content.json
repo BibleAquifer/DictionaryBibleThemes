@@ -1,0 +1,60 @@
+[
+{
+"content_id": "6666",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6666: grace",
+"media_type": "Text",
+"index_reference": "6666: grace",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The unmerited favour of God, made known through Jesus Christ, and expressed supremely in the redemption and full forgiveness of sinners through faith in Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6667",
+"content_id": "6667",
+"resource_code": "DictionaryBibleThemes",
+"label": "6667: grace, in OT",
+"language": "eng"
+},
+{
+"reference_id": "6668",
+"content_id": "6668",
+"resource_code": "DictionaryBibleThemes",
+"label": "6668: grace, and Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "6669",
+"content_id": "6669",
+"resource_code": "DictionaryBibleThemes",
+"label": "6669: grace, and salvation",
+"language": "eng"
+},
+{
+"reference_id": "6670",
+"content_id": "6670",
+"resource_code": "DictionaryBibleThemes",
+"label": "6670: grace, and Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "6671",
+"content_id": "6671",
+"resource_code": "DictionaryBibleThemes",
+"label": "6671: grace, and Christian life",
+"language": "eng"
+},
+{
+"reference_id": "6672",
+"content_id": "6672",
+"resource_code": "DictionaryBibleThemes",
+"label": "6672: grace, in human relationships",
+"language": "eng"
+}
+]
+}
+}
+]

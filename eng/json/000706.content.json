@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5112",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5112: Peter",
+"media_type": "Text",
+"index_reference": "5112: peter",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The foremost of the disciples of Jesus Christ during his lifetime and of the apostles after the resurrection.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5113",
+"content_id": "5113",
+"resource_code": "DictionaryBibleThemes",
+"label": "5113: Peter, the disciple",
+"language": "eng"
+},
+{
+"reference_id": "5114",
+"content_id": "5114",
+"resource_code": "DictionaryBibleThemes",
+"label": "5114: Peter, the apostle",
+"language": "eng"
+},
+{
+"reference_id": "5115",
+"content_id": "5115",
+"resource_code": "DictionaryBibleThemes",
+"label": "5115: Peter, preacher and teacher",
+"language": "eng"
+}
+]
+}
+}
+]

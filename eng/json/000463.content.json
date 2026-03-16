@@ -1,0 +1,317 @@
+[
+{
+"content_id": "4496",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4496: perfume",
+"media_type": "Text",
+"index_reference": "4496: perfume",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Substances used to make perfumes</h2>\n<h3>By blending ingredients</h3>\n<p><a href=\"https://ref.ly/Exod30:23-Exod30:24\">EXO 30:23–30:24</a>, <a href=\"https://ref.ly/Exod30:34\">EXO 30:34</a></p>\n<h3>Substances used as perfumes</h3>\n<p><strong><a href=\"https://ref.ly/Song4:13-Song4:14\">SNG 4:13–4:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song1:12-Song1:14\">SNG 1:12–1:14</a>, <a href=\"https://ref.ly/Song3:6\">SNG 3:6</a>, <a href=\"https://ref.ly/Song5:13\">SNG 5:13</a>; <a href=\"https://ref.ly/Mark14:3\">MRK 14:3</a>; <a href=\"https://ref.ly/John12:3\">JHN 12:3</a></p>\n<h3>Perfume ingredients as traded commodities</h3>\n<p><a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a>; ; <a href=\"https://ref.ly/Ezek27:19\">EZK 27:19</a>; ; <a href=\"https://ref.ly/Rev18:13\">REV 18:13</a></p>\n<h2>The attractive fragrance of perfume</h2>\n<h3>Its tempting allure</h3>\n<p><strong><a href=\"https://ref.ly/Prov7:17\">PRO 7:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa57:9\">ISA 57:9</a>; <a href=\"https://ref.ly/Ezek23:40-Ezek23:41\">EZK 23:40–23:41</a></p>\n<h3>Its pleasing fragrance</h3>\n<p><a href=\"https://ref.ly/Prov27:9\">PRO 27:9</a>; ; <a href=\"https://ref.ly/Song1:3\">SNG 1:3</a>, <a href=\"https://ref.ly/Song4:10\">SNG 4:10</a></p>\n<h3>Fragrance used metaphorically</h3>\n<p><strong><a href=\"https://ref.ly/2Cor2:14-2Cor2:16\">2CO 2:14–2:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph5:2\">EPH 5:2</a>; <a href=\"https://ref.ly/Phil4:18\">PHP 4:18</a></p>\n<h2>Examples of the use of perfume</h2>\n<h3>As a cosmetic</h3>\n<p><strong><a href=\"https://ref.ly/Esth2:12\">EST 2:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ruth3:3\">RUT 3:3</a></p>\n<h3>To give fragrance to clothes</h3>\n<p><strong><a href=\"https://ref.ly/Ps45:8\">PSA 45:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song4:11\">SNG 4:11</a></p>\n<h3>In burying the dead</h3>\n<p><strong><a href=\"https://ref.ly/Matt26:12\">MAT 26:12</a></strong> parallel <a href=\"https://ref.ly/Mark14:8\">MRK 14:8</a> <em>See also</em> <a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a>; <a href=\"https://ref.ly/Mark16:1\">MRK 16:1</a> parallel <a href=\"https://ref.ly/Luke23:56-Luke24:1\">LUK 23:56–24:1</a>; <a href=\"https://ref.ly/John12:7\">JHN 12:7</a>, <a href=\"https://ref.ly/John19:39-John19:40\">JHN 19:39–19:40</a></p>\n<h2>Perfumers</h2>\n<h3>Commissioned to make oil and incense for the sanctuary</h3>\n<p><strong><a href=\"https://ref.ly/Exod37:29\">EXO 37:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod30:25\">EXO 30:25</a>, <a href=\"https://ref.ly/Exod30:33\">EXO 30:33</a> <em>The manufacture of the sacred anointing oil by unauthorised persons was forbidden</em>; <a href=\"https://ref.ly/Exod30:35\">EXO 30:35</a>; <a href=\"https://ref.ly/1Chr9:30\">1CH 9:30</a></p>\n<h3>Other references to perfumers</h3>\n<p><a href=\"https://ref.ly/1Sam8:13\">1SA 8:13</a> <em>perfumers in the service of the king</em>; ; <a href=\"https://ref.ly/Neh3:8\">NEH 3:8</a> <em>Hananiah</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02030023",
+"start_ref_usfm": "EXO 30:23",
+"end_ref": "02030024",
+"end_ref_usfm": "EXO 30:24"
+},
+{
+"start_ref": "02030034",
+"start_ref_usfm": "EXO 30:34",
+"end_ref": "02030034",
+"end_ref_usfm": "EXO 30:34"
+},
+{
+"start_ref": "22004013",
+"start_ref_usfm": "SNG 4:13",
+"end_ref": "22004014",
+"end_ref_usfm": "SNG 4:14"
+},
+{
+"start_ref": "22001012",
+"start_ref_usfm": "SNG 1:12",
+"end_ref": "22001014",
+"end_ref_usfm": "SNG 1:14"
+},
+{
+"start_ref": "22003006",
+"start_ref_usfm": "SNG 3:6",
+"end_ref": "22003006",
+"end_ref_usfm": "SNG 3:6"
+},
+{
+"start_ref": "22005013",
+"start_ref_usfm": "SNG 5:13",
+"end_ref": "22005013",
+"end_ref_usfm": "SNG 5:13"
+},
+{
+"start_ref": "41014003",
+"start_ref_usfm": "MRK 14:3",
+"end_ref": "41014003",
+"end_ref_usfm": "MRK 14:3"
+},
+{
+"start_ref": "43012003",
+"start_ref_usfm": "JHN 12:3",
+"end_ref": "43012003",
+"end_ref_usfm": "JHN 12:3"
+},
+{
+"start_ref": "01037025",
+"start_ref_usfm": "GEN 37:25",
+"end_ref": "01037025",
+"end_ref_usfm": "GEN 37:25"
+},
+{
+"start_ref": "26027019",
+"start_ref_usfm": "EZK 27:19",
+"end_ref": "26027019",
+"end_ref_usfm": "EZK 27:19"
+},
+{
+"start_ref": "66018013",
+"start_ref_usfm": "REV 18:13",
+"end_ref": "66018013",
+"end_ref_usfm": "REV 18:13"
+},
+{
+"start_ref": "20007017",
+"start_ref_usfm": "PRO 7:17",
+"end_ref": "20007017",
+"end_ref_usfm": "PRO 7:17"
+},
+{
+"start_ref": "23057009",
+"start_ref_usfm": "ISA 57:9",
+"end_ref": "23057009",
+"end_ref_usfm": "ISA 57:9"
+},
+{
+"start_ref": "26023040",
+"start_ref_usfm": "EZK 23:40",
+"end_ref": "26023041",
+"end_ref_usfm": "EZK 23:41"
+},
+{
+"start_ref": "20027009",
+"start_ref_usfm": "PRO 27:9",
+"end_ref": "20027009",
+"end_ref_usfm": "PRO 27:9"
+},
+{
+"start_ref": "22001003",
+"start_ref_usfm": "SNG 1:3",
+"end_ref": "22001003",
+"end_ref_usfm": "SNG 1:3"
+},
+{
+"start_ref": "22004010",
+"start_ref_usfm": "SNG 4:10",
+"end_ref": "22004010",
+"end_ref_usfm": "SNG 4:10"
+},
+{
+"start_ref": "47002014",
+"start_ref_usfm": "2CO 2:14",
+"end_ref": "47002016",
+"end_ref_usfm": "2CO 2:16"
+},
+{
+"start_ref": "49005002",
+"start_ref_usfm": "EPH 5:2",
+"end_ref": "49005002",
+"end_ref_usfm": "EPH 5:2"
+},
+{
+"start_ref": "50004018",
+"start_ref_usfm": "PHP 4:18",
+"end_ref": "50004018",
+"end_ref_usfm": "PHP 4:18"
+},
+{
+"start_ref": "17002012",
+"start_ref_usfm": "EST 2:12",
+"end_ref": "17002012",
+"end_ref_usfm": "EST 2:12"
+},
+{
+"start_ref": "08003003",
+"start_ref_usfm": "RUT 3:3",
+"end_ref": "08003003",
+"end_ref_usfm": "RUT 3:3"
+},
+{
+"start_ref": "19045008",
+"start_ref_usfm": "PSA 45:8",
+"end_ref": "19045008",
+"end_ref_usfm": "PSA 45:8"
+},
+{
+"start_ref": "22004011",
+"start_ref_usfm": "SNG 4:11",
+"end_ref": "22004011",
+"end_ref_usfm": "SNG 4:11"
+},
+{
+"start_ref": "40026012",
+"start_ref_usfm": "MAT 26:12",
+"end_ref": "40026012",
+"end_ref_usfm": "MAT 26:12"
+},
+{
+"start_ref": "41014008",
+"start_ref_usfm": "MRK 14:8",
+"end_ref": "41014008",
+"end_ref_usfm": "MRK 14:8"
+},
+{
+"start_ref": "14016014",
+"start_ref_usfm": "2CH 16:14",
+"end_ref": "14016014",
+"end_ref_usfm": "2CH 16:14"
+},
+{
+"start_ref": "41016001",
+"start_ref_usfm": "MRK 16:1",
+"end_ref": "41016001",
+"end_ref_usfm": "MRK 16:1"
+},
+{
+"start_ref": "42023056",
+"start_ref_usfm": "LUK 23:56",
+"end_ref": "42024001",
+"end_ref_usfm": "LUK 24:1"
+},
+{
+"start_ref": "43012007",
+"start_ref_usfm": "JHN 12:7",
+"end_ref": "43012007",
+"end_ref_usfm": "JHN 12:7"
+},
+{
+"start_ref": "43019039",
+"start_ref_usfm": "JHN 19:39",
+"end_ref": "43019040",
+"end_ref_usfm": "JHN 19:40"
+},
+{
+"start_ref": "02037029",
+"start_ref_usfm": "EXO 37:29",
+"end_ref": "02037029",
+"end_ref_usfm": "EXO 37:29"
+},
+{
+"start_ref": "02030025",
+"start_ref_usfm": "EXO 30:25",
+"end_ref": "02030025",
+"end_ref_usfm": "EXO 30:25"
+},
+{
+"start_ref": "02030033",
+"start_ref_usfm": "EXO 30:33",
+"end_ref": "02030033",
+"end_ref_usfm": "EXO 30:33"
+},
+{
+"start_ref": "02030035",
+"start_ref_usfm": "EXO 30:35",
+"end_ref": "02030035",
+"end_ref_usfm": "EXO 30:35"
+},
+{
+"start_ref": "13009030",
+"start_ref_usfm": "1CH 9:30",
+"end_ref": "13009030",
+"end_ref_usfm": "1CH 9:30"
+},
+{
+"start_ref": "09008013",
+"start_ref_usfm": "1SA 8:13",
+"end_ref": "09008013",
+"end_ref_usfm": "1SA 8:13"
+},
+{
+"start_ref": "16003008",
+"start_ref_usfm": "NEH 3:8",
+"end_ref": "16003008",
+"end_ref_usfm": "NEH 3:8"
+}
+],
+"resource": [
+{
+"reference_id": "4466",
+"content_id": "4466",
+"resource_code": "DictionaryBibleThemes",
+"label": "4466: herbs and spices",
+"language": "eng"
+},
+{
+"reference_id": "4486",
+"content_id": "4486",
+"resource_code": "DictionaryBibleThemes",
+"label": "4486: myrrh",
+"language": "eng"
+},
+{
+"reference_id": "4488",
+"content_id": "4488",
+"resource_code": "DictionaryBibleThemes",
+"label": "4488: oil",
+"language": "eng"
+},
+{
+"reference_id": "4490",
+"content_id": "4490",
+"resource_code": "DictionaryBibleThemes",
+"label": "4490: ointment",
+"language": "eng"
+},
+{
+"reference_id": "5183",
+"content_id": "5183",
+"resource_code": "DictionaryBibleThemes",
+"label": "5183: smell",
+"language": "eng"
+},
+{
+"reference_id": "5234",
+"content_id": "5234",
+"resource_code": "DictionaryBibleThemes",
+"label": "5234: bottle",
+"language": "eng"
+},
+{
+"reference_id": "5241",
+"content_id": "5241",
+"resource_code": "DictionaryBibleThemes",
+"label": "5241: burial",
+"language": "eng"
+},
+{
+"reference_id": "6241",
+"content_id": "6241",
+"resource_code": "DictionaryBibleThemes",
+"label": "6241: seduction",
+"language": "eng"
+},
+{
+"reference_id": "7304",
+"content_id": "7304",
+"resource_code": "DictionaryBibleThemes",
+"label": "7304: anointing",
+"language": "eng"
+},
+{
+"reference_id": "7386",
+"content_id": "7386",
+"resource_code": "DictionaryBibleThemes",
+"label": "7386: incense",
+"language": "eng"
+}
+]
+}
+}
+]

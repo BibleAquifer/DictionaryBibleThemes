@@ -1,0 +1,323 @@
+[
+{
+"content_id": "5883",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5883: impatience",
+"media_type": "Text",
+"index_reference": "5883: impatience",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A refusal to wait for people or developments, frequently displaying a lack of faith.</p>\n<h2>Examples of impatience</h2>\n<p><a href=\"https://ref.ly/Gen16:1-Gen16:2\">GEN 16:1–16:2</a> <em>Abraham and Sarah who did not wait for God to give them the son he had promised</em>; ; <a href=\"https://ref.ly/Gen25:30\">GEN 25:30</a> <em>Esau's impatience cost him his birthright</em>; ; <a href=\"https://ref.ly/Num20:9-Num20:11\">NUM 20:9–20:11</a> <em>Moses</em>; <a href=\"https://ref.ly/Num21:4\">NUM 21:4</a>; ; <a href=\"https://ref.ly/Ps106:13\">PSA 106:13</a>; ; <a href=\"https://ref.ly/Isa59:7\">ISA 59:7</a>; \n<a href=\"https://ref.ly/1Sam13:6-1Sam13:12\">1SA 13:6–13:12</a> <em>Saul made the offering without waiting for Samuel</em>; ; <a href=\"https://ref.ly/2Sam13:2\">2SA 13:2</a> <em>Amnon with his half-sister, Tamar</em>; ; <a href=\"https://ref.ly/2Sam14:29\">2SA 14:29</a> <em>Absalom with Joab</em>; ; <a href=\"https://ref.ly/2Sam18:14\">2SA 18:14</a> <em>Joab with Absalom</em>; ; <a href=\"https://ref.ly/2Kgs5:11-2Kgs5:12\">2KI 5:11–5:12</a> <em>Naaman</em>; ; <a href=\"https://ref.ly/2Kgs6:33\">2KI 6:33</a> <em>King Joram</em>; <a href=\"https://ref.ly/Job6:11\">JOB 6:11</a>, <a href=\"https://ref.ly/Job21:4\">JOB 21:4</a>; \n<a href=\"https://ref.ly/Job32:16\">JOB 32:16</a> <em>Elihu</em>; ; <a href=\"https://ref.ly/Matt18:29-Matt18:30\">MAT 18:29–18:30</a> <em>the unforgiving debtor</em>; ; <a href=\"https://ref.ly/Luke15:2\">LUK 15:2</a> <em>The younger son could not wait for his inheritance</em>; ; <a href=\"https://ref.ly/John21:3\">JHN 21:3</a> <em>Peter</em>; ; <a href=\"https://ref.ly/Acts20:16\">ACT 20:16</a> <em>Paul</em>; ; <a href=\"https://ref.ly/1Cor11:20-1Cor11:21\">1CO 11:20–11:21</a> <em>the Corinthian Christians at their communal meal</em>; ; <a href=\"https://ref.ly/Rev6:10-Rev6:11\">REV 6:10–6:11</a> <em>the martyrs waiting for the Lord to avenge their deaths</em></p>\n<h2>Warnings against impatience</h2>\n<p><strong><a href=\"https://ref.ly/Ps37:7\">PSA 37:7</a></strong>; <strong><a href=\"https://ref.ly/Prov19:2\">PRO 19:2</a></strong>; <strong><a href=\"https://ref.ly/Gal6:9\">GAL 6:9</a></strong>; <strong><a href=\"https://ref.ly/Jas1:19-Jas1:20\">JAS 1:19–1:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:18\">PRO 6:18</a>, <a href=\"https://ref.ly/Prov12:16\">PRO 12:16</a>, <a href=\"https://ref.ly/Prov14:29\">PRO 14:29</a>, <a href=\"https://ref.ly/Prov15:18\">PRO 15:18</a>, <a href=\"https://ref.ly/Prov16:32\">PRO 16:32</a>, <a href=\"https://ref.ly/Prov20:3\">PRO 20:3</a>PRO <a href=\"https://ref.ly/Prov21:5\">21:5</a>, <a href=\"https://ref.ly/Prov28:22\">PRO 28:22</a>\n<a href=\"https://ref.ly/Prov25:8\">PRO 25:8</a> <em>the need to exercise caution in disputes</em><a href=\"https://ref.ly/Prov29:20\">PRO 29:20</a>; <a href=\"https://ref.ly/Eccl5:2\">ECC 5:2</a>\n<a href=\"https://ref.ly/Eccl7:9\">ECC 7:9</a>, <a href=\"https://ref.ly/Eccl8:3\">ECC 8:3</a>; <a href=\"https://ref.ly/Hab2:3\">HAB 2:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01016001",
+"start_ref_usfm": "GEN 16:1",
+"end_ref": "01016002",
+"end_ref_usfm": "GEN 16:2"
+},
+{
+"start_ref": "01025030",
+"start_ref_usfm": "GEN 25:30",
+"end_ref": "01025030",
+"end_ref_usfm": "GEN 25:30"
+},
+{
+"start_ref": "04020009",
+"start_ref_usfm": "NUM 20:9",
+"end_ref": "04020011",
+"end_ref_usfm": "NUM 20:11"
+},
+{
+"start_ref": "04021004",
+"start_ref_usfm": "NUM 21:4",
+"end_ref": "04021004",
+"end_ref_usfm": "NUM 21:4"
+},
+{
+"start_ref": "19106013",
+"start_ref_usfm": "PSA 106:13",
+"end_ref": "19106013",
+"end_ref_usfm": "PSA 106:13"
+},
+{
+"start_ref": "23059007",
+"start_ref_usfm": "ISA 59:7",
+"end_ref": "23059007",
+"end_ref_usfm": "ISA 59:7"
+},
+{
+"start_ref": "09013006",
+"start_ref_usfm": "1SA 13:6",
+"end_ref": "09013012",
+"end_ref_usfm": "1SA 13:12"
+},
+{
+"start_ref": "10013002",
+"start_ref_usfm": "2SA 13:2",
+"end_ref": "10013002",
+"end_ref_usfm": "2SA 13:2"
+},
+{
+"start_ref": "10014029",
+"start_ref_usfm": "2SA 14:29",
+"end_ref": "10014029",
+"end_ref_usfm": "2SA 14:29"
+},
+{
+"start_ref": "10018014",
+"start_ref_usfm": "2SA 18:14",
+"end_ref": "10018014",
+"end_ref_usfm": "2SA 18:14"
+},
+{
+"start_ref": "12005011",
+"start_ref_usfm": "2KI 5:11",
+"end_ref": "12005012",
+"end_ref_usfm": "2KI 5:12"
+},
+{
+"start_ref": "12006033",
+"start_ref_usfm": "2KI 6:33",
+"end_ref": "12006033",
+"end_ref_usfm": "2KI 6:33"
+},
+{
+"start_ref": "18006011",
+"start_ref_usfm": "JOB 6:11",
+"end_ref": "18006011",
+"end_ref_usfm": "JOB 6:11"
+},
+{
+"start_ref": "18021004",
+"start_ref_usfm": "JOB 21:4",
+"end_ref": "18021004",
+"end_ref_usfm": "JOB 21:4"
+},
+{
+"start_ref": "18032016",
+"start_ref_usfm": "JOB 32:16",
+"end_ref": "18032016",
+"end_ref_usfm": "JOB 32:16"
+},
+{
+"start_ref": "40018029",
+"start_ref_usfm": "MAT 18:29",
+"end_ref": "40018030",
+"end_ref_usfm": "MAT 18:30"
+},
+{
+"start_ref": "42015002",
+"start_ref_usfm": "LUK 15:2",
+"end_ref": "42015002",
+"end_ref_usfm": "LUK 15:2"
+},
+{
+"start_ref": "43021003",
+"start_ref_usfm": "JHN 21:3",
+"end_ref": "43021003",
+"end_ref_usfm": "JHN 21:3"
+},
+{
+"start_ref": "44020016",
+"start_ref_usfm": "ACT 20:16",
+"end_ref": "44020016",
+"end_ref_usfm": "ACT 20:16"
+},
+{
+"start_ref": "46011020",
+"start_ref_usfm": "1CO 11:20",
+"end_ref": "46011021",
+"end_ref_usfm": "1CO 11:21"
+},
+{
+"start_ref": "66006010",
+"start_ref_usfm": "REV 6:10",
+"end_ref": "66006011",
+"end_ref_usfm": "REV 6:11"
+},
+{
+"start_ref": "19037007",
+"start_ref_usfm": "PSA 37:7",
+"end_ref": "19037007",
+"end_ref_usfm": "PSA 37:7"
+},
+{
+"start_ref": "20019002",
+"start_ref_usfm": "PRO 19:2",
+"end_ref": "20019002",
+"end_ref_usfm": "PRO 19:2"
+},
+{
+"start_ref": "48006009",
+"start_ref_usfm": "GAL 6:9",
+"end_ref": "48006009",
+"end_ref_usfm": "GAL 6:9"
+},
+{
+"start_ref": "59001019",
+"start_ref_usfm": "JAS 1:19",
+"end_ref": "59001020",
+"end_ref_usfm": "JAS 1:20"
+},
+{
+"start_ref": "20006018",
+"start_ref_usfm": "PRO 6:18",
+"end_ref": "20006018",
+"end_ref_usfm": "PRO 6:18"
+},
+{
+"start_ref": "20012016",
+"start_ref_usfm": "PRO 12:16",
+"end_ref": "20012016",
+"end_ref_usfm": "PRO 12:16"
+},
+{
+"start_ref": "20014029",
+"start_ref_usfm": "PRO 14:29",
+"end_ref": "20014029",
+"end_ref_usfm": "PRO 14:29"
+},
+{
+"start_ref": "20015018",
+"start_ref_usfm": "PRO 15:18",
+"end_ref": "20015018",
+"end_ref_usfm": "PRO 15:18"
+},
+{
+"start_ref": "20016032",
+"start_ref_usfm": "PRO 16:32",
+"end_ref": "20016032",
+"end_ref_usfm": "PRO 16:32"
+},
+{
+"start_ref": "20020003",
+"start_ref_usfm": "PRO 20:3",
+"end_ref": "20020003",
+"end_ref_usfm": "PRO 20:3"
+},
+{
+"start_ref": "20021005",
+"start_ref_usfm": "PRO 21:5",
+"end_ref": "20021005",
+"end_ref_usfm": "PRO 21:5"
+},
+{
+"start_ref": "20028022",
+"start_ref_usfm": "PRO 28:22",
+"end_ref": "20028022",
+"end_ref_usfm": "PRO 28:22"
+},
+{
+"start_ref": "20025008",
+"start_ref_usfm": "PRO 25:8",
+"end_ref": "20025008",
+"end_ref_usfm": "PRO 25:8"
+},
+{
+"start_ref": "20029020",
+"start_ref_usfm": "PRO 29:20",
+"end_ref": "20029020",
+"end_ref_usfm": "PRO 29:20"
+},
+{
+"start_ref": "21005002",
+"start_ref_usfm": "ECC 5:2",
+"end_ref": "21005002",
+"end_ref_usfm": "ECC 5:2"
+},
+{
+"start_ref": "21007009",
+"start_ref_usfm": "ECC 7:9",
+"end_ref": "21007009",
+"end_ref_usfm": "ECC 7:9"
+},
+{
+"start_ref": "21008003",
+"start_ref_usfm": "ECC 8:3",
+"end_ref": "21008003",
+"end_ref_usfm": "ECC 8:3"
+},
+{
+"start_ref": "35002003",
+"start_ref_usfm": "HAB 2:3",
+"end_ref": "35002003",
+"end_ref_usfm": "HAB 2:3"
+}
+],
+"resource": [
+{
+"reference_id": "1095",
+"content_id": "1095",
+"resource_code": "DictionaryBibleThemes",
+"label": "1095: God, patience of",
+"language": "eng"
+},
+{
+"reference_id": "2060",
+"content_id": "2060",
+"resource_code": "DictionaryBibleThemes",
+"label": "2060: Jesus Christ, patience of",
+"language": "eng"
+},
+{
+"reference_id": "5418",
+"content_id": "5418",
+"resource_code": "DictionaryBibleThemes",
+"label": "5418: monotony",
+"language": "eng"
+},
+{
+"reference_id": "5925",
+"content_id": "5925",
+"resource_code": "DictionaryBibleThemes",
+"label": "5925: rashness",
+"language": "eng"
+},
+{
+"reference_id": "5977",
+"content_id": "5977",
+"resource_code": "DictionaryBibleThemes",
+"label": "5977: waiting",
+"language": "eng"
+},
+{
+"reference_id": "8318",
+"content_id": "8318",
+"resource_code": "DictionaryBibleThemes",
+"label": "8318: patience",
+"language": "eng"
+},
+{
+"reference_id": "8459",
+"content_id": "8459",
+"resource_code": "DictionaryBibleThemes",
+"label": "8459: perseverance",
+"language": "eng"
+},
+{
+"reference_id": "8613",
+"content_id": "8613",
+"resource_code": "DictionaryBibleThemes",
+"label": "8613: prayer, persistence in",
+"language": "eng"
+},
+{
+"reference_id": "8718",
+"content_id": "8718",
+"resource_code": "DictionaryBibleThemes",
+"label": "8718: disobedience",
+"language": "eng"
+},
+{
+"reference_id": "8834",
+"content_id": "8834",
+"resource_code": "DictionaryBibleThemes",
+"label": "8834: unbelief",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,60 @@
+[
+{
+"content_id": "8361",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8361: wisdom",
+"media_type": "Text",
+"index_reference": "8361: wisdom",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The quality of knowledge, discernment and understanding characteristic of God himself. True wisdom, seen in the ministry of Jesus Christ, is a gift of the Holy Spirit. Scripture affirms that true human wisdom is a gift from God and points out the folly of trusting in mere human wisdom.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8362",
+"content_id": "8362",
+"resource_code": "DictionaryBibleThemes",
+"label": "8362: wisdom, of God",
+"language": "eng"
+},
+{
+"reference_id": "8363",
+"content_id": "8363",
+"resource_code": "DictionaryBibleThemes",
+"label": "8363: wisdom, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "8364",
+"content_id": "8364",
+"resource_code": "DictionaryBibleThemes",
+"label": "8364: wisdom, of Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "8365",
+"content_id": "8365",
+"resource_code": "DictionaryBibleThemes",
+"label": "8365: wisdom, nature of human",
+"language": "eng"
+},
+{
+"reference_id": "8366",
+"content_id": "8366",
+"resource_code": "DictionaryBibleThemes",
+"label": "8366: wisdom, source of human",
+"language": "eng"
+},
+{
+"reference_id": "8367",
+"content_id": "8367",
+"resource_code": "DictionaryBibleThemes",
+"label": "8367: wisdom, importance of human",
+"language": "eng"
+}
+]
+}
+}
+]

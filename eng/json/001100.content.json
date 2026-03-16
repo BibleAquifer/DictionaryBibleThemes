@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5532",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5532: sleep",
+"media_type": "Text",
+"index_reference": "5532: sleep",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A state of slumber or rest, reflecting tiredness and the need for refreshment. Although sleep is a natural physical process, Scripture also uses the term in a number of important spiritual senses.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5533",
+"content_id": "5533",
+"resource_code": "DictionaryBibleThemes",
+"label": "5533: sleep, physical",
+"language": "eng"
+},
+{
+"reference_id": "5534",
+"content_id": "5534",
+"resource_code": "DictionaryBibleThemes",
+"label": "5534: sleep, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "5535",
+"content_id": "5535",
+"resource_code": "DictionaryBibleThemes",
+"label": "5535: sleep, and death",
+"language": "eng"
+}
+]
+}
+}
+]

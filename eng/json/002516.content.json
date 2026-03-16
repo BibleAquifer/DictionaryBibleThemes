@@ -1,0 +1,46 @@
+[
+{
+"content_id": "9500",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9500: Hell",
+"media_type": "Text",
+"index_reference": "9500: hell",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"9510\" data-resourcetype=\"DictionaryOfBibleThemes\">9510: hell</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9520\" data-resourcetype=\"DictionaryOfBibleThemes\">9520: Abyss, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9530\" data-resourcetype=\"DictionaryOfBibleThemes\">9530: Hades</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9540\" data-resourcetype=\"DictionaryOfBibleThemes\">9540: Sheol</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "9510",
+"content_id": "9510",
+"resource_code": "DictionaryBibleThemes",
+"label": "9510: hell",
+"language": "eng"
+},
+{
+"reference_id": "9520",
+"content_id": "9520",
+"resource_code": "DictionaryBibleThemes",
+"label": "9520: Abyss, the",
+"language": "eng"
+},
+{
+"reference_id": "9530",
+"content_id": "9530",
+"resource_code": "DictionaryBibleThemes",
+"label": "9530: Hades",
+"language": "eng"
+},
+{
+"reference_id": "9540",
+"content_id": "9540",
+"resource_code": "DictionaryBibleThemes",
+"label": "9540: Sheol",
+"language": "eng"
+}
+]
+}
+}
+]

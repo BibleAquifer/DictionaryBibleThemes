@@ -1,0 +1,271 @@
+[
+{
+"content_id": "7786",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7786: shepherd, as king and leader",
+"media_type": "Text",
+"index_reference": "7786: shepherd, as king and leader",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Shepherd was a standard term for a leader or king throughout the ancient world. In this sense it often appears in the Bible.</p>\n<h2>General term for a king or leader</h2>\n<p><strong><a href=\"https://ref.ly/Isa44:28\">ISA 44:28</a></strong> <em>The prophet describes this non-Jewish king as God's shepherd</em>; <strong><a href=\"https://ref.ly/Jer6:3\">JER 6:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam7:7\">2SA 7:7</a>; <a href=\"https://ref.ly/Ps77:20\">PSA 77:20</a>; <a href=\"https://ref.ly/Isa31:4\">ISA 31:4</a>; <a href=\"https://ref.ly/Jer12:10\">JER 12:10</a>, <a href=\"https://ref.ly/Jer49:19\">JER 49:19</a>, <a href=\"https://ref.ly/Jer50:44\">JER 50:44</a></p>\n<h2>The LORD as shepherd</h2>\n<h3>Of Israel</h3>\n<p><strong><a href=\"https://ref.ly/Ps80:1\">PSA 80:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:24\">GEN 49:24</a>; <a href=\"https://ref.ly/Ps28:9\">PSA 28:9</a>; <a href=\"https://ref.ly/Isa40:11\">ISA 40:11</a></p>\n<h3>Of the individual</h3>\n<p><strong><a href=\"https://ref.ly/Ps23:1\">PSA 23:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen48:15\">GEN 48:15</a></p>\n<h2>David as the model of a good shepherd</h2>\n<h3>Experience as a real shepherd</h3>\n<p><strong><a href=\"https://ref.ly/Ps78:70-Ps78:71\">PSA 78:70–78:71</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:34-1Sam17:37\">1SA 17:34–17:37</a>; <a href=\"https://ref.ly/2Sam12:1-2Sam12:7\">2SA 12:1–12:7</a> <em>The king is brought to his senses by a “shepherd” story</em>; <a href=\"https://ref.ly/Ps23:1-Ps23:4\">PSA 23:1–23:4</a></p>\n<h3>The shepherd faces death for his flock</h3>\n<p><strong><a href=\"https://ref.ly/2Sam24:17\">2SA 24:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:32\">EXO 32:32</a>; <a href=\"https://ref.ly/John10:11\">JHN 10:11</a>, <a href=\"https://ref.ly/John10:15\">JHN 10:15</a>, <a href=\"https://ref.ly/John10:17\">JHN 10:17</a></p>\n<h3>David as a model of the coming Messiah</h3>\n<p><strong><a href=\"https://ref.ly/Ezek34:23\">EZK 34:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer23:4-Jer23:5\">JER 23:4–23:5</a>, <a href=\"https://ref.ly/Jer30:9\">JER 30:9</a>; <a href=\"https://ref.ly/Hos3:5\">HOS 3:5</a></p>\n<h2>A good shepherd as a leader ``after God's own heart''</h2>\n<p><strong><a href=\"https://ref.ly/Jer3:15\">JER 3:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:11\">ISA 40:11</a>; <a href=\"https://ref.ly/Jer31:10\">JER 31:10</a>; <a href=\"https://ref.ly/Ezek34:12\">EZK 34:12</a></p>\n<h2>A bad shepherd</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs22:17\">1KI 22:17</a></strong></p>\n<h2>Criticisms of the shepherds of Israel</h2>\n<p><strong><a href=\"https://ref.ly/Jer23:1-Jer23:2\">JER 23:1–23:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer10:21\">JER 10:21</a>, <a href=\"https://ref.ly/Jer22:21-Jer22:22\">JER 22:21–22:22</a>; <a href=\"https://ref.ly/Ezek34:1-Ezek34:10\">EZK 34:1–34:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23044028",
+"start_ref_usfm": "ISA 44:28",
+"end_ref": "23044028",
+"end_ref_usfm": "ISA 44:28"
+},
+{
+"start_ref": "24006003",
+"start_ref_usfm": "JER 6:3",
+"end_ref": "24006003",
+"end_ref_usfm": "JER 6:3"
+},
+{
+"start_ref": "10007007",
+"start_ref_usfm": "2SA 7:7",
+"end_ref": "10007007",
+"end_ref_usfm": "2SA 7:7"
+},
+{
+"start_ref": "19077020",
+"start_ref_usfm": "PSA 77:20",
+"end_ref": "19077020",
+"end_ref_usfm": "PSA 77:20"
+},
+{
+"start_ref": "23031004",
+"start_ref_usfm": "ISA 31:4",
+"end_ref": "23031004",
+"end_ref_usfm": "ISA 31:4"
+},
+{
+"start_ref": "24012010",
+"start_ref_usfm": "JER 12:10",
+"end_ref": "24012010",
+"end_ref_usfm": "JER 12:10"
+},
+{
+"start_ref": "24049019",
+"start_ref_usfm": "JER 49:19",
+"end_ref": "24049019",
+"end_ref_usfm": "JER 49:19"
+},
+{
+"start_ref": "24050044",
+"start_ref_usfm": "JER 50:44",
+"end_ref": "24050044",
+"end_ref_usfm": "JER 50:44"
+},
+{
+"start_ref": "19080001",
+"start_ref_usfm": "PSA 80:1",
+"end_ref": "19080001",
+"end_ref_usfm": "PSA 80:1"
+},
+{
+"start_ref": "01049024",
+"start_ref_usfm": "GEN 49:24",
+"end_ref": "01049024",
+"end_ref_usfm": "GEN 49:24"
+},
+{
+"start_ref": "19028009",
+"start_ref_usfm": "PSA 28:9",
+"end_ref": "19028009",
+"end_ref_usfm": "PSA 28:9"
+},
+{
+"start_ref": "23040011",
+"start_ref_usfm": "ISA 40:11",
+"end_ref": "23040011",
+"end_ref_usfm": "ISA 40:11"
+},
+{
+"start_ref": "19023001",
+"start_ref_usfm": "PSA 23:1",
+"end_ref": "19023001",
+"end_ref_usfm": "PSA 23:1"
+},
+{
+"start_ref": "01048015",
+"start_ref_usfm": "GEN 48:15",
+"end_ref": "01048015",
+"end_ref_usfm": "GEN 48:15"
+},
+{
+"start_ref": "19078070",
+"start_ref_usfm": "PSA 78:70",
+"end_ref": "19078071",
+"end_ref_usfm": "PSA 78:71"
+},
+{
+"start_ref": "09017034",
+"start_ref_usfm": "1SA 17:34",
+"end_ref": "09017037",
+"end_ref_usfm": "1SA 17:37"
+},
+{
+"start_ref": "10012001",
+"start_ref_usfm": "2SA 12:1",
+"end_ref": "10012007",
+"end_ref_usfm": "2SA 12:7"
+},
+{
+"start_ref": "19023001",
+"start_ref_usfm": "PSA 23:1",
+"end_ref": "19023004",
+"end_ref_usfm": "PSA 23:4"
+},
+{
+"start_ref": "10024017",
+"start_ref_usfm": "2SA 24:17",
+"end_ref": "10024017",
+"end_ref_usfm": "2SA 24:17"
+},
+{
+"start_ref": "02032032",
+"start_ref_usfm": "EXO 32:32",
+"end_ref": "02032032",
+"end_ref_usfm": "EXO 32:32"
+},
+{
+"start_ref": "43010011",
+"start_ref_usfm": "JHN 10:11",
+"end_ref": "43010011",
+"end_ref_usfm": "JHN 10:11"
+},
+{
+"start_ref": "43010015",
+"start_ref_usfm": "JHN 10:15",
+"end_ref": "43010015",
+"end_ref_usfm": "JHN 10:15"
+},
+{
+"start_ref": "43010017",
+"start_ref_usfm": "JHN 10:17",
+"end_ref": "43010017",
+"end_ref_usfm": "JHN 10:17"
+},
+{
+"start_ref": "26034023",
+"start_ref_usfm": "EZK 34:23",
+"end_ref": "26034023",
+"end_ref_usfm": "EZK 34:23"
+},
+{
+"start_ref": "24023004",
+"start_ref_usfm": "JER 23:4",
+"end_ref": "24023005",
+"end_ref_usfm": "JER 23:5"
+},
+{
+"start_ref": "24030009",
+"start_ref_usfm": "JER 30:9",
+"end_ref": "24030009",
+"end_ref_usfm": "JER 30:9"
+},
+{
+"start_ref": "28003005",
+"start_ref_usfm": "HOS 3:5",
+"end_ref": "28003005",
+"end_ref_usfm": "HOS 3:5"
+},
+{
+"start_ref": "24003015",
+"start_ref_usfm": "JER 3:15",
+"end_ref": "24003015",
+"end_ref_usfm": "JER 3:15"
+},
+{
+"start_ref": "24031010",
+"start_ref_usfm": "JER 31:10",
+"end_ref": "24031010",
+"end_ref_usfm": "JER 31:10"
+},
+{
+"start_ref": "26034012",
+"start_ref_usfm": "EZK 34:12",
+"end_ref": "26034012",
+"end_ref_usfm": "EZK 34:12"
+},
+{
+"start_ref": "11022017",
+"start_ref_usfm": "1KI 22:17",
+"end_ref": "11022017",
+"end_ref_usfm": "1KI 22:17"
+},
+{
+"start_ref": "24023001",
+"start_ref_usfm": "JER 23:1",
+"end_ref": "24023002",
+"end_ref_usfm": "JER 23:2"
+},
+{
+"start_ref": "24010021",
+"start_ref_usfm": "JER 10:21",
+"end_ref": "24010021",
+"end_ref_usfm": "JER 10:21"
+},
+{
+"start_ref": "24022021",
+"start_ref_usfm": "JER 22:21",
+"end_ref": "24022022",
+"end_ref_usfm": "JER 22:22"
+},
+{
+"start_ref": "26034001",
+"start_ref_usfm": "EZK 34:1",
+"end_ref": "26034010",
+"end_ref_usfm": "EZK 34:10"
+}
+],
+"resource": [
+{
+"reference_id": "2230",
+"content_id": "2230",
+"resource_code": "DictionaryBibleThemes",
+"label": "2230: Messiah, coming of",
+"language": "eng"
+},
+{
+"reference_id": "5085",
+"content_id": "5085",
+"resource_code": "DictionaryBibleThemes",
+"label": "5085: David",
+"language": "eng"
+},
+{
+"reference_id": "5366",
+"content_id": "5366",
+"resource_code": "DictionaryBibleThemes",
+"label": "5366: king",
+"language": "eng"
+},
+{
+"reference_id": "5509",
+"content_id": "5509",
+"resource_code": "DictionaryBibleThemes",
+"label": "5509: rulers",
+"language": "eng"
+},
+{
+"reference_id": "7135",
+"content_id": "7135",
+"resource_code": "DictionaryBibleThemes",
+"label": "7135: Israel, as the people of God",
+"language": "eng"
+},
+{
+"reference_id": "7735",
+"content_id": "7735",
+"resource_code": "DictionaryBibleThemes",
+"label": "7735: leaders, political",
+"language": "eng"
+}
+]
+}
+}
+]

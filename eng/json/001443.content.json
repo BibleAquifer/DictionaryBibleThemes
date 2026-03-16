@@ -1,0 +1,268 @@
+[
+{
+"content_id": "5929",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5929: resentment, against people",
+"media_type": "Text",
+"index_reference": "5929: resentment, against people",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A sinful, emotional response to others or to circumstances, frequently caused by envy or a sense of injustice.</p>\n<h2>Causes of resentment</h2>\n<h3>Unwelcome instruction</h3>\n<p><strong><a href=\"https://ref.ly/Prov3:11-Prov3:12\">PRO 3:11–3:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov1:7\">PRO 1:7</a>, <a href=\"https://ref.ly/Prov5:12\">PRO 5:12</a></p>\n<h3>Feelings of rejection</h3>\n<p><strong><a href=\"https://ref.ly/Gen4:2-Gen4:5\">GEN 4:2–4:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg8:1\">JDG 8:1</a>; <a href=\"https://ref.ly/Matt20:24\">MAT 20:24</a></p>\n<h3>Feelings of injustice</h3>\n<p><strong><a href=\"https://ref.ly/Acts6:1\">ACT 6:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:34\">GEN 27:34</a>, <a href=\"https://ref.ly/Gen50:15\">GEN 50:15</a>; <a href=\"https://ref.ly/Matt20:10-Matt20:11\">MAT 20:10–20:11</a>; <a href=\"https://ref.ly/Col3:21\">COL 3:21</a></p>\n<h3>Hard circumstances</h3>\n<p><strong><a href=\"https://ref.ly/1Sam30:6\">1SA 30:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam22:2\">1SA 22:2</a></p>\n<h3>Disappointment with leaders</h3>\n<p><a href=\"https://ref.ly/Josh9:18\">JOS 9:18</a></p>\n<h2>Resentment has no place in godly living</h2>\n<p><strong><a href=\"https://ref.ly/Eph4:31\">EPH 4:31</a></strong>; <strong><a href=\"https://ref.ly/Phil2:14\">PHP 2:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev19:18\">LEV 19:18</a>; <a href=\"https://ref.ly/Deut15:10\">DEU 15:10</a>; <a href=\"https://ref.ly/2Cor9:5\">2CO 9:5</a>; <a href=\"https://ref.ly/2Tim2:24\">2TI 2:24</a>; <a href=\"https://ref.ly/Heb12:15\">HEB 12:15</a>; <a href=\"https://ref.ly/Jas3:14-Jas3:15\">JAS 3:14–3:15</a>, <a href=\"https://ref.ly/Jas5:9\">JAS 5:9</a>; <a href=\"https://ref.ly/1Pet4:9\">1PE 4:9</a></p>\n<h2>Dealing with resentment</h2>\n<h3>Not an easy task</h3>\n<p><strong><a href=\"https://ref.ly/Prov18:19\">PRO 18:19</a></strong></p>\n<h3>Through forgiveness</h3>\n<p><strong><a href=\"https://ref.ly/Prov17:9\">PRO 17:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov19:11\">PRO 19:11</a></p>\n<h3>Through God-given contentment</h3>\n<p><strong><a href=\"https://ref.ly/Phil4:11\">PHP 4:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim6:6-1Tim6:10\">1TI 6:6–6:10</a>; <a href=\"https://ref.ly/Heb13:5\">HEB 13:5</a></p>\n<h3>Through conciliation</h3>\n<p><a href=\"https://ref.ly/Judg8:1-Judg8:3\">JDG 8:1–8:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "20003011",
+"start_ref_usfm": "PRO 3:11",
+"end_ref": "20003012",
+"end_ref_usfm": "PRO 3:12"
+},
+{
+"start_ref": "20001007",
+"start_ref_usfm": "PRO 1:7",
+"end_ref": "20001007",
+"end_ref_usfm": "PRO 1:7"
+},
+{
+"start_ref": "20005012",
+"start_ref_usfm": "PRO 5:12",
+"end_ref": "20005012",
+"end_ref_usfm": "PRO 5:12"
+},
+{
+"start_ref": "01004002",
+"start_ref_usfm": "GEN 4:2",
+"end_ref": "01004005",
+"end_ref_usfm": "GEN 4:5"
+},
+{
+"start_ref": "07008001",
+"start_ref_usfm": "JDG 8:1",
+"end_ref": "07008001",
+"end_ref_usfm": "JDG 8:1"
+},
+{
+"start_ref": "40020024",
+"start_ref_usfm": "MAT 20:24",
+"end_ref": "40020024",
+"end_ref_usfm": "MAT 20:24"
+},
+{
+"start_ref": "44006001",
+"start_ref_usfm": "ACT 6:1",
+"end_ref": "44006001",
+"end_ref_usfm": "ACT 6:1"
+},
+{
+"start_ref": "01027034",
+"start_ref_usfm": "GEN 27:34",
+"end_ref": "01027034",
+"end_ref_usfm": "GEN 27:34"
+},
+{
+"start_ref": "01050015",
+"start_ref_usfm": "GEN 50:15",
+"end_ref": "01050015",
+"end_ref_usfm": "GEN 50:15"
+},
+{
+"start_ref": "40020010",
+"start_ref_usfm": "MAT 20:10",
+"end_ref": "40020011",
+"end_ref_usfm": "MAT 20:11"
+},
+{
+"start_ref": "51003021",
+"start_ref_usfm": "COL 3:21",
+"end_ref": "51003021",
+"end_ref_usfm": "COL 3:21"
+},
+{
+"start_ref": "09030006",
+"start_ref_usfm": "1SA 30:6",
+"end_ref": "09030006",
+"end_ref_usfm": "1SA 30:6"
+},
+{
+"start_ref": "09022002",
+"start_ref_usfm": "1SA 22:2",
+"end_ref": "09022002",
+"end_ref_usfm": "1SA 22:2"
+},
+{
+"start_ref": "06009018",
+"start_ref_usfm": "JOS 9:18",
+"end_ref": "06009018",
+"end_ref_usfm": "JOS 9:18"
+},
+{
+"start_ref": "49004031",
+"start_ref_usfm": "EPH 4:31",
+"end_ref": "49004031",
+"end_ref_usfm": "EPH 4:31"
+},
+{
+"start_ref": "50002014",
+"start_ref_usfm": "PHP 2:14",
+"end_ref": "50002014",
+"end_ref_usfm": "PHP 2:14"
+},
+{
+"start_ref": "03019018",
+"start_ref_usfm": "LEV 19:18",
+"end_ref": "03019018",
+"end_ref_usfm": "LEV 19:18"
+},
+{
+"start_ref": "05015010",
+"start_ref_usfm": "DEU 15:10",
+"end_ref": "05015010",
+"end_ref_usfm": "DEU 15:10"
+},
+{
+"start_ref": "47009005",
+"start_ref_usfm": "2CO 9:5",
+"end_ref": "47009005",
+"end_ref_usfm": "2CO 9:5"
+},
+{
+"start_ref": "55002024",
+"start_ref_usfm": "2TI 2:24",
+"end_ref": "55002024",
+"end_ref_usfm": "2TI 2:24"
+},
+{
+"start_ref": "58012015",
+"start_ref_usfm": "HEB 12:15",
+"end_ref": "58012015",
+"end_ref_usfm": "HEB 12:15"
+},
+{
+"start_ref": "59003014",
+"start_ref_usfm": "JAS 3:14",
+"end_ref": "59003015",
+"end_ref_usfm": "JAS 3:15"
+},
+{
+"start_ref": "59005009",
+"start_ref_usfm": "JAS 5:9",
+"end_ref": "59005009",
+"end_ref_usfm": "JAS 5:9"
+},
+{
+"start_ref": "60004009",
+"start_ref_usfm": "1PE 4:9",
+"end_ref": "60004009",
+"end_ref_usfm": "1PE 4:9"
+},
+{
+"start_ref": "20018019",
+"start_ref_usfm": "PRO 18:19",
+"end_ref": "20018019",
+"end_ref_usfm": "PRO 18:19"
+},
+{
+"start_ref": "20017009",
+"start_ref_usfm": "PRO 17:9",
+"end_ref": "20017009",
+"end_ref_usfm": "PRO 17:9"
+},
+{
+"start_ref": "20019011",
+"start_ref_usfm": "PRO 19:11",
+"end_ref": "20019011",
+"end_ref_usfm": "PRO 19:11"
+},
+{
+"start_ref": "50004011",
+"start_ref_usfm": "PHP 4:11",
+"end_ref": "50004011",
+"end_ref_usfm": "PHP 4:11"
+},
+{
+"start_ref": "54006006",
+"start_ref_usfm": "1TI 6:6",
+"end_ref": "54006010",
+"end_ref_usfm": "1TI 6:10"
+},
+{
+"start_ref": "58013005",
+"start_ref_usfm": "HEB 13:5",
+"end_ref": "58013005",
+"end_ref_usfm": "HEB 13:5"
+},
+{
+"start_ref": "07008001",
+"start_ref_usfm": "JDG 8:1",
+"end_ref": "07008003",
+"end_ref_usfm": "JDG 8:3"
+}
+],
+"resource": [
+{
+"reference_id": "5265",
+"content_id": "5265",
+"resource_code": "DictionaryBibleThemes",
+"label": "5265: complaints",
+"language": "eng"
+},
+{
+"reference_id": "5347",
+"content_id": "5347",
+"resource_code": "DictionaryBibleThemes",
+"label": "5347: injustice",
+"language": "eng"
+},
+{
+"reference_id": "5560",
+"content_id": "5560",
+"resource_code": "DictionaryBibleThemes",
+"label": "5560: suffering",
+"language": "eng"
+},
+{
+"reference_id": "5835",
+"content_id": "5835",
+"resource_code": "DictionaryBibleThemes",
+"label": "5835: disappointment",
+"language": "eng"
+},
+{
+"reference_id": "5839",
+"content_id": "5839",
+"resource_code": "DictionaryBibleThemes",
+"label": "5839: dissatisfaction",
+"language": "eng"
+},
+{
+"reference_id": "6230",
+"content_id": "6230",
+"resource_code": "DictionaryBibleThemes",
+"label": "6230: rejection",
+"language": "eng"
+},
+{
+"reference_id": "8733",
+"content_id": "8733",
+"resource_code": "DictionaryBibleThemes",
+"label": "8733: envy",
+"language": "eng"
+},
+{
+"reference_id": "8765",
+"content_id": "8765",
+"resource_code": "DictionaryBibleThemes",
+"label": "8765: grudge",
+"language": "eng"
+},
+{
+"reference_id": "8773",
+"content_id": "8773",
+"resource_code": "DictionaryBibleThemes",
+"label": "8773: jealousy",
+"language": "eng"
+}
+]
+}
+}
+]

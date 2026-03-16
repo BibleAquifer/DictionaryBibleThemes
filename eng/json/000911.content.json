@@ -1,0 +1,199 @@
+[
+{
+"content_id": "5324",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5324: gatekeepers",
+"media_type": "Text",
+"index_reference": "5324: gatekeepers",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Levite temple servants, responsible for protecting the palace and the temple from those who would desecrate it or steal its treasures. City gatekeepers also existed.</p>\n<h2>The ancestry of gatekeepers</h2>\n<p><strong><a href=\"https://ref.ly/1Chr9:17-1Chr9:22\">1CH 9:17–9:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr26:1-1Chr26:13\">1CH 26:1–26:13</a>; <a href=\"https://ref.ly/Ezra2:42\">EZR 2:42</a>; <a href=\"https://ref.ly/Neh7:45\">NEH 7:45</a></p>\n<h2>The special status of gatekeepers</h2>\n<p><strong><a href=\"https://ref.ly/Ezra7:24\">EZR 7:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezra2:70\">EZR 2:70</a>; <a href=\"https://ref.ly/Neh7:73\">NEH 7:73</a>, <a href=\"https://ref.ly/Neh12:47\">NEH 12:47</a>, <a href=\"https://ref.ly/Neh13:5\">NEH 13:5</a></p>\n<h2>The functions of gatekeepers</h2>\n<p><strong><a href=\"https://ref.ly/1Chr9:23-1Chr9:27\">1CH 9:23–9:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr8:14\">2CH 8:14</a>; <a href=\"https://ref.ly/Neh11:19\">NEH 11:19</a></p>\n<h2>Examples of gatekeepers</h2>\n<p><strong><a href=\"https://ref.ly/2Chr35:15\">2CH 35:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr15:16-1Chr15:18\">1CH 15:16–15:18</a>, <a href=\"https://ref.ly/1Chr16:37-1Chr16:38\">1CH 16:37–16:38</a>, <a href=\"https://ref.ly/1Chr23:3-1Chr23:5\">1CH 23:3–23:5</a>, <a href=\"https://ref.ly/1Chr26:14-1Chr26:19\">1CH 26:14–26:19</a>; <a href=\"https://ref.ly/Neh10:28-Neh10:29\">NEH 10:28–10:29</a>, <a href=\"https://ref.ly/Neh10:39\">NEH 10:39</a>, <a href=\"https://ref.ly/Neh12:25\">NEH 12:25</a>, <a href=\"https://ref.ly/Neh12:45\">NEH 12:45</a></p>\n<h2>City gatekeepers</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs7:10-2Kgs7:11\">2KI 7:10–7:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh7:1-Neh7:3\">NEH 7:1–7:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "13009017",
+"start_ref_usfm": "1CH 9:17",
+"end_ref": "13009022",
+"end_ref_usfm": "1CH 9:22"
+},
+{
+"start_ref": "13026001",
+"start_ref_usfm": "1CH 26:1",
+"end_ref": "13026013",
+"end_ref_usfm": "1CH 26:13"
+},
+{
+"start_ref": "15002042",
+"start_ref_usfm": "EZR 2:42",
+"end_ref": "15002042",
+"end_ref_usfm": "EZR 2:42"
+},
+{
+"start_ref": "16007045",
+"start_ref_usfm": "NEH 7:45",
+"end_ref": "16007045",
+"end_ref_usfm": "NEH 7:45"
+},
+{
+"start_ref": "15007024",
+"start_ref_usfm": "EZR 7:24",
+"end_ref": "15007024",
+"end_ref_usfm": "EZR 7:24"
+},
+{
+"start_ref": "15002070",
+"start_ref_usfm": "EZR 2:70",
+"end_ref": "15002070",
+"end_ref_usfm": "EZR 2:70"
+},
+{
+"start_ref": "16007073",
+"start_ref_usfm": "NEH 7:73",
+"end_ref": "16007073",
+"end_ref_usfm": "NEH 7:73"
+},
+{
+"start_ref": "16012047",
+"start_ref_usfm": "NEH 12:47",
+"end_ref": "16012047",
+"end_ref_usfm": "NEH 12:47"
+},
+{
+"start_ref": "16013005",
+"start_ref_usfm": "NEH 13:5",
+"end_ref": "16013005",
+"end_ref_usfm": "NEH 13:5"
+},
+{
+"start_ref": "13009023",
+"start_ref_usfm": "1CH 9:23",
+"end_ref": "13009027",
+"end_ref_usfm": "1CH 9:27"
+},
+{
+"start_ref": "14008014",
+"start_ref_usfm": "2CH 8:14",
+"end_ref": "14008014",
+"end_ref_usfm": "2CH 8:14"
+},
+{
+"start_ref": "16011019",
+"start_ref_usfm": "NEH 11:19",
+"end_ref": "16011019",
+"end_ref_usfm": "NEH 11:19"
+},
+{
+"start_ref": "14035015",
+"start_ref_usfm": "2CH 35:15",
+"end_ref": "14035015",
+"end_ref_usfm": "2CH 35:15"
+},
+{
+"start_ref": "13015016",
+"start_ref_usfm": "1CH 15:16",
+"end_ref": "13015018",
+"end_ref_usfm": "1CH 15:18"
+},
+{
+"start_ref": "13016037",
+"start_ref_usfm": "1CH 16:37",
+"end_ref": "13016038",
+"end_ref_usfm": "1CH 16:38"
+},
+{
+"start_ref": "13023003",
+"start_ref_usfm": "1CH 23:3",
+"end_ref": "13023005",
+"end_ref_usfm": "1CH 23:5"
+},
+{
+"start_ref": "13026014",
+"start_ref_usfm": "1CH 26:14",
+"end_ref": "13026019",
+"end_ref_usfm": "1CH 26:19"
+},
+{
+"start_ref": "16010028",
+"start_ref_usfm": "NEH 10:28",
+"end_ref": "16010029",
+"end_ref_usfm": "NEH 10:29"
+},
+{
+"start_ref": "16010039",
+"start_ref_usfm": "NEH 10:39",
+"end_ref": "16010039",
+"end_ref_usfm": "NEH 10:39"
+},
+{
+"start_ref": "16012025",
+"start_ref_usfm": "NEH 12:25",
+"end_ref": "16012025",
+"end_ref_usfm": "NEH 12:25"
+},
+{
+"start_ref": "16012045",
+"start_ref_usfm": "NEH 12:45",
+"end_ref": "16012045",
+"end_ref_usfm": "NEH 12:45"
+},
+{
+"start_ref": "12007010",
+"start_ref_usfm": "2KI 7:10",
+"end_ref": "12007011",
+"end_ref_usfm": "2KI 7:11"
+},
+{
+"start_ref": "16007001",
+"start_ref_usfm": "NEH 7:1",
+"end_ref": "16007003",
+"end_ref_usfm": "NEH 7:3"
+}
+],
+"resource": [
+{
+"reference_id": "5323",
+"content_id": "5323",
+"resource_code": "DictionaryBibleThemes",
+"label": "5323: gate",
+"language": "eng"
+},
+{
+"reference_id": "5330",
+"content_id": "5330",
+"resource_code": "DictionaryBibleThemes",
+"label": "5330: guard",
+"language": "eng"
+},
+{
+"reference_id": "5611",
+"content_id": "5611",
+"resource_code": "DictionaryBibleThemes",
+"label": "5611: watchman",
+"language": "eng"
+},
+{
+"reference_id": "7390",
+"content_id": "7390",
+"resource_code": "DictionaryBibleThemes",
+"label": "7390: Levites",
+"language": "eng"
+},
+{
+"reference_id": "7467",
+"content_id": "7467",
+"resource_code": "DictionaryBibleThemes",
+"label": "7467: temple, Solomon's",
+"language": "eng"
+},
+{
+"reference_id": "8490",
+"content_id": "8490",
+"resource_code": "DictionaryBibleThemes",
+"label": "8490: watchfulness",
+"language": "eng"
+}
+]
+}
+}
+]

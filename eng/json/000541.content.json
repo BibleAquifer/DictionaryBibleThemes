@@ -1,0 +1,202 @@
+[
+{
+"content_id": "4814",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4814: dew",
+"media_type": "Text",
+"index_reference": "4814: dew",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The nightly condensation of moisture from the atmosphere</h2>\n<p><strong><a href=\"https://ref.ly/Song5:2\">SNG 5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg6:36-Judg6:40\">JDG 6:36–6:40</a> <em>Gideon's sign</em><a href=\"https://ref.ly/Dan4:25\">DAN 4:25</a>, <a href=\"https://ref.ly/Dan5:21\">DAN 5:21</a></p>\n<h2>Dew as a sign of God's blessing and provision</h2>\n<p><strong><a href=\"https://ref.ly/Deut33:13\">DEU 33:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:28\">GEN 27:28</a>; <a href=\"https://ref.ly/Job38:28\">JOB 38:28</a>; <a href=\"https://ref.ly/Prov3:19-Prov3:20\">PRO 3:19–3:20</a>; <a href=\"https://ref.ly/Hos14:5\">HOS 14:5</a>; <a href=\"https://ref.ly/Zech8:12\">ZEC 8:12</a></p>\n<h3>Dew associated with manna</h3>\n<p><a href=\"https://ref.ly/Exod16:13-Exod16:14\">EXO 16:13–16:14</a>; ; <a href=\"https://ref.ly/Num11:9\">NUM 11:9</a></p>\n<h2>Lack of dew a sign of God's judgment</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs17:1\">1KI 17:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:39\">GEN 27:39</a>; <a href=\"https://ref.ly/2Sam1:21\">2SA 1:21</a>; <a href=\"https://ref.ly/Hag1:10\">HAG 1:10</a></p>\n<h2>Dew used metaphorically</h2>\n<p><strong><a href=\"https://ref.ly/Deut32:2\">DEU 32:2</a></strong>; <strong><a href=\"https://ref.ly/Ps110:3\">PSA 110:3</a></strong>; <strong><a href=\"https://ref.ly/Isa26:19\">ISA 26:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam17:12\">2SA 17:12</a>; <a href=\"https://ref.ly/Job29:19\">JOB 29:19</a>; <a href=\"https://ref.ly/Ps133:3\">PSA 133:3</a>; <a href=\"https://ref.ly/Prov19:12\">PRO 19:12</a>; <a href=\"https://ref.ly/Isa18:4\">ISA 18:4</a>; <a href=\"https://ref.ly/Hos6:4\">HOS 6:4</a>, <a href=\"https://ref.ly/Hos13:3\">HOS 13:3</a>; <a href=\"https://ref.ly/Mic5:7\">MIC 5:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "22005002",
+"start_ref_usfm": "SNG 5:2",
+"end_ref": "22005002",
+"end_ref_usfm": "SNG 5:2"
+},
+{
+"start_ref": "07006036",
+"start_ref_usfm": "JDG 6:36",
+"end_ref": "07006040",
+"end_ref_usfm": "JDG 6:40"
+},
+{
+"start_ref": "27004025",
+"start_ref_usfm": "DAN 4:25",
+"end_ref": "27004025",
+"end_ref_usfm": "DAN 4:25"
+},
+{
+"start_ref": "27005021",
+"start_ref_usfm": "DAN 5:21",
+"end_ref": "27005021",
+"end_ref_usfm": "DAN 5:21"
+},
+{
+"start_ref": "05033013",
+"start_ref_usfm": "DEU 33:13",
+"end_ref": "05033013",
+"end_ref_usfm": "DEU 33:13"
+},
+{
+"start_ref": "01027028",
+"start_ref_usfm": "GEN 27:28",
+"end_ref": "01027028",
+"end_ref_usfm": "GEN 27:28"
+},
+{
+"start_ref": "18038028",
+"start_ref_usfm": "JOB 38:28",
+"end_ref": "18038028",
+"end_ref_usfm": "JOB 38:28"
+},
+{
+"start_ref": "20003019",
+"start_ref_usfm": "PRO 3:19",
+"end_ref": "20003020",
+"end_ref_usfm": "PRO 3:20"
+},
+{
+"start_ref": "28014005",
+"start_ref_usfm": "HOS 14:5",
+"end_ref": "28014005",
+"end_ref_usfm": "HOS 14:5"
+},
+{
+"start_ref": "38008012",
+"start_ref_usfm": "ZEC 8:12",
+"end_ref": "38008012",
+"end_ref_usfm": "ZEC 8:12"
+},
+{
+"start_ref": "02016013",
+"start_ref_usfm": "EXO 16:13",
+"end_ref": "02016014",
+"end_ref_usfm": "EXO 16:14"
+},
+{
+"start_ref": "04011009",
+"start_ref_usfm": "NUM 11:9",
+"end_ref": "04011009",
+"end_ref_usfm": "NUM 11:9"
+},
+{
+"start_ref": "11017001",
+"start_ref_usfm": "1KI 17:1",
+"end_ref": "11017001",
+"end_ref_usfm": "1KI 17:1"
+},
+{
+"start_ref": "01027039",
+"start_ref_usfm": "GEN 27:39",
+"end_ref": "01027039",
+"end_ref_usfm": "GEN 27:39"
+},
+{
+"start_ref": "10001021",
+"start_ref_usfm": "2SA 1:21",
+"end_ref": "10001021",
+"end_ref_usfm": "2SA 1:21"
+},
+{
+"start_ref": "37001010",
+"start_ref_usfm": "HAG 1:10",
+"end_ref": "37001010",
+"end_ref_usfm": "HAG 1:10"
+},
+{
+"start_ref": "05032002",
+"start_ref_usfm": "DEU 32:2",
+"end_ref": "05032002",
+"end_ref_usfm": "DEU 32:2"
+},
+{
+"start_ref": "19110003",
+"start_ref_usfm": "PSA 110:3",
+"end_ref": "19110003",
+"end_ref_usfm": "PSA 110:3"
+},
+{
+"start_ref": "23026019",
+"start_ref_usfm": "ISA 26:19",
+"end_ref": "23026019",
+"end_ref_usfm": "ISA 26:19"
+},
+{
+"start_ref": "10017012",
+"start_ref_usfm": "2SA 17:12",
+"end_ref": "10017012",
+"end_ref_usfm": "2SA 17:12"
+},
+{
+"start_ref": "18029019",
+"start_ref_usfm": "JOB 29:19",
+"end_ref": "18029019",
+"end_ref_usfm": "JOB 29:19"
+},
+{
+"start_ref": "19133003",
+"start_ref_usfm": "PSA 133:3",
+"end_ref": "19133003",
+"end_ref_usfm": "PSA 133:3"
+},
+{
+"start_ref": "20019012",
+"start_ref_usfm": "PRO 19:12",
+"end_ref": "20019012",
+"end_ref_usfm": "PRO 19:12"
+},
+{
+"start_ref": "23018004",
+"start_ref_usfm": "ISA 18:4",
+"end_ref": "23018004",
+"end_ref_usfm": "ISA 18:4"
+},
+{
+"start_ref": "28006004",
+"start_ref_usfm": "HOS 6:4",
+"end_ref": "28006004",
+"end_ref_usfm": "HOS 6:4"
+},
+{
+"start_ref": "28013003",
+"start_ref_usfm": "HOS 13:3",
+"end_ref": "28013003",
+"end_ref_usfm": "HOS 13:3"
+},
+{
+"start_ref": "33005007",
+"start_ref_usfm": "MIC 5:7",
+"end_ref": "33005007",
+"end_ref_usfm": "MIC 5:7"
+}
+],
+"resource": [
+{
+"reference_id": "1335",
+"content_id": "1335",
+"resource_code": "DictionaryBibleThemes",
+"label": "1335: blessing",
+"language": "eng"
+},
+{
+"reference_id": "4844",
+"content_id": "4844",
+"resource_code": "DictionaryBibleThemes",
+"label": "4844: rain",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

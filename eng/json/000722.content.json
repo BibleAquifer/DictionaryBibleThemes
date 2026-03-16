@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5133",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5133: blindness",
+"media_type": "Text",
+"index_reference": "5133: blindness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The inability on the part of someone to see properly. Blindness is often used in Scripture as a symbol of human sin.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5134",
+"content_id": "5134",
+"resource_code": "DictionaryBibleThemes",
+"label": "5134: blindness, natural",
+"language": "eng"
+},
+{
+"reference_id": "5135",
+"content_id": "5135",
+"resource_code": "DictionaryBibleThemes",
+"label": "5135: blindness, spiritual",
+"language": "eng"
+}
+]
+}
+}
+]

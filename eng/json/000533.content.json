@@ -1,0 +1,133 @@
+[
+{
+"content_id": "4806",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4806: cold",
+"media_type": "Text",
+"index_reference": "4806: cold",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Cold as part of the seasonal rhythm of the year</h2>\n<p><strong><a href=\"https://ref.ly/Gen8:22\">GEN 8:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job37:9\">JOB 37:9</a></p>\n<h2>Cold as an aspect of the night</h2>\n<p><strong><a href=\"https://ref.ly/Gen31:40\">GEN 31:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job24:7\">JOB 24:7</a>; <a href=\"https://ref.ly/Jer36:30\">JER 36:30</a></p>\n<h2>Cold as a source of discomfort</h2>\n<p><strong><a href=\"https://ref.ly/2Cor11:27\">2CO 11:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov25:20\">PRO 25:20</a>; <a href=\"https://ref.ly/John18:18\">JHN 18:18</a>; <a href=\"https://ref.ly/Acts28:2\">ACT 28:2</a></p>\n<h2>Cold as a source of refreshment</h2>\n<p><strong><a href=\"https://ref.ly/Prov25:25\">PRO 25:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov25:13\">PRO 25:13</a>; <a href=\"https://ref.ly/Matt10:42\">MAT 10:42</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01008022",
+"start_ref_usfm": "GEN 8:22",
+"end_ref": "01008022",
+"end_ref_usfm": "GEN 8:22"
+},
+{
+"start_ref": "18037009",
+"start_ref_usfm": "JOB 37:9",
+"end_ref": "18037009",
+"end_ref_usfm": "JOB 37:9"
+},
+{
+"start_ref": "01031040",
+"start_ref_usfm": "GEN 31:40",
+"end_ref": "01031040",
+"end_ref_usfm": "GEN 31:40"
+},
+{
+"start_ref": "18024007",
+"start_ref_usfm": "JOB 24:7",
+"end_ref": "18024007",
+"end_ref_usfm": "JOB 24:7"
+},
+{
+"start_ref": "24036030",
+"start_ref_usfm": "JER 36:30",
+"end_ref": "24036030",
+"end_ref_usfm": "JER 36:30"
+},
+{
+"start_ref": "47011027",
+"start_ref_usfm": "2CO 11:27",
+"end_ref": "47011027",
+"end_ref_usfm": "2CO 11:27"
+},
+{
+"start_ref": "20025020",
+"start_ref_usfm": "PRO 25:20",
+"end_ref": "20025020",
+"end_ref_usfm": "PRO 25:20"
+},
+{
+"start_ref": "43018018",
+"start_ref_usfm": "JHN 18:18",
+"end_ref": "43018018",
+"end_ref_usfm": "JHN 18:18"
+},
+{
+"start_ref": "44028002",
+"start_ref_usfm": "ACT 28:2",
+"end_ref": "44028002",
+"end_ref_usfm": "ACT 28:2"
+},
+{
+"start_ref": "20025025",
+"start_ref_usfm": "PRO 25:25",
+"end_ref": "20025025",
+"end_ref_usfm": "PRO 25:25"
+},
+{
+"start_ref": "20025013",
+"start_ref_usfm": "PRO 25:13",
+"end_ref": "20025013",
+"end_ref_usfm": "PRO 25:13"
+},
+{
+"start_ref": "40010042",
+"start_ref_usfm": "MAT 10:42",
+"end_ref": "40010042",
+"end_ref_usfm": "MAT 10:42"
+}
+],
+"resource": [
+{
+"reference_id": "4827",
+"content_id": "4827",
+"resource_code": "DictionaryBibleThemes",
+"label": "4827: frost",
+"language": "eng"
+},
+{
+"reference_id": "4829",
+"content_id": "4829",
+"resource_code": "DictionaryBibleThemes",
+"label": "4829: heat",
+"language": "eng"
+},
+{
+"reference_id": "4849",
+"content_id": "4849",
+"resource_code": "DictionaryBibleThemes",
+"label": "4849: snow",
+"language": "eng"
+},
+{
+"reference_id": "4853",
+"content_id": "4853",
+"resource_code": "DictionaryBibleThemes",
+"label": "4853: weather",
+"language": "eng"
+},
+{
+"reference_id": "4970",
+"content_id": "4970",
+"resource_code": "DictionaryBibleThemes",
+"label": "4970: seasons, of the year",
+"language": "eng"
+},
+{
+"reference_id": "5132",
+"content_id": "5132",
+"resource_code": "DictionaryBibleThemes",
+"label": "5132: biting",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,93 @@
+[
+{
+"content_id": "4536",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4536: vinegar",
+"media_type": "Text",
+"index_reference": "4536: vinegar",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Vinegar made from wine</h2>\n<p><strong><a href=\"https://ref.ly/Num6:1-Num6:4\">NUM 6:1–6:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ruth2:14\">RUT 2:14</a></p>\n<h2>Vinegar as an acid, reacting vigorously with alkaline soda</h2>\n<p><strong><a href=\"https://ref.ly/Prov25:20\">PRO 25:20</a></strong></p>\n<h2>Vinegar as a substitute for wine</h2>\n<h3>Its unpleasantness</h3>\n<p><strong><a href=\"https://ref.ly/Prov10:26\">PRO 10:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps69:19-Ps69:22\">PSA 69:19–69:22</a></p>\n<h3>It was offered to Jesus Christ at the crucifixion</h3>\n<p><strong><a href=\"https://ref.ly/Matt27:48-Matt27:50\">MAT 27:48–27:50</a></strong> parallels <a href=\"https://ref.ly/Mark15:36-Mark15:37\">MRK 15:36–15:37</a>, <a href=\"https://ref.ly/Luke23:36-Luke23:37\">LUK 23:36–23:37</a>, <a href=\"https://ref.ly/John19:28-John19:30\">JHN 19:28–19:30</a> <em>See also</em> <a href=\"https://ref.ly/Ps69:21\">PSA 69:21</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04006001",
+"start_ref_usfm": "NUM 6:1",
+"end_ref": "04006004",
+"end_ref_usfm": "NUM 6:4"
+},
+{
+"start_ref": "08002014",
+"start_ref_usfm": "RUT 2:14",
+"end_ref": "08002014",
+"end_ref_usfm": "RUT 2:14"
+},
+{
+"start_ref": "20025020",
+"start_ref_usfm": "PRO 25:20",
+"end_ref": "20025020",
+"end_ref_usfm": "PRO 25:20"
+},
+{
+"start_ref": "20010026",
+"start_ref_usfm": "PRO 10:26",
+"end_ref": "20010026",
+"end_ref_usfm": "PRO 10:26"
+},
+{
+"start_ref": "19069019",
+"start_ref_usfm": "PSA 69:19",
+"end_ref": "19069022",
+"end_ref_usfm": "PSA 69:22"
+},
+{
+"start_ref": "40027048",
+"start_ref_usfm": "MAT 27:48",
+"end_ref": "40027050",
+"end_ref_usfm": "MAT 27:50"
+},
+{
+"start_ref": "41015036",
+"start_ref_usfm": "MRK 15:36",
+"end_ref": "41015037",
+"end_ref_usfm": "MRK 15:37"
+},
+{
+"start_ref": "42023036",
+"start_ref_usfm": "LUK 23:36",
+"end_ref": "42023037",
+"end_ref_usfm": "LUK 23:37"
+},
+{
+"start_ref": "43019028",
+"start_ref_usfm": "JHN 19:28",
+"end_ref": "43019030",
+"end_ref_usfm": "JHN 19:30"
+},
+{
+"start_ref": "19069021",
+"start_ref_usfm": "PSA 69:21",
+"end_ref": "19069021",
+"end_ref_usfm": "PSA 69:21"
+}
+],
+"resource": [
+{
+"reference_id": "2412",
+"content_id": "2412",
+"resource_code": "DictionaryBibleThemes",
+"label": "2412: cross, Gospel accounts of",
+"language": "eng"
+},
+{
+"reference_id": "4544",
+"content_id": "4544",
+"resource_code": "DictionaryBibleThemes",
+"label": "4544: wine",
+"language": "eng"
+}
+]
+}
+}
+]

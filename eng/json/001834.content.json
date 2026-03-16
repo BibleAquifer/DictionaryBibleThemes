@@ -1,0 +1,114 @@
+[
+{
+"content_id": "7431",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7431: Sabbath, sabbatical year",
+"media_type": "Text",
+"index_reference": "7431: sabbath, sabbatical year",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Just as the seventh day was observed as a day of rest, so the OT regarded every seventh year as a sabbath year, to be set aside for rest.</p>\n<h2>The sabbath year</h2>\n<h3>As a time for leaving fields fallow</h3>\n<p><strong><a href=\"https://ref.ly/Exod23:10-Exod23:11\">EXO 23:10–23:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev25:4\">LEV 25:4</a>, <a href=\"https://ref.ly/Lev26:34\">LEV 26:34</a>; <a href=\"https://ref.ly/Neh10:31\">NEH 10:31</a> <em>An important feature was the opportunity for the poor to benefit from unharvested fields.</em></p>\n<h3>As a time for cancelling debts</h3>\n<p><strong><a href=\"https://ref.ly/Deut15:1\">DEU 15:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut15:9\">DEU 15:9</a>, <a href=\"https://ref.ly/Deut31:10\">DEU 31:10</a>; <a href=\"https://ref.ly/Neh10:31\">NEH 10:31</a></p>\n<h3>As a time for freeing slaves</h3>\n<p><strong><a href=\"https://ref.ly/Deut15:12\">DEU 15:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer34:14\">JER 34:14</a></p>\n<h2>The Year of Jubilee as seven Sabbaths</h2>\n<p><strong><a href=\"https://ref.ly/Lev25:8-Lev25:12\">LEV 25:8–25:12</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02023010",
+"start_ref_usfm": "EXO 23:10",
+"end_ref": "02023011",
+"end_ref_usfm": "EXO 23:11"
+},
+{
+"start_ref": "03025004",
+"start_ref_usfm": "LEV 25:4",
+"end_ref": "03025004",
+"end_ref_usfm": "LEV 25:4"
+},
+{
+"start_ref": "03026034",
+"start_ref_usfm": "LEV 26:34",
+"end_ref": "03026034",
+"end_ref_usfm": "LEV 26:34"
+},
+{
+"start_ref": "16010031",
+"start_ref_usfm": "NEH 10:31",
+"end_ref": "16010031",
+"end_ref_usfm": "NEH 10:31"
+},
+{
+"start_ref": "05015001",
+"start_ref_usfm": "DEU 15:1",
+"end_ref": "05015001",
+"end_ref_usfm": "DEU 15:1"
+},
+{
+"start_ref": "05015009",
+"start_ref_usfm": "DEU 15:9",
+"end_ref": "05015009",
+"end_ref_usfm": "DEU 15:9"
+},
+{
+"start_ref": "05031010",
+"start_ref_usfm": "DEU 31:10",
+"end_ref": "05031010",
+"end_ref_usfm": "DEU 31:10"
+},
+{
+"start_ref": "05015012",
+"start_ref_usfm": "DEU 15:12",
+"end_ref": "05015012",
+"end_ref_usfm": "DEU 15:12"
+},
+{
+"start_ref": "24034014",
+"start_ref_usfm": "JER 34:14",
+"end_ref": "24034014",
+"end_ref_usfm": "JER 34:14"
+},
+{
+"start_ref": "03025008",
+"start_ref_usfm": "LEV 25:8",
+"end_ref": "03025012",
+"end_ref_usfm": "LEV 25:12"
+}
+],
+"resource": [
+{
+"reference_id": "1653",
+"content_id": "1653",
+"resource_code": "DictionaryBibleThemes",
+"label": "1653: numbers, 6-10",
+"language": "eng"
+},
+{
+"reference_id": "4206",
+"content_id": "4206",
+"resource_code": "DictionaryBibleThemes",
+"label": "4206: land",
+"language": "eng"
+},
+{
+"reference_id": "6658",
+"content_id": "6658",
+"resource_code": "DictionaryBibleThemes",
+"label": "6658: freedom",
+"language": "eng"
+},
+{
+"reference_id": "7447",
+"content_id": "7447",
+"resource_code": "DictionaryBibleThemes",
+"label": "7447: slavery, in OT",
+"language": "eng"
+},
+{
+"reference_id": "7482",
+"content_id": "7482",
+"resource_code": "DictionaryBibleThemes",
+"label": "7482: Year of Jubilee",
+"language": "eng"
+}
+]
+}
+}
+]

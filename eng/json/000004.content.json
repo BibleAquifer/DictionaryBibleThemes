@@ -1,0 +1,256 @@
+[
+{
+"content_id": "1015",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1015: God",
+"media_type": "Text",
+"index_reference": "1015: god",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The Creator and Redeemer of the world, who reveals himself in Scripture and in Jesus Christ, and who is loved, worshipped and adored by believers. Scripture stresses the personal nature of God, and also his total reliability and trustworthiness. God is the Father of Jesus Christ and of all believers.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "1020",
+"content_id": "1020",
+"resource_code": "DictionaryBibleThemes",
+"label": "1020: God, all-knowing",
+"language": "eng"
+},
+{
+"reference_id": "1025",
+"content_id": "1025",
+"resource_code": "DictionaryBibleThemes",
+"label": "1025: God, anger of",
+"language": "eng"
+},
+{
+"reference_id": "1030",
+"content_id": "1030",
+"resource_code": "DictionaryBibleThemes",
+"label": "1030: God, compassion of",
+"language": "eng"
+},
+{
+"reference_id": "1035",
+"content_id": "1035",
+"resource_code": "DictionaryBibleThemes",
+"label": "1035: God, faithfulness of",
+"language": "eng"
+},
+{
+"reference_id": "1040",
+"content_id": "1040",
+"resource_code": "DictionaryBibleThemes",
+"label": "1040: God, fatherhood of",
+"language": "eng"
+},
+{
+"reference_id": "1045",
+"content_id": "1045",
+"resource_code": "DictionaryBibleThemes",
+"label": "1045: God, glory of",
+"language": "eng"
+},
+{
+"reference_id": "1050",
+"content_id": "1050",
+"resource_code": "DictionaryBibleThemes",
+"label": "1050: God, goodness of",
+"language": "eng"
+},
+{
+"reference_id": "1055",
+"content_id": "1055",
+"resource_code": "DictionaryBibleThemes",
+"label": "1055: God, grace and mercy of",
+"language": "eng"
+},
+{
+"reference_id": "1060",
+"content_id": "1060",
+"resource_code": "DictionaryBibleThemes",
+"label": "1060: God, greatness of",
+"language": "eng"
+},
+{
+"reference_id": "1065",
+"content_id": "1065",
+"resource_code": "DictionaryBibleThemes",
+"label": "1065: God, holiness of",
+"language": "eng"
+},
+{
+"reference_id": "1070",
+"content_id": "1070",
+"resource_code": "DictionaryBibleThemes",
+"label": "1070: God, joy of",
+"language": "eng"
+},
+{
+"reference_id": "1075",
+"content_id": "1075",
+"resource_code": "DictionaryBibleThemes",
+"label": "1075: God, justice of",
+"language": "eng"
+},
+{
+"reference_id": "1080",
+"content_id": "1080",
+"resource_code": "DictionaryBibleThemes",
+"label": "1080: God, living and self-sustaining",
+"language": "eng"
+},
+{
+"reference_id": "1085",
+"content_id": "1085",
+"resource_code": "DictionaryBibleThemes",
+"label": "1085: God, love of",
+"language": "eng"
+},
+{
+"reference_id": "1090",
+"content_id": "1090",
+"resource_code": "DictionaryBibleThemes",
+"label": "1090: God, majesty of",
+"language": "eng"
+},
+{
+"reference_id": "1095",
+"content_id": "1095",
+"resource_code": "DictionaryBibleThemes",
+"label": "1095: God, patience of",
+"language": "eng"
+},
+{
+"reference_id": "1100",
+"content_id": "1100",
+"resource_code": "DictionaryBibleThemes",
+"label": "1100: God, perfection of",
+"language": "eng"
+},
+{
+"reference_id": "1105",
+"content_id": "1105",
+"resource_code": "DictionaryBibleThemes",
+"label": "1105: God, power of",
+"language": "eng"
+},
+{
+"reference_id": "1110",
+"content_id": "1110",
+"resource_code": "DictionaryBibleThemes",
+"label": "1110: God, present everywhere",
+"language": "eng"
+},
+{
+"reference_id": "1115",
+"content_id": "1115",
+"resource_code": "DictionaryBibleThemes",
+"label": "1115: God, purpose of",
+"language": "eng"
+},
+{
+"reference_id": "1120",
+"content_id": "1120",
+"resource_code": "DictionaryBibleThemes",
+"label": "1120: God, repentance of",
+"language": "eng"
+},
+{
+"reference_id": "1125",
+"content_id": "1125",
+"resource_code": "DictionaryBibleThemes",
+"label": "1125: God, righteousness of",
+"language": "eng"
+},
+{
+"reference_id": "1130",
+"content_id": "1130",
+"resource_code": "DictionaryBibleThemes",
+"label": "1130: God, sovereignty of",
+"language": "eng"
+},
+{
+"reference_id": "1135",
+"content_id": "1135",
+"resource_code": "DictionaryBibleThemes",
+"label": "1135: God, suffering of",
+"language": "eng"
+},
+{
+"reference_id": "1140",
+"content_id": "1140",
+"resource_code": "DictionaryBibleThemes",
+"label": "1140: God, the eternal",
+"language": "eng"
+},
+{
+"reference_id": "1145",
+"content_id": "1145",
+"resource_code": "DictionaryBibleThemes",
+"label": "1145: God, transcendence of",
+"language": "eng"
+},
+{
+"reference_id": "1150",
+"content_id": "1150",
+"resource_code": "DictionaryBibleThemes",
+"label": "1150: God, truth of",
+"language": "eng"
+},
+{
+"reference_id": "1155",
+"content_id": "1155",
+"resource_code": "DictionaryBibleThemes",
+"label": "1155: God, truthfulness of",
+"language": "eng"
+},
+{
+"reference_id": "1160",
+"content_id": "1160",
+"resource_code": "DictionaryBibleThemes",
+"label": "1160: God, unchangeableness of",
+"language": "eng"
+},
+{
+"reference_id": "1165",
+"content_id": "1165",
+"resource_code": "DictionaryBibleThemes",
+"label": "1165: God, uniqueness of",
+"language": "eng"
+},
+{
+"reference_id": "1170",
+"content_id": "1170",
+"resource_code": "DictionaryBibleThemes",
+"label": "1170: God, unity of",
+"language": "eng"
+},
+{
+"reference_id": "1175",
+"content_id": "1175",
+"resource_code": "DictionaryBibleThemes",
+"label": "1175: God, will of",
+"language": "eng"
+},
+{
+"reference_id": "1180",
+"content_id": "1180",
+"resource_code": "DictionaryBibleThemes",
+"label": "1180: God, wisdom of",
+"language": "eng"
+},
+{
+"reference_id": "1185",
+"content_id": "1185",
+"resource_code": "DictionaryBibleThemes",
+"label": "1185: God, zeal of",
+"language": "eng"
+}
+]
+}
+}
+]

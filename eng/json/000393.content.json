@@ -1,0 +1,51 @@
+[
+{
+"content_id": "4309",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4309: bitumen and tar",
+"media_type": "Text",
+"index_reference": "4309: bitumen and tar",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Tar</h2>\n<p><strong><a href=\"https://ref.ly/Gen14:10\">GEN 14:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod2:1-Exod2:3\">EXO 2:1–2:3</a> <em>the infant Moses placed in a basket coated with tar</em></p>\n<h2>Bitumen</h2>\n<p><strong><a href=\"https://ref.ly/Gen11:1-Gen11:4\">GEN 11:1–11:4</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01014010",
+"start_ref_usfm": "GEN 14:10",
+"end_ref": "01014010",
+"end_ref_usfm": "GEN 14:10"
+},
+{
+"start_ref": "02002001",
+"start_ref_usfm": "EXO 2:1",
+"end_ref": "02002003",
+"end_ref_usfm": "EXO 2:3"
+},
+{
+"start_ref": "01011001",
+"start_ref_usfm": "GEN 11:1",
+"end_ref": "01011004",
+"end_ref_usfm": "GEN 11:4"
+}
+],
+"resource": [
+{
+"reference_id": "4306",
+"content_id": "4306",
+"resource_code": "DictionaryBibleThemes",
+"label": "4306: minerals",
+"language": "eng"
+},
+{
+"reference_id": "4318",
+"content_id": "4318",
+"resource_code": "DictionaryBibleThemes",
+"label": "4318: coal",
+"language": "eng"
+}
+]
+}
+}
+]

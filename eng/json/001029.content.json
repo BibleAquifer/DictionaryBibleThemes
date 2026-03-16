@@ -1,0 +1,53 @@
+[
+{
+"content_id": "5452",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5452: power",
+"media_type": "Text",
+"index_reference": "5452: power",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The quality which enables individuals to achieve their aims. Scripture stresses the power of God, demonstrated in Jesus Christ's resurrection and bestowed through the Holy Spirit. Scripture also stresses the relative powerlessness of humanity in God's sight.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5453",
+"content_id": "5453",
+"resource_code": "DictionaryBibleThemes",
+"label": "5453: power, of God",
+"language": "eng"
+},
+{
+"reference_id": "5454",
+"content_id": "5454",
+"resource_code": "DictionaryBibleThemes",
+"label": "5454: power, God's saving",
+"language": "eng"
+},
+{
+"reference_id": "5455",
+"content_id": "5455",
+"resource_code": "DictionaryBibleThemes",
+"label": "5455: power, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "5456",
+"content_id": "5456",
+"resource_code": "DictionaryBibleThemes",
+"label": "5456: power, of Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "5457",
+"content_id": "5457",
+"resource_code": "DictionaryBibleThemes",
+"label": "5457: power, human",
+"language": "eng"
+}
+]
+}
+}
+]

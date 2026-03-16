@@ -1,0 +1,253 @@
+[
+{
+"content_id": "8202",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8202: boldness",
+"media_type": "Text",
+"index_reference": "8202: boldness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Courage and confidence in approaching God and also other people.</p>\n<h2>Boldness in approaching God</h2>\n<p><strong><a href=\"https://ref.ly/Heb10:19-Heb10:22\">HEB 10:19–10:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:27\">GEN 18:27</a>, <a href=\"https://ref.ly/Gen18:31\">GEN 18:31</a> <em>Abraham prays for Sodom</em></p>\n<h2>Boldness in proclaiming the gospel to others</h2>\n<p><strong><a href=\"https://ref.ly/Acts4:29\">ACT 4:29</a></strong> <em>Persecuted Christians pray.</em> <em>See also</em> <a href=\"https://ref.ly/Acts4:13\">ACT 4:13</a>, <a href=\"https://ref.ly/Acts4:31\">ACT 4:31</a>, <a href=\"https://ref.ly/Acts9:28\">ACT 9:28</a>, <a href=\"https://ref.ly/Acts13:46\">ACT 13:46</a>, <a href=\"https://ref.ly/Acts14:3\">ACT 14:3</a>, <a href=\"https://ref.ly/Acts18:26\">ACT 18:26</a>, <a href=\"https://ref.ly/Acts19:8\">ACT 19:8</a>, <a href=\"https://ref.ly/Acts28:31\">ACT 28:31</a></p>\n<h2>Boldness in dealing with others</h2>\n<h3>Inner confidence</h3>\n<p><strong><a href=\"https://ref.ly/Ps138:3\">PSA 138:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:34-1Sam17:50\">1SA 17:34–17:50</a>; <a href=\"https://ref.ly/Prov28:1\">PRO 28:1</a>; <a href=\"https://ref.ly/2Cor3:12\">2CO 3:12</a> <em>Paul concerning his ministry</em></p>\n<h3>Confident authority</h3>\n<p><strong><a href=\"https://ref.ly/Phlm1:8-Phlm1:9\">PHM 1:8–1:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom15:15\">ROM 15:15</a>; <a href=\"https://ref.ly/2Cor10:1-2Cor10:2\">2CO 10:1–10:2</a></p>\n<h3>Courage</h3>\n<p><strong><a href=\"https://ref.ly/Mark15:43\">MRK 15:43</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod14:8\">EXO 14:8</a>; <a href=\"https://ref.ly/Num33:3\">NUM 33:3</a></p>\n<h3>Persistence</h3>\n<p><strong><a href=\"https://ref.ly/Luke11:8\">LUK 11:8</a></strong> <em>The friend at midnight.</em></p>\n<h2>Misplaced boldness</h2>\n<p><strong><a href=\"https://ref.ly/2Pet2:10\">2PE 2:10</a></strong> <em>The heretics' arrogance.</em> <em>See also</em> <a href=\"https://ref.ly/1Cor8:10\">1CO 8:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "58010019",
+"start_ref_usfm": "HEB 10:19",
+"end_ref": "58010022",
+"end_ref_usfm": "HEB 10:22"
+},
+{
+"start_ref": "01018027",
+"start_ref_usfm": "GEN 18:27",
+"end_ref": "01018027",
+"end_ref_usfm": "GEN 18:27"
+},
+{
+"start_ref": "01018031",
+"start_ref_usfm": "GEN 18:31",
+"end_ref": "01018031",
+"end_ref_usfm": "GEN 18:31"
+},
+{
+"start_ref": "44004029",
+"start_ref_usfm": "ACT 4:29",
+"end_ref": "44004029",
+"end_ref_usfm": "ACT 4:29"
+},
+{
+"start_ref": "44004013",
+"start_ref_usfm": "ACT 4:13",
+"end_ref": "44004013",
+"end_ref_usfm": "ACT 4:13"
+},
+{
+"start_ref": "44004031",
+"start_ref_usfm": "ACT 4:31",
+"end_ref": "44004031",
+"end_ref_usfm": "ACT 4:31"
+},
+{
+"start_ref": "44009028",
+"start_ref_usfm": "ACT 9:28",
+"end_ref": "44009028",
+"end_ref_usfm": "ACT 9:28"
+},
+{
+"start_ref": "44013046",
+"start_ref_usfm": "ACT 13:46",
+"end_ref": "44013046",
+"end_ref_usfm": "ACT 13:46"
+},
+{
+"start_ref": "44014003",
+"start_ref_usfm": "ACT 14:3",
+"end_ref": "44014003",
+"end_ref_usfm": "ACT 14:3"
+},
+{
+"start_ref": "44018026",
+"start_ref_usfm": "ACT 18:26",
+"end_ref": "44018026",
+"end_ref_usfm": "ACT 18:26"
+},
+{
+"start_ref": "44019008",
+"start_ref_usfm": "ACT 19:8",
+"end_ref": "44019008",
+"end_ref_usfm": "ACT 19:8"
+},
+{
+"start_ref": "44028031",
+"start_ref_usfm": "ACT 28:31",
+"end_ref": "44028031",
+"end_ref_usfm": "ACT 28:31"
+},
+{
+"start_ref": "19138003",
+"start_ref_usfm": "PSA 138:3",
+"end_ref": "19138003",
+"end_ref_usfm": "PSA 138:3"
+},
+{
+"start_ref": "09017034",
+"start_ref_usfm": "1SA 17:34",
+"end_ref": "09017050",
+"end_ref_usfm": "1SA 17:50"
+},
+{
+"start_ref": "20028001",
+"start_ref_usfm": "PRO 28:1",
+"end_ref": "20028001",
+"end_ref_usfm": "PRO 28:1"
+},
+{
+"start_ref": "47003012",
+"start_ref_usfm": "2CO 3:12",
+"end_ref": "47003012",
+"end_ref_usfm": "2CO 3:12"
+},
+{
+"start_ref": "57001008",
+"start_ref_usfm": "PHM 1:8",
+"end_ref": "57001009",
+"end_ref_usfm": "PHM 1:9"
+},
+{
+"start_ref": "45015015",
+"start_ref_usfm": "ROM 15:15",
+"end_ref": "45015015",
+"end_ref_usfm": "ROM 15:15"
+},
+{
+"start_ref": "47010001",
+"start_ref_usfm": "2CO 10:1",
+"end_ref": "47010002",
+"end_ref_usfm": "2CO 10:2"
+},
+{
+"start_ref": "41015043",
+"start_ref_usfm": "MRK 15:43",
+"end_ref": "41015043",
+"end_ref_usfm": "MRK 15:43"
+},
+{
+"start_ref": "02014008",
+"start_ref_usfm": "EXO 14:8",
+"end_ref": "02014008",
+"end_ref_usfm": "EXO 14:8"
+},
+{
+"start_ref": "04033003",
+"start_ref_usfm": "NUM 33:3",
+"end_ref": "04033003",
+"end_ref_usfm": "NUM 33:3"
+},
+{
+"start_ref": "42011008",
+"start_ref_usfm": "LUK 11:8",
+"end_ref": "42011008",
+"end_ref_usfm": "LUK 11:8"
+},
+{
+"start_ref": "61002010",
+"start_ref_usfm": "2PE 2:10",
+"end_ref": "61002010",
+"end_ref_usfm": "2PE 2:10"
+},
+{
+"start_ref": "46008010",
+"start_ref_usfm": "1CO 8:10",
+"end_ref": "46008010",
+"end_ref_usfm": "1CO 8:10"
+}
+],
+"resource": [
+{
+"reference_id": "3251",
+"content_id": "3251",
+"resource_code": "DictionaryBibleThemes",
+"label": "3251: Holy Spirit, filling with",
+"language": "eng"
+},
+{
+"reference_id": "5954",
+"content_id": "5954",
+"resource_code": "DictionaryBibleThemes",
+"label": "5954: strength",
+"language": "eng"
+},
+{
+"reference_id": "5968",
+"content_id": "5968",
+"resource_code": "DictionaryBibleThemes",
+"label": "5968: timidity",
+"language": "eng"
+},
+{
+"reference_id": "7754",
+"content_id": "7754",
+"resource_code": "DictionaryBibleThemes",
+"label": "7754: preaching",
+"language": "eng"
+},
+{
+"reference_id": "8020",
+"content_id": "8020",
+"resource_code": "DictionaryBibleThemes",
+"label": "8020: faith",
+"language": "eng"
+},
+{
+"reference_id": "8104",
+"content_id": "8104",
+"resource_code": "DictionaryBibleThemes",
+"label": "8104: assurance",
+"language": "eng"
+},
+{
+"reference_id": "8213",
+"content_id": "8213",
+"resource_code": "DictionaryBibleThemes",
+"label": "8213: confidence",
+"language": "eng"
+},
+{
+"reference_id": "8219",
+"content_id": "8219",
+"resource_code": "DictionaryBibleThemes",
+"label": "8219: courage",
+"language": "eng"
+},
+{
+"reference_id": "8414",
+"content_id": "8414",
+"resource_code": "DictionaryBibleThemes",
+"label": "8414: encouragement",
+"language": "eng"
+},
+{
+"reference_id": "8630",
+"content_id": "8630",
+"resource_code": "DictionaryBibleThemes",
+"label": "8630: worship, results of",
+"language": "eng"
+},
+{
+"reference_id": "8652",
+"content_id": "8652",
+"resource_code": "DictionaryBibleThemes",
+"label": "8652: importunity",
+"language": "eng"
+},
+{
+"reference_id": "8801",
+"content_id": "8801",
+"resource_code": "DictionaryBibleThemes",
+"label": "8801: presumption",
+"language": "eng"
+}
+]
+}
+}
+]

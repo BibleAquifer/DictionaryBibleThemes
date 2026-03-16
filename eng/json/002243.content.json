@@ -1,0 +1,140 @@
+[
+{
+"content_id": "8458",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8458: peacemakers",
+"media_type": "Text",
+"index_reference": "8458: peacemakers",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The commendation of peacemakers</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:9\">MAT 5:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov12:20\">PRO 12:20</a>; <a href=\"https://ref.ly/Rom14:19\">ROM 14:19</a></p>\n<h2>The importance of pursuing peace</h2>\n<p><a href=\"https://ref.ly/Eccl10:4\">ECC 10:4</a>; ; <a href=\"https://ref.ly/Rom12:18\">ROM 12:18</a>; ; <a href=\"https://ref.ly/Titus1:6\">TIT 1:6</a>; ; <a href=\"https://ref.ly/Heb12:14\">HEB 12:14</a>; ; <a href=\"https://ref.ly/Jas3:17\">JAS 3:17</a></p>\n<h2>Examples of peacemakers</h2>\n<p><a href=\"https://ref.ly/Gen13:8-Gen13:9\">GEN 13:8–13:9</a> <em>Abraham</em>; ; <a href=\"https://ref.ly/1Sam25:14-1Sam25:31\">1SA 25:14–25:31</a> <em>Abigail</em>; ; <a href=\"https://ref.ly/Esth10:3\">EST 10:3</a> <em>Mordecai</em>; ; <a href=\"https://ref.ly/Isa53:5\">ISA 53:5</a> <em>the suffering servant</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40005009",
+"start_ref_usfm": "MAT 5:9",
+"end_ref": "40005009",
+"end_ref_usfm": "MAT 5:9"
+},
+{
+"start_ref": "20012020",
+"start_ref_usfm": "PRO 12:20",
+"end_ref": "20012020",
+"end_ref_usfm": "PRO 12:20"
+},
+{
+"start_ref": "45014019",
+"start_ref_usfm": "ROM 14:19",
+"end_ref": "45014019",
+"end_ref_usfm": "ROM 14:19"
+},
+{
+"start_ref": "21010004",
+"start_ref_usfm": "ECC 10:4",
+"end_ref": "21010004",
+"end_ref_usfm": "ECC 10:4"
+},
+{
+"start_ref": "45012018",
+"start_ref_usfm": "ROM 12:18",
+"end_ref": "45012018",
+"end_ref_usfm": "ROM 12:18"
+},
+{
+"start_ref": "56001006",
+"start_ref_usfm": "TIT 1:6",
+"end_ref": "56001006",
+"end_ref_usfm": "TIT 1:6"
+},
+{
+"start_ref": "58012014",
+"start_ref_usfm": "HEB 12:14",
+"end_ref": "58012014",
+"end_ref_usfm": "HEB 12:14"
+},
+{
+"start_ref": "59003017",
+"start_ref_usfm": "JAS 3:17",
+"end_ref": "59003017",
+"end_ref_usfm": "JAS 3:17"
+},
+{
+"start_ref": "01013008",
+"start_ref_usfm": "GEN 13:8",
+"end_ref": "01013009",
+"end_ref_usfm": "GEN 13:9"
+},
+{
+"start_ref": "09025014",
+"start_ref_usfm": "1SA 25:14",
+"end_ref": "09025031",
+"end_ref_usfm": "1SA 25:31"
+},
+{
+"start_ref": "17010003",
+"start_ref_usfm": "EST 10:3",
+"end_ref": "17010003",
+"end_ref_usfm": "EST 10:3"
+},
+{
+"start_ref": "23053005",
+"start_ref_usfm": "ISA 53:5",
+"end_ref": "23053005",
+"end_ref_usfm": "ISA 53:5"
+}
+],
+"resource": [
+{
+"reference_id": "1620",
+"content_id": "1620",
+"resource_code": "DictionaryBibleThemes",
+"label": "1620: beatitudes, the",
+"language": "eng"
+},
+{
+"reference_id": "3215",
+"content_id": "3215",
+"resource_code": "DictionaryBibleThemes",
+"label": "3215: Holy Spirit, and peace",
+"language": "eng"
+},
+{
+"reference_id": "5834",
+"content_id": "5834",
+"resource_code": "DictionaryBibleThemes",
+"label": "5834: disagreement",
+"language": "eng"
+},
+{
+"reference_id": "6684",
+"content_id": "6684",
+"resource_code": "DictionaryBibleThemes",
+"label": "6684: mediator",
+"language": "eng"
+},
+{
+"reference_id": "6700",
+"content_id": "6700",
+"resource_code": "DictionaryBibleThemes",
+"label": "6700: peace",
+"language": "eng"
+},
+{
+"reference_id": "6716",
+"content_id": "6716",
+"resource_code": "DictionaryBibleThemes",
+"label": "6716: reconciliation",
+"language": "eng"
+},
+{
+"reference_id": "6754",
+"content_id": "6754",
+"resource_code": "DictionaryBibleThemes",
+"label": "6754: union with Christ",
+"language": "eng"
+}
+]
+}
+}
+]

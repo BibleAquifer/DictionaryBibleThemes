@@ -1,0 +1,106 @@
+[
+{
+"content_id": "5249",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5249: census",
+"media_type": "Text",
+"index_reference": "5249: census",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The counting of individuals, usually for the purpose of war or taxation.</p>\n<h2>Motivations for a census</h2>\n<h3>To count the number of fighting men available</h3>\n<p><strong><a href=\"https://ref.ly/Num1:1-Num1:4\">NUM 1:1–1:4</a>, <a href=\"https://ref.ly/Num26:1-Num26:4\">NUM 26:1–26:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num1:5-Num1:49\">NUM 1:5–1:49</a>, <a href=\"https://ref.ly/Num26:5-Num26:65\">NUM 26:5–26:65</a></p>\n<h3>For ascertaining those qualified to be included in the Jewish community</h3>\n<p><a href=\"https://ref.ly/Ezra2:1-Ezra2:65\">EZR 2:1–2:65</a> parallel <a href=\"https://ref.ly/Neh7:6-Neh7:67\">NEH 7:6–7:67</a></p>\n<h3>For purposes of taxation</h3>\n<p><strong><a href=\"https://ref.ly/Luke2:2\">LUK 2:2</a></strong>; <strong><a href=\"https://ref.ly/Acts5:37\">ACT 5:37</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod30:12\">EXO 30:12</a></p>\n<h2>God's anger at David's unauthorised census</h2>\n<p><a href=\"https://ref.ly/2Sam24:1-2Sam24:9\">2SA 24:1–24:9</a> parallel <a href=\"https://ref.ly/1Chr21:1-1Chr21:6\">1CH 21:1–21:6</a> <em>David's sin in taking this census was probably that he did so from a motive of self-sufficiency rather than trusting in God.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04001001",
+"start_ref_usfm": "NUM 1:1",
+"end_ref": "04001004",
+"end_ref_usfm": "NUM 1:4"
+},
+{
+"start_ref": "04026001",
+"start_ref_usfm": "NUM 26:1",
+"end_ref": "04026004",
+"end_ref_usfm": "NUM 26:4"
+},
+{
+"start_ref": "04001005",
+"start_ref_usfm": "NUM 1:5",
+"end_ref": "04001049",
+"end_ref_usfm": "NUM 1:49"
+},
+{
+"start_ref": "04026005",
+"start_ref_usfm": "NUM 26:5",
+"end_ref": "04026065",
+"end_ref_usfm": "NUM 26:65"
+},
+{
+"start_ref": "15002001",
+"start_ref_usfm": "EZR 2:1",
+"end_ref": "15002065",
+"end_ref_usfm": "EZR 2:65"
+},
+{
+"start_ref": "16007006",
+"start_ref_usfm": "NEH 7:6",
+"end_ref": "16007067",
+"end_ref_usfm": "NEH 7:67"
+},
+{
+"start_ref": "42002002",
+"start_ref_usfm": "LUK 2:2",
+"end_ref": "42002002",
+"end_ref_usfm": "LUK 2:2"
+},
+{
+"start_ref": "44005037",
+"start_ref_usfm": "ACT 5:37",
+"end_ref": "44005037",
+"end_ref_usfm": "ACT 5:37"
+},
+{
+"start_ref": "02030012",
+"start_ref_usfm": "EXO 30:12",
+"end_ref": "02030012",
+"end_ref_usfm": "EXO 30:12"
+},
+{
+"start_ref": "10024001",
+"start_ref_usfm": "2SA 24:1",
+"end_ref": "10024009",
+"end_ref_usfm": "2SA 24:9"
+},
+{
+"start_ref": "13021001",
+"start_ref_usfm": "1CH 21:1",
+"end_ref": "13021006",
+"end_ref_usfm": "1CH 21:6"
+}
+],
+"resource": [
+{
+"reference_id": "5577",
+"content_id": "5577",
+"resource_code": "DictionaryBibleThemes",
+"label": "5577: taxation",
+"language": "eng"
+},
+{
+"reference_id": "5605",
+"content_id": "5605",
+"resource_code": "DictionaryBibleThemes",
+"label": "5605: warfare",
+"language": "eng"
+},
+{
+"reference_id": "7230",
+"content_id": "7230",
+"resource_code": "DictionaryBibleThemes",
+"label": "7230: genealogies",
+"language": "eng"
+}
+]
+}
+}
+]

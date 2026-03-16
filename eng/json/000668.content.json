@@ -1,0 +1,280 @@
+[
+{
+"content_id": "5064",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5064: spirit, emotional aspects of",
+"media_type": "Text",
+"index_reference": "5064: spirit, emotional aspects of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A human being is made up of a variety of emotions and attitudes. Sometimes one trait is or becomes so dominant as to make it characteristic of the entire personality.</p>\n<h2>Examples of a bad spirit</h2>\n<h3>Pride</h3>\n<p><strong><a href=\"https://ref.ly/Prov16:18\">PRO 16:18</a></strong></p>\n<h3>Jealousy</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Num5:14\">NUM 5:14</a></p>\n<h3>Fear</h3>\n<p><a href=\"https://ref.ly/2Kgs19:7\">2KI 19:7</a> parallel <a href=\"https://ref.ly/Isa37:7\">ISA 37:7</a></p>\n<h3>Unfaithfulness</h3>\n<p><a href=\"https://ref.ly/Hos4:12\">HOS 4:12</a>, <a href=\"https://ref.ly/Hos5:4\">HOS 5:4</a></p>\n<h3>Despair</h3>\n<p><a href=\"https://ref.ly/Isa61:3\">ISA 61:3</a></p>\n<h3>Spiritual dullness</h3>\n<p><a href=\"https://ref.ly/Rom11:8\">ROM 11:8</a>; ; <a href=\"https://ref.ly/Deut29:4\">DEU 29:4</a>; ; <a href=\"https://ref.ly/Isa29:10\">ISA 29:10</a></p>\n<h2>Examples of a good spirit</h2>\n<h3>Humility</h3>\n<p><strong><a href=\"https://ref.ly/Prov29:23\">PRO 29:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num12:3\">NUM 12:3</a>; <a href=\"https://ref.ly/Isa57:15\">ISA 57:15</a></p>\n<h3>Submission</h3>\n<p><strong><a href=\"https://ref.ly/Num14:24\">NUM 14:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num14:6-Num14:9\">NUM 14:6–14:9</a></p>\n<h3>Wisdom</h3>\n<p><a href=\"https://ref.ly/Deut34:9\">DEU 34:9</a>; ; <a href=\"https://ref.ly/1Kgs3:11-1Kgs3:12\">1KI 3:11–3:12</a>; ; <a href=\"https://ref.ly/Job32:8\">JOB 32:8</a>; ; <a href=\"https://ref.ly/Dan4:9\">DAN 4:9</a></p>\n<h3>Steadfastness</h3>\n<p><a href=\"https://ref.ly/Ps51:10\">PSA 51:10</a>, <a href=\"https://ref.ly/Ps51:12\">PSA 51:12</a></p>\n<h3>Strength</h3>\n<p><a href=\"https://ref.ly/Luke1:17\">LUK 1:17</a>; ; <a href=\"https://ref.ly/Mal4:5\">MAL 4:5</a></p>\n<h3>Zeal</h3>\n<p><a href=\"https://ref.ly/Rom12:11\">ROM 12:11</a>; ; <a href=\"https://ref.ly/John2:17\">JHN 2:17</a></p>\n<h3>Gentleness</h3>\n<p><a href=\"https://ref.ly/1Cor4:21\">1CO 4:21</a>; ; <a href=\"https://ref.ly/1Pet3:4\">1PE 3:4</a></p>\n<h3>Trust</h3>\n<p><a href=\"https://ref.ly/2Cor4:13\">2CO 4:13</a></p>\n<h2>God can effect a change of spirit</h2>\n<p><strong><a href=\"https://ref.ly/Ezek36:26\">EZK 36:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek11:19\">EZK 11:19</a>, <a href=\"https://ref.ly/Ezek18:31\">EZK 18:31</a>; <a href=\"https://ref.ly/Hag1:14\">HAG 1:14</a>; <a href=\"https://ref.ly/Zech12:10\">ZEC 12:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "20016018",
+"start_ref_usfm": "PRO 16:18",
+"end_ref": "20016018",
+"end_ref_usfm": "PRO 16:18"
+},
+{
+"start_ref": "04005014",
+"start_ref_usfm": "NUM 5:14",
+"end_ref": "04005014",
+"end_ref_usfm": "NUM 5:14"
+},
+{
+"start_ref": "12019007",
+"start_ref_usfm": "2KI 19:7",
+"end_ref": "12019007",
+"end_ref_usfm": "2KI 19:7"
+},
+{
+"start_ref": "23037007",
+"start_ref_usfm": "ISA 37:7",
+"end_ref": "23037007",
+"end_ref_usfm": "ISA 37:7"
+},
+{
+"start_ref": "28004012",
+"start_ref_usfm": "HOS 4:12",
+"end_ref": "28004012",
+"end_ref_usfm": "HOS 4:12"
+},
+{
+"start_ref": "28005004",
+"start_ref_usfm": "HOS 5:4",
+"end_ref": "28005004",
+"end_ref_usfm": "HOS 5:4"
+},
+{
+"start_ref": "23061003",
+"start_ref_usfm": "ISA 61:3",
+"end_ref": "23061003",
+"end_ref_usfm": "ISA 61:3"
+},
+{
+"start_ref": "45011008",
+"start_ref_usfm": "ROM 11:8",
+"end_ref": "45011008",
+"end_ref_usfm": "ROM 11:8"
+},
+{
+"start_ref": "05029004",
+"start_ref_usfm": "DEU 29:4",
+"end_ref": "05029004",
+"end_ref_usfm": "DEU 29:4"
+},
+{
+"start_ref": "23029010",
+"start_ref_usfm": "ISA 29:10",
+"end_ref": "23029010",
+"end_ref_usfm": "ISA 29:10"
+},
+{
+"start_ref": "20029023",
+"start_ref_usfm": "PRO 29:23",
+"end_ref": "20029023",
+"end_ref_usfm": "PRO 29:23"
+},
+{
+"start_ref": "04012003",
+"start_ref_usfm": "NUM 12:3",
+"end_ref": "04012003",
+"end_ref_usfm": "NUM 12:3"
+},
+{
+"start_ref": "23057015",
+"start_ref_usfm": "ISA 57:15",
+"end_ref": "23057015",
+"end_ref_usfm": "ISA 57:15"
+},
+{
+"start_ref": "04014024",
+"start_ref_usfm": "NUM 14:24",
+"end_ref": "04014024",
+"end_ref_usfm": "NUM 14:24"
+},
+{
+"start_ref": "04014006",
+"start_ref_usfm": "NUM 14:6",
+"end_ref": "04014009",
+"end_ref_usfm": "NUM 14:9"
+},
+{
+"start_ref": "05034009",
+"start_ref_usfm": "DEU 34:9",
+"end_ref": "05034009",
+"end_ref_usfm": "DEU 34:9"
+},
+{
+"start_ref": "11003011",
+"start_ref_usfm": "1KI 3:11",
+"end_ref": "11003012",
+"end_ref_usfm": "1KI 3:12"
+},
+{
+"start_ref": "18032008",
+"start_ref_usfm": "JOB 32:8",
+"end_ref": "18032008",
+"end_ref_usfm": "JOB 32:8"
+},
+{
+"start_ref": "27004009",
+"start_ref_usfm": "DAN 4:9",
+"end_ref": "27004009",
+"end_ref_usfm": "DAN 4:9"
+},
+{
+"start_ref": "19051010",
+"start_ref_usfm": "PSA 51:10",
+"end_ref": "19051010",
+"end_ref_usfm": "PSA 51:10"
+},
+{
+"start_ref": "19051012",
+"start_ref_usfm": "PSA 51:12",
+"end_ref": "19051012",
+"end_ref_usfm": "PSA 51:12"
+},
+{
+"start_ref": "42001017",
+"start_ref_usfm": "LUK 1:17",
+"end_ref": "42001017",
+"end_ref_usfm": "LUK 1:17"
+},
+{
+"start_ref": "39004005",
+"start_ref_usfm": "MAL 4:5",
+"end_ref": "39004005",
+"end_ref_usfm": "MAL 4:5"
+},
+{
+"start_ref": "45012011",
+"start_ref_usfm": "ROM 12:11",
+"end_ref": "45012011",
+"end_ref_usfm": "ROM 12:11"
+},
+{
+"start_ref": "43002017",
+"start_ref_usfm": "JHN 2:17",
+"end_ref": "43002017",
+"end_ref_usfm": "JHN 2:17"
+},
+{
+"start_ref": "46004021",
+"start_ref_usfm": "1CO 4:21",
+"end_ref": "46004021",
+"end_ref_usfm": "1CO 4:21"
+},
+{
+"start_ref": "60003004",
+"start_ref_usfm": "1PE 3:4",
+"end_ref": "60003004",
+"end_ref_usfm": "1PE 3:4"
+},
+{
+"start_ref": "47004013",
+"start_ref_usfm": "2CO 4:13",
+"end_ref": "47004013",
+"end_ref_usfm": "2CO 4:13"
+},
+{
+"start_ref": "26036026",
+"start_ref_usfm": "EZK 36:26",
+"end_ref": "26036026",
+"end_ref_usfm": "EZK 36:26"
+},
+{
+"start_ref": "26011019",
+"start_ref_usfm": "EZK 11:19",
+"end_ref": "26011019",
+"end_ref_usfm": "EZK 11:19"
+},
+{
+"start_ref": "26018031",
+"start_ref_usfm": "EZK 18:31",
+"end_ref": "26018031",
+"end_ref_usfm": "EZK 18:31"
+},
+{
+"start_ref": "37001014",
+"start_ref_usfm": "HAG 1:14",
+"end_ref": "37001014",
+"end_ref_usfm": "HAG 1:14"
+},
+{
+"start_ref": "38012010",
+"start_ref_usfm": "ZEC 12:10",
+"end_ref": "38012010",
+"end_ref_usfm": "ZEC 12:10"
+}
+],
+"resource": [
+{
+"reference_id": "3230",
+"content_id": "3230",
+"resource_code": "DictionaryBibleThemes",
+"label": "3230: Holy Spirit, and regeneration",
+"language": "eng"
+},
+{
+"reference_id": "5015",
+"content_id": "5015",
+"resource_code": "DictionaryBibleThemes",
+"label": "5015: heart, and Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "5761",
+"content_id": "5761",
+"resource_code": "DictionaryBibleThemes",
+"label": "5761: attitudes",
+"language": "eng"
+},
+{
+"reference_id": "5844",
+"content_id": "5844",
+"resource_code": "DictionaryBibleThemes",
+"label": "5844: emotions",
+"language": "eng"
+},
+{
+"reference_id": "5965",
+"content_id": "5965",
+"resource_code": "DictionaryBibleThemes",
+"label": "5965: temperament",
+"language": "eng"
+},
+{
+"reference_id": "6744",
+"content_id": "6744",
+"resource_code": "DictionaryBibleThemes",
+"label": "6744: sanctification",
+"language": "eng"
+},
+{
+"reference_id": "8164",
+"content_id": "8164",
+"resource_code": "DictionaryBibleThemes",
+"label": "8164: spirituality",
+"language": "eng"
+},
+{
+"reference_id": "8203",
+"content_id": "8203",
+"resource_code": "DictionaryBibleThemes",
+"label": "8203: character",
+"language": "eng"
+},
+{
+"reference_id": "8255",
+"content_id": "8255",
+"resource_code": "DictionaryBibleThemes",
+"label": "8255: fruit, spiritual",
+"language": "eng"
+}
+]
+}
+}
+]

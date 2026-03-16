@@ -1,0 +1,148 @@
+[
+{
+"content_id": "7358",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7358: Feast of Tabernacles",
+"media_type": "Text",
+"index_reference": "7358: feast of tabernacles",
+"language": "eng",
+"review_level": "None",
+"content": "<p>This feast began on 15th Tishri (September/October) and lasted seven days. It celebrated the first gathering of the fruit and grain harvests and also God's provision for his people during their wilderness journey from Egypt to the promised land.</p>\n<h2>Instructions for celebrating the Feast of Tabernacles</h2>\n<p><strong><a href=\"https://ref.ly/Exod23:16\">EXO 23:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:14\">EXO 23:14</a>, <a href=\"https://ref.ly/Exod34:22-Exod34:23\">EXO 34:22–34:23</a>; <a href=\"https://ref.ly/Lev23:33-Lev23:34\">LEV 23:33–23:34</a>, <a href=\"https://ref.ly/Lev23:39\">LEV 23:39</a>; <a href=\"https://ref.ly/Num29:12\">NUM 29:12</a>; <a href=\"https://ref.ly/Deut16:13\">DEU 16:13</a>, <a href=\"https://ref.ly/Deut16:14\">DEU 16:14</a>, <a href=\"https://ref.ly/Deut16:16\">DEU 16:16</a></p>\n<h2>People lived in booths for the duration of the Feast of Tabernacles</h2>\n<p><a href=\"https://ref.ly/Lev23:40\">LEV 23:40</a>, <a href=\"https://ref.ly/Lev23:42-Lev23:43\">LEV 23:42–23:43</a></p>\n<h2>The offerings to be made on each day of the Feast of Tabernacles</h2>\n<p><a href=\"https://ref.ly/Lev23:37\">LEV 23:37</a>; ; <a href=\"https://ref.ly/Num29:13-Num29:38\">NUM 29:13–29:38</a></p>\n<h2>The Feast of Tabernacles was celebrated throughout Israel's history</h2>\n<p><a href=\"https://ref.ly/2Chr8:12-2Chr8:13\">2CH 8:12–8:13</a> <em>under Solomon</em>; <a href=\"https://ref.ly/Ezra3:4\">EZR 3:4</a>; ; <a href=\"https://ref.ly/Neh8:17-Neh8:18\">NEH 8:17–8:18</a>; <a href=\"https://ref.ly/John7:2-John7:3\">JHN 7:2–7:3</a>, <a href=\"https://ref.ly/John7:37-John7:38\">JHN 7:37–7:38</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02023016",
+"start_ref_usfm": "EXO 23:16",
+"end_ref": "02023016",
+"end_ref_usfm": "EXO 23:16"
+},
+{
+"start_ref": "02023014",
+"start_ref_usfm": "EXO 23:14",
+"end_ref": "02023014",
+"end_ref_usfm": "EXO 23:14"
+},
+{
+"start_ref": "02034022",
+"start_ref_usfm": "EXO 34:22",
+"end_ref": "02034023",
+"end_ref_usfm": "EXO 34:23"
+},
+{
+"start_ref": "03023033",
+"start_ref_usfm": "LEV 23:33",
+"end_ref": "03023034",
+"end_ref_usfm": "LEV 23:34"
+},
+{
+"start_ref": "03023039",
+"start_ref_usfm": "LEV 23:39",
+"end_ref": "03023039",
+"end_ref_usfm": "LEV 23:39"
+},
+{
+"start_ref": "04029012",
+"start_ref_usfm": "NUM 29:12",
+"end_ref": "04029012",
+"end_ref_usfm": "NUM 29:12"
+},
+{
+"start_ref": "05016013",
+"start_ref_usfm": "DEU 16:13",
+"end_ref": "05016013",
+"end_ref_usfm": "DEU 16:13"
+},
+{
+"start_ref": "05016014",
+"start_ref_usfm": "DEU 16:14",
+"end_ref": "05016014",
+"end_ref_usfm": "DEU 16:14"
+},
+{
+"start_ref": "05016016",
+"start_ref_usfm": "DEU 16:16",
+"end_ref": "05016016",
+"end_ref_usfm": "DEU 16:16"
+},
+{
+"start_ref": "03023040",
+"start_ref_usfm": "LEV 23:40",
+"end_ref": "03023040",
+"end_ref_usfm": "LEV 23:40"
+},
+{
+"start_ref": "03023042",
+"start_ref_usfm": "LEV 23:42",
+"end_ref": "03023043",
+"end_ref_usfm": "LEV 23:43"
+},
+{
+"start_ref": "03023037",
+"start_ref_usfm": "LEV 23:37",
+"end_ref": "03023037",
+"end_ref_usfm": "LEV 23:37"
+},
+{
+"start_ref": "04029013",
+"start_ref_usfm": "NUM 29:13",
+"end_ref": "04029038",
+"end_ref_usfm": "NUM 29:38"
+},
+{
+"start_ref": "14008012",
+"start_ref_usfm": "2CH 8:12",
+"end_ref": "14008013",
+"end_ref_usfm": "2CH 8:13"
+},
+{
+"start_ref": "15003004",
+"start_ref_usfm": "EZR 3:4",
+"end_ref": "15003004",
+"end_ref_usfm": "EZR 3:4"
+},
+{
+"start_ref": "16008017",
+"start_ref_usfm": "NEH 8:17",
+"end_ref": "16008018",
+"end_ref_usfm": "NEH 8:18"
+},
+{
+"start_ref": "43007002",
+"start_ref_usfm": "JHN 7:2",
+"end_ref": "43007003",
+"end_ref_usfm": "JHN 7:3"
+},
+{
+"start_ref": "43007037",
+"start_ref_usfm": "JHN 7:37",
+"end_ref": "43007038",
+"end_ref_usfm": "JHN 7:38"
+}
+],
+"resource": [
+{
+"reference_id": "7322",
+"content_id": "7322",
+"resource_code": "DictionaryBibleThemes",
+"label": "7322: burnt offering",
+"language": "eng"
+},
+{
+"reference_id": "7368",
+"content_id": "7368",
+"resource_code": "DictionaryBibleThemes",
+"label": "7368: grain offering",
+"language": "eng"
+},
+{
+"reference_id": "7444",
+"content_id": "7444",
+"resource_code": "DictionaryBibleThemes",
+"label": "7444: sin offering",
+"language": "eng"
+}
+]
+}
+}
+]

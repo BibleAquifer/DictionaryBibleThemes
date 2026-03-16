@@ -1,0 +1,176 @@
+[
+{
+"content_id": "7203",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7203: ark, Noah's",
+"media_type": "Text",
+"index_reference": "7203: ark, noah's",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The craft built at God's command by Noah and his family as a means of escape from the flood. The ark is seen as corresponding to the redemption offered to believers through Jesus Christ.</p>\n<h2>The building of the ark</h2>\n<h3>The command to build</h3>\n<p><strong><a href=\"https://ref.ly/Gen6:14\">GEN 6:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:1-Gen6:13\">GEN 6:1–6:13</a>, <a href=\"https://ref.ly/Gen6:15-Gen6:16\">GEN 6:15–6:16</a></p>\n<h3>Its purpose for Noah and his family</h3>\n<p><strong><a href=\"https://ref.ly/Gen6:17-Gen6:18\">GEN 6:17–6:18</a></strong></p>\n<h3>Its purpose for the animals</h3>\n<p><strong><a href=\"https://ref.ly/Gen6:19\">GEN 6:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:20-Gen6:22\">GEN 6:20–6:22</a></p>\n<h2>The ark and the flood</h2>\n<h3>Noah obeyed God</h3>\n<p><strong><a href=\"https://ref.ly/Gen7:5\">GEN 7:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen7:1-Gen7:4\">GEN 7:1–7:4</a>, <a href=\"https://ref.ly/Gen7:6-Gen7:16\">GEN 7:6–7:16</a></p>\n<h3>The ark served its purpose</h3>\n<p><strong><a href=\"https://ref.ly/Gen7:17\">GEN 7:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen7:18-Gen7:24\">GEN 7:18–7:24</a>, <a href=\"https://ref.ly/Gen8:1-Gen8:19\">GEN 8:1–8:19</a>, <a href=\"https://ref.ly/Gen9:1-Gen9:17\">GEN 9:1–9:17</a></p>\n<h2>The significance of the ark elsewhere in Scripture</h2>\n<h3>An instance of judgment</h3>\n<p><strong><a href=\"https://ref.ly/Matt24:38-Matt24:39\">MAT 24:38–24:39</a></strong> parallel <a href=\"https://ref.ly/Luke17:26-Luke17:27\">LUK 17:26–17:27</a> <em>Judgment clearly divides humanity into the saved and the lost.</em> <em>See also</em> <a href=\"https://ref.ly/2Pet2:5\">2PE 2:5</a></p>\n<h3>An example of faith</h3>\n<p><strong><a href=\"https://ref.ly/Heb11:7\">HEB 11:7</a></strong> <em>Noah took God at his word in circumstances which must have appeared ridiculous.</em></p>\n<h3>A symbol of salvation</h3>\n<p><strong><a href=\"https://ref.ly/1Pet3:20-1Pet3:21\">1PE 3:20–3:21</a></strong> <em>The link between the ark and baptism is in the twin ideas of water and salvation.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006014",
+"start_ref_usfm": "GEN 6:14",
+"end_ref": "01006014",
+"end_ref_usfm": "GEN 6:14"
+},
+{
+"start_ref": "01006001",
+"start_ref_usfm": "GEN 6:1",
+"end_ref": "01006013",
+"end_ref_usfm": "GEN 6:13"
+},
+{
+"start_ref": "01006015",
+"start_ref_usfm": "GEN 6:15",
+"end_ref": "01006016",
+"end_ref_usfm": "GEN 6:16"
+},
+{
+"start_ref": "01006017",
+"start_ref_usfm": "GEN 6:17",
+"end_ref": "01006018",
+"end_ref_usfm": "GEN 6:18"
+},
+{
+"start_ref": "01006019",
+"start_ref_usfm": "GEN 6:19",
+"end_ref": "01006019",
+"end_ref_usfm": "GEN 6:19"
+},
+{
+"start_ref": "01006020",
+"start_ref_usfm": "GEN 6:20",
+"end_ref": "01006022",
+"end_ref_usfm": "GEN 6:22"
+},
+{
+"start_ref": "01007005",
+"start_ref_usfm": "GEN 7:5",
+"end_ref": "01007005",
+"end_ref_usfm": "GEN 7:5"
+},
+{
+"start_ref": "01007001",
+"start_ref_usfm": "GEN 7:1",
+"end_ref": "01007004",
+"end_ref_usfm": "GEN 7:4"
+},
+{
+"start_ref": "01007006",
+"start_ref_usfm": "GEN 7:6",
+"end_ref": "01007016",
+"end_ref_usfm": "GEN 7:16"
+},
+{
+"start_ref": "01007017",
+"start_ref_usfm": "GEN 7:17",
+"end_ref": "01007017",
+"end_ref_usfm": "GEN 7:17"
+},
+{
+"start_ref": "01007018",
+"start_ref_usfm": "GEN 7:18",
+"end_ref": "01007024",
+"end_ref_usfm": "GEN 7:24"
+},
+{
+"start_ref": "01008001",
+"start_ref_usfm": "GEN 8:1",
+"end_ref": "01008019",
+"end_ref_usfm": "GEN 8:19"
+},
+{
+"start_ref": "01009001",
+"start_ref_usfm": "GEN 9:1",
+"end_ref": "01009017",
+"end_ref_usfm": "GEN 9:17"
+},
+{
+"start_ref": "40024038",
+"start_ref_usfm": "MAT 24:38",
+"end_ref": "40024039",
+"end_ref_usfm": "MAT 24:39"
+},
+{
+"start_ref": "42017026",
+"start_ref_usfm": "LUK 17:26",
+"end_ref": "42017027",
+"end_ref_usfm": "LUK 17:27"
+},
+{
+"start_ref": "61002005",
+"start_ref_usfm": "2PE 2:5",
+"end_ref": "61002005",
+"end_ref_usfm": "2PE 2:5"
+},
+{
+"start_ref": "58011007",
+"start_ref_usfm": "HEB 11:7",
+"end_ref": "58011007",
+"end_ref_usfm": "HEB 11:7"
+},
+{
+"start_ref": "60003020",
+"start_ref_usfm": "1PE 3:20",
+"end_ref": "60003021",
+"end_ref_usfm": "1PE 3:21"
+}
+],
+"resource": [
+{
+"reference_id": "1347",
+"content_id": "1347",
+"resource_code": "DictionaryBibleThemes",
+"label": "1347: covenant, God's with Noah",
+"language": "eng"
+},
+{
+"reference_id": "1680",
+"content_id": "1680",
+"resource_code": "DictionaryBibleThemes",
+"label": "1680: types",
+"language": "eng"
+},
+{
+"reference_id": "4845",
+"content_id": "4845",
+"resource_code": "DictionaryBibleThemes",
+"label": "4845: rainbow",
+"language": "eng"
+},
+{
+"reference_id": "5106",
+"content_id": "5106",
+"resource_code": "DictionaryBibleThemes",
+"label": "5106: Noah",
+"language": "eng"
+},
+{
+"reference_id": "6510",
+"content_id": "6510",
+"resource_code": "DictionaryBibleThemes",
+"label": "6510: salvation",
+"language": "eng"
+},
+{
+"reference_id": "7227",
+"content_id": "7227",
+"resource_code": "DictionaryBibleThemes",
+"label": "7227: flood, the",
+"language": "eng"
+},
+{
+"reference_id": "7903",
+"content_id": "7903",
+"resource_code": "DictionaryBibleThemes",
+"label": "7903: baptism",
+"language": "eng"
+}
+]
+}
+}
+]

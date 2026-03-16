@@ -1,0 +1,263 @@
+[
+{
+"content_id": "5425",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5425: net",
+"media_type": "Text",
+"index_reference": "5425: net",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Instruments of meshed string, used for fishing or hunting. The term can also be used in a symbolic manner, to refer to the way in which people are ensnared by sin or by their enemies.</p>\n<h2>Nets used in fishing and hunting</h2>\n<p><strong><a href=\"https://ref.ly/Isa51:20\">ISA 51:20</a></strong>; <strong><a href=\"https://ref.ly/Ezek47:10\">EZK 47:10</a></strong>; <strong><a href=\"https://ref.ly/Matt4:18\">MAT 4:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov1:17\">PRO 1:17</a>; <a href=\"https://ref.ly/Isa19:8\">ISA 19:8</a>; <a href=\"https://ref.ly/Ezek26:5\">EZK 26:5</a>; <a href=\"https://ref.ly/Matt4:21\">MAT 4:21</a> parallel <a href=\"https://ref.ly/Mark1:19\">MRK 1:19</a>; <a href=\"https://ref.ly/Matt13:47\">MAT 13:47</a>; <a href=\"https://ref.ly/Mark1:18\">MRK 1:18</a>; <a href=\"https://ref.ly/Luke5:2-Luke5:4\">LUK 5:2–5:4</a>; <a href=\"https://ref.ly/John21:6\">JHN 21:6</a></p>\n<h2>Nets used metaphorically</h2>\n<h3>To describe people being caught by others</h3>\n<p><strong><a href=\"https://ref.ly/Prov29:5\">PRO 29:5</a></strong>; <strong><a href=\"https://ref.ly/Hab1:15-Hab1:17\">HAB 1:15–1:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job18:8\">JOB 18:8</a>; <a href=\"https://ref.ly/Ps9:15\">PSA 9:15</a>, <a href=\"https://ref.ly/Ps10:9\">PSA 10:9</a>, <a href=\"https://ref.ly/Ps25:15\">PSA 25:15</a>, <a href=\"https://ref.ly/Ps35:7\">PSA 35:7</a>, <a href=\"https://ref.ly/Ps57:6\">PSA 57:6</a>, <a href=\"https://ref.ly/Ps140:5\">PSA 140:5</a>, <a href=\"https://ref.ly/Ps141:10\">PSA 141:10</a>; <a href=\"https://ref.ly/Eccl9:12\">ECC 9:12</a>; <a href=\"https://ref.ly/Ezek19:8\">EZK 19:8</a>; <a href=\"https://ref.ly/Hos5:1\">HOS 5:1</a>; <a href=\"https://ref.ly/Mic7:2\">MIC 7:2</a></p>\n<h3>To describe being caught by the Lord</h3>\n<p><strong><a href=\"https://ref.ly/Job19:6\">JOB 19:6</a></strong>; <strong><a href=\"https://ref.ly/Hos7:12\">HOS 7:12</a></strong>; <strong><a href=\"https://ref.ly/Luke5:10\">LUK 5:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lam1:13\">LAM 1:13</a>; <a href=\"https://ref.ly/Ezek12:13\">EZK 12:13</a>, <a href=\"https://ref.ly/Ezek17:20\">EZK 17:20</a>, <a href=\"https://ref.ly/Ezek32:3\">EZK 32:3</a></p>\n<h2>Networks used in design</h2>\n<p><a href=\"https://ref.ly/Exod27:4-Exod27:5\">EXO 27:4–27:5</a>; ; <a href=\"https://ref.ly/1Kgs7:17\">1KI 7:17</a>; ; <a href=\"https://ref.ly/Jer52:22\">JER 52:22</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23051020",
+"start_ref_usfm": "ISA 51:20",
+"end_ref": "23051020",
+"end_ref_usfm": "ISA 51:20"
+},
+{
+"start_ref": "26047010",
+"start_ref_usfm": "EZK 47:10",
+"end_ref": "26047010",
+"end_ref_usfm": "EZK 47:10"
+},
+{
+"start_ref": "40004018",
+"start_ref_usfm": "MAT 4:18",
+"end_ref": "40004018",
+"end_ref_usfm": "MAT 4:18"
+},
+{
+"start_ref": "20001017",
+"start_ref_usfm": "PRO 1:17",
+"end_ref": "20001017",
+"end_ref_usfm": "PRO 1:17"
+},
+{
+"start_ref": "23019008",
+"start_ref_usfm": "ISA 19:8",
+"end_ref": "23019008",
+"end_ref_usfm": "ISA 19:8"
+},
+{
+"start_ref": "26026005",
+"start_ref_usfm": "EZK 26:5",
+"end_ref": "26026005",
+"end_ref_usfm": "EZK 26:5"
+},
+{
+"start_ref": "40004021",
+"start_ref_usfm": "MAT 4:21",
+"end_ref": "40004021",
+"end_ref_usfm": "MAT 4:21"
+},
+{
+"start_ref": "41001019",
+"start_ref_usfm": "MRK 1:19",
+"end_ref": "41001019",
+"end_ref_usfm": "MRK 1:19"
+},
+{
+"start_ref": "40013047",
+"start_ref_usfm": "MAT 13:47",
+"end_ref": "40013047",
+"end_ref_usfm": "MAT 13:47"
+},
+{
+"start_ref": "41001018",
+"start_ref_usfm": "MRK 1:18",
+"end_ref": "41001018",
+"end_ref_usfm": "MRK 1:18"
+},
+{
+"start_ref": "42005002",
+"start_ref_usfm": "LUK 5:2",
+"end_ref": "42005004",
+"end_ref_usfm": "LUK 5:4"
+},
+{
+"start_ref": "43021006",
+"start_ref_usfm": "JHN 21:6",
+"end_ref": "43021006",
+"end_ref_usfm": "JHN 21:6"
+},
+{
+"start_ref": "20029005",
+"start_ref_usfm": "PRO 29:5",
+"end_ref": "20029005",
+"end_ref_usfm": "PRO 29:5"
+},
+{
+"start_ref": "35001015",
+"start_ref_usfm": "HAB 1:15",
+"end_ref": "35001017",
+"end_ref_usfm": "HAB 1:17"
+},
+{
+"start_ref": "18018008",
+"start_ref_usfm": "JOB 18:8",
+"end_ref": "18018008",
+"end_ref_usfm": "JOB 18:8"
+},
+{
+"start_ref": "19009015",
+"start_ref_usfm": "PSA 9:15",
+"end_ref": "19009015",
+"end_ref_usfm": "PSA 9:15"
+},
+{
+"start_ref": "19010009",
+"start_ref_usfm": "PSA 10:9",
+"end_ref": "19010009",
+"end_ref_usfm": "PSA 10:9"
+},
+{
+"start_ref": "19025015",
+"start_ref_usfm": "PSA 25:15",
+"end_ref": "19025015",
+"end_ref_usfm": "PSA 25:15"
+},
+{
+"start_ref": "19035007",
+"start_ref_usfm": "PSA 35:7",
+"end_ref": "19035007",
+"end_ref_usfm": "PSA 35:7"
+},
+{
+"start_ref": "19057006",
+"start_ref_usfm": "PSA 57:6",
+"end_ref": "19057006",
+"end_ref_usfm": "PSA 57:6"
+},
+{
+"start_ref": "19140005",
+"start_ref_usfm": "PSA 140:5",
+"end_ref": "19140005",
+"end_ref_usfm": "PSA 140:5"
+},
+{
+"start_ref": "19141010",
+"start_ref_usfm": "PSA 141:10",
+"end_ref": "19141010",
+"end_ref_usfm": "PSA 141:10"
+},
+{
+"start_ref": "21009012",
+"start_ref_usfm": "ECC 9:12",
+"end_ref": "21009012",
+"end_ref_usfm": "ECC 9:12"
+},
+{
+"start_ref": "26019008",
+"start_ref_usfm": "EZK 19:8",
+"end_ref": "26019008",
+"end_ref_usfm": "EZK 19:8"
+},
+{
+"start_ref": "28005001",
+"start_ref_usfm": "HOS 5:1",
+"end_ref": "28005001",
+"end_ref_usfm": "HOS 5:1"
+},
+{
+"start_ref": "33007002",
+"start_ref_usfm": "MIC 7:2",
+"end_ref": "33007002",
+"end_ref_usfm": "MIC 7:2"
+},
+{
+"start_ref": "18019006",
+"start_ref_usfm": "JOB 19:6",
+"end_ref": "18019006",
+"end_ref_usfm": "JOB 19:6"
+},
+{
+"start_ref": "28007012",
+"start_ref_usfm": "HOS 7:12",
+"end_ref": "28007012",
+"end_ref_usfm": "HOS 7:12"
+},
+{
+"start_ref": "42005010",
+"start_ref_usfm": "LUK 5:10",
+"end_ref": "42005010",
+"end_ref_usfm": "LUK 5:10"
+},
+{
+"start_ref": "25001013",
+"start_ref_usfm": "LAM 1:13",
+"end_ref": "25001013",
+"end_ref_usfm": "LAM 1:13"
+},
+{
+"start_ref": "26012013",
+"start_ref_usfm": "EZK 12:13",
+"end_ref": "26012013",
+"end_ref_usfm": "EZK 12:13"
+},
+{
+"start_ref": "26017020",
+"start_ref_usfm": "EZK 17:20",
+"end_ref": "26017020",
+"end_ref_usfm": "EZK 17:20"
+},
+{
+"start_ref": "26032003",
+"start_ref_usfm": "EZK 32:3",
+"end_ref": "26032003",
+"end_ref_usfm": "EZK 32:3"
+},
+{
+"start_ref": "02027004",
+"start_ref_usfm": "EXO 27:4",
+"end_ref": "02027005",
+"end_ref_usfm": "EXO 27:5"
+},
+{
+"start_ref": "11007017",
+"start_ref_usfm": "1KI 7:17",
+"end_ref": "11007017",
+"end_ref_usfm": "1KI 7:17"
+},
+{
+"start_ref": "24052022",
+"start_ref_usfm": "JER 52:22",
+"end_ref": "24052022",
+"end_ref_usfm": "JER 52:22"
+}
+],
+"resource": [
+{
+"reference_id": "4642",
+"content_id": "4642",
+"resource_code": "DictionaryBibleThemes",
+"label": "4642: fish",
+"language": "eng"
+},
+{
+"reference_id": "5342",
+"content_id": "5342",
+"resource_code": "DictionaryBibleThemes",
+"label": "5342: hunting",
+"language": "eng"
+},
+{
+"reference_id": "5433",
+"content_id": "5433",
+"resource_code": "DictionaryBibleThemes",
+"label": "5433: occupations",
+"language": "eng"
+},
+{
+"reference_id": "5589",
+"content_id": "5589",
+"resource_code": "DictionaryBibleThemes",
+"label": "5589: trap",
+"language": "eng"
+}
+]
+}
+}
+]

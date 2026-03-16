@@ -1,0 +1,277 @@
+[
+{
+"content_id": "5176",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5176: ring",
+"media_type": "Text",
+"index_reference": "5176: ring",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An ornament or a status symbol, sometimes used in sacred furnishings or as a charm.</p>\n<h2>Rings worn as jewellery</h2>\n<h3>Gold nose rings, worn especially by women</h3>\n<p>These were often given by a suitor as a symbol of betrothal:\n <a href=\"https://ref.ly/Gen24:22\">GEN 24:22</a>, <a href=\"https://ref.ly/Gen24:30\">GEN 24:30</a>, <a href=\"https://ref.ly/Gen24:47\">GEN 24:47</a>; ; <a href=\"https://ref.ly/Prov11:22\">PRO 11:22</a>; ; <a href=\"https://ref.ly/Isa3:21\">ISA 3:21</a>; ; <a href=\"https://ref.ly/Ezek16:12\">EZK 16:12</a></p>\n<h3>The signet ring as a sign of authority</h3>\n<p><a href=\"https://ref.ly/Gen41:42\">GEN 41:42</a>; ; <a href=\"https://ref.ly/Num31:50\">NUM 31:50</a>; ; <a href=\"https://ref.ly/Esth3:10\">EST 3:10</a>, <a href=\"https://ref.ly/Esth3:12\">EST 3:12</a>, <a href=\"https://ref.ly/Esth8:8\">EST 8:8</a>; ; <a href=\"https://ref.ly/Dan6:17\">DAN 6:17</a>; <a href=\"https://ref.ly/Jer22:24\">JER 22:24</a>; ; <a href=\"https://ref.ly/Hag2:23\">HAG 2:23</a></p>\n<h3>Gold ear-rings, worn by men and women</h3>\n<p>Ear-rings were sometimes used as charms or amulets:\n <a href=\"https://ref.ly/Gen35:4\">GEN 35:4</a>; ; <a href=\"https://ref.ly/Exod32:2-Exod32:3\">EXO 32:2–32:3</a>, <a href=\"https://ref.ly/Exod35:22\">EXO 35:22</a>; ; <a href=\"https://ref.ly/Judg8:24-Judg8:25\">JDG 8:24–8:25</a></p>\n<h2>Rings as indications of wealth or status</h2>\n<p><a href=\"https://ref.ly/Job42:11\">JOB 42:11</a>; ; <a href=\"https://ref.ly/Hos2:13\">HOS 2:13</a>; ; <a href=\"https://ref.ly/Luke15:22\">LUK 15:22</a>; ; <a href=\"https://ref.ly/Jas2:2\">JAS 2:2</a></p>\n<h2>Rings used in sacred furnishings</h2>\n<h3>On the ark of the covenant</h3>\n<p><a href=\"https://ref.ly/Exod25:12-Exod25:15\">EXO 25:12–25:15</a></p>\n<h3>On the table</h3>\n<p><a href=\"https://ref.ly/Exod25:26-Exod25:27\">EXO 25:26–25:27</a></p>\n<h3>In the tabernacle</h3>\n<p><a href=\"https://ref.ly/Exod26:24-Exod26:29\">EXO 26:24–26:29</a></p>\n<h3>On priestly garments</h3>\n<p><a href=\"https://ref.ly/Exod28:23-Exod28:24\">EXO 28:23–28:24</a></p>\n<h3>For carrying altars</h3>\n<p><a href=\"https://ref.ly/Exod27:4-Exod27:7\">EXO 27:4–27:7</a>, <a href=\"https://ref.ly/Exod30:4\">EXO 30:4</a>, <a href=\"https://ref.ly/Exod37:27\">EXO 37:27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01024022",
+"start_ref_usfm": "GEN 24:22",
+"end_ref": "01024022",
+"end_ref_usfm": "GEN 24:22"
+},
+{
+"start_ref": "01024030",
+"start_ref_usfm": "GEN 24:30",
+"end_ref": "01024030",
+"end_ref_usfm": "GEN 24:30"
+},
+{
+"start_ref": "01024047",
+"start_ref_usfm": "GEN 24:47",
+"end_ref": "01024047",
+"end_ref_usfm": "GEN 24:47"
+},
+{
+"start_ref": "20011022",
+"start_ref_usfm": "PRO 11:22",
+"end_ref": "20011022",
+"end_ref_usfm": "PRO 11:22"
+},
+{
+"start_ref": "23003021",
+"start_ref_usfm": "ISA 3:21",
+"end_ref": "23003021",
+"end_ref_usfm": "ISA 3:21"
+},
+{
+"start_ref": "26016012",
+"start_ref_usfm": "EZK 16:12",
+"end_ref": "26016012",
+"end_ref_usfm": "EZK 16:12"
+},
+{
+"start_ref": "01041042",
+"start_ref_usfm": "GEN 41:42",
+"end_ref": "01041042",
+"end_ref_usfm": "GEN 41:42"
+},
+{
+"start_ref": "04031050",
+"start_ref_usfm": "NUM 31:50",
+"end_ref": "04031050",
+"end_ref_usfm": "NUM 31:50"
+},
+{
+"start_ref": "17003010",
+"start_ref_usfm": "EST 3:10",
+"end_ref": "17003010",
+"end_ref_usfm": "EST 3:10"
+},
+{
+"start_ref": "17003012",
+"start_ref_usfm": "EST 3:12",
+"end_ref": "17003012",
+"end_ref_usfm": "EST 3:12"
+},
+{
+"start_ref": "17008008",
+"start_ref_usfm": "EST 8:8",
+"end_ref": "17008008",
+"end_ref_usfm": "EST 8:8"
+},
+{
+"start_ref": "27006017",
+"start_ref_usfm": "DAN 6:17",
+"end_ref": "27006017",
+"end_ref_usfm": "DAN 6:17"
+},
+{
+"start_ref": "24022024",
+"start_ref_usfm": "JER 22:24",
+"end_ref": "24022024",
+"end_ref_usfm": "JER 22:24"
+},
+{
+"start_ref": "37002023",
+"start_ref_usfm": "HAG 2:23",
+"end_ref": "37002023",
+"end_ref_usfm": "HAG 2:23"
+},
+{
+"start_ref": "01035004",
+"start_ref_usfm": "GEN 35:4",
+"end_ref": "01035004",
+"end_ref_usfm": "GEN 35:4"
+},
+{
+"start_ref": "02032002",
+"start_ref_usfm": "EXO 32:2",
+"end_ref": "02032003",
+"end_ref_usfm": "EXO 32:3"
+},
+{
+"start_ref": "02035022",
+"start_ref_usfm": "EXO 35:22",
+"end_ref": "02035022",
+"end_ref_usfm": "EXO 35:22"
+},
+{
+"start_ref": "07008024",
+"start_ref_usfm": "JDG 8:24",
+"end_ref": "07008025",
+"end_ref_usfm": "JDG 8:25"
+},
+{
+"start_ref": "18042011",
+"start_ref_usfm": "JOB 42:11",
+"end_ref": "18042011",
+"end_ref_usfm": "JOB 42:11"
+},
+{
+"start_ref": "28002013",
+"start_ref_usfm": "HOS 2:13",
+"end_ref": "28002013",
+"end_ref_usfm": "HOS 2:13"
+},
+{
+"start_ref": "42015022",
+"start_ref_usfm": "LUK 15:22",
+"end_ref": "42015022",
+"end_ref_usfm": "LUK 15:22"
+},
+{
+"start_ref": "59002002",
+"start_ref_usfm": "JAS 2:2",
+"end_ref": "59002002",
+"end_ref_usfm": "JAS 2:2"
+},
+{
+"start_ref": "02025012",
+"start_ref_usfm": "EXO 25:12",
+"end_ref": "02025015",
+"end_ref_usfm": "EXO 25:15"
+},
+{
+"start_ref": "02025026",
+"start_ref_usfm": "EXO 25:26",
+"end_ref": "02025027",
+"end_ref_usfm": "EXO 25:27"
+},
+{
+"start_ref": "02026024",
+"start_ref_usfm": "EXO 26:24",
+"end_ref": "02026029",
+"end_ref_usfm": "EXO 26:29"
+},
+{
+"start_ref": "02028023",
+"start_ref_usfm": "EXO 28:23",
+"end_ref": "02028024",
+"end_ref_usfm": "EXO 28:24"
+},
+{
+"start_ref": "02027004",
+"start_ref_usfm": "EXO 27:4",
+"end_ref": "02027007",
+"end_ref_usfm": "EXO 27:7"
+},
+{
+"start_ref": "02030004",
+"start_ref_usfm": "EXO 30:4",
+"end_ref": "02030004",
+"end_ref_usfm": "EXO 30:4"
+},
+{
+"start_ref": "02037027",
+"start_ref_usfm": "EXO 37:27",
+"end_ref": "02037027",
+"end_ref_usfm": "EXO 37:27"
+}
+],
+"resource": [
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "4333",
+"content_id": "4333",
+"resource_code": "DictionaryBibleThemes",
+"label": "4333: gold",
+"language": "eng"
+},
+{
+"reference_id": "5139",
+"content_id": "5139",
+"resource_code": "DictionaryBibleThemes",
+"label": "5139: bracelet",
+"language": "eng"
+},
+{
+"reference_id": "5171",
+"content_id": "5171",
+"resource_code": "DictionaryBibleThemes",
+"label": "5171: nose",
+"language": "eng"
+},
+{
+"reference_id": "5215",
+"content_id": "5215",
+"resource_code": "DictionaryBibleThemes",
+"label": "5215: authority",
+"language": "eng"
+},
+{
+"reference_id": "5518",
+"content_id": "5518",
+"resource_code": "DictionaryBibleThemes",
+"label": "5518: seal",
+"language": "eng"
+},
+{
+"reference_id": "5654",
+"content_id": "5654",
+"resource_code": "DictionaryBibleThemes",
+"label": "5654: betrothal",
+"language": "eng"
+},
+{
+"reference_id": "5708",
+"content_id": "5708",
+"resource_code": "DictionaryBibleThemes",
+"label": "5708: marriage",
+"language": "eng"
+},
+{
+"reference_id": "5778",
+"content_id": "5778",
+"resource_code": "DictionaryBibleThemes",
+"label": "5778: adorning",
+"language": "eng"
+},
+{
+"reference_id": "5915",
+"content_id": "5915",
+"resource_code": "DictionaryBibleThemes",
+"label": "5915: ornaments",
+"language": "eng"
+},
+{
+"reference_id": "7306",
+"content_id": "7306",
+"resource_code": "DictionaryBibleThemes",
+"label": "7306: ark of the covenant",
+"language": "eng"
+},
+{
+"reference_id": "7459",
+"content_id": "7459",
+"resource_code": "DictionaryBibleThemes",
+"label": "7459: tabernacle, in OT",
+"language": "eng"
+}
+]
+}
+}
+]

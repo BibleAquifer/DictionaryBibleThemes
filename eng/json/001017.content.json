@@ -1,0 +1,82 @@
+[
+{
+"content_id": "5439",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5439: pen",
+"media_type": "Text",
+"index_reference": "5439: pen",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The pen as an implement for writing</h2>\n<p><strong><a href=\"https://ref.ly/Isa8:1\">ISA 8:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/3John1:13\">3JN 1:13</a></p>\n<h2>By extension, refering to what is written</h2>\n<p><strong><a href=\"https://ref.ly/Jer8:8\">JER 8:8</a></strong> <em>This means that what they wrote was untrue.</em> <em>See also</em> <a href=\"https://ref.ly/Matt5:18\">MAT 5:18</a>; <a href=\"https://ref.ly/Luke16:17\">LUK 16:17</a></p>\n<h2>Used symbolically</h2>\n<p><strong><a href=\"https://ref.ly/Ps45:1\">PSA 45:1</a></strong></p>\n<h2>Sharpened with a penknife</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Jer36:23\">JER 36:23</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23008001",
+"start_ref_usfm": "ISA 8:1",
+"end_ref": "23008001",
+"end_ref_usfm": "ISA 8:1"
+},
+{
+"start_ref": "64001013",
+"start_ref_usfm": "3JN 1:13",
+"end_ref": "64001013",
+"end_ref_usfm": "3JN 1:13"
+},
+{
+"start_ref": "24008008",
+"start_ref_usfm": "JER 8:8",
+"end_ref": "24008008",
+"end_ref_usfm": "JER 8:8"
+},
+{
+"start_ref": "40005018",
+"start_ref_usfm": "MAT 5:18",
+"end_ref": "40005018",
+"end_ref_usfm": "MAT 5:18"
+},
+{
+"start_ref": "42016017",
+"start_ref_usfm": "LUK 16:17",
+"end_ref": "42016017",
+"end_ref_usfm": "LUK 16:17"
+},
+{
+"start_ref": "19045001",
+"start_ref_usfm": "PSA 45:1",
+"end_ref": "19045001",
+"end_ref_usfm": "PSA 45:1"
+},
+{
+"start_ref": "24036023",
+"start_ref_usfm": "JER 36:23",
+"end_ref": "24036023",
+"end_ref_usfm": "JER 36:23"
+}
+],
+"resource": [
+{
+"reference_id": "5514",
+"content_id": "5514",
+"resource_code": "DictionaryBibleThemes",
+"label": "5514: scribes",
+"language": "eng"
+},
+{
+"reference_id": "5515",
+"content_id": "5515",
+"resource_code": "DictionaryBibleThemes",
+"label": "5515: scroll",
+"language": "eng"
+},
+{
+"reference_id": "5638",
+"content_id": "5638",
+"resource_code": "DictionaryBibleThemes",
+"label": "5638: writing",
+"language": "eng"
+}
+]
+}
+}
+]

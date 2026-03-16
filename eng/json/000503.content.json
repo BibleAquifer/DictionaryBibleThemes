@@ -1,0 +1,224 @@
+[
+{
+"content_id": "4627",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4627: creatures",
+"media_type": "Text",
+"index_reference": "4627: creatures",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Generally, living beings within God's creation, especially the exotic animals seen in visions, which often have a deep symbolic significance.</p>\n<h2>Creatures representing angelic beings who worship God</h2>\n<p><strong><a href=\"https://ref.ly/Ezek1:5-Ezek1:6\">EZK 1:5–1:6</a></strong>; <strong><a href=\"https://ref.ly/Rev4:6-Rev4:8\">REV 4:6–4:8</a></strong> <em>The strange creatures of Ezekiel and Revelation seem to stand for the fulness and variety of God's creation.</em> <em>See also</em> <a href=\"https://ref.ly/Ezek1:7-Ezek1:25\">EZK 1:7–1:25</a>, <a href=\"https://ref.ly/Ezek3:12-Ezek3:13\">EZK 3:12–3:13</a>, <a href=\"https://ref.ly/Ezek10:15-Ezek10:22\">EZK 10:15–10:22</a> <em>The creatures are here identified as cherubim</em>; <a href=\"https://ref.ly/Rev4:9-Rev4:11\">REV 4:9–4:11</a>, <a href=\"https://ref.ly/Rev5:6-Rev5:14\">REV 5:6–5:14</a>, <a href=\"https://ref.ly/Rev6:1-Rev6:3\">REV 6:1–6:3</a>, <a href=\"https://ref.ly/Rev6:5-Rev6:6\">REV 6:5–6:6</a>, <a href=\"https://ref.ly/Rev7:11\">REV 7:11</a>, <a href=\"https://ref.ly/Rev14:3\">REV 14:3</a>, <a href=\"https://ref.ly/Rev15:7\">REV 15:7</a>, <a href=\"https://ref.ly/Rev19:4\">REV 19:4</a></p>\n<h2>Creatures representing kings or kingdoms</h2>\n<p><strong><a href=\"https://ref.ly/Dan7:17\">DAN 7:17</a>, <a href=\"https://ref.ly/Dan8:20-Dan8:21\">DAN 8:20–8:21</a></strong> <em>The “beasts” here are unnatural, and represent the hostility of human empires to the rule of God. The horns represent individual kings within an imperial dynasty.</em></p>\n<h2>Creatures representing Satan</h2>\n<p>The beast here represents Satan, with the horns representing royal authority at a time of Roman persecution of the church:\n <a href=\"https://ref.ly/Rev12:3-Rev12:4\">REV 12:3–12:4</a>, <a href=\"https://ref.ly/Rev12:7-Rev12:9\">REV 12:7–12:9</a>, <a href=\"https://ref.ly/Rev13:1\">REV 13:1</a>; \n<a href=\"https://ref.ly/Dan7:2-Dan7:8\">DAN 7:2–7:8</a>, <a href=\"https://ref.ly/Dan7:19-Dan7:26\">DAN 7:19–7:26</a>, <a href=\"https://ref.ly/Dan8:3-Dan8:12\">DAN 8:3–8:12</a>; ; <a href=\"https://ref.ly/Rev11:7\">REV 11:7</a>, <a href=\"https://ref.ly/Rev13:2-Rev13:8\">REV 13:2–13:8</a>, <a href=\"https://ref.ly/Rev13:11-Rev13:18\">REV 13:11–13:18</a>, <a href=\"https://ref.ly/Rev17:3\">REV 17:3</a>, <a href=\"https://ref.ly/Rev17:7-Rev17:13\">REV 17:7–17:13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "26001005",
+"start_ref_usfm": "EZK 1:5",
+"end_ref": "26001006",
+"end_ref_usfm": "EZK 1:6"
+},
+{
+"start_ref": "66004006",
+"start_ref_usfm": "REV 4:6",
+"end_ref": "66004008",
+"end_ref_usfm": "REV 4:8"
+},
+{
+"start_ref": "26001007",
+"start_ref_usfm": "EZK 1:7",
+"end_ref": "26001025",
+"end_ref_usfm": "EZK 1:25"
+},
+{
+"start_ref": "26003012",
+"start_ref_usfm": "EZK 3:12",
+"end_ref": "26003013",
+"end_ref_usfm": "EZK 3:13"
+},
+{
+"start_ref": "26010015",
+"start_ref_usfm": "EZK 10:15",
+"end_ref": "26010022",
+"end_ref_usfm": "EZK 10:22"
+},
+{
+"start_ref": "66004009",
+"start_ref_usfm": "REV 4:9",
+"end_ref": "66004011",
+"end_ref_usfm": "REV 4:11"
+},
+{
+"start_ref": "66005006",
+"start_ref_usfm": "REV 5:6",
+"end_ref": "66005014",
+"end_ref_usfm": "REV 5:14"
+},
+{
+"start_ref": "66006001",
+"start_ref_usfm": "REV 6:1",
+"end_ref": "66006003",
+"end_ref_usfm": "REV 6:3"
+},
+{
+"start_ref": "66006005",
+"start_ref_usfm": "REV 6:5",
+"end_ref": "66006006",
+"end_ref_usfm": "REV 6:6"
+},
+{
+"start_ref": "66007011",
+"start_ref_usfm": "REV 7:11",
+"end_ref": "66007011",
+"end_ref_usfm": "REV 7:11"
+},
+{
+"start_ref": "66014003",
+"start_ref_usfm": "REV 14:3",
+"end_ref": "66014003",
+"end_ref_usfm": "REV 14:3"
+},
+{
+"start_ref": "66015007",
+"start_ref_usfm": "REV 15:7",
+"end_ref": "66015007",
+"end_ref_usfm": "REV 15:7"
+},
+{
+"start_ref": "66019004",
+"start_ref_usfm": "REV 19:4",
+"end_ref": "66019004",
+"end_ref_usfm": "REV 19:4"
+},
+{
+"start_ref": "27007017",
+"start_ref_usfm": "DAN 7:17",
+"end_ref": "27007017",
+"end_ref_usfm": "DAN 7:17"
+},
+{
+"start_ref": "27008020",
+"start_ref_usfm": "DAN 8:20",
+"end_ref": "27008021",
+"end_ref_usfm": "DAN 8:21"
+},
+{
+"start_ref": "66012003",
+"start_ref_usfm": "REV 12:3",
+"end_ref": "66012004",
+"end_ref_usfm": "REV 12:4"
+},
+{
+"start_ref": "66012007",
+"start_ref_usfm": "REV 12:7",
+"end_ref": "66012009",
+"end_ref_usfm": "REV 12:9"
+},
+{
+"start_ref": "66013001",
+"start_ref_usfm": "REV 13:1",
+"end_ref": "66013001",
+"end_ref_usfm": "REV 13:1"
+},
+{
+"start_ref": "27007002",
+"start_ref_usfm": "DAN 7:2",
+"end_ref": "27007008",
+"end_ref_usfm": "DAN 7:8"
+},
+{
+"start_ref": "27007019",
+"start_ref_usfm": "DAN 7:19",
+"end_ref": "27007026",
+"end_ref_usfm": "DAN 7:26"
+},
+{
+"start_ref": "27008003",
+"start_ref_usfm": "DAN 8:3",
+"end_ref": "27008012",
+"end_ref_usfm": "DAN 8:12"
+},
+{
+"start_ref": "66011007",
+"start_ref_usfm": "REV 11:7",
+"end_ref": "66011007",
+"end_ref_usfm": "REV 11:7"
+},
+{
+"start_ref": "66013002",
+"start_ref_usfm": "REV 13:2",
+"end_ref": "66013008",
+"end_ref_usfm": "REV 13:8"
+},
+{
+"start_ref": "66013011",
+"start_ref_usfm": "REV 13:11",
+"end_ref": "66013018",
+"end_ref_usfm": "REV 13:18"
+},
+{
+"start_ref": "66017003",
+"start_ref_usfm": "REV 17:3",
+"end_ref": "66017003",
+"end_ref_usfm": "REV 17:3"
+},
+{
+"start_ref": "66017007",
+"start_ref_usfm": "REV 17:7",
+"end_ref": "66017013",
+"end_ref_usfm": "REV 17:13"
+}
+],
+"resource": [
+{
+"reference_id": "1469",
+"content_id": "1469",
+"resource_code": "DictionaryBibleThemes",
+"label": "1469: visions",
+"language": "eng"
+},
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "4110",
+"content_id": "4110",
+"resource_code": "DictionaryBibleThemes",
+"label": "4110: angels",
+"language": "eng"
+},
+{
+"reference_id": "4150",
+"content_id": "4150",
+"resource_code": "DictionaryBibleThemes",
+"label": "4150: cherubim",
+"language": "eng"
+},
+{
+"reference_id": "4603",
+"content_id": "4603",
+"resource_code": "DictionaryBibleThemes",
+"label": "4603: animals",
+"language": "eng"
+},
+{
+"reference_id": "4609",
+"content_id": "4609",
+"resource_code": "DictionaryBibleThemes",
+"label": "4609: beast, the",
+"language": "eng"
+},
+{
+"reference_id": "9105",
+"content_id": "9105",
+"resource_code": "DictionaryBibleThemes",
+"label": "9105: last things",
+"language": "eng"
+}
+]
+}
+}
+]

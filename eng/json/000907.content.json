@@ -1,0 +1,146 @@
+[
+{
+"content_id": "5320",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5320: funeral",
+"media_type": "Text",
+"index_reference": "5320: funeral",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Funerals were times for expressing grief</h2>\n<p><a href=\"https://ref.ly/Gen50:10\">GEN 50:10</a>; ; <a href=\"https://ref.ly/Acts9:36-Acts9:39\">ACT 9:36–9:39</a></p>\n<h2>Hired musicians sometimes played a funeral dirge</h2>\n<p><a href=\"https://ref.ly/Matt9:23\">MAT 9:23</a></p>\n<h2>The funeral bier</h2>\n<p><a href=\"https://ref.ly/2Sam3:31-2Sam3:32\">2SA 3:31–3:32</a>; ; <a href=\"https://ref.ly/Luke7:14\">LUK 7:14</a></p>\n<h2>Funeral fires lit in honour of worthy kings of Judah</h2>\n<p><a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a>, <a href=\"https://ref.ly/2Chr21:19\">2CH 21:19</a>; ; <a href=\"https://ref.ly/Jer34:5\">JER 34:5</a></p>\n<h2>Funerals often concluded with burial in a family tomb</h2>\n<p><a href=\"https://ref.ly/Gen49:29-Gen49:31\">GEN 49:29–49:31</a></p>\n<h2>Jesus Christ had no funeral ceremony</h2>\n<p><a href=\"https://ref.ly/Luke23:53\">LUK 23:53</a> parallels <a href=\"https://ref.ly/Matt27:59\">MAT 27:59</a>, <a href=\"https://ref.ly/Mark15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/John19:40-John19:42\">JHN 19:40–19:42</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01050010",
+"start_ref_usfm": "GEN 50:10",
+"end_ref": "01050010",
+"end_ref_usfm": "GEN 50:10"
+},
+{
+"start_ref": "44009036",
+"start_ref_usfm": "ACT 9:36",
+"end_ref": "44009039",
+"end_ref_usfm": "ACT 9:39"
+},
+{
+"start_ref": "40009023",
+"start_ref_usfm": "MAT 9:23",
+"end_ref": "40009023",
+"end_ref_usfm": "MAT 9:23"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003032",
+"end_ref_usfm": "2SA 3:32"
+},
+{
+"start_ref": "42007014",
+"start_ref_usfm": "LUK 7:14",
+"end_ref": "42007014",
+"end_ref_usfm": "LUK 7:14"
+},
+{
+"start_ref": "14016014",
+"start_ref_usfm": "2CH 16:14",
+"end_ref": "14016014",
+"end_ref_usfm": "2CH 16:14"
+},
+{
+"start_ref": "14021019",
+"start_ref_usfm": "2CH 21:19",
+"end_ref": "14021019",
+"end_ref_usfm": "2CH 21:19"
+},
+{
+"start_ref": "24034005",
+"start_ref_usfm": "JER 34:5",
+"end_ref": "24034005",
+"end_ref_usfm": "JER 34:5"
+},
+{
+"start_ref": "01049029",
+"start_ref_usfm": "GEN 49:29",
+"end_ref": "01049031",
+"end_ref_usfm": "GEN 49:31"
+},
+{
+"start_ref": "42023053",
+"start_ref_usfm": "LUK 23:53",
+"end_ref": "42023053",
+"end_ref_usfm": "LUK 23:53"
+},
+{
+"start_ref": "40027059",
+"start_ref_usfm": "MAT 27:59",
+"end_ref": "40027059",
+"end_ref_usfm": "MAT 27:59"
+},
+{
+"start_ref": "41015046",
+"start_ref_usfm": "MRK 15:46",
+"end_ref": "41015046",
+"end_ref_usfm": "MRK 15:46"
+},
+{
+"start_ref": "43019040",
+"start_ref_usfm": "JHN 19:40",
+"end_ref": "43019042",
+"end_ref_usfm": "JHN 19:42"
+}
+],
+"resource": [
+{
+"reference_id": "5241",
+"content_id": "5241",
+"resource_code": "DictionaryBibleThemes",
+"label": "5241: burial",
+"language": "eng"
+},
+{
+"reference_id": "5275",
+"content_id": "5275",
+"resource_code": "DictionaryBibleThemes",
+"label": "5275: cremation",
+"language": "eng"
+},
+{
+"reference_id": "5303",
+"content_id": "5303",
+"resource_code": "DictionaryBibleThemes",
+"label": "5303: embalming",
+"language": "eng"
+},
+{
+"reference_id": "5419",
+"content_id": "5419",
+"resource_code": "DictionaryBibleThemes",
+"label": "5419: mourning",
+"language": "eng"
+},
+{
+"reference_id": "5795",
+"content_id": "5795",
+"resource_code": "DictionaryBibleThemes",
+"label": "5795: bereavement",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+},
+{
+"reference_id": "9030",
+"content_id": "9030",
+"resource_code": "DictionaryBibleThemes",
+"label": "9030: dead bodies",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,39 @@
+[
+{
+"content_id": "7706",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7706: apostles",
+"media_type": "Text",
+"index_reference": "7706: apostles",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Appointed representatives, deriving authority and responsibilities from the person or group represented. The word refers especially to Jesus Christ's twelve disciples and also to Paul. Scripture identifies the functions of apostles and their authority, which is derived directly from Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7707",
+"content_id": "7707",
+"resource_code": "DictionaryBibleThemes",
+"label": "7707: apostles, designation of",
+"language": "eng"
+},
+{
+"reference_id": "7708",
+"content_id": "7708",
+"resource_code": "DictionaryBibleThemes",
+"label": "7708: apostles, function of",
+"language": "eng"
+},
+{
+"reference_id": "7709",
+"content_id": "7709",
+"resource_code": "DictionaryBibleThemes",
+"label": "7709: apostles, authority of",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,46 @@
+[
+{
+"content_id": "5546",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5546: speech",
+"media_type": "Text",
+"index_reference": "5546: speech",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The human capacity to express oneself and communicate with others through the spoken word. God addresses humans through the spoken word, and supremely in and through Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5547",
+"content_id": "5547",
+"resource_code": "DictionaryBibleThemes",
+"label": "5547: speech, power and significance of",
+"language": "eng"
+},
+{
+"reference_id": "5548",
+"content_id": "5548",
+"resource_code": "DictionaryBibleThemes",
+"label": "5548: speech, divine",
+"language": "eng"
+},
+{
+"reference_id": "5549",
+"content_id": "5549",
+"resource_code": "DictionaryBibleThemes",
+"label": "5549: speech, positive aspects of",
+"language": "eng"
+},
+{
+"reference_id": "5550",
+"content_id": "5550",
+"resource_code": "DictionaryBibleThemes",
+"label": "5550: speech, negative aspects of",
+"language": "eng"
+}
+]
+}
+}
+]

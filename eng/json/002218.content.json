@@ -1,0 +1,39 @@
+[
+{
+"content_id": "8429",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8429: fasting",
+"media_type": "Text",
+"index_reference": "8429: fasting",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Abstaining from food, and possibly drink, for a limited period of time as a mark of religious commitment and devotion or as an expression of repentance for sins.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8430",
+"content_id": "8430",
+"resource_code": "DictionaryBibleThemes",
+"label": "8430: fasting, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8431",
+"content_id": "8431",
+"resource_code": "DictionaryBibleThemes",
+"label": "8431: fasting, reasons for",
+"language": "eng"
+},
+{
+"reference_id": "8432",
+"content_id": "8432",
+"resource_code": "DictionaryBibleThemes",
+"label": "8432: fasting, practice of",
+"language": "eng"
+}
+]
+}
+}
+]

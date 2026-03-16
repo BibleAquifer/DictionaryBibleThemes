@@ -1,0 +1,74 @@
+[
+{
+"content_id": "8622",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8622: worship",
+"media_type": "Text",
+"index_reference": "8622: worship",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The praise, adoration and reverence of God, both in public and private. It is a celebration of the worthiness of God, by which honour is given to his name.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8623",
+"content_id": "8623",
+"resource_code": "DictionaryBibleThemes",
+"label": "8623: worship, of God alone",
+"language": "eng"
+},
+{
+"reference_id": "8624",
+"content_id": "8624",
+"resource_code": "DictionaryBibleThemes",
+"label": "8624: worship, reasons for",
+"language": "eng"
+},
+{
+"reference_id": "8625",
+"content_id": "8625",
+"resource_code": "DictionaryBibleThemes",
+"label": "8625: worship, acceptable attitudes in",
+"language": "eng"
+},
+{
+"reference_id": "8626",
+"content_id": "8626",
+"resource_code": "DictionaryBibleThemes",
+"label": "8626: worship, places of",
+"language": "eng"
+},
+{
+"reference_id": "8627",
+"content_id": "8627",
+"resource_code": "DictionaryBibleThemes",
+"label": "8627: worship, elements of",
+"language": "eng"
+},
+{
+"reference_id": "8628",
+"content_id": "8628",
+"resource_code": "DictionaryBibleThemes",
+"label": "8628: worship, hindrances to",
+"language": "eng"
+},
+{
+"reference_id": "8629",
+"content_id": "8629",
+"resource_code": "DictionaryBibleThemes",
+"label": "8629: worship, times for",
+"language": "eng"
+},
+{
+"reference_id": "8630",
+"content_id": "8630",
+"resource_code": "DictionaryBibleThemes",
+"label": "8630: worship, results of",
+"language": "eng"
+}
+]
+}
+}
+]

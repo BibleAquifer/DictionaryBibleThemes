@@ -1,0 +1,32 @@
+[
+{
+"content_id": "4434",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4434: drinking",
+"media_type": "Text",
+"index_reference": "4434: drinking",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture lays down no general prohibition of the consumption of alcohol, but warns against its abuse.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4435",
+"content_id": "4435",
+"resource_code": "DictionaryBibleThemes",
+"label": "4435: drinking",
+"language": "eng"
+},
+{
+"reference_id": "4436",
+"content_id": "4436",
+"resource_code": "DictionaryBibleThemes",
+"label": "4436: drinking, abstention from",
+"language": "eng"
+}
+]
+}
+}
+]

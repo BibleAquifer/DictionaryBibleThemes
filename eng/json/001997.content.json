@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8030",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8030: trust",
+"media_type": "Text",
+"index_reference": "8030: trust",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Reliance on and confidence in a person. Scripture affirms the total trustworthiness of God, especially in relation to his promises to his people. Christian faith is, essentially, trust in the person and character of God. While Scripture insists that believers should be able to trust one another, it also provides examples of false or misplaced trust.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8031",
+"content_id": "8031",
+"resource_code": "DictionaryBibleThemes",
+"label": "8031: trust, importance of",
+"language": "eng"
+},
+{
+"reference_id": "8032",
+"content_id": "8032",
+"resource_code": "DictionaryBibleThemes",
+"label": "8032: trust, lack of",
+"language": "eng"
+}
+]
+}
+}
+]

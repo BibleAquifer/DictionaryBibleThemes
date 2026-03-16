@@ -1,0 +1,63 @@
+[
+{
+"content_id": "7359",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7359: Feast of Trumpets",
+"media_type": "Text",
+"index_reference": "7359: feast of trumpets",
+"language": "eng",
+"review_level": "None",
+"content": "<p>This feast, which is not specifically mentioned as such in the OT, took place at the observance of the new moon in the month of Tishri (September/October). It signalled the end of the agricultural year.</p>\n<h2>It was to be a day of rest, commemorated with the sounding of trumpets</h2>\n<p><a href=\"https://ref.ly/Lev23:24-Lev23:25\">LEV 23:24–23:25</a>; ; <a href=\"https://ref.ly/Num29:1\">NUM 29:1</a></p>\n<h2>Offerings were made to God</h2>\n<p><a href=\"https://ref.ly/Lev23:25\">LEV 23:25</a>; ; <a href=\"https://ref.ly/Num29:2-Num29:5\">NUM 29:2–29:5</a></p>\n<h2>Celebrated after the exile</h2>\n<p><a href=\"https://ref.ly/Neh8:2-Neh8:6\">NEH 8:2–8:6</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03023024",
+"start_ref_usfm": "LEV 23:24",
+"end_ref": "03023025",
+"end_ref_usfm": "LEV 23:25"
+},
+{
+"start_ref": "04029001",
+"start_ref_usfm": "NUM 29:1",
+"end_ref": "04029001",
+"end_ref_usfm": "NUM 29:1"
+},
+{
+"start_ref": "03023025",
+"start_ref_usfm": "LEV 23:25",
+"end_ref": "03023025",
+"end_ref_usfm": "LEV 23:25"
+},
+{
+"start_ref": "04029002",
+"start_ref_usfm": "NUM 29:2",
+"end_ref": "04029005",
+"end_ref_usfm": "NUM 29:5"
+},
+{
+"start_ref": "16008002",
+"start_ref_usfm": "NEH 8:2",
+"end_ref": "16008006",
+"end_ref_usfm": "NEH 8:6"
+}
+],
+"resource": [
+{
+"reference_id": "4406",
+"content_id": "4406",
+"resource_code": "DictionaryBibleThemes",
+"label": "4406: agriculture",
+"language": "eng"
+},
+{
+"reference_id": "5056",
+"content_id": "5056",
+"resource_code": "DictionaryBibleThemes",
+"label": "5056: rest",
+"language": "eng"
+}
+]
+}
+}
+]

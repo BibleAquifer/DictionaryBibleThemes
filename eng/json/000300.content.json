@@ -1,0 +1,53 @@
+[
+{
+"content_id": "4015",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4015: life",
+"media_type": "Text",
+"index_reference": "4015: life",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The state of being alive, characterised by vitality, growth and development.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4016",
+"content_id": "4016",
+"resource_code": "DictionaryBibleThemes",
+"label": "4016: life, human",
+"language": "eng"
+},
+{
+"reference_id": "4017",
+"content_id": "4017",
+"resource_code": "DictionaryBibleThemes",
+"label": "4017: life, animal and plant",
+"language": "eng"
+},
+{
+"reference_id": "4018",
+"content_id": "4018",
+"resource_code": "DictionaryBibleThemes",
+"label": "4018: life, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "4019",
+"content_id": "4019",
+"resource_code": "DictionaryBibleThemes",
+"label": "4019: life, believers' experience of",
+"language": "eng"
+},
+{
+"reference_id": "4020",
+"content_id": "4020",
+"resource_code": "DictionaryBibleThemes",
+"label": "4020: life, of faith",
+"language": "eng"
+}
+]
+}
+}
+]

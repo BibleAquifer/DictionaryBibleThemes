@@ -1,0 +1,205 @@
+[
+{
+"content_id": "5114",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5114: Peter, the apostle",
+"media_type": "Text",
+"index_reference": "5114: peter, the apostle",
+"language": "eng",
+"review_level": "None",
+"content": "<p>As a result of the coming of the Holy Spirit, Peter was transformed into a dynamic apostle and witness to Jesus Christ.</p>\n<h2>Peter's credentials as an apostle</h2>\n<p><a href=\"https://ref.ly/Matt10:2\">MAT 10:2</a>; ; <a href=\"https://ref.ly/Acts2:37\">ACT 2:37</a>, <a href=\"https://ref.ly/Acts5:29\">ACT 5:29</a>; ; <a href=\"https://ref.ly/1Pet1:1\">1PE 1:1</a>; ; <a href=\"https://ref.ly/2Pet1:1\">2PE 1:1</a></p>\n<h3>Peter as an apostle to the Jews</h3>\n<p><strong><a href=\"https://ref.ly/Gal2:8\">GAL 2:8</a></strong></p>\n<h2>Peter's leadership</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Acts1:21-Acts1:22\">ACT 1:21–1:22</a>, <a href=\"https://ref.ly/Acts2:14\">ACT 2:14</a>, <a href=\"https://ref.ly/Acts3:12\">ACT 3:12</a>, <a href=\"https://ref.ly/Acts4:8\">ACT 4:8</a>, <a href=\"https://ref.ly/Acts5:29\">ACT 5:29</a>, <a href=\"https://ref.ly/Acts8:20\">ACT 8:20</a></p>\n<h2>Peter and the Gentiles</h2>\n<h3>He was the first to baptise Gentiles who had not been circumcised</h3>\n<p><a href=\"https://ref.ly/Acts10:47-Acts10:48\">ACT 10:47–10:48</a></p>\n<h3>He defended this action against critics</h3>\n<p><a href=\"https://ref.ly/Acts11:17\">ACT 11:17</a>, <a href=\"https://ref.ly/Acts15:7-Acts15:11\">ACT 15:7–15:11</a></p>\n<h3>He later wavered in his attitude to the Gentiles</h3>\n<p><a href=\"https://ref.ly/Gal2:11-Gal2:14\">GAL 2:11–2:14</a></p>\n<h2>The miraculous power of the Holy Spirit at work in Peter</h2>\n<p><a href=\"https://ref.ly/Acts3:2-Acts3:7\">ACT 3:2–3:7</a>, <a href=\"https://ref.ly/Acts5:9-Acts5:10\">ACT 5:9–5:10</a>, <a href=\"https://ref.ly/Acts5:15-Acts5:16\">ACT 5:15–5:16</a>, <a href=\"https://ref.ly/Acts9:34\">ACT 9:34</a>, <a href=\"https://ref.ly/Acts9:40\">ACT 9:40</a>, <a href=\"https://ref.ly/Acts12:1-Acts12:11\">ACT 12:1–12:11</a> <em>Peter himself experienced a miracle when imprisoned by Herod Agrippa.</em></p>\n<h2>Peter's missionary travels</h2>\n<p><a href=\"https://ref.ly/1Cor1:12\">1CO 1:12</a> <em>He visited Corinth</em>; ; <a href=\"https://ref.ly/1Cor9:5\">1CO 9:5</a> <em>He took his wife with him</em>; ; <a href=\"https://ref.ly/1Pet1:1\">1PE 1:1</a> <em>He visited northern Asia Minor</em>; ; <a href=\"https://ref.ly/1Pet5:13\">1PE 5:13</a> <em>One interpretation of this verse is that Peter was writing from Rome and was using the name “Babylon” symbolically to refer to Rome.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40010002",
+"start_ref_usfm": "MAT 10:2",
+"end_ref": "40010002",
+"end_ref_usfm": "MAT 10:2"
+},
+{
+"start_ref": "44002037",
+"start_ref_usfm": "ACT 2:37",
+"end_ref": "44002037",
+"end_ref_usfm": "ACT 2:37"
+},
+{
+"start_ref": "44005029",
+"start_ref_usfm": "ACT 5:29",
+"end_ref": "44005029",
+"end_ref_usfm": "ACT 5:29"
+},
+{
+"start_ref": "60001001",
+"start_ref_usfm": "1PE 1:1",
+"end_ref": "60001001",
+"end_ref_usfm": "1PE 1:1"
+},
+{
+"start_ref": "61001001",
+"start_ref_usfm": "2PE 1:1",
+"end_ref": "61001001",
+"end_ref_usfm": "2PE 1:1"
+},
+{
+"start_ref": "48002008",
+"start_ref_usfm": "GAL 2:8",
+"end_ref": "48002008",
+"end_ref_usfm": "GAL 2:8"
+},
+{
+"start_ref": "44001021",
+"start_ref_usfm": "ACT 1:21",
+"end_ref": "44001022",
+"end_ref_usfm": "ACT 1:22"
+},
+{
+"start_ref": "44002014",
+"start_ref_usfm": "ACT 2:14",
+"end_ref": "44002014",
+"end_ref_usfm": "ACT 2:14"
+},
+{
+"start_ref": "44003012",
+"start_ref_usfm": "ACT 3:12",
+"end_ref": "44003012",
+"end_ref_usfm": "ACT 3:12"
+},
+{
+"start_ref": "44004008",
+"start_ref_usfm": "ACT 4:8",
+"end_ref": "44004008",
+"end_ref_usfm": "ACT 4:8"
+},
+{
+"start_ref": "44008020",
+"start_ref_usfm": "ACT 8:20",
+"end_ref": "44008020",
+"end_ref_usfm": "ACT 8:20"
+},
+{
+"start_ref": "44010047",
+"start_ref_usfm": "ACT 10:47",
+"end_ref": "44010048",
+"end_ref_usfm": "ACT 10:48"
+},
+{
+"start_ref": "44011017",
+"start_ref_usfm": "ACT 11:17",
+"end_ref": "44011017",
+"end_ref_usfm": "ACT 11:17"
+},
+{
+"start_ref": "44015007",
+"start_ref_usfm": "ACT 15:7",
+"end_ref": "44015011",
+"end_ref_usfm": "ACT 15:11"
+},
+{
+"start_ref": "48002011",
+"start_ref_usfm": "GAL 2:11",
+"end_ref": "48002014",
+"end_ref_usfm": "GAL 2:14"
+},
+{
+"start_ref": "44003002",
+"start_ref_usfm": "ACT 3:2",
+"end_ref": "44003007",
+"end_ref_usfm": "ACT 3:7"
+},
+{
+"start_ref": "44005009",
+"start_ref_usfm": "ACT 5:9",
+"end_ref": "44005010",
+"end_ref_usfm": "ACT 5:10"
+},
+{
+"start_ref": "44005015",
+"start_ref_usfm": "ACT 5:15",
+"end_ref": "44005016",
+"end_ref_usfm": "ACT 5:16"
+},
+{
+"start_ref": "44009034",
+"start_ref_usfm": "ACT 9:34",
+"end_ref": "44009034",
+"end_ref_usfm": "ACT 9:34"
+},
+{
+"start_ref": "44009040",
+"start_ref_usfm": "ACT 9:40",
+"end_ref": "44009040",
+"end_ref_usfm": "ACT 9:40"
+},
+{
+"start_ref": "44012001",
+"start_ref_usfm": "ACT 12:1",
+"end_ref": "44012011",
+"end_ref_usfm": "ACT 12:11"
+},
+{
+"start_ref": "46001012",
+"start_ref_usfm": "1CO 1:12",
+"end_ref": "46001012",
+"end_ref_usfm": "1CO 1:12"
+},
+{
+"start_ref": "46009005",
+"start_ref_usfm": "1CO 9:5",
+"end_ref": "46009005",
+"end_ref_usfm": "1CO 9:5"
+},
+{
+"start_ref": "60005013",
+"start_ref_usfm": "1PE 5:13",
+"end_ref": "60005013",
+"end_ref_usfm": "1PE 5:13"
+}
+],
+"resource": [
+{
+"reference_id": "7378",
+"content_id": "7378",
+"resource_code": "DictionaryBibleThemes",
+"label": "7378: high priest, in NT",
+"language": "eng"
+},
+{
+"reference_id": "7512",
+"content_id": "7512",
+"resource_code": "DictionaryBibleThemes",
+"label": "7512: Gentiles, in NT",
+"language": "eng"
+},
+{
+"reference_id": "7706",
+"content_id": "7706",
+"resource_code": "DictionaryBibleThemes",
+"label": "7706: apostles",
+"language": "eng"
+},
+{
+"reference_id": "7733",
+"content_id": "7733",
+"resource_code": "DictionaryBibleThemes",
+"label": "7733: leaders",
+"language": "eng"
+},
+{
+"reference_id": "7739",
+"content_id": "7739",
+"resource_code": "DictionaryBibleThemes",
+"label": "7739: missionaries",
+"language": "eng"
+},
+{
+"reference_id": "8619",
+"content_id": "8619",
+"resource_code": "DictionaryBibleThemes",
+"label": "8619: prayer, in the church",
+"language": "eng"
+}
+]
+}
+}
+]

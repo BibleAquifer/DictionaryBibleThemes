@@ -1,0 +1,53 @@
+[
+{
+"content_id": "5139",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5139: bracelet",
+"media_type": "Text",
+"index_reference": "5139: bracelet",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An expensive ornamental armlet usually worn by women.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4342",
+"content_id": "4342",
+"resource_code": "DictionaryBibleThemes",
+"label": "4342: jewels",
+"language": "eng"
+},
+{
+"reference_id": "5126",
+"content_id": "5126",
+"resource_code": "DictionaryBibleThemes",
+"label": "5126: arm",
+"language": "eng"
+},
+{
+"reference_id": "5778",
+"content_id": "5778",
+"resource_code": "DictionaryBibleThemes",
+"label": "5778: adorning",
+"language": "eng"
+},
+{
+"reference_id": "5915",
+"content_id": "5915",
+"resource_code": "DictionaryBibleThemes",
+"label": "5915: ornaments",
+"language": "eng"
+},
+{
+"reference_id": "8808",
+"content_id": "8808",
+"resource_code": "DictionaryBibleThemes",
+"label": "8808: riches",
+"language": "eng"
+}
+]
+}
+}
+]

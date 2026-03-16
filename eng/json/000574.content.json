@@ -1,0 +1,130 @@
+[
+{
+"content_id": "4850",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4850: south",
+"media_type": "Text",
+"index_reference": "4850: south",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The geographical direction opposite to north, often used to demonstrate the vast extent between the two.</p>\n<h2>South as a point of the compass</h2>\n<p><strong><a href=\"https://ref.ly/Job9:9\">JOB 9:9</a></strong>; <strong><a href=\"https://ref.ly/Matt12:42\">MAT 12:42</a></strong> parallel <a href=\"https://ref.ly/Luke11:31\">LUK 11:31</a> <em>See also</em> <a href=\"https://ref.ly/Gen13:14\">GEN 13:14</a>; <a href=\"https://ref.ly/Num10:6\">NUM 10:6</a>; <a href=\"https://ref.ly/Deut33:2\">DEU 33:2</a>; <a href=\"https://ref.ly/1Sam23:19\">1SA 23:19</a>; <a href=\"https://ref.ly/Job39:26\">JOB 39:26</a>; <a href=\"https://ref.ly/Dan8:9\">DAN 8:9</a>; <a href=\"https://ref.ly/Acts21:3\">ACT 21:3</a></p>\n<h2>South and north used to demonstrate vast extent</h2>\n<p><strong><a href=\"https://ref.ly/Isa43:6\">ISA 43:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen28:14\">GEN 28:14</a>; <a href=\"https://ref.ly/Job23:9\">JOB 23:9</a>; <a href=\"https://ref.ly/Ezek20:47\">EZK 20:47</a>, <a href=\"https://ref.ly/Ezek21:4\">EZK 21:4</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18009009",
+"start_ref_usfm": "JOB 9:9",
+"end_ref": "18009009",
+"end_ref_usfm": "JOB 9:9"
+},
+{
+"start_ref": "40012042",
+"start_ref_usfm": "MAT 12:42",
+"end_ref": "40012042",
+"end_ref_usfm": "MAT 12:42"
+},
+{
+"start_ref": "42011031",
+"start_ref_usfm": "LUK 11:31",
+"end_ref": "42011031",
+"end_ref_usfm": "LUK 11:31"
+},
+{
+"start_ref": "01013014",
+"start_ref_usfm": "GEN 13:14",
+"end_ref": "01013014",
+"end_ref_usfm": "GEN 13:14"
+},
+{
+"start_ref": "04010006",
+"start_ref_usfm": "NUM 10:6",
+"end_ref": "04010006",
+"end_ref_usfm": "NUM 10:6"
+},
+{
+"start_ref": "05033002",
+"start_ref_usfm": "DEU 33:2",
+"end_ref": "05033002",
+"end_ref_usfm": "DEU 33:2"
+},
+{
+"start_ref": "09023019",
+"start_ref_usfm": "1SA 23:19",
+"end_ref": "09023019",
+"end_ref_usfm": "1SA 23:19"
+},
+{
+"start_ref": "18039026",
+"start_ref_usfm": "JOB 39:26",
+"end_ref": "18039026",
+"end_ref_usfm": "JOB 39:26"
+},
+{
+"start_ref": "27008009",
+"start_ref_usfm": "DAN 8:9",
+"end_ref": "27008009",
+"end_ref_usfm": "DAN 8:9"
+},
+{
+"start_ref": "44021003",
+"start_ref_usfm": "ACT 21:3",
+"end_ref": "44021003",
+"end_ref_usfm": "ACT 21:3"
+},
+{
+"start_ref": "23043006",
+"start_ref_usfm": "ISA 43:6",
+"end_ref": "23043006",
+"end_ref_usfm": "ISA 43:6"
+},
+{
+"start_ref": "01028014",
+"start_ref_usfm": "GEN 28:14",
+"end_ref": "01028014",
+"end_ref_usfm": "GEN 28:14"
+},
+{
+"start_ref": "18023009",
+"start_ref_usfm": "JOB 23:9",
+"end_ref": "18023009",
+"end_ref_usfm": "JOB 23:9"
+},
+{
+"start_ref": "26020047",
+"start_ref_usfm": "EZK 20:47",
+"end_ref": "26020047",
+"end_ref_usfm": "EZK 20:47"
+},
+{
+"start_ref": "26021004",
+"start_ref_usfm": "EZK 21:4",
+"end_ref": "26021004",
+"end_ref_usfm": "EZK 21:4"
+}
+],
+"resource": [
+{
+"reference_id": "4821",
+"content_id": "4821",
+"resource_code": "DictionaryBibleThemes",
+"label": "4821: east",
+"language": "eng"
+},
+{
+"reference_id": "4842",
+"content_id": "4842",
+"resource_code": "DictionaryBibleThemes",
+"label": "4842: north",
+"language": "eng"
+},
+{
+"reference_id": "4857",
+"content_id": "4857",
+"resource_code": "DictionaryBibleThemes",
+"label": "4857: west",
+"language": "eng"
+}
+]
+}
+}
+]

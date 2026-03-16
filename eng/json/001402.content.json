@@ -1,0 +1,271 @@
+[
+{
+"content_id": "5884",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5884: indecision",
+"media_type": "Text",
+"index_reference": "5884: indecision",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Uncertainty, hesitation and doubt reflect a failure of the basic human ability to choose. They reveal an internal debate and lack of conviction.</p>\n<h2>Indecision arising from doubt and hesitation</h2>\n<p><strong><a href=\"https://ref.ly/Jas1:6-Jas1:8\">JAS 1:6–1:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs18:21\">1KI 18:21</a>; <a href=\"https://ref.ly/Matt14:31\">MAT 14:31</a>, <a href=\"https://ref.ly/Matt21:21\">MAT 21:21</a>; <a href=\"https://ref.ly/Mark11:23\">MRK 11:23</a>; <a href=\"https://ref.ly/Rom14:23\">ROM 14:23</a></p>\n<h2>Examples of indecisive behaviour</h2>\n<p><strong><a href=\"https://ref.ly/Exod3:11\">EXO 3:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod4:13\">EXO 4:13</a>, <a href=\"https://ref.ly/Exod14:10-Exod14:15\">EXO 14:10–14:15</a>; <a href=\"https://ref.ly/Josh7:10\">JOS 7:10</a>; <a href=\"https://ref.ly/Esth5:8\">EST 5:8</a>; <a href=\"https://ref.ly/Matt27:21-Matt27:26\">MAT 27:21–27:26</a> parallels <a href=\"https://ref.ly/Mark15:9-Mark15:15\">MRK 15:9–15:15</a>, <a href=\"https://ref.ly/Luke23:13-Luke23:25\">LUK 23:13–23:25</a>, <a href=\"https://ref.ly/John18:38-John18:40\">JHN 18:38–18:40</a>; <a href=\"https://ref.ly/Mark16:11-Mark16:14\">MRK 16:11–16:14</a>; <a href=\"https://ref.ly/John20:25\">JHN 20:25</a>; <a href=\"https://ref.ly/Acts24:25\">ACT 24:25</a></p>\n<h2>Indecision may be indicative of divided loyalty</h2>\n<p><strong><a href=\"https://ref.ly/Matt6:24\">MAT 6:24</a></strong> parallel <a href=\"https://ref.ly/Luke16:13\">LUK 16:13</a> <em>See also</em> <a href=\"https://ref.ly/Matt19:22\">MAT 19:22</a> parallels <a href=\"https://ref.ly/Mark10:22\">MRK 10:22</a>, <a href=\"https://ref.ly/Luke18:23\">LUK 18:23</a></p>\n<h2>Indecision or uncertainty may be prompted by Satan</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:1\">GEN 3:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen3:4\">GEN 3:4</a>; <a href=\"https://ref.ly/John8:44\">JHN 8:44</a>; <a href=\"https://ref.ly/2Cor11:3\">2CO 11:3</a>; <a href=\"https://ref.ly/Rev12:9\">REV 12:9</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "59001006",
+"start_ref_usfm": "JAS 1:6",
+"end_ref": "59001008",
+"end_ref_usfm": "JAS 1:8"
+},
+{
+"start_ref": "11018021",
+"start_ref_usfm": "1KI 18:21",
+"end_ref": "11018021",
+"end_ref_usfm": "1KI 18:21"
+},
+{
+"start_ref": "40014031",
+"start_ref_usfm": "MAT 14:31",
+"end_ref": "40014031",
+"end_ref_usfm": "MAT 14:31"
+},
+{
+"start_ref": "40021021",
+"start_ref_usfm": "MAT 21:21",
+"end_ref": "40021021",
+"end_ref_usfm": "MAT 21:21"
+},
+{
+"start_ref": "41011023",
+"start_ref_usfm": "MRK 11:23",
+"end_ref": "41011023",
+"end_ref_usfm": "MRK 11:23"
+},
+{
+"start_ref": "45014023",
+"start_ref_usfm": "ROM 14:23",
+"end_ref": "45014023",
+"end_ref_usfm": "ROM 14:23"
+},
+{
+"start_ref": "02003011",
+"start_ref_usfm": "EXO 3:11",
+"end_ref": "02003011",
+"end_ref_usfm": "EXO 3:11"
+},
+{
+"start_ref": "02004013",
+"start_ref_usfm": "EXO 4:13",
+"end_ref": "02004013",
+"end_ref_usfm": "EXO 4:13"
+},
+{
+"start_ref": "02014010",
+"start_ref_usfm": "EXO 14:10",
+"end_ref": "02014015",
+"end_ref_usfm": "EXO 14:15"
+},
+{
+"start_ref": "06007010",
+"start_ref_usfm": "JOS 7:10",
+"end_ref": "06007010",
+"end_ref_usfm": "JOS 7:10"
+},
+{
+"start_ref": "17005008",
+"start_ref_usfm": "EST 5:8",
+"end_ref": "17005008",
+"end_ref_usfm": "EST 5:8"
+},
+{
+"start_ref": "40027021",
+"start_ref_usfm": "MAT 27:21",
+"end_ref": "40027026",
+"end_ref_usfm": "MAT 27:26"
+},
+{
+"start_ref": "41015009",
+"start_ref_usfm": "MRK 15:9",
+"end_ref": "41015015",
+"end_ref_usfm": "MRK 15:15"
+},
+{
+"start_ref": "42023013",
+"start_ref_usfm": "LUK 23:13",
+"end_ref": "42023025",
+"end_ref_usfm": "LUK 23:25"
+},
+{
+"start_ref": "43018038",
+"start_ref_usfm": "JHN 18:38",
+"end_ref": "43018040",
+"end_ref_usfm": "JHN 18:40"
+},
+{
+"start_ref": "41016011",
+"start_ref_usfm": "MRK 16:11",
+"end_ref": "41016014",
+"end_ref_usfm": "MRK 16:14"
+},
+{
+"start_ref": "43020025",
+"start_ref_usfm": "JHN 20:25",
+"end_ref": "43020025",
+"end_ref_usfm": "JHN 20:25"
+},
+{
+"start_ref": "44024025",
+"start_ref_usfm": "ACT 24:25",
+"end_ref": "44024025",
+"end_ref_usfm": "ACT 24:25"
+},
+{
+"start_ref": "40006024",
+"start_ref_usfm": "MAT 6:24",
+"end_ref": "40006024",
+"end_ref_usfm": "MAT 6:24"
+},
+{
+"start_ref": "42016013",
+"start_ref_usfm": "LUK 16:13",
+"end_ref": "42016013",
+"end_ref_usfm": "LUK 16:13"
+},
+{
+"start_ref": "40019022",
+"start_ref_usfm": "MAT 19:22",
+"end_ref": "40019022",
+"end_ref_usfm": "MAT 19:22"
+},
+{
+"start_ref": "41010022",
+"start_ref_usfm": "MRK 10:22",
+"end_ref": "41010022",
+"end_ref_usfm": "MRK 10:22"
+},
+{
+"start_ref": "42018023",
+"start_ref_usfm": "LUK 18:23",
+"end_ref": "42018023",
+"end_ref_usfm": "LUK 18:23"
+},
+{
+"start_ref": "01003001",
+"start_ref_usfm": "GEN 3:1",
+"end_ref": "01003001",
+"end_ref_usfm": "GEN 3:1"
+},
+{
+"start_ref": "01003004",
+"start_ref_usfm": "GEN 3:4",
+"end_ref": "01003004",
+"end_ref_usfm": "GEN 3:4"
+},
+{
+"start_ref": "43008044",
+"start_ref_usfm": "JHN 8:44",
+"end_ref": "43008044",
+"end_ref_usfm": "JHN 8:44"
+},
+{
+"start_ref": "47011003",
+"start_ref_usfm": "2CO 11:3",
+"end_ref": "47011003",
+"end_ref_usfm": "2CO 11:3"
+},
+{
+"start_ref": "66012009",
+"start_ref_usfm": "REV 12:9",
+"end_ref": "66012009",
+"end_ref_usfm": "REV 12:9"
+}
+],
+"resource": [
+{
+"reference_id": "4926",
+"content_id": "4926",
+"resource_code": "DictionaryBibleThemes",
+"label": "4926: delay, human",
+"language": "eng"
+},
+{
+"reference_id": "5186",
+"content_id": "5186",
+"resource_code": "DictionaryBibleThemes",
+"label": "5186: stumbling",
+"language": "eng"
+},
+{
+"reference_id": "5877",
+"content_id": "5877",
+"resource_code": "DictionaryBibleThemes",
+"label": "5877: hesitation",
+"language": "eng"
+},
+{
+"reference_id": "6622",
+"content_id": "6622",
+"resource_code": "DictionaryBibleThemes",
+"label": "6622: choice",
+"language": "eng"
+},
+{
+"reference_id": "8124",
+"content_id": "8124",
+"resource_code": "DictionaryBibleThemes",
+"label": "8124: guidance",
+"language": "eng"
+},
+{
+"reference_id": "8329",
+"content_id": "8329",
+"resource_code": "DictionaryBibleThemes",
+"label": "8329: readiness",
+"language": "eng"
+},
+{
+"reference_id": "8408",
+"content_id": "8408",
+"resource_code": "DictionaryBibleThemes",
+"label": "8408: decision-making",
+"language": "eng"
+},
+{
+"reference_id": "8615",
+"content_id": "8615",
+"resource_code": "DictionaryBibleThemes",
+"label": "8615: prayer, doubts about",
+"language": "eng"
+},
+{
+"reference_id": "8702",
+"content_id": "8702",
+"resource_code": "DictionaryBibleThemes",
+"label": "8702: agnosticism",
+"language": "eng"
+},
+{
+"reference_id": "8720",
+"content_id": "8720",
+"resource_code": "DictionaryBibleThemes",
+"label": "8720: double-mindedness",
+"language": "eng"
+},
+{
+"reference_id": "8721",
+"content_id": "8721",
+"resource_code": "DictionaryBibleThemes",
+"label": "8721: doubt",
+"language": "eng"
+},
+{
+"reference_id": "8837",
+"content_id": "8837",
+"resource_code": "DictionaryBibleThemes",
+"label": "8837: unbelief, and life of faith",
+"language": "eng"
+}
+]
+}
+}
+]

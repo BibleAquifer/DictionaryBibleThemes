@@ -1,0 +1,89 @@
+[
+{
+"content_id": "4408",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4408: balm",
+"media_type": "Text",
+"index_reference": "4408: balm",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Balm was a herb valued for its healing properties</h2>\n<p><strong><a href=\"https://ref.ly/Jer8:22\">JER 8:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr28:15\">2CH 28:15</a>; <a href=\"https://ref.ly/Jer46:11\">JER 46:11</a>, <a href=\"https://ref.ly/Jer51:8\">JER 51:8</a></p>\n<h2>Balm was exported from Israel to other nations</h2>\n<p><strong><a href=\"https://ref.ly/Gen43:11\">GEN 43:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a>; <a href=\"https://ref.ly/Ezek27:17\">EZK 27:17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "24008022",
+"start_ref_usfm": "JER 8:22",
+"end_ref": "24008022",
+"end_ref_usfm": "JER 8:22"
+},
+{
+"start_ref": "14028015",
+"start_ref_usfm": "2CH 28:15",
+"end_ref": "14028015",
+"end_ref_usfm": "2CH 28:15"
+},
+{
+"start_ref": "24046011",
+"start_ref_usfm": "JER 46:11",
+"end_ref": "24046011",
+"end_ref_usfm": "JER 46:11"
+},
+{
+"start_ref": "24051008",
+"start_ref_usfm": "JER 51:8",
+"end_ref": "24051008",
+"end_ref_usfm": "JER 51:8"
+},
+{
+"start_ref": "01043011",
+"start_ref_usfm": "GEN 43:11",
+"end_ref": "01043011",
+"end_ref_usfm": "GEN 43:11"
+},
+{
+"start_ref": "01037025",
+"start_ref_usfm": "GEN 37:25",
+"end_ref": "01037025",
+"end_ref_usfm": "GEN 37:25"
+},
+{
+"start_ref": "26027017",
+"start_ref_usfm": "EZK 27:17",
+"end_ref": "26027017",
+"end_ref_usfm": "EZK 27:17"
+}
+],
+"resource": [
+{
+"reference_id": "4466",
+"content_id": "4466",
+"resource_code": "DictionaryBibleThemes",
+"label": "4466: herbs and spices",
+"language": "eng"
+},
+{
+"reference_id": "4490",
+"content_id": "4490",
+"resource_code": "DictionaryBibleThemes",
+"label": "4490: ointment",
+"language": "eng"
+},
+{
+"reference_id": "5333",
+"content_id": "5333",
+"resource_code": "DictionaryBibleThemes",
+"label": "5333: healing",
+"language": "eng"
+},
+{
+"reference_id": "5587",
+"content_id": "5587",
+"resource_code": "DictionaryBibleThemes",
+"label": "5587: trade",
+"language": "eng"
+}
+]
+}
+}
+]

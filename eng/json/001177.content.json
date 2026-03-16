@@ -1,0 +1,141 @@
+[
+{
+"content_id": "5614",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5614: weights and measures, laws concerning",
+"media_type": "Text",
+"index_reference": "5614: weights and measures, laws concerning",
+"language": "eng",
+"review_level": "None",
+"content": "<p>God expects his people to use accurate weights and measures, and to use just balances. This is underlined in the Law, the Prophets and the wisdom literature.</p>\n<h2>The law demanded honesty in using weights and measures</h2>\n<p><strong><a href=\"https://ref.ly/Lev19:35-Lev19:36\">LEV 19:35–19:36</a></strong> <em>Cheating by falsifying weights and measures was common in a culture where there was no standardisation or regulatory authority.</em> <em>See also</em> <a href=\"https://ref.ly/Deut25:13-Deut25:16\">DEU 25:13–25:16</a></p>\n<h2>The prophets called for the right use of weights and measures</h2>\n<h3>A call for honesty</h3>\n<p><strong><a href=\"https://ref.ly/Ezek45:9-Ezek45:10\">EZK 45:9–45:10</a></strong></p>\n<h3>Condemnation of dishonesty</h3>\n<p><strong><a href=\"https://ref.ly/Amos8:4-Amos8:6\">AMO 8:4–8:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos12:7-Hos12:8\">HOS 12:7–12:8</a>; <a href=\"https://ref.ly/Mic6:10-Mic6:14\">MIC 6:10–6:14</a></p>\n<h2>Instruction from Proverbs on weights and measures</h2>\n<p><strong><a href=\"https://ref.ly/Prov20:10\">PRO 20:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov11:1\">PRO 11:1</a>, <a href=\"https://ref.ly/Prov16:11\">PRO 16:11</a> <em>Merchants carried stones of different sizes in a pouch for weighing silver for payment</em>; <a href=\"https://ref.ly/Prov20:23\">PRO 20:23</a>, <a href=\"https://ref.ly/Prov22:28\">PRO 22:28</a> <em>To move a boundary stone was in effect to steal land.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03019035",
+"start_ref_usfm": "LEV 19:35",
+"end_ref": "03019036",
+"end_ref_usfm": "LEV 19:36"
+},
+{
+"start_ref": "05025013",
+"start_ref_usfm": "DEU 25:13",
+"end_ref": "05025016",
+"end_ref_usfm": "DEU 25:16"
+},
+{
+"start_ref": "26045009",
+"start_ref_usfm": "EZK 45:9",
+"end_ref": "26045010",
+"end_ref_usfm": "EZK 45:10"
+},
+{
+"start_ref": "30008004",
+"start_ref_usfm": "AMO 8:4",
+"end_ref": "30008006",
+"end_ref_usfm": "AMO 8:6"
+},
+{
+"start_ref": "28012007",
+"start_ref_usfm": "HOS 12:7",
+"end_ref": "28012008",
+"end_ref_usfm": "HOS 12:8"
+},
+{
+"start_ref": "33006010",
+"start_ref_usfm": "MIC 6:10",
+"end_ref": "33006014",
+"end_ref_usfm": "MIC 6:14"
+},
+{
+"start_ref": "20020010",
+"start_ref_usfm": "PRO 20:10",
+"end_ref": "20020010",
+"end_ref_usfm": "PRO 20:10"
+},
+{
+"start_ref": "20011001",
+"start_ref_usfm": "PRO 11:1",
+"end_ref": "20011001",
+"end_ref_usfm": "PRO 11:1"
+},
+{
+"start_ref": "20016011",
+"start_ref_usfm": "PRO 16:11",
+"end_ref": "20016011",
+"end_ref_usfm": "PRO 16:11"
+},
+{
+"start_ref": "20020023",
+"start_ref_usfm": "PRO 20:23",
+"end_ref": "20020023",
+"end_ref_usfm": "PRO 20:23"
+},
+{
+"start_ref": "20022028",
+"start_ref_usfm": "PRO 22:28",
+"end_ref": "20022028",
+"end_ref_usfm": "PRO 22:28"
+}
+],
+"resource": [
+{
+"reference_id": "5242",
+"content_id": "5242",
+"resource_code": "DictionaryBibleThemes",
+"label": "5242: buying and selling",
+"language": "eng"
+},
+{
+"reference_id": "5253",
+"content_id": "5253",
+"resource_code": "DictionaryBibleThemes",
+"label": "5253: cheating",
+"language": "eng"
+},
+{
+"reference_id": "5318",
+"content_id": "5318",
+"resource_code": "DictionaryBibleThemes",
+"label": "5318: fraud",
+"language": "eng"
+},
+{
+"reference_id": "5347",
+"content_id": "5347",
+"resource_code": "DictionaryBibleThemes",
+"label": "5347: injustice",
+"language": "eng"
+},
+{
+"reference_id": "5407",
+"content_id": "5407",
+"resource_code": "DictionaryBibleThemes",
+"label": "5407: merchants",
+"language": "eng"
+},
+{
+"reference_id": "5512",
+"content_id": "5512",
+"resource_code": "DictionaryBibleThemes",
+"label": "5512: scales and balances",
+"language": "eng"
+},
+{
+"reference_id": "8275",
+"content_id": "8275",
+"resource_code": "DictionaryBibleThemes",
+"label": "8275: honesty",
+"language": "eng"
+},
+{
+"reference_id": "8714",
+"content_id": "8714",
+"resource_code": "DictionaryBibleThemes",
+"label": "8714: dishonesty",
+"language": "eng"
+}
+]
+}
+}
+]

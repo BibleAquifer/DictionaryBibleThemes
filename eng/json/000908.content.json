@@ -1,0 +1,215 @@
+[
+{
+"content_id": "5321",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5321: furnace",
+"media_type": "Text",
+"index_reference": "5321: furnace",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A closed fireplace made of brick or stone for domestic or industrial usage. Used figuratively, it represents God's presence, testing and judgment.</p>\n<h2>Everyday use of furnaces</h2>\n<h3>As a stove or oven</h3>\n<p><a href=\"https://ref.ly/Neh3:11\">NEH 3:11</a>, <a href=\"https://ref.ly/Neh12:38\">NEH 12:38</a>; ; <a href=\"https://ref.ly/Lam5:10\">LAM 5:10</a>; ; <a href=\"https://ref.ly/Dan3:6\">DAN 3:6</a></p>\n<h3>As a kiln</h3>\n<p><a href=\"https://ref.ly/Exod9:8\">EXO 9:8</a></p>\n<h3>For smelting metals</h3>\n<p><a href=\"https://ref.ly/Ps12:6\">PSA 12:6</a>; ; <a href=\"https://ref.ly/Prov27:21\">PRO 27:21</a></p>\n<h2>Figurative use of furnaces</h2>\n<h3>As a symbol of God's majestic presence</h3>\n<p><a href=\"https://ref.ly/Gen15:17\">GEN 15:17</a>; ; <a href=\"https://ref.ly/Isa31:9\">ISA 31:9</a></p>\n<h3>As a symbol of affliction and testing</h3>\n<p><strong><a href=\"https://ref.ly/Isa48:10\">ISA 48:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:20\">DEU 4:20</a>; <a href=\"https://ref.ly/1Kgs8:51\">1KI 8:51</a>; <a href=\"https://ref.ly/Prov17:3\">PRO 17:3</a>; <a href=\"https://ref.ly/Jer11:4\">JER 11:4</a></p>\n<h3>As a symbol of God's wrath</h3>\n<p><strong><a href=\"https://ref.ly/Matt13:42\">MAT 13:42</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen19:28\">GEN 19:28</a>; <a href=\"https://ref.ly/Ps21:9\">PSA 21:9</a>; <a href=\"https://ref.ly/Ezek22:17-Ezek22:22\">EZK 22:17–22:22</a>; <a href=\"https://ref.ly/Mal4:1\">MAL 4:1</a>; <a href=\"https://ref.ly/Matt13:50\">MAT 13:50</a>; <a href=\"https://ref.ly/Rev9:2\">REV 9:2</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "16003011",
+"start_ref_usfm": "NEH 3:11",
+"end_ref": "16003011",
+"end_ref_usfm": "NEH 3:11"
+},
+{
+"start_ref": "16012038",
+"start_ref_usfm": "NEH 12:38",
+"end_ref": "16012038",
+"end_ref_usfm": "NEH 12:38"
+},
+{
+"start_ref": "25005010",
+"start_ref_usfm": "LAM 5:10",
+"end_ref": "25005010",
+"end_ref_usfm": "LAM 5:10"
+},
+{
+"start_ref": "27003006",
+"start_ref_usfm": "DAN 3:6",
+"end_ref": "27003006",
+"end_ref_usfm": "DAN 3:6"
+},
+{
+"start_ref": "02009008",
+"start_ref_usfm": "EXO 9:8",
+"end_ref": "02009008",
+"end_ref_usfm": "EXO 9:8"
+},
+{
+"start_ref": "19012006",
+"start_ref_usfm": "PSA 12:6",
+"end_ref": "19012006",
+"end_ref_usfm": "PSA 12:6"
+},
+{
+"start_ref": "20027021",
+"start_ref_usfm": "PRO 27:21",
+"end_ref": "20027021",
+"end_ref_usfm": "PRO 27:21"
+},
+{
+"start_ref": "01015017",
+"start_ref_usfm": "GEN 15:17",
+"end_ref": "01015017",
+"end_ref_usfm": "GEN 15:17"
+},
+{
+"start_ref": "23031009",
+"start_ref_usfm": "ISA 31:9",
+"end_ref": "23031009",
+"end_ref_usfm": "ISA 31:9"
+},
+{
+"start_ref": "23048010",
+"start_ref_usfm": "ISA 48:10",
+"end_ref": "23048010",
+"end_ref_usfm": "ISA 48:10"
+},
+{
+"start_ref": "05004020",
+"start_ref_usfm": "DEU 4:20",
+"end_ref": "05004020",
+"end_ref_usfm": "DEU 4:20"
+},
+{
+"start_ref": "11008051",
+"start_ref_usfm": "1KI 8:51",
+"end_ref": "11008051",
+"end_ref_usfm": "1KI 8:51"
+},
+{
+"start_ref": "20017003",
+"start_ref_usfm": "PRO 17:3",
+"end_ref": "20017003",
+"end_ref_usfm": "PRO 17:3"
+},
+{
+"start_ref": "24011004",
+"start_ref_usfm": "JER 11:4",
+"end_ref": "24011004",
+"end_ref_usfm": "JER 11:4"
+},
+{
+"start_ref": "40013042",
+"start_ref_usfm": "MAT 13:42",
+"end_ref": "40013042",
+"end_ref_usfm": "MAT 13:42"
+},
+{
+"start_ref": "01019028",
+"start_ref_usfm": "GEN 19:28",
+"end_ref": "01019028",
+"end_ref_usfm": "GEN 19:28"
+},
+{
+"start_ref": "19021009",
+"start_ref_usfm": "PSA 21:9",
+"end_ref": "19021009",
+"end_ref_usfm": "PSA 21:9"
+},
+{
+"start_ref": "26022017",
+"start_ref_usfm": "EZK 22:17",
+"end_ref": "26022022",
+"end_ref_usfm": "EZK 22:22"
+},
+{
+"start_ref": "39004001",
+"start_ref_usfm": "MAL 4:1",
+"end_ref": "39004001",
+"end_ref_usfm": "MAL 4:1"
+},
+{
+"start_ref": "40013050",
+"start_ref_usfm": "MAT 13:50",
+"end_ref": "40013050",
+"end_ref_usfm": "MAT 13:50"
+},
+{
+"start_ref": "66009002",
+"start_ref_usfm": "REV 9:2",
+"end_ref": "66009002",
+"end_ref_usfm": "REV 9:2"
+}
+],
+"resource": [
+{
+"reference_id": "4336",
+"content_id": "4336",
+"resource_code": "DictionaryBibleThemes",
+"label": "4336: iron",
+"language": "eng"
+},
+{
+"reference_id": "4345",
+"content_id": "4345",
+"resource_code": "DictionaryBibleThemes",
+"label": "4345: metalworkers",
+"language": "eng"
+},
+{
+"reference_id": "4351",
+"content_id": "4351",
+"resource_code": "DictionaryBibleThemes",
+"label": "4351: refining",
+"language": "eng"
+},
+{
+"reference_id": "4372",
+"content_id": "4372",
+"resource_code": "DictionaryBibleThemes",
+"label": "4372: tin",
+"language": "eng"
+},
+{
+"reference_id": "4826",
+"content_id": "4826",
+"resource_code": "DictionaryBibleThemes",
+"label": "4826: fire",
+"language": "eng"
+},
+{
+"reference_id": "4829",
+"content_id": "4829",
+"resource_code": "DictionaryBibleThemes",
+"label": "4829: heat",
+"language": "eng"
+},
+{
+"reference_id": "5435",
+"content_id": "5435",
+"resource_code": "DictionaryBibleThemes",
+"label": "5435: ovens",
+"language": "eng"
+},
+{
+"reference_id": "5560",
+"content_id": "5560",
+"resource_code": "DictionaryBibleThemes",
+"label": "5560: suffering",
+"language": "eng"
+},
+{
+"reference_id": "8832",
+"content_id": "8832",
+"resource_code": "DictionaryBibleThemes",
+"label": "8832: testing",
+"language": "eng"
+},
+{
+"reference_id": "9510",
+"content_id": "9510",
+"resource_code": "DictionaryBibleThemes",
+"label": "9510: hell",
+"language": "eng"
+}
+]
+}
+}
+]

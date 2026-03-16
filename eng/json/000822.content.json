@@ -1,0 +1,225 @@
+[
+{
+"content_id": "5234",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5234: bottle",
+"media_type": "Text",
+"index_reference": "5234: bottle",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Bottles made from animal skins</h2>\n<h3>Holding wine</h3>\n<p><a href=\"https://ref.ly/Josh9:4\">JOS 9:4</a>, <a href=\"https://ref.ly/Josh9:13\">JOS 9:13</a>; ; <a href=\"https://ref.ly/1Sam1:24\">1SA 1:24</a>, <a href=\"https://ref.ly/1Sam10:3\">1SA 10:3</a>, <a href=\"https://ref.ly/1Sam16:20\">1SA 16:20</a>; ; <a href=\"https://ref.ly/2Sam16:1\">2SA 16:1</a>; ; <a href=\"https://ref.ly/Job32:19\">JOB 32:19</a>; ; <a href=\"https://ref.ly/Matt9:17\">MAT 9:17</a> parallels <a href=\"https://ref.ly/Mark2:22\">MRK 2:22</a>, <a href=\"https://ref.ly/Luke5:37-Luke5:38\">LUK 5:37–5:38</a></p>\n<h3>Holding water</h3>\n<p><a href=\"https://ref.ly/Gen21:14-Gen21:15\">GEN 21:14–21:15</a>, <a href=\"https://ref.ly/Gen21:19\">GEN 21:19</a>; ; <a href=\"https://ref.ly/Ps56:8\">PSA 56:8</a></p>\n<h3>Holding milk</h3>\n<p><a href=\"https://ref.ly/Judg4:19\">JDG 4:19</a></p>\n<h2>Earthenware bottles</h2>\n<p><a href=\"https://ref.ly/1Kgs14:3\">1KI 14:3</a>; ; <a href=\"https://ref.ly/Job38:37\">JOB 38:37</a>; ; <a href=\"https://ref.ly/Ps33:7\">PSA 33:7</a>; ; <a href=\"https://ref.ly/Jer19:1\">JER 19:1</a>, <a href=\"https://ref.ly/Jer19:10\">JER 19:10</a></p>\n<h2>Bottles for oil and ointment</h2>\n<p><a href=\"https://ref.ly/1Sam10:1\">1SA 10:1</a>; ; <a href=\"https://ref.ly/2Kgs9:1\">2KI 9:1</a>; ; <a href=\"https://ref.ly/Isa3:20\">ISA 3:20</a>; ; <a href=\"https://ref.ly/Matt26:7\">MAT 26:7</a> parallels <a href=\"https://ref.ly/Mark14:3\">MRK 14:3</a>, <a href=\"https://ref.ly/Luke7:37\">LUK 7:37</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "06009004",
+"start_ref_usfm": "JOS 9:4",
+"end_ref": "06009004",
+"end_ref_usfm": "JOS 9:4"
+},
+{
+"start_ref": "06009013",
+"start_ref_usfm": "JOS 9:13",
+"end_ref": "06009013",
+"end_ref_usfm": "JOS 9:13"
+},
+{
+"start_ref": "09001024",
+"start_ref_usfm": "1SA 1:24",
+"end_ref": "09001024",
+"end_ref_usfm": "1SA 1:24"
+},
+{
+"start_ref": "09010003",
+"start_ref_usfm": "1SA 10:3",
+"end_ref": "09010003",
+"end_ref_usfm": "1SA 10:3"
+},
+{
+"start_ref": "09016020",
+"start_ref_usfm": "1SA 16:20",
+"end_ref": "09016020",
+"end_ref_usfm": "1SA 16:20"
+},
+{
+"start_ref": "10016001",
+"start_ref_usfm": "2SA 16:1",
+"end_ref": "10016001",
+"end_ref_usfm": "2SA 16:1"
+},
+{
+"start_ref": "18032019",
+"start_ref_usfm": "JOB 32:19",
+"end_ref": "18032019",
+"end_ref_usfm": "JOB 32:19"
+},
+{
+"start_ref": "40009017",
+"start_ref_usfm": "MAT 9:17",
+"end_ref": "40009017",
+"end_ref_usfm": "MAT 9:17"
+},
+{
+"start_ref": "41002022",
+"start_ref_usfm": "MRK 2:22",
+"end_ref": "41002022",
+"end_ref_usfm": "MRK 2:22"
+},
+{
+"start_ref": "42005037",
+"start_ref_usfm": "LUK 5:37",
+"end_ref": "42005038",
+"end_ref_usfm": "LUK 5:38"
+},
+{
+"start_ref": "01021014",
+"start_ref_usfm": "GEN 21:14",
+"end_ref": "01021015",
+"end_ref_usfm": "GEN 21:15"
+},
+{
+"start_ref": "01021019",
+"start_ref_usfm": "GEN 21:19",
+"end_ref": "01021019",
+"end_ref_usfm": "GEN 21:19"
+},
+{
+"start_ref": "19056008",
+"start_ref_usfm": "PSA 56:8",
+"end_ref": "19056008",
+"end_ref_usfm": "PSA 56:8"
+},
+{
+"start_ref": "07004019",
+"start_ref_usfm": "JDG 4:19",
+"end_ref": "07004019",
+"end_ref_usfm": "JDG 4:19"
+},
+{
+"start_ref": "11014003",
+"start_ref_usfm": "1KI 14:3",
+"end_ref": "11014003",
+"end_ref_usfm": "1KI 14:3"
+},
+{
+"start_ref": "18038037",
+"start_ref_usfm": "JOB 38:37",
+"end_ref": "18038037",
+"end_ref_usfm": "JOB 38:37"
+},
+{
+"start_ref": "19033007",
+"start_ref_usfm": "PSA 33:7",
+"end_ref": "19033007",
+"end_ref_usfm": "PSA 33:7"
+},
+{
+"start_ref": "24019001",
+"start_ref_usfm": "JER 19:1",
+"end_ref": "24019001",
+"end_ref_usfm": "JER 19:1"
+},
+{
+"start_ref": "24019010",
+"start_ref_usfm": "JER 19:10",
+"end_ref": "24019010",
+"end_ref_usfm": "JER 19:10"
+},
+{
+"start_ref": "09010001",
+"start_ref_usfm": "1SA 10:1",
+"end_ref": "09010001",
+"end_ref_usfm": "1SA 10:1"
+},
+{
+"start_ref": "12009001",
+"start_ref_usfm": "2KI 9:1",
+"end_ref": "12009001",
+"end_ref_usfm": "2KI 9:1"
+},
+{
+"start_ref": "23003020",
+"start_ref_usfm": "ISA 3:20",
+"end_ref": "23003020",
+"end_ref_usfm": "ISA 3:20"
+},
+{
+"start_ref": "40026007",
+"start_ref_usfm": "MAT 26:7",
+"end_ref": "40026007",
+"end_ref_usfm": "MAT 26:7"
+},
+{
+"start_ref": "41014003",
+"start_ref_usfm": "MRK 14:3",
+"end_ref": "41014003",
+"end_ref_usfm": "MRK 14:3"
+},
+{
+"start_ref": "42007037",
+"start_ref_usfm": "LUK 7:37",
+"end_ref": "42007037",
+"end_ref_usfm": "LUK 7:37"
+}
+],
+"resource": [
+{
+"reference_id": "4293",
+"content_id": "4293",
+"resource_code": "DictionaryBibleThemes",
+"label": "4293: water",
+"language": "eng"
+},
+{
+"reference_id": "4330",
+"content_id": "4330",
+"resource_code": "DictionaryBibleThemes",
+"label": "4330: glass",
+"language": "eng"
+},
+{
+"reference_id": "4488",
+"content_id": "4488",
+"resource_code": "DictionaryBibleThemes",
+"label": "4488: oil",
+"language": "eng"
+},
+{
+"reference_id": "4490",
+"content_id": "4490",
+"resource_code": "DictionaryBibleThemes",
+"label": "4490: ointment",
+"language": "eng"
+},
+{
+"reference_id": "4496",
+"content_id": "4496",
+"resource_code": "DictionaryBibleThemes",
+"label": "4496: perfume",
+"language": "eng"
+},
+{
+"reference_id": "4544",
+"content_id": "4544",
+"resource_code": "DictionaryBibleThemes",
+"label": "4544: wine",
+"language": "eng"
+},
+{
+"reference_id": "4548",
+"content_id": "4548",
+"resource_code": "DictionaryBibleThemes",
+"label": "4548: wineskin",
+"language": "eng"
+},
+{
+"reference_id": "5445",
+"content_id": "5445",
+"resource_code": "DictionaryBibleThemes",
+"label": "5445: potters and pottery",
+"language": "eng"
+}
+]
+}
+}
+]

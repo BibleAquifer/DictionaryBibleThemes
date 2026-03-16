@@ -1,0 +1,361 @@
+[
+{
+"content_id": "6200",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6200: imperfection, influence of",
+"media_type": "Text",
+"index_reference": "6200: imperfection, influence of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture indicates that the world, including human beings and institutions, are imperfect because of the contaminating influence of sin. This influence extends to the household of faith: both Israel and the Christian church are portrayed as prone to sin and weakness.</p>\n<h2>The creation is imperfect because of sin</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:17-Gen3:19\">GEN 3:17–3:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen5:29\">GEN 5:29</a>; <a href=\"https://ref.ly/Rom8:20-Rom8:22\">ROM 8:20–8:22</a></p>\n<h2>Imperfection is expressed in corruption and death</h2>\n<p><strong><a href=\"https://ref.ly/Ps103:15-Ps103:16\">PSA 103:15–103:16</a></strong>; <strong><a href=\"https://ref.ly/2Pet1:4\">2PE 1:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam14:14\">2SA 14:14</a>; <a href=\"https://ref.ly/Ps90:3-Ps90:10\">PSA 90:3–90:10</a>; <a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">ECC 12:1–12:7</a>; <a href=\"https://ref.ly/Jas1:10\">JAS 1:10</a>; <a href=\"https://ref.ly/1Pet1:24\">1PE 1:24</a></p>\n<h2>The imperfection of the spiritual creation</h2>\n<p><strong><a href=\"https://ref.ly/Job4:18\">JOB 4:18</a></strong>; <strong><a href=\"https://ref.ly/Jude1:6\">JUD 1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Pet2:4\">2PE 2:4</a></p>\n<h2>The universal imperfection of human beings</h2>\n<p><strong><a href=\"https://ref.ly/Rom3:23\">ROM 3:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:5\">GEN 6:5</a>; <a href=\"https://ref.ly/1Kgs8:46\">1KI 8:46</a> parallel <a href=\"https://ref.ly/2Chr6:36\">2CH 6:36</a>; <a href=\"https://ref.ly/Ps14:3\">PSA 14:3</a>, <a href=\"https://ref.ly/Ps130:3\">PSA 130:3</a>; <a href=\"https://ref.ly/Prov20:9\">PRO 20:9</a>; <a href=\"https://ref.ly/Eccl7:20\">ECC 7:20</a>; <a href=\"https://ref.ly/Isa53:6\">ISA 53:6</a>, <a href=\"https://ref.ly/Isa64:6\">ISA 64:6</a>; <a href=\"https://ref.ly/Gal3:22\">GAL 3:22</a>; <a href=\"https://ref.ly/Jas3:2\">JAS 3:2</a></p>\n<h2>The imperfection of the household of faith</h2>\n<h3>Israel and her leaders</h3>\n<p><strong><a href=\"https://ref.ly/Neh9:34\">NEH 9:34</a></strong>; <strong><a href=\"https://ref.ly/Jer2:21\">JER 2:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg2:11-Judg2:13\">JDG 2:11–2:13</a>; <a href=\"https://ref.ly/Neh9:16\">NEH 9:16</a>; <a href=\"https://ref.ly/Ps106:39\">PSA 106:39</a>; <a href=\"https://ref.ly/Isa3:14\">ISA 3:14</a>; <a href=\"https://ref.ly/Jer50:6\">JER 50:6</a>; <a href=\"https://ref.ly/Ezek20:30\">EZK 20:30</a>; <a href=\"https://ref.ly/Mic3:1-Mic3:3\">MIC 3:1–3:3</a></p>\n<h3>The Christian church and its leaders</h3>\n<p><strong><a href=\"https://ref.ly/2Cor12:20\">2CO 12:20</a></strong>; <strong><a href=\"https://ref.ly/Phil3:12\">PHP 3:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor3:1-1Cor3:3\">1CO 3:1–3:3</a>, <a href=\"https://ref.ly/1Cor13:12\">1CO 13:12</a>; <a href=\"https://ref.ly/Col2:20\">COL 2:20</a>; <a href=\"https://ref.ly/Heb5:12\">HEB 5:12</a>; <a href=\"https://ref.ly/1John1:8\">1JN 1:8</a>; <a href=\"https://ref.ly/Rev3:2\">REV 3:2</a>, <a href=\"https://ref.ly/Rev3:17\">REV 3:17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01003017",
+"start_ref_usfm": "GEN 3:17",
+"end_ref": "01003019",
+"end_ref_usfm": "GEN 3:19"
+},
+{
+"start_ref": "01005029",
+"start_ref_usfm": "GEN 5:29",
+"end_ref": "01005029",
+"end_ref_usfm": "GEN 5:29"
+},
+{
+"start_ref": "45008020",
+"start_ref_usfm": "ROM 8:20",
+"end_ref": "45008022",
+"end_ref_usfm": "ROM 8:22"
+},
+{
+"start_ref": "19103015",
+"start_ref_usfm": "PSA 103:15",
+"end_ref": "19103016",
+"end_ref_usfm": "PSA 103:16"
+},
+{
+"start_ref": "61001004",
+"start_ref_usfm": "2PE 1:4",
+"end_ref": "61001004",
+"end_ref_usfm": "2PE 1:4"
+},
+{
+"start_ref": "10014014",
+"start_ref_usfm": "2SA 14:14",
+"end_ref": "10014014",
+"end_ref_usfm": "2SA 14:14"
+},
+{
+"start_ref": "19090003",
+"start_ref_usfm": "PSA 90:3",
+"end_ref": "19090010",
+"end_ref_usfm": "PSA 90:10"
+},
+{
+"start_ref": "21012001",
+"start_ref_usfm": "ECC 12:1",
+"end_ref": "21012007",
+"end_ref_usfm": "ECC 12:7"
+},
+{
+"start_ref": "59001010",
+"start_ref_usfm": "JAS 1:10",
+"end_ref": "59001010",
+"end_ref_usfm": "JAS 1:10"
+},
+{
+"start_ref": "60001024",
+"start_ref_usfm": "1PE 1:24",
+"end_ref": "60001024",
+"end_ref_usfm": "1PE 1:24"
+},
+{
+"start_ref": "18004018",
+"start_ref_usfm": "JOB 4:18",
+"end_ref": "18004018",
+"end_ref_usfm": "JOB 4:18"
+},
+{
+"start_ref": "65001006",
+"start_ref_usfm": "JUD 1:6",
+"end_ref": "65001006",
+"end_ref_usfm": "JUD 1:6"
+},
+{
+"start_ref": "61002004",
+"start_ref_usfm": "2PE 2:4",
+"end_ref": "61002004",
+"end_ref_usfm": "2PE 2:4"
+},
+{
+"start_ref": "45003023",
+"start_ref_usfm": "ROM 3:23",
+"end_ref": "45003023",
+"end_ref_usfm": "ROM 3:23"
+},
+{
+"start_ref": "01006005",
+"start_ref_usfm": "GEN 6:5",
+"end_ref": "01006005",
+"end_ref_usfm": "GEN 6:5"
+},
+{
+"start_ref": "11008046",
+"start_ref_usfm": "1KI 8:46",
+"end_ref": "11008046",
+"end_ref_usfm": "1KI 8:46"
+},
+{
+"start_ref": "14006036",
+"start_ref_usfm": "2CH 6:36",
+"end_ref": "14006036",
+"end_ref_usfm": "2CH 6:36"
+},
+{
+"start_ref": "19014003",
+"start_ref_usfm": "PSA 14:3",
+"end_ref": "19014003",
+"end_ref_usfm": "PSA 14:3"
+},
+{
+"start_ref": "19130003",
+"start_ref_usfm": "PSA 130:3",
+"end_ref": "19130003",
+"end_ref_usfm": "PSA 130:3"
+},
+{
+"start_ref": "20020009",
+"start_ref_usfm": "PRO 20:9",
+"end_ref": "20020009",
+"end_ref_usfm": "PRO 20:9"
+},
+{
+"start_ref": "21007020",
+"start_ref_usfm": "ECC 7:20",
+"end_ref": "21007020",
+"end_ref_usfm": "ECC 7:20"
+},
+{
+"start_ref": "23053006",
+"start_ref_usfm": "ISA 53:6",
+"end_ref": "23053006",
+"end_ref_usfm": "ISA 53:6"
+},
+{
+"start_ref": "23064006",
+"start_ref_usfm": "ISA 64:6",
+"end_ref": "23064006",
+"end_ref_usfm": "ISA 64:6"
+},
+{
+"start_ref": "48003022",
+"start_ref_usfm": "GAL 3:22",
+"end_ref": "48003022",
+"end_ref_usfm": "GAL 3:22"
+},
+{
+"start_ref": "59003002",
+"start_ref_usfm": "JAS 3:2",
+"end_ref": "59003002",
+"end_ref_usfm": "JAS 3:2"
+},
+{
+"start_ref": "16009034",
+"start_ref_usfm": "NEH 9:34",
+"end_ref": "16009034",
+"end_ref_usfm": "NEH 9:34"
+},
+{
+"start_ref": "24002021",
+"start_ref_usfm": "JER 2:21",
+"end_ref": "24002021",
+"end_ref_usfm": "JER 2:21"
+},
+{
+"start_ref": "07002011",
+"start_ref_usfm": "JDG 2:11",
+"end_ref": "07002013",
+"end_ref_usfm": "JDG 2:13"
+},
+{
+"start_ref": "16009016",
+"start_ref_usfm": "NEH 9:16",
+"end_ref": "16009016",
+"end_ref_usfm": "NEH 9:16"
+},
+{
+"start_ref": "19106039",
+"start_ref_usfm": "PSA 106:39",
+"end_ref": "19106039",
+"end_ref_usfm": "PSA 106:39"
+},
+{
+"start_ref": "23003014",
+"start_ref_usfm": "ISA 3:14",
+"end_ref": "23003014",
+"end_ref_usfm": "ISA 3:14"
+},
+{
+"start_ref": "24050006",
+"start_ref_usfm": "JER 50:6",
+"end_ref": "24050006",
+"end_ref_usfm": "JER 50:6"
+},
+{
+"start_ref": "26020030",
+"start_ref_usfm": "EZK 20:30",
+"end_ref": "26020030",
+"end_ref_usfm": "EZK 20:30"
+},
+{
+"start_ref": "33003001",
+"start_ref_usfm": "MIC 3:1",
+"end_ref": "33003003",
+"end_ref_usfm": "MIC 3:3"
+},
+{
+"start_ref": "47012020",
+"start_ref_usfm": "2CO 12:20",
+"end_ref": "47012020",
+"end_ref_usfm": "2CO 12:20"
+},
+{
+"start_ref": "50003012",
+"start_ref_usfm": "PHP 3:12",
+"end_ref": "50003012",
+"end_ref_usfm": "PHP 3:12"
+},
+{
+"start_ref": "46003001",
+"start_ref_usfm": "1CO 3:1",
+"end_ref": "46003003",
+"end_ref_usfm": "1CO 3:3"
+},
+{
+"start_ref": "46013012",
+"start_ref_usfm": "1CO 13:12",
+"end_ref": "46013012",
+"end_ref_usfm": "1CO 13:12"
+},
+{
+"start_ref": "51002020",
+"start_ref_usfm": "COL 2:20",
+"end_ref": "51002020",
+"end_ref_usfm": "COL 2:20"
+},
+{
+"start_ref": "58005012",
+"start_ref_usfm": "HEB 5:12",
+"end_ref": "58005012",
+"end_ref_usfm": "HEB 5:12"
+},
+{
+"start_ref": "62001008",
+"start_ref_usfm": "1JN 1:8",
+"end_ref": "62001008",
+"end_ref_usfm": "1JN 1:8"
+},
+{
+"start_ref": "66003002",
+"start_ref_usfm": "REV 3:2",
+"end_ref": "66003002",
+"end_ref_usfm": "REV 3:2"
+},
+{
+"start_ref": "66003017",
+"start_ref_usfm": "REV 3:17",
+"end_ref": "66003017",
+"end_ref_usfm": "REV 3:17"
+}
+],
+"resource": [
+{
+"reference_id": "4005",
+"content_id": "4005",
+"resource_code": "DictionaryBibleThemes",
+"label": "4005: creation",
+"language": "eng"
+},
+{
+"reference_id": "5411",
+"content_id": "5411",
+"resource_code": "DictionaryBibleThemes",
+"label": "5411: mirror",
+"language": "eng"
+},
+{
+"reference_id": "5801",
+"content_id": "5801",
+"resource_code": "DictionaryBibleThemes",
+"label": "5801: brokenness",
+"language": "eng"
+},
+{
+"reference_id": "6020",
+"content_id": "6020",
+"resource_code": "DictionaryBibleThemes",
+"label": "6020: sin",
+"language": "eng"
+},
+{
+"reference_id": "6130",
+"content_id": "6130",
+"resource_code": "DictionaryBibleThemes",
+"label": "6130: corruption",
+"language": "eng"
+},
+{
+"reference_id": "6142",
+"content_id": "6142",
+"resource_code": "DictionaryBibleThemes",
+"label": "6142: decay",
+"language": "eng"
+},
+{
+"reference_id": "6154",
+"content_id": "6154",
+"resource_code": "DictionaryBibleThemes",
+"label": "6154: fall, the",
+"language": "eng"
+},
+{
+"reference_id": "6203",
+"content_id": "6203",
+"resource_code": "DictionaryBibleThemes",
+"label": "6203: mortality",
+"language": "eng"
+},
+{
+"reference_id": "8357",
+"content_id": "8357",
+"resource_code": "DictionaryBibleThemes",
+"label": "8357: weakness",
+"language": "eng"
+},
+{
+"reference_id": "8734",
+"content_id": "8734",
+"resource_code": "DictionaryBibleThemes",
+"label": "8734: evil",
+"language": "eng"
+},
+{
+"reference_id": "8741",
+"content_id": "8741",
+"resource_code": "DictionaryBibleThemes",
+"label": "8741: failure",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+}
+]
+}
+}
+]

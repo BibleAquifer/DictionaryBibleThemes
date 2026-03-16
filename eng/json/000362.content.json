@@ -1,0 +1,126 @@
+[
+{
+"content_id": "4221",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4221: cistern",
+"media_type": "Text",
+"index_reference": "4221: cistern",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A reservoir for storing water collected from rainfall or from a spring. When empty, it was used for a variety of purposes. The word is also employed in a figurative sense.</p>\n<h2>Cisterns were used to collect water</h2>\n<p><strong><a href=\"https://ref.ly/2Chr26:10\">2CH 26:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs18:31\">2KI 18:31</a> parallel <a href=\"https://ref.ly/Isa36:16\">ISA 36:16</a>; <a href=\"https://ref.ly/Jer14:3\">JER 14:3</a></p>\n<h2>Other uses for cisterns</h2>\n<p><strong><a href=\"https://ref.ly/Jer38:6-Jer38:13\">JER 38:6–38:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen37:19-Gen37:24\">GEN 37:19–37:24</a>, <a href=\"https://ref.ly/Gen37:28-Gen37:30\">GEN 37:28–37:30</a>; <a href=\"https://ref.ly/Jer41:4-Jer41:7\">JER 41:4–41:7</a>, <a href=\"https://ref.ly/Jer41:9\">JER 41:9</a>; <a href=\"https://ref.ly/Zech9:11\">ZEC 9:11</a></p>\n<h2>Cisterns used as symbols</h2>\n<h3>Cisterns as symbols of spiritual well-being</h3>\n<p><strong><a href=\"https://ref.ly/Jer2:13\">JER 2:13</a></strong></p>\n<h3>Cisterns as symbols of physical well-being</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Prov5:15-Prov5:19\">PRO 5:15–5:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "14026010",
+"start_ref_usfm": "2CH 26:10",
+"end_ref": "14026010",
+"end_ref_usfm": "2CH 26:10"
+},
+{
+"start_ref": "12018031",
+"start_ref_usfm": "2KI 18:31",
+"end_ref": "12018031",
+"end_ref_usfm": "2KI 18:31"
+},
+{
+"start_ref": "23036016",
+"start_ref_usfm": "ISA 36:16",
+"end_ref": "23036016",
+"end_ref_usfm": "ISA 36:16"
+},
+{
+"start_ref": "24014003",
+"start_ref_usfm": "JER 14:3",
+"end_ref": "24014003",
+"end_ref_usfm": "JER 14:3"
+},
+{
+"start_ref": "24038006",
+"start_ref_usfm": "JER 38:6",
+"end_ref": "24038013",
+"end_ref_usfm": "JER 38:13"
+},
+{
+"start_ref": "01037019",
+"start_ref_usfm": "GEN 37:19",
+"end_ref": "01037024",
+"end_ref_usfm": "GEN 37:24"
+},
+{
+"start_ref": "01037028",
+"start_ref_usfm": "GEN 37:28",
+"end_ref": "01037030",
+"end_ref_usfm": "GEN 37:30"
+},
+{
+"start_ref": "24041004",
+"start_ref_usfm": "JER 41:4",
+"end_ref": "24041007",
+"end_ref_usfm": "JER 41:7"
+},
+{
+"start_ref": "24041009",
+"start_ref_usfm": "JER 41:9",
+"end_ref": "24041009",
+"end_ref_usfm": "JER 41:9"
+},
+{
+"start_ref": "38009011",
+"start_ref_usfm": "ZEC 9:11",
+"end_ref": "38009011",
+"end_ref_usfm": "ZEC 9:11"
+},
+{
+"start_ref": "24002013",
+"start_ref_usfm": "JER 2:13",
+"end_ref": "24002013",
+"end_ref_usfm": "JER 2:13"
+},
+{
+"start_ref": "20005015",
+"start_ref_usfm": "PRO 5:15",
+"end_ref": "20005019",
+"end_ref_usfm": "PRO 5:19"
+}
+],
+"resource": [
+{
+"reference_id": "4236",
+"content_id": "4236",
+"resource_code": "DictionaryBibleThemes",
+"label": "4236: fountain",
+"language": "eng"
+},
+{
+"reference_id": "4278",
+"content_id": "4278",
+"resource_code": "DictionaryBibleThemes",
+"label": "4278: spring of water",
+"language": "eng"
+},
+{
+"reference_id": "4293",
+"content_id": "4293",
+"resource_code": "DictionaryBibleThemes",
+"label": "4293: water",
+"language": "eng"
+},
+{
+"reference_id": "4296",
+"content_id": "4296",
+"resource_code": "DictionaryBibleThemes",
+"label": "4296: wells",
+"language": "eng"
+},
+{
+"reference_id": "5226",
+"content_id": "5226",
+"resource_code": "DictionaryBibleThemes",
+"label": "5226: basin",
+"language": "eng"
+}
+]
+}
+}
+]

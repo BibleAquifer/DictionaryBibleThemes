@@ -1,0 +1,99 @@
+[
+{
+"content_id": "5356",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5356: irony",
+"media_type": "Text",
+"index_reference": "5356: irony",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Irony directed against idolaters</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs18:27\">1KI 18:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa44:12-Isa44:19\">ISA 44:12–44:19</a></p>\n<h2>Irony in the speeches of Job and his friends</h2>\n<p><strong><a href=\"https://ref.ly/Job12:2\">JOB 12:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job16:2-Job16:3\">JOB 16:2–16:3</a></p>\n<h2>Irony in declarations of impending punishment</h2>\n<p><strong><a href=\"https://ref.ly/Jer34:17\">JER 34:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg9:1-Judg9:21\">JDG 9:1–9:21</a></p>\n<h2>Irony used for instruction</h2>\n<p><strong><a href=\"https://ref.ly/1Cor4:7-1Cor4:14\">1CO 4:7–4:14</a></strong></p>\n<h2>Other examples of irony</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/2Sam6:20\">2SA 6:20</a>; <a href=\"https://ref.ly/Mark2:17\">MRK 2:17</a>, <a href=\"https://ref.ly/Mark15:17-Mark15:19\">MRK 15:17–15:19</a>; <a href=\"https://ref.ly/Acts26:28\">ACT 26:28</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11018027",
+"start_ref_usfm": "1KI 18:27",
+"end_ref": "11018027",
+"end_ref_usfm": "1KI 18:27"
+},
+{
+"start_ref": "23044012",
+"start_ref_usfm": "ISA 44:12",
+"end_ref": "23044019",
+"end_ref_usfm": "ISA 44:19"
+},
+{
+"start_ref": "18012002",
+"start_ref_usfm": "JOB 12:2",
+"end_ref": "18012002",
+"end_ref_usfm": "JOB 12:2"
+},
+{
+"start_ref": "18016002",
+"start_ref_usfm": "JOB 16:2",
+"end_ref": "18016003",
+"end_ref_usfm": "JOB 16:3"
+},
+{
+"start_ref": "24034017",
+"start_ref_usfm": "JER 34:17",
+"end_ref": "24034017",
+"end_ref_usfm": "JER 34:17"
+},
+{
+"start_ref": "07009001",
+"start_ref_usfm": "JDG 9:1",
+"end_ref": "07009021",
+"end_ref_usfm": "JDG 9:21"
+},
+{
+"start_ref": "46004007",
+"start_ref_usfm": "1CO 4:7",
+"end_ref": "46004014",
+"end_ref_usfm": "1CO 4:14"
+},
+{
+"start_ref": "10006020",
+"start_ref_usfm": "2SA 6:20",
+"end_ref": "10006020",
+"end_ref_usfm": "2SA 6:20"
+},
+{
+"start_ref": "41002017",
+"start_ref_usfm": "MRK 2:17",
+"end_ref": "41002017",
+"end_ref_usfm": "MRK 2:17"
+},
+{
+"start_ref": "41015017",
+"start_ref_usfm": "MRK 15:17",
+"end_ref": "41015019",
+"end_ref_usfm": "MRK 15:19"
+},
+{
+"start_ref": "44026028",
+"start_ref_usfm": "ACT 26:28",
+"end_ref": "44026028",
+"end_ref_usfm": "ACT 26:28"
+}
+],
+"resource": [
+{
+"reference_id": "5880",
+"content_id": "5880",
+"resource_code": "DictionaryBibleThemes",
+"label": "5880: humour",
+"language": "eng"
+},
+{
+"reference_id": "8782",
+"content_id": "8782",
+"resource_code": "DictionaryBibleThemes",
+"label": "8782: mockery",
+"language": "eng"
+}
+]
+}
+}
+]

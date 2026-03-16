@@ -1,0 +1,295 @@
+[
+{
+"content_id": "5586",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5586: town",
+"media_type": "Text",
+"index_reference": "5586: town",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A large concentration of dwellings, often walled, to be distinguished from the larger cities.</p>\n<h2>A town was a large concentration of dwellings</h2>\n<p><strong><a href=\"https://ref.ly/1Sam23:7\">1SA 23:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh19:50\">JOS 19:50</a>; <a href=\"https://ref.ly/Mark6:10\">MRK 6:10</a>; <a href=\"https://ref.ly/Acts16:4\">ACT 16:4</a></p>\n<h2>Town officials</h2>\n<p><strong><a href=\"https://ref.ly/Deut16:18\">DEU 16:18</a></strong>; <strong><a href=\"https://ref.ly/Judg8:14-Judg8:16\">JDG 8:14–8:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut19:12\">DEU 19:12</a>, <a href=\"https://ref.ly/Deut21:3\">DEU 21:3</a>, <a href=\"https://ref.ly/Deut21:19\">DEU 21:19</a>, <a href=\"https://ref.ly/Deut22:15\">DEU 22:15</a>, <a href=\"https://ref.ly/Deut25:7\">DEU 25:7</a>; <a href=\"https://ref.ly/Ruth4:2\">RUT 4:2</a>; <a href=\"https://ref.ly/1Sam16:4\">1SA 16:4</a>; <a href=\"https://ref.ly/Ezra10:14\">EZR 10:14</a>; <a href=\"https://ref.ly/Luke18:2-Luke18:3\">LUK 18:2–18:3</a></p>\n<h2>Town records</h2>\n<p><strong><a href=\"https://ref.ly/Ruth4:10\">RUT 4:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke2:3-Luke2:4\">LUK 2:3–2:4</a></p>\n<h2>Laws concerning towns</h2>\n<p><a href=\"https://ref.ly/Lev25:33\">LEV 25:33</a>; ; <a href=\"https://ref.ly/Num35:4-Num35:5\">NUM 35:4–35:5</a></p>\n<h2>Town celebrations and worship</h2>\n<p><strong><a href=\"https://ref.ly/Deut16:5\">DEU 16:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam9:10-1Sam9:14\">1SA 9:10–9:14</a>, <a href=\"https://ref.ly/1Sam20:29\">1SA 20:29</a>; <a href=\"https://ref.ly/2Chr28:25\">2CH 28:25</a></p>\n<h2>The town was a close-knit community</h2>\n<p><strong><a href=\"https://ref.ly/Ruth1:19\">RUT 1:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam4:13\">1SA 4:13</a></p>\n<h2>Towns associated with Jesus Christ</h2>\n<p><a href=\"https://ref.ly/Matt13:54\">MAT 13:54</a> <em>Nazareth, his home town</em>; ; <a href=\"https://ref.ly/Luke4:31\">LUK 4:31</a> <em>Capernaum in Galilee</em>; ; <a href=\"https://ref.ly/Luke8:1\">LUK 8:1</a>, <a href=\"https://ref.ly/Luke8:4\">LUK 8:4</a>; ; <a href=\"https://ref.ly/John4:5\">JHN 4:5</a> <em>Sychar in Samaria</em></p>\n<h2>Wickedness in towns</h2>\n<p><strong><a href=\"https://ref.ly/Deut13:13\">DEU 13:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg6:30\">JDG 6:30</a>; <a href=\"https://ref.ly/2Kgs2:23\">2KI 2:23</a>; <a href=\"https://ref.ly/2Chr30:10\">2CH 30:10</a>; <a href=\"https://ref.ly/Matt23:34\">MAT 23:34</a></p>\n<h2>Judgment on towns</h2>\n<p><strong><a href=\"https://ref.ly/Deut13:15\">DEU 13:15</a></strong>; <strong><a href=\"https://ref.ly/Isa25:2\">ISA 25:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs3:19\">2KI 3:19</a>; <a href=\"https://ref.ly/Matt10:11\">MAT 10:11</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09023007",
+"start_ref_usfm": "1SA 23:7",
+"end_ref": "09023007",
+"end_ref_usfm": "1SA 23:7"
+},
+{
+"start_ref": "06019050",
+"start_ref_usfm": "JOS 19:50",
+"end_ref": "06019050",
+"end_ref_usfm": "JOS 19:50"
+},
+{
+"start_ref": "41006010",
+"start_ref_usfm": "MRK 6:10",
+"end_ref": "41006010",
+"end_ref_usfm": "MRK 6:10"
+},
+{
+"start_ref": "44016004",
+"start_ref_usfm": "ACT 16:4",
+"end_ref": "44016004",
+"end_ref_usfm": "ACT 16:4"
+},
+{
+"start_ref": "05016018",
+"start_ref_usfm": "DEU 16:18",
+"end_ref": "05016018",
+"end_ref_usfm": "DEU 16:18"
+},
+{
+"start_ref": "07008014",
+"start_ref_usfm": "JDG 8:14",
+"end_ref": "07008016",
+"end_ref_usfm": "JDG 8:16"
+},
+{
+"start_ref": "05019012",
+"start_ref_usfm": "DEU 19:12",
+"end_ref": "05019012",
+"end_ref_usfm": "DEU 19:12"
+},
+{
+"start_ref": "05021003",
+"start_ref_usfm": "DEU 21:3",
+"end_ref": "05021003",
+"end_ref_usfm": "DEU 21:3"
+},
+{
+"start_ref": "05021019",
+"start_ref_usfm": "DEU 21:19",
+"end_ref": "05021019",
+"end_ref_usfm": "DEU 21:19"
+},
+{
+"start_ref": "05022015",
+"start_ref_usfm": "DEU 22:15",
+"end_ref": "05022015",
+"end_ref_usfm": "DEU 22:15"
+},
+{
+"start_ref": "05025007",
+"start_ref_usfm": "DEU 25:7",
+"end_ref": "05025007",
+"end_ref_usfm": "DEU 25:7"
+},
+{
+"start_ref": "08004002",
+"start_ref_usfm": "RUT 4:2",
+"end_ref": "08004002",
+"end_ref_usfm": "RUT 4:2"
+},
+{
+"start_ref": "09016004",
+"start_ref_usfm": "1SA 16:4",
+"end_ref": "09016004",
+"end_ref_usfm": "1SA 16:4"
+},
+{
+"start_ref": "15010014",
+"start_ref_usfm": "EZR 10:14",
+"end_ref": "15010014",
+"end_ref_usfm": "EZR 10:14"
+},
+{
+"start_ref": "42018002",
+"start_ref_usfm": "LUK 18:2",
+"end_ref": "42018003",
+"end_ref_usfm": "LUK 18:3"
+},
+{
+"start_ref": "08004010",
+"start_ref_usfm": "RUT 4:10",
+"end_ref": "08004010",
+"end_ref_usfm": "RUT 4:10"
+},
+{
+"start_ref": "42002003",
+"start_ref_usfm": "LUK 2:3",
+"end_ref": "42002004",
+"end_ref_usfm": "LUK 2:4"
+},
+{
+"start_ref": "03025033",
+"start_ref_usfm": "LEV 25:33",
+"end_ref": "03025033",
+"end_ref_usfm": "LEV 25:33"
+},
+{
+"start_ref": "04035004",
+"start_ref_usfm": "NUM 35:4",
+"end_ref": "04035005",
+"end_ref_usfm": "NUM 35:5"
+},
+{
+"start_ref": "05016005",
+"start_ref_usfm": "DEU 16:5",
+"end_ref": "05016005",
+"end_ref_usfm": "DEU 16:5"
+},
+{
+"start_ref": "09009010",
+"start_ref_usfm": "1SA 9:10",
+"end_ref": "09009014",
+"end_ref_usfm": "1SA 9:14"
+},
+{
+"start_ref": "09020029",
+"start_ref_usfm": "1SA 20:29",
+"end_ref": "09020029",
+"end_ref_usfm": "1SA 20:29"
+},
+{
+"start_ref": "14028025",
+"start_ref_usfm": "2CH 28:25",
+"end_ref": "14028025",
+"end_ref_usfm": "2CH 28:25"
+},
+{
+"start_ref": "08001019",
+"start_ref_usfm": "RUT 1:19",
+"end_ref": "08001019",
+"end_ref_usfm": "RUT 1:19"
+},
+{
+"start_ref": "09004013",
+"start_ref_usfm": "1SA 4:13",
+"end_ref": "09004013",
+"end_ref_usfm": "1SA 4:13"
+},
+{
+"start_ref": "40013054",
+"start_ref_usfm": "MAT 13:54",
+"end_ref": "40013054",
+"end_ref_usfm": "MAT 13:54"
+},
+{
+"start_ref": "42004031",
+"start_ref_usfm": "LUK 4:31",
+"end_ref": "42004031",
+"end_ref_usfm": "LUK 4:31"
+},
+{
+"start_ref": "42008001",
+"start_ref_usfm": "LUK 8:1",
+"end_ref": "42008001",
+"end_ref_usfm": "LUK 8:1"
+},
+{
+"start_ref": "42008004",
+"start_ref_usfm": "LUK 8:4",
+"end_ref": "42008004",
+"end_ref_usfm": "LUK 8:4"
+},
+{
+"start_ref": "43004005",
+"start_ref_usfm": "JHN 4:5",
+"end_ref": "43004005",
+"end_ref_usfm": "JHN 4:5"
+},
+{
+"start_ref": "05013013",
+"start_ref_usfm": "DEU 13:13",
+"end_ref": "05013013",
+"end_ref_usfm": "DEU 13:13"
+},
+{
+"start_ref": "07006030",
+"start_ref_usfm": "JDG 6:30",
+"end_ref": "07006030",
+"end_ref_usfm": "JDG 6:30"
+},
+{
+"start_ref": "12002023",
+"start_ref_usfm": "2KI 2:23",
+"end_ref": "12002023",
+"end_ref_usfm": "2KI 2:23"
+},
+{
+"start_ref": "14030010",
+"start_ref_usfm": "2CH 30:10",
+"end_ref": "14030010",
+"end_ref_usfm": "2CH 30:10"
+},
+{
+"start_ref": "40023034",
+"start_ref_usfm": "MAT 23:34",
+"end_ref": "40023034",
+"end_ref_usfm": "MAT 23:34"
+},
+{
+"start_ref": "05013015",
+"start_ref_usfm": "DEU 13:15",
+"end_ref": "05013015",
+"end_ref_usfm": "DEU 13:15"
+},
+{
+"start_ref": "23025002",
+"start_ref_usfm": "ISA 25:2",
+"end_ref": "23025002",
+"end_ref_usfm": "ISA 25:2"
+},
+{
+"start_ref": "12003019",
+"start_ref_usfm": "2KI 3:19",
+"end_ref": "12003019",
+"end_ref_usfm": "2KI 3:19"
+},
+{
+"start_ref": "40010011",
+"start_ref_usfm": "MAT 10:11",
+"end_ref": "40010011",
+"end_ref_usfm": "MAT 10:11"
+}
+],
+"resource": [
+{
+"reference_id": "2363",
+"content_id": "2363",
+"resource_code": "DictionaryBibleThemes",
+"label": "2363: Jesus Christ, preaching and teaching of",
+"language": "eng"
+},
+{
+"reference_id": "5256",
+"content_id": "5256",
+"resource_code": "DictionaryBibleThemes",
+"label": "5256: city",
+"language": "eng"
+},
+{
+"reference_id": "5315",
+"content_id": "5315",
+"resource_code": "DictionaryBibleThemes",
+"label": "5315: fortifications",
+"language": "eng"
+},
+{
+"reference_id": "5505",
+"content_id": "5505",
+"resource_code": "DictionaryBibleThemes",
+"label": "5505: roads",
+"language": "eng"
+},
+{
+"reference_id": "5601",
+"content_id": "5601",
+"resource_code": "DictionaryBibleThemes",
+"label": "5601: village",
+"language": "eng"
+},
+{
+"reference_id": "7206",
+"content_id": "7206",
+"resource_code": "DictionaryBibleThemes",
+"label": "7206: community",
+"language": "eng"
+}
+]
+}
+}
+]

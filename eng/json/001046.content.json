@@ -1,0 +1,223 @@
+[
+{
+"content_id": "5472",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5472: proof, as evidence",
+"media_type": "Text",
+"index_reference": "5472: proof, as evidence",
+"language": "eng",
+"review_level": "None",
+"content": "<p>In the judicial sense, evidence is required to confirm the testimony of a witness. In the lives of believers, practical evidence should be obvious as proof of the reality of their faith.</p>\n<h2>The Mosaic law required proof to be offered in various legal contexts</h2>\n<h3>In giving testimony</h3>\n<p><strong><a href=\"https://ref.ly/Deut19:15\">DEU 19:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:2\">EXO 23:2</a>; <a href=\"https://ref.ly/Lev5:1\">LEV 5:1</a>; <a href=\"https://ref.ly/Deut17:6\">DEU 17:6</a></p>\n<h3>In acccusations of immorality</h3>\n<p><strong><a href=\"https://ref.ly/Deut22:13-Deut22:21\">DEU 22:13–22:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num5:11-Num5:31\">NUM 5:11–5:31</a></p>\n<h3>In accusations of idolatry</h3>\n<p><strong><a href=\"https://ref.ly/Deut13:12-Deut13:15\">DEU 13:12–13:15</a></strong></p>\n<h2>Evidence offered as proof of the gospel</h2>\n<h3>The evidence of witnesses</h3>\n<p><strong><a href=\"https://ref.ly/2Pet1:16-2Pet1:18\">2PE 1:16–1:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts1:3\">ACT 1:3</a>; <a href=\"https://ref.ly/1Cor15:5-1Cor15:7\">1CO 15:5–15:7</a>; <a href=\"https://ref.ly/Heb2:3-Heb2:4\">HEB 2:3–2:4</a>; <a href=\"https://ref.ly/1John1:1-1John1:3\">1JN 1:1–1:3</a></p>\n<h3>Believers' lives are to prove the reality of their faith</h3>\n<p><strong><a href=\"https://ref.ly/John15:8\">JHN 15:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt25:31-Matt25:46\">MAT 25:31–25:46</a>; <a href=\"https://ref.ly/Acts26:20\">ACT 26:20</a>; <a href=\"https://ref.ly/1Cor4:2\">1CO 4:2</a>; <a href=\"https://ref.ly/2Cor8:24\">2CO 8:24</a></p>\n<h2>Evidence and signs given as proof</h2>\n<h3>Looking for signs of the will of God</h3>\n<p><strong><a href=\"https://ref.ly/Judg6:36-Judg6:38\">JDG 6:36–6:38</a></strong></p>\n<h3>The signs of Jesus Christ as a basis of faith</h3>\n<p><strong><a href=\"https://ref.ly/John2:11\">JHN 2:11</a></strong></p>\n<h3>Jesus Christ's criticism of those who demanded other signs</h3>\n<p><strong><a href=\"https://ref.ly/Matt16:4\">MAT 16:4</a></strong> <em>The “sign of Jonah” is a reference to the resurrection of Jesus Christ.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05019015",
+"start_ref_usfm": "DEU 19:15",
+"end_ref": "05019015",
+"end_ref_usfm": "DEU 19:15"
+},
+{
+"start_ref": "02023002",
+"start_ref_usfm": "EXO 23:2",
+"end_ref": "02023002",
+"end_ref_usfm": "EXO 23:2"
+},
+{
+"start_ref": "03005001",
+"start_ref_usfm": "LEV 5:1",
+"end_ref": "03005001",
+"end_ref_usfm": "LEV 5:1"
+},
+{
+"start_ref": "05017006",
+"start_ref_usfm": "DEU 17:6",
+"end_ref": "05017006",
+"end_ref_usfm": "DEU 17:6"
+},
+{
+"start_ref": "05022013",
+"start_ref_usfm": "DEU 22:13",
+"end_ref": "05022021",
+"end_ref_usfm": "DEU 22:21"
+},
+{
+"start_ref": "04005011",
+"start_ref_usfm": "NUM 5:11",
+"end_ref": "04005031",
+"end_ref_usfm": "NUM 5:31"
+},
+{
+"start_ref": "05013012",
+"start_ref_usfm": "DEU 13:12",
+"end_ref": "05013015",
+"end_ref_usfm": "DEU 13:15"
+},
+{
+"start_ref": "61001016",
+"start_ref_usfm": "2PE 1:16",
+"end_ref": "61001018",
+"end_ref_usfm": "2PE 1:18"
+},
+{
+"start_ref": "44001003",
+"start_ref_usfm": "ACT 1:3",
+"end_ref": "44001003",
+"end_ref_usfm": "ACT 1:3"
+},
+{
+"start_ref": "46015005",
+"start_ref_usfm": "1CO 15:5",
+"end_ref": "46015007",
+"end_ref_usfm": "1CO 15:7"
+},
+{
+"start_ref": "58002003",
+"start_ref_usfm": "HEB 2:3",
+"end_ref": "58002004",
+"end_ref_usfm": "HEB 2:4"
+},
+{
+"start_ref": "62001001",
+"start_ref_usfm": "1JN 1:1",
+"end_ref": "62001003",
+"end_ref_usfm": "1JN 1:3"
+},
+{
+"start_ref": "43015008",
+"start_ref_usfm": "JHN 15:8",
+"end_ref": "43015008",
+"end_ref_usfm": "JHN 15:8"
+},
+{
+"start_ref": "40025031",
+"start_ref_usfm": "MAT 25:31",
+"end_ref": "40025046",
+"end_ref_usfm": "MAT 25:46"
+},
+{
+"start_ref": "44026020",
+"start_ref_usfm": "ACT 26:20",
+"end_ref": "44026020",
+"end_ref_usfm": "ACT 26:20"
+},
+{
+"start_ref": "46004002",
+"start_ref_usfm": "1CO 4:2",
+"end_ref": "46004002",
+"end_ref_usfm": "1CO 4:2"
+},
+{
+"start_ref": "47008024",
+"start_ref_usfm": "2CO 8:24",
+"end_ref": "47008024",
+"end_ref_usfm": "2CO 8:24"
+},
+{
+"start_ref": "07006036",
+"start_ref_usfm": "JDG 6:36",
+"end_ref": "07006038",
+"end_ref_usfm": "JDG 6:38"
+},
+{
+"start_ref": "43002011",
+"start_ref_usfm": "JHN 2:11",
+"end_ref": "43002011",
+"end_ref_usfm": "JHN 2:11"
+},
+{
+"start_ref": "40016004",
+"start_ref_usfm": "MAT 16:4",
+"end_ref": "40016004",
+"end_ref_usfm": "MAT 16:4"
+}
+],
+"resource": [
+{
+"reference_id": "1416",
+"content_id": "1416",
+"resource_code": "DictionaryBibleThemes",
+"label": "1416: miracles, nature of",
+"language": "eng"
+},
+{
+"reference_id": "1461",
+"content_id": "1461",
+"resource_code": "DictionaryBibleThemes",
+"label": "1461: truth, nature of",
+"language": "eng"
+},
+{
+"reference_id": "2351",
+"content_id": "2351",
+"resource_code": "DictionaryBibleThemes",
+"label": "2351: Jesus Christ, miracles of",
+"language": "eng"
+},
+{
+"reference_id": "2366",
+"content_id": "2366",
+"resource_code": "DictionaryBibleThemes",
+"label": "2366: Jesus Christ, prophecies concerning",
+"language": "eng"
+},
+{
+"reference_id": "2422",
+"content_id": "2422",
+"resource_code": "DictionaryBibleThemes",
+"label": "2422: gospel, confirmation of",
+"language": "eng"
+},
+{
+"reference_id": "2560",
+"content_id": "2560",
+"resource_code": "DictionaryBibleThemes",
+"label": "2560: Jesus Christ, resurrection of",
+"language": "eng"
+},
+{
+"reference_id": "5359",
+"content_id": "5359",
+"resource_code": "DictionaryBibleThemes",
+"label": "5359: justice",
+"language": "eng"
+},
+{
+"reference_id": "5440",
+"content_id": "5440",
+"resource_code": "DictionaryBibleThemes",
+"label": "5440: perjury",
+"language": "eng"
+},
+{
+"reference_id": "5624",
+"content_id": "5624",
+"resource_code": "DictionaryBibleThemes",
+"label": "5624: witnesses, to Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "5625",
+"content_id": "5625",
+"resource_code": "DictionaryBibleThemes",
+"label": "5625: witnesses, false",
+"language": "eng"
+},
+{
+"reference_id": "7915",
+"content_id": "7915",
+"resource_code": "DictionaryBibleThemes",
+"label": "7915: confirmation",
+"language": "eng"
+},
+{
+"reference_id": "8112",
+"content_id": "8112",
+"resource_code": "DictionaryBibleThemes",
+"label": "8112: certainty",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,186 @@
+[
+{
+"content_id": "4624",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4624: cow",
+"media_type": "Text",
+"index_reference": "4624: cow",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Cows, in OT times, often symbolised wealth and material well-being.</p>\n<h2>Cows as evidence of prosperity</h2>\n<p><strong><a href=\"https://ref.ly/Job21:10\">JOB 21:10</a></strong> <em>Part of Job's complaint about the prosperity of the wicked.</em> <em>See also</em> <a href=\"https://ref.ly/Gen12:16\">GEN 12:16</a>, <a href=\"https://ref.ly/Gen24:35\">GEN 24:35</a>, <a href=\"https://ref.ly/Gen32:5\">GEN 32:5</a>, <a href=\"https://ref.ly/Gen32:13-Gen32:15\">GEN 32:13–32:15</a>, <a href=\"https://ref.ly/Gen41:1-Gen41:4\">GEN 41:1–41:4</a>, <a href=\"https://ref.ly/Gen41:17-Gen41:21\">GEN 41:17–41:21</a>, <a href=\"https://ref.ly/Gen41:25-Gen41:27\">GEN 41:25–41:27</a>; <a href=\"https://ref.ly/2Sam12:2\">2SA 12:2</a>; <a href=\"https://ref.ly/2Chr32:27-2Chr32:28\">2CH 32:27–32:28</a>; <a href=\"https://ref.ly/Ps50:10\">PSA 50:10</a> <em>evidence of God's wealth</em>; <a href=\"https://ref.ly/Hab3:17-Hab3:18\">HAB 3:17–3:18</a> <em>the believer's joy despite the absence of prosperity</em></p>\n<h2>In the history of Israel</h2>\n<p><a href=\"https://ref.ly/1Sam6:7-1Sam6:14\">1SA 6:7–6:14</a></p>\n<h2>Cows in God's new earth</h2>\n<p><strong><a href=\"https://ref.ly/Isa11:7\">ISA 11:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa30:23\">ISA 30:23</a>, <a href=\"https://ref.ly/Isa32:20\">ISA 32:20</a></p>\n<h2>Cows as a source of nourishment and fuel</h2>\n<p><a href=\"https://ref.ly/2Sam17:29\">2SA 17:29</a>; ; <a href=\"https://ref.ly/Ezek4:15\">EZK 4:15</a></p>\n<h2>Laws concerning cows</h2>\n<p><a href=\"https://ref.ly/Exod22:30\">EXO 22:30</a>; ; <a href=\"https://ref.ly/Lev22:28\">LEV 22:28</a></p>\n<h2>Cows in metaphors</h2>\n<h3>Of stupidity</h3>\n<p><strong><a href=\"https://ref.ly/Job18:3\">JOB 18:3</a></strong></p>\n<h3>Of godless women</h3>\n<p><strong><a href=\"https://ref.ly/Amos4:1\">AMO 4:1</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18021010",
+"start_ref_usfm": "JOB 21:10",
+"end_ref": "18021010",
+"end_ref_usfm": "JOB 21:10"
+},
+{
+"start_ref": "01012016",
+"start_ref_usfm": "GEN 12:16",
+"end_ref": "01012016",
+"end_ref_usfm": "GEN 12:16"
+},
+{
+"start_ref": "01024035",
+"start_ref_usfm": "GEN 24:35",
+"end_ref": "01024035",
+"end_ref_usfm": "GEN 24:35"
+},
+{
+"start_ref": "01032005",
+"start_ref_usfm": "GEN 32:5",
+"end_ref": "01032005",
+"end_ref_usfm": "GEN 32:5"
+},
+{
+"start_ref": "01032013",
+"start_ref_usfm": "GEN 32:13",
+"end_ref": "01032015",
+"end_ref_usfm": "GEN 32:15"
+},
+{
+"start_ref": "01041001",
+"start_ref_usfm": "GEN 41:1",
+"end_ref": "01041004",
+"end_ref_usfm": "GEN 41:4"
+},
+{
+"start_ref": "01041017",
+"start_ref_usfm": "GEN 41:17",
+"end_ref": "01041021",
+"end_ref_usfm": "GEN 41:21"
+},
+{
+"start_ref": "01041025",
+"start_ref_usfm": "GEN 41:25",
+"end_ref": "01041027",
+"end_ref_usfm": "GEN 41:27"
+},
+{
+"start_ref": "10012002",
+"start_ref_usfm": "2SA 12:2",
+"end_ref": "10012002",
+"end_ref_usfm": "2SA 12:2"
+},
+{
+"start_ref": "14032027",
+"start_ref_usfm": "2CH 32:27",
+"end_ref": "14032028",
+"end_ref_usfm": "2CH 32:28"
+},
+{
+"start_ref": "19050010",
+"start_ref_usfm": "PSA 50:10",
+"end_ref": "19050010",
+"end_ref_usfm": "PSA 50:10"
+},
+{
+"start_ref": "35003017",
+"start_ref_usfm": "HAB 3:17",
+"end_ref": "35003018",
+"end_ref_usfm": "HAB 3:18"
+},
+{
+"start_ref": "09006007",
+"start_ref_usfm": "1SA 6:7",
+"end_ref": "09006014",
+"end_ref_usfm": "1SA 6:14"
+},
+{
+"start_ref": "23011007",
+"start_ref_usfm": "ISA 11:7",
+"end_ref": "23011007",
+"end_ref_usfm": "ISA 11:7"
+},
+{
+"start_ref": "23030023",
+"start_ref_usfm": "ISA 30:23",
+"end_ref": "23030023",
+"end_ref_usfm": "ISA 30:23"
+},
+{
+"start_ref": "23032020",
+"start_ref_usfm": "ISA 32:20",
+"end_ref": "23032020",
+"end_ref_usfm": "ISA 32:20"
+},
+{
+"start_ref": "10017029",
+"start_ref_usfm": "2SA 17:29",
+"end_ref": "10017029",
+"end_ref_usfm": "2SA 17:29"
+},
+{
+"start_ref": "26004015",
+"start_ref_usfm": "EZK 4:15",
+"end_ref": "26004015",
+"end_ref_usfm": "EZK 4:15"
+},
+{
+"start_ref": "02022030",
+"start_ref_usfm": "EXO 22:30",
+"end_ref": "02022030",
+"end_ref_usfm": "EXO 22:30"
+},
+{
+"start_ref": "03022028",
+"start_ref_usfm": "LEV 22:28",
+"end_ref": "03022028",
+"end_ref_usfm": "LEV 22:28"
+},
+{
+"start_ref": "18018003",
+"start_ref_usfm": "JOB 18:3",
+"end_ref": "18018003",
+"end_ref_usfm": "JOB 18:3"
+},
+{
+"start_ref": "30004001",
+"start_ref_usfm": "AMO 4:1",
+"end_ref": "30004001",
+"end_ref_usfm": "AMO 4:1"
+}
+],
+"resource": [
+{
+"reference_id": "1050",
+"content_id": "1050",
+"resource_code": "DictionaryBibleThemes",
+"label": "1050: God, goodness of",
+"language": "eng"
+},
+{
+"reference_id": "4406",
+"content_id": "4406",
+"resource_code": "DictionaryBibleThemes",
+"label": "4406: agriculture",
+"language": "eng"
+},
+{
+"reference_id": "4480",
+"content_id": "4480",
+"resource_code": "DictionaryBibleThemes",
+"label": "4480: milk",
+"language": "eng"
+},
+{
+"reference_id": "4615",
+"content_id": "4615",
+"resource_code": "DictionaryBibleThemes",
+"label": "4615: bull",
+"language": "eng"
+},
+{
+"reference_id": "4618",
+"content_id": "4618",
+"resource_code": "DictionaryBibleThemes",
+"label": "4618: calf",
+"language": "eng"
+}
+]
+}
+}
+]

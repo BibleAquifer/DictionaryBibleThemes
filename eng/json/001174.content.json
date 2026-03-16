@@ -1,0 +1,236 @@
+[
+{
+"content_id": "5611",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5611: watchman",
+"media_type": "Text",
+"index_reference": "5611: watchman",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A person stationed on the highest part of a city wall to warn inhabitants of an approaching enemy or messenger; also a person who kept watch over pastures, vineyards and sheep. The OT prophets were spiritual watchmen, warning the people of Israel of God's judgment.</p>\n<h2>Watchmen stationed on the highest part of a city wall</h2>\n<h3>To warn inhabitants of an approaching enemy</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs9:17\">2KI 9:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam14:16\">1SA 14:16</a>; <a href=\"https://ref.ly/2Sam13:34\">2SA 13:34</a>; <a href=\"https://ref.ly/Ps127:1\">PSA 127:1</a>, <a href=\"https://ref.ly/Ps130:6\">PSA 130:6</a>; <a href=\"https://ref.ly/Song3:3\">SNG 3:3</a>, <a href=\"https://ref.ly/Song5:7\">SNG 5:7</a>; <a href=\"https://ref.ly/Jer51:12\">JER 51:12</a></p>\n<h3>To give notice of approaching messengers</h3>\n<p><strong><a href=\"https://ref.ly/2Sam18:24-2Sam18:27\">2SA 18:24–18:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs9:18\">2KI 9:18</a>, <a href=\"https://ref.ly/2Kgs9:20\">2KI 9:20</a>; <a href=\"https://ref.ly/Isa21:6\">ISA 21:6</a>, <a href=\"https://ref.ly/Isa21:8\">ISA 21:8</a>, <a href=\"https://ref.ly/Isa52:8\">ISA 52:8</a></p>\n<h2>Watchmen stationed on towers in pastures and vineyards to guard against thieves</h2>\n<p><a href=\"https://ref.ly/2Chr26:10\">2CH 26:10</a>; ; <a href=\"https://ref.ly/Isa27:3\">ISA 27:3</a>; ; <a href=\"https://ref.ly/Mic4:8\">MIC 4:8</a></p>\n<h2>Watchmen stationed on hills</h2>\n<p><a href=\"https://ref.ly/Jer31:6\">JER 31:6</a> <em>This was to give notice of the various phases of the moon in order to fix the times for the most important festivals.</em></p>\n<h2>Watchmen who guarded sheep</h2>\n<p><a href=\"https://ref.ly/John10:3\">JHN 10:3</a></p>\n<h2>The OT prophets were spiritual watchmen warning the people of Israel of God's judgment</h2>\n<p><strong><a href=\"https://ref.ly/Jer6:17\">JER 6:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa21:11-Isa21:12\">ISA 21:11–21:12</a>, <a href=\"https://ref.ly/Isa56:10\">ISA 56:10</a>, <a href=\"https://ref.ly/Isa62:6\">ISA 62:6</a>; <a href=\"https://ref.ly/Ezek3:17\">EZK 3:17</a>, <a href=\"https://ref.ly/Ezek33:2\">EZK 33:2</a>, <a href=\"https://ref.ly/Ezek33:6-Ezek33:7\">EZK 33:6–33:7</a>; <a href=\"https://ref.ly/Hos9:8\">HOS 9:8</a>; <a href=\"https://ref.ly/Hab2:1\">HAB 2:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "12009017",
+"start_ref_usfm": "2KI 9:17",
+"end_ref": "12009017",
+"end_ref_usfm": "2KI 9:17"
+},
+{
+"start_ref": "09014016",
+"start_ref_usfm": "1SA 14:16",
+"end_ref": "09014016",
+"end_ref_usfm": "1SA 14:16"
+},
+{
+"start_ref": "10013034",
+"start_ref_usfm": "2SA 13:34",
+"end_ref": "10013034",
+"end_ref_usfm": "2SA 13:34"
+},
+{
+"start_ref": "19127001",
+"start_ref_usfm": "PSA 127:1",
+"end_ref": "19127001",
+"end_ref_usfm": "PSA 127:1"
+},
+{
+"start_ref": "19130006",
+"start_ref_usfm": "PSA 130:6",
+"end_ref": "19130006",
+"end_ref_usfm": "PSA 130:6"
+},
+{
+"start_ref": "22003003",
+"start_ref_usfm": "SNG 3:3",
+"end_ref": "22003003",
+"end_ref_usfm": "SNG 3:3"
+},
+{
+"start_ref": "22005007",
+"start_ref_usfm": "SNG 5:7",
+"end_ref": "22005007",
+"end_ref_usfm": "SNG 5:7"
+},
+{
+"start_ref": "24051012",
+"start_ref_usfm": "JER 51:12",
+"end_ref": "24051012",
+"end_ref_usfm": "JER 51:12"
+},
+{
+"start_ref": "10018024",
+"start_ref_usfm": "2SA 18:24",
+"end_ref": "10018027",
+"end_ref_usfm": "2SA 18:27"
+},
+{
+"start_ref": "12009018",
+"start_ref_usfm": "2KI 9:18",
+"end_ref": "12009018",
+"end_ref_usfm": "2KI 9:18"
+},
+{
+"start_ref": "12009020",
+"start_ref_usfm": "2KI 9:20",
+"end_ref": "12009020",
+"end_ref_usfm": "2KI 9:20"
+},
+{
+"start_ref": "23021006",
+"start_ref_usfm": "ISA 21:6",
+"end_ref": "23021006",
+"end_ref_usfm": "ISA 21:6"
+},
+{
+"start_ref": "23021008",
+"start_ref_usfm": "ISA 21:8",
+"end_ref": "23021008",
+"end_ref_usfm": "ISA 21:8"
+},
+{
+"start_ref": "23052008",
+"start_ref_usfm": "ISA 52:8",
+"end_ref": "23052008",
+"end_ref_usfm": "ISA 52:8"
+},
+{
+"start_ref": "14026010",
+"start_ref_usfm": "2CH 26:10",
+"end_ref": "14026010",
+"end_ref_usfm": "2CH 26:10"
+},
+{
+"start_ref": "23027003",
+"start_ref_usfm": "ISA 27:3",
+"end_ref": "23027003",
+"end_ref_usfm": "ISA 27:3"
+},
+{
+"start_ref": "33004008",
+"start_ref_usfm": "MIC 4:8",
+"end_ref": "33004008",
+"end_ref_usfm": "MIC 4:8"
+},
+{
+"start_ref": "24031006",
+"start_ref_usfm": "JER 31:6",
+"end_ref": "24031006",
+"end_ref_usfm": "JER 31:6"
+},
+{
+"start_ref": "43010003",
+"start_ref_usfm": "JHN 10:3",
+"end_ref": "43010003",
+"end_ref_usfm": "JHN 10:3"
+},
+{
+"start_ref": "24006017",
+"start_ref_usfm": "JER 6:17",
+"end_ref": "24006017",
+"end_ref_usfm": "JER 6:17"
+},
+{
+"start_ref": "23021011",
+"start_ref_usfm": "ISA 21:11",
+"end_ref": "23021012",
+"end_ref_usfm": "ISA 21:12"
+},
+{
+"start_ref": "23056010",
+"start_ref_usfm": "ISA 56:10",
+"end_ref": "23056010",
+"end_ref_usfm": "ISA 56:10"
+},
+{
+"start_ref": "23062006",
+"start_ref_usfm": "ISA 62:6",
+"end_ref": "23062006",
+"end_ref_usfm": "ISA 62:6"
+},
+{
+"start_ref": "26003017",
+"start_ref_usfm": "EZK 3:17",
+"end_ref": "26003017",
+"end_ref_usfm": "EZK 3:17"
+},
+{
+"start_ref": "26033002",
+"start_ref_usfm": "EZK 33:2",
+"end_ref": "26033002",
+"end_ref_usfm": "EZK 33:2"
+},
+{
+"start_ref": "26033006",
+"start_ref_usfm": "EZK 33:6",
+"end_ref": "26033007",
+"end_ref_usfm": "EZK 33:7"
+},
+{
+"start_ref": "28009008",
+"start_ref_usfm": "HOS 9:8",
+"end_ref": "28009008",
+"end_ref_usfm": "HOS 9:8"
+},
+{
+"start_ref": "35002001",
+"start_ref_usfm": "HAB 2:1",
+"end_ref": "35002001",
+"end_ref_usfm": "HAB 2:1"
+}
+],
+"resource": [
+{
+"reference_id": "4538",
+"content_id": "4538",
+"resource_code": "DictionaryBibleThemes",
+"label": "4538: vineyard",
+"language": "eng"
+},
+{
+"reference_id": "5330",
+"content_id": "5330",
+"resource_code": "DictionaryBibleThemes",
+"label": "5330: guard",
+"language": "eng"
+},
+{
+"reference_id": "5408",
+"content_id": "5408",
+"resource_code": "DictionaryBibleThemes",
+"label": "5408: messenger",
+"language": "eng"
+},
+{
+"reference_id": "5585",
+"content_id": "5585",
+"resource_code": "DictionaryBibleThemes",
+"label": "5585: towers",
+"language": "eng"
+},
+{
+"reference_id": "5978",
+"content_id": "5978",
+"resource_code": "DictionaryBibleThemes",
+"label": "5978: warning",
+"language": "eng"
+},
+{
+"reference_id": "7772",
+"content_id": "7772",
+"resource_code": "DictionaryBibleThemes",
+"label": "7772: prophets",
+"language": "eng"
+},
+{
+"reference_id": "8490",
+"content_id": "8490",
+"resource_code": "DictionaryBibleThemes",
+"label": "8490: watchfulness",
+"language": "eng"
+}
+]
+}
+}
+]

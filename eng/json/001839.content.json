@@ -1,0 +1,89 @@
+[
+{
+"content_id": "7440",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7440: scapegoat",
+"media_type": "Text",
+"index_reference": "7440: scapegoat",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A goat which was sent into the wilderness by the high priest, as a symbol of the removal of the sins of the people.</p>\n<h2>The scapegoat as part of an OT ritual</h2>\n<p><strong><a href=\"https://ref.ly/Lev16:7-Lev16:10\">LEV 16:7–16:10</a>, <a href=\"https://ref.ly/Lev16:20-Lev16:22\">LEV 16:20–16:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev16:26\">LEV 16:26</a>; <a href=\"https://ref.ly/Isa53:4\">ISA 53:4</a></p>\n<h2>The scapegoat anticipates Jesus Christ's atonement</h2>\n<p><a href=\"https://ref.ly/John1:29\">JHN 1:29</a>; ; <a href=\"https://ref.ly/2Cor5:21\">2CO 5:21</a>; ; <a href=\"https://ref.ly/Heb9:11-Heb9:14\">HEB 9:11–9:14</a> <em>Jesus Christ's death is here contrasted with the OT sacrificial system.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03016007",
+"start_ref_usfm": "LEV 16:7",
+"end_ref": "03016010",
+"end_ref_usfm": "LEV 16:10"
+},
+{
+"start_ref": "03016020",
+"start_ref_usfm": "LEV 16:20",
+"end_ref": "03016022",
+"end_ref_usfm": "LEV 16:22"
+},
+{
+"start_ref": "03016026",
+"start_ref_usfm": "LEV 16:26",
+"end_ref": "03016026",
+"end_ref_usfm": "LEV 16:26"
+},
+{
+"start_ref": "23053004",
+"start_ref_usfm": "ISA 53:4",
+"end_ref": "23053004",
+"end_ref_usfm": "ISA 53:4"
+},
+{
+"start_ref": "43001029",
+"start_ref_usfm": "JHN 1:29",
+"end_ref": "43001029",
+"end_ref_usfm": "JHN 1:29"
+},
+{
+"start_ref": "47005021",
+"start_ref_usfm": "2CO 5:21",
+"end_ref": "47005021",
+"end_ref_usfm": "2CO 5:21"
+},
+{
+"start_ref": "58009011",
+"start_ref_usfm": "HEB 9:11",
+"end_ref": "58009014",
+"end_ref_usfm": "HEB 9:14"
+}
+],
+"resource": [
+{
+"reference_id": "4651",
+"content_id": "4651",
+"resource_code": "DictionaryBibleThemes",
+"label": "4651: goat",
+"language": "eng"
+},
+{
+"reference_id": "6614",
+"content_id": "6614",
+"resource_code": "DictionaryBibleThemes",
+"label": "6614: atonement",
+"language": "eng"
+},
+{
+"reference_id": "6750",
+"content_id": "6750",
+"resource_code": "DictionaryBibleThemes",
+"label": "6750: sin-bearer",
+"language": "eng"
+},
+{
+"reference_id": "7435",
+"content_id": "7435",
+"resource_code": "DictionaryBibleThemes",
+"label": "7435: sacrifice, in OT",
+"language": "eng"
+}
+]
+}
+}
+]

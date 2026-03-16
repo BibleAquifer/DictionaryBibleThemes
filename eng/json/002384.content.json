@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8755",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8755: folly",
+"media_type": "Text",
+"index_reference": "8755: folly",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A human attitude of lack of wisdom or contempt for wisdom, which shows itself in a lack of understanding and obedience. Scripture contrasts human foolishness with divine wisdom, and indicates the serious consequences of a rejection of the wisdom of God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8756",
+"content_id": "8756",
+"resource_code": "DictionaryBibleThemes",
+"label": "8756: folly, examples of",
+"language": "eng"
+},
+{
+"reference_id": "8757",
+"content_id": "8757",
+"resource_code": "DictionaryBibleThemes",
+"label": "8757: folly, effects of",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,75 @@
+[
+{
+"content_id": "4840",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4840: mist",
+"media_type": "Text",
+"index_reference": "4840: mist",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Mist is a natural phenomenon</h2>\n<h3>Mist as a source of water</h3>\n<p><a href=\"https://ref.ly/Gen2:5-Gen2:6\">GEN 2:5–2:6</a> <em>NIV footnote at verse 6</em></p>\n<h3>Mist as a barrier to effective vision</h3>\n<p><a href=\"https://ref.ly/Acts13:11\">ACT 13:11</a></p>\n<h2>Mist as a symbol</h2>\n<h3>Of a lack of substance or permanence</h3>\n<p><strong><a href=\"https://ref.ly/Hos6:4\">HOS 6:4</a></strong>; <strong><a href=\"https://ref.ly/Jas4:14\">JAS 4:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos13:3\">HOS 13:3</a>; <a href=\"https://ref.ly/2Pet2:17\">2PE 2:17</a></p>\n<h3>Of God's forgiveness</h3>\n<p><strong><a href=\"https://ref.ly/Isa44:22\">ISA 44:22</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01002005",
+"start_ref_usfm": "GEN 2:5",
+"end_ref": "01002006",
+"end_ref_usfm": "GEN 2:6"
+},
+{
+"start_ref": "44013011",
+"start_ref_usfm": "ACT 13:11",
+"end_ref": "44013011",
+"end_ref_usfm": "ACT 13:11"
+},
+{
+"start_ref": "28006004",
+"start_ref_usfm": "HOS 6:4",
+"end_ref": "28006004",
+"end_ref_usfm": "HOS 6:4"
+},
+{
+"start_ref": "59004014",
+"start_ref_usfm": "JAS 4:14",
+"end_ref": "59004014",
+"end_ref_usfm": "JAS 4:14"
+},
+{
+"start_ref": "28013003",
+"start_ref_usfm": "HOS 13:3",
+"end_ref": "28013003",
+"end_ref_usfm": "HOS 13:3"
+},
+{
+"start_ref": "61002017",
+"start_ref_usfm": "2PE 2:17",
+"end_ref": "61002017",
+"end_ref_usfm": "2PE 2:17"
+},
+{
+"start_ref": "23044022",
+"start_ref_usfm": "ISA 44:22",
+"end_ref": "23044022",
+"end_ref_usfm": "ISA 44:22"
+}
+],
+"resource": [
+{
+"reference_id": "4844",
+"content_id": "4844",
+"resource_code": "DictionaryBibleThemes",
+"label": "4844: rain",
+"language": "eng"
+},
+{
+"reference_id": "4853",
+"content_id": "4853",
+"resource_code": "DictionaryBibleThemes",
+"label": "4853: weather",
+"language": "eng"
+}
+]
+}
+}
+]

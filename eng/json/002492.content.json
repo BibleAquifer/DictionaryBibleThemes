@@ -1,0 +1,134 @@
+[
+{
+"content_id": "9160",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9160: new heavens and new earth",
+"media_type": "Text",
+"index_reference": "9160: new heavens and new earth",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A way of referring to the new creation that will come about at the end of time. The theme of the restoration and re-creation of the world is a central aspect of the Christian hope.</p>\n<h2>The new heavens and new earth will replace the old</h2>\n<p><strong><a href=\"https://ref.ly/Isa65:17\">ISA 65:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb12:26-Heb12:27\">HEB 12:26–12:27</a>; <a href=\"https://ref.ly/2Pet3:12-2Pet3:13\">2PE 3:12–3:13</a>; <a href=\"https://ref.ly/Rev21:1\">REV 21:1</a></p>\n<h2>The nature of the new heavens and new earth</h2>\n<h3>Their permanence</h3>\n<p><strong><a href=\"https://ref.ly/Isa66:22\">ISA 66:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb12:28\">HEB 12:28</a></p>\n<h3>The place of God's presence</h3>\n<p><strong><a href=\"https://ref.ly/Rev21:3\">REV 21:3</a></strong></p>\n<h3>The effects of the fall will be reversed</h3>\n<p><strong><a href=\"https://ref.ly/Rev21:4\">REV 21:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa65:20\">ISA 65:20</a>, <a href=\"https://ref.ly/Isa65:23\">ISA 65:23</a>, <a href=\"https://ref.ly/Isa65:25\">ISA 65:25</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23065017",
+"start_ref_usfm": "ISA 65:17",
+"end_ref": "23065017",
+"end_ref_usfm": "ISA 65:17"
+},
+{
+"start_ref": "58012026",
+"start_ref_usfm": "HEB 12:26",
+"end_ref": "58012027",
+"end_ref_usfm": "HEB 12:27"
+},
+{
+"start_ref": "61003012",
+"start_ref_usfm": "2PE 3:12",
+"end_ref": "61003013",
+"end_ref_usfm": "2PE 3:13"
+},
+{
+"start_ref": "66021001",
+"start_ref_usfm": "REV 21:1",
+"end_ref": "66021001",
+"end_ref_usfm": "REV 21:1"
+},
+{
+"start_ref": "23066022",
+"start_ref_usfm": "ISA 66:22",
+"end_ref": "23066022",
+"end_ref_usfm": "ISA 66:22"
+},
+{
+"start_ref": "58012028",
+"start_ref_usfm": "HEB 12:28",
+"end_ref": "58012028",
+"end_ref_usfm": "HEB 12:28"
+},
+{
+"start_ref": "66021003",
+"start_ref_usfm": "REV 21:3",
+"end_ref": "66021003",
+"end_ref_usfm": "REV 21:3"
+},
+{
+"start_ref": "66021004",
+"start_ref_usfm": "REV 21:4",
+"end_ref": "66021004",
+"end_ref_usfm": "REV 21:4"
+},
+{
+"start_ref": "23065020",
+"start_ref_usfm": "ISA 65:20",
+"end_ref": "23065020",
+"end_ref_usfm": "ISA 65:20"
+},
+{
+"start_ref": "23065023",
+"start_ref_usfm": "ISA 65:23",
+"end_ref": "23065023",
+"end_ref_usfm": "ISA 65:23"
+},
+{
+"start_ref": "23065025",
+"start_ref_usfm": "ISA 65:25",
+"end_ref": "23065025",
+"end_ref_usfm": "ISA 65:25"
+}
+],
+"resource": [
+{
+"reference_id": "4055",
+"content_id": "4055",
+"resource_code": "DictionaryBibleThemes",
+"label": "4055: heaven and earth",
+"language": "eng"
+},
+{
+"reference_id": "4203",
+"content_id": "4203",
+"resource_code": "DictionaryBibleThemes",
+"label": "4203: earth, the",
+"language": "eng"
+},
+{
+"reference_id": "4209",
+"content_id": "4209",
+"resource_code": "DictionaryBibleThemes",
+"label": "4209: land, spiritual aspects of",
+"language": "eng"
+},
+{
+"reference_id": "4624",
+"content_id": "4624",
+"resource_code": "DictionaryBibleThemes",
+"label": "4624: cow",
+"language": "eng"
+},
+{
+"reference_id": "9105",
+"content_id": "9105",
+"resource_code": "DictionaryBibleThemes",
+"label": "9105: last things",
+"language": "eng"
+},
+{
+"reference_id": "9165",
+"content_id": "9165",
+"resource_code": "DictionaryBibleThemes",
+"label": "9165: restoration",
+"language": "eng"
+},
+{
+"reference_id": "9410",
+"content_id": "9410",
+"resource_code": "DictionaryBibleThemes",
+"label": "9410: heaven",
+"language": "eng"
+}
+]
+}
+}
+]

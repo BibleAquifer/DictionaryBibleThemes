@@ -1,0 +1,240 @@
+[
+{
+"content_id": "8205",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8205: childlikeness",
+"media_type": "Text",
+"index_reference": "8205: childlikeness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An attitude of simple trust and faith, to be distinguished from childishness. It is commended by Scripture as an appropriate attitude for the believer to take towards God.</p>\n<h2>God treats his people like children</h2>\n<p><strong><a href=\"https://ref.ly/Ps103:13\">PSA 103:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num11:12\">NUM 11:12</a>; <a href=\"https://ref.ly/Isa49:15\">ISA 49:15</a>, <a href=\"https://ref.ly/Isa66:13\">ISA 66:13</a>; <a href=\"https://ref.ly/Jer31:20\">JER 31:20</a>; <a href=\"https://ref.ly/Hos11:1-Hos11:4\">HOS 11:1–11:4</a>; <a href=\"https://ref.ly/Rom8:14-Rom8:17\">ROM 8:14–8:17</a>; <a href=\"https://ref.ly/Gal4:1-Gal4:7\">GAL 4:1–4:7</a></p>\n<h2>God's people should respond to God as children to a parent</h2>\n<h3>In trust</h3>\n<p><strong><a href=\"https://ref.ly/Ps131:2\">PSA 131:2</a></strong></p>\n<h3>In obedience</h3>\n<p><strong><a href=\"https://ref.ly/1Pet1:14\">1PE 1:14</a></strong></p>\n<h3>In humility</h3>\n<p><strong><a href=\"https://ref.ly/Luke9:46-Luke9:48\">LUK 9:46–9:48</a></strong> parallels <a href=\"https://ref.ly/Matt18:2-Matt18:5\">MAT 18:2–18:5</a>, <a href=\"https://ref.ly/Mark9:33-Mark9:37\">MRK 9:33–9:37</a> <em>See also</em> <a href=\"https://ref.ly/1Kgs3:7\">1KI 3:7</a> <em>Solomon</em></p>\n<h3>In innocence</h3>\n<p><strong><a href=\"https://ref.ly/Mark10:13-Mark10:15\">MRK 10:13–10:15</a></strong> parallels <a href=\"https://ref.ly/Matt19:13-Matt19:14\">MAT 19:13–19:14</a>, <a href=\"https://ref.ly/Luke18:15-Luke18:17\">LUK 18:15–18:17</a> <em>See also</em> <a href=\"https://ref.ly/Luke10:21\">LUK 10:21</a></p>\n<h3>In imitating a model</h3>\n<p><strong><a href=\"https://ref.ly/Eph5:1-Eph5:2\">EPH 5:1–5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1John3:10\">1JN 3:10</a></p>\n<h2>Childlikeness is reflected in pastoral care</h2>\n<p><strong><a href=\"https://ref.ly/1Thess2:7\">1TH 2:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1John2:28\">1JN 2:28</a></p>\n<h2>Childlikeness is to be distinguished from immature childishness</h2>\n<p><strong><a href=\"https://ref.ly/1Cor3:1-1Cor3:3\">1CO 3:1–3:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb5:12-Heb6:1\">HEB 5:12–6:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19103013",
+"start_ref_usfm": "PSA 103:13",
+"end_ref": "19103013",
+"end_ref_usfm": "PSA 103:13"
+},
+{
+"start_ref": "04011012",
+"start_ref_usfm": "NUM 11:12",
+"end_ref": "04011012",
+"end_ref_usfm": "NUM 11:12"
+},
+{
+"start_ref": "23049015",
+"start_ref_usfm": "ISA 49:15",
+"end_ref": "23049015",
+"end_ref_usfm": "ISA 49:15"
+},
+{
+"start_ref": "23066013",
+"start_ref_usfm": "ISA 66:13",
+"end_ref": "23066013",
+"end_ref_usfm": "ISA 66:13"
+},
+{
+"start_ref": "24031020",
+"start_ref_usfm": "JER 31:20",
+"end_ref": "24031020",
+"end_ref_usfm": "JER 31:20"
+},
+{
+"start_ref": "28011001",
+"start_ref_usfm": "HOS 11:1",
+"end_ref": "28011004",
+"end_ref_usfm": "HOS 11:4"
+},
+{
+"start_ref": "45008014",
+"start_ref_usfm": "ROM 8:14",
+"end_ref": "45008017",
+"end_ref_usfm": "ROM 8:17"
+},
+{
+"start_ref": "48004001",
+"start_ref_usfm": "GAL 4:1",
+"end_ref": "48004007",
+"end_ref_usfm": "GAL 4:7"
+},
+{
+"start_ref": "19131002",
+"start_ref_usfm": "PSA 131:2",
+"end_ref": "19131002",
+"end_ref_usfm": "PSA 131:2"
+},
+{
+"start_ref": "60001014",
+"start_ref_usfm": "1PE 1:14",
+"end_ref": "60001014",
+"end_ref_usfm": "1PE 1:14"
+},
+{
+"start_ref": "42009046",
+"start_ref_usfm": "LUK 9:46",
+"end_ref": "42009048",
+"end_ref_usfm": "LUK 9:48"
+},
+{
+"start_ref": "40018002",
+"start_ref_usfm": "MAT 18:2",
+"end_ref": "40018005",
+"end_ref_usfm": "MAT 18:5"
+},
+{
+"start_ref": "41009033",
+"start_ref_usfm": "MRK 9:33",
+"end_ref": "41009037",
+"end_ref_usfm": "MRK 9:37"
+},
+{
+"start_ref": "11003007",
+"start_ref_usfm": "1KI 3:7",
+"end_ref": "11003007",
+"end_ref_usfm": "1KI 3:7"
+},
+{
+"start_ref": "41010013",
+"start_ref_usfm": "MRK 10:13",
+"end_ref": "41010015",
+"end_ref_usfm": "MRK 10:15"
+},
+{
+"start_ref": "40019013",
+"start_ref_usfm": "MAT 19:13",
+"end_ref": "40019014",
+"end_ref_usfm": "MAT 19:14"
+},
+{
+"start_ref": "42018015",
+"start_ref_usfm": "LUK 18:15",
+"end_ref": "42018017",
+"end_ref_usfm": "LUK 18:17"
+},
+{
+"start_ref": "42010021",
+"start_ref_usfm": "LUK 10:21",
+"end_ref": "42010021",
+"end_ref_usfm": "LUK 10:21"
+},
+{
+"start_ref": "49005001",
+"start_ref_usfm": "EPH 5:1",
+"end_ref": "49005002",
+"end_ref_usfm": "EPH 5:2"
+},
+{
+"start_ref": "62003010",
+"start_ref_usfm": "1JN 3:10",
+"end_ref": "62003010",
+"end_ref_usfm": "1JN 3:10"
+},
+{
+"start_ref": "52002007",
+"start_ref_usfm": "1TH 2:7",
+"end_ref": "52002007",
+"end_ref_usfm": "1TH 2:7"
+},
+{
+"start_ref": "62002028",
+"start_ref_usfm": "1JN 2:28",
+"end_ref": "62002028",
+"end_ref_usfm": "1JN 2:28"
+},
+{
+"start_ref": "46003001",
+"start_ref_usfm": "1CO 3:1",
+"end_ref": "46003003",
+"end_ref_usfm": "1CO 3:3"
+},
+{
+"start_ref": "58005012",
+"start_ref_usfm": "HEB 5:12",
+"end_ref": "58006001",
+"end_ref_usfm": "HEB 6:1"
+}
+],
+"resource": [
+{
+"reference_id": "1040",
+"content_id": "1040",
+"resource_code": "DictionaryBibleThemes",
+"label": "1040: God, fatherhood of",
+"language": "eng"
+},
+{
+"reference_id": "5664",
+"content_id": "5664",
+"resource_code": "DictionaryBibleThemes",
+"label": "5664: children",
+"language": "eng"
+},
+{
+"reference_id": "5902",
+"content_id": "5902",
+"resource_code": "DictionaryBibleThemes",
+"label": "5902: maturity",
+"language": "eng"
+},
+{
+"reference_id": "8020",
+"content_id": "8020",
+"resource_code": "DictionaryBibleThemes",
+"label": "8020: faith",
+"language": "eng"
+},
+{
+"reference_id": "8030",
+"content_id": "8030",
+"resource_code": "DictionaryBibleThemes",
+"label": "8030: trust",
+"language": "eng"
+},
+{
+"reference_id": "8276",
+"content_id": "8276",
+"resource_code": "DictionaryBibleThemes",
+"label": "8276: humility",
+"language": "eng"
+},
+{
+"reference_id": "8277",
+"content_id": "8277",
+"resource_code": "DictionaryBibleThemes",
+"label": "8277: innocence",
+"language": "eng"
+},
+{
+"reference_id": "8305",
+"content_id": "8305",
+"resource_code": "DictionaryBibleThemes",
+"label": "8305: meekness",
+"language": "eng"
+},
+{
+"reference_id": "8330",
+"content_id": "8330",
+"resource_code": "DictionaryBibleThemes",
+"label": "8330: receptiveness",
+"language": "eng"
+},
+{
+"reference_id": "8351",
+"content_id": "8351",
+"resource_code": "DictionaryBibleThemes",
+"label": "8351: teachableness",
+"language": "eng"
+},
+{
+"reference_id": "8453",
+"content_id": "8453",
+"resource_code": "DictionaryBibleThemes",
+"label": "8453: obedience",
+"language": "eng"
+}
+]
+}
+}
+]

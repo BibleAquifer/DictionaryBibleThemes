@@ -1,0 +1,53 @@
+[
+{
+"content_id": "1300",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1300: God, work of",
+"media_type": "Text",
+"index_reference": "1300: god, work of",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"1305\" data-resourcetype=\"DictionaryOfBibleThemes\">1305: God, activity of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1335\" data-resourcetype=\"DictionaryOfBibleThemes\">1335: blessing</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1340\" data-resourcetype=\"DictionaryOfBibleThemes\">1340: consistency</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1345\" data-resourcetype=\"DictionaryOfBibleThemes\">1345: covenant</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1355\" data-resourcetype=\"DictionaryOfBibleThemes\">1355: providence</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "1305",
+"content_id": "1305",
+"resource_code": "DictionaryBibleThemes",
+"label": "1305: God, activity of",
+"language": "eng"
+},
+{
+"reference_id": "1335",
+"content_id": "1335",
+"resource_code": "DictionaryBibleThemes",
+"label": "1335: blessing",
+"language": "eng"
+},
+{
+"reference_id": "1340",
+"content_id": "1340",
+"resource_code": "DictionaryBibleThemes",
+"label": "1340: consistency",
+"language": "eng"
+},
+{
+"reference_id": "1345",
+"content_id": "1345",
+"resource_code": "DictionaryBibleThemes",
+"label": "1345: covenant",
+"language": "eng"
+},
+{
+"reference_id": "1355",
+"content_id": "1355",
+"resource_code": "DictionaryBibleThemes",
+"label": "1355: providence",
+"language": "eng"
+}
+]
+}
+}
+]

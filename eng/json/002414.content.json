@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8790",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8790: oppression",
+"media_type": "Text",
+"index_reference": "8790: oppression",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The unfair or cruel treatment of individuals or nations, which prevents them from having the same opportunities, freedom and rights as others.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8791",
+"content_id": "8791",
+"resource_code": "DictionaryBibleThemes",
+"label": "8791: oppression, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8792",
+"content_id": "8792",
+"resource_code": "DictionaryBibleThemes",
+"label": "8792: oppression, God's attitude to",
+"language": "eng"
+}
+]
+}
+}
+]

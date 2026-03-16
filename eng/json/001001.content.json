@@ -1,0 +1,187 @@
+[
+{
+"content_id": "5422",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5422: musicians",
+"media_type": "Text",
+"index_reference": "5422: musicians",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Players of musical instruments. Levitical musicians played an extensive role in Israelite worship. Other musicians are also mentioned in Scripture, in both sacred and secular contexts.</p>\n<h2>Levitical musicians in the tabernacle</h2>\n<h3>Appointed by David</h3>\n<p><strong><a href=\"https://ref.ly/1Chr6:31-1Chr6:47\">1CH 6:31–6:47</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr15:16-1Chr15:17\">1CH 15:16–15:17</a>, <a href=\"https://ref.ly/1Chr25:1-1Chr25:5\">1CH 25:1–25:5</a></p>\n<h3>Responsibilities</h3>\n<p><strong><a href=\"https://ref.ly/1Chr15:19-1Chr15:21\">1CH 15:19–15:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr15:16\">1CH 15:16</a>, <a href=\"https://ref.ly/1Chr25:6-1Chr25:7\">1CH 25:6–25:7</a></p>\n<h3>Allocation of duties</h3>\n<p><strong><a href=\"https://ref.ly/1Chr25:8-1Chr25:31\">1CH 25:8–25:31</a></strong></p>\n<h2>Levitical musicians in the temple</h2>\n<p><strong><a href=\"https://ref.ly/2Chr5:12-2Chr5:13\">2CH 5:12–5:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr9:33\">1CH 9:33</a>; <a href=\"https://ref.ly/2Chr35:15\">2CH 35:15</a></p>\n<h2>Other musicians</h2>\n<h3>Jubal was the first musician</h3>\n<p><strong><a href=\"https://ref.ly/Gen4:17-Gen4:21\">GEN 4:17–4:21</a></strong></p>\n<h3>King David was a renowned musician</h3>\n<p><strong><a href=\"https://ref.ly/1Sam16:15-1Sam16:18\">1SA 16:15–16:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam16:23\">1SA 16:23</a>, <a href=\"https://ref.ly/1Sam18:10-1Sam18:11\">1SA 18:10–18:11</a>, <a href=\"https://ref.ly/1Sam19:9-1Sam19:10\">1SA 19:9–19:10</a>; <a href=\"https://ref.ly/2Sam6:5\">2SA 6:5</a>, <a href=\"https://ref.ly/2Sam23:1\">2SA 23:1</a></p>\n<h3>Unidentified musicians</h3>\n<p><strong><a href=\"https://ref.ly/Ps68:24-Ps68:25\">PSA 68:24–68:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs3:11-2Kgs3:19\">2KI 3:11–3:19</a>; <a href=\"https://ref.ly/Ps137:1-Ps137:3\">PSA 137:1–137:3</a>; <a href=\"https://ref.ly/Rev18:21-Rev18:22\">REV 18:21–18:22</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "13006031",
+"start_ref_usfm": "1CH 6:31",
+"end_ref": "13006047",
+"end_ref_usfm": "1CH 6:47"
+},
+{
+"start_ref": "13015016",
+"start_ref_usfm": "1CH 15:16",
+"end_ref": "13015017",
+"end_ref_usfm": "1CH 15:17"
+},
+{
+"start_ref": "13025001",
+"start_ref_usfm": "1CH 25:1",
+"end_ref": "13025005",
+"end_ref_usfm": "1CH 25:5"
+},
+{
+"start_ref": "13015019",
+"start_ref_usfm": "1CH 15:19",
+"end_ref": "13015021",
+"end_ref_usfm": "1CH 15:21"
+},
+{
+"start_ref": "13015016",
+"start_ref_usfm": "1CH 15:16",
+"end_ref": "13015016",
+"end_ref_usfm": "1CH 15:16"
+},
+{
+"start_ref": "13025006",
+"start_ref_usfm": "1CH 25:6",
+"end_ref": "13025007",
+"end_ref_usfm": "1CH 25:7"
+},
+{
+"start_ref": "13025008",
+"start_ref_usfm": "1CH 25:8",
+"end_ref": "13025031",
+"end_ref_usfm": "1CH 25:31"
+},
+{
+"start_ref": "14005012",
+"start_ref_usfm": "2CH 5:12",
+"end_ref": "14005013",
+"end_ref_usfm": "2CH 5:13"
+},
+{
+"start_ref": "13009033",
+"start_ref_usfm": "1CH 9:33",
+"end_ref": "13009033",
+"end_ref_usfm": "1CH 9:33"
+},
+{
+"start_ref": "14035015",
+"start_ref_usfm": "2CH 35:15",
+"end_ref": "14035015",
+"end_ref_usfm": "2CH 35:15"
+},
+{
+"start_ref": "01004017",
+"start_ref_usfm": "GEN 4:17",
+"end_ref": "01004021",
+"end_ref_usfm": "GEN 4:21"
+},
+{
+"start_ref": "09016015",
+"start_ref_usfm": "1SA 16:15",
+"end_ref": "09016018",
+"end_ref_usfm": "1SA 16:18"
+},
+{
+"start_ref": "09016023",
+"start_ref_usfm": "1SA 16:23",
+"end_ref": "09016023",
+"end_ref_usfm": "1SA 16:23"
+},
+{
+"start_ref": "09018010",
+"start_ref_usfm": "1SA 18:10",
+"end_ref": "09018011",
+"end_ref_usfm": "1SA 18:11"
+},
+{
+"start_ref": "09019009",
+"start_ref_usfm": "1SA 19:9",
+"end_ref": "09019010",
+"end_ref_usfm": "1SA 19:10"
+},
+{
+"start_ref": "10006005",
+"start_ref_usfm": "2SA 6:5",
+"end_ref": "10006005",
+"end_ref_usfm": "2SA 6:5"
+},
+{
+"start_ref": "10023001",
+"start_ref_usfm": "2SA 23:1",
+"end_ref": "10023001",
+"end_ref_usfm": "2SA 23:1"
+},
+{
+"start_ref": "19068024",
+"start_ref_usfm": "PSA 68:24",
+"end_ref": "19068025",
+"end_ref_usfm": "PSA 68:25"
+},
+{
+"start_ref": "12003011",
+"start_ref_usfm": "2KI 3:11",
+"end_ref": "12003019",
+"end_ref_usfm": "2KI 3:19"
+},
+{
+"start_ref": "19137001",
+"start_ref_usfm": "PSA 137:1",
+"end_ref": "19137003",
+"end_ref_usfm": "PSA 137:3"
+},
+{
+"start_ref": "66018021",
+"start_ref_usfm": "REV 18:21",
+"end_ref": "66018022",
+"end_ref_usfm": "REV 18:22"
+}
+],
+"resource": [
+{
+"reference_id": "5420",
+"content_id": "5420",
+"resource_code": "DictionaryBibleThemes",
+"label": "5420: music",
+"language": "eng"
+},
+{
+"reference_id": "5421",
+"content_id": "5421",
+"resource_code": "DictionaryBibleThemes",
+"label": "5421: musical instruments",
+"language": "eng"
+},
+{
+"reference_id": "7459",
+"content_id": "7459",
+"resource_code": "DictionaryBibleThemes",
+"label": "7459: tabernacle, in OT",
+"language": "eng"
+},
+{
+"reference_id": "7467",
+"content_id": "7467",
+"resource_code": "DictionaryBibleThemes",
+"label": "7467: temple, Solomon's",
+"language": "eng"
+},
+{
+"reference_id": "7960",
+"content_id": "7960",
+"resource_code": "DictionaryBibleThemes",
+"label": "7960: singing",
+"language": "eng"
+},
+{
+"reference_id": "8627",
+"content_id": "8627",
+"resource_code": "DictionaryBibleThemes",
+"label": "8627: worship, elements of",
+"language": "eng"
+}
+]
+}
+}
+]

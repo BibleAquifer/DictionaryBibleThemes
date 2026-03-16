@@ -1,0 +1,319 @@
+[
+{
+"content_id": "8756",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8756: folly, examples of",
+"media_type": "Text",
+"index_reference": "8756: folly, examples of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Human folly is seen in rebellion against God, ignoring his way and will, a failure to understand him: and moral or spiritual irresponsibility.</p>\n<h2>Examples of human folly</h2>\n<h3>The folly of God's people</h3>\n<p><strong><a href=\"https://ref.ly/Jer4:22\">JER 4:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut32:6\">DEU 32:6</a> <em>rejecting God</em>; <a href=\"https://ref.ly/Jer10:8\">JER 10:8</a> <em>worshipping idols</em>; <a href=\"https://ref.ly/Hos7:11\">HOS 7:11</a> <em>seeking foreign help rather than trusting God</em></p>\n<h3>The folly of Israel's leaders</h3>\n<p><strong><a href=\"https://ref.ly/Jer10:21\">JER 10:21</a></strong> <em>The shepherds are those entrusted with the task of guiding and caring for God's people</em>; <strong><a href=\"https://ref.ly/Ezek13:3\">EZK 13:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt23:16-Matt23:17\">MAT 23:16–23:17</a></p>\n<h3>Particular demonstrations of human folly</h3>\n<p><a href=\"https://ref.ly/Num12:1-Num12:11\">NUM 12:1–12:11</a> <em>Aaron and Miriam</em>; <a href=\"https://ref.ly/1Sam13:13\">1SA 13:13</a>, <a href=\"https://ref.ly/1Sam26:21\">1SA 26:21</a>; \n<a href=\"https://ref.ly/1Sam25:25\">1SA 25:25</a> <em>Nabal. In Hebrew this name means “fool”.</em>; <a href=\"https://ref.ly/2Sam24:10\">2SA 24:10</a> parallel <a href=\"https://ref.ly/1Chr21:8\">1CH 21:8</a>; \n<a href=\"https://ref.ly/2Chr16:7-2Chr16:9\">2CH 16:7–16:9</a> <em>Asa, king of Judah</em>; ; <a href=\"https://ref.ly/Isa19:11-Isa19:13\">ISA 19:11–19:13</a> <em>Pharaoh's advisors</em>; ; <a href=\"https://ref.ly/Matt7:26\">MAT 7:26</a> <em>the foolish builder</em>; ; <a href=\"https://ref.ly/Matt25:1-Matt25:3\">MAT 25:1–25:3</a> <em>the foolish virgins</em>; ; <a href=\"https://ref.ly/Luke12:16-Luke12:21\">LUK 12:16–12:21</a> <em>the rich fool</em>; ; <a href=\"https://ref.ly/Gal3:13\">GAL 3:13</a> <em>the Galatian Christians</em></p>\n<h2>Paul's ``foolishness''</h2>\n<p><strong><a href=\"https://ref.ly/2Cor11:16-2Cor11:21\">2CO 11:16–11:21</a></strong> <em>Paul engages in what he admits is the foolish boasting of his accomplishments in order to challenge the claims of false “apostles”.</em> <em>See also</em> <a href=\"https://ref.ly/2Cor11:1\">2CO 11:1</a>, <a href=\"https://ref.ly/2Cor12:6\">2CO 12:6</a>, <a href=\"https://ref.ly/2Cor12:11\">2CO 12:11</a></p>\n<h2>God's wisdom regarded as ``foolishness''</h2>\n<p><strong><a href=\"https://ref.ly/1Cor1:18\">1CO 1:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos9:7\">HOS 9:7</a>; <a href=\"https://ref.ly/Zech11:15\">ZEC 11:15</a>; <a href=\"https://ref.ly/1Cor1:20-1Cor1:25\">1CO 1:20–1:25</a>, <a href=\"https://ref.ly/1Cor1:27\">1CO 1:27</a>, <a href=\"https://ref.ly/1Cor4:10\">1CO 4:10</a></p>\n<h2>Human wisdom is foolishness to God</h2>\n<p><strong><a href=\"https://ref.ly/1Cor3:19\">1CO 3:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job12:17\">JOB 12:17</a>; <a href=\"https://ref.ly/Isa29:14\">ISA 29:14</a>, <a href=\"https://ref.ly/Isa44:25\">ISA 44:25</a>, <a href=\"https://ref.ly/Isa55:8\">ISA 55:8</a>; <a href=\"https://ref.ly/Jer50:36\">JER 50:36</a>; <a href=\"https://ref.ly/Rom1:22\">ROM 1:22</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "24004022",
+"start_ref_usfm": "JER 4:22",
+"end_ref": "24004022",
+"end_ref_usfm": "JER 4:22"
+},
+{
+"start_ref": "05032006",
+"start_ref_usfm": "DEU 32:6",
+"end_ref": "05032006",
+"end_ref_usfm": "DEU 32:6"
+},
+{
+"start_ref": "24010008",
+"start_ref_usfm": "JER 10:8",
+"end_ref": "24010008",
+"end_ref_usfm": "JER 10:8"
+},
+{
+"start_ref": "28007011",
+"start_ref_usfm": "HOS 7:11",
+"end_ref": "28007011",
+"end_ref_usfm": "HOS 7:11"
+},
+{
+"start_ref": "24010021",
+"start_ref_usfm": "JER 10:21",
+"end_ref": "24010021",
+"end_ref_usfm": "JER 10:21"
+},
+{
+"start_ref": "26013003",
+"start_ref_usfm": "EZK 13:3",
+"end_ref": "26013003",
+"end_ref_usfm": "EZK 13:3"
+},
+{
+"start_ref": "40023016",
+"start_ref_usfm": "MAT 23:16",
+"end_ref": "40023017",
+"end_ref_usfm": "MAT 23:17"
+},
+{
+"start_ref": "04012001",
+"start_ref_usfm": "NUM 12:1",
+"end_ref": "04012011",
+"end_ref_usfm": "NUM 12:11"
+},
+{
+"start_ref": "09013013",
+"start_ref_usfm": "1SA 13:13",
+"end_ref": "09013013",
+"end_ref_usfm": "1SA 13:13"
+},
+{
+"start_ref": "09026021",
+"start_ref_usfm": "1SA 26:21",
+"end_ref": "09026021",
+"end_ref_usfm": "1SA 26:21"
+},
+{
+"start_ref": "09025025",
+"start_ref_usfm": "1SA 25:25",
+"end_ref": "09025025",
+"end_ref_usfm": "1SA 25:25"
+},
+{
+"start_ref": "10024010",
+"start_ref_usfm": "2SA 24:10",
+"end_ref": "10024010",
+"end_ref_usfm": "2SA 24:10"
+},
+{
+"start_ref": "13021008",
+"start_ref_usfm": "1CH 21:8",
+"end_ref": "13021008",
+"end_ref_usfm": "1CH 21:8"
+},
+{
+"start_ref": "14016007",
+"start_ref_usfm": "2CH 16:7",
+"end_ref": "14016009",
+"end_ref_usfm": "2CH 16:9"
+},
+{
+"start_ref": "23019011",
+"start_ref_usfm": "ISA 19:11",
+"end_ref": "23019013",
+"end_ref_usfm": "ISA 19:13"
+},
+{
+"start_ref": "40007026",
+"start_ref_usfm": "MAT 7:26",
+"end_ref": "40007026",
+"end_ref_usfm": "MAT 7:26"
+},
+{
+"start_ref": "40025001",
+"start_ref_usfm": "MAT 25:1",
+"end_ref": "40025003",
+"end_ref_usfm": "MAT 25:3"
+},
+{
+"start_ref": "42012016",
+"start_ref_usfm": "LUK 12:16",
+"end_ref": "42012021",
+"end_ref_usfm": "LUK 12:21"
+},
+{
+"start_ref": "48003013",
+"start_ref_usfm": "GAL 3:13",
+"end_ref": "48003013",
+"end_ref_usfm": "GAL 3:13"
+},
+{
+"start_ref": "47011016",
+"start_ref_usfm": "2CO 11:16",
+"end_ref": "47011021",
+"end_ref_usfm": "2CO 11:21"
+},
+{
+"start_ref": "47011001",
+"start_ref_usfm": "2CO 11:1",
+"end_ref": "47011001",
+"end_ref_usfm": "2CO 11:1"
+},
+{
+"start_ref": "47012006",
+"start_ref_usfm": "2CO 12:6",
+"end_ref": "47012006",
+"end_ref_usfm": "2CO 12:6"
+},
+{
+"start_ref": "47012011",
+"start_ref_usfm": "2CO 12:11",
+"end_ref": "47012011",
+"end_ref_usfm": "2CO 12:11"
+},
+{
+"start_ref": "46001018",
+"start_ref_usfm": "1CO 1:18",
+"end_ref": "46001018",
+"end_ref_usfm": "1CO 1:18"
+},
+{
+"start_ref": "28009007",
+"start_ref_usfm": "HOS 9:7",
+"end_ref": "28009007",
+"end_ref_usfm": "HOS 9:7"
+},
+{
+"start_ref": "38011015",
+"start_ref_usfm": "ZEC 11:15",
+"end_ref": "38011015",
+"end_ref_usfm": "ZEC 11:15"
+},
+{
+"start_ref": "46001020",
+"start_ref_usfm": "1CO 1:20",
+"end_ref": "46001025",
+"end_ref_usfm": "1CO 1:25"
+},
+{
+"start_ref": "46001027",
+"start_ref_usfm": "1CO 1:27",
+"end_ref": "46001027",
+"end_ref_usfm": "1CO 1:27"
+},
+{
+"start_ref": "46004010",
+"start_ref_usfm": "1CO 4:10",
+"end_ref": "46004010",
+"end_ref_usfm": "1CO 4:10"
+},
+{
+"start_ref": "46003019",
+"start_ref_usfm": "1CO 3:19",
+"end_ref": "46003019",
+"end_ref_usfm": "1CO 3:19"
+},
+{
+"start_ref": "18012017",
+"start_ref_usfm": "JOB 12:17",
+"end_ref": "18012017",
+"end_ref_usfm": "JOB 12:17"
+},
+{
+"start_ref": "23029014",
+"start_ref_usfm": "ISA 29:14",
+"end_ref": "23029014",
+"end_ref_usfm": "ISA 29:14"
+},
+{
+"start_ref": "23044025",
+"start_ref_usfm": "ISA 44:25",
+"end_ref": "23044025",
+"end_ref_usfm": "ISA 44:25"
+},
+{
+"start_ref": "23055008",
+"start_ref_usfm": "ISA 55:8",
+"end_ref": "23055008",
+"end_ref_usfm": "ISA 55:8"
+},
+{
+"start_ref": "24050036",
+"start_ref_usfm": "JER 50:36",
+"end_ref": "24050036",
+"end_ref_usfm": "JER 50:36"
+},
+{
+"start_ref": "45001022",
+"start_ref_usfm": "ROM 1:22",
+"end_ref": "45001022",
+"end_ref_usfm": "ROM 1:22"
+}
+],
+"resource": [
+{
+"reference_id": "1180",
+"content_id": "1180",
+"resource_code": "DictionaryBibleThemes",
+"label": "1180: God, wisdom of",
+"language": "eng"
+},
+{
+"reference_id": "5164",
+"content_id": "5164",
+"resource_code": "DictionaryBibleThemes",
+"label": "5164: lips",
+"language": "eng"
+},
+{
+"reference_id": "5173",
+"content_id": "5173",
+"resource_code": "DictionaryBibleThemes",
+"label": "5173: outward appearance",
+"language": "eng"
+},
+{
+"reference_id": "5401",
+"content_id": "5401",
+"resource_code": "DictionaryBibleThemes",
+"label": "5401: madness",
+"language": "eng"
+},
+{
+"reference_id": "5575",
+"content_id": "5575",
+"resource_code": "DictionaryBibleThemes",
+"label": "5575: talk, idle",
+"language": "eng"
+},
+{
+"reference_id": "5813",
+"content_id": "5813",
+"resource_code": "DictionaryBibleThemes",
+"label": "5813: conceit",
+"language": "eng"
+},
+{
+"reference_id": "5907",
+"content_id": "5907",
+"resource_code": "DictionaryBibleThemes",
+"label": "5907: miserliness",
+"language": "eng"
+},
+{
+"reference_id": "6121",
+"content_id": "6121",
+"resource_code": "DictionaryBibleThemes",
+"label": "6121: boasting",
+"language": "eng"
+},
+{
+"reference_id": "6188",
+"content_id": "6188",
+"resource_code": "DictionaryBibleThemes",
+"label": "6188: immorality, nature of sexual",
+"language": "eng"
+},
+{
+"reference_id": "6222",
+"content_id": "6222",
+"resource_code": "DictionaryBibleThemes",
+"label": "6222: rebellion, against God",
+"language": "eng"
+},
+{
+"reference_id": "8361",
+"content_id": "8361",
+"resource_code": "DictionaryBibleThemes",
+"label": "8361: wisdom",
+"language": "eng"
+},
+{
+"reference_id": "8759",
+"content_id": "8759",
+"resource_code": "DictionaryBibleThemes",
+"label": "8759: fools",
+"language": "eng"
+}
+]
+}
+}
+]

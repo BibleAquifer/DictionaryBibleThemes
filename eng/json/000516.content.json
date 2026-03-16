@@ -1,0 +1,243 @@
+[
+{
+"content_id": "4666",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4666: lion",
+"media_type": "Text",
+"index_reference": "4666: lion",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An important animal in the natural history of Palestine; a symbol of power and strength.</p>\n<h2>Lions seen as a threat to life</h2>\n<p><strong><a href=\"https://ref.ly/Dan6:7\">DAN 6:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg14:5\">JDG 14:5</a>; <a href=\"https://ref.ly/1Kgs13:24-1Kgs13:28\">1KI 13:24–13:28</a>, <a href=\"https://ref.ly/1Kgs20:36\">1KI 20:36</a>; <a href=\"https://ref.ly/Dan6:24\">DAN 6:24</a></p>\n<h2>God's deliverance from lions</h2>\n<p><strong><a href=\"https://ref.ly/Dan6:22\">DAN 6:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:34-1Sam17:37\">1SA 17:34–17:37</a>; <a href=\"https://ref.ly/2Tim4:17\">2TI 4:17</a>; <a href=\"https://ref.ly/Heb11:33\">HEB 11:33</a></p>\n<h2>The figurative use of lions</h2>\n<h3>As powerful</h3>\n<p><strong><a href=\"https://ref.ly/Job10:16\">JOB 10:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:9\">GEN 49:9</a>; <a href=\"https://ref.ly/Ps22:13\">PSA 22:13</a>, <a href=\"https://ref.ly/Ps22:21\">PSA 22:21</a></p>\n<h3>As cunning</h3>\n<p><strong><a href=\"https://ref.ly/Ps10:9\">PSA 10:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps17:12\">PSA 17:12</a>; <a href=\"https://ref.ly/Lam3:10\">LAM 3:10</a></p>\n<h3>As fearsome</h3>\n<p><a href=\"https://ref.ly/Jer12:8\">JER 12:8</a>, <a href=\"https://ref.ly/Jer51:38\">JER 51:38</a></p>\n<h3>As voracious</h3>\n<p><strong><a href=\"https://ref.ly/Ps7:2\">PSA 7:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps35:17\">PSA 35:17</a>, <a href=\"https://ref.ly/Ps57:4\">PSA 57:4</a>; <a href=\"https://ref.ly/Jer2:30\">JER 2:30</a>; <a href=\"https://ref.ly/Zeph3:3\">ZEP 3:3</a></p>\n<h3>They are not invincible</h3>\n<p><strong><a href=\"https://ref.ly/Ps34:10\">PSA 34:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job4:10-Job4:11\">JOB 4:10–4:11</a>; <a href=\"https://ref.ly/Ps58:6\">PSA 58:6</a>, <a href=\"https://ref.ly/Ps91:13\">PSA 91:13</a></p>\n<h3>Jesus Christ is likened to a lion</h3>\n<p><strong><a href=\"https://ref.ly/Rev5:5\">REV 5:5</a></strong></p>\n<h3>Satan is likened to a lion</h3>\n<p><strong><a href=\"https://ref.ly/1Pet5:8\">1PE 5:8</a></strong></p>\n<h2>The lion in God's new creation</h2>\n<p><strong><a href=\"https://ref.ly/Isa11:6\">ISA 11:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa65:25\">ISA 65:25</a></p>\n<h2>Lions as a decoration</h2>\n<p><a href=\"https://ref.ly/1Kgs7:29\">1KI 7:29</a>, <a href=\"https://ref.ly/1Kgs7:36\">1KI 7:36</a>, <a href=\"https://ref.ly/1Kgs10:20\">1KI 10:20</a></p>\n<h2>Samson's riddle concerning a lion</h2>\n<p><a href=\"https://ref.ly/Judg14:12-Judg14:18\">JDG 14:12–14:18</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "27006007",
+"start_ref_usfm": "DAN 6:7",
+"end_ref": "27006007",
+"end_ref_usfm": "DAN 6:7"
+},
+{
+"start_ref": "07014005",
+"start_ref_usfm": "JDG 14:5",
+"end_ref": "07014005",
+"end_ref_usfm": "JDG 14:5"
+},
+{
+"start_ref": "11013024",
+"start_ref_usfm": "1KI 13:24",
+"end_ref": "11013028",
+"end_ref_usfm": "1KI 13:28"
+},
+{
+"start_ref": "11020036",
+"start_ref_usfm": "1KI 20:36",
+"end_ref": "11020036",
+"end_ref_usfm": "1KI 20:36"
+},
+{
+"start_ref": "27006024",
+"start_ref_usfm": "DAN 6:24",
+"end_ref": "27006024",
+"end_ref_usfm": "DAN 6:24"
+},
+{
+"start_ref": "27006022",
+"start_ref_usfm": "DAN 6:22",
+"end_ref": "27006022",
+"end_ref_usfm": "DAN 6:22"
+},
+{
+"start_ref": "09017034",
+"start_ref_usfm": "1SA 17:34",
+"end_ref": "09017037",
+"end_ref_usfm": "1SA 17:37"
+},
+{
+"start_ref": "55004017",
+"start_ref_usfm": "2TI 4:17",
+"end_ref": "55004017",
+"end_ref_usfm": "2TI 4:17"
+},
+{
+"start_ref": "58011033",
+"start_ref_usfm": "HEB 11:33",
+"end_ref": "58011033",
+"end_ref_usfm": "HEB 11:33"
+},
+{
+"start_ref": "18010016",
+"start_ref_usfm": "JOB 10:16",
+"end_ref": "18010016",
+"end_ref_usfm": "JOB 10:16"
+},
+{
+"start_ref": "01049009",
+"start_ref_usfm": "GEN 49:9",
+"end_ref": "01049009",
+"end_ref_usfm": "GEN 49:9"
+},
+{
+"start_ref": "19022013",
+"start_ref_usfm": "PSA 22:13",
+"end_ref": "19022013",
+"end_ref_usfm": "PSA 22:13"
+},
+{
+"start_ref": "19022021",
+"start_ref_usfm": "PSA 22:21",
+"end_ref": "19022021",
+"end_ref_usfm": "PSA 22:21"
+},
+{
+"start_ref": "19010009",
+"start_ref_usfm": "PSA 10:9",
+"end_ref": "19010009",
+"end_ref_usfm": "PSA 10:9"
+},
+{
+"start_ref": "19017012",
+"start_ref_usfm": "PSA 17:12",
+"end_ref": "19017012",
+"end_ref_usfm": "PSA 17:12"
+},
+{
+"start_ref": "25003010",
+"start_ref_usfm": "LAM 3:10",
+"end_ref": "25003010",
+"end_ref_usfm": "LAM 3:10"
+},
+{
+"start_ref": "24012008",
+"start_ref_usfm": "JER 12:8",
+"end_ref": "24012008",
+"end_ref_usfm": "JER 12:8"
+},
+{
+"start_ref": "24051038",
+"start_ref_usfm": "JER 51:38",
+"end_ref": "24051038",
+"end_ref_usfm": "JER 51:38"
+},
+{
+"start_ref": "19007002",
+"start_ref_usfm": "PSA 7:2",
+"end_ref": "19007002",
+"end_ref_usfm": "PSA 7:2"
+},
+{
+"start_ref": "19035017",
+"start_ref_usfm": "PSA 35:17",
+"end_ref": "19035017",
+"end_ref_usfm": "PSA 35:17"
+},
+{
+"start_ref": "19057004",
+"start_ref_usfm": "PSA 57:4",
+"end_ref": "19057004",
+"end_ref_usfm": "PSA 57:4"
+},
+{
+"start_ref": "24002030",
+"start_ref_usfm": "JER 2:30",
+"end_ref": "24002030",
+"end_ref_usfm": "JER 2:30"
+},
+{
+"start_ref": "36003003",
+"start_ref_usfm": "ZEP 3:3",
+"end_ref": "36003003",
+"end_ref_usfm": "ZEP 3:3"
+},
+{
+"start_ref": "19034010",
+"start_ref_usfm": "PSA 34:10",
+"end_ref": "19034010",
+"end_ref_usfm": "PSA 34:10"
+},
+{
+"start_ref": "18004010",
+"start_ref_usfm": "JOB 4:10",
+"end_ref": "18004011",
+"end_ref_usfm": "JOB 4:11"
+},
+{
+"start_ref": "19058006",
+"start_ref_usfm": "PSA 58:6",
+"end_ref": "19058006",
+"end_ref_usfm": "PSA 58:6"
+},
+{
+"start_ref": "19091013",
+"start_ref_usfm": "PSA 91:13",
+"end_ref": "19091013",
+"end_ref_usfm": "PSA 91:13"
+},
+{
+"start_ref": "66005005",
+"start_ref_usfm": "REV 5:5",
+"end_ref": "66005005",
+"end_ref_usfm": "REV 5:5"
+},
+{
+"start_ref": "60005008",
+"start_ref_usfm": "1PE 5:8",
+"end_ref": "60005008",
+"end_ref_usfm": "1PE 5:8"
+},
+{
+"start_ref": "23011006",
+"start_ref_usfm": "ISA 11:6",
+"end_ref": "23011006",
+"end_ref_usfm": "ISA 11:6"
+},
+{
+"start_ref": "23065025",
+"start_ref_usfm": "ISA 65:25",
+"end_ref": "23065025",
+"end_ref_usfm": "ISA 65:25"
+},
+{
+"start_ref": "11007029",
+"start_ref_usfm": "1KI 7:29",
+"end_ref": "11007029",
+"end_ref_usfm": "1KI 7:29"
+},
+{
+"start_ref": "11007036",
+"start_ref_usfm": "1KI 7:36",
+"end_ref": "11007036",
+"end_ref_usfm": "1KI 7:36"
+},
+{
+"start_ref": "11010020",
+"start_ref_usfm": "1KI 10:20",
+"end_ref": "11010020",
+"end_ref_usfm": "1KI 10:20"
+},
+{
+"start_ref": "07014012",
+"start_ref_usfm": "JDG 14:12",
+"end_ref": "07014018",
+"end_ref_usfm": "JDG 14:18"
+}
+],
+"resource": [
+{
+"reference_id": "4603",
+"content_id": "4603",
+"resource_code": "DictionaryBibleThemes",
+"label": "4603: animals",
+"language": "eng"
+},
+{
+"reference_id": "4627",
+"content_id": "4627",
+"resource_code": "DictionaryBibleThemes",
+"label": "4627: creatures",
+"language": "eng"
+}
+]
+}
+}
+]

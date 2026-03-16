@@ -1,0 +1,270 @@
+[
+{
+"content_id": "8700",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8700: Threats to the life of faith",
+"media_type": "Text",
+"index_reference": "8700: threats to the life of faith",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"8701\" data-resourcetype=\"DictionaryOfBibleThemes\">8701: affluence</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8702\" data-resourcetype=\"DictionaryOfBibleThemes\">8702: agnosticism</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8703\" data-resourcetype=\"DictionaryOfBibleThemes\">8703: antinomianism</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8704\" data-resourcetype=\"DictionaryOfBibleThemes\">8704: apostasy</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8709\" data-resourcetype=\"DictionaryOfBibleThemes\">8709: astrology</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8710\" data-resourcetype=\"DictionaryOfBibleThemes\">8710: atheism</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8711\" data-resourcetype=\"DictionaryOfBibleThemes\">8711: covenant breakers</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8712\" data-resourcetype=\"DictionaryOfBibleThemes\">8712: denial of Jesus Christ</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8713\" data-resourcetype=\"DictionaryOfBibleThemes\">8713: discouragement</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8714\" data-resourcetype=\"DictionaryOfBibleThemes\">8714: dishonesty</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8718\" data-resourcetype=\"DictionaryOfBibleThemes\">8718: disobedience</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8719\" data-resourcetype=\"DictionaryOfBibleThemes\">8719: distrust</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8720\" data-resourcetype=\"DictionaryOfBibleThemes\">8720: double-mindedness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8721\" data-resourcetype=\"DictionaryOfBibleThemes\">8721: doubt</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8726\" data-resourcetype=\"DictionaryOfBibleThemes\">8726: doubters</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8727\" data-resourcetype=\"DictionaryOfBibleThemes\">8727: enemies</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8733\" data-resourcetype=\"DictionaryOfBibleThemes\">8733: envy</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8734\" data-resourcetype=\"DictionaryOfBibleThemes\">8734: evil</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8741\" data-resourcetype=\"DictionaryOfBibleThemes\">8741: failure</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8742\" data-resourcetype=\"DictionaryOfBibleThemes\">8742: faithlessness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8746\" data-resourcetype=\"DictionaryOfBibleThemes\">8746: false Christs</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8747\" data-resourcetype=\"DictionaryOfBibleThemes\">8747: false gods</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8748\" data-resourcetype=\"DictionaryOfBibleThemes\">8748: false religion</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8749\" data-resourcetype=\"DictionaryOfBibleThemes\">8749: false teachers</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8750\" data-resourcetype=\"DictionaryOfBibleThemes\">8750: false teachings</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8751\" data-resourcetype=\"DictionaryOfBibleThemes\">8751: false witness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8752\" data-resourcetype=\"DictionaryOfBibleThemes\">8752: false worship</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8753\" data-resourcetype=\"DictionaryOfBibleThemes\">8753: favouritism</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8754\" data-resourcetype=\"DictionaryOfBibleThemes\">8754: fear</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8755\" data-resourcetype=\"DictionaryOfBibleThemes\">8755: folly</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8759\" data-resourcetype=\"DictionaryOfBibleThemes\">8759: fools</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8763\" data-resourcetype=\"DictionaryOfBibleThemes\">8763: forgetting</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8764\" data-resourcetype=\"DictionaryOfBibleThemes\">8764: forgetting God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8765\" data-resourcetype=\"DictionaryOfBibleThemes\">8765: grudge</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8766\" data-resourcetype=\"DictionaryOfBibleThemes\">8766: heresies</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8767\" data-resourcetype=\"DictionaryOfBibleThemes\">8767: hypocrisy</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8701",
+"content_id": "8701",
+"resource_code": "DictionaryBibleThemes",
+"label": "8701: affluence",
+"language": "eng"
+},
+{
+"reference_id": "8702",
+"content_id": "8702",
+"resource_code": "DictionaryBibleThemes",
+"label": "8702: agnosticism",
+"language": "eng"
+},
+{
+"reference_id": "8703",
+"content_id": "8703",
+"resource_code": "DictionaryBibleThemes",
+"label": "8703: antinomianism",
+"language": "eng"
+},
+{
+"reference_id": "8704",
+"content_id": "8704",
+"resource_code": "DictionaryBibleThemes",
+"label": "8704: apostasy",
+"language": "eng"
+},
+{
+"reference_id": "8709",
+"content_id": "8709",
+"resource_code": "DictionaryBibleThemes",
+"label": "8709: astrology",
+"language": "eng"
+},
+{
+"reference_id": "8710",
+"content_id": "8710",
+"resource_code": "DictionaryBibleThemes",
+"label": "8710: atheism",
+"language": "eng"
+},
+{
+"reference_id": "8711",
+"content_id": "8711",
+"resource_code": "DictionaryBibleThemes",
+"label": "8711: covenant breakers",
+"language": "eng"
+},
+{
+"reference_id": "8712",
+"content_id": "8712",
+"resource_code": "DictionaryBibleThemes",
+"label": "8712: denial of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "8713",
+"content_id": "8713",
+"resource_code": "DictionaryBibleThemes",
+"label": "8713: discouragement",
+"language": "eng"
+},
+{
+"reference_id": "8714",
+"content_id": "8714",
+"resource_code": "DictionaryBibleThemes",
+"label": "8714: dishonesty",
+"language": "eng"
+},
+{
+"reference_id": "8718",
+"content_id": "8718",
+"resource_code": "DictionaryBibleThemes",
+"label": "8718: disobedience",
+"language": "eng"
+},
+{
+"reference_id": "8719",
+"content_id": "8719",
+"resource_code": "DictionaryBibleThemes",
+"label": "8719: distrust",
+"language": "eng"
+},
+{
+"reference_id": "8720",
+"content_id": "8720",
+"resource_code": "DictionaryBibleThemes",
+"label": "8720: double-mindedness",
+"language": "eng"
+},
+{
+"reference_id": "8721",
+"content_id": "8721",
+"resource_code": "DictionaryBibleThemes",
+"label": "8721: doubt",
+"language": "eng"
+},
+{
+"reference_id": "8726",
+"content_id": "8726",
+"resource_code": "DictionaryBibleThemes",
+"label": "8726: doubters",
+"language": "eng"
+},
+{
+"reference_id": "8727",
+"content_id": "8727",
+"resource_code": "DictionaryBibleThemes",
+"label": "8727: enemies",
+"language": "eng"
+},
+{
+"reference_id": "8733",
+"content_id": "8733",
+"resource_code": "DictionaryBibleThemes",
+"label": "8733: envy",
+"language": "eng"
+},
+{
+"reference_id": "8734",
+"content_id": "8734",
+"resource_code": "DictionaryBibleThemes",
+"label": "8734: evil",
+"language": "eng"
+},
+{
+"reference_id": "8741",
+"content_id": "8741",
+"resource_code": "DictionaryBibleThemes",
+"label": "8741: failure",
+"language": "eng"
+},
+{
+"reference_id": "8742",
+"content_id": "8742",
+"resource_code": "DictionaryBibleThemes",
+"label": "8742: faithlessness",
+"language": "eng"
+},
+{
+"reference_id": "8746",
+"content_id": "8746",
+"resource_code": "DictionaryBibleThemes",
+"label": "8746: false Christs",
+"language": "eng"
+},
+{
+"reference_id": "8747",
+"content_id": "8747",
+"resource_code": "DictionaryBibleThemes",
+"label": "8747: false gods",
+"language": "eng"
+},
+{
+"reference_id": "8748",
+"content_id": "8748",
+"resource_code": "DictionaryBibleThemes",
+"label": "8748: false religion",
+"language": "eng"
+},
+{
+"reference_id": "8749",
+"content_id": "8749",
+"resource_code": "DictionaryBibleThemes",
+"label": "8749: false teachers",
+"language": "eng"
+},
+{
+"reference_id": "8750",
+"content_id": "8750",
+"resource_code": "DictionaryBibleThemes",
+"label": "8750: false teachings",
+"language": "eng"
+},
+{
+"reference_id": "8751",
+"content_id": "8751",
+"resource_code": "DictionaryBibleThemes",
+"label": "8751: false witness",
+"language": "eng"
+},
+{
+"reference_id": "8752",
+"content_id": "8752",
+"resource_code": "DictionaryBibleThemes",
+"label": "8752: false worship",
+"language": "eng"
+},
+{
+"reference_id": "8753",
+"content_id": "8753",
+"resource_code": "DictionaryBibleThemes",
+"label": "8753: favouritism",
+"language": "eng"
+},
+{
+"reference_id": "8754",
+"content_id": "8754",
+"resource_code": "DictionaryBibleThemes",
+"label": "8754: fear",
+"language": "eng"
+},
+{
+"reference_id": "8755",
+"content_id": "8755",
+"resource_code": "DictionaryBibleThemes",
+"label": "8755: folly",
+"language": "eng"
+},
+{
+"reference_id": "8759",
+"content_id": "8759",
+"resource_code": "DictionaryBibleThemes",
+"label": "8759: fools",
+"language": "eng"
+},
+{
+"reference_id": "8763",
+"content_id": "8763",
+"resource_code": "DictionaryBibleThemes",
+"label": "8763: forgetting",
+"language": "eng"
+},
+{
+"reference_id": "8764",
+"content_id": "8764",
+"resource_code": "DictionaryBibleThemes",
+"label": "8764: forgetting God",
+"language": "eng"
+},
+{
+"reference_id": "8765",
+"content_id": "8765",
+"resource_code": "DictionaryBibleThemes",
+"label": "8765: grudge",
+"language": "eng"
+},
+{
+"reference_id": "8766",
+"content_id": "8766",
+"resource_code": "DictionaryBibleThemes",
+"label": "8766: heresies",
+"language": "eng"
+},
+{
+"reference_id": "8767",
+"content_id": "8767",
+"resource_code": "DictionaryBibleThemes",
+"label": "8767: hypocrisy",
+"language": "eng"
+}
+]
+}
+}
+]

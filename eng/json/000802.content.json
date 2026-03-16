@@ -1,0 +1,292 @@
+[
+{
+"content_id": "5213",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5213: assembly",
+"media_type": "Text",
+"index_reference": "5213: assembly",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Assemblies of the Israelites</h2>\n<p><strong><a href=\"https://ref.ly/Lev23:1-Lev23:2\">LEV 23:1–23:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod35:1\">EXO 35:1</a>; <a href=\"https://ref.ly/Lev4:14\">LEV 4:14</a>, <a href=\"https://ref.ly/Lev8:1-Lev8:5\">LEV 8:1–8:5</a>; <a href=\"https://ref.ly/Num10:1-Num10:7\">NUM 10:1–10:7</a>, <a href=\"https://ref.ly/Num15:35-Num15:36\">NUM 15:35–15:36</a>, <a href=\"https://ref.ly/Num16:45-Num16:47\">NUM 16:45–16:47</a>; <a href=\"https://ref.ly/1Sam7:5\">1SA 7:5</a>; <a href=\"https://ref.ly/1Kgs8:22\">1KI 8:22</a>; <a href=\"https://ref.ly/1Chr15:3\">1CH 15:3</a>; <a href=\"https://ref.ly/2Chr29:28\">2CH 29:28</a>; <a href=\"https://ref.ly/Ezra3:1\">EZR 3:1</a>; <a href=\"https://ref.ly/Ps22:25\">PSA 22:25</a>, <a href=\"https://ref.ly/Ps40:9-Ps40:10\">PSA 40:9–40:10</a>, <a href=\"https://ref.ly/Ps149:1\">PSA 149:1</a>; <a href=\"https://ref.ly/Amos5:21\">AMO 5:21</a></p>\n<h2>Assembling armies for war and groups for self-protection</h2>\n<p><strong><a href=\"https://ref.ly/Judg20:2\">JDG 20:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg10:17\">JDG 10:17</a>; <a href=\"https://ref.ly/1Sam7:6\">1SA 7:6</a>, <a href=\"https://ref.ly/1Sam13:5\">1SA 13:5</a>, <a href=\"https://ref.ly/1Sam17:2\">1SA 17:2</a>; <a href=\"https://ref.ly/Esth8:11\">EST 8:11</a>, <a href=\"https://ref.ly/Esth9:16\">EST 9:16</a></p>\n<h2>Assemblies of the Christian church</h2>\n<p><strong><a href=\"https://ref.ly/Acts14:27\">ACT 14:27</a></strong> <em>The Greek word for “church” can also be translated “assembly”.</em> <em>See also</em> <a href=\"https://ref.ly/Matt16:18\">MAT 16:18</a>; <a href=\"https://ref.ly/Acts13:1-Acts13:2\">ACT 13:1–13:2</a>, <a href=\"https://ref.ly/Acts14:23\">ACT 14:23</a>; <a href=\"https://ref.ly/1Cor11:18\">1CO 11:18</a>, <a href=\"https://ref.ly/1Cor14:23\">1CO 14:23</a>, <a href=\"https://ref.ly/1Cor16:19\">1CO 16:19</a></p>\n<h2>Assemblies for other purposes</h2>\n<p><strong><a href=\"https://ref.ly/Acts19:39\">ACT 19:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke23:1\">LUK 23:1</a>; <a href=\"https://ref.ly/Acts19:32\">ACT 19:32</a>, <a href=\"https://ref.ly/Acts19:41\">ACT 19:41</a>, <a href=\"https://ref.ly/Acts23:7\">ACT 23:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03023001",
+"start_ref_usfm": "LEV 23:1",
+"end_ref": "03023002",
+"end_ref_usfm": "LEV 23:2"
+},
+{
+"start_ref": "02035001",
+"start_ref_usfm": "EXO 35:1",
+"end_ref": "02035001",
+"end_ref_usfm": "EXO 35:1"
+},
+{
+"start_ref": "03004014",
+"start_ref_usfm": "LEV 4:14",
+"end_ref": "03004014",
+"end_ref_usfm": "LEV 4:14"
+},
+{
+"start_ref": "03008001",
+"start_ref_usfm": "LEV 8:1",
+"end_ref": "03008005",
+"end_ref_usfm": "LEV 8:5"
+},
+{
+"start_ref": "04010001",
+"start_ref_usfm": "NUM 10:1",
+"end_ref": "04010007",
+"end_ref_usfm": "NUM 10:7"
+},
+{
+"start_ref": "04015035",
+"start_ref_usfm": "NUM 15:35",
+"end_ref": "04015036",
+"end_ref_usfm": "NUM 15:36"
+},
+{
+"start_ref": "04016045",
+"start_ref_usfm": "NUM 16:45",
+"end_ref": "04016047",
+"end_ref_usfm": "NUM 16:47"
+},
+{
+"start_ref": "09007005",
+"start_ref_usfm": "1SA 7:5",
+"end_ref": "09007005",
+"end_ref_usfm": "1SA 7:5"
+},
+{
+"start_ref": "11008022",
+"start_ref_usfm": "1KI 8:22",
+"end_ref": "11008022",
+"end_ref_usfm": "1KI 8:22"
+},
+{
+"start_ref": "13015003",
+"start_ref_usfm": "1CH 15:3",
+"end_ref": "13015003",
+"end_ref_usfm": "1CH 15:3"
+},
+{
+"start_ref": "14029028",
+"start_ref_usfm": "2CH 29:28",
+"end_ref": "14029028",
+"end_ref_usfm": "2CH 29:28"
+},
+{
+"start_ref": "15003001",
+"start_ref_usfm": "EZR 3:1",
+"end_ref": "15003001",
+"end_ref_usfm": "EZR 3:1"
+},
+{
+"start_ref": "19022025",
+"start_ref_usfm": "PSA 22:25",
+"end_ref": "19022025",
+"end_ref_usfm": "PSA 22:25"
+},
+{
+"start_ref": "19040009",
+"start_ref_usfm": "PSA 40:9",
+"end_ref": "19040010",
+"end_ref_usfm": "PSA 40:10"
+},
+{
+"start_ref": "19149001",
+"start_ref_usfm": "PSA 149:1",
+"end_ref": "19149001",
+"end_ref_usfm": "PSA 149:1"
+},
+{
+"start_ref": "30005021",
+"start_ref_usfm": "AMO 5:21",
+"end_ref": "30005021",
+"end_ref_usfm": "AMO 5:21"
+},
+{
+"start_ref": "07020002",
+"start_ref_usfm": "JDG 20:2",
+"end_ref": "07020002",
+"end_ref_usfm": "JDG 20:2"
+},
+{
+"start_ref": "07010017",
+"start_ref_usfm": "JDG 10:17",
+"end_ref": "07010017",
+"end_ref_usfm": "JDG 10:17"
+},
+{
+"start_ref": "09007006",
+"start_ref_usfm": "1SA 7:6",
+"end_ref": "09007006",
+"end_ref_usfm": "1SA 7:6"
+},
+{
+"start_ref": "09013005",
+"start_ref_usfm": "1SA 13:5",
+"end_ref": "09013005",
+"end_ref_usfm": "1SA 13:5"
+},
+{
+"start_ref": "09017002",
+"start_ref_usfm": "1SA 17:2",
+"end_ref": "09017002",
+"end_ref_usfm": "1SA 17:2"
+},
+{
+"start_ref": "17008011",
+"start_ref_usfm": "EST 8:11",
+"end_ref": "17008011",
+"end_ref_usfm": "EST 8:11"
+},
+{
+"start_ref": "17009016",
+"start_ref_usfm": "EST 9:16",
+"end_ref": "17009016",
+"end_ref_usfm": "EST 9:16"
+},
+{
+"start_ref": "44014027",
+"start_ref_usfm": "ACT 14:27",
+"end_ref": "44014027",
+"end_ref_usfm": "ACT 14:27"
+},
+{
+"start_ref": "40016018",
+"start_ref_usfm": "MAT 16:18",
+"end_ref": "40016018",
+"end_ref_usfm": "MAT 16:18"
+},
+{
+"start_ref": "44013001",
+"start_ref_usfm": "ACT 13:1",
+"end_ref": "44013002",
+"end_ref_usfm": "ACT 13:2"
+},
+{
+"start_ref": "44014023",
+"start_ref_usfm": "ACT 14:23",
+"end_ref": "44014023",
+"end_ref_usfm": "ACT 14:23"
+},
+{
+"start_ref": "46011018",
+"start_ref_usfm": "1CO 11:18",
+"end_ref": "46011018",
+"end_ref_usfm": "1CO 11:18"
+},
+{
+"start_ref": "46014023",
+"start_ref_usfm": "1CO 14:23",
+"end_ref": "46014023",
+"end_ref_usfm": "1CO 14:23"
+},
+{
+"start_ref": "46016019",
+"start_ref_usfm": "1CO 16:19",
+"end_ref": "46016019",
+"end_ref_usfm": "1CO 16:19"
+},
+{
+"start_ref": "44019039",
+"start_ref_usfm": "ACT 19:39",
+"end_ref": "44019039",
+"end_ref_usfm": "ACT 19:39"
+},
+{
+"start_ref": "42023001",
+"start_ref_usfm": "LUK 23:1",
+"end_ref": "42023001",
+"end_ref_usfm": "LUK 23:1"
+},
+{
+"start_ref": "44019032",
+"start_ref_usfm": "ACT 19:32",
+"end_ref": "44019032",
+"end_ref_usfm": "ACT 19:32"
+},
+{
+"start_ref": "44019041",
+"start_ref_usfm": "ACT 19:41",
+"end_ref": "44019041",
+"end_ref_usfm": "ACT 19:41"
+},
+{
+"start_ref": "44023007",
+"start_ref_usfm": "ACT 23:7",
+"end_ref": "44023007",
+"end_ref_usfm": "ACT 23:7"
+}
+],
+"resource": [
+{
+"reference_id": "5208",
+"content_id": "5208",
+"resource_code": "DictionaryBibleThemes",
+"label": "5208: armies",
+"language": "eng"
+},
+{
+"reference_id": "5279",
+"content_id": "5279",
+"resource_code": "DictionaryBibleThemes",
+"label": "5279: crowds",
+"language": "eng"
+},
+{
+"reference_id": "5338",
+"content_id": "5338",
+"resource_code": "DictionaryBibleThemes",
+"label": "5338: holiday",
+"language": "eng"
+},
+{
+"reference_id": "7020",
+"content_id": "7020",
+"resource_code": "DictionaryBibleThemes",
+"label": "7020: church, the",
+"language": "eng"
+},
+{
+"reference_id": "7206",
+"content_id": "7206",
+"resource_code": "DictionaryBibleThemes",
+"label": "7206: community",
+"language": "eng"
+},
+{
+"reference_id": "7209",
+"content_id": "7209",
+"resource_code": "DictionaryBibleThemes",
+"label": "7209: congregation",
+"language": "eng"
+},
+{
+"reference_id": "7565",
+"content_id": "7565",
+"resource_code": "DictionaryBibleThemes",
+"label": "7565: Sanhedrin",
+"language": "eng"
+},
+{
+"reference_id": "7610",
+"content_id": "7610",
+"resource_code": "DictionaryBibleThemes",
+"label": "7610: Council of Jerusalem",
+"language": "eng"
+},
+{
+"reference_id": "7930",
+"content_id": "7930",
+"resource_code": "DictionaryBibleThemes",
+"label": "7930: Lord's Day, the",
+"language": "eng"
+}
+]
+}
+}
+]

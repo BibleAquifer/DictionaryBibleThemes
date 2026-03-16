@@ -1,0 +1,39 @@
+[
+{
+"content_id": "3000",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "3000: Holy Spirit",
+"media_type": "Text",
+"index_reference": "3000: holy spirit",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"3005\" data-resourcetype=\"DictionaryOfBibleThemes\">3005: Holy Spirit, qualities of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"3100\" data-resourcetype=\"DictionaryOfBibleThemes\">3100: Holy Spirit, titles and descriptions of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"3200\" data-resourcetype=\"DictionaryOfBibleThemes\">3200: Holy Spirit, ministry and work of</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "3005",
+"content_id": "3005",
+"resource_code": "DictionaryBibleThemes",
+"label": "3005: Holy Spirit, qualities of",
+"language": "eng"
+},
+{
+"reference_id": "3100",
+"content_id": "3100",
+"resource_code": "DictionaryBibleThemes",
+"label": "3100: Holy Spirit, titles and descriptions of",
+"language": "eng"
+},
+{
+"reference_id": "3200",
+"content_id": "3200",
+"resource_code": "DictionaryBibleThemes",
+"label": "3200: Holy Spirit, ministry and work of",
+"language": "eng"
+}
+]
+}
+}
+]

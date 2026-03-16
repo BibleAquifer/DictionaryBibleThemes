@@ -1,0 +1,155 @@
+[
+{
+"content_id": "4474",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4474: manna",
+"media_type": "Text",
+"index_reference": "4474: manna",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The source of food provided miraculously for the children of Israel during their desert wanderings. The NT sees this heavenly food as a symbol of Jesus Christ as the bread of life.</p>\n<h2>Manna provided by God</h2>\n<p><strong><a href=\"https://ref.ly/Exod16:31\">EXO 16:31</a></strong>; <strong><a href=\"https://ref.ly/Josh5:12\">JOS 5:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod16:32-Exod16:35\">EXO 16:32–16:35</a>; <a href=\"https://ref.ly/Num11:6-Num11:9\">NUM 11:6–11:9</a>; <a href=\"https://ref.ly/Neh9:15\">NEH 9:15</a>; <a href=\"https://ref.ly/Ps78:24-Ps78:25\">PSA 78:24–78:25</a>; <a href=\"https://ref.ly/John6:31\">JHN 6:31</a>, <a href=\"https://ref.ly/John6:49\">JHN 6:49</a>; <a href=\"https://ref.ly/Heb9:4\">HEB 9:4</a></p>\n<h2>Manna as a type</h2>\n<h3>A type of the word of God</h3>\n<p><strong><a href=\"https://ref.ly/Deut8:3\">DEU 8:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut8:16\">DEU 8:16</a>; <a href=\"https://ref.ly/Neh9:20\">NEH 9:20</a>; <a href=\"https://ref.ly/Matt4:4\">MAT 4:4</a></p>\n<h3>A type of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/John6:50-John6:51\">JHN 6:50–6:51</a></strong> <em>See also</em> <a href=\"https://ref.ly/John6:32-John6:35\">JHN 6:32–6:35</a>, <a href=\"https://ref.ly/John6:47-John6:48\">JHN 6:47–6:48</a>, <a href=\"https://ref.ly/John6:52-John6:58\">JHN 6:52–6:58</a></p>\n<h3>A symbol of future blessing</h3>\n<p><a href=\"https://ref.ly/Rev2:17\">REV 2:17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02016031",
+"start_ref_usfm": "EXO 16:31",
+"end_ref": "02016031",
+"end_ref_usfm": "EXO 16:31"
+},
+{
+"start_ref": "06005012",
+"start_ref_usfm": "JOS 5:12",
+"end_ref": "06005012",
+"end_ref_usfm": "JOS 5:12"
+},
+{
+"start_ref": "02016032",
+"start_ref_usfm": "EXO 16:32",
+"end_ref": "02016035",
+"end_ref_usfm": "EXO 16:35"
+},
+{
+"start_ref": "04011006",
+"start_ref_usfm": "NUM 11:6",
+"end_ref": "04011009",
+"end_ref_usfm": "NUM 11:9"
+},
+{
+"start_ref": "16009015",
+"start_ref_usfm": "NEH 9:15",
+"end_ref": "16009015",
+"end_ref_usfm": "NEH 9:15"
+},
+{
+"start_ref": "19078024",
+"start_ref_usfm": "PSA 78:24",
+"end_ref": "19078025",
+"end_ref_usfm": "PSA 78:25"
+},
+{
+"start_ref": "43006031",
+"start_ref_usfm": "JHN 6:31",
+"end_ref": "43006031",
+"end_ref_usfm": "JHN 6:31"
+},
+{
+"start_ref": "43006049",
+"start_ref_usfm": "JHN 6:49",
+"end_ref": "43006049",
+"end_ref_usfm": "JHN 6:49"
+},
+{
+"start_ref": "58009004",
+"start_ref_usfm": "HEB 9:4",
+"end_ref": "58009004",
+"end_ref_usfm": "HEB 9:4"
+},
+{
+"start_ref": "05008003",
+"start_ref_usfm": "DEU 8:3",
+"end_ref": "05008003",
+"end_ref_usfm": "DEU 8:3"
+},
+{
+"start_ref": "05008016",
+"start_ref_usfm": "DEU 8:16",
+"end_ref": "05008016",
+"end_ref_usfm": "DEU 8:16"
+},
+{
+"start_ref": "16009020",
+"start_ref_usfm": "NEH 9:20",
+"end_ref": "16009020",
+"end_ref_usfm": "NEH 9:20"
+},
+{
+"start_ref": "40004004",
+"start_ref_usfm": "MAT 4:4",
+"end_ref": "40004004",
+"end_ref_usfm": "MAT 4:4"
+},
+{
+"start_ref": "43006050",
+"start_ref_usfm": "JHN 6:50",
+"end_ref": "43006051",
+"end_ref_usfm": "JHN 6:51"
+},
+{
+"start_ref": "43006032",
+"start_ref_usfm": "JHN 6:32",
+"end_ref": "43006035",
+"end_ref_usfm": "JHN 6:35"
+},
+{
+"start_ref": "43006047",
+"start_ref_usfm": "JHN 6:47",
+"end_ref": "43006048",
+"end_ref_usfm": "JHN 6:48"
+},
+{
+"start_ref": "43006052",
+"start_ref_usfm": "JHN 6:52",
+"end_ref": "43006058",
+"end_ref_usfm": "JHN 6:58"
+},
+{
+"start_ref": "66002017",
+"start_ref_usfm": "REV 2:17",
+"end_ref": "66002017",
+"end_ref_usfm": "REV 2:17"
+}
+],
+"resource": [
+{
+"reference_id": "1330",
+"content_id": "1330",
+"resource_code": "DictionaryBibleThemes",
+"label": "1330: God, the provider",
+"language": "eng"
+},
+{
+"reference_id": "2203",
+"content_id": "2203",
+"resource_code": "DictionaryBibleThemes",
+"label": "2203: Jesus Christ, titles and names of",
+"language": "eng"
+},
+{
+"reference_id": "5222",
+"content_id": "5222",
+"resource_code": "DictionaryBibleThemes",
+"label": "5222: baking",
+"language": "eng"
+},
+{
+"reference_id": "7221",
+"content_id": "7221",
+"resource_code": "DictionaryBibleThemes",
+"label": "7221: exodus, the",
+"language": "eng"
+}
+]
+}
+}
+]

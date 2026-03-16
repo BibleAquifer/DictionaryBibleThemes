@@ -1,0 +1,142 @@
+[
+{
+"content_id": "5651",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5651: ancestors",
+"media_type": "Text",
+"index_reference": "5651: ancestors",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The ancestors of Israel</h2>\n<h3>Abraham, Isaac and Jacob</h3>\n<p><strong><a href=\"https://ref.ly/Lev26:45\">LEV 26:45</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jas2:21\">JAS 2:21</a></p>\n<h3>More immediate forebears</h3>\n<p><strong><a href=\"https://ref.ly/Amos2:4\">AMO 2:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs19:3-1Kgs19:4\">1KI 19:3–19:4</a>; <a href=\"https://ref.ly/Acts28:17\">ACT 28:17</a></p>\n<h2>Ancestors of specific groups of people</h2>\n<p><strong><a href=\"https://ref.ly/Josh17:1\">JOS 17:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen10:21\">GEN 10:21</a></p>\n<h2>Ancestors of individuals</h2>\n<p><strong><a href=\"https://ref.ly/Rom9:5\">ROM 9:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb7:10\">HEB 7:10</a></p>\n<h2>The figurative use of ancestors</h2>\n<p><strong><a href=\"https://ref.ly/Ezek16:3\">EZK 16:3</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03026045",
+"start_ref_usfm": "LEV 26:45",
+"end_ref": "03026045",
+"end_ref_usfm": "LEV 26:45"
+},
+{
+"start_ref": "59002021",
+"start_ref_usfm": "JAS 2:21",
+"end_ref": "59002021",
+"end_ref_usfm": "JAS 2:21"
+},
+{
+"start_ref": "30002004",
+"start_ref_usfm": "AMO 2:4",
+"end_ref": "30002004",
+"end_ref_usfm": "AMO 2:4"
+},
+{
+"start_ref": "11019003",
+"start_ref_usfm": "1KI 19:3",
+"end_ref": "11019004",
+"end_ref_usfm": "1KI 19:4"
+},
+{
+"start_ref": "44028017",
+"start_ref_usfm": "ACT 28:17",
+"end_ref": "44028017",
+"end_ref_usfm": "ACT 28:17"
+},
+{
+"start_ref": "06017001",
+"start_ref_usfm": "JOS 17:1",
+"end_ref": "06017001",
+"end_ref_usfm": "JOS 17:1"
+},
+{
+"start_ref": "01010021",
+"start_ref_usfm": "GEN 10:21",
+"end_ref": "01010021",
+"end_ref_usfm": "GEN 10:21"
+},
+{
+"start_ref": "45009005",
+"start_ref_usfm": "ROM 9:5",
+"end_ref": "45009005",
+"end_ref_usfm": "ROM 9:5"
+},
+{
+"start_ref": "58007010",
+"start_ref_usfm": "HEB 7:10",
+"end_ref": "58007010",
+"end_ref_usfm": "HEB 7:10"
+},
+{
+"start_ref": "26016003",
+"start_ref_usfm": "EZK 16:3",
+"end_ref": "26016003",
+"end_ref_usfm": "EZK 16:3"
+}
+],
+"resource": [
+{
+"reference_id": "1245",
+"content_id": "1245",
+"resource_code": "DictionaryBibleThemes",
+"label": "1245: God of the fathers",
+"language": "eng"
+},
+{
+"reference_id": "2540",
+"content_id": "2540",
+"resource_code": "DictionaryBibleThemes",
+"label": "2540: Jesus Christ, genealogy of",
+"language": "eng"
+},
+{
+"reference_id": "5076",
+"content_id": "5076",
+"resource_code": "DictionaryBibleThemes",
+"label": "5076: Abraham, life of",
+"language": "eng"
+},
+{
+"reference_id": "5096",
+"content_id": "5096",
+"resource_code": "DictionaryBibleThemes",
+"label": "5096: Jacob, the patriarch",
+"language": "eng"
+},
+{
+"reference_id": "5680",
+"content_id": "5680",
+"resource_code": "DictionaryBibleThemes",
+"label": "5680: family",
+"language": "eng"
+},
+{
+"reference_id": "5694",
+"content_id": "5694",
+"resource_code": "DictionaryBibleThemes",
+"label": "5694: generation",
+"language": "eng"
+},
+{
+"reference_id": "6160",
+"content_id": "6160",
+"resource_code": "DictionaryBibleThemes",
+"label": "6160: fathers, sin of the",
+"language": "eng"
+},
+{
+"reference_id": "7230",
+"content_id": "7230",
+"resource_code": "DictionaryBibleThemes",
+"label": "7230: genealogies",
+"language": "eng"
+},
+{
+"reference_id": "7248",
+"content_id": "7248",
+"resource_code": "DictionaryBibleThemes",
+"label": "7248: patriarchs",
+"language": "eng"
+}
+]
+}
+}
+]

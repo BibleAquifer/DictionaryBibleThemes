@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5019",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5019: human nature",
+"media_type": "Text",
+"index_reference": "5019: human nature",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture declares that human nature was created by God in his image and likeness, and set above all other creatures.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5020",
+"content_id": "5020",
+"resource_code": "DictionaryBibleThemes",
+"label": "5020: human nature",
+"language": "eng"
+},
+{
+"reference_id": "5021",
+"content_id": "5021",
+"resource_code": "DictionaryBibleThemes",
+"label": "5021: humanity, of Jesus Christ",
+"language": "eng"
+}
+]
+}
+}
+]

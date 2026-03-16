@@ -1,0 +1,76 @@
+[
+{
+"content_id": "5301",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5301: dyeing",
+"media_type": "Text",
+"index_reference": "5301: dyeing",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Dyeing cloth or animal skin</h2>\n<p><strong><a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod25:5\">EXO 25:5</a>, <a href=\"https://ref.ly/Exod35:7\">EXO 35:7</a>, <a href=\"https://ref.ly/Exod35:23\">EXO 35:23</a>, <a href=\"https://ref.ly/Exod36:19\">EXO 36:19</a>, <a href=\"https://ref.ly/Exod39:34\">EXO 39:34</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02026014",
+"start_ref_usfm": "EXO 26:14",
+"end_ref": "02026014",
+"end_ref_usfm": "EXO 26:14"
+},
+{
+"start_ref": "02025005",
+"start_ref_usfm": "EXO 25:5",
+"end_ref": "02025005",
+"end_ref_usfm": "EXO 25:5"
+},
+{
+"start_ref": "02035007",
+"start_ref_usfm": "EXO 35:7",
+"end_ref": "02035007",
+"end_ref_usfm": "EXO 35:7"
+},
+{
+"start_ref": "02035023",
+"start_ref_usfm": "EXO 35:23",
+"end_ref": "02035023",
+"end_ref_usfm": "EXO 35:23"
+},
+{
+"start_ref": "02036019",
+"start_ref_usfm": "EXO 36:19",
+"end_ref": "02036019",
+"end_ref_usfm": "EXO 36:19"
+},
+{
+"start_ref": "02039034",
+"start_ref_usfm": "EXO 39:34",
+"end_ref": "02039034",
+"end_ref_usfm": "EXO 39:34"
+}
+],
+"resource": [
+{
+"reference_id": "4807",
+"content_id": "4807",
+"resource_code": "DictionaryBibleThemes",
+"label": "4807: colours",
+"language": "eng"
+},
+{
+"reference_id": "5212",
+"content_id": "5212",
+"resource_code": "DictionaryBibleThemes",
+"label": "5212: arts and crafts",
+"language": "eng"
+},
+{
+"reference_id": "5258",
+"content_id": "5258",
+"resource_code": "DictionaryBibleThemes",
+"label": "5258: cloth",
+"language": "eng"
+}
+]
+}
+}
+]

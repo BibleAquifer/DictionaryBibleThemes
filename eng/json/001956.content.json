@@ -1,0 +1,264 @@
+[
+{
+"content_id": "7915",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7915: confirmation",
+"media_type": "Text",
+"index_reference": "7915: confirmation",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The act of publicly affirming something or someone, usually with a view to declaring trustworthiness. God confirmed his covenants, oaths and promises to emphasise his intention to fulfil them and he confirms the gospel to demonstrate its truthfulness.</p>\n<h2>Confirmation of covenants</h2>\n<p><strong><a href=\"https://ref.ly/Deut4:31\">DEU 4:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen17:1-Gen17:22\">GEN 17:1–17:22</a>; <a href=\"https://ref.ly/Deut8:18\">DEU 8:18</a>; <a href=\"https://ref.ly/2Kgs23:3\">2KI 23:3</a>; <a href=\"https://ref.ly/1Chr16:17\">1CH 16:17</a>; <a href=\"https://ref.ly/Ps105:10\">PSA 105:10</a>; <a href=\"https://ref.ly/Dan9:26-Dan9:27\">DAN 9:26–9:27</a></p>\n<h2>Confirmation of oaths</h2>\n<p><strong><a href=\"https://ref.ly/Ps119:106\">PSA 119:106</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen26:1-Gen26:5\">GEN 26:1–26:5</a></p>\n<h2>Confirmation of promises</h2>\n<p><strong><a href=\"https://ref.ly/Rom15:8\">ROM 15:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut29:12-Deut29:13\">DEU 29:12–29:13</a>; <a href=\"https://ref.ly/2Chr1:9\">2CH 1:9</a>; <a href=\"https://ref.ly/Heb6:17\">HEB 6:17</a></p>\n<h2>Confirmation of the gospel</h2>\n<p><strong><a href=\"https://ref.ly/Mark16:20\">MRK 16:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts14:3\">ACT 14:3</a>; <a href=\"https://ref.ly/1Cor1:4-1Cor1:6\">1CO 1:4–1:6</a>; <a href=\"https://ref.ly/Phil1:7\">PHP 1:7</a>; <a href=\"https://ref.ly/Heb2:3\">HEB 2:3</a></p>\n<h2>Confirmation of wisdom</h2>\n<p><strong><a href=\"https://ref.ly/Job28:25-Job28:28\">JOB 28:25–28:28</a></strong></p>\n<h2>Confirmation of vows</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Num30:1-Num30:16\">NUM 30:1–30:16</a> <em>A vow made by a woman could be either confirmed or nullified by her father or husband.</em></p>\n<h2>Confirmation of a witness's testimony</h2>\n<p><strong><a href=\"https://ref.ly/Deut19:15\">DEU 19:15</a></strong> <em>Evidence accepted in court required confirmation by more than one witness.</em> <em>See also</em> <a href=\"https://ref.ly/1Kgs1:11-1Kgs1:14\">1KI 1:11–1:14</a>; <a href=\"https://ref.ly/Mark14:56-Mark14:59\">MRK 14:56–14:59</a> <em>The proper judicial procedure was not followed at the trial of Jesus Christ</em>; <a href=\"https://ref.ly/Rom9:1-Rom9:4\">ROM 9:1–9:4</a> <em>Paul here invokes the Holy Spirit as a witness</em>; <a href=\"https://ref.ly/Heb6:16\">HEB 6:16</a></p>\n<h2>Confirmation of letters</h2>\n<p><strong><a href=\"https://ref.ly/Acts15:27\">ACT 15:27</a></strong> <em>This constituted verification of the authenticity of a letter which could easily have been forged or tampered with.</em> <em>See also</em> <a href=\"https://ref.ly/Esth9:29-Esth9:32\">EST 9:29–9:32</a></p>\n<h2>Confirmation of office or position</h2>\n<p><strong><a href=\"https://ref.ly/1Sam11:15\">1SA 11:15</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05004031",
+"start_ref_usfm": "DEU 4:31",
+"end_ref": "05004031",
+"end_ref_usfm": "DEU 4:31"
+},
+{
+"start_ref": "01017001",
+"start_ref_usfm": "GEN 17:1",
+"end_ref": "01017022",
+"end_ref_usfm": "GEN 17:22"
+},
+{
+"start_ref": "05008018",
+"start_ref_usfm": "DEU 8:18",
+"end_ref": "05008018",
+"end_ref_usfm": "DEU 8:18"
+},
+{
+"start_ref": "12023003",
+"start_ref_usfm": "2KI 23:3",
+"end_ref": "12023003",
+"end_ref_usfm": "2KI 23:3"
+},
+{
+"start_ref": "13016017",
+"start_ref_usfm": "1CH 16:17",
+"end_ref": "13016017",
+"end_ref_usfm": "1CH 16:17"
+},
+{
+"start_ref": "19105010",
+"start_ref_usfm": "PSA 105:10",
+"end_ref": "19105010",
+"end_ref_usfm": "PSA 105:10"
+},
+{
+"start_ref": "27009026",
+"start_ref_usfm": "DAN 9:26",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
+},
+{
+"start_ref": "19119106",
+"start_ref_usfm": "PSA 119:106",
+"end_ref": "19119106",
+"end_ref_usfm": "PSA 119:106"
+},
+{
+"start_ref": "01026001",
+"start_ref_usfm": "GEN 26:1",
+"end_ref": "01026005",
+"end_ref_usfm": "GEN 26:5"
+},
+{
+"start_ref": "45015008",
+"start_ref_usfm": "ROM 15:8",
+"end_ref": "45015008",
+"end_ref_usfm": "ROM 15:8"
+},
+{
+"start_ref": "05029012",
+"start_ref_usfm": "DEU 29:12",
+"end_ref": "05029013",
+"end_ref_usfm": "DEU 29:13"
+},
+{
+"start_ref": "14001009",
+"start_ref_usfm": "2CH 1:9",
+"end_ref": "14001009",
+"end_ref_usfm": "2CH 1:9"
+},
+{
+"start_ref": "58006017",
+"start_ref_usfm": "HEB 6:17",
+"end_ref": "58006017",
+"end_ref_usfm": "HEB 6:17"
+},
+{
+"start_ref": "41016020",
+"start_ref_usfm": "MRK 16:20",
+"end_ref": "41016020",
+"end_ref_usfm": "MRK 16:20"
+},
+{
+"start_ref": "44014003",
+"start_ref_usfm": "ACT 14:3",
+"end_ref": "44014003",
+"end_ref_usfm": "ACT 14:3"
+},
+{
+"start_ref": "46001004",
+"start_ref_usfm": "1CO 1:4",
+"end_ref": "46001006",
+"end_ref_usfm": "1CO 1:6"
+},
+{
+"start_ref": "50001007",
+"start_ref_usfm": "PHP 1:7",
+"end_ref": "50001007",
+"end_ref_usfm": "PHP 1:7"
+},
+{
+"start_ref": "58002003",
+"start_ref_usfm": "HEB 2:3",
+"end_ref": "58002003",
+"end_ref_usfm": "HEB 2:3"
+},
+{
+"start_ref": "18028025",
+"start_ref_usfm": "JOB 28:25",
+"end_ref": "18028028",
+"end_ref_usfm": "JOB 28:28"
+},
+{
+"start_ref": "04030001",
+"start_ref_usfm": "NUM 30:1",
+"end_ref": "04030016",
+"end_ref_usfm": "NUM 30:16"
+},
+{
+"start_ref": "05019015",
+"start_ref_usfm": "DEU 19:15",
+"end_ref": "05019015",
+"end_ref_usfm": "DEU 19:15"
+},
+{
+"start_ref": "11001011",
+"start_ref_usfm": "1KI 1:11",
+"end_ref": "11001014",
+"end_ref_usfm": "1KI 1:14"
+},
+{
+"start_ref": "41014056",
+"start_ref_usfm": "MRK 14:56",
+"end_ref": "41014059",
+"end_ref_usfm": "MRK 14:59"
+},
+{
+"start_ref": "45009001",
+"start_ref_usfm": "ROM 9:1",
+"end_ref": "45009004",
+"end_ref_usfm": "ROM 9:4"
+},
+{
+"start_ref": "58006016",
+"start_ref_usfm": "HEB 6:16",
+"end_ref": "58006016",
+"end_ref_usfm": "HEB 6:16"
+},
+{
+"start_ref": "44015027",
+"start_ref_usfm": "ACT 15:27",
+"end_ref": "44015027",
+"end_ref_usfm": "ACT 15:27"
+},
+{
+"start_ref": "17009029",
+"start_ref_usfm": "EST 9:29",
+"end_ref": "17009032",
+"end_ref_usfm": "EST 9:32"
+},
+{
+"start_ref": "09011015",
+"start_ref_usfm": "1SA 11:15",
+"end_ref": "09011015",
+"end_ref_usfm": "1SA 11:15"
+}
+],
+"resource": [
+{
+"reference_id": "1345",
+"content_id": "1345",
+"resource_code": "DictionaryBibleThemes",
+"label": "1345: covenant",
+"language": "eng"
+},
+{
+"reference_id": "1448",
+"content_id": "1448",
+"resource_code": "DictionaryBibleThemes",
+"label": "1448: signs",
+"language": "eng"
+},
+{
+"reference_id": "2422",
+"content_id": "2422",
+"resource_code": "DictionaryBibleThemes",
+"label": "2422: gospel, confirmation of",
+"language": "eng"
+},
+{
+"reference_id": "5391",
+"content_id": "5391",
+"resource_code": "DictionaryBibleThemes",
+"label": "5391: letters",
+"language": "eng"
+},
+{
+"reference_id": "5429",
+"content_id": "5429",
+"resource_code": "DictionaryBibleThemes",
+"label": "5429: oaths",
+"language": "eng"
+},
+{
+"reference_id": "5466",
+"content_id": "5466",
+"resource_code": "DictionaryBibleThemes",
+"label": "5466: promises",
+"language": "eng"
+},
+{
+"reference_id": "5471",
+"content_id": "5471",
+"resource_code": "DictionaryBibleThemes",
+"label": "5471: proof",
+"language": "eng"
+},
+{
+"reference_id": "5623",
+"content_id": "5623",
+"resource_code": "DictionaryBibleThemes",
+"label": "5623: witnesses, legal",
+"language": "eng"
+},
+{
+"reference_id": "5741",
+"content_id": "5741",
+"resource_code": "DictionaryBibleThemes",
+"label": "5741: vows",
+"language": "eng"
+},
+{
+"reference_id": "8634",
+"content_id": "8634",
+"resource_code": "DictionaryBibleThemes",
+"label": "8634: amen",
+"language": "eng"
+},
+{
+"reference_id": "8751",
+"content_id": "8751",
+"resource_code": "DictionaryBibleThemes",
+"label": "8751: false witness",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,67 @@
+[
+{
+"content_id": "6236",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6236: sexual sin",
+"media_type": "Text",
+"index_reference": "6236: sexual sin",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Sexual relations are to be seen as an aspect of God's good creation which can be corrupted and devalued through human sin.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6237",
+"content_id": "6237",
+"resource_code": "DictionaryBibleThemes",
+"label": "6237: sexual sin, nature of",
+"language": "eng"
+},
+{
+"reference_id": "6238",
+"content_id": "6238",
+"resource_code": "DictionaryBibleThemes",
+"label": "6238: homosexuality",
+"language": "eng"
+},
+{
+"reference_id": "6239",
+"content_id": "6239",
+"resource_code": "DictionaryBibleThemes",
+"label": "6239: prostitution",
+"language": "eng"
+},
+{
+"reference_id": "6240",
+"content_id": "6240",
+"resource_code": "DictionaryBibleThemes",
+"label": "6240: rape",
+"language": "eng"
+},
+{
+"reference_id": "6241",
+"content_id": "6241",
+"resource_code": "DictionaryBibleThemes",
+"label": "6241: seduction",
+"language": "eng"
+},
+{
+"reference_id": "6242",
+"content_id": "6242",
+"resource_code": "DictionaryBibleThemes",
+"label": "6242: adultery",
+"language": "eng"
+},
+{
+"reference_id": "6243",
+"content_id": "6243",
+"resource_code": "DictionaryBibleThemes",
+"label": "6243: adultery, spiritual",
+"language": "eng"
+}
+]
+}
+}
+]

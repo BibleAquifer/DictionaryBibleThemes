@@ -1,0 +1,46 @@
+[
+{
+"content_id": "9010",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9010: Death",
+"media_type": "Text",
+"index_reference": "9010: death",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"9020\" data-resourcetype=\"DictionaryOfBibleThemes\">9020: death</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9030\" data-resourcetype=\"DictionaryOfBibleThemes\">9030: dead bodies</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9040\" data-resourcetype=\"DictionaryOfBibleThemes\">9040: grave, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9050\" data-resourcetype=\"DictionaryOfBibleThemes\">9050: tombs</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+},
+{
+"reference_id": "9030",
+"content_id": "9030",
+"resource_code": "DictionaryBibleThemes",
+"label": "9030: dead bodies",
+"language": "eng"
+},
+{
+"reference_id": "9040",
+"content_id": "9040",
+"resource_code": "DictionaryBibleThemes",
+"label": "9040: grave, the",
+"language": "eng"
+},
+{
+"reference_id": "9050",
+"content_id": "9050",
+"resource_code": "DictionaryBibleThemes",
+"label": "9050: tombs",
+"language": "eng"
+}
+]
+}
+}
+]

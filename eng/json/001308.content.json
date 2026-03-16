@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5785",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5785: ambition",
+"media_type": "Text",
+"index_reference": "5785: ambition",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A powerful personal drive towards achieving goals which are regarded as being of importance to the individual. Ambition is viewed negatively when these goals are selflish or evil, and positively when they are directed towards building up the church or furthering the kingdom of God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5786",
+"content_id": "5786",
+"resource_code": "DictionaryBibleThemes",
+"label": "5786: ambition, negative aspects of",
+"language": "eng"
+},
+{
+"reference_id": "5787",
+"content_id": "5787",
+"resource_code": "DictionaryBibleThemes",
+"label": "5787: ambition, positive aspects of",
+"language": "eng"
+}
+]
+}
+}
+]

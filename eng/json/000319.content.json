@@ -1,0 +1,123 @@
+[
+{
+"content_id": "4100",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4100: Supernatural beings",
+"media_type": "Text",
+"index_reference": "4100: supernatural beings",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"4110\" data-resourcetype=\"DictionaryOfBibleThemes\">4110: angels</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4120\" data-resourcetype=\"DictionaryOfBibleThemes\">4120: Satan</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4130\" data-resourcetype=\"DictionaryOfBibleThemes\">4130: demons</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4140\" data-resourcetype=\"DictionaryOfBibleThemes\">4140: angel of the Lord</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4145\" data-resourcetype=\"DictionaryOfBibleThemes\">4145: archangels</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4150\" data-resourcetype=\"DictionaryOfBibleThemes\">4150: cherubim</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4155\" data-resourcetype=\"DictionaryOfBibleThemes\">4155: divination</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4160\" data-resourcetype=\"DictionaryOfBibleThemes\">4160: driving out</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4165\" data-resourcetype=\"DictionaryOfBibleThemes\">4165: exorcism</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4170\" data-resourcetype=\"DictionaryOfBibleThemes\">4170: host of heaven</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4175\" data-resourcetype=\"DictionaryOfBibleThemes\">4175: mediums</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4180\" data-resourcetype=\"DictionaryOfBibleThemes\">4180: seraphim</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4185\" data-resourcetype=\"DictionaryOfBibleThemes\">4185: sorcery and magic</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4190\" data-resourcetype=\"DictionaryOfBibleThemes\">4190: spiritism</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4195\" data-resourcetype=\"DictionaryOfBibleThemes\">4195: spirits</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4110",
+"content_id": "4110",
+"resource_code": "DictionaryBibleThemes",
+"label": "4110: angels",
+"language": "eng"
+},
+{
+"reference_id": "4120",
+"content_id": "4120",
+"resource_code": "DictionaryBibleThemes",
+"label": "4120: Satan",
+"language": "eng"
+},
+{
+"reference_id": "4130",
+"content_id": "4130",
+"resource_code": "DictionaryBibleThemes",
+"label": "4130: demons",
+"language": "eng"
+},
+{
+"reference_id": "4140",
+"content_id": "4140",
+"resource_code": "DictionaryBibleThemes",
+"label": "4140: angel of the Lord",
+"language": "eng"
+},
+{
+"reference_id": "4145",
+"content_id": "4145",
+"resource_code": "DictionaryBibleThemes",
+"label": "4145: archangels",
+"language": "eng"
+},
+{
+"reference_id": "4150",
+"content_id": "4150",
+"resource_code": "DictionaryBibleThemes",
+"label": "4150: cherubim",
+"language": "eng"
+},
+{
+"reference_id": "4155",
+"content_id": "4155",
+"resource_code": "DictionaryBibleThemes",
+"label": "4155: divination",
+"language": "eng"
+},
+{
+"reference_id": "4160",
+"content_id": "4160",
+"resource_code": "DictionaryBibleThemes",
+"label": "4160: driving out",
+"language": "eng"
+},
+{
+"reference_id": "4165",
+"content_id": "4165",
+"resource_code": "DictionaryBibleThemes",
+"label": "4165: exorcism",
+"language": "eng"
+},
+{
+"reference_id": "4170",
+"content_id": "4170",
+"resource_code": "DictionaryBibleThemes",
+"label": "4170: host of heaven",
+"language": "eng"
+},
+{
+"reference_id": "4175",
+"content_id": "4175",
+"resource_code": "DictionaryBibleThemes",
+"label": "4175: mediums",
+"language": "eng"
+},
+{
+"reference_id": "4180",
+"content_id": "4180",
+"resource_code": "DictionaryBibleThemes",
+"label": "4180: seraphim",
+"language": "eng"
+},
+{
+"reference_id": "4185",
+"content_id": "4185",
+"resource_code": "DictionaryBibleThemes",
+"label": "4185: sorcery and magic",
+"language": "eng"
+},
+{
+"reference_id": "4190",
+"content_id": "4190",
+"resource_code": "DictionaryBibleThemes",
+"label": "4190: spiritism",
+"language": "eng"
+},
+{
+"reference_id": "4195",
+"content_id": "4195",
+"resource_code": "DictionaryBibleThemes",
+"label": "4195: spirits",
+"language": "eng"
+}
+]
+}
+}
+]

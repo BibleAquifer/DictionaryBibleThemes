@@ -1,0 +1,289 @@
+[
+{
+"content_id": "5588",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5588: traditions",
+"media_type": "Text",
+"index_reference": "5588: traditions",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Beliefs or customs handed down from previous generations. Believers are to hold to the traditions of the Christian faith. Human traditions can be contrary to God's word and thereby come into conflict with the Christian faith.</p>\n<h2>Examples of human traditions</h2>\n<p><a href=\"https://ref.ly/Ruth4:7\">RUT 4:7</a>; ; <a href=\"https://ref.ly/2Chr35:25\">2CH 35:25</a>; ; <a href=\"https://ref.ly/Ezek24:17\">EZK 24:17</a>, <a href=\"https://ref.ly/Ezek24:22\">EZK 24:22</a>; ; <a href=\"https://ref.ly/Mark7:3-Mark7:4\">MRK 7:3–7:4</a>; ; <a href=\"https://ref.ly/Luke2:42\">LUK 2:42</a>; ; <a href=\"https://ref.ly/John19:40\">JHN 19:40</a></p>\n<h2>Believers are to hold to and hand on the traditions of the Christian faith</h2>\n<p><strong><a href=\"https://ref.ly/1Cor11:2\">1CO 11:2</a></strong>; <strong><a href=\"https://ref.ly/1Thess5:21\">1TH 5:21</a></strong>; <strong><a href=\"https://ref.ly/2Tim2:2\">2TI 2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:9-Deut4:10\">DEU 4:9–4:10</a>, <a href=\"https://ref.ly/Deut6:6-Deut6:7\">DEU 6:6–6:7</a>, <a href=\"https://ref.ly/Deut11:19\">DEU 11:19</a>; <a href=\"https://ref.ly/1Cor11:23\">1CO 11:23</a>; <a href=\"https://ref.ly/Eph2:20\">EPH 2:20</a>; <a href=\"https://ref.ly/2Thess2:15\">2TH 2:15</a>, <a href=\"https://ref.ly/2Thess3:6\">2TH 3:6</a></p>\n<h2>Human traditions can be contrary to God's word</h2>\n<p><strong><a href=\"https://ref.ly/Matt15:3-Matt15:6\">MAT 15:3–15:6</a></strong> parallel <a href=\"https://ref.ly/Mark7:9-Mark7:13\">MRK 7:9–7:13</a><strong><a href=\"https://ref.ly/Col2:8\">COL 2:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mic6:16\">MIC 6:16</a>; <a href=\"https://ref.ly/Col2:20-Col2:22\">COL 2:20–2:22</a>; <a href=\"https://ref.ly/Titus1:13-Titus1:14\">TIT 1:13–1:14</a></p>\n<h2>The Christian faith is in conflict with traditions of purely human origins</h2>\n<p><strong><a href=\"https://ref.ly/Mark2:18-Mark2:22\">MRK 2:18–2:22</a></strong> parallels <a href=\"https://ref.ly/Matt9:14-Matt9:17\">MAT 9:14–9:17</a>, <a href=\"https://ref.ly/Luke5:33-Luke5:39\">LUK 5:33–5:39</a><strong><a href=\"https://ref.ly/1Pet1:18-1Pet1:19\">1PE 1:18–1:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt15:2\">MAT 15:2</a> parallel <a href=\"https://ref.ly/Mark7:5\">MRK 7:5</a>; <a href=\"https://ref.ly/Gal2:11-Gal2:16\">GAL 2:11–2:16</a>, <a href=\"https://ref.ly/Gal4:9-Gal4:11\">GAL 4:9–4:11</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "08004007",
+"start_ref_usfm": "RUT 4:7",
+"end_ref": "08004007",
+"end_ref_usfm": "RUT 4:7"
+},
+{
+"start_ref": "14035025",
+"start_ref_usfm": "2CH 35:25",
+"end_ref": "14035025",
+"end_ref_usfm": "2CH 35:25"
+},
+{
+"start_ref": "26024017",
+"start_ref_usfm": "EZK 24:17",
+"end_ref": "26024017",
+"end_ref_usfm": "EZK 24:17"
+},
+{
+"start_ref": "26024022",
+"start_ref_usfm": "EZK 24:22",
+"end_ref": "26024022",
+"end_ref_usfm": "EZK 24:22"
+},
+{
+"start_ref": "41007003",
+"start_ref_usfm": "MRK 7:3",
+"end_ref": "41007004",
+"end_ref_usfm": "MRK 7:4"
+},
+{
+"start_ref": "42002042",
+"start_ref_usfm": "LUK 2:42",
+"end_ref": "42002042",
+"end_ref_usfm": "LUK 2:42"
+},
+{
+"start_ref": "43019040",
+"start_ref_usfm": "JHN 19:40",
+"end_ref": "43019040",
+"end_ref_usfm": "JHN 19:40"
+},
+{
+"start_ref": "46011002",
+"start_ref_usfm": "1CO 11:2",
+"end_ref": "46011002",
+"end_ref_usfm": "1CO 11:2"
+},
+{
+"start_ref": "52005021",
+"start_ref_usfm": "1TH 5:21",
+"end_ref": "52005021",
+"end_ref_usfm": "1TH 5:21"
+},
+{
+"start_ref": "55002002",
+"start_ref_usfm": "2TI 2:2",
+"end_ref": "55002002",
+"end_ref_usfm": "2TI 2:2"
+},
+{
+"start_ref": "05004009",
+"start_ref_usfm": "DEU 4:9",
+"end_ref": "05004010",
+"end_ref_usfm": "DEU 4:10"
+},
+{
+"start_ref": "05006006",
+"start_ref_usfm": "DEU 6:6",
+"end_ref": "05006007",
+"end_ref_usfm": "DEU 6:7"
+},
+{
+"start_ref": "05011019",
+"start_ref_usfm": "DEU 11:19",
+"end_ref": "05011019",
+"end_ref_usfm": "DEU 11:19"
+},
+{
+"start_ref": "46011023",
+"start_ref_usfm": "1CO 11:23",
+"end_ref": "46011023",
+"end_ref_usfm": "1CO 11:23"
+},
+{
+"start_ref": "49002020",
+"start_ref_usfm": "EPH 2:20",
+"end_ref": "49002020",
+"end_ref_usfm": "EPH 2:20"
+},
+{
+"start_ref": "53002015",
+"start_ref_usfm": "2TH 2:15",
+"end_ref": "53002015",
+"end_ref_usfm": "2TH 2:15"
+},
+{
+"start_ref": "53003006",
+"start_ref_usfm": "2TH 3:6",
+"end_ref": "53003006",
+"end_ref_usfm": "2TH 3:6"
+},
+{
+"start_ref": "40015003",
+"start_ref_usfm": "MAT 15:3",
+"end_ref": "40015006",
+"end_ref_usfm": "MAT 15:6"
+},
+{
+"start_ref": "41007009",
+"start_ref_usfm": "MRK 7:9",
+"end_ref": "41007013",
+"end_ref_usfm": "MRK 7:13"
+},
+{
+"start_ref": "51002008",
+"start_ref_usfm": "COL 2:8",
+"end_ref": "51002008",
+"end_ref_usfm": "COL 2:8"
+},
+{
+"start_ref": "33006016",
+"start_ref_usfm": "MIC 6:16",
+"end_ref": "33006016",
+"end_ref_usfm": "MIC 6:16"
+},
+{
+"start_ref": "51002020",
+"start_ref_usfm": "COL 2:20",
+"end_ref": "51002022",
+"end_ref_usfm": "COL 2:22"
+},
+{
+"start_ref": "56001013",
+"start_ref_usfm": "TIT 1:13",
+"end_ref": "56001014",
+"end_ref_usfm": "TIT 1:14"
+},
+{
+"start_ref": "41002018",
+"start_ref_usfm": "MRK 2:18",
+"end_ref": "41002022",
+"end_ref_usfm": "MRK 2:22"
+},
+{
+"start_ref": "40009014",
+"start_ref_usfm": "MAT 9:14",
+"end_ref": "40009017",
+"end_ref_usfm": "MAT 9:17"
+},
+{
+"start_ref": "42005033",
+"start_ref_usfm": "LUK 5:33",
+"end_ref": "42005039",
+"end_ref_usfm": "LUK 5:39"
+},
+{
+"start_ref": "60001018",
+"start_ref_usfm": "1PE 1:18",
+"end_ref": "60001019",
+"end_ref_usfm": "1PE 1:19"
+},
+{
+"start_ref": "40015002",
+"start_ref_usfm": "MAT 15:2",
+"end_ref": "40015002",
+"end_ref_usfm": "MAT 15:2"
+},
+{
+"start_ref": "41007005",
+"start_ref_usfm": "MRK 7:5",
+"end_ref": "41007005",
+"end_ref_usfm": "MRK 7:5"
+},
+{
+"start_ref": "48002011",
+"start_ref_usfm": "GAL 2:11",
+"end_ref": "48002016",
+"end_ref_usfm": "GAL 2:16"
+},
+{
+"start_ref": "48004009",
+"start_ref_usfm": "GAL 4:9",
+"end_ref": "48004011",
+"end_ref_usfm": "GAL 4:11"
+}
+],
+"resource": [
+{
+"reference_id": "5286",
+"content_id": "5286",
+"resource_code": "DictionaryBibleThemes",
+"label": "5286: custom",
+"language": "eng"
+},
+{
+"reference_id": "5376",
+"content_id": "5376",
+"resource_code": "DictionaryBibleThemes",
+"label": "5376: law, purpose of",
+"language": "eng"
+},
+{
+"reference_id": "5873",
+"content_id": "5873",
+"resource_code": "DictionaryBibleThemes",
+"label": "5873: habits",
+"language": "eng"
+},
+{
+"reference_id": "7328",
+"content_id": "7328",
+"resource_code": "DictionaryBibleThemes",
+"label": "7328: ceremonies",
+"language": "eng"
+},
+{
+"reference_id": "7430",
+"content_id": "7430",
+"resource_code": "DictionaryBibleThemes",
+"label": "7430: Sabbath, in NT",
+"language": "eng"
+},
+{
+"reference_id": "7550",
+"content_id": "7550",
+"resource_code": "DictionaryBibleThemes",
+"label": "7550: Pharisees",
+"language": "eng"
+},
+{
+"reference_id": "7770",
+"content_id": "7770",
+"resource_code": "DictionaryBibleThemes",
+"label": "7770: priests, tasks in NT times",
+"language": "eng"
+},
+{
+"reference_id": "8142",
+"content_id": "8142",
+"resource_code": "DictionaryBibleThemes",
+"label": "8142: religion",
+"language": "eng"
+},
+{
+"reference_id": "8429",
+"content_id": "8429",
+"resource_code": "DictionaryBibleThemes",
+"label": "8429: fasting",
+"language": "eng"
+},
+{
+"reference_id": "8748",
+"content_id": "8748",
+"resource_code": "DictionaryBibleThemes",
+"label": "8748: false religion",
+"language": "eng"
+},
+{
+"reference_id": "8767",
+"content_id": "8767",
+"resource_code": "DictionaryBibleThemes",
+"label": "8767: hypocrisy",
+"language": "eng"
+},
+{
+"reference_id": "8774",
+"content_id": "8774",
+"resource_code": "DictionaryBibleThemes",
+"label": "8774: legalism",
+"language": "eng"
+}
+]
+}
+}
+]

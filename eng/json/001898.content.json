@@ -1,0 +1,259 @@
+[
+{
+"content_id": "7712",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7712: convincing",
+"media_type": "Text",
+"index_reference": "7712: convincing",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Persuading one's hearers of the truth of one's case. Scripture gives examples of people who have been convinced of the truth of God's word and of the gospel.</p>\n<h2>Examples of prophets convincing their hearers</h2>\n<h3>Elijah at Mount Carmel</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs18:20-1Kgs18:39\">1KI 18:20–18:39</a></strong></p>\n<h3>Jonah at Nineveh</h3>\n<p><strong><a href=\"https://ref.ly/Jonah3:1-Jonah3:9\">JON 3:1–3:9</a></strong></p>\n<h2>Hardness of heart can prevent individuals from being convinced of the truth</h2>\n<h3>The ministry of the prophets</h3>\n<p><strong><a href=\"https://ref.ly/Jer6:10\">JER 6:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs22:15-1Kgs22:28\">1KI 22:15–22:28</a> parallel <a href=\"https://ref.ly/2Chr18:14-2Chr18:27\">2CH 18:14–18:27</a>; <a href=\"https://ref.ly/Jer35:15\">JER 35:15</a>; <a href=\"https://ref.ly/Ezek2:4-Ezek2:5\">EZK 2:4–2:5</a>; <a href=\"https://ref.ly/Amos7:10-Amos7:13\">AMO 7:10–7:13</a></p>\n<h3>The ministry of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/John12:37-John12:40\">JHN 12:37–12:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa53:1\">ISA 53:1</a>, <a href=\"https://ref.ly/Isa6:10\">ISA 6:10</a>; <a href=\"https://ref.ly/Matt13:13-Matt13:15\">MAT 13:13–13:15</a> parallels <a href=\"https://ref.ly/Mark4:10-Mark4:12\">MRK 4:10–4:12</a>, <a href=\"https://ref.ly/Luke8:10\">LUK 8:10</a>; <a href=\"https://ref.ly/Isa6:9-Isa6:10\">ISA 6:9–6:10</a>; <a href=\"https://ref.ly/John7:25-John7:43\">JHN 7:25–7:43</a></p>\n<h2>Examples of individuals convinced of the truth of the gospel</h2>\n<h3>The Ethiopian eunuch</h3>\n<p><a href=\"https://ref.ly/Acts8:26-Acts8:38\">ACT 8:26–8:38</a></p>\n<h3>Paul</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:38-Rom8:39\">ROM 8:38–8:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor5:14-2Cor5:15\">2CO 5:14–5:15</a>; <a href=\"https://ref.ly/2Tim1:12\">2TI 1:12</a></p>\n<h3>Paul sought to convince others of the truth of the gospel</h3>\n<p><strong><a href=\"https://ref.ly/Acts18:4\">ACT 18:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts17:2-Acts17:4\">ACT 17:2–17:4</a>, <a href=\"https://ref.ly/Acts19:8\">ACT 19:8</a>, <a href=\"https://ref.ly/Acts26:28-Acts26:29\">ACT 26:28–26:29</a>, <a href=\"https://ref.ly/Acts28:23-Acts28:24\">ACT 28:23–28:24</a>; <a href=\"https://ref.ly/2Cor5:11\">2CO 5:11</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11018020",
+"start_ref_usfm": "1KI 18:20",
+"end_ref": "11018039",
+"end_ref_usfm": "1KI 18:39"
+},
+{
+"start_ref": "32003001",
+"start_ref_usfm": "JON 3:1",
+"end_ref": "32003009",
+"end_ref_usfm": "JON 3:9"
+},
+{
+"start_ref": "24006010",
+"start_ref_usfm": "JER 6:10",
+"end_ref": "24006010",
+"end_ref_usfm": "JER 6:10"
+},
+{
+"start_ref": "11022015",
+"start_ref_usfm": "1KI 22:15",
+"end_ref": "11022028",
+"end_ref_usfm": "1KI 22:28"
+},
+{
+"start_ref": "14018014",
+"start_ref_usfm": "2CH 18:14",
+"end_ref": "14018027",
+"end_ref_usfm": "2CH 18:27"
+},
+{
+"start_ref": "24035015",
+"start_ref_usfm": "JER 35:15",
+"end_ref": "24035015",
+"end_ref_usfm": "JER 35:15"
+},
+{
+"start_ref": "26002004",
+"start_ref_usfm": "EZK 2:4",
+"end_ref": "26002005",
+"end_ref_usfm": "EZK 2:5"
+},
+{
+"start_ref": "30007010",
+"start_ref_usfm": "AMO 7:10",
+"end_ref": "30007013",
+"end_ref_usfm": "AMO 7:13"
+},
+{
+"start_ref": "43012037",
+"start_ref_usfm": "JHN 12:37",
+"end_ref": "43012040",
+"end_ref_usfm": "JHN 12:40"
+},
+{
+"start_ref": "23053001",
+"start_ref_usfm": "ISA 53:1",
+"end_ref": "23053001",
+"end_ref_usfm": "ISA 53:1"
+},
+{
+"start_ref": "23006010",
+"start_ref_usfm": "ISA 6:10",
+"end_ref": "23006010",
+"end_ref_usfm": "ISA 6:10"
+},
+{
+"start_ref": "40013013",
+"start_ref_usfm": "MAT 13:13",
+"end_ref": "40013015",
+"end_ref_usfm": "MAT 13:15"
+},
+{
+"start_ref": "41004010",
+"start_ref_usfm": "MRK 4:10",
+"end_ref": "41004012",
+"end_ref_usfm": "MRK 4:12"
+},
+{
+"start_ref": "42008010",
+"start_ref_usfm": "LUK 8:10",
+"end_ref": "42008010",
+"end_ref_usfm": "LUK 8:10"
+},
+{
+"start_ref": "23006009",
+"start_ref_usfm": "ISA 6:9",
+"end_ref": "23006010",
+"end_ref_usfm": "ISA 6:10"
+},
+{
+"start_ref": "43007025",
+"start_ref_usfm": "JHN 7:25",
+"end_ref": "43007043",
+"end_ref_usfm": "JHN 7:43"
+},
+{
+"start_ref": "44008026",
+"start_ref_usfm": "ACT 8:26",
+"end_ref": "44008038",
+"end_ref_usfm": "ACT 8:38"
+},
+{
+"start_ref": "45008038",
+"start_ref_usfm": "ROM 8:38",
+"end_ref": "45008039",
+"end_ref_usfm": "ROM 8:39"
+},
+{
+"start_ref": "47005014",
+"start_ref_usfm": "2CO 5:14",
+"end_ref": "47005015",
+"end_ref_usfm": "2CO 5:15"
+},
+{
+"start_ref": "55001012",
+"start_ref_usfm": "2TI 1:12",
+"end_ref": "55001012",
+"end_ref_usfm": "2TI 1:12"
+},
+{
+"start_ref": "44018004",
+"start_ref_usfm": "ACT 18:4",
+"end_ref": "44018004",
+"end_ref_usfm": "ACT 18:4"
+},
+{
+"start_ref": "44017002",
+"start_ref_usfm": "ACT 17:2",
+"end_ref": "44017004",
+"end_ref_usfm": "ACT 17:4"
+},
+{
+"start_ref": "44019008",
+"start_ref_usfm": "ACT 19:8",
+"end_ref": "44019008",
+"end_ref_usfm": "ACT 19:8"
+},
+{
+"start_ref": "44026028",
+"start_ref_usfm": "ACT 26:28",
+"end_ref": "44026029",
+"end_ref_usfm": "ACT 26:29"
+},
+{
+"start_ref": "44028023",
+"start_ref_usfm": "ACT 28:23",
+"end_ref": "44028024",
+"end_ref_usfm": "ACT 28:24"
+},
+{
+"start_ref": "47005011",
+"start_ref_usfm": "2CO 5:11",
+"end_ref": "47005011",
+"end_ref_usfm": "2CO 5:11"
+}
+],
+"resource": [
+{
+"reference_id": "1460",
+"content_id": "1460",
+"resource_code": "DictionaryBibleThemes",
+"label": "1460: truth",
+"language": "eng"
+},
+{
+"reference_id": "2363",
+"content_id": "2363",
+"resource_code": "DictionaryBibleThemes",
+"label": "2363: Jesus Christ, preaching and teaching of",
+"language": "eng"
+},
+{
+"reference_id": "2369",
+"content_id": "2369",
+"resource_code": "DictionaryBibleThemes",
+"label": "2369: Jesus Christ, responses to",
+"language": "eng"
+},
+{
+"reference_id": "2420",
+"content_id": "2420",
+"resource_code": "DictionaryBibleThemes",
+"label": "2420: gospel",
+"language": "eng"
+},
+{
+"reference_id": "5050",
+"content_id": "5050",
+"resource_code": "DictionaryBibleThemes",
+"label": "5050: reason",
+"language": "eng"
+},
+{
+"reference_id": "6178",
+"content_id": "6178",
+"resource_code": "DictionaryBibleThemes",
+"label": "6178: hardness of heart",
+"language": "eng"
+},
+{
+"reference_id": "6632",
+"content_id": "6632",
+"resource_code": "DictionaryBibleThemes",
+"label": "6632: conviction",
+"language": "eng"
+},
+{
+"reference_id": "7751",
+"content_id": "7751",
+"resource_code": "DictionaryBibleThemes",
+"label": "7751: persuasion",
+"language": "eng"
+},
+{
+"reference_id": "7754",
+"content_id": "7754",
+"resource_code": "DictionaryBibleThemes",
+"label": "7754: preaching",
+"language": "eng"
+},
+{
+"reference_id": "7773",
+"content_id": "7773",
+"resource_code": "DictionaryBibleThemes",
+"label": "7773: prophets, role of",
+"language": "eng"
+},
+{
+"reference_id": "7775",
+"content_id": "7775",
+"resource_code": "DictionaryBibleThemes",
+"label": "7775: prophets, lives of",
+"language": "eng"
+},
+{
+"reference_id": "8800",
+"content_id": "8800",
+"resource_code": "DictionaryBibleThemes",
+"label": "8800: prejudice",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,274 @@
+[
+{
+"content_id": "6701",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6701: peace, human search for",
+"media_type": "Text",
+"index_reference": "6701: peace, human search for",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture teaches that peace is only found in God, but people try to find it elsewhere. A person's desire for peace varies according to his or her circumstances.</p>\n<h2>The places where people search for peace</h2>\n<h3>People search for peace in others</h3>\n<p><strong><a href=\"https://ref.ly/Gen5:28-Gen5:29\">GEN 5:28–5:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song8:10\">SNG 8:10</a></p>\n<h3>People search for peace in material possessions</h3>\n<p><strong><a href=\"https://ref.ly/Eccl4:8\">ECC 4:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job21:7-Job21:13\">JOB 21:7–21:13</a>; <a href=\"https://ref.ly/Dan4:4\">DAN 4:4</a>; <a href=\"https://ref.ly/Matt19:16-Matt19:22\">MAT 19:16–19:22</a>; <a href=\"https://ref.ly/Luke12:16-Luke12:19\">LUK 12:16–12:19</a></p>\n<h3>People search for peace in God</h3>\n<p><strong><a href=\"https://ref.ly/Ps4:8\">PSA 4:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job22:21\">JOB 22:21</a>; <a href=\"https://ref.ly/Prov19:23\">PRO 19:23</a>; <a href=\"https://ref.ly/Isa26:3\">ISA 26:3</a>; <a href=\"https://ref.ly/Luke7:37-Luke7:50\">LUK 7:37–7:50</a></p>\n<h2>The dangers in searching for peace</h2>\n<h3>It can lead to greed</h3>\n<p><strong><a href=\"https://ref.ly/Eccl4:6\">ECC 4:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt23:25\">MAT 23:25</a></p>\n<h3>It can lead to suffering and bondage</h3>\n<p><a href=\"https://ref.ly/Gen42:1-Gen42:17\">GEN 42:1–42:17</a>; ; <a href=\"https://ref.ly/Josh9:3-Josh9:27\">JOS 9:3–9:27</a>; ; <a href=\"https://ref.ly/Mark5:25-Mark5:26\">MRK 5:25–5:26</a></p>\n<h3>It can lead to destruction</h3>\n<p><strong><a href=\"https://ref.ly/1Thess5:3\">1TH 5:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs20:12-2Kgs20:19\">2KI 20:12–20:19</a>; <a href=\"https://ref.ly/Luke16:19-Luke16:26\">LUK 16:19–16:26</a></p>\n<h2>People's search for peace varies according to their circumstances</h2>\n<h3>The desire can increase in times of suffering and difficulties</h3>\n<p><strong><a href=\"https://ref.ly/Exod2:23\">EXO 2:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer14:19\">JER 14:19</a>, <a href=\"https://ref.ly/Jer47:2-Jer47:6\">JER 47:2–47:6</a>; <a href=\"https://ref.ly/Lam3:7-Lam3:24\">LAM 3:7–3:24</a>; <a href=\"https://ref.ly/Ezek7:23-Ezek7:27\">EZK 7:23–7:27</a>; <a href=\"https://ref.ly/Mark5:24-Mark5:34\">MRK 5:24–5:34</a> parallels <a href=\"https://ref.ly/Matt9:18-Matt9:22\">MAT 9:18–9:22</a>, <a href=\"https://ref.ly/Luke8:42-Luke8:48\">LUK 8:42–8:48</a></p>\n<h3>The desire can diminish in times of comfort</h3>\n<p><strong><a href=\"https://ref.ly/Exod8:12-Exod8:15\">EXO 8:12–8:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job12:5\">JOB 12:5</a>; <a href=\"https://ref.ly/Hos10:1\">HOS 10:1</a>; <a href=\"https://ref.ly/Amos6:1\">AMO 6:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01005028",
+"start_ref_usfm": "GEN 5:28",
+"end_ref": "01005029",
+"end_ref_usfm": "GEN 5:29"
+},
+{
+"start_ref": "22008010",
+"start_ref_usfm": "SNG 8:10",
+"end_ref": "22008010",
+"end_ref_usfm": "SNG 8:10"
+},
+{
+"start_ref": "21004008",
+"start_ref_usfm": "ECC 4:8",
+"end_ref": "21004008",
+"end_ref_usfm": "ECC 4:8"
+},
+{
+"start_ref": "18021007",
+"start_ref_usfm": "JOB 21:7",
+"end_ref": "18021013",
+"end_ref_usfm": "JOB 21:13"
+},
+{
+"start_ref": "27004004",
+"start_ref_usfm": "DAN 4:4",
+"end_ref": "27004004",
+"end_ref_usfm": "DAN 4:4"
+},
+{
+"start_ref": "40019016",
+"start_ref_usfm": "MAT 19:16",
+"end_ref": "40019022",
+"end_ref_usfm": "MAT 19:22"
+},
+{
+"start_ref": "42012016",
+"start_ref_usfm": "LUK 12:16",
+"end_ref": "42012019",
+"end_ref_usfm": "LUK 12:19"
+},
+{
+"start_ref": "19004008",
+"start_ref_usfm": "PSA 4:8",
+"end_ref": "19004008",
+"end_ref_usfm": "PSA 4:8"
+},
+{
+"start_ref": "18022021",
+"start_ref_usfm": "JOB 22:21",
+"end_ref": "18022021",
+"end_ref_usfm": "JOB 22:21"
+},
+{
+"start_ref": "20019023",
+"start_ref_usfm": "PRO 19:23",
+"end_ref": "20019023",
+"end_ref_usfm": "PRO 19:23"
+},
+{
+"start_ref": "23026003",
+"start_ref_usfm": "ISA 26:3",
+"end_ref": "23026003",
+"end_ref_usfm": "ISA 26:3"
+},
+{
+"start_ref": "42007037",
+"start_ref_usfm": "LUK 7:37",
+"end_ref": "42007050",
+"end_ref_usfm": "LUK 7:50"
+},
+{
+"start_ref": "21004006",
+"start_ref_usfm": "ECC 4:6",
+"end_ref": "21004006",
+"end_ref_usfm": "ECC 4:6"
+},
+{
+"start_ref": "40023025",
+"start_ref_usfm": "MAT 23:25",
+"end_ref": "40023025",
+"end_ref_usfm": "MAT 23:25"
+},
+{
+"start_ref": "01042001",
+"start_ref_usfm": "GEN 42:1",
+"end_ref": "01042017",
+"end_ref_usfm": "GEN 42:17"
+},
+{
+"start_ref": "06009003",
+"start_ref_usfm": "JOS 9:3",
+"end_ref": "06009027",
+"end_ref_usfm": "JOS 9:27"
+},
+{
+"start_ref": "41005025",
+"start_ref_usfm": "MRK 5:25",
+"end_ref": "41005026",
+"end_ref_usfm": "MRK 5:26"
+},
+{
+"start_ref": "52005003",
+"start_ref_usfm": "1TH 5:3",
+"end_ref": "52005003",
+"end_ref_usfm": "1TH 5:3"
+},
+{
+"start_ref": "12020012",
+"start_ref_usfm": "2KI 20:12",
+"end_ref": "12020019",
+"end_ref_usfm": "2KI 20:19"
+},
+{
+"start_ref": "42016019",
+"start_ref_usfm": "LUK 16:19",
+"end_ref": "42016026",
+"end_ref_usfm": "LUK 16:26"
+},
+{
+"start_ref": "02002023",
+"start_ref_usfm": "EXO 2:23",
+"end_ref": "02002023",
+"end_ref_usfm": "EXO 2:23"
+},
+{
+"start_ref": "24014019",
+"start_ref_usfm": "JER 14:19",
+"end_ref": "24014019",
+"end_ref_usfm": "JER 14:19"
+},
+{
+"start_ref": "24047002",
+"start_ref_usfm": "JER 47:2",
+"end_ref": "24047006",
+"end_ref_usfm": "JER 47:6"
+},
+{
+"start_ref": "25003007",
+"start_ref_usfm": "LAM 3:7",
+"end_ref": "25003024",
+"end_ref_usfm": "LAM 3:24"
+},
+{
+"start_ref": "26007023",
+"start_ref_usfm": "EZK 7:23",
+"end_ref": "26007027",
+"end_ref_usfm": "EZK 7:27"
+},
+{
+"start_ref": "41005024",
+"start_ref_usfm": "MRK 5:24",
+"end_ref": "41005034",
+"end_ref_usfm": "MRK 5:34"
+},
+{
+"start_ref": "40009018",
+"start_ref_usfm": "MAT 9:18",
+"end_ref": "40009022",
+"end_ref_usfm": "MAT 9:22"
+},
+{
+"start_ref": "42008042",
+"start_ref_usfm": "LUK 8:42",
+"end_ref": "42008048",
+"end_ref_usfm": "LUK 8:48"
+},
+{
+"start_ref": "02008012",
+"start_ref_usfm": "EXO 8:12",
+"end_ref": "02008015",
+"end_ref_usfm": "EXO 8:15"
+},
+{
+"start_ref": "18012005",
+"start_ref_usfm": "JOB 12:5",
+"end_ref": "18012005",
+"end_ref_usfm": "JOB 12:5"
+},
+{
+"start_ref": "28010001",
+"start_ref_usfm": "HOS 10:1",
+"end_ref": "28010001",
+"end_ref_usfm": "HOS 10:1"
+},
+{
+"start_ref": "30006001",
+"start_ref_usfm": "AMO 6:1",
+"end_ref": "30006001",
+"end_ref_usfm": "AMO 6:1"
+}
+],
+"resource": [
+{
+"reference_id": "5560",
+"content_id": "5560",
+"resource_code": "DictionaryBibleThemes",
+"label": "5560: suffering",
+"language": "eng"
+},
+{
+"reference_id": "5690",
+"content_id": "5690",
+"resource_code": "DictionaryBibleThemes",
+"label": "5690: friends",
+"language": "eng"
+},
+{
+"reference_id": "5869",
+"content_id": "5869",
+"resource_code": "DictionaryBibleThemes",
+"label": "5869: greed",
+"language": "eng"
+},
+{
+"reference_id": "5874",
+"content_id": "5874",
+"resource_code": "DictionaryBibleThemes",
+"label": "5874: happiness",
+"language": "eng"
+},
+{
+"reference_id": "5901",
+"content_id": "5901",
+"resource_code": "DictionaryBibleThemes",
+"label": "5901: loneliness",
+"language": "eng"
+},
+{
+"reference_id": "5970",
+"content_id": "5970",
+"resource_code": "DictionaryBibleThemes",
+"label": "5970: unhappiness",
+"language": "eng"
+},
+{
+"reference_id": "6166",
+"content_id": "6166",
+"resource_code": "DictionaryBibleThemes",
+"label": "6166: flesh, sinful nature",
+"language": "eng"
+},
+{
+"reference_id": "8808",
+"content_id": "8808",
+"resource_code": "DictionaryBibleThemes",
+"label": "8808: riches",
+"language": "eng"
+},
+{
+"reference_id": "8823",
+"content_id": "8823",
+"resource_code": "DictionaryBibleThemes",
+"label": "8823: self-righteousness",
+"language": "eng"
+}
+]
+}
+}
+]

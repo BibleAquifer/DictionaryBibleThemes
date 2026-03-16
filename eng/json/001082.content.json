@@ -1,0 +1,230 @@
+[
+{
+"content_id": "5513",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5513: sceptre",
+"media_type": "Text",
+"index_reference": "5513: sceptre",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A staff, generally ornate, held as a symbol of sovereign authority.</p>\n<h2>God's own authority is symbolised as a sceptre</h2>\n<p><strong><a href=\"https://ref.ly/Ps45:6\">PSA 45:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:10\">GEN 49:10</a>; <a href=\"https://ref.ly/Num24:17\">NUM 24:17</a>; <a href=\"https://ref.ly/Ps60:7\">PSA 60:7</a> parallel <a href=\"https://ref.ly/Ps108:8\">PSA 108:8</a>; <a href=\"https://ref.ly/Isa30:31\">ISA 30:31</a></p>\n<h2>The sceptre is a symbol of Jesus Christ's reign</h2>\n<p><strong><a href=\"https://ref.ly/Heb1:8\">HEB 1:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps45:6\">PSA 45:6</a>; <a href=\"https://ref.ly/Gen49:10\">GEN 49:10</a>; <a href=\"https://ref.ly/Num24:17\">NUM 24:17</a>; <a href=\"https://ref.ly/Ps110:2\">PSA 110:2</a>; <a href=\"https://ref.ly/Rev2:27\">REV 2:27</a>; <a href=\"https://ref.ly/Ps2:9\">PSA 2:9</a>; <a href=\"https://ref.ly/Rev19:15\">REV 19:15</a>, <a href=\"https://ref.ly/Rev12:5\">REV 12:5</a></p>\n<h2>Earthly rulers had sceptres as symbols of authority</h2>\n<h3>Their description</h3>\n<p><strong><a href=\"https://ref.ly/Esth4:11\">EST 4:11</a></strong>; <strong><a href=\"https://ref.ly/Ezek19:11\">EZK 19:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth5:2\">EST 5:2</a>, <a href=\"https://ref.ly/Esth8:4\">EST 8:4</a>; <a href=\"https://ref.ly/Ezek19:14\">EZK 19:14</a></p>\n<h3>OT examples</h3>\n<p><strong><a href=\"https://ref.ly/Num21:18\">NUM 21:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps125:3\">PSA 125:3</a>; <a href=\"https://ref.ly/Isa14:5\">ISA 14:5</a>; <a href=\"https://ref.ly/Jer48:17\">JER 48:17</a>; <a href=\"https://ref.ly/Ezek19:11\">EZK 19:11</a>, <a href=\"https://ref.ly/Ezek19:14\">EZK 19:14</a>, <a href=\"https://ref.ly/Ezek21:10\">EZK 21:10</a>, <a href=\"https://ref.ly/Ezek21:13\">EZK 21:13</a>; <a href=\"https://ref.ly/Amos1:5\">AMO 1:5</a>, <a href=\"https://ref.ly/Amos1:8\">AMO 1:8</a>; <a href=\"https://ref.ly/Zech10:11\">ZEC 10:11</a></p>\n<h2>The extension of a ruler's sceptre to one of his subjects was a sign of favour</h2>\n<p><strong><a href=\"https://ref.ly/Esth5:2\">EST 5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth4:11\">EST 4:11</a>, <a href=\"https://ref.ly/Esth8:4\">EST 8:4</a></p>\n<h2>Jesus Christ's tormentors gave him a mock sceptre</h2>\n<p><strong><a href=\"https://ref.ly/Matt27:29\">MAT 27:29</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19045006",
+"start_ref_usfm": "PSA 45:6",
+"end_ref": "19045006",
+"end_ref_usfm": "PSA 45:6"
+},
+{
+"start_ref": "01049010",
+"start_ref_usfm": "GEN 49:10",
+"end_ref": "01049010",
+"end_ref_usfm": "GEN 49:10"
+},
+{
+"start_ref": "04024017",
+"start_ref_usfm": "NUM 24:17",
+"end_ref": "04024017",
+"end_ref_usfm": "NUM 24:17"
+},
+{
+"start_ref": "19060007",
+"start_ref_usfm": "PSA 60:7",
+"end_ref": "19060007",
+"end_ref_usfm": "PSA 60:7"
+},
+{
+"start_ref": "19108008",
+"start_ref_usfm": "PSA 108:8",
+"end_ref": "19108008",
+"end_ref_usfm": "PSA 108:8"
+},
+{
+"start_ref": "23030031",
+"start_ref_usfm": "ISA 30:31",
+"end_ref": "23030031",
+"end_ref_usfm": "ISA 30:31"
+},
+{
+"start_ref": "58001008",
+"start_ref_usfm": "HEB 1:8",
+"end_ref": "58001008",
+"end_ref_usfm": "HEB 1:8"
+},
+{
+"start_ref": "19110002",
+"start_ref_usfm": "PSA 110:2",
+"end_ref": "19110002",
+"end_ref_usfm": "PSA 110:2"
+},
+{
+"start_ref": "66002027",
+"start_ref_usfm": "REV 2:27",
+"end_ref": "66002027",
+"end_ref_usfm": "REV 2:27"
+},
+{
+"start_ref": "19002009",
+"start_ref_usfm": "PSA 2:9",
+"end_ref": "19002009",
+"end_ref_usfm": "PSA 2:9"
+},
+{
+"start_ref": "66019015",
+"start_ref_usfm": "REV 19:15",
+"end_ref": "66019015",
+"end_ref_usfm": "REV 19:15"
+},
+{
+"start_ref": "66012005",
+"start_ref_usfm": "REV 12:5",
+"end_ref": "66012005",
+"end_ref_usfm": "REV 12:5"
+},
+{
+"start_ref": "17004011",
+"start_ref_usfm": "EST 4:11",
+"end_ref": "17004011",
+"end_ref_usfm": "EST 4:11"
+},
+{
+"start_ref": "26019011",
+"start_ref_usfm": "EZK 19:11",
+"end_ref": "26019011",
+"end_ref_usfm": "EZK 19:11"
+},
+{
+"start_ref": "17005002",
+"start_ref_usfm": "EST 5:2",
+"end_ref": "17005002",
+"end_ref_usfm": "EST 5:2"
+},
+{
+"start_ref": "17008004",
+"start_ref_usfm": "EST 8:4",
+"end_ref": "17008004",
+"end_ref_usfm": "EST 8:4"
+},
+{
+"start_ref": "26019014",
+"start_ref_usfm": "EZK 19:14",
+"end_ref": "26019014",
+"end_ref_usfm": "EZK 19:14"
+},
+{
+"start_ref": "04021018",
+"start_ref_usfm": "NUM 21:18",
+"end_ref": "04021018",
+"end_ref_usfm": "NUM 21:18"
+},
+{
+"start_ref": "19125003",
+"start_ref_usfm": "PSA 125:3",
+"end_ref": "19125003",
+"end_ref_usfm": "PSA 125:3"
+},
+{
+"start_ref": "23014005",
+"start_ref_usfm": "ISA 14:5",
+"end_ref": "23014005",
+"end_ref_usfm": "ISA 14:5"
+},
+{
+"start_ref": "24048017",
+"start_ref_usfm": "JER 48:17",
+"end_ref": "24048017",
+"end_ref_usfm": "JER 48:17"
+},
+{
+"start_ref": "26021010",
+"start_ref_usfm": "EZK 21:10",
+"end_ref": "26021010",
+"end_ref_usfm": "EZK 21:10"
+},
+{
+"start_ref": "26021013",
+"start_ref_usfm": "EZK 21:13",
+"end_ref": "26021013",
+"end_ref_usfm": "EZK 21:13"
+},
+{
+"start_ref": "30001005",
+"start_ref_usfm": "AMO 1:5",
+"end_ref": "30001005",
+"end_ref_usfm": "AMO 1:5"
+},
+{
+"start_ref": "30001008",
+"start_ref_usfm": "AMO 1:8",
+"end_ref": "30001008",
+"end_ref_usfm": "AMO 1:8"
+},
+{
+"start_ref": "38010011",
+"start_ref_usfm": "ZEC 10:11",
+"end_ref": "38010011",
+"end_ref_usfm": "ZEC 10:11"
+},
+{
+"start_ref": "40027029",
+"start_ref_usfm": "MAT 27:29",
+"end_ref": "40027029",
+"end_ref_usfm": "MAT 27:29"
+}
+],
+"resource": [
+{
+"reference_id": "1130",
+"content_id": "1130",
+"resource_code": "DictionaryBibleThemes",
+"label": "1130: God, sovereignty of",
+"language": "eng"
+},
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "2570",
+"content_id": "2570",
+"resource_code": "DictionaryBibleThemes",
+"label": "2570: Jesus Christ, suffering of",
+"language": "eng"
+},
+{
+"reference_id": "4512",
+"content_id": "4512",
+"resource_code": "DictionaryBibleThemes",
+"label": "4512: staff",
+"language": "eng"
+},
+{
+"reference_id": "5215",
+"content_id": "5215",
+"resource_code": "DictionaryBibleThemes",
+"label": "5215: authority",
+"language": "eng"
+},
+{
+"reference_id": "5368",
+"content_id": "5368",
+"resource_code": "DictionaryBibleThemes",
+"label": "5368: kingship",
+"language": "eng"
+},
+{
+"reference_id": "5509",
+"content_id": "5509",
+"resource_code": "DictionaryBibleThemes",
+"label": "5509: rulers",
+"language": "eng"
+}
+]
+}
+}
+]

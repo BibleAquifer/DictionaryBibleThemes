@@ -1,0 +1,39 @@
+[
+{
+"content_id": "8794",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8794: persecution",
+"media_type": "Text",
+"index_reference": "8794: persecution",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture indicates that believers can expect to face hardship, ridicule and oppression, from individuals and state authorities, on account of their faith. It encourages believers to remain faithful in the face of such persecution and to draw strength from the example of Jesus Christ himself.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8795",
+"content_id": "8795",
+"resource_code": "DictionaryBibleThemes",
+"label": "8795: persecution, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8796",
+"content_id": "8796",
+"resource_code": "DictionaryBibleThemes",
+"label": "8796: persecution, forms of",
+"language": "eng"
+},
+{
+"reference_id": "8797",
+"content_id": "8797",
+"resource_code": "DictionaryBibleThemes",
+"label": "8797: persecution, attitudes to",
+"language": "eng"
+}
+]
+}
+}
+]

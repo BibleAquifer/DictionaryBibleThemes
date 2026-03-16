@@ -1,0 +1,185 @@
+[
+{
+"content_id": "5847",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5847: enthusiasm",
+"media_type": "Text",
+"index_reference": "5847: enthusiasm",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A state of eagerness, leading to the positive and committed performance of actions.</p>\n<h2>Enthusiasm for doing good</h2>\n<p><strong><a href=\"https://ref.ly/1Pet3:10-1Pet3:13\">1PE 3:10–3:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Titus2:11-Titus2:14\">TIT 2:11–2:14</a></p>\n<h2>Enthusiasm for doing evil</h2>\n<p><strong><a href=\"https://ref.ly/Jer8:6\">JER 8:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mic2:1-Mic2:2\">MIC 2:1–2:2</a>; <a href=\"https://ref.ly/Zeph3:7\">ZEP 3:7</a></p>\n<h2>Enthusiasm for work</h2>\n<p><strong><a href=\"https://ref.ly/Prov31:10-Prov31:19\">PRO 31:10–31:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:6-Prov6:11\">PRO 6:6–6:11</a>, <a href=\"https://ref.ly/Prov31:24\">PRO 31:24</a>, <a href=\"https://ref.ly/Prov31:27\">PRO 31:27</a></p>\n<h2>Enthusiasm for giving</h2>\n<p><strong><a href=\"https://ref.ly/2Cor9:2\">2CO 9:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor8:10-2Cor8:12\">2CO 8:10–8:12</a>; <a href=\"https://ref.ly/Gal2:10\">GAL 2:10</a></p>\n<h2>Enthusiasm for spiritual gifts</h2>\n<p><strong><a href=\"https://ref.ly/1Cor14:12\">1CO 14:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor14:39\">1CO 14:39</a></p>\n<h2>Enthusiasm for serving God</h2>\n<p><strong><a href=\"https://ref.ly/2Cor8:16-2Cor8:17\">2CO 8:16–8:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Pet5:2\">1PE 5:2</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "60003010",
+"start_ref_usfm": "1PE 3:10",
+"end_ref": "60003013",
+"end_ref_usfm": "1PE 3:13"
+},
+{
+"start_ref": "56002011",
+"start_ref_usfm": "TIT 2:11",
+"end_ref": "56002014",
+"end_ref_usfm": "TIT 2:14"
+},
+{
+"start_ref": "24008006",
+"start_ref_usfm": "JER 8:6",
+"end_ref": "24008006",
+"end_ref_usfm": "JER 8:6"
+},
+{
+"start_ref": "33002001",
+"start_ref_usfm": "MIC 2:1",
+"end_ref": "33002002",
+"end_ref_usfm": "MIC 2:2"
+},
+{
+"start_ref": "36003007",
+"start_ref_usfm": "ZEP 3:7",
+"end_ref": "36003007",
+"end_ref_usfm": "ZEP 3:7"
+},
+{
+"start_ref": "20031010",
+"start_ref_usfm": "PRO 31:10",
+"end_ref": "20031019",
+"end_ref_usfm": "PRO 31:19"
+},
+{
+"start_ref": "20006006",
+"start_ref_usfm": "PRO 6:6",
+"end_ref": "20006011",
+"end_ref_usfm": "PRO 6:11"
+},
+{
+"start_ref": "20031024",
+"start_ref_usfm": "PRO 31:24",
+"end_ref": "20031024",
+"end_ref_usfm": "PRO 31:24"
+},
+{
+"start_ref": "20031027",
+"start_ref_usfm": "PRO 31:27",
+"end_ref": "20031027",
+"end_ref_usfm": "PRO 31:27"
+},
+{
+"start_ref": "47009002",
+"start_ref_usfm": "2CO 9:2",
+"end_ref": "47009002",
+"end_ref_usfm": "2CO 9:2"
+},
+{
+"start_ref": "47008010",
+"start_ref_usfm": "2CO 8:10",
+"end_ref": "47008012",
+"end_ref_usfm": "2CO 8:12"
+},
+{
+"start_ref": "48002010",
+"start_ref_usfm": "GAL 2:10",
+"end_ref": "48002010",
+"end_ref_usfm": "GAL 2:10"
+},
+{
+"start_ref": "46014012",
+"start_ref_usfm": "1CO 14:12",
+"end_ref": "46014012",
+"end_ref_usfm": "1CO 14:12"
+},
+{
+"start_ref": "46014039",
+"start_ref_usfm": "1CO 14:39",
+"end_ref": "46014039",
+"end_ref_usfm": "1CO 14:39"
+},
+{
+"start_ref": "47008016",
+"start_ref_usfm": "2CO 8:16",
+"end_ref": "47008017",
+"end_ref_usfm": "2CO 8:17"
+},
+{
+"start_ref": "60005002",
+"start_ref_usfm": "1PE 5:2",
+"end_ref": "60005002",
+"end_ref_usfm": "1PE 5:2"
+}
+],
+"resource": [
+{
+"reference_id": "5539",
+"content_id": "5539",
+"resource_code": "DictionaryBibleThemes",
+"label": "5539: sluggard",
+"language": "eng"
+},
+{
+"reference_id": "5629",
+"content_id": "5629",
+"resource_code": "DictionaryBibleThemes",
+"label": "5629: work, as ordained by God",
+"language": "eng"
+},
+{
+"reference_id": "5840",
+"content_id": "5840",
+"resource_code": "DictionaryBibleThemes",
+"label": "5840: eagerness",
+"language": "eng"
+},
+{
+"reference_id": "6130",
+"content_id": "6130",
+"resource_code": "DictionaryBibleThemes",
+"label": "6130: corruption",
+"language": "eng"
+},
+{
+"reference_id": "7966",
+"content_id": "7966",
+"resource_code": "DictionaryBibleThemes",
+"label": "7966: spiritual gifts",
+"language": "eng"
+},
+{
+"reference_id": "8239",
+"content_id": "8239",
+"resource_code": "DictionaryBibleThemes",
+"label": "8239: earnestness",
+"language": "eng"
+},
+{
+"reference_id": "8345",
+"content_id": "8345",
+"resource_code": "DictionaryBibleThemes",
+"label": "8345: servanthood, and worship of God",
+"language": "eng"
+},
+{
+"reference_id": "8370",
+"content_id": "8370",
+"resource_code": "DictionaryBibleThemes",
+"label": "8370: zeal",
+"language": "eng"
+},
+{
+"reference_id": "8436",
+"content_id": "8436",
+"resource_code": "DictionaryBibleThemes",
+"label": "8436: giving, of possessions",
+"language": "eng"
+},
+{
+"reference_id": "8442",
+"content_id": "8442",
+"resource_code": "DictionaryBibleThemes",
+"label": "8442: good works",
+"language": "eng"
+}
+]
+}
+}
+]

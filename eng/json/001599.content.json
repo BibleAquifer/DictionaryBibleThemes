@@ -1,0 +1,39 @@
+[
+{
+"content_id": "6608",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6608: adoption",
+"media_type": "Text",
+"index_reference": "6608: adoption",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The deliberate action by which a family gives to a person all the privileges of being a member of that family.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6609",
+"content_id": "6609",
+"resource_code": "DictionaryBibleThemes",
+"label": "6609: adoption, nature of",
+"language": "eng"
+},
+{
+"reference_id": "6610",
+"content_id": "6610",
+"resource_code": "DictionaryBibleThemes",
+"label": "6610: adoption, descriptions of",
+"language": "eng"
+},
+{
+"reference_id": "6611",
+"content_id": "6611",
+"resource_code": "DictionaryBibleThemes",
+"label": "6611: adoption, privileges and duties of",
+"language": "eng"
+}
+]
+}
+}
+]

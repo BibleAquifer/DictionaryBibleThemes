@@ -1,0 +1,222 @@
+[
+{
+"content_id": "4227",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4227: deep, the",
+"media_type": "Text",
+"index_reference": "4227: deep, the",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Unfathomed waters, sometimes seen as existing under the earth, held back by God's power. The term is also used of deep seas, and in metaphorical contexts.</p>\n<h2>Unfathomed waters</h2>\n<p><strong><a href=\"https://ref.ly/Gen1:2\">GEN 1:2</a></strong>; <strong><a href=\"https://ref.ly/Ps104:6-Ps104:9\">PSA 104:6–104:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen7:11\">GEN 7:11</a>, <a href=\"https://ref.ly/Gen49:25\">GEN 49:25</a>; <a href=\"https://ref.ly/Deut33:13\">DEU 33:13</a>; <a href=\"https://ref.ly/Job38:16\">JOB 38:16</a>; <a href=\"https://ref.ly/Ps95:4\">PSA 95:4</a>, <a href=\"https://ref.ly/Ps139:15\">PSA 139:15</a>; <a href=\"https://ref.ly/Prov3:20\">PRO 3:20</a>, <a href=\"https://ref.ly/Prov8:27-Prov8:28\">PRO 8:27–8:28</a>; <a href=\"https://ref.ly/Isa7:11\">ISA 7:11</a>; <a href=\"https://ref.ly/Rom10:7\">ROM 10:7</a></p>\n<h2>Deep seas</h2>\n<p><strong><a href=\"https://ref.ly/Exod15:5\">EXO 15:5</a></strong>; <strong><a href=\"https://ref.ly/Jonah2:3\">JON 2:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job7:12\">JOB 7:12</a>, <a href=\"https://ref.ly/Job38:30\">JOB 38:30</a>; <a href=\"https://ref.ly/Ps42:7\">PSA 42:7</a>; <a href=\"https://ref.ly/Isa44:27\">ISA 44:27</a>, <a href=\"https://ref.ly/Isa51:10\">ISA 51:10</a>; <a href=\"https://ref.ly/Hab3:10\">HAB 3:10</a>; <a href=\"https://ref.ly/Matt18:6\">MAT 18:6</a>; <a href=\"https://ref.ly/Luke5:4\">LUK 5:4</a></p>\n<h2>The deep used metaphorically of a desperate situation</h2>\n<p><strong><a href=\"https://ref.ly/Ps18:16\">PSA 18:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam22:17\">2SA 22:17</a>; <a href=\"https://ref.ly/Ps30:1\">PSA 30:1</a>, <a href=\"https://ref.ly/Ps69:2\">PSA 69:2</a>, <a href=\"https://ref.ly/Ps69:15\">PSA 69:15</a>, <a href=\"https://ref.ly/Ps130:1\">PSA 130:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01001002",
+"start_ref_usfm": "GEN 1:2",
+"end_ref": "01001002",
+"end_ref_usfm": "GEN 1:2"
+},
+{
+"start_ref": "19104006",
+"start_ref_usfm": "PSA 104:6",
+"end_ref": "19104009",
+"end_ref_usfm": "PSA 104:9"
+},
+{
+"start_ref": "01007011",
+"start_ref_usfm": "GEN 7:11",
+"end_ref": "01007011",
+"end_ref_usfm": "GEN 7:11"
+},
+{
+"start_ref": "01049025",
+"start_ref_usfm": "GEN 49:25",
+"end_ref": "01049025",
+"end_ref_usfm": "GEN 49:25"
+},
+{
+"start_ref": "05033013",
+"start_ref_usfm": "DEU 33:13",
+"end_ref": "05033013",
+"end_ref_usfm": "DEU 33:13"
+},
+{
+"start_ref": "18038016",
+"start_ref_usfm": "JOB 38:16",
+"end_ref": "18038016",
+"end_ref_usfm": "JOB 38:16"
+},
+{
+"start_ref": "19095004",
+"start_ref_usfm": "PSA 95:4",
+"end_ref": "19095004",
+"end_ref_usfm": "PSA 95:4"
+},
+{
+"start_ref": "19139015",
+"start_ref_usfm": "PSA 139:15",
+"end_ref": "19139015",
+"end_ref_usfm": "PSA 139:15"
+},
+{
+"start_ref": "20003020",
+"start_ref_usfm": "PRO 3:20",
+"end_ref": "20003020",
+"end_ref_usfm": "PRO 3:20"
+},
+{
+"start_ref": "20008027",
+"start_ref_usfm": "PRO 8:27",
+"end_ref": "20008028",
+"end_ref_usfm": "PRO 8:28"
+},
+{
+"start_ref": "23007011",
+"start_ref_usfm": "ISA 7:11",
+"end_ref": "23007011",
+"end_ref_usfm": "ISA 7:11"
+},
+{
+"start_ref": "45010007",
+"start_ref_usfm": "ROM 10:7",
+"end_ref": "45010007",
+"end_ref_usfm": "ROM 10:7"
+},
+{
+"start_ref": "02015005",
+"start_ref_usfm": "EXO 15:5",
+"end_ref": "02015005",
+"end_ref_usfm": "EXO 15:5"
+},
+{
+"start_ref": "32002003",
+"start_ref_usfm": "JON 2:3",
+"end_ref": "32002003",
+"end_ref_usfm": "JON 2:3"
+},
+{
+"start_ref": "18007012",
+"start_ref_usfm": "JOB 7:12",
+"end_ref": "18007012",
+"end_ref_usfm": "JOB 7:12"
+},
+{
+"start_ref": "18038030",
+"start_ref_usfm": "JOB 38:30",
+"end_ref": "18038030",
+"end_ref_usfm": "JOB 38:30"
+},
+{
+"start_ref": "19042007",
+"start_ref_usfm": "PSA 42:7",
+"end_ref": "19042007",
+"end_ref_usfm": "PSA 42:7"
+},
+{
+"start_ref": "23044027",
+"start_ref_usfm": "ISA 44:27",
+"end_ref": "23044027",
+"end_ref_usfm": "ISA 44:27"
+},
+{
+"start_ref": "23051010",
+"start_ref_usfm": "ISA 51:10",
+"end_ref": "23051010",
+"end_ref_usfm": "ISA 51:10"
+},
+{
+"start_ref": "35003010",
+"start_ref_usfm": "HAB 3:10",
+"end_ref": "35003010",
+"end_ref_usfm": "HAB 3:10"
+},
+{
+"start_ref": "40018006",
+"start_ref_usfm": "MAT 18:6",
+"end_ref": "40018006",
+"end_ref_usfm": "MAT 18:6"
+},
+{
+"start_ref": "42005004",
+"start_ref_usfm": "LUK 5:4",
+"end_ref": "42005004",
+"end_ref_usfm": "LUK 5:4"
+},
+{
+"start_ref": "19018016",
+"start_ref_usfm": "PSA 18:16",
+"end_ref": "19018016",
+"end_ref_usfm": "PSA 18:16"
+},
+{
+"start_ref": "10022017",
+"start_ref_usfm": "2SA 22:17",
+"end_ref": "10022017",
+"end_ref_usfm": "2SA 22:17"
+},
+{
+"start_ref": "19030001",
+"start_ref_usfm": "PSA 30:1",
+"end_ref": "19030001",
+"end_ref_usfm": "PSA 30:1"
+},
+{
+"start_ref": "19069002",
+"start_ref_usfm": "PSA 69:2",
+"end_ref": "19069002",
+"end_ref_usfm": "PSA 69:2"
+},
+{
+"start_ref": "19069015",
+"start_ref_usfm": "PSA 69:15",
+"end_ref": "19069015",
+"end_ref_usfm": "PSA 69:15"
+},
+{
+"start_ref": "19130001",
+"start_ref_usfm": "PSA 130:1",
+"end_ref": "19130001",
+"end_ref_usfm": "PSA 130:1"
+}
+],
+"resource": [
+{
+"reference_id": "4203",
+"content_id": "4203",
+"resource_code": "DictionaryBibleThemes",
+"label": "4203: earth, the",
+"language": "eng"
+},
+{
+"reference_id": "4266",
+"content_id": "4266",
+"resource_code": "DictionaryBibleThemes",
+"label": "4266: sea",
+"language": "eng"
+},
+{
+"reference_id": "4293",
+"content_id": "4293",
+"resource_code": "DictionaryBibleThemes",
+"label": "4293: water",
+"language": "eng"
+},
+{
+"reference_id": "4813",
+"content_id": "4813",
+"resource_code": "DictionaryBibleThemes",
+"label": "4813: depth",
+"language": "eng"
+},
+{
+"reference_id": "9520",
+"content_id": "9520",
+"resource_code": "DictionaryBibleThemes",
+"label": "9520: Abyss, the",
+"language": "eng"
+}
+]
+}
+}
+]

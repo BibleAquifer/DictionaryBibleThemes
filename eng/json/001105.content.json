@@ -1,0 +1,120 @@
+[
+{
+"content_id": "5538",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5538: sling",
+"media_type": "Text",
+"index_reference": "5538: sling",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Used by shepherds to defend their flocks, it consisted of a strip of leather broad enough to contain a stone. A string was attached to each end of this strip. It was swung around fast and when one string was released the stone could be hurled out with great force and accuracy.</p>\n<h2>David felled Goliath with a stone from his sling</h2>\n<p><a href=\"https://ref.ly/1Sam17:40\">1SA 17:40</a>, <a href=\"https://ref.ly/1Sam17:49-1Sam17:50\">1SA 17:49–17:50</a></p>\n<h2>Slings were also used by soldiers as weapons</h2>\n<p><a href=\"https://ref.ly/Judg20:16\">JDG 20:16</a>; ; <a href=\"https://ref.ly/2Kgs3:25\">2KI 3:25</a>; ; <a href=\"https://ref.ly/1Chr12:2\">1CH 12:2</a>; ; <a href=\"https://ref.ly/2Chr26:14\">2CH 26:14</a></p>\n<h2>Slings were known for their destructive power</h2>\n<p><a href=\"https://ref.ly/Job41:28\">JOB 41:28</a>; ; <a href=\"https://ref.ly/Zech9:15\">ZEC 9:15</a></p>\n<h2>Slings used metaphorically</h2>\n<p><a href=\"https://ref.ly/1Sam25:29\">1SA 25:29</a>; ; <a href=\"https://ref.ly/Prov26:8\">PRO 26:8</a>; ; <a href=\"https://ref.ly/Jer10:18\">JER 10:18</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09017040",
+"start_ref_usfm": "1SA 17:40",
+"end_ref": "09017040",
+"end_ref_usfm": "1SA 17:40"
+},
+{
+"start_ref": "09017049",
+"start_ref_usfm": "1SA 17:49",
+"end_ref": "09017050",
+"end_ref_usfm": "1SA 17:50"
+},
+{
+"start_ref": "07020016",
+"start_ref_usfm": "JDG 20:16",
+"end_ref": "07020016",
+"end_ref_usfm": "JDG 20:16"
+},
+{
+"start_ref": "12003025",
+"start_ref_usfm": "2KI 3:25",
+"end_ref": "12003025",
+"end_ref_usfm": "2KI 3:25"
+},
+{
+"start_ref": "13012002",
+"start_ref_usfm": "1CH 12:2",
+"end_ref": "13012002",
+"end_ref_usfm": "1CH 12:2"
+},
+{
+"start_ref": "14026014",
+"start_ref_usfm": "2CH 26:14",
+"end_ref": "14026014",
+"end_ref_usfm": "2CH 26:14"
+},
+{
+"start_ref": "18041028",
+"start_ref_usfm": "JOB 41:28",
+"end_ref": "18041028",
+"end_ref_usfm": "JOB 41:28"
+},
+{
+"start_ref": "38009015",
+"start_ref_usfm": "ZEC 9:15",
+"end_ref": "38009015",
+"end_ref_usfm": "ZEC 9:15"
+},
+{
+"start_ref": "09025029",
+"start_ref_usfm": "1SA 25:29",
+"end_ref": "09025029",
+"end_ref_usfm": "1SA 25:29"
+},
+{
+"start_ref": "20026008",
+"start_ref_usfm": "PRO 26:8",
+"end_ref": "20026008",
+"end_ref_usfm": "PRO 26:8"
+},
+{
+"start_ref": "24010018",
+"start_ref_usfm": "JER 10:18",
+"end_ref": "24010018",
+"end_ref_usfm": "JER 10:18"
+}
+],
+"resource": [
+{
+"reference_id": "4366",
+"content_id": "4366",
+"resource_code": "DictionaryBibleThemes",
+"label": "4366: stones",
+"language": "eng"
+},
+{
+"reference_id": "5210",
+"content_id": "5210",
+"resource_code": "DictionaryBibleThemes",
+"label": "5210: arrows",
+"language": "eng"
+},
+{
+"reference_id": "5544",
+"content_id": "5544",
+"resource_code": "DictionaryBibleThemes",
+"label": "5544: soldiers",
+"language": "eng"
+},
+{
+"reference_id": "5612",
+"content_id": "5612",
+"resource_code": "DictionaryBibleThemes",
+"label": "5612: weapons",
+"language": "eng"
+},
+{
+"reference_id": "7784",
+"content_id": "7784",
+"resource_code": "DictionaryBibleThemes",
+"label": "7784: shepherd",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+"content_id": "2500",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "2500: Jesus Christ, history of",
+"media_type": "Text",
+"index_reference": "2500: jesus christ, history of",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"2505\" data-resourcetype=\"DictionaryOfBibleThemes\">2505: Jesus Christ, ascension of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"2595\" data-resourcetype=\"DictionaryOfBibleThemes\">2595: incarnation</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "2505",
+"content_id": "2505",
+"resource_code": "DictionaryBibleThemes",
+"label": "2505: Jesus Christ, ascension of",
+"language": "eng"
+},
+{
+"reference_id": "2595",
+"content_id": "2595",
+"resource_code": "DictionaryBibleThemes",
+"label": "2595: incarnation",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,168 @@
+[
+{
+"content_id": "7462",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7462: tassel",
+"media_type": "Text",
+"index_reference": "7462: tassel",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A fringe of twisted threads attached to the bottom edge of Israelite men's cloaks. The Pharisees lengthened the tassels on their cloaks to draw attention to their piety.</p>\n<h2>Tassels attached to outer garments</h2>\n<h3>On the corners of garments</h3>\n<p><strong><a href=\"https://ref.ly/Num15:38\">NUM 15:38</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut22:12\">DEU 22:12</a></p>\n<h3>On the cloak of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Matt9:20\">MAT 9:20</a></strong> parallels <a href=\"https://ref.ly/Mark5:27\">MRK 5:27</a>, <a href=\"https://ref.ly/Luke8:44\">LUK 8:44</a> <em>The woman probably touched the tassels on Jesus Christ's cloak.</em> <em>See also</em> <a href=\"https://ref.ly/Matt14:36\">MAT 14:36</a> parallel <a href=\"https://ref.ly/Mark6:56\">MRK 6:56</a></p>\n<h2>Tassels as a reminder of God's law</h2>\n<p><strong><a href=\"https://ref.ly/Num15:39-Num15:41\">NUM 15:39–15:41</a></strong> <em>The movement of the tassels would draw back wandering eyes to God and his law.</em></p>\n<h2>Ostentatious tassels symbolise outward religious show</h2>\n<p><strong><a href=\"https://ref.ly/Matt23:5-Matt23:7\">MAT 23:5–23:7</a></strong> parallels <a href=\"https://ref.ly/Mark12:38-Mark12:39\">MRK 12:38–12:39</a>, <a href=\"https://ref.ly/Luke20:46\">LUK 20:46</a> <em>See also</em> <a href=\"https://ref.ly/Matt6:1-Matt6:6\">MAT 6:1–6:6</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04015038",
+"start_ref_usfm": "NUM 15:38",
+"end_ref": "04015038",
+"end_ref_usfm": "NUM 15:38"
+},
+{
+"start_ref": "05022012",
+"start_ref_usfm": "DEU 22:12",
+"end_ref": "05022012",
+"end_ref_usfm": "DEU 22:12"
+},
+{
+"start_ref": "40009020",
+"start_ref_usfm": "MAT 9:20",
+"end_ref": "40009020",
+"end_ref_usfm": "MAT 9:20"
+},
+{
+"start_ref": "41005027",
+"start_ref_usfm": "MRK 5:27",
+"end_ref": "41005027",
+"end_ref_usfm": "MRK 5:27"
+},
+{
+"start_ref": "42008044",
+"start_ref_usfm": "LUK 8:44",
+"end_ref": "42008044",
+"end_ref_usfm": "LUK 8:44"
+},
+{
+"start_ref": "40014036",
+"start_ref_usfm": "MAT 14:36",
+"end_ref": "40014036",
+"end_ref_usfm": "MAT 14:36"
+},
+{
+"start_ref": "41006056",
+"start_ref_usfm": "MRK 6:56",
+"end_ref": "41006056",
+"end_ref_usfm": "MRK 6:56"
+},
+{
+"start_ref": "04015039",
+"start_ref_usfm": "NUM 15:39",
+"end_ref": "04015041",
+"end_ref_usfm": "NUM 15:41"
+},
+{
+"start_ref": "40023005",
+"start_ref_usfm": "MAT 23:5",
+"end_ref": "40023007",
+"end_ref_usfm": "MAT 23:7"
+},
+{
+"start_ref": "41012038",
+"start_ref_usfm": "MRK 12:38",
+"end_ref": "41012039",
+"end_ref_usfm": "MRK 12:39"
+},
+{
+"start_ref": "42020046",
+"start_ref_usfm": "LUK 20:46",
+"end_ref": "42020046",
+"end_ref_usfm": "LUK 20:46"
+},
+{
+"start_ref": "40006001",
+"start_ref_usfm": "MAT 6:1",
+"end_ref": "40006006",
+"end_ref_usfm": "MAT 6:6"
+}
+],
+"resource": [
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "4807",
+"content_id": "4807",
+"resource_code": "DictionaryBibleThemes",
+"label": "4807: colours",
+"language": "eng"
+},
+{
+"reference_id": "5144",
+"content_id": "5144",
+"resource_code": "DictionaryBibleThemes",
+"label": "5144: cloak",
+"language": "eng"
+},
+{
+"reference_id": "5375",
+"content_id": "5375",
+"resource_code": "DictionaryBibleThemes",
+"label": "5375: law",
+"language": "eng"
+},
+{
+"reference_id": "7394",
+"content_id": "7394",
+"resource_code": "DictionaryBibleThemes",
+"label": "7394: memorial",
+"language": "eng"
+},
+{
+"reference_id": "7410",
+"content_id": "7410",
+"resource_code": "DictionaryBibleThemes",
+"label": "7410: phylactery",
+"language": "eng"
+},
+{
+"reference_id": "7550",
+"content_id": "7550",
+"resource_code": "DictionaryBibleThemes",
+"label": "7550: Pharisees",
+"language": "eng"
+},
+{
+"reference_id": "8453",
+"content_id": "8453",
+"resource_code": "DictionaryBibleThemes",
+"label": "8453: obedience",
+"language": "eng"
+},
+{
+"reference_id": "8467",
+"content_id": "8467",
+"resource_code": "DictionaryBibleThemes",
+"label": "8467: reminders",
+"language": "eng"
+},
+{
+"reference_id": "8670",
+"content_id": "8670",
+"resource_code": "DictionaryBibleThemes",
+"label": "8670: remembering",
+"language": "eng"
+},
+{
+"reference_id": "8767",
+"content_id": "8767",
+"resource_code": "DictionaryBibleThemes",
+"label": "8767: hypocrisy",
+"language": "eng"
+}
+]
+}
+}
+]

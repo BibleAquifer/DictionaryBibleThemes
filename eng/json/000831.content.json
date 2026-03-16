@@ -1,0 +1,114 @@
+[
+{
+"content_id": "5243",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5243: byword",
+"media_type": "Text",
+"index_reference": "5243: byword",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Individuals become a byword</h2>\n<h3>As a punishment for idolatry</h3>\n<p><strong><a href=\"https://ref.ly/Ezek14:7-Ezek14:8\">EZK 14:7–14:8</a></strong></p>\n<h3>As a trial of faith</h3>\n<p><strong><a href=\"https://ref.ly/Job17:6\">JOB 17:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job30:9\">JOB 30:9</a></p>\n<h2>God's people become a byword</h2>\n<h3>As a punishment for disobedience</h3>\n<p><strong><a href=\"https://ref.ly/Deut28:37\">DEU 28:37</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs9:6-1Kgs9:9\">1KI 9:6–9:9</a> parallel <a href=\"https://ref.ly/2Chr7:19-2Chr7:22\">2CH 7:19–7:22</a>; <a href=\"https://ref.ly/Jer24:8-Jer24:10\">JER 24:8–24:10</a>; <a href=\"https://ref.ly/Ezek23:1-Ezek23:10\">EZK 23:1–23:10</a>; <a href=\"https://ref.ly/Joel2:17\">JOL 2:17</a></p>\n<h3>As a trial of faith</h3>\n<p><strong><a href=\"https://ref.ly/Ps44:9-Ps44:26\">PSA 44:9–44:26</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "26014007",
+"start_ref_usfm": "EZK 14:7",
+"end_ref": "26014008",
+"end_ref_usfm": "EZK 14:8"
+},
+{
+"start_ref": "18017006",
+"start_ref_usfm": "JOB 17:6",
+"end_ref": "18017006",
+"end_ref_usfm": "JOB 17:6"
+},
+{
+"start_ref": "18030009",
+"start_ref_usfm": "JOB 30:9",
+"end_ref": "18030009",
+"end_ref_usfm": "JOB 30:9"
+},
+{
+"start_ref": "05028037",
+"start_ref_usfm": "DEU 28:37",
+"end_ref": "05028037",
+"end_ref_usfm": "DEU 28:37"
+},
+{
+"start_ref": "11009006",
+"start_ref_usfm": "1KI 9:6",
+"end_ref": "11009009",
+"end_ref_usfm": "1KI 9:9"
+},
+{
+"start_ref": "14007019",
+"start_ref_usfm": "2CH 7:19",
+"end_ref": "14007022",
+"end_ref_usfm": "2CH 7:22"
+},
+{
+"start_ref": "24024008",
+"start_ref_usfm": "JER 24:8",
+"end_ref": "24024010",
+"end_ref_usfm": "JER 24:10"
+},
+{
+"start_ref": "26023001",
+"start_ref_usfm": "EZK 23:1",
+"end_ref": "26023010",
+"end_ref_usfm": "EZK 23:10"
+},
+{
+"start_ref": "29002017",
+"start_ref_usfm": "JOL 2:17",
+"end_ref": "29002017",
+"end_ref_usfm": "JOL 2:17"
+},
+{
+"start_ref": "19044009",
+"start_ref_usfm": "PSA 44:9",
+"end_ref": "19044026",
+"end_ref_usfm": "PSA 44:26"
+}
+],
+"resource": [
+{
+"reference_id": "5482",
+"content_id": "5482",
+"resource_code": "DictionaryBibleThemes",
+"label": "5482: punishment",
+"language": "eng"
+},
+{
+"reference_id": "5593",
+"content_id": "5593",
+"resource_code": "DictionaryBibleThemes",
+"label": "5593: trial",
+"language": "eng"
+},
+{
+"reference_id": "8428",
+"content_id": "8428",
+"resource_code": "DictionaryBibleThemes",
+"label": "8428: example",
+"language": "eng"
+},
+{
+"reference_id": "8782",
+"content_id": "8782",
+"resource_code": "DictionaryBibleThemes",
+"label": "8782: mockery",
+"language": "eng"
+},
+{
+"reference_id": "8819",
+"content_id": "8819",
+"resource_code": "DictionaryBibleThemes",
+"label": "8819: scoffing",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,46 @@
+[
+{
+"content_id": "1190",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1190: glory",
+"media_type": "Text",
+"index_reference": "1190: glory",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The distinctive feature of the presence of God, often compared to power, weight or brightness. Scripture affirms that God's glory is made known through his work of creation, his acts of intervention in history and supremely in the life and resurrection of Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "1191",
+"content_id": "1191",
+"resource_code": "DictionaryBibleThemes",
+"label": "1191: glory, of God",
+"language": "eng"
+},
+{
+"reference_id": "1192",
+"content_id": "1192",
+"resource_code": "DictionaryBibleThemes",
+"label": "1192: glory, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "1193",
+"content_id": "1193",
+"resource_code": "DictionaryBibleThemes",
+"label": "1193: glory, revelation of",
+"language": "eng"
+},
+{
+"reference_id": "1194",
+"content_id": "1194",
+"resource_code": "DictionaryBibleThemes",
+"label": "1194: glory, divine and human",
+"language": "eng"
+}
+]
+}
+}
+]

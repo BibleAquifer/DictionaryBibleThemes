@@ -1,0 +1,193 @@
+[
+{
+"content_id": "5237",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5237: breastplate",
+"media_type": "Text",
+"index_reference": "5237: breastplate",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A coat of armour comprising one or more pieces of bronze, iron or chain mail covering the chest and back to protect the heart and other vital organs. Used figuratively it refers to righteousness, faith and love.</p>\n<h2>Breastplates were coats or tunics of armour</h2>\n<h3>They were part of military dress</h3>\n<p><strong><a href=\"https://ref.ly/2Chr26:14\">2CH 26:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:5\">1SA 17:5</a>, <a href=\"https://ref.ly/1Sam17:38\">1SA 17:38</a>; <a href=\"https://ref.ly/2Sam20:8\">2SA 20:8</a></p>\n<h3>They were worn by soldiers</h3>\n<p><strong><a href=\"https://ref.ly/2Sam20:8\">2SA 20:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh4:16\">NEH 4:16</a>; <a href=\"https://ref.ly/Jer46:4\">JER 46:4</a>, <a href=\"https://ref.ly/Jer51:3\">JER 51:3</a></p>\n<h3>Bronze breastplates</h3>\n<p><strong><a href=\"https://ref.ly/1Sam17:5\">1SA 17:5</a></strong></p>\n<h3>Iron breastplates</h3>\n<p><strong><a href=\"https://ref.ly/Rev9:9\">REV 9:9</a></strong></p>\n<h2>Those wearing breastplates were not impregnable</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs22:34\">1KI 22:34</a></strong> parallel <a href=\"https://ref.ly/2Chr18:33\">2CH 18:33</a> <em>See also</em> <a href=\"https://ref.ly/1Sam31:3\">1SA 31:3</a>; <a href=\"https://ref.ly/1Kgs20:11\">1KI 20:11</a></p>\n<h2>The breastplate was often referred to figuratively</h2>\n<h3>As a picture of righteousness</h3>\n<p><strong><a href=\"https://ref.ly/Isa59:17\">ISA 59:17</a></strong>; <strong><a href=\"https://ref.ly/Eph6:14\">EPH 6:14</a></strong></p>\n<h3>As a picture of faith and love</h3>\n<p><strong><a href=\"https://ref.ly/1Thess5:8\">1TH 5:8</a></strong></p>\n<h3>As a picture of invincibility</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Rev9:9\">REV 9:9</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "14026014",
+"start_ref_usfm": "2CH 26:14",
+"end_ref": "14026014",
+"end_ref_usfm": "2CH 26:14"
+},
+{
+"start_ref": "09017005",
+"start_ref_usfm": "1SA 17:5",
+"end_ref": "09017005",
+"end_ref_usfm": "1SA 17:5"
+},
+{
+"start_ref": "09017038",
+"start_ref_usfm": "1SA 17:38",
+"end_ref": "09017038",
+"end_ref_usfm": "1SA 17:38"
+},
+{
+"start_ref": "10020008",
+"start_ref_usfm": "2SA 20:8",
+"end_ref": "10020008",
+"end_ref_usfm": "2SA 20:8"
+},
+{
+"start_ref": "16004016",
+"start_ref_usfm": "NEH 4:16",
+"end_ref": "16004016",
+"end_ref_usfm": "NEH 4:16"
+},
+{
+"start_ref": "24046004",
+"start_ref_usfm": "JER 46:4",
+"end_ref": "24046004",
+"end_ref_usfm": "JER 46:4"
+},
+{
+"start_ref": "24051003",
+"start_ref_usfm": "JER 51:3",
+"end_ref": "24051003",
+"end_ref_usfm": "JER 51:3"
+},
+{
+"start_ref": "66009009",
+"start_ref_usfm": "REV 9:9",
+"end_ref": "66009009",
+"end_ref_usfm": "REV 9:9"
+},
+{
+"start_ref": "11022034",
+"start_ref_usfm": "1KI 22:34",
+"end_ref": "11022034",
+"end_ref_usfm": "1KI 22:34"
+},
+{
+"start_ref": "14018033",
+"start_ref_usfm": "2CH 18:33",
+"end_ref": "14018033",
+"end_ref_usfm": "2CH 18:33"
+},
+{
+"start_ref": "09031003",
+"start_ref_usfm": "1SA 31:3",
+"end_ref": "09031003",
+"end_ref_usfm": "1SA 31:3"
+},
+{
+"start_ref": "11020011",
+"start_ref_usfm": "1KI 20:11",
+"end_ref": "11020011",
+"end_ref_usfm": "1KI 20:11"
+},
+{
+"start_ref": "23059017",
+"start_ref_usfm": "ISA 59:17",
+"end_ref": "23059017",
+"end_ref_usfm": "ISA 59:17"
+},
+{
+"start_ref": "49006014",
+"start_ref_usfm": "EPH 6:14",
+"end_ref": "49006014",
+"end_ref_usfm": "EPH 6:14"
+},
+{
+"start_ref": "52005008",
+"start_ref_usfm": "1TH 5:8",
+"end_ref": "52005008",
+"end_ref_usfm": "1TH 5:8"
+}
+],
+"resource": [
+{
+"reference_id": "4312",
+"content_id": "4312",
+"resource_code": "DictionaryBibleThemes",
+"label": "4312: bronze",
+"language": "eng"
+},
+{
+"reference_id": "4336",
+"content_id": "4336",
+"resource_code": "DictionaryBibleThemes",
+"label": "4336: iron",
+"language": "eng"
+},
+{
+"reference_id": "5145",
+"content_id": "5145",
+"resource_code": "DictionaryBibleThemes",
+"label": "5145: clothing",
+"language": "eng"
+},
+{
+"reference_id": "5209",
+"content_id": "5209",
+"resource_code": "DictionaryBibleThemes",
+"label": "5209: armour",
+"language": "eng"
+},
+{
+"reference_id": "5480",
+"content_id": "5480",
+"resource_code": "DictionaryBibleThemes",
+"label": "5480: protection",
+"language": "eng"
+},
+{
+"reference_id": "5544",
+"content_id": "5544",
+"resource_code": "DictionaryBibleThemes",
+"label": "5544: soldiers",
+"language": "eng"
+},
+{
+"reference_id": "5605",
+"content_id": "5605",
+"resource_code": "DictionaryBibleThemes",
+"label": "5605: warfare",
+"language": "eng"
+},
+{
+"reference_id": "7320",
+"content_id": "7320",
+"resource_code": "DictionaryBibleThemes",
+"label": "7320: breastpiece",
+"language": "eng"
+},
+{
+"reference_id": "8020",
+"content_id": "8020",
+"resource_code": "DictionaryBibleThemes",
+"label": "8020: faith",
+"language": "eng"
+},
+{
+"reference_id": "8154",
+"content_id": "8154",
+"resource_code": "DictionaryBibleThemes",
+"label": "8154: righteousness",
+"language": "eng"
+},
+{
+"reference_id": "8292",
+"content_id": "8292",
+"resource_code": "DictionaryBibleThemes",
+"label": "8292: love",
+"language": "eng"
+},
+{
+"reference_id": "8486",
+"content_id": "8486",
+"resource_code": "DictionaryBibleThemes",
+"label": "8486: spiritual warfare, armour",
+"language": "eng"
+}
+]
+}
+}
+]

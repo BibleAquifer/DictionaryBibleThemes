@@ -1,0 +1,196 @@
+[
+{
+"content_id": "5247",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5247: carpenters",
+"media_type": "Text",
+"index_reference": "5247: carpenters",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Examples of carpenters at work</h2>\n<h3>In the building of the ark</h3>\n<p><a href=\"https://ref.ly/Gen6:14-Gen6:16\">GEN 6:14–6:16</a></p>\n<h3>In the construction of the tabernacle</h3>\n<p><strong><a href=\"https://ref.ly/Exod31:2-Exod31:5\">EXO 31:2–31:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod35:30-Exod35:33\">EXO 35:30–35:33</a></p>\n<h3>In the building of David's palace</h3>\n<p><strong><a href=\"https://ref.ly/2Sam5:11\">2SA 5:11</a></strong> parallel <a href=\"https://ref.ly/1Chr14:1\">1CH 14:1</a></p>\n<h3>In the building of the temple</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs5:18\">1KI 5:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr22:15\">1CH 22:15</a>; <a href=\"https://ref.ly/2Chr2:13-2Chr2:14\">2CH 2:13–2:14</a></p>\n<h3>In the restoration of the temple</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs12:11\">2KI 12:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs22:6\">2KI 22:6</a>; <a href=\"https://ref.ly/2Chr24:12\">2CH 24:12</a>, <a href=\"https://ref.ly/2Chr34:11\">2CH 34:11</a></p>\n<h3>In rebuilding the temple</h3>\n<p><strong><a href=\"https://ref.ly/Ezra3:7\">EZR 3:7</a></strong></p>\n<h3>In boatbuilding</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Ezek27:5-Ezek27:6\">EZK 27:5–27:6</a></p>\n<h2>Carpenters among the exiles in Babylon</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs24:16\">2KI 24:16</a></strong> <em>Carpenters are literally “craftsmen in wood”.</em> <em>See also</em> <a href=\"https://ref.ly/Jer24:1\">JER 24:1</a>, <a href=\"https://ref.ly/Jer29:2\">JER 29:2</a></p>\n<h2>Joseph as a carpenter</h2>\n<p><strong><a href=\"https://ref.ly/Matt13:55\">MAT 13:55</a></strong></p>\n<h2>Jesus Christ as a carpenter</h2>\n<p><strong><a href=\"https://ref.ly/Mark6:3\">MRK 6:3</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006014",
+"start_ref_usfm": "GEN 6:14",
+"end_ref": "01006016",
+"end_ref_usfm": "GEN 6:16"
+},
+{
+"start_ref": "02031002",
+"start_ref_usfm": "EXO 31:2",
+"end_ref": "02031005",
+"end_ref_usfm": "EXO 31:5"
+},
+{
+"start_ref": "02035030",
+"start_ref_usfm": "EXO 35:30",
+"end_ref": "02035033",
+"end_ref_usfm": "EXO 35:33"
+},
+{
+"start_ref": "10005011",
+"start_ref_usfm": "2SA 5:11",
+"end_ref": "10005011",
+"end_ref_usfm": "2SA 5:11"
+},
+{
+"start_ref": "13014001",
+"start_ref_usfm": "1CH 14:1",
+"end_ref": "13014001",
+"end_ref_usfm": "1CH 14:1"
+},
+{
+"start_ref": "11005018",
+"start_ref_usfm": "1KI 5:18",
+"end_ref": "11005018",
+"end_ref_usfm": "1KI 5:18"
+},
+{
+"start_ref": "13022015",
+"start_ref_usfm": "1CH 22:15",
+"end_ref": "13022015",
+"end_ref_usfm": "1CH 22:15"
+},
+{
+"start_ref": "14002013",
+"start_ref_usfm": "2CH 2:13",
+"end_ref": "14002014",
+"end_ref_usfm": "2CH 2:14"
+},
+{
+"start_ref": "12012011",
+"start_ref_usfm": "2KI 12:11",
+"end_ref": "12012011",
+"end_ref_usfm": "2KI 12:11"
+},
+{
+"start_ref": "12022006",
+"start_ref_usfm": "2KI 22:6",
+"end_ref": "12022006",
+"end_ref_usfm": "2KI 22:6"
+},
+{
+"start_ref": "14024012",
+"start_ref_usfm": "2CH 24:12",
+"end_ref": "14024012",
+"end_ref_usfm": "2CH 24:12"
+},
+{
+"start_ref": "14034011",
+"start_ref_usfm": "2CH 34:11",
+"end_ref": "14034011",
+"end_ref_usfm": "2CH 34:11"
+},
+{
+"start_ref": "15003007",
+"start_ref_usfm": "EZR 3:7",
+"end_ref": "15003007",
+"end_ref_usfm": "EZR 3:7"
+},
+{
+"start_ref": "26027005",
+"start_ref_usfm": "EZK 27:5",
+"end_ref": "26027006",
+"end_ref_usfm": "EZK 27:6"
+},
+{
+"start_ref": "12024016",
+"start_ref_usfm": "2KI 24:16",
+"end_ref": "12024016",
+"end_ref_usfm": "2KI 24:16"
+},
+{
+"start_ref": "24024001",
+"start_ref_usfm": "JER 24:1",
+"end_ref": "24024001",
+"end_ref_usfm": "JER 24:1"
+},
+{
+"start_ref": "24029002",
+"start_ref_usfm": "JER 29:2",
+"end_ref": "24029002",
+"end_ref_usfm": "JER 29:2"
+},
+{
+"start_ref": "40013055",
+"start_ref_usfm": "MAT 13:55",
+"end_ref": "40013055",
+"end_ref_usfm": "MAT 13:55"
+},
+{
+"start_ref": "41006003",
+"start_ref_usfm": "MRK 6:3",
+"end_ref": "41006003",
+"end_ref_usfm": "MRK 6:3"
+}
+],
+"resource": [
+{
+"reference_id": "4552",
+"content_id": "4552",
+"resource_code": "DictionaryBibleThemes",
+"label": "4552: wood",
+"language": "eng"
+},
+{
+"reference_id": "5212",
+"content_id": "5212",
+"resource_code": "DictionaryBibleThemes",
+"label": "5212: arts and crafts",
+"language": "eng"
+},
+{
+"reference_id": "5240",
+"content_id": "5240",
+"resource_code": "DictionaryBibleThemes",
+"label": "5240: building",
+"language": "eng"
+},
+{
+"reference_id": "5272",
+"content_id": "5272",
+"resource_code": "DictionaryBibleThemes",
+"label": "5272: craftsmen",
+"language": "eng"
+},
+{
+"reference_id": "5306",
+"content_id": "5306",
+"resource_code": "DictionaryBibleThemes",
+"label": "5306: engraving",
+"language": "eng"
+},
+{
+"reference_id": "5433",
+"content_id": "5433",
+"resource_code": "DictionaryBibleThemes",
+"label": "5433: occupations",
+"language": "eng"
+},
+{
+"reference_id": "5516",
+"content_id": "5516",
+"resource_code": "DictionaryBibleThemes",
+"label": "5516: sculpture",
+"language": "eng"
+},
+{
+"reference_id": "5531",
+"content_id": "5531",
+"resource_code": "DictionaryBibleThemes",
+"label": "5531: skill",
+"language": "eng"
+},
+{
+"reference_id": "5583",
+"content_id": "5583",
+"resource_code": "DictionaryBibleThemes",
+"label": "5583: tools",
+"language": "eng"
+}
+]
+}
+}
+]

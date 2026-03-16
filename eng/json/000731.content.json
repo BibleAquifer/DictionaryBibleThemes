@@ -1,0 +1,94 @@
+[
+{
+"content_id": "5142",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5142: clapping",
+"media_type": "Text",
+"index_reference": "5142: clapping",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Applauding with one's hands, as an expression of delight. Scripture portrays even the creation sharing in this delight at the majesty of its Creator.</p>\n<h2>Clapping as an expression of delight</h2>\n<h3>At a coronation</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs11:12\">2KI 11:12</a></strong></p>\n<h3>Expressing praise</h3>\n<p><strong><a href=\"https://ref.ly/Ps47:1\">PSA 47:1</a></strong></p>\n<h3>Expressing the delight of the creation in its Creator</h3>\n<p><strong><a href=\"https://ref.ly/Ps98:8\">PSA 98:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa55:12\">ISA 55:12</a></p>\n<h2>Clapping as an act of derision</h2>\n<p><strong><a href=\"https://ref.ly/Lam2:15\">LAM 2:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job27:21-Job27:23\">JOB 27:21–27:23</a>, <a href=\"https://ref.ly/Job34:37\">JOB 34:37</a>; <a href=\"https://ref.ly/Ezek25:6\">EZK 25:6</a>; <a href=\"https://ref.ly/Nah3:19\">NAM 3:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "12011012",
+"start_ref_usfm": "2KI 11:12",
+"end_ref": "12011012",
+"end_ref_usfm": "2KI 11:12"
+},
+{
+"start_ref": "19047001",
+"start_ref_usfm": "PSA 47:1",
+"end_ref": "19047001",
+"end_ref_usfm": "PSA 47:1"
+},
+{
+"start_ref": "19098008",
+"start_ref_usfm": "PSA 98:8",
+"end_ref": "19098008",
+"end_ref_usfm": "PSA 98:8"
+},
+{
+"start_ref": "23055012",
+"start_ref_usfm": "ISA 55:12",
+"end_ref": "23055012",
+"end_ref_usfm": "ISA 55:12"
+},
+{
+"start_ref": "25002015",
+"start_ref_usfm": "LAM 2:15",
+"end_ref": "25002015",
+"end_ref_usfm": "LAM 2:15"
+},
+{
+"start_ref": "18027021",
+"start_ref_usfm": "JOB 27:21",
+"end_ref": "18027023",
+"end_ref_usfm": "JOB 27:23"
+},
+{
+"start_ref": "18034037",
+"start_ref_usfm": "JOB 34:37",
+"end_ref": "18034037",
+"end_ref_usfm": "JOB 34:37"
+},
+{
+"start_ref": "26025006",
+"start_ref_usfm": "EZK 25:6",
+"end_ref": "26025006",
+"end_ref_usfm": "EZK 25:6"
+},
+{
+"start_ref": "34003019",
+"start_ref_usfm": "NAM 3:19",
+"end_ref": "34003019",
+"end_ref_usfm": "NAM 3:19"
+}
+],
+"resource": [
+{
+"reference_id": "5156",
+"content_id": "5156",
+"resource_code": "DictionaryBibleThemes",
+"label": "5156: hand",
+"language": "eng"
+},
+{
+"reference_id": "5830",
+"content_id": "5830",
+"resource_code": "DictionaryBibleThemes",
+"label": "5830: delight",
+"language": "eng"
+},
+{
+"reference_id": "8283",
+"content_id": "8283",
+"resource_code": "DictionaryBibleThemes",
+"label": "8283: joy",
+"language": "eng"
+}
+]
+}
+}
+]

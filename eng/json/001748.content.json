@@ -1,0 +1,124 @@
+[
+{
+"content_id": "7248",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7248: patriarchs",
+"media_type": "Text",
+"index_reference": "7248: patriarchs",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The patriarchs: Abraham, Isaac, Jacob and his twelve sons</h2>\n<p><strong><a href=\"https://ref.ly/Heb7:4\">HEB 7:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/John7:22\">JHN 7:22</a>; <a href=\"https://ref.ly/Acts7:8-Acts7:9\">ACT 7:8–7:9</a>; <a href=\"https://ref.ly/Rom9:5\">ROM 9:5</a>, <a href=\"https://ref.ly/Rom11:28\">ROM 11:28</a>, <a href=\"https://ref.ly/Rom15:8\">ROM 15:8</a></p>\n<h2>David also called a patriarch</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:29\">ACT 2:29</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "58007004",
+"start_ref_usfm": "HEB 7:4",
+"end_ref": "58007004",
+"end_ref_usfm": "HEB 7:4"
+},
+{
+"start_ref": "43007022",
+"start_ref_usfm": "JHN 7:22",
+"end_ref": "43007022",
+"end_ref_usfm": "JHN 7:22"
+},
+{
+"start_ref": "44007008",
+"start_ref_usfm": "ACT 7:8",
+"end_ref": "44007009",
+"end_ref_usfm": "ACT 7:9"
+},
+{
+"start_ref": "45009005",
+"start_ref_usfm": "ROM 9:5",
+"end_ref": "45009005",
+"end_ref_usfm": "ROM 9:5"
+},
+{
+"start_ref": "45011028",
+"start_ref_usfm": "ROM 11:28",
+"end_ref": "45011028",
+"end_ref_usfm": "ROM 11:28"
+},
+{
+"start_ref": "45015008",
+"start_ref_usfm": "ROM 15:8",
+"end_ref": "45015008",
+"end_ref_usfm": "ROM 15:8"
+},
+{
+"start_ref": "44002029",
+"start_ref_usfm": "ACT 2:29",
+"end_ref": "44002029",
+"end_ref_usfm": "ACT 2:29"
+}
+],
+"resource": [
+{
+"reference_id": "1245",
+"content_id": "1245",
+"resource_code": "DictionaryBibleThemes",
+"label": "1245: God of the fathers",
+"language": "eng"
+},
+{
+"reference_id": "1348",
+"content_id": "1348",
+"resource_code": "DictionaryBibleThemes",
+"label": "1348: covenant, God's with Abraham",
+"language": "eng"
+},
+{
+"reference_id": "1351",
+"content_id": "1351",
+"resource_code": "DictionaryBibleThemes",
+"label": "1351: covenant, God's with David",
+"language": "eng"
+},
+{
+"reference_id": "5075",
+"content_id": "5075",
+"resource_code": "DictionaryBibleThemes",
+"label": "5075: Abraham",
+"language": "eng"
+},
+{
+"reference_id": "5089",
+"content_id": "5089",
+"resource_code": "DictionaryBibleThemes",
+"label": "5089: David, significance of",
+"language": "eng"
+},
+{
+"reference_id": "5096",
+"content_id": "5096",
+"resource_code": "DictionaryBibleThemes",
+"label": "5096: Jacob, the patriarch",
+"language": "eng"
+},
+{
+"reference_id": "5737",
+"content_id": "5737",
+"resource_code": "DictionaryBibleThemes",
+"label": "5737: sisters",
+"language": "eng"
+},
+{
+"reference_id": "7206",
+"content_id": "7206",
+"resource_code": "DictionaryBibleThemes",
+"label": "7206: community",
+"language": "eng"
+},
+{
+"reference_id": "7258",
+"content_id": "7258",
+"resource_code": "DictionaryBibleThemes",
+"label": "7258: promised land, early history of",
+"language": "eng"
+}
+]
+}
+}
+]

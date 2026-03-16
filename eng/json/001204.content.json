@@ -1,0 +1,198 @@
+[
+{
+"content_id": "5657",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5657: birthright",
+"media_type": "Text",
+"index_reference": "5657: birthright",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The right of the firstborn son in ancient Israel to inherit his father's estate. Where the property was divided, the firstborn received a double share.</p>\n<h2>Birthright was recognised amongst the patriarchs</h2>\n<p><strong><a href=\"https://ref.ly/Gen25:5-Gen25:6\">GEN 25:5–25:6</a>, <a href=\"https://ref.ly/Gen25:34\">GEN 25:34</a></strong></p>\n<h2>Birthright and the law</h2>\n<h3>It was guaranteed under the law</h3>\n<p><strong><a href=\"https://ref.ly/Deut21:15-Deut21:17\">DEU 21:15–21:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr26:10\">1CH 26:10</a> <em>some ignored this law</em></p>\n<h3>Daughters and others could inherit if there were no sons</h3>\n<p><a href=\"https://ref.ly/Num27:1-Num27:11\">NUM 27:1–27:11</a></p>\n<h3>Only sons of a lawful marriage qualified</h3>\n<p><a href=\"https://ref.ly/Gen21:8-Gen21:13\">GEN 21:8–21:13</a>; ; <a href=\"https://ref.ly/Judg11:1-Judg11:2\">JDG 11:1–11:2</a></p>\n<h2>Birthright and kingship</h2>\n<h3>Succession was normally to the firstborn</h3>\n<p><strong><a href=\"https://ref.ly/2Chr21:1-2Chr21:3\">2CH 21:1–21:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr11:18-2Chr11:22\">2CH 11:18–11:22</a> <em>favouritism could intrude here also</em></p>\n<h2>Transfer of the birthright</h2>\n<h3>Through misconduct</h3>\n<p><strong><a href=\"https://ref.ly/1Chr5:1\">1CH 5:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:3-Gen49:4\">GEN 49:3–49:4</a></p>\n<h3>By transaction</h3>\n<p><strong><a href=\"https://ref.ly/Gen25:29-Gen25:34\">GEN 25:29–25:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb12:16-Heb12:17\">HEB 12:16–12:17</a></p>\n<h2>The Christian birthright</h2>\n<p><strong><a href=\"https://ref.ly/Rom8:17\">ROM 8:17</a></strong> <em>Jesus Christ is the firstborn over all creation; by the grace of God Christians share in his inheritance.</em> <em>See also</em> <a href=\"https://ref.ly/Gal4:7\">GAL 4:7</a>; <a href=\"https://ref.ly/Col1:15\">COL 1:15</a>; <a href=\"https://ref.ly/Heb1:2\">HEB 1:2</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01025005",
+"start_ref_usfm": "GEN 25:5",
+"end_ref": "01025006",
+"end_ref_usfm": "GEN 25:6"
+},
+{
+"start_ref": "01025034",
+"start_ref_usfm": "GEN 25:34",
+"end_ref": "01025034",
+"end_ref_usfm": "GEN 25:34"
+},
+{
+"start_ref": "05021015",
+"start_ref_usfm": "DEU 21:15",
+"end_ref": "05021017",
+"end_ref_usfm": "DEU 21:17"
+},
+{
+"start_ref": "13026010",
+"start_ref_usfm": "1CH 26:10",
+"end_ref": "13026010",
+"end_ref_usfm": "1CH 26:10"
+},
+{
+"start_ref": "04027001",
+"start_ref_usfm": "NUM 27:1",
+"end_ref": "04027011",
+"end_ref_usfm": "NUM 27:11"
+},
+{
+"start_ref": "01021008",
+"start_ref_usfm": "GEN 21:8",
+"end_ref": "01021013",
+"end_ref_usfm": "GEN 21:13"
+},
+{
+"start_ref": "07011001",
+"start_ref_usfm": "JDG 11:1",
+"end_ref": "07011002",
+"end_ref_usfm": "JDG 11:2"
+},
+{
+"start_ref": "14021001",
+"start_ref_usfm": "2CH 21:1",
+"end_ref": "14021003",
+"end_ref_usfm": "2CH 21:3"
+},
+{
+"start_ref": "14011018",
+"start_ref_usfm": "2CH 11:18",
+"end_ref": "14011022",
+"end_ref_usfm": "2CH 11:22"
+},
+{
+"start_ref": "13005001",
+"start_ref_usfm": "1CH 5:1",
+"end_ref": "13005001",
+"end_ref_usfm": "1CH 5:1"
+},
+{
+"start_ref": "01049003",
+"start_ref_usfm": "GEN 49:3",
+"end_ref": "01049004",
+"end_ref_usfm": "GEN 49:4"
+},
+{
+"start_ref": "01025029",
+"start_ref_usfm": "GEN 25:29",
+"end_ref": "01025034",
+"end_ref_usfm": "GEN 25:34"
+},
+{
+"start_ref": "58012016",
+"start_ref_usfm": "HEB 12:16",
+"end_ref": "58012017",
+"end_ref_usfm": "HEB 12:17"
+},
+{
+"start_ref": "45008017",
+"start_ref_usfm": "ROM 8:17",
+"end_ref": "45008017",
+"end_ref_usfm": "ROM 8:17"
+},
+{
+"start_ref": "48004007",
+"start_ref_usfm": "GAL 4:7",
+"end_ref": "48004007",
+"end_ref_usfm": "GAL 4:7"
+},
+{
+"start_ref": "51001015",
+"start_ref_usfm": "COL 1:15",
+"end_ref": "51001015",
+"end_ref_usfm": "COL 1:15"
+},
+{
+"start_ref": "58001002",
+"start_ref_usfm": "HEB 1:2",
+"end_ref": "58001002",
+"end_ref_usfm": "HEB 1:2"
+}
+],
+"resource": [
+{
+"reference_id": "5368",
+"content_id": "5368",
+"resource_code": "DictionaryBibleThemes",
+"label": "5368: kingship",
+"language": "eng"
+},
+{
+"reference_id": "5672",
+"content_id": "5672",
+"resource_code": "DictionaryBibleThemes",
+"label": "5672: concubines",
+"language": "eng"
+},
+{
+"reference_id": "5674",
+"content_id": "5674",
+"resource_code": "DictionaryBibleThemes",
+"label": "5674: daughters",
+"language": "eng"
+},
+{
+"reference_id": "5681",
+"content_id": "5681",
+"resource_code": "DictionaryBibleThemes",
+"label": "5681: family, nature of",
+"language": "eng"
+},
+{
+"reference_id": "5684",
+"content_id": "5684",
+"resource_code": "DictionaryBibleThemes",
+"label": "5684: fathers",
+"language": "eng"
+},
+{
+"reference_id": "5688",
+"content_id": "5688",
+"resource_code": "DictionaryBibleThemes",
+"label": "5688: firstborn",
+"language": "eng"
+},
+{
+"reference_id": "5701",
+"content_id": "5701",
+"resource_code": "DictionaryBibleThemes",
+"label": "5701: heir",
+"language": "eng"
+},
+{
+"reference_id": "5703",
+"content_id": "5703",
+"resource_code": "DictionaryBibleThemes",
+"label": "5703: inheritance",
+"language": "eng"
+},
+{
+"reference_id": "5738",
+"content_id": "5738",
+"resource_code": "DictionaryBibleThemes",
+"label": "5738: sons",
+"language": "eng"
+},
+{
+"reference_id": "6608",
+"content_id": "6608",
+"resource_code": "DictionaryBibleThemes",
+"label": "6608: adoption",
+"language": "eng"
+},
+{
+"reference_id": "9413",
+"content_id": "9413",
+"resource_code": "DictionaryBibleThemes",
+"label": "9413: heaven, inheritance of",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,232 @@
+[
+{
+"content_id": "7936",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7936: love feast",
+"media_type": "Text",
+"index_reference": "7936: love feast",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The first Christians generally celebrated the Lord's Supper with the accompaniment of a meal, called the “agape” or “love feast”.</p>\n<h2>OT antecedents of the love feast</h2>\n<h3>The Passover meal</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Exod12:3-Exod12:11\">EXO 12:3–12:11</a>, <a href=\"https://ref.ly/Exod12:15-Exod12:16\">EXO 12:15–12:16</a>; <a href=\"https://ref.ly/Matt26:17-Matt26:18\">MAT 26:17–26:18</a> parallels <a href=\"https://ref.ly/Mark14:12-Mark14:15\">MRK 14:12–14:15</a>, <a href=\"https://ref.ly/Luke22:7-Luke22:12\">LUK 22:7–22:12</a>; <a href=\"https://ref.ly/1Cor11:23-1Cor11:25\">1CO 11:23–11:25</a></p>\n<h3>Other festive occasions</h3>\n<p><a href=\"https://ref.ly/Deut12:7\">DEU 12:7</a>; ; <a href=\"https://ref.ly/Neh8:10\">NEH 8:10</a></p>\n<h2>The NT practice of the love feast</h2>\n<h3>It was linked with the Lord's Supper</h3>\n<p><strong><a href=\"https://ref.ly/Acts2:46\">ACT 2:46</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts20:7\">ACT 20:7</a>; <a href=\"https://ref.ly/1Cor11:17-1Cor11:34\">1CO 11:17–11:34</a></p>\n<h3>The name ``love feasts''</h3>\n<p><strong><a href=\"https://ref.ly/Jude1:12\">JUD 1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Pet2:13\">2PE 2:13</a>; <a href=\"https://ref.ly/John13:2\">JHN 13:2</a>, <a href=\"https://ref.ly/John13:34\">JHN 13:34</a> <em>It was at the Last Supper that Jesus Christ gave his new commandment to his disciples to love one another as he had loved them.</em></p>\n<h3>The charitable distribution of food</h3>\n<p><a href=\"https://ref.ly/Acts6:1\">ACT 6:1</a></p>\n<h2>Abuses of the love feast</h2>\n<h3>Selfishness, indulgence and ostentation</h3>\n<p><strong><a href=\"https://ref.ly/1Cor11:20-1Cor11:22\">1CO 11:20–11:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor11:33-1Cor11:34\">1CO 11:33–11:34</a></p>\n<h3>Licentiousness</h3>\n<p><strong><a href=\"https://ref.ly/2Pet2:13\">2PE 2:13</a></strong></p>\n<h3>Ungodly participants, especially false teachers</h3>\n<p><strong><a href=\"https://ref.ly/Jude1:4\">JUD 1:4</a>, <a href=\"https://ref.ly/Jude1:12\">JUD 1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Pet2:1\">2PE 2:1</a>, <a href=\"https://ref.ly/2Pet2:13\">2PE 2:13</a></p>\n<h2>The heavenly love feast</h2>\n<h3>Foretold by Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Matt26:29\">MAT 26:29</a></strong> parallel <a href=\"https://ref.ly/Mark14:25\">MRK 14:25</a></p>\n<h3>The marriage supper of the Lamb</h3>\n<p><strong><a href=\"https://ref.ly/Rev19:9\">REV 19:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa25:6\">ISA 25:6</a>; <a href=\"https://ref.ly/Matt22:2-Matt22:14\">MAT 22:2–22:14</a> <em>The parable of the marriage supper indicates the prerequisites for attendance at the supper.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012003",
+"start_ref_usfm": "EXO 12:3",
+"end_ref": "02012011",
+"end_ref_usfm": "EXO 12:11"
+},
+{
+"start_ref": "02012015",
+"start_ref_usfm": "EXO 12:15",
+"end_ref": "02012016",
+"end_ref_usfm": "EXO 12:16"
+},
+{
+"start_ref": "40026017",
+"start_ref_usfm": "MAT 26:17",
+"end_ref": "40026018",
+"end_ref_usfm": "MAT 26:18"
+},
+{
+"start_ref": "41014012",
+"start_ref_usfm": "MRK 14:12",
+"end_ref": "41014015",
+"end_ref_usfm": "MRK 14:15"
+},
+{
+"start_ref": "42022007",
+"start_ref_usfm": "LUK 22:7",
+"end_ref": "42022012",
+"end_ref_usfm": "LUK 22:12"
+},
+{
+"start_ref": "46011023",
+"start_ref_usfm": "1CO 11:23",
+"end_ref": "46011025",
+"end_ref_usfm": "1CO 11:25"
+},
+{
+"start_ref": "05012007",
+"start_ref_usfm": "DEU 12:7",
+"end_ref": "05012007",
+"end_ref_usfm": "DEU 12:7"
+},
+{
+"start_ref": "16008010",
+"start_ref_usfm": "NEH 8:10",
+"end_ref": "16008010",
+"end_ref_usfm": "NEH 8:10"
+},
+{
+"start_ref": "44002046",
+"start_ref_usfm": "ACT 2:46",
+"end_ref": "44002046",
+"end_ref_usfm": "ACT 2:46"
+},
+{
+"start_ref": "44020007",
+"start_ref_usfm": "ACT 20:7",
+"end_ref": "44020007",
+"end_ref_usfm": "ACT 20:7"
+},
+{
+"start_ref": "46011017",
+"start_ref_usfm": "1CO 11:17",
+"end_ref": "46011034",
+"end_ref_usfm": "1CO 11:34"
+},
+{
+"start_ref": "65001012",
+"start_ref_usfm": "JUD 1:12",
+"end_ref": "65001012",
+"end_ref_usfm": "JUD 1:12"
+},
+{
+"start_ref": "61002013",
+"start_ref_usfm": "2PE 2:13",
+"end_ref": "61002013",
+"end_ref_usfm": "2PE 2:13"
+},
+{
+"start_ref": "43013002",
+"start_ref_usfm": "JHN 13:2",
+"end_ref": "43013002",
+"end_ref_usfm": "JHN 13:2"
+},
+{
+"start_ref": "43013034",
+"start_ref_usfm": "JHN 13:34",
+"end_ref": "43013034",
+"end_ref_usfm": "JHN 13:34"
+},
+{
+"start_ref": "44006001",
+"start_ref_usfm": "ACT 6:1",
+"end_ref": "44006001",
+"end_ref_usfm": "ACT 6:1"
+},
+{
+"start_ref": "46011020",
+"start_ref_usfm": "1CO 11:20",
+"end_ref": "46011022",
+"end_ref_usfm": "1CO 11:22"
+},
+{
+"start_ref": "46011033",
+"start_ref_usfm": "1CO 11:33",
+"end_ref": "46011034",
+"end_ref_usfm": "1CO 11:34"
+},
+{
+"start_ref": "65001004",
+"start_ref_usfm": "JUD 1:4",
+"end_ref": "65001004",
+"end_ref_usfm": "JUD 1:4"
+},
+{
+"start_ref": "61002001",
+"start_ref_usfm": "2PE 2:1",
+"end_ref": "61002001",
+"end_ref_usfm": "2PE 2:1"
+},
+{
+"start_ref": "40026029",
+"start_ref_usfm": "MAT 26:29",
+"end_ref": "40026029",
+"end_ref_usfm": "MAT 26:29"
+},
+{
+"start_ref": "41014025",
+"start_ref_usfm": "MRK 14:25",
+"end_ref": "41014025",
+"end_ref_usfm": "MRK 14:25"
+},
+{
+"start_ref": "66019009",
+"start_ref_usfm": "REV 19:9",
+"end_ref": "66019009",
+"end_ref_usfm": "REV 19:9"
+},
+{
+"start_ref": "23025006",
+"start_ref_usfm": "ISA 25:6",
+"end_ref": "23025006",
+"end_ref_usfm": "ISA 25:6"
+},
+{
+"start_ref": "40022002",
+"start_ref_usfm": "MAT 22:2",
+"end_ref": "40022014",
+"end_ref_usfm": "MAT 22:14"
+}
+],
+"resource": [
+{
+"reference_id": "4435",
+"content_id": "4435",
+"resource_code": "DictionaryBibleThemes",
+"label": "4435: drinking",
+"language": "eng"
+},
+{
+"reference_id": "4438",
+"content_id": "4438",
+"resource_code": "DictionaryBibleThemes",
+"label": "4438: eating",
+"language": "eng"
+},
+{
+"reference_id": "5385",
+"content_id": "5385",
+"resource_code": "DictionaryBibleThemes",
+"label": "5385: leisure",
+"language": "eng"
+},
+{
+"reference_id": "5946",
+"content_id": "5946",
+"resource_code": "DictionaryBibleThemes",
+"label": "5946: sensitivity",
+"language": "eng"
+},
+{
+"reference_id": "7354",
+"content_id": "7354",
+"resource_code": "DictionaryBibleThemes",
+"label": "7354: feasts and festivals",
+"language": "eng"
+},
+{
+"reference_id": "7406",
+"content_id": "7406",
+"resource_code": "DictionaryBibleThemes",
+"label": "7406: Passover",
+"language": "eng"
+},
+{
+"reference_id": "7921",
+"content_id": "7921",
+"resource_code": "DictionaryBibleThemes",
+"label": "7921: fellowship",
+"language": "eng"
+},
+{
+"reference_id": "7933",
+"content_id": "7933",
+"resource_code": "DictionaryBibleThemes",
+"label": "7933: Lord's Supper",
+"language": "eng"
+},
+{
+"reference_id": "8821",
+"content_id": "8821",
+"resource_code": "DictionaryBibleThemes",
+"label": "8821: self-indulgence",
+"language": "eng"
+}
+]
+}
+}
+]

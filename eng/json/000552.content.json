@@ -1,0 +1,65 @@
+[
+{
+"content_id": "4827",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4827: frost",
+"media_type": "Text",
+"index_reference": "4827: frost",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A covering of the ground with fine particles of ice, characteristic of cold weather.</p>\n<h2>Frost is under God's control</h2>\n<p><strong><a href=\"https://ref.ly/Ps147:16\">PSA 147:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job38:29\">JOB 38:29</a></p>\n<h2>Frost will be absent on the day of the LORD</h2>\n<p><a href=\"https://ref.ly/Zech14:6\">ZEC 14:6</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19147016",
+"start_ref_usfm": "PSA 147:16",
+"end_ref": "19147016",
+"end_ref_usfm": "PSA 147:16"
+},
+{
+"start_ref": "18038029",
+"start_ref_usfm": "JOB 38:29",
+"end_ref": "18038029",
+"end_ref_usfm": "JOB 38:29"
+},
+{
+"start_ref": "38014006",
+"start_ref_usfm": "ZEC 14:6",
+"end_ref": "38014006",
+"end_ref_usfm": "ZEC 14:6"
+}
+],
+"resource": [
+{
+"reference_id": "4806",
+"content_id": "4806",
+"resource_code": "DictionaryBibleThemes",
+"label": "4806: cold",
+"language": "eng"
+},
+{
+"reference_id": "4849",
+"content_id": "4849",
+"resource_code": "DictionaryBibleThemes",
+"label": "4849: snow",
+"language": "eng"
+},
+{
+"reference_id": "4853",
+"content_id": "4853",
+"resource_code": "DictionaryBibleThemes",
+"label": "4853: weather",
+"language": "eng"
+},
+{
+"reference_id": "4970",
+"content_id": "4970",
+"resource_code": "DictionaryBibleThemes",
+"label": "4970: seasons, of the year",
+"language": "eng"
+}
+]
+}
+}
+]

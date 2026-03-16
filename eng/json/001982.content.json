@@ -1,0 +1,32 @@
+[
+{
+"content_id": "7966",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7966: spiritual gifts",
+"media_type": "Text",
+"index_reference": "7966: spiritual gifts",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Although all believers have received the gift of the Holy Spirit, Scripture points to God giving individuals certain special gifts of a spiritual nature for the fulfilling of specific tasks.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7967",
+"content_id": "7967",
+"resource_code": "DictionaryBibleThemes",
+"label": "7967: spiritual gifts, and responsibility",
+"language": "eng"
+},
+{
+"reference_id": "7968",
+"content_id": "7968",
+"resource_code": "DictionaryBibleThemes",
+"label": "7968: spiritual gifts, nature of",
+"language": "eng"
+}
+]
+}
+}
+]

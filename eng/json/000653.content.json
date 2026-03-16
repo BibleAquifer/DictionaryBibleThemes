@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5046",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5046: opportunities",
+"media_type": "Text",
+"index_reference": "5046: opportunities",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Events or moments at which actions of importance or significance can be achieved. God provides opportune moments both for his people to serve him and to proclaim the gospel and for those outside the church to respond to the gospel.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5047",
+"content_id": "5047",
+"resource_code": "DictionaryBibleThemes",
+"label": "5047: opportunities, in life",
+"language": "eng"
+},
+{
+"reference_id": "5048",
+"content_id": "5048",
+"resource_code": "DictionaryBibleThemes",
+"label": "5048: opportunities, and salvation",
+"language": "eng"
+}
+]
+}
+}
+]

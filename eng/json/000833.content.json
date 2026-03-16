@@ -1,0 +1,170 @@
+[
+{
+"content_id": "5245",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5245: captain",
+"media_type": "Text",
+"index_reference": "5245: captain",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A senior military officer, usually in charge of a ruler's personal guards or bodyguards, the temple guard or a group of soldiers. The word is also used to refer to the commander of a ship's crew.</p>\n<h2>Captains in charge of a ruler's personal guards or bodyguards</h2>\n<h3>Potiphar, captain of Pharaoh's guard</h3>\n<p><a href=\"https://ref.ly/Gen37:36\">GEN 37:36</a>, <a href=\"https://ref.ly/Gen39:1\">GEN 39:1</a>, <a href=\"https://ref.ly/Gen40:3-Gen40:4\">GEN 40:3–40:4</a>, <a href=\"https://ref.ly/Gen41:10\">GEN 41:10</a>, <a href=\"https://ref.ly/Gen41:12\">GEN 41:12</a></p>\n<h3>David, captain of Saul's bodyguard</h3>\n<p><strong><a href=\"https://ref.ly/1Sam22:14\">1SA 22:14</a></strong></p>\n<h3>The captain of the guard arrests Jeremiah</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Jer37:13\">JER 37:13</a></p>\n<h2>Captains in charge of the temple guard</h2>\n<p><strong><a href=\"https://ref.ly/Acts4:1\">ACT 4:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts5:24\">ACT 5:24</a>, <a href=\"https://ref.ly/Acts5:26\">ACT 5:26</a></p>\n<h2>Captains in charge of soldiers</h2>\n<h3>King Ahaziah sends a captain with fifty men to Elijah</h3>\n<p><a href=\"https://ref.ly/2Kgs1:9-2Kgs1:14\">2KI 1:9–1:14</a></p>\n<h3>Captains come to the help of Deborah</h3>\n<p><a href=\"https://ref.ly/Judg5:14\">JDG 5:14</a></p>\n<h3>Solomon's captains were Israelites</h3>\n<p><a href=\"https://ref.ly/1Kgs9:22\">1KI 9:22</a> parallel <a href=\"https://ref.ly/2Chr8:9\">2CH 8:9</a></p>\n<h3>God will remove captains in judgment</h3>\n<p><a href=\"https://ref.ly/Isa3:1-Isa3:3\">ISA 3:1–3:3</a></p>\n<h2>Captains in charge of a ship's crew</h2>\n<h3>The ship's captain orders Jonah to call on his god</h3>\n<p><a href=\"https://ref.ly/Jonah1:6\">JON 1:6</a></p>\n<h3>Sea captains will bemoan the fall of Babylon</h3>\n<p><a href=\"https://ref.ly/Rev18:17-Rev18:19\">REV 18:17–18:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01037036",
+"start_ref_usfm": "GEN 37:36",
+"end_ref": "01037036",
+"end_ref_usfm": "GEN 37:36"
+},
+{
+"start_ref": "01039001",
+"start_ref_usfm": "GEN 39:1",
+"end_ref": "01039001",
+"end_ref_usfm": "GEN 39:1"
+},
+{
+"start_ref": "01040003",
+"start_ref_usfm": "GEN 40:3",
+"end_ref": "01040004",
+"end_ref_usfm": "GEN 40:4"
+},
+{
+"start_ref": "01041010",
+"start_ref_usfm": "GEN 41:10",
+"end_ref": "01041010",
+"end_ref_usfm": "GEN 41:10"
+},
+{
+"start_ref": "01041012",
+"start_ref_usfm": "GEN 41:12",
+"end_ref": "01041012",
+"end_ref_usfm": "GEN 41:12"
+},
+{
+"start_ref": "09022014",
+"start_ref_usfm": "1SA 22:14",
+"end_ref": "09022014",
+"end_ref_usfm": "1SA 22:14"
+},
+{
+"start_ref": "24037013",
+"start_ref_usfm": "JER 37:13",
+"end_ref": "24037013",
+"end_ref_usfm": "JER 37:13"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004001",
+"end_ref_usfm": "ACT 4:1"
+},
+{
+"start_ref": "44005024",
+"start_ref_usfm": "ACT 5:24",
+"end_ref": "44005024",
+"end_ref_usfm": "ACT 5:24"
+},
+{
+"start_ref": "44005026",
+"start_ref_usfm": "ACT 5:26",
+"end_ref": "44005026",
+"end_ref_usfm": "ACT 5:26"
+},
+{
+"start_ref": "12001009",
+"start_ref_usfm": "2KI 1:9",
+"end_ref": "12001014",
+"end_ref_usfm": "2KI 1:14"
+},
+{
+"start_ref": "07005014",
+"start_ref_usfm": "JDG 5:14",
+"end_ref": "07005014",
+"end_ref_usfm": "JDG 5:14"
+},
+{
+"start_ref": "11009022",
+"start_ref_usfm": "1KI 9:22",
+"end_ref": "11009022",
+"end_ref_usfm": "1KI 9:22"
+},
+{
+"start_ref": "14008009",
+"start_ref_usfm": "2CH 8:9",
+"end_ref": "14008009",
+"end_ref_usfm": "2CH 8:9"
+},
+{
+"start_ref": "23003001",
+"start_ref_usfm": "ISA 3:1",
+"end_ref": "23003003",
+"end_ref_usfm": "ISA 3:3"
+},
+{
+"start_ref": "32001006",
+"start_ref_usfm": "JON 1:6",
+"end_ref": "32001006",
+"end_ref_usfm": "JON 1:6"
+},
+{
+"start_ref": "66018017",
+"start_ref_usfm": "REV 18:17",
+"end_ref": "66018019",
+"end_ref_usfm": "REV 18:19"
+}
+],
+"resource": [
+{
+"reference_id": "5208",
+"content_id": "5208",
+"resource_code": "DictionaryBibleThemes",
+"label": "5208: armies",
+"language": "eng"
+},
+{
+"reference_id": "5250",
+"content_id": "5250",
+"resource_code": "DictionaryBibleThemes",
+"label": "5250: centurion",
+"language": "eng"
+},
+{
+"reference_id": "5261",
+"content_id": "5261",
+"resource_code": "DictionaryBibleThemes",
+"label": "5261: commander",
+"language": "eng"
+},
+{
+"reference_id": "5330",
+"content_id": "5330",
+"resource_code": "DictionaryBibleThemes",
+"label": "5330: guard",
+"language": "eng"
+},
+{
+"reference_id": "5434",
+"content_id": "5434",
+"resource_code": "DictionaryBibleThemes",
+"label": "5434: officer",
+"language": "eng"
+},
+{
+"reference_id": "5489",
+"content_id": "5489",
+"resource_code": "DictionaryBibleThemes",
+"label": "5489: rank",
+"language": "eng"
+},
+{
+"reference_id": "5544",
+"content_id": "5544",
+"resource_code": "DictionaryBibleThemes",
+"label": "5544: soldiers",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,148 @@
+[
+{
+"content_id": "4190",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4190: spiritism",
+"media_type": "Text",
+"index_reference": "4190: spiritism",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The use of mediums or other spiritual intermediaries to communicate with the dead. Scripture forbids such practices, which are inconsistent with obedience to a living God.</p>\n<h2>Spiritism forbidden by God</h2>\n<p><strong><a href=\"https://ref.ly/Lev19:31\">LEV 19:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut18:10-Deut18:12\">DEU 18:10–18:12</a></p>\n<h2>Punishment for spiritism</h2>\n<p><strong><a href=\"https://ref.ly/Lev20:27\">LEV 20:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev20:6\">LEV 20:6</a></p>\n<h2>Spiritism practised in Israel</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs21:6\">2KI 21:6</a></strong> parallel <a href=\"https://ref.ly/2Chr33:6\">2CH 33:6</a> <em>See also</em> <a href=\"https://ref.ly/1Sam28:4-1Sam28:20\">1SA 28:4–28:20</a></p>\n<h2>Spiritists expelled from Israel</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs23:24\">2KI 23:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam28:3\">1SA 28:3</a></p>\n<h2>The futility of spiritism</h2>\n<p><strong><a href=\"https://ref.ly/Isa8:19\">ISA 8:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa19:2-Isa19:3\">ISA 19:2–19:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03019031",
+"start_ref_usfm": "LEV 19:31",
+"end_ref": "03019031",
+"end_ref_usfm": "LEV 19:31"
+},
+{
+"start_ref": "05018010",
+"start_ref_usfm": "DEU 18:10",
+"end_ref": "05018012",
+"end_ref_usfm": "DEU 18:12"
+},
+{
+"start_ref": "03020027",
+"start_ref_usfm": "LEV 20:27",
+"end_ref": "03020027",
+"end_ref_usfm": "LEV 20:27"
+},
+{
+"start_ref": "03020006",
+"start_ref_usfm": "LEV 20:6",
+"end_ref": "03020006",
+"end_ref_usfm": "LEV 20:6"
+},
+{
+"start_ref": "12021006",
+"start_ref_usfm": "2KI 21:6",
+"end_ref": "12021006",
+"end_ref_usfm": "2KI 21:6"
+},
+{
+"start_ref": "14033006",
+"start_ref_usfm": "2CH 33:6",
+"end_ref": "14033006",
+"end_ref_usfm": "2CH 33:6"
+},
+{
+"start_ref": "09028004",
+"start_ref_usfm": "1SA 28:4",
+"end_ref": "09028020",
+"end_ref_usfm": "1SA 28:20"
+},
+{
+"start_ref": "12023024",
+"start_ref_usfm": "2KI 23:24",
+"end_ref": "12023024",
+"end_ref_usfm": "2KI 23:24"
+},
+{
+"start_ref": "09028003",
+"start_ref_usfm": "1SA 28:3",
+"end_ref": "09028003",
+"end_ref_usfm": "1SA 28:3"
+},
+{
+"start_ref": "23008019",
+"start_ref_usfm": "ISA 8:19",
+"end_ref": "23008019",
+"end_ref_usfm": "ISA 8:19"
+},
+{
+"start_ref": "23019002",
+"start_ref_usfm": "ISA 19:2",
+"end_ref": "23019003",
+"end_ref_usfm": "ISA 19:3"
+}
+],
+"resource": [
+{
+"reference_id": "1025",
+"content_id": "1025",
+"resource_code": "DictionaryBibleThemes",
+"label": "1025: God, anger of",
+"language": "eng"
+},
+{
+"reference_id": "4132",
+"content_id": "4132",
+"resource_code": "DictionaryBibleThemes",
+"label": "4132: demons, malevolence of",
+"language": "eng"
+},
+{
+"reference_id": "4155",
+"content_id": "4155",
+"resource_code": "DictionaryBibleThemes",
+"label": "4155: divination",
+"language": "eng"
+},
+{
+"reference_id": "4175",
+"content_id": "4175",
+"resource_code": "DictionaryBibleThemes",
+"label": "4175: mediums",
+"language": "eng"
+},
+{
+"reference_id": "4185",
+"content_id": "4185",
+"resource_code": "DictionaryBibleThemes",
+"label": "4185: sorcery and magic",
+"language": "eng"
+},
+{
+"reference_id": "5484",
+"content_id": "5484",
+"resource_code": "DictionaryBibleThemes",
+"label": "5484: punishment, by God",
+"language": "eng"
+},
+{
+"reference_id": "6218",
+"content_id": "6218",
+"resource_code": "DictionaryBibleThemes",
+"label": "6218: provoking God",
+"language": "eng"
+},
+{
+"reference_id": "8648",
+"content_id": "8648",
+"resource_code": "DictionaryBibleThemes",
+"label": "8648: enquiring of God",
+"language": "eng"
+},
+{
+"reference_id": "8744",
+"content_id": "8744",
+"resource_code": "DictionaryBibleThemes",
+"label": "8744: faithlessness, as disobedience",
+"language": "eng"
+}
+]
+}
+}
+]

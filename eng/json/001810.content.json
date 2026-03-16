@@ -1,0 +1,227 @@
+[
+{
+"content_id": "7388",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7388: kinsman-redeemer",
+"media_type": "Text",
+"index_reference": "7388: kinsman-redeemer",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The relative who restores or preserves the full community rights of disadvantaged family members. The concept arises from God's covenant relationship with Israel and points to the redemption of humanity in Jesus Christ.</p>\n<h2>Covenant rules for the kinsman-redeemer</h2>\n<h3>The kinsman-redeemer's obligation to redeem the land</h3>\n<p><a href=\"https://ref.ly/Lev25:25-Lev25:28\">LEV 25:25–25:28</a>; ; <a href=\"https://ref.ly/Jer32:6-Jer32:9\">JER 32:6–32:9</a></p>\n<h3>The kinsman-redeemer's obligation to redeem the enslaved</h3>\n<p><a href=\"https://ref.ly/Lev25:47-Lev25:55\">LEV 25:47–25:55</a></p>\n<h3>The kinsman-redeemer's obligation to provide an heir</h3>\n<p><a href=\"https://ref.ly/Gen38:8-Gen38:10\">GEN 38:8–38:10</a>; ; <a href=\"https://ref.ly/Deut25:5-Deut25:10\">DEU 25:5–25:10</a>; ; <a href=\"https://ref.ly/Matt22:23-Matt22:28\">MAT 22:23–22:28</a> parallels <a href=\"https://ref.ly/Mark12:18-Mark12:23\">MRK 12:18–12:23</a>, <a href=\"https://ref.ly/Luke20:27-Luke20:33\">LUK 20:27–20:33</a></p>\n<h3>The kinsman-redeemer's obligation to avenge death</h3>\n<p><strong><a href=\"https://ref.ly/Num35:16-Num35:21\">NUM 35:16–35:21</a></strong></p>\n<h3>The kinsman-redeemer's obligation to be a trustee</h3>\n<p><strong><a href=\"https://ref.ly/Num5:5-Num5:8\">NUM 5:5–5:8</a></strong></p>\n<h2>The kinsman-redeemer in the book of Ruth</h2>\n<p><strong><a href=\"https://ref.ly/Ruth2:20\">RUT 2:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ruth3:1-Ruth4:17\">RUT 3:1–4:17</a></p>\n<h2>The LORD as redeemer</h2>\n<p><strong><a href=\"https://ref.ly/Exod6:6-Exod6:7\">EXO 6:6–6:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam7:22-2Sam7:24\">2SA 7:22–7:24</a>; <a href=\"https://ref.ly/Isa43:1-Isa43:7\">ISA 43:1–43:7</a>, <a href=\"https://ref.ly/Isa54:5-Isa54:8\">ISA 54:5–54:8</a>; <a href=\"https://ref.ly/Jer50:33-Jer50:34\">JER 50:33–50:34</a></p>\n<h2>The kinsman-redeemer reflects God's concern for the poor and oppressed</h2>\n<p><strong><a href=\"https://ref.ly/Prov23:10-Prov23:11\">PRO 23:10–23:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps68:5-Ps68:6\">PSA 68:5–68:6</a>, <a href=\"https://ref.ly/Ps72:2-Ps72:4\">PSA 72:2–72:4</a></p>\n<h2>God's provision of Jesus Christ as kinsman-redeemer</h2>\n<p><strong><a href=\"https://ref.ly/Gal4:4-Gal4:7\">GAL 4:4–4:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal3:13-Gal3:14\">GAL 3:13–3:14</a>; <a href=\"https://ref.ly/Heb2:11-Heb2:18\">HEB 2:11–2:18</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03025025",
+"start_ref_usfm": "LEV 25:25",
+"end_ref": "03025028",
+"end_ref_usfm": "LEV 25:28"
+},
+{
+"start_ref": "24032006",
+"start_ref_usfm": "JER 32:6",
+"end_ref": "24032009",
+"end_ref_usfm": "JER 32:9"
+},
+{
+"start_ref": "03025047",
+"start_ref_usfm": "LEV 25:47",
+"end_ref": "03025055",
+"end_ref_usfm": "LEV 25:55"
+},
+{
+"start_ref": "01038008",
+"start_ref_usfm": "GEN 38:8",
+"end_ref": "01038010",
+"end_ref_usfm": "GEN 38:10"
+},
+{
+"start_ref": "05025005",
+"start_ref_usfm": "DEU 25:5",
+"end_ref": "05025010",
+"end_ref_usfm": "DEU 25:10"
+},
+{
+"start_ref": "40022023",
+"start_ref_usfm": "MAT 22:23",
+"end_ref": "40022028",
+"end_ref_usfm": "MAT 22:28"
+},
+{
+"start_ref": "41012018",
+"start_ref_usfm": "MRK 12:18",
+"end_ref": "41012023",
+"end_ref_usfm": "MRK 12:23"
+},
+{
+"start_ref": "42020027",
+"start_ref_usfm": "LUK 20:27",
+"end_ref": "42020033",
+"end_ref_usfm": "LUK 20:33"
+},
+{
+"start_ref": "04035016",
+"start_ref_usfm": "NUM 35:16",
+"end_ref": "04035021",
+"end_ref_usfm": "NUM 35:21"
+},
+{
+"start_ref": "04005005",
+"start_ref_usfm": "NUM 5:5",
+"end_ref": "04005008",
+"end_ref_usfm": "NUM 5:8"
+},
+{
+"start_ref": "08002020",
+"start_ref_usfm": "RUT 2:20",
+"end_ref": "08002020",
+"end_ref_usfm": "RUT 2:20"
+},
+{
+"start_ref": "08003001",
+"start_ref_usfm": "RUT 3:1",
+"end_ref": "08004017",
+"end_ref_usfm": "RUT 4:17"
+},
+{
+"start_ref": "02006006",
+"start_ref_usfm": "EXO 6:6",
+"end_ref": "02006007",
+"end_ref_usfm": "EXO 6:7"
+},
+{
+"start_ref": "10007022",
+"start_ref_usfm": "2SA 7:22",
+"end_ref": "10007024",
+"end_ref_usfm": "2SA 7:24"
+},
+{
+"start_ref": "23043001",
+"start_ref_usfm": "ISA 43:1",
+"end_ref": "23043007",
+"end_ref_usfm": "ISA 43:7"
+},
+{
+"start_ref": "23054005",
+"start_ref_usfm": "ISA 54:5",
+"end_ref": "23054008",
+"end_ref_usfm": "ISA 54:8"
+},
+{
+"start_ref": "24050033",
+"start_ref_usfm": "JER 50:33",
+"end_ref": "24050034",
+"end_ref_usfm": "JER 50:34"
+},
+{
+"start_ref": "20023010",
+"start_ref_usfm": "PRO 23:10",
+"end_ref": "20023011",
+"end_ref_usfm": "PRO 23:11"
+},
+{
+"start_ref": "19068005",
+"start_ref_usfm": "PSA 68:5",
+"end_ref": "19068006",
+"end_ref_usfm": "PSA 68:6"
+},
+{
+"start_ref": "19072002",
+"start_ref_usfm": "PSA 72:2",
+"end_ref": "19072004",
+"end_ref_usfm": "PSA 72:4"
+},
+{
+"start_ref": "48004004",
+"start_ref_usfm": "GAL 4:4",
+"end_ref": "48004007",
+"end_ref_usfm": "GAL 4:7"
+},
+{
+"start_ref": "48003013",
+"start_ref_usfm": "GAL 3:13",
+"end_ref": "48003014",
+"end_ref_usfm": "GAL 3:14"
+},
+{
+"start_ref": "58002011",
+"start_ref_usfm": "HEB 2:11",
+"end_ref": "58002018",
+"end_ref_usfm": "HEB 2:18"
+}
+],
+"resource": [
+{
+"reference_id": "1115",
+"content_id": "1115",
+"resource_code": "DictionaryBibleThemes",
+"label": "1115: God, purpose of",
+"language": "eng"
+},
+{
+"reference_id": "1345",
+"content_id": "1345",
+"resource_code": "DictionaryBibleThemes",
+"label": "1345: covenant",
+"language": "eng"
+},
+{
+"reference_id": "2033",
+"content_id": "2033",
+"resource_code": "DictionaryBibleThemes",
+"label": "2033: Jesus Christ, humanity of",
+"language": "eng"
+},
+{
+"reference_id": "2321",
+"content_id": "2321",
+"resource_code": "DictionaryBibleThemes",
+"label": "2321: Jesus Christ, as redeemer",
+"language": "eng"
+},
+{
+"reference_id": "5446",
+"content_id": "5446",
+"resource_code": "DictionaryBibleThemes",
+"label": "5446: poverty",
+"language": "eng"
+},
+{
+"reference_id": "5680",
+"content_id": "5680",
+"resource_code": "DictionaryBibleThemes",
+"label": "5680: family",
+"language": "eng"
+},
+{
+"reference_id": "6714",
+"content_id": "6714",
+"resource_code": "DictionaryBibleThemes",
+"label": "6714: ransom",
+"language": "eng"
+},
+{
+"reference_id": "6717",
+"content_id": "6717",
+"resource_code": "DictionaryBibleThemes",
+"label": "6717: reconciliation, of the world to God",
+"language": "eng"
+},
+{
+"reference_id": "6720",
+"content_id": "6720",
+"resource_code": "DictionaryBibleThemes",
+"label": "6720: redemption",
+"language": "eng"
+},
+{
+"reference_id": "7310",
+"content_id": "7310",
+"resource_code": "DictionaryBibleThemes",
+"label": "7310: avenger of blood",
+"language": "eng"
+}
+]
+}
+}
+]

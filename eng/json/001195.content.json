@@ -1,0 +1,227 @@
+[
+{
+"content_id": "5634",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5634: work, and the fall",
+"media_type": "Text",
+"index_reference": "5634: work, and the fall",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Human work, which was once a pleasure, became a burden only on account of human disobedience.</p>\n<h2>Work is under God's judgment</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:17-Gen3:19\">GEN 3:17–3:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen5:29\">GEN 5:29</a></p>\n<h2>Work is often frustrating</h2>\n<p><strong><a href=\"https://ref.ly/Eccl2:22-Eccl2:23\">ECC 2:22–2:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl2:11\">ECC 2:11</a>, <a href=\"https://ref.ly/Eccl2:18\">ECC 2:18</a>, <a href=\"https://ref.ly/Eccl4:8\">ECC 4:8</a>, <a href=\"https://ref.ly/Eccl5:16-Eccl5:17\">ECC 5:16–5:17</a></p>\n<h2>Work may exploit rather than enhance society</h2>\n<h3>Through dishonesty</h3>\n<p><a href=\"https://ref.ly/Lev19:35\">LEV 19:35</a>; ; <a href=\"https://ref.ly/Deut25:13\">DEU 25:13</a>; ; <a href=\"https://ref.ly/Hos12:7\">HOS 12:7</a></p>\n<h3>Through oppression</h3>\n<p><a href=\"https://ref.ly/Exod1:11-Exod1:14\">EXO 1:11–1:14</a>; ; <a href=\"https://ref.ly/1Kgs12:4\">1KI 12:4</a>, <a href=\"https://ref.ly/1Kgs12:10-1Kgs12:14\">1KI 12:10–12:14</a></p>\n<h2>Work may be undervalued or overvalued</h2>\n<h3>Some people avoid work to their cost</h3>\n<p><a href=\"https://ref.ly/Prov6:6-Prov6:11\">PRO 6:6–6:11</a>, <a href=\"https://ref.ly/Prov13:4\">PRO 13:4</a>, <a href=\"https://ref.ly/Prov19:15\">PRO 19:15</a>, <a href=\"https://ref.ly/Prov24:30-Prov24:34\">PRO 24:30–24:34</a>; ; <a href=\"https://ref.ly/Eccl10:18\">ECC 10:18</a>; ; <a href=\"https://ref.ly/2Thess3:10-2Thess3:11\">2TH 3:10–3:11</a></p>\n<h3>Some people overwork to their cost</h3>\n<p><a href=\"https://ref.ly/Exod18:17-Exod18:18\">EXO 18:17–18:18</a>; ; <a href=\"https://ref.ly/Ps127:2\">PSA 127:2</a>; ; <a href=\"https://ref.ly/Luke10:41-Luke10:42\">LUK 10:41–10:42</a>, <a href=\"https://ref.ly/Luke12:15-Luke12:21\">LUK 12:15–12:21</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01003017",
+"start_ref_usfm": "GEN 3:17",
+"end_ref": "01003019",
+"end_ref_usfm": "GEN 3:19"
+},
+{
+"start_ref": "01005029",
+"start_ref_usfm": "GEN 5:29",
+"end_ref": "01005029",
+"end_ref_usfm": "GEN 5:29"
+},
+{
+"start_ref": "21002022",
+"start_ref_usfm": "ECC 2:22",
+"end_ref": "21002023",
+"end_ref_usfm": "ECC 2:23"
+},
+{
+"start_ref": "21002011",
+"start_ref_usfm": "ECC 2:11",
+"end_ref": "21002011",
+"end_ref_usfm": "ECC 2:11"
+},
+{
+"start_ref": "21002018",
+"start_ref_usfm": "ECC 2:18",
+"end_ref": "21002018",
+"end_ref_usfm": "ECC 2:18"
+},
+{
+"start_ref": "21004008",
+"start_ref_usfm": "ECC 4:8",
+"end_ref": "21004008",
+"end_ref_usfm": "ECC 4:8"
+},
+{
+"start_ref": "21005016",
+"start_ref_usfm": "ECC 5:16",
+"end_ref": "21005017",
+"end_ref_usfm": "ECC 5:17"
+},
+{
+"start_ref": "03019035",
+"start_ref_usfm": "LEV 19:35",
+"end_ref": "03019035",
+"end_ref_usfm": "LEV 19:35"
+},
+{
+"start_ref": "05025013",
+"start_ref_usfm": "DEU 25:13",
+"end_ref": "05025013",
+"end_ref_usfm": "DEU 25:13"
+},
+{
+"start_ref": "28012007",
+"start_ref_usfm": "HOS 12:7",
+"end_ref": "28012007",
+"end_ref_usfm": "HOS 12:7"
+},
+{
+"start_ref": "02001011",
+"start_ref_usfm": "EXO 1:11",
+"end_ref": "02001014",
+"end_ref_usfm": "EXO 1:14"
+},
+{
+"start_ref": "11012004",
+"start_ref_usfm": "1KI 12:4",
+"end_ref": "11012004",
+"end_ref_usfm": "1KI 12:4"
+},
+{
+"start_ref": "11012010",
+"start_ref_usfm": "1KI 12:10",
+"end_ref": "11012014",
+"end_ref_usfm": "1KI 12:14"
+},
+{
+"start_ref": "20006006",
+"start_ref_usfm": "PRO 6:6",
+"end_ref": "20006011",
+"end_ref_usfm": "PRO 6:11"
+},
+{
+"start_ref": "20013004",
+"start_ref_usfm": "PRO 13:4",
+"end_ref": "20013004",
+"end_ref_usfm": "PRO 13:4"
+},
+{
+"start_ref": "20019015",
+"start_ref_usfm": "PRO 19:15",
+"end_ref": "20019015",
+"end_ref_usfm": "PRO 19:15"
+},
+{
+"start_ref": "20024030",
+"start_ref_usfm": "PRO 24:30",
+"end_ref": "20024034",
+"end_ref_usfm": "PRO 24:34"
+},
+{
+"start_ref": "21010018",
+"start_ref_usfm": "ECC 10:18",
+"end_ref": "21010018",
+"end_ref_usfm": "ECC 10:18"
+},
+{
+"start_ref": "53003010",
+"start_ref_usfm": "2TH 3:10",
+"end_ref": "53003011",
+"end_ref_usfm": "2TH 3:11"
+},
+{
+"start_ref": "02018017",
+"start_ref_usfm": "EXO 18:17",
+"end_ref": "02018018",
+"end_ref_usfm": "EXO 18:18"
+},
+{
+"start_ref": "19127002",
+"start_ref_usfm": "PSA 127:2",
+"end_ref": "19127002",
+"end_ref_usfm": "PSA 127:2"
+},
+{
+"start_ref": "42010041",
+"start_ref_usfm": "LUK 10:41",
+"end_ref": "42010042",
+"end_ref_usfm": "LUK 10:42"
+},
+{
+"start_ref": "42012015",
+"start_ref_usfm": "LUK 12:15",
+"end_ref": "42012021",
+"end_ref_usfm": "LUK 12:21"
+}
+],
+"resource": [
+{
+"reference_id": "5343",
+"content_id": "5343",
+"resource_code": "DictionaryBibleThemes",
+"label": "5343: idleness",
+"language": "eng"
+},
+{
+"reference_id": "5418",
+"content_id": "5418",
+"resource_code": "DictionaryBibleThemes",
+"label": "5418: monotony",
+"language": "eng"
+},
+{
+"reference_id": "5864",
+"content_id": "5864",
+"resource_code": "DictionaryBibleThemes",
+"label": "5864: futility",
+"language": "eng"
+},
+{
+"reference_id": "6154",
+"content_id": "6154",
+"resource_code": "DictionaryBibleThemes",
+"label": "6154: fall, the",
+"language": "eng"
+},
+{
+"reference_id": "7446",
+"content_id": "7446",
+"resource_code": "DictionaryBibleThemes",
+"label": "7446: slavery",
+"language": "eng"
+},
+{
+"reference_id": "8713",
+"content_id": "8713",
+"resource_code": "DictionaryBibleThemes",
+"label": "8713: discouragement",
+"language": "eng"
+},
+{
+"reference_id": "8714",
+"content_id": "8714",
+"resource_code": "DictionaryBibleThemes",
+"label": "8714: dishonesty",
+"language": "eng"
+},
+{
+"reference_id": "8718",
+"content_id": "8718",
+"resource_code": "DictionaryBibleThemes",
+"label": "8718: disobedience",
+"language": "eng"
+},
+{
+"reference_id": "8778",
+"content_id": "8778",
+"resource_code": "DictionaryBibleThemes",
+"label": "8778: materialism",
+"language": "eng"
+},
+{
+"reference_id": "8790",
+"content_id": "8790",
+"resource_code": "DictionaryBibleThemes",
+"label": "8790: oppression",
+"language": "eng"
+}
+]
+}
+}
+]

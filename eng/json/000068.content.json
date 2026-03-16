@@ -1,0 +1,67 @@
+[
+{
+"content_id": "1345",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1345: covenant",
+"media_type": "Text",
+"index_reference": "1345: covenant",
+"language": "eng",
+"review_level": "None",
+"content": "<p>God's commitment to, and requirement of, his people expressed in promise, law, judgment, faithfulness and mercy.  Also used of commitment within human relationships based upon agreements.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "1346",
+"content_id": "1346",
+"resource_code": "DictionaryBibleThemes",
+"label": "1346: covenants, nature of",
+"language": "eng"
+},
+{
+"reference_id": "1347",
+"content_id": "1347",
+"resource_code": "DictionaryBibleThemes",
+"label": "1347: covenant, God's with Noah",
+"language": "eng"
+},
+{
+"reference_id": "1348",
+"content_id": "1348",
+"resource_code": "DictionaryBibleThemes",
+"label": "1348: covenant, God's with Abraham",
+"language": "eng"
+},
+{
+"reference_id": "1349",
+"content_id": "1349",
+"resource_code": "DictionaryBibleThemes",
+"label": "1349: covenant, God's at Sinai",
+"language": "eng"
+},
+{
+"reference_id": "1350",
+"content_id": "1350",
+"resource_code": "DictionaryBibleThemes",
+"label": "1350: covenant, God's with Israel's priests",
+"language": "eng"
+},
+{
+"reference_id": "1351",
+"content_id": "1351",
+"resource_code": "DictionaryBibleThemes",
+"label": "1351: covenant, God's with David",
+"language": "eng"
+},
+{
+"reference_id": "1352",
+"content_id": "1352",
+"resource_code": "DictionaryBibleThemes",
+"label": "1352: covenant, the new",
+"language": "eng"
+}
+]
+}
+}
+]

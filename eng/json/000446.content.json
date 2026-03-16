@@ -1,0 +1,154 @@
+[
+{
+"content_id": "4462",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4462: grinding",
+"media_type": "Text",
+"index_reference": "4462: grinding",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Grinding using a hand mill</h2>\n<p><strong><a href=\"https://ref.ly/Exod11:5\">EXO 11:5</a></strong>; <strong><a href=\"https://ref.ly/Matt24:41\">MAT 24:41</a></strong> parallel <a href=\"https://ref.ly/Luke17:35\">LUK 17:35</a> <em>See also</em> <a href=\"https://ref.ly/Num11:8\">NUM 11:8</a>; <a href=\"https://ref.ly/Judg16:21\">JDG 16:21</a> <em>Samson doing a woman's work</em>; <a href=\"https://ref.ly/Isa47:2\">ISA 47:2</a></p>\n<h2>Grinding grain into flour</h2>\n<p><strong><a href=\"https://ref.ly/Num15:20\">NUM 15:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num15:21\">NUM 15:21</a>; <a href=\"https://ref.ly/2Chr2:10\">2CH 2:10</a>; <a href=\"https://ref.ly/Neh10:37\">NEH 10:37</a>; <a href=\"https://ref.ly/Job31:10\">JOB 31:10</a>; <a href=\"https://ref.ly/Isa28:28\">ISA 28:28</a>; <a href=\"https://ref.ly/Ezek44:30\">EZK 44:30</a></p>\n<h2>Grinding incense</h2>\n<p><a href=\"https://ref.ly/Exod30:36\">EXO 30:36</a>; ; <a href=\"https://ref.ly/Lev16:12\">LEV 16:12</a></p>\n<h2>Grinding as an act of destruction</h2>\n<p><strong><a href=\"https://ref.ly/Deut9:21\">DEU 9:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs23:15\">2KI 23:15</a></p>\n<h2>Grinding used figuratively</h2>\n<p><strong><a href=\"https://ref.ly/Isa3:15\">ISA 3:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov27:22\">PRO 27:22</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02011005",
+"start_ref_usfm": "EXO 11:5",
+"end_ref": "02011005",
+"end_ref_usfm": "EXO 11:5"
+},
+{
+"start_ref": "40024041",
+"start_ref_usfm": "MAT 24:41",
+"end_ref": "40024041",
+"end_ref_usfm": "MAT 24:41"
+},
+{
+"start_ref": "42017035",
+"start_ref_usfm": "LUK 17:35",
+"end_ref": "42017035",
+"end_ref_usfm": "LUK 17:35"
+},
+{
+"start_ref": "04011008",
+"start_ref_usfm": "NUM 11:8",
+"end_ref": "04011008",
+"end_ref_usfm": "NUM 11:8"
+},
+{
+"start_ref": "07016021",
+"start_ref_usfm": "JDG 16:21",
+"end_ref": "07016021",
+"end_ref_usfm": "JDG 16:21"
+},
+{
+"start_ref": "23047002",
+"start_ref_usfm": "ISA 47:2",
+"end_ref": "23047002",
+"end_ref_usfm": "ISA 47:2"
+},
+{
+"start_ref": "04015020",
+"start_ref_usfm": "NUM 15:20",
+"end_ref": "04015020",
+"end_ref_usfm": "NUM 15:20"
+},
+{
+"start_ref": "04015021",
+"start_ref_usfm": "NUM 15:21",
+"end_ref": "04015021",
+"end_ref_usfm": "NUM 15:21"
+},
+{
+"start_ref": "14002010",
+"start_ref_usfm": "2CH 2:10",
+"end_ref": "14002010",
+"end_ref_usfm": "2CH 2:10"
+},
+{
+"start_ref": "16010037",
+"start_ref_usfm": "NEH 10:37",
+"end_ref": "16010037",
+"end_ref_usfm": "NEH 10:37"
+},
+{
+"start_ref": "18031010",
+"start_ref_usfm": "JOB 31:10",
+"end_ref": "18031010",
+"end_ref_usfm": "JOB 31:10"
+},
+{
+"start_ref": "23028028",
+"start_ref_usfm": "ISA 28:28",
+"end_ref": "23028028",
+"end_ref_usfm": "ISA 28:28"
+},
+{
+"start_ref": "26044030",
+"start_ref_usfm": "EZK 44:30",
+"end_ref": "26044030",
+"end_ref_usfm": "EZK 44:30"
+},
+{
+"start_ref": "02030036",
+"start_ref_usfm": "EXO 30:36",
+"end_ref": "02030036",
+"end_ref_usfm": "EXO 30:36"
+},
+{
+"start_ref": "03016012",
+"start_ref_usfm": "LEV 16:12",
+"end_ref": "03016012",
+"end_ref_usfm": "LEV 16:12"
+},
+{
+"start_ref": "05009021",
+"start_ref_usfm": "DEU 9:21",
+"end_ref": "05009021",
+"end_ref_usfm": "DEU 9:21"
+},
+{
+"start_ref": "12023015",
+"start_ref_usfm": "2KI 23:15",
+"end_ref": "12023015",
+"end_ref_usfm": "2KI 23:15"
+},
+{
+"start_ref": "23003015",
+"start_ref_usfm": "ISA 3:15",
+"end_ref": "23003015",
+"end_ref_usfm": "ISA 3:15"
+},
+{
+"start_ref": "20027022",
+"start_ref_usfm": "PRO 27:22",
+"end_ref": "20027022",
+"end_ref_usfm": "PRO 27:22"
+}
+],
+"resource": [
+{
+"reference_id": "4456",
+"content_id": "4456",
+"resource_code": "DictionaryBibleThemes",
+"label": "4456: grain",
+"language": "eng"
+},
+{
+"reference_id": "4482",
+"content_id": "4482",
+"resource_code": "DictionaryBibleThemes",
+"label": "4482: millstones",
+"language": "eng"
+},
+{
+"reference_id": "5282",
+"content_id": "5282",
+"resource_code": "DictionaryBibleThemes",
+"label": "5282: crushing",
+"language": "eng"
+}
+]
+}
+}
+]

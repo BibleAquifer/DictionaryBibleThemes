@@ -1,0 +1,149 @@
+[
+{
+"content_id": "8628",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8628: worship, hindrances to",
+"media_type": "Text",
+"index_reference": "8628: worship, hindrances to",
+"language": "eng",
+"review_level": "None",
+"content": "<p>True worship goes beyond mere form and can therefore be hindered by a wrong relationship to God or to others.</p>\n<h2>Worship that is merely formal is unacceptable</h2>\n<p><strong><a href=\"https://ref.ly/1Sam15:22\">1SA 15:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa1:13\">ISA 1:13</a>; <a href=\"https://ref.ly/Ezek33:31\">EZK 33:31</a>; <a href=\"https://ref.ly/Hos6:6\">HOS 6:6</a>; <a href=\"https://ref.ly/Matt6:5\">MAT 6:5</a>; <a href=\"https://ref.ly/2Tim3:5\">2TI 3:5</a></p>\n<h2>Worship is hindered by wrong relationships</h2>\n<h3>To God</h3>\n<p><strong><a href=\"https://ref.ly/Ps66:18\">PSA 66:18</a></strong>; <strong><a href=\"https://ref.ly/Matt15:7-Matt15:9\">MAT 15:7–15:9</a></strong> parallel <a href=\"https://ref.ly/Mark7:6-Mark7:7\">MRK 7:6–7:7</a> <em>See also</em> <a href=\"https://ref.ly/Isa29:13\">ISA 29:13</a>; <a href=\"https://ref.ly/Ps32:5-Ps32:6\">PSA 32:5–32:6</a>; <a href=\"https://ref.ly/Isa59:2\">ISA 59:2</a>, <a href=\"https://ref.ly/Isa64:7\">ISA 64:7</a>; <a href=\"https://ref.ly/Jas4:3\">JAS 4:3</a></p>\n<h3>To others</h3>\n<p><strong><a href=\"https://ref.ly/Isa1:11-Isa1:17\">ISA 1:11–1:17</a></strong>; <strong><a href=\"https://ref.ly/Matt5:23-Matt5:24\">MAT 5:23–5:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Amos5:21-Amos5:24\">AMO 5:21–5:24</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09015022",
+"start_ref_usfm": "1SA 15:22",
+"end_ref": "09015022",
+"end_ref_usfm": "1SA 15:22"
+},
+{
+"start_ref": "23001013",
+"start_ref_usfm": "ISA 1:13",
+"end_ref": "23001013",
+"end_ref_usfm": "ISA 1:13"
+},
+{
+"start_ref": "26033031",
+"start_ref_usfm": "EZK 33:31",
+"end_ref": "26033031",
+"end_ref_usfm": "EZK 33:31"
+},
+{
+"start_ref": "28006006",
+"start_ref_usfm": "HOS 6:6",
+"end_ref": "28006006",
+"end_ref_usfm": "HOS 6:6"
+},
+{
+"start_ref": "40006005",
+"start_ref_usfm": "MAT 6:5",
+"end_ref": "40006005",
+"end_ref_usfm": "MAT 6:5"
+},
+{
+"start_ref": "55003005",
+"start_ref_usfm": "2TI 3:5",
+"end_ref": "55003005",
+"end_ref_usfm": "2TI 3:5"
+},
+{
+"start_ref": "19066018",
+"start_ref_usfm": "PSA 66:18",
+"end_ref": "19066018",
+"end_ref_usfm": "PSA 66:18"
+},
+{
+"start_ref": "40015007",
+"start_ref_usfm": "MAT 15:7",
+"end_ref": "40015009",
+"end_ref_usfm": "MAT 15:9"
+},
+{
+"start_ref": "41007006",
+"start_ref_usfm": "MRK 7:6",
+"end_ref": "41007007",
+"end_ref_usfm": "MRK 7:7"
+},
+{
+"start_ref": "23029013",
+"start_ref_usfm": "ISA 29:13",
+"end_ref": "23029013",
+"end_ref_usfm": "ISA 29:13"
+},
+{
+"start_ref": "19032005",
+"start_ref_usfm": "PSA 32:5",
+"end_ref": "19032006",
+"end_ref_usfm": "PSA 32:6"
+},
+{
+"start_ref": "23059002",
+"start_ref_usfm": "ISA 59:2",
+"end_ref": "23059002",
+"end_ref_usfm": "ISA 59:2"
+},
+{
+"start_ref": "23064007",
+"start_ref_usfm": "ISA 64:7",
+"end_ref": "23064007",
+"end_ref_usfm": "ISA 64:7"
+},
+{
+"start_ref": "59004003",
+"start_ref_usfm": "JAS 4:3",
+"end_ref": "59004003",
+"end_ref_usfm": "JAS 4:3"
+},
+{
+"start_ref": "23001011",
+"start_ref_usfm": "ISA 1:11",
+"end_ref": "23001017",
+"end_ref_usfm": "ISA 1:17"
+},
+{
+"start_ref": "40005023",
+"start_ref_usfm": "MAT 5:23",
+"end_ref": "40005024",
+"end_ref_usfm": "MAT 5:24"
+},
+{
+"start_ref": "30005021",
+"start_ref_usfm": "AMO 5:21",
+"end_ref": "30005024",
+"end_ref_usfm": "AMO 5:24"
+}
+],
+"resource": [
+{
+"reference_id": "5908",
+"content_id": "5908",
+"resource_code": "DictionaryBibleThemes",
+"label": "5908: motives",
+"language": "eng"
+},
+{
+"reference_id": "8142",
+"content_id": "8142",
+"resource_code": "DictionaryBibleThemes",
+"label": "8142: religion",
+"language": "eng"
+},
+{
+"reference_id": "8752",
+"content_id": "8752",
+"resource_code": "DictionaryBibleThemes",
+"label": "8752: false worship",
+"language": "eng"
+},
+{
+"reference_id": "8834",
+"content_id": "8834",
+"resource_code": "DictionaryBibleThemes",
+"label": "8834: unbelief",
+"language": "eng"
+}
+]
+}
+}
+]

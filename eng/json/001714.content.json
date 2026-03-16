@@ -1,0 +1,102 @@
+[
+{
+"content_id": "7100",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7100: Titles of the people of God",
+"media_type": "Text",
+"index_reference": "7100: titles of the people of god",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"7105\" data-resourcetype=\"DictionaryOfBibleThemes\">7105: believers</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7110\" data-resourcetype=\"DictionaryOfBibleThemes\">7110: body of Christ</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7115\" data-resourcetype=\"DictionaryOfBibleThemes\">7115: children of God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7120\" data-resourcetype=\"DictionaryOfBibleThemes\">7120: Christians</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7125\" data-resourcetype=\"DictionaryOfBibleThemes\">7125: elect, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7130\" data-resourcetype=\"DictionaryOfBibleThemes\">7130: flock, God's</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7135\" data-resourcetype=\"DictionaryOfBibleThemes\">7135: Israel, as the people of God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7140\" data-resourcetype=\"DictionaryOfBibleThemes\">7140: people of God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7145\" data-resourcetype=\"DictionaryOfBibleThemes\">7145: remnant</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7150\" data-resourcetype=\"DictionaryOfBibleThemes\">7150: righteous, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7155\" data-resourcetype=\"DictionaryOfBibleThemes\">7155: saints</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7160\" data-resourcetype=\"DictionaryOfBibleThemes\">7160: servants of the Lord</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7105",
+"content_id": "7105",
+"resource_code": "DictionaryBibleThemes",
+"label": "7105: believers",
+"language": "eng"
+},
+{
+"reference_id": "7110",
+"content_id": "7110",
+"resource_code": "DictionaryBibleThemes",
+"label": "7110: body of Christ",
+"language": "eng"
+},
+{
+"reference_id": "7115",
+"content_id": "7115",
+"resource_code": "DictionaryBibleThemes",
+"label": "7115: children of God",
+"language": "eng"
+},
+{
+"reference_id": "7120",
+"content_id": "7120",
+"resource_code": "DictionaryBibleThemes",
+"label": "7120: Christians",
+"language": "eng"
+},
+{
+"reference_id": "7125",
+"content_id": "7125",
+"resource_code": "DictionaryBibleThemes",
+"label": "7125: elect, the",
+"language": "eng"
+},
+{
+"reference_id": "7130",
+"content_id": "7130",
+"resource_code": "DictionaryBibleThemes",
+"label": "7130: flock, God's",
+"language": "eng"
+},
+{
+"reference_id": "7135",
+"content_id": "7135",
+"resource_code": "DictionaryBibleThemes",
+"label": "7135: Israel, as the people of God",
+"language": "eng"
+},
+{
+"reference_id": "7140",
+"content_id": "7140",
+"resource_code": "DictionaryBibleThemes",
+"label": "7140: people of God",
+"language": "eng"
+},
+{
+"reference_id": "7145",
+"content_id": "7145",
+"resource_code": "DictionaryBibleThemes",
+"label": "7145: remnant",
+"language": "eng"
+},
+{
+"reference_id": "7150",
+"content_id": "7150",
+"resource_code": "DictionaryBibleThemes",
+"label": "7150: righteous, the",
+"language": "eng"
+},
+{
+"reference_id": "7155",
+"content_id": "7155",
+"resource_code": "DictionaryBibleThemes",
+"label": "7155: saints",
+"language": "eng"
+},
+{
+"reference_id": "7160",
+"content_id": "7160",
+"resource_code": "DictionaryBibleThemes",
+"label": "7160: servants of the Lord",
+"language": "eng"
+}
+]
+}
+}
+]

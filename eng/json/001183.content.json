@@ -1,0 +1,200 @@
+[
+{
+"content_id": "5621",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5621: wheel",
+"media_type": "Text",
+"index_reference": "5621: wheel",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Early wheels were solid wooden discs. These were replaced around 1500 B.C. by lighter, spoked wheels. The most common use of wheels is on chariots and carts; they were also used by potters and in machinery for drawing water from a well. The chariot throne of God has wheels which are vividly described.</p>\n<h2>Chariot wheels</h2>\n<p><strong><a href=\"https://ref.ly/Exod14:25\">EXO 14:25</a></strong>; <strong><a href=\"https://ref.ly/Nah3:2\">NAM 3:2</a></strong> <em>The sound of chariot wheels announces the approach of the enemy.</em> <em>See also</em> <a href=\"https://ref.ly/2Kgs7:6\">2KI 7:6</a>; <a href=\"https://ref.ly/Isa5:28\">ISA 5:28</a>; <a href=\"https://ref.ly/Jer47:3\">JER 47:3</a>; <a href=\"https://ref.ly/Joel2:5\">JOL 2:5</a>; <a href=\"https://ref.ly/Rev9:9\">REV 9:9</a></p>\n<h2>Wagon wheels</h2>\n<p>The Hebrew word for <code>wheel'' is here used for</code>wagon'':\n <a href=\"https://ref.ly/Ezek23:24\">EZK 23:24</a>, <a href=\"https://ref.ly/Ezek26:10\">EZK 26:10</a></p>\n<h2>Threshing wheels</h2>\n<p><strong><a href=\"https://ref.ly/Prov20:26\">PRO 20:26</a></strong> <em>Threshing was carried out by driving a sledge or a cart with heavy wheels over the grain.</em> <em>See also</em> <a href=\"https://ref.ly/Isa28:27-Isa28:28\">ISA 28:27–28:28</a></p>\n<h2>Other examples of wheels</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs7:32-1Kgs7:33\">1KI 7:32–7:33</a></strong> <em>The stands for basins in Solomon's temple were mounted on wheels.</em> <em>See also</em> <a href=\"https://ref.ly/1Kgs7:30\">1KI 7:30</a>; <a href=\"https://ref.ly/Eccl12:6\">ECC 12:6</a> <em>A wheel formed part of the machinery for drawing water from a well</em>; <a href=\"https://ref.ly/Jer18:3\">JER 18:3</a> <em>Potters turned their clay on a wheel.</em></p>\n<h2>The wheels of God's chariot throne</h2>\n<p><strong><a href=\"https://ref.ly/Ezek11:22-Ezek11:23\">EZK 11:22–11:23</a></strong>; <strong><a href=\"https://ref.ly/Dan7:9\">DAN 7:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs2:11\">2KI 2:11</a>; <a href=\"https://ref.ly/Isa66:15\">ISA 66:15</a>; <a href=\"https://ref.ly/Ezek1:15-Ezek1:21\">EZK 1:15–1:21</a>, <a href=\"https://ref.ly/Ezek3:12-Ezek3:13\">EZK 3:12–3:13</a>, <a href=\"https://ref.ly/Ezek10:1-Ezek10:19\">EZK 10:1–10:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02014025",
+"start_ref_usfm": "EXO 14:25",
+"end_ref": "02014025",
+"end_ref_usfm": "EXO 14:25"
+},
+{
+"start_ref": "34003002",
+"start_ref_usfm": "NAM 3:2",
+"end_ref": "34003002",
+"end_ref_usfm": "NAM 3:2"
+},
+{
+"start_ref": "12007006",
+"start_ref_usfm": "2KI 7:6",
+"end_ref": "12007006",
+"end_ref_usfm": "2KI 7:6"
+},
+{
+"start_ref": "23005028",
+"start_ref_usfm": "ISA 5:28",
+"end_ref": "23005028",
+"end_ref_usfm": "ISA 5:28"
+},
+{
+"start_ref": "24047003",
+"start_ref_usfm": "JER 47:3",
+"end_ref": "24047003",
+"end_ref_usfm": "JER 47:3"
+},
+{
+"start_ref": "29002005",
+"start_ref_usfm": "JOL 2:5",
+"end_ref": "29002005",
+"end_ref_usfm": "JOL 2:5"
+},
+{
+"start_ref": "66009009",
+"start_ref_usfm": "REV 9:9",
+"end_ref": "66009009",
+"end_ref_usfm": "REV 9:9"
+},
+{
+"start_ref": "26023024",
+"start_ref_usfm": "EZK 23:24",
+"end_ref": "26023024",
+"end_ref_usfm": "EZK 23:24"
+},
+{
+"start_ref": "26026010",
+"start_ref_usfm": "EZK 26:10",
+"end_ref": "26026010",
+"end_ref_usfm": "EZK 26:10"
+},
+{
+"start_ref": "20020026",
+"start_ref_usfm": "PRO 20:26",
+"end_ref": "20020026",
+"end_ref_usfm": "PRO 20:26"
+},
+{
+"start_ref": "23028027",
+"start_ref_usfm": "ISA 28:27",
+"end_ref": "23028028",
+"end_ref_usfm": "ISA 28:28"
+},
+{
+"start_ref": "11007032",
+"start_ref_usfm": "1KI 7:32",
+"end_ref": "11007033",
+"end_ref_usfm": "1KI 7:33"
+},
+{
+"start_ref": "11007030",
+"start_ref_usfm": "1KI 7:30",
+"end_ref": "11007030",
+"end_ref_usfm": "1KI 7:30"
+},
+{
+"start_ref": "21012006",
+"start_ref_usfm": "ECC 12:6",
+"end_ref": "21012006",
+"end_ref_usfm": "ECC 12:6"
+},
+{
+"start_ref": "24018003",
+"start_ref_usfm": "JER 18:3",
+"end_ref": "24018003",
+"end_ref_usfm": "JER 18:3"
+},
+{
+"start_ref": "26011022",
+"start_ref_usfm": "EZK 11:22",
+"end_ref": "26011023",
+"end_ref_usfm": "EZK 11:23"
+},
+{
+"start_ref": "27007009",
+"start_ref_usfm": "DAN 7:9",
+"end_ref": "27007009",
+"end_ref_usfm": "DAN 7:9"
+},
+{
+"start_ref": "12002011",
+"start_ref_usfm": "2KI 2:11",
+"end_ref": "12002011",
+"end_ref_usfm": "2KI 2:11"
+},
+{
+"start_ref": "23066015",
+"start_ref_usfm": "ISA 66:15",
+"end_ref": "23066015",
+"end_ref_usfm": "ISA 66:15"
+},
+{
+"start_ref": "26001015",
+"start_ref_usfm": "EZK 1:15",
+"end_ref": "26001021",
+"end_ref_usfm": "EZK 1:21"
+},
+{
+"start_ref": "26003012",
+"start_ref_usfm": "EZK 3:12",
+"end_ref": "26003013",
+"end_ref_usfm": "EZK 3:13"
+},
+{
+"start_ref": "26010001",
+"start_ref_usfm": "EZK 10:1",
+"end_ref": "26010019",
+"end_ref_usfm": "EZK 10:19"
+}
+],
+"resource": [
+{
+"reference_id": "4150",
+"content_id": "4150",
+"resource_code": "DictionaryBibleThemes",
+"label": "4150: cherubim",
+"language": "eng"
+},
+{
+"reference_id": "4296",
+"content_id": "4296",
+"resource_code": "DictionaryBibleThemes",
+"label": "4296: wells",
+"language": "eng"
+},
+{
+"reference_id": "4522",
+"content_id": "4522",
+"resource_code": "DictionaryBibleThemes",
+"label": "4522: threshing",
+"language": "eng"
+},
+{
+"reference_id": "5248",
+"content_id": "5248",
+"resource_code": "DictionaryBibleThemes",
+"label": "5248: cart",
+"language": "eng"
+},
+{
+"reference_id": "5252",
+"content_id": "5252",
+"resource_code": "DictionaryBibleThemes",
+"label": "5252: chariots",
+"language": "eng"
+},
+{
+"reference_id": "5445",
+"content_id": "5445",
+"resource_code": "DictionaryBibleThemes",
+"label": "5445: potters and pottery",
+"language": "eng"
+},
+{
+"reference_id": "5581",
+"content_id": "5581",
+"resource_code": "DictionaryBibleThemes",
+"label": "5581: throne",
+"language": "eng"
+}
+]
+}
+}
+]

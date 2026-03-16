@@ -1,0 +1,237 @@
+[
+{
+"content_id": "7520",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7520: dispersion, the",
+"media_type": "Text",
+"index_reference": "7520: dispersion, the",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A technical term used to refer to God's people as they are scattered throughout the world.</p>\n<h2>The dispersion of the Jews</h2>\n<h3>Promised and predicted</h3>\n<p><strong><a href=\"https://ref.ly/Deut4:25-Deut4:28\">DEU 4:25–4:28</a></strong>; <strong><a href=\"https://ref.ly/1Kgs14:15\">1KI 14:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut28:15-Deut28:68\">DEU 28:15–28:68</a>; <a href=\"https://ref.ly/Lev26:27-Lev26:35\">LEV 26:27–26:35</a>; <a href=\"https://ref.ly/Neh1:8-Neh1:9\">NEH 1:8–1:9</a>; <a href=\"https://ref.ly/Jer13:24\">JER 13:24</a>; <a href=\"https://ref.ly/Ezek6:8-Ezek6:10\">EZK 6:8–6:10</a>, <a href=\"https://ref.ly/Ezek20:23-Ezek20:24\">EZK 20:23–20:24</a>, <a href=\"https://ref.ly/Ezek22:15\">EZK 22:15</a></p>\n<h3>The prediction fulfilled</h3>\n<p><strong><a href=\"https://ref.ly/Jer50:17\">JER 50:17</a></strong>; <strong><a href=\"https://ref.ly/Dan9:7\">DAN 9:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth3:8\">EST 3:8</a>; <a href=\"https://ref.ly/Ps44:9-Ps44:16\">PSA 44:9–44:16</a>; <a href=\"https://ref.ly/Lam4:16\">LAM 4:16</a>; <a href=\"https://ref.ly/Ezek36:17-Ezek36:20\">EZK 36:17–36:20</a>; <a href=\"https://ref.ly/Zeph3:10\">ZEP 3:10</a>; <a href=\"https://ref.ly/Zech1:19\">ZEC 1:19</a>; <a href=\"https://ref.ly/John7:35\">JHN 7:35</a> <em>In NT times there were more Jews living outside Palestine than within.</em></p>\n<h3>The promise of return</h3>\n<p><strong><a href=\"https://ref.ly/Isa11:12\">ISA 11:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:29-Deut4:31\">DEU 4:29–4:31</a>; <a href=\"https://ref.ly/Jer31:10\">JER 31:10</a>; <a href=\"https://ref.ly/Ezek11:16-Ezek11:17\">EZK 11:16–11:17</a></p>\n<h2>The dispersion of Christians</h2>\n<p><strong><a href=\"https://ref.ly/Acts8:1\">ACT 8:1</a></strong> <em>Christians scattered because of persecution</em>; <strong><a href=\"https://ref.ly/1Pet1:1\">1PE 1:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts8:4\">ACT 8:4</a>, <a href=\"https://ref.ly/Acts11:19\">ACT 11:19</a>; <a href=\"https://ref.ly/Jas1:1\">JAS 1:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05004025",
+"start_ref_usfm": "DEU 4:25",
+"end_ref": "05004028",
+"end_ref_usfm": "DEU 4:28"
+},
+{
+"start_ref": "11014015",
+"start_ref_usfm": "1KI 14:15",
+"end_ref": "11014015",
+"end_ref_usfm": "1KI 14:15"
+},
+{
+"start_ref": "05028015",
+"start_ref_usfm": "DEU 28:15",
+"end_ref": "05028068",
+"end_ref_usfm": "DEU 28:68"
+},
+{
+"start_ref": "03026027",
+"start_ref_usfm": "LEV 26:27",
+"end_ref": "03026035",
+"end_ref_usfm": "LEV 26:35"
+},
+{
+"start_ref": "16001008",
+"start_ref_usfm": "NEH 1:8",
+"end_ref": "16001009",
+"end_ref_usfm": "NEH 1:9"
+},
+{
+"start_ref": "24013024",
+"start_ref_usfm": "JER 13:24",
+"end_ref": "24013024",
+"end_ref_usfm": "JER 13:24"
+},
+{
+"start_ref": "26006008",
+"start_ref_usfm": "EZK 6:8",
+"end_ref": "26006010",
+"end_ref_usfm": "EZK 6:10"
+},
+{
+"start_ref": "26020023",
+"start_ref_usfm": "EZK 20:23",
+"end_ref": "26020024",
+"end_ref_usfm": "EZK 20:24"
+},
+{
+"start_ref": "26022015",
+"start_ref_usfm": "EZK 22:15",
+"end_ref": "26022015",
+"end_ref_usfm": "EZK 22:15"
+},
+{
+"start_ref": "24050017",
+"start_ref_usfm": "JER 50:17",
+"end_ref": "24050017",
+"end_ref_usfm": "JER 50:17"
+},
+{
+"start_ref": "27009007",
+"start_ref_usfm": "DAN 9:7",
+"end_ref": "27009007",
+"end_ref_usfm": "DAN 9:7"
+},
+{
+"start_ref": "17003008",
+"start_ref_usfm": "EST 3:8",
+"end_ref": "17003008",
+"end_ref_usfm": "EST 3:8"
+},
+{
+"start_ref": "19044009",
+"start_ref_usfm": "PSA 44:9",
+"end_ref": "19044016",
+"end_ref_usfm": "PSA 44:16"
+},
+{
+"start_ref": "25004016",
+"start_ref_usfm": "LAM 4:16",
+"end_ref": "25004016",
+"end_ref_usfm": "LAM 4:16"
+},
+{
+"start_ref": "26036017",
+"start_ref_usfm": "EZK 36:17",
+"end_ref": "26036020",
+"end_ref_usfm": "EZK 36:20"
+},
+{
+"start_ref": "36003010",
+"start_ref_usfm": "ZEP 3:10",
+"end_ref": "36003010",
+"end_ref_usfm": "ZEP 3:10"
+},
+{
+"start_ref": "38001019",
+"start_ref_usfm": "ZEC 1:19",
+"end_ref": "38001019",
+"end_ref_usfm": "ZEC 1:19"
+},
+{
+"start_ref": "43007035",
+"start_ref_usfm": "JHN 7:35",
+"end_ref": "43007035",
+"end_ref_usfm": "JHN 7:35"
+},
+{
+"start_ref": "23011012",
+"start_ref_usfm": "ISA 11:12",
+"end_ref": "23011012",
+"end_ref_usfm": "ISA 11:12"
+},
+{
+"start_ref": "05004029",
+"start_ref_usfm": "DEU 4:29",
+"end_ref": "05004031",
+"end_ref_usfm": "DEU 4:31"
+},
+{
+"start_ref": "24031010",
+"start_ref_usfm": "JER 31:10",
+"end_ref": "24031010",
+"end_ref_usfm": "JER 31:10"
+},
+{
+"start_ref": "26011016",
+"start_ref_usfm": "EZK 11:16",
+"end_ref": "26011017",
+"end_ref_usfm": "EZK 11:17"
+},
+{
+"start_ref": "44008001",
+"start_ref_usfm": "ACT 8:1",
+"end_ref": "44008001",
+"end_ref_usfm": "ACT 8:1"
+},
+{
+"start_ref": "60001001",
+"start_ref_usfm": "1PE 1:1",
+"end_ref": "60001001",
+"end_ref_usfm": "1PE 1:1"
+},
+{
+"start_ref": "44008004",
+"start_ref_usfm": "ACT 8:4",
+"end_ref": "44008004",
+"end_ref_usfm": "ACT 8:4"
+},
+{
+"start_ref": "44011019",
+"start_ref_usfm": "ACT 11:19",
+"end_ref": "44011019",
+"end_ref_usfm": "ACT 11:19"
+},
+{
+"start_ref": "59001001",
+"start_ref_usfm": "JAS 1:1",
+"end_ref": "59001001",
+"end_ref_usfm": "JAS 1:1"
+}
+],
+"resource": [
+{
+"reference_id": "1025",
+"content_id": "1025",
+"resource_code": "DictionaryBibleThemes",
+"label": "1025: God, anger of",
+"language": "eng"
+},
+{
+"reference_id": "7145",
+"content_id": "7145",
+"resource_code": "DictionaryBibleThemes",
+"label": "7145: remnant",
+"language": "eng"
+},
+{
+"reference_id": "7215",
+"content_id": "7215",
+"resource_code": "DictionaryBibleThemes",
+"label": "7215: exile, the",
+"language": "eng"
+},
+{
+"reference_id": "8160",
+"content_id": "8160",
+"resource_code": "DictionaryBibleThemes",
+"label": "8160: seeking God",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+},
+{
+"reference_id": "8794",
+"content_id": "8794",
+"resource_code": "DictionaryBibleThemes",
+"label": "8794: persecution",
+"language": "eng"
+},
+{
+"reference_id": "8839",
+"content_id": "8839",
+"resource_code": "DictionaryBibleThemes",
+"label": "8839: unfaithfulness",
+"language": "eng"
+},
+{
+"reference_id": "9165",
+"content_id": "9165",
+"resource_code": "DictionaryBibleThemes",
+"label": "9165: restoration",
+"language": "eng"
+}
+]
+}
+}
+]

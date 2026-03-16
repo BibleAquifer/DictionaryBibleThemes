@@ -1,0 +1,223 @@
+[
+{
+"content_id": "5400",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5400: lyre",
+"media_type": "Text",
+"index_reference": "5400: lyre",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The lyre used in Israelite worship</h2>\n<h3>In joyful religious celebrations</h3>\n<p><strong><a href=\"https://ref.ly/2Sam6:2-2Sam6:5\">2SA 6:2–6:5</a></strong> parallel <a href=\"https://ref.ly/1Chr13:6-1Chr13:8\">1CH 13:6–13:8</a> <em>See also</em> <a href=\"https://ref.ly/1Sam10:5\">1SA 10:5</a>; <a href=\"https://ref.ly/1Chr15:25-1Chr15:28\">1CH 15:25–15:28</a>; <a href=\"https://ref.ly/Neh12:27\">NEH 12:27</a></p>\n<h3>In temple worship</h3>\n<p><strong><a href=\"https://ref.ly/2Chr5:12\">2CH 5:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs10:12\">1KI 10:12</a> parallel <a href=\"https://ref.ly/2Chr9:11\">2CH 9:11</a>; <a href=\"https://ref.ly/1Chr15:16\">1CH 15:16</a>, <a href=\"https://ref.ly/1Chr15:20\">1CH 15:20</a>, <a href=\"https://ref.ly/1Chr16:5-1Chr16:6\">1CH 16:5–16:6</a>, <a href=\"https://ref.ly/1Chr25:1\">1CH 25:1</a>, <a href=\"https://ref.ly/1Chr25:6\">1CH 25:6</a>; <a href=\"https://ref.ly/2Chr29:25\">2CH 29:25</a></p>\n<h3>In praising God</h3>\n<p><strong><a href=\"https://ref.ly/Ps71:22\">PSA 71:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps33:1-Ps33:3\">PSA 33:1–33:3</a>, <a href=\"https://ref.ly/Ps57:7-Ps57:8\">PSA 57:7–57:8</a>, <a href=\"https://ref.ly/Ps81:1-Ps81:2\">PSA 81:1–81:2</a>, <a href=\"https://ref.ly/Ps92:1-Ps92:4\">PSA 92:1–92:4</a>, <a href=\"https://ref.ly/Ps108:1-Ps108:2\">PSA 108:1–108:2</a>, <a href=\"https://ref.ly/Ps144:9\">PSA 144:9</a>, <a href=\"https://ref.ly/Ps150:3\">PSA 150:3</a></p>\n<h2>The lyre used in pagan worship</h2>\n<p><strong><a href=\"https://ref.ly/Dan3:7\">DAN 3:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan3:5\">DAN 3:5</a>, <a href=\"https://ref.ly/Dan3:10\">DAN 3:10</a>, <a href=\"https://ref.ly/Dan3:15\">DAN 3:15</a></p>\n<h2>The lyre in secular use</h2>\n<p><strong><a href=\"https://ref.ly/Isa5:12\">ISA 5:12</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "10006002",
+"start_ref_usfm": "2SA 6:2",
+"end_ref": "10006005",
+"end_ref_usfm": "2SA 6:5"
+},
+{
+"start_ref": "13013006",
+"start_ref_usfm": "1CH 13:6",
+"end_ref": "13013008",
+"end_ref_usfm": "1CH 13:8"
+},
+{
+"start_ref": "09010005",
+"start_ref_usfm": "1SA 10:5",
+"end_ref": "09010005",
+"end_ref_usfm": "1SA 10:5"
+},
+{
+"start_ref": "13015025",
+"start_ref_usfm": "1CH 15:25",
+"end_ref": "13015028",
+"end_ref_usfm": "1CH 15:28"
+},
+{
+"start_ref": "16012027",
+"start_ref_usfm": "NEH 12:27",
+"end_ref": "16012027",
+"end_ref_usfm": "NEH 12:27"
+},
+{
+"start_ref": "14005012",
+"start_ref_usfm": "2CH 5:12",
+"end_ref": "14005012",
+"end_ref_usfm": "2CH 5:12"
+},
+{
+"start_ref": "11010012",
+"start_ref_usfm": "1KI 10:12",
+"end_ref": "11010012",
+"end_ref_usfm": "1KI 10:12"
+},
+{
+"start_ref": "14009011",
+"start_ref_usfm": "2CH 9:11",
+"end_ref": "14009011",
+"end_ref_usfm": "2CH 9:11"
+},
+{
+"start_ref": "13015016",
+"start_ref_usfm": "1CH 15:16",
+"end_ref": "13015016",
+"end_ref_usfm": "1CH 15:16"
+},
+{
+"start_ref": "13015020",
+"start_ref_usfm": "1CH 15:20",
+"end_ref": "13015020",
+"end_ref_usfm": "1CH 15:20"
+},
+{
+"start_ref": "13016005",
+"start_ref_usfm": "1CH 16:5",
+"end_ref": "13016006",
+"end_ref_usfm": "1CH 16:6"
+},
+{
+"start_ref": "13025001",
+"start_ref_usfm": "1CH 25:1",
+"end_ref": "13025001",
+"end_ref_usfm": "1CH 25:1"
+},
+{
+"start_ref": "13025006",
+"start_ref_usfm": "1CH 25:6",
+"end_ref": "13025006",
+"end_ref_usfm": "1CH 25:6"
+},
+{
+"start_ref": "14029025",
+"start_ref_usfm": "2CH 29:25",
+"end_ref": "14029025",
+"end_ref_usfm": "2CH 29:25"
+},
+{
+"start_ref": "19071022",
+"start_ref_usfm": "PSA 71:22",
+"end_ref": "19071022",
+"end_ref_usfm": "PSA 71:22"
+},
+{
+"start_ref": "19033001",
+"start_ref_usfm": "PSA 33:1",
+"end_ref": "19033003",
+"end_ref_usfm": "PSA 33:3"
+},
+{
+"start_ref": "19057007",
+"start_ref_usfm": "PSA 57:7",
+"end_ref": "19057008",
+"end_ref_usfm": "PSA 57:8"
+},
+{
+"start_ref": "19081001",
+"start_ref_usfm": "PSA 81:1",
+"end_ref": "19081002",
+"end_ref_usfm": "PSA 81:2"
+},
+{
+"start_ref": "19092001",
+"start_ref_usfm": "PSA 92:1",
+"end_ref": "19092004",
+"end_ref_usfm": "PSA 92:4"
+},
+{
+"start_ref": "19108001",
+"start_ref_usfm": "PSA 108:1",
+"end_ref": "19108002",
+"end_ref_usfm": "PSA 108:2"
+},
+{
+"start_ref": "19144009",
+"start_ref_usfm": "PSA 144:9",
+"end_ref": "19144009",
+"end_ref_usfm": "PSA 144:9"
+},
+{
+"start_ref": "19150003",
+"start_ref_usfm": "PSA 150:3",
+"end_ref": "19150003",
+"end_ref_usfm": "PSA 150:3"
+},
+{
+"start_ref": "27003007",
+"start_ref_usfm": "DAN 3:7",
+"end_ref": "27003007",
+"end_ref_usfm": "DAN 3:7"
+},
+{
+"start_ref": "27003005",
+"start_ref_usfm": "DAN 3:5",
+"end_ref": "27003005",
+"end_ref_usfm": "DAN 3:5"
+},
+{
+"start_ref": "27003010",
+"start_ref_usfm": "DAN 3:10",
+"end_ref": "27003010",
+"end_ref_usfm": "DAN 3:10"
+},
+{
+"start_ref": "27003015",
+"start_ref_usfm": "DAN 3:15",
+"end_ref": "27003015",
+"end_ref_usfm": "DAN 3:15"
+},
+{
+"start_ref": "23005012",
+"start_ref_usfm": "ISA 5:12",
+"end_ref": "23005012",
+"end_ref_usfm": "ISA 5:12"
+}
+],
+"resource": [
+{
+"reference_id": "5332",
+"content_id": "5332",
+"resource_code": "DictionaryBibleThemes",
+"label": "5332: harp",
+"language": "eng"
+},
+{
+"reference_id": "5420",
+"content_id": "5420",
+"resource_code": "DictionaryBibleThemes",
+"label": "5420: music",
+"language": "eng"
+},
+{
+"reference_id": "5421",
+"content_id": "5421",
+"resource_code": "DictionaryBibleThemes",
+"label": "5421: musical instruments",
+"language": "eng"
+},
+{
+"reference_id": "5422",
+"content_id": "5422",
+"resource_code": "DictionaryBibleThemes",
+"label": "5422: musicians",
+"language": "eng"
+},
+{
+"reference_id": "8627",
+"content_id": "8627",
+"resource_code": "DictionaryBibleThemes",
+"label": "8627: worship, elements of",
+"language": "eng"
+},
+{
+"reference_id": "8664",
+"content_id": "8664",
+"resource_code": "DictionaryBibleThemes",
+"label": "8664: praise",
+"language": "eng"
+}
+]
+}
+}
+]

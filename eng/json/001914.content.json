@@ -1,0 +1,253 @@
+[
+{
+"content_id": "7745",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7745: ordination",
+"media_type": "Text",
+"index_reference": "7745: ordination",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The appointment to a public ministry or office, including investing with the authority required for this ministry. The most important biblical model of ordination is provided by the OT priesthood.</p>\n<h2>Ordination of the OT priesthood</h2>\n<h3>The ceremony of ordination</h3>\n<p><strong><a href=\"https://ref.ly/Exod28:41\">EXO 28:41</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod29:29-Exod29:46\">EXO 29:29–29:46</a>, <a href=\"https://ref.ly/Exod30:30\">EXO 30:30</a>; <a href=\"https://ref.ly/Lev8:30\">LEV 8:30</a>, <a href=\"https://ref.ly/Lev8:33\">LEV 8:33</a>; <a href=\"https://ref.ly/Num3:3\">NUM 3:3</a></p>\n<h3>The role of the ordained priest</h3>\n<p>To properly apply the blood of the ordination offering:\n <a href=\"https://ref.ly/Exod29:20-Exod29:21\">EXO 29:20–29:21</a>; ; <a href=\"https://ref.ly/Lev7:37\">LEV 7:37</a>, <a href=\"https://ref.ly/Lev8:18\">LEV 8:18</a>; \n<a href=\"https://ref.ly/Lev16:32\">LEV 16:32</a> <em>to make atonement</em>; ; <a href=\"https://ref.ly/Lev21:10-Lev21:12\">LEV 21:10–21:12</a> <em>to observe a strict code of behaviour</em></p>\n<h2>Jesus is the Messiah, the anointed one</h2>\n<p><a href=\"https://ref.ly/Matt16:16\">MAT 16:16</a> <em>The Greek word “Christos”, like the Hebrew word “Messiah”, means “anointed (by God)”.</em></p>\n<h2>Ordination in the NT</h2>\n<h3>Jesus Christ appointed disciples without reference to a ceremony of ordination</h3>\n<p><a href=\"https://ref.ly/Mark3:14-Mark3:15\">MRK 3:14–3:15</a> parallel <a href=\"https://ref.ly/Luke6:13\">LUK 6:13</a></p>\n<h3>The apostles commissioned people for service by laying on of hands</h3>\n<p><strong><a href=\"https://ref.ly/Acts6:6\">ACT 6:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num8:10-Num8:11\">NUM 8:10–8:11</a>, <a href=\"https://ref.ly/Num27:18-Num27:23\">NUM 27:18–27:23</a>; <a href=\"https://ref.ly/Acts13:3\">ACT 13:3</a> <em>Barnabas and Saul were commissioned for missionary work.</em></p>\n<h3>The appointment of elders</h3>\n<p><a href=\"https://ref.ly/Acts14:23\">ACT 14:23</a>; ; <a href=\"https://ref.ly/1Tim1:18\">1TI 1:18</a>, <a href=\"https://ref.ly/1Tim4:14\">1TI 4:14</a>, <a href=\"https://ref.ly/1Tim5:22\">1TI 5:22</a>; ; <a href=\"https://ref.ly/2Tim1:6\">2TI 1:6</a>; ; <a href=\"https://ref.ly/Titus1:5\">TIT 1:5</a>, <a href=\"https://ref.ly/Titus1:6-Titus1:9\">TIT 1:6–1:9</a> <em>Certain qualities are required in an appointed elder or minister.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02028041",
+"start_ref_usfm": "EXO 28:41",
+"end_ref": "02028041",
+"end_ref_usfm": "EXO 28:41"
+},
+{
+"start_ref": "02029029",
+"start_ref_usfm": "EXO 29:29",
+"end_ref": "02029046",
+"end_ref_usfm": "EXO 29:46"
+},
+{
+"start_ref": "02030030",
+"start_ref_usfm": "EXO 30:30",
+"end_ref": "02030030",
+"end_ref_usfm": "EXO 30:30"
+},
+{
+"start_ref": "03008030",
+"start_ref_usfm": "LEV 8:30",
+"end_ref": "03008030",
+"end_ref_usfm": "LEV 8:30"
+},
+{
+"start_ref": "03008033",
+"start_ref_usfm": "LEV 8:33",
+"end_ref": "03008033",
+"end_ref_usfm": "LEV 8:33"
+},
+{
+"start_ref": "04003003",
+"start_ref_usfm": "NUM 3:3",
+"end_ref": "04003003",
+"end_ref_usfm": "NUM 3:3"
+},
+{
+"start_ref": "02029020",
+"start_ref_usfm": "EXO 29:20",
+"end_ref": "02029021",
+"end_ref_usfm": "EXO 29:21"
+},
+{
+"start_ref": "03007037",
+"start_ref_usfm": "LEV 7:37",
+"end_ref": "03007037",
+"end_ref_usfm": "LEV 7:37"
+},
+{
+"start_ref": "03008018",
+"start_ref_usfm": "LEV 8:18",
+"end_ref": "03008018",
+"end_ref_usfm": "LEV 8:18"
+},
+{
+"start_ref": "03016032",
+"start_ref_usfm": "LEV 16:32",
+"end_ref": "03016032",
+"end_ref_usfm": "LEV 16:32"
+},
+{
+"start_ref": "03021010",
+"start_ref_usfm": "LEV 21:10",
+"end_ref": "03021012",
+"end_ref_usfm": "LEV 21:12"
+},
+{
+"start_ref": "40016016",
+"start_ref_usfm": "MAT 16:16",
+"end_ref": "40016016",
+"end_ref_usfm": "MAT 16:16"
+},
+{
+"start_ref": "41003014",
+"start_ref_usfm": "MRK 3:14",
+"end_ref": "41003015",
+"end_ref_usfm": "MRK 3:15"
+},
+{
+"start_ref": "42006013",
+"start_ref_usfm": "LUK 6:13",
+"end_ref": "42006013",
+"end_ref_usfm": "LUK 6:13"
+},
+{
+"start_ref": "44006006",
+"start_ref_usfm": "ACT 6:6",
+"end_ref": "44006006",
+"end_ref_usfm": "ACT 6:6"
+},
+{
+"start_ref": "04008010",
+"start_ref_usfm": "NUM 8:10",
+"end_ref": "04008011",
+"end_ref_usfm": "NUM 8:11"
+},
+{
+"start_ref": "04027018",
+"start_ref_usfm": "NUM 27:18",
+"end_ref": "04027023",
+"end_ref_usfm": "NUM 27:23"
+},
+{
+"start_ref": "44013003",
+"start_ref_usfm": "ACT 13:3",
+"end_ref": "44013003",
+"end_ref_usfm": "ACT 13:3"
+},
+{
+"start_ref": "44014023",
+"start_ref_usfm": "ACT 14:23",
+"end_ref": "44014023",
+"end_ref_usfm": "ACT 14:23"
+},
+{
+"start_ref": "54001018",
+"start_ref_usfm": "1TI 1:18",
+"end_ref": "54001018",
+"end_ref_usfm": "1TI 1:18"
+},
+{
+"start_ref": "54004014",
+"start_ref_usfm": "1TI 4:14",
+"end_ref": "54004014",
+"end_ref_usfm": "1TI 4:14"
+},
+{
+"start_ref": "54005022",
+"start_ref_usfm": "1TI 5:22",
+"end_ref": "54005022",
+"end_ref_usfm": "1TI 5:22"
+},
+{
+"start_ref": "55001006",
+"start_ref_usfm": "2TI 1:6",
+"end_ref": "55001006",
+"end_ref_usfm": "2TI 1:6"
+},
+{
+"start_ref": "56001005",
+"start_ref_usfm": "TIT 1:5",
+"end_ref": "56001005",
+"end_ref_usfm": "TIT 1:5"
+},
+{
+"start_ref": "56001006",
+"start_ref_usfm": "TIT 1:6",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+}
+],
+"resource": [
+{
+"reference_id": "2206",
+"content_id": "2206",
+"resource_code": "DictionaryBibleThemes",
+"label": "2206: Jesus, the Christ",
+"language": "eng"
+},
+{
+"reference_id": "5215",
+"content_id": "5215",
+"resource_code": "DictionaryBibleThemes",
+"label": "5215: authority",
+"language": "eng"
+},
+{
+"reference_id": "6620",
+"content_id": "6620",
+"resource_code": "DictionaryBibleThemes",
+"label": "6620: calling",
+"language": "eng"
+},
+{
+"reference_id": "7304",
+"content_id": "7304",
+"resource_code": "DictionaryBibleThemes",
+"label": "7304: anointing",
+"language": "eng"
+},
+{
+"reference_id": "7372",
+"content_id": "7372",
+"resource_code": "DictionaryBibleThemes",
+"label": "7372: hands, laying on of",
+"language": "eng"
+},
+{
+"reference_id": "7412",
+"content_id": "7412",
+"resource_code": "DictionaryBibleThemes",
+"label": "7412: priesthood",
+"language": "eng"
+},
+{
+"reference_id": "7706",
+"content_id": "7706",
+"resource_code": "DictionaryBibleThemes",
+"label": "7706: apostles",
+"language": "eng"
+},
+{
+"reference_id": "7715",
+"content_id": "7715",
+"resource_code": "DictionaryBibleThemes",
+"label": "7715: deacons",
+"language": "eng"
+},
+{
+"reference_id": "7718",
+"content_id": "7718",
+"resource_code": "DictionaryBibleThemes",
+"label": "7718: elders",
+"language": "eng"
+},
+{
+"reference_id": "7734",
+"content_id": "7734",
+"resource_code": "DictionaryBibleThemes",
+"label": "7734: leaders, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "7767",
+"content_id": "7767",
+"resource_code": "DictionaryBibleThemes",
+"label": "7767: priests, institution in OT times",
+"language": "eng"
+},
+{
+"reference_id": "7943",
+"content_id": "7943",
+"resource_code": "DictionaryBibleThemes",
+"label": "7943: ministry, in the church",
+"language": "eng"
+}
+]
+}
+}
+]

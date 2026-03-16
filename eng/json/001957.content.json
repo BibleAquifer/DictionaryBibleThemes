@@ -1,0 +1,90 @@
+[
+{
+"content_id": "7918",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7918: excommunication",
+"media_type": "Text",
+"index_reference": "7918: excommunication",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The last but reversible step in church discipline, resulting in exclusion from the fellowship of believers. The grounds that Scripture suggests for excommunication include public sin and immorality.</p>\n<h2>Jesus Christ authorises the church to excommunicate a sinning brother</h2>\n<p><strong><a href=\"https://ref.ly/Matt18:15-Matt18:18\">MAT 18:15–18:18</a></strong> <em>The binding of sinners is thought to refer to their exclusion from God's people, and loosing, to their restoration after repentance (compare <a href=\"https://ref.ly/Matt16:19\">Mt 16:19</a>).</em></p>\n<h2>Paul exhorts the Corinthian church to excommunicate an immoral brother</h2>\n<p><strong><a href=\"https://ref.ly/1Cor5:1-1Cor5:6\">1CO 5:1–5:6</a></strong> <em>By “hand this man over to Satan” (see also <a href=\"https://ref.ly/1Tim1:20\">1Ti 1:20</a>) Paul means to expel him, by putting him out into the devil's territory, in the hope that being officially ostracised, he might repent and forsake his wicked way. Such discipline was necessary not only for the reclaiming of the sinner but also for the safety and purity of the church (verse 6).</em> <em>See also</em> <a href=\"https://ref.ly/1Cor5:11-1Cor5:13\">1CO 5:11–5:13</a></p>\n<h2>Excommunicated offenders who repent are to be lovingly restored to fellowship</h2>\n<p><a href=\"https://ref.ly/2Cor2:5-2Cor2:11\">2CO 2:5–2:11</a> <em>This passage probably refers to the offender mentioned in 1Corinthians chapter 5.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40018015",
+"start_ref_usfm": "MAT 18:15",
+"end_ref": "40018018",
+"end_ref_usfm": "MAT 18:18"
+},
+{
+"start_ref": "40016019",
+"start_ref_usfm": "MAT 16:19",
+"end_ref": "40016019",
+"end_ref_usfm": "MAT 16:19"
+},
+{
+"start_ref": "46005001",
+"start_ref_usfm": "1CO 5:1",
+"end_ref": "46005006",
+"end_ref_usfm": "1CO 5:6"
+},
+{
+"start_ref": "54001020",
+"start_ref_usfm": "1TI 1:20",
+"end_ref": "54001020",
+"end_ref_usfm": "1TI 1:20"
+},
+{
+"start_ref": "46005011",
+"start_ref_usfm": "1CO 5:11",
+"end_ref": "46005013",
+"end_ref_usfm": "1CO 5:13"
+},
+{
+"start_ref": "47002005",
+"start_ref_usfm": "2CO 2:5",
+"end_ref": "47002011",
+"end_ref_usfm": "2CO 2:11"
+}
+],
+"resource": [
+{
+"reference_id": "6040",
+"content_id": "6040",
+"resource_code": "DictionaryBibleThemes",
+"label": "6040: sinners",
+"language": "eng"
+},
+{
+"reference_id": "6112",
+"content_id": "6112",
+"resource_code": "DictionaryBibleThemes",
+"label": "6112: banishment",
+"language": "eng"
+},
+{
+"reference_id": "7020",
+"content_id": "7020",
+"resource_code": "DictionaryBibleThemes",
+"label": "7020: church, the",
+"language": "eng"
+},
+{
+"reference_id": "8230",
+"content_id": "8230",
+"resource_code": "DictionaryBibleThemes",
+"label": "8230: discipline",
+"language": "eng"
+},
+{
+"reference_id": "8341",
+"content_id": "8341",
+"resource_code": "DictionaryBibleThemes",
+"label": "8341: separation",
+"language": "eng"
+}
+]
+}
+}
+]

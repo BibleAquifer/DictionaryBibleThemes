@@ -1,0 +1,32 @@
+[
+{
+"content_id": "4969",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4969: seasons",
+"media_type": "Text",
+"index_reference": "4969: seasons",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The main periods of the year which each have their own distinctive weather. In life, the varied periods of human experience.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4970",
+"content_id": "4970",
+"resource_code": "DictionaryBibleThemes",
+"label": "4970: seasons, of the year",
+"language": "eng"
+},
+{
+"reference_id": "4971",
+"content_id": "4971",
+"resource_code": "DictionaryBibleThemes",
+"label": "4971: seasons, of life",
+"language": "eng"
+}
+]
+}
+}
+]

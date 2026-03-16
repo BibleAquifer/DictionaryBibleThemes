@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5806",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5806: compassion",
+"media_type": "Text",
+"index_reference": "5806: compassion",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A quality of care and sympathy, characteristic of God and Jesus Christ, usually shown in acts of kindness and consideration towards those in any kind of difficulty or crisis.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5807",
+"content_id": "5807",
+"resource_code": "DictionaryBibleThemes",
+"label": "5807: compassion, of God",
+"language": "eng"
+},
+{
+"reference_id": "5808",
+"content_id": "5808",
+"resource_code": "DictionaryBibleThemes",
+"label": "5808: compassion, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "5809",
+"content_id": "5809",
+"resource_code": "DictionaryBibleThemes",
+"label": "5809: compassion, human",
+"language": "eng"
+}
+]
+}
+}
+]

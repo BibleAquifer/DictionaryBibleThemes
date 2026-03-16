@@ -1,0 +1,274 @@
+[
+{
+"content_id": "8451",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8451: mortification",
+"media_type": "Text",
+"index_reference": "8451: mortification",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The act of self-denial or the “putting to death” of sinful instincts in order to have freedom from sin and to live in the power of the Holy Spirit. The NT stresses that this act of humiliation comes about through the grace of God. It is the result of, not the condition for, conversion.</p>\n<h2>Examples of mortification through humility</h2>\n<p><strong><a href=\"https://ref.ly/2Sam10:1-2Sam10:5\">2SA 10:1–10:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt27:3-Matt27:5\">MAT 27:3–27:5</a></p>\n<h2>Examples of mortification through self-denial</h2>\n<p><strong><a href=\"https://ref.ly/Lev16:29-Lev16:31\">LEV 16:29–16:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod19:15\">EXO 19:15</a>; <a href=\"https://ref.ly/Lev23:27-Lev23:32\">LEV 23:27–23:32</a>; <a href=\"https://ref.ly/Num29:7\">NUM 29:7</a></p>\n<h2>Mortification as the basis for discipleship</h2>\n<h3>Self-denial is essential</h3>\n<p><strong><a href=\"https://ref.ly/Mark8:34-Mark8:35\">MRK 8:34–8:35</a></strong> parallels <a href=\"https://ref.ly/Matt16:24-Matt16:25\">MAT 16:24–16:25</a>, <a href=\"https://ref.ly/Luke9:23-Luke9:24\">LUK 9:23–9:24</a> <em>See also</em> <a href=\"https://ref.ly/1John3:16\">1JN 3:16</a></p>\n<h3>The necessity of putting to death sinful human nature and the world's values</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:13\">ROM 8:13</a></strong>; <strong><a href=\"https://ref.ly/Col3:5\">COL 3:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt5:29-Matt5:30\">MAT 5:29–5:30</a>; <a href=\"https://ref.ly/Gal5:24\">GAL 5:24</a>, <a href=\"https://ref.ly/Gal6:14\">GAL 6:14</a>; <a href=\"https://ref.ly/1Pet2:11\">1PE 2:11</a></p>\n<h2>Dying to self is a means of knowing freedom from sin</h2>\n<p><strong><a href=\"https://ref.ly/Rom6:6-Rom6:7\">ROM 6:6–6:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph4:22-Eph4:23\">EPH 4:22–4:23</a></p>\n<h2>The importance of sharing in the death of Christ</h2>\n<p><strong><a href=\"https://ref.ly/Gal2:20\">GAL 2:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom6:3\">ROM 6:3</a>, <a href=\"https://ref.ly/Rom7:4\">ROM 7:4</a>; <a href=\"https://ref.ly/2Cor4:11-2Cor4:12\">2CO 4:11–4:12</a>; <a href=\"https://ref.ly/Phil3:10\">PHP 3:10</a>; <a href=\"https://ref.ly/Col2:20\">COL 2:20</a>; <a href=\"https://ref.ly/2Tim2:11\">2TI 2:11</a></p>\n<h2>The example of Paul</h2>\n<p><strong><a href=\"https://ref.ly/1Cor9:27\">1CO 9:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor11:23-2Cor11:33\">2CO 11:23–11:33</a>; <a href=\"https://ref.ly/Gal6:17\">GAL 6:17</a></p>\n<h2>Mortification is not the same as self-infliction</h2>\n<p><strong><a href=\"https://ref.ly/Col2:23\">COL 2:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil3:2-Phil3:3\">PHP 3:2–3:3</a>; <a href=\"https://ref.ly/Col2:20-Col2:22\">COL 2:20–2:22</a>; <a href=\"https://ref.ly/1Tim4:1-1Tim4:5\">1TI 4:1–4:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "10010001",
+"start_ref_usfm": "2SA 10:1",
+"end_ref": "10010005",
+"end_ref_usfm": "2SA 10:5"
+},
+{
+"start_ref": "40027003",
+"start_ref_usfm": "MAT 27:3",
+"end_ref": "40027005",
+"end_ref_usfm": "MAT 27:5"
+},
+{
+"start_ref": "03016029",
+"start_ref_usfm": "LEV 16:29",
+"end_ref": "03016031",
+"end_ref_usfm": "LEV 16:31"
+},
+{
+"start_ref": "02019015",
+"start_ref_usfm": "EXO 19:15",
+"end_ref": "02019015",
+"end_ref_usfm": "EXO 19:15"
+},
+{
+"start_ref": "03023027",
+"start_ref_usfm": "LEV 23:27",
+"end_ref": "03023032",
+"end_ref_usfm": "LEV 23:32"
+},
+{
+"start_ref": "04029007",
+"start_ref_usfm": "NUM 29:7",
+"end_ref": "04029007",
+"end_ref_usfm": "NUM 29:7"
+},
+{
+"start_ref": "41008034",
+"start_ref_usfm": "MRK 8:34",
+"end_ref": "41008035",
+"end_ref_usfm": "MRK 8:35"
+},
+{
+"start_ref": "40016024",
+"start_ref_usfm": "MAT 16:24",
+"end_ref": "40016025",
+"end_ref_usfm": "MAT 16:25"
+},
+{
+"start_ref": "42009023",
+"start_ref_usfm": "LUK 9:23",
+"end_ref": "42009024",
+"end_ref_usfm": "LUK 9:24"
+},
+{
+"start_ref": "62003016",
+"start_ref_usfm": "1JN 3:16",
+"end_ref": "62003016",
+"end_ref_usfm": "1JN 3:16"
+},
+{
+"start_ref": "45008013",
+"start_ref_usfm": "ROM 8:13",
+"end_ref": "45008013",
+"end_ref_usfm": "ROM 8:13"
+},
+{
+"start_ref": "51003005",
+"start_ref_usfm": "COL 3:5",
+"end_ref": "51003005",
+"end_ref_usfm": "COL 3:5"
+},
+{
+"start_ref": "40005029",
+"start_ref_usfm": "MAT 5:29",
+"end_ref": "40005030",
+"end_ref_usfm": "MAT 5:30"
+},
+{
+"start_ref": "48005024",
+"start_ref_usfm": "GAL 5:24",
+"end_ref": "48005024",
+"end_ref_usfm": "GAL 5:24"
+},
+{
+"start_ref": "48006014",
+"start_ref_usfm": "GAL 6:14",
+"end_ref": "48006014",
+"end_ref_usfm": "GAL 6:14"
+},
+{
+"start_ref": "60002011",
+"start_ref_usfm": "1PE 2:11",
+"end_ref": "60002011",
+"end_ref_usfm": "1PE 2:11"
+},
+{
+"start_ref": "45006006",
+"start_ref_usfm": "ROM 6:6",
+"end_ref": "45006007",
+"end_ref_usfm": "ROM 6:7"
+},
+{
+"start_ref": "49004022",
+"start_ref_usfm": "EPH 4:22",
+"end_ref": "49004023",
+"end_ref_usfm": "EPH 4:23"
+},
+{
+"start_ref": "48002020",
+"start_ref_usfm": "GAL 2:20",
+"end_ref": "48002020",
+"end_ref_usfm": "GAL 2:20"
+},
+{
+"start_ref": "45006003",
+"start_ref_usfm": "ROM 6:3",
+"end_ref": "45006003",
+"end_ref_usfm": "ROM 6:3"
+},
+{
+"start_ref": "45007004",
+"start_ref_usfm": "ROM 7:4",
+"end_ref": "45007004",
+"end_ref_usfm": "ROM 7:4"
+},
+{
+"start_ref": "47004011",
+"start_ref_usfm": "2CO 4:11",
+"end_ref": "47004012",
+"end_ref_usfm": "2CO 4:12"
+},
+{
+"start_ref": "50003010",
+"start_ref_usfm": "PHP 3:10",
+"end_ref": "50003010",
+"end_ref_usfm": "PHP 3:10"
+},
+{
+"start_ref": "51002020",
+"start_ref_usfm": "COL 2:20",
+"end_ref": "51002020",
+"end_ref_usfm": "COL 2:20"
+},
+{
+"start_ref": "55002011",
+"start_ref_usfm": "2TI 2:11",
+"end_ref": "55002011",
+"end_ref_usfm": "2TI 2:11"
+},
+{
+"start_ref": "46009027",
+"start_ref_usfm": "1CO 9:27",
+"end_ref": "46009027",
+"end_ref_usfm": "1CO 9:27"
+},
+{
+"start_ref": "47011023",
+"start_ref_usfm": "2CO 11:23",
+"end_ref": "47011033",
+"end_ref_usfm": "2CO 11:33"
+},
+{
+"start_ref": "48006017",
+"start_ref_usfm": "GAL 6:17",
+"end_ref": "48006017",
+"end_ref_usfm": "GAL 6:17"
+},
+{
+"start_ref": "51002023",
+"start_ref_usfm": "COL 2:23",
+"end_ref": "51002023",
+"end_ref_usfm": "COL 2:23"
+},
+{
+"start_ref": "50003002",
+"start_ref_usfm": "PHP 3:2",
+"end_ref": "50003003",
+"end_ref_usfm": "PHP 3:3"
+},
+{
+"start_ref": "51002020",
+"start_ref_usfm": "COL 2:20",
+"end_ref": "51002022",
+"end_ref_usfm": "COL 2:22"
+},
+{
+"start_ref": "54004001",
+"start_ref_usfm": "1TI 4:1",
+"end_ref": "54004005",
+"end_ref_usfm": "1TI 4:5"
+}
+],
+"resource": [
+{
+"reference_id": "5879",
+"content_id": "5879",
+"resource_code": "DictionaryBibleThemes",
+"label": "5879: humiliation",
+"language": "eng"
+},
+{
+"reference_id": "5947",
+"content_id": "5947",
+"resource_code": "DictionaryBibleThemes",
+"label": "5947: shame",
+"language": "eng"
+},
+{
+"reference_id": "6030",
+"content_id": "6030",
+"resource_code": "DictionaryBibleThemes",
+"label": "6030: sin, avoidance of",
+"language": "eng"
+},
+{
+"reference_id": "6166",
+"content_id": "6166",
+"resource_code": "DictionaryBibleThemes",
+"label": "6166: flesh, sinful nature",
+"language": "eng"
+},
+{
+"reference_id": "6658",
+"content_id": "6658",
+"resource_code": "DictionaryBibleThemes",
+"label": "6658: freedom",
+"language": "eng"
+},
+{
+"reference_id": "8114",
+"content_id": "8114",
+"resource_code": "DictionaryBibleThemes",
+"label": "8114: discipleship",
+"language": "eng"
+},
+{
+"reference_id": "8429",
+"content_id": "8429",
+"resource_code": "DictionaryBibleThemes",
+"label": "8429: fasting",
+"language": "eng"
+},
+{
+"reference_id": "8475",
+"content_id": "8475",
+"resource_code": "DictionaryBibleThemes",
+"label": "8475: self-denial",
+"language": "eng"
+},
+{
+"reference_id": "8477",
+"content_id": "8477",
+"resource_code": "DictionaryBibleThemes",
+"label": "8477: self-examination",
+"language": "eng"
+}
+]
+}
+}
+]

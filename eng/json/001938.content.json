@@ -1,0 +1,53 @@
+[
+{
+"content_id": "7784",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7784: shepherd",
+"media_type": "Text",
+"index_reference": "7784: shepherd",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The work of a shepherd was important and responsible in the rural world of ancient Palestine. Since it involved leading, protecting and feeding a flock, it is seen as a metaphor for the task of leadership. Scripture declares that God is the Shepherd of his people.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7785",
+"content_id": "7785",
+"resource_code": "DictionaryBibleThemes",
+"label": "7785: shepherd, as occupation",
+"language": "eng"
+},
+{
+"reference_id": "7786",
+"content_id": "7786",
+"resource_code": "DictionaryBibleThemes",
+"label": "7786: shepherd, as king and leader",
+"language": "eng"
+},
+{
+"reference_id": "7787",
+"content_id": "7787",
+"resource_code": "DictionaryBibleThemes",
+"label": "7787: shepherd, God the",
+"language": "eng"
+},
+{
+"reference_id": "7788",
+"content_id": "7788",
+"resource_code": "DictionaryBibleThemes",
+"label": "7788: shepherd, Jesus Christ as",
+"language": "eng"
+},
+{
+"reference_id": "7789",
+"content_id": "7789",
+"resource_code": "DictionaryBibleThemes",
+"label": "7789: shepherd, as church leader",
+"language": "eng"
+}
+]
+}
+}
+]

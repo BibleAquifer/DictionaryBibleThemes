@@ -1,0 +1,295 @@
+[
+{
+"content_id": "5180",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5180: shaving",
+"media_type": "Text",
+"index_reference": "5180: shaving",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The removal of hair with a razor or other sharp implement. Both male and female Israelites allowed their hair to grow long. Barbers trimmed, but did not crop, men's hair, so giving special significance to the shaving of the head or whole body. These actions indicated shame or grief.</p>\n<h2>Personal toilet</h2>\n<p><a href=\"https://ref.ly/Gen41:14\">GEN 41:14</a>; ; <a href=\"https://ref.ly/2Sam14:26\">2SA 14:26</a></p>\n<h2>Symbolic shaving</h2>\n<h3>Shaved head a sign of grief</h3>\n<p><strong><a href=\"https://ref.ly/Job1:20\">JOB 1:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut21:10-Deut21:14\">DEU 21:10–21:14</a>; <a href=\"https://ref.ly/Isa15:2\">ISA 15:2</a>; <a href=\"https://ref.ly/Jer47:5\">JER 47:5</a>, <a href=\"https://ref.ly/Jer48:36-Jer48:37\">JER 48:36–48:37</a>; <a href=\"https://ref.ly/Ezek27:31\">EZK 27:31</a>; <a href=\"https://ref.ly/Amos8:10\">AMO 8:10</a>; <a href=\"https://ref.ly/Mic1:16\">MIC 1:16</a>; <a href=\"https://ref.ly/Jer7:29\">JER 7:29</a>, <a href=\"https://ref.ly/Jer41:5\">JER 41:5</a></p>\n<h3>A shaved head a sign of shame</h3>\n<p><strong><a href=\"https://ref.ly/2Sam10:4\">2SA 10:4</a></strong> parallel <a href=\"https://ref.ly/1Chr19:4\">1CH 19:4</a> <em>See also</em> <a href=\"https://ref.ly/Ezra9:3\">EZR 9:3</a>; <a href=\"https://ref.ly/Isa7:20\">ISA 7:20</a>, <a href=\"https://ref.ly/Isa50:6\">ISA 50:6</a>; <a href=\"https://ref.ly/Jer2:16\">JER 2:16</a>; <a href=\"https://ref.ly/Ezek7:18\">EZK 7:18</a>; <a href=\"https://ref.ly/1Cor11:5-1Cor11:6\">1CO 11:5–11:6</a></p>\n<h2>Shaving in ritual cleansing</h2>\n<p><a href=\"https://ref.ly/Lev14:8-Lev14:9\">LEV 14:8–14:9</a>; ; <a href=\"https://ref.ly/Num8:7\">NUM 8:7</a>; ; <a href=\"https://ref.ly/Acts21:24\">ACT 21:24</a></p>\n<h2>Shaving as a visual aid</h2>\n<p><a href=\"https://ref.ly/Ezek5:1-Ezek5:4\">EZK 5:1–5:4</a></p>\n<h2>After a period of dedication</h2>\n<p><a href=\"https://ref.ly/Num6:18\">NUM 6:18</a></p>\n<h2>Shaving forbidden</h2>\n<h3>As a pagan practice</h3>\n<p><strong><a href=\"https://ref.ly/Lev19:27\">LEV 19:27</a>, <a href=\"https://ref.ly/Lev21:5\">LEV 21:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut14:1\">DEU 14:1</a> <em>Pagans shaved the front of their heads as a sign of mourning.  God's people should have a different attitude to bereavement from those who have no hope</em>; <a href=\"https://ref.ly/Ezek44:20\">EZK 44:20</a></p>\n<h3>For the sake of a Nazarite vow</h3>\n<p><strong><a href=\"https://ref.ly/Num6:5\">NUM 6:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg16:17\">JDG 16:17</a>; <a href=\"https://ref.ly/1Sam1:11\">1SA 1:11</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01041014",
+"start_ref_usfm": "GEN 41:14",
+"end_ref": "01041014",
+"end_ref_usfm": "GEN 41:14"
+},
+{
+"start_ref": "10014026",
+"start_ref_usfm": "2SA 14:26",
+"end_ref": "10014026",
+"end_ref_usfm": "2SA 14:26"
+},
+{
+"start_ref": "18001020",
+"start_ref_usfm": "JOB 1:20",
+"end_ref": "18001020",
+"end_ref_usfm": "JOB 1:20"
+},
+{
+"start_ref": "05021010",
+"start_ref_usfm": "DEU 21:10",
+"end_ref": "05021014",
+"end_ref_usfm": "DEU 21:14"
+},
+{
+"start_ref": "23015002",
+"start_ref_usfm": "ISA 15:2",
+"end_ref": "23015002",
+"end_ref_usfm": "ISA 15:2"
+},
+{
+"start_ref": "24047005",
+"start_ref_usfm": "JER 47:5",
+"end_ref": "24047005",
+"end_ref_usfm": "JER 47:5"
+},
+{
+"start_ref": "24048036",
+"start_ref_usfm": "JER 48:36",
+"end_ref": "24048037",
+"end_ref_usfm": "JER 48:37"
+},
+{
+"start_ref": "26027031",
+"start_ref_usfm": "EZK 27:31",
+"end_ref": "26027031",
+"end_ref_usfm": "EZK 27:31"
+},
+{
+"start_ref": "30008010",
+"start_ref_usfm": "AMO 8:10",
+"end_ref": "30008010",
+"end_ref_usfm": "AMO 8:10"
+},
+{
+"start_ref": "33001016",
+"start_ref_usfm": "MIC 1:16",
+"end_ref": "33001016",
+"end_ref_usfm": "MIC 1:16"
+},
+{
+"start_ref": "24007029",
+"start_ref_usfm": "JER 7:29",
+"end_ref": "24007029",
+"end_ref_usfm": "JER 7:29"
+},
+{
+"start_ref": "24041005",
+"start_ref_usfm": "JER 41:5",
+"end_ref": "24041005",
+"end_ref_usfm": "JER 41:5"
+},
+{
+"start_ref": "10010004",
+"start_ref_usfm": "2SA 10:4",
+"end_ref": "10010004",
+"end_ref_usfm": "2SA 10:4"
+},
+{
+"start_ref": "13019004",
+"start_ref_usfm": "1CH 19:4",
+"end_ref": "13019004",
+"end_ref_usfm": "1CH 19:4"
+},
+{
+"start_ref": "15009003",
+"start_ref_usfm": "EZR 9:3",
+"end_ref": "15009003",
+"end_ref_usfm": "EZR 9:3"
+},
+{
+"start_ref": "23007020",
+"start_ref_usfm": "ISA 7:20",
+"end_ref": "23007020",
+"end_ref_usfm": "ISA 7:20"
+},
+{
+"start_ref": "23050006",
+"start_ref_usfm": "ISA 50:6",
+"end_ref": "23050006",
+"end_ref_usfm": "ISA 50:6"
+},
+{
+"start_ref": "24002016",
+"start_ref_usfm": "JER 2:16",
+"end_ref": "24002016",
+"end_ref_usfm": "JER 2:16"
+},
+{
+"start_ref": "26007018",
+"start_ref_usfm": "EZK 7:18",
+"end_ref": "26007018",
+"end_ref_usfm": "EZK 7:18"
+},
+{
+"start_ref": "46011005",
+"start_ref_usfm": "1CO 11:5",
+"end_ref": "46011006",
+"end_ref_usfm": "1CO 11:6"
+},
+{
+"start_ref": "03014008",
+"start_ref_usfm": "LEV 14:8",
+"end_ref": "03014009",
+"end_ref_usfm": "LEV 14:9"
+},
+{
+"start_ref": "04008007",
+"start_ref_usfm": "NUM 8:7",
+"end_ref": "04008007",
+"end_ref_usfm": "NUM 8:7"
+},
+{
+"start_ref": "44021024",
+"start_ref_usfm": "ACT 21:24",
+"end_ref": "44021024",
+"end_ref_usfm": "ACT 21:24"
+},
+{
+"start_ref": "26005001",
+"start_ref_usfm": "EZK 5:1",
+"end_ref": "26005004",
+"end_ref_usfm": "EZK 5:4"
+},
+{
+"start_ref": "04006018",
+"start_ref_usfm": "NUM 6:18",
+"end_ref": "04006018",
+"end_ref_usfm": "NUM 6:18"
+},
+{
+"start_ref": "03019027",
+"start_ref_usfm": "LEV 19:27",
+"end_ref": "03019027",
+"end_ref_usfm": "LEV 19:27"
+},
+{
+"start_ref": "03021005",
+"start_ref_usfm": "LEV 21:5",
+"end_ref": "03021005",
+"end_ref_usfm": "LEV 21:5"
+},
+{
+"start_ref": "05014001",
+"start_ref_usfm": "DEU 14:1",
+"end_ref": "05014001",
+"end_ref_usfm": "DEU 14:1"
+},
+{
+"start_ref": "26044020",
+"start_ref_usfm": "EZK 44:20",
+"end_ref": "26044020",
+"end_ref_usfm": "EZK 44:20"
+},
+{
+"start_ref": "04006005",
+"start_ref_usfm": "NUM 6:5",
+"end_ref": "04006005",
+"end_ref_usfm": "NUM 6:5"
+},
+{
+"start_ref": "07016017",
+"start_ref_usfm": "JDG 16:17",
+"end_ref": "07016017",
+"end_ref_usfm": "JDG 16:17"
+},
+{
+"start_ref": "09001011",
+"start_ref_usfm": "1SA 1:11",
+"end_ref": "09001011",
+"end_ref_usfm": "1SA 1:11"
+}
+],
+"resource": [
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "5128",
+"content_id": "5128",
+"resource_code": "DictionaryBibleThemes",
+"label": "5128: baldness",
+"language": "eng"
+},
+{
+"reference_id": "5155",
+"content_id": "5155",
+"resource_code": "DictionaryBibleThemes",
+"label": "5155: hair",
+"language": "eng"
+},
+{
+"reference_id": "5372",
+"content_id": "5372",
+"resource_code": "DictionaryBibleThemes",
+"label": "5372: knife",
+"language": "eng"
+},
+{
+"reference_id": "5836",
+"content_id": "5836",
+"resource_code": "DictionaryBibleThemes",
+"label": "5836: disgrace",
+"language": "eng"
+},
+{
+"reference_id": "5938",
+"content_id": "5938",
+"resource_code": "DictionaryBibleThemes",
+"label": "5938: sadness",
+"language": "eng"
+},
+{
+"reference_id": "5947",
+"content_id": "5947",
+"resource_code": "DictionaryBibleThemes",
+"label": "5947: shame",
+"language": "eng"
+},
+{
+"reference_id": "5952",
+"content_id": "5952",
+"resource_code": "DictionaryBibleThemes",
+"label": "5952: sorrow",
+"language": "eng"
+},
+{
+"reference_id": "7342",
+"content_id": "7342",
+"resource_code": "DictionaryBibleThemes",
+"label": "7342: cleanliness",
+"language": "eng"
+},
+{
+"reference_id": "7424",
+"content_id": "7424",
+"resource_code": "DictionaryBibleThemes",
+"label": "7424: ritual law",
+"language": "eng"
+},
+{
+"reference_id": "8218",
+"content_id": "8218",
+"resource_code": "DictionaryBibleThemes",
+"label": "8218: consecration",
+"language": "eng"
+},
+{
+"reference_id": "8223",
+"content_id": "8223",
+"resource_code": "DictionaryBibleThemes",
+"label": "8223: dedication",
+"language": "eng"
+}
+]
+}
+}
+]

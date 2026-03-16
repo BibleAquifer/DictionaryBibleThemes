@@ -1,0 +1,39 @@
+[
+{
+"content_id": "8469",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8469: respect",
+"media_type": "Text",
+"index_reference": "8469: respect",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An attitude of reverence and deference, reflecting an appreciation of the significance of the person or thing that is esteemed.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8470",
+"content_id": "8470",
+"resource_code": "DictionaryBibleThemes",
+"label": "8470: respect, for God's character",
+"language": "eng"
+},
+{
+"reference_id": "8471",
+"content_id": "8471",
+"resource_code": "DictionaryBibleThemes",
+"label": "8471: respect, for human beings",
+"language": "eng"
+},
+{
+"reference_id": "8472",
+"content_id": "8472",
+"resource_code": "DictionaryBibleThemes",
+"label": "8472: respect, for environment",
+"language": "eng"
+}
+]
+}
+}
+]

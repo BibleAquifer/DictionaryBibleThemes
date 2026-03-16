@@ -1,0 +1,225 @@
+[
+{
+"content_id": "5037",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5037: mind, of Christ",
+"media_type": "Text",
+"index_reference": "5037: mind, of christ",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The mind of Christ reveals the essence of God's nature. Jesus Christ desires that his followers adopt his attitudes; this comes about through the work of the Holy Spirit.</p>\n<h2>The mind of Christ discloses the mind of God</h2>\n<h3>In relation to righteousness, holiness and the law</h3>\n<p><strong><a href=\"https://ref.ly/John14:9-John14:11\">JHN 14:9–14:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt5:17\">MAT 5:17</a>; <a href=\"https://ref.ly/John15:10\">JHN 15:10</a>; <a href=\"https://ref.ly/1Cor1:30\">1CO 1:30</a></p>\n<h3>In mercy</h3>\n<p><strong><a href=\"https://ref.ly/1Tim1:15-1Tim1:16\">1TI 1:15–1:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt9:12-Matt9:13\">MAT 9:12–9:13</a> parallels <a href=\"https://ref.ly/Mark2:17\">MRK 2:17</a>, <a href=\"https://ref.ly/Luke5:31-Luke5:32\">LUK 5:31–5:32</a>; <a href=\"https://ref.ly/Hos6:6\">HOS 6:6</a>; <a href=\"https://ref.ly/Matt23:23\">MAT 23:23</a>; <a href=\"https://ref.ly/Jude1:21\">JUD 1:21</a></p>\n<h2>The mind of Christ is made known to believers by the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/John14:26\">JHN 14:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/John16:12-John16:15\">JHN 16:12–16:15</a>; <a href=\"https://ref.ly/Rom8:9\">ROM 8:9</a>; <a href=\"https://ref.ly/1Cor2:11-1Cor2:13\">1CO 2:11–2:13</a></p>\n<h3>The plans and purposes of Jesus Christ are made known to the first Christians by the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/Acts16:6-Acts16:7\">ACT 16:6–16:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts8:29\">ACT 8:29</a>, <a href=\"https://ref.ly/Acts10:19\">ACT 10:19</a>, <a href=\"https://ref.ly/Acts11:12\">ACT 11:12</a>, <a href=\"https://ref.ly/Acts11:28\">ACT 11:28</a>, <a href=\"https://ref.ly/Acts13:2\">ACT 13:2</a>, <a href=\"https://ref.ly/Acts15:28\">ACT 15:28</a></p>\n<h2>Knowledge of the mind of Christ leads to holiness</h2>\n<p><strong><a href=\"https://ref.ly/1Cor2:14-1Cor2:16\">1CO 2:14–2:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil2:5-Phil2:11\">PHP 2:5–2:11</a>; <a href=\"https://ref.ly/1Pet4:1-1Pet4:2\">1PE 4:1–4:2</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "43014009",
+"start_ref_usfm": "JHN 14:9",
+"end_ref": "43014011",
+"end_ref_usfm": "JHN 14:11"
+},
+{
+"start_ref": "40005017",
+"start_ref_usfm": "MAT 5:17",
+"end_ref": "40005017",
+"end_ref_usfm": "MAT 5:17"
+},
+{
+"start_ref": "43015010",
+"start_ref_usfm": "JHN 15:10",
+"end_ref": "43015010",
+"end_ref_usfm": "JHN 15:10"
+},
+{
+"start_ref": "46001030",
+"start_ref_usfm": "1CO 1:30",
+"end_ref": "46001030",
+"end_ref_usfm": "1CO 1:30"
+},
+{
+"start_ref": "54001015",
+"start_ref_usfm": "1TI 1:15",
+"end_ref": "54001016",
+"end_ref_usfm": "1TI 1:16"
+},
+{
+"start_ref": "40009012",
+"start_ref_usfm": "MAT 9:12",
+"end_ref": "40009013",
+"end_ref_usfm": "MAT 9:13"
+},
+{
+"start_ref": "41002017",
+"start_ref_usfm": "MRK 2:17",
+"end_ref": "41002017",
+"end_ref_usfm": "MRK 2:17"
+},
+{
+"start_ref": "42005031",
+"start_ref_usfm": "LUK 5:31",
+"end_ref": "42005032",
+"end_ref_usfm": "LUK 5:32"
+},
+{
+"start_ref": "28006006",
+"start_ref_usfm": "HOS 6:6",
+"end_ref": "28006006",
+"end_ref_usfm": "HOS 6:6"
+},
+{
+"start_ref": "40023023",
+"start_ref_usfm": "MAT 23:23",
+"end_ref": "40023023",
+"end_ref_usfm": "MAT 23:23"
+},
+{
+"start_ref": "65001021",
+"start_ref_usfm": "JUD 1:21",
+"end_ref": "65001021",
+"end_ref_usfm": "JUD 1:21"
+},
+{
+"start_ref": "43014026",
+"start_ref_usfm": "JHN 14:26",
+"end_ref": "43014026",
+"end_ref_usfm": "JHN 14:26"
+},
+{
+"start_ref": "43016012",
+"start_ref_usfm": "JHN 16:12",
+"end_ref": "43016015",
+"end_ref_usfm": "JHN 16:15"
+},
+{
+"start_ref": "45008009",
+"start_ref_usfm": "ROM 8:9",
+"end_ref": "45008009",
+"end_ref_usfm": "ROM 8:9"
+},
+{
+"start_ref": "46002011",
+"start_ref_usfm": "1CO 2:11",
+"end_ref": "46002013",
+"end_ref_usfm": "1CO 2:13"
+},
+{
+"start_ref": "44016006",
+"start_ref_usfm": "ACT 16:6",
+"end_ref": "44016007",
+"end_ref_usfm": "ACT 16:7"
+},
+{
+"start_ref": "44008029",
+"start_ref_usfm": "ACT 8:29",
+"end_ref": "44008029",
+"end_ref_usfm": "ACT 8:29"
+},
+{
+"start_ref": "44010019",
+"start_ref_usfm": "ACT 10:19",
+"end_ref": "44010019",
+"end_ref_usfm": "ACT 10:19"
+},
+{
+"start_ref": "44011012",
+"start_ref_usfm": "ACT 11:12",
+"end_ref": "44011012",
+"end_ref_usfm": "ACT 11:12"
+},
+{
+"start_ref": "44011028",
+"start_ref_usfm": "ACT 11:28",
+"end_ref": "44011028",
+"end_ref_usfm": "ACT 11:28"
+},
+{
+"start_ref": "44013002",
+"start_ref_usfm": "ACT 13:2",
+"end_ref": "44013002",
+"end_ref_usfm": "ACT 13:2"
+},
+{
+"start_ref": "44015028",
+"start_ref_usfm": "ACT 15:28",
+"end_ref": "44015028",
+"end_ref_usfm": "ACT 15:28"
+},
+{
+"start_ref": "46002014",
+"start_ref_usfm": "1CO 2:14",
+"end_ref": "46002016",
+"end_ref_usfm": "1CO 2:16"
+},
+{
+"start_ref": "50002005",
+"start_ref_usfm": "PHP 2:5",
+"end_ref": "50002011",
+"end_ref_usfm": "PHP 2:11"
+},
+{
+"start_ref": "60004001",
+"start_ref_usfm": "1PE 4:1",
+"end_ref": "60004002",
+"end_ref_usfm": "1PE 4:2"
+}
+],
+"resource": [
+{
+"reference_id": "2054",
+"content_id": "2054",
+"resource_code": "DictionaryBibleThemes",
+"label": "2054: Jesus Christ, mind of",
+"language": "eng"
+},
+{
+"reference_id": "3263",
+"content_id": "3263",
+"resource_code": "DictionaryBibleThemes",
+"label": "3263: Holy Spirit, guidance of",
+"language": "eng"
+},
+{
+"reference_id": "5135",
+"content_id": "5135",
+"resource_code": "DictionaryBibleThemes",
+"label": "5135: blindness, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "5766",
+"content_id": "5766",
+"resource_code": "DictionaryBibleThemes",
+"label": "5766: attitudes, to life",
+"language": "eng"
+},
+{
+"reference_id": "8128",
+"content_id": "8128",
+"resource_code": "DictionaryBibleThemes",
+"label": "8128: guidance, receiving God's",
+"language": "eng"
+},
+{
+"reference_id": "8226",
+"content_id": "8226",
+"resource_code": "DictionaryBibleThemes",
+"label": "8226: discernment",
+"language": "eng"
+},
+{
+"reference_id": "8272",
+"content_id": "8272",
+"resource_code": "DictionaryBibleThemes",
+"label": "8272: holiness, believers' growth in",
+"language": "eng"
+},
+{
+"reference_id": "8347",
+"content_id": "8347",
+"resource_code": "DictionaryBibleThemes",
+"label": "8347: spiritual growth",
+"language": "eng"
+}
+]
+}
+}
+]

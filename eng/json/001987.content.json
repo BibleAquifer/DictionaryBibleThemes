@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8010",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8010: Faith",
+"media_type": "Text",
+"index_reference": "8010: faith",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"8020\" data-resourcetype=\"DictionaryOfBibleThemes\">8020: faith</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8030\" data-resourcetype=\"DictionaryOfBibleThemes\">8030: trust</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8020",
+"content_id": "8020",
+"resource_code": "DictionaryBibleThemes",
+"label": "8020: faith",
+"language": "eng"
+},
+{
+"reference_id": "8030",
+"content_id": "8030",
+"resource_code": "DictionaryBibleThemes",
+"label": "8030: trust",
+"language": "eng"
+}
+]
+}
+}
+]

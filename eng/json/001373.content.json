@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5852",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5852: experience",
+"media_type": "Text",
+"index_reference": "5852: experience",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The direct personal knowledge of people and situations which comes from a firsthand encounter with life. To experience God is to encounter and know him directly, rather than merely to know facts about him.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5853",
+"content_id": "5853",
+"resource_code": "DictionaryBibleThemes",
+"label": "5853: experience, of life",
+"language": "eng"
+},
+{
+"reference_id": "5854",
+"content_id": "5854",
+"resource_code": "DictionaryBibleThemes",
+"label": "5854: experience, of God",
+"language": "eng"
+}
+]
+}
+}
+]

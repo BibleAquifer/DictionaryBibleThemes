@@ -1,0 +1,241 @@
+[
+{
+"content_id": "2520",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "2520: Jesus Christ, childhood of",
+"media_type": "Text",
+"index_reference": "2520: jesus christ, childhood of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>As an infant Jesus Christ was consecrated in the temple, accompanied by prophetic utterances regarding his future ministry. His childhood was characterised by a growth in wisdom and grace and, in particular, a strong desire to learn of God his Father and to understand the Scriptures.</p>\n<h2>Jesus Christ was consecrated as an infant</h2>\n<p><strong><a href=\"https://ref.ly/Luke2:22\">LUK 2:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke2:23-Luke2:24\">LUK 2:23–2:24</a></p>\n<h2>Indications of Jesus Christ's future ministry were revealed</h2>\n<h3>Through the words of Simeon</h3>\n<p><strong><a href=\"https://ref.ly/Luke2:30-Luke2:32\">LUK 2:30–2:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke2:25-Luke2:29\">LUK 2:25–2:29</a>, <a href=\"https://ref.ly/Luke2:34-Luke2:35\">LUK 2:34–2:35</a></p>\n<h3>Through the words of Anna</h3>\n<p><strong><a href=\"https://ref.ly/Luke2:38\">LUK 2:38</a></strong></p>\n<h2>The visit of the Magi</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Matt2:1-Matt2:12\">MAT 2:1–2:12</a></p>\n<h2>The escape to Egypt</h2>\n<p><strong><a href=\"https://ref.ly/Matt2:13-Matt2:15\">MAT 2:13–2:15</a></strong></p>\n<h2>The return from Egypt</h2>\n<p><strong><a href=\"https://ref.ly/Matt2:19-Matt2:20\">MAT 2:19–2:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt2:15\">MAT 2:15</a>; <a href=\"https://ref.ly/Hos11:1\">HOS 11:1</a>; <a href=\"https://ref.ly/Matt2:21\">MAT 2:21</a></p>\n<h2>Jesus Christ lives in Nazareth</h2>\n<p><strong><a href=\"https://ref.ly/Matt2:22-Matt2:23\">MAT 2:22–2:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke2:39\">LUK 2:39</a></p>\n<h2>Jesus Christ grows up</h2>\n<p><strong><a href=\"https://ref.ly/Luke2:40\">LUK 2:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke2:52\">LUK 2:52</a></p>\n<h2>Jesus Christ visited the temple</h2>\n<h3>He celebrates the Passover there</h3>\n<p><a href=\"https://ref.ly/Luke2:41-Luke2:42\">LUK 2:41–2:42</a></p>\n<h3>He stays behind in the temple</h3>\n<p><a href=\"https://ref.ly/Luke2:43-Luke2:45\">LUK 2:43–2:45</a>, <a href=\"https://ref.ly/Luke2:48-Luke2:50\">LUK 2:48–2:50</a></p>\n<h3>He displays his understanding of the Scriptures there</h3>\n<p><strong><a href=\"https://ref.ly/Luke2:46-Luke2:47\">LUK 2:46–2:47</a></strong></p>\n<h2>The obedience of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Luke2:51\">LUK 2:51</a></strong></p>\n<h2>Mary and Joseph remember the sayings and events of Jesus Christ's childhood</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Luke2:19\">LUK 2:19</a>, <a href=\"https://ref.ly/Luke2:33\">LUK 2:33</a>, <a href=\"https://ref.ly/Luke2:51\">LUK 2:51</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42002022",
+"start_ref_usfm": "LUK 2:22",
+"end_ref": "42002022",
+"end_ref_usfm": "LUK 2:22"
+},
+{
+"start_ref": "42002023",
+"start_ref_usfm": "LUK 2:23",
+"end_ref": "42002024",
+"end_ref_usfm": "LUK 2:24"
+},
+{
+"start_ref": "42002030",
+"start_ref_usfm": "LUK 2:30",
+"end_ref": "42002032",
+"end_ref_usfm": "LUK 2:32"
+},
+{
+"start_ref": "42002025",
+"start_ref_usfm": "LUK 2:25",
+"end_ref": "42002029",
+"end_ref_usfm": "LUK 2:29"
+},
+{
+"start_ref": "42002034",
+"start_ref_usfm": "LUK 2:34",
+"end_ref": "42002035",
+"end_ref_usfm": "LUK 2:35"
+},
+{
+"start_ref": "42002038",
+"start_ref_usfm": "LUK 2:38",
+"end_ref": "42002038",
+"end_ref_usfm": "LUK 2:38"
+},
+{
+"start_ref": "40002001",
+"start_ref_usfm": "MAT 2:1",
+"end_ref": "40002012",
+"end_ref_usfm": "MAT 2:12"
+},
+{
+"start_ref": "40002013",
+"start_ref_usfm": "MAT 2:13",
+"end_ref": "40002015",
+"end_ref_usfm": "MAT 2:15"
+},
+{
+"start_ref": "40002019",
+"start_ref_usfm": "MAT 2:19",
+"end_ref": "40002020",
+"end_ref_usfm": "MAT 2:20"
+},
+{
+"start_ref": "40002015",
+"start_ref_usfm": "MAT 2:15",
+"end_ref": "40002015",
+"end_ref_usfm": "MAT 2:15"
+},
+{
+"start_ref": "28011001",
+"start_ref_usfm": "HOS 11:1",
+"end_ref": "28011001",
+"end_ref_usfm": "HOS 11:1"
+},
+{
+"start_ref": "40002021",
+"start_ref_usfm": "MAT 2:21",
+"end_ref": "40002021",
+"end_ref_usfm": "MAT 2:21"
+},
+{
+"start_ref": "40002022",
+"start_ref_usfm": "MAT 2:22",
+"end_ref": "40002023",
+"end_ref_usfm": "MAT 2:23"
+},
+{
+"start_ref": "42002039",
+"start_ref_usfm": "LUK 2:39",
+"end_ref": "42002039",
+"end_ref_usfm": "LUK 2:39"
+},
+{
+"start_ref": "42002040",
+"start_ref_usfm": "LUK 2:40",
+"end_ref": "42002040",
+"end_ref_usfm": "LUK 2:40"
+},
+{
+"start_ref": "42002052",
+"start_ref_usfm": "LUK 2:52",
+"end_ref": "42002052",
+"end_ref_usfm": "LUK 2:52"
+},
+{
+"start_ref": "42002041",
+"start_ref_usfm": "LUK 2:41",
+"end_ref": "42002042",
+"end_ref_usfm": "LUK 2:42"
+},
+{
+"start_ref": "42002043",
+"start_ref_usfm": "LUK 2:43",
+"end_ref": "42002045",
+"end_ref_usfm": "LUK 2:45"
+},
+{
+"start_ref": "42002048",
+"start_ref_usfm": "LUK 2:48",
+"end_ref": "42002050",
+"end_ref_usfm": "LUK 2:50"
+},
+{
+"start_ref": "42002046",
+"start_ref_usfm": "LUK 2:46",
+"end_ref": "42002047",
+"end_ref_usfm": "LUK 2:47"
+},
+{
+"start_ref": "42002051",
+"start_ref_usfm": "LUK 2:51",
+"end_ref": "42002051",
+"end_ref_usfm": "LUK 2:51"
+},
+{
+"start_ref": "42002019",
+"start_ref_usfm": "LUK 2:19",
+"end_ref": "42002019",
+"end_ref_usfm": "LUK 2:19"
+},
+{
+"start_ref": "42002033",
+"start_ref_usfm": "LUK 2:33",
+"end_ref": "42002033",
+"end_ref_usfm": "LUK 2:33"
+}
+],
+"resource": [
+{
+"reference_id": "1427",
+"content_id": "1427",
+"resource_code": "DictionaryBibleThemes",
+"label": "1427: prophecy",
+"language": "eng"
+},
+{
+"reference_id": "2033",
+"content_id": "2033",
+"resource_code": "DictionaryBibleThemes",
+"label": "2033: Jesus Christ, humanity of",
+"language": "eng"
+},
+{
+"reference_id": "2057",
+"content_id": "2057",
+"resource_code": "DictionaryBibleThemes",
+"label": "2057: Jesus Christ, obedience of",
+"language": "eng"
+},
+{
+"reference_id": "2081",
+"content_id": "2081",
+"resource_code": "DictionaryBibleThemes",
+"label": "2081: Jesus Christ, wisdom of",
+"language": "eng"
+},
+{
+"reference_id": "2218",
+"content_id": "2218",
+"resource_code": "DictionaryBibleThemes",
+"label": "2218: Jesus Christ, Son of God",
+"language": "eng"
+},
+{
+"reference_id": "2333",
+"content_id": "2333",
+"resource_code": "DictionaryBibleThemes",
+"label": "2333: Jesus Christ, attitude to OT",
+"language": "eng"
+},
+{
+"reference_id": "2366",
+"content_id": "2366",
+"resource_code": "DictionaryBibleThemes",
+"label": "2366: Jesus Christ, prophecies concerning",
+"language": "eng"
+},
+{
+"reference_id": "2515",
+"content_id": "2515",
+"resource_code": "DictionaryBibleThemes",
+"label": "2515: Jesus Christ, birth of",
+"language": "eng"
+},
+{
+"reference_id": "2535",
+"content_id": "2535",
+"resource_code": "DictionaryBibleThemes",
+"label": "2535: Jesus Christ, family of",
+"language": "eng"
+},
+{
+"reference_id": "5099",
+"content_id": "5099",
+"resource_code": "DictionaryBibleThemes",
+"label": "5099: Mary, mother of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "5669",
+"content_id": "5669",
+"resource_code": "DictionaryBibleThemes",
+"label": "5669: children, examples of",
+"language": "eng"
+},
+{
+"reference_id": "5688",
+"content_id": "5688",
+"resource_code": "DictionaryBibleThemes",
+"label": "5688: firstborn",
+"language": "eng"
+}
+]
+}
+}
+]

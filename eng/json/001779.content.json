@@ -1,0 +1,218 @@
+[
+{
+"content_id": "7335",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7335: circumcision, physical",
+"media_type": "Text",
+"index_reference": "7335: circumcision, physical",
+"language": "eng",
+"review_level": "None",
+"content": "<p>In the OT, circumcision is seen as an outward sign of membership of Israel, the people of God.</p>\n<h2>The significance of circumcision in God's covenant with Abraham</h2>\n<p><strong><a href=\"https://ref.ly/Gen17:10-Gen17:14\">GEN 17:10–17:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts7:8\">ACT 7:8</a></p>\n<h3>Circumcision is also for Abraham's descendants</h3>\n<p><a href=\"https://ref.ly/Gen17:7\">GEN 17:7</a></p>\n<h2>Circumcision as a sign of national identity</h2>\n<p>Dinah's brothers and the Shechemites:\n <a href=\"https://ref.ly/Gen34:8-Gen34:9\">GEN 34:8–34:9</a>, <a href=\"https://ref.ly/Gen34:14-Gen34:17\">GEN 34:14–34:17</a>; \n<a href=\"https://ref.ly/Exod4:24-Exod4:26\">EXO 4:24–4:26</a>; ; <a href=\"https://ref.ly/Josh5:4-Josh5:8\">JOS 5:4–5:8</a></p>\n<h2>Circumcision is integrated into the Mosaic law</h2>\n<p><a href=\"https://ref.ly/Lev12:3\">LEV 12:3</a>; ; <a href=\"https://ref.ly/John7:22\">JHN 7:22</a> <em>It was later sometimes forgotten that circumcision predated the Mosaic law.</em></p>\n<h2>Circumcision as an important Passover restriction</h2>\n<p><a href=\"https://ref.ly/Exod12:44\">EXO 12:44</a>, <a href=\"https://ref.ly/Exod12:48-Exod12:49\">EXO 12:48–12:49</a>; ; <a href=\"https://ref.ly/Judg14:3\">JDG 14:3</a> <em>Some of Israel's neighbours practised circumcision, but not the Philistines.</em></p>\n<h2>Circumcision was not necessarily a sign of consecration to God</h2>\n<p><a href=\"https://ref.ly/Jer9:25-Jer9:26\">JER 9:25–9:26</a></p>\n<h2>NT accounts of circumcision practised in obedience to the law</h2>\n<p><a href=\"https://ref.ly/Luke1:59\">LUK 1:59</a> <em>John</em>; ; <a href=\"https://ref.ly/Luke2:21\">LUK 2:21</a> <em>Jesus Christ</em>; ; <a href=\"https://ref.ly/John7:23\">JHN 7:23</a> <em>Circumcision was permitted on the Sabbath</em>; ; <a href=\"https://ref.ly/Phil3:5\">PHP 3:5</a> <em>Paul refers to his own circumcision</em>; ; <a href=\"https://ref.ly/Acts16:3\">ACT 16:3</a> <em>Timothy</em></p>\n<h2>The subject of circumcision debated by the first Christians</h2>\n<p><a href=\"https://ref.ly/Acts10:45\">ACT 10:45</a>, <a href=\"https://ref.ly/Acts11:2\">ACT 11:2</a>, <a href=\"https://ref.ly/Acts15:5\">ACT 15:5</a>; ; <a href=\"https://ref.ly/Gal2:3\">GAL 2:3</a> <em>That Titus, a Greek, was not required to be circumcised illustrates the change in the attitude of the church concerning the relevance of the law to Gentile believers</em>; ; <a href=\"https://ref.ly/Eph2:11\">EPH 2:11</a>; ; <a href=\"https://ref.ly/Col3:11\">COL 3:11</a>; ; <a href=\"https://ref.ly/Titus1:10\">TIT 1:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01017010",
+"start_ref_usfm": "GEN 17:10",
+"end_ref": "01017014",
+"end_ref_usfm": "GEN 17:14"
+},
+{
+"start_ref": "44007008",
+"start_ref_usfm": "ACT 7:8",
+"end_ref": "44007008",
+"end_ref_usfm": "ACT 7:8"
+},
+{
+"start_ref": "01017007",
+"start_ref_usfm": "GEN 17:7",
+"end_ref": "01017007",
+"end_ref_usfm": "GEN 17:7"
+},
+{
+"start_ref": "01034008",
+"start_ref_usfm": "GEN 34:8",
+"end_ref": "01034009",
+"end_ref_usfm": "GEN 34:9"
+},
+{
+"start_ref": "01034014",
+"start_ref_usfm": "GEN 34:14",
+"end_ref": "01034017",
+"end_ref_usfm": "GEN 34:17"
+},
+{
+"start_ref": "02004024",
+"start_ref_usfm": "EXO 4:24",
+"end_ref": "02004026",
+"end_ref_usfm": "EXO 4:26"
+},
+{
+"start_ref": "06005004",
+"start_ref_usfm": "JOS 5:4",
+"end_ref": "06005008",
+"end_ref_usfm": "JOS 5:8"
+},
+{
+"start_ref": "03012003",
+"start_ref_usfm": "LEV 12:3",
+"end_ref": "03012003",
+"end_ref_usfm": "LEV 12:3"
+},
+{
+"start_ref": "43007022",
+"start_ref_usfm": "JHN 7:22",
+"end_ref": "43007022",
+"end_ref_usfm": "JHN 7:22"
+},
+{
+"start_ref": "02012044",
+"start_ref_usfm": "EXO 12:44",
+"end_ref": "02012044",
+"end_ref_usfm": "EXO 12:44"
+},
+{
+"start_ref": "02012048",
+"start_ref_usfm": "EXO 12:48",
+"end_ref": "02012049",
+"end_ref_usfm": "EXO 12:49"
+},
+{
+"start_ref": "07014003",
+"start_ref_usfm": "JDG 14:3",
+"end_ref": "07014003",
+"end_ref_usfm": "JDG 14:3"
+},
+{
+"start_ref": "24009025",
+"start_ref_usfm": "JER 9:25",
+"end_ref": "24009026",
+"end_ref_usfm": "JER 9:26"
+},
+{
+"start_ref": "42001059",
+"start_ref_usfm": "LUK 1:59",
+"end_ref": "42001059",
+"end_ref_usfm": "LUK 1:59"
+},
+{
+"start_ref": "42002021",
+"start_ref_usfm": "LUK 2:21",
+"end_ref": "42002021",
+"end_ref_usfm": "LUK 2:21"
+},
+{
+"start_ref": "43007023",
+"start_ref_usfm": "JHN 7:23",
+"end_ref": "43007023",
+"end_ref_usfm": "JHN 7:23"
+},
+{
+"start_ref": "50003005",
+"start_ref_usfm": "PHP 3:5",
+"end_ref": "50003005",
+"end_ref_usfm": "PHP 3:5"
+},
+{
+"start_ref": "44016003",
+"start_ref_usfm": "ACT 16:3",
+"end_ref": "44016003",
+"end_ref_usfm": "ACT 16:3"
+},
+{
+"start_ref": "44010045",
+"start_ref_usfm": "ACT 10:45",
+"end_ref": "44010045",
+"end_ref_usfm": "ACT 10:45"
+},
+{
+"start_ref": "44011002",
+"start_ref_usfm": "ACT 11:2",
+"end_ref": "44011002",
+"end_ref_usfm": "ACT 11:2"
+},
+{
+"start_ref": "44015005",
+"start_ref_usfm": "ACT 15:5",
+"end_ref": "44015005",
+"end_ref_usfm": "ACT 15:5"
+},
+{
+"start_ref": "48002003",
+"start_ref_usfm": "GAL 2:3",
+"end_ref": "48002003",
+"end_ref_usfm": "GAL 2:3"
+},
+{
+"start_ref": "49002011",
+"start_ref_usfm": "EPH 2:11",
+"end_ref": "49002011",
+"end_ref_usfm": "EPH 2:11"
+},
+{
+"start_ref": "51003011",
+"start_ref_usfm": "COL 3:11",
+"end_ref": "51003011",
+"end_ref_usfm": "COL 3:11"
+},
+{
+"start_ref": "56001010",
+"start_ref_usfm": "TIT 1:10",
+"end_ref": "56001010",
+"end_ref_usfm": "TIT 1:10"
+}
+],
+"resource": [
+{
+"reference_id": "1348",
+"content_id": "1348",
+"resource_code": "DictionaryBibleThemes",
+"label": "1348: covenant, God's with Abraham",
+"language": "eng"
+},
+{
+"reference_id": "1680",
+"content_id": "1680",
+"resource_code": "DictionaryBibleThemes",
+"label": "1680: types",
+"language": "eng"
+},
+{
+"reference_id": "5378",
+"content_id": "5378",
+"resource_code": "DictionaryBibleThemes",
+"label": "5378: law, OT",
+"language": "eng"
+},
+{
+"reference_id": "6260",
+"content_id": "6260",
+"resource_code": "DictionaryBibleThemes",
+"label": "6260: uncircumcised",
+"language": "eng"
+},
+{
+"reference_id": "7140",
+"content_id": "7140",
+"resource_code": "DictionaryBibleThemes",
+"label": "7140: people of God",
+"language": "eng"
+},
+{
+"reference_id": "7422",
+"content_id": "7422",
+"resource_code": "DictionaryBibleThemes",
+"label": "7422: ritual",
+"language": "eng"
+},
+{
+"reference_id": "7957",
+"content_id": "7957",
+"resource_code": "DictionaryBibleThemes",
+"label": "7957: sacraments",
+"language": "eng"
+}
+]
+}
+}
+]

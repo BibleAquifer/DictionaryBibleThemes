@@ -1,0 +1,88 @@
+[
+{
+"content_id": "6020",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6020: sin",
+"media_type": "Text",
+"index_reference": "6020: sin",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Primarily a wrong relationship with God, which may express itself in wrong attitudes or actions towards God himself, other human beings, possessions or the environment. Scripture stresses that this condition is deeply rooted in human nature, and that only God is able to break its penalty, power and presence.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6021",
+"content_id": "6021",
+"resource_code": "DictionaryBibleThemes",
+"label": "6021: sin, nature of",
+"language": "eng"
+},
+{
+"reference_id": "6022",
+"content_id": "6022",
+"resource_code": "DictionaryBibleThemes",
+"label": "6022: sin, causes of",
+"language": "eng"
+},
+{
+"reference_id": "6023",
+"content_id": "6023",
+"resource_code": "DictionaryBibleThemes",
+"label": "6023: sin, universality of",
+"language": "eng"
+},
+{
+"reference_id": "6024",
+"content_id": "6024",
+"resource_code": "DictionaryBibleThemes",
+"label": "6024: sin, effects of",
+"language": "eng"
+},
+{
+"reference_id": "6025",
+"content_id": "6025",
+"resource_code": "DictionaryBibleThemes",
+"label": "6025: sin, and God's character",
+"language": "eng"
+},
+{
+"reference_id": "6026",
+"content_id": "6026",
+"resource_code": "DictionaryBibleThemes",
+"label": "6026: sin, God's judgment on",
+"language": "eng"
+},
+{
+"reference_id": "6027",
+"content_id": "6027",
+"resource_code": "DictionaryBibleThemes",
+"label": "6027: sin, God's remedy for",
+"language": "eng"
+},
+{
+"reference_id": "6028",
+"content_id": "6028",
+"resource_code": "DictionaryBibleThemes",
+"label": "6028: sin, God's deliverance from",
+"language": "eng"
+},
+{
+"reference_id": "6029",
+"content_id": "6029",
+"resource_code": "DictionaryBibleThemes",
+"label": "6029: sin, accepting forgiveness of",
+"language": "eng"
+},
+{
+"reference_id": "6030",
+"content_id": "6030",
+"resource_code": "DictionaryBibleThemes",
+"label": "6030: sin, avoidance of",
+"language": "eng"
+}
+]
+}
+}
+]

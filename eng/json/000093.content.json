@@ -1,0 +1,194 @@
+[
+{
+"content_id": "1432",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1432: prophecy, in NT",
+"media_type": "Text",
+"index_reference": "1432: prophecy, in nt",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The NT describes the prophetic aspect of the ministry of Jesus Christ, and also recognises that prophetic gifts are given to believers through the Holy Spirit. It provides guidance on how such prophetic gifts are to be used.</p>\n<h2>Jesus Christ recognised as a prophet</h2>\n<p><a href=\"https://ref.ly/Matt21:11\">MAT 21:11</a>; ; <a href=\"https://ref.ly/Mark6:4\">MRK 6:4</a>, <a href=\"https://ref.ly/Mark8:27-Mark8:28\">MRK 8:27–8:28</a>; ; <a href=\"https://ref.ly/Luke7:16\">LUK 7:16</a>, <a href=\"https://ref.ly/Luke24:17-Luke24:19\">LUK 24:17–24:19</a>; ; <a href=\"https://ref.ly/John4:19\">JHN 4:19</a></p>\n<h2>Prophecy in the church</h2>\n<h3>Prophecy is one among many spiritual gifts</h3>\n<p><strong><a href=\"https://ref.ly/1Cor12:28-1Cor12:29\">1CO 12:28–12:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom12:6\">ROM 12:6</a>; <a href=\"https://ref.ly/1Cor12:10\">1CO 12:10</a>; <a href=\"https://ref.ly/Eph4:11\">EPH 4:11</a></p>\n<h3>Not all are called to be prophets</h3>\n<p><a href=\"https://ref.ly/1Cor12:29\">1CO 12:29</a>; ; <a href=\"https://ref.ly/Eph4:11\">EPH 4:11</a></p>\n<h3>Prophecy is valueless without love</h3>\n<p><strong><a href=\"https://ref.ly/1Cor13:1-1Cor13:2\">1CO 13:1–13:2</a></strong></p>\n<h3>Prophecy is for the building up of the church</h3>\n<p><strong><a href=\"https://ref.ly/1Cor14:26\">1CO 14:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom12:3-Rom12:6\">ROM 12:3–12:6</a>; <a href=\"https://ref.ly/1Cor14:3-1Cor14:5\">1CO 14:3–14:5</a>; <a href=\"https://ref.ly/1Pet4:10\">1PE 4:10</a></p>\n<h3>Prophecy superior to speaking in tongues</h3>\n<p><strong><a href=\"https://ref.ly/1Cor14:5\">1CO 14:5</a></strong></p>\n<h2>Prophecy in the early church</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Acts2:17\">ACT 2:17</a>, <a href=\"https://ref.ly/Acts11:27-Acts11:28\">ACT 11:27–11:28</a>, <a href=\"https://ref.ly/Acts15:32\">ACT 15:32</a>, <a href=\"https://ref.ly/Acts21:9\">ACT 21:9</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40021011",
+"start_ref_usfm": "MAT 21:11",
+"end_ref": "40021011",
+"end_ref_usfm": "MAT 21:11"
+},
+{
+"start_ref": "41006004",
+"start_ref_usfm": "MRK 6:4",
+"end_ref": "41006004",
+"end_ref_usfm": "MRK 6:4"
+},
+{
+"start_ref": "41008027",
+"start_ref_usfm": "MRK 8:27",
+"end_ref": "41008028",
+"end_ref_usfm": "MRK 8:28"
+},
+{
+"start_ref": "42007016",
+"start_ref_usfm": "LUK 7:16",
+"end_ref": "42007016",
+"end_ref_usfm": "LUK 7:16"
+},
+{
+"start_ref": "42024017",
+"start_ref_usfm": "LUK 24:17",
+"end_ref": "42024019",
+"end_ref_usfm": "LUK 24:19"
+},
+{
+"start_ref": "43004019",
+"start_ref_usfm": "JHN 4:19",
+"end_ref": "43004019",
+"end_ref_usfm": "JHN 4:19"
+},
+{
+"start_ref": "46012028",
+"start_ref_usfm": "1CO 12:28",
+"end_ref": "46012029",
+"end_ref_usfm": "1CO 12:29"
+},
+{
+"start_ref": "45012006",
+"start_ref_usfm": "ROM 12:6",
+"end_ref": "45012006",
+"end_ref_usfm": "ROM 12:6"
+},
+{
+"start_ref": "46012010",
+"start_ref_usfm": "1CO 12:10",
+"end_ref": "46012010",
+"end_ref_usfm": "1CO 12:10"
+},
+{
+"start_ref": "49004011",
+"start_ref_usfm": "EPH 4:11",
+"end_ref": "49004011",
+"end_ref_usfm": "EPH 4:11"
+},
+{
+"start_ref": "46012029",
+"start_ref_usfm": "1CO 12:29",
+"end_ref": "46012029",
+"end_ref_usfm": "1CO 12:29"
+},
+{
+"start_ref": "46013001",
+"start_ref_usfm": "1CO 13:1",
+"end_ref": "46013002",
+"end_ref_usfm": "1CO 13:2"
+},
+{
+"start_ref": "46014026",
+"start_ref_usfm": "1CO 14:26",
+"end_ref": "46014026",
+"end_ref_usfm": "1CO 14:26"
+},
+{
+"start_ref": "45012003",
+"start_ref_usfm": "ROM 12:3",
+"end_ref": "45012006",
+"end_ref_usfm": "ROM 12:6"
+},
+{
+"start_ref": "46014003",
+"start_ref_usfm": "1CO 14:3",
+"end_ref": "46014005",
+"end_ref_usfm": "1CO 14:5"
+},
+{
+"start_ref": "60004010",
+"start_ref_usfm": "1PE 4:10",
+"end_ref": "60004010",
+"end_ref_usfm": "1PE 4:10"
+},
+{
+"start_ref": "46014005",
+"start_ref_usfm": "1CO 14:5",
+"end_ref": "46014005",
+"end_ref_usfm": "1CO 14:5"
+},
+{
+"start_ref": "44002017",
+"start_ref_usfm": "ACT 2:17",
+"end_ref": "44002017",
+"end_ref_usfm": "ACT 2:17"
+},
+{
+"start_ref": "44011027",
+"start_ref_usfm": "ACT 11:27",
+"end_ref": "44011028",
+"end_ref_usfm": "ACT 11:28"
+},
+{
+"start_ref": "44015032",
+"start_ref_usfm": "ACT 15:32",
+"end_ref": "44015032",
+"end_ref_usfm": "ACT 15:32"
+},
+{
+"start_ref": "44021009",
+"start_ref_usfm": "ACT 21:9",
+"end_ref": "44021009",
+"end_ref_usfm": "ACT 21:9"
+}
+],
+"resource": [
+{
+"reference_id": "1444",
+"content_id": "1444",
+"resource_code": "DictionaryBibleThemes",
+"label": "1444: revelation, in NT",
+"language": "eng"
+},
+{
+"reference_id": "2318",
+"content_id": "2318",
+"resource_code": "DictionaryBibleThemes",
+"label": "2318: Jesus Christ, as prophet",
+"language": "eng"
+},
+{
+"reference_id": "2363",
+"content_id": "2363",
+"resource_code": "DictionaryBibleThemes",
+"label": "2363: Jesus Christ, preaching and teaching of",
+"language": "eng"
+},
+{
+"reference_id": "3275",
+"content_id": "3275",
+"resource_code": "DictionaryBibleThemes",
+"label": "3275: Holy Spirit, in the church",
+"language": "eng"
+},
+{
+"reference_id": "7020",
+"content_id": "7020",
+"resource_code": "DictionaryBibleThemes",
+"label": "7020: church, the",
+"language": "eng"
+},
+{
+"reference_id": "7754",
+"content_id": "7754",
+"resource_code": "DictionaryBibleThemes",
+"label": "7754: preaching",
+"language": "eng"
+},
+{
+"reference_id": "7966",
+"content_id": "7966",
+"resource_code": "DictionaryBibleThemes",
+"label": "7966: spiritual gifts",
+"language": "eng"
+}
+]
+}
+}
+]

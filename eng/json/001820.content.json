@@ -1,0 +1,172 @@
+[
+{
+"content_id": "7408",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7408: Pentecost",
+"media_type": "Text",
+"index_reference": "7408: pentecost",
+"language": "eng",
+"review_level": "None",
+"content": "<p>One of Israel's three major agricultural festivals, the second great feast of the Jewish year. It is a harvest festival, also known as the Feast of Weeks. The original Jewish significance of this festival has been overshadowed by the Christian celebration of the coming of the Holy Spirit at Pentecost.</p>\n<h2>Pentecost was one of Israel's three major agricultural festivals</h2>\n<h3>It was also known as the Feast of Weeks</h3>\n<p><strong><a href=\"https://ref.ly/Deut16:9-Deut16:10\">DEU 16:9–16:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod34:22\">EXO 34:22</a>; <a href=\"https://ref.ly/Deut16:16-Deut16:17\">DEU 16:16–16:17</a>; <a href=\"https://ref.ly/2Chr8:13\">2CH 8:13</a></p>\n<h3>It is also referred to as the Feast of Harvest</h3>\n<p><a href=\"https://ref.ly/Exod23:16\">EXO 23:16</a></p>\n<h2>Instructions for the celebration of Pentecost</h2>\n<h3>Its timing and sacrifices</h3>\n<p><a href=\"https://ref.ly/Lev23:15-Lev23:21\">LEV 23:15–23:21</a> <em>The “fifty days” (verse 16) gives rise to the term “Pentecost” which is derived from the Greek word for “fiftieth”</em>; ; <a href=\"https://ref.ly/Num28:26-Num28:31\">NUM 28:26–28:31</a>; ; <a href=\"https://ref.ly/Jer5:24\">JER 5:24</a></p>\n<h3>Its link with the deliverance from Egypt</h3>\n<p><strong><a href=\"https://ref.ly/Deut16:12\">DEU 16:12</a></strong> <em>Pentecost later became associated with covenant renewal and the giving of the Law.</em></p>\n<h2>Pentecost in the NT</h2>\n<h3>It was observed by Paul</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Acts20:16\">ACT 20:16</a>; <a href=\"https://ref.ly/1Cor16:8\">1CO 16:8</a></p>\n<h3>Its association with the coming of the Holy Spirit</h3>\n<p><strong><a href=\"https://ref.ly/Acts2:1-Acts2:4\">ACT 2:1–2:4</a>, <a href=\"https://ref.ly/Acts2:16-Acts2:21\">ACT 2:16–2:21</a>, <a href=\"https://ref.ly/Acts11:15\">ACT 11:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Joel2:28-Joel2:32\">JOL 2:28–2:32</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05016009",
+"start_ref_usfm": "DEU 16:9",
+"end_ref": "05016010",
+"end_ref_usfm": "DEU 16:10"
+},
+{
+"start_ref": "02034022",
+"start_ref_usfm": "EXO 34:22",
+"end_ref": "02034022",
+"end_ref_usfm": "EXO 34:22"
+},
+{
+"start_ref": "05016016",
+"start_ref_usfm": "DEU 16:16",
+"end_ref": "05016017",
+"end_ref_usfm": "DEU 16:17"
+},
+{
+"start_ref": "14008013",
+"start_ref_usfm": "2CH 8:13",
+"end_ref": "14008013",
+"end_ref_usfm": "2CH 8:13"
+},
+{
+"start_ref": "02023016",
+"start_ref_usfm": "EXO 23:16",
+"end_ref": "02023016",
+"end_ref_usfm": "EXO 23:16"
+},
+{
+"start_ref": "03023015",
+"start_ref_usfm": "LEV 23:15",
+"end_ref": "03023021",
+"end_ref_usfm": "LEV 23:21"
+},
+{
+"start_ref": "04028026",
+"start_ref_usfm": "NUM 28:26",
+"end_ref": "04028031",
+"end_ref_usfm": "NUM 28:31"
+},
+{
+"start_ref": "24005024",
+"start_ref_usfm": "JER 5:24",
+"end_ref": "24005024",
+"end_ref_usfm": "JER 5:24"
+},
+{
+"start_ref": "05016012",
+"start_ref_usfm": "DEU 16:12",
+"end_ref": "05016012",
+"end_ref_usfm": "DEU 16:12"
+},
+{
+"start_ref": "44020016",
+"start_ref_usfm": "ACT 20:16",
+"end_ref": "44020016",
+"end_ref_usfm": "ACT 20:16"
+},
+{
+"start_ref": "46016008",
+"start_ref_usfm": "1CO 16:8",
+"end_ref": "46016008",
+"end_ref_usfm": "1CO 16:8"
+},
+{
+"start_ref": "44002001",
+"start_ref_usfm": "ACT 2:1",
+"end_ref": "44002004",
+"end_ref_usfm": "ACT 2:4"
+},
+{
+"start_ref": "44002016",
+"start_ref_usfm": "ACT 2:16",
+"end_ref": "44002021",
+"end_ref_usfm": "ACT 2:21"
+},
+{
+"start_ref": "44011015",
+"start_ref_usfm": "ACT 11:15",
+"end_ref": "44011015",
+"end_ref_usfm": "ACT 11:15"
+},
+{
+"start_ref": "29002028",
+"start_ref_usfm": "JOL 2:28",
+"end_ref": "29002032",
+"end_ref_usfm": "JOL 2:32"
+}
+],
+"resource": [
+{
+"reference_id": "1345",
+"content_id": "1345",
+"resource_code": "DictionaryBibleThemes",
+"label": "1345: covenant",
+"language": "eng"
+},
+{
+"reference_id": "3040",
+"content_id": "3040",
+"resource_code": "DictionaryBibleThemes",
+"label": "3040: Holy Spirit, promise of",
+"language": "eng"
+},
+{
+"reference_id": "3242",
+"content_id": "3242",
+"resource_code": "DictionaryBibleThemes",
+"label": "3242: Holy Spirit, baptism with",
+"language": "eng"
+},
+{
+"reference_id": "3257",
+"content_id": "3257",
+"resource_code": "DictionaryBibleThemes",
+"label": "3257: Holy Spirit, gift of",
+"language": "eng"
+},
+{
+"reference_id": "3275",
+"content_id": "3275",
+"resource_code": "DictionaryBibleThemes",
+"label": "3275: Holy Spirit, in the church",
+"language": "eng"
+},
+{
+"reference_id": "4018",
+"content_id": "4018",
+"resource_code": "DictionaryBibleThemes",
+"label": "4018: life, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "4464",
+"content_id": "4464",
+"resource_code": "DictionaryBibleThemes",
+"label": "4464: harvest",
+"language": "eng"
+},
+{
+"reference_id": "4951",
+"content_id": "4951",
+"resource_code": "DictionaryBibleThemes",
+"label": "4951: month",
+"language": "eng"
+},
+{
+"reference_id": "7361",
+"content_id": "7361",
+"resource_code": "DictionaryBibleThemes",
+"label": "7361: Feast of Weeks",
+"language": "eng"
+}
+]
+}
+}
+]

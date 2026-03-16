@@ -1,0 +1,228 @@
+[
+{
+"content_id": "7631",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7631: Twelve, calling of",
+"media_type": "Text",
+"index_reference": "7631: twelve, calling of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Jesus Christ's chosen companions, whom he called and trained to carry on his mission after his death and resurrection.</p>\n<h2>The calling of the Twelve</h2>\n<h3>Their names</h3>\n<p><strong><a href=\"https://ref.ly/Matt10:1-Matt10:4\">MAT 10:1–10:4</a></strong> parallel <a href=\"https://ref.ly/Mark3:14-Mark3:19\">MRK 3:14–3:19</a> <em>See also</em> <a href=\"https://ref.ly/Luke6:12-Luke6:16\">LUK 6:12–6:16</a>; <a href=\"https://ref.ly/Acts1:12-Acts1:13\">ACT 1:12–1:13</a></p>\n<h3>Their selection was preceded by prayer</h3>\n<p><a href=\"https://ref.ly/Luke6:12-Luke6:13\">LUK 6:12–6:13</a></p>\n<h3>As Jesus Christ's companions, they were to share in his mission</h3>\n<p><a href=\"https://ref.ly/Mark3:14-Mark3:15\">MRK 3:14–3:15</a>, <a href=\"https://ref.ly/Mark6:7-Mark6:13\">MRK 6:7–6:13</a> parallels <a href=\"https://ref.ly/Matt10:1\">MAT 10:1</a>, <a href=\"https://ref.ly/Matt10:9-Matt10:14\">MAT 10:9–10:14</a>, <a href=\"https://ref.ly/Luke9:1-Luke9:6\">LUK 9:1–9:6</a>; ; <a href=\"https://ref.ly/Luke8:1\">LUK 8:1</a></p>\n<h3>Jesus Christ promised them authority at the final judgment</h3>\n<p><a href=\"https://ref.ly/Matt19:28\">MAT 19:28</a> parallel <a href=\"https://ref.ly/Luke22:30\">LUK 22:30</a></p>\n<h2>After Judas' death the Twelve became the Eleven</h2>\n<p><a href=\"https://ref.ly/Matt28:16\">MAT 28:16</a>; ; <a href=\"https://ref.ly/Mark16:14\">MRK 16:14</a>; ; <a href=\"https://ref.ly/Luke24:9\">LUK 24:9</a>, <a href=\"https://ref.ly/Luke24:33\">LUK 24:33</a>; ; <a href=\"https://ref.ly/Acts2:14\">ACT 2:14</a></p>\n<h3>The Eleven became the Twelve again with the election of Matthias</h3>\n<p><a href=\"https://ref.ly/Acts1:26\">ACT 1:26</a></p>\n<h2>The ministry of the Twelve after the resurrection supplemented by the appointment of deacons</h2>\n<p><a href=\"https://ref.ly/Acts6:2-Acts6:3\">ACT 6:2–6:3</a></p>\n<h2>The symbolic significance of the Twelve</h2>\n<h3>The twelve tribes of Israel</h3>\n<p><a href=\"https://ref.ly/Gen49:28\">GEN 49:28</a>; ; <a href=\"https://ref.ly/Ezek47:13\">EZK 47:13</a>; ; <a href=\"https://ref.ly/Matt19:28\">MAT 19:28</a> parallel <a href=\"https://ref.ly/Luke22:30\">LUK 22:30</a> <em>Twelve symbolises completeness and is associated with the rule of God.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40010001",
+"start_ref_usfm": "MAT 10:1",
+"end_ref": "40010004",
+"end_ref_usfm": "MAT 10:4"
+},
+{
+"start_ref": "41003014",
+"start_ref_usfm": "MRK 3:14",
+"end_ref": "41003019",
+"end_ref_usfm": "MRK 3:19"
+},
+{
+"start_ref": "42006012",
+"start_ref_usfm": "LUK 6:12",
+"end_ref": "42006016",
+"end_ref_usfm": "LUK 6:16"
+},
+{
+"start_ref": "44001012",
+"start_ref_usfm": "ACT 1:12",
+"end_ref": "44001013",
+"end_ref_usfm": "ACT 1:13"
+},
+{
+"start_ref": "42006012",
+"start_ref_usfm": "LUK 6:12",
+"end_ref": "42006013",
+"end_ref_usfm": "LUK 6:13"
+},
+{
+"start_ref": "41003014",
+"start_ref_usfm": "MRK 3:14",
+"end_ref": "41003015",
+"end_ref_usfm": "MRK 3:15"
+},
+{
+"start_ref": "41006007",
+"start_ref_usfm": "MRK 6:7",
+"end_ref": "41006013",
+"end_ref_usfm": "MRK 6:13"
+},
+{
+"start_ref": "40010001",
+"start_ref_usfm": "MAT 10:1",
+"end_ref": "40010001",
+"end_ref_usfm": "MAT 10:1"
+},
+{
+"start_ref": "40010009",
+"start_ref_usfm": "MAT 10:9",
+"end_ref": "40010014",
+"end_ref_usfm": "MAT 10:14"
+},
+{
+"start_ref": "42009001",
+"start_ref_usfm": "LUK 9:1",
+"end_ref": "42009006",
+"end_ref_usfm": "LUK 9:6"
+},
+{
+"start_ref": "42008001",
+"start_ref_usfm": "LUK 8:1",
+"end_ref": "42008001",
+"end_ref_usfm": "LUK 8:1"
+},
+{
+"start_ref": "40019028",
+"start_ref_usfm": "MAT 19:28",
+"end_ref": "40019028",
+"end_ref_usfm": "MAT 19:28"
+},
+{
+"start_ref": "42022030",
+"start_ref_usfm": "LUK 22:30",
+"end_ref": "42022030",
+"end_ref_usfm": "LUK 22:30"
+},
+{
+"start_ref": "40028016",
+"start_ref_usfm": "MAT 28:16",
+"end_ref": "40028016",
+"end_ref_usfm": "MAT 28:16"
+},
+{
+"start_ref": "41016014",
+"start_ref_usfm": "MRK 16:14",
+"end_ref": "41016014",
+"end_ref_usfm": "MRK 16:14"
+},
+{
+"start_ref": "42024009",
+"start_ref_usfm": "LUK 24:9",
+"end_ref": "42024009",
+"end_ref_usfm": "LUK 24:9"
+},
+{
+"start_ref": "42024033",
+"start_ref_usfm": "LUK 24:33",
+"end_ref": "42024033",
+"end_ref_usfm": "LUK 24:33"
+},
+{
+"start_ref": "44002014",
+"start_ref_usfm": "ACT 2:14",
+"end_ref": "44002014",
+"end_ref_usfm": "ACT 2:14"
+},
+{
+"start_ref": "44001026",
+"start_ref_usfm": "ACT 1:26",
+"end_ref": "44001026",
+"end_ref_usfm": "ACT 1:26"
+},
+{
+"start_ref": "44006002",
+"start_ref_usfm": "ACT 6:2",
+"end_ref": "44006003",
+"end_ref_usfm": "ACT 6:3"
+},
+{
+"start_ref": "01049028",
+"start_ref_usfm": "GEN 49:28",
+"end_ref": "01049028",
+"end_ref_usfm": "GEN 49:28"
+},
+{
+"start_ref": "26047013",
+"start_ref_usfm": "EZK 47:13",
+"end_ref": "26047013",
+"end_ref_usfm": "EZK 47:13"
+}
+],
+"resource": [
+{
+"reference_id": "1654",
+"content_id": "1654",
+"resource_code": "DictionaryBibleThemes",
+"label": "1654: numbers, 11-99",
+"language": "eng"
+},
+{
+"reference_id": "2354",
+"content_id": "2354",
+"resource_code": "DictionaryBibleThemes",
+"label": "2354: Jesus Christ, mission of",
+"language": "eng"
+},
+{
+"reference_id": "2555",
+"content_id": "2555",
+"resource_code": "DictionaryBibleThemes",
+"label": "2555: Jesus Christ, resurrection appearances of",
+"language": "eng"
+},
+{
+"reference_id": "6620",
+"content_id": "6620",
+"resource_code": "DictionaryBibleThemes",
+"label": "6620: calling",
+"language": "eng"
+},
+{
+"reference_id": "7024",
+"content_id": "7024",
+"resource_code": "DictionaryBibleThemes",
+"label": "7024: church, nature and foundations of",
+"language": "eng"
+},
+{
+"reference_id": "7239",
+"content_id": "7239",
+"resource_code": "DictionaryBibleThemes",
+"label": "7239: Jerusalem",
+"language": "eng"
+},
+{
+"reference_id": "7266",
+"content_id": "7266",
+"resource_code": "DictionaryBibleThemes",
+"label": "7266: tribes of Israel",
+"language": "eng"
+},
+{
+"reference_id": "7470",
+"content_id": "7470",
+"resource_code": "DictionaryBibleThemes",
+"label": "7470: temple, significance of",
+"language": "eng"
+},
+{
+"reference_id": "7620",
+"content_id": "7620",
+"resource_code": "DictionaryBibleThemes",
+"label": "7620: disciples",
+"language": "eng"
+},
+{
+"reference_id": "7706",
+"content_id": "7706",
+"resource_code": "DictionaryBibleThemes",
+"label": "7706: apostles",
+"language": "eng"
+},
+{
+"reference_id": "7948",
+"content_id": "7948",
+"resource_code": "DictionaryBibleThemes",
+"label": "7948: mission",
+"language": "eng"
+}
+]
+}
+}
+]

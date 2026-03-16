@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5703",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5703: inheritance",
+"media_type": "Text",
+"index_reference": "5703: inheritance",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A birthright or endowment, often in the form of goods or land, passed down from one generation to another. Scripture treats eternal life and other privileges of faith as an inheritance from God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5704",
+"content_id": "5704",
+"resource_code": "DictionaryBibleThemes",
+"label": "5704: inheritance, material",
+"language": "eng"
+},
+{
+"reference_id": "5705",
+"content_id": "5705",
+"resource_code": "DictionaryBibleThemes",
+"label": "5705: inheritance, spiritual",
+"language": "eng"
+}
+]
+}
+}
+]

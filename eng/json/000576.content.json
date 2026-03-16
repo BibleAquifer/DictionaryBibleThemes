@@ -1,0 +1,312 @@
+[
+{
+"content_id": "4852",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4852: thunder",
+"media_type": "Text",
+"index_reference": "4852: thunder",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Thunder as an aspect of violent weather</h2>\n<p><strong><a href=\"https://ref.ly/Job28:26\">JOB 28:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job36:29\">JOB 36:29</a>, <a href=\"https://ref.ly/Job36:33\">JOB 36:33</a>; <a href=\"https://ref.ly/Ps93:4\">PSA 93:4</a>; <a href=\"https://ref.ly/Jer10:13\">JER 10:13</a>, <a href=\"https://ref.ly/Jer51:16\">JER 51:16</a></p>\n<h2>Thunder as a sign of the presence of God</h2>\n<p><strong><a href=\"https://ref.ly/Exod19:16\">EXO 19:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:18\">EXO 20:18</a>; <a href=\"https://ref.ly/1Sam12:17-1Sam12:18\">1SA 12:17–12:18</a>; <a href=\"https://ref.ly/Job26:14\">JOB 26:14</a>, <a href=\"https://ref.ly/Job37:4-Job37:5\">JOB 37:4–37:5</a>, <a href=\"https://ref.ly/Job40:9\">JOB 40:9</a>; <a href=\"https://ref.ly/Ps18:13\">PSA 18:13</a>, <a href=\"https://ref.ly/Ps29:3\">PSA 29:3</a>, <a href=\"https://ref.ly/Ps68:33\">PSA 68:33</a>, <a href=\"https://ref.ly/Ps81:7\">PSA 81:7</a>; <a href=\"https://ref.ly/John12:29\">JHN 12:29</a>; <a href=\"https://ref.ly/Rev4:5\">REV 4:5</a>, <a href=\"https://ref.ly/Rev6:1\">REV 6:1</a>, <a href=\"https://ref.ly/Rev8:5\">REV 8:5</a>, <a href=\"https://ref.ly/Rev10:3-Rev10:4\">REV 10:3–10:4</a>, <a href=\"https://ref.ly/Rev11:19\">REV 11:19</a>, <a href=\"https://ref.ly/Rev14:2\">REV 14:2</a>, <a href=\"https://ref.ly/Rev19:6\">REV 19:6</a></p>\n<h2>Thunder as an expression of the judgment of God</h2>\n<p><strong><a href=\"https://ref.ly/1Sam2:10\">1SA 2:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod9:23\">EXO 9:23</a>, <a href=\"https://ref.ly/Exod9:28-Exod9:29\">EXO 9:28–9:29</a>, <a href=\"https://ref.ly/Exod9:33-Exod9:34\">EXO 9:33–9:34</a>; <a href=\"https://ref.ly/1Sam7:10\">1SA 7:10</a>; <a href=\"https://ref.ly/2Sam22:14\">2SA 22:14</a>; <a href=\"https://ref.ly/Ps77:17-Ps77:18\">PSA 77:17–77:18</a>, <a href=\"https://ref.ly/Ps104:7\">PSA 104:7</a>; <a href=\"https://ref.ly/Isa29:6\">ISA 29:6</a>, <a href=\"https://ref.ly/Isa30:30\">ISA 30:30</a>, <a href=\"https://ref.ly/Isa33:3\">ISA 33:3</a>; <a href=\"https://ref.ly/Jer25:30\">JER 25:30</a>; <a href=\"https://ref.ly/Joel2:11\">JOL 2:11</a>, <a href=\"https://ref.ly/Joel3:16\">JOL 3:16</a>; <a href=\"https://ref.ly/Amos1:2\">AMO 1:2</a>; <a href=\"https://ref.ly/Rev16:18\">REV 16:18</a></p>\n<h2>The thunder of horses' hoofs</h2>\n<p><strong><a href=\"https://ref.ly/Judg5:22\">JDG 5:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev9:9\">REV 9:9</a></p>\n<h2>The Sons of Thunder</h2>\n<p><strong><a href=\"https://ref.ly/Mark3:17\">MRK 3:17</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18028026",
+"start_ref_usfm": "JOB 28:26",
+"end_ref": "18028026",
+"end_ref_usfm": "JOB 28:26"
+},
+{
+"start_ref": "18036029",
+"start_ref_usfm": "JOB 36:29",
+"end_ref": "18036029",
+"end_ref_usfm": "JOB 36:29"
+},
+{
+"start_ref": "18036033",
+"start_ref_usfm": "JOB 36:33",
+"end_ref": "18036033",
+"end_ref_usfm": "JOB 36:33"
+},
+{
+"start_ref": "19093004",
+"start_ref_usfm": "PSA 93:4",
+"end_ref": "19093004",
+"end_ref_usfm": "PSA 93:4"
+},
+{
+"start_ref": "24010013",
+"start_ref_usfm": "JER 10:13",
+"end_ref": "24010013",
+"end_ref_usfm": "JER 10:13"
+},
+{
+"start_ref": "24051016",
+"start_ref_usfm": "JER 51:16",
+"end_ref": "24051016",
+"end_ref_usfm": "JER 51:16"
+},
+{
+"start_ref": "02019016",
+"start_ref_usfm": "EXO 19:16",
+"end_ref": "02019016",
+"end_ref_usfm": "EXO 19:16"
+},
+{
+"start_ref": "02020018",
+"start_ref_usfm": "EXO 20:18",
+"end_ref": "02020018",
+"end_ref_usfm": "EXO 20:18"
+},
+{
+"start_ref": "09012017",
+"start_ref_usfm": "1SA 12:17",
+"end_ref": "09012018",
+"end_ref_usfm": "1SA 12:18"
+},
+{
+"start_ref": "18026014",
+"start_ref_usfm": "JOB 26:14",
+"end_ref": "18026014",
+"end_ref_usfm": "JOB 26:14"
+},
+{
+"start_ref": "18037004",
+"start_ref_usfm": "JOB 37:4",
+"end_ref": "18037005",
+"end_ref_usfm": "JOB 37:5"
+},
+{
+"start_ref": "18040009",
+"start_ref_usfm": "JOB 40:9",
+"end_ref": "18040009",
+"end_ref_usfm": "JOB 40:9"
+},
+{
+"start_ref": "19018013",
+"start_ref_usfm": "PSA 18:13",
+"end_ref": "19018013",
+"end_ref_usfm": "PSA 18:13"
+},
+{
+"start_ref": "19029003",
+"start_ref_usfm": "PSA 29:3",
+"end_ref": "19029003",
+"end_ref_usfm": "PSA 29:3"
+},
+{
+"start_ref": "19068033",
+"start_ref_usfm": "PSA 68:33",
+"end_ref": "19068033",
+"end_ref_usfm": "PSA 68:33"
+},
+{
+"start_ref": "19081007",
+"start_ref_usfm": "PSA 81:7",
+"end_ref": "19081007",
+"end_ref_usfm": "PSA 81:7"
+},
+{
+"start_ref": "43012029",
+"start_ref_usfm": "JHN 12:29",
+"end_ref": "43012029",
+"end_ref_usfm": "JHN 12:29"
+},
+{
+"start_ref": "66004005",
+"start_ref_usfm": "REV 4:5",
+"end_ref": "66004005",
+"end_ref_usfm": "REV 4:5"
+},
+{
+"start_ref": "66006001",
+"start_ref_usfm": "REV 6:1",
+"end_ref": "66006001",
+"end_ref_usfm": "REV 6:1"
+},
+{
+"start_ref": "66008005",
+"start_ref_usfm": "REV 8:5",
+"end_ref": "66008005",
+"end_ref_usfm": "REV 8:5"
+},
+{
+"start_ref": "66010003",
+"start_ref_usfm": "REV 10:3",
+"end_ref": "66010004",
+"end_ref_usfm": "REV 10:4"
+},
+{
+"start_ref": "66011019",
+"start_ref_usfm": "REV 11:19",
+"end_ref": "66011019",
+"end_ref_usfm": "REV 11:19"
+},
+{
+"start_ref": "66014002",
+"start_ref_usfm": "REV 14:2",
+"end_ref": "66014002",
+"end_ref_usfm": "REV 14:2"
+},
+{
+"start_ref": "66019006",
+"start_ref_usfm": "REV 19:6",
+"end_ref": "66019006",
+"end_ref_usfm": "REV 19:6"
+},
+{
+"start_ref": "09002010",
+"start_ref_usfm": "1SA 2:10",
+"end_ref": "09002010",
+"end_ref_usfm": "1SA 2:10"
+},
+{
+"start_ref": "02009023",
+"start_ref_usfm": "EXO 9:23",
+"end_ref": "02009023",
+"end_ref_usfm": "EXO 9:23"
+},
+{
+"start_ref": "02009028",
+"start_ref_usfm": "EXO 9:28",
+"end_ref": "02009029",
+"end_ref_usfm": "EXO 9:29"
+},
+{
+"start_ref": "02009033",
+"start_ref_usfm": "EXO 9:33",
+"end_ref": "02009034",
+"end_ref_usfm": "EXO 9:34"
+},
+{
+"start_ref": "09007010",
+"start_ref_usfm": "1SA 7:10",
+"end_ref": "09007010",
+"end_ref_usfm": "1SA 7:10"
+},
+{
+"start_ref": "10022014",
+"start_ref_usfm": "2SA 22:14",
+"end_ref": "10022014",
+"end_ref_usfm": "2SA 22:14"
+},
+{
+"start_ref": "19077017",
+"start_ref_usfm": "PSA 77:17",
+"end_ref": "19077018",
+"end_ref_usfm": "PSA 77:18"
+},
+{
+"start_ref": "19104007",
+"start_ref_usfm": "PSA 104:7",
+"end_ref": "19104007",
+"end_ref_usfm": "PSA 104:7"
+},
+{
+"start_ref": "23029006",
+"start_ref_usfm": "ISA 29:6",
+"end_ref": "23029006",
+"end_ref_usfm": "ISA 29:6"
+},
+{
+"start_ref": "23030030",
+"start_ref_usfm": "ISA 30:30",
+"end_ref": "23030030",
+"end_ref_usfm": "ISA 30:30"
+},
+{
+"start_ref": "23033003",
+"start_ref_usfm": "ISA 33:3",
+"end_ref": "23033003",
+"end_ref_usfm": "ISA 33:3"
+},
+{
+"start_ref": "24025030",
+"start_ref_usfm": "JER 25:30",
+"end_ref": "24025030",
+"end_ref_usfm": "JER 25:30"
+},
+{
+"start_ref": "29002011",
+"start_ref_usfm": "JOL 2:11",
+"end_ref": "29002011",
+"end_ref_usfm": "JOL 2:11"
+},
+{
+"start_ref": "29003016",
+"start_ref_usfm": "JOL 3:16",
+"end_ref": "29003016",
+"end_ref_usfm": "JOL 3:16"
+},
+{
+"start_ref": "30001002",
+"start_ref_usfm": "AMO 1:2",
+"end_ref": "30001002",
+"end_ref_usfm": "AMO 1:2"
+},
+{
+"start_ref": "66016018",
+"start_ref_usfm": "REV 16:18",
+"end_ref": "66016018",
+"end_ref_usfm": "REV 16:18"
+},
+{
+"start_ref": "07005022",
+"start_ref_usfm": "JDG 5:22",
+"end_ref": "07005022",
+"end_ref_usfm": "JDG 5:22"
+},
+{
+"start_ref": "66009009",
+"start_ref_usfm": "REV 9:9",
+"end_ref": "66009009",
+"end_ref_usfm": "REV 9:9"
+},
+{
+"start_ref": "41003017",
+"start_ref_usfm": "MRK 3:17",
+"end_ref": "41003017",
+"end_ref_usfm": "MRK 3:17"
+}
+],
+"resource": [
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "4838",
+"content_id": "4838",
+"resource_code": "DictionaryBibleThemes",
+"label": "4838: lightning",
+"language": "eng"
+},
+{
+"reference_id": "4851",
+"content_id": "4851",
+"resource_code": "DictionaryBibleThemes",
+"label": "4851: storm",
+"language": "eng"
+},
+{
+"reference_id": "4853",
+"content_id": "4853",
+"resource_code": "DictionaryBibleThemes",
+"label": "4853: weather",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

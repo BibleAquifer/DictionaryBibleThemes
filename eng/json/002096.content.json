@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8260",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8260: generosity",
+"media_type": "Text",
+"index_reference": "8260: generosity",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The free and liberal bestowal of wealth, possessions or food upon others.  The generosity of God is shown in his free bestowal of grace upon undeserving sinners.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8261",
+"content_id": "8261",
+"resource_code": "DictionaryBibleThemes",
+"label": "8261: generosity, God's",
+"language": "eng"
+},
+{
+"reference_id": "8262",
+"content_id": "8262",
+"resource_code": "DictionaryBibleThemes",
+"label": "8262: generosity, human",
+"language": "eng"
+}
+]
+}
+}
+]

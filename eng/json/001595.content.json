@@ -1,0 +1,32 @@
+[
+{
+"content_id": "6602",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6602: acceptance",
+"media_type": "Text",
+"index_reference": "6602: acceptance",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The favourable reception of someone or something. God in his grace accepts human beings, their worship and their offerings. People are called to accept Jesus Christ and the message of the gospel and to respond to being accepted by accepting one another.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6603",
+"content_id": "6603",
+"resource_code": "DictionaryBibleThemes",
+"label": "6603: acceptance, divine",
+"language": "eng"
+},
+{
+"reference_id": "6604",
+"content_id": "6604",
+"resource_code": "DictionaryBibleThemes",
+"label": "6604: acceptance, human",
+"language": "eng"
+}
+]
+}
+}
+]

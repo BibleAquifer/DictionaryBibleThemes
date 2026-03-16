@@ -1,0 +1,209 @@
+[
+{
+"content_id": "9137",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9137: immortality, in NT",
+"media_type": "Text",
+"index_reference": "9137: immortality, in nt",
+"language": "eng",
+"review_level": "None",
+"content": "<p>In the NT, immortal life is offered to human beings through Jesus Christ and guaranteed by the Holy Spirit. It is closely associated with eternal life and resurrection, but is seen more as a quality of being rather than in terms of unlimited extent.</p>\n<h2>Immortality is an attribute of God</h2>\n<p><strong><a href=\"https://ref.ly/1Tim1:17\">1TI 1:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom1:23\">ROM 1:23</a>; <a href=\"https://ref.ly/1Tim6:16\">1TI 6:16</a></p>\n<h2>Immortality is offered to human beings through Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/2Tim1:10\">2TI 1:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/John6:50\">JHN 6:50</a>, <a href=\"https://ref.ly/John8:51\">JHN 8:51</a>, <a href=\"https://ref.ly/John11:26\">JHN 11:26</a>; <a href=\"https://ref.ly/1Cor15:22\">1CO 15:22</a>, <a href=\"https://ref.ly/1Cor15:54\">1CO 15:54</a></p>\n<h2>Immortality is guaranteed by the Holy Spirit</h2>\n<p><a href=\"https://ref.ly/2Cor5:1-2Cor5:5\">2CO 5:1–5:5</a></p>\n<h2>The association of immortality with eternal life</h2>\n<p><strong><a href=\"https://ref.ly/Rom2:7\">ROM 2:7</a></strong></p>\n<h2>The association of immortality with resurrection</h2>\n<p><strong><a href=\"https://ref.ly/Luke20:36\">LUK 20:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor15:42-1Cor15:43\">1CO 15:42–15:43</a>, <a href=\"https://ref.ly/1Cor15:53-1Cor15:54\">1CO 15:53–15:54</a>; <a href=\"https://ref.ly/1Thess4:17\">1TH 4:17</a>; <a href=\"https://ref.ly/Rev20:4-Rev20:6\">REV 20:4–20:6</a></p>\n<h2>Immortality implied by Jesus Christ's transfiguration</h2>\n<p><a href=\"https://ref.ly/Matt17:3\">MAT 17:3</a> parallels <a href=\"https://ref.ly/Mark9:4\">MRK 9:4</a>, <a href=\"https://ref.ly/Luke9:30-Luke9:31\">LUK 9:30–9:31</a> <em>the presence of Moses and Elijah</em></p>\n<h2>Immortality as a quality of being</h2>\n<h3>It is inseparable from God's other characteristics</h3>\n<p><a href=\"https://ref.ly/Rom1:23\">ROM 1:23</a>; ; <a href=\"https://ref.ly/1Tim1:17\">1TI 1:17</a>, <a href=\"https://ref.ly/1Tim6:16\">1TI 6:16</a></p>\n<h3>It is inseparable from humanity's final state of existence</h3>\n<p><a href=\"https://ref.ly/Luke20:36\">LUK 20:36</a>; ; <a href=\"https://ref.ly/Rom2:7\">ROM 2:7</a>; ; <a href=\"https://ref.ly/1Pet1:4\">1PE 1:4</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "54001017",
+"start_ref_usfm": "1TI 1:17",
+"end_ref": "54001017",
+"end_ref_usfm": "1TI 1:17"
+},
+{
+"start_ref": "45001023",
+"start_ref_usfm": "ROM 1:23",
+"end_ref": "45001023",
+"end_ref_usfm": "ROM 1:23"
+},
+{
+"start_ref": "54006016",
+"start_ref_usfm": "1TI 6:16",
+"end_ref": "54006016",
+"end_ref_usfm": "1TI 6:16"
+},
+{
+"start_ref": "55001010",
+"start_ref_usfm": "2TI 1:10",
+"end_ref": "55001010",
+"end_ref_usfm": "2TI 1:10"
+},
+{
+"start_ref": "43006050",
+"start_ref_usfm": "JHN 6:50",
+"end_ref": "43006050",
+"end_ref_usfm": "JHN 6:50"
+},
+{
+"start_ref": "43008051",
+"start_ref_usfm": "JHN 8:51",
+"end_ref": "43008051",
+"end_ref_usfm": "JHN 8:51"
+},
+{
+"start_ref": "43011026",
+"start_ref_usfm": "JHN 11:26",
+"end_ref": "43011026",
+"end_ref_usfm": "JHN 11:26"
+},
+{
+"start_ref": "46015022",
+"start_ref_usfm": "1CO 15:22",
+"end_ref": "46015022",
+"end_ref_usfm": "1CO 15:22"
+},
+{
+"start_ref": "46015054",
+"start_ref_usfm": "1CO 15:54",
+"end_ref": "46015054",
+"end_ref_usfm": "1CO 15:54"
+},
+{
+"start_ref": "47005001",
+"start_ref_usfm": "2CO 5:1",
+"end_ref": "47005005",
+"end_ref_usfm": "2CO 5:5"
+},
+{
+"start_ref": "45002007",
+"start_ref_usfm": "ROM 2:7",
+"end_ref": "45002007",
+"end_ref_usfm": "ROM 2:7"
+},
+{
+"start_ref": "42020036",
+"start_ref_usfm": "LUK 20:36",
+"end_ref": "42020036",
+"end_ref_usfm": "LUK 20:36"
+},
+{
+"start_ref": "46015042",
+"start_ref_usfm": "1CO 15:42",
+"end_ref": "46015043",
+"end_ref_usfm": "1CO 15:43"
+},
+{
+"start_ref": "46015053",
+"start_ref_usfm": "1CO 15:53",
+"end_ref": "46015054",
+"end_ref_usfm": "1CO 15:54"
+},
+{
+"start_ref": "52004017",
+"start_ref_usfm": "1TH 4:17",
+"end_ref": "52004017",
+"end_ref_usfm": "1TH 4:17"
+},
+{
+"start_ref": "66020004",
+"start_ref_usfm": "REV 20:4",
+"end_ref": "66020006",
+"end_ref_usfm": "REV 20:6"
+},
+{
+"start_ref": "40017003",
+"start_ref_usfm": "MAT 17:3",
+"end_ref": "40017003",
+"end_ref_usfm": "MAT 17:3"
+},
+{
+"start_ref": "41009004",
+"start_ref_usfm": "MRK 9:4",
+"end_ref": "41009004",
+"end_ref_usfm": "MRK 9:4"
+},
+{
+"start_ref": "42009030",
+"start_ref_usfm": "LUK 9:30",
+"end_ref": "42009031",
+"end_ref_usfm": "LUK 9:31"
+},
+{
+"start_ref": "60001004",
+"start_ref_usfm": "1PE 1:4",
+"end_ref": "60001004",
+"end_ref_usfm": "1PE 1:4"
+}
+],
+"resource": [
+{
+"reference_id": "2424",
+"content_id": "2424",
+"resource_code": "DictionaryBibleThemes",
+"label": "2424: gospel, promises of",
+"language": "eng"
+},
+{
+"reference_id": "2580",
+"content_id": "2580",
+"resource_code": "DictionaryBibleThemes",
+"label": "2580: Jesus Christ, transfiguration of",
+"language": "eng"
+},
+{
+"reference_id": "5059",
+"content_id": "5059",
+"resource_code": "DictionaryBibleThemes",
+"label": "5059: rest, eternal",
+"language": "eng"
+},
+{
+"reference_id": "5080",
+"content_id": "5080",
+"resource_code": "DictionaryBibleThemes",
+"label": "5080: Adam",
+"language": "eng"
+},
+{
+"reference_id": "5703",
+"content_id": "5703",
+"resource_code": "DictionaryBibleThemes",
+"label": "5703: inheritance",
+"language": "eng"
+},
+{
+"reference_id": "6644",
+"content_id": "6644",
+"resource_code": "DictionaryBibleThemes",
+"label": "6644: eternal life",
+"language": "eng"
+},
+{
+"reference_id": "8020",
+"content_id": "8020",
+"resource_code": "DictionaryBibleThemes",
+"label": "8020: faith",
+"language": "eng"
+},
+{
+"reference_id": "9105",
+"content_id": "9105",
+"resource_code": "DictionaryBibleThemes",
+"label": "9105: last things",
+"language": "eng"
+},
+{
+"reference_id": "9310",
+"content_id": "9310",
+"resource_code": "DictionaryBibleThemes",
+"label": "9310: resurrection",
+"language": "eng"
+},
+{
+"reference_id": "9613",
+"content_id": "9613",
+"resource_code": "DictionaryBibleThemes",
+"label": "9613: hope, as confidence",
+"language": "eng"
+}
+]
+}
+}
+]

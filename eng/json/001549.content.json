@@ -1,0 +1,32 @@
+[
+{
+"content_id": "6193",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6193: impenitence",
+"media_type": "Text",
+"index_reference": "6193: impenitence",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A deliberate and persistent refusal to repent or to submit to God's will.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6194",
+"content_id": "6194",
+"resource_code": "DictionaryBibleThemes",
+"label": "6194: impenitence, warnings against",
+"language": "eng"
+},
+{
+"reference_id": "6195",
+"content_id": "6195",
+"resource_code": "DictionaryBibleThemes",
+"label": "6195: impenitence, results of",
+"language": "eng"
+}
+]
+}
+}
+]

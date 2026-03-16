@@ -1,0 +1,219 @@
+[
+{
+"content_id": "5863",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5863: flattery",
+"media_type": "Text",
+"index_reference": "5863: flattery",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Insincere and undeserved praise or words of encouragement, used with the intention of gaining favour with others.</p>\n<h2>Flattery is deceitful</h2>\n<p><strong><a href=\"https://ref.ly/Ps12:2-Ps12:3\">PSA 12:2–12:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps5:9\">PSA 5:9</a>, <a href=\"https://ref.ly/Ps55:20-Ps55:21\">PSA 55:20–55:21</a>, <a href=\"https://ref.ly/Ps62:4\">PSA 62:4</a>; <a href=\"https://ref.ly/Prov27:6\">PRO 27:6</a>; <a href=\"https://ref.ly/Jer9:8\">JER 9:8</a></p>\n<h2>The results of flattery are ruinous</h2>\n<p><strong><a href=\"https://ref.ly/Prov26:28\">PRO 26:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov29:5\">PRO 29:5</a></p>\n<h2>Flattery is rejected by godly people</h2>\n<p><strong><a href=\"https://ref.ly/Job32:21-Job32:22\">JOB 32:21–32:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal1:10\">GAL 1:10</a>; <a href=\"https://ref.ly/1Thess2:5-1Thess2:6\">1TH 2:5–2:6</a></p>\n<h2>Honesty is preferable to flattery</h2>\n<p><strong><a href=\"https://ref.ly/Prov28:23\">PRO 28:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov16:13\">PRO 16:13</a>, <a href=\"https://ref.ly/Prov27:9\">PRO 27:9</a></p>\n<h2>False teachers use flattery</h2>\n<p><strong><a href=\"https://ref.ly/Rom16:17-Rom16:18\">ROM 16:17–16:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Tim4:3-2Tim4:4\">2TI 4:3–4:4</a>; <a href=\"https://ref.ly/Jude1:16-Jude1:19\">JUD 1:16–1:19</a></p>\n<h2>Examples of flattery</h2>\n<p><a href=\"https://ref.ly/2Sam14:17-2Sam14:20\">2SA 14:17–14:20</a> <em>The woman from Tekoa flatters David</em>; ; <a href=\"https://ref.ly/2Sam15:2-2Sam15:6\">2SA 15:2–15:6</a> <em>Absalom to Israelites</em>; ; <a href=\"https://ref.ly/Dan6:21\">DAN 6:21</a> <em>Daniel flatters the king</em>; ; <a href=\"https://ref.ly/Matt22:16\">MAT 22:16</a> parallels <a href=\"https://ref.ly/Mark12:14\">MRK 12:14</a>, <a href=\"https://ref.ly/Luke20:21\">LUK 20:21</a> <em>the Pharisees and Herodians to Jesus Christ</em>; ; <a href=\"https://ref.ly/Luke20:21\">LUK 20:21</a> <em>The spies from the teachers of the law flatter Jesus Christ</em>; ; <a href=\"https://ref.ly/Acts12:22\">ACT 12:22</a> <em>The crowds flatter Herod.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19012002",
+"start_ref_usfm": "PSA 12:2",
+"end_ref": "19012003",
+"end_ref_usfm": "PSA 12:3"
+},
+{
+"start_ref": "19005009",
+"start_ref_usfm": "PSA 5:9",
+"end_ref": "19005009",
+"end_ref_usfm": "PSA 5:9"
+},
+{
+"start_ref": "19055020",
+"start_ref_usfm": "PSA 55:20",
+"end_ref": "19055021",
+"end_ref_usfm": "PSA 55:21"
+},
+{
+"start_ref": "19062004",
+"start_ref_usfm": "PSA 62:4",
+"end_ref": "19062004",
+"end_ref_usfm": "PSA 62:4"
+},
+{
+"start_ref": "20027006",
+"start_ref_usfm": "PRO 27:6",
+"end_ref": "20027006",
+"end_ref_usfm": "PRO 27:6"
+},
+{
+"start_ref": "24009008",
+"start_ref_usfm": "JER 9:8",
+"end_ref": "24009008",
+"end_ref_usfm": "JER 9:8"
+},
+{
+"start_ref": "20026028",
+"start_ref_usfm": "PRO 26:28",
+"end_ref": "20026028",
+"end_ref_usfm": "PRO 26:28"
+},
+{
+"start_ref": "20029005",
+"start_ref_usfm": "PRO 29:5",
+"end_ref": "20029005",
+"end_ref_usfm": "PRO 29:5"
+},
+{
+"start_ref": "18032021",
+"start_ref_usfm": "JOB 32:21",
+"end_ref": "18032022",
+"end_ref_usfm": "JOB 32:22"
+},
+{
+"start_ref": "48001010",
+"start_ref_usfm": "GAL 1:10",
+"end_ref": "48001010",
+"end_ref_usfm": "GAL 1:10"
+},
+{
+"start_ref": "52002005",
+"start_ref_usfm": "1TH 2:5",
+"end_ref": "52002006",
+"end_ref_usfm": "1TH 2:6"
+},
+{
+"start_ref": "20028023",
+"start_ref_usfm": "PRO 28:23",
+"end_ref": "20028023",
+"end_ref_usfm": "PRO 28:23"
+},
+{
+"start_ref": "20016013",
+"start_ref_usfm": "PRO 16:13",
+"end_ref": "20016013",
+"end_ref_usfm": "PRO 16:13"
+},
+{
+"start_ref": "20027009",
+"start_ref_usfm": "PRO 27:9",
+"end_ref": "20027009",
+"end_ref_usfm": "PRO 27:9"
+},
+{
+"start_ref": "45016017",
+"start_ref_usfm": "ROM 16:17",
+"end_ref": "45016018",
+"end_ref_usfm": "ROM 16:18"
+},
+{
+"start_ref": "55004003",
+"start_ref_usfm": "2TI 4:3",
+"end_ref": "55004004",
+"end_ref_usfm": "2TI 4:4"
+},
+{
+"start_ref": "65001016",
+"start_ref_usfm": "JUD 1:16",
+"end_ref": "65001019",
+"end_ref_usfm": "JUD 1:19"
+},
+{
+"start_ref": "10014017",
+"start_ref_usfm": "2SA 14:17",
+"end_ref": "10014020",
+"end_ref_usfm": "2SA 14:20"
+},
+{
+"start_ref": "10015002",
+"start_ref_usfm": "2SA 15:2",
+"end_ref": "10015006",
+"end_ref_usfm": "2SA 15:6"
+},
+{
+"start_ref": "27006021",
+"start_ref_usfm": "DAN 6:21",
+"end_ref": "27006021",
+"end_ref_usfm": "DAN 6:21"
+},
+{
+"start_ref": "40022016",
+"start_ref_usfm": "MAT 22:16",
+"end_ref": "40022016",
+"end_ref_usfm": "MAT 22:16"
+},
+{
+"start_ref": "41012014",
+"start_ref_usfm": "MRK 12:14",
+"end_ref": "41012014",
+"end_ref_usfm": "MRK 12:14"
+},
+{
+"start_ref": "42020021",
+"start_ref_usfm": "LUK 20:21",
+"end_ref": "42020021",
+"end_ref_usfm": "LUK 20:21"
+},
+{
+"start_ref": "44012022",
+"start_ref_usfm": "ACT 12:22",
+"end_ref": "44012022",
+"end_ref_usfm": "ACT 12:22"
+}
+],
+"resource": [
+{
+"reference_id": "5164",
+"content_id": "5164",
+"resource_code": "DictionaryBibleThemes",
+"label": "5164: lips",
+"language": "eng"
+},
+{
+"reference_id": "5546",
+"content_id": "5546",
+"resource_code": "DictionaryBibleThemes",
+"label": "5546: speech",
+"language": "eng"
+},
+{
+"reference_id": "5575",
+"content_id": "5575",
+"resource_code": "DictionaryBibleThemes",
+"label": "5575: talk, idle",
+"language": "eng"
+},
+{
+"reference_id": "5690",
+"content_id": "5690",
+"resource_code": "DictionaryBibleThemes",
+"label": "5690: friends",
+"language": "eng"
+},
+{
+"reference_id": "5820",
+"content_id": "5820",
+"resource_code": "DictionaryBibleThemes",
+"label": "5820: criticism",
+"language": "eng"
+},
+{
+"reference_id": "6145",
+"content_id": "6145",
+"resource_code": "DictionaryBibleThemes",
+"label": "6145: deceit",
+"language": "eng"
+},
+{
+"reference_id": "8237",
+"content_id": "8237",
+"resource_code": "DictionaryBibleThemes",
+"label": "8237: doctrine, false",
+"language": "eng"
+},
+{
+"reference_id": "8714",
+"content_id": "8714",
+"resource_code": "DictionaryBibleThemes",
+"label": "8714: dishonesty",
+"language": "eng"
+}
+]
+}
+}
+]

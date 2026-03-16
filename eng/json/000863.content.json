@@ -1,0 +1,108 @@
+[
+{
+"content_id": "5275",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5275: cremation",
+"media_type": "Text",
+"index_reference": "5275: cremation",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The burning of a dead body. Cremation was not practised by Israel or the first Christians. In difficult circumstances a corpse might be burnt and the remains buried</h2>\n<h2>Cremation of corpses</h2>\n<p><strong><a href=\"https://ref.ly/1Sam31:12-1Sam31:13\">1SA 31:12–31:13</a></strong> <em>This was done to prevent any further abuse of the bodies by the Philistines. David later reburied the remains in a family grave (see <a href=\"https://ref.ly/2Sam21:12-2Sam21:14\">2Sa 21:12–14</a>).</em></p>\n<h2>Burning a body as a punishment</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Lev20:14\">LEV 20:14</a>, <a href=\"https://ref.ly/Lev21:9\">LEV 21:9</a>; <a href=\"https://ref.ly/Josh7:15\">JOS 7:15</a>, <a href=\"https://ref.ly/Josh7:25\">JOS 7:25</a>; <a href=\"https://ref.ly/2Kgs23:20\">2KI 23:20</a></p>\n<h2>Funeral fires for the kings of Judah</h2>\n<p>These were not for the purpose of cremating the king's corpse, but public demonstrations in his honour:\n <a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a>; ; <a href=\"https://ref.ly/Jer34:5\">JER 34:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "09031012",
+"start_ref_usfm": "1SA 31:12",
+"end_ref": "09031013",
+"end_ref_usfm": "1SA 31:13"
+},
+{
+"start_ref": "10021012",
+"start_ref_usfm": "2SA 21:12",
+"end_ref": "10021014",
+"end_ref_usfm": "2SA 21:14"
+},
+{
+"start_ref": "03020014",
+"start_ref_usfm": "LEV 20:14",
+"end_ref": "03020014",
+"end_ref_usfm": "LEV 20:14"
+},
+{
+"start_ref": "03021009",
+"start_ref_usfm": "LEV 21:9",
+"end_ref": "03021009",
+"end_ref_usfm": "LEV 21:9"
+},
+{
+"start_ref": "06007015",
+"start_ref_usfm": "JOS 7:15",
+"end_ref": "06007015",
+"end_ref_usfm": "JOS 7:15"
+},
+{
+"start_ref": "06007025",
+"start_ref_usfm": "JOS 7:25",
+"end_ref": "06007025",
+"end_ref_usfm": "JOS 7:25"
+},
+{
+"start_ref": "12023020",
+"start_ref_usfm": "2KI 23:20",
+"end_ref": "12023020",
+"end_ref_usfm": "2KI 23:20"
+},
+{
+"start_ref": "14016014",
+"start_ref_usfm": "2CH 16:14",
+"end_ref": "14016014",
+"end_ref_usfm": "2CH 16:14"
+},
+{
+"start_ref": "24034005",
+"start_ref_usfm": "JER 34:5",
+"end_ref": "24034005",
+"end_ref_usfm": "JER 34:5"
+}
+],
+"resource": [
+{
+"reference_id": "4826",
+"content_id": "4826",
+"resource_code": "DictionaryBibleThemes",
+"label": "4826: fire",
+"language": "eng"
+},
+{
+"reference_id": "5241",
+"content_id": "5241",
+"resource_code": "DictionaryBibleThemes",
+"label": "5241: burial",
+"language": "eng"
+},
+{
+"reference_id": "5320",
+"content_id": "5320",
+"resource_code": "DictionaryBibleThemes",
+"label": "5320: funeral",
+"language": "eng"
+},
+{
+"reference_id": "5482",
+"content_id": "5482",
+"resource_code": "DictionaryBibleThemes",
+"label": "5482: punishment",
+"language": "eng"
+},
+{
+"reference_id": "9030",
+"content_id": "9030",
+"resource_code": "DictionaryBibleThemes",
+"label": "9030: dead bodies",
+"language": "eng"
+}
+]
+}
+}
+]

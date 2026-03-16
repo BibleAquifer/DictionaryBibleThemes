@@ -1,0 +1,182 @@
+[
+{
+"content_id": "6151",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6151: dirt",
+"media_type": "Text",
+"index_reference": "6151: dirt",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Throwing dirt to signify contempt</h2>\n<p><strong><a href=\"https://ref.ly/2Sam16:13\">2SA 16:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Nah3:6\">NAM 3:6</a></p>\n<h2>Bathing to remove dirt</h2>\n<p><strong><a href=\"https://ref.ly/1Pet3:21\">1PE 3:21</a></strong></p>\n<h2>Comparative use of dirt to emphasise abundance</h2>\n<p><strong><a href=\"https://ref.ly/Zech9:3\">ZEC 9:3</a></strong></p>\n<h2>Metaphorical use of filth to represent sin</h2>\n<p><strong><a href=\"https://ref.ly/Isa4:4\">ISA 4:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov30:11-Prov30:14\">PRO 30:11–30:14</a>; <a href=\"https://ref.ly/Isa28:8\">ISA 28:8</a>; <a href=\"https://ref.ly/Jas1:21\">JAS 1:21</a>; <a href=\"https://ref.ly/Rev17:4\">REV 17:4</a></p>\n<h2>Refuse indicating worthlessness</h2>\n<p><strong><a href=\"https://ref.ly/1Cor4:13\">1CO 4:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs9:37\">2KI 9:37</a>; <a href=\"https://ref.ly/Ps83:10\">PSA 83:10</a>; <a href=\"https://ref.ly/Isa5:25\">ISA 5:25</a>; <a href=\"https://ref.ly/Jer8:2\">JER 8:2</a>, <a href=\"https://ref.ly/Jer9:22\">JER 9:22</a>, <a href=\"https://ref.ly/Jer16:4\">JER 16:4</a>, <a href=\"https://ref.ly/Jer25:33\">JER 25:33</a>; <a href=\"https://ref.ly/Lam3:45\">LAM 3:45</a>; <a href=\"https://ref.ly/Phil3:8-Phil3:9\">PHP 3:8–3:9</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "10016013",
+"start_ref_usfm": "2SA 16:13",
+"end_ref": "10016013",
+"end_ref_usfm": "2SA 16:13"
+},
+{
+"start_ref": "34003006",
+"start_ref_usfm": "NAM 3:6",
+"end_ref": "34003006",
+"end_ref_usfm": "NAM 3:6"
+},
+{
+"start_ref": "60003021",
+"start_ref_usfm": "1PE 3:21",
+"end_ref": "60003021",
+"end_ref_usfm": "1PE 3:21"
+},
+{
+"start_ref": "38009003",
+"start_ref_usfm": "ZEC 9:3",
+"end_ref": "38009003",
+"end_ref_usfm": "ZEC 9:3"
+},
+{
+"start_ref": "23004004",
+"start_ref_usfm": "ISA 4:4",
+"end_ref": "23004004",
+"end_ref_usfm": "ISA 4:4"
+},
+{
+"start_ref": "20030011",
+"start_ref_usfm": "PRO 30:11",
+"end_ref": "20030014",
+"end_ref_usfm": "PRO 30:14"
+},
+{
+"start_ref": "23028008",
+"start_ref_usfm": "ISA 28:8",
+"end_ref": "23028008",
+"end_ref_usfm": "ISA 28:8"
+},
+{
+"start_ref": "59001021",
+"start_ref_usfm": "JAS 1:21",
+"end_ref": "59001021",
+"end_ref_usfm": "JAS 1:21"
+},
+{
+"start_ref": "66017004",
+"start_ref_usfm": "REV 17:4",
+"end_ref": "66017004",
+"end_ref_usfm": "REV 17:4"
+},
+{
+"start_ref": "46004013",
+"start_ref_usfm": "1CO 4:13",
+"end_ref": "46004013",
+"end_ref_usfm": "1CO 4:13"
+},
+{
+"start_ref": "12009037",
+"start_ref_usfm": "2KI 9:37",
+"end_ref": "12009037",
+"end_ref_usfm": "2KI 9:37"
+},
+{
+"start_ref": "19083010",
+"start_ref_usfm": "PSA 83:10",
+"end_ref": "19083010",
+"end_ref_usfm": "PSA 83:10"
+},
+{
+"start_ref": "23005025",
+"start_ref_usfm": "ISA 5:25",
+"end_ref": "23005025",
+"end_ref_usfm": "ISA 5:25"
+},
+{
+"start_ref": "24008002",
+"start_ref_usfm": "JER 8:2",
+"end_ref": "24008002",
+"end_ref_usfm": "JER 8:2"
+},
+{
+"start_ref": "24009022",
+"start_ref_usfm": "JER 9:22",
+"end_ref": "24009022",
+"end_ref_usfm": "JER 9:22"
+},
+{
+"start_ref": "24016004",
+"start_ref_usfm": "JER 16:4",
+"end_ref": "24016004",
+"end_ref_usfm": "JER 16:4"
+},
+{
+"start_ref": "24025033",
+"start_ref_usfm": "JER 25:33",
+"end_ref": "24025033",
+"end_ref_usfm": "JER 25:33"
+},
+{
+"start_ref": "25003045",
+"start_ref_usfm": "LAM 3:45",
+"end_ref": "25003045",
+"end_ref_usfm": "LAM 3:45"
+},
+{
+"start_ref": "50003008",
+"start_ref_usfm": "PHP 3:8",
+"end_ref": "50003009",
+"end_ref_usfm": "PHP 3:9"
+}
+],
+"resource": [
+{
+"reference_id": "7340",
+"content_id": "7340",
+"resource_code": "DictionaryBibleThemes",
+"label": "7340: clean and unclean",
+"language": "eng"
+},
+{
+"reference_id": "7342",
+"content_id": "7342",
+"resource_code": "DictionaryBibleThemes",
+"label": "7342: cleanliness",
+"language": "eng"
+},
+{
+"reference_id": "7348",
+"content_id": "7348",
+"resource_code": "DictionaryBibleThemes",
+"label": "7348: defilement",
+"language": "eng"
+},
+{
+"reference_id": "7416",
+"content_id": "7416",
+"resource_code": "DictionaryBibleThemes",
+"label": "7416: purification",
+"language": "eng"
+},
+{
+"reference_id": "7426",
+"content_id": "7426",
+"resource_code": "DictionaryBibleThemes",
+"label": "7426: ritual washing",
+"language": "eng"
+},
+{
+"reference_id": "7903",
+"content_id": "7903",
+"resource_code": "DictionaryBibleThemes",
+"label": "7903: baptism",
+"language": "eng"
+},
+{
+"reference_id": "8324",
+"content_id": "8324",
+"resource_code": "DictionaryBibleThemes",
+"label": "8324: purity",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,39 @@
+[
+{
+"content_id": "8834",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8834: unbelief",
+"media_type": "Text",
+"index_reference": "8834: unbelief",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The lack of faith and trust in God that challenges his truthfulness and finds expression in disobedience and rebellion.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8835",
+"content_id": "8835",
+"resource_code": "DictionaryBibleThemes",
+"label": "8835: unbelief, nature and effects of",
+"language": "eng"
+},
+{
+"reference_id": "8836",
+"content_id": "8836",
+"resource_code": "DictionaryBibleThemes",
+"label": "8836: unbelief, as response to God",
+"language": "eng"
+},
+{
+"reference_id": "8837",
+"content_id": "8837",
+"resource_code": "DictionaryBibleThemes",
+"label": "8837: unbelief, and life of faith",
+"language": "eng"
+}
+]
+}
+}
+]

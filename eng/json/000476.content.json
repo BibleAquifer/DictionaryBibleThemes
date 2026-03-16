@@ -1,0 +1,177 @@
+[
+{
+"content_id": "4522",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4522: threshing",
+"media_type": "Text",
+"index_reference": "4522: threshing",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The process of beating out or separating grain from harvested stalks.</p>\n<h2>Threshing and the harvest</h2>\n<p><strong><a href=\"https://ref.ly/Lev26:5\">LEV 26:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg6:11\">JDG 6:11</a>; <a href=\"https://ref.ly/1Chr21:20\">1CH 21:20</a>; <a href=\"https://ref.ly/1Cor9:9\">1CO 9:9</a>; <a href=\"https://ref.ly/Deut25:4\">DEU 25:4</a>; <a href=\"https://ref.ly/1Tim5:18\">1TI 5:18</a> <em>Paul is adapting a humane OT law to the support of Christian workers.</em></p>\n<h2>Threshing implements</h2>\n<p><strong><a href=\"https://ref.ly/2Sam24:22\">2SA 24:22</a></strong> parallel <a href=\"https://ref.ly/1Chr21:23\">1CH 21:23</a> <em>A threshing-sledge was a board studded underneath with sharp stones which was dragged by oxen over the wheat ears in order to separate the kernels.</em> <em>See also</em> <a href=\"https://ref.ly/Job41:30\">JOB 41:30</a>; <a href=\"https://ref.ly/Isa28:27-Isa28:28\">ISA 28:27–28:28</a>, <a href=\"https://ref.ly/Isa41:15\">ISA 41:15</a></p>\n<h2>Threshing used figuratively</h2>\n<p><strong><a href=\"https://ref.ly/Isa27:12\">ISA 27:12</a></strong>; <strong><a href=\"https://ref.ly/Hos10:11\">HOS 10:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs13:7\">2KI 13:7</a>; <a href=\"https://ref.ly/Prov20:26\">PRO 20:26</a>; <a href=\"https://ref.ly/Jer50:11\">JER 50:11</a>; <a href=\"https://ref.ly/Mic4:13\">MIC 4:13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03026005",
+"start_ref_usfm": "LEV 26:5",
+"end_ref": "03026005",
+"end_ref_usfm": "LEV 26:5"
+},
+{
+"start_ref": "07006011",
+"start_ref_usfm": "JDG 6:11",
+"end_ref": "07006011",
+"end_ref_usfm": "JDG 6:11"
+},
+{
+"start_ref": "13021020",
+"start_ref_usfm": "1CH 21:20",
+"end_ref": "13021020",
+"end_ref_usfm": "1CH 21:20"
+},
+{
+"start_ref": "46009009",
+"start_ref_usfm": "1CO 9:9",
+"end_ref": "46009009",
+"end_ref_usfm": "1CO 9:9"
+},
+{
+"start_ref": "05025004",
+"start_ref_usfm": "DEU 25:4",
+"end_ref": "05025004",
+"end_ref_usfm": "DEU 25:4"
+},
+{
+"start_ref": "54005018",
+"start_ref_usfm": "1TI 5:18",
+"end_ref": "54005018",
+"end_ref_usfm": "1TI 5:18"
+},
+{
+"start_ref": "10024022",
+"start_ref_usfm": "2SA 24:22",
+"end_ref": "10024022",
+"end_ref_usfm": "2SA 24:22"
+},
+{
+"start_ref": "13021023",
+"start_ref_usfm": "1CH 21:23",
+"end_ref": "13021023",
+"end_ref_usfm": "1CH 21:23"
+},
+{
+"start_ref": "18041030",
+"start_ref_usfm": "JOB 41:30",
+"end_ref": "18041030",
+"end_ref_usfm": "JOB 41:30"
+},
+{
+"start_ref": "23028027",
+"start_ref_usfm": "ISA 28:27",
+"end_ref": "23028028",
+"end_ref_usfm": "ISA 28:28"
+},
+{
+"start_ref": "23041015",
+"start_ref_usfm": "ISA 41:15",
+"end_ref": "23041015",
+"end_ref_usfm": "ISA 41:15"
+},
+{
+"start_ref": "23027012",
+"start_ref_usfm": "ISA 27:12",
+"end_ref": "23027012",
+"end_ref_usfm": "ISA 27:12"
+},
+{
+"start_ref": "28010011",
+"start_ref_usfm": "HOS 10:11",
+"end_ref": "28010011",
+"end_ref_usfm": "HOS 10:11"
+},
+{
+"start_ref": "12013007",
+"start_ref_usfm": "2KI 13:7",
+"end_ref": "12013007",
+"end_ref_usfm": "2KI 13:7"
+},
+{
+"start_ref": "20020026",
+"start_ref_usfm": "PRO 20:26",
+"end_ref": "20020026",
+"end_ref_usfm": "PRO 20:26"
+},
+{
+"start_ref": "24050011",
+"start_ref_usfm": "JER 50:11",
+"end_ref": "24050011",
+"end_ref_usfm": "JER 50:11"
+},
+{
+"start_ref": "33004013",
+"start_ref_usfm": "MIC 4:13",
+"end_ref": "33004013",
+"end_ref_usfm": "MIC 4:13"
+}
+],
+"resource": [
+{
+"reference_id": "4426",
+"content_id": "4426",
+"resource_code": "DictionaryBibleThemes",
+"label": "4426: chaff",
+"language": "eng"
+},
+{
+"reference_id": "4456",
+"content_id": "4456",
+"resource_code": "DictionaryBibleThemes",
+"label": "4456: grain",
+"language": "eng"
+},
+{
+"reference_id": "4464",
+"content_id": "4464",
+"resource_code": "DictionaryBibleThemes",
+"label": "4464: harvest",
+"language": "eng"
+},
+{
+"reference_id": "4510",
+"content_id": "4510",
+"resource_code": "DictionaryBibleThemes",
+"label": "4510: sowing and reaping",
+"language": "eng"
+},
+{
+"reference_id": "4524",
+"content_id": "4524",
+"resource_code": "DictionaryBibleThemes",
+"label": "4524: threshing-floor",
+"language": "eng"
+},
+{
+"reference_id": "4550",
+"content_id": "4550",
+"resource_code": "DictionaryBibleThemes",
+"label": "4550: winnowing",
+"language": "eng"
+},
+{
+"reference_id": "5530",
+"content_id": "5530",
+"resource_code": "DictionaryBibleThemes",
+"label": "5530: sifting",
+"language": "eng"
+},
+{
+"reference_id": "5621",
+"content_id": "5621",
+"resource_code": "DictionaryBibleThemes",
+"label": "5621: wheel",
+"language": "eng"
+}
+]
+}
+}
+]

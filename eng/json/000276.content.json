@@ -1,0 +1,175 @@
+[
+{
+"content_id": "3248",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "3248: Holy Spirit, conviction of",
+"media_type": "Text",
+"index_reference": "3248: holy spirit, conviction of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The Holy Spirit convinces human beings of sin and of the reality of forgiveness through Jesus Christ.</p>\n<h2>The Holy Spirit convicts the world of sin and its consequences</h2>\n<p><strong><a href=\"https://ref.ly/John16:8-John16:11\">JHN 16:8–16:11</a></strong></p>\n<h2>Ways in which the Holy Spirit brings conviction</h2>\n<h3>Through preaching</h3>\n<p><strong><a href=\"https://ref.ly/Acts2:37\">ACT 2:37</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts16:14\">ACT 16:14</a>; <a href=\"https://ref.ly/1Thess1:5\">1TH 1:5</a></p>\n<h3>Through the exercise of spiritual gifts</h3>\n<p><strong><a href=\"https://ref.ly/1Cor14:24-1Cor14:25\">1CO 14:24–14:25</a></strong></p>\n<h2>The reality of the Holy Spirit's conviction in the lives of believers</h2>\n<h3>He brings illumination</h3>\n<p><strong><a href=\"https://ref.ly/Eph1:17-Eph1:18\">EPH 1:17–1:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor2:8-1Cor2:10\">1CO 2:8–2:10</a>, <a href=\"https://ref.ly/1Cor2:14-1Cor2:16\">1CO 2:14–2:16</a></p>\n<h3>He gives assurance about their new relationship with God</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:15-Rom8:16\">ROM 8:15–8:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal4:6\">GAL 4:6</a></p>\n<h3>He convicts of the need for constant change</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:5-Rom8:9\">ROM 8:5–8:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal5:16-Gal5:23\">GAL 5:16–5:23</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "43016008",
+"start_ref_usfm": "JHN 16:8",
+"end_ref": "43016011",
+"end_ref_usfm": "JHN 16:11"
+},
+{
+"start_ref": "44002037",
+"start_ref_usfm": "ACT 2:37",
+"end_ref": "44002037",
+"end_ref_usfm": "ACT 2:37"
+},
+{
+"start_ref": "44016014",
+"start_ref_usfm": "ACT 16:14",
+"end_ref": "44016014",
+"end_ref_usfm": "ACT 16:14"
+},
+{
+"start_ref": "52001005",
+"start_ref_usfm": "1TH 1:5",
+"end_ref": "52001005",
+"end_ref_usfm": "1TH 1:5"
+},
+{
+"start_ref": "46014024",
+"start_ref_usfm": "1CO 14:24",
+"end_ref": "46014025",
+"end_ref_usfm": "1CO 14:25"
+},
+{
+"start_ref": "49001017",
+"start_ref_usfm": "EPH 1:17",
+"end_ref": "49001018",
+"end_ref_usfm": "EPH 1:18"
+},
+{
+"start_ref": "46002008",
+"start_ref_usfm": "1CO 2:8",
+"end_ref": "46002010",
+"end_ref_usfm": "1CO 2:10"
+},
+{
+"start_ref": "46002014",
+"start_ref_usfm": "1CO 2:14",
+"end_ref": "46002016",
+"end_ref_usfm": "1CO 2:16"
+},
+{
+"start_ref": "45008015",
+"start_ref_usfm": "ROM 8:15",
+"end_ref": "45008016",
+"end_ref_usfm": "ROM 8:16"
+},
+{
+"start_ref": "48004006",
+"start_ref_usfm": "GAL 4:6",
+"end_ref": "48004006",
+"end_ref_usfm": "GAL 4:6"
+},
+{
+"start_ref": "45008005",
+"start_ref_usfm": "ROM 8:5",
+"end_ref": "45008009",
+"end_ref_usfm": "ROM 8:9"
+},
+{
+"start_ref": "48005016",
+"start_ref_usfm": "GAL 5:16",
+"end_ref": "48005023",
+"end_ref_usfm": "GAL 5:23"
+}
+],
+"resource": [
+{
+"reference_id": "3203",
+"content_id": "3203",
+"resource_code": "DictionaryBibleThemes",
+"label": "3203: Holy Spirit, and assurance",
+"language": "eng"
+},
+{
+"reference_id": "3224",
+"content_id": "3224",
+"resource_code": "DictionaryBibleThemes",
+"label": "3224: Holy Spirit, and preaching",
+"language": "eng"
+},
+{
+"reference_id": "3233",
+"content_id": "3233",
+"resource_code": "DictionaryBibleThemes",
+"label": "3233: Holy Spirit, and sanctification",
+"language": "eng"
+},
+{
+"reference_id": "3293",
+"content_id": "3293",
+"resource_code": "DictionaryBibleThemes",
+"label": "3293: Holy Spirit, witness of",
+"language": "eng"
+},
+{
+"reference_id": "3296",
+"content_id": "3296",
+"resource_code": "DictionaryBibleThemes",
+"label": "3296: Holy Spirit, work in the world",
+"language": "eng"
+},
+{
+"reference_id": "6124",
+"content_id": "6124",
+"resource_code": "DictionaryBibleThemes",
+"label": "6124: condemnation",
+"language": "eng"
+},
+{
+"reference_id": "6172",
+"content_id": "6172",
+"resource_code": "DictionaryBibleThemes",
+"label": "6172: guilt",
+"language": "eng"
+},
+{
+"reference_id": "6632",
+"content_id": "6632",
+"resource_code": "DictionaryBibleThemes",
+"label": "6632: conviction",
+"language": "eng"
+},
+{
+"reference_id": "6732",
+"content_id": "6732",
+"resource_code": "DictionaryBibleThemes",
+"label": "6732: repentance",
+"language": "eng"
+},
+{
+"reference_id": "8104",
+"content_id": "8104",
+"resource_code": "DictionaryBibleThemes",
+"label": "8104: assurance",
+"language": "eng"
+},
+{
+"reference_id": "8154",
+"content_id": "8154",
+"resource_code": "DictionaryBibleThemes",
+"label": "8154: righteousness",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

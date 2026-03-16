@@ -1,0 +1,218 @@
+[
+{
+"content_id": "9125",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9125: footstool",
+"media_type": "Text",
+"index_reference": "9125: footstool",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Used mostly symbolically to refer to God's supreme authority over his creation. It is used especially to refer to his final victory over all those who oppose him.</p>\n<h2>The footstool as a rest for the feet</h2>\n<p><strong><a href=\"https://ref.ly/2Chr9:18\">2CH 9:18</a></strong>; <strong><a href=\"https://ref.ly/Jas2:3\">JAS 2:3</a></strong></p>\n<h2>The footstool used symbolically</h2>\n<h3>God's footstool as a symbol for the ark and the temple</h3>\n<p><strong><a href=\"https://ref.ly/Ps132:7\">PSA 132:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr28:2\">1CH 28:2</a>; <a href=\"https://ref.ly/Ps99:5\">PSA 99:5</a>; <a href=\"https://ref.ly/Lam2:1\">LAM 2:1</a></p>\n<h3>God's footstool as a symbol for the earth</h3>\n<p><strong><a href=\"https://ref.ly/Isa66:1\">ISA 66:1</a></strong> <em>God cannot be confined to any man-made temple.</em> <em>See also</em> <a href=\"https://ref.ly/Matt5:35\">MAT 5:35</a>; <a href=\"https://ref.ly/Acts7:49\">ACT 7:49</a></p>\n<h3>Defeated enemies can be regarded as a footstool</h3>\n<p><a href=\"https://ref.ly/Josh10:24-Josh10:25\">JOS 10:24–10:25</a>; ; <a href=\"https://ref.ly/1Kgs5:3\">1KI 5:3</a>; ; <a href=\"https://ref.ly/Ps66:12\">PSA 66:12</a>; ; <a href=\"https://ref.ly/Isa51:23\">ISA 51:23</a>; ; <a href=\"https://ref.ly/Mic7:10\">MIC 7:10</a></p>\n<h3>Jesus Christ will make all God's enemies his footstool</h3>\n<p><strong><a href=\"https://ref.ly/Heb1:13\">HEB 1:13</a></strong> <em>This passage affirms Jesus Christ's supremacy over the angels.</em> <em>See also</em> <a href=\"https://ref.ly/Ps110:1\">PSA 110:1</a>; <a href=\"https://ref.ly/Matt22:44\">MAT 22:44</a> parallels <a href=\"https://ref.ly/Mark12:36\">MRK 12:36</a>, <a href=\"https://ref.ly/Luke20:43\">LUK 20:43</a>; <a href=\"https://ref.ly/Acts2:34-Acts2:35\">ACT 2:34–2:35</a>; <a href=\"https://ref.ly/Eph1:22\">EPH 1:22</a></p>\n<h3>Jesus Christ will complete his victory when he returns</h3>\n<p><strong><a href=\"https://ref.ly/Heb10:13\">HEB 10:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor15:25\">1CO 15:25</a>; <a href=\"https://ref.ly/Heb2:8\">HEB 2:8</a>; <a href=\"https://ref.ly/Ps8:6\">PSA 8:6</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "14009018",
+"start_ref_usfm": "2CH 9:18",
+"end_ref": "14009018",
+"end_ref_usfm": "2CH 9:18"
+},
+{
+"start_ref": "59002003",
+"start_ref_usfm": "JAS 2:3",
+"end_ref": "59002003",
+"end_ref_usfm": "JAS 2:3"
+},
+{
+"start_ref": "19132007",
+"start_ref_usfm": "PSA 132:7",
+"end_ref": "19132007",
+"end_ref_usfm": "PSA 132:7"
+},
+{
+"start_ref": "13028002",
+"start_ref_usfm": "1CH 28:2",
+"end_ref": "13028002",
+"end_ref_usfm": "1CH 28:2"
+},
+{
+"start_ref": "19099005",
+"start_ref_usfm": "PSA 99:5",
+"end_ref": "19099005",
+"end_ref_usfm": "PSA 99:5"
+},
+{
+"start_ref": "25002001",
+"start_ref_usfm": "LAM 2:1",
+"end_ref": "25002001",
+"end_ref_usfm": "LAM 2:1"
+},
+{
+"start_ref": "23066001",
+"start_ref_usfm": "ISA 66:1",
+"end_ref": "23066001",
+"end_ref_usfm": "ISA 66:1"
+},
+{
+"start_ref": "40005035",
+"start_ref_usfm": "MAT 5:35",
+"end_ref": "40005035",
+"end_ref_usfm": "MAT 5:35"
+},
+{
+"start_ref": "44007049",
+"start_ref_usfm": "ACT 7:49",
+"end_ref": "44007049",
+"end_ref_usfm": "ACT 7:49"
+},
+{
+"start_ref": "06010024",
+"start_ref_usfm": "JOS 10:24",
+"end_ref": "06010025",
+"end_ref_usfm": "JOS 10:25"
+},
+{
+"start_ref": "11005003",
+"start_ref_usfm": "1KI 5:3",
+"end_ref": "11005003",
+"end_ref_usfm": "1KI 5:3"
+},
+{
+"start_ref": "19066012",
+"start_ref_usfm": "PSA 66:12",
+"end_ref": "19066012",
+"end_ref_usfm": "PSA 66:12"
+},
+{
+"start_ref": "23051023",
+"start_ref_usfm": "ISA 51:23",
+"end_ref": "23051023",
+"end_ref_usfm": "ISA 51:23"
+},
+{
+"start_ref": "33007010",
+"start_ref_usfm": "MIC 7:10",
+"end_ref": "33007010",
+"end_ref_usfm": "MIC 7:10"
+},
+{
+"start_ref": "58001013",
+"start_ref_usfm": "HEB 1:13",
+"end_ref": "58001013",
+"end_ref_usfm": "HEB 1:13"
+},
+{
+"start_ref": "19110001",
+"start_ref_usfm": "PSA 110:1",
+"end_ref": "19110001",
+"end_ref_usfm": "PSA 110:1"
+},
+{
+"start_ref": "40022044",
+"start_ref_usfm": "MAT 22:44",
+"end_ref": "40022044",
+"end_ref_usfm": "MAT 22:44"
+},
+{
+"start_ref": "41012036",
+"start_ref_usfm": "MRK 12:36",
+"end_ref": "41012036",
+"end_ref_usfm": "MRK 12:36"
+},
+{
+"start_ref": "42020043",
+"start_ref_usfm": "LUK 20:43",
+"end_ref": "42020043",
+"end_ref_usfm": "LUK 20:43"
+},
+{
+"start_ref": "44002034",
+"start_ref_usfm": "ACT 2:34",
+"end_ref": "44002035",
+"end_ref_usfm": "ACT 2:35"
+},
+{
+"start_ref": "49001022",
+"start_ref_usfm": "EPH 1:22",
+"end_ref": "49001022",
+"end_ref_usfm": "EPH 1:22"
+},
+{
+"start_ref": "58010013",
+"start_ref_usfm": "HEB 10:13",
+"end_ref": "58010013",
+"end_ref_usfm": "HEB 10:13"
+},
+{
+"start_ref": "46015025",
+"start_ref_usfm": "1CO 15:25",
+"end_ref": "46015025",
+"end_ref_usfm": "1CO 15:25"
+},
+{
+"start_ref": "58002008",
+"start_ref_usfm": "HEB 2:8",
+"end_ref": "58002008",
+"end_ref_usfm": "HEB 2:8"
+},
+{
+"start_ref": "19008006",
+"start_ref_usfm": "PSA 8:6",
+"end_ref": "19008006",
+"end_ref_usfm": "PSA 8:6"
+}
+],
+"resource": [
+{
+"reference_id": "1130",
+"content_id": "1130",
+"resource_code": "DictionaryBibleThemes",
+"label": "1130: God, sovereignty of",
+"language": "eng"
+},
+{
+"reference_id": "2372",
+"content_id": "2372",
+"resource_code": "DictionaryBibleThemes",
+"label": "2372: Jesus Christ, victory of",
+"language": "eng"
+},
+{
+"reference_id": "2545",
+"content_id": "2545",
+"resource_code": "DictionaryBibleThemes",
+"label": "2545: Jesus Christ, opposition to",
+"language": "eng"
+},
+{
+"reference_id": "5151",
+"content_id": "5151",
+"resource_code": "DictionaryBibleThemes",
+"label": "5151: feet",
+"language": "eng"
+},
+{
+"reference_id": "5581",
+"content_id": "5581",
+"resource_code": "DictionaryBibleThemes",
+"label": "5581: throne",
+"language": "eng"
+},
+{
+"reference_id": "7306",
+"content_id": "7306",
+"resource_code": "DictionaryBibleThemes",
+"label": "7306: ark of the covenant",
+"language": "eng"
+},
+{
+"reference_id": "7467",
+"content_id": "7467",
+"resource_code": "DictionaryBibleThemes",
+"label": "7467: temple, Solomon's",
+"language": "eng"
+}
+]
+}
+}
+]

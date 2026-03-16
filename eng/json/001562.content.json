@@ -1,0 +1,39 @@
+[
+{
+"content_id": "6221",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6221: rebellion",
+"media_type": "Text",
+"index_reference": "6221: rebellion",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A state of revolt against established divine or human authority. Scripture condemns rebellion against God and indicates the futility of Israel's frequent rebellions against him.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6222",
+"content_id": "6222",
+"resource_code": "DictionaryBibleThemes",
+"label": "6222: rebellion, against God",
+"language": "eng"
+},
+{
+"reference_id": "6223",
+"content_id": "6223",
+"resource_code": "DictionaryBibleThemes",
+"label": "6223: rebellion, of Israel",
+"language": "eng"
+},
+{
+"reference_id": "6224",
+"content_id": "6224",
+"resource_code": "DictionaryBibleThemes",
+"label": "6224: rebellion, against human authority",
+"language": "eng"
+}
+]
+}
+}
+]

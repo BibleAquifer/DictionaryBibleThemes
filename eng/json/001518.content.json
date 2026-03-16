@@ -1,0 +1,32 @@
+[
+{
+"content_id": "6133",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6133: coveting",
+"media_type": "Text",
+"index_reference": "6133: coveting",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Desiring to possess something at the expense of the legitimate owner.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6134",
+"content_id": "6134",
+"resource_code": "DictionaryBibleThemes",
+"label": "6134: coveting, prohibition of",
+"language": "eng"
+},
+{
+"reference_id": "6135",
+"content_id": "6135",
+"resource_code": "DictionaryBibleThemes",
+"label": "6135: coveting, and other sins",
+"language": "eng"
+}
+]
+}
+}
+]

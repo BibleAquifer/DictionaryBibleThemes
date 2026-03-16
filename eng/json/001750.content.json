@@ -1,0 +1,213 @@
+[
+{
+"content_id": "7254",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7254: plumb-line",
+"media_type": "Text",
+"index_reference": "7254: plumb-line",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A cord weighted with lead that is used in building to check that vertical structures are true. It is used symbolically to refer to the divine standard against which God, the builder of his people, tests and judges them. It also symbolises the standards by which God will rebuild his people.</p>\n<h2>The plumb-line as the measuring tool of a structure</h2>\n<p><strong><a href=\"https://ref.ly/Zech1:16\">ZEC 1:16</a>, <a href=\"https://ref.ly/Zech4:9-Zech4:10\">ZEC 4:9–4:10</a></strong> <em>Using the plumb-line Zerubbabel will carry out his God-given task of building the temple.</em> <em>See also</em> <a href=\"https://ref.ly/Jer31:38-Jer31:40\">JER 31:38–31:40</a>; <a href=\"https://ref.ly/Zech2:1-Zech2:2\">ZEC 2:1–2:2</a></p>\n<h2>God's plumb-line reveals the nation's failure</h2>\n<h3>Although built true, Israel has become corrupt</h3>\n<p><strong><a href=\"https://ref.ly/Amos7:7-Amos7:8\">AMO 7:7–7:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa1:21-Isa1:24\">ISA 1:21–1:24</a>, <a href=\"https://ref.ly/Isa5:1-Isa5:2\">ISA 5:1–5:2</a>, <a href=\"https://ref.ly/Isa5:7\">ISA 5:7</a>, <a href=\"https://ref.ly/Isa59:14\">ISA 59:14</a></p>\n<h3>God's testing brings judgment</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs21:13\">2KI 21:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa34:11\">ISA 34:11</a>; <a href=\"https://ref.ly/Lam2:8\">LAM 2:8</a></p>\n<h2>God will rebuild his people</h2>\n<h3>God's promise to rebuild Israel</h3>\n<p><strong><a href=\"https://ref.ly/Jer31:4\">JER 31:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps69:35-Ps69:36\">PSA 69:35–69:36</a>, <a href=\"https://ref.ly/Ps147:2\">PSA 147:2</a>; <a href=\"https://ref.ly/Isa54:11-Isa54:12\">ISA 54:11–54:12</a></p>\n<h3>They will be rebuilt true to God's plumb-line</h3>\n<p><strong><a href=\"https://ref.ly/Isa28:16-Isa28:17\">ISA 28:16–28:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps51:18-Ps51:19\">PSA 51:18–51:19</a>; <a href=\"https://ref.ly/Isa1:25-Isa1:26\">ISA 1:25–1:26</a>; <a href=\"https://ref.ly/Ps89:14\">PSA 89:14</a>, <a href=\"https://ref.ly/Ps97:2\">PSA 97:2</a>, <a href=\"https://ref.ly/Ps99:4\">PSA 99:4</a>; <a href=\"https://ref.ly/Isa16:5\">ISA 16:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "38001016",
+"start_ref_usfm": "ZEC 1:16",
+"end_ref": "38001016",
+"end_ref_usfm": "ZEC 1:16"
+},
+{
+"start_ref": "38004009",
+"start_ref_usfm": "ZEC 4:9",
+"end_ref": "38004010",
+"end_ref_usfm": "ZEC 4:10"
+},
+{
+"start_ref": "24031038",
+"start_ref_usfm": "JER 31:38",
+"end_ref": "24031040",
+"end_ref_usfm": "JER 31:40"
+},
+{
+"start_ref": "38002001",
+"start_ref_usfm": "ZEC 2:1",
+"end_ref": "38002002",
+"end_ref_usfm": "ZEC 2:2"
+},
+{
+"start_ref": "30007007",
+"start_ref_usfm": "AMO 7:7",
+"end_ref": "30007008",
+"end_ref_usfm": "AMO 7:8"
+},
+{
+"start_ref": "23001021",
+"start_ref_usfm": "ISA 1:21",
+"end_ref": "23001024",
+"end_ref_usfm": "ISA 1:24"
+},
+{
+"start_ref": "23005001",
+"start_ref_usfm": "ISA 5:1",
+"end_ref": "23005002",
+"end_ref_usfm": "ISA 5:2"
+},
+{
+"start_ref": "23005007",
+"start_ref_usfm": "ISA 5:7",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
+"start_ref": "23059014",
+"start_ref_usfm": "ISA 59:14",
+"end_ref": "23059014",
+"end_ref_usfm": "ISA 59:14"
+},
+{
+"start_ref": "12021013",
+"start_ref_usfm": "2KI 21:13",
+"end_ref": "12021013",
+"end_ref_usfm": "2KI 21:13"
+},
+{
+"start_ref": "23034011",
+"start_ref_usfm": "ISA 34:11",
+"end_ref": "23034011",
+"end_ref_usfm": "ISA 34:11"
+},
+{
+"start_ref": "25002008",
+"start_ref_usfm": "LAM 2:8",
+"end_ref": "25002008",
+"end_ref_usfm": "LAM 2:8"
+},
+{
+"start_ref": "24031004",
+"start_ref_usfm": "JER 31:4",
+"end_ref": "24031004",
+"end_ref_usfm": "JER 31:4"
+},
+{
+"start_ref": "19069035",
+"start_ref_usfm": "PSA 69:35",
+"end_ref": "19069036",
+"end_ref_usfm": "PSA 69:36"
+},
+{
+"start_ref": "19147002",
+"start_ref_usfm": "PSA 147:2",
+"end_ref": "19147002",
+"end_ref_usfm": "PSA 147:2"
+},
+{
+"start_ref": "23054011",
+"start_ref_usfm": "ISA 54:11",
+"end_ref": "23054012",
+"end_ref_usfm": "ISA 54:12"
+},
+{
+"start_ref": "23028016",
+"start_ref_usfm": "ISA 28:16",
+"end_ref": "23028017",
+"end_ref_usfm": "ISA 28:17"
+},
+{
+"start_ref": "19051018",
+"start_ref_usfm": "PSA 51:18",
+"end_ref": "19051019",
+"end_ref_usfm": "PSA 51:19"
+},
+{
+"start_ref": "23001025",
+"start_ref_usfm": "ISA 1:25",
+"end_ref": "23001026",
+"end_ref_usfm": "ISA 1:26"
+},
+{
+"start_ref": "19089014",
+"start_ref_usfm": "PSA 89:14",
+"end_ref": "19089014",
+"end_ref_usfm": "PSA 89:14"
+},
+{
+"start_ref": "19097002",
+"start_ref_usfm": "PSA 97:2",
+"end_ref": "19097002",
+"end_ref_usfm": "PSA 97:2"
+},
+{
+"start_ref": "19099004",
+"start_ref_usfm": "PSA 99:4",
+"end_ref": "19099004",
+"end_ref_usfm": "PSA 99:4"
+},
+{
+"start_ref": "23016005",
+"start_ref_usfm": "ISA 16:5",
+"end_ref": "23016005",
+"end_ref_usfm": "ISA 16:5"
+}
+],
+"resource": [
+{
+"reference_id": "1075",
+"content_id": "1075",
+"resource_code": "DictionaryBibleThemes",
+"label": "1075: God, justice of",
+"language": "eng"
+},
+{
+"reference_id": "5240",
+"content_id": "5240",
+"resource_code": "DictionaryBibleThemes",
+"label": "5240: building",
+"language": "eng"
+},
+{
+"reference_id": "5359",
+"content_id": "5359",
+"resource_code": "DictionaryBibleThemes",
+"label": "5359: justice",
+"language": "eng"
+},
+{
+"reference_id": "8154",
+"content_id": "8154",
+"resource_code": "DictionaryBibleThemes",
+"label": "8154: righteousness",
+"language": "eng"
+},
+{
+"reference_id": "8309",
+"content_id": "8309",
+"resource_code": "DictionaryBibleThemes",
+"label": "8309: morality",
+"language": "eng"
+},
+{
+"reference_id": "8832",
+"content_id": "8832",
+"resource_code": "DictionaryBibleThemes",
+"label": "8832: testing",
+"language": "eng"
+},
+{
+"reference_id": "9165",
+"content_id": "9165",
+"resource_code": "DictionaryBibleThemes",
+"label": "9165: restoration",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

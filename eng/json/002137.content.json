@@ -1,0 +1,286 @@
+[
+{
+"content_id": "8306",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8306: mercifulness",
+"media_type": "Text",
+"index_reference": "8306: mercifulness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An attitude of compassion and care, grounded in the nature of God himself, made manifest in the life and ministry of Jesus Christ, and expected of believers.</p>\n<h2>The mercifulness of God</h2>\n<p><strong><a href=\"https://ref.ly/Deut4:31\">DEU 4:31</a></strong>; <strong><a href=\"https://ref.ly/Ps78:38\">PSA 78:38</a></strong>; <strong><a href=\"https://ref.ly/Jer3:12\">JER 3:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut7:7-Deut7:8\">DEU 7:7–7:8</a>; <a href=\"https://ref.ly/Neh9:31\">NEH 9:31</a>; <a href=\"https://ref.ly/Zech1:16\">ZEC 1:16</a>; <a href=\"https://ref.ly/Luke1:50-Luke1:54\">LUK 1:50–1:54</a>; <a href=\"https://ref.ly/Jas5:11\">JAS 5:11</a></p>\n<h2>The expression of God's mercifulness</h2>\n<h3>In the forgiveness of sins</h3>\n<p><strong><a href=\"https://ref.ly/Ps78:38\">PSA 78:38</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam24:14\">2SA 24:14</a>; <a href=\"https://ref.ly/1Kgs8:50\">1KI 8:50</a>; <a href=\"https://ref.ly/Ps26:11\">PSA 26:11</a>, <a href=\"https://ref.ly/Ps51:1\">PSA 51:1</a>; <a href=\"https://ref.ly/Dan9:9\">DAN 9:9</a></p>\n<h3>In response to prayer</h3>\n<p><strong><a href=\"https://ref.ly/Ps6:2\">PSA 6:2</a>, <a href=\"https://ref.ly/Ps27:7\">PSA 27:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs8:28\">1KI 8:28</a>; <a href=\"https://ref.ly/Ps9:13\">PSA 9:13</a></p>\n<h2>The mercifulness of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt9:36\">MAT 9:36</a></strong>; <strong><a href=\"https://ref.ly/Heb2:17\">HEB 2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt8:16\">MAT 8:16</a>; <a href=\"https://ref.ly/Heb4:16\">HEB 4:16</a></p>\n<h2>The mercifulness expected of believers</h2>\n<p><strong><a href=\"https://ref.ly/Luke6:36\">LUK 6:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mic6:8\">MIC 6:8</a>; <a href=\"https://ref.ly/Zech7:9\">ZEC 7:9</a>; <a href=\"https://ref.ly/Matt9:13\">MAT 9:13</a>, <a href=\"https://ref.ly/Matt18:21-Matt18:35\">MAT 18:21–18:35</a> <em>the parable of the unmerciful servant</em>; <a href=\"https://ref.ly/Matt23:23\">MAT 23:23</a>; <a href=\"https://ref.ly/Luke10:29-Luke10:37\">LUK 10:29–10:37</a> <em>the parable of the good Samaritan</em>; <a href=\"https://ref.ly/Rom12:8\">ROM 12:8</a>; <a href=\"https://ref.ly/Eph4:32-Eph5:2\">EPH 4:32–5:2</a>; <a href=\"https://ref.ly/Jas2:12-Jas2:13\">JAS 2:12–2:13</a>, <a href=\"https://ref.ly/Jas3:17\">JAS 3:17</a>; <a href=\"https://ref.ly/Jude1:22-Jude1:23\">JUD 1:22–1:23</a></p>\n<h2>The blessing promised to the merciful</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:7\">MAT 5:7</a></strong> <em>Jesus Christ to his disciples.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05004031",
+"start_ref_usfm": "DEU 4:31",
+"end_ref": "05004031",
+"end_ref_usfm": "DEU 4:31"
+},
+{
+"start_ref": "19078038",
+"start_ref_usfm": "PSA 78:38",
+"end_ref": "19078038",
+"end_ref_usfm": "PSA 78:38"
+},
+{
+"start_ref": "24003012",
+"start_ref_usfm": "JER 3:12",
+"end_ref": "24003012",
+"end_ref_usfm": "JER 3:12"
+},
+{
+"start_ref": "05007007",
+"start_ref_usfm": "DEU 7:7",
+"end_ref": "05007008",
+"end_ref_usfm": "DEU 7:8"
+},
+{
+"start_ref": "16009031",
+"start_ref_usfm": "NEH 9:31",
+"end_ref": "16009031",
+"end_ref_usfm": "NEH 9:31"
+},
+{
+"start_ref": "38001016",
+"start_ref_usfm": "ZEC 1:16",
+"end_ref": "38001016",
+"end_ref_usfm": "ZEC 1:16"
+},
+{
+"start_ref": "42001050",
+"start_ref_usfm": "LUK 1:50",
+"end_ref": "42001054",
+"end_ref_usfm": "LUK 1:54"
+},
+{
+"start_ref": "59005011",
+"start_ref_usfm": "JAS 5:11",
+"end_ref": "59005011",
+"end_ref_usfm": "JAS 5:11"
+},
+{
+"start_ref": "10024014",
+"start_ref_usfm": "2SA 24:14",
+"end_ref": "10024014",
+"end_ref_usfm": "2SA 24:14"
+},
+{
+"start_ref": "11008050",
+"start_ref_usfm": "1KI 8:50",
+"end_ref": "11008050",
+"end_ref_usfm": "1KI 8:50"
+},
+{
+"start_ref": "19026011",
+"start_ref_usfm": "PSA 26:11",
+"end_ref": "19026011",
+"end_ref_usfm": "PSA 26:11"
+},
+{
+"start_ref": "19051001",
+"start_ref_usfm": "PSA 51:1",
+"end_ref": "19051001",
+"end_ref_usfm": "PSA 51:1"
+},
+{
+"start_ref": "27009009",
+"start_ref_usfm": "DAN 9:9",
+"end_ref": "27009009",
+"end_ref_usfm": "DAN 9:9"
+},
+{
+"start_ref": "19006002",
+"start_ref_usfm": "PSA 6:2",
+"end_ref": "19006002",
+"end_ref_usfm": "PSA 6:2"
+},
+{
+"start_ref": "19027007",
+"start_ref_usfm": "PSA 27:7",
+"end_ref": "19027007",
+"end_ref_usfm": "PSA 27:7"
+},
+{
+"start_ref": "11008028",
+"start_ref_usfm": "1KI 8:28",
+"end_ref": "11008028",
+"end_ref_usfm": "1KI 8:28"
+},
+{
+"start_ref": "19009013",
+"start_ref_usfm": "PSA 9:13",
+"end_ref": "19009013",
+"end_ref_usfm": "PSA 9:13"
+},
+{
+"start_ref": "40009036",
+"start_ref_usfm": "MAT 9:36",
+"end_ref": "40009036",
+"end_ref_usfm": "MAT 9:36"
+},
+{
+"start_ref": "58002017",
+"start_ref_usfm": "HEB 2:17",
+"end_ref": "58002017",
+"end_ref_usfm": "HEB 2:17"
+},
+{
+"start_ref": "40008016",
+"start_ref_usfm": "MAT 8:16",
+"end_ref": "40008016",
+"end_ref_usfm": "MAT 8:16"
+},
+{
+"start_ref": "58004016",
+"start_ref_usfm": "HEB 4:16",
+"end_ref": "58004016",
+"end_ref_usfm": "HEB 4:16"
+},
+{
+"start_ref": "42006036",
+"start_ref_usfm": "LUK 6:36",
+"end_ref": "42006036",
+"end_ref_usfm": "LUK 6:36"
+},
+{
+"start_ref": "33006008",
+"start_ref_usfm": "MIC 6:8",
+"end_ref": "33006008",
+"end_ref_usfm": "MIC 6:8"
+},
+{
+"start_ref": "38007009",
+"start_ref_usfm": "ZEC 7:9",
+"end_ref": "38007009",
+"end_ref_usfm": "ZEC 7:9"
+},
+{
+"start_ref": "40009013",
+"start_ref_usfm": "MAT 9:13",
+"end_ref": "40009013",
+"end_ref_usfm": "MAT 9:13"
+},
+{
+"start_ref": "40018021",
+"start_ref_usfm": "MAT 18:21",
+"end_ref": "40018035",
+"end_ref_usfm": "MAT 18:35"
+},
+{
+"start_ref": "40023023",
+"start_ref_usfm": "MAT 23:23",
+"end_ref": "40023023",
+"end_ref_usfm": "MAT 23:23"
+},
+{
+"start_ref": "42010029",
+"start_ref_usfm": "LUK 10:29",
+"end_ref": "42010037",
+"end_ref_usfm": "LUK 10:37"
+},
+{
+"start_ref": "45012008",
+"start_ref_usfm": "ROM 12:8",
+"end_ref": "45012008",
+"end_ref_usfm": "ROM 12:8"
+},
+{
+"start_ref": "49004032",
+"start_ref_usfm": "EPH 4:32",
+"end_ref": "49005002",
+"end_ref_usfm": "EPH 5:2"
+},
+{
+"start_ref": "59002012",
+"start_ref_usfm": "JAS 2:12",
+"end_ref": "59002013",
+"end_ref_usfm": "JAS 2:13"
+},
+{
+"start_ref": "59003017",
+"start_ref_usfm": "JAS 3:17",
+"end_ref": "59003017",
+"end_ref_usfm": "JAS 3:17"
+},
+{
+"start_ref": "65001022",
+"start_ref_usfm": "JUD 1:22",
+"end_ref": "65001023",
+"end_ref_usfm": "JUD 1:23"
+},
+{
+"start_ref": "40005007",
+"start_ref_usfm": "MAT 5:7",
+"end_ref": "40005007",
+"end_ref_usfm": "MAT 5:7"
+}
+],
+"resource": [
+{
+"reference_id": "1030",
+"content_id": "1030",
+"resource_code": "DictionaryBibleThemes",
+"label": "1030: God, compassion of",
+"language": "eng"
+},
+{
+"reference_id": "1055",
+"content_id": "1055",
+"resource_code": "DictionaryBibleThemes",
+"label": "1055: God, grace and mercy of",
+"language": "eng"
+},
+{
+"reference_id": "1085",
+"content_id": "1085",
+"resource_code": "DictionaryBibleThemes",
+"label": "1085: God, love of",
+"language": "eng"
+},
+{
+"reference_id": "2015",
+"content_id": "2015",
+"resource_code": "DictionaryBibleThemes",
+"label": "2015: Jesus Christ, compassion of",
+"language": "eng"
+},
+{
+"reference_id": "2027",
+"content_id": "2027",
+"resource_code": "DictionaryBibleThemes",
+"label": "2027: Jesus Christ, grace and mercy of",
+"language": "eng"
+},
+{
+"reference_id": "2048",
+"content_id": "2048",
+"resource_code": "DictionaryBibleThemes",
+"label": "2048: Jesus Christ, love of",
+"language": "eng"
+},
+{
+"reference_id": "5806",
+"content_id": "5806",
+"resource_code": "DictionaryBibleThemes",
+"label": "5806: compassion",
+"language": "eng"
+},
+{
+"reference_id": "6652",
+"content_id": "6652",
+"resource_code": "DictionaryBibleThemes",
+"label": "6652: forgiveness",
+"language": "eng"
+},
+{
+"reference_id": "6686",
+"content_id": "6686",
+"resource_code": "DictionaryBibleThemes",
+"label": "6686: mercy",
+"language": "eng"
+}
+]
+}
+}
+]

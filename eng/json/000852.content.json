@@ -1,0 +1,188 @@
+[
+{
+"content_id": "5264",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5264: compensation",
+"media_type": "Text",
+"index_reference": "5264: compensation",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Compensation under the law of Moses</h2>\n<h3>For personal injuries</h3>\n<p><strong><a href=\"https://ref.ly/Exod21:26-Exod21:27\">EXO 21:26–21:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod21:32\">EXO 21:32</a></p>\n<h3>For the loss of an animal</h3>\n<p><strong><a href=\"https://ref.ly/Exod21:33-Exod21:34\">EXO 21:33–21:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod21:35-Exod21:36\">EXO 21:35–21:36</a></p>\n<h3>For theft</h3>\n<p><strong><a href=\"https://ref.ly/Exod22:1\">EXO 22:1</a>, <a href=\"https://ref.ly/Exod22:3-Exod22:4\">EXO 22:3–22:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod22:7-Exod22:9\">EXO 22:7–22:9</a></p>\n<h3>For damage to property</h3>\n<p><a href=\"https://ref.ly/Exod22:5-Exod22:6\">EXO 22:5–22:6</a></p>\n<h3>For breach of trust</h3>\n<p><a href=\"https://ref.ly/Exod22:10-Exod22:15\">EXO 22:10–22:15</a>; ; <a href=\"https://ref.ly/Lev6:1-Lev6:7\">LEV 6:1–6:7</a>; ; <a href=\"https://ref.ly/Num5:5-Num5:7\">NUM 5:5–5:7</a> <em>Compensation was only paid when someone was at fault.  Similar laws apparently existed in patriarchal times:  see <a href=\"https://ref.ly/Gen31:39\">Ge 31:39</a>.</em></p>\n<h2>Compensation later in the OT</h2>\n<h3>The law applied by David</h3>\n<p><a href=\"https://ref.ly/2Sam12:4-2Sam12:6\">2SA 12:4–12:6</a></p>\n<h3>Sevenfold compensation for theft</h3>\n<p><a href=\"https://ref.ly/Prov6:30-Prov6:31\">PRO 6:30–6:31</a> <em>presumably “sevenfold” here means “manifold”; he will pay in full</em></p>\n<h3>Adultery beyond compensation</h3>\n<p><a href=\"https://ref.ly/Prov6:32-Prov6:35\">PRO 6:32–6:35</a></p>\n<h3>Compensation a mark of repentance</h3>\n<p><a href=\"https://ref.ly/Ezek33:15\">EZK 33:15</a></p>\n<h2>Compensation in the NT</h2>\n<h3>For losses inflicted</h3>\n<p><strong><a href=\"https://ref.ly/Luke19:8\">LUK 19:8</a></strong> <em>In his zeal, after being converted, Zacchaeus goes beyond the requirements of the law.</em> <em>See also</em> <a href=\"https://ref.ly/Phlm1:18-Phlm1:19\">PHM 1:18–1:19</a></p>\n<h3>For losses sustained for the gospel</h3>\n<p><strong><a href=\"https://ref.ly/Matt19:29\">MAT 19:29</a></strong> parallel <a href=\"https://ref.ly/Luke18:29-Luke18:30\">LUK 18:29–18:30</a> <em>God is far more generous under grace than he required wrongdoers to be under law.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02021026",
+"start_ref_usfm": "EXO 21:26",
+"end_ref": "02021027",
+"end_ref_usfm": "EXO 21:27"
+},
+{
+"start_ref": "02021032",
+"start_ref_usfm": "EXO 21:32",
+"end_ref": "02021032",
+"end_ref_usfm": "EXO 21:32"
+},
+{
+"start_ref": "02021033",
+"start_ref_usfm": "EXO 21:33",
+"end_ref": "02021034",
+"end_ref_usfm": "EXO 21:34"
+},
+{
+"start_ref": "02021035",
+"start_ref_usfm": "EXO 21:35",
+"end_ref": "02021036",
+"end_ref_usfm": "EXO 21:36"
+},
+{
+"start_ref": "02022001",
+"start_ref_usfm": "EXO 22:1",
+"end_ref": "02022001",
+"end_ref_usfm": "EXO 22:1"
+},
+{
+"start_ref": "02022003",
+"start_ref_usfm": "EXO 22:3",
+"end_ref": "02022004",
+"end_ref_usfm": "EXO 22:4"
+},
+{
+"start_ref": "02022007",
+"start_ref_usfm": "EXO 22:7",
+"end_ref": "02022009",
+"end_ref_usfm": "EXO 22:9"
+},
+{
+"start_ref": "02022005",
+"start_ref_usfm": "EXO 22:5",
+"end_ref": "02022006",
+"end_ref_usfm": "EXO 22:6"
+},
+{
+"start_ref": "02022010",
+"start_ref_usfm": "EXO 22:10",
+"end_ref": "02022015",
+"end_ref_usfm": "EXO 22:15"
+},
+{
+"start_ref": "03006001",
+"start_ref_usfm": "LEV 6:1",
+"end_ref": "03006007",
+"end_ref_usfm": "LEV 6:7"
+},
+{
+"start_ref": "04005005",
+"start_ref_usfm": "NUM 5:5",
+"end_ref": "04005007",
+"end_ref_usfm": "NUM 5:7"
+},
+{
+"start_ref": "01031039",
+"start_ref_usfm": "GEN 31:39",
+"end_ref": "01031039",
+"end_ref_usfm": "GEN 31:39"
+},
+{
+"start_ref": "10012004",
+"start_ref_usfm": "2SA 12:4",
+"end_ref": "10012006",
+"end_ref_usfm": "2SA 12:6"
+},
+{
+"start_ref": "20006030",
+"start_ref_usfm": "PRO 6:30",
+"end_ref": "20006031",
+"end_ref_usfm": "PRO 6:31"
+},
+{
+"start_ref": "20006032",
+"start_ref_usfm": "PRO 6:32",
+"end_ref": "20006035",
+"end_ref_usfm": "PRO 6:35"
+},
+{
+"start_ref": "26033015",
+"start_ref_usfm": "EZK 33:15",
+"end_ref": "26033015",
+"end_ref_usfm": "EZK 33:15"
+},
+{
+"start_ref": "42019008",
+"start_ref_usfm": "LUK 19:8",
+"end_ref": "42019008",
+"end_ref_usfm": "LUK 19:8"
+},
+{
+"start_ref": "57001018",
+"start_ref_usfm": "PHM 1:18",
+"end_ref": "57001019",
+"end_ref_usfm": "PHM 1:19"
+},
+{
+"start_ref": "40019029",
+"start_ref_usfm": "MAT 19:29",
+"end_ref": "40019029",
+"end_ref_usfm": "MAT 19:29"
+},
+{
+"start_ref": "42018029",
+"start_ref_usfm": "LUK 18:29",
+"end_ref": "42018030",
+"end_ref_usfm": "LUK 18:30"
+}
+],
+"resource": [
+{
+"reference_id": "5276",
+"content_id": "5276",
+"resource_code": "DictionaryBibleThemes",
+"label": "5276: crime",
+"language": "eng"
+},
+{
+"reference_id": "5375",
+"content_id": "5375",
+"resource_code": "DictionaryBibleThemes",
+"label": "5375: law",
+"language": "eng"
+},
+{
+"reference_id": "5398",
+"content_id": "5398",
+"resource_code": "DictionaryBibleThemes",
+"label": "5398: loss",
+"language": "eng"
+},
+{
+"reference_id": "5482",
+"content_id": "5482",
+"resource_code": "DictionaryBibleThemes",
+"label": "5482: punishment",
+"language": "eng"
+},
+{
+"reference_id": "5492",
+"content_id": "5492",
+"resource_code": "DictionaryBibleThemes",
+"label": "5492: restitution",
+"language": "eng"
+},
+{
+"reference_id": "5555",
+"content_id": "5555",
+"resource_code": "DictionaryBibleThemes",
+"label": "5555: stealing",
+"language": "eng"
+},
+{
+"reference_id": "5679",
+"content_id": "5679",
+"resource_code": "DictionaryBibleThemes",
+"label": "5679: dowry",
+"language": "eng"
+}
+]
+}
+}
+]

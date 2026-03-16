@@ -1,0 +1,115 @@
+[
+{
+"content_id": "9530",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9530: Hades",
+"media_type": "Text",
+"index_reference": "9530: hades",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A term used in the NT to refer to the place in which departed spirits rest, while waiting for judgment.</p>\n<h2>Hades is the place where the dead wait for judgment</h2>\n<p><strong><a href=\"https://ref.ly/Rev20:13-Rev20:14\">REV 20:13–20:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt11:23\">MAT 11:23</a> parallel <a href=\"https://ref.ly/Luke10:15\">LUK 10:15</a> <em>translated “depths”</em>; <a href=\"https://ref.ly/Luke16:23\">LUK 16:23</a> <em>translated “hell”</em><a href=\"https://ref.ly/Acts2:27\">ACT 2:27</a>, <a href=\"https://ref.ly/Acts2:31\">ACT 2:31</a>\n<a href=\"https://ref.ly/Rev6:8\">REV 6:8</a></p>\n<h2>Jesus Christ is Lord of Hades</h2>\n<p><strong><a href=\"https://ref.ly/Matt16:18\">MAT 16:18</a></strong>; <strong><a href=\"https://ref.ly/Rev1:18\">REV 1:18</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "66020013",
+"start_ref_usfm": "REV 20:13",
+"end_ref": "66020014",
+"end_ref_usfm": "REV 20:14"
+},
+{
+"start_ref": "40011023",
+"start_ref_usfm": "MAT 11:23",
+"end_ref": "40011023",
+"end_ref_usfm": "MAT 11:23"
+},
+{
+"start_ref": "42010015",
+"start_ref_usfm": "LUK 10:15",
+"end_ref": "42010015",
+"end_ref_usfm": "LUK 10:15"
+},
+{
+"start_ref": "42016023",
+"start_ref_usfm": "LUK 16:23",
+"end_ref": "42016023",
+"end_ref_usfm": "LUK 16:23"
+},
+{
+"start_ref": "44002027",
+"start_ref_usfm": "ACT 2:27",
+"end_ref": "44002027",
+"end_ref_usfm": "ACT 2:27"
+},
+{
+"start_ref": "44002031",
+"start_ref_usfm": "ACT 2:31",
+"end_ref": "44002031",
+"end_ref_usfm": "ACT 2:31"
+},
+{
+"start_ref": "66006008",
+"start_ref_usfm": "REV 6:8",
+"end_ref": "66006008",
+"end_ref_usfm": "REV 6:8"
+},
+{
+"start_ref": "40016018",
+"start_ref_usfm": "MAT 16:18",
+"end_ref": "40016018",
+"end_ref_usfm": "MAT 16:18"
+},
+{
+"start_ref": "66001018",
+"start_ref_usfm": "REV 1:18",
+"end_ref": "66001018",
+"end_ref_usfm": "REV 1:18"
+}
+],
+"resource": [
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+},
+{
+"reference_id": "9040",
+"content_id": "9040",
+"resource_code": "DictionaryBibleThemes",
+"label": "9040: grave, the",
+"language": "eng"
+},
+{
+"reference_id": "9110",
+"content_id": "9110",
+"resource_code": "DictionaryBibleThemes",
+"label": "9110: after-life",
+"language": "eng"
+},
+{
+"reference_id": "9430",
+"content_id": "9430",
+"resource_code": "DictionaryBibleThemes",
+"label": "9430: paradise",
+"language": "eng"
+},
+{
+"reference_id": "9510",
+"content_id": "9510",
+"resource_code": "DictionaryBibleThemes",
+"label": "9510: hell",
+"language": "eng"
+},
+{
+"reference_id": "9540",
+"content_id": "9540",
+"resource_code": "DictionaryBibleThemes",
+"label": "9540: Sheol",
+"language": "eng"
+}
+]
+}
+}
+]

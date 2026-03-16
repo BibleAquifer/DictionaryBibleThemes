@@ -1,0 +1,164 @@
+[
+{
+"content_id": "5721",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5721: mothers, as a symbol",
+"media_type": "Text",
+"index_reference": "5721: mothers, as a symbol",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Motherhood is used in Scripture to illustrate the relationship between God and his people, to describe certain aspects of Israel and also to explain the difference between the two covenants.</p>\n<h2>God's tender care for his children is like a mother's</h2>\n<h3>God's care like that of a mother bird</h3>\n<p><a href=\"https://ref.ly/Deut32:11\">DEU 32:11</a>; ; <a href=\"https://ref.ly/Matt23:37\">MAT 23:37</a> parallel <a href=\"https://ref.ly/Luke13:34\">LUK 13:34</a></p>\n<h3>God never forgets his children</h3>\n<p><strong><a href=\"https://ref.ly/Isa49:15\">ISA 49:15</a></strong></p>\n<h3>Becoming a Christian is like birth</h3>\n<p><strong><a href=\"https://ref.ly/John3:5-John3:6\">JHN 3:5–3:6</a></strong></p>\n<h3>The believer trusts God as a weaned child trusts his or her mother</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Ps131:1-Ps131:2\">PSA 131:1–131:2</a>; <a href=\"https://ref.ly/Isa66:13\">ISA 66:13</a></p>\n<h2>Israel pictured as a mother</h2>\n<p><strong><a href=\"https://ref.ly/Ezek16:44-Ezek16:45\">EZK 16:44–16:45</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa50:1\">ISA 50:1</a>, <a href=\"https://ref.ly/Isa54:1\">ISA 54:1</a>, <a href=\"https://ref.ly/Isa66:7-Isa66:13\">ISA 66:7–66:13</a>; <a href=\"https://ref.ly/Ezek16:3\">EZK 16:3</a>, <a href=\"https://ref.ly/Ezek19:2\">EZK 19:2</a>, <a href=\"https://ref.ly/Ezek19:10\">EZK 19:10</a>; <a href=\"https://ref.ly/Hos2:2-Hos2:13\">HOS 2:2–2:13</a></p>\n<h2>Mothers as symbols of the old and new covenants</h2>\n<p><a href=\"https://ref.ly/Gal4:21-Gal4:28\">GAL 4:21–4:28</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05032011",
+"start_ref_usfm": "DEU 32:11",
+"end_ref": "05032011",
+"end_ref_usfm": "DEU 32:11"
+},
+{
+"start_ref": "40023037",
+"start_ref_usfm": "MAT 23:37",
+"end_ref": "40023037",
+"end_ref_usfm": "MAT 23:37"
+},
+{
+"start_ref": "42013034",
+"start_ref_usfm": "LUK 13:34",
+"end_ref": "42013034",
+"end_ref_usfm": "LUK 13:34"
+},
+{
+"start_ref": "23049015",
+"start_ref_usfm": "ISA 49:15",
+"end_ref": "23049015",
+"end_ref_usfm": "ISA 49:15"
+},
+{
+"start_ref": "43003005",
+"start_ref_usfm": "JHN 3:5",
+"end_ref": "43003006",
+"end_ref_usfm": "JHN 3:6"
+},
+{
+"start_ref": "19131001",
+"start_ref_usfm": "PSA 131:1",
+"end_ref": "19131002",
+"end_ref_usfm": "PSA 131:2"
+},
+{
+"start_ref": "23066013",
+"start_ref_usfm": "ISA 66:13",
+"end_ref": "23066013",
+"end_ref_usfm": "ISA 66:13"
+},
+{
+"start_ref": "26016044",
+"start_ref_usfm": "EZK 16:44",
+"end_ref": "26016045",
+"end_ref_usfm": "EZK 16:45"
+},
+{
+"start_ref": "23050001",
+"start_ref_usfm": "ISA 50:1",
+"end_ref": "23050001",
+"end_ref_usfm": "ISA 50:1"
+},
+{
+"start_ref": "23054001",
+"start_ref_usfm": "ISA 54:1",
+"end_ref": "23054001",
+"end_ref_usfm": "ISA 54:1"
+},
+{
+"start_ref": "23066007",
+"start_ref_usfm": "ISA 66:7",
+"end_ref": "23066013",
+"end_ref_usfm": "ISA 66:13"
+},
+{
+"start_ref": "26016003",
+"start_ref_usfm": "EZK 16:3",
+"end_ref": "26016003",
+"end_ref_usfm": "EZK 16:3"
+},
+{
+"start_ref": "26019002",
+"start_ref_usfm": "EZK 19:2",
+"end_ref": "26019002",
+"end_ref_usfm": "EZK 19:2"
+},
+{
+"start_ref": "26019010",
+"start_ref_usfm": "EZK 19:10",
+"end_ref": "26019010",
+"end_ref_usfm": "EZK 19:10"
+},
+{
+"start_ref": "28002002",
+"start_ref_usfm": "HOS 2:2",
+"end_ref": "28002013",
+"end_ref_usfm": "HOS 2:13"
+},
+{
+"start_ref": "48004021",
+"start_ref_usfm": "GAL 4:21",
+"end_ref": "48004028",
+"end_ref_usfm": "GAL 4:28"
+}
+],
+"resource": [
+{
+"reference_id": "1040",
+"content_id": "1040",
+"resource_code": "DictionaryBibleThemes",
+"label": "1040: God, fatherhood of",
+"language": "eng"
+},
+{
+"reference_id": "1215",
+"content_id": "1215",
+"resource_code": "DictionaryBibleThemes",
+"label": "1215: God, feminine descriptions of",
+"language": "eng"
+},
+{
+"reference_id": "1345",
+"content_id": "1345",
+"resource_code": "DictionaryBibleThemes",
+"label": "1345: covenant",
+"language": "eng"
+},
+{
+"reference_id": "6728",
+"content_id": "6728",
+"resource_code": "DictionaryBibleThemes",
+"label": "6728: regeneration",
+"language": "eng"
+},
+{
+"reference_id": "7135",
+"content_id": "7135",
+"resource_code": "DictionaryBibleThemes",
+"label": "7135: Israel, as the people of God",
+"language": "eng"
+},
+{
+"reference_id": "7241",
+"content_id": "7241",
+"resource_code": "DictionaryBibleThemes",
+"label": "7241: Jerusalem, significance of",
+"language": "eng"
+},
+{
+"reference_id": "8031",
+"content_id": "8031",
+"resource_code": "DictionaryBibleThemes",
+"label": "8031: trust, importance of",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,53 @@
+[
+{
+"content_id": "7939",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7939: ministry",
+"media_type": "Text",
+"index_reference": "7939: ministry",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Service of a general, as well as a religious, nature. In its broadest sense ministry refers to service rendered to God or to people. Its more restricted sense refers to the official service of individuals, specially set aside by the church.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7940",
+"content_id": "7940",
+"resource_code": "DictionaryBibleThemes",
+"label": "7940: ministry, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "7941",
+"content_id": "7941",
+"resource_code": "DictionaryBibleThemes",
+"label": "7941: ministry, of Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "7942",
+"content_id": "7942",
+"resource_code": "DictionaryBibleThemes",
+"label": "7942: ministry, nature of",
+"language": "eng"
+},
+{
+"reference_id": "7943",
+"content_id": "7943",
+"resource_code": "DictionaryBibleThemes",
+"label": "7943: ministry, in the church",
+"language": "eng"
+},
+{
+"reference_id": "7944",
+"content_id": "7944",
+"resource_code": "DictionaryBibleThemes",
+"label": "7944: ministry, qualifications for",
+"language": "eng"
+}
+]
+}
+}
+]

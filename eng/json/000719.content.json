@@ -1,0 +1,171 @@
+[
+{
+"content_id": "5130",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5130: beard",
+"media_type": "Text",
+"index_reference": "5130: beard",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>References to the beard</h2>\n<p><strong><a href=\"https://ref.ly/Ezek5:1\">EZK 5:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg16:17\">JDG 16:17</a>; <a href=\"https://ref.ly/1Sam21:13\">1SA 21:13</a>; <a href=\"https://ref.ly/2Sam20:9\">2SA 20:9</a>; <a href=\"https://ref.ly/Ps133:2\">PSA 133:2</a></p>\n<h2>Cutting or pulling the beard</h2>\n<h3>In grief</h3>\n<p><strong><a href=\"https://ref.ly/Jer48:37\">JER 48:37</a></strong> <em>Moab is in mourning.</em> <em>See also</em> <a href=\"https://ref.ly/Isa15:2\">ISA 15:2</a>; <a href=\"https://ref.ly/Jer41:5\">JER 41:5</a></p>\n<h3>In dismay</h3>\n<p><strong><a href=\"https://ref.ly/Ezra9:3\">EZR 9:3</a></strong></p>\n<h3>In the ceremony of cleansing</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Lev14:9\">LEV 14:9</a></p>\n<h3>As an extreme insult</h3>\n<p><a href=\"https://ref.ly/2Sam10:4-2Sam10:5\">2SA 10:4–10:5</a> parallel <a href=\"https://ref.ly/1Chr19:4-1Chr19:5\">1CH 19:4–19:5</a>; ; <a href=\"https://ref.ly/Isa7:20\">ISA 7:20</a>, <a href=\"https://ref.ly/Isa50:6\">ISA 50:6</a></p>\n<h3>Cutting the edges of the beard was forbidden</h3>\n<p><a href=\"https://ref.ly/Lev19:27\">LEV 19:27</a> <em>This is a prohibition still adhered to by some Jews today</em>; ; <a href=\"https://ref.ly/Lev21:5\">LEV 21:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "26005001",
+"start_ref_usfm": "EZK 5:1",
+"end_ref": "26005001",
+"end_ref_usfm": "EZK 5:1"
+},
+{
+"start_ref": "07016017",
+"start_ref_usfm": "JDG 16:17",
+"end_ref": "07016017",
+"end_ref_usfm": "JDG 16:17"
+},
+{
+"start_ref": "09021013",
+"start_ref_usfm": "1SA 21:13",
+"end_ref": "09021013",
+"end_ref_usfm": "1SA 21:13"
+},
+{
+"start_ref": "10020009",
+"start_ref_usfm": "2SA 20:9",
+"end_ref": "10020009",
+"end_ref_usfm": "2SA 20:9"
+},
+{
+"start_ref": "19133002",
+"start_ref_usfm": "PSA 133:2",
+"end_ref": "19133002",
+"end_ref_usfm": "PSA 133:2"
+},
+{
+"start_ref": "24048037",
+"start_ref_usfm": "JER 48:37",
+"end_ref": "24048037",
+"end_ref_usfm": "JER 48:37"
+},
+{
+"start_ref": "23015002",
+"start_ref_usfm": "ISA 15:2",
+"end_ref": "23015002",
+"end_ref_usfm": "ISA 15:2"
+},
+{
+"start_ref": "24041005",
+"start_ref_usfm": "JER 41:5",
+"end_ref": "24041005",
+"end_ref_usfm": "JER 41:5"
+},
+{
+"start_ref": "15009003",
+"start_ref_usfm": "EZR 9:3",
+"end_ref": "15009003",
+"end_ref_usfm": "EZR 9:3"
+},
+{
+"start_ref": "03014009",
+"start_ref_usfm": "LEV 14:9",
+"end_ref": "03014009",
+"end_ref_usfm": "LEV 14:9"
+},
+{
+"start_ref": "10010004",
+"start_ref_usfm": "2SA 10:4",
+"end_ref": "10010005",
+"end_ref_usfm": "2SA 10:5"
+},
+{
+"start_ref": "13019004",
+"start_ref_usfm": "1CH 19:4",
+"end_ref": "13019005",
+"end_ref_usfm": "1CH 19:5"
+},
+{
+"start_ref": "23007020",
+"start_ref_usfm": "ISA 7:20",
+"end_ref": "23007020",
+"end_ref_usfm": "ISA 7:20"
+},
+{
+"start_ref": "23050006",
+"start_ref_usfm": "ISA 50:6",
+"end_ref": "23050006",
+"end_ref_usfm": "ISA 50:6"
+},
+{
+"start_ref": "03019027",
+"start_ref_usfm": "LEV 19:27",
+"end_ref": "03019027",
+"end_ref_usfm": "LEV 19:27"
+},
+{
+"start_ref": "03021005",
+"start_ref_usfm": "LEV 21:5",
+"end_ref": "03021005",
+"end_ref_usfm": "LEV 21:5"
+}
+],
+"resource": [
+{
+"reference_id": "5128",
+"content_id": "5128",
+"resource_code": "DictionaryBibleThemes",
+"label": "5128: baldness",
+"language": "eng"
+},
+{
+"reference_id": "5150",
+"content_id": "5150",
+"resource_code": "DictionaryBibleThemes",
+"label": "5150: face",
+"language": "eng"
+},
+{
+"reference_id": "5155",
+"content_id": "5155",
+"resource_code": "DictionaryBibleThemes",
+"label": "5155: hair",
+"language": "eng"
+},
+{
+"reference_id": "5180",
+"content_id": "5180",
+"resource_code": "DictionaryBibleThemes",
+"label": "5180: shaving",
+"language": "eng"
+},
+{
+"reference_id": "5419",
+"content_id": "5419",
+"resource_code": "DictionaryBibleThemes",
+"label": "5419: mourning",
+"language": "eng"
+},
+{
+"reference_id": "5893",
+"content_id": "5893",
+"resource_code": "DictionaryBibleThemes",
+"label": "5893: insults",
+"language": "eng"
+},
+{
+"reference_id": "7340",
+"content_id": "7340",
+"resource_code": "DictionaryBibleThemes",
+"label": "7340: clean and unclean",
+"language": "eng"
+},
+{
+"reference_id": "7422",
+"content_id": "7422",
+"resource_code": "DictionaryBibleThemes",
+"label": "7422: ritual",
+"language": "eng"
+}
+]
+}
+}
+]

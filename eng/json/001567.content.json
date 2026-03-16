@@ -1,0 +1,39 @@
+[
+{
+"content_id": "6230",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6230: rejection",
+"media_type": "Text",
+"index_reference": "6230: rejection",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The deliberate and conscious act of turning away from someone, or refusing to accept something that is being offered.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6231",
+"content_id": "6231",
+"resource_code": "DictionaryBibleThemes",
+"label": "6231: rejection of God",
+"language": "eng"
+},
+{
+"reference_id": "6232",
+"content_id": "6232",
+"resource_code": "DictionaryBibleThemes",
+"label": "6232: rejection of God, results of",
+"language": "eng"
+},
+{
+"reference_id": "6233",
+"content_id": "6233",
+"resource_code": "DictionaryBibleThemes",
+"label": "6233: rejection, human experience of",
+"language": "eng"
+}
+]
+}
+}
+]

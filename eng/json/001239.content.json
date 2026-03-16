@@ -1,0 +1,95 @@
+[
+{
+"content_id": "5697",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5697: grandparents",
+"media_type": "Text",
+"index_reference": "5697: grandparents",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Grandparents mentioned in Scripture</h2>\n<h3>Saul, the grandfather of Mephibosheth</h3>\n<p><strong><a href=\"https://ref.ly/2Sam9:7\">2SA 9:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam16:3\">2SA 16:3</a>, <a href=\"https://ref.ly/2Sam19:26-2Sam19:28\">2SA 19:26–19:28</a></p>\n<h3>Maacah, the grandmother of Asa</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs15:9-1Kgs15:10\">1KI 15:9–15:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs15:13\">1KI 15:13</a> parallel <a href=\"https://ref.ly/2Chr15:16\">2CH 15:16</a></p>\n<h3>Lois, the grandmother of Timothy</h3>\n<p><strong><a href=\"https://ref.ly/2Tim1:5\">2TI 1:5</a></strong></p>\n<h2>Believers have a responsibility to support their grandparents</h2>\n<p><strong><a href=\"https://ref.ly/1Tim5:4\">1TI 5:4</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "10009007",
+"start_ref_usfm": "2SA 9:7",
+"end_ref": "10009007",
+"end_ref_usfm": "2SA 9:7"
+},
+{
+"start_ref": "10016003",
+"start_ref_usfm": "2SA 16:3",
+"end_ref": "10016003",
+"end_ref_usfm": "2SA 16:3"
+},
+{
+"start_ref": "10019026",
+"start_ref_usfm": "2SA 19:26",
+"end_ref": "10019028",
+"end_ref_usfm": "2SA 19:28"
+},
+{
+"start_ref": "11015009",
+"start_ref_usfm": "1KI 15:9",
+"end_ref": "11015010",
+"end_ref_usfm": "1KI 15:10"
+},
+{
+"start_ref": "11015013",
+"start_ref_usfm": "1KI 15:13",
+"end_ref": "11015013",
+"end_ref_usfm": "1KI 15:13"
+},
+{
+"start_ref": "14015016",
+"start_ref_usfm": "2CH 15:16",
+"end_ref": "14015016",
+"end_ref_usfm": "2CH 15:16"
+},
+{
+"start_ref": "55001005",
+"start_ref_usfm": "2TI 1:5",
+"end_ref": "55001005",
+"end_ref_usfm": "2TI 1:5"
+},
+{
+"start_ref": "54005004",
+"start_ref_usfm": "1TI 5:4",
+"end_ref": "54005004",
+"end_ref_usfm": "1TI 5:4"
+}
+],
+"resource": [
+{
+"reference_id": "5680",
+"content_id": "5680",
+"resource_code": "DictionaryBibleThemes",
+"label": "5680: family",
+"language": "eng"
+},
+{
+"reference_id": "5696",
+"content_id": "5696",
+"resource_code": "DictionaryBibleThemes",
+"label": "5696: grandchildren",
+"language": "eng"
+},
+{
+"reference_id": "5725",
+"content_id": "5725",
+"resource_code": "DictionaryBibleThemes",
+"label": "5725: old age",
+"language": "eng"
+},
+{
+"reference_id": "5731",
+"content_id": "5731",
+"resource_code": "DictionaryBibleThemes",
+"label": "5731: parents",
+"language": "eng"
+}
+]
+}
+}
+]

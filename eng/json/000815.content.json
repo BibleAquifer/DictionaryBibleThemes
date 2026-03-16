@@ -1,0 +1,223 @@
+[
+{
+"content_id": "5227",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5227: basket",
+"media_type": "Text",
+"index_reference": "5227: basket",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Flat, open baskets to carry bread</h2>\n<h3>In the chief baker's dream</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Gen40:16-Gen40:18\">GEN 40:16–40:18</a></p>\n<h3>For offering unleavened bread</h3>\n<p><strong><a href=\"https://ref.ly/Exod29:23\">EXO 29:23</a></strong> parallel <a href=\"https://ref.ly/Lev8:26\">LEV 8:26</a> <em>See also</em> <a href=\"https://ref.ly/Exod29:2-Exod29:3\">EXO 29:2–29:3</a> parallel <a href=\"https://ref.ly/Lev8:1-Lev8:2\">LEV 8:1–8:2</a>; <a href=\"https://ref.ly/Num6:15-Num6:17\">NUM 6:15–6:17</a></p>\n<h2>Baskets used to hold food</h2>\n<h3>To store household provisions</h3>\n<p><strong><a href=\"https://ref.ly/Deut28:5\">DEU 28:5</a></strong> <em>Signifying the continued provision of food for the household.</em> <em>See also</em> <a href=\"https://ref.ly/Deut28:17\">DEU 28:17</a></p>\n<h3>To collect food</h3>\n<p><strong><a href=\"https://ref.ly/Matt14:20\">MAT 14:20</a></strong> parallels <a href=\"https://ref.ly/Mark6:43\">MRK 6:43</a>, <a href=\"https://ref.ly/Luke9:17\">LUK 9:17</a>, <a href=\"https://ref.ly/John6:13\">JHN 6:13</a> <em>See also</em> <a href=\"https://ref.ly/Matt13:48\">MAT 13:48</a>, <a href=\"https://ref.ly/Matt15:37\">MAT 15:37</a> parallel <a href=\"https://ref.ly/Mark8:8\">MRK 8:8</a>; <a href=\"https://ref.ly/Matt16:9-Matt16:10\">MAT 16:9–16:10</a> parallel <a href=\"https://ref.ly/Mark8:19-Mark8:20\">MRK 8:19–8:20</a></p>\n<h2>Baskets used to carry fruit</h2>\n<p><strong><a href=\"https://ref.ly/Jer24:1-Jer24:2\">JER 24:1–24:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut23:24\">DEU 23:24</a>; <a href=\"https://ref.ly/Ps81:6\">PSA 81:6</a>; <a href=\"https://ref.ly/Amos8:1-Amos8:2\">AMO 8:1–8:2</a></p>\n<h2>Other uses of baskets</h2>\n<p><a href=\"https://ref.ly/Exod2:3-Exod2:5\">EXO 2:3–2:5</a> <em>Moses is put into a papyrus basket</em>; ; <a href=\"https://ref.ly/Deut26:2-Deut26:4\">DEU 26:2–26:4</a> <em>firstfruits presented in a basket</em>; ; <a href=\"https://ref.ly/2Kgs10:7\">2KI 10:7</a> <em>the heads of Ahab's sons sent to Jehu in baskets</em>; ; <a href=\"https://ref.ly/Zech5:6-Zech5:11\">ZEC 5:6–5:11</a> <em>The wickedness of Jerusalem is removed, figuratively, to Babylon in a basket.</em>; <a href=\"https://ref.ly/Acts9:25\">ACT 9:25</a>; ; <a href=\"https://ref.ly/2Cor11:33\">2CO 11:33</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01040016",
+"start_ref_usfm": "GEN 40:16",
+"end_ref": "01040018",
+"end_ref_usfm": "GEN 40:18"
+},
+{
+"start_ref": "02029023",
+"start_ref_usfm": "EXO 29:23",
+"end_ref": "02029023",
+"end_ref_usfm": "EXO 29:23"
+},
+{
+"start_ref": "03008026",
+"start_ref_usfm": "LEV 8:26",
+"end_ref": "03008026",
+"end_ref_usfm": "LEV 8:26"
+},
+{
+"start_ref": "02029002",
+"start_ref_usfm": "EXO 29:2",
+"end_ref": "02029003",
+"end_ref_usfm": "EXO 29:3"
+},
+{
+"start_ref": "03008001",
+"start_ref_usfm": "LEV 8:1",
+"end_ref": "03008002",
+"end_ref_usfm": "LEV 8:2"
+},
+{
+"start_ref": "04006015",
+"start_ref_usfm": "NUM 6:15",
+"end_ref": "04006017",
+"end_ref_usfm": "NUM 6:17"
+},
+{
+"start_ref": "05028005",
+"start_ref_usfm": "DEU 28:5",
+"end_ref": "05028005",
+"end_ref_usfm": "DEU 28:5"
+},
+{
+"start_ref": "05028017",
+"start_ref_usfm": "DEU 28:17",
+"end_ref": "05028017",
+"end_ref_usfm": "DEU 28:17"
+},
+{
+"start_ref": "40014020",
+"start_ref_usfm": "MAT 14:20",
+"end_ref": "40014020",
+"end_ref_usfm": "MAT 14:20"
+},
+{
+"start_ref": "41006043",
+"start_ref_usfm": "MRK 6:43",
+"end_ref": "41006043",
+"end_ref_usfm": "MRK 6:43"
+},
+{
+"start_ref": "42009017",
+"start_ref_usfm": "LUK 9:17",
+"end_ref": "42009017",
+"end_ref_usfm": "LUK 9:17"
+},
+{
+"start_ref": "43006013",
+"start_ref_usfm": "JHN 6:13",
+"end_ref": "43006013",
+"end_ref_usfm": "JHN 6:13"
+},
+{
+"start_ref": "40013048",
+"start_ref_usfm": "MAT 13:48",
+"end_ref": "40013048",
+"end_ref_usfm": "MAT 13:48"
+},
+{
+"start_ref": "40015037",
+"start_ref_usfm": "MAT 15:37",
+"end_ref": "40015037",
+"end_ref_usfm": "MAT 15:37"
+},
+{
+"start_ref": "41008008",
+"start_ref_usfm": "MRK 8:8",
+"end_ref": "41008008",
+"end_ref_usfm": "MRK 8:8"
+},
+{
+"start_ref": "40016009",
+"start_ref_usfm": "MAT 16:9",
+"end_ref": "40016010",
+"end_ref_usfm": "MAT 16:10"
+},
+{
+"start_ref": "41008019",
+"start_ref_usfm": "MRK 8:19",
+"end_ref": "41008020",
+"end_ref_usfm": "MRK 8:20"
+},
+{
+"start_ref": "24024001",
+"start_ref_usfm": "JER 24:1",
+"end_ref": "24024002",
+"end_ref_usfm": "JER 24:2"
+},
+{
+"start_ref": "05023024",
+"start_ref_usfm": "DEU 23:24",
+"end_ref": "05023024",
+"end_ref_usfm": "DEU 23:24"
+},
+{
+"start_ref": "19081006",
+"start_ref_usfm": "PSA 81:6",
+"end_ref": "19081006",
+"end_ref_usfm": "PSA 81:6"
+},
+{
+"start_ref": "30008001",
+"start_ref_usfm": "AMO 8:1",
+"end_ref": "30008002",
+"end_ref_usfm": "AMO 8:2"
+},
+{
+"start_ref": "02002003",
+"start_ref_usfm": "EXO 2:3",
+"end_ref": "02002005",
+"end_ref_usfm": "EXO 2:5"
+},
+{
+"start_ref": "05026002",
+"start_ref_usfm": "DEU 26:2",
+"end_ref": "05026004",
+"end_ref_usfm": "DEU 26:4"
+},
+{
+"start_ref": "12010007",
+"start_ref_usfm": "2KI 10:7",
+"end_ref": "12010007",
+"end_ref_usfm": "2KI 10:7"
+},
+{
+"start_ref": "38005006",
+"start_ref_usfm": "ZEC 5:6",
+"end_ref": "38005011",
+"end_ref_usfm": "ZEC 5:11"
+},
+{
+"start_ref": "44009025",
+"start_ref_usfm": "ACT 9:25",
+"end_ref": "44009025",
+"end_ref_usfm": "ACT 9:25"
+},
+{
+"start_ref": "47011033",
+"start_ref_usfm": "2CO 11:33",
+"end_ref": "47011033",
+"end_ref_usfm": "2CO 11:33"
+}
+],
+"resource": [
+{
+"reference_id": "2351",
+"content_id": "2351",
+"resource_code": "DictionaryBibleThemes",
+"label": "2351: Jesus Christ, miracles of",
+"language": "eng"
+},
+{
+"reference_id": "4404",
+"content_id": "4404",
+"resource_code": "DictionaryBibleThemes",
+"label": "4404: food",
+"language": "eng"
+},
+{
+"reference_id": "4418",
+"content_id": "4418",
+"resource_code": "DictionaryBibleThemes",
+"label": "4418: bread",
+"language": "eng"
+},
+{
+"reference_id": "4440",
+"content_id": "4440",
+"resource_code": "DictionaryBibleThemes",
+"label": "4440: fig-tree",
+"language": "eng"
+},
+{
+"reference_id": "4642",
+"content_id": "4642",
+"resource_code": "DictionaryBibleThemes",
+"label": "4642: fish",
+"language": "eng"
+},
+{
+"reference_id": "5222",
+"content_id": "5222",
+"resource_code": "DictionaryBibleThemes",
+"label": "5222: baking",
+"language": "eng"
+}
+]
+}
+}
+]

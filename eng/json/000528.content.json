@@ -1,0 +1,251 @@
+[
+{
+"content_id": "4801",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4801: black",
+"media_type": "Text",
+"index_reference": "4801: black",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A dark colour often associated with impending judgment or with evil.</p>\n<h2>Black as descriptive of colour</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:36\">MAT 5:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod10:15\">EXO 10:15</a> <em>the plague of locusts</em>; <a href=\"https://ref.ly/Lev11:13-Lev11:14\">LEV 11:13–11:14</a> parallel <a href=\"https://ref.ly/Deut14:12-Deut14:13\">DEU 14:12–14:13</a> <em>unclean food</em>; <a href=\"https://ref.ly/Lev13:31\">LEV 13:31</a>; <a href=\"https://ref.ly/Deut4:11\">DEU 4:11</a>; <a href=\"https://ref.ly/1Kgs18:45\">1KI 18:45</a>; <a href=\"https://ref.ly/Job28:3\">JOB 28:3</a>, <a href=\"https://ref.ly/Job30:28\">JOB 30:28</a>, <a href=\"https://ref.ly/Job30:30\">JOB 30:30</a>; <a href=\"https://ref.ly/Song5:11\">SNG 5:11</a>; <a href=\"https://ref.ly/Lam4:7-Lam4:8\">LAM 4:7–4:8</a>ZEC <a href=\"https://ref.ly/Lam6:2\">6:2</a>, <a href=\"https://ref.ly/Zech6:6\">ZEC 6:6</a>; <a href=\"https://ref.ly/Rev6:5\">REV 6:5</a>\n<a href=\"https://ref.ly/Rev6:12\">REV 6:12</a></p>\n<h2>Black as the opposite of light</h2>\n<p><strong><a href=\"https://ref.ly/Job3:5\">JOB 3:5</a></strong> <em>Job cursing the day of his birth.</em> <em>See also</em> <a href=\"https://ref.ly/Isa5:30\">ISA 5:30</a>, <a href=\"https://ref.ly/Isa45:7\">ISA 45:7</a>; <a href=\"https://ref.ly/Amos5:8\">AMO 5:8</a></p>\n<h2>Black in the setting of impending judgment</h2>\n<p><strong><a href=\"https://ref.ly/Joel2:2\">JOL 2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Amos8:9\">AMO 8:9</a>; <a href=\"https://ref.ly/Zeph1:15\">ZEP 1:15</a></p>\n<h2>Black as a symbol of evil</h2>\n<p><strong><a href=\"https://ref.ly/Job34:22\">JOB 34:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/John3:19\">JHN 3:19</a>; <a href=\"https://ref.ly/2Pet2:17\">2PE 2:17</a>; <a href=\"https://ref.ly/Jude1:13\">JUD 1:13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40005036",
+"start_ref_usfm": "MAT 5:36",
+"end_ref": "40005036",
+"end_ref_usfm": "MAT 5:36"
+},
+{
+"start_ref": "02010015",
+"start_ref_usfm": "EXO 10:15",
+"end_ref": "02010015",
+"end_ref_usfm": "EXO 10:15"
+},
+{
+"start_ref": "03011013",
+"start_ref_usfm": "LEV 11:13",
+"end_ref": "03011014",
+"end_ref_usfm": "LEV 11:14"
+},
+{
+"start_ref": "05014012",
+"start_ref_usfm": "DEU 14:12",
+"end_ref": "05014013",
+"end_ref_usfm": "DEU 14:13"
+},
+{
+"start_ref": "03013031",
+"start_ref_usfm": "LEV 13:31",
+"end_ref": "03013031",
+"end_ref_usfm": "LEV 13:31"
+},
+{
+"start_ref": "05004011",
+"start_ref_usfm": "DEU 4:11",
+"end_ref": "05004011",
+"end_ref_usfm": "DEU 4:11"
+},
+{
+"start_ref": "11018045",
+"start_ref_usfm": "1KI 18:45",
+"end_ref": "11018045",
+"end_ref_usfm": "1KI 18:45"
+},
+{
+"start_ref": "18028003",
+"start_ref_usfm": "JOB 28:3",
+"end_ref": "18028003",
+"end_ref_usfm": "JOB 28:3"
+},
+{
+"start_ref": "18030028",
+"start_ref_usfm": "JOB 30:28",
+"end_ref": "18030028",
+"end_ref_usfm": "JOB 30:28"
+},
+{
+"start_ref": "18030030",
+"start_ref_usfm": "JOB 30:30",
+"end_ref": "18030030",
+"end_ref_usfm": "JOB 30:30"
+},
+{
+"start_ref": "22005011",
+"start_ref_usfm": "SNG 5:11",
+"end_ref": "22005011",
+"end_ref_usfm": "SNG 5:11"
+},
+{
+"start_ref": "25004007",
+"start_ref_usfm": "LAM 4:7",
+"end_ref": "25004008",
+"end_ref_usfm": "LAM 4:8"
+},
+{
+"start_ref": "25006002",
+"start_ref_usfm": "LAM 6:2",
+"end_ref": "25006002",
+"end_ref_usfm": "LAM 6:2"
+},
+{
+"start_ref": "38006006",
+"start_ref_usfm": "ZEC 6:6",
+"end_ref": "38006006",
+"end_ref_usfm": "ZEC 6:6"
+},
+{
+"start_ref": "66006005",
+"start_ref_usfm": "REV 6:5",
+"end_ref": "66006005",
+"end_ref_usfm": "REV 6:5"
+},
+{
+"start_ref": "66006012",
+"start_ref_usfm": "REV 6:12",
+"end_ref": "66006012",
+"end_ref_usfm": "REV 6:12"
+},
+{
+"start_ref": "18003005",
+"start_ref_usfm": "JOB 3:5",
+"end_ref": "18003005",
+"end_ref_usfm": "JOB 3:5"
+},
+{
+"start_ref": "23005030",
+"start_ref_usfm": "ISA 5:30",
+"end_ref": "23005030",
+"end_ref_usfm": "ISA 5:30"
+},
+{
+"start_ref": "23045007",
+"start_ref_usfm": "ISA 45:7",
+"end_ref": "23045007",
+"end_ref_usfm": "ISA 45:7"
+},
+{
+"start_ref": "30005008",
+"start_ref_usfm": "AMO 5:8",
+"end_ref": "30005008",
+"end_ref_usfm": "AMO 5:8"
+},
+{
+"start_ref": "29002002",
+"start_ref_usfm": "JOL 2:2",
+"end_ref": "29002002",
+"end_ref_usfm": "JOL 2:2"
+},
+{
+"start_ref": "30008009",
+"start_ref_usfm": "AMO 8:9",
+"end_ref": "30008009",
+"end_ref_usfm": "AMO 8:9"
+},
+{
+"start_ref": "36001015",
+"start_ref_usfm": "ZEP 1:15",
+"end_ref": "36001015",
+"end_ref_usfm": "ZEP 1:15"
+},
+{
+"start_ref": "18034022",
+"start_ref_usfm": "JOB 34:22",
+"end_ref": "18034022",
+"end_ref_usfm": "JOB 34:22"
+},
+{
+"start_ref": "43003019",
+"start_ref_usfm": "JHN 3:19",
+"end_ref": "43003019",
+"end_ref_usfm": "JHN 3:19"
+},
+{
+"start_ref": "61002017",
+"start_ref_usfm": "2PE 2:17",
+"end_ref": "61002017",
+"end_ref_usfm": "2PE 2:17"
+},
+{
+"start_ref": "65001013",
+"start_ref_usfm": "JUD 1:13",
+"end_ref": "65001013",
+"end_ref_usfm": "JUD 1:13"
+}
+],
+"resource": [
+{
+"reference_id": "4807",
+"content_id": "4807",
+"resource_code": "DictionaryBibleThemes",
+"label": "4807: colours",
+"language": "eng"
+},
+{
+"reference_id": "4809",
+"content_id": "4809",
+"resource_code": "DictionaryBibleThemes",
+"label": "4809: darkness",
+"language": "eng"
+},
+{
+"reference_id": "4846",
+"content_id": "4846",
+"resource_code": "DictionaryBibleThemes",
+"label": "4846: shadow",
+"language": "eng"
+},
+{
+"reference_id": "4859",
+"content_id": "4859",
+"resource_code": "DictionaryBibleThemes",
+"label": "4859: white",
+"language": "eng"
+},
+{
+"reference_id": "4957",
+"content_id": "4957",
+"resource_code": "DictionaryBibleThemes",
+"label": "4957: night",
+"language": "eng"
+},
+{
+"reference_id": "6020",
+"content_id": "6020",
+"resource_code": "DictionaryBibleThemes",
+"label": "6020: sin",
+"language": "eng"
+},
+{
+"reference_id": "6169",
+"content_id": "6169",
+"resource_code": "DictionaryBibleThemes",
+"label": "6169: godlessness",
+"language": "eng"
+},
+{
+"reference_id": "8734",
+"content_id": "8734",
+"resource_code": "DictionaryBibleThemes",
+"label": "8734: evil",
+"language": "eng"
+},
+{
+"reference_id": "9105",
+"content_id": "9105",
+"resource_code": "DictionaryBibleThemes",
+"label": "9105: last things",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

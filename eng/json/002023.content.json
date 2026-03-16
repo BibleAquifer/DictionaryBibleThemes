@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8134",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8134: knowing God",
+"media_type": "Text",
+"index_reference": "8134: knowing god",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A faith-relationship and love-relationship with God involving mind, heart and will, and bringing experience of his presence and power. To know God is to worship him and be transformed by him. Human knowledge of God, which begins with knowledge about him, comes through God's self-revelation.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8135",
+"content_id": "8135",
+"resource_code": "DictionaryBibleThemes",
+"label": "8135: knowing God, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8136",
+"content_id": "8136",
+"resource_code": "DictionaryBibleThemes",
+"label": "8136: knowing God, effects of",
+"language": "eng"
+}
+]
+}
+}
+]

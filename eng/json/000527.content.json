@@ -1,0 +1,326 @@
+[
+{
+"content_id": "4800",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4800: Natural and supernatural phenomena",
+"media_type": "Text",
+"index_reference": "4800: natural and supernatural phenomena",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"4801\" data-resourcetype=\"DictionaryOfBibleThemes\">4801: black</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4802\" data-resourcetype=\"DictionaryOfBibleThemes\">4802: blight</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4803\" data-resourcetype=\"DictionaryOfBibleThemes\">4803: breadth</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4804\" data-resourcetype=\"DictionaryOfBibleThemes\">4804: breath</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4805\" data-resourcetype=\"DictionaryOfBibleThemes\">4805: clouds</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4806\" data-resourcetype=\"DictionaryOfBibleThemes\">4806: cold</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4807\" data-resourcetype=\"DictionaryOfBibleThemes\">4807: colours</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4808\" data-resourcetype=\"DictionaryOfBibleThemes\">4808: crimson</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4809\" data-resourcetype=\"DictionaryOfBibleThemes\">4809: darkness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4813\" data-resourcetype=\"DictionaryOfBibleThemes\">4813: depth</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4814\" data-resourcetype=\"DictionaryOfBibleThemes\">4814: dew</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4815\" data-resourcetype=\"DictionaryOfBibleThemes\">4815: drought</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4819\" data-resourcetype=\"DictionaryOfBibleThemes\">4819: dryness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4820\" data-resourcetype=\"DictionaryOfBibleThemes\">4820: earthquake</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4821\" data-resourcetype=\"DictionaryOfBibleThemes\">4821: east</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4822\" data-resourcetype=\"DictionaryOfBibleThemes\">4822: famine</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4826\" data-resourcetype=\"DictionaryOfBibleThemes\">4826: fire</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4827\" data-resourcetype=\"DictionaryOfBibleThemes\">4827: frost</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4828\" data-resourcetype=\"DictionaryOfBibleThemes\">4828: hail</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4829\" data-resourcetype=\"DictionaryOfBibleThemes\">4829: heat</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4830\" data-resourcetype=\"DictionaryOfBibleThemes\">4830: height</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4831\" data-resourcetype=\"DictionaryOfBibleThemes\">4831: largeness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4832\" data-resourcetype=\"DictionaryOfBibleThemes\">4832: length</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4833\" data-resourcetype=\"DictionaryOfBibleThemes\">4833: light</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4838\" data-resourcetype=\"DictionaryOfBibleThemes\">4838: lightning</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4839\" data-resourcetype=\"DictionaryOfBibleThemes\">4839: mildew</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4840\" data-resourcetype=\"DictionaryOfBibleThemes\">4840: mist</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4841\" data-resourcetype=\"DictionaryOfBibleThemes\">4841: narrowness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4842\" data-resourcetype=\"DictionaryOfBibleThemes\">4842: north</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4843\" data-resourcetype=\"DictionaryOfBibleThemes\">4843: plague</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4844\" data-resourcetype=\"DictionaryOfBibleThemes\">4844: rain</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4845\" data-resourcetype=\"DictionaryOfBibleThemes\">4845: rainbow</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4846\" data-resourcetype=\"DictionaryOfBibleThemes\">4846: shadow</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4847\" data-resourcetype=\"DictionaryOfBibleThemes\">4847: smallness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4848\" data-resourcetype=\"DictionaryOfBibleThemes\">4848: smoke</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4849\" data-resourcetype=\"DictionaryOfBibleThemes\">4849: snow</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4850\" data-resourcetype=\"DictionaryOfBibleThemes\">4850: south</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4851\" data-resourcetype=\"DictionaryOfBibleThemes\">4851: storm</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4852\" data-resourcetype=\"DictionaryOfBibleThemes\">4852: thunder</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4853\" data-resourcetype=\"DictionaryOfBibleThemes\">4853: weather</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4857\" data-resourcetype=\"DictionaryOfBibleThemes\">4857: west</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4858\" data-resourcetype=\"DictionaryOfBibleThemes\">4858: whirlwind</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4859\" data-resourcetype=\"DictionaryOfBibleThemes\">4859: white</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4860\" data-resourcetype=\"DictionaryOfBibleThemes\">4860: wind</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4801",
+"content_id": "4801",
+"resource_code": "DictionaryBibleThemes",
+"label": "4801: black",
+"language": "eng"
+},
+{
+"reference_id": "4802",
+"content_id": "4802",
+"resource_code": "DictionaryBibleThemes",
+"label": "4802: blight",
+"language": "eng"
+},
+{
+"reference_id": "4803",
+"content_id": "4803",
+"resource_code": "DictionaryBibleThemes",
+"label": "4803: breadth",
+"language": "eng"
+},
+{
+"reference_id": "4804",
+"content_id": "4804",
+"resource_code": "DictionaryBibleThemes",
+"label": "4804: breath",
+"language": "eng"
+},
+{
+"reference_id": "4805",
+"content_id": "4805",
+"resource_code": "DictionaryBibleThemes",
+"label": "4805: clouds",
+"language": "eng"
+},
+{
+"reference_id": "4806",
+"content_id": "4806",
+"resource_code": "DictionaryBibleThemes",
+"label": "4806: cold",
+"language": "eng"
+},
+{
+"reference_id": "4807",
+"content_id": "4807",
+"resource_code": "DictionaryBibleThemes",
+"label": "4807: colours",
+"language": "eng"
+},
+{
+"reference_id": "4808",
+"content_id": "4808",
+"resource_code": "DictionaryBibleThemes",
+"label": "4808: crimson",
+"language": "eng"
+},
+{
+"reference_id": "4809",
+"content_id": "4809",
+"resource_code": "DictionaryBibleThemes",
+"label": "4809: darkness",
+"language": "eng"
+},
+{
+"reference_id": "4813",
+"content_id": "4813",
+"resource_code": "DictionaryBibleThemes",
+"label": "4813: depth",
+"language": "eng"
+},
+{
+"reference_id": "4814",
+"content_id": "4814",
+"resource_code": "DictionaryBibleThemes",
+"label": "4814: dew",
+"language": "eng"
+},
+{
+"reference_id": "4815",
+"content_id": "4815",
+"resource_code": "DictionaryBibleThemes",
+"label": "4815: drought",
+"language": "eng"
+},
+{
+"reference_id": "4819",
+"content_id": "4819",
+"resource_code": "DictionaryBibleThemes",
+"label": "4819: dryness",
+"language": "eng"
+},
+{
+"reference_id": "4820",
+"content_id": "4820",
+"resource_code": "DictionaryBibleThemes",
+"label": "4820: earthquake",
+"language": "eng"
+},
+{
+"reference_id": "4821",
+"content_id": "4821",
+"resource_code": "DictionaryBibleThemes",
+"label": "4821: east",
+"language": "eng"
+},
+{
+"reference_id": "4822",
+"content_id": "4822",
+"resource_code": "DictionaryBibleThemes",
+"label": "4822: famine",
+"language": "eng"
+},
+{
+"reference_id": "4826",
+"content_id": "4826",
+"resource_code": "DictionaryBibleThemes",
+"label": "4826: fire",
+"language": "eng"
+},
+{
+"reference_id": "4827",
+"content_id": "4827",
+"resource_code": "DictionaryBibleThemes",
+"label": "4827: frost",
+"language": "eng"
+},
+{
+"reference_id": "4828",
+"content_id": "4828",
+"resource_code": "DictionaryBibleThemes",
+"label": "4828: hail",
+"language": "eng"
+},
+{
+"reference_id": "4829",
+"content_id": "4829",
+"resource_code": "DictionaryBibleThemes",
+"label": "4829: heat",
+"language": "eng"
+},
+{
+"reference_id": "4830",
+"content_id": "4830",
+"resource_code": "DictionaryBibleThemes",
+"label": "4830: height",
+"language": "eng"
+},
+{
+"reference_id": "4831",
+"content_id": "4831",
+"resource_code": "DictionaryBibleThemes",
+"label": "4831: largeness",
+"language": "eng"
+},
+{
+"reference_id": "4832",
+"content_id": "4832",
+"resource_code": "DictionaryBibleThemes",
+"label": "4832: length",
+"language": "eng"
+},
+{
+"reference_id": "4833",
+"content_id": "4833",
+"resource_code": "DictionaryBibleThemes",
+"label": "4833: light",
+"language": "eng"
+},
+{
+"reference_id": "4838",
+"content_id": "4838",
+"resource_code": "DictionaryBibleThemes",
+"label": "4838: lightning",
+"language": "eng"
+},
+{
+"reference_id": "4839",
+"content_id": "4839",
+"resource_code": "DictionaryBibleThemes",
+"label": "4839: mildew",
+"language": "eng"
+},
+{
+"reference_id": "4840",
+"content_id": "4840",
+"resource_code": "DictionaryBibleThemes",
+"label": "4840: mist",
+"language": "eng"
+},
+{
+"reference_id": "4841",
+"content_id": "4841",
+"resource_code": "DictionaryBibleThemes",
+"label": "4841: narrowness",
+"language": "eng"
+},
+{
+"reference_id": "4842",
+"content_id": "4842",
+"resource_code": "DictionaryBibleThemes",
+"label": "4842: north",
+"language": "eng"
+},
+{
+"reference_id": "4843",
+"content_id": "4843",
+"resource_code": "DictionaryBibleThemes",
+"label": "4843: plague",
+"language": "eng"
+},
+{
+"reference_id": "4844",
+"content_id": "4844",
+"resource_code": "DictionaryBibleThemes",
+"label": "4844: rain",
+"language": "eng"
+},
+{
+"reference_id": "4845",
+"content_id": "4845",
+"resource_code": "DictionaryBibleThemes",
+"label": "4845: rainbow",
+"language": "eng"
+},
+{
+"reference_id": "4846",
+"content_id": "4846",
+"resource_code": "DictionaryBibleThemes",
+"label": "4846: shadow",
+"language": "eng"
+},
+{
+"reference_id": "4847",
+"content_id": "4847",
+"resource_code": "DictionaryBibleThemes",
+"label": "4847: smallness",
+"language": "eng"
+},
+{
+"reference_id": "4848",
+"content_id": "4848",
+"resource_code": "DictionaryBibleThemes",
+"label": "4848: smoke",
+"language": "eng"
+},
+{
+"reference_id": "4849",
+"content_id": "4849",
+"resource_code": "DictionaryBibleThemes",
+"label": "4849: snow",
+"language": "eng"
+},
+{
+"reference_id": "4850",
+"content_id": "4850",
+"resource_code": "DictionaryBibleThemes",
+"label": "4850: south",
+"language": "eng"
+},
+{
+"reference_id": "4851",
+"content_id": "4851",
+"resource_code": "DictionaryBibleThemes",
+"label": "4851: storm",
+"language": "eng"
+},
+{
+"reference_id": "4852",
+"content_id": "4852",
+"resource_code": "DictionaryBibleThemes",
+"label": "4852: thunder",
+"language": "eng"
+},
+{
+"reference_id": "4853",
+"content_id": "4853",
+"resource_code": "DictionaryBibleThemes",
+"label": "4853: weather",
+"language": "eng"
+},
+{
+"reference_id": "4857",
+"content_id": "4857",
+"resource_code": "DictionaryBibleThemes",
+"label": "4857: west",
+"language": "eng"
+},
+{
+"reference_id": "4858",
+"content_id": "4858",
+"resource_code": "DictionaryBibleThemes",
+"label": "4858: whirlwind",
+"language": "eng"
+},
+{
+"reference_id": "4859",
+"content_id": "4859",
+"resource_code": "DictionaryBibleThemes",
+"label": "4859: white",
+"language": "eng"
+},
+{
+"reference_id": "4860",
+"content_id": "4860",
+"resource_code": "DictionaryBibleThemes",
+"label": "4860: wind",
+"language": "eng"
+}
+]
+}
+}
+]

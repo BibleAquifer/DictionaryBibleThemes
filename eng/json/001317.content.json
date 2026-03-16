@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5795",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5795: bereavement",
+"media_type": "Text",
+"index_reference": "5795: bereavement",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The experience or status of suffering the loss through death of a close relative or friend.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5796",
+"content_id": "5796",
+"resource_code": "DictionaryBibleThemes",
+"label": "5796: bereavement, experience of",
+"language": "eng"
+},
+{
+"reference_id": "5797",
+"content_id": "5797",
+"resource_code": "DictionaryBibleThemes",
+"label": "5797: bereavement, God's comfort in",
+"language": "eng"
+}
+]
+}
+}
+]

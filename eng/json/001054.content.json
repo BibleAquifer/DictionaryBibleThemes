@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5482",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5482: punishment",
+"media_type": "Text",
+"index_reference": "5482: punishment",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A form of physical pain or deprivation, generally in proportion to the offence which gives rise to it. Scripture stresses the reality of punishment by God for sin, while urging that human punishment should be humane.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5483",
+"content_id": "5483",
+"resource_code": "DictionaryBibleThemes",
+"label": "5483: punishment, nature of",
+"language": "eng"
+},
+{
+"reference_id": "5484",
+"content_id": "5484",
+"resource_code": "DictionaryBibleThemes",
+"label": "5484: punishment, by God",
+"language": "eng"
+},
+{
+"reference_id": "5485",
+"content_id": "5485",
+"resource_code": "DictionaryBibleThemes",
+"label": "5485: punishment, legal aspects of",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8461",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8461: priorities",
+"media_type": "Text",
+"index_reference": "8461: priorities",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture stresses that God must be allowed to rule at the heart of a person's life.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8462",
+"content_id": "8462",
+"resource_code": "DictionaryBibleThemes",
+"label": "8462: priority, of God",
+"language": "eng"
+},
+{
+"reference_id": "8463",
+"content_id": "8463",
+"resource_code": "DictionaryBibleThemes",
+"label": "8463: priority, of faith, hope and love",
+"language": "eng"
+}
+]
+}
+}
+]

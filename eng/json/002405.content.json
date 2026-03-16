@@ -1,0 +1,283 @@
+[
+{
+"content_id": "8779",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8779: materialism, nature of",
+"media_type": "Text",
+"index_reference": "8779: materialism, nature of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The attitude to life that places particular emphasis on immediate, physical values rather than on future, spiritual ones or that regards the material world as the only reality.</p>\n<h2>The basic features of materialism</h2>\n<h3>An attitude of godlessness</h3>\n<p><strong><a href=\"https://ref.ly/Ps14:1-Ps14:2\">PSA 14:1–14:2</a></strong> parallel <a href=\"https://ref.ly/Ps53:1-Ps53:2\">PSA 53:1–53:2</a> <em>See also</em> <a href=\"https://ref.ly/Job35:9-Job35:10\">JOB 35:9–35:10</a>; <a href=\"https://ref.ly/Ps10:4\">PSA 10:4</a>, <a href=\"https://ref.ly/Ps10:11\">PSA 10:11</a>; <a href=\"https://ref.ly/Eccl1:1-Eccl1:11\">ECC 1:1–1:11</a>; <a href=\"https://ref.ly/Luke12:13-Luke12:19\">LUK 12:13–12:19</a>; <a href=\"https://ref.ly/Rom1:20-Rom1:22\">ROM 1:20–1:22</a></p>\n<h3>A denial of the resurrection</h3>\n<p><strong><a href=\"https://ref.ly/Matt22:23\">MAT 22:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl4:1-Eccl4:3\">ECC 4:1–4:3</a>, <a href=\"https://ref.ly/Eccl9:3-Eccl9:6\">ECC 9:3–9:6</a>; <a href=\"https://ref.ly/Acts4:1-Acts4:2\">ACT 4:1–4:2</a>, <a href=\"https://ref.ly/Acts23:6-Acts23:8\">ACT 23:6–23:8</a>; <a href=\"https://ref.ly/1Cor15:12-1Cor15:17\">1CO 15:12–15:17</a>; <a href=\"https://ref.ly/2Tim2:17-2Tim2:19\">2TI 2:17–2:19</a></p>\n<h3>Desire for wealth and physical gratification</h3>\n<p><strong><a href=\"https://ref.ly/1Cor15:32\">1CO 15:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl2:4-Eccl2:9\">ECC 2:4–2:9</a>, <a href=\"https://ref.ly/Eccl9:7-Eccl9:10\">ECC 9:7–9:10</a>; <a href=\"https://ref.ly/Matt6:19-Matt6:24\">MAT 6:19–6:24</a></p>\n<h2>Materialism condemned</h2>\n<p><strong><a href=\"https://ref.ly/Ps52:7\">PSA 52:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job22:4-Job22:11\">JOB 22:4–22:11</a>, <a href=\"https://ref.ly/Job31:25-Job31:28\">JOB 31:25–31:28</a>; <a href=\"https://ref.ly/Ps49:10\">PSA 49:10</a>; <a href=\"https://ref.ly/Prov18:11\">PRO 18:11</a>, <a href=\"https://ref.ly/Prov23:5\">PRO 23:5</a>; <a href=\"https://ref.ly/Eccl5:10\">ECC 5:10</a>; <a href=\"https://ref.ly/Matt16:26\">MAT 16:26</a>; <a href=\"https://ref.ly/Luke12:23-Luke12:25\">LUK 12:23–12:25</a>, <a href=\"https://ref.ly/Luke21:34\">LUK 21:34</a>; <a href=\"https://ref.ly/Jas5:1-Jas5:3\">JAS 5:1–5:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19014001",
+"start_ref_usfm": "PSA 14:1",
+"end_ref": "19014002",
+"end_ref_usfm": "PSA 14:2"
+},
+{
+"start_ref": "19053001",
+"start_ref_usfm": "PSA 53:1",
+"end_ref": "19053002",
+"end_ref_usfm": "PSA 53:2"
+},
+{
+"start_ref": "18035009",
+"start_ref_usfm": "JOB 35:9",
+"end_ref": "18035010",
+"end_ref_usfm": "JOB 35:10"
+},
+{
+"start_ref": "19010004",
+"start_ref_usfm": "PSA 10:4",
+"end_ref": "19010004",
+"end_ref_usfm": "PSA 10:4"
+},
+{
+"start_ref": "19010011",
+"start_ref_usfm": "PSA 10:11",
+"end_ref": "19010011",
+"end_ref_usfm": "PSA 10:11"
+},
+{
+"start_ref": "21001001",
+"start_ref_usfm": "ECC 1:1",
+"end_ref": "21001011",
+"end_ref_usfm": "ECC 1:11"
+},
+{
+"start_ref": "42012013",
+"start_ref_usfm": "LUK 12:13",
+"end_ref": "42012019",
+"end_ref_usfm": "LUK 12:19"
+},
+{
+"start_ref": "45001020",
+"start_ref_usfm": "ROM 1:20",
+"end_ref": "45001022",
+"end_ref_usfm": "ROM 1:22"
+},
+{
+"start_ref": "40022023",
+"start_ref_usfm": "MAT 22:23",
+"end_ref": "40022023",
+"end_ref_usfm": "MAT 22:23"
+},
+{
+"start_ref": "21004001",
+"start_ref_usfm": "ECC 4:1",
+"end_ref": "21004003",
+"end_ref_usfm": "ECC 4:3"
+},
+{
+"start_ref": "21009003",
+"start_ref_usfm": "ECC 9:3",
+"end_ref": "21009006",
+"end_ref_usfm": "ECC 9:6"
+},
+{
+"start_ref": "44004001",
+"start_ref_usfm": "ACT 4:1",
+"end_ref": "44004002",
+"end_ref_usfm": "ACT 4:2"
+},
+{
+"start_ref": "44023006",
+"start_ref_usfm": "ACT 23:6",
+"end_ref": "44023008",
+"end_ref_usfm": "ACT 23:8"
+},
+{
+"start_ref": "46015012",
+"start_ref_usfm": "1CO 15:12",
+"end_ref": "46015017",
+"end_ref_usfm": "1CO 15:17"
+},
+{
+"start_ref": "55002017",
+"start_ref_usfm": "2TI 2:17",
+"end_ref": "55002019",
+"end_ref_usfm": "2TI 2:19"
+},
+{
+"start_ref": "46015032",
+"start_ref_usfm": "1CO 15:32",
+"end_ref": "46015032",
+"end_ref_usfm": "1CO 15:32"
+},
+{
+"start_ref": "21002004",
+"start_ref_usfm": "ECC 2:4",
+"end_ref": "21002009",
+"end_ref_usfm": "ECC 2:9"
+},
+{
+"start_ref": "21009007",
+"start_ref_usfm": "ECC 9:7",
+"end_ref": "21009010",
+"end_ref_usfm": "ECC 9:10"
+},
+{
+"start_ref": "40006019",
+"start_ref_usfm": "MAT 6:19",
+"end_ref": "40006024",
+"end_ref_usfm": "MAT 6:24"
+},
+{
+"start_ref": "19052007",
+"start_ref_usfm": "PSA 52:7",
+"end_ref": "19052007",
+"end_ref_usfm": "PSA 52:7"
+},
+{
+"start_ref": "18022004",
+"start_ref_usfm": "JOB 22:4",
+"end_ref": "18022011",
+"end_ref_usfm": "JOB 22:11"
+},
+{
+"start_ref": "18031025",
+"start_ref_usfm": "JOB 31:25",
+"end_ref": "18031028",
+"end_ref_usfm": "JOB 31:28"
+},
+{
+"start_ref": "19049010",
+"start_ref_usfm": "PSA 49:10",
+"end_ref": "19049010",
+"end_ref_usfm": "PSA 49:10"
+},
+{
+"start_ref": "20018011",
+"start_ref_usfm": "PRO 18:11",
+"end_ref": "20018011",
+"end_ref_usfm": "PRO 18:11"
+},
+{
+"start_ref": "20023005",
+"start_ref_usfm": "PRO 23:5",
+"end_ref": "20023005",
+"end_ref_usfm": "PRO 23:5"
+},
+{
+"start_ref": "21005010",
+"start_ref_usfm": "ECC 5:10",
+"end_ref": "21005010",
+"end_ref_usfm": "ECC 5:10"
+},
+{
+"start_ref": "40016026",
+"start_ref_usfm": "MAT 16:26",
+"end_ref": "40016026",
+"end_ref_usfm": "MAT 16:26"
+},
+{
+"start_ref": "42012023",
+"start_ref_usfm": "LUK 12:23",
+"end_ref": "42012025",
+"end_ref_usfm": "LUK 12:25"
+},
+{
+"start_ref": "42021034",
+"start_ref_usfm": "LUK 21:34",
+"end_ref": "42021034",
+"end_ref_usfm": "LUK 21:34"
+},
+{
+"start_ref": "59005001",
+"start_ref_usfm": "JAS 5:1",
+"end_ref": "59005003",
+"end_ref_usfm": "JAS 5:3"
+}
+],
+"resource": [
+{
+"reference_id": "5503",
+"content_id": "5503",
+"resource_code": "DictionaryBibleThemes",
+"label": "5503: rich, the",
+"language": "eng"
+},
+{
+"reference_id": "5766",
+"content_id": "5766",
+"resource_code": "DictionaryBibleThemes",
+"label": "5766: attitudes, to life",
+"language": "eng"
+},
+{
+"reference_id": "5785",
+"content_id": "5785",
+"resource_code": "DictionaryBibleThemes",
+"label": "5785: ambition",
+"language": "eng"
+},
+{
+"reference_id": "5832",
+"content_id": "5832",
+"resource_code": "DictionaryBibleThemes",
+"label": "5832: desire",
+"language": "eng"
+},
+{
+"reference_id": "5839",
+"content_id": "5839",
+"resource_code": "DictionaryBibleThemes",
+"label": "5839: dissatisfaction",
+"language": "eng"
+},
+{
+"reference_id": "5864",
+"content_id": "5864",
+"resource_code": "DictionaryBibleThemes",
+"label": "5864: futility",
+"language": "eng"
+},
+{
+"reference_id": "5874",
+"content_id": "5874",
+"resource_code": "DictionaryBibleThemes",
+"label": "5874: happiness",
+"language": "eng"
+},
+{
+"reference_id": "8211",
+"content_id": "8211",
+"resource_code": "DictionaryBibleThemes",
+"label": "8211: commitment, to the world",
+"language": "eng"
+},
+{
+"reference_id": "8260",
+"content_id": "8260",
+"resource_code": "DictionaryBibleThemes",
+"label": "8260: generosity",
+"language": "eng"
+},
+{
+"reference_id": "8755",
+"content_id": "8755",
+"resource_code": "DictionaryBibleThemes",
+"label": "8755: folly",
+"language": "eng"
+},
+{
+"reference_id": "8809",
+"content_id": "8809",
+"resource_code": "DictionaryBibleThemes",
+"label": "8809: riches, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8848",
+"content_id": "8848",
+"resource_code": "DictionaryBibleThemes",
+"label": "8848: worldliness",
+"language": "eng"
+}
+]
+}
+}
+]

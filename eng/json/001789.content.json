@@ -1,0 +1,67 @@
+[
+{
+"content_id": "7354",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7354: feasts and festivals",
+"media_type": "Text",
+"index_reference": "7354: feasts and festivals",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The OT makes reference to a number of feasts and festivals, which generally commemorate an event in Israel's history (e.g., the Feast of Passover) or some season of the year (e.g., the Feast of Weeks). In the NT, some of these festivals are given new meanings, such as Pentecost, which was originally a harvest festival, but which came to celebrate the coming of the Holy Spirit.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7355",
+"content_id": "7355",
+"resource_code": "DictionaryBibleThemes",
+"label": "7355: feasts and festivals, nature of",
+"language": "eng"
+},
+{
+"reference_id": "7356",
+"content_id": "7356",
+"resource_code": "DictionaryBibleThemes",
+"label": "7356: Feast of Dedication",
+"language": "eng"
+},
+{
+"reference_id": "7357",
+"content_id": "7357",
+"resource_code": "DictionaryBibleThemes",
+"label": "7357: Feast of Firstfruits",
+"language": "eng"
+},
+{
+"reference_id": "7358",
+"content_id": "7358",
+"resource_code": "DictionaryBibleThemes",
+"label": "7358: Feast of Tabernacles",
+"language": "eng"
+},
+{
+"reference_id": "7359",
+"content_id": "7359",
+"resource_code": "DictionaryBibleThemes",
+"label": "7359: Feast of Trumpets",
+"language": "eng"
+},
+{
+"reference_id": "7360",
+"content_id": "7360",
+"resource_code": "DictionaryBibleThemes",
+"label": "7360: Feast of Unleavened Bread",
+"language": "eng"
+},
+{
+"reference_id": "7361",
+"content_id": "7361",
+"resource_code": "DictionaryBibleThemes",
+"label": "7361: Feast of Weeks",
+"language": "eng"
+}
+]
+}
+}
+]

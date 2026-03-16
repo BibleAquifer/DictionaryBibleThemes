@@ -1,0 +1,270 @@
+[
+{
+"content_id": "6722",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6722: redemption, in OT",
+"media_type": "Text",
+"index_reference": "6722: redemption, in ot",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The act of God by which he delivered his people from bondage. The exodus of Israel from Egypt and the later deliverance of Jerusalem from exile in Babylon are seen as definitive examples of God's redeeming acts.</p>\n<h2>God is the Redeemer of his people</h2>\n<h3>God redeems his people from captivity out of love</h3>\n<p><strong><a href=\"https://ref.ly/Deut7:8\">DEU 7:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod6:6-Exod6:8\">EXO 6:6–6:8</a>, <a href=\"https://ref.ly/Exod15:13\">EXO 15:13</a>; <a href=\"https://ref.ly/Ps130:7-Ps130:8\">PSA 130:7–130:8</a>; <a href=\"https://ref.ly/Isa43:14\">ISA 43:14</a>, <a href=\"https://ref.ly/Isa47:1-Isa47:4\">ISA 47:1–47:4</a>, <a href=\"https://ref.ly/Isa63:16\">ISA 63:16</a>; <a href=\"https://ref.ly/Jer15:21\">JER 15:21</a>, <a href=\"https://ref.ly/Jer31:11\">JER 31:11</a>, <a href=\"https://ref.ly/Jer50:34\">JER 50:34</a></p>\n<h3>His redemption guarantees security</h3>\n<p><strong><a href=\"https://ref.ly/Isa43:1-Isa43:4\">ISA 43:1–43:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa44:21-Isa44:28\">ISA 44:21–44:28</a>, <a href=\"https://ref.ly/Isa48:20\">ISA 48:20</a>, <a href=\"https://ref.ly/Isa49:7\">ISA 49:7</a>, <a href=\"https://ref.ly/Isa49:22-Isa49:26\">ISA 49:22–49:26</a>, <a href=\"https://ref.ly/Isa52:9-Isa52:12\">ISA 52:9–52:12</a></p>\n<h3>He redeems from death</h3>\n<p><strong><a href=\"https://ref.ly/Ps49:15\">PSA 49:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job5:20\">JOB 5:20</a>, <a href=\"https://ref.ly/Job19:25-Job19:26\">JOB 19:25–19:26</a>; <a href=\"https://ref.ly/Hos13:14\">HOS 13:14</a></p>\n<h3>His redemption is associated with his holiness</h3>\n<p><strong><a href=\"https://ref.ly/Isa41:14\">ISA 41:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa43:14\">ISA 43:14</a>, <a href=\"https://ref.ly/Isa47:4\">ISA 47:4</a>, <a href=\"https://ref.ly/Isa48:17\">ISA 48:17</a>, <a href=\"https://ref.ly/Isa49:7\">ISA 49:7</a>, <a href=\"https://ref.ly/Isa54:5\">ISA 54:5</a></p>\n<h3>He redeems by his mighty arm</h3>\n<p><strong><a href=\"https://ref.ly/Luke1:51\">LUK 1:51</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut11:2\">DEU 11:2</a>; <a href=\"https://ref.ly/Ps89:10\">PSA 89:10</a>, <a href=\"https://ref.ly/Ps77:15\">PSA 77:15</a>; <a href=\"https://ref.ly/Isa62:8\">ISA 62:8</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05007008",
+"start_ref_usfm": "DEU 7:8",
+"end_ref": "05007008",
+"end_ref_usfm": "DEU 7:8"
+},
+{
+"start_ref": "02006006",
+"start_ref_usfm": "EXO 6:6",
+"end_ref": "02006008",
+"end_ref_usfm": "EXO 6:8"
+},
+{
+"start_ref": "02015013",
+"start_ref_usfm": "EXO 15:13",
+"end_ref": "02015013",
+"end_ref_usfm": "EXO 15:13"
+},
+{
+"start_ref": "19130007",
+"start_ref_usfm": "PSA 130:7",
+"end_ref": "19130008",
+"end_ref_usfm": "PSA 130:8"
+},
+{
+"start_ref": "23043014",
+"start_ref_usfm": "ISA 43:14",
+"end_ref": "23043014",
+"end_ref_usfm": "ISA 43:14"
+},
+{
+"start_ref": "23047001",
+"start_ref_usfm": "ISA 47:1",
+"end_ref": "23047004",
+"end_ref_usfm": "ISA 47:4"
+},
+{
+"start_ref": "23063016",
+"start_ref_usfm": "ISA 63:16",
+"end_ref": "23063016",
+"end_ref_usfm": "ISA 63:16"
+},
+{
+"start_ref": "24015021",
+"start_ref_usfm": "JER 15:21",
+"end_ref": "24015021",
+"end_ref_usfm": "JER 15:21"
+},
+{
+"start_ref": "24031011",
+"start_ref_usfm": "JER 31:11",
+"end_ref": "24031011",
+"end_ref_usfm": "JER 31:11"
+},
+{
+"start_ref": "24050034",
+"start_ref_usfm": "JER 50:34",
+"end_ref": "24050034",
+"end_ref_usfm": "JER 50:34"
+},
+{
+"start_ref": "23043001",
+"start_ref_usfm": "ISA 43:1",
+"end_ref": "23043004",
+"end_ref_usfm": "ISA 43:4"
+},
+{
+"start_ref": "23044021",
+"start_ref_usfm": "ISA 44:21",
+"end_ref": "23044028",
+"end_ref_usfm": "ISA 44:28"
+},
+{
+"start_ref": "23048020",
+"start_ref_usfm": "ISA 48:20",
+"end_ref": "23048020",
+"end_ref_usfm": "ISA 48:20"
+},
+{
+"start_ref": "23049007",
+"start_ref_usfm": "ISA 49:7",
+"end_ref": "23049007",
+"end_ref_usfm": "ISA 49:7"
+},
+{
+"start_ref": "23049022",
+"start_ref_usfm": "ISA 49:22",
+"end_ref": "23049026",
+"end_ref_usfm": "ISA 49:26"
+},
+{
+"start_ref": "23052009",
+"start_ref_usfm": "ISA 52:9",
+"end_ref": "23052012",
+"end_ref_usfm": "ISA 52:12"
+},
+{
+"start_ref": "19049015",
+"start_ref_usfm": "PSA 49:15",
+"end_ref": "19049015",
+"end_ref_usfm": "PSA 49:15"
+},
+{
+"start_ref": "18005020",
+"start_ref_usfm": "JOB 5:20",
+"end_ref": "18005020",
+"end_ref_usfm": "JOB 5:20"
+},
+{
+"start_ref": "18019025",
+"start_ref_usfm": "JOB 19:25",
+"end_ref": "18019026",
+"end_ref_usfm": "JOB 19:26"
+},
+{
+"start_ref": "28013014",
+"start_ref_usfm": "HOS 13:14",
+"end_ref": "28013014",
+"end_ref_usfm": "HOS 13:14"
+},
+{
+"start_ref": "23041014",
+"start_ref_usfm": "ISA 41:14",
+"end_ref": "23041014",
+"end_ref_usfm": "ISA 41:14"
+},
+{
+"start_ref": "23047004",
+"start_ref_usfm": "ISA 47:4",
+"end_ref": "23047004",
+"end_ref_usfm": "ISA 47:4"
+},
+{
+"start_ref": "23048017",
+"start_ref_usfm": "ISA 48:17",
+"end_ref": "23048017",
+"end_ref_usfm": "ISA 48:17"
+},
+{
+"start_ref": "23054005",
+"start_ref_usfm": "ISA 54:5",
+"end_ref": "23054005",
+"end_ref_usfm": "ISA 54:5"
+},
+{
+"start_ref": "42001051",
+"start_ref_usfm": "LUK 1:51",
+"end_ref": "42001051",
+"end_ref_usfm": "LUK 1:51"
+},
+{
+"start_ref": "05011002",
+"start_ref_usfm": "DEU 11:2",
+"end_ref": "05011002",
+"end_ref_usfm": "DEU 11:2"
+},
+{
+"start_ref": "19089010",
+"start_ref_usfm": "PSA 89:10",
+"end_ref": "19089010",
+"end_ref_usfm": "PSA 89:10"
+},
+{
+"start_ref": "19077015",
+"start_ref_usfm": "PSA 77:15",
+"end_ref": "19077015",
+"end_ref_usfm": "PSA 77:15"
+},
+{
+"start_ref": "23062008",
+"start_ref_usfm": "ISA 62:8",
+"end_ref": "23062008",
+"end_ref_usfm": "ISA 62:8"
+}
+],
+"resource": [
+{
+"reference_id": "1065",
+"content_id": "1065",
+"resource_code": "DictionaryBibleThemes",
+"label": "1065: God, holiness of",
+"language": "eng"
+},
+{
+"reference_id": "1105",
+"content_id": "1105",
+"resource_code": "DictionaryBibleThemes",
+"label": "1105: God, power of",
+"language": "eng"
+},
+{
+"reference_id": "1315",
+"content_id": "1315",
+"resource_code": "DictionaryBibleThemes",
+"label": "1315: God, as redeemer",
+"language": "eng"
+},
+{
+"reference_id": "1320",
+"content_id": "1320",
+"resource_code": "DictionaryBibleThemes",
+"label": "1320: God, as Saviour",
+"language": "eng"
+},
+{
+"reference_id": "1680",
+"content_id": "1680",
+"resource_code": "DictionaryBibleThemes",
+"label": "1680: types",
+"language": "eng"
+},
+{
+"reference_id": "6634",
+"content_id": "6634",
+"resource_code": "DictionaryBibleThemes",
+"label": "6634: deliverance",
+"language": "eng"
+},
+{
+"reference_id": "6658",
+"content_id": "6658",
+"resource_code": "DictionaryBibleThemes",
+"label": "6658: freedom",
+"language": "eng"
+},
+{
+"reference_id": "6738",
+"content_id": "6738",
+"resource_code": "DictionaryBibleThemes",
+"label": "6738: rescue",
+"language": "eng"
+},
+{
+"reference_id": "7215",
+"content_id": "7215",
+"resource_code": "DictionaryBibleThemes",
+"label": "7215: exile, the",
+"language": "eng"
+},
+{
+"reference_id": "7221",
+"content_id": "7221",
+"resource_code": "DictionaryBibleThemes",
+"label": "7221: exodus, the",
+"language": "eng"
+},
+{
+"reference_id": "7446",
+"content_id": "7446",
+"resource_code": "DictionaryBibleThemes",
+"label": "7446: slavery",
+"language": "eng"
+}
+]
+}
+}
+]

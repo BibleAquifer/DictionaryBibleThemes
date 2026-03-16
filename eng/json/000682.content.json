@@ -1,0 +1,141 @@
+[
+{
+"content_id": "5083",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5083: Adam, and Jesus Christ",
+"media_type": "Text",
+"index_reference": "5083: adam, and jesus christ",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Paul presents Jesus Christ as both the last Adam, succeeding where the first Adam failed, and the second man, standing at the head of a new humanity.</p>\n<h2>The contrast between the first and second Adam</h2>\n<p><strong><a href=\"https://ref.ly/Rom5:14\">ROM 5:14</a></strong> <em>By his sin Adam brought universal misery on humanity. In this he is the foreshadower and prototype of Jesus Christ, who through his righteous act brings the universal hope of redemption.</em></p>\n<h2>The contrast in nature of the first Adam and the second Adam</h2>\n<h3>Adam was a living being; Jesus Christ is a life-giving being</h3>\n<p><strong><a href=\"https://ref.ly/1Cor15:45\">1CO 15:45</a></strong></p>\n<h3>Adam was natural, Jesus Christ is spiritual</h3>\n<p><strong><a href=\"https://ref.ly/1Cor15:46\">1CO 15:46</a></strong></p>\n<h3>Adam was earthly, Jesus Christ is heavenly</h3>\n<p><strong><a href=\"https://ref.ly/1Cor15:47\">1CO 15:47</a></strong></p>\n<h2>The contrast in the consequences of the actions of the first Adam and the second Adam</h2>\n<h3>Adam brought death, Jesus Christ brings life</h3>\n<p><strong><a href=\"https://ref.ly/Rom5:15\">ROM 5:15</a>, <a href=\"https://ref.ly/Rom5:17\">ROM 5:17</a></strong>; <strong><a href=\"https://ref.ly/1Cor15:21-1Cor15:23\">1CO 15:21–15:23</a></strong></p>\n<h3>Adam brought judgment, Jesus Christ brings justification</h3>\n<p><strong><a href=\"https://ref.ly/Rom5:16\">ROM 5:16</a>, <a href=\"https://ref.ly/Rom5:18-Rom5:19\">ROM 5:18–5:19</a></strong></p>\n<h3>The assurance this doctrine brings</h3>\n<p><strong><a href=\"https://ref.ly/1Cor15:48-1Cor15:49\">1CO 15:48–15:49</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil3:20-Phil3:21\">PHP 3:20–3:21</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "45005014",
+"start_ref_usfm": "ROM 5:14",
+"end_ref": "45005014",
+"end_ref_usfm": "ROM 5:14"
+},
+{
+"start_ref": "46015045",
+"start_ref_usfm": "1CO 15:45",
+"end_ref": "46015045",
+"end_ref_usfm": "1CO 15:45"
+},
+{
+"start_ref": "46015046",
+"start_ref_usfm": "1CO 15:46",
+"end_ref": "46015046",
+"end_ref_usfm": "1CO 15:46"
+},
+{
+"start_ref": "46015047",
+"start_ref_usfm": "1CO 15:47",
+"end_ref": "46015047",
+"end_ref_usfm": "1CO 15:47"
+},
+{
+"start_ref": "45005015",
+"start_ref_usfm": "ROM 5:15",
+"end_ref": "45005015",
+"end_ref_usfm": "ROM 5:15"
+},
+{
+"start_ref": "45005017",
+"start_ref_usfm": "ROM 5:17",
+"end_ref": "45005017",
+"end_ref_usfm": "ROM 5:17"
+},
+{
+"start_ref": "46015021",
+"start_ref_usfm": "1CO 15:21",
+"end_ref": "46015023",
+"end_ref_usfm": "1CO 15:23"
+},
+{
+"start_ref": "45005016",
+"start_ref_usfm": "ROM 5:16",
+"end_ref": "45005016",
+"end_ref_usfm": "ROM 5:16"
+},
+{
+"start_ref": "45005018",
+"start_ref_usfm": "ROM 5:18",
+"end_ref": "45005019",
+"end_ref_usfm": "ROM 5:19"
+},
+{
+"start_ref": "46015048",
+"start_ref_usfm": "1CO 15:48",
+"end_ref": "46015049",
+"end_ref_usfm": "1CO 15:49"
+},
+{
+"start_ref": "50003020",
+"start_ref_usfm": "PHP 3:20",
+"end_ref": "50003021",
+"end_ref_usfm": "PHP 3:21"
+}
+],
+"resource": [
+{
+"reference_id": "1680",
+"content_id": "1680",
+"resource_code": "DictionaryBibleThemes",
+"label": "1680: types",
+"language": "eng"
+},
+{
+"reference_id": "4015",
+"content_id": "4015",
+"resource_code": "DictionaryBibleThemes",
+"label": "4015: life",
+"language": "eng"
+},
+{
+"reference_id": "5110",
+"content_id": "5110",
+"resource_code": "DictionaryBibleThemes",
+"label": "5110: Paul, teaching of",
+"language": "eng"
+},
+{
+"reference_id": "6124",
+"content_id": "6124",
+"resource_code": "DictionaryBibleThemes",
+"label": "6124: condemnation",
+"language": "eng"
+},
+{
+"reference_id": "6676",
+"content_id": "6676",
+"resource_code": "DictionaryBibleThemes",
+"label": "6676: justification",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+},
+{
+"reference_id": "9310",
+"content_id": "9310",
+"resource_code": "DictionaryBibleThemes",
+"label": "9310: resurrection",
+"language": "eng"
+},
+{
+"reference_id": "9410",
+"content_id": "9410",
+"resource_code": "DictionaryBibleThemes",
+"label": "9410: heaven",
+"language": "eng"
+}
+]
+}
+}
+]

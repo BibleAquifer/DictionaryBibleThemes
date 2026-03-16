@@ -1,0 +1,39 @@
+[
+{
+"content_id": "8785",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8785: opposition",
+"media_type": "Text",
+"index_reference": "8785: opposition",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The act of resisting individuals and forces. Scripture stresses the reality of sin and evil in the world and calls upon believers to resist them. Scripture also points to the existence of evil forces that oppose God and identifies them so that believers may recognise and resist them. These forces were evident in the ministry of Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8786",
+"content_id": "8786",
+"resource_code": "DictionaryBibleThemes",
+"label": "8786: opposition, to sin and evil",
+"language": "eng"
+},
+{
+"reference_id": "8787",
+"content_id": "8787",
+"resource_code": "DictionaryBibleThemes",
+"label": "8787: opposition, to God's person and work",
+"language": "eng"
+},
+{
+"reference_id": "8788",
+"content_id": "8788",
+"resource_code": "DictionaryBibleThemes",
+"label": "8788: opposition, to Jesus Christ",
+"language": "eng"
+}
+]
+}
+}
+]

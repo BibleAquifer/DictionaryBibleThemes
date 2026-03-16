@@ -1,0 +1,245 @@
+[
+{
+"content_id": "5158",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5158: head-covering",
+"media_type": "Text",
+"index_reference": "5158: head-covering",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A form of clothing worn on the head, often as a sign of status or rank.</p>\n<h2>Priestly head-coverings</h2>\n<p><strong><a href=\"https://ref.ly/Exod29:6\">EXO 29:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod28:4\">EXO 28:4</a> parallel <a href=\"https://ref.ly/Lev8:9\">LEV 8:9</a>; <a href=\"https://ref.ly/Lev16:4\">LEV 16:4</a>; <a href=\"https://ref.ly/Zech3:5\">ZEC 3:5</a></p>\n<h2>Royal head-coverings</h2>\n<p><strong><a href=\"https://ref.ly/Ezek21:25-Ezek21:26\">EZK 21:25–21:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam1:10\">2SA 1:10</a>; <a href=\"https://ref.ly/2Kgs11:12\">2KI 11:12</a> parallel <a href=\"https://ref.ly/2Chr23:11\">2CH 23:11</a>; <a href=\"https://ref.ly/Esth1:10-Esth1:11\">EST 1:10–1:11</a>, <a href=\"https://ref.ly/Esth2:17\">EST 2:17</a>; <a href=\"https://ref.ly/Ps21:1-Ps21:3\">PSA 21:1–21:3</a>; <a href=\"https://ref.ly/Song3:11\">SNG 3:11</a>; <a href=\"https://ref.ly/Rev14:14\">REV 14:14</a></p>\n<h2>Military head-coverings</h2>\n<p><strong><a href=\"https://ref.ly/1Sam17:5\">1SA 17:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr26:14\">2CH 26:14</a>; <a href=\"https://ref.ly/Ezek23:15\">EZK 23:15</a>, <a href=\"https://ref.ly/Ezek23:24\">EZK 23:24</a>, <a href=\"https://ref.ly/Ezek27:10\">EZK 27:10</a>, <a href=\"https://ref.ly/Ezek38:5\">EZK 38:5</a></p>\n<h2>Head-coverings in mourning</h2>\n<p><strong><a href=\"https://ref.ly/2Sam15:30\">2SA 15:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth6:12\">EST 6:12</a>; <a href=\"https://ref.ly/Ezek24:17\">EZK 24:17</a></p>\n<h2>Head-coverings in worship</h2>\n<p><strong><a href=\"https://ref.ly/1Cor11:4-1Cor11:7\">1CO 11:4–11:7</a></strong> <em>NIV footnote gives an alternative translation for these verses, taking hair as the head-covering.</em></p>\n<h2>Metaphorical use of head-coverings</h2>\n<p><strong><a href=\"https://ref.ly/Job29:14\">JOB 29:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph6:17\">EPH 6:17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02029006",
+"start_ref_usfm": "EXO 29:6",
+"end_ref": "02029006",
+"end_ref_usfm": "EXO 29:6"
+},
+{
+"start_ref": "02028004",
+"start_ref_usfm": "EXO 28:4",
+"end_ref": "02028004",
+"end_ref_usfm": "EXO 28:4"
+},
+{
+"start_ref": "03008009",
+"start_ref_usfm": "LEV 8:9",
+"end_ref": "03008009",
+"end_ref_usfm": "LEV 8:9"
+},
+{
+"start_ref": "03016004",
+"start_ref_usfm": "LEV 16:4",
+"end_ref": "03016004",
+"end_ref_usfm": "LEV 16:4"
+},
+{
+"start_ref": "38003005",
+"start_ref_usfm": "ZEC 3:5",
+"end_ref": "38003005",
+"end_ref_usfm": "ZEC 3:5"
+},
+{
+"start_ref": "26021025",
+"start_ref_usfm": "EZK 21:25",
+"end_ref": "26021026",
+"end_ref_usfm": "EZK 21:26"
+},
+{
+"start_ref": "10001010",
+"start_ref_usfm": "2SA 1:10",
+"end_ref": "10001010",
+"end_ref_usfm": "2SA 1:10"
+},
+{
+"start_ref": "12011012",
+"start_ref_usfm": "2KI 11:12",
+"end_ref": "12011012",
+"end_ref_usfm": "2KI 11:12"
+},
+{
+"start_ref": "14023011",
+"start_ref_usfm": "2CH 23:11",
+"end_ref": "14023011",
+"end_ref_usfm": "2CH 23:11"
+},
+{
+"start_ref": "17001010",
+"start_ref_usfm": "EST 1:10",
+"end_ref": "17001011",
+"end_ref_usfm": "EST 1:11"
+},
+{
+"start_ref": "17002017",
+"start_ref_usfm": "EST 2:17",
+"end_ref": "17002017",
+"end_ref_usfm": "EST 2:17"
+},
+{
+"start_ref": "19021001",
+"start_ref_usfm": "PSA 21:1",
+"end_ref": "19021003",
+"end_ref_usfm": "PSA 21:3"
+},
+{
+"start_ref": "22003011",
+"start_ref_usfm": "SNG 3:11",
+"end_ref": "22003011",
+"end_ref_usfm": "SNG 3:11"
+},
+{
+"start_ref": "66014014",
+"start_ref_usfm": "REV 14:14",
+"end_ref": "66014014",
+"end_ref_usfm": "REV 14:14"
+},
+{
+"start_ref": "09017005",
+"start_ref_usfm": "1SA 17:5",
+"end_ref": "09017005",
+"end_ref_usfm": "1SA 17:5"
+},
+{
+"start_ref": "14026014",
+"start_ref_usfm": "2CH 26:14",
+"end_ref": "14026014",
+"end_ref_usfm": "2CH 26:14"
+},
+{
+"start_ref": "26023015",
+"start_ref_usfm": "EZK 23:15",
+"end_ref": "26023015",
+"end_ref_usfm": "EZK 23:15"
+},
+{
+"start_ref": "26023024",
+"start_ref_usfm": "EZK 23:24",
+"end_ref": "26023024",
+"end_ref_usfm": "EZK 23:24"
+},
+{
+"start_ref": "26027010",
+"start_ref_usfm": "EZK 27:10",
+"end_ref": "26027010",
+"end_ref_usfm": "EZK 27:10"
+},
+{
+"start_ref": "26038005",
+"start_ref_usfm": "EZK 38:5",
+"end_ref": "26038005",
+"end_ref_usfm": "EZK 38:5"
+},
+{
+"start_ref": "10015030",
+"start_ref_usfm": "2SA 15:30",
+"end_ref": "10015030",
+"end_ref_usfm": "2SA 15:30"
+},
+{
+"start_ref": "17006012",
+"start_ref_usfm": "EST 6:12",
+"end_ref": "17006012",
+"end_ref_usfm": "EST 6:12"
+},
+{
+"start_ref": "26024017",
+"start_ref_usfm": "EZK 24:17",
+"end_ref": "26024017",
+"end_ref_usfm": "EZK 24:17"
+},
+{
+"start_ref": "46011004",
+"start_ref_usfm": "1CO 11:4",
+"end_ref": "46011007",
+"end_ref_usfm": "1CO 11:7"
+},
+{
+"start_ref": "18029014",
+"start_ref_usfm": "JOB 29:14",
+"end_ref": "18029014",
+"end_ref_usfm": "JOB 29:14"
+},
+{
+"start_ref": "49006017",
+"start_ref_usfm": "EPH 6:17",
+"end_ref": "49006017",
+"end_ref_usfm": "EPH 6:17"
+}
+],
+"resource": [
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "5144",
+"content_id": "5144",
+"resource_code": "DictionaryBibleThemes",
+"label": "5144: cloak",
+"language": "eng"
+},
+{
+"reference_id": "5145",
+"content_id": "5145",
+"resource_code": "DictionaryBibleThemes",
+"label": "5145: clothing",
+"language": "eng"
+},
+{
+"reference_id": "5157",
+"content_id": "5157",
+"resource_code": "DictionaryBibleThemes",
+"label": "5157: head",
+"language": "eng"
+},
+{
+"reference_id": "5177",
+"content_id": "5177",
+"resource_code": "DictionaryBibleThemes",
+"label": "5177: robes",
+"language": "eng"
+},
+{
+"reference_id": "5195",
+"content_id": "5195",
+"resource_code": "DictionaryBibleThemes",
+"label": "5195: veil",
+"language": "eng"
+},
+{
+"reference_id": "5209",
+"content_id": "5209",
+"resource_code": "DictionaryBibleThemes",
+"label": "5209: armour",
+"language": "eng"
+},
+{
+"reference_id": "5259",
+"content_id": "5259",
+"resource_code": "DictionaryBibleThemes",
+"label": "5259: coat",
+"language": "eng"
+},
+{
+"reference_id": "5280",
+"content_id": "5280",
+"resource_code": "DictionaryBibleThemes",
+"label": "5280: crown",
+"language": "eng"
+},
+{
+"reference_id": "5419",
+"content_id": "5419",
+"resource_code": "DictionaryBibleThemes",
+"label": "5419: mourning",
+"language": "eng"
+}
+]
+}
+}
+]

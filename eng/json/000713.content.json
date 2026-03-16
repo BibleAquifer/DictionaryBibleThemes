@@ -1,0 +1,240 @@
+[
+{
+"content_id": "5120",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5120: Solomon, character of",
+"media_type": "Text",
+"index_reference": "5120: solomon, character of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Solomon was a man of outstanding gifts and abilities. Initially he was approved by God, but the latter years of his reign were marred by idolatry and apostasy.</p>\n<h2>Solomon's abilities</h2>\n<h3>Wisdom</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs4:29\">1KI 4:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs3:7-1Kgs3:12\">1KI 3:7–3:12</a> parallel <a href=\"https://ref.ly/2Chr1:8-2Chr1:12\">2CH 1:8–1:12</a>; <a href=\"https://ref.ly/1Kgs3:16-1Kgs3:28\">1KI 3:16–3:28</a>, <a href=\"https://ref.ly/1Kgs10:6-1Kgs10:7\">1KI 10:6–10:7</a> parallel <a href=\"https://ref.ly/2Chr9:5-2Chr9:6\">2CH 9:5–9:6</a>; <a href=\"https://ref.ly/Matt12:42\">MAT 12:42</a></p>\n<h3>Political shrewdness</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs3:1\">1KI 3:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs4:21\">1KI 4:21</a>, <a href=\"https://ref.ly/1Kgs10:13\">1KI 10:13</a></p>\n<h3>Dealing with individuals</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs2:35\">1KI 2:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs2:24\">1KI 2:24</a>, <a href=\"https://ref.ly/1Kgs2:27\">1KI 2:27</a></p>\n<h3>Poetry and writing</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs4:32\">1KI 4:32</a></strong> <em>See also</em> PSA 72:0, PSA 127:0; <a href=\"https://ref.ly/Prov1:1\">PRO 1:1</a>, <a href=\"https://ref.ly/Prov10:1\">PRO 10:1</a>, <a href=\"https://ref.ly/Prov25:1\">PRO 25:1</a></p>\n<h2>Solomon's righteousness</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs8:62-1Kgs8:63\">1KI 8:62–8:63</a></strong> parallel <a href=\"https://ref.ly/2Chr7:4-2Chr7:5\">2CH 7:4–7:5</a> <em>See also</em> <a href=\"https://ref.ly/1Kgs3:6-1Kgs3:15\">1KI 3:6–3:15</a>, <a href=\"https://ref.ly/1Kgs8:54-1Kgs8:61\">1KI 8:54–8:61</a>, <a href=\"https://ref.ly/1Kgs8:65-1Kgs8:66\">1KI 8:65–8:66</a></p>\n<h2>Solomon's sin</h2>\n<p><strong><a href=\"https://ref.ly/Neh13:26\">NEH 13:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut17:16-Deut17:17\">DEU 17:16–17:17</a>; <a href=\"https://ref.ly/1Kgs10:26\">1KI 10:26</a>, <a href=\"https://ref.ly/1Kgs10:28\">1KI 10:28</a>, <a href=\"https://ref.ly/1Kgs11:1\">1KI 11:1</a>, <a href=\"https://ref.ly/1Kgs11:4\">1KI 11:4</a>, <a href=\"https://ref.ly/1Kgs11:9-1Kgs11:13\">1KI 11:9–11:13</a></p>\n<h2>Solomon's splendour was renowned</h2>\n<p><strong><a href=\"https://ref.ly/Matt6:29\">MAT 6:29</a></strong> parallel <a href=\"https://ref.ly/Luke12:27\">LUK 12:27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11004029",
+"start_ref_usfm": "1KI 4:29",
+"end_ref": "11004029",
+"end_ref_usfm": "1KI 4:29"
+},
+{
+"start_ref": "11003007",
+"start_ref_usfm": "1KI 3:7",
+"end_ref": "11003012",
+"end_ref_usfm": "1KI 3:12"
+},
+{
+"start_ref": "14001008",
+"start_ref_usfm": "2CH 1:8",
+"end_ref": "14001012",
+"end_ref_usfm": "2CH 1:12"
+},
+{
+"start_ref": "11003016",
+"start_ref_usfm": "1KI 3:16",
+"end_ref": "11003028",
+"end_ref_usfm": "1KI 3:28"
+},
+{
+"start_ref": "11010006",
+"start_ref_usfm": "1KI 10:6",
+"end_ref": "11010007",
+"end_ref_usfm": "1KI 10:7"
+},
+{
+"start_ref": "14009005",
+"start_ref_usfm": "2CH 9:5",
+"end_ref": "14009006",
+"end_ref_usfm": "2CH 9:6"
+},
+{
+"start_ref": "40012042",
+"start_ref_usfm": "MAT 12:42",
+"end_ref": "40012042",
+"end_ref_usfm": "MAT 12:42"
+},
+{
+"start_ref": "11003001",
+"start_ref_usfm": "1KI 3:1",
+"end_ref": "11003001",
+"end_ref_usfm": "1KI 3:1"
+},
+{
+"start_ref": "11004021",
+"start_ref_usfm": "1KI 4:21",
+"end_ref": "11004021",
+"end_ref_usfm": "1KI 4:21"
+},
+{
+"start_ref": "11010013",
+"start_ref_usfm": "1KI 10:13",
+"end_ref": "11010013",
+"end_ref_usfm": "1KI 10:13"
+},
+{
+"start_ref": "11002035",
+"start_ref_usfm": "1KI 2:35",
+"end_ref": "11002035",
+"end_ref_usfm": "1KI 2:35"
+},
+{
+"start_ref": "11002024",
+"start_ref_usfm": "1KI 2:24",
+"end_ref": "11002024",
+"end_ref_usfm": "1KI 2:24"
+},
+{
+"start_ref": "11002027",
+"start_ref_usfm": "1KI 2:27",
+"end_ref": "11002027",
+"end_ref_usfm": "1KI 2:27"
+},
+{
+"start_ref": "11004032",
+"start_ref_usfm": "1KI 4:32",
+"end_ref": "11004032",
+"end_ref_usfm": "1KI 4:32"
+},
+{
+"start_ref": "20001001",
+"start_ref_usfm": "PRO 1:1",
+"end_ref": "20001001",
+"end_ref_usfm": "PRO 1:1"
+},
+{
+"start_ref": "20010001",
+"start_ref_usfm": "PRO 10:1",
+"end_ref": "20010001",
+"end_ref_usfm": "PRO 10:1"
+},
+{
+"start_ref": "20025001",
+"start_ref_usfm": "PRO 25:1",
+"end_ref": "20025001",
+"end_ref_usfm": "PRO 25:1"
+},
+{
+"start_ref": "11008062",
+"start_ref_usfm": "1KI 8:62",
+"end_ref": "11008063",
+"end_ref_usfm": "1KI 8:63"
+},
+{
+"start_ref": "14007004",
+"start_ref_usfm": "2CH 7:4",
+"end_ref": "14007005",
+"end_ref_usfm": "2CH 7:5"
+},
+{
+"start_ref": "11003006",
+"start_ref_usfm": "1KI 3:6",
+"end_ref": "11003015",
+"end_ref_usfm": "1KI 3:15"
+},
+{
+"start_ref": "11008054",
+"start_ref_usfm": "1KI 8:54",
+"end_ref": "11008061",
+"end_ref_usfm": "1KI 8:61"
+},
+{
+"start_ref": "11008065",
+"start_ref_usfm": "1KI 8:65",
+"end_ref": "11008066",
+"end_ref_usfm": "1KI 8:66"
+},
+{
+"start_ref": "16013026",
+"start_ref_usfm": "NEH 13:26",
+"end_ref": "16013026",
+"end_ref_usfm": "NEH 13:26"
+},
+{
+"start_ref": "05017016",
+"start_ref_usfm": "DEU 17:16",
+"end_ref": "05017017",
+"end_ref_usfm": "DEU 17:17"
+},
+{
+"start_ref": "11010026",
+"start_ref_usfm": "1KI 10:26",
+"end_ref": "11010026",
+"end_ref_usfm": "1KI 10:26"
+},
+{
+"start_ref": "11010028",
+"start_ref_usfm": "1KI 10:28",
+"end_ref": "11010028",
+"end_ref_usfm": "1KI 10:28"
+},
+{
+"start_ref": "11011001",
+"start_ref_usfm": "1KI 11:1",
+"end_ref": "11011001",
+"end_ref_usfm": "1KI 11:1"
+},
+{
+"start_ref": "11011004",
+"start_ref_usfm": "1KI 11:4",
+"end_ref": "11011004",
+"end_ref_usfm": "1KI 11:4"
+},
+{
+"start_ref": "11011009",
+"start_ref_usfm": "1KI 11:9",
+"end_ref": "11011013",
+"end_ref_usfm": "1KI 11:13"
+},
+{
+"start_ref": "40006029",
+"start_ref_usfm": "MAT 6:29",
+"end_ref": "40006029",
+"end_ref_usfm": "MAT 6:29"
+},
+{
+"start_ref": "42012027",
+"start_ref_usfm": "LUK 12:27",
+"end_ref": "42012027",
+"end_ref_usfm": "LUK 12:27"
+}
+],
+"resource": [
+{
+"reference_id": "5205",
+"content_id": "5205",
+"resource_code": "DictionaryBibleThemes",
+"label": "5205: alliance",
+"language": "eng"
+},
+{
+"reference_id": "5732",
+"content_id": "5732",
+"resource_code": "DictionaryBibleThemes",
+"label": "5732: polygamy",
+"language": "eng"
+},
+{
+"reference_id": "8361",
+"content_id": "8361",
+"resource_code": "DictionaryBibleThemes",
+"label": "8361: wisdom",
+"language": "eng"
+},
+{
+"reference_id": "8704",
+"content_id": "8704",
+"resource_code": "DictionaryBibleThemes",
+"label": "8704: apostasy",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+}
+]
+}
+}
+]

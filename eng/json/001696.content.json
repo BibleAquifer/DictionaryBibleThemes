@@ -1,0 +1,32 @@
+[
+{
+"content_id": "6754",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6754: union with Christ",
+"media_type": "Text",
+"index_reference": "6754: union with christ",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The sharing of believers in the life of Jesus Christ by faith, allowing them to share in all the benefits and riches that result from his person and work.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6755",
+"content_id": "6755",
+"resource_code": "DictionaryBibleThemes",
+"label": "6755: union with Christ, nature of",
+"language": "eng"
+},
+{
+"reference_id": "6756",
+"content_id": "6756",
+"resource_code": "DictionaryBibleThemes",
+"label": "6756: union with Christ, significance of",
+"language": "eng"
+}
+]
+}
+}
+]

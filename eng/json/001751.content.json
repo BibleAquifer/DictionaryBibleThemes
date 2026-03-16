@@ -1,0 +1,32 @@
+[
+{
+"content_id": "7257",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7257: promised land, the",
+"media_type": "Text",
+"index_reference": "7257: promised land, the",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The territory of the Canaanite nations given by God to Abraham and his descendants as part of his covenant with them.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7258",
+"content_id": "7258",
+"resource_code": "DictionaryBibleThemes",
+"label": "7258: promised land, early history of",
+"language": "eng"
+},
+{
+"reference_id": "7259",
+"content_id": "7259",
+"resource_code": "DictionaryBibleThemes",
+"label": "7259: promised land, later history of",
+"language": "eng"
+}
+]
+}
+}
+]

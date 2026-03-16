@@ -1,0 +1,53 @@
+[
+{
+"content_id": "5012",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5012: heart",
+"media_type": "Text",
+"index_reference": "5012: heart",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A vital bodily organ. The term is used in Scripture of the inner life of God or a person. The entire inner person, though fallen, may be changed by the Holy Spirit, in which case it should show evidence of renewal.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5013",
+"content_id": "5013",
+"resource_code": "DictionaryBibleThemes",
+"label": "5013: heart, divine",
+"language": "eng"
+},
+{
+"reference_id": "5014",
+"content_id": "5014",
+"resource_code": "DictionaryBibleThemes",
+"label": "5014: heart, human",
+"language": "eng"
+},
+{
+"reference_id": "5015",
+"content_id": "5015",
+"resource_code": "DictionaryBibleThemes",
+"label": "5015: heart, and Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "5016",
+"content_id": "5016",
+"resource_code": "DictionaryBibleThemes",
+"label": "5016: heart, fallen and redeemed",
+"language": "eng"
+},
+{
+"reference_id": "5017",
+"content_id": "5017",
+"resource_code": "DictionaryBibleThemes",
+"label": "5017: heart, results of renewal in",
+"language": "eng"
+}
+]
+}
+}
+]

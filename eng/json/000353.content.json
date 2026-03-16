@@ -1,0 +1,235 @@
+[
+{
+"content_id": "4200",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4200: Places",
+"media_type": "Text",
+"index_reference": "4200: places",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"4203\" data-resourcetype=\"DictionaryOfBibleThemes\">4203: earth, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4206\" data-resourcetype=\"DictionaryOfBibleThemes\">4206: land</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4212\" data-resourcetype=\"DictionaryOfBibleThemes\">4212: astronomy</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4215\" data-resourcetype=\"DictionaryOfBibleThemes\">4215: Babylon</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4218\" data-resourcetype=\"DictionaryOfBibleThemes\">4218: cave</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4221\" data-resourcetype=\"DictionaryOfBibleThemes\">4221: cistern</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4224\" data-resourcetype=\"DictionaryOfBibleThemes\">4224: cities of the plain</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4227\" data-resourcetype=\"DictionaryOfBibleThemes\">4227: deep, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4230\" data-resourcetype=\"DictionaryOfBibleThemes\">4230: desert</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4233\" data-resourcetype=\"DictionaryOfBibleThemes\">4233: field of blood</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4236\" data-resourcetype=\"DictionaryOfBibleThemes\">4236: fountain</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4239\" data-resourcetype=\"DictionaryOfBibleThemes\">4239: garden</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4245\" data-resourcetype=\"DictionaryOfBibleThemes\">4245: hills</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4248\" data-resourcetype=\"DictionaryOfBibleThemes\">4248: islands</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4251\" data-resourcetype=\"DictionaryOfBibleThemes\">4251: moon</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4254\" data-resourcetype=\"DictionaryOfBibleThemes\">4254: mountains</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4257\" data-resourcetype=\"DictionaryOfBibleThemes\">4257: pit</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4260\" data-resourcetype=\"DictionaryOfBibleThemes\">4260: rivers and streams</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4263\" data-resourcetype=\"DictionaryOfBibleThemes\">4263: Rome</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4266\" data-resourcetype=\"DictionaryOfBibleThemes\">4266: sea</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4269\" data-resourcetype=\"DictionaryOfBibleThemes\">4269: Sinai, Mount</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4272\" data-resourcetype=\"DictionaryOfBibleThemes\">4272: sky</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4275\" data-resourcetype=\"DictionaryOfBibleThemes\">4275: Sodom and Gomorrah</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4278\" data-resourcetype=\"DictionaryOfBibleThemes\">4278: spring of water</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4281\" data-resourcetype=\"DictionaryOfBibleThemes\">4281: stars</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4284\" data-resourcetype=\"DictionaryOfBibleThemes\">4284: sun</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4287\" data-resourcetype=\"DictionaryOfBibleThemes\">4287: universe</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4290\" data-resourcetype=\"DictionaryOfBibleThemes\">4290: valleys</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4293\" data-resourcetype=\"DictionaryOfBibleThemes\">4293: water</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4296\" data-resourcetype=\"DictionaryOfBibleThemes\">4296: wells</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4299\" data-resourcetype=\"DictionaryOfBibleThemes\">4299: wilderness</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4203",
+"content_id": "4203",
+"resource_code": "DictionaryBibleThemes",
+"label": "4203: earth, the",
+"language": "eng"
+},
+{
+"reference_id": "4206",
+"content_id": "4206",
+"resource_code": "DictionaryBibleThemes",
+"label": "4206: land",
+"language": "eng"
+},
+{
+"reference_id": "4212",
+"content_id": "4212",
+"resource_code": "DictionaryBibleThemes",
+"label": "4212: astronomy",
+"language": "eng"
+},
+{
+"reference_id": "4215",
+"content_id": "4215",
+"resource_code": "DictionaryBibleThemes",
+"label": "4215: Babylon",
+"language": "eng"
+},
+{
+"reference_id": "4218",
+"content_id": "4218",
+"resource_code": "DictionaryBibleThemes",
+"label": "4218: cave",
+"language": "eng"
+},
+{
+"reference_id": "4221",
+"content_id": "4221",
+"resource_code": "DictionaryBibleThemes",
+"label": "4221: cistern",
+"language": "eng"
+},
+{
+"reference_id": "4224",
+"content_id": "4224",
+"resource_code": "DictionaryBibleThemes",
+"label": "4224: cities of the plain",
+"language": "eng"
+},
+{
+"reference_id": "4227",
+"content_id": "4227",
+"resource_code": "DictionaryBibleThemes",
+"label": "4227: deep, the",
+"language": "eng"
+},
+{
+"reference_id": "4230",
+"content_id": "4230",
+"resource_code": "DictionaryBibleThemes",
+"label": "4230: desert",
+"language": "eng"
+},
+{
+"reference_id": "4233",
+"content_id": "4233",
+"resource_code": "DictionaryBibleThemes",
+"label": "4233: field of blood",
+"language": "eng"
+},
+{
+"reference_id": "4236",
+"content_id": "4236",
+"resource_code": "DictionaryBibleThemes",
+"label": "4236: fountain",
+"language": "eng"
+},
+{
+"reference_id": "4239",
+"content_id": "4239",
+"resource_code": "DictionaryBibleThemes",
+"label": "4239: garden",
+"language": "eng"
+},
+{
+"reference_id": "4245",
+"content_id": "4245",
+"resource_code": "DictionaryBibleThemes",
+"label": "4245: hills",
+"language": "eng"
+},
+{
+"reference_id": "4248",
+"content_id": "4248",
+"resource_code": "DictionaryBibleThemes",
+"label": "4248: islands",
+"language": "eng"
+},
+{
+"reference_id": "4251",
+"content_id": "4251",
+"resource_code": "DictionaryBibleThemes",
+"label": "4251: moon",
+"language": "eng"
+},
+{
+"reference_id": "4254",
+"content_id": "4254",
+"resource_code": "DictionaryBibleThemes",
+"label": "4254: mountains",
+"language": "eng"
+},
+{
+"reference_id": "4257",
+"content_id": "4257",
+"resource_code": "DictionaryBibleThemes",
+"label": "4257: pit",
+"language": "eng"
+},
+{
+"reference_id": "4260",
+"content_id": "4260",
+"resource_code": "DictionaryBibleThemes",
+"label": "4260: rivers and streams",
+"language": "eng"
+},
+{
+"reference_id": "4263",
+"content_id": "4263",
+"resource_code": "DictionaryBibleThemes",
+"label": "4263: Rome",
+"language": "eng"
+},
+{
+"reference_id": "4266",
+"content_id": "4266",
+"resource_code": "DictionaryBibleThemes",
+"label": "4266: sea",
+"language": "eng"
+},
+{
+"reference_id": "4269",
+"content_id": "4269",
+"resource_code": "DictionaryBibleThemes",
+"label": "4269: Sinai, Mount",
+"language": "eng"
+},
+{
+"reference_id": "4272",
+"content_id": "4272",
+"resource_code": "DictionaryBibleThemes",
+"label": "4272: sky",
+"language": "eng"
+},
+{
+"reference_id": "4275",
+"content_id": "4275",
+"resource_code": "DictionaryBibleThemes",
+"label": "4275: Sodom and Gomorrah",
+"language": "eng"
+},
+{
+"reference_id": "4278",
+"content_id": "4278",
+"resource_code": "DictionaryBibleThemes",
+"label": "4278: spring of water",
+"language": "eng"
+},
+{
+"reference_id": "4281",
+"content_id": "4281",
+"resource_code": "DictionaryBibleThemes",
+"label": "4281: stars",
+"language": "eng"
+},
+{
+"reference_id": "4284",
+"content_id": "4284",
+"resource_code": "DictionaryBibleThemes",
+"label": "4284: sun",
+"language": "eng"
+},
+{
+"reference_id": "4287",
+"content_id": "4287",
+"resource_code": "DictionaryBibleThemes",
+"label": "4287: universe",
+"language": "eng"
+},
+{
+"reference_id": "4290",
+"content_id": "4290",
+"resource_code": "DictionaryBibleThemes",
+"label": "4290: valleys",
+"language": "eng"
+},
+{
+"reference_id": "4293",
+"content_id": "4293",
+"resource_code": "DictionaryBibleThemes",
+"label": "4293: water",
+"language": "eng"
+},
+{
+"reference_id": "4296",
+"content_id": "4296",
+"resource_code": "DictionaryBibleThemes",
+"label": "4296: wells",
+"language": "eng"
+},
+{
+"reference_id": "4299",
+"content_id": "4299",
+"resource_code": "DictionaryBibleThemes",
+"label": "4299: wilderness",
+"language": "eng"
+}
+]
+}
+}
+]

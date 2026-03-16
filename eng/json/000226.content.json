@@ -1,0 +1,204 @@
+[
+{
+"content_id": "2510",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "2510: Jesus Christ, baptism of",
+"media_type": "Text",
+"index_reference": "2510: jesus christ, baptism of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>In obedience to God's will Jesus Christ was baptised in the River Jordan by John. The event was sealed by the descent of the Holy Spirit and the Father's voice of approval.</p>\n<h2>John tries to prevent Jesus Christ from being baptised</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:13-Matt3:14\">MAT 3:13–3:14</a></strong> <em>John was baptising repentant sinners but he knew that Jesus Christ was sinless.</em></p>\n<h2>The necessity of Jesus Christ's baptism</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:15\">MAT 3:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark10:38\">MRK 10:38</a>; <a href=\"https://ref.ly/Luke12:50\">LUK 12:50</a></p>\n<h2>The events surrounding Jesus Christ's baptism</h2>\n<h3>The baptism itself</h3>\n<p><strong><a href=\"https://ref.ly/Mark1:9\">MRK 1:9</a></strong> parallels <a href=\"https://ref.ly/Matt3:13\">MAT 3:13</a>, <a href=\"https://ref.ly/Luke3:21\">LUK 3:21</a></p>\n<h3>Jesus Christ prays while being baptised</h3>\n<p><strong><a href=\"https://ref.ly/Luke3:21\">LUK 3:21</a></strong></p>\n<h3>The Holy Spirit descends on Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Mark1:10\">MRK 1:10</a></strong> parallels <a href=\"https://ref.ly/Matt3:16\">MAT 3:16</a>, <a href=\"https://ref.ly/Luke3:22\">LUK 3:22</a> <em>The Holy Spirit came upon Jesus Christ to equip him for his ministry which was about to begin and to give him strength at a time of temptation.</em> <em>See also</em> <a href=\"https://ref.ly/John1:32-John1:34\">JHN 1:32–1:34</a></p>\n<h3>The voice of the Father is heard</h3>\n<p><strong><a href=\"https://ref.ly/Matt3:17\">MAT 3:17</a></strong> parallels <a href=\"https://ref.ly/Mark1:11\">MRK 1:11</a>, <a href=\"https://ref.ly/Luke3:22\">LUK 3:22</a> <em>These words, which are an allusion to <a href=\"https://ref.ly/Ps2:7\">Ps 2:7</a> and <a href=\"https://ref.ly/Isa42:1\">Isa 42:1</a>, were repeated at the transfiguration.</em> <em>See also</em> <a href=\"https://ref.ly/Matt17:5\">MAT 17:5</a> parallels <a href=\"https://ref.ly/Mark9:7\">MRK 9:7</a>, <a href=\"https://ref.ly/Luke9:35\">LUK 9:35</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40003013",
+"start_ref_usfm": "MAT 3:13",
+"end_ref": "40003014",
+"end_ref_usfm": "MAT 3:14"
+},
+{
+"start_ref": "40003015",
+"start_ref_usfm": "MAT 3:15",
+"end_ref": "40003015",
+"end_ref_usfm": "MAT 3:15"
+},
+{
+"start_ref": "41010038",
+"start_ref_usfm": "MRK 10:38",
+"end_ref": "41010038",
+"end_ref_usfm": "MRK 10:38"
+},
+{
+"start_ref": "42012050",
+"start_ref_usfm": "LUK 12:50",
+"end_ref": "42012050",
+"end_ref_usfm": "LUK 12:50"
+},
+{
+"start_ref": "41001009",
+"start_ref_usfm": "MRK 1:9",
+"end_ref": "41001009",
+"end_ref_usfm": "MRK 1:9"
+},
+{
+"start_ref": "40003013",
+"start_ref_usfm": "MAT 3:13",
+"end_ref": "40003013",
+"end_ref_usfm": "MAT 3:13"
+},
+{
+"start_ref": "42003021",
+"start_ref_usfm": "LUK 3:21",
+"end_ref": "42003021",
+"end_ref_usfm": "LUK 3:21"
+},
+{
+"start_ref": "41001010",
+"start_ref_usfm": "MRK 1:10",
+"end_ref": "41001010",
+"end_ref_usfm": "MRK 1:10"
+},
+{
+"start_ref": "40003016",
+"start_ref_usfm": "MAT 3:16",
+"end_ref": "40003016",
+"end_ref_usfm": "MAT 3:16"
+},
+{
+"start_ref": "42003022",
+"start_ref_usfm": "LUK 3:22",
+"end_ref": "42003022",
+"end_ref_usfm": "LUK 3:22"
+},
+{
+"start_ref": "43001032",
+"start_ref_usfm": "JHN 1:32",
+"end_ref": "43001034",
+"end_ref_usfm": "JHN 1:34"
+},
+{
+"start_ref": "40003017",
+"start_ref_usfm": "MAT 3:17",
+"end_ref": "40003017",
+"end_ref_usfm": "MAT 3:17"
+},
+{
+"start_ref": "41001011",
+"start_ref_usfm": "MRK 1:11",
+"end_ref": "41001011",
+"end_ref_usfm": "MRK 1:11"
+},
+{
+"start_ref": "19002007",
+"start_ref_usfm": "PSA 2:7",
+"end_ref": "19002007",
+"end_ref_usfm": "PSA 2:7"
+},
+{
+"start_ref": "23042001",
+"start_ref_usfm": "ISA 42:1",
+"end_ref": "23042001",
+"end_ref_usfm": "ISA 42:1"
+},
+{
+"start_ref": "40017005",
+"start_ref_usfm": "MAT 17:5",
+"end_ref": "40017005",
+"end_ref_usfm": "MAT 17:5"
+},
+{
+"start_ref": "41009007",
+"start_ref_usfm": "MRK 9:7",
+"end_ref": "41009007",
+"end_ref_usfm": "MRK 9:7"
+},
+{
+"start_ref": "42009035",
+"start_ref_usfm": "LUK 9:35",
+"end_ref": "42009035",
+"end_ref_usfm": "LUK 9:35"
+}
+],
+"resource": [
+{
+"reference_id": "1040",
+"content_id": "1040",
+"resource_code": "DictionaryBibleThemes",
+"label": "1040: God, fatherhood of",
+"language": "eng"
+},
+{
+"reference_id": "1510",
+"content_id": "1510",
+"resource_code": "DictionaryBibleThemes",
+"label": "1510: Trinity, the",
+"language": "eng"
+},
+{
+"reference_id": "2057",
+"content_id": "2057",
+"resource_code": "DictionaryBibleThemes",
+"label": "2057: Jesus Christ, obedience of",
+"language": "eng"
+},
+{
+"reference_id": "2075",
+"content_id": "2075",
+"resource_code": "DictionaryBibleThemes",
+"label": "2075: Jesus Christ, sinlessness of",
+"language": "eng"
+},
+{
+"reference_id": "2078",
+"content_id": "2078",
+"resource_code": "DictionaryBibleThemes",
+"label": "2078: Jesus Christ, sonship of",
+"language": "eng"
+},
+{
+"reference_id": "2360",
+"content_id": "2360",
+"resource_code": "DictionaryBibleThemes",
+"label": "2360: Jesus Christ, prayers of",
+"language": "eng"
+},
+{
+"reference_id": "2575",
+"content_id": "2575",
+"resource_code": "DictionaryBibleThemes",
+"label": "2575: Jesus Christ, temptation of",
+"language": "eng"
+},
+{
+"reference_id": "3269",
+"content_id": "3269",
+"resource_code": "DictionaryBibleThemes",
+"label": "3269: Holy Spirit, in life of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "5196",
+"content_id": "5196",
+"resource_code": "DictionaryBibleThemes",
+"label": "5196: voice",
+"language": "eng"
+},
+{
+"reference_id": "6752",
+"content_id": "6752",
+"resource_code": "DictionaryBibleThemes",
+"label": "6752: substitution",
+"language": "eng"
+},
+{
+"reference_id": "7903",
+"content_id": "7903",
+"resource_code": "DictionaryBibleThemes",
+"label": "7903: baptism",
+"language": "eng"
+}
+]
+}
+}
+]

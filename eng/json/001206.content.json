@@ -1,0 +1,259 @@
+[
+{
+"content_id": "5659",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5659: bride",
+"media_type": "Text",
+"index_reference": "5659: bride",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A woman who is about to be married or who has just got married. In the NT the church is described as the bride of Christ.</p>\n<h2>Jewels and ornaments worn by a bride at her wedding</h2>\n<p><strong><a href=\"https://ref.ly/Isa61:10\">ISA 61:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps45:9\">PSA 45:9</a>, <a href=\"https://ref.ly/Ps45:14\">PSA 45:14</a>; <a href=\"https://ref.ly/Song4:9\">SNG 4:9</a>; <a href=\"https://ref.ly/Isa49:18\">ISA 49:18</a>; <a href=\"https://ref.ly/Jer2:32\">JER 2:32</a></p>\n<h2>Joy and happiness associated with a bride</h2>\n<p><strong><a href=\"https://ref.ly/Jer33:10-Jer33:11\">JER 33:10–33:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer7:34\">JER 7:34</a>, <a href=\"https://ref.ly/Jer16:9\">JER 16:9</a>, <a href=\"https://ref.ly/Jer25:10\">JER 25:10</a>; <a href=\"https://ref.ly/Rev18:23\">REV 18:23</a></p>\n<h2>The bride as the object of the bridegroom's love and affection</h2>\n<p><strong><a href=\"https://ref.ly/Isa62:5\">ISA 62:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song4:8-Song4:15\">SNG 4:8–4:15</a>, <a href=\"https://ref.ly/Song5:1\">SNG 5:1</a></p>\n<h2>The bridegroom as the object of the bride's love and affection</h2>\n<p><strong><a href=\"https://ref.ly/Jer2:2-Jer2:3\">JER 2:2–2:3</a></strong></p>\n<h2>Exemptions for a newly married bride</h2>\n<p><strong><a href=\"https://ref.ly/Joel2:16\">JOL 2:16</a></strong> <em>A newly married bride would normally be excused from certain civic and religious duties.</em> <em>See also</em> <a href=\"https://ref.ly/Deut24:5\">DEU 24:5</a></p>\n<h2>The bride price</h2>\n<p><strong><a href=\"https://ref.ly/Gen34:11-Gen34:12\">GEN 34:11–34:12</a></strong> <em>A bridegroom was required to pay a bride-price to the father of his bride.</em> <em>See also</em> <a href=\"https://ref.ly/Gen29:18-Gen29:30\">GEN 29:18–29:30</a>; <a href=\"https://ref.ly/1Sam18:20-1Sam18:27\">1SA 18:20–18:27</a></p>\n<h2>Proof of a bride's virginity was required in certain circumstances</h2>\n<p><a href=\"https://ref.ly/Deut22:13-Deut22:21\">DEU 22:13–22:21</a></p>\n<h2>The church depicted as the bride of Christ</h2>\n<p><strong><a href=\"https://ref.ly/Eph5:25-Eph5:27\">EPH 5:25–5:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev19:7-Rev19:9\">REV 19:7–19:9</a>, <a href=\"https://ref.ly/Rev21:1-Rev21:2\">REV 21:1–21:2</a>, <a href=\"https://ref.ly/Rev21:9-Rev21:27\">REV 21:9–21:27</a>, <a href=\"https://ref.ly/Rev22:17\">REV 22:17</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23061010",
+"start_ref_usfm": "ISA 61:10",
+"end_ref": "23061010",
+"end_ref_usfm": "ISA 61:10"
+},
+{
+"start_ref": "19045009",
+"start_ref_usfm": "PSA 45:9",
+"end_ref": "19045009",
+"end_ref_usfm": "PSA 45:9"
+},
+{
+"start_ref": "19045014",
+"start_ref_usfm": "PSA 45:14",
+"end_ref": "19045014",
+"end_ref_usfm": "PSA 45:14"
+},
+{
+"start_ref": "22004009",
+"start_ref_usfm": "SNG 4:9",
+"end_ref": "22004009",
+"end_ref_usfm": "SNG 4:9"
+},
+{
+"start_ref": "23049018",
+"start_ref_usfm": "ISA 49:18",
+"end_ref": "23049018",
+"end_ref_usfm": "ISA 49:18"
+},
+{
+"start_ref": "24002032",
+"start_ref_usfm": "JER 2:32",
+"end_ref": "24002032",
+"end_ref_usfm": "JER 2:32"
+},
+{
+"start_ref": "24033010",
+"start_ref_usfm": "JER 33:10",
+"end_ref": "24033011",
+"end_ref_usfm": "JER 33:11"
+},
+{
+"start_ref": "24007034",
+"start_ref_usfm": "JER 7:34",
+"end_ref": "24007034",
+"end_ref_usfm": "JER 7:34"
+},
+{
+"start_ref": "24016009",
+"start_ref_usfm": "JER 16:9",
+"end_ref": "24016009",
+"end_ref_usfm": "JER 16:9"
+},
+{
+"start_ref": "24025010",
+"start_ref_usfm": "JER 25:10",
+"end_ref": "24025010",
+"end_ref_usfm": "JER 25:10"
+},
+{
+"start_ref": "66018023",
+"start_ref_usfm": "REV 18:23",
+"end_ref": "66018023",
+"end_ref_usfm": "REV 18:23"
+},
+{
+"start_ref": "23062005",
+"start_ref_usfm": "ISA 62:5",
+"end_ref": "23062005",
+"end_ref_usfm": "ISA 62:5"
+},
+{
+"start_ref": "22004008",
+"start_ref_usfm": "SNG 4:8",
+"end_ref": "22004015",
+"end_ref_usfm": "SNG 4:15"
+},
+{
+"start_ref": "22005001",
+"start_ref_usfm": "SNG 5:1",
+"end_ref": "22005001",
+"end_ref_usfm": "SNG 5:1"
+},
+{
+"start_ref": "24002002",
+"start_ref_usfm": "JER 2:2",
+"end_ref": "24002003",
+"end_ref_usfm": "JER 2:3"
+},
+{
+"start_ref": "29002016",
+"start_ref_usfm": "JOL 2:16",
+"end_ref": "29002016",
+"end_ref_usfm": "JOL 2:16"
+},
+{
+"start_ref": "05024005",
+"start_ref_usfm": "DEU 24:5",
+"end_ref": "05024005",
+"end_ref_usfm": "DEU 24:5"
+},
+{
+"start_ref": "01034011",
+"start_ref_usfm": "GEN 34:11",
+"end_ref": "01034012",
+"end_ref_usfm": "GEN 34:12"
+},
+{
+"start_ref": "01029018",
+"start_ref_usfm": "GEN 29:18",
+"end_ref": "01029030",
+"end_ref_usfm": "GEN 29:30"
+},
+{
+"start_ref": "09018020",
+"start_ref_usfm": "1SA 18:20",
+"end_ref": "09018027",
+"end_ref_usfm": "1SA 18:27"
+},
+{
+"start_ref": "05022013",
+"start_ref_usfm": "DEU 22:13",
+"end_ref": "05022021",
+"end_ref_usfm": "DEU 22:21"
+},
+{
+"start_ref": "49005025",
+"start_ref_usfm": "EPH 5:25",
+"end_ref": "49005027",
+"end_ref_usfm": "EPH 5:27"
+},
+{
+"start_ref": "66019007",
+"start_ref_usfm": "REV 19:7",
+"end_ref": "66019009",
+"end_ref_usfm": "REV 19:9"
+},
+{
+"start_ref": "66021001",
+"start_ref_usfm": "REV 21:1",
+"end_ref": "66021002",
+"end_ref_usfm": "REV 21:2"
+},
+{
+"start_ref": "66021009",
+"start_ref_usfm": "REV 21:9",
+"end_ref": "66021027",
+"end_ref_usfm": "REV 21:27"
+},
+{
+"start_ref": "66022017",
+"start_ref_usfm": "REV 22:17",
+"end_ref": "66022017",
+"end_ref_usfm": "REV 22:17"
+}
+],
+"resource": [
+{
+"reference_id": "4342",
+"content_id": "4342",
+"resource_code": "DictionaryBibleThemes",
+"label": "4342: jewels",
+"language": "eng"
+},
+{
+"reference_id": "5660",
+"content_id": "5660",
+"resource_code": "DictionaryBibleThemes",
+"label": "5660: bridegroom",
+"language": "eng"
+},
+{
+"reference_id": "5679",
+"content_id": "5679",
+"resource_code": "DictionaryBibleThemes",
+"label": "5679: dowry",
+"language": "eng"
+},
+{
+"reference_id": "5702",
+"content_id": "5702",
+"resource_code": "DictionaryBibleThemes",
+"label": "5702: husband",
+"language": "eng"
+},
+{
+"reference_id": "5708",
+"content_id": "5708",
+"resource_code": "DictionaryBibleThemes",
+"label": "5708: marriage",
+"language": "eng"
+},
+{
+"reference_id": "5740",
+"content_id": "5740",
+"resource_code": "DictionaryBibleThemes",
+"label": "5740: virgin",
+"language": "eng"
+},
+{
+"reference_id": "5742",
+"content_id": "5742",
+"resource_code": "DictionaryBibleThemes",
+"label": "5742: wedding",
+"language": "eng"
+},
+{
+"reference_id": "5744",
+"content_id": "5744",
+"resource_code": "DictionaryBibleThemes",
+"label": "5744: wife",
+"language": "eng"
+},
+{
+"reference_id": "7024",
+"content_id": "7024",
+"resource_code": "DictionaryBibleThemes",
+"label": "7024: church, nature and foundations of",
+"language": "eng"
+},
+{
+"reference_id": "7241",
+"content_id": "7241",
+"resource_code": "DictionaryBibleThemes",
+"label": "7241: Jerusalem, significance of",
+"language": "eng"
+},
+{
+"reference_id": "8283",
+"content_id": "8283",
+"resource_code": "DictionaryBibleThemes",
+"label": "8283: joy",
+"language": "eng"
+},
+{
+"reference_id": "8292",
+"content_id": "8292",
+"resource_code": "DictionaryBibleThemes",
+"label": "8292: love",
+"language": "eng"
+}
+]
+}
+}
+]

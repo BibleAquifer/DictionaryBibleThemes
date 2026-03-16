@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5475",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5475: property",
+"media_type": "Text",
+"index_reference": "5475: property",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The ultimate source of all property is God. While property is entrusted to human beings, they have responsibilities towards God as a result of their stewardship.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5476",
+"content_id": "5476",
+"resource_code": "DictionaryBibleThemes",
+"label": "5476: property, nature of",
+"language": "eng"
+},
+{
+"reference_id": "5477",
+"content_id": "5477",
+"resource_code": "DictionaryBibleThemes",
+"label": "5477: property, land",
+"language": "eng"
+},
+{
+"reference_id": "5478",
+"content_id": "5478",
+"resource_code": "DictionaryBibleThemes",
+"label": "5478: property, houses",
+"language": "eng"
+}
+]
+}
+}
+]

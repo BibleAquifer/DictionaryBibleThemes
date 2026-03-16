@@ -1,0 +1,166 @@
+[
+{
+"content_id": "8146",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8146: renewal, of natural order",
+"media_type": "Text",
+"index_reference": "8146: renewal, of natural order",
+"language": "eng",
+"review_level": "None",
+"content": "<p>God's transformation of the natural order is part of his plan of redeeming the whole universe as well as humanity.</p>\n<h2>Cosmic renewal</h2>\n<p><strong><a href=\"https://ref.ly/Rev21:1\">REV 21:1</a></strong>; <strong><a href=\"https://ref.ly/Rom8:19-Rom8:21\">ROM 8:19–8:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa65:17\">ISA 65:17</a>, <a href=\"https://ref.ly/Isa66:22\">ISA 66:22</a>; <a href=\"https://ref.ly/Matt19:28\">MAT 19:28</a>; <a href=\"https://ref.ly/2Pet3:10-2Pet3:13\">2PE 3:10–3:13</a>; <a href=\"https://ref.ly/Rev21:5\">REV 21:5</a></p>\n<h2>The renewal of nature</h2>\n<p><strong><a href=\"https://ref.ly/Isa11:6-Isa11:9\">ISA 11:6–11:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps104:30\">PSA 104:30</a>; <a href=\"https://ref.ly/Isa35:1-Isa35:2\">ISA 35:1–35:2</a>, <a href=\"https://ref.ly/Isa35:5-Isa35:7\">ISA 35:5–35:7</a>, <a href=\"https://ref.ly/Isa43:18-Isa43:21\">ISA 43:18–43:21</a>, <a href=\"https://ref.ly/Isa65:25\">ISA 65:25</a>; <a href=\"https://ref.ly/Ezek34:25-Ezek34:27\">EZK 34:25–34:27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "66021001",
+"start_ref_usfm": "REV 21:1",
+"end_ref": "66021001",
+"end_ref_usfm": "REV 21:1"
+},
+{
+"start_ref": "45008019",
+"start_ref_usfm": "ROM 8:19",
+"end_ref": "45008021",
+"end_ref_usfm": "ROM 8:21"
+},
+{
+"start_ref": "23065017",
+"start_ref_usfm": "ISA 65:17",
+"end_ref": "23065017",
+"end_ref_usfm": "ISA 65:17"
+},
+{
+"start_ref": "23066022",
+"start_ref_usfm": "ISA 66:22",
+"end_ref": "23066022",
+"end_ref_usfm": "ISA 66:22"
+},
+{
+"start_ref": "40019028",
+"start_ref_usfm": "MAT 19:28",
+"end_ref": "40019028",
+"end_ref_usfm": "MAT 19:28"
+},
+{
+"start_ref": "61003010",
+"start_ref_usfm": "2PE 3:10",
+"end_ref": "61003013",
+"end_ref_usfm": "2PE 3:13"
+},
+{
+"start_ref": "66021005",
+"start_ref_usfm": "REV 21:5",
+"end_ref": "66021005",
+"end_ref_usfm": "REV 21:5"
+},
+{
+"start_ref": "23011006",
+"start_ref_usfm": "ISA 11:6",
+"end_ref": "23011009",
+"end_ref_usfm": "ISA 11:9"
+},
+{
+"start_ref": "19104030",
+"start_ref_usfm": "PSA 104:30",
+"end_ref": "19104030",
+"end_ref_usfm": "PSA 104:30"
+},
+{
+"start_ref": "23035001",
+"start_ref_usfm": "ISA 35:1",
+"end_ref": "23035002",
+"end_ref_usfm": "ISA 35:2"
+},
+{
+"start_ref": "23035005",
+"start_ref_usfm": "ISA 35:5",
+"end_ref": "23035007",
+"end_ref_usfm": "ISA 35:7"
+},
+{
+"start_ref": "23043018",
+"start_ref_usfm": "ISA 43:18",
+"end_ref": "23043021",
+"end_ref_usfm": "ISA 43:21"
+},
+{
+"start_ref": "23065025",
+"start_ref_usfm": "ISA 65:25",
+"end_ref": "23065025",
+"end_ref_usfm": "ISA 65:25"
+},
+{
+"start_ref": "26034025",
+"start_ref_usfm": "EZK 34:25",
+"end_ref": "26034027",
+"end_ref_usfm": "EZK 34:27"
+}
+],
+"resource": [
+{
+"reference_id": "1325",
+"content_id": "1325",
+"resource_code": "DictionaryBibleThemes",
+"label": "1325: God, the Creator",
+"language": "eng"
+},
+{
+"reference_id": "4010",
+"content_id": "4010",
+"resource_code": "DictionaryBibleThemes",
+"label": "4010: creation, renewal of",
+"language": "eng"
+},
+{
+"reference_id": "4028",
+"content_id": "4028",
+"resource_code": "DictionaryBibleThemes",
+"label": "4028: world, as redeemed",
+"language": "eng"
+},
+{
+"reference_id": "4060",
+"content_id": "4060",
+"resource_code": "DictionaryBibleThemes",
+"label": "4060: nature",
+"language": "eng"
+},
+{
+"reference_id": "4287",
+"content_id": "4287",
+"resource_code": "DictionaryBibleThemes",
+"label": "4287: universe",
+"language": "eng"
+},
+{
+"reference_id": "5977",
+"content_id": "5977",
+"resource_code": "DictionaryBibleThemes",
+"label": "5977: waiting",
+"language": "eng"
+},
+{
+"reference_id": "6698",
+"content_id": "6698",
+"resource_code": "DictionaryBibleThemes",
+"label": "6698: newness",
+"language": "eng"
+},
+{
+"reference_id": "6720",
+"content_id": "6720",
+"resource_code": "DictionaryBibleThemes",
+"label": "6720: redemption",
+"language": "eng"
+},
+{
+"reference_id": "9160",
+"content_id": "9160",
+"resource_code": "DictionaryBibleThemes",
+"label": "9160: new heavens and new earth",
+"language": "eng"
+}
+]
+}
+}
+]

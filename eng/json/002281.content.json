@@ -1,0 +1,217 @@
+[
+{
+"content_id": "8603",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8603: prayer, as a relationship with God",
+"media_type": "Text",
+"index_reference": "8603: prayer, as a relationship with god",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Prayer is based on God's love for believers. Through his grace, he gives them things which they do not deserve, while through his mercy he shields them from those things which they do deserve.</p>\n<h2>God's children can turn to their Father in prayer</h2>\n<h3>Under the old covenant</h3>\n<p><strong><a href=\"https://ref.ly/Isa64:8-Isa64:9\">ISA 64:8–64:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps103:13-Ps103:14\">PSA 103:13–103:14</a>; <a href=\"https://ref.ly/Isa63:16\">ISA 63:16</a></p>\n<h3>Under the new covenant</h3>\n<p><strong><a href=\"https://ref.ly/Matt6:9-Matt6:13\">MAT 6:9–6:13</a></strong> parallel <a href=\"https://ref.ly/Luke11:2-Luke11:4\">LUK 11:2–11:4</a> <em>See also</em> <a href=\"https://ref.ly/Matt6:6\">MAT 6:6</a>, <a href=\"https://ref.ly/Matt7:7-Matt7:11\">MAT 7:7–7:11</a> parallel <a href=\"https://ref.ly/Luke11:9-Luke11:13\">LUK 11:9–11:13</a>; <a href=\"https://ref.ly/Rom8:15\">ROM 8:15</a>; <a href=\"https://ref.ly/Gal4:6\">GAL 4:6</a></p>\n<h3>Jesus Christ's prayer life with his Father</h3>\n<p><strong><a href=\"https://ref.ly/Mark14:36\">MRK 14:36</a></strong> parallels <a href=\"https://ref.ly/Matt26:39\">MAT 26:39</a>, <a href=\"https://ref.ly/Matt26:42\">MAT 26:42</a>, <a href=\"https://ref.ly/Luke22:42\">LUK 22:42</a> <em>See also</em> <a href=\"https://ref.ly/John17:1-John17:26\">JHN 17:1–17:26</a></p>\n<h2>It is possible to approach God in prayer because of Jesus Christ's sacrifice</h2>\n<p><strong><a href=\"https://ref.ly/Heb10:19-Heb10:22\">HEB 10:19–10:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph3:12\">EPH 3:12</a>; <a href=\"https://ref.ly/Heb7:15-Heb7:19\">HEB 7:15–7:19</a></p>\n<h2>Prayer reflects a longing after God</h2>\n<p><strong><a href=\"https://ref.ly/Ps42:1-Ps42:2\">PSA 42:1–42:2</a></strong>; <strong><a href=\"https://ref.ly/Jer29:12-Jer29:13\">JER 29:12–29:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps130:5-Ps130:6\">PSA 130:5–130:6</a>, <a href=\"https://ref.ly/Ps145:18-Ps145:19\">PSA 145:18–145:19</a>; <a href=\"https://ref.ly/Prov8:17\">PRO 8:17</a>; <a href=\"https://ref.ly/Isa26:9\">ISA 26:9</a>, <a href=\"https://ref.ly/Isa33:2\">ISA 33:2</a>; <a href=\"https://ref.ly/Lam3:25\">LAM 3:25</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23064008",
+"start_ref_usfm": "ISA 64:8",
+"end_ref": "23064009",
+"end_ref_usfm": "ISA 64:9"
+},
+{
+"start_ref": "19103013",
+"start_ref_usfm": "PSA 103:13",
+"end_ref": "19103014",
+"end_ref_usfm": "PSA 103:14"
+},
+{
+"start_ref": "23063016",
+"start_ref_usfm": "ISA 63:16",
+"end_ref": "23063016",
+"end_ref_usfm": "ISA 63:16"
+},
+{
+"start_ref": "40006009",
+"start_ref_usfm": "MAT 6:9",
+"end_ref": "40006013",
+"end_ref_usfm": "MAT 6:13"
+},
+{
+"start_ref": "42011002",
+"start_ref_usfm": "LUK 11:2",
+"end_ref": "42011004",
+"end_ref_usfm": "LUK 11:4"
+},
+{
+"start_ref": "40006006",
+"start_ref_usfm": "MAT 6:6",
+"end_ref": "40006006",
+"end_ref_usfm": "MAT 6:6"
+},
+{
+"start_ref": "40007007",
+"start_ref_usfm": "MAT 7:7",
+"end_ref": "40007011",
+"end_ref_usfm": "MAT 7:11"
+},
+{
+"start_ref": "42011009",
+"start_ref_usfm": "LUK 11:9",
+"end_ref": "42011013",
+"end_ref_usfm": "LUK 11:13"
+},
+{
+"start_ref": "45008015",
+"start_ref_usfm": "ROM 8:15",
+"end_ref": "45008015",
+"end_ref_usfm": "ROM 8:15"
+},
+{
+"start_ref": "48004006",
+"start_ref_usfm": "GAL 4:6",
+"end_ref": "48004006",
+"end_ref_usfm": "GAL 4:6"
+},
+{
+"start_ref": "41014036",
+"start_ref_usfm": "MRK 14:36",
+"end_ref": "41014036",
+"end_ref_usfm": "MRK 14:36"
+},
+{
+"start_ref": "40026039",
+"start_ref_usfm": "MAT 26:39",
+"end_ref": "40026039",
+"end_ref_usfm": "MAT 26:39"
+},
+{
+"start_ref": "40026042",
+"start_ref_usfm": "MAT 26:42",
+"end_ref": "40026042",
+"end_ref_usfm": "MAT 26:42"
+},
+{
+"start_ref": "42022042",
+"start_ref_usfm": "LUK 22:42",
+"end_ref": "42022042",
+"end_ref_usfm": "LUK 22:42"
+},
+{
+"start_ref": "43017001",
+"start_ref_usfm": "JHN 17:1",
+"end_ref": "43017026",
+"end_ref_usfm": "JHN 17:26"
+},
+{
+"start_ref": "58010019",
+"start_ref_usfm": "HEB 10:19",
+"end_ref": "58010022",
+"end_ref_usfm": "HEB 10:22"
+},
+{
+"start_ref": "49003012",
+"start_ref_usfm": "EPH 3:12",
+"end_ref": "49003012",
+"end_ref_usfm": "EPH 3:12"
+},
+{
+"start_ref": "58007015",
+"start_ref_usfm": "HEB 7:15",
+"end_ref": "58007019",
+"end_ref_usfm": "HEB 7:19"
+},
+{
+"start_ref": "19042001",
+"start_ref_usfm": "PSA 42:1",
+"end_ref": "19042002",
+"end_ref_usfm": "PSA 42:2"
+},
+{
+"start_ref": "24029012",
+"start_ref_usfm": "JER 29:12",
+"end_ref": "24029013",
+"end_ref_usfm": "JER 29:13"
+},
+{
+"start_ref": "19130005",
+"start_ref_usfm": "PSA 130:5",
+"end_ref": "19130006",
+"end_ref_usfm": "PSA 130:6"
+},
+{
+"start_ref": "19145018",
+"start_ref_usfm": "PSA 145:18",
+"end_ref": "19145019",
+"end_ref_usfm": "PSA 145:19"
+},
+{
+"start_ref": "20008017",
+"start_ref_usfm": "PRO 8:17",
+"end_ref": "20008017",
+"end_ref_usfm": "PRO 8:17"
+},
+{
+"start_ref": "23026009",
+"start_ref_usfm": "ISA 26:9",
+"end_ref": "23026009",
+"end_ref_usfm": "ISA 26:9"
+},
+{
+"start_ref": "23033002",
+"start_ref_usfm": "ISA 33:2",
+"end_ref": "23033002",
+"end_ref_usfm": "ISA 33:2"
+},
+{
+"start_ref": "25003025",
+"start_ref_usfm": "LAM 3:25",
+"end_ref": "25003025",
+"end_ref_usfm": "LAM 3:25"
+}
+],
+"resource": [
+{
+"reference_id": "1040",
+"content_id": "1040",
+"resource_code": "DictionaryBibleThemes",
+"label": "1040: God, fatherhood of",
+"language": "eng"
+},
+{
+"reference_id": "1250",
+"content_id": "1250",
+"resource_code": "DictionaryBibleThemes",
+"label": "1250: Abba",
+"language": "eng"
+},
+{
+"reference_id": "6606",
+"content_id": "6606",
+"resource_code": "DictionaryBibleThemes",
+"label": "6606: access to God",
+"language": "eng"
+},
+{
+"reference_id": "8122",
+"content_id": "8122",
+"resource_code": "DictionaryBibleThemes",
+"label": "8122: friendship, with God",
+"language": "eng"
+},
+{
+"reference_id": "8135",
+"content_id": "8135",
+"resource_code": "DictionaryBibleThemes",
+"label": "8135: knowing God, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8656",
+"content_id": "8656",
+"resource_code": "DictionaryBibleThemes",
+"label": "8656: longing for God",
+"language": "eng"
+}
+]
+}
+}
+]

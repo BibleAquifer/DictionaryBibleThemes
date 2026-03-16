@@ -1,0 +1,222 @@
+[
+{
+"content_id": "4669",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4669: locust",
+"media_type": "Text",
+"index_reference": "4669: locust",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The most destructive of all biblical insects, also used figuratively as a devouring pest.</p>\n<h2>There was no defence against locusts</h2>\n<p><strong><a href=\"https://ref.ly/Joel2:4-Joel2:5\">JOL 2:4–2:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov30:27\">PRO 30:27</a></p>\n<h2>Locusts were frequently a sign of God's judgment</h2>\n<p><strong><a href=\"https://ref.ly/Deut28:38\">DEU 28:38</a></strong>; <strong><a href=\"https://ref.ly/Amos4:9\">AMO 4:9</a></strong> <a href=\"https://ref.ly/Exod10:4\">EXO 10:4</a>, <a href=\"https://ref.ly/Exod10:12-Exod10:14\">EXO 10:12–10:14</a>, <a href=\"https://ref.ly/Exod10:19\">EXO 10:19</a>; \n<a href=\"https://ref.ly/Deut28:42\">DEU 28:42</a> <em>curses for disobedience</em>; ; <a href=\"https://ref.ly/1Kgs8:37\">1KI 8:37</a> parallel <a href=\"https://ref.ly/2Chr6:28\">2CH 6:28</a>; ; <a href=\"https://ref.ly/2Chr7:13-2Chr7:14\">2CH 7:13–7:14</a>; ; <a href=\"https://ref.ly/Ps78:46\">PSA 78:46</a>, <a href=\"https://ref.ly/Ps105:34\">PSA 105:34</a>; ; <a href=\"https://ref.ly/Joel1:4\">JOL 1:4</a>, <a href=\"https://ref.ly/Joel2:25\">JOL 2:25</a>; ; <a href=\"https://ref.ly/Amos7:1\">AMO 7:1</a></p>\n<h2>Locusts were a source of food</h2>\n<p><strong><a href=\"https://ref.ly/Lev11:22\">LEV 11:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt3:4\">MAT 3:4</a> parallel <a href=\"https://ref.ly/Mark1:6\">MRK 1:6</a></p>\n<h2>Locusts used figuratively</h2>\n<h3>Of numerous and destructive invaders</h3>\n<p><strong><a href=\"https://ref.ly/Judg7:12\">JDG 7:12</a></strong>; <strong><a href=\"https://ref.ly/Isa33:4\">ISA 33:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg6:5\">JDG 6:5</a>; <a href=\"https://ref.ly/Jer46:23\">JER 46:23</a>, <a href=\"https://ref.ly/Jer51:14\">JER 51:14</a>, <a href=\"https://ref.ly/Jer51:27\">JER 51:27</a>; <a href=\"https://ref.ly/Nah3:15-Nah3:17\">NAM 3:15–3:17</a></p>\n<h3>Of terrifying end-time activity</h3>\n<p><strong><a href=\"https://ref.ly/Rev9:3\">REV 9:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev9:7\">REV 9:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "29002004",
+"start_ref_usfm": "JOL 2:4",
+"end_ref": "29002005",
+"end_ref_usfm": "JOL 2:5"
+},
+{
+"start_ref": "20030027",
+"start_ref_usfm": "PRO 30:27",
+"end_ref": "20030027",
+"end_ref_usfm": "PRO 30:27"
+},
+{
+"start_ref": "05028038",
+"start_ref_usfm": "DEU 28:38",
+"end_ref": "05028038",
+"end_ref_usfm": "DEU 28:38"
+},
+{
+"start_ref": "30004009",
+"start_ref_usfm": "AMO 4:9",
+"end_ref": "30004009",
+"end_ref_usfm": "AMO 4:9"
+},
+{
+"start_ref": "02010004",
+"start_ref_usfm": "EXO 10:4",
+"end_ref": "02010004",
+"end_ref_usfm": "EXO 10:4"
+},
+{
+"start_ref": "02010012",
+"start_ref_usfm": "EXO 10:12",
+"end_ref": "02010014",
+"end_ref_usfm": "EXO 10:14"
+},
+{
+"start_ref": "02010019",
+"start_ref_usfm": "EXO 10:19",
+"end_ref": "02010019",
+"end_ref_usfm": "EXO 10:19"
+},
+{
+"start_ref": "05028042",
+"start_ref_usfm": "DEU 28:42",
+"end_ref": "05028042",
+"end_ref_usfm": "DEU 28:42"
+},
+{
+"start_ref": "11008037",
+"start_ref_usfm": "1KI 8:37",
+"end_ref": "11008037",
+"end_ref_usfm": "1KI 8:37"
+},
+{
+"start_ref": "14006028",
+"start_ref_usfm": "2CH 6:28",
+"end_ref": "14006028",
+"end_ref_usfm": "2CH 6:28"
+},
+{
+"start_ref": "14007013",
+"start_ref_usfm": "2CH 7:13",
+"end_ref": "14007014",
+"end_ref_usfm": "2CH 7:14"
+},
+{
+"start_ref": "19078046",
+"start_ref_usfm": "PSA 78:46",
+"end_ref": "19078046",
+"end_ref_usfm": "PSA 78:46"
+},
+{
+"start_ref": "19105034",
+"start_ref_usfm": "PSA 105:34",
+"end_ref": "19105034",
+"end_ref_usfm": "PSA 105:34"
+},
+{
+"start_ref": "29001004",
+"start_ref_usfm": "JOL 1:4",
+"end_ref": "29001004",
+"end_ref_usfm": "JOL 1:4"
+},
+{
+"start_ref": "29002025",
+"start_ref_usfm": "JOL 2:25",
+"end_ref": "29002025",
+"end_ref_usfm": "JOL 2:25"
+},
+{
+"start_ref": "30007001",
+"start_ref_usfm": "AMO 7:1",
+"end_ref": "30007001",
+"end_ref_usfm": "AMO 7:1"
+},
+{
+"start_ref": "03011022",
+"start_ref_usfm": "LEV 11:22",
+"end_ref": "03011022",
+"end_ref_usfm": "LEV 11:22"
+},
+{
+"start_ref": "40003004",
+"start_ref_usfm": "MAT 3:4",
+"end_ref": "40003004",
+"end_ref_usfm": "MAT 3:4"
+},
+{
+"start_ref": "41001006",
+"start_ref_usfm": "MRK 1:6",
+"end_ref": "41001006",
+"end_ref_usfm": "MRK 1:6"
+},
+{
+"start_ref": "07007012",
+"start_ref_usfm": "JDG 7:12",
+"end_ref": "07007012",
+"end_ref_usfm": "JDG 7:12"
+},
+{
+"start_ref": "23033004",
+"start_ref_usfm": "ISA 33:4",
+"end_ref": "23033004",
+"end_ref_usfm": "ISA 33:4"
+},
+{
+"start_ref": "07006005",
+"start_ref_usfm": "JDG 6:5",
+"end_ref": "07006005",
+"end_ref_usfm": "JDG 6:5"
+},
+{
+"start_ref": "24046023",
+"start_ref_usfm": "JER 46:23",
+"end_ref": "24046023",
+"end_ref_usfm": "JER 46:23"
+},
+{
+"start_ref": "24051014",
+"start_ref_usfm": "JER 51:14",
+"end_ref": "24051014",
+"end_ref_usfm": "JER 51:14"
+},
+{
+"start_ref": "24051027",
+"start_ref_usfm": "JER 51:27",
+"end_ref": "24051027",
+"end_ref_usfm": "JER 51:27"
+},
+{
+"start_ref": "34003015",
+"start_ref_usfm": "NAM 3:15",
+"end_ref": "34003017",
+"end_ref_usfm": "NAM 3:17"
+},
+{
+"start_ref": "66009003",
+"start_ref_usfm": "REV 9:3",
+"end_ref": "66009003",
+"end_ref_usfm": "REV 9:3"
+},
+{
+"start_ref": "66009007",
+"start_ref_usfm": "REV 9:7",
+"end_ref": "66009007",
+"end_ref_usfm": "REV 9:7"
+}
+],
+"resource": [
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "4660",
+"content_id": "4660",
+"resource_code": "DictionaryBibleThemes",
+"label": "4660: insects",
+"language": "eng"
+},
+{
+"reference_id": "4843",
+"content_id": "4843",
+"resource_code": "DictionaryBibleThemes",
+"label": "4843: plague",
+"language": "eng"
+},
+{
+"reference_id": "9105",
+"content_id": "9105",
+"resource_code": "DictionaryBibleThemes",
+"label": "9105: last things",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

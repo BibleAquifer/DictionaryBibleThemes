@@ -1,0 +1,58 @@
+[
+{
+"content_id": "4645",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4645: fleece",
+"media_type": "Text",
+"index_reference": "4645: fleece",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The woolly covering of a sheep used as an article of clothing or for warmth</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Job31:20\">JOB 31:20</a>; <a href=\"https://ref.ly/Heb11:37\">HEB 11:37</a></p>\n<h2>Used by Gideon for reassurance that he was doing God's will</h2>\n<p><a href=\"https://ref.ly/Judg6:36-Judg6:40\">JDG 6:36–6:40</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18031020",
+"start_ref_usfm": "JOB 31:20",
+"end_ref": "18031020",
+"end_ref_usfm": "JOB 31:20"
+},
+{
+"start_ref": "58011037",
+"start_ref_usfm": "HEB 11:37",
+"end_ref": "58011037",
+"end_ref_usfm": "HEB 11:37"
+},
+{
+"start_ref": "07006036",
+"start_ref_usfm": "JDG 6:36",
+"end_ref": "07006040",
+"end_ref_usfm": "JDG 6:40"
+}
+],
+"resource": [
+{
+"reference_id": "4684",
+"content_id": "4684",
+"resource_code": "DictionaryBibleThemes",
+"label": "4684: sheep",
+"language": "eng"
+},
+{
+"reference_id": "4693",
+"content_id": "4693",
+"resource_code": "DictionaryBibleThemes",
+"label": "4693: wool",
+"language": "eng"
+},
+{
+"reference_id": "8124",
+"content_id": "8124",
+"resource_code": "DictionaryBibleThemes",
+"label": "8124: guidance",
+"language": "eng"
+}
+]
+}
+}
+]

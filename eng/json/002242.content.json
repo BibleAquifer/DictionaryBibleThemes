@@ -1,0 +1,199 @@
+[
+{
+"content_id": "8456",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8456: obedience, to human authorities",
+"media_type": "Text",
+"index_reference": "8456: obedience, to human authorities",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture teaches that all people, Christians included, should submit not only to God himself but also to divinely instituted secular authorities.</p>\n<h2>Obedience is owed to rulers</h2>\n<p><strong><a href=\"https://ref.ly/Rom13:1-Rom13:7\">ROM 13:1–13:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim2:1-1Tim2:3\">1TI 2:1–2:3</a>; <a href=\"https://ref.ly/Titus3:1\">TIT 3:1</a>; <a href=\"https://ref.ly/1Pet2:13-1Pet2:14\">1PE 2:13–2:14</a>, <a href=\"https://ref.ly/1Pet2:17\">1PE 2:17</a></p>\n<h3>Jesus Christ expounds this principle</h3>\n<p><strong><a href=\"https://ref.ly/Mark12:17\">MRK 12:17</a></strong> parallels <a href=\"https://ref.ly/Matt22:21\">MAT 22:21</a>, <a href=\"https://ref.ly/Luke20:25\">LUK 20:25</a></p>\n<h2>Obedience is owed to church leaders</h2>\n<p><strong><a href=\"https://ref.ly/Heb13:17\">HEB 13:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Pet5:5\">1PE 5:5</a></p>\n<h2>Obedience is owed within the household</h2>\n<p><strong><a href=\"https://ref.ly/Eph6:1-Eph6:3\">EPH 6:1–6:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov15:5\">PRO 15:5</a>; <a href=\"https://ref.ly/Col3:20\">COL 3:20</a></p>\n<h3>Jesus Christ sets the example</h3>\n<p><strong><a href=\"https://ref.ly/Luke2:51\">LUK 2:51</a></strong></p>\n<h2>Obedience to secular authority is limited by obedience to God</h2>\n<p><strong><a href=\"https://ref.ly/Acts5:29\">ACT 5:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts4:19\">ACT 4:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "45013001",
+"start_ref_usfm": "ROM 13:1",
+"end_ref": "45013007",
+"end_ref_usfm": "ROM 13:7"
+},
+{
+"start_ref": "54002001",
+"start_ref_usfm": "1TI 2:1",
+"end_ref": "54002003",
+"end_ref_usfm": "1TI 2:3"
+},
+{
+"start_ref": "56003001",
+"start_ref_usfm": "TIT 3:1",
+"end_ref": "56003001",
+"end_ref_usfm": "TIT 3:1"
+},
+{
+"start_ref": "60002013",
+"start_ref_usfm": "1PE 2:13",
+"end_ref": "60002014",
+"end_ref_usfm": "1PE 2:14"
+},
+{
+"start_ref": "60002017",
+"start_ref_usfm": "1PE 2:17",
+"end_ref": "60002017",
+"end_ref_usfm": "1PE 2:17"
+},
+{
+"start_ref": "41012017",
+"start_ref_usfm": "MRK 12:17",
+"end_ref": "41012017",
+"end_ref_usfm": "MRK 12:17"
+},
+{
+"start_ref": "40022021",
+"start_ref_usfm": "MAT 22:21",
+"end_ref": "40022021",
+"end_ref_usfm": "MAT 22:21"
+},
+{
+"start_ref": "42020025",
+"start_ref_usfm": "LUK 20:25",
+"end_ref": "42020025",
+"end_ref_usfm": "LUK 20:25"
+},
+{
+"start_ref": "58013017",
+"start_ref_usfm": "HEB 13:17",
+"end_ref": "58013017",
+"end_ref_usfm": "HEB 13:17"
+},
+{
+"start_ref": "60005005",
+"start_ref_usfm": "1PE 5:5",
+"end_ref": "60005005",
+"end_ref_usfm": "1PE 5:5"
+},
+{
+"start_ref": "49006001",
+"start_ref_usfm": "EPH 6:1",
+"end_ref": "49006003",
+"end_ref_usfm": "EPH 6:3"
+},
+{
+"start_ref": "20015005",
+"start_ref_usfm": "PRO 15:5",
+"end_ref": "20015005",
+"end_ref_usfm": "PRO 15:5"
+},
+{
+"start_ref": "51003020",
+"start_ref_usfm": "COL 3:20",
+"end_ref": "51003020",
+"end_ref_usfm": "COL 3:20"
+},
+{
+"start_ref": "42002051",
+"start_ref_usfm": "LUK 2:51",
+"end_ref": "42002051",
+"end_ref_usfm": "LUK 2:51"
+},
+{
+"start_ref": "44005029",
+"start_ref_usfm": "ACT 5:29",
+"end_ref": "44005029",
+"end_ref_usfm": "ACT 5:29"
+},
+{
+"start_ref": "44004019",
+"start_ref_usfm": "ACT 4:19",
+"end_ref": "44004019",
+"end_ref_usfm": "ACT 4:19"
+}
+],
+"resource": [
+{
+"reference_id": "2036",
+"content_id": "2036",
+"resource_code": "DictionaryBibleThemes",
+"label": "2036: Jesus Christ, humility of",
+"language": "eng"
+},
+{
+"reference_id": "2520",
+"content_id": "2520",
+"resource_code": "DictionaryBibleThemes",
+"label": "2520: Jesus Christ, childhood of",
+"language": "eng"
+},
+{
+"reference_id": "5215",
+"content_id": "5215",
+"resource_code": "DictionaryBibleThemes",
+"label": "5215: authority",
+"language": "eng"
+},
+{
+"reference_id": "5257",
+"content_id": "5257",
+"resource_code": "DictionaryBibleThemes",
+"label": "5257: civil authorities",
+"language": "eng"
+},
+{
+"reference_id": "5359",
+"content_id": "5359",
+"resource_code": "DictionaryBibleThemes",
+"label": "5359: justice",
+"language": "eng"
+},
+{
+"reference_id": "5375",
+"content_id": "5375",
+"resource_code": "DictionaryBibleThemes",
+"label": "5375: law",
+"language": "eng"
+},
+{
+"reference_id": "5520",
+"content_id": "5520",
+"resource_code": "DictionaryBibleThemes",
+"label": "5520: servants",
+"language": "eng"
+},
+{
+"reference_id": "5540",
+"content_id": "5540",
+"resource_code": "DictionaryBibleThemes",
+"label": "5540: society",
+"language": "eng"
+},
+{
+"reference_id": "5668",
+"content_id": "5668",
+"resource_code": "DictionaryBibleThemes",
+"label": "5668: children, responsibilities to parents",
+"language": "eng"
+},
+{
+"reference_id": "5959",
+"content_id": "5959",
+"resource_code": "DictionaryBibleThemes",
+"label": "5959: submission",
+"language": "eng"
+},
+{
+"reference_id": "6224",
+"content_id": "6224",
+"resource_code": "DictionaryBibleThemes",
+"label": "6224: rebellion, against human authority",
+"language": "eng"
+},
+{
+"reference_id": "8304",
+"content_id": "8304",
+"resource_code": "DictionaryBibleThemes",
+"label": "8304: loyalty",
+"language": "eng"
+}
+]
+}
+}
+]

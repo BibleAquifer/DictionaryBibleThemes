@@ -1,0 +1,39 @@
+[
+{
+"content_id": "8721",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8721: doubt",
+"media_type": "Text",
+"index_reference": "8721: doubt",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Uncertainty about the truth and reality of spiritual things, as seen especially in a lack of faith in and commitment to God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8722",
+"content_id": "8722",
+"resource_code": "DictionaryBibleThemes",
+"label": "8722: doubt, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8723",
+"content_id": "8723",
+"resource_code": "DictionaryBibleThemes",
+"label": "8723: doubt, results of",
+"language": "eng"
+},
+{
+"reference_id": "8724",
+"content_id": "8724",
+"resource_code": "DictionaryBibleThemes",
+"label": "8724: doubt, dealing with",
+"language": "eng"
+}
+]
+}
+}
+]

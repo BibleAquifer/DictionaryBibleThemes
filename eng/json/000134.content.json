@@ -1,0 +1,285 @@
+[
+{
+"content_id": "1656",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1656: numbers, combinations",
+"media_type": "Text",
+"index_reference": "1656: numbers, combinations",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Numbers may be combined for making a comparison. When they are combined in such a pattern as “two or three” the emphasis usually falls on the second figure.</p>\n<h2>Two and three</h2>\n<h3>Two or three witnesses</h3>\n<p><strong><a href=\"https://ref.ly/Deut19:15\">DEU 19:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num35:30\">NUM 35:30</a>; <a href=\"https://ref.ly/Deut17:6\">DEU 17:6</a>; <a href=\"https://ref.ly/Matt18:16\">MAT 18:16</a>; <a href=\"https://ref.ly/2Cor13:1\">2CO 13:1</a>; <a href=\"https://ref.ly/1Tim5:19\">1TI 5:19</a>; <a href=\"https://ref.ly/Heb10:28\">HEB 10:28</a></p>\n<h3>Two or three as a small approximate number</h3>\n<p><strong><a href=\"https://ref.ly/Matt18:20\">MAT 18:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs9:32\">2KI 9:32</a>; <a href=\"https://ref.ly/Isa17:6\">ISA 17:6</a>; <a href=\"https://ref.ly/Hos6:2\">HOS 6:2</a>; <a href=\"https://ref.ly/1Cor14:27\">1CO 14:27</a>, <a href=\"https://ref.ly/1Cor14:29\">1CO 14:29</a></p>\n<h3>Two and three in a climactic pattern</h3>\n<p><strong><a href=\"https://ref.ly/Eccl4:12\">ECC 4:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov30:15\">PRO 30:15</a></p>\n<h2>Three and four</h2>\n<h3>Three or four as a small approximate number</h3>\n<p><a href=\"https://ref.ly/Jer36:23\">JER 36:23</a></p>\n<h3>Three and four in a climactic pattern</h3>\n<p><strong><a href=\"https://ref.ly/Prov30:18-Prov30:19\">PRO 30:18–30:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov30:15-Prov30:16\">PRO 30:15–30:16</a>, <a href=\"https://ref.ly/Prov30:21-Prov30:23\">PRO 30:21–30:23</a>, <a href=\"https://ref.ly/Prov30:29-Prov30:31\">PRO 30:29–30:31</a>; <a href=\"https://ref.ly/Amos1:3\">AMO 1:3</a>, <a href=\"https://ref.ly/Amos1:6\">AMO 1:6</a>, <a href=\"https://ref.ly/Amos1:9\">AMO 1:9</a>, <a href=\"https://ref.ly/Amos1:11\">AMO 1:11</a>, <a href=\"https://ref.ly/Amos1:13\">AMO 1:13</a>, <a href=\"https://ref.ly/Amos2:1\">AMO 2:1</a>, <a href=\"https://ref.ly/Amos2:4\">AMO 2:4</a>, <a href=\"https://ref.ly/Amos2:6\">AMO 2:6</a></p>\n<h2>Other examples of the climactic pattern</h2>\n<p><a href=\"https://ref.ly/Job5:19\">JOB 5:19</a>; ; <a href=\"https://ref.ly/Prov6:16-Prov6:19\">PRO 6:16–6:19</a>; ; <a href=\"https://ref.ly/Gen4:24\">GEN 4:24</a>; ; <a href=\"https://ref.ly/Eccl11:2\">ECC 11:2</a>; ; <a href=\"https://ref.ly/Mic5:5\">MIC 5:5</a></p>\n<h2>Comparative use of multiples of ten</h2>\n<p><strong><a href=\"https://ref.ly/Amos5:3\">AMO 5:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev26:8\">LEV 26:8</a>; <a href=\"https://ref.ly/Deut33:17\">DEU 33:17</a>; <a href=\"https://ref.ly/Judg20:10\">JDG 20:10</a>; <a href=\"https://ref.ly/Mic6:7\">MIC 6:7</a>; <a href=\"https://ref.ly/Luke16:7\">LUK 16:7</a></p>\n<h2>Numerical contrast between Saul and David</h2>\n<p><strong><a href=\"https://ref.ly/1Sam18:7-1Sam18:8\">1SA 18:7–18:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam21:11\">1SA 21:11</a>, <a href=\"https://ref.ly/1Sam29:5\">1SA 29:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05019015",
+"start_ref_usfm": "DEU 19:15",
+"end_ref": "05019015",
+"end_ref_usfm": "DEU 19:15"
+},
+{
+"start_ref": "04035030",
+"start_ref_usfm": "NUM 35:30",
+"end_ref": "04035030",
+"end_ref_usfm": "NUM 35:30"
+},
+{
+"start_ref": "05017006",
+"start_ref_usfm": "DEU 17:6",
+"end_ref": "05017006",
+"end_ref_usfm": "DEU 17:6"
+},
+{
+"start_ref": "40018016",
+"start_ref_usfm": "MAT 18:16",
+"end_ref": "40018016",
+"end_ref_usfm": "MAT 18:16"
+},
+{
+"start_ref": "47013001",
+"start_ref_usfm": "2CO 13:1",
+"end_ref": "47013001",
+"end_ref_usfm": "2CO 13:1"
+},
+{
+"start_ref": "54005019",
+"start_ref_usfm": "1TI 5:19",
+"end_ref": "54005019",
+"end_ref_usfm": "1TI 5:19"
+},
+{
+"start_ref": "58010028",
+"start_ref_usfm": "HEB 10:28",
+"end_ref": "58010028",
+"end_ref_usfm": "HEB 10:28"
+},
+{
+"start_ref": "40018020",
+"start_ref_usfm": "MAT 18:20",
+"end_ref": "40018020",
+"end_ref_usfm": "MAT 18:20"
+},
+{
+"start_ref": "12009032",
+"start_ref_usfm": "2KI 9:32",
+"end_ref": "12009032",
+"end_ref_usfm": "2KI 9:32"
+},
+{
+"start_ref": "23017006",
+"start_ref_usfm": "ISA 17:6",
+"end_ref": "23017006",
+"end_ref_usfm": "ISA 17:6"
+},
+{
+"start_ref": "28006002",
+"start_ref_usfm": "HOS 6:2",
+"end_ref": "28006002",
+"end_ref_usfm": "HOS 6:2"
+},
+{
+"start_ref": "46014027",
+"start_ref_usfm": "1CO 14:27",
+"end_ref": "46014027",
+"end_ref_usfm": "1CO 14:27"
+},
+{
+"start_ref": "46014029",
+"start_ref_usfm": "1CO 14:29",
+"end_ref": "46014029",
+"end_ref_usfm": "1CO 14:29"
+},
+{
+"start_ref": "21004012",
+"start_ref_usfm": "ECC 4:12",
+"end_ref": "21004012",
+"end_ref_usfm": "ECC 4:12"
+},
+{
+"start_ref": "20030015",
+"start_ref_usfm": "PRO 30:15",
+"end_ref": "20030015",
+"end_ref_usfm": "PRO 30:15"
+},
+{
+"start_ref": "24036023",
+"start_ref_usfm": "JER 36:23",
+"end_ref": "24036023",
+"end_ref_usfm": "JER 36:23"
+},
+{
+"start_ref": "20030018",
+"start_ref_usfm": "PRO 30:18",
+"end_ref": "20030019",
+"end_ref_usfm": "PRO 30:19"
+},
+{
+"start_ref": "20030015",
+"start_ref_usfm": "PRO 30:15",
+"end_ref": "20030016",
+"end_ref_usfm": "PRO 30:16"
+},
+{
+"start_ref": "20030021",
+"start_ref_usfm": "PRO 30:21",
+"end_ref": "20030023",
+"end_ref_usfm": "PRO 30:23"
+},
+{
+"start_ref": "20030029",
+"start_ref_usfm": "PRO 30:29",
+"end_ref": "20030031",
+"end_ref_usfm": "PRO 30:31"
+},
+{
+"start_ref": "30001003",
+"start_ref_usfm": "AMO 1:3",
+"end_ref": "30001003",
+"end_ref_usfm": "AMO 1:3"
+},
+{
+"start_ref": "30001006",
+"start_ref_usfm": "AMO 1:6",
+"end_ref": "30001006",
+"end_ref_usfm": "AMO 1:6"
+},
+{
+"start_ref": "30001009",
+"start_ref_usfm": "AMO 1:9",
+"end_ref": "30001009",
+"end_ref_usfm": "AMO 1:9"
+},
+{
+"start_ref": "30001011",
+"start_ref_usfm": "AMO 1:11",
+"end_ref": "30001011",
+"end_ref_usfm": "AMO 1:11"
+},
+{
+"start_ref": "30001013",
+"start_ref_usfm": "AMO 1:13",
+"end_ref": "30001013",
+"end_ref_usfm": "AMO 1:13"
+},
+{
+"start_ref": "30002001",
+"start_ref_usfm": "AMO 2:1",
+"end_ref": "30002001",
+"end_ref_usfm": "AMO 2:1"
+},
+{
+"start_ref": "30002004",
+"start_ref_usfm": "AMO 2:4",
+"end_ref": "30002004",
+"end_ref_usfm": "AMO 2:4"
+},
+{
+"start_ref": "30002006",
+"start_ref_usfm": "AMO 2:6",
+"end_ref": "30002006",
+"end_ref_usfm": "AMO 2:6"
+},
+{
+"start_ref": "18005019",
+"start_ref_usfm": "JOB 5:19",
+"end_ref": "18005019",
+"end_ref_usfm": "JOB 5:19"
+},
+{
+"start_ref": "20006016",
+"start_ref_usfm": "PRO 6:16",
+"end_ref": "20006019",
+"end_ref_usfm": "PRO 6:19"
+},
+{
+"start_ref": "01004024",
+"start_ref_usfm": "GEN 4:24",
+"end_ref": "01004024",
+"end_ref_usfm": "GEN 4:24"
+},
+{
+"start_ref": "21011002",
+"start_ref_usfm": "ECC 11:2",
+"end_ref": "21011002",
+"end_ref_usfm": "ECC 11:2"
+},
+{
+"start_ref": "33005005",
+"start_ref_usfm": "MIC 5:5",
+"end_ref": "33005005",
+"end_ref_usfm": "MIC 5:5"
+},
+{
+"start_ref": "30005003",
+"start_ref_usfm": "AMO 5:3",
+"end_ref": "30005003",
+"end_ref_usfm": "AMO 5:3"
+},
+{
+"start_ref": "03026008",
+"start_ref_usfm": "LEV 26:8",
+"end_ref": "03026008",
+"end_ref_usfm": "LEV 26:8"
+},
+{
+"start_ref": "05033017",
+"start_ref_usfm": "DEU 33:17",
+"end_ref": "05033017",
+"end_ref_usfm": "DEU 33:17"
+},
+{
+"start_ref": "07020010",
+"start_ref_usfm": "JDG 20:10",
+"end_ref": "07020010",
+"end_ref_usfm": "JDG 20:10"
+},
+{
+"start_ref": "33006007",
+"start_ref_usfm": "MIC 6:7",
+"end_ref": "33006007",
+"end_ref_usfm": "MIC 6:7"
+},
+{
+"start_ref": "42016007",
+"start_ref_usfm": "LUK 16:7",
+"end_ref": "42016007",
+"end_ref_usfm": "LUK 16:7"
+},
+{
+"start_ref": "09018007",
+"start_ref_usfm": "1SA 18:7",
+"end_ref": "09018008",
+"end_ref_usfm": "1SA 18:8"
+},
+{
+"start_ref": "09021011",
+"start_ref_usfm": "1SA 21:11",
+"end_ref": "09021011",
+"end_ref_usfm": "1SA 21:11"
+},
+{
+"start_ref": "09029005",
+"start_ref_usfm": "1SA 29:5",
+"end_ref": "09029005",
+"end_ref_usfm": "1SA 29:5"
+}
+],
+"resource": [
+{
+"reference_id": "1025",
+"content_id": "1025",
+"resource_code": "DictionaryBibleThemes",
+"label": "1025: God, anger of",
+"language": "eng"
+},
+{
+"reference_id": "5359",
+"content_id": "5359",
+"resource_code": "DictionaryBibleThemes",
+"label": "5359: justice",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,379 @@
+[
+{
+"content_id": "5434",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5434: officer",
+"media_type": "Text",
+"index_reference": "5434: officer",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A person holding a position of authority (serving others), in a government, an army or navy, the church or other organisation.</p>\n<h2>Examples of officers</h2>\n<h3>Government officers</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs4:5\">1KI 4:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs4:7-1Kgs4:19\">1KI 4:7–4:19</a>, <a href=\"https://ref.ly/1Kgs4:27-1Kgs4:28\">1KI 4:27–4:28</a>, <a href=\"https://ref.ly/1Kgs20:14\">1KI 20:14</a>; <a href=\"https://ref.ly/2Kgs15:25\">2KI 15:25</a>, <a href=\"https://ref.ly/2Kgs18:24\">2KI 18:24</a> parallel <a href=\"https://ref.ly/Isa36:9\">ISA 36:9</a>; <a href=\"https://ref.ly/Ezra4:8\">EZR 4:8</a>; <a href=\"https://ref.ly/Neh11:9\">NEH 11:9</a>; <a href=\"https://ref.ly/Isa33:18\">ISA 33:18</a></p>\n<h3>Army officers</h3>\n<p><strong><a href=\"https://ref.ly/Exod14:7\">EXO 14:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod15:4\">EXO 15:4</a>; <a href=\"https://ref.ly/Deut20:8-Deut20:9\">DEU 20:8–20:9</a>; <a href=\"https://ref.ly/2Sam8:7\">2SA 8:7</a>; <a href=\"https://ref.ly/2Kgs6:8\">2KI 6:8</a>; <a href=\"https://ref.ly/1Chr27:16-1Chr27:22\">1CH 27:16–27:22</a>; <a href=\"https://ref.ly/Isa21:5\">ISA 21:5</a>; <a href=\"https://ref.ly/Jer38:17-Jer38:18\">JER 38:17–38:18</a>; <a href=\"https://ref.ly/Ezek23:15\">EZK 23:15</a>; <a href=\"https://ref.ly/Acts21:32\">ACT 21:32</a>, <a href=\"https://ref.ly/Acts25:23\">ACT 25:23</a></p>\n<h3>Navy officers</h3>\n<p><a href=\"https://ref.ly/2Chr8:18\">2CH 8:18</a></p>\n<h3>Church officers</h3>\n<p><strong><a href=\"https://ref.ly/Phil1:1\">PHP 1:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts20:17\">ACT 20:17</a>, <a href=\"https://ref.ly/Acts20:28\">ACT 20:28</a>; <a href=\"https://ref.ly/1Tim3:1\">1TI 3:1</a>, <a href=\"https://ref.ly/1Tim3:8-1Tim3:10\">1TI 3:8–3:10</a>, <a href=\"https://ref.ly/1Tim5:17\">1TI 5:17</a>; <a href=\"https://ref.ly/Titus1:5\">TIT 1:5</a>, <a href=\"https://ref.ly/Titus1:7\">TIT 1:7</a></p>\n<h2>Other kinds of officer</h2>\n<h3>The officer in charge of the king's palace</h3>\n<p><a href=\"https://ref.ly/1Kgs4:6\">1KI 4:6</a>, <a href=\"https://ref.ly/1Kgs18:3\">1KI 18:3</a>; ; <a href=\"https://ref.ly/2Kgs18:18\">2KI 18:18</a>, <a href=\"https://ref.ly/2Kgs19:2\">2KI 19:2</a></p>\n<h3>The officer in charge of the treasuries</h3>\n<p><a href=\"https://ref.ly/1Chr26:24\">1CH 26:24</a>; ; <a href=\"https://ref.ly/2Chr24:11\">2CH 24:11</a></p>\n<h3>The priest in charge of punishing troublemakers in the temple court</h3>\n<p><a href=\"https://ref.ly/Jer20:1-Jer20:2\">JER 20:1–20:2</a></p>\n<h3>The commander of the king's guard</h3>\n<p><a href=\"https://ref.ly/Dan2:14-Dan2:15\">DAN 2:14–2:15</a></p>\n<h3>A court attendant</h3>\n<p><a href=\"https://ref.ly/Matt5:25\">MAT 5:25</a> parallel <a href=\"https://ref.ly/Luke12:58\">LUK 12:58</a></p>\n<h3>A member of the temple guard</h3>\n<p><a href=\"https://ref.ly/Luke22:4\">LUK 22:4</a>, <a href=\"https://ref.ly/Luke22:52\">LUK 22:52</a>; ; <a href=\"https://ref.ly/Acts5:22\">ACT 5:22</a>, <a href=\"https://ref.ly/Acts5:26\">ACT 5:26</a></p>\n<h3>The attendant of a Roman magistrate</h3>\n<p><a href=\"https://ref.ly/Acts16:35\">ACT 16:35</a>, <a href=\"https://ref.ly/Acts16:38\">ACT 16:38</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11004005",
+"start_ref_usfm": "1KI 4:5",
+"end_ref": "11004005",
+"end_ref_usfm": "1KI 4:5"
+},
+{
+"start_ref": "11004007",
+"start_ref_usfm": "1KI 4:7",
+"end_ref": "11004019",
+"end_ref_usfm": "1KI 4:19"
+},
+{
+"start_ref": "11004027",
+"start_ref_usfm": "1KI 4:27",
+"end_ref": "11004028",
+"end_ref_usfm": "1KI 4:28"
+},
+{
+"start_ref": "11020014",
+"start_ref_usfm": "1KI 20:14",
+"end_ref": "11020014",
+"end_ref_usfm": "1KI 20:14"
+},
+{
+"start_ref": "12015025",
+"start_ref_usfm": "2KI 15:25",
+"end_ref": "12015025",
+"end_ref_usfm": "2KI 15:25"
+},
+{
+"start_ref": "12018024",
+"start_ref_usfm": "2KI 18:24",
+"end_ref": "12018024",
+"end_ref_usfm": "2KI 18:24"
+},
+{
+"start_ref": "23036009",
+"start_ref_usfm": "ISA 36:9",
+"end_ref": "23036009",
+"end_ref_usfm": "ISA 36:9"
+},
+{
+"start_ref": "15004008",
+"start_ref_usfm": "EZR 4:8",
+"end_ref": "15004008",
+"end_ref_usfm": "EZR 4:8"
+},
+{
+"start_ref": "16011009",
+"start_ref_usfm": "NEH 11:9",
+"end_ref": "16011009",
+"end_ref_usfm": "NEH 11:9"
+},
+{
+"start_ref": "23033018",
+"start_ref_usfm": "ISA 33:18",
+"end_ref": "23033018",
+"end_ref_usfm": "ISA 33:18"
+},
+{
+"start_ref": "02014007",
+"start_ref_usfm": "EXO 14:7",
+"end_ref": "02014007",
+"end_ref_usfm": "EXO 14:7"
+},
+{
+"start_ref": "02015004",
+"start_ref_usfm": "EXO 15:4",
+"end_ref": "02015004",
+"end_ref_usfm": "EXO 15:4"
+},
+{
+"start_ref": "05020008",
+"start_ref_usfm": "DEU 20:8",
+"end_ref": "05020009",
+"end_ref_usfm": "DEU 20:9"
+},
+{
+"start_ref": "10008007",
+"start_ref_usfm": "2SA 8:7",
+"end_ref": "10008007",
+"end_ref_usfm": "2SA 8:7"
+},
+{
+"start_ref": "12006008",
+"start_ref_usfm": "2KI 6:8",
+"end_ref": "12006008",
+"end_ref_usfm": "2KI 6:8"
+},
+{
+"start_ref": "13027016",
+"start_ref_usfm": "1CH 27:16",
+"end_ref": "13027022",
+"end_ref_usfm": "1CH 27:22"
+},
+{
+"start_ref": "23021005",
+"start_ref_usfm": "ISA 21:5",
+"end_ref": "23021005",
+"end_ref_usfm": "ISA 21:5"
+},
+{
+"start_ref": "24038017",
+"start_ref_usfm": "JER 38:17",
+"end_ref": "24038018",
+"end_ref_usfm": "JER 38:18"
+},
+{
+"start_ref": "26023015",
+"start_ref_usfm": "EZK 23:15",
+"end_ref": "26023015",
+"end_ref_usfm": "EZK 23:15"
+},
+{
+"start_ref": "44021032",
+"start_ref_usfm": "ACT 21:32",
+"end_ref": "44021032",
+"end_ref_usfm": "ACT 21:32"
+},
+{
+"start_ref": "44025023",
+"start_ref_usfm": "ACT 25:23",
+"end_ref": "44025023",
+"end_ref_usfm": "ACT 25:23"
+},
+{
+"start_ref": "14008018",
+"start_ref_usfm": "2CH 8:18",
+"end_ref": "14008018",
+"end_ref_usfm": "2CH 8:18"
+},
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001001",
+"end_ref_usfm": "PHP 1:1"
+},
+{
+"start_ref": "44020017",
+"start_ref_usfm": "ACT 20:17",
+"end_ref": "44020017",
+"end_ref_usfm": "ACT 20:17"
+},
+{
+"start_ref": "44020028",
+"start_ref_usfm": "ACT 20:28",
+"end_ref": "44020028",
+"end_ref_usfm": "ACT 20:28"
+},
+{
+"start_ref": "54003001",
+"start_ref_usfm": "1TI 3:1",
+"end_ref": "54003001",
+"end_ref_usfm": "1TI 3:1"
+},
+{
+"start_ref": "54003008",
+"start_ref_usfm": "1TI 3:8",
+"end_ref": "54003010",
+"end_ref_usfm": "1TI 3:10"
+},
+{
+"start_ref": "54005017",
+"start_ref_usfm": "1TI 5:17",
+"end_ref": "54005017",
+"end_ref_usfm": "1TI 5:17"
+},
+{
+"start_ref": "56001005",
+"start_ref_usfm": "TIT 1:5",
+"end_ref": "56001005",
+"end_ref_usfm": "TIT 1:5"
+},
+{
+"start_ref": "56001007",
+"start_ref_usfm": "TIT 1:7",
+"end_ref": "56001007",
+"end_ref_usfm": "TIT 1:7"
+},
+{
+"start_ref": "11004006",
+"start_ref_usfm": "1KI 4:6",
+"end_ref": "11004006",
+"end_ref_usfm": "1KI 4:6"
+},
+{
+"start_ref": "11018003",
+"start_ref_usfm": "1KI 18:3",
+"end_ref": "11018003",
+"end_ref_usfm": "1KI 18:3"
+},
+{
+"start_ref": "12018018",
+"start_ref_usfm": "2KI 18:18",
+"end_ref": "12018018",
+"end_ref_usfm": "2KI 18:18"
+},
+{
+"start_ref": "12019002",
+"start_ref_usfm": "2KI 19:2",
+"end_ref": "12019002",
+"end_ref_usfm": "2KI 19:2"
+},
+{
+"start_ref": "13026024",
+"start_ref_usfm": "1CH 26:24",
+"end_ref": "13026024",
+"end_ref_usfm": "1CH 26:24"
+},
+{
+"start_ref": "14024011",
+"start_ref_usfm": "2CH 24:11",
+"end_ref": "14024011",
+"end_ref_usfm": "2CH 24:11"
+},
+{
+"start_ref": "24020001",
+"start_ref_usfm": "JER 20:1",
+"end_ref": "24020002",
+"end_ref_usfm": "JER 20:2"
+},
+{
+"start_ref": "27002014",
+"start_ref_usfm": "DAN 2:14",
+"end_ref": "27002015",
+"end_ref_usfm": "DAN 2:15"
+},
+{
+"start_ref": "40005025",
+"start_ref_usfm": "MAT 5:25",
+"end_ref": "40005025",
+"end_ref_usfm": "MAT 5:25"
+},
+{
+"start_ref": "42012058",
+"start_ref_usfm": "LUK 12:58",
+"end_ref": "42012058",
+"end_ref_usfm": "LUK 12:58"
+},
+{
+"start_ref": "42022004",
+"start_ref_usfm": "LUK 22:4",
+"end_ref": "42022004",
+"end_ref_usfm": "LUK 22:4"
+},
+{
+"start_ref": "42022052",
+"start_ref_usfm": "LUK 22:52",
+"end_ref": "42022052",
+"end_ref_usfm": "LUK 22:52"
+},
+{
+"start_ref": "44005022",
+"start_ref_usfm": "ACT 5:22",
+"end_ref": "44005022",
+"end_ref_usfm": "ACT 5:22"
+},
+{
+"start_ref": "44005026",
+"start_ref_usfm": "ACT 5:26",
+"end_ref": "44005026",
+"end_ref_usfm": "ACT 5:26"
+},
+{
+"start_ref": "44016035",
+"start_ref_usfm": "ACT 16:35",
+"end_ref": "44016035",
+"end_ref_usfm": "ACT 16:35"
+},
+{
+"start_ref": "44016038",
+"start_ref_usfm": "ACT 16:38",
+"end_ref": "44016038",
+"end_ref_usfm": "ACT 16:38"
+}
+],
+"resource": [
+{
+"reference_id": "5208",
+"content_id": "5208",
+"resource_code": "DictionaryBibleThemes",
+"label": "5208: armies",
+"language": "eng"
+},
+{
+"reference_id": "5245",
+"content_id": "5245",
+"resource_code": "DictionaryBibleThemes",
+"label": "5245: captain",
+"language": "eng"
+},
+{
+"reference_id": "5250",
+"content_id": "5250",
+"resource_code": "DictionaryBibleThemes",
+"label": "5250: centurion",
+"language": "eng"
+},
+{
+"reference_id": "5261",
+"content_id": "5261",
+"resource_code": "DictionaryBibleThemes",
+"label": "5261: commander",
+"language": "eng"
+},
+{
+"reference_id": "5358",
+"content_id": "5358",
+"resource_code": "DictionaryBibleThemes",
+"label": "5358: judges",
+"language": "eng"
+},
+{
+"reference_id": "5489",
+"content_id": "5489",
+"resource_code": "DictionaryBibleThemes",
+"label": "5489: rank",
+"language": "eng"
+},
+{
+"reference_id": "5509",
+"content_id": "5509",
+"resource_code": "DictionaryBibleThemes",
+"label": "5509: rulers",
+"language": "eng"
+},
+{
+"reference_id": "7715",
+"content_id": "7715",
+"resource_code": "DictionaryBibleThemes",
+"label": "7715: deacons",
+"language": "eng"
+},
+{
+"reference_id": "7719",
+"content_id": "7719",
+"resource_code": "DictionaryBibleThemes",
+"label": "7719: elders, as community leaders",
+"language": "eng"
+},
+{
+"reference_id": "7748",
+"content_id": "7748",
+"resource_code": "DictionaryBibleThemes",
+"label": "7748: overseers",
+"language": "eng"
+},
+{
+"reference_id": "7766",
+"content_id": "7766",
+"resource_code": "DictionaryBibleThemes",
+"label": "7766: priests",
+"language": "eng"
+},
+{
+"reference_id": "7939",
+"content_id": "7939",
+"resource_code": "DictionaryBibleThemes",
+"label": "7939: ministry",
+"language": "eng"
+}
+]
+}
+}
+]

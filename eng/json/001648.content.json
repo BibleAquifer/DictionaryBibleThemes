@@ -1,0 +1,235 @@
+[
+{
+"content_id": "6679",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6679: justification, results of",
+"media_type": "Text",
+"index_reference": "6679: justification, results of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Justification brings a changed relationship with God and a future hope. It will also bring a change in behaviour.</p>\n<h2>The results of justification</h2>\n<h3>Peace with God, access to his presence and the hope of his glory</h3>\n<p><strong><a href=\"https://ref.ly/Rom5:1-Rom5:2\">ROM 5:1–5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:30\">ROM 8:30</a>; <a href=\"https://ref.ly/Titus3:7\">TIT 3:7</a></p>\n<h3>Assurance of forgiveness</h3>\n<p><a href=\"https://ref.ly/Rom5:9\">ROM 5:9</a>; ; <a href=\"https://ref.ly/Eph1:13-Eph1:14\">EPH 1:13–1:14</a></p>\n<h3>Knowing Jesus Christ and participating in his resurrection</h3>\n<p><strong><a href=\"https://ref.ly/Phil3:10-Phil3:11\">PHP 3:10–3:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom6:5\">ROM 6:5</a></p>\n<h3>Freedom from condemnation</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:31-Rom8:34\">ROM 8:31–8:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:1-Rom8:4\">ROM 8:1–8:4</a>; <a href=\"https://ref.ly/Gal3:13-Gal3:14\">GAL 3:13–3:14</a></p>\n<h3>Freedom from domination by sin</h3>\n<p><strong><a href=\"https://ref.ly/Rom6:14\">ROM 6:14</a>, <a href=\"https://ref.ly/Rom6:17-Rom6:18\">ROM 6:17–6:18</a></strong></p>\n<h3>Adoption into God's family</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Rom8:15-Rom8:17\">ROM 8:15–8:17</a>; <a href=\"https://ref.ly/Gal4:6-Gal4:7\">GAL 4:6–4:7</a></p>\n<h3>Righteousness in the sight of God</h3>\n<p><strong><a href=\"https://ref.ly/Rom5:17\">ROM 5:17</a></strong>; <strong><a href=\"https://ref.ly/Phil3:8-Phil3:9\">PHP 3:8–3:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom3:20-Rom3:22\">ROM 3:20–3:22</a>; <a href=\"https://ref.ly/1Cor1:30\">1CO 1:30</a></p>\n<h3>Justification must lead to good works</h3>\n<p><strong><a href=\"https://ref.ly/Jas2:24\">JAS 2:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom6:15-Rom6:18\">ROM 6:15–6:18</a>; <a href=\"https://ref.ly/Gal5:13-Gal5:16\">GAL 5:13–5:16</a>; <a href=\"https://ref.ly/Jas2:14-Jas2:26\">JAS 2:14–2:26</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "45005001",
+"start_ref_usfm": "ROM 5:1",
+"end_ref": "45005002",
+"end_ref_usfm": "ROM 5:2"
+},
+{
+"start_ref": "45008030",
+"start_ref_usfm": "ROM 8:30",
+"end_ref": "45008030",
+"end_ref_usfm": "ROM 8:30"
+},
+{
+"start_ref": "56003007",
+"start_ref_usfm": "TIT 3:7",
+"end_ref": "56003007",
+"end_ref_usfm": "TIT 3:7"
+},
+{
+"start_ref": "45005009",
+"start_ref_usfm": "ROM 5:9",
+"end_ref": "45005009",
+"end_ref_usfm": "ROM 5:9"
+},
+{
+"start_ref": "49001013",
+"start_ref_usfm": "EPH 1:13",
+"end_ref": "49001014",
+"end_ref_usfm": "EPH 1:14"
+},
+{
+"start_ref": "50003010",
+"start_ref_usfm": "PHP 3:10",
+"end_ref": "50003011",
+"end_ref_usfm": "PHP 3:11"
+},
+{
+"start_ref": "45006005",
+"start_ref_usfm": "ROM 6:5",
+"end_ref": "45006005",
+"end_ref_usfm": "ROM 6:5"
+},
+{
+"start_ref": "45008031",
+"start_ref_usfm": "ROM 8:31",
+"end_ref": "45008034",
+"end_ref_usfm": "ROM 8:34"
+},
+{
+"start_ref": "45008001",
+"start_ref_usfm": "ROM 8:1",
+"end_ref": "45008004",
+"end_ref_usfm": "ROM 8:4"
+},
+{
+"start_ref": "48003013",
+"start_ref_usfm": "GAL 3:13",
+"end_ref": "48003014",
+"end_ref_usfm": "GAL 3:14"
+},
+{
+"start_ref": "45006014",
+"start_ref_usfm": "ROM 6:14",
+"end_ref": "45006014",
+"end_ref_usfm": "ROM 6:14"
+},
+{
+"start_ref": "45006017",
+"start_ref_usfm": "ROM 6:17",
+"end_ref": "45006018",
+"end_ref_usfm": "ROM 6:18"
+},
+{
+"start_ref": "45008015",
+"start_ref_usfm": "ROM 8:15",
+"end_ref": "45008017",
+"end_ref_usfm": "ROM 8:17"
+},
+{
+"start_ref": "48004006",
+"start_ref_usfm": "GAL 4:6",
+"end_ref": "48004007",
+"end_ref_usfm": "GAL 4:7"
+},
+{
+"start_ref": "45005017",
+"start_ref_usfm": "ROM 5:17",
+"end_ref": "45005017",
+"end_ref_usfm": "ROM 5:17"
+},
+{
+"start_ref": "50003008",
+"start_ref_usfm": "PHP 3:8",
+"end_ref": "50003009",
+"end_ref_usfm": "PHP 3:9"
+},
+{
+"start_ref": "45003020",
+"start_ref_usfm": "ROM 3:20",
+"end_ref": "45003022",
+"end_ref_usfm": "ROM 3:22"
+},
+{
+"start_ref": "46001030",
+"start_ref_usfm": "1CO 1:30",
+"end_ref": "46001030",
+"end_ref_usfm": "1CO 1:30"
+},
+{
+"start_ref": "59002024",
+"start_ref_usfm": "JAS 2:24",
+"end_ref": "59002024",
+"end_ref_usfm": "JAS 2:24"
+},
+{
+"start_ref": "45006015",
+"start_ref_usfm": "ROM 6:15",
+"end_ref": "45006018",
+"end_ref_usfm": "ROM 6:18"
+},
+{
+"start_ref": "48005013",
+"start_ref_usfm": "GAL 5:13",
+"end_ref": "48005016",
+"end_ref_usfm": "GAL 5:16"
+},
+{
+"start_ref": "59002014",
+"start_ref_usfm": "JAS 2:14",
+"end_ref": "59002026",
+"end_ref_usfm": "JAS 2:26"
+}
+],
+"resource": [
+{
+"reference_id": "2420",
+"content_id": "2420",
+"resource_code": "DictionaryBibleThemes",
+"label": "2420: gospel",
+"language": "eng"
+},
+{
+"reference_id": "6606",
+"content_id": "6606",
+"resource_code": "DictionaryBibleThemes",
+"label": "6606: access to God",
+"language": "eng"
+},
+{
+"reference_id": "6608",
+"content_id": "6608",
+"resource_code": "DictionaryBibleThemes",
+"label": "6608: adoption",
+"language": "eng"
+},
+{
+"reference_id": "6652",
+"content_id": "6652",
+"resource_code": "DictionaryBibleThemes",
+"label": "6652: forgiveness",
+"language": "eng"
+},
+{
+"reference_id": "6661",
+"content_id": "6661",
+"resource_code": "DictionaryBibleThemes",
+"label": "6661: freedom, and the law",
+"language": "eng"
+},
+{
+"reference_id": "6700",
+"content_id": "6700",
+"resource_code": "DictionaryBibleThemes",
+"label": "6700: peace",
+"language": "eng"
+},
+{
+"reference_id": "6744",
+"content_id": "6744",
+"resource_code": "DictionaryBibleThemes",
+"label": "6744: sanctification",
+"language": "eng"
+},
+{
+"reference_id": "8104",
+"content_id": "8104",
+"resource_code": "DictionaryBibleThemes",
+"label": "8104: assurance",
+"language": "eng"
+},
+{
+"reference_id": "8136",
+"content_id": "8136",
+"resource_code": "DictionaryBibleThemes",
+"label": "8136: knowing God, effects of",
+"language": "eng"
+},
+{
+"reference_id": "8157",
+"content_id": "8157",
+"resource_code": "DictionaryBibleThemes",
+"label": "8157: righteousness, as faith",
+"language": "eng"
+},
+{
+"reference_id": "8442",
+"content_id": "8442",
+"resource_code": "DictionaryBibleThemes",
+"label": "8442: good works",
+"language": "eng"
+},
+{
+"reference_id": "9610",
+"content_id": "9610",
+"resource_code": "DictionaryBibleThemes",
+"label": "9610: hope",
+"language": "eng"
+}
+]
+}
+}
+]

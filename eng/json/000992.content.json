@@ -1,0 +1,103 @@
+[
+{
+"content_id": "5411",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5411: mirror",
+"media_type": "Text",
+"index_reference": "5411: mirror",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Actual mirrors</h2>\n<p><strong><a href=\"https://ref.ly/Job37:18\">JOB 37:18</a></strong> <em>Mirrored glass was unknown in ancient times. Metal mirrors gave an adequate though imperfect reflection.</em> <em>See also</em> <a href=\"https://ref.ly/Exod38:8\">EXO 38:8</a>; <a href=\"https://ref.ly/Isa3:23\">ISA 3:23</a></p>\n<h2>Mirrors illustrating human attitudes</h2>\n<p><strong><a href=\"https://ref.ly/Jas1:23-Jas1:25\">JAS 1:23–1:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov27:19\">PRO 27:19</a>; <a href=\"https://ref.ly/2Cor3:18\">2CO 3:18</a></p>\n<h2>Mirrors illustrating an imperfect human view of God</h2>\n<p><strong><a href=\"https://ref.ly/1Cor13:12\">1CO 13:12</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "18037018",
+"start_ref_usfm": "JOB 37:18",
+"end_ref": "18037018",
+"end_ref_usfm": "JOB 37:18"
+},
+{
+"start_ref": "02038008",
+"start_ref_usfm": "EXO 38:8",
+"end_ref": "02038008",
+"end_ref_usfm": "EXO 38:8"
+},
+{
+"start_ref": "23003023",
+"start_ref_usfm": "ISA 3:23",
+"end_ref": "23003023",
+"end_ref_usfm": "ISA 3:23"
+},
+{
+"start_ref": "59001023",
+"start_ref_usfm": "JAS 1:23",
+"end_ref": "59001025",
+"end_ref_usfm": "JAS 1:25"
+},
+{
+"start_ref": "20027019",
+"start_ref_usfm": "PRO 27:19",
+"end_ref": "20027019",
+"end_ref_usfm": "PRO 27:19"
+},
+{
+"start_ref": "47003018",
+"start_ref_usfm": "2CO 3:18",
+"end_ref": "47003018",
+"end_ref_usfm": "2CO 3:18"
+},
+{
+"start_ref": "46013012",
+"start_ref_usfm": "1CO 13:12",
+"end_ref": "46013012",
+"end_ref_usfm": "1CO 13:12"
+}
+],
+"resource": [
+{
+"reference_id": "4293",
+"content_id": "4293",
+"resource_code": "DictionaryBibleThemes",
+"label": "4293: water",
+"language": "eng"
+},
+{
+"reference_id": "4303",
+"content_id": "4303",
+"resource_code": "DictionaryBibleThemes",
+"label": "4303: metals",
+"language": "eng"
+},
+{
+"reference_id": "4312",
+"content_id": "4312",
+"resource_code": "DictionaryBibleThemes",
+"label": "4312: bronze",
+"language": "eng"
+},
+{
+"reference_id": "4330",
+"content_id": "4330",
+"resource_code": "DictionaryBibleThemes",
+"label": "4330: glass",
+"language": "eng"
+},
+{
+"reference_id": "6199",
+"content_id": "6199",
+"resource_code": "DictionaryBibleThemes",
+"label": "6199: imperfection",
+"language": "eng"
+},
+{
+"reference_id": "8474",
+"content_id": "8474",
+"resource_code": "DictionaryBibleThemes",
+"label": "8474: seeing God",
+"language": "eng"
+}
+]
+}
+}
+]

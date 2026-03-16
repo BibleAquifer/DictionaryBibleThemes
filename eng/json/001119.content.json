@@ -1,0 +1,239 @@
+[
+{
+"content_id": "5553",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5553: stairways",
+"media_type": "Text",
+"index_reference": "5553: stairways",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Steps which provide access to upper levels, usually of buildings. The term is also used figuratively as a means of ascent from earth to heaven.</p>\n<h2>Stairways relating to places of worship</h2>\n<h3>In Solomon's temple</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs6:8\">1KI 6:8</a></strong></p>\n<h3>Used by the Levites</h3>\n<p><strong><a href=\"https://ref.ly/Neh9:4\">NEH 9:4</a></strong></p>\n<h3>In Ezekiel's vision of the new temple</h3>\n<p><strong><a href=\"https://ref.ly/Ezek40:49\">EZK 40:49</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek40:6\">EZK 40:6</a>, <a href=\"https://ref.ly/Ezek40:22\">EZK 40:22</a>, <a href=\"https://ref.ly/Ezek40:26\">EZK 40:26</a>, <a href=\"https://ref.ly/Ezek40:31\">EZK 40:31</a>, <a href=\"https://ref.ly/Ezek40:34\">EZK 40:34</a>, <a href=\"https://ref.ly/Ezek40:37\">EZK 40:37</a>, <a href=\"https://ref.ly/Ezek40:49\">EZK 40:49</a>, <a href=\"https://ref.ly/Ezek41:7\">EZK 41:7</a>, <a href=\"https://ref.ly/Ezek43:17\">EZK 43:17</a></p>\n<h3>Steps forbidden for the altar</h3>\n<p><strong><a href=\"https://ref.ly/Exod20:26\">EXO 20:26</a></strong></p>\n<h2>Stairways relating to royalty</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs10:19-1Kgs10:20\">1KI 10:19–10:20</a></strong> parallel <a href=\"https://ref.ly/2Chr9:18-2Chr9:19\">2CH 9:18–9:19</a> <em>See also</em> <a href=\"https://ref.ly/2Kgs9:13\">2KI 9:13</a>, <a href=\"https://ref.ly/2Kgs20:11\">2KI 20:11</a> parallel <a href=\"https://ref.ly/Isa38:8\">ISA 38:8</a></p>\n<h2>Stairways in city walls and fortresses</h2>\n<p><strong><a href=\"https://ref.ly/Neh3:15\">NEH 3:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh3:19\">NEH 3:19</a>, <a href=\"https://ref.ly/Neh12:37\">NEH 12:37</a>; <a href=\"https://ref.ly/Acts21:35\">ACT 21:35</a>, <a href=\"https://ref.ly/Acts21:40\">ACT 21:40</a></p>\n<h2>Stairways in houses</h2>\n<h3>For access to upper floors and basements</h3>\n<p><strong><a href=\"https://ref.ly/Acts9:39\">ACT 9:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam18:33\">2SA 18:33</a>; <a href=\"https://ref.ly/1Kgs17:19\">1KI 17:19</a>; <a href=\"https://ref.ly/Acts1:13\">ACT 1:13</a>, <a href=\"https://ref.ly/Acts9:37\">ACT 9:37</a>, <a href=\"https://ref.ly/Acts10:20\">ACT 10:20</a>, <a href=\"https://ref.ly/Acts20:8\">ACT 20:8</a>, <a href=\"https://ref.ly/Acts20:11\">ACT 20:11</a></p>\n<h2>Figurative use of stairways</h2>\n<p><strong><a href=\"https://ref.ly/Gen28:12\">GEN 28:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/John1:51\">JHN 1:51</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11006008",
+"start_ref_usfm": "1KI 6:8",
+"end_ref": "11006008",
+"end_ref_usfm": "1KI 6:8"
+},
+{
+"start_ref": "16009004",
+"start_ref_usfm": "NEH 9:4",
+"end_ref": "16009004",
+"end_ref_usfm": "NEH 9:4"
+},
+{
+"start_ref": "26040049",
+"start_ref_usfm": "EZK 40:49",
+"end_ref": "26040049",
+"end_ref_usfm": "EZK 40:49"
+},
+{
+"start_ref": "26040006",
+"start_ref_usfm": "EZK 40:6",
+"end_ref": "26040006",
+"end_ref_usfm": "EZK 40:6"
+},
+{
+"start_ref": "26040022",
+"start_ref_usfm": "EZK 40:22",
+"end_ref": "26040022",
+"end_ref_usfm": "EZK 40:22"
+},
+{
+"start_ref": "26040026",
+"start_ref_usfm": "EZK 40:26",
+"end_ref": "26040026",
+"end_ref_usfm": "EZK 40:26"
+},
+{
+"start_ref": "26040031",
+"start_ref_usfm": "EZK 40:31",
+"end_ref": "26040031",
+"end_ref_usfm": "EZK 40:31"
+},
+{
+"start_ref": "26040034",
+"start_ref_usfm": "EZK 40:34",
+"end_ref": "26040034",
+"end_ref_usfm": "EZK 40:34"
+},
+{
+"start_ref": "26040037",
+"start_ref_usfm": "EZK 40:37",
+"end_ref": "26040037",
+"end_ref_usfm": "EZK 40:37"
+},
+{
+"start_ref": "26041007",
+"start_ref_usfm": "EZK 41:7",
+"end_ref": "26041007",
+"end_ref_usfm": "EZK 41:7"
+},
+{
+"start_ref": "26043017",
+"start_ref_usfm": "EZK 43:17",
+"end_ref": "26043017",
+"end_ref_usfm": "EZK 43:17"
+},
+{
+"start_ref": "02020026",
+"start_ref_usfm": "EXO 20:26",
+"end_ref": "02020026",
+"end_ref_usfm": "EXO 20:26"
+},
+{
+"start_ref": "11010019",
+"start_ref_usfm": "1KI 10:19",
+"end_ref": "11010020",
+"end_ref_usfm": "1KI 10:20"
+},
+{
+"start_ref": "14009018",
+"start_ref_usfm": "2CH 9:18",
+"end_ref": "14009019",
+"end_ref_usfm": "2CH 9:19"
+},
+{
+"start_ref": "12009013",
+"start_ref_usfm": "2KI 9:13",
+"end_ref": "12009013",
+"end_ref_usfm": "2KI 9:13"
+},
+{
+"start_ref": "12020011",
+"start_ref_usfm": "2KI 20:11",
+"end_ref": "12020011",
+"end_ref_usfm": "2KI 20:11"
+},
+{
+"start_ref": "23038008",
+"start_ref_usfm": "ISA 38:8",
+"end_ref": "23038008",
+"end_ref_usfm": "ISA 38:8"
+},
+{
+"start_ref": "16003015",
+"start_ref_usfm": "NEH 3:15",
+"end_ref": "16003015",
+"end_ref_usfm": "NEH 3:15"
+},
+{
+"start_ref": "16003019",
+"start_ref_usfm": "NEH 3:19",
+"end_ref": "16003019",
+"end_ref_usfm": "NEH 3:19"
+},
+{
+"start_ref": "16012037",
+"start_ref_usfm": "NEH 12:37",
+"end_ref": "16012037",
+"end_ref_usfm": "NEH 12:37"
+},
+{
+"start_ref": "44021035",
+"start_ref_usfm": "ACT 21:35",
+"end_ref": "44021035",
+"end_ref_usfm": "ACT 21:35"
+},
+{
+"start_ref": "44021040",
+"start_ref_usfm": "ACT 21:40",
+"end_ref": "44021040",
+"end_ref_usfm": "ACT 21:40"
+},
+{
+"start_ref": "44009039",
+"start_ref_usfm": "ACT 9:39",
+"end_ref": "44009039",
+"end_ref_usfm": "ACT 9:39"
+},
+{
+"start_ref": "10018033",
+"start_ref_usfm": "2SA 18:33",
+"end_ref": "10018033",
+"end_ref_usfm": "2SA 18:33"
+},
+{
+"start_ref": "11017019",
+"start_ref_usfm": "1KI 17:19",
+"end_ref": "11017019",
+"end_ref_usfm": "1KI 17:19"
+},
+{
+"start_ref": "44001013",
+"start_ref_usfm": "ACT 1:13",
+"end_ref": "44001013",
+"end_ref_usfm": "ACT 1:13"
+},
+{
+"start_ref": "44009037",
+"start_ref_usfm": "ACT 9:37",
+"end_ref": "44009037",
+"end_ref_usfm": "ACT 9:37"
+},
+{
+"start_ref": "44010020",
+"start_ref_usfm": "ACT 10:20",
+"end_ref": "44010020",
+"end_ref_usfm": "ACT 10:20"
+},
+{
+"start_ref": "44020008",
+"start_ref_usfm": "ACT 20:8",
+"end_ref": "44020008",
+"end_ref_usfm": "ACT 20:8"
+},
+{
+"start_ref": "44020011",
+"start_ref_usfm": "ACT 20:11",
+"end_ref": "44020011",
+"end_ref_usfm": "ACT 20:11"
+},
+{
+"start_ref": "01028012",
+"start_ref_usfm": "GEN 28:12",
+"end_ref": "01028012",
+"end_ref_usfm": "GEN 28:12"
+},
+{
+"start_ref": "43001051",
+"start_ref_usfm": "JHN 1:51",
+"end_ref": "43001051",
+"end_ref_usfm": "JHN 1:51"
+}
+],
+"resource": [
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "5340",
+"content_id": "5340",
+"resource_code": "DictionaryBibleThemes",
+"label": "5340: house",
+"language": "eng"
+},
+{
+"reference_id": "5506",
+"content_id": "5506",
+"resource_code": "DictionaryBibleThemes",
+"label": "5506: roof",
+"language": "eng"
+},
+{
+"reference_id": "5604",
+"content_id": "5604",
+"resource_code": "DictionaryBibleThemes",
+"label": "5604: walls",
+"language": "eng"
+}
+]
+}
+}
+]

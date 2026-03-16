@@ -1,0 +1,275 @@
+[
+{
+"content_id": "4848",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4848: smoke",
+"media_type": "Text",
+"index_reference": "4848: smoke",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Smoke associated with the divine presence</h2>\n<p><strong><a href=\"https://ref.ly/Exod19:18\">EXO 19:18</a></strong>; <strong><a href=\"https://ref.ly/Isa6:4\">ISA 6:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:18\">EXO 20:18</a>; <a href=\"https://ref.ly/Ps104:32\">PSA 104:32</a>, <a href=\"https://ref.ly/Ps144:5\">PSA 144:5</a>; <a href=\"https://ref.ly/Isa4:5\">ISA 4:5</a>; <a href=\"https://ref.ly/Rev15:8\">REV 15:8</a></p>\n<h2>Smoke associated with divine judgment</h2>\n<p><strong><a href=\"https://ref.ly/Isa9:18-Isa9:19\">ISA 9:18–9:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen15:17\">GEN 15:17</a>, <a href=\"https://ref.ly/Gen19:28\">GEN 19:28</a> <em>the destruction of Sodom and Gomorrah</em>; <a href=\"https://ref.ly/2Sam22:9\">2SA 22:9</a> parallel <a href=\"https://ref.ly/Ps18:8\">PSA 18:8</a>; <a href=\"https://ref.ly/Isa30:27\">ISA 30:27</a>, <a href=\"https://ref.ly/Isa34:10\">ISA 34:10</a>; <a href=\"https://ref.ly/Joel2:30\">JOL 2:30</a>; <a href=\"https://ref.ly/Nah2:13\">NAM 2:13</a>; <a href=\"https://ref.ly/Acts2:19\">ACT 2:19</a>; <a href=\"https://ref.ly/Rev14:11\">REV 14:11</a>, <a href=\"https://ref.ly/Rev18:9\">REV 18:9</a>, <a href=\"https://ref.ly/Rev18:18\">REV 18:18</a>, <a href=\"https://ref.ly/Rev19:3\">REV 19:3</a></p>\n<h2>Smoke associated with the offering of incense</h2>\n<p><strong><a href=\"https://ref.ly/Lev16:13\">LEV 16:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev8:4\">REV 8:4</a></p>\n<h2>Smoke associated with warfare</h2>\n<p><a href=\"https://ref.ly/Josh8:20-Josh8:21\">JOS 8:20–8:21</a>; ; <a href=\"https://ref.ly/Judg20:38\">JDG 20:38</a>, <a href=\"https://ref.ly/Judg20:40\">JDG 20:40</a></p>\n<h2>Smoke used poetically</h2>\n<h3>For something insubstantial</h3>\n<p><strong><a href=\"https://ref.ly/Hos13:3\">HOS 13:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps37:20\">PSA 37:20</a>, <a href=\"https://ref.ly/Ps68:2\">PSA 68:2</a>; <a href=\"https://ref.ly/Isa51:6\">ISA 51:6</a></p>\n<h3>In various other ways</h3>\n<p><strong><a href=\"https://ref.ly/Prov10:26\">PRO 10:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job41:20\">JOB 41:20</a>; <a href=\"https://ref.ly/Ps119:83\">PSA 119:83</a>; <a href=\"https://ref.ly/Song3:6\">SNG 3:6</a>; <a href=\"https://ref.ly/Isa14:31\">ISA 14:31</a>, <a href=\"https://ref.ly/Isa65:5\">ISA 65:5</a>; <a href=\"https://ref.ly/Rev9:2-Rev9:3\">REV 9:2–9:3</a>, <a href=\"https://ref.ly/Rev9:17-Rev9:18\">REV 9:17–9:18</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02019018",
+"start_ref_usfm": "EXO 19:18",
+"end_ref": "02019018",
+"end_ref_usfm": "EXO 19:18"
+},
+{
+"start_ref": "23006004",
+"start_ref_usfm": "ISA 6:4",
+"end_ref": "23006004",
+"end_ref_usfm": "ISA 6:4"
+},
+{
+"start_ref": "02020018",
+"start_ref_usfm": "EXO 20:18",
+"end_ref": "02020018",
+"end_ref_usfm": "EXO 20:18"
+},
+{
+"start_ref": "19104032",
+"start_ref_usfm": "PSA 104:32",
+"end_ref": "19104032",
+"end_ref_usfm": "PSA 104:32"
+},
+{
+"start_ref": "19144005",
+"start_ref_usfm": "PSA 144:5",
+"end_ref": "19144005",
+"end_ref_usfm": "PSA 144:5"
+},
+{
+"start_ref": "23004005",
+"start_ref_usfm": "ISA 4:5",
+"end_ref": "23004005",
+"end_ref_usfm": "ISA 4:5"
+},
+{
+"start_ref": "66015008",
+"start_ref_usfm": "REV 15:8",
+"end_ref": "66015008",
+"end_ref_usfm": "REV 15:8"
+},
+{
+"start_ref": "23009018",
+"start_ref_usfm": "ISA 9:18",
+"end_ref": "23009019",
+"end_ref_usfm": "ISA 9:19"
+},
+{
+"start_ref": "01015017",
+"start_ref_usfm": "GEN 15:17",
+"end_ref": "01015017",
+"end_ref_usfm": "GEN 15:17"
+},
+{
+"start_ref": "01019028",
+"start_ref_usfm": "GEN 19:28",
+"end_ref": "01019028",
+"end_ref_usfm": "GEN 19:28"
+},
+{
+"start_ref": "10022009",
+"start_ref_usfm": "2SA 22:9",
+"end_ref": "10022009",
+"end_ref_usfm": "2SA 22:9"
+},
+{
+"start_ref": "19018008",
+"start_ref_usfm": "PSA 18:8",
+"end_ref": "19018008",
+"end_ref_usfm": "PSA 18:8"
+},
+{
+"start_ref": "23030027",
+"start_ref_usfm": "ISA 30:27",
+"end_ref": "23030027",
+"end_ref_usfm": "ISA 30:27"
+},
+{
+"start_ref": "23034010",
+"start_ref_usfm": "ISA 34:10",
+"end_ref": "23034010",
+"end_ref_usfm": "ISA 34:10"
+},
+{
+"start_ref": "29002030",
+"start_ref_usfm": "JOL 2:30",
+"end_ref": "29002030",
+"end_ref_usfm": "JOL 2:30"
+},
+{
+"start_ref": "34002013",
+"start_ref_usfm": "NAM 2:13",
+"end_ref": "34002013",
+"end_ref_usfm": "NAM 2:13"
+},
+{
+"start_ref": "44002019",
+"start_ref_usfm": "ACT 2:19",
+"end_ref": "44002019",
+"end_ref_usfm": "ACT 2:19"
+},
+{
+"start_ref": "66014011",
+"start_ref_usfm": "REV 14:11",
+"end_ref": "66014011",
+"end_ref_usfm": "REV 14:11"
+},
+{
+"start_ref": "66018009",
+"start_ref_usfm": "REV 18:9",
+"end_ref": "66018009",
+"end_ref_usfm": "REV 18:9"
+},
+{
+"start_ref": "66018018",
+"start_ref_usfm": "REV 18:18",
+"end_ref": "66018018",
+"end_ref_usfm": "REV 18:18"
+},
+{
+"start_ref": "66019003",
+"start_ref_usfm": "REV 19:3",
+"end_ref": "66019003",
+"end_ref_usfm": "REV 19:3"
+},
+{
+"start_ref": "03016013",
+"start_ref_usfm": "LEV 16:13",
+"end_ref": "03016013",
+"end_ref_usfm": "LEV 16:13"
+},
+{
+"start_ref": "66008004",
+"start_ref_usfm": "REV 8:4",
+"end_ref": "66008004",
+"end_ref_usfm": "REV 8:4"
+},
+{
+"start_ref": "06008020",
+"start_ref_usfm": "JOS 8:20",
+"end_ref": "06008021",
+"end_ref_usfm": "JOS 8:21"
+},
+{
+"start_ref": "07020038",
+"start_ref_usfm": "JDG 20:38",
+"end_ref": "07020038",
+"end_ref_usfm": "JDG 20:38"
+},
+{
+"start_ref": "07020040",
+"start_ref_usfm": "JDG 20:40",
+"end_ref": "07020040",
+"end_ref_usfm": "JDG 20:40"
+},
+{
+"start_ref": "28013003",
+"start_ref_usfm": "HOS 13:3",
+"end_ref": "28013003",
+"end_ref_usfm": "HOS 13:3"
+},
+{
+"start_ref": "19037020",
+"start_ref_usfm": "PSA 37:20",
+"end_ref": "19037020",
+"end_ref_usfm": "PSA 37:20"
+},
+{
+"start_ref": "19068002",
+"start_ref_usfm": "PSA 68:2",
+"end_ref": "19068002",
+"end_ref_usfm": "PSA 68:2"
+},
+{
+"start_ref": "23051006",
+"start_ref_usfm": "ISA 51:6",
+"end_ref": "23051006",
+"end_ref_usfm": "ISA 51:6"
+},
+{
+"start_ref": "20010026",
+"start_ref_usfm": "PRO 10:26",
+"end_ref": "20010026",
+"end_ref_usfm": "PRO 10:26"
+},
+{
+"start_ref": "18041020",
+"start_ref_usfm": "JOB 41:20",
+"end_ref": "18041020",
+"end_ref_usfm": "JOB 41:20"
+},
+{
+"start_ref": "19119083",
+"start_ref_usfm": "PSA 119:83",
+"end_ref": "19119083",
+"end_ref_usfm": "PSA 119:83"
+},
+{
+"start_ref": "22003006",
+"start_ref_usfm": "SNG 3:6",
+"end_ref": "22003006",
+"end_ref_usfm": "SNG 3:6"
+},
+{
+"start_ref": "23014031",
+"start_ref_usfm": "ISA 14:31",
+"end_ref": "23014031",
+"end_ref_usfm": "ISA 14:31"
+},
+{
+"start_ref": "23065005",
+"start_ref_usfm": "ISA 65:5",
+"end_ref": "23065005",
+"end_ref_usfm": "ISA 65:5"
+},
+{
+"start_ref": "66009002",
+"start_ref_usfm": "REV 9:2",
+"end_ref": "66009003",
+"end_ref_usfm": "REV 9:3"
+},
+{
+"start_ref": "66009017",
+"start_ref_usfm": "REV 9:17",
+"end_ref": "66009018",
+"end_ref_usfm": "REV 9:18"
+}
+],
+"resource": [
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "4318",
+"content_id": "4318",
+"resource_code": "DictionaryBibleThemes",
+"label": "4318: coal",
+"language": "eng"
+},
+{
+"reference_id": "4805",
+"content_id": "4805",
+"resource_code": "DictionaryBibleThemes",
+"label": "4805: clouds",
+"language": "eng"
+},
+{
+"reference_id": "4826",
+"content_id": "4826",
+"resource_code": "DictionaryBibleThemes",
+"label": "4826: fire",
+"language": "eng"
+}
+]
+}
+}
+]

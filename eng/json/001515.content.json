@@ -1,0 +1,241 @@
+[
+{
+"content_id": "6125",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6125: condemnation, divine",
+"media_type": "Text",
+"index_reference": "6125: condemnation, divine",
+"language": "eng",
+"review_level": "None",
+"content": "<p>God's righteous condemnation is directed against human sin and wickedness.</p>\n<h2>God's wrath causes divine condemnation</h2>\n<p><strong><a href=\"https://ref.ly/Rom1:18-Rom1:20\">ROM 1:18–1:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev16:1-Rev16:7\">REV 16:1–16:7</a></p>\n<h2>The reality and certainty of divine condemnation</h2>\n<p><strong><a href=\"https://ref.ly/Mark16:15-Mark16:16\">MRK 16:15–16:16</a></strong>; <strong><a href=\"https://ref.ly/John5:28-John5:29\">JHN 5:28–5:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt12:36-Matt12:37\">MAT 12:36–12:37</a>, <a href=\"https://ref.ly/Matt25:31-Matt25:33\">MAT 25:31–25:33</a>, <a href=\"https://ref.ly/Matt25:41-Matt25:45\">MAT 25:41–25:45</a>; <a href=\"https://ref.ly/2Pet2:4-2Pet2:9\">2PE 2:4–2:9</a></p>\n<h2>People's awareness of being under divine condemnation</h2>\n<p><strong><a href=\"https://ref.ly/2Sam24:10\">2SA 24:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps32:3-Ps32:5\">PSA 32:3–32:5</a>, <a href=\"https://ref.ly/Ps51:3-Ps51:4\">PSA 51:3–51:4</a>; <a href=\"https://ref.ly/Dan9:7-Dan9:14\">DAN 9:7–9:14</a></p>\n<h2>Examples of divine condemnation</h2>\n<h3>Condemnation of individuals</h3>\n<p><a href=\"https://ref.ly/Gen3:16-Gen3:19\">GEN 3:16–3:19</a>; ; <a href=\"https://ref.ly/Acts5:1-Acts5:11\">ACT 5:1–5:11</a>; ; <a href=\"https://ref.ly/Rev20:11-Rev20:15\">REV 20:11–20:15</a></p>\n<h3>Condemnation of groups, cities and nations</h3>\n<p><a href=\"https://ref.ly/Gen11:4-Gen11:9\">GEN 11:4–11:9</a>, <a href=\"https://ref.ly/Gen19:23-Gen19:25\">GEN 19:23–19:25</a>; ; <a href=\"https://ref.ly/Joel3:1-Joel3:8\">JOL 3:1–3:8</a>, <a href=\"https://ref.ly/Joel3:12-Joel3:13\">JOL 3:12–3:13</a></p>\n<h2>Divine condemnation averted through the work of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/John3:16-John3:18\">JHN 3:16–3:18</a>, <a href=\"https://ref.ly/John5:24\">JHN 5:24</a></strong>; <strong><a href=\"https://ref.ly/Rom8:1-Rom8:4\">ROM 8:1–8:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:31-Rom8:34\">ROM 8:31–8:34</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "45001018",
+"start_ref_usfm": "ROM 1:18",
+"end_ref": "45001020",
+"end_ref_usfm": "ROM 1:20"
+},
+{
+"start_ref": "66016001",
+"start_ref_usfm": "REV 16:1",
+"end_ref": "66016007",
+"end_ref_usfm": "REV 16:7"
+},
+{
+"start_ref": "41016015",
+"start_ref_usfm": "MRK 16:15",
+"end_ref": "41016016",
+"end_ref_usfm": "MRK 16:16"
+},
+{
+"start_ref": "43005028",
+"start_ref_usfm": "JHN 5:28",
+"end_ref": "43005029",
+"end_ref_usfm": "JHN 5:29"
+},
+{
+"start_ref": "40012036",
+"start_ref_usfm": "MAT 12:36",
+"end_ref": "40012037",
+"end_ref_usfm": "MAT 12:37"
+},
+{
+"start_ref": "40025031",
+"start_ref_usfm": "MAT 25:31",
+"end_ref": "40025033",
+"end_ref_usfm": "MAT 25:33"
+},
+{
+"start_ref": "40025041",
+"start_ref_usfm": "MAT 25:41",
+"end_ref": "40025045",
+"end_ref_usfm": "MAT 25:45"
+},
+{
+"start_ref": "61002004",
+"start_ref_usfm": "2PE 2:4",
+"end_ref": "61002009",
+"end_ref_usfm": "2PE 2:9"
+},
+{
+"start_ref": "10024010",
+"start_ref_usfm": "2SA 24:10",
+"end_ref": "10024010",
+"end_ref_usfm": "2SA 24:10"
+},
+{
+"start_ref": "19032003",
+"start_ref_usfm": "PSA 32:3",
+"end_ref": "19032005",
+"end_ref_usfm": "PSA 32:5"
+},
+{
+"start_ref": "19051003",
+"start_ref_usfm": "PSA 51:3",
+"end_ref": "19051004",
+"end_ref_usfm": "PSA 51:4"
+},
+{
+"start_ref": "27009007",
+"start_ref_usfm": "DAN 9:7",
+"end_ref": "27009014",
+"end_ref_usfm": "DAN 9:14"
+},
+{
+"start_ref": "01003016",
+"start_ref_usfm": "GEN 3:16",
+"end_ref": "01003019",
+"end_ref_usfm": "GEN 3:19"
+},
+{
+"start_ref": "44005001",
+"start_ref_usfm": "ACT 5:1",
+"end_ref": "44005011",
+"end_ref_usfm": "ACT 5:11"
+},
+{
+"start_ref": "66020011",
+"start_ref_usfm": "REV 20:11",
+"end_ref": "66020015",
+"end_ref_usfm": "REV 20:15"
+},
+{
+"start_ref": "01011004",
+"start_ref_usfm": "GEN 11:4",
+"end_ref": "01011009",
+"end_ref_usfm": "GEN 11:9"
+},
+{
+"start_ref": "01019023",
+"start_ref_usfm": "GEN 19:23",
+"end_ref": "01019025",
+"end_ref_usfm": "GEN 19:25"
+},
+{
+"start_ref": "29003001",
+"start_ref_usfm": "JOL 3:1",
+"end_ref": "29003008",
+"end_ref_usfm": "JOL 3:8"
+},
+{
+"start_ref": "29003012",
+"start_ref_usfm": "JOL 3:12",
+"end_ref": "29003013",
+"end_ref_usfm": "JOL 3:13"
+},
+{
+"start_ref": "43003016",
+"start_ref_usfm": "JHN 3:16",
+"end_ref": "43003018",
+"end_ref_usfm": "JHN 3:18"
+},
+{
+"start_ref": "43005024",
+"start_ref_usfm": "JHN 5:24",
+"end_ref": "43005024",
+"end_ref_usfm": "JHN 5:24"
+},
+{
+"start_ref": "45008001",
+"start_ref_usfm": "ROM 8:1",
+"end_ref": "45008004",
+"end_ref_usfm": "ROM 8:4"
+},
+{
+"start_ref": "45008031",
+"start_ref_usfm": "ROM 8:31",
+"end_ref": "45008034",
+"end_ref_usfm": "ROM 8:34"
+}
+],
+"resource": [
+{
+"reference_id": "1025",
+"content_id": "1025",
+"resource_code": "DictionaryBibleThemes",
+"label": "1025: God, anger of",
+"language": "eng"
+},
+{
+"reference_id": "1310",
+"content_id": "1310",
+"resource_code": "DictionaryBibleThemes",
+"label": "1310: God, as judge",
+"language": "eng"
+},
+{
+"reference_id": "2309",
+"content_id": "2309",
+"resource_code": "DictionaryBibleThemes",
+"label": "2309: Jesus Christ, as judge",
+"language": "eng"
+},
+{
+"reference_id": "2324",
+"content_id": "2324",
+"resource_code": "DictionaryBibleThemes",
+"label": "2324: Jesus Christ, as Saviour",
+"language": "eng"
+},
+{
+"reference_id": "5484",
+"content_id": "5484",
+"resource_code": "DictionaryBibleThemes",
+"label": "5484: punishment, by God",
+"language": "eng"
+},
+{
+"reference_id": "5790",
+"content_id": "5790",
+"resource_code": "DictionaryBibleThemes",
+"label": "5790: anger, divine",
+"language": "eng"
+},
+{
+"reference_id": "6173",
+"content_id": "6173",
+"resource_code": "DictionaryBibleThemes",
+"label": "6173: guilt, and God",
+"language": "eng"
+},
+{
+"reference_id": "6615",
+"content_id": "6615",
+"resource_code": "DictionaryBibleThemes",
+"label": "6615: atonement, necessity and nature of",
+"language": "eng"
+},
+{
+"reference_id": "6717",
+"content_id": "6717",
+"resource_code": "DictionaryBibleThemes",
+"label": "6717: reconciliation, of the world to God",
+"language": "eng"
+},
+{
+"reference_id": "8022",
+"content_id": "8022",
+"resource_code": "DictionaryBibleThemes",
+"label": "8022: faith, as basis of salvation",
+"language": "eng"
+},
+{
+"reference_id": "8154",
+"content_id": "8154",
+"resource_code": "DictionaryBibleThemes",
+"label": "8154: righteousness",
+"language": "eng"
+},
+{
+"reference_id": "9250",
+"content_id": "9250",
+"resource_code": "DictionaryBibleThemes",
+"label": "9250: woe",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,252 @@
+[
+{
+"content_id": "8752",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8752: false worship",
+"media_type": "Text",
+"index_reference": "8752: false worship",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Forms of worship that are not worthy of God, especially worship offered without sincerity and obedience or that is contrary to the commands of God.</p>\n<h2>Examples of false worship</h2>\n<h3>Worship conducted in disobedience to God</h3>\n<p><strong><a href=\"https://ref.ly/Lev10:1-Lev10:2\">LEV 10:1–10:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num3:2-Num3:4\">NUM 3:2–3:4</a>; <a href=\"https://ref.ly/1Sam15:1-1Sam15:23\">1SA 15:1–15:23</a>; <a href=\"https://ref.ly/2Kgs17:33\">2KI 17:33</a></p>\n<h3>Worship and sacrifices offered by those who were not priests</h3>\n<p><strong><a href=\"https://ref.ly/1Sam13:11-1Sam13:14\">1SA 13:11–13:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr26:19-2Chr26:20\">2CH 26:19–26:20</a></p>\n<h3>Insincere worship</h3>\n<p><strong><a href=\"https://ref.ly/Isa29:13\">ISA 29:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt15:8-Matt15:9\">MAT 15:8–15:9</a>; <a href=\"https://ref.ly/Mark7:6-Mark7:7\">MRK 7:6–7:7</a>; <a href=\"https://ref.ly/Col2:23\">COL 2:23</a></p>\n<h3>Worship lacking in due humility and reverence</h3>\n<p><strong><a href=\"https://ref.ly/Matt6:5\">MAT 6:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke18:10-Luke18:14\">LUK 18:10–18:14</a></p>\n<h3>Worship conducted in ignorance of God</h3>\n<p><strong><a href=\"https://ref.ly/John4:22\">JHN 4:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts17:22-Acts17:23\">ACT 17:22–17:23</a></p>\n<h2>Scripture vividly contrasts false worship with true worship</h2>\n<h3>True worship involves the worshipper's heart, soul and mind</h3>\n<p><a href=\"https://ref.ly/Deut6:5\">DEU 6:5</a> parallels <a href=\"https://ref.ly/Matt22:37\">MAT 22:37</a>, <a href=\"https://ref.ly/Mark12:30\">MRK 12:30</a>, <a href=\"https://ref.ly/Luke10:27\">LUK 10:27</a></p>\n<h3>True worship is costly</h3>\n<p><a href=\"https://ref.ly/2Sam24:24\">2SA 24:24</a>; ; <a href=\"https://ref.ly/Mark12:41-Mark12:44\">MRK 12:41–12:44</a>; ; <a href=\"https://ref.ly/Rom12:1\">ROM 12:1</a> <em>True worship involves the whole of a person's life and not just formal acts of worship.</em></p>\n<h3>True worship is in the spirit</h3>\n<p><strong><a href=\"https://ref.ly/John4:23-John4:24\">JHN 4:23–4:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa29:23\">ISA 29:23</a>; <a href=\"https://ref.ly/Phil3:3\">PHP 3:3</a>; <a href=\"https://ref.ly/1Tim2:9\">1TI 2:9</a>; <a href=\"https://ref.ly/Heb12:28\">HEB 12:28</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03010001",
+"start_ref_usfm": "LEV 10:1",
+"end_ref": "03010002",
+"end_ref_usfm": "LEV 10:2"
+},
+{
+"start_ref": "04003002",
+"start_ref_usfm": "NUM 3:2",
+"end_ref": "04003004",
+"end_ref_usfm": "NUM 3:4"
+},
+{
+"start_ref": "09015001",
+"start_ref_usfm": "1SA 15:1",
+"end_ref": "09015023",
+"end_ref_usfm": "1SA 15:23"
+},
+{
+"start_ref": "12017033",
+"start_ref_usfm": "2KI 17:33",
+"end_ref": "12017033",
+"end_ref_usfm": "2KI 17:33"
+},
+{
+"start_ref": "09013011",
+"start_ref_usfm": "1SA 13:11",
+"end_ref": "09013014",
+"end_ref_usfm": "1SA 13:14"
+},
+{
+"start_ref": "14026019",
+"start_ref_usfm": "2CH 26:19",
+"end_ref": "14026020",
+"end_ref_usfm": "2CH 26:20"
+},
+{
+"start_ref": "23029013",
+"start_ref_usfm": "ISA 29:13",
+"end_ref": "23029013",
+"end_ref_usfm": "ISA 29:13"
+},
+{
+"start_ref": "40015008",
+"start_ref_usfm": "MAT 15:8",
+"end_ref": "40015009",
+"end_ref_usfm": "MAT 15:9"
+},
+{
+"start_ref": "41007006",
+"start_ref_usfm": "MRK 7:6",
+"end_ref": "41007007",
+"end_ref_usfm": "MRK 7:7"
+},
+{
+"start_ref": "51002023",
+"start_ref_usfm": "COL 2:23",
+"end_ref": "51002023",
+"end_ref_usfm": "COL 2:23"
+},
+{
+"start_ref": "40006005",
+"start_ref_usfm": "MAT 6:5",
+"end_ref": "40006005",
+"end_ref_usfm": "MAT 6:5"
+},
+{
+"start_ref": "42018010",
+"start_ref_usfm": "LUK 18:10",
+"end_ref": "42018014",
+"end_ref_usfm": "LUK 18:14"
+},
+{
+"start_ref": "43004022",
+"start_ref_usfm": "JHN 4:22",
+"end_ref": "43004022",
+"end_ref_usfm": "JHN 4:22"
+},
+{
+"start_ref": "44017022",
+"start_ref_usfm": "ACT 17:22",
+"end_ref": "44017023",
+"end_ref_usfm": "ACT 17:23"
+},
+{
+"start_ref": "05006005",
+"start_ref_usfm": "DEU 6:5",
+"end_ref": "05006005",
+"end_ref_usfm": "DEU 6:5"
+},
+{
+"start_ref": "40022037",
+"start_ref_usfm": "MAT 22:37",
+"end_ref": "40022037",
+"end_ref_usfm": "MAT 22:37"
+},
+{
+"start_ref": "41012030",
+"start_ref_usfm": "MRK 12:30",
+"end_ref": "41012030",
+"end_ref_usfm": "MRK 12:30"
+},
+{
+"start_ref": "42010027",
+"start_ref_usfm": "LUK 10:27",
+"end_ref": "42010027",
+"end_ref_usfm": "LUK 10:27"
+},
+{
+"start_ref": "10024024",
+"start_ref_usfm": "2SA 24:24",
+"end_ref": "10024024",
+"end_ref_usfm": "2SA 24:24"
+},
+{
+"start_ref": "41012041",
+"start_ref_usfm": "MRK 12:41",
+"end_ref": "41012044",
+"end_ref_usfm": "MRK 12:44"
+},
+{
+"start_ref": "45012001",
+"start_ref_usfm": "ROM 12:1",
+"end_ref": "45012001",
+"end_ref_usfm": "ROM 12:1"
+},
+{
+"start_ref": "43004023",
+"start_ref_usfm": "JHN 4:23",
+"end_ref": "43004024",
+"end_ref_usfm": "JHN 4:24"
+},
+{
+"start_ref": "23029023",
+"start_ref_usfm": "ISA 29:23",
+"end_ref": "23029023",
+"end_ref_usfm": "ISA 29:23"
+},
+{
+"start_ref": "50003003",
+"start_ref_usfm": "PHP 3:3",
+"end_ref": "50003003",
+"end_ref_usfm": "PHP 3:3"
+},
+{
+"start_ref": "54002009",
+"start_ref_usfm": "1TI 2:9",
+"end_ref": "54002009",
+"end_ref_usfm": "1TI 2:9"
+},
+{
+"start_ref": "58012028",
+"start_ref_usfm": "HEB 12:28",
+"end_ref": "58012028",
+"end_ref_usfm": "HEB 12:28"
+}
+],
+"resource": [
+{
+"reference_id": "5135",
+"content_id": "5135",
+"resource_code": "DictionaryBibleThemes",
+"label": "5135: blindness, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "6183",
+"content_id": "6183",
+"resource_code": "DictionaryBibleThemes",
+"label": "6183: ignorance, of God",
+"language": "eng"
+},
+{
+"reference_id": "7413",
+"content_id": "7413",
+"resource_code": "DictionaryBibleThemes",
+"label": "7413: priesthood, in OT",
+"language": "eng"
+},
+{
+"reference_id": "8218",
+"content_id": "8218",
+"resource_code": "DictionaryBibleThemes",
+"label": "8218: consecration",
+"language": "eng"
+},
+{
+"reference_id": "8333",
+"content_id": "8333",
+"resource_code": "DictionaryBibleThemes",
+"label": "8333: reverence",
+"language": "eng"
+},
+{
+"reference_id": "8622",
+"content_id": "8622",
+"resource_code": "DictionaryBibleThemes",
+"label": "8622: worship",
+"language": "eng"
+},
+{
+"reference_id": "8714",
+"content_id": "8714",
+"resource_code": "DictionaryBibleThemes",
+"label": "8714: dishonesty",
+"language": "eng"
+},
+{
+"reference_id": "8718",
+"content_id": "8718",
+"resource_code": "DictionaryBibleThemes",
+"label": "8718: disobedience",
+"language": "eng"
+},
+{
+"reference_id": "8748",
+"content_id": "8748",
+"resource_code": "DictionaryBibleThemes",
+"label": "8748: false religion",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+},
+{
+"reference_id": "8784",
+"content_id": "8784",
+"resource_code": "DictionaryBibleThemes",
+"label": "8784: nominal religion",
+"language": "eng"
+}
+]
+}
+}
+]

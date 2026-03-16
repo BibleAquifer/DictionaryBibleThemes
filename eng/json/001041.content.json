@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5466",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5466: promises",
+"media_type": "Text",
+"index_reference": "5466: promises",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Binding offers or commitments on the part of one person or people to another. The value of such promises depends upon the reliability and trustworthiness of the person who makes the promises. Scripture stresses the total reliability of God, including his promise to bestow his Spirit and urges believers to demonstrate the same trustworthiness in their dealings with one another.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5467",
+"content_id": "5467",
+"resource_code": "DictionaryBibleThemes",
+"label": "5467: promises, divine",
+"language": "eng"
+},
+{
+"reference_id": "5468",
+"content_id": "5468",
+"resource_code": "DictionaryBibleThemes",
+"label": "5468: promises, human",
+"language": "eng"
+},
+{
+"reference_id": "5469",
+"content_id": "5469",
+"resource_code": "DictionaryBibleThemes",
+"label": "5469: promise, of Holy Spirit",
+"language": "eng"
+}
+]
+}
+}
+]

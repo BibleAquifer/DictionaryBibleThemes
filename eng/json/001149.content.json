@@ -1,0 +1,289 @@
+[
+{
+"content_id": "5584",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5584: torture",
+"media_type": "Text",
+"index_reference": "5584: torture",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The torture of people</h2>\n<p><strong><a href=\"https://ref.ly/Jer52:10-Jer52:11\">JER 52:10–52:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut28:29-Deut28:35\">DEU 28:29–28:35</a>; <a href=\"https://ref.ly/Judg8:16\">JDG 8:16</a>, <a href=\"https://ref.ly/Judg16:21\">JDG 16:21</a>; <a href=\"https://ref.ly/Job19:2\">JOB 19:2</a>; <a href=\"https://ref.ly/Ps137:3\">PSA 137:3</a>; <a href=\"https://ref.ly/Isa13:15-Isa13:18\">ISA 13:15–13:18</a>, <a href=\"https://ref.ly/Isa51:23\">ISA 51:23</a>; <a href=\"https://ref.ly/Lam5:11-Lam5:13\">LAM 5:11–5:13</a>; <a href=\"https://ref.ly/Ezek23:10\">EZK 23:10</a>; <a href=\"https://ref.ly/Matt18:34\">MAT 18:34</a>; <a href=\"https://ref.ly/Acts16:22-Acts16:24\">ACT 16:22–16:24</a>; <a href=\"https://ref.ly/Heb11:35-Heb11:38\">HEB 11:35–11:38</a>; <a href=\"https://ref.ly/Rev9:5\">REV 9:5</a>, <a href=\"https://ref.ly/Rev9:10\">REV 9:10</a></p>\n<h2>The torture of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Luke22:63\">LUK 22:63</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt27:27-Matt27:31\">MAT 27:27–27:31</a> parallel <a href=\"https://ref.ly/Mark15:16-Mark15:20\">MRK 15:16–15:20</a>; <a href=\"https://ref.ly/John19:2-John19:3\">JHN 19:2–19:3</a><strong><a href=\"https://ref.ly/John19:18\">JHN 19:18</a></strong> parallels <a href=\"https://ref.ly/Matt27:35\">MAT 27:35</a>, <a href=\"https://ref.ly/Mark15:24\">MRK 15:24</a>, <a href=\"https://ref.ly/Luke23:33\">LUK 23:33</a> <em>Crucifixion was essentially death by torture.</em></p>\n<h2>Torture in the setting of judgment</h2>\n<p><strong><a href=\"https://ref.ly/Matt8:29\">MAT 8:29</a></strong> parallels <a href=\"https://ref.ly/Mark5:7\">MRK 5:7</a>, <a href=\"https://ref.ly/Luke8:28\">LUK 8:28</a><strong><a href=\"https://ref.ly/Rev20:10\">REV 20:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt25:46\">MAT 25:46</a>; <a href=\"https://ref.ly/Luke16:23\">LUK 16:23</a>; <a href=\"https://ref.ly/Rev14:11\">REV 14:11</a>, <a href=\"https://ref.ly/Rev18:7\">REV 18:7</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "24052010",
+"start_ref_usfm": "JER 52:10",
+"end_ref": "24052011",
+"end_ref_usfm": "JER 52:11"
+},
+{
+"start_ref": "05028029",
+"start_ref_usfm": "DEU 28:29",
+"end_ref": "05028035",
+"end_ref_usfm": "DEU 28:35"
+},
+{
+"start_ref": "07008016",
+"start_ref_usfm": "JDG 8:16",
+"end_ref": "07008016",
+"end_ref_usfm": "JDG 8:16"
+},
+{
+"start_ref": "07016021",
+"start_ref_usfm": "JDG 16:21",
+"end_ref": "07016021",
+"end_ref_usfm": "JDG 16:21"
+},
+{
+"start_ref": "18019002",
+"start_ref_usfm": "JOB 19:2",
+"end_ref": "18019002",
+"end_ref_usfm": "JOB 19:2"
+},
+{
+"start_ref": "19137003",
+"start_ref_usfm": "PSA 137:3",
+"end_ref": "19137003",
+"end_ref_usfm": "PSA 137:3"
+},
+{
+"start_ref": "23013015",
+"start_ref_usfm": "ISA 13:15",
+"end_ref": "23013018",
+"end_ref_usfm": "ISA 13:18"
+},
+{
+"start_ref": "23051023",
+"start_ref_usfm": "ISA 51:23",
+"end_ref": "23051023",
+"end_ref_usfm": "ISA 51:23"
+},
+{
+"start_ref": "25005011",
+"start_ref_usfm": "LAM 5:11",
+"end_ref": "25005013",
+"end_ref_usfm": "LAM 5:13"
+},
+{
+"start_ref": "26023010",
+"start_ref_usfm": "EZK 23:10",
+"end_ref": "26023010",
+"end_ref_usfm": "EZK 23:10"
+},
+{
+"start_ref": "40018034",
+"start_ref_usfm": "MAT 18:34",
+"end_ref": "40018034",
+"end_ref_usfm": "MAT 18:34"
+},
+{
+"start_ref": "44016022",
+"start_ref_usfm": "ACT 16:22",
+"end_ref": "44016024",
+"end_ref_usfm": "ACT 16:24"
+},
+{
+"start_ref": "58011035",
+"start_ref_usfm": "HEB 11:35",
+"end_ref": "58011038",
+"end_ref_usfm": "HEB 11:38"
+},
+{
+"start_ref": "66009005",
+"start_ref_usfm": "REV 9:5",
+"end_ref": "66009005",
+"end_ref_usfm": "REV 9:5"
+},
+{
+"start_ref": "66009010",
+"start_ref_usfm": "REV 9:10",
+"end_ref": "66009010",
+"end_ref_usfm": "REV 9:10"
+},
+{
+"start_ref": "42022063",
+"start_ref_usfm": "LUK 22:63",
+"end_ref": "42022063",
+"end_ref_usfm": "LUK 22:63"
+},
+{
+"start_ref": "40027027",
+"start_ref_usfm": "MAT 27:27",
+"end_ref": "40027031",
+"end_ref_usfm": "MAT 27:31"
+},
+{
+"start_ref": "41015016",
+"start_ref_usfm": "MRK 15:16",
+"end_ref": "41015020",
+"end_ref_usfm": "MRK 15:20"
+},
+{
+"start_ref": "43019002",
+"start_ref_usfm": "JHN 19:2",
+"end_ref": "43019003",
+"end_ref_usfm": "JHN 19:3"
+},
+{
+"start_ref": "43019018",
+"start_ref_usfm": "JHN 19:18",
+"end_ref": "43019018",
+"end_ref_usfm": "JHN 19:18"
+},
+{
+"start_ref": "40027035",
+"start_ref_usfm": "MAT 27:35",
+"end_ref": "40027035",
+"end_ref_usfm": "MAT 27:35"
+},
+{
+"start_ref": "41015024",
+"start_ref_usfm": "MRK 15:24",
+"end_ref": "41015024",
+"end_ref_usfm": "MRK 15:24"
+},
+{
+"start_ref": "42023033",
+"start_ref_usfm": "LUK 23:33",
+"end_ref": "42023033",
+"end_ref_usfm": "LUK 23:33"
+},
+{
+"start_ref": "40008029",
+"start_ref_usfm": "MAT 8:29",
+"end_ref": "40008029",
+"end_ref_usfm": "MAT 8:29"
+},
+{
+"start_ref": "41005007",
+"start_ref_usfm": "MRK 5:7",
+"end_ref": "41005007",
+"end_ref_usfm": "MRK 5:7"
+},
+{
+"start_ref": "42008028",
+"start_ref_usfm": "LUK 8:28",
+"end_ref": "42008028",
+"end_ref_usfm": "LUK 8:28"
+},
+{
+"start_ref": "66020010",
+"start_ref_usfm": "REV 20:10",
+"end_ref": "66020010",
+"end_ref_usfm": "REV 20:10"
+},
+{
+"start_ref": "40025046",
+"start_ref_usfm": "MAT 25:46",
+"end_ref": "40025046",
+"end_ref_usfm": "MAT 25:46"
+},
+{
+"start_ref": "42016023",
+"start_ref_usfm": "LUK 16:23",
+"end_ref": "42016023",
+"end_ref_usfm": "LUK 16:23"
+},
+{
+"start_ref": "66014011",
+"start_ref_usfm": "REV 14:11",
+"end_ref": "66014011",
+"end_ref_usfm": "REV 14:11"
+},
+{
+"start_ref": "66018007",
+"start_ref_usfm": "REV 18:7",
+"end_ref": "66018007",
+"end_ref_usfm": "REV 18:7"
+}
+],
+"resource": [
+{
+"reference_id": "2570",
+"content_id": "2570",
+"resource_code": "DictionaryBibleThemes",
+"label": "2570: Jesus Christ, suffering of",
+"language": "eng"
+},
+{
+"reference_id": "5281",
+"content_id": "5281",
+"resource_code": "DictionaryBibleThemes",
+"label": "5281: crucifixion",
+"language": "eng"
+},
+{
+"reference_id": "5313",
+"content_id": "5313",
+"resource_code": "DictionaryBibleThemes",
+"label": "5313: flogging",
+"language": "eng"
+},
+{
+"reference_id": "5436",
+"content_id": "5436",
+"resource_code": "DictionaryBibleThemes",
+"label": "5436: pain",
+"language": "eng"
+},
+{
+"reference_id": "5482",
+"content_id": "5482",
+"resource_code": "DictionaryBibleThemes",
+"label": "5482: punishment",
+"language": "eng"
+},
+{
+"reference_id": "5557",
+"content_id": "5557",
+"resource_code": "DictionaryBibleThemes",
+"label": "5557: stoning",
+"language": "eng"
+},
+{
+"reference_id": "5560",
+"content_id": "5560",
+"resource_code": "DictionaryBibleThemes",
+"label": "5560: suffering",
+"language": "eng"
+},
+{
+"reference_id": "5782",
+"content_id": "5782",
+"resource_code": "DictionaryBibleThemes",
+"label": "5782: agony",
+"language": "eng"
+},
+{
+"reference_id": "5823",
+"content_id": "5823",
+"resource_code": "DictionaryBibleThemes",
+"label": "5823: cruelty",
+"language": "eng"
+},
+{
+"reference_id": "8450",
+"content_id": "8450",
+"resource_code": "DictionaryBibleThemes",
+"label": "8450: martyrdom",
+"language": "eng"
+},
+{
+"reference_id": "8796",
+"content_id": "8796",
+"resource_code": "DictionaryBibleThemes",
+"label": "8796: persecution, forms of",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

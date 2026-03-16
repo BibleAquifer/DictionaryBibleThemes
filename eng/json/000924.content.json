@@ -1,0 +1,325 @@
+[
+{
+"content_id": "5337",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5337: hiring",
+"media_type": "Text",
+"index_reference": "5337: hiring",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Laws relating to hiring</h2>\n<h3>Hired workers must be paid on time</h3>\n<p><strong><a href=\"https://ref.ly/Lev19:13\">LEV 19:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut24:14-Deut24:15\">DEU 24:14–24:15</a>; <a href=\"https://ref.ly/Jas5:4\">JAS 5:4</a></p>\n<h3>Regular rates of pay must be established</h3>\n<p><a href=\"https://ref.ly/Lev25:50\">LEV 25:50</a></p>\n<h3>Hired workers are to be treated with kindness</h3>\n<p><a href=\"https://ref.ly/Lev25:6\">LEV 25:6</a>, <a href=\"https://ref.ly/Lev25:39-Lev25:40\">LEV 25:39–25:40</a>, <a href=\"https://ref.ly/Lev25:53\">LEV 25:53</a></p>\n<h3>Hired foreigners were excluded from the Passover</h3>\n<p><a href=\"https://ref.ly/Exod12:43-Exod12:45\">EXO 12:43–12:45</a></p>\n<h3>Hired workers must be carefully chosen</h3>\n<p><a href=\"https://ref.ly/Prov26:10\">PRO 26:10</a></p>\n<h3>Loss of a hired animal is covered by the price</h3>\n<p><a href=\"https://ref.ly/Exod22:15\">EXO 22:15</a></p>\n<h2>Various kinds of hiring</h2>\n<h3>A hired husband</h3>\n<p><a href=\"https://ref.ly/Gen30:16\">GEN 30:16</a></p>\n<h3>A hired prophet</h3>\n<p><strong><a href=\"https://ref.ly/Deut23:4\">DEU 23:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh6:12-Neh6:13\">NEH 6:12–6:13</a>, <a href=\"https://ref.ly/Neh13:2\">NEH 13:2</a>; <a href=\"https://ref.ly/Jude1:11\">JUD 1:11</a></p>\n<h3>A hired priest</h3>\n<p><a href=\"https://ref.ly/Judg17:10\">JDG 17:10</a>, <a href=\"https://ref.ly/Judg18:4\">JDG 18:4</a></p>\n<h3>Hired soldiers</h3>\n<p><a href=\"https://ref.ly/Judg9:4\">JDG 9:4</a>; ; <a href=\"https://ref.ly/2Sam10:6\">2SA 10:6</a>; ; <a href=\"https://ref.ly/2Kgs7:6\">2KI 7:6</a>; ; <a href=\"https://ref.ly/1Chr19:6-1Chr19:7\">1CH 19:6–19:7</a>; ; <a href=\"https://ref.ly/2Chr25:6\">2CH 25:6</a>; ; <a href=\"https://ref.ly/Jer46:21\">JER 46:21</a> <em>No hired mercenary army was ever approved by the LORD (see <a href=\"https://ref.ly/2Chr25:7-2Chr25:10\">2Ch 25:7–10</a>).</em></p>\n<h3>Other hirings</h3>\n<p><a href=\"https://ref.ly/1Sam2:5\">1SA 2:5</a> <em>hirings for food</em>; ; <a href=\"https://ref.ly/2Chr24:12\">2CH 24:12</a> <em>masons and carpenters</em>; ; <a href=\"https://ref.ly/Ezra4:5\">EZR 4:5</a> <em>counsellors</em>; ; <a href=\"https://ref.ly/Isa7:20\">ISA 7:20</a> <em>a razor, symbolising the judgment to be brought by the king of Assyria</em>; ; <a href=\"https://ref.ly/Isa23:17\">ISA 23:17</a> <em>prostitutes</em>; ; <a href=\"https://ref.ly/Isa46:6\">ISA 46:6</a> <em>goldsmiths</em>; ; <a href=\"https://ref.ly/Mark1:20\">MRK 1:20</a> <em>fishermen</em></p>\n<h2>Teachings illustrated by hired workers</h2>\n<h3>The brevity and hardness of life</h3>\n<p><strong><a href=\"https://ref.ly/Job7:1-Job7:3\">JOB 7:1–7:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job14:6\">JOB 14:6</a></p>\n<h3>Christian workers</h3>\n<p><strong><a href=\"https://ref.ly/Matt20:1-Matt20:15\">MAT 20:1–20:15</a></strong> <em>This parable teaches that believers should not serve in a mercenary spirit but recognise that God's reward is based upon grace.</em></p>\n<h3>The severity of the world and the kindness of God</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Luke15:15-Luke15:19\">LUK 15:15–15:19</a></p>\n<h2>The difference between hired and good shepherds</h2>\n<p><strong><a href=\"https://ref.ly/John10:11-John10:13\">JHN 10:11–10:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Pet5:2\">1PE 5:2</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03019013",
+"start_ref_usfm": "LEV 19:13",
+"end_ref": "03019013",
+"end_ref_usfm": "LEV 19:13"
+},
+{
+"start_ref": "05024014",
+"start_ref_usfm": "DEU 24:14",
+"end_ref": "05024015",
+"end_ref_usfm": "DEU 24:15"
+},
+{
+"start_ref": "59005004",
+"start_ref_usfm": "JAS 5:4",
+"end_ref": "59005004",
+"end_ref_usfm": "JAS 5:4"
+},
+{
+"start_ref": "03025050",
+"start_ref_usfm": "LEV 25:50",
+"end_ref": "03025050",
+"end_ref_usfm": "LEV 25:50"
+},
+{
+"start_ref": "03025006",
+"start_ref_usfm": "LEV 25:6",
+"end_ref": "03025006",
+"end_ref_usfm": "LEV 25:6"
+},
+{
+"start_ref": "03025039",
+"start_ref_usfm": "LEV 25:39",
+"end_ref": "03025040",
+"end_ref_usfm": "LEV 25:40"
+},
+{
+"start_ref": "03025053",
+"start_ref_usfm": "LEV 25:53",
+"end_ref": "03025053",
+"end_ref_usfm": "LEV 25:53"
+},
+{
+"start_ref": "02012043",
+"start_ref_usfm": "EXO 12:43",
+"end_ref": "02012045",
+"end_ref_usfm": "EXO 12:45"
+},
+{
+"start_ref": "20026010",
+"start_ref_usfm": "PRO 26:10",
+"end_ref": "20026010",
+"end_ref_usfm": "PRO 26:10"
+},
+{
+"start_ref": "02022015",
+"start_ref_usfm": "EXO 22:15",
+"end_ref": "02022015",
+"end_ref_usfm": "EXO 22:15"
+},
+{
+"start_ref": "01030016",
+"start_ref_usfm": "GEN 30:16",
+"end_ref": "01030016",
+"end_ref_usfm": "GEN 30:16"
+},
+{
+"start_ref": "05023004",
+"start_ref_usfm": "DEU 23:4",
+"end_ref": "05023004",
+"end_ref_usfm": "DEU 23:4"
+},
+{
+"start_ref": "16006012",
+"start_ref_usfm": "NEH 6:12",
+"end_ref": "16006013",
+"end_ref_usfm": "NEH 6:13"
+},
+{
+"start_ref": "16013002",
+"start_ref_usfm": "NEH 13:2",
+"end_ref": "16013002",
+"end_ref_usfm": "NEH 13:2"
+},
+{
+"start_ref": "65001011",
+"start_ref_usfm": "JUD 1:11",
+"end_ref": "65001011",
+"end_ref_usfm": "JUD 1:11"
+},
+{
+"start_ref": "07017010",
+"start_ref_usfm": "JDG 17:10",
+"end_ref": "07017010",
+"end_ref_usfm": "JDG 17:10"
+},
+{
+"start_ref": "07018004",
+"start_ref_usfm": "JDG 18:4",
+"end_ref": "07018004",
+"end_ref_usfm": "JDG 18:4"
+},
+{
+"start_ref": "07009004",
+"start_ref_usfm": "JDG 9:4",
+"end_ref": "07009004",
+"end_ref_usfm": "JDG 9:4"
+},
+{
+"start_ref": "10010006",
+"start_ref_usfm": "2SA 10:6",
+"end_ref": "10010006",
+"end_ref_usfm": "2SA 10:6"
+},
+{
+"start_ref": "12007006",
+"start_ref_usfm": "2KI 7:6",
+"end_ref": "12007006",
+"end_ref_usfm": "2KI 7:6"
+},
+{
+"start_ref": "13019006",
+"start_ref_usfm": "1CH 19:6",
+"end_ref": "13019007",
+"end_ref_usfm": "1CH 19:7"
+},
+{
+"start_ref": "14025006",
+"start_ref_usfm": "2CH 25:6",
+"end_ref": "14025006",
+"end_ref_usfm": "2CH 25:6"
+},
+{
+"start_ref": "24046021",
+"start_ref_usfm": "JER 46:21",
+"end_ref": "24046021",
+"end_ref_usfm": "JER 46:21"
+},
+{
+"start_ref": "14025007",
+"start_ref_usfm": "2CH 25:7",
+"end_ref": "14025010",
+"end_ref_usfm": "2CH 25:10"
+},
+{
+"start_ref": "09002005",
+"start_ref_usfm": "1SA 2:5",
+"end_ref": "09002005",
+"end_ref_usfm": "1SA 2:5"
+},
+{
+"start_ref": "14024012",
+"start_ref_usfm": "2CH 24:12",
+"end_ref": "14024012",
+"end_ref_usfm": "2CH 24:12"
+},
+{
+"start_ref": "15004005",
+"start_ref_usfm": "EZR 4:5",
+"end_ref": "15004005",
+"end_ref_usfm": "EZR 4:5"
+},
+{
+"start_ref": "23007020",
+"start_ref_usfm": "ISA 7:20",
+"end_ref": "23007020",
+"end_ref_usfm": "ISA 7:20"
+},
+{
+"start_ref": "23023017",
+"start_ref_usfm": "ISA 23:17",
+"end_ref": "23023017",
+"end_ref_usfm": "ISA 23:17"
+},
+{
+"start_ref": "23046006",
+"start_ref_usfm": "ISA 46:6",
+"end_ref": "23046006",
+"end_ref_usfm": "ISA 46:6"
+},
+{
+"start_ref": "41001020",
+"start_ref_usfm": "MRK 1:20",
+"end_ref": "41001020",
+"end_ref_usfm": "MRK 1:20"
+},
+{
+"start_ref": "18007001",
+"start_ref_usfm": "JOB 7:1",
+"end_ref": "18007003",
+"end_ref_usfm": "JOB 7:3"
+},
+{
+"start_ref": "18014006",
+"start_ref_usfm": "JOB 14:6",
+"end_ref": "18014006",
+"end_ref_usfm": "JOB 14:6"
+},
+{
+"start_ref": "40020001",
+"start_ref_usfm": "MAT 20:1",
+"end_ref": "40020015",
+"end_ref_usfm": "MAT 20:15"
+},
+{
+"start_ref": "42015015",
+"start_ref_usfm": "LUK 15:15",
+"end_ref": "42015019",
+"end_ref_usfm": "LUK 15:19"
+},
+{
+"start_ref": "43010011",
+"start_ref_usfm": "JHN 10:11",
+"end_ref": "43010013",
+"end_ref_usfm": "JHN 10:13"
+},
+{
+"start_ref": "60005002",
+"start_ref_usfm": "1PE 5:2",
+"end_ref": "60005002",
+"end_ref_usfm": "1PE 5:2"
+}
+],
+"resource": [
+{
+"reference_id": "5212",
+"content_id": "5212",
+"resource_code": "DictionaryBibleThemes",
+"label": "5212: arts and crafts",
+"language": "eng"
+},
+{
+"reference_id": "5272",
+"content_id": "5272",
+"resource_code": "DictionaryBibleThemes",
+"label": "5272: craftsmen",
+"language": "eng"
+},
+{
+"reference_id": "5311",
+"content_id": "5311",
+"resource_code": "DictionaryBibleThemes",
+"label": "5311: extortion",
+"language": "eng"
+},
+{
+"reference_id": "5404",
+"content_id": "5404",
+"resource_code": "DictionaryBibleThemes",
+"label": "5404: masters",
+"language": "eng"
+},
+{
+"reference_id": "5406",
+"content_id": "5406",
+"resource_code": "DictionaryBibleThemes",
+"label": "5406: mercenaries",
+"language": "eng"
+},
+{
+"reference_id": "5433",
+"content_id": "5433",
+"resource_code": "DictionaryBibleThemes",
+"label": "5433: occupations",
+"language": "eng"
+},
+{
+"reference_id": "5520",
+"content_id": "5520",
+"resource_code": "DictionaryBibleThemes",
+"label": "5520: servants",
+"language": "eng"
+},
+{
+"reference_id": "5603",
+"content_id": "5603",
+"resource_code": "DictionaryBibleThemes",
+"label": "5603: wages",
+"language": "eng"
+},
+{
+"reference_id": "5628",
+"content_id": "5628",
+"resource_code": "DictionaryBibleThemes",
+"label": "5628: work",
+"language": "eng"
+},
+{
+"reference_id": "6720",
+"content_id": "6720",
+"resource_code": "DictionaryBibleThemes",
+"label": "6720: redemption",
+"language": "eng"
+},
+{
+"reference_id": "8342",
+"content_id": "8342",
+"resource_code": "DictionaryBibleThemes",
+"label": "8342: servanthood",
+"language": "eng"
+},
+{
+"reference_id": "8790",
+"content_id": "8790",
+"resource_code": "DictionaryBibleThemes",
+"label": "8790: oppression",
+"language": "eng"
+}
+]
+}
+}
+]

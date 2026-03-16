@@ -1,0 +1,202 @@
+[
+{
+"content_id": "8432",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8432: fasting, practice of",
+"media_type": "Text",
+"index_reference": "8432: fasting, practice of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Although fasting is a negative practice, it is not an end in itself but is to be undertaken for a positive purpose.</p>\n<h2>Fasting is not an end in itself</h2>\n<h3>Fasting as empty ritual is condemned</h3>\n<p><strong><a href=\"https://ref.ly/Jer14:11-Jer14:12\">JER 14:11–14:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa58:1-Isa58:7\">ISA 58:1–58:7</a>; <a href=\"https://ref.ly/Zech7:4-Zech7:7\">ZEC 7:4–7:7</a></p>\n<h3>Fasting as mere show is condemned</h3>\n<p><strong><a href=\"https://ref.ly/Matt6:16-Matt6:18\">MAT 6:16–6:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt9:14-Matt9:15\">MAT 9:14–9:15</a> parallels <a href=\"https://ref.ly/Mark2:18-Mark2:20\">MRK 2:18–2:20</a>, <a href=\"https://ref.ly/Luke5:33-Luke5:35\">LUK 5:33–5:35</a> <em>Jesus Christ repudiated fasting for its own sake whilst granting that there is a time and a place for it.</em></p>\n<h3>Fasting imposed for false motives</h3>\n<p><a href=\"https://ref.ly/1Sam14:24-1Sam14:30\">1SA 14:24–14:30</a></p>\n<h2>Attitudes appropriate to fasting</h2>\n<h3>Humility</h3>\n<p><strong><a href=\"https://ref.ly/Ps35:13\">PSA 35:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs21:27-1Kgs21:29\">1KI 21:27–21:29</a>; <a href=\"https://ref.ly/Ezra8:21\">EZR 8:21</a>; <a href=\"https://ref.ly/Ps69:10\">PSA 69:10</a></p>\n<h3>Repentance</h3>\n<p><strong><a href=\"https://ref.ly/1Sam7:6\">1SA 7:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh9:1-Neh9:3\">NEH 9:1–9:3</a>; <a href=\"https://ref.ly/Joel1:13-Joel1:14\">JOL 1:13–1:14</a>, <a href=\"https://ref.ly/Joel2:12-Joel2:15\">JOL 2:12–2:15</a></p>\n<h2>Fasting and prayer</h2>\n<p><strong><a href=\"https://ref.ly/Neh1:4\">NEH 1:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezra8:21-Ezra8:23\">EZR 8:21–8:23</a>; <a href=\"https://ref.ly/Ps35:13\">PSA 35:13</a>; <a href=\"https://ref.ly/Dan9:3\">DAN 9:3</a>; <a href=\"https://ref.ly/Matt17:20\">MAT 17:20</a> parallel <a href=\"https://ref.ly/Mark9:29\">MRK 9:29</a>; <a href=\"https://ref.ly/Luke2:37\">LUK 2:37</a>, <a href=\"https://ref.ly/Luke5:33\">LUK 5:33</a>; <a href=\"https://ref.ly/Acts13:3\">ACT 13:3</a>, <a href=\"https://ref.ly/Acts14:23\">ACT 14:23</a>; <a href=\"https://ref.ly/1Cor7:3-1Cor7:5\">1CO 7:3–7:5</a> <em>The motivation here is similar to that in abstaining from food.</em></p>\n<h2>Fasting and worship</h2>\n<p><strong><a href=\"https://ref.ly/Acts13:2\">ACT 13:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke2:37\">LUK 2:37</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "24014011",
+"start_ref_usfm": "JER 14:11",
+"end_ref": "24014012",
+"end_ref_usfm": "JER 14:12"
+},
+{
+"start_ref": "23058001",
+"start_ref_usfm": "ISA 58:1",
+"end_ref": "23058007",
+"end_ref_usfm": "ISA 58:7"
+},
+{
+"start_ref": "38007004",
+"start_ref_usfm": "ZEC 7:4",
+"end_ref": "38007007",
+"end_ref_usfm": "ZEC 7:7"
+},
+{
+"start_ref": "40006016",
+"start_ref_usfm": "MAT 6:16",
+"end_ref": "40006018",
+"end_ref_usfm": "MAT 6:18"
+},
+{
+"start_ref": "40009014",
+"start_ref_usfm": "MAT 9:14",
+"end_ref": "40009015",
+"end_ref_usfm": "MAT 9:15"
+},
+{
+"start_ref": "41002018",
+"start_ref_usfm": "MRK 2:18",
+"end_ref": "41002020",
+"end_ref_usfm": "MRK 2:20"
+},
+{
+"start_ref": "42005033",
+"start_ref_usfm": "LUK 5:33",
+"end_ref": "42005035",
+"end_ref_usfm": "LUK 5:35"
+},
+{
+"start_ref": "09014024",
+"start_ref_usfm": "1SA 14:24",
+"end_ref": "09014030",
+"end_ref_usfm": "1SA 14:30"
+},
+{
+"start_ref": "19035013",
+"start_ref_usfm": "PSA 35:13",
+"end_ref": "19035013",
+"end_ref_usfm": "PSA 35:13"
+},
+{
+"start_ref": "11021027",
+"start_ref_usfm": "1KI 21:27",
+"end_ref": "11021029",
+"end_ref_usfm": "1KI 21:29"
+},
+{
+"start_ref": "15008021",
+"start_ref_usfm": "EZR 8:21",
+"end_ref": "15008021",
+"end_ref_usfm": "EZR 8:21"
+},
+{
+"start_ref": "19069010",
+"start_ref_usfm": "PSA 69:10",
+"end_ref": "19069010",
+"end_ref_usfm": "PSA 69:10"
+},
+{
+"start_ref": "09007006",
+"start_ref_usfm": "1SA 7:6",
+"end_ref": "09007006",
+"end_ref_usfm": "1SA 7:6"
+},
+{
+"start_ref": "16009001",
+"start_ref_usfm": "NEH 9:1",
+"end_ref": "16009003",
+"end_ref_usfm": "NEH 9:3"
+},
+{
+"start_ref": "29001013",
+"start_ref_usfm": "JOL 1:13",
+"end_ref": "29001014",
+"end_ref_usfm": "JOL 1:14"
+},
+{
+"start_ref": "29002012",
+"start_ref_usfm": "JOL 2:12",
+"end_ref": "29002015",
+"end_ref_usfm": "JOL 2:15"
+},
+{
+"start_ref": "16001004",
+"start_ref_usfm": "NEH 1:4",
+"end_ref": "16001004",
+"end_ref_usfm": "NEH 1:4"
+},
+{
+"start_ref": "15008021",
+"start_ref_usfm": "EZR 8:21",
+"end_ref": "15008023",
+"end_ref_usfm": "EZR 8:23"
+},
+{
+"start_ref": "27009003",
+"start_ref_usfm": "DAN 9:3",
+"end_ref": "27009003",
+"end_ref_usfm": "DAN 9:3"
+},
+{
+"start_ref": "40017020",
+"start_ref_usfm": "MAT 17:20",
+"end_ref": "40017020",
+"end_ref_usfm": "MAT 17:20"
+},
+{
+"start_ref": "41009029",
+"start_ref_usfm": "MRK 9:29",
+"end_ref": "41009029",
+"end_ref_usfm": "MRK 9:29"
+},
+{
+"start_ref": "42002037",
+"start_ref_usfm": "LUK 2:37",
+"end_ref": "42002037",
+"end_ref_usfm": "LUK 2:37"
+},
+{
+"start_ref": "42005033",
+"start_ref_usfm": "LUK 5:33",
+"end_ref": "42005033",
+"end_ref_usfm": "LUK 5:33"
+},
+{
+"start_ref": "44013003",
+"start_ref_usfm": "ACT 13:3",
+"end_ref": "44013003",
+"end_ref_usfm": "ACT 13:3"
+},
+{
+"start_ref": "44014023",
+"start_ref_usfm": "ACT 14:23",
+"end_ref": "44014023",
+"end_ref_usfm": "ACT 14:23"
+},
+{
+"start_ref": "46007003",
+"start_ref_usfm": "1CO 7:3",
+"end_ref": "46007005",
+"end_ref_usfm": "1CO 7:5"
+},
+{
+"start_ref": "44013002",
+"start_ref_usfm": "ACT 13:2",
+"end_ref": "44013002",
+"end_ref_usfm": "ACT 13:2"
+}
+],
+"resource": [
+{
+"reference_id": "6732",
+"content_id": "6732",
+"resource_code": "DictionaryBibleThemes",
+"label": "6732: repentance",
+"language": "eng"
+},
+{
+"reference_id": "8620",
+"content_id": "8620",
+"resource_code": "DictionaryBibleThemes",
+"label": "8620: prayer, practicalities of",
+"language": "eng"
+},
+{
+"reference_id": "8622",
+"content_id": "8622",
+"resource_code": "DictionaryBibleThemes",
+"label": "8622: worship",
+"language": "eng"
+}
+]
+}
+}
+]

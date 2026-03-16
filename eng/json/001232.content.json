@@ -1,0 +1,219 @@
+[
+{
+"content_id": "5689",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5689: friendlessness",
+"media_type": "Text",
+"index_reference": "5689: friendlessness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The bitter experience of the absence of friendship, leading to a sense of isolation and despair. It is often blamed on the faithlessness of others or even on God himself.</p>\n<h2>The experience of friendlessness</h2>\n<h3>The darkness of being alone</h3>\n<p><strong><a href=\"https://ref.ly/Ps88:18\">PSA 88:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps88:8\">PSA 88:8</a>, <a href=\"https://ref.ly/Ps102:7\">PSA 102:7</a>, <a href=\"https://ref.ly/Ps142:4\">PSA 142:4</a></p>\n<h3>Contempt and rejection</h3>\n<p><strong><a href=\"https://ref.ly/Ps31:11-Ps31:12\">PSA 31:11–31:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps38:11\">PSA 38:11</a></p>\n<h3>Hatred and loathing</h3>\n<p><strong><a href=\"https://ref.ly/Job19:13-Job19:19\">JOB 19:13–19:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job30:10\">JOB 30:10</a></p>\n<h3>Slander and conspiracy</h3>\n<p><strong><a href=\"https://ref.ly/Ps31:13\">PSA 31:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer20:10\">JER 20:10</a></p>\n<h2>Examples of friendlessness</h2>\n<h3>Elijah</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs19:10\">1KI 19:10</a></strong></p>\n<h3>Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Mark14:50\">MRK 14:50</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa53:3\">ISA 53:3</a>; <a href=\"https://ref.ly/Matt26:56\">MAT 26:56</a>; <a href=\"https://ref.ly/John16:32\">JHN 16:32</a></p>\n<h3>The prodigal son</h3>\n<p><strong><a href=\"https://ref.ly/Luke15:16\">LUK 15:16</a></strong></p>\n<h3>The lame man at the pool of Bethesda</h3>\n<p><strong><a href=\"https://ref.ly/John5:7\">JHN 5:7</a></strong></p>\n<h3>Paul</h3>\n<p><strong><a href=\"https://ref.ly/2Tim4:16\">2TI 4:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Tim4:10-2Tim4:11\">2TI 4:10–4:11</a></p>\n<h2>The undesirability of friendlessness</h2>\n<p><strong><a href=\"https://ref.ly/Gen2:18\">GEN 2:18</a></strong>; <strong><a href=\"https://ref.ly/Eccl4:9-Eccl4:12\">ECC 4:9–4:12</a></strong></p>\n<h2>Cultivating true friends is the way to avoid friendlessness</h2>\n<p><strong><a href=\"https://ref.ly/1Sam18:1\">1SA 18:1</a></strong>; <strong><a href=\"https://ref.ly/Ps119:63\">PSA 119:63</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke16:19\">LUK 16:19</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19088018",
+"start_ref_usfm": "PSA 88:18",
+"end_ref": "19088018",
+"end_ref_usfm": "PSA 88:18"
+},
+{
+"start_ref": "19088008",
+"start_ref_usfm": "PSA 88:8",
+"end_ref": "19088008",
+"end_ref_usfm": "PSA 88:8"
+},
+{
+"start_ref": "19102007",
+"start_ref_usfm": "PSA 102:7",
+"end_ref": "19102007",
+"end_ref_usfm": "PSA 102:7"
+},
+{
+"start_ref": "19142004",
+"start_ref_usfm": "PSA 142:4",
+"end_ref": "19142004",
+"end_ref_usfm": "PSA 142:4"
+},
+{
+"start_ref": "19031011",
+"start_ref_usfm": "PSA 31:11",
+"end_ref": "19031012",
+"end_ref_usfm": "PSA 31:12"
+},
+{
+"start_ref": "19038011",
+"start_ref_usfm": "PSA 38:11",
+"end_ref": "19038011",
+"end_ref_usfm": "PSA 38:11"
+},
+{
+"start_ref": "18019013",
+"start_ref_usfm": "JOB 19:13",
+"end_ref": "18019019",
+"end_ref_usfm": "JOB 19:19"
+},
+{
+"start_ref": "18030010",
+"start_ref_usfm": "JOB 30:10",
+"end_ref": "18030010",
+"end_ref_usfm": "JOB 30:10"
+},
+{
+"start_ref": "19031013",
+"start_ref_usfm": "PSA 31:13",
+"end_ref": "19031013",
+"end_ref_usfm": "PSA 31:13"
+},
+{
+"start_ref": "24020010",
+"start_ref_usfm": "JER 20:10",
+"end_ref": "24020010",
+"end_ref_usfm": "JER 20:10"
+},
+{
+"start_ref": "11019010",
+"start_ref_usfm": "1KI 19:10",
+"end_ref": "11019010",
+"end_ref_usfm": "1KI 19:10"
+},
+{
+"start_ref": "41014050",
+"start_ref_usfm": "MRK 14:50",
+"end_ref": "41014050",
+"end_ref_usfm": "MRK 14:50"
+},
+{
+"start_ref": "23053003",
+"start_ref_usfm": "ISA 53:3",
+"end_ref": "23053003",
+"end_ref_usfm": "ISA 53:3"
+},
+{
+"start_ref": "40026056",
+"start_ref_usfm": "MAT 26:56",
+"end_ref": "40026056",
+"end_ref_usfm": "MAT 26:56"
+},
+{
+"start_ref": "43016032",
+"start_ref_usfm": "JHN 16:32",
+"end_ref": "43016032",
+"end_ref_usfm": "JHN 16:32"
+},
+{
+"start_ref": "42015016",
+"start_ref_usfm": "LUK 15:16",
+"end_ref": "42015016",
+"end_ref_usfm": "LUK 15:16"
+},
+{
+"start_ref": "43005007",
+"start_ref_usfm": "JHN 5:7",
+"end_ref": "43005007",
+"end_ref_usfm": "JHN 5:7"
+},
+{
+"start_ref": "55004016",
+"start_ref_usfm": "2TI 4:16",
+"end_ref": "55004016",
+"end_ref_usfm": "2TI 4:16"
+},
+{
+"start_ref": "55004010",
+"start_ref_usfm": "2TI 4:10",
+"end_ref": "55004011",
+"end_ref_usfm": "2TI 4:11"
+},
+{
+"start_ref": "01002018",
+"start_ref_usfm": "GEN 2:18",
+"end_ref": "01002018",
+"end_ref_usfm": "GEN 2:18"
+},
+{
+"start_ref": "21004009",
+"start_ref_usfm": "ECC 4:9",
+"end_ref": "21004012",
+"end_ref_usfm": "ECC 4:12"
+},
+{
+"start_ref": "09018001",
+"start_ref_usfm": "1SA 18:1",
+"end_ref": "09018001",
+"end_ref_usfm": "1SA 18:1"
+},
+{
+"start_ref": "19119063",
+"start_ref_usfm": "PSA 119:63",
+"end_ref": "19119063",
+"end_ref_usfm": "PSA 119:63"
+},
+{
+"start_ref": "42016019",
+"start_ref_usfm": "LUK 16:19",
+"end_ref": "42016019",
+"end_ref_usfm": "LUK 16:19"
+}
+],
+"resource": [
+{
+"reference_id": "5398",
+"content_id": "5398",
+"resource_code": "DictionaryBibleThemes",
+"label": "5398: loss",
+"language": "eng"
+},
+{
+"reference_id": "5690",
+"content_id": "5690",
+"resource_code": "DictionaryBibleThemes",
+"label": "5690: friends",
+"language": "eng"
+},
+{
+"reference_id": "5734",
+"content_id": "5734",
+"resource_code": "DictionaryBibleThemes",
+"label": "5734: relationships",
+"language": "eng"
+},
+{
+"reference_id": "5770",
+"content_id": "5770",
+"resource_code": "DictionaryBibleThemes",
+"label": "5770: abandonment",
+"language": "eng"
+},
+{
+"reference_id": "5805",
+"content_id": "5805",
+"resource_code": "DictionaryBibleThemes",
+"label": "5805: comfort",
+"language": "eng"
+},
+{
+"reference_id": "5901",
+"content_id": "5901",
+"resource_code": "DictionaryBibleThemes",
+"label": "5901: loneliness",
+"language": "eng"
+},
+{
+"reference_id": "7921",
+"content_id": "7921",
+"resource_code": "DictionaryBibleThemes",
+"label": "7921: fellowship",
+"language": "eng"
+},
+{
+"reference_id": "8727",
+"content_id": "8727",
+"resource_code": "DictionaryBibleThemes",
+"label": "8727: enemies",
+"language": "eng"
+}
+]
+}
+}
+]

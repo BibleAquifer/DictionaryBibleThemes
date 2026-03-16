@@ -1,0 +1,197 @@
+[
+{
+"content_id": "8337",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8337: reverence, and social behaviour",
+"media_type": "Text",
+"index_reference": "8337: reverence, and social behaviour",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Reverence for God leads to proper respect for others and right relationships among the people of God.</p>\n<h2>Reverence for God affects believers' attitudes</h2>\n<h3>Reverence produces respect for others</h3>\n<p><strong><a href=\"https://ref.ly/Eph5:21\">EPH 5:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Pet2:17\">1PE 2:17</a></p>\n<h3>Reverence affects social attitudes</h3>\n<p><a href=\"https://ref.ly/Lev19:14\">LEV 19:14</a>, <a href=\"https://ref.ly/Lev25:17\">LEV 25:17</a>; ; <a href=\"https://ref.ly/Eph6:5\">EPH 6:5</a>; ; <a href=\"https://ref.ly/Lev25:36\">LEV 25:36</a>, <a href=\"https://ref.ly/Lev25:43\">LEV 25:43</a></p>\n<h3>Attitudes to work are affected by reverence to God</h3>\n<p><a href=\"https://ref.ly/Exod1:17\">EXO 1:17</a> <em>a conflict of duty</em>; ; <a href=\"https://ref.ly/Exod18:21\">EXO 18:21</a> <em>appointments in administration</em>; ; <a href=\"https://ref.ly/2Chr19:7\">2CH 19:7</a> <em>justice</em>; ; <a href=\"https://ref.ly/2Chr19:9\">2CH 19:9</a></p>\n<h2>Reverence for God affects believers' behaviour</h2>\n<p><a href=\"https://ref.ly/Lev19:14\">LEV 19:14</a>, <a href=\"https://ref.ly/Lev19:32\">LEV 19:32</a>, <a href=\"https://ref.ly/Lev25:14-Lev25:17\">LEV 25:14–25:17</a>, <a href=\"https://ref.ly/Lev25:35-Lev25:36\">LEV 25:35–25:36</a>; ; <a href=\"https://ref.ly/Ps15:4\">PSA 15:4</a>; ; <a href=\"https://ref.ly/Prov31:30\">PRO 31:30</a> <em>Reverence for God should be respected</em>; ; <a href=\"https://ref.ly/Col3:22\">COL 3:22</a> <em>Reverence for God inspires a slave's respect for his master.</em>; <a href=\"https://ref.ly/Titus2:2-Titus2:3\">TIT 2:2–2:3</a>; ; <a href=\"https://ref.ly/1Pet3:1-1Pet3:2\">1PE 3:1–3:2</a></p>\n<h2>Reverence for God may reduce hostility</h2>\n<p><a href=\"https://ref.ly/2Chr17:10\">2CH 17:10</a></p>\n<h2>Lack of reverence has an adverse effect on behaviour</h2>\n<p><a href=\"https://ref.ly/Deut25:18\">DEU 25:18</a>; ; <a href=\"https://ref.ly/Neh5:7-Neh5:9\">NEH 5:7–5:9</a>; ; <a href=\"https://ref.ly/Ps36:1\">PSA 36:1</a></p>\n<h2>Reverence can be shown to fellow human beings as God's representatives</h2>\n<p><a href=\"https://ref.ly/Josh4:14\">JOS 4:14</a>; ; <a href=\"https://ref.ly/Acts10:25\">ACT 10:25</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "49005021",
+"start_ref_usfm": "EPH 5:21",
+"end_ref": "49005021",
+"end_ref_usfm": "EPH 5:21"
+},
+{
+"start_ref": "60002017",
+"start_ref_usfm": "1PE 2:17",
+"end_ref": "60002017",
+"end_ref_usfm": "1PE 2:17"
+},
+{
+"start_ref": "03019014",
+"start_ref_usfm": "LEV 19:14",
+"end_ref": "03019014",
+"end_ref_usfm": "LEV 19:14"
+},
+{
+"start_ref": "03025017",
+"start_ref_usfm": "LEV 25:17",
+"end_ref": "03025017",
+"end_ref_usfm": "LEV 25:17"
+},
+{
+"start_ref": "49006005",
+"start_ref_usfm": "EPH 6:5",
+"end_ref": "49006005",
+"end_ref_usfm": "EPH 6:5"
+},
+{
+"start_ref": "03025036",
+"start_ref_usfm": "LEV 25:36",
+"end_ref": "03025036",
+"end_ref_usfm": "LEV 25:36"
+},
+{
+"start_ref": "03025043",
+"start_ref_usfm": "LEV 25:43",
+"end_ref": "03025043",
+"end_ref_usfm": "LEV 25:43"
+},
+{
+"start_ref": "02001017",
+"start_ref_usfm": "EXO 1:17",
+"end_ref": "02001017",
+"end_ref_usfm": "EXO 1:17"
+},
+{
+"start_ref": "02018021",
+"start_ref_usfm": "EXO 18:21",
+"end_ref": "02018021",
+"end_ref_usfm": "EXO 18:21"
+},
+{
+"start_ref": "14019007",
+"start_ref_usfm": "2CH 19:7",
+"end_ref": "14019007",
+"end_ref_usfm": "2CH 19:7"
+},
+{
+"start_ref": "14019009",
+"start_ref_usfm": "2CH 19:9",
+"end_ref": "14019009",
+"end_ref_usfm": "2CH 19:9"
+},
+{
+"start_ref": "03019032",
+"start_ref_usfm": "LEV 19:32",
+"end_ref": "03019032",
+"end_ref_usfm": "LEV 19:32"
+},
+{
+"start_ref": "03025014",
+"start_ref_usfm": "LEV 25:14",
+"end_ref": "03025017",
+"end_ref_usfm": "LEV 25:17"
+},
+{
+"start_ref": "03025035",
+"start_ref_usfm": "LEV 25:35",
+"end_ref": "03025036",
+"end_ref_usfm": "LEV 25:36"
+},
+{
+"start_ref": "19015004",
+"start_ref_usfm": "PSA 15:4",
+"end_ref": "19015004",
+"end_ref_usfm": "PSA 15:4"
+},
+{
+"start_ref": "20031030",
+"start_ref_usfm": "PRO 31:30",
+"end_ref": "20031030",
+"end_ref_usfm": "PRO 31:30"
+},
+{
+"start_ref": "51003022",
+"start_ref_usfm": "COL 3:22",
+"end_ref": "51003022",
+"end_ref_usfm": "COL 3:22"
+},
+{
+"start_ref": "56002002",
+"start_ref_usfm": "TIT 2:2",
+"end_ref": "56002003",
+"end_ref_usfm": "TIT 2:3"
+},
+{
+"start_ref": "60003001",
+"start_ref_usfm": "1PE 3:1",
+"end_ref": "60003002",
+"end_ref_usfm": "1PE 3:2"
+},
+{
+"start_ref": "14017010",
+"start_ref_usfm": "2CH 17:10",
+"end_ref": "14017010",
+"end_ref_usfm": "2CH 17:10"
+},
+{
+"start_ref": "05025018",
+"start_ref_usfm": "DEU 25:18",
+"end_ref": "05025018",
+"end_ref_usfm": "DEU 25:18"
+},
+{
+"start_ref": "16005007",
+"start_ref_usfm": "NEH 5:7",
+"end_ref": "16005009",
+"end_ref_usfm": "NEH 5:9"
+},
+{
+"start_ref": "19036001",
+"start_ref_usfm": "PSA 36:1",
+"end_ref": "19036001",
+"end_ref_usfm": "PSA 36:1"
+},
+{
+"start_ref": "06004014",
+"start_ref_usfm": "JOS 4:14",
+"end_ref": "06004014",
+"end_ref_usfm": "JOS 4:14"
+},
+{
+"start_ref": "44010025",
+"start_ref_usfm": "ACT 10:25",
+"end_ref": "44010025",
+"end_ref_usfm": "ACT 10:25"
+}
+],
+"resource": [
+{
+"reference_id": "5765",
+"content_id": "5765",
+"resource_code": "DictionaryBibleThemes",
+"label": "5765: attitudes, to other people",
+"language": "eng"
+},
+{
+"reference_id": "7140",
+"content_id": "7140",
+"resource_code": "DictionaryBibleThemes",
+"label": "7140: people of God",
+"language": "eng"
+},
+{
+"reference_id": "8243",
+"content_id": "8243",
+"resource_code": "DictionaryBibleThemes",
+"label": "8243: ethics, social",
+"language": "eng"
+},
+{
+"reference_id": "8471",
+"content_id": "8471",
+"resource_code": "DictionaryBibleThemes",
+"label": "8471: respect, for human beings",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,39 @@
+[
+{
+"content_id": "8114",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8114: discipleship",
+"media_type": "Text",
+"index_reference": "8114: discipleship",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The process of becoming a committed follower of Jesus Christ, with all the spiritual discipline and benefits which this brings.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8115",
+"content_id": "8115",
+"resource_code": "DictionaryBibleThemes",
+"label": "8115: discipleship, nature of",
+"language": "eng"
+},
+{
+"reference_id": "8116",
+"content_id": "8116",
+"resource_code": "DictionaryBibleThemes",
+"label": "8116: discipleship, cost of",
+"language": "eng"
+},
+{
+"reference_id": "8117",
+"content_id": "8117",
+"resource_code": "DictionaryBibleThemes",
+"label": "8117: discipleship, benefits of",
+"language": "eng"
+}
+]
+}
+}
+]

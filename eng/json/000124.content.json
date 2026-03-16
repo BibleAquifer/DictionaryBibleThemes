@@ -1,0 +1,198 @@
+[
+{
+"content_id": "1615",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1615: Scripture, sufficiency of",
+"media_type": "Text",
+"index_reference": "1615: scripture, sufficiency of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture is presented as being of itself sufficient for faith and for life.</p>\n<h2>God's written revelation is sufficient</h2>\n<p><strong><a href=\"https://ref.ly/Deut4:1-Deut4:2\">DEU 4:1–4:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut12:32\">DEU 12:32</a>; <a href=\"https://ref.ly/Josh1:7-Josh1:8\">JOS 1:7–1:8</a>; <a href=\"https://ref.ly/Prov30:5-Prov30:6\">PRO 30:5–30:6</a>; <a href=\"https://ref.ly/Jer26:2\">JER 26:2</a></p>\n<h2>The NT records the completion and fulfilment of the OT</h2>\n<p><strong><a href=\"https://ref.ly/Heb1:1-Heb1:2\">HEB 1:1–1:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/John12:47-John12:50\">JHN 12:47–12:50</a>; <a href=\"https://ref.ly/Eph2:20\">EPH 2:20</a></p>\n<h3>Warnings against turning from, or adding to, the apostolic gospel, as set forth in Scripture</h3>\n<p><strong><a href=\"https://ref.ly/Rev22:18-Rev22:19\">REV 22:18–22:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal1:6-Gal1:9\">GAL 1:6–1:9</a>; <a href=\"https://ref.ly/Col1:25-Col2:8\">COL 1:25–2:8</a>, <a href=\"https://ref.ly/Col2:18\">COL 2:18</a>, <a href=\"https://ref.ly/Col2:20-Col2:23\">COL 2:20–2:23</a>; <a href=\"https://ref.ly/2Thess2:1-2Thess2:2\">2TH 2:1–2:2</a></p>\n<h2>Descriptions of Scripture point to its sufficiency</h2>\n<h3>Scripture is good</h3>\n<p><strong><a href=\"https://ref.ly/Rom7:12\">ROM 7:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim1:8\">1TI 1:8</a></p>\n<h3>Scripture is perfect</h3>\n<p><strong><a href=\"https://ref.ly/Ps19:7\">PSA 19:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps119:142\">PSA 119:142</a>; <a href=\"https://ref.ly/Jas1:25\">JAS 1:25</a></p>\n<h3>Scripture is eternal</h3>\n<p><strong><a href=\"https://ref.ly/Ps119:89\">PSA 119:89</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt5:18\">MAT 5:18</a>, <a href=\"https://ref.ly/Matt24:35\">MAT 24:35</a>; <a href=\"https://ref.ly/1Pet1:24-1Pet1:25\">1PE 1:24–1:25</a>; <a href=\"https://ref.ly/Isa40:6-Isa40:8\">ISA 40:6–40:8</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05004001",
+"start_ref_usfm": "DEU 4:1",
+"end_ref": "05004002",
+"end_ref_usfm": "DEU 4:2"
+},
+{
+"start_ref": "05012032",
+"start_ref_usfm": "DEU 12:32",
+"end_ref": "05012032",
+"end_ref_usfm": "DEU 12:32"
+},
+{
+"start_ref": "06001007",
+"start_ref_usfm": "JOS 1:7",
+"end_ref": "06001008",
+"end_ref_usfm": "JOS 1:8"
+},
+{
+"start_ref": "20030005",
+"start_ref_usfm": "PRO 30:5",
+"end_ref": "20030006",
+"end_ref_usfm": "PRO 30:6"
+},
+{
+"start_ref": "24026002",
+"start_ref_usfm": "JER 26:2",
+"end_ref": "24026002",
+"end_ref_usfm": "JER 26:2"
+},
+{
+"start_ref": "58001001",
+"start_ref_usfm": "HEB 1:1",
+"end_ref": "58001002",
+"end_ref_usfm": "HEB 1:2"
+},
+{
+"start_ref": "43012047",
+"start_ref_usfm": "JHN 12:47",
+"end_ref": "43012050",
+"end_ref_usfm": "JHN 12:50"
+},
+{
+"start_ref": "49002020",
+"start_ref_usfm": "EPH 2:20",
+"end_ref": "49002020",
+"end_ref_usfm": "EPH 2:20"
+},
+{
+"start_ref": "66022018",
+"start_ref_usfm": "REV 22:18",
+"end_ref": "66022019",
+"end_ref_usfm": "REV 22:19"
+},
+{
+"start_ref": "48001006",
+"start_ref_usfm": "GAL 1:6",
+"end_ref": "48001009",
+"end_ref_usfm": "GAL 1:9"
+},
+{
+"start_ref": "51001025",
+"start_ref_usfm": "COL 1:25",
+"end_ref": "51002008",
+"end_ref_usfm": "COL 2:8"
+},
+{
+"start_ref": "51002018",
+"start_ref_usfm": "COL 2:18",
+"end_ref": "51002018",
+"end_ref_usfm": "COL 2:18"
+},
+{
+"start_ref": "51002020",
+"start_ref_usfm": "COL 2:20",
+"end_ref": "51002023",
+"end_ref_usfm": "COL 2:23"
+},
+{
+"start_ref": "53002001",
+"start_ref_usfm": "2TH 2:1",
+"end_ref": "53002002",
+"end_ref_usfm": "2TH 2:2"
+},
+{
+"start_ref": "45007012",
+"start_ref_usfm": "ROM 7:12",
+"end_ref": "45007012",
+"end_ref_usfm": "ROM 7:12"
+},
+{
+"start_ref": "54001008",
+"start_ref_usfm": "1TI 1:8",
+"end_ref": "54001008",
+"end_ref_usfm": "1TI 1:8"
+},
+{
+"start_ref": "19019007",
+"start_ref_usfm": "PSA 19:7",
+"end_ref": "19019007",
+"end_ref_usfm": "PSA 19:7"
+},
+{
+"start_ref": "19119142",
+"start_ref_usfm": "PSA 119:142",
+"end_ref": "19119142",
+"end_ref_usfm": "PSA 119:142"
+},
+{
+"start_ref": "59001025",
+"start_ref_usfm": "JAS 1:25",
+"end_ref": "59001025",
+"end_ref_usfm": "JAS 1:25"
+},
+{
+"start_ref": "19119089",
+"start_ref_usfm": "PSA 119:89",
+"end_ref": "19119089",
+"end_ref_usfm": "PSA 119:89"
+},
+{
+"start_ref": "40005018",
+"start_ref_usfm": "MAT 5:18",
+"end_ref": "40005018",
+"end_ref_usfm": "MAT 5:18"
+},
+{
+"start_ref": "40024035",
+"start_ref_usfm": "MAT 24:35",
+"end_ref": "40024035",
+"end_ref_usfm": "MAT 24:35"
+},
+{
+"start_ref": "60001024",
+"start_ref_usfm": "1PE 1:24",
+"end_ref": "60001025",
+"end_ref_usfm": "1PE 1:25"
+},
+{
+"start_ref": "23040006",
+"start_ref_usfm": "ISA 40:6",
+"end_ref": "23040008",
+"end_ref_usfm": "ISA 40:8"
+}
+],
+"resource": [
+{
+"reference_id": "1460",
+"content_id": "1460",
+"resource_code": "DictionaryBibleThemes",
+"label": "1460: truth",
+"language": "eng"
+},
+{
+"reference_id": "2420",
+"content_id": "2420",
+"resource_code": "DictionaryBibleThemes",
+"label": "2420: gospel",
+"language": "eng"
+},
+{
+"reference_id": "8749",
+"content_id": "8749",
+"resource_code": "DictionaryBibleThemes",
+"label": "8749: false teachers",
+"language": "eng"
+},
+{
+"reference_id": "8766",
+"content_id": "8766",
+"resource_code": "DictionaryBibleThemes",
+"label": "8766: heresies",
+"language": "eng"
+},
+{
+"reference_id": "9612",
+"content_id": "9612",
+"resource_code": "DictionaryBibleThemes",
+"label": "9612: hope, in God",
+"language": "eng"
+}
+]
+}
+}
+]

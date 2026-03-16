@@ -1,0 +1,223 @@
+[
+{
+"content_id": "8232",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8232: discipline, in the family",
+"media_type": "Text",
+"index_reference": "8232: discipline, in the family",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Parents' loving, corrective training of their children, by verbal instruction and punishments, so that they grow up in the way God wants.</p>\n<h2>Parents are to discipline their children</h2>\n<p><strong><a href=\"https://ref.ly/Heb12:7\">HEB 12:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut8:5\">DEU 8:5</a>; <a href=\"https://ref.ly/Heb12:9-Heb12:11\">HEB 12:9–12:11</a></p>\n<h2>Parents discipline out of love for their children</h2>\n<p><strong><a href=\"https://ref.ly/Prov13:24\">PRO 13:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov3:12\">PRO 3:12</a></p>\n<h2>The means of parental discipline</h2>\n<h3>Training</h3>\n<p><strong><a href=\"https://ref.ly/Prov22:6\">PRO 22:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:19\">GEN 18:19</a>; <a href=\"https://ref.ly/Deut6:7\">DEU 6:7</a>; <a href=\"https://ref.ly/Prov29:17\">PRO 29:17</a>; <a href=\"https://ref.ly/Eph6:4\">EPH 6:4</a>; <a href=\"https://ref.ly/Col3:21\">COL 3:21</a></p>\n<h3>Correction</h3>\n<p><strong><a href=\"https://ref.ly/Prov22:15\">PRO 22:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov19:18\">PRO 19:18</a>, <a href=\"https://ref.ly/Prov23:13-Prov23:14\">PRO 23:13–23:14</a>, <a href=\"https://ref.ly/Prov29:15\">PRO 29:15</a></p>\n<h3>Verbal instruction</h3>\n<p><strong><a href=\"https://ref.ly/Eph6:4\">EPH 6:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:9\">DEU 4:9</a>, <a href=\"https://ref.ly/Deut6:7\">DEU 6:7</a>, <a href=\"https://ref.ly/Deut6:20-Deut6:25\">DEU 6:20–6:25</a>, <a href=\"https://ref.ly/Deut11:19\">DEU 11:19</a>, <a href=\"https://ref.ly/Deut31:13\">DEU 31:13</a>; <a href=\"https://ref.ly/Ps78:5\">PSA 78:5</a>; <a href=\"https://ref.ly/Prov1:8\">PRO 1:8</a>, <a href=\"https://ref.ly/Prov6:20\">PRO 6:20</a>; <a href=\"https://ref.ly/2Tim3:15\">2TI 3:15</a></p>\n<h3>Punishment</h3>\n<p><strong><a href=\"https://ref.ly/Prov23:13-Prov23:14\">PRO 23:13–23:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov22:15\">PRO 22:15</a>, <a href=\"https://ref.ly/Prov29:15\">PRO 29:15</a></p>\n<h2>The purpose of parental discipline is to impart wisdom</h2>\n<p><strong><a href=\"https://ref.ly/Prov29:15\">PRO 29:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov19:18\">PRO 19:18</a>, <a href=\"https://ref.ly/Prov22:15\">PRO 22:15</a>, <a href=\"https://ref.ly/Prov29:17\">PRO 29:17</a>; <a href=\"https://ref.ly/Heb12:9\">HEB 12:9</a>, <a href=\"https://ref.ly/Heb12:11\">HEB 12:11</a></p>\n<h2>Examples of parents who neglected discipline</h2>\n<h3>Eli</h3>\n<p><strong><a href=\"https://ref.ly/1Sam3:13\">1SA 3:13</a></strong></p>\n<h3>David</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs1:5-1Kgs1:6\">1KI 1:5–1:6</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "58012007",
+"start_ref_usfm": "HEB 12:7",
+"end_ref": "58012007",
+"end_ref_usfm": "HEB 12:7"
+},
+{
+"start_ref": "05008005",
+"start_ref_usfm": "DEU 8:5",
+"end_ref": "05008005",
+"end_ref_usfm": "DEU 8:5"
+},
+{
+"start_ref": "58012009",
+"start_ref_usfm": "HEB 12:9",
+"end_ref": "58012011",
+"end_ref_usfm": "HEB 12:11"
+},
+{
+"start_ref": "20013024",
+"start_ref_usfm": "PRO 13:24",
+"end_ref": "20013024",
+"end_ref_usfm": "PRO 13:24"
+},
+{
+"start_ref": "20003012",
+"start_ref_usfm": "PRO 3:12",
+"end_ref": "20003012",
+"end_ref_usfm": "PRO 3:12"
+},
+{
+"start_ref": "20022006",
+"start_ref_usfm": "PRO 22:6",
+"end_ref": "20022006",
+"end_ref_usfm": "PRO 22:6"
+},
+{
+"start_ref": "01018019",
+"start_ref_usfm": "GEN 18:19",
+"end_ref": "01018019",
+"end_ref_usfm": "GEN 18:19"
+},
+{
+"start_ref": "05006007",
+"start_ref_usfm": "DEU 6:7",
+"end_ref": "05006007",
+"end_ref_usfm": "DEU 6:7"
+},
+{
+"start_ref": "20029017",
+"start_ref_usfm": "PRO 29:17",
+"end_ref": "20029017",
+"end_ref_usfm": "PRO 29:17"
+},
+{
+"start_ref": "49006004",
+"start_ref_usfm": "EPH 6:4",
+"end_ref": "49006004",
+"end_ref_usfm": "EPH 6:4"
+},
+{
+"start_ref": "51003021",
+"start_ref_usfm": "COL 3:21",
+"end_ref": "51003021",
+"end_ref_usfm": "COL 3:21"
+},
+{
+"start_ref": "20022015",
+"start_ref_usfm": "PRO 22:15",
+"end_ref": "20022015",
+"end_ref_usfm": "PRO 22:15"
+},
+{
+"start_ref": "20019018",
+"start_ref_usfm": "PRO 19:18",
+"end_ref": "20019018",
+"end_ref_usfm": "PRO 19:18"
+},
+{
+"start_ref": "20023013",
+"start_ref_usfm": "PRO 23:13",
+"end_ref": "20023014",
+"end_ref_usfm": "PRO 23:14"
+},
+{
+"start_ref": "20029015",
+"start_ref_usfm": "PRO 29:15",
+"end_ref": "20029015",
+"end_ref_usfm": "PRO 29:15"
+},
+{
+"start_ref": "05004009",
+"start_ref_usfm": "DEU 4:9",
+"end_ref": "05004009",
+"end_ref_usfm": "DEU 4:9"
+},
+{
+"start_ref": "05006020",
+"start_ref_usfm": "DEU 6:20",
+"end_ref": "05006025",
+"end_ref_usfm": "DEU 6:25"
+},
+{
+"start_ref": "05011019",
+"start_ref_usfm": "DEU 11:19",
+"end_ref": "05011019",
+"end_ref_usfm": "DEU 11:19"
+},
+{
+"start_ref": "05031013",
+"start_ref_usfm": "DEU 31:13",
+"end_ref": "05031013",
+"end_ref_usfm": "DEU 31:13"
+},
+{
+"start_ref": "19078005",
+"start_ref_usfm": "PSA 78:5",
+"end_ref": "19078005",
+"end_ref_usfm": "PSA 78:5"
+},
+{
+"start_ref": "20001008",
+"start_ref_usfm": "PRO 1:8",
+"end_ref": "20001008",
+"end_ref_usfm": "PRO 1:8"
+},
+{
+"start_ref": "20006020",
+"start_ref_usfm": "PRO 6:20",
+"end_ref": "20006020",
+"end_ref_usfm": "PRO 6:20"
+},
+{
+"start_ref": "55003015",
+"start_ref_usfm": "2TI 3:15",
+"end_ref": "55003015",
+"end_ref_usfm": "2TI 3:15"
+},
+{
+"start_ref": "58012009",
+"start_ref_usfm": "HEB 12:9",
+"end_ref": "58012009",
+"end_ref_usfm": "HEB 12:9"
+},
+{
+"start_ref": "58012011",
+"start_ref_usfm": "HEB 12:11",
+"end_ref": "58012011",
+"end_ref_usfm": "HEB 12:11"
+},
+{
+"start_ref": "09003013",
+"start_ref_usfm": "1SA 3:13",
+"end_ref": "09003013",
+"end_ref_usfm": "1SA 3:13"
+},
+{
+"start_ref": "11001005",
+"start_ref_usfm": "1KI 1:5",
+"end_ref": "11001006",
+"end_ref_usfm": "1KI 1:6"
+}
+],
+"resource": [
+{
+"reference_id": "5666",
+"content_id": "5666",
+"resource_code": "DictionaryBibleThemes",
+"label": "5666: children, needs of",
+"language": "eng"
+},
+{
+"reference_id": "5680",
+"content_id": "5680",
+"resource_code": "DictionaryBibleThemes",
+"label": "5680: family",
+"language": "eng"
+},
+{
+"reference_id": "5685",
+"content_id": "5685",
+"resource_code": "DictionaryBibleThemes",
+"label": "5685: fathers, responsibilities of",
+"language": "eng"
+},
+{
+"reference_id": "5718",
+"content_id": "5718",
+"resource_code": "DictionaryBibleThemes",
+"label": "5718: mothers",
+"language": "eng"
+},
+{
+"reference_id": "5731",
+"content_id": "5731",
+"resource_code": "DictionaryBibleThemes",
+"label": "5731: parents",
+"language": "eng"
+},
+{
+"reference_id": "8476",
+"content_id": "8476",
+"resource_code": "DictionaryBibleThemes",
+"label": "8476: self-discipline",
+"language": "eng"
+}
+]
+}
+}
+]

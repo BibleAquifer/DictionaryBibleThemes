@@ -1,0 +1,32 @@
+[
+{
+"content_id": "7334",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7334: circumcision",
+"media_type": "Text",
+"index_reference": "7334: circumcision",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The practice of cutting away the foreskin of male children, usually within a short time of birth. In the OT, the practice is seen as a sign of membership of the people of God. The NT makes it clear that Christians are under no obligation to be circumcised.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7335",
+"content_id": "7335",
+"resource_code": "DictionaryBibleThemes",
+"label": "7335: circumcision, physical",
+"language": "eng"
+},
+{
+"reference_id": "7336",
+"content_id": "7336",
+"resource_code": "DictionaryBibleThemes",
+"label": "7336: circumcision, spiritual",
+"language": "eng"
+}
+]
+}
+}
+]

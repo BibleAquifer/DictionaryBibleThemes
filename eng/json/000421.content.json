@@ -1,0 +1,164 @@
+[
+{
+"content_id": "4412",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4412: binding corn",
+"media_type": "Text",
+"index_reference": "4412: binding corn",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Binding corn as a feature of agricultural life</h2>\n<p><strong><a href=\"https://ref.ly/Gen37:7\">GEN 37:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev19:9\">LEV 19:9</a> <em>the law of the gleaner</em>; <a href=\"https://ref.ly/Lev23:10\">LEV 23:10</a>, <a href=\"https://ref.ly/Lev23:22\">LEV 23:22</a>; <a href=\"https://ref.ly/Deut11:14\">DEU 11:14</a>, <a href=\"https://ref.ly/Deut24:19\">DEU 24:19</a>; <a href=\"https://ref.ly/Ruth2:16\">RUT 2:16</a>; <a href=\"https://ref.ly/Isa17:5\">ISA 17:5</a></p>\n<h2>Metaphorical usage</h2>\n<p><strong><a href=\"https://ref.ly/Ps126:6\">PSA 126:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job5:26\">JOB 5:26</a>; <a href=\"https://ref.ly/Prov10:5\">PRO 10:5</a>; <a href=\"https://ref.ly/Jer9:22\">JER 9:22</a>; <a href=\"https://ref.ly/Mic4:12\">MIC 4:12</a>; <a href=\"https://ref.ly/Matt9:37-Matt9:38\">MAT 9:37–9:38</a>, <a href=\"https://ref.ly/Matt13:30\">MAT 13:30</a>; <a href=\"https://ref.ly/Luke10:2\">LUK 10:2</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01037007",
+"start_ref_usfm": "GEN 37:7",
+"end_ref": "01037007",
+"end_ref_usfm": "GEN 37:7"
+},
+{
+"start_ref": "03019009",
+"start_ref_usfm": "LEV 19:9",
+"end_ref": "03019009",
+"end_ref_usfm": "LEV 19:9"
+},
+{
+"start_ref": "03023010",
+"start_ref_usfm": "LEV 23:10",
+"end_ref": "03023010",
+"end_ref_usfm": "LEV 23:10"
+},
+{
+"start_ref": "03023022",
+"start_ref_usfm": "LEV 23:22",
+"end_ref": "03023022",
+"end_ref_usfm": "LEV 23:22"
+},
+{
+"start_ref": "05011014",
+"start_ref_usfm": "DEU 11:14",
+"end_ref": "05011014",
+"end_ref_usfm": "DEU 11:14"
+},
+{
+"start_ref": "05024019",
+"start_ref_usfm": "DEU 24:19",
+"end_ref": "05024019",
+"end_ref_usfm": "DEU 24:19"
+},
+{
+"start_ref": "08002016",
+"start_ref_usfm": "RUT 2:16",
+"end_ref": "08002016",
+"end_ref_usfm": "RUT 2:16"
+},
+{
+"start_ref": "23017005",
+"start_ref_usfm": "ISA 17:5",
+"end_ref": "23017005",
+"end_ref_usfm": "ISA 17:5"
+},
+{
+"start_ref": "19126006",
+"start_ref_usfm": "PSA 126:6",
+"end_ref": "19126006",
+"end_ref_usfm": "PSA 126:6"
+},
+{
+"start_ref": "18005026",
+"start_ref_usfm": "JOB 5:26",
+"end_ref": "18005026",
+"end_ref_usfm": "JOB 5:26"
+},
+{
+"start_ref": "20010005",
+"start_ref_usfm": "PRO 10:5",
+"end_ref": "20010005",
+"end_ref_usfm": "PRO 10:5"
+},
+{
+"start_ref": "24009022",
+"start_ref_usfm": "JER 9:22",
+"end_ref": "24009022",
+"end_ref_usfm": "JER 9:22"
+},
+{
+"start_ref": "33004012",
+"start_ref_usfm": "MIC 4:12",
+"end_ref": "33004012",
+"end_ref_usfm": "MIC 4:12"
+},
+{
+"start_ref": "40009037",
+"start_ref_usfm": "MAT 9:37",
+"end_ref": "40009038",
+"end_ref_usfm": "MAT 9:38"
+},
+{
+"start_ref": "40013030",
+"start_ref_usfm": "MAT 13:30",
+"end_ref": "40013030",
+"end_ref_usfm": "MAT 13:30"
+},
+{
+"start_ref": "42010002",
+"start_ref_usfm": "LUK 10:2",
+"end_ref": "42010002",
+"end_ref_usfm": "LUK 10:2"
+}
+],
+"resource": [
+{
+"reference_id": "4406",
+"content_id": "4406",
+"resource_code": "DictionaryBibleThemes",
+"label": "4406: agriculture",
+"language": "eng"
+},
+{
+"reference_id": "4428",
+"content_id": "4428",
+"resource_code": "DictionaryBibleThemes",
+"label": "4428: corn",
+"language": "eng"
+},
+{
+"reference_id": "4430",
+"content_id": "4430",
+"resource_code": "DictionaryBibleThemes",
+"label": "4430: crops",
+"language": "eng"
+},
+{
+"reference_id": "4454",
+"content_id": "4454",
+"resource_code": "DictionaryBibleThemes",
+"label": "4454: gleaning",
+"language": "eng"
+},
+{
+"reference_id": "4464",
+"content_id": "4464",
+"resource_code": "DictionaryBibleThemes",
+"label": "4464: harvest",
+"language": "eng"
+},
+{
+"reference_id": "4510",
+"content_id": "4510",
+"resource_code": "DictionaryBibleThemes",
+"label": "4510: sowing and reaping",
+"language": "eng"
+},
+{
+"reference_id": "4542",
+"content_id": "4542",
+"resource_code": "DictionaryBibleThemes",
+"label": "4542: wheat",
+"language": "eng"
+}
+]
+}
+}
+]

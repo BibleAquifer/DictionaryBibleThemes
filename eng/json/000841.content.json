@@ -1,0 +1,125 @@
+[
+{
+"content_id": "5253",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5253: cheating",
+"media_type": "Text",
+"index_reference": "5253: cheating",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Cheating is condemned</h2>\n<p><strong><a href=\"https://ref.ly/Lev6:1-Lev6:5\">LEV 6:1–6:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor6:7-1Cor6:8\">1CO 6:7–6:8</a>; <a href=\"https://ref.ly/1Thess4:6\">1TH 4:6</a></p>\n<h2>Examples of cheating</h2>\n<h3>Not paying fair wages</h3>\n<p><a href=\"https://ref.ly/Gen31:6-Gen31:9\">GEN 31:6–31:9</a>; ; <a href=\"https://ref.ly/Jas5:4\">JAS 5:4</a></p>\n<h3>Using dishonest weights or scales</h3>\n<p><a href=\"https://ref.ly/Deut25:13-Deut25:16\">DEU 25:13–25:16</a>; ; <a href=\"https://ref.ly/Hos12:7-Hos12:8\">HOS 12:7–12:8</a>; ; <a href=\"https://ref.ly/Amos8:5\">AMO 8:5</a></p>\n<h3>Charging excess taxes</h3>\n<p><a href=\"https://ref.ly/Luke19:8\">LUK 19:8</a></p>\n<h3>Offering blemished animals for sacrifice</h3>\n<p><a href=\"https://ref.ly/Mal1:12-Mal1:14\">MAL 1:12–1:14</a></p>\n<h3>Moving boundary stones</h3>\n<p><a href=\"https://ref.ly/Deut19:14\">DEU 19:14</a>, <a href=\"https://ref.ly/Deut27:17\">DEU 27:17</a></p>\n<h2>Samuel as an example of someone who did not cheat</h2>\n<p><a href=\"https://ref.ly/1Sam12:3-1Sam12:4\">1SA 12:3–12:4</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03006001",
+"start_ref_usfm": "LEV 6:1",
+"end_ref": "03006005",
+"end_ref_usfm": "LEV 6:5"
+},
+{
+"start_ref": "46006007",
+"start_ref_usfm": "1CO 6:7",
+"end_ref": "46006008",
+"end_ref_usfm": "1CO 6:8"
+},
+{
+"start_ref": "52004006",
+"start_ref_usfm": "1TH 4:6",
+"end_ref": "52004006",
+"end_ref_usfm": "1TH 4:6"
+},
+{
+"start_ref": "01031006",
+"start_ref_usfm": "GEN 31:6",
+"end_ref": "01031009",
+"end_ref_usfm": "GEN 31:9"
+},
+{
+"start_ref": "59005004",
+"start_ref_usfm": "JAS 5:4",
+"end_ref": "59005004",
+"end_ref_usfm": "JAS 5:4"
+},
+{
+"start_ref": "05025013",
+"start_ref_usfm": "DEU 25:13",
+"end_ref": "05025016",
+"end_ref_usfm": "DEU 25:16"
+},
+{
+"start_ref": "28012007",
+"start_ref_usfm": "HOS 12:7",
+"end_ref": "28012008",
+"end_ref_usfm": "HOS 12:8"
+},
+{
+"start_ref": "30008005",
+"start_ref_usfm": "AMO 8:5",
+"end_ref": "30008005",
+"end_ref_usfm": "AMO 8:5"
+},
+{
+"start_ref": "42019008",
+"start_ref_usfm": "LUK 19:8",
+"end_ref": "42019008",
+"end_ref_usfm": "LUK 19:8"
+},
+{
+"start_ref": "39001012",
+"start_ref_usfm": "MAL 1:12",
+"end_ref": "39001014",
+"end_ref_usfm": "MAL 1:14"
+},
+{
+"start_ref": "05019014",
+"start_ref_usfm": "DEU 19:14",
+"end_ref": "05019014",
+"end_ref_usfm": "DEU 19:14"
+},
+{
+"start_ref": "05027017",
+"start_ref_usfm": "DEU 27:17",
+"end_ref": "05027017",
+"end_ref_usfm": "DEU 27:17"
+},
+{
+"start_ref": "09012003",
+"start_ref_usfm": "1SA 12:3",
+"end_ref": "09012004",
+"end_ref_usfm": "1SA 12:4"
+}
+],
+"resource": [
+{
+"reference_id": "5310",
+"content_id": "5310",
+"resource_code": "DictionaryBibleThemes",
+"label": "5310: exploitation",
+"language": "eng"
+},
+{
+"reference_id": "5318",
+"content_id": "5318",
+"resource_code": "DictionaryBibleThemes",
+"label": "5318: fraud",
+"language": "eng"
+},
+{
+"reference_id": "6145",
+"content_id": "6145",
+"resource_code": "DictionaryBibleThemes",
+"label": "6145: deceit",
+"language": "eng"
+},
+{
+"reference_id": "8714",
+"content_id": "8714",
+"resource_code": "DictionaryBibleThemes",
+"label": "8714: dishonesty",
+"language": "eng"
+}
+]
+}
+}
+]

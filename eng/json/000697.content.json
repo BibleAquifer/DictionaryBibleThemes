@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5101",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5101: Moses",
+"media_type": "Text",
+"index_reference": "5101: moses",
+"language": "eng",
+"review_level": "None",
+"content": "<p>One of the most important figures in the OT. Moses was called by God to lead Israel out of captivity in Egypt through the Sinai wilderness to the brink of the promised land. He was the mediator of the old covenant, and in several major respects anticipates the person of Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5102",
+"content_id": "5102",
+"resource_code": "DictionaryBibleThemes",
+"label": "5102: Moses, life of",
+"language": "eng"
+},
+{
+"reference_id": "5103",
+"content_id": "5103",
+"resource_code": "DictionaryBibleThemes",
+"label": "5103: Moses, significance of",
+"language": "eng"
+},
+{
+"reference_id": "5104",
+"content_id": "5104",
+"resource_code": "DictionaryBibleThemes",
+"label": "5104: Moses, foreshadower of Jesus Christ",
+"language": "eng"
+}
+]
+}
+}
+]

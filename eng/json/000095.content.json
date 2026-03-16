@@ -1,0 +1,60 @@
+[
+{
+"content_id": "1439",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1439: revelation",
+"media_type": "Text",
+"index_reference": "1439: revelation",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The making known of God's person, nature and deeds, in Scripture, history and supremely the person of Jesus Christ. God is also made known, to a limited yet important extent, through his creation.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "1440",
+"content_id": "1440",
+"resource_code": "DictionaryBibleThemes",
+"label": "1440: revelation, through creation",
+"language": "eng"
+},
+{
+"reference_id": "1441",
+"content_id": "1441",
+"resource_code": "DictionaryBibleThemes",
+"label": "1441: revelation, necessity of",
+"language": "eng"
+},
+{
+"reference_id": "1442",
+"content_id": "1442",
+"resource_code": "DictionaryBibleThemes",
+"label": "1442: revelation, of God",
+"language": "eng"
+},
+{
+"reference_id": "1443",
+"content_id": "1443",
+"resource_code": "DictionaryBibleThemes",
+"label": "1443: revelation, in OT",
+"language": "eng"
+},
+{
+"reference_id": "1444",
+"content_id": "1444",
+"resource_code": "DictionaryBibleThemes",
+"label": "1444: revelation, in NT",
+"language": "eng"
+},
+{
+"reference_id": "1445",
+"content_id": "1445",
+"resource_code": "DictionaryBibleThemes",
+"label": "1445: revelation, responses to",
+"language": "eng"
+}
+]
+}
+}
+]

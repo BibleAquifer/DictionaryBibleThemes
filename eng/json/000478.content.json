@@ -1,0 +1,100 @@
+[
+{
+"content_id": "4526",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4526: tree of life",
+"media_type": "Text",
+"index_reference": "4526: tree of life",
+"language": "eng",
+"review_level": "None",
+"content": "<p>One of two trees situated in the centre of the Garden of Eden. It is also mentioned in Revelation, where it symbolises life and salvation.</p>\n<h2>The tree of life in the Garden of Eden</h2>\n<p><strong><a href=\"https://ref.ly/Gen2:8-Gen2:17\">GEN 2:8–2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen3:22-Gen3:24\">GEN 3:22–3:24</a></p>\n<h2>The tree of life in Revelation</h2>\n<p><strong><a href=\"https://ref.ly/Rev22:1-Rev22:2\">REV 22:1–22:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev2:7\">REV 2:7</a>, <a href=\"https://ref.ly/Rev22:14-Rev22:15\">REV 22:14–22:15</a>, <a href=\"https://ref.ly/Rev22:18-Rev22:19\">REV 22:18–22:19</a></p>\n<h2>The tree of life as a metaphor</h2>\n<p><strong><a href=\"https://ref.ly/Prov15:4\">PRO 15:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov3:13-Prov3:18\">PRO 3:13–3:18</a>, <a href=\"https://ref.ly/Prov11:30\">PRO 11:30</a>, <a href=\"https://ref.ly/Prov13:12\">PRO 13:12</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01002008",
+"start_ref_usfm": "GEN 2:8",
+"end_ref": "01002017",
+"end_ref_usfm": "GEN 2:17"
+},
+{
+"start_ref": "01003022",
+"start_ref_usfm": "GEN 3:22",
+"end_ref": "01003024",
+"end_ref_usfm": "GEN 3:24"
+},
+{
+"start_ref": "66022001",
+"start_ref_usfm": "REV 22:1",
+"end_ref": "66022002",
+"end_ref_usfm": "REV 22:2"
+},
+{
+"start_ref": "66002007",
+"start_ref_usfm": "REV 2:7",
+"end_ref": "66002007",
+"end_ref_usfm": "REV 2:7"
+},
+{
+"start_ref": "66022014",
+"start_ref_usfm": "REV 22:14",
+"end_ref": "66022015",
+"end_ref_usfm": "REV 22:15"
+},
+{
+"start_ref": "66022018",
+"start_ref_usfm": "REV 22:18",
+"end_ref": "66022019",
+"end_ref_usfm": "REV 22:19"
+},
+{
+"start_ref": "20015004",
+"start_ref_usfm": "PRO 15:4",
+"end_ref": "20015004",
+"end_ref_usfm": "PRO 15:4"
+},
+{
+"start_ref": "20003013",
+"start_ref_usfm": "PRO 3:13",
+"end_ref": "20003018",
+"end_ref_usfm": "PRO 3:18"
+},
+{
+"start_ref": "20011030",
+"start_ref_usfm": "PRO 11:30",
+"end_ref": "20011030",
+"end_ref_usfm": "PRO 11:30"
+},
+{
+"start_ref": "20013012",
+"start_ref_usfm": "PRO 13:12",
+"end_ref": "20013012",
+"end_ref_usfm": "PRO 13:12"
+}
+],
+"resource": [
+{
+"reference_id": "4241",
+"content_id": "4241",
+"resource_code": "DictionaryBibleThemes",
+"label": "4241: Garden of Eden, the",
+"language": "eng"
+},
+{
+"reference_id": "4528",
+"content_id": "4528",
+"resource_code": "DictionaryBibleThemes",
+"label": "4528: trees",
+"language": "eng"
+},
+{
+"reference_id": "5033",
+"content_id": "5033",
+"resource_code": "DictionaryBibleThemes",
+"label": "5033: knowledge of good and evil",
+"language": "eng"
+}
+]
+}
+}
+]

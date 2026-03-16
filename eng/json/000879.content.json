@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5291",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5291: defence",
+"media_type": "Text",
+"index_reference": "5291: defence",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A means of protection and security against the attacks of others. Scripture insists that the most reliable form of defence for believers is trust in the Lord.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5292",
+"content_id": "5292",
+"resource_code": "DictionaryBibleThemes",
+"label": "5292: defence, divine",
+"language": "eng"
+},
+{
+"reference_id": "5293",
+"content_id": "5293",
+"resource_code": "DictionaryBibleThemes",
+"label": "5293: defence, human",
+"language": "eng"
+}
+]
+}
+}
+]

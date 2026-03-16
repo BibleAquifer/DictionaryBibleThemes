@@ -1,0 +1,25 @@
+[
+{
+"content_id": "9300",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9300: Resurrection",
+"media_type": "Text",
+"index_reference": "9300: resurrection",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"9310\" data-resourcetype=\"DictionaryOfBibleThemes\">9310: resurrection</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "9310",
+"content_id": "9310",
+"resource_code": "DictionaryBibleThemes",
+"label": "9310: resurrection",
+"language": "eng"
+}
+]
+}
+}
+]

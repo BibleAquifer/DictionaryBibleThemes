@@ -1,0 +1,32 @@
+[
+{
+"content_id": "7733",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7733: leaders",
+"media_type": "Text",
+"index_reference": "7733: leaders",
+"language": "eng",
+"review_level": "None",
+"content": "<p>God calls individuals to positions of leadership, both spiritual and political. Such leadership is seen as carrying responsibilities towards both God and his people and is to be exercised with humility.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7734",
+"content_id": "7734",
+"resource_code": "DictionaryBibleThemes",
+"label": "7734: leaders, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "7735",
+"content_id": "7735",
+"resource_code": "DictionaryBibleThemes",
+"label": "7735: leaders, political",
+"language": "eng"
+}
+]
+}
+}
+]

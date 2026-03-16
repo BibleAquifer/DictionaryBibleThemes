@@ -1,0 +1,138 @@
+[
+{
+"content_id": "9030",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9030: dead bodies",
+"media_type": "Text",
+"index_reference": "9030: dead bodies",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Dead bodies were to be treated with respect</h2>\n<p><a href=\"https://ref.ly/2Sam21:12-2Sam21:14\">2SA 21:12–21:14</a>; ; <a href=\"https://ref.ly/Eccl6:3\">ECC 6:3</a></p>\n<h2>Unburied dead bodies were a sign of God's curse upon Israel</h2>\n<p><a href=\"https://ref.ly/Deut28:26\">DEU 28:26</a>; ; <a href=\"https://ref.ly/Jer16:4\">JER 16:4</a></p>\n<h2>Contact with dead bodies</h2>\n<h3>The high priest was not to touch a dead body</h3>\n<p><a href=\"https://ref.ly/Lev21:11\">LEV 21:11</a></p>\n<h3>Contact with a dead body made a person unclean</h3>\n<p><strong><a href=\"https://ref.ly/Num19:11\">NUM 19:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num9:6-Num9:10\">NUM 9:6–9:10</a>, <a href=\"https://ref.ly/Num19:16\">NUM 19:16</a></p>\n<h3>Jesus Christ was willing to touch a dead body</h3>\n<p><a href=\"https://ref.ly/Matt9:25\">MAT 9:25</a> parallels <a href=\"https://ref.ly/Mark5:41\">MRK 5:41</a>, <a href=\"https://ref.ly/Luke8:54\">LUK 8:54</a>; ; <a href=\"https://ref.ly/Mark9:26-Mark9:27\">MRK 9:26–9:27</a>; ; <a href=\"https://ref.ly/Luke7:14\">LUK 7:14</a></p>\n<h3>The reluctance to approach dead bodies because of the smell</h3>\n<p><a href=\"https://ref.ly/John11:39\">JHN 11:39</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "10021012",
+"start_ref_usfm": "2SA 21:12",
+"end_ref": "10021014",
+"end_ref_usfm": "2SA 21:14"
+},
+{
+"start_ref": "21006003",
+"start_ref_usfm": "ECC 6:3",
+"end_ref": "21006003",
+"end_ref_usfm": "ECC 6:3"
+},
+{
+"start_ref": "05028026",
+"start_ref_usfm": "DEU 28:26",
+"end_ref": "05028026",
+"end_ref_usfm": "DEU 28:26"
+},
+{
+"start_ref": "24016004",
+"start_ref_usfm": "JER 16:4",
+"end_ref": "24016004",
+"end_ref_usfm": "JER 16:4"
+},
+{
+"start_ref": "03021011",
+"start_ref_usfm": "LEV 21:11",
+"end_ref": "03021011",
+"end_ref_usfm": "LEV 21:11"
+},
+{
+"start_ref": "04019011",
+"start_ref_usfm": "NUM 19:11",
+"end_ref": "04019011",
+"end_ref_usfm": "NUM 19:11"
+},
+{
+"start_ref": "04009006",
+"start_ref_usfm": "NUM 9:6",
+"end_ref": "04009010",
+"end_ref_usfm": "NUM 9:10"
+},
+{
+"start_ref": "04019016",
+"start_ref_usfm": "NUM 19:16",
+"end_ref": "04019016",
+"end_ref_usfm": "NUM 19:16"
+},
+{
+"start_ref": "40009025",
+"start_ref_usfm": "MAT 9:25",
+"end_ref": "40009025",
+"end_ref_usfm": "MAT 9:25"
+},
+{
+"start_ref": "41005041",
+"start_ref_usfm": "MRK 5:41",
+"end_ref": "41005041",
+"end_ref_usfm": "MRK 5:41"
+},
+{
+"start_ref": "42008054",
+"start_ref_usfm": "LUK 8:54",
+"end_ref": "42008054",
+"end_ref_usfm": "LUK 8:54"
+},
+{
+"start_ref": "41009026",
+"start_ref_usfm": "MRK 9:26",
+"end_ref": "41009027",
+"end_ref_usfm": "MRK 9:27"
+},
+{
+"start_ref": "42007014",
+"start_ref_usfm": "LUK 7:14",
+"end_ref": "42007014",
+"end_ref_usfm": "LUK 7:14"
+},
+{
+"start_ref": "43011039",
+"start_ref_usfm": "JHN 11:39",
+"end_ref": "43011039",
+"end_ref_usfm": "JHN 11:39"
+}
+],
+"resource": [
+{
+"reference_id": "5137",
+"content_id": "5137",
+"resource_code": "DictionaryBibleThemes",
+"label": "5137: bones",
+"language": "eng"
+},
+{
+"reference_id": "5241",
+"content_id": "5241",
+"resource_code": "DictionaryBibleThemes",
+"label": "5241: burial",
+"language": "eng"
+},
+{
+"reference_id": "5288",
+"content_id": "5288",
+"resource_code": "DictionaryBibleThemes",
+"label": "5288: dead, the",
+"language": "eng"
+},
+{
+"reference_id": "7340",
+"content_id": "7340",
+"resource_code": "DictionaryBibleThemes",
+"label": "7340: clean and unclean",
+"language": "eng"
+},
+{
+"reference_id": "7424",
+"content_id": "7424",
+"resource_code": "DictionaryBibleThemes",
+"label": "7424: ritual law",
+"language": "eng"
+}
+]
+}
+}
+]

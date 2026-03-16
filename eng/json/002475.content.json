@@ -1,0 +1,331 @@
+[
+{
+"content_id": "9050",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "9050: tombs",
+"media_type": "Text",
+"index_reference": "9050: tombs",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Graves or burial places, often cut out of rock. People were usually buried in family tombs and kings were often buried in royal tombs.</p>\n<h3>Tombs cut out of rock</h3>\n<p><strong><a href=\"https://ref.ly/Isa22:15-Isa22:16\">ISA 22:15–22:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs23:16\">2KI 23:16</a>; <a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a>; <a href=\"https://ref.ly/Matt27:59-Matt27:60\">MAT 27:59–27:60</a> parallels <a href=\"https://ref.ly/Mark15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/Luke23:53\">LUK 23:53</a></p>\n<h2>Caves used as tombs</h2>\n<p><strong><a href=\"https://ref.ly/Gen50:13\">GEN 50:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen23:17-Gen23:20\">GEN 23:17–23:20</a>, <a href=\"https://ref.ly/Gen25:8-Gen25:10\">GEN 25:8–25:10</a>; <a href=\"https://ref.ly/John11:38\">JHN 11:38</a></p>\n<h2>Tombs sealed with a stone</h2>\n<p><strong><a href=\"https://ref.ly/John11:38\">JHN 11:38</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt27:60\">MAT 27:60</a> parallel <a href=\"https://ref.ly/Mark15:46\">MRK 15:46</a>; <a href=\"https://ref.ly/Matt27:64-Matt27:66\">MAT 27:64–27:66</a>, <a href=\"https://ref.ly/Matt28:2\">MAT 28:2</a>; <a href=\"https://ref.ly/Mark16:3\">MRK 16:3</a>; <a href=\"https://ref.ly/Luke24:2\">LUK 24:2</a></p>\n<h2>Burial in a family tomb</h2>\n<p><a href=\"https://ref.ly/Gen23:19\">GEN 23:19</a>, <a href=\"https://ref.ly/Gen25:8-Gen25:10\">GEN 25:8–25:10</a>, <a href=\"https://ref.ly/Gen47:29-Gen47:30\">GEN 47:29–47:30</a>, <a href=\"https://ref.ly/Gen49:29-Gen49:32\">GEN 49:29–49:32</a>; ; <a href=\"https://ref.ly/Judg8:32\">JDG 8:32</a>, <a href=\"https://ref.ly/Judg16:31\">JDG 16:31</a>; ; <a href=\"https://ref.ly/2Sam2:32\">2SA 2:32</a>, <a href=\"https://ref.ly/2Sam17:23\">2SA 17:23</a>, <a href=\"https://ref.ly/2Sam19:37\">2SA 19:37</a>, <a href=\"https://ref.ly/2Sam21:12-2Sam21:14\">2SA 21:12–21:14</a>; ; <a href=\"https://ref.ly/1Kgs13:22\">1KI 13:22</a></p>\n<h2>Royal tombs</h2>\n<p><strong><a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr21:20\">2CH 21:20</a>, <a href=\"https://ref.ly/2Chr24:25\">2CH 24:25</a>, <a href=\"https://ref.ly/2Chr26:23\">2CH 26:23</a>, <a href=\"https://ref.ly/2Chr28:27\">2CH 28:27</a>, <a href=\"https://ref.ly/2Chr32:33\">2CH 32:33</a>; <a href=\"https://ref.ly/Neh3:16\">NEH 3:16</a></p>\n<h2>Tombs in gardens</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs21:18\">2KI 21:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs21:26\">2KI 21:26</a>; <a href=\"https://ref.ly/John19:41\">JHN 19:41</a></p>\n<h2>Contact with a tomb rendered a person ritually unclean</h2>\n<p><strong><a href=\"https://ref.ly/Num19:16\">NUM 19:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs23:6\">2KI 23:6</a></p>\n<h2>Figurative use of tombs</h2>\n<p><strong><a href=\"https://ref.ly/Matt23:27-Matt23:28\">MAT 23:27–23:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke11:43-Luke11:44\">LUK 11:43–11:44</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23022015",
+"start_ref_usfm": "ISA 22:15",
+"end_ref": "23022016",
+"end_ref_usfm": "ISA 22:16"
+},
+{
+"start_ref": "12023016",
+"start_ref_usfm": "2KI 23:16",
+"end_ref": "12023016",
+"end_ref_usfm": "2KI 23:16"
+},
+{
+"start_ref": "14016014",
+"start_ref_usfm": "2CH 16:14",
+"end_ref": "14016014",
+"end_ref_usfm": "2CH 16:14"
+},
+{
+"start_ref": "40027059",
+"start_ref_usfm": "MAT 27:59",
+"end_ref": "40027060",
+"end_ref_usfm": "MAT 27:60"
+},
+{
+"start_ref": "41015046",
+"start_ref_usfm": "MRK 15:46",
+"end_ref": "41015046",
+"end_ref_usfm": "MRK 15:46"
+},
+{
+"start_ref": "42023053",
+"start_ref_usfm": "LUK 23:53",
+"end_ref": "42023053",
+"end_ref_usfm": "LUK 23:53"
+},
+{
+"start_ref": "01050013",
+"start_ref_usfm": "GEN 50:13",
+"end_ref": "01050013",
+"end_ref_usfm": "GEN 50:13"
+},
+{
+"start_ref": "01023017",
+"start_ref_usfm": "GEN 23:17",
+"end_ref": "01023020",
+"end_ref_usfm": "GEN 23:20"
+},
+{
+"start_ref": "01025008",
+"start_ref_usfm": "GEN 25:8",
+"end_ref": "01025010",
+"end_ref_usfm": "GEN 25:10"
+},
+{
+"start_ref": "43011038",
+"start_ref_usfm": "JHN 11:38",
+"end_ref": "43011038",
+"end_ref_usfm": "JHN 11:38"
+},
+{
+"start_ref": "40027060",
+"start_ref_usfm": "MAT 27:60",
+"end_ref": "40027060",
+"end_ref_usfm": "MAT 27:60"
+},
+{
+"start_ref": "40027064",
+"start_ref_usfm": "MAT 27:64",
+"end_ref": "40027066",
+"end_ref_usfm": "MAT 27:66"
+},
+{
+"start_ref": "40028002",
+"start_ref_usfm": "MAT 28:2",
+"end_ref": "40028002",
+"end_ref_usfm": "MAT 28:2"
+},
+{
+"start_ref": "41016003",
+"start_ref_usfm": "MRK 16:3",
+"end_ref": "41016003",
+"end_ref_usfm": "MRK 16:3"
+},
+{
+"start_ref": "42024002",
+"start_ref_usfm": "LUK 24:2",
+"end_ref": "42024002",
+"end_ref_usfm": "LUK 24:2"
+},
+{
+"start_ref": "01023019",
+"start_ref_usfm": "GEN 23:19",
+"end_ref": "01023019",
+"end_ref_usfm": "GEN 23:19"
+},
+{
+"start_ref": "01047029",
+"start_ref_usfm": "GEN 47:29",
+"end_ref": "01047030",
+"end_ref_usfm": "GEN 47:30"
+},
+{
+"start_ref": "01049029",
+"start_ref_usfm": "GEN 49:29",
+"end_ref": "01049032",
+"end_ref_usfm": "GEN 49:32"
+},
+{
+"start_ref": "07008032",
+"start_ref_usfm": "JDG 8:32",
+"end_ref": "07008032",
+"end_ref_usfm": "JDG 8:32"
+},
+{
+"start_ref": "07016031",
+"start_ref_usfm": "JDG 16:31",
+"end_ref": "07016031",
+"end_ref_usfm": "JDG 16:31"
+},
+{
+"start_ref": "10002032",
+"start_ref_usfm": "2SA 2:32",
+"end_ref": "10002032",
+"end_ref_usfm": "2SA 2:32"
+},
+{
+"start_ref": "10017023",
+"start_ref_usfm": "2SA 17:23",
+"end_ref": "10017023",
+"end_ref_usfm": "2SA 17:23"
+},
+{
+"start_ref": "10019037",
+"start_ref_usfm": "2SA 19:37",
+"end_ref": "10019037",
+"end_ref_usfm": "2SA 19:37"
+},
+{
+"start_ref": "10021012",
+"start_ref_usfm": "2SA 21:12",
+"end_ref": "10021014",
+"end_ref_usfm": "2SA 21:14"
+},
+{
+"start_ref": "11013022",
+"start_ref_usfm": "1KI 13:22",
+"end_ref": "11013022",
+"end_ref_usfm": "1KI 13:22"
+},
+{
+"start_ref": "14021020",
+"start_ref_usfm": "2CH 21:20",
+"end_ref": "14021020",
+"end_ref_usfm": "2CH 21:20"
+},
+{
+"start_ref": "14024025",
+"start_ref_usfm": "2CH 24:25",
+"end_ref": "14024025",
+"end_ref_usfm": "2CH 24:25"
+},
+{
+"start_ref": "14026023",
+"start_ref_usfm": "2CH 26:23",
+"end_ref": "14026023",
+"end_ref_usfm": "2CH 26:23"
+},
+{
+"start_ref": "14028027",
+"start_ref_usfm": "2CH 28:27",
+"end_ref": "14028027",
+"end_ref_usfm": "2CH 28:27"
+},
+{
+"start_ref": "14032033",
+"start_ref_usfm": "2CH 32:33",
+"end_ref": "14032033",
+"end_ref_usfm": "2CH 32:33"
+},
+{
+"start_ref": "16003016",
+"start_ref_usfm": "NEH 3:16",
+"end_ref": "16003016",
+"end_ref_usfm": "NEH 3:16"
+},
+{
+"start_ref": "12021018",
+"start_ref_usfm": "2KI 21:18",
+"end_ref": "12021018",
+"end_ref_usfm": "2KI 21:18"
+},
+{
+"start_ref": "12021026",
+"start_ref_usfm": "2KI 21:26",
+"end_ref": "12021026",
+"end_ref_usfm": "2KI 21:26"
+},
+{
+"start_ref": "43019041",
+"start_ref_usfm": "JHN 19:41",
+"end_ref": "43019041",
+"end_ref_usfm": "JHN 19:41"
+},
+{
+"start_ref": "04019016",
+"start_ref_usfm": "NUM 19:16",
+"end_ref": "04019016",
+"end_ref_usfm": "NUM 19:16"
+},
+{
+"start_ref": "12023006",
+"start_ref_usfm": "2KI 23:6",
+"end_ref": "12023006",
+"end_ref_usfm": "2KI 23:6"
+},
+{
+"start_ref": "40023027",
+"start_ref_usfm": "MAT 23:27",
+"end_ref": "40023028",
+"end_ref_usfm": "MAT 23:28"
+},
+{
+"start_ref": "42011043",
+"start_ref_usfm": "LUK 11:43",
+"end_ref": "42011044",
+"end_ref_usfm": "LUK 11:44"
+}
+],
+"resource": [
+{
+"reference_id": "2530",
+"content_id": "2530",
+"resource_code": "DictionaryBibleThemes",
+"label": "2530: Jesus Christ, death of",
+"language": "eng"
+},
+{
+"reference_id": "2560",
+"content_id": "2560",
+"resource_code": "DictionaryBibleThemes",
+"label": "2560: Jesus Christ, resurrection of",
+"language": "eng"
+},
+{
+"reference_id": "4218",
+"content_id": "4218",
+"resource_code": "DictionaryBibleThemes",
+"label": "4218: cave",
+"language": "eng"
+},
+{
+"reference_id": "4257",
+"content_id": "4257",
+"resource_code": "DictionaryBibleThemes",
+"label": "4257: pit",
+"language": "eng"
+},
+{
+"reference_id": "4354",
+"content_id": "4354",
+"resource_code": "DictionaryBibleThemes",
+"label": "4354: rock",
+"language": "eng"
+},
+{
+"reference_id": "5241",
+"content_id": "5241",
+"resource_code": "DictionaryBibleThemes",
+"label": "5241: burial",
+"language": "eng"
+},
+{
+"reference_id": "5320",
+"content_id": "5320",
+"resource_code": "DictionaryBibleThemes",
+"label": "5320: funeral",
+"language": "eng"
+},
+{
+"reference_id": "8767",
+"content_id": "8767",
+"resource_code": "DictionaryBibleThemes",
+"label": "8767: hypocrisy",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+},
+{
+"reference_id": "9030",
+"content_id": "9030",
+"resource_code": "DictionaryBibleThemes",
+"label": "9030: dead bodies",
+"language": "eng"
+},
+{
+"reference_id": "9040",
+"content_id": "9040",
+"resource_code": "DictionaryBibleThemes",
+"label": "9040: grave, the",
+"language": "eng"
+},
+{
+"reference_id": "9540",
+"content_id": "9540",
+"resource_code": "DictionaryBibleThemes",
+"label": "9540: Sheol",
+"language": "eng"
+}
+]
+}
+}
+]

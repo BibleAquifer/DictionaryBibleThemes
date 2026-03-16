@@ -1,0 +1,162 @@
+[
+{
+"content_id": "5248",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5248: cart",
+"media_type": "Text",
+"index_reference": "5248: cart",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>General description of carts</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Num7:3\">NUM 7:3</a>; <a href=\"https://ref.ly/1Sam6:7\">1SA 6:7</a>, <a href=\"https://ref.ly/1Sam6:14\">1SA 6:14</a> <em>made of wood</em>; <a href=\"https://ref.ly/Isa5:18\">ISA 5:18</a> <em>pulled by ropes</em>; <a href=\"https://ref.ly/Isa28:27-Isa28:28\">ISA 28:27–28:28</a> <em>equipped with heavy wheels</em></p>\n<h2>Carts as a means of transport</h2>\n<h3>Carts used to transport people</h3>\n<p><strong><a href=\"https://ref.ly/Gen46:5\">GEN 46:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen45:19-Gen45:21\">GEN 45:19–45:21</a>, <a href=\"https://ref.ly/Gen45:27\">GEN 45:27</a>; <a href=\"https://ref.ly/Isa66:20\">ISA 66:20</a></p>\n<h3>Carts used as military transport</h3>\n<p><strong><a href=\"https://ref.ly/Ezek23:24\">EZK 23:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek26:10\">EZK 26:10</a></p>\n<h3>Carts used to transport grain</h3>\n<p><strong><a href=\"https://ref.ly/Amos2:13\">AMO 2:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps65:11\">PSA 65:11</a></p>\n<h3>Carts used to transport the tabernacle</h3>\n<p><a href=\"https://ref.ly/Num7:6-Num7:8\">NUM 7:6–7:8</a> <em>The heavier items of the tabernacle and its furniture were carried on covered carts drawn by oxen.</em></p>\n<h3>A new cart to transport the ark of the LORD</h3>\n<p><strong><a href=\"https://ref.ly/1Sam6:8\">1SA 6:8</a></strong> <em>The Philistines send the ark back to Israel.</em> <em>See also</em> <a href=\"https://ref.ly/1Sam6:10-1Sam6:11\">1SA 6:10–6:11</a>; <a href=\"https://ref.ly/2Sam6:2-2Sam6:3\">2SA 6:2–6:3</a> parallel <a href=\"https://ref.ly/1Chr13:7\">1CH 13:7</a> <em>The ark is started on its journey to Jerusalem.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04007003",
+"start_ref_usfm": "NUM 7:3",
+"end_ref": "04007003",
+"end_ref_usfm": "NUM 7:3"
+},
+{
+"start_ref": "09006007",
+"start_ref_usfm": "1SA 6:7",
+"end_ref": "09006007",
+"end_ref_usfm": "1SA 6:7"
+},
+{
+"start_ref": "09006014",
+"start_ref_usfm": "1SA 6:14",
+"end_ref": "09006014",
+"end_ref_usfm": "1SA 6:14"
+},
+{
+"start_ref": "23005018",
+"start_ref_usfm": "ISA 5:18",
+"end_ref": "23005018",
+"end_ref_usfm": "ISA 5:18"
+},
+{
+"start_ref": "23028027",
+"start_ref_usfm": "ISA 28:27",
+"end_ref": "23028028",
+"end_ref_usfm": "ISA 28:28"
+},
+{
+"start_ref": "01046005",
+"start_ref_usfm": "GEN 46:5",
+"end_ref": "01046005",
+"end_ref_usfm": "GEN 46:5"
+},
+{
+"start_ref": "01045019",
+"start_ref_usfm": "GEN 45:19",
+"end_ref": "01045021",
+"end_ref_usfm": "GEN 45:21"
+},
+{
+"start_ref": "01045027",
+"start_ref_usfm": "GEN 45:27",
+"end_ref": "01045027",
+"end_ref_usfm": "GEN 45:27"
+},
+{
+"start_ref": "23066020",
+"start_ref_usfm": "ISA 66:20",
+"end_ref": "23066020",
+"end_ref_usfm": "ISA 66:20"
+},
+{
+"start_ref": "26023024",
+"start_ref_usfm": "EZK 23:24",
+"end_ref": "26023024",
+"end_ref_usfm": "EZK 23:24"
+},
+{
+"start_ref": "26026010",
+"start_ref_usfm": "EZK 26:10",
+"end_ref": "26026010",
+"end_ref_usfm": "EZK 26:10"
+},
+{
+"start_ref": "30002013",
+"start_ref_usfm": "AMO 2:13",
+"end_ref": "30002013",
+"end_ref_usfm": "AMO 2:13"
+},
+{
+"start_ref": "19065011",
+"start_ref_usfm": "PSA 65:11",
+"end_ref": "19065011",
+"end_ref_usfm": "PSA 65:11"
+},
+{
+"start_ref": "04007006",
+"start_ref_usfm": "NUM 7:6",
+"end_ref": "04007008",
+"end_ref_usfm": "NUM 7:8"
+},
+{
+"start_ref": "09006008",
+"start_ref_usfm": "1SA 6:8",
+"end_ref": "09006008",
+"end_ref_usfm": "1SA 6:8"
+},
+{
+"start_ref": "09006010",
+"start_ref_usfm": "1SA 6:10",
+"end_ref": "09006011",
+"end_ref_usfm": "1SA 6:11"
+},
+{
+"start_ref": "10006002",
+"start_ref_usfm": "2SA 6:2",
+"end_ref": "10006003",
+"end_ref_usfm": "2SA 6:3"
+},
+{
+"start_ref": "13013007",
+"start_ref_usfm": "1CH 13:7",
+"end_ref": "13013007",
+"end_ref_usfm": "1CH 13:7"
+}
+],
+"resource": [
+{
+"reference_id": "4406",
+"content_id": "4406",
+"resource_code": "DictionaryBibleThemes",
+"label": "4406: agriculture",
+"language": "eng"
+},
+{
+"reference_id": "5252",
+"content_id": "5252",
+"resource_code": "DictionaryBibleThemes",
+"label": "5252: chariots",
+"language": "eng"
+},
+{
+"reference_id": "5621",
+"content_id": "5621",
+"resource_code": "DictionaryBibleThemes",
+"label": "5621: wheel",
+"language": "eng"
+},
+{
+"reference_id": "7306",
+"content_id": "7306",
+"resource_code": "DictionaryBibleThemes",
+"label": "7306: ark of the covenant",
+"language": "eng"
+},
+{
+"reference_id": "7459",
+"content_id": "7459",
+"resource_code": "DictionaryBibleThemes",
+"label": "7459: tabernacle, in OT",
+"language": "eng"
+}
+]
+}
+}
+]

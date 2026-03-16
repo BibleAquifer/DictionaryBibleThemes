@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8144",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8144: renewal",
+"media_type": "Text",
+"index_reference": "8144: renewal",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The regeneration or revitalisation that God brings to his people and creation, as part of the process of redemption.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8145",
+"content_id": "8145",
+"resource_code": "DictionaryBibleThemes",
+"label": "8145: renewal, of people of God",
+"language": "eng"
+},
+{
+"reference_id": "8146",
+"content_id": "8146",
+"resource_code": "DictionaryBibleThemes",
+"label": "8146: renewal, of natural order",
+"language": "eng"
+}
+]
+}
+}
+]

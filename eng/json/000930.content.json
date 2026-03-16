@@ -1,0 +1,208 @@
+[
+{
+"content_id": "5343",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5343: idleness",
+"media_type": "Text",
+"index_reference": "5343: idleness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Laziness or unproductiveness. As work is hallowed by God's working, idleness is regarded as a sin against oneself and society.</p>\n<h2>Idleness reproached</h2>\n<h3>In terms of daily labour</h3>\n<p><strong><a href=\"https://ref.ly/1Thess5:14\">1TH 5:14</a></strong> <em>Paul to the Christians at Thessalonica.</em> <em>See also</em> <a href=\"https://ref.ly/Prov19:24\">PRO 19:24</a>, <a href=\"https://ref.ly/Prov10:4\">PRO 10:4</a>, <a href=\"https://ref.ly/Prov22:13\">PRO 22:13</a>, <a href=\"https://ref.ly/Prov26:13-Prov26:16\">PRO 26:13–26:16</a>; <a href=\"https://ref.ly/2Thess3:6-2Thess3:15\">2TH 3:6–3:15</a>; <a href=\"https://ref.ly/1Tim5:13\">1TI 5:13</a>; <a href=\"https://ref.ly/Titus1:12\">TIT 1:12</a></p>\n<h3>In matters of faith</h3>\n<p><strong><a href=\"https://ref.ly/Heb6:11-Heb6:12\">HEB 6:11–6:12</a></strong> <em>To Christians who were tempted to give up.</em></p>\n<h2>Idleness discouraged by examples of industriousness</h2>\n<p><strong><a href=\"https://ref.ly/Prov6:6-Prov6:8\">PRO 6:6–6:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov31:27\">PRO 31:27</a> <em>the good wife</em>; <a href=\"https://ref.ly/Eccl11:6\">ECC 11:6</a>; <a href=\"https://ref.ly/2Thess3:7-2Thess3:9\">2TH 3:7–3:9</a> <em>Paul referring to his practice of not depending on others for his living</em></p>\n<h2>The results of idleness</h2>\n<p><strong><a href=\"https://ref.ly/Prov6:9-Prov6:11\">PRO 6:9–6:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov10:26\">PRO 10:26</a>, <a href=\"https://ref.ly/Prov12:24\">PRO 12:24</a>, <a href=\"https://ref.ly/Prov13:4\">PRO 13:4</a>, <a href=\"https://ref.ly/Prov15:19\">PRO 15:19</a>, <a href=\"https://ref.ly/Prov19:15\">PRO 19:15</a>, <a href=\"https://ref.ly/Prov20:4\">PRO 20:4</a>; <a href=\"https://ref.ly/Eccl10:18\">ECC 10:18</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "52005014",
+"start_ref_usfm": "1TH 5:14",
+"end_ref": "52005014",
+"end_ref_usfm": "1TH 5:14"
+},
+{
+"start_ref": "20019024",
+"start_ref_usfm": "PRO 19:24",
+"end_ref": "20019024",
+"end_ref_usfm": "PRO 19:24"
+},
+{
+"start_ref": "20010004",
+"start_ref_usfm": "PRO 10:4",
+"end_ref": "20010004",
+"end_ref_usfm": "PRO 10:4"
+},
+{
+"start_ref": "20022013",
+"start_ref_usfm": "PRO 22:13",
+"end_ref": "20022013",
+"end_ref_usfm": "PRO 22:13"
+},
+{
+"start_ref": "20026013",
+"start_ref_usfm": "PRO 26:13",
+"end_ref": "20026016",
+"end_ref_usfm": "PRO 26:16"
+},
+{
+"start_ref": "53003006",
+"start_ref_usfm": "2TH 3:6",
+"end_ref": "53003015",
+"end_ref_usfm": "2TH 3:15"
+},
+{
+"start_ref": "54005013",
+"start_ref_usfm": "1TI 5:13",
+"end_ref": "54005013",
+"end_ref_usfm": "1TI 5:13"
+},
+{
+"start_ref": "56001012",
+"start_ref_usfm": "TIT 1:12",
+"end_ref": "56001012",
+"end_ref_usfm": "TIT 1:12"
+},
+{
+"start_ref": "58006011",
+"start_ref_usfm": "HEB 6:11",
+"end_ref": "58006012",
+"end_ref_usfm": "HEB 6:12"
+},
+{
+"start_ref": "20006006",
+"start_ref_usfm": "PRO 6:6",
+"end_ref": "20006008",
+"end_ref_usfm": "PRO 6:8"
+},
+{
+"start_ref": "20031027",
+"start_ref_usfm": "PRO 31:27",
+"end_ref": "20031027",
+"end_ref_usfm": "PRO 31:27"
+},
+{
+"start_ref": "21011006",
+"start_ref_usfm": "ECC 11:6",
+"end_ref": "21011006",
+"end_ref_usfm": "ECC 11:6"
+},
+{
+"start_ref": "53003007",
+"start_ref_usfm": "2TH 3:7",
+"end_ref": "53003009",
+"end_ref_usfm": "2TH 3:9"
+},
+{
+"start_ref": "20006009",
+"start_ref_usfm": "PRO 6:9",
+"end_ref": "20006011",
+"end_ref_usfm": "PRO 6:11"
+},
+{
+"start_ref": "20010026",
+"start_ref_usfm": "PRO 10:26",
+"end_ref": "20010026",
+"end_ref_usfm": "PRO 10:26"
+},
+{
+"start_ref": "20012024",
+"start_ref_usfm": "PRO 12:24",
+"end_ref": "20012024",
+"end_ref_usfm": "PRO 12:24"
+},
+{
+"start_ref": "20013004",
+"start_ref_usfm": "PRO 13:4",
+"end_ref": "20013004",
+"end_ref_usfm": "PRO 13:4"
+},
+{
+"start_ref": "20015019",
+"start_ref_usfm": "PRO 15:19",
+"end_ref": "20015019",
+"end_ref_usfm": "PRO 15:19"
+},
+{
+"start_ref": "20019015",
+"start_ref_usfm": "PRO 19:15",
+"end_ref": "20019015",
+"end_ref_usfm": "PRO 19:15"
+},
+{
+"start_ref": "20020004",
+"start_ref_usfm": "PRO 20:4",
+"end_ref": "20020004",
+"end_ref_usfm": "PRO 20:4"
+},
+{
+"start_ref": "21010018",
+"start_ref_usfm": "ECC 10:18",
+"end_ref": "21010018",
+"end_ref_usfm": "ECC 10:18"
+}
+],
+"resource": [
+{
+"reference_id": "5446",
+"content_id": "5446",
+"resource_code": "DictionaryBibleThemes",
+"label": "5446: poverty",
+"language": "eng"
+},
+{
+"reference_id": "5524",
+"content_id": "5524",
+"resource_code": "DictionaryBibleThemes",
+"label": "5524: servants, bad",
+"language": "eng"
+},
+{
+"reference_id": "5534",
+"content_id": "5534",
+"resource_code": "DictionaryBibleThemes",
+"label": "5534: sleep, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "5539",
+"content_id": "5539",
+"resource_code": "DictionaryBibleThemes",
+"label": "5539: sluggard",
+"language": "eng"
+},
+{
+"reference_id": "5575",
+"content_id": "5575",
+"resource_code": "DictionaryBibleThemes",
+"label": "5575: talk, idle",
+"language": "eng"
+},
+{
+"reference_id": "5628",
+"content_id": "5628",
+"resource_code": "DictionaryBibleThemes",
+"label": "5628: work",
+"language": "eng"
+},
+{
+"reference_id": "5833",
+"content_id": "5833",
+"resource_code": "DictionaryBibleThemes",
+"label": "5833: diligence",
+"language": "eng"
+},
+{
+"reference_id": "5868",
+"content_id": "5868",
+"resource_code": "DictionaryBibleThemes",
+"label": "5868: gossip",
+"language": "eng"
+},
+{
+"reference_id": "8783",
+"content_id": "8783",
+"resource_code": "DictionaryBibleThemes",
+"label": "8783: neglect",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,277 @@
+[
+{
+"content_id": "7789",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7789: shepherd, as church leader",
+"media_type": "Text",
+"index_reference": "7789: shepherd, as church leader",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Church leaders are likened to shepherds, on account of their pastoral responsibilities and tasks.</p>\n<h2>Jesus Christ, the archetypal shepherd</h2>\n<p><strong><a href=\"https://ref.ly/1Pet5:4\">1PE 5:4</a></strong></p>\n<h2>Appointment of shepherds</h2>\n<p><strong><a href=\"https://ref.ly/Eph4:11\">EPH 4:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark3:14\">MRK 3:14</a>; <a href=\"https://ref.ly/Acts14:23\">ACT 14:23</a>; <a href=\"https://ref.ly/1Cor12:28\">1CO 12:28</a></p>\n<h2>Shepherd responsibilities</h2>\n<h3>Feeding the flock</h3>\n<p><strong><a href=\"https://ref.ly/John21:15\">JHN 21:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark6:34\">MRK 6:34</a>; <a href=\"https://ref.ly/John21:17\">JHN 21:17</a>; <a href=\"https://ref.ly/1Cor3:2\">1CO 3:2</a>; <a href=\"https://ref.ly/Heb5:12-Heb5:14\">HEB 5:12–5:14</a>; <a href=\"https://ref.ly/Jude1:12\">JUD 1:12</a></p>\n<h3>Caring for the flock</h3>\n<p><strong><a href=\"https://ref.ly/John21:16\">JHN 21:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt25:36\">MAT 25:36</a>; <a href=\"https://ref.ly/Acts20:28\">ACT 20:28</a>; <a href=\"https://ref.ly/Phil1:1\">PHP 1:1</a>; <a href=\"https://ref.ly/1Tim3:1-1Tim3:2\">1TI 3:1–3:2</a>; <a href=\"https://ref.ly/2Tim1:17\">2TI 1:17</a>; <a href=\"https://ref.ly/Titus1:7\">TIT 1:7</a>; <a href=\"https://ref.ly/Jas1:27\">JAS 1:27</a>; <a href=\"https://ref.ly/1Pet5:2\">1PE 5:2</a></p>\n<h3>Protecting, from false teachers</h3>\n<p><strong><a href=\"https://ref.ly/Acts20:29\">ACT 20:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt7:15\">MAT 7:15</a>; <a href=\"https://ref.ly/John10:1\">JHN 10:1</a>, <a href=\"https://ref.ly/John10:10\">JHN 10:10</a></p>\n<h3>Leading, not exploiting</h3>\n<p><strong><a href=\"https://ref.ly/1Pet5:3\">1PE 5:3</a></strong></p>\n<h3>Being accountable</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Heb13:17\">HEB 13:17</a></p>\n<h3>Risking death</h3>\n<p><a href=\"https://ref.ly/John10:15\">JHN 10:15</a>; ; <a href=\"https://ref.ly/Acts12:1-Acts12:4\">ACT 12:1–12:4</a>, <a href=\"https://ref.ly/Acts21:13\">ACT 21:13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "60005004",
+"start_ref_usfm": "1PE 5:4",
+"end_ref": "60005004",
+"end_ref_usfm": "1PE 5:4"
+},
+{
+"start_ref": "49004011",
+"start_ref_usfm": "EPH 4:11",
+"end_ref": "49004011",
+"end_ref_usfm": "EPH 4:11"
+},
+{
+"start_ref": "41003014",
+"start_ref_usfm": "MRK 3:14",
+"end_ref": "41003014",
+"end_ref_usfm": "MRK 3:14"
+},
+{
+"start_ref": "44014023",
+"start_ref_usfm": "ACT 14:23",
+"end_ref": "44014023",
+"end_ref_usfm": "ACT 14:23"
+},
+{
+"start_ref": "46012028",
+"start_ref_usfm": "1CO 12:28",
+"end_ref": "46012028",
+"end_ref_usfm": "1CO 12:28"
+},
+{
+"start_ref": "43021015",
+"start_ref_usfm": "JHN 21:15",
+"end_ref": "43021015",
+"end_ref_usfm": "JHN 21:15"
+},
+{
+"start_ref": "41006034",
+"start_ref_usfm": "MRK 6:34",
+"end_ref": "41006034",
+"end_ref_usfm": "MRK 6:34"
+},
+{
+"start_ref": "43021017",
+"start_ref_usfm": "JHN 21:17",
+"end_ref": "43021017",
+"end_ref_usfm": "JHN 21:17"
+},
+{
+"start_ref": "46003002",
+"start_ref_usfm": "1CO 3:2",
+"end_ref": "46003002",
+"end_ref_usfm": "1CO 3:2"
+},
+{
+"start_ref": "58005012",
+"start_ref_usfm": "HEB 5:12",
+"end_ref": "58005014",
+"end_ref_usfm": "HEB 5:14"
+},
+{
+"start_ref": "65001012",
+"start_ref_usfm": "JUD 1:12",
+"end_ref": "65001012",
+"end_ref_usfm": "JUD 1:12"
+},
+{
+"start_ref": "43021016",
+"start_ref_usfm": "JHN 21:16",
+"end_ref": "43021016",
+"end_ref_usfm": "JHN 21:16"
+},
+{
+"start_ref": "40025036",
+"start_ref_usfm": "MAT 25:36",
+"end_ref": "40025036",
+"end_ref_usfm": "MAT 25:36"
+},
+{
+"start_ref": "44020028",
+"start_ref_usfm": "ACT 20:28",
+"end_ref": "44020028",
+"end_ref_usfm": "ACT 20:28"
+},
+{
+"start_ref": "50001001",
+"start_ref_usfm": "PHP 1:1",
+"end_ref": "50001001",
+"end_ref_usfm": "PHP 1:1"
+},
+{
+"start_ref": "54003001",
+"start_ref_usfm": "1TI 3:1",
+"end_ref": "54003002",
+"end_ref_usfm": "1TI 3:2"
+},
+{
+"start_ref": "55001017",
+"start_ref_usfm": "2TI 1:17",
+"end_ref": "55001017",
+"end_ref_usfm": "2TI 1:17"
+},
+{
+"start_ref": "56001007",
+"start_ref_usfm": "TIT 1:7",
+"end_ref": "56001007",
+"end_ref_usfm": "TIT 1:7"
+},
+{
+"start_ref": "59001027",
+"start_ref_usfm": "JAS 1:27",
+"end_ref": "59001027",
+"end_ref_usfm": "JAS 1:27"
+},
+{
+"start_ref": "60005002",
+"start_ref_usfm": "1PE 5:2",
+"end_ref": "60005002",
+"end_ref_usfm": "1PE 5:2"
+},
+{
+"start_ref": "44020029",
+"start_ref_usfm": "ACT 20:29",
+"end_ref": "44020029",
+"end_ref_usfm": "ACT 20:29"
+},
+{
+"start_ref": "40007015",
+"start_ref_usfm": "MAT 7:15",
+"end_ref": "40007015",
+"end_ref_usfm": "MAT 7:15"
+},
+{
+"start_ref": "43010001",
+"start_ref_usfm": "JHN 10:1",
+"end_ref": "43010001",
+"end_ref_usfm": "JHN 10:1"
+},
+{
+"start_ref": "43010010",
+"start_ref_usfm": "JHN 10:10",
+"end_ref": "43010010",
+"end_ref_usfm": "JHN 10:10"
+},
+{
+"start_ref": "60005003",
+"start_ref_usfm": "1PE 5:3",
+"end_ref": "60005003",
+"end_ref_usfm": "1PE 5:3"
+},
+{
+"start_ref": "58013017",
+"start_ref_usfm": "HEB 13:17",
+"end_ref": "58013017",
+"end_ref_usfm": "HEB 13:17"
+},
+{
+"start_ref": "43010015",
+"start_ref_usfm": "JHN 10:15",
+"end_ref": "43010015",
+"end_ref_usfm": "JHN 10:15"
+},
+{
+"start_ref": "44012001",
+"start_ref_usfm": "ACT 12:1",
+"end_ref": "44012004",
+"end_ref_usfm": "ACT 12:4"
+},
+{
+"start_ref": "44021013",
+"start_ref_usfm": "ACT 21:13",
+"end_ref": "44021013",
+"end_ref_usfm": "ACT 21:13"
+}
+],
+"resource": [
+{
+"reference_id": "2330",
+"content_id": "2330",
+"resource_code": "DictionaryBibleThemes",
+"label": "2330: Jesus Christ, as shepherd",
+"language": "eng"
+},
+{
+"reference_id": "5806",
+"content_id": "5806",
+"resource_code": "DictionaryBibleThemes",
+"label": "5806: compassion",
+"language": "eng"
+},
+{
+"reference_id": "7026",
+"content_id": "7026",
+"resource_code": "DictionaryBibleThemes",
+"label": "7026: church, leadership of",
+"language": "eng"
+},
+{
+"reference_id": "7130",
+"content_id": "7130",
+"resource_code": "DictionaryBibleThemes",
+"label": "7130: flock, God's",
+"language": "eng"
+},
+{
+"reference_id": "7734",
+"content_id": "7734",
+"resource_code": "DictionaryBibleThemes",
+"label": "7734: leaders, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "7748",
+"content_id": "7748",
+"resource_code": "DictionaryBibleThemes",
+"label": "7748: overseers",
+"language": "eng"
+},
+{
+"reference_id": "7793",
+"content_id": "7793",
+"resource_code": "DictionaryBibleThemes",
+"label": "7793: teachers",
+"language": "eng"
+},
+{
+"reference_id": "7939",
+"content_id": "7939",
+"resource_code": "DictionaryBibleThemes",
+"label": "7939: ministry",
+"language": "eng"
+},
+{
+"reference_id": "8124",
+"content_id": "8124",
+"resource_code": "DictionaryBibleThemes",
+"label": "8124: guidance",
+"language": "eng"
+},
+{
+"reference_id": "8354",
+"content_id": "8354",
+"resource_code": "DictionaryBibleThemes",
+"label": "8354: trustworthiness",
+"language": "eng"
+},
+{
+"reference_id": "8428",
+"content_id": "8428",
+"resource_code": "DictionaryBibleThemes",
+"label": "8428: example",
+"language": "eng"
+},
+{
+"reference_id": "8750",
+"content_id": "8750",
+"resource_code": "DictionaryBibleThemes",
+"label": "8750: false teachings",
+"language": "eng"
+}
+]
+}
+}
+]

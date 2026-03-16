@@ -1,0 +1,223 @@
+[
+{
+"content_id": "2515",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "2515: Jesus Christ, birth of",
+"media_type": "Text",
+"index_reference": "2515: jesus christ, birth of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Jesus Christ was born to a poor unmarried Jewish couple in the village of Bethlehem. As Son of God, he was conceived by the Holy Spirit in the womb of his mother Mary.</p>\n<h2>Jesus Christ's birth is prophesied in the OT</h2>\n<h3>The prophecy of a coming ruler</h3>\n<p><strong><a href=\"https://ref.ly/Isa9:6-Isa9:7\">ISA 9:6–9:7</a></strong></p>\n<h3>The prophecy of a virgin's son</h3>\n<p><strong><a href=\"https://ref.ly/Isa7:14\">ISA 7:14</a></strong></p>\n<h3>The prophecy concerning his birthplace</h3>\n<p><strong><a href=\"https://ref.ly/Mic5:2\">MIC 5:2</a></strong> <em>“Bethlehem Ephrathah” is the village where David grew up (“the town of David”).</em></p>\n<h2>Jesus Christ was conceived by the Holy Spirit and born of a virgin</h2>\n<p><strong><a href=\"https://ref.ly/Matt1:18\">MAT 1:18</a>, <a href=\"https://ref.ly/Matt1:23\">MAT 1:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt1:20\">MAT 1:20</a>; <a href=\"https://ref.ly/Luke1:34-Luke1:35\">LUK 1:34–1:35</a></p>\n<h2>Jesus Christ's incarnation</h2>\n<p><strong><a href=\"https://ref.ly/John1:14\">JHN 1:14</a></strong>; <strong><a href=\"https://ref.ly/Gal4:4\">GAL 4:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:3\">ROM 8:3</a>; <a href=\"https://ref.ly/2Cor8:9\">2CO 8:9</a>; <a href=\"https://ref.ly/Phil2:7-Phil2:8\">PHP 2:7–2:8</a>; <a href=\"https://ref.ly/1Tim3:16\">1TI 3:16</a>; <a href=\"https://ref.ly/1John4:2\">1JN 4:2</a></p>\n<h2>The circumstances of Jesus Christ's birth</h2>\n<h3>An angel informs Mary that she is to be the mother of the Messiah</h3>\n<p><strong><a href=\"https://ref.ly/Luke1:26-Luke1:38\">LUK 1:26–1:38</a></strong></p>\n<h3>Mary responds in praise</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Luke1:46-Luke1:55\">LUK 1:46–1:55</a></p>\n<h3>An angel explains to Joseph why Mary's baby is so special</h3>\n<p><strong><a href=\"https://ref.ly/Matt1:18-Matt1:25\">MAT 1:18–1:25</a></strong></p>\n<h3>The birth of Jesus Christ takes place</h3>\n<p><strong><a href=\"https://ref.ly/Luke2:1-Luke2:7\">LUK 2:1–2:7</a></strong></p>\n<h3>Angels announce Jesus Christ's birth to some shepherds</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Luke2:8-Luke2:20\">LUK 2:8–2:20</a></p>\n<h3>The Magi search for Jesus Christ's birthplace and Herod tries to kill him</h3>\n<p><a href=\"https://ref.ly/Matt2:1-Matt2:18\">MAT 2:1–2:18</a> <em>These events could have taken place at any time in Jesus Christ's first two years.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23009006",
+"start_ref_usfm": "ISA 9:6",
+"end_ref": "23009007",
+"end_ref_usfm": "ISA 9:7"
+},
+{
+"start_ref": "23007014",
+"start_ref_usfm": "ISA 7:14",
+"end_ref": "23007014",
+"end_ref_usfm": "ISA 7:14"
+},
+{
+"start_ref": "33005002",
+"start_ref_usfm": "MIC 5:2",
+"end_ref": "33005002",
+"end_ref_usfm": "MIC 5:2"
+},
+{
+"start_ref": "40001018",
+"start_ref_usfm": "MAT 1:18",
+"end_ref": "40001018",
+"end_ref_usfm": "MAT 1:18"
+},
+{
+"start_ref": "40001023",
+"start_ref_usfm": "MAT 1:23",
+"end_ref": "40001023",
+"end_ref_usfm": "MAT 1:23"
+},
+{
+"start_ref": "40001020",
+"start_ref_usfm": "MAT 1:20",
+"end_ref": "40001020",
+"end_ref_usfm": "MAT 1:20"
+},
+{
+"start_ref": "42001034",
+"start_ref_usfm": "LUK 1:34",
+"end_ref": "42001035",
+"end_ref_usfm": "LUK 1:35"
+},
+{
+"start_ref": "43001014",
+"start_ref_usfm": "JHN 1:14",
+"end_ref": "43001014",
+"end_ref_usfm": "JHN 1:14"
+},
+{
+"start_ref": "48004004",
+"start_ref_usfm": "GAL 4:4",
+"end_ref": "48004004",
+"end_ref_usfm": "GAL 4:4"
+},
+{
+"start_ref": "45008003",
+"start_ref_usfm": "ROM 8:3",
+"end_ref": "45008003",
+"end_ref_usfm": "ROM 8:3"
+},
+{
+"start_ref": "47008009",
+"start_ref_usfm": "2CO 8:9",
+"end_ref": "47008009",
+"end_ref_usfm": "2CO 8:9"
+},
+{
+"start_ref": "50002007",
+"start_ref_usfm": "PHP 2:7",
+"end_ref": "50002008",
+"end_ref_usfm": "PHP 2:8"
+},
+{
+"start_ref": "54003016",
+"start_ref_usfm": "1TI 3:16",
+"end_ref": "54003016",
+"end_ref_usfm": "1TI 3:16"
+},
+{
+"start_ref": "62004002",
+"start_ref_usfm": "1JN 4:2",
+"end_ref": "62004002",
+"end_ref_usfm": "1JN 4:2"
+},
+{
+"start_ref": "42001026",
+"start_ref_usfm": "LUK 1:26",
+"end_ref": "42001038",
+"end_ref_usfm": "LUK 1:38"
+},
+{
+"start_ref": "42001046",
+"start_ref_usfm": "LUK 1:46",
+"end_ref": "42001055",
+"end_ref_usfm": "LUK 1:55"
+},
+{
+"start_ref": "40001018",
+"start_ref_usfm": "MAT 1:18",
+"end_ref": "40001025",
+"end_ref_usfm": "MAT 1:25"
+},
+{
+"start_ref": "42002001",
+"start_ref_usfm": "LUK 2:1",
+"end_ref": "42002007",
+"end_ref_usfm": "LUK 2:7"
+},
+{
+"start_ref": "42002008",
+"start_ref_usfm": "LUK 2:8",
+"end_ref": "42002020",
+"end_ref_usfm": "LUK 2:20"
+},
+{
+"start_ref": "40002001",
+"start_ref_usfm": "MAT 2:1",
+"end_ref": "40002018",
+"end_ref_usfm": "MAT 2:18"
+}
+],
+"resource": [
+{
+"reference_id": "2033",
+"content_id": "2033",
+"resource_code": "DictionaryBibleThemes",
+"label": "2033: Jesus Christ, humanity of",
+"language": "eng"
+},
+{
+"reference_id": "2036",
+"content_id": "2036",
+"resource_code": "DictionaryBibleThemes",
+"label": "2036: Jesus Christ, humility of",
+"language": "eng"
+},
+{
+"reference_id": "2215",
+"content_id": "2215",
+"resource_code": "DictionaryBibleThemes",
+"label": "2215: Jesus Christ, Son of David",
+"language": "eng"
+},
+{
+"reference_id": "2218",
+"content_id": "2218",
+"resource_code": "DictionaryBibleThemes",
+"label": "2218: Jesus Christ, Son of God",
+"language": "eng"
+},
+{
+"reference_id": "2230",
+"content_id": "2230",
+"resource_code": "DictionaryBibleThemes",
+"label": "2230: Messiah, coming of",
+"language": "eng"
+},
+{
+"reference_id": "2312",
+"content_id": "2312",
+"resource_code": "DictionaryBibleThemes",
+"label": "2312: Jesus Christ, as king",
+"language": "eng"
+},
+{
+"reference_id": "2366",
+"content_id": "2366",
+"resource_code": "DictionaryBibleThemes",
+"label": "2366: Jesus Christ, prophecies concerning",
+"language": "eng"
+},
+{
+"reference_id": "2421",
+"content_id": "2421",
+"resource_code": "DictionaryBibleThemes",
+"label": "2421: gospel, historical foundation of",
+"language": "eng"
+},
+{
+"reference_id": "2540",
+"content_id": "2540",
+"resource_code": "DictionaryBibleThemes",
+"label": "2540: Jesus Christ, genealogy of",
+"language": "eng"
+},
+{
+"reference_id": "2595",
+"content_id": "2595",
+"resource_code": "DictionaryBibleThemes",
+"label": "2595: incarnation",
+"language": "eng"
+},
+{
+"reference_id": "4110",
+"content_id": "4110",
+"resource_code": "DictionaryBibleThemes",
+"label": "4110: angels",
+"language": "eng"
+},
+{
+"reference_id": "5099",
+"content_id": "5099",
+"resource_code": "DictionaryBibleThemes",
+"label": "5099: Mary, mother of Jesus Christ",
+"language": "eng"
+}
+]
+}
+}
+]

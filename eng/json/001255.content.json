@@ -1,0 +1,94 @@
+[
+{
+"content_id": "5715",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5715: menstruation",
+"media_type": "Text",
+"index_reference": "5715: menstruation",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>A woman was considered ceremonially unclean during menstruation</h2>\n<p><strong><a href=\"https://ref.ly/Lev15:19-Lev15:23\">LEV 15:19–15:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev12:1-Lev12:5\">LEV 12:1–12:5</a>, <a href=\"https://ref.ly/Lev15:25-Lev15:30\">LEV 15:25–15:30</a>; <a href=\"https://ref.ly/Isa30:22\">ISA 30:22</a></p>\n<h2>Sexual intercourse during menstruation forbidden</h2>\n<p><strong><a href=\"https://ref.ly/Lev18:19\">LEV 18:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev20:18\">LEV 20:18</a>; <a href=\"https://ref.ly/Ezek18:5-Ezek18:6\">EZK 18:5–18:6</a>, <a href=\"https://ref.ly/Ezek22:10\">EZK 22:10</a></p>\n<h2>The discomfort of menstruation</h2>\n<p><a href=\"https://ref.ly/Gen31:35\">GEN 31:35</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "03015019",
+"start_ref_usfm": "LEV 15:19",
+"end_ref": "03015023",
+"end_ref_usfm": "LEV 15:23"
+},
+{
+"start_ref": "03012001",
+"start_ref_usfm": "LEV 12:1",
+"end_ref": "03012005",
+"end_ref_usfm": "LEV 12:5"
+},
+{
+"start_ref": "03015025",
+"start_ref_usfm": "LEV 15:25",
+"end_ref": "03015030",
+"end_ref_usfm": "LEV 15:30"
+},
+{
+"start_ref": "23030022",
+"start_ref_usfm": "ISA 30:22",
+"end_ref": "23030022",
+"end_ref_usfm": "ISA 30:22"
+},
+{
+"start_ref": "03018019",
+"start_ref_usfm": "LEV 18:19",
+"end_ref": "03018019",
+"end_ref_usfm": "LEV 18:19"
+},
+{
+"start_ref": "03020018",
+"start_ref_usfm": "LEV 20:18",
+"end_ref": "03020018",
+"end_ref_usfm": "LEV 20:18"
+},
+{
+"start_ref": "26018005",
+"start_ref_usfm": "EZK 18:5",
+"end_ref": "26018006",
+"end_ref_usfm": "EZK 18:6"
+},
+{
+"start_ref": "26022010",
+"start_ref_usfm": "EZK 22:10",
+"end_ref": "26022010",
+"end_ref_usfm": "EZK 22:10"
+},
+{
+"start_ref": "01031035",
+"start_ref_usfm": "GEN 31:35",
+"end_ref": "01031035",
+"end_ref_usfm": "GEN 31:35"
+}
+],
+"resource": [
+{
+"reference_id": "6236",
+"content_id": "6236",
+"resource_code": "DictionaryBibleThemes",
+"label": "6236: sexual sin",
+"language": "eng"
+},
+{
+"reference_id": "7424",
+"content_id": "7424",
+"resource_code": "DictionaryBibleThemes",
+"label": "7424: ritual law",
+"language": "eng"
+},
+{
+"reference_id": "7426",
+"content_id": "7426",
+"resource_code": "DictionaryBibleThemes",
+"label": "7426: ritual washing",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,242 @@
+[
+{
+"content_id": "4055",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4055: heaven and earth",
+"media_type": "Text",
+"index_reference": "4055: heaven and earth",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An expression which in the original Hebrew refers to the whole of creation. It is frequently used in relation to God both as Creator and Lord in order to emphasise his power and authority.</p>\n<h2>Heaven and earth in relation to God</h2>\n<h3>He is the Creator of heaven and earth</h3>\n<p><strong><a href=\"https://ref.ly/Isa37:16\">ISA 37:16</a></strong> parallel <a href=\"https://ref.ly/2Kgs19:15\">2KI 19:15</a> <em>See also</em> <a href=\"https://ref.ly/Gen14:18-Gen14:23\">GEN 14:18–14:23</a>; <a href=\"https://ref.ly/2Chr2:12\">2CH 2:12</a>; <a href=\"https://ref.ly/Ps115:15\">PSA 115:15</a>, <a href=\"https://ref.ly/Ps121:2\">PSA 121:2</a>, <a href=\"https://ref.ly/Ps124:8\">PSA 124:8</a>, <a href=\"https://ref.ly/Ps134:3\">PSA 134:3</a>, <a href=\"https://ref.ly/Ps146:5-Ps146:6\">PSA 146:5–146:6</a>; <a href=\"https://ref.ly/Acts14:15\">ACT 14:15</a>, <a href=\"https://ref.ly/Acts17:24\">ACT 17:24</a></p>\n<h3>He is Lord of heaven and earth</h3>\n<p><strong><a href=\"https://ref.ly/Matt11:25\">MAT 11:25</a></strong> parallel <a href=\"https://ref.ly/Luke10:21\">LUK 10:21</a> <em>See also</em> <a href=\"https://ref.ly/1Chr29:11-1Chr29:12\">1CH 29:11–29:12</a>; <a href=\"https://ref.ly/Ezra5:11\">EZR 5:11</a>; <a href=\"https://ref.ly/Jer23:23-Jer23:24\">JER 23:23–23:24</a>, <a href=\"https://ref.ly/Jer33:25-Jer33:26\">JER 33:25–33:26</a></p>\n<h2>The personification of heaven and earth</h2>\n<p><strong><a href=\"https://ref.ly/Deut31:28\">DEU 31:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:26\">DEU 4:26</a>, <a href=\"https://ref.ly/Deut30:19\">DEU 30:19</a>; <a href=\"https://ref.ly/Ps69:34\">PSA 69:34</a>; <a href=\"https://ref.ly/Jer51:48\">JER 51:48</a></p>\n<h2>Allusions to the end of heaven and earth</h2>\n<p><strong><a href=\"https://ref.ly/Matt24:35\">MAT 24:35</a></strong> parallels <a href=\"https://ref.ly/Mark13:31\">MRK 13:31</a>, <a href=\"https://ref.ly/Luke21:33\">LUK 21:33</a> <em>See also</em> <a href=\"https://ref.ly/Matt5:18\">MAT 5:18</a>; <a href=\"https://ref.ly/Luke16:17\">LUK 16:17</a></p>\n<h2>The expression ``between heaven and earth''</h2>\n<p><strong><a href=\"https://ref.ly/1Chr21:16\">1CH 21:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Zech5:9\">ZEC 5:9</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23037016",
+"start_ref_usfm": "ISA 37:16",
+"end_ref": "23037016",
+"end_ref_usfm": "ISA 37:16"
+},
+{
+"start_ref": "12019015",
+"start_ref_usfm": "2KI 19:15",
+"end_ref": "12019015",
+"end_ref_usfm": "2KI 19:15"
+},
+{
+"start_ref": "01014018",
+"start_ref_usfm": "GEN 14:18",
+"end_ref": "01014023",
+"end_ref_usfm": "GEN 14:23"
+},
+{
+"start_ref": "14002012",
+"start_ref_usfm": "2CH 2:12",
+"end_ref": "14002012",
+"end_ref_usfm": "2CH 2:12"
+},
+{
+"start_ref": "19115015",
+"start_ref_usfm": "PSA 115:15",
+"end_ref": "19115015",
+"end_ref_usfm": "PSA 115:15"
+},
+{
+"start_ref": "19121002",
+"start_ref_usfm": "PSA 121:2",
+"end_ref": "19121002",
+"end_ref_usfm": "PSA 121:2"
+},
+{
+"start_ref": "19124008",
+"start_ref_usfm": "PSA 124:8",
+"end_ref": "19124008",
+"end_ref_usfm": "PSA 124:8"
+},
+{
+"start_ref": "19134003",
+"start_ref_usfm": "PSA 134:3",
+"end_ref": "19134003",
+"end_ref_usfm": "PSA 134:3"
+},
+{
+"start_ref": "19146005",
+"start_ref_usfm": "PSA 146:5",
+"end_ref": "19146006",
+"end_ref_usfm": "PSA 146:6"
+},
+{
+"start_ref": "44014015",
+"start_ref_usfm": "ACT 14:15",
+"end_ref": "44014015",
+"end_ref_usfm": "ACT 14:15"
+},
+{
+"start_ref": "44017024",
+"start_ref_usfm": "ACT 17:24",
+"end_ref": "44017024",
+"end_ref_usfm": "ACT 17:24"
+},
+{
+"start_ref": "40011025",
+"start_ref_usfm": "MAT 11:25",
+"end_ref": "40011025",
+"end_ref_usfm": "MAT 11:25"
+},
+{
+"start_ref": "42010021",
+"start_ref_usfm": "LUK 10:21",
+"end_ref": "42010021",
+"end_ref_usfm": "LUK 10:21"
+},
+{
+"start_ref": "13029011",
+"start_ref_usfm": "1CH 29:11",
+"end_ref": "13029012",
+"end_ref_usfm": "1CH 29:12"
+},
+{
+"start_ref": "15005011",
+"start_ref_usfm": "EZR 5:11",
+"end_ref": "15005011",
+"end_ref_usfm": "EZR 5:11"
+},
+{
+"start_ref": "24023023",
+"start_ref_usfm": "JER 23:23",
+"end_ref": "24023024",
+"end_ref_usfm": "JER 23:24"
+},
+{
+"start_ref": "24033025",
+"start_ref_usfm": "JER 33:25",
+"end_ref": "24033026",
+"end_ref_usfm": "JER 33:26"
+},
+{
+"start_ref": "05031028",
+"start_ref_usfm": "DEU 31:28",
+"end_ref": "05031028",
+"end_ref_usfm": "DEU 31:28"
+},
+{
+"start_ref": "05004026",
+"start_ref_usfm": "DEU 4:26",
+"end_ref": "05004026",
+"end_ref_usfm": "DEU 4:26"
+},
+{
+"start_ref": "05030019",
+"start_ref_usfm": "DEU 30:19",
+"end_ref": "05030019",
+"end_ref_usfm": "DEU 30:19"
+},
+{
+"start_ref": "19069034",
+"start_ref_usfm": "PSA 69:34",
+"end_ref": "19069034",
+"end_ref_usfm": "PSA 69:34"
+},
+{
+"start_ref": "24051048",
+"start_ref_usfm": "JER 51:48",
+"end_ref": "24051048",
+"end_ref_usfm": "JER 51:48"
+},
+{
+"start_ref": "40024035",
+"start_ref_usfm": "MAT 24:35",
+"end_ref": "40024035",
+"end_ref_usfm": "MAT 24:35"
+},
+{
+"start_ref": "41013031",
+"start_ref_usfm": "MRK 13:31",
+"end_ref": "41013031",
+"end_ref_usfm": "MRK 13:31"
+},
+{
+"start_ref": "42021033",
+"start_ref_usfm": "LUK 21:33",
+"end_ref": "42021033",
+"end_ref_usfm": "LUK 21:33"
+},
+{
+"start_ref": "40005018",
+"start_ref_usfm": "MAT 5:18",
+"end_ref": "40005018",
+"end_ref_usfm": "MAT 5:18"
+},
+{
+"start_ref": "42016017",
+"start_ref_usfm": "LUK 16:17",
+"end_ref": "42016017",
+"end_ref_usfm": "LUK 16:17"
+},
+{
+"start_ref": "13021016",
+"start_ref_usfm": "1CH 21:16",
+"end_ref": "13021016",
+"end_ref_usfm": "1CH 21:16"
+},
+{
+"start_ref": "38005009",
+"start_ref_usfm": "ZEC 5:9",
+"end_ref": "38005009",
+"end_ref_usfm": "ZEC 5:9"
+}
+],
+"resource": [
+{
+"reference_id": "1110",
+"content_id": "1110",
+"resource_code": "DictionaryBibleThemes",
+"label": "1110: God, present everywhere",
+"language": "eng"
+},
+{
+"reference_id": "1230",
+"content_id": "1230",
+"resource_code": "DictionaryBibleThemes",
+"label": "1230: God, the Lord",
+"language": "eng"
+},
+{
+"reference_id": "1325",
+"content_id": "1325",
+"resource_code": "DictionaryBibleThemes",
+"label": "1325: God, the Creator",
+"language": "eng"
+},
+{
+"reference_id": "4005",
+"content_id": "4005",
+"resource_code": "DictionaryBibleThemes",
+"label": "4005: creation",
+"language": "eng"
+},
+{
+"reference_id": "4287",
+"content_id": "4287",
+"resource_code": "DictionaryBibleThemes",
+"label": "4287: universe",
+"language": "eng"
+},
+{
+"reference_id": "9160",
+"content_id": "9160",
+"resource_code": "DictionaryBibleThemes",
+"label": "9160: new heavens and new earth",
+"language": "eng"
+},
+{
+"reference_id": "9410",
+"content_id": "9410",
+"resource_code": "DictionaryBibleThemes",
+"label": "9410: heaven",
+"language": "eng"
+}
+]
+}
+}
+]

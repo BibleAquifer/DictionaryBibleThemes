@@ -1,0 +1,171 @@
+[
+{
+"content_id": "7769",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7769: priests, types of in NT times",
+"media_type": "Text",
+"index_reference": "7769: priests, types of in nt times",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The NT points to the fulfilment of the OT priesthood in Jesus Christ, and develops the idea that all Christian believers can be seen as priests. It also records the continuing role of priests in the life of Israel and pagan nations at this time.</p>\n<h2>Pagan priests</h2>\n<p><strong><a href=\"https://ref.ly/Acts14:13\">ACT 14:13</a></strong></p>\n<h2>Jewish priests</h2>\n<h3>The chief priests</h3>\n<p><strong><a href=\"https://ref.ly/Matt16:21\">MAT 16:21</a></strong></p>\n<h3>The Sadducees</h3>\n<p><strong><a href=\"https://ref.ly/Acts5:17\">ACT 5:17</a></strong> <em>The Sadducees were a conservative party composed entirely of priests who were influential in the Sanhedrin.</em></p>\n<h3>Zechariah</h3>\n<p><strong><a href=\"https://ref.ly/Luke1:5\">LUK 1:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr24:10\">1CH 24:10</a></p>\n<h3>Emissaries to John the Baptist</h3>\n<p><strong><a href=\"https://ref.ly/John1:19\">JHN 1:19</a></strong> <em>Levites were closely associated with priests as temple personnel, perhaps mentioned here because of their teaching function.</em> <em>See also</em> <a href=\"https://ref.ly/2Chr35:3\">2CH 35:3</a>; <a href=\"https://ref.ly/Neh8:7-Neh8:9\">NEH 8:7–8:9</a>; <a href=\"https://ref.ly/Luke10:31-Luke10:32\">LUK 10:31–10:32</a></p>\n<h2>Jesus Christ as high priest</h2>\n<p><strong><a href=\"https://ref.ly/Heb8:1-Heb8:2\">HEB 8:1–8:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb4:14-Heb4:16\">HEB 4:14–4:16</a></p>\n<h2>Christians as priests</h2>\n<p><strong><a href=\"https://ref.ly/Rev1:5-Rev1:6\">REV 1:5–1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Pet2:5\">1PE 2:5</a>, <a href=\"https://ref.ly/1Pet2:9\">1PE 2:9</a>; <a href=\"https://ref.ly/Rev5:10\">REV 5:10</a>, <a href=\"https://ref.ly/Rev20:6\">REV 20:6</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "44014013",
+"start_ref_usfm": "ACT 14:13",
+"end_ref": "44014013",
+"end_ref_usfm": "ACT 14:13"
+},
+{
+"start_ref": "40016021",
+"start_ref_usfm": "MAT 16:21",
+"end_ref": "40016021",
+"end_ref_usfm": "MAT 16:21"
+},
+{
+"start_ref": "44005017",
+"start_ref_usfm": "ACT 5:17",
+"end_ref": "44005017",
+"end_ref_usfm": "ACT 5:17"
+},
+{
+"start_ref": "42001005",
+"start_ref_usfm": "LUK 1:5",
+"end_ref": "42001005",
+"end_ref_usfm": "LUK 1:5"
+},
+{
+"start_ref": "13024010",
+"start_ref_usfm": "1CH 24:10",
+"end_ref": "13024010",
+"end_ref_usfm": "1CH 24:10"
+},
+{
+"start_ref": "43001019",
+"start_ref_usfm": "JHN 1:19",
+"end_ref": "43001019",
+"end_ref_usfm": "JHN 1:19"
+},
+{
+"start_ref": "14035003",
+"start_ref_usfm": "2CH 35:3",
+"end_ref": "14035003",
+"end_ref_usfm": "2CH 35:3"
+},
+{
+"start_ref": "16008007",
+"start_ref_usfm": "NEH 8:7",
+"end_ref": "16008009",
+"end_ref_usfm": "NEH 8:9"
+},
+{
+"start_ref": "42010031",
+"start_ref_usfm": "LUK 10:31",
+"end_ref": "42010032",
+"end_ref_usfm": "LUK 10:32"
+},
+{
+"start_ref": "58008001",
+"start_ref_usfm": "HEB 8:1",
+"end_ref": "58008002",
+"end_ref_usfm": "HEB 8:2"
+},
+{
+"start_ref": "58004014",
+"start_ref_usfm": "HEB 4:14",
+"end_ref": "58004016",
+"end_ref_usfm": "HEB 4:16"
+},
+{
+"start_ref": "66001005",
+"start_ref_usfm": "REV 1:5",
+"end_ref": "66001006",
+"end_ref_usfm": "REV 1:6"
+},
+{
+"start_ref": "60002005",
+"start_ref_usfm": "1PE 2:5",
+"end_ref": "60002005",
+"end_ref_usfm": "1PE 2:5"
+},
+{
+"start_ref": "60002009",
+"start_ref_usfm": "1PE 2:9",
+"end_ref": "60002009",
+"end_ref_usfm": "1PE 2:9"
+},
+{
+"start_ref": "66005010",
+"start_ref_usfm": "REV 5:10",
+"end_ref": "66005010",
+"end_ref_usfm": "REV 5:10"
+},
+{
+"start_ref": "66020006",
+"start_ref_usfm": "REV 20:6",
+"end_ref": "66020006",
+"end_ref_usfm": "REV 20:6"
+}
+],
+"resource": [
+{
+"reference_id": "2306",
+"content_id": "2306",
+"resource_code": "DictionaryBibleThemes",
+"label": "2306: Jesus Christ, as high priest",
+"language": "eng"
+},
+{
+"reference_id": "6684",
+"content_id": "6684",
+"resource_code": "DictionaryBibleThemes",
+"label": "6684: mediator",
+"language": "eng"
+},
+{
+"reference_id": "7330",
+"content_id": "7330",
+"resource_code": "DictionaryBibleThemes",
+"label": "7330: chief priests",
+"language": "eng"
+},
+{
+"reference_id": "7378",
+"content_id": "7378",
+"resource_code": "DictionaryBibleThemes",
+"label": "7378: high priest, in NT",
+"language": "eng"
+},
+{
+"reference_id": "7414",
+"content_id": "7414",
+"resource_code": "DictionaryBibleThemes",
+"label": "7414: priesthood, in NT",
+"language": "eng"
+},
+{
+"reference_id": "7555",
+"content_id": "7555",
+"resource_code": "DictionaryBibleThemes",
+"label": "7555: Sadducees",
+"language": "eng"
+},
+{
+"reference_id": "7565",
+"content_id": "7565",
+"resource_code": "DictionaryBibleThemes",
+"label": "7565: Sanhedrin",
+"language": "eng"
+},
+{
+"reference_id": "8266",
+"content_id": "8266",
+"resource_code": "DictionaryBibleThemes",
+"label": "8266: holiness",
+"language": "eng"
+}
+]
+}
+}
+]

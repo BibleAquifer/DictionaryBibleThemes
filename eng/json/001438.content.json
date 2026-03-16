@@ -1,0 +1,252 @@
+[
+{
+"content_id": "5924",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5924: quarrelsomeness",
+"media_type": "Text",
+"index_reference": "5924: quarrelsomeness",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The evil of quarrelling</h2>\n<p><strong><a href=\"https://ref.ly/Jas4:1-Jas4:2\">JAS 4:1–4:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod21:18-Exod21:19\">EXO 21:18–21:19</a>; <a href=\"https://ref.ly/Prov10:12\">PRO 10:12</a>, <a href=\"https://ref.ly/Prov13:10\">PRO 13:10</a>, <a href=\"https://ref.ly/Prov15:18\">PRO 15:18</a>, <a href=\"https://ref.ly/Prov20:3\">PRO 20:3</a>, <a href=\"https://ref.ly/Prov21:9\">PRO 21:9</a>, <a href=\"https://ref.ly/Prov22:10\">PRO 22:10</a>, <a href=\"https://ref.ly/Prov26:20-Prov26:21\">PRO 26:20–26:21</a>, <a href=\"https://ref.ly/Prov27:15-Prov27:16\">PRO 27:15–27:16</a>, <a href=\"https://ref.ly/Prov30:33\">PRO 30:33</a>; <a href=\"https://ref.ly/2Tim2:23\">2TI 2:23</a></p>\n<h2>Quarrelsomeness is unfitting for God's people</h2>\n<p><strong><a href=\"https://ref.ly/1Cor3:3\">1CO 3:3</a></strong>; <strong><a href=\"https://ref.ly/1Tim3:2-1Tim3:3\">1TI 3:2–3:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov17:19\">PRO 17:19</a>; <a href=\"https://ref.ly/Isa58:4\">ISA 58:4</a>; <a href=\"https://ref.ly/Rom13:12-Rom13:14\">ROM 13:12–13:14</a>; <a href=\"https://ref.ly/2Cor12:20\">2CO 12:20</a>; <a href=\"https://ref.ly/1Tim6:3-1Tim6:5\">1TI 6:3–6:5</a>; <a href=\"https://ref.ly/2Tim2:14\">2TI 2:14</a>, <a href=\"https://ref.ly/2Tim2:23-2Tim2:24\">2TI 2:23–2:24</a></p>\n<h2>Examples of quarrelsomeness</h2>\n<p><strong><a href=\"https://ref.ly/1Cor1:10-1Cor1:12\">1CO 1:10–1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen13:7-Gen13:8\">GEN 13:7–13:8</a>, <a href=\"https://ref.ly/Gen26:20-Gen26:22\">GEN 26:20–26:22</a>; <a href=\"https://ref.ly/Exod17:1-Exod17:7\">EXO 17:1–17:7</a> <em>NIV footnote at verse 7</em>; <a href=\"https://ref.ly/Num20:1-Num20:13\">NUM 20:1–20:13</a> <em>NIV footnote at verse 13</em>; <a href=\"https://ref.ly/Deut33:8\">DEU 33:8</a>; <a href=\"https://ref.ly/Ps95:8\">PSA 95:8</a>, <a href=\"https://ref.ly/Ps106:32\">PSA 106:32</a>; <a href=\"https://ref.ly/Mark9:33-Mark9:34\">MRK 9:33–9:34</a> parallel <a href=\"https://ref.ly/Luke9:46\">LUK 9:46</a>; <a href=\"https://ref.ly/Luke22:24\">LUK 22:24</a>; <a href=\"https://ref.ly/Phil4:2-Phil4:3\">PHP 4:2–4:3</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "59004001",
+"start_ref_usfm": "JAS 4:1",
+"end_ref": "59004002",
+"end_ref_usfm": "JAS 4:2"
+},
+{
+"start_ref": "02021018",
+"start_ref_usfm": "EXO 21:18",
+"end_ref": "02021019",
+"end_ref_usfm": "EXO 21:19"
+},
+{
+"start_ref": "20010012",
+"start_ref_usfm": "PRO 10:12",
+"end_ref": "20010012",
+"end_ref_usfm": "PRO 10:12"
+},
+{
+"start_ref": "20013010",
+"start_ref_usfm": "PRO 13:10",
+"end_ref": "20013010",
+"end_ref_usfm": "PRO 13:10"
+},
+{
+"start_ref": "20015018",
+"start_ref_usfm": "PRO 15:18",
+"end_ref": "20015018",
+"end_ref_usfm": "PRO 15:18"
+},
+{
+"start_ref": "20020003",
+"start_ref_usfm": "PRO 20:3",
+"end_ref": "20020003",
+"end_ref_usfm": "PRO 20:3"
+},
+{
+"start_ref": "20021009",
+"start_ref_usfm": "PRO 21:9",
+"end_ref": "20021009",
+"end_ref_usfm": "PRO 21:9"
+},
+{
+"start_ref": "20022010",
+"start_ref_usfm": "PRO 22:10",
+"end_ref": "20022010",
+"end_ref_usfm": "PRO 22:10"
+},
+{
+"start_ref": "20026020",
+"start_ref_usfm": "PRO 26:20",
+"end_ref": "20026021",
+"end_ref_usfm": "PRO 26:21"
+},
+{
+"start_ref": "20027015",
+"start_ref_usfm": "PRO 27:15",
+"end_ref": "20027016",
+"end_ref_usfm": "PRO 27:16"
+},
+{
+"start_ref": "20030033",
+"start_ref_usfm": "PRO 30:33",
+"end_ref": "20030033",
+"end_ref_usfm": "PRO 30:33"
+},
+{
+"start_ref": "55002023",
+"start_ref_usfm": "2TI 2:23",
+"end_ref": "55002023",
+"end_ref_usfm": "2TI 2:23"
+},
+{
+"start_ref": "46003003",
+"start_ref_usfm": "1CO 3:3",
+"end_ref": "46003003",
+"end_ref_usfm": "1CO 3:3"
+},
+{
+"start_ref": "54003002",
+"start_ref_usfm": "1TI 3:2",
+"end_ref": "54003003",
+"end_ref_usfm": "1TI 3:3"
+},
+{
+"start_ref": "20017019",
+"start_ref_usfm": "PRO 17:19",
+"end_ref": "20017019",
+"end_ref_usfm": "PRO 17:19"
+},
+{
+"start_ref": "23058004",
+"start_ref_usfm": "ISA 58:4",
+"end_ref": "23058004",
+"end_ref_usfm": "ISA 58:4"
+},
+{
+"start_ref": "45013012",
+"start_ref_usfm": "ROM 13:12",
+"end_ref": "45013014",
+"end_ref_usfm": "ROM 13:14"
+},
+{
+"start_ref": "47012020",
+"start_ref_usfm": "2CO 12:20",
+"end_ref": "47012020",
+"end_ref_usfm": "2CO 12:20"
+},
+{
+"start_ref": "54006003",
+"start_ref_usfm": "1TI 6:3",
+"end_ref": "54006005",
+"end_ref_usfm": "1TI 6:5"
+},
+{
+"start_ref": "55002014",
+"start_ref_usfm": "2TI 2:14",
+"end_ref": "55002014",
+"end_ref_usfm": "2TI 2:14"
+},
+{
+"start_ref": "55002023",
+"start_ref_usfm": "2TI 2:23",
+"end_ref": "55002024",
+"end_ref_usfm": "2TI 2:24"
+},
+{
+"start_ref": "46001010",
+"start_ref_usfm": "1CO 1:10",
+"end_ref": "46001012",
+"end_ref_usfm": "1CO 1:12"
+},
+{
+"start_ref": "01013007",
+"start_ref_usfm": "GEN 13:7",
+"end_ref": "01013008",
+"end_ref_usfm": "GEN 13:8"
+},
+{
+"start_ref": "01026020",
+"start_ref_usfm": "GEN 26:20",
+"end_ref": "01026022",
+"end_ref_usfm": "GEN 26:22"
+},
+{
+"start_ref": "02017001",
+"start_ref_usfm": "EXO 17:1",
+"end_ref": "02017007",
+"end_ref_usfm": "EXO 17:7"
+},
+{
+"start_ref": "04020001",
+"start_ref_usfm": "NUM 20:1",
+"end_ref": "04020013",
+"end_ref_usfm": "NUM 20:13"
+},
+{
+"start_ref": "05033008",
+"start_ref_usfm": "DEU 33:8",
+"end_ref": "05033008",
+"end_ref_usfm": "DEU 33:8"
+},
+{
+"start_ref": "19095008",
+"start_ref_usfm": "PSA 95:8",
+"end_ref": "19095008",
+"end_ref_usfm": "PSA 95:8"
+},
+{
+"start_ref": "19106032",
+"start_ref_usfm": "PSA 106:32",
+"end_ref": "19106032",
+"end_ref_usfm": "PSA 106:32"
+},
+{
+"start_ref": "41009033",
+"start_ref_usfm": "MRK 9:33",
+"end_ref": "41009034",
+"end_ref_usfm": "MRK 9:34"
+},
+{
+"start_ref": "42009046",
+"start_ref_usfm": "LUK 9:46",
+"end_ref": "42009046",
+"end_ref_usfm": "LUK 9:46"
+},
+{
+"start_ref": "42022024",
+"start_ref_usfm": "LUK 22:24",
+"end_ref": "42022024",
+"end_ref_usfm": "LUK 22:24"
+},
+{
+"start_ref": "50004002",
+"start_ref_usfm": "PHP 4:2",
+"end_ref": "50004003",
+"end_ref_usfm": "PHP 4:3"
+}
+],
+"resource": [
+{
+"reference_id": "5789",
+"content_id": "5789",
+"resource_code": "DictionaryBibleThemes",
+"label": "5789: anger",
+"language": "eng"
+},
+{
+"reference_id": "5834",
+"content_id": "5834",
+"resource_code": "DictionaryBibleThemes",
+"label": "5834: disagreement",
+"language": "eng"
+},
+{
+"reference_id": "5964",
+"content_id": "5964",
+"resource_code": "DictionaryBibleThemes",
+"label": "5964: temper",
+"language": "eng"
+},
+{
+"reference_id": "6221",
+"content_id": "6221",
+"resource_code": "DictionaryBibleThemes",
+"label": "6221: rebellion",
+"language": "eng"
+},
+{
+"reference_id": "8828",
+"content_id": "8828",
+"resource_code": "DictionaryBibleThemes",
+"label": "8828: spite",
+"language": "eng"
+}
+]
+}
+}
+]

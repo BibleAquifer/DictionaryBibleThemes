@@ -1,0 +1,74 @@
+[
+{
+"content_id": "3010",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "3010: God, the Holy Spirit",
+"media_type": "Text",
+"index_reference": "3010: god, the holy spirit",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The co-equal and co-eternal Spirit of the Father and the Son, who inspired Scripture and brings new life to the people of God. The Spirit of God is often portrayed in Scripture in terms of “breath”, “life” or “wind”, indicating his role in sustaining and bringing life to God's creation.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "3015",
+"content_id": "3015",
+"resource_code": "DictionaryBibleThemes",
+"label": "3015: Holy Spirit, divinity of",
+"language": "eng"
+},
+{
+"reference_id": "3020",
+"content_id": "3020",
+"resource_code": "DictionaryBibleThemes",
+"label": "3020: Holy Spirit, joy of",
+"language": "eng"
+},
+{
+"reference_id": "3025",
+"content_id": "3025",
+"resource_code": "DictionaryBibleThemes",
+"label": "3025: Holy Spirit, personality of",
+"language": "eng"
+},
+{
+"reference_id": "3030",
+"content_id": "3030",
+"resource_code": "DictionaryBibleThemes",
+"label": "3030: Holy Spirit, power of",
+"language": "eng"
+},
+{
+"reference_id": "3035",
+"content_id": "3035",
+"resource_code": "DictionaryBibleThemes",
+"label": "3035: Holy Spirit, presence of",
+"language": "eng"
+},
+{
+"reference_id": "3040",
+"content_id": "3040",
+"resource_code": "DictionaryBibleThemes",
+"label": "3040: Holy Spirit, promise of",
+"language": "eng"
+},
+{
+"reference_id": "3045",
+"content_id": "3045",
+"resource_code": "DictionaryBibleThemes",
+"label": "3045: Holy Spirit, sovereignty of",
+"language": "eng"
+},
+{
+"reference_id": "3050",
+"content_id": "3050",
+"resource_code": "DictionaryBibleThemes",
+"label": "3050: Holy Spirit, wisdom of",
+"language": "eng"
+}
+]
+}
+}
+]

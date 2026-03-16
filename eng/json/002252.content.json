@@ -1,0 +1,276 @@
+[
+{
+"content_id": "8468",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8468: renunciation",
+"media_type": "Text",
+"index_reference": "8468: renunciation",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The deliberate rejection or disavowal, especially of a person or object.</p>\n<h2>Renunciation of the LORD</h2>\n<p><strong><a href=\"https://ref.ly/Judg2:12\">JDG 2:12</a></strong>; <strong><a href=\"https://ref.ly/Isa1:28\">ISA 1:28</a></strong>; <strong><a href=\"https://ref.ly/Acts3:13\">ACT 3:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:8\">EXO 32:8</a>; <a href=\"https://ref.ly/Josh22:16\">JOS 22:16</a>; <a href=\"https://ref.ly/2Kgs22:17\">2KI 22:17</a>; <a href=\"https://ref.ly/1Chr28:9\">1CH 28:9</a>; <a href=\"https://ref.ly/Jer5:19\">JER 5:19</a>; <a href=\"https://ref.ly/Matt24:10\">MAT 24:10</a>; <a href=\"https://ref.ly/2Tim2:12\">2TI 2:12</a></p>\n<h2>Renunciation of evil</h2>\n<h3>In repentance</h3>\n<p><strong><a href=\"https://ref.ly/Ps37:27\">PSA 37:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer35:15\">JER 35:15</a>; <a href=\"https://ref.ly/Ezek14:6\">EZK 14:6</a>; <a href=\"https://ref.ly/Dan4:27\">DAN 4:27</a>; <a href=\"https://ref.ly/2Cor4:2\">2CO 4:2</a>; <a href=\"https://ref.ly/1Tim6:20\">1TI 6:20</a></p>\n<h3>To find God's mercy</h3>\n<p><strong><a href=\"https://ref.ly/2Chr7:14\">2CH 7:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov28:13\">PRO 28:13</a>; <a href=\"https://ref.ly/Ezek18:21\">EZK 18:21</a>; <a href=\"https://ref.ly/Jonah3:10\">JON 3:10</a></p>\n<h2>Self-renunciation and the Christian life</h2>\n<h3>An integral part of discipleship</h3>\n<p><strong><a href=\"https://ref.ly/Matt16:24\">MAT 16:24</a></strong> parallels <a href=\"https://ref.ly/Mark8:34\">MRK 8:34</a>, <a href=\"https://ref.ly/Luke9:23\">LUK 9:23</a> <em>See also</em> <a href=\"https://ref.ly/Mark10:28\">MRK 10:28</a>; <a href=\"https://ref.ly/Luke5:28\">LUK 5:28</a>, <a href=\"https://ref.ly/Luke14:33\">LUK 14:33</a>; <a href=\"https://ref.ly/Phil3:8\">PHP 3:8</a></p>\n<h3>The example of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Mark10:45\">MRK 10:45</a></strong> <em>See also</em> <a href=\"https://ref.ly/John10:17\">JHN 10:17</a>; <a href=\"https://ref.ly/Phil2:7-Phil2:8\">PHP 2:7–2:8</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07002012",
+"start_ref_usfm": "JDG 2:12",
+"end_ref": "07002012",
+"end_ref_usfm": "JDG 2:12"
+},
+{
+"start_ref": "23001028",
+"start_ref_usfm": "ISA 1:28",
+"end_ref": "23001028",
+"end_ref_usfm": "ISA 1:28"
+},
+{
+"start_ref": "44003013",
+"start_ref_usfm": "ACT 3:13",
+"end_ref": "44003013",
+"end_ref_usfm": "ACT 3:13"
+},
+{
+"start_ref": "02032008",
+"start_ref_usfm": "EXO 32:8",
+"end_ref": "02032008",
+"end_ref_usfm": "EXO 32:8"
+},
+{
+"start_ref": "06022016",
+"start_ref_usfm": "JOS 22:16",
+"end_ref": "06022016",
+"end_ref_usfm": "JOS 22:16"
+},
+{
+"start_ref": "12022017",
+"start_ref_usfm": "2KI 22:17",
+"end_ref": "12022017",
+"end_ref_usfm": "2KI 22:17"
+},
+{
+"start_ref": "13028009",
+"start_ref_usfm": "1CH 28:9",
+"end_ref": "13028009",
+"end_ref_usfm": "1CH 28:9"
+},
+{
+"start_ref": "24005019",
+"start_ref_usfm": "JER 5:19",
+"end_ref": "24005019",
+"end_ref_usfm": "JER 5:19"
+},
+{
+"start_ref": "40024010",
+"start_ref_usfm": "MAT 24:10",
+"end_ref": "40024010",
+"end_ref_usfm": "MAT 24:10"
+},
+{
+"start_ref": "55002012",
+"start_ref_usfm": "2TI 2:12",
+"end_ref": "55002012",
+"end_ref_usfm": "2TI 2:12"
+},
+{
+"start_ref": "19037027",
+"start_ref_usfm": "PSA 37:27",
+"end_ref": "19037027",
+"end_ref_usfm": "PSA 37:27"
+},
+{
+"start_ref": "24035015",
+"start_ref_usfm": "JER 35:15",
+"end_ref": "24035015",
+"end_ref_usfm": "JER 35:15"
+},
+{
+"start_ref": "26014006",
+"start_ref_usfm": "EZK 14:6",
+"end_ref": "26014006",
+"end_ref_usfm": "EZK 14:6"
+},
+{
+"start_ref": "27004027",
+"start_ref_usfm": "DAN 4:27",
+"end_ref": "27004027",
+"end_ref_usfm": "DAN 4:27"
+},
+{
+"start_ref": "47004002",
+"start_ref_usfm": "2CO 4:2",
+"end_ref": "47004002",
+"end_ref_usfm": "2CO 4:2"
+},
+{
+"start_ref": "54006020",
+"start_ref_usfm": "1TI 6:20",
+"end_ref": "54006020",
+"end_ref_usfm": "1TI 6:20"
+},
+{
+"start_ref": "14007014",
+"start_ref_usfm": "2CH 7:14",
+"end_ref": "14007014",
+"end_ref_usfm": "2CH 7:14"
+},
+{
+"start_ref": "20028013",
+"start_ref_usfm": "PRO 28:13",
+"end_ref": "20028013",
+"end_ref_usfm": "PRO 28:13"
+},
+{
+"start_ref": "26018021",
+"start_ref_usfm": "EZK 18:21",
+"end_ref": "26018021",
+"end_ref_usfm": "EZK 18:21"
+},
+{
+"start_ref": "32003010",
+"start_ref_usfm": "JON 3:10",
+"end_ref": "32003010",
+"end_ref_usfm": "JON 3:10"
+},
+{
+"start_ref": "40016024",
+"start_ref_usfm": "MAT 16:24",
+"end_ref": "40016024",
+"end_ref_usfm": "MAT 16:24"
+},
+{
+"start_ref": "41008034",
+"start_ref_usfm": "MRK 8:34",
+"end_ref": "41008034",
+"end_ref_usfm": "MRK 8:34"
+},
+{
+"start_ref": "42009023",
+"start_ref_usfm": "LUK 9:23",
+"end_ref": "42009023",
+"end_ref_usfm": "LUK 9:23"
+},
+{
+"start_ref": "41010028",
+"start_ref_usfm": "MRK 10:28",
+"end_ref": "41010028",
+"end_ref_usfm": "MRK 10:28"
+},
+{
+"start_ref": "42005028",
+"start_ref_usfm": "LUK 5:28",
+"end_ref": "42005028",
+"end_ref_usfm": "LUK 5:28"
+},
+{
+"start_ref": "42014033",
+"start_ref_usfm": "LUK 14:33",
+"end_ref": "42014033",
+"end_ref_usfm": "LUK 14:33"
+},
+{
+"start_ref": "50003008",
+"start_ref_usfm": "PHP 3:8",
+"end_ref": "50003008",
+"end_ref_usfm": "PHP 3:8"
+},
+{
+"start_ref": "41010045",
+"start_ref_usfm": "MRK 10:45",
+"end_ref": "41010045",
+"end_ref_usfm": "MRK 10:45"
+},
+{
+"start_ref": "43010017",
+"start_ref_usfm": "JHN 10:17",
+"end_ref": "43010017",
+"end_ref_usfm": "JHN 10:17"
+},
+{
+"start_ref": "50002007",
+"start_ref_usfm": "PHP 2:7",
+"end_ref": "50002008",
+"end_ref_usfm": "PHP 2:8"
+}
+],
+"resource": [
+{
+"reference_id": "4132",
+"content_id": "4132",
+"resource_code": "DictionaryBibleThemes",
+"label": "4132: demons, malevolence of",
+"language": "eng"
+},
+{
+"reference_id": "5764",
+"content_id": "5764",
+"resource_code": "DictionaryBibleThemes",
+"label": "5764: attitudes, negative to God",
+"language": "eng"
+},
+{
+"reference_id": "6231",
+"content_id": "6231",
+"resource_code": "DictionaryBibleThemes",
+"label": "6231: rejection of God",
+"language": "eng"
+},
+{
+"reference_id": "6652",
+"content_id": "6652",
+"resource_code": "DictionaryBibleThemes",
+"label": "6652: forgiveness",
+"language": "eng"
+},
+{
+"reference_id": "6732",
+"content_id": "6732",
+"resource_code": "DictionaryBibleThemes",
+"label": "6732: repentance",
+"language": "eng"
+},
+{
+"reference_id": "8114",
+"content_id": "8114",
+"resource_code": "DictionaryBibleThemes",
+"label": "8114: discipleship",
+"language": "eng"
+},
+{
+"reference_id": "8120",
+"content_id": "8120",
+"resource_code": "DictionaryBibleThemes",
+"label": "8120: following Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "8475",
+"content_id": "8475",
+"resource_code": "DictionaryBibleThemes",
+"label": "8475: self-denial",
+"language": "eng"
+},
+{
+"reference_id": "8481",
+"content_id": "8481",
+"resource_code": "DictionaryBibleThemes",
+"label": "8481: self-sacrifice",
+"language": "eng"
+},
+{
+"reference_id": "8704",
+"content_id": "8704",
+"resource_code": "DictionaryBibleThemes",
+"label": "8704: apostasy",
+"language": "eng"
+},
+{
+"reference_id": "8737",
+"content_id": "8737",
+"resource_code": "DictionaryBibleThemes",
+"label": "8737: evil, believers' responses to",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5041",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5041: name",
+"media_type": "Text",
+"index_reference": "5041: name",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The title given to a person or object by one who is in a position of authority or ownership. Names often reflect the characteristics of a person or the aspirations or wishes for that person of the one bestowing the name.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5042",
+"content_id": "5042",
+"resource_code": "DictionaryBibleThemes",
+"label": "5042: name of God, significance of",
+"language": "eng"
+},
+{
+"reference_id": "5043",
+"content_id": "5043",
+"resource_code": "DictionaryBibleThemes",
+"label": "5043: names, significance of",
+"language": "eng"
+},
+{
+"reference_id": "5044",
+"content_id": "5044",
+"resource_code": "DictionaryBibleThemes",
+"label": "5044: names, giving of",
+"language": "eng"
+}
+]
+}
+}
+]

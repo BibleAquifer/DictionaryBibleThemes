@@ -1,0 +1,255 @@
+[
+{
+"content_id": "4803",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4803: breadth",
+"media_type": "Text",
+"index_reference": "4803: breadth",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Breadth as a measurement</h2>\n<p><strong><a href=\"https://ref.ly/Isa40:12\">ISA 40:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:15\">GEN 6:15</a> <em>Noah's ark</em><a href=\"https://ref.ly/Exod25:10\">EXO 25:10</a>, <a href=\"https://ref.ly/Exod27:1\">EXO 27:1</a>, <a href=\"https://ref.ly/Exod27:12-Exod27:13\">EXO 27:12–27:13</a>, <a href=\"https://ref.ly/Exod37:25\">EXO 37:25</a>\n<a href=\"https://ref.ly/Deut3:11\">DEU 3:11</a> <em>Og's bed</em>; <a href=\"https://ref.ly/1Kgs6:21\">1KI 6:21</a>KI <a href=\"https://ref.ly/1Kgs7:2\">7:2</a>; <a href=\"https://ref.ly/2Chr3:3\">2CH 3:3</a>, <a href=\"https://ref.ly/2Chr4:1\">2CH 4:1</a>; <a href=\"https://ref.ly/Ezra6:3\">EZR 6:3</a>EZK <a href=\"https://ref.ly/Ezra40:7\">40:7</a>, <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a>, <a href=\"https://ref.ly/Ezek41:9-Ezek41:12\">EZK 41:9–41:12</a>EZK <a href=\"https://ref.ly/Ezek45:1-Ezek45:3\">45:1–45:3</a>, <a href=\"https://ref.ly/Ezek48:13-Ezek48:15\">EZK 48:13–48:15</a>\n<a href=\"https://ref.ly/Zech2:2\">ZEC 2:2</a> <em>Jerusalem</em>; <a href=\"https://ref.ly/Zech5:2\">ZEC 5:2</a> <em>the flying scroll</em>; <a href=\"https://ref.ly/Rev21:16\">REV 21:16</a> <em>the new Jerusalem</em></p>\n<h2>Breadth indicating large areas</h2>\n<p><strong><a href=\"https://ref.ly/Gen13:17\">GEN 13:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam22:37\">2SA 22:37</a> parallel <a href=\"https://ref.ly/Ps18:36\">PSA 18:36</a>; <a href=\"https://ref.ly/Job37:10\">JOB 37:10</a>; <a href=\"https://ref.ly/Isa8:7-Isa8:8\">ISA 8:7–8:8</a>, <a href=\"https://ref.ly/Isa30:23\">ISA 30:23</a>, <a href=\"https://ref.ly/Isa33:21\">ISA 33:21</a>; <a href=\"https://ref.ly/Matt7:13-Matt7:14\">MAT 7:13–7:14</a></p>\n<h2>Breadth of understanding</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs4:29\">1KI 4:29</a></strong></p>\n<h2>Breadth of Jesus Christ's love</h2>\n<p><strong><a href=\"https://ref.ly/Eph3:14-Eph3:19\">EPH 3:14–3:19</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "23040012",
+"start_ref_usfm": "ISA 40:12",
+"end_ref": "23040012",
+"end_ref_usfm": "ISA 40:12"
+},
+{
+"start_ref": "01006015",
+"start_ref_usfm": "GEN 6:15",
+"end_ref": "01006015",
+"end_ref_usfm": "GEN 6:15"
+},
+{
+"start_ref": "02025010",
+"start_ref_usfm": "EXO 25:10",
+"end_ref": "02025010",
+"end_ref_usfm": "EXO 25:10"
+},
+{
+"start_ref": "02027001",
+"start_ref_usfm": "EXO 27:1",
+"end_ref": "02027001",
+"end_ref_usfm": "EXO 27:1"
+},
+{
+"start_ref": "02027012",
+"start_ref_usfm": "EXO 27:12",
+"end_ref": "02027013",
+"end_ref_usfm": "EXO 27:13"
+},
+{
+"start_ref": "02037025",
+"start_ref_usfm": "EXO 37:25",
+"end_ref": "02037025",
+"end_ref_usfm": "EXO 37:25"
+},
+{
+"start_ref": "05003011",
+"start_ref_usfm": "DEU 3:11",
+"end_ref": "05003011",
+"end_ref_usfm": "DEU 3:11"
+},
+{
+"start_ref": "11006021",
+"start_ref_usfm": "1KI 6:21",
+"end_ref": "11006021",
+"end_ref_usfm": "1KI 6:21"
+},
+{
+"start_ref": "11007002",
+"start_ref_usfm": "1KI 7:2",
+"end_ref": "11007002",
+"end_ref_usfm": "1KI 7:2"
+},
+{
+"start_ref": "14003003",
+"start_ref_usfm": "2CH 3:3",
+"end_ref": "14003003",
+"end_ref_usfm": "2CH 3:3"
+},
+{
+"start_ref": "14004001",
+"start_ref_usfm": "2CH 4:1",
+"end_ref": "14004001",
+"end_ref_usfm": "2CH 4:1"
+},
+{
+"start_ref": "15006003",
+"start_ref_usfm": "EZR 6:3",
+"end_ref": "15006003",
+"end_ref_usfm": "EZR 6:3"
+},
+{
+"start_ref": "15040007",
+"start_ref_usfm": "EZR 40:7",
+"end_ref": "15040007",
+"end_ref_usfm": "EZR 40:7"
+},
+{
+"start_ref": "26040042",
+"start_ref_usfm": "EZK 40:42",
+"end_ref": "26040042",
+"end_ref_usfm": "EZK 40:42"
+},
+{
+"start_ref": "26041009",
+"start_ref_usfm": "EZK 41:9",
+"end_ref": "26041012",
+"end_ref_usfm": "EZK 41:12"
+},
+{
+"start_ref": "26045001",
+"start_ref_usfm": "EZK 45:1",
+"end_ref": "26045003",
+"end_ref_usfm": "EZK 45:3"
+},
+{
+"start_ref": "26048013",
+"start_ref_usfm": "EZK 48:13",
+"end_ref": "26048015",
+"end_ref_usfm": "EZK 48:15"
+},
+{
+"start_ref": "38002002",
+"start_ref_usfm": "ZEC 2:2",
+"end_ref": "38002002",
+"end_ref_usfm": "ZEC 2:2"
+},
+{
+"start_ref": "38005002",
+"start_ref_usfm": "ZEC 5:2",
+"end_ref": "38005002",
+"end_ref_usfm": "ZEC 5:2"
+},
+{
+"start_ref": "66021016",
+"start_ref_usfm": "REV 21:16",
+"end_ref": "66021016",
+"end_ref_usfm": "REV 21:16"
+},
+{
+"start_ref": "01013017",
+"start_ref_usfm": "GEN 13:17",
+"end_ref": "01013017",
+"end_ref_usfm": "GEN 13:17"
+},
+{
+"start_ref": "10022037",
+"start_ref_usfm": "2SA 22:37",
+"end_ref": "10022037",
+"end_ref_usfm": "2SA 22:37"
+},
+{
+"start_ref": "19018036",
+"start_ref_usfm": "PSA 18:36",
+"end_ref": "19018036",
+"end_ref_usfm": "PSA 18:36"
+},
+{
+"start_ref": "18037010",
+"start_ref_usfm": "JOB 37:10",
+"end_ref": "18037010",
+"end_ref_usfm": "JOB 37:10"
+},
+{
+"start_ref": "23008007",
+"start_ref_usfm": "ISA 8:7",
+"end_ref": "23008008",
+"end_ref_usfm": "ISA 8:8"
+},
+{
+"start_ref": "23030023",
+"start_ref_usfm": "ISA 30:23",
+"end_ref": "23030023",
+"end_ref_usfm": "ISA 30:23"
+},
+{
+"start_ref": "23033021",
+"start_ref_usfm": "ISA 33:21",
+"end_ref": "23033021",
+"end_ref_usfm": "ISA 33:21"
+},
+{
+"start_ref": "40007013",
+"start_ref_usfm": "MAT 7:13",
+"end_ref": "40007014",
+"end_ref_usfm": "MAT 7:14"
+},
+{
+"start_ref": "11004029",
+"start_ref_usfm": "1KI 4:29",
+"end_ref": "11004029",
+"end_ref_usfm": "1KI 4:29"
+},
+{
+"start_ref": "49003014",
+"start_ref_usfm": "EPH 3:14",
+"end_ref": "49003019",
+"end_ref_usfm": "EPH 3:19"
+}
+],
+"resource": [
+{
+"reference_id": "2048",
+"content_id": "2048",
+"resource_code": "DictionaryBibleThemes",
+"label": "2048: Jesus Christ, love of",
+"language": "eng"
+},
+{
+"reference_id": "4813",
+"content_id": "4813",
+"resource_code": "DictionaryBibleThemes",
+"label": "4813: depth",
+"language": "eng"
+},
+{
+"reference_id": "4830",
+"content_id": "4830",
+"resource_code": "DictionaryBibleThemes",
+"label": "4830: height",
+"language": "eng"
+},
+{
+"reference_id": "4832",
+"content_id": "4832",
+"resource_code": "DictionaryBibleThemes",
+"label": "4832: length",
+"language": "eng"
+},
+{
+"reference_id": "4841",
+"content_id": "4841",
+"resource_code": "DictionaryBibleThemes",
+"label": "4841: narrowness",
+"language": "eng"
+},
+{
+"reference_id": "5618",
+"content_id": "5618",
+"resource_code": "DictionaryBibleThemes",
+"label": "5618: weights and measures, linear",
+"language": "eng"
+},
+{
+"reference_id": "5619",
+"content_id": "5619",
+"resource_code": "DictionaryBibleThemes",
+"label": "5619: weights and measures, distance and area",
+"language": "eng"
+},
+{
+"reference_id": "8355",
+"content_id": "8355",
+"resource_code": "DictionaryBibleThemes",
+"label": "8355: understanding",
+"language": "eng"
+}
+]
+}
+}
+]

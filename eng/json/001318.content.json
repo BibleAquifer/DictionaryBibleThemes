@@ -1,0 +1,282 @@
+[
+{
+"content_id": "5796",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5796: bereavement, experience of",
+"media_type": "Text",
+"index_reference": "5796: bereavement, experience of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture gives many examples of how people respond to the death of those they love.</p>\n<h2>The experience of bereavement</h2>\n<h3>Abraham</h3>\n<p><strong><a href=\"https://ref.ly/Gen23:1-Gen23:2\">GEN 23:1–23:2</a></strong></p>\n<h3>Jacob</h3>\n<p><strong><a href=\"https://ref.ly/Gen37:35\">GEN 37:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen42:38\">GEN 42:38</a>, <a href=\"https://ref.ly/Gen48:7\">GEN 48:7</a></p>\n<h3>Joseph</h3>\n<p><strong><a href=\"https://ref.ly/Gen50:10\">GEN 50:10</a></strong></p>\n<h3>David</h3>\n<p><strong><a href=\"https://ref.ly/2Sam18:33\">2SA 18:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam1:11-2Sam1:12\">2SA 1:11–1:12</a>, <a href=\"https://ref.ly/2Sam3:32\">2SA 3:32</a>, <a href=\"https://ref.ly/2Sam12:15-2Sam12:21\">2SA 12:15–12:21</a></p>\n<h3>Job</h3>\n<p><strong><a href=\"https://ref.ly/Job1:20\">JOB 1:20</a></strong> <em>At the news of the deaths of his sons and daughters.</em> <em>See also</em> <a href=\"https://ref.ly/Job17:7\">JOB 17:7</a></p>\n<h3>Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/John11:35\">JHN 11:35</a></strong> <em>Because of the death of his friend, Lazarus.</em></p>\n<h3>The early Christians</h3>\n<p><strong><a href=\"https://ref.ly/Acts8:2\">ACT 8:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts9:39\">ACT 9:39</a></p>\n<h2>The expression of grief</h2>\n<p><strong><a href=\"https://ref.ly/Gen37:34\">GEN 37:34</a></strong>; <strong><a href=\"https://ref.ly/Ps31:9\">PSA 31:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut34:8\">DEU 34:8</a>; <a href=\"https://ref.ly/1Sam2:33\">1SA 2:33</a>; <a href=\"https://ref.ly/2Sam1:17\">2SA 1:17</a>, <a href=\"https://ref.ly/2Sam3:31-2Sam3:34\">2SA 3:31–3:34</a>, <a href=\"https://ref.ly/2Sam14:2\">2SA 14:2</a>; <a href=\"https://ref.ly/2Chr35:25\">2CH 35:25</a>; <a href=\"https://ref.ly/Ps35:14\">PSA 35:14</a>; <a href=\"https://ref.ly/Isa16:7\">ISA 16:7</a>; <a href=\"https://ref.ly/Lam3:48\">LAM 3:48</a>; <a href=\"https://ref.ly/Ezek24:17\">EZK 24:17</a>; <a href=\"https://ref.ly/Zech12:10\">ZEC 12:10</a> <em>prediction of mourning for the Messiah</em>; <a href=\"https://ref.ly/Phil2:27\">PHP 2:27</a></p>\n<h2>Grief passes with time</h2>\n<p><a href=\"https://ref.ly/Gen24:67\">GEN 24:67</a>, <a href=\"https://ref.ly/Gen38:12\">GEN 38:12</a>; ; <a href=\"https://ref.ly/2Sam12:24\">2SA 12:24</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01023001",
+"start_ref_usfm": "GEN 23:1",
+"end_ref": "01023002",
+"end_ref_usfm": "GEN 23:2"
+},
+{
+"start_ref": "01037035",
+"start_ref_usfm": "GEN 37:35",
+"end_ref": "01037035",
+"end_ref_usfm": "GEN 37:35"
+},
+{
+"start_ref": "01042038",
+"start_ref_usfm": "GEN 42:38",
+"end_ref": "01042038",
+"end_ref_usfm": "GEN 42:38"
+},
+{
+"start_ref": "01048007",
+"start_ref_usfm": "GEN 48:7",
+"end_ref": "01048007",
+"end_ref_usfm": "GEN 48:7"
+},
+{
+"start_ref": "01050010",
+"start_ref_usfm": "GEN 50:10",
+"end_ref": "01050010",
+"end_ref_usfm": "GEN 50:10"
+},
+{
+"start_ref": "10018033",
+"start_ref_usfm": "2SA 18:33",
+"end_ref": "10018033",
+"end_ref_usfm": "2SA 18:33"
+},
+{
+"start_ref": "10001011",
+"start_ref_usfm": "2SA 1:11",
+"end_ref": "10001012",
+"end_ref_usfm": "2SA 1:12"
+},
+{
+"start_ref": "10003032",
+"start_ref_usfm": "2SA 3:32",
+"end_ref": "10003032",
+"end_ref_usfm": "2SA 3:32"
+},
+{
+"start_ref": "10012015",
+"start_ref_usfm": "2SA 12:15",
+"end_ref": "10012021",
+"end_ref_usfm": "2SA 12:21"
+},
+{
+"start_ref": "18001020",
+"start_ref_usfm": "JOB 1:20",
+"end_ref": "18001020",
+"end_ref_usfm": "JOB 1:20"
+},
+{
+"start_ref": "18017007",
+"start_ref_usfm": "JOB 17:7",
+"end_ref": "18017007",
+"end_ref_usfm": "JOB 17:7"
+},
+{
+"start_ref": "43011035",
+"start_ref_usfm": "JHN 11:35",
+"end_ref": "43011035",
+"end_ref_usfm": "JHN 11:35"
+},
+{
+"start_ref": "44008002",
+"start_ref_usfm": "ACT 8:2",
+"end_ref": "44008002",
+"end_ref_usfm": "ACT 8:2"
+},
+{
+"start_ref": "44009039",
+"start_ref_usfm": "ACT 9:39",
+"end_ref": "44009039",
+"end_ref_usfm": "ACT 9:39"
+},
+{
+"start_ref": "01037034",
+"start_ref_usfm": "GEN 37:34",
+"end_ref": "01037034",
+"end_ref_usfm": "GEN 37:34"
+},
+{
+"start_ref": "19031009",
+"start_ref_usfm": "PSA 31:9",
+"end_ref": "19031009",
+"end_ref_usfm": "PSA 31:9"
+},
+{
+"start_ref": "05034008",
+"start_ref_usfm": "DEU 34:8",
+"end_ref": "05034008",
+"end_ref_usfm": "DEU 34:8"
+},
+{
+"start_ref": "09002033",
+"start_ref_usfm": "1SA 2:33",
+"end_ref": "09002033",
+"end_ref_usfm": "1SA 2:33"
+},
+{
+"start_ref": "10001017",
+"start_ref_usfm": "2SA 1:17",
+"end_ref": "10001017",
+"end_ref_usfm": "2SA 1:17"
+},
+{
+"start_ref": "10003031",
+"start_ref_usfm": "2SA 3:31",
+"end_ref": "10003034",
+"end_ref_usfm": "2SA 3:34"
+},
+{
+"start_ref": "10014002",
+"start_ref_usfm": "2SA 14:2",
+"end_ref": "10014002",
+"end_ref_usfm": "2SA 14:2"
+},
+{
+"start_ref": "14035025",
+"start_ref_usfm": "2CH 35:25",
+"end_ref": "14035025",
+"end_ref_usfm": "2CH 35:25"
+},
+{
+"start_ref": "19035014",
+"start_ref_usfm": "PSA 35:14",
+"end_ref": "19035014",
+"end_ref_usfm": "PSA 35:14"
+},
+{
+"start_ref": "23016007",
+"start_ref_usfm": "ISA 16:7",
+"end_ref": "23016007",
+"end_ref_usfm": "ISA 16:7"
+},
+{
+"start_ref": "25003048",
+"start_ref_usfm": "LAM 3:48",
+"end_ref": "25003048",
+"end_ref_usfm": "LAM 3:48"
+},
+{
+"start_ref": "26024017",
+"start_ref_usfm": "EZK 24:17",
+"end_ref": "26024017",
+"end_ref_usfm": "EZK 24:17"
+},
+{
+"start_ref": "38012010",
+"start_ref_usfm": "ZEC 12:10",
+"end_ref": "38012010",
+"end_ref_usfm": "ZEC 12:10"
+},
+{
+"start_ref": "50002027",
+"start_ref_usfm": "PHP 2:27",
+"end_ref": "50002027",
+"end_ref_usfm": "PHP 2:27"
+},
+{
+"start_ref": "01024067",
+"start_ref_usfm": "GEN 24:67",
+"end_ref": "01024067",
+"end_ref_usfm": "GEN 24:67"
+},
+{
+"start_ref": "01038012",
+"start_ref_usfm": "GEN 38:12",
+"end_ref": "01038012",
+"end_ref_usfm": "GEN 38:12"
+},
+{
+"start_ref": "10012024",
+"start_ref_usfm": "2SA 12:24",
+"end_ref": "10012024",
+"end_ref_usfm": "2SA 12:24"
+}
+],
+"resource": [
+{
+"reference_id": "2530",
+"content_id": "2530",
+"resource_code": "DictionaryBibleThemes",
+"label": "2530: Jesus Christ, death of",
+"language": "eng"
+},
+{
+"reference_id": "5398",
+"content_id": "5398",
+"resource_code": "DictionaryBibleThemes",
+"label": "5398: loss",
+"language": "eng"
+},
+{
+"reference_id": "5419",
+"content_id": "5419",
+"resource_code": "DictionaryBibleThemes",
+"label": "5419: mourning",
+"language": "eng"
+},
+{
+"reference_id": "5560",
+"content_id": "5560",
+"resource_code": "DictionaryBibleThemes",
+"label": "5560: suffering",
+"language": "eng"
+},
+{
+"reference_id": "5831",
+"content_id": "5831",
+"resource_code": "DictionaryBibleThemes",
+"label": "5831: depression",
+"language": "eng"
+},
+{
+"reference_id": "5916",
+"content_id": "5916",
+"resource_code": "DictionaryBibleThemes",
+"label": "5916: pessimism",
+"language": "eng"
+},
+{
+"reference_id": "5945",
+"content_id": "5945",
+"resource_code": "DictionaryBibleThemes",
+"label": "5945: self-pity",
+"language": "eng"
+},
+{
+"reference_id": "5952",
+"content_id": "5952",
+"resource_code": "DictionaryBibleThemes",
+"label": "5952: sorrow",
+"language": "eng"
+},
+{
+"reference_id": "5970",
+"content_id": "5970",
+"resource_code": "DictionaryBibleThemes",
+"label": "5970: unhappiness",
+"language": "eng"
+},
+{
+"reference_id": "6203",
+"content_id": "6203",
+"resource_code": "DictionaryBibleThemes",
+"label": "6203: mortality",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+}
+]
+}
+}
+]

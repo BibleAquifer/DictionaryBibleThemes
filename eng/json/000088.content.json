@@ -1,0 +1,53 @@
+[
+{
+"content_id": "1427",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1427: prophecy",
+"media_type": "Text",
+"index_reference": "1427: prophecy",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The disclosing of the will and purposes of God through inspired or Spirit-filled human beings. The OT emphasises the importance of prophecy as a means of knowing God. Many OT prophecies find their fulfilment in Jesus Christ. The NT sets out the place of prophecy in the life of the church and gives guidance concerning the use of this gift.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "1428",
+"content_id": "1428",
+"resource_code": "DictionaryBibleThemes",
+"label": "1428: prophecy, inspiration of OT",
+"language": "eng"
+},
+{
+"reference_id": "1429",
+"content_id": "1429",
+"resource_code": "DictionaryBibleThemes",
+"label": "1429: prophecy, fulfilment of OT",
+"language": "eng"
+},
+{
+"reference_id": "1430",
+"content_id": "1430",
+"resource_code": "DictionaryBibleThemes",
+"label": "1430: prophecy, concerning Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "1431",
+"content_id": "1431",
+"resource_code": "DictionaryBibleThemes",
+"label": "1431: prophecy, methods of OT",
+"language": "eng"
+},
+{
+"reference_id": "1432",
+"content_id": "1432",
+"resource_code": "DictionaryBibleThemes",
+"label": "1432: prophecy, in NT",
+"language": "eng"
+}
+]
+}
+}
+]

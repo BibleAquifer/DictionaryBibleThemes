@@ -1,0 +1,191 @@
+[
+{
+"content_id": "5143",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5143: climbing",
+"media_type": "Text",
+"index_reference": "5143: climbing",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Physical climbing</h2>\n<p><strong><a href=\"https://ref.ly/Deut32:49-Deut32:50\">DEU 32:49–32:50</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num27:12\">NUM 27:12</a>; <a href=\"https://ref.ly/1Sam14:8-1Sam14:13\">1SA 14:8–14:13</a>; <a href=\"https://ref.ly/1Kgs18:42\">1KI 18:42</a>; <a href=\"https://ref.ly/2Kgs19:23\">2KI 19:23</a>; <a href=\"https://ref.ly/2Chr20:16\">2CH 20:16</a>; <a href=\"https://ref.ly/Isa40:9\">ISA 40:9</a>; <a href=\"https://ref.ly/Jer4:29\">JER 4:29</a>; <a href=\"https://ref.ly/Luke19:4\">LUK 19:4</a></p>\n<h2>Climbing associated with worship</h2>\n<p><strong><a href=\"https://ref.ly/Ps24:3\">PSA 24:3</a></strong> <em>Because Jerusalem was built at a high elevation, going to worship there usually involved ascent.</em> <em>See also</em> <a href=\"https://ref.ly/Ps122:3-Ps122:4\">PSA 122:3–122:4</a>; <a href=\"https://ref.ly/Isa2:3\">ISA 2:3</a>, <a href=\"https://ref.ly/Isa30:29\">ISA 30:29</a>; <a href=\"https://ref.ly/Zech14:17\">ZEC 14:17</a></p>\n<h2>Figurative climbing</h2>\n<p><strong><a href=\"https://ref.ly/Ps139:8\">PSA 139:8</a></strong>; <strong><a href=\"https://ref.ly/Jer9:21\">JER 9:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen28:12\">GEN 28:12</a>, <a href=\"https://ref.ly/Gen49:22\">GEN 49:22</a>; <a href=\"https://ref.ly/Deut30:12\">DEU 30:12</a>; <a href=\"https://ref.ly/Song7:8\">SNG 7:8</a>; <a href=\"https://ref.ly/Isa14:13-Isa14:14\">ISA 14:13–14:14</a>, <a href=\"https://ref.ly/Isa24:18\">ISA 24:18</a>; <a href=\"https://ref.ly/Amos9:2\">AMO 9:2</a>; <a href=\"https://ref.ly/John1:51\">JHN 1:51</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05032049",
+"start_ref_usfm": "DEU 32:49",
+"end_ref": "05032050",
+"end_ref_usfm": "DEU 32:50"
+},
+{
+"start_ref": "04027012",
+"start_ref_usfm": "NUM 27:12",
+"end_ref": "04027012",
+"end_ref_usfm": "NUM 27:12"
+},
+{
+"start_ref": "09014008",
+"start_ref_usfm": "1SA 14:8",
+"end_ref": "09014013",
+"end_ref_usfm": "1SA 14:13"
+},
+{
+"start_ref": "11018042",
+"start_ref_usfm": "1KI 18:42",
+"end_ref": "11018042",
+"end_ref_usfm": "1KI 18:42"
+},
+{
+"start_ref": "12019023",
+"start_ref_usfm": "2KI 19:23",
+"end_ref": "12019023",
+"end_ref_usfm": "2KI 19:23"
+},
+{
+"start_ref": "14020016",
+"start_ref_usfm": "2CH 20:16",
+"end_ref": "14020016",
+"end_ref_usfm": "2CH 20:16"
+},
+{
+"start_ref": "23040009",
+"start_ref_usfm": "ISA 40:9",
+"end_ref": "23040009",
+"end_ref_usfm": "ISA 40:9"
+},
+{
+"start_ref": "24004029",
+"start_ref_usfm": "JER 4:29",
+"end_ref": "24004029",
+"end_ref_usfm": "JER 4:29"
+},
+{
+"start_ref": "42019004",
+"start_ref_usfm": "LUK 19:4",
+"end_ref": "42019004",
+"end_ref_usfm": "LUK 19:4"
+},
+{
+"start_ref": "19024003",
+"start_ref_usfm": "PSA 24:3",
+"end_ref": "19024003",
+"end_ref_usfm": "PSA 24:3"
+},
+{
+"start_ref": "19122003",
+"start_ref_usfm": "PSA 122:3",
+"end_ref": "19122004",
+"end_ref_usfm": "PSA 122:4"
+},
+{
+"start_ref": "23002003",
+"start_ref_usfm": "ISA 2:3",
+"end_ref": "23002003",
+"end_ref_usfm": "ISA 2:3"
+},
+{
+"start_ref": "23030029",
+"start_ref_usfm": "ISA 30:29",
+"end_ref": "23030029",
+"end_ref_usfm": "ISA 30:29"
+},
+{
+"start_ref": "38014017",
+"start_ref_usfm": "ZEC 14:17",
+"end_ref": "38014017",
+"end_ref_usfm": "ZEC 14:17"
+},
+{
+"start_ref": "19139008",
+"start_ref_usfm": "PSA 139:8",
+"end_ref": "19139008",
+"end_ref_usfm": "PSA 139:8"
+},
+{
+"start_ref": "24009021",
+"start_ref_usfm": "JER 9:21",
+"end_ref": "24009021",
+"end_ref_usfm": "JER 9:21"
+},
+{
+"start_ref": "01028012",
+"start_ref_usfm": "GEN 28:12",
+"end_ref": "01028012",
+"end_ref_usfm": "GEN 28:12"
+},
+{
+"start_ref": "01049022",
+"start_ref_usfm": "GEN 49:22",
+"end_ref": "01049022",
+"end_ref_usfm": "GEN 49:22"
+},
+{
+"start_ref": "05030012",
+"start_ref_usfm": "DEU 30:12",
+"end_ref": "05030012",
+"end_ref_usfm": "DEU 30:12"
+},
+{
+"start_ref": "22007008",
+"start_ref_usfm": "SNG 7:8",
+"end_ref": "22007008",
+"end_ref_usfm": "SNG 7:8"
+},
+{
+"start_ref": "23014013",
+"start_ref_usfm": "ISA 14:13",
+"end_ref": "23014014",
+"end_ref_usfm": "ISA 14:14"
+},
+{
+"start_ref": "23024018",
+"start_ref_usfm": "ISA 24:18",
+"end_ref": "23024018",
+"end_ref_usfm": "ISA 24:18"
+},
+{
+"start_ref": "30009002",
+"start_ref_usfm": "AMO 9:2",
+"end_ref": "30009002",
+"end_ref_usfm": "AMO 9:2"
+},
+{
+"start_ref": "43001051",
+"start_ref_usfm": "JHN 1:51",
+"end_ref": "43001051",
+"end_ref_usfm": "JHN 1:51"
+}
+],
+"resource": [
+{
+"reference_id": "4245",
+"content_id": "4245",
+"resource_code": "DictionaryBibleThemes",
+"label": "4245: hills",
+"language": "eng"
+},
+{
+"reference_id": "4254",
+"content_id": "4254",
+"resource_code": "DictionaryBibleThemes",
+"label": "4254: mountains",
+"language": "eng"
+},
+{
+"reference_id": "5553",
+"content_id": "5553",
+"resource_code": "DictionaryBibleThemes",
+"label": "5553: stairways",
+"language": "eng"
+},
+{
+"reference_id": "8622",
+"content_id": "8622",
+"resource_code": "DictionaryBibleThemes",
+"label": "8622: worship",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,63 @@
+[
+{
+"content_id": "4494",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4494: papyrus",
+"media_type": "Text",
+"index_reference": "4494: papyrus",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A large plant growing in marshland, sometimes to a height of six metres.</p>\n<h2>Papyrus was used for making boats</h2>\n<p><a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a>; ; <a href=\"https://ref.ly/Job9:26\">JOB 9:26</a>; ; <a href=\"https://ref.ly/Isa18:2\">ISA 18:2</a></p>\n<h2>Papyrus indicates an ample water supply</h2>\n<p><a href=\"https://ref.ly/Job8:11-Job8:13\">JOB 8:11–8:13</a>; ; <a href=\"https://ref.ly/Isa35:7\">ISA 35:7</a> <em>Papyrus growing in what was once desert depicts the blessing coming on God's redeemed people.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02002003",
+"start_ref_usfm": "EXO 2:3",
+"end_ref": "02002003",
+"end_ref_usfm": "EXO 2:3"
+},
+{
+"start_ref": "18009026",
+"start_ref_usfm": "JOB 9:26",
+"end_ref": "18009026",
+"end_ref_usfm": "JOB 9:26"
+},
+{
+"start_ref": "23018002",
+"start_ref_usfm": "ISA 18:2",
+"end_ref": "23018002",
+"end_ref_usfm": "ISA 18:2"
+},
+{
+"start_ref": "18008011",
+"start_ref_usfm": "JOB 8:11",
+"end_ref": "18008013",
+"end_ref_usfm": "JOB 8:13"
+},
+{
+"start_ref": "23035007",
+"start_ref_usfm": "ISA 35:7",
+"end_ref": "23035007",
+"end_ref_usfm": "ISA 35:7"
+}
+],
+"resource": [
+{
+"reference_id": "4402",
+"content_id": "4402",
+"resource_code": "DictionaryBibleThemes",
+"label": "4402: plants",
+"language": "eng"
+},
+{
+"reference_id": "5515",
+"content_id": "5515",
+"resource_code": "DictionaryBibleThemes",
+"label": "5515: scroll",
+"language": "eng"
+}
+]
+}
+}
+]

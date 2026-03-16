@@ -1,0 +1,301 @@
+[
+{
+"content_id": "5346",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5346: injury",
+"media_type": "Text",
+"index_reference": "5346: injury",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Physical or mental hurt, usually resulting from the deliberate actions or words of others.</p>\n<h2>Physical injury</h2>\n<p><strong><a href=\"https://ref.ly/Judg1:6\">JDG 1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen32:25\">GEN 32:25</a>; <a href=\"https://ref.ly/Luke10:30\">LUK 10:30</a>; <a href=\"https://ref.ly/2Cor11:23-2Cor11:25\">2CO 11:23–11:25</a></p>\n<h3>Reparation must be made for physical injury</h3>\n<p><a href=\"https://ref.ly/Exod21:19\">EXO 21:19</a>, <a href=\"https://ref.ly/Exod21:22\">EXO 21:22</a>; ; <a href=\"https://ref.ly/Lev24:17-Lev24:22\">LEV 24:17–24:22</a></p>\n<h3>Jesus Christ suffered physical injury</h3>\n<p><a href=\"https://ref.ly/Matt16:21\">MAT 16:21</a>; ; <a href=\"https://ref.ly/John19:1\">JHN 19:1</a></p>\n<h3>God's people may suffer physical injury for his sake</h3>\n<p><a href=\"https://ref.ly/Jer38:6\">JER 38:6</a>; ; <a href=\"https://ref.ly/Gal6:17\">GAL 6:17</a>; ; <a href=\"https://ref.ly/Col1:24\">COL 1:24</a>; ; <a href=\"https://ref.ly/1Pet2:19\">1PE 2:19</a></p>\n<h2>Mental injury</h2>\n<h3>Injury by slander</h3>\n<p><a href=\"https://ref.ly/Lev19:16\">LEV 19:16</a>; ; <a href=\"https://ref.ly/Prov30:10\">PRO 30:10</a>; ; <a href=\"https://ref.ly/Matt5:11\">MAT 5:11</a>; ; <a href=\"https://ref.ly/Titus3:2\">TIT 3:2</a>; ; <a href=\"https://ref.ly/Jas4:11\">JAS 4:11</a>; ; <a href=\"https://ref.ly/1Pet2:1\">1PE 2:1</a></p>\n<h3>Injury by injustice</h3>\n<p><a href=\"https://ref.ly/Ps58:1-Ps58:2\">PSA 58:1–58:2</a>; ; <a href=\"https://ref.ly/Eccl3:16\">ECC 3:16</a>; ; <a href=\"https://ref.ly/Isa59:4-Isa59:6\">ISA 59:4–59:6</a>; ; <a href=\"https://ref.ly/Ezek34:4\">EZK 34:4</a></p>\n<h3>Jesus Christ suffered mental injury</h3>\n<p><a href=\"https://ref.ly/Matt26:59-Matt26:60\">MAT 26:59–26:60</a>; ; <a href=\"https://ref.ly/1Pet2:20-1Pet2:23\">1PE 2:20–2:23</a></p>\n<h3>God's people may suffer mental injury for his sake</h3>\n<p><strong><a href=\"https://ref.ly/Matt5:11\">MAT 5:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps38:20\">PSA 38:20</a>; <a href=\"https://ref.ly/Jer15:15\">JER 15:15</a>; <a href=\"https://ref.ly/1Thess2:2\">1TH 2:2</a>; <a href=\"https://ref.ly/1Pet2:19\">1PE 2:19</a></p>\n<h2>All deliberate injury ruled out by love</h2>\n<p><strong><a href=\"https://ref.ly/Rom13:10\">ROM 13:10</a></strong></p>\n<h2>Spiritual injury suffered by God's people</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Isa1:5-Isa1:6\">ISA 1:5–1:6</a>; <a href=\"https://ref.ly/Jer10:19\">JER 10:19</a>, <a href=\"https://ref.ly/Jer30:12\">JER 30:12</a>; <a href=\"https://ref.ly/Hos6:1\">HOS 6:1</a> <em>Sometimes this is God's judgment.</em></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "07001006",
+"start_ref_usfm": "JDG 1:6",
+"end_ref": "07001006",
+"end_ref_usfm": "JDG 1:6"
+},
+{
+"start_ref": "01032025",
+"start_ref_usfm": "GEN 32:25",
+"end_ref": "01032025",
+"end_ref_usfm": "GEN 32:25"
+},
+{
+"start_ref": "42010030",
+"start_ref_usfm": "LUK 10:30",
+"end_ref": "42010030",
+"end_ref_usfm": "LUK 10:30"
+},
+{
+"start_ref": "47011023",
+"start_ref_usfm": "2CO 11:23",
+"end_ref": "47011025",
+"end_ref_usfm": "2CO 11:25"
+},
+{
+"start_ref": "02021019",
+"start_ref_usfm": "EXO 21:19",
+"end_ref": "02021019",
+"end_ref_usfm": "EXO 21:19"
+},
+{
+"start_ref": "02021022",
+"start_ref_usfm": "EXO 21:22",
+"end_ref": "02021022",
+"end_ref_usfm": "EXO 21:22"
+},
+{
+"start_ref": "03024017",
+"start_ref_usfm": "LEV 24:17",
+"end_ref": "03024022",
+"end_ref_usfm": "LEV 24:22"
+},
+{
+"start_ref": "40016021",
+"start_ref_usfm": "MAT 16:21",
+"end_ref": "40016021",
+"end_ref_usfm": "MAT 16:21"
+},
+{
+"start_ref": "43019001",
+"start_ref_usfm": "JHN 19:1",
+"end_ref": "43019001",
+"end_ref_usfm": "JHN 19:1"
+},
+{
+"start_ref": "24038006",
+"start_ref_usfm": "JER 38:6",
+"end_ref": "24038006",
+"end_ref_usfm": "JER 38:6"
+},
+{
+"start_ref": "48006017",
+"start_ref_usfm": "GAL 6:17",
+"end_ref": "48006017",
+"end_ref_usfm": "GAL 6:17"
+},
+{
+"start_ref": "51001024",
+"start_ref_usfm": "COL 1:24",
+"end_ref": "51001024",
+"end_ref_usfm": "COL 1:24"
+},
+{
+"start_ref": "60002019",
+"start_ref_usfm": "1PE 2:19",
+"end_ref": "60002019",
+"end_ref_usfm": "1PE 2:19"
+},
+{
+"start_ref": "03019016",
+"start_ref_usfm": "LEV 19:16",
+"end_ref": "03019016",
+"end_ref_usfm": "LEV 19:16"
+},
+{
+"start_ref": "20030010",
+"start_ref_usfm": "PRO 30:10",
+"end_ref": "20030010",
+"end_ref_usfm": "PRO 30:10"
+},
+{
+"start_ref": "40005011",
+"start_ref_usfm": "MAT 5:11",
+"end_ref": "40005011",
+"end_ref_usfm": "MAT 5:11"
+},
+{
+"start_ref": "56003002",
+"start_ref_usfm": "TIT 3:2",
+"end_ref": "56003002",
+"end_ref_usfm": "TIT 3:2"
+},
+{
+"start_ref": "59004011",
+"start_ref_usfm": "JAS 4:11",
+"end_ref": "59004011",
+"end_ref_usfm": "JAS 4:11"
+},
+{
+"start_ref": "60002001",
+"start_ref_usfm": "1PE 2:1",
+"end_ref": "60002001",
+"end_ref_usfm": "1PE 2:1"
+},
+{
+"start_ref": "19058001",
+"start_ref_usfm": "PSA 58:1",
+"end_ref": "19058002",
+"end_ref_usfm": "PSA 58:2"
+},
+{
+"start_ref": "21003016",
+"start_ref_usfm": "ECC 3:16",
+"end_ref": "21003016",
+"end_ref_usfm": "ECC 3:16"
+},
+{
+"start_ref": "23059004",
+"start_ref_usfm": "ISA 59:4",
+"end_ref": "23059006",
+"end_ref_usfm": "ISA 59:6"
+},
+{
+"start_ref": "26034004",
+"start_ref_usfm": "EZK 34:4",
+"end_ref": "26034004",
+"end_ref_usfm": "EZK 34:4"
+},
+{
+"start_ref": "40026059",
+"start_ref_usfm": "MAT 26:59",
+"end_ref": "40026060",
+"end_ref_usfm": "MAT 26:60"
+},
+{
+"start_ref": "60002020",
+"start_ref_usfm": "1PE 2:20",
+"end_ref": "60002023",
+"end_ref_usfm": "1PE 2:23"
+},
+{
+"start_ref": "19038020",
+"start_ref_usfm": "PSA 38:20",
+"end_ref": "19038020",
+"end_ref_usfm": "PSA 38:20"
+},
+{
+"start_ref": "24015015",
+"start_ref_usfm": "JER 15:15",
+"end_ref": "24015015",
+"end_ref_usfm": "JER 15:15"
+},
+{
+"start_ref": "52002002",
+"start_ref_usfm": "1TH 2:2",
+"end_ref": "52002002",
+"end_ref_usfm": "1TH 2:2"
+},
+{
+"start_ref": "45013010",
+"start_ref_usfm": "ROM 13:10",
+"end_ref": "45013010",
+"end_ref_usfm": "ROM 13:10"
+},
+{
+"start_ref": "23001005",
+"start_ref_usfm": "ISA 1:5",
+"end_ref": "23001006",
+"end_ref_usfm": "ISA 1:6"
+},
+{
+"start_ref": "24010019",
+"start_ref_usfm": "JER 10:19",
+"end_ref": "24010019",
+"end_ref_usfm": "JER 10:19"
+},
+{
+"start_ref": "24030012",
+"start_ref_usfm": "JER 30:12",
+"end_ref": "24030012",
+"end_ref_usfm": "JER 30:12"
+},
+{
+"start_ref": "28006001",
+"start_ref_usfm": "HOS 6:1",
+"end_ref": "28006001",
+"end_ref_usfm": "HOS 6:1"
+}
+],
+"resource": [
+{
+"reference_id": "5025",
+"content_id": "5025",
+"resource_code": "DictionaryBibleThemes",
+"label": "5025: killing",
+"language": "eng"
+},
+{
+"reference_id": "5061",
+"content_id": "5061",
+"resource_code": "DictionaryBibleThemes",
+"label": "5061: sanctity of life",
+"language": "eng"
+},
+{
+"reference_id": "5209",
+"content_id": "5209",
+"resource_code": "DictionaryBibleThemes",
+"label": "5209: armour",
+"language": "eng"
+},
+{
+"reference_id": "5210",
+"content_id": "5210",
+"resource_code": "DictionaryBibleThemes",
+"label": "5210: arrows",
+"language": "eng"
+},
+{
+"reference_id": "5333",
+"content_id": "5333",
+"resource_code": "DictionaryBibleThemes",
+"label": "5333: healing",
+"language": "eng"
+},
+{
+"reference_id": "5348",
+"content_id": "5348",
+"resource_code": "DictionaryBibleThemes",
+"label": "5348: injustice, nature and source of",
+"language": "eng"
+},
+{
+"reference_id": "5372",
+"content_id": "5372",
+"resource_code": "DictionaryBibleThemes",
+"label": "5372: knife",
+"language": "eng"
+},
+{
+"reference_id": "5494",
+"content_id": "5494",
+"resource_code": "DictionaryBibleThemes",
+"label": "5494: revenge",
+"language": "eng"
+},
+{
+"reference_id": "5560",
+"content_id": "5560",
+"resource_code": "DictionaryBibleThemes",
+"label": "5560: suffering",
+"language": "eng"
+},
+{
+"reference_id": "5951",
+"content_id": "5951",
+"resource_code": "DictionaryBibleThemes",
+"label": "5951: slander",
+"language": "eng"
+},
+{
+"reference_id": "5975",
+"content_id": "5975",
+"resource_code": "DictionaryBibleThemes",
+"label": "5975: violence",
+"language": "eng"
+},
+{
+"reference_id": "6221",
+"content_id": "6221",
+"resource_code": "DictionaryBibleThemes",
+"label": "6221: rebellion",
+"language": "eng"
+}
+]
+}
+}
+]

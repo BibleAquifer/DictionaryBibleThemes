@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5596",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5596: victory",
+"media_type": "Text",
+"index_reference": "5596: victory",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The conquest of, or gaining a decisive advantage over, an enemy. The gospel proclaims the victory of God in Christ over the forces of evil in the world.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5597",
+"content_id": "5597",
+"resource_code": "DictionaryBibleThemes",
+"label": "5597: victory, as an act of God",
+"language": "eng"
+},
+{
+"reference_id": "5598",
+"content_id": "5598",
+"resource_code": "DictionaryBibleThemes",
+"label": "5598: victory, over spiritual forces",
+"language": "eng"
+},
+{
+"reference_id": "5599",
+"content_id": "5599",
+"resource_code": "DictionaryBibleThemes",
+"label": "5599: victory, of Jesus Christ",
+"language": "eng"
+}
+]
+}
+}
+]

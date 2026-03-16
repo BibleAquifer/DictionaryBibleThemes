@@ -1,0 +1,152 @@
+[
+{
+"content_id": "5965",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5965: temperament",
+"media_type": "Text",
+"index_reference": "5965: temperament",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A person's disposition, especially as shown in mental or emotional responses. God's people should be of an even temperament.</p>\n<h2>God's people should be of even temperament</h2>\n<p><strong><a href=\"https://ref.ly/Prov16:32\">PRO 16:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Titus2:1-Titus2:14\">TIT 2:1–2:14</a></p>\n<h2>Even temperament is a requirement for church leadership</h2>\n<p><strong><a href=\"https://ref.ly/1Tim3:2-1Tim3:3\">1TI 3:2–3:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim3:8-1Tim3:9\">1TI 3:8–3:9</a>, <a href=\"https://ref.ly/1Tim3:11\">1TI 3:11</a>; <a href=\"https://ref.ly/Titus1:7-Titus1:9\">TIT 1:7–1:9</a></p>\n<h2>Examples of people who had an unpleasant temperament</h2>\n<h3>Saul</h3>\n<p><strong><a href=\"https://ref.ly/1Sam16:23\">1SA 16:23</a></strong> <em>Violent mood swings and bad temper were signs of mental instability in Saul.</em> <em>See also</em> <a href=\"https://ref.ly/1Sam16:14-1Sam16:16\">1SA 16:14–16:16</a>, <a href=\"https://ref.ly/1Sam18:6-1Sam18:15\">1SA 18:6–18:15</a>, <a href=\"https://ref.ly/1Sam20:4-1Sam20:7\">1SA 20:4–20:7</a>, <a href=\"https://ref.ly/1Sam20:24-1Sam20:33\">1SA 20:24–20:33</a></p>\n<h3>Nabal the Carmelite</h3>\n<p><strong><a href=\"https://ref.ly/1Sam25:17\">1SA 25:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam25:2-1Sam25:11\">1SA 25:2–25:11</a>, <a href=\"https://ref.ly/1Sam25:36-1Sam25:38\">1SA 25:36–25:38</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "20016032",
+"start_ref_usfm": "PRO 16:32",
+"end_ref": "20016032",
+"end_ref_usfm": "PRO 16:32"
+},
+{
+"start_ref": "56002001",
+"start_ref_usfm": "TIT 2:1",
+"end_ref": "56002014",
+"end_ref_usfm": "TIT 2:14"
+},
+{
+"start_ref": "54003002",
+"start_ref_usfm": "1TI 3:2",
+"end_ref": "54003003",
+"end_ref_usfm": "1TI 3:3"
+},
+{
+"start_ref": "54003008",
+"start_ref_usfm": "1TI 3:8",
+"end_ref": "54003009",
+"end_ref_usfm": "1TI 3:9"
+},
+{
+"start_ref": "54003011",
+"start_ref_usfm": "1TI 3:11",
+"end_ref": "54003011",
+"end_ref_usfm": "1TI 3:11"
+},
+{
+"start_ref": "56001007",
+"start_ref_usfm": "TIT 1:7",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+},
+{
+"start_ref": "09016023",
+"start_ref_usfm": "1SA 16:23",
+"end_ref": "09016023",
+"end_ref_usfm": "1SA 16:23"
+},
+{
+"start_ref": "09016014",
+"start_ref_usfm": "1SA 16:14",
+"end_ref": "09016016",
+"end_ref_usfm": "1SA 16:16"
+},
+{
+"start_ref": "09018006",
+"start_ref_usfm": "1SA 18:6",
+"end_ref": "09018015",
+"end_ref_usfm": "1SA 18:15"
+},
+{
+"start_ref": "09020004",
+"start_ref_usfm": "1SA 20:4",
+"end_ref": "09020007",
+"end_ref_usfm": "1SA 20:7"
+},
+{
+"start_ref": "09020024",
+"start_ref_usfm": "1SA 20:24",
+"end_ref": "09020033",
+"end_ref_usfm": "1SA 20:33"
+},
+{
+"start_ref": "09025017",
+"start_ref_usfm": "1SA 25:17",
+"end_ref": "09025017",
+"end_ref_usfm": "1SA 25:17"
+},
+{
+"start_ref": "09025002",
+"start_ref_usfm": "1SA 25:2",
+"end_ref": "09025011",
+"end_ref_usfm": "1SA 25:11"
+},
+{
+"start_ref": "09025036",
+"start_ref_usfm": "1SA 25:36",
+"end_ref": "09025038",
+"end_ref_usfm": "1SA 25:38"
+}
+],
+"resource": [
+{
+"reference_id": "5789",
+"content_id": "5789",
+"resource_code": "DictionaryBibleThemes",
+"label": "5789: anger",
+"language": "eng"
+},
+{
+"reference_id": "5964",
+"content_id": "5964",
+"resource_code": "DictionaryBibleThemes",
+"label": "5964: temper",
+"language": "eng"
+},
+{
+"reference_id": "6023",
+"content_id": "6023",
+"resource_code": "DictionaryBibleThemes",
+"label": "6023: sin, universality of",
+"language": "eng"
+},
+{
+"reference_id": "7632",
+"content_id": "7632",
+"resource_code": "DictionaryBibleThemes",
+"label": "7632: Twelve, diverse characters of",
+"language": "eng"
+},
+{
+"reference_id": "8203",
+"content_id": "8203",
+"resource_code": "DictionaryBibleThemes",
+"label": "8203: character",
+"language": "eng"
+},
+{
+"reference_id": "8339",
+"content_id": "8339",
+"resource_code": "DictionaryBibleThemes",
+"label": "8339: self-control",
+"language": "eng"
+},
+{
+"reference_id": "8476",
+"content_id": "8476",
+"resource_code": "DictionaryBibleThemes",
+"label": "8476: self-discipline",
+"language": "eng"
+}
+]
+}
+}
+]

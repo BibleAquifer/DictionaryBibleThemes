@@ -1,0 +1,128 @@
+[
+{
+"content_id": "4145",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4145: archangels",
+"media_type": "Text",
+"index_reference": "4145: archangels",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The archangel associated with the second coming</h2>\n<p><strong><a href=\"https://ref.ly/1Thess4:16\">1TH 4:16</a></strong></p>\n<h2>The archangel Gabriel</h2>\n<h3>Gabriel as an interpreter of visions</h3>\n<p><strong><a href=\"https://ref.ly/Dan8:15-Dan8:26\">DAN 8:15–8:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan9:20-Dan9:27\">DAN 9:20–9:27</a></p>\n<h3>Gabriel as a messenger of God</h3>\n<p><strong><a href=\"https://ref.ly/Luke1:11-Luke1:20\">LUK 1:11–1:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke1:26-Luke1:38\">LUK 1:26–1:38</a></p>\n<h2>The archangel Michael</h2>\n<h3>Michael described as a prince</h3>\n<p><strong><a href=\"https://ref.ly/Dan10:12-Dan10:13\">DAN 10:12–10:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan10:21\">DAN 10:21</a></p>\n<h3>Michael depicted as a warrior and protector</h3>\n<p><strong><a href=\"https://ref.ly/Dan12:1\">DAN 12:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev12:7\">REV 12:7</a></p>\n<h3>Associated with the death of Moses</h3>\n<p><strong><a href=\"https://ref.ly/Jude1:9\">JUD 1:9</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "52004016",
+"start_ref_usfm": "1TH 4:16",
+"end_ref": "52004016",
+"end_ref_usfm": "1TH 4:16"
+},
+{
+"start_ref": "27008015",
+"start_ref_usfm": "DAN 8:15",
+"end_ref": "27008026",
+"end_ref_usfm": "DAN 8:26"
+},
+{
+"start_ref": "27009020",
+"start_ref_usfm": "DAN 9:20",
+"end_ref": "27009027",
+"end_ref_usfm": "DAN 9:27"
+},
+{
+"start_ref": "42001011",
+"start_ref_usfm": "LUK 1:11",
+"end_ref": "42001020",
+"end_ref_usfm": "LUK 1:20"
+},
+{
+"start_ref": "42001026",
+"start_ref_usfm": "LUK 1:26",
+"end_ref": "42001038",
+"end_ref_usfm": "LUK 1:38"
+},
+{
+"start_ref": "27010012",
+"start_ref_usfm": "DAN 10:12",
+"end_ref": "27010013",
+"end_ref_usfm": "DAN 10:13"
+},
+{
+"start_ref": "27010021",
+"start_ref_usfm": "DAN 10:21",
+"end_ref": "27010021",
+"end_ref_usfm": "DAN 10:21"
+},
+{
+"start_ref": "27012001",
+"start_ref_usfm": "DAN 12:1",
+"end_ref": "27012001",
+"end_ref_usfm": "DAN 12:1"
+},
+{
+"start_ref": "66012007",
+"start_ref_usfm": "REV 12:7",
+"end_ref": "66012007",
+"end_ref_usfm": "REV 12:7"
+},
+{
+"start_ref": "65001009",
+"start_ref_usfm": "JUD 1:9",
+"end_ref": "65001009",
+"end_ref_usfm": "JUD 1:9"
+}
+],
+"resource": [
+{
+"reference_id": "1469",
+"content_id": "1469",
+"resource_code": "DictionaryBibleThemes",
+"label": "1469: visions",
+"language": "eng"
+},
+{
+"reference_id": "4110",
+"content_id": "4110",
+"resource_code": "DictionaryBibleThemes",
+"label": "4110: angels",
+"language": "eng"
+},
+{
+"reference_id": "4120",
+"content_id": "4120",
+"resource_code": "DictionaryBibleThemes",
+"label": "4120: Satan",
+"language": "eng"
+},
+{
+"reference_id": "5102",
+"content_id": "5102",
+"resource_code": "DictionaryBibleThemes",
+"label": "5102: Moses, life of",
+"language": "eng"
+},
+{
+"reference_id": "5174",
+"content_id": "5174",
+"resource_code": "DictionaryBibleThemes",
+"label": "5174: prostration",
+"language": "eng"
+},
+{
+"reference_id": "5408",
+"content_id": "5408",
+"resource_code": "DictionaryBibleThemes",
+"label": "5408: messenger",
+"language": "eng"
+},
+{
+"reference_id": "9310",
+"content_id": "9310",
+"resource_code": "DictionaryBibleThemes",
+"label": "9310: resurrection",
+"language": "eng"
+}
+]
+}
+}
+]

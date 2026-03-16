@@ -1,0 +1,60 @@
+[
+{
+"content_id": "5375",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5375: law",
+"media_type": "Text",
+"index_reference": "5375: law",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The God-given regulation of the life of the people of God in relationship with him. As the command of God, it enables and gives shape to the relationship between God and human beings on the one hand, and between fellow human beings on the other.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5376",
+"content_id": "5376",
+"resource_code": "DictionaryBibleThemes",
+"label": "5376: law, purpose of",
+"language": "eng"
+},
+{
+"reference_id": "5377",
+"content_id": "5377",
+"resource_code": "DictionaryBibleThemes",
+"label": "5377: law, Ten Commandments",
+"language": "eng"
+},
+{
+"reference_id": "5378",
+"content_id": "5378",
+"resource_code": "DictionaryBibleThemes",
+"label": "5378: law, OT",
+"language": "eng"
+},
+{
+"reference_id": "5379",
+"content_id": "5379",
+"resource_code": "DictionaryBibleThemes",
+"label": "5379: law, Jesus Christ's attitude to",
+"language": "eng"
+},
+{
+"reference_id": "5380",
+"content_id": "5380",
+"resource_code": "DictionaryBibleThemes",
+"label": "5380: law, and gospel",
+"language": "eng"
+},
+{
+"reference_id": "5381",
+"content_id": "5381",
+"resource_code": "DictionaryBibleThemes",
+"label": "5381: law, letter and spirit of",
+"language": "eng"
+}
+]
+}
+}
+]

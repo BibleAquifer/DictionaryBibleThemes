@@ -1,0 +1,114 @@
+[
+{
+"content_id": "5435",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5435: ovens",
+"media_type": "Text",
+"index_reference": "5435: ovens",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Ovens were a common feature of domestic life and activity</h2>\n<p><strong><a href=\"https://ref.ly/Exod8:1-Exod8:4\">EXO 8:1–8:4</a></strong></p>\n<h2>Uses for ovens</h2>\n<h3>For baking bread</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Lev26:23-Lev26:26\">LEV 26:23–26:26</a></p>\n<h3>For baking grain offerings</h3>\n<p><a href=\"https://ref.ly/Lev2:4\">LEV 2:4</a>, <a href=\"https://ref.ly/Lev7:9\">LEV 7:9</a></p>\n<h2>Ovens could be rendered unclean</h2>\n<p><a href=\"https://ref.ly/Lev11:35\">LEV 11:35</a></p>\n<h2>Ovens were characterised by great heat</h2>\n<p><a href=\"https://ref.ly/Lam5:10\">LAM 5:10</a>; ; <a href=\"https://ref.ly/Hos7:4\">HOS 7:4</a>, <a href=\"https://ref.ly/Hos7:6-Hos7:7\">HOS 7:6–7:7</a></p>\n<h2>The Tower of the Ovens was a place in Jerusalem in Nehemiah's day</h2>\n<p><a href=\"https://ref.ly/Neh3:11\">NEH 3:11</a>, <a href=\"https://ref.ly/Neh12:38\">NEH 12:38</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02008001",
+"start_ref_usfm": "EXO 8:1",
+"end_ref": "02008004",
+"end_ref_usfm": "EXO 8:4"
+},
+{
+"start_ref": "03026023",
+"start_ref_usfm": "LEV 26:23",
+"end_ref": "03026026",
+"end_ref_usfm": "LEV 26:26"
+},
+{
+"start_ref": "03002004",
+"start_ref_usfm": "LEV 2:4",
+"end_ref": "03002004",
+"end_ref_usfm": "LEV 2:4"
+},
+{
+"start_ref": "03007009",
+"start_ref_usfm": "LEV 7:9",
+"end_ref": "03007009",
+"end_ref_usfm": "LEV 7:9"
+},
+{
+"start_ref": "03011035",
+"start_ref_usfm": "LEV 11:35",
+"end_ref": "03011035",
+"end_ref_usfm": "LEV 11:35"
+},
+{
+"start_ref": "25005010",
+"start_ref_usfm": "LAM 5:10",
+"end_ref": "25005010",
+"end_ref_usfm": "LAM 5:10"
+},
+{
+"start_ref": "28007004",
+"start_ref_usfm": "HOS 7:4",
+"end_ref": "28007004",
+"end_ref_usfm": "HOS 7:4"
+},
+{
+"start_ref": "28007006",
+"start_ref_usfm": "HOS 7:6",
+"end_ref": "28007007",
+"end_ref_usfm": "HOS 7:7"
+},
+{
+"start_ref": "16003011",
+"start_ref_usfm": "NEH 3:11",
+"end_ref": "16003011",
+"end_ref_usfm": "NEH 3:11"
+},
+{
+"start_ref": "16012038",
+"start_ref_usfm": "NEH 12:38",
+"end_ref": "16012038",
+"end_ref_usfm": "NEH 12:38"
+}
+],
+"resource": [
+{
+"reference_id": "4418",
+"content_id": "4418",
+"resource_code": "DictionaryBibleThemes",
+"label": "4418: bread",
+"language": "eng"
+},
+{
+"reference_id": "5222",
+"content_id": "5222",
+"resource_code": "DictionaryBibleThemes",
+"label": "5222: baking",
+"language": "eng"
+},
+{
+"reference_id": "5268",
+"content_id": "5268",
+"resource_code": "DictionaryBibleThemes",
+"label": "5268: cooking",
+"language": "eng"
+},
+{
+"reference_id": "5321",
+"content_id": "5321",
+"resource_code": "DictionaryBibleThemes",
+"label": "5321: furnace",
+"language": "eng"
+},
+{
+"reference_id": "7368",
+"content_id": "7368",
+"resource_code": "DictionaryBibleThemes",
+"label": "7368: grain offering",
+"language": "eng"
+}
+]
+}
+}
+]

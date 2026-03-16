@@ -1,0 +1,53 @@
+[
+{
+"content_id": "1610",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1610: Scripture",
+"media_type": "Text",
+"index_reference": "1610: scripture",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The biblical writings, inspired by the Holy Spirit, have been entrusted to the church to remind it of the central teachings of the gospel, to guard it from error and to enable it to grow into holiness. The church is required to be obedient to Scripture and revere it as the Word of God.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "1611",
+"content_id": "1611",
+"resource_code": "DictionaryBibleThemes",
+"label": "1611: Scripture, inspiration and authority of",
+"language": "eng"
+},
+{
+"reference_id": "1612",
+"content_id": "1612",
+"resource_code": "DictionaryBibleThemes",
+"label": "1612: Scripture, and Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "1613",
+"content_id": "1613",
+"resource_code": "DictionaryBibleThemes",
+"label": "1613: Scripture, purpose of",
+"language": "eng"
+},
+{
+"reference_id": "1614",
+"content_id": "1614",
+"resource_code": "DictionaryBibleThemes",
+"label": "1614: Scripture, understanding",
+"language": "eng"
+},
+{
+"reference_id": "1615",
+"content_id": "1615",
+"resource_code": "DictionaryBibleThemes",
+"label": "1615: Scripture, sufficiency of",
+"language": "eng"
+}
+]
+}
+}
+]

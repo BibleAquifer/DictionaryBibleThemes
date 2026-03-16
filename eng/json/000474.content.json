@@ -1,0 +1,82 @@
+[
+{
+"content_id": "4518",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4518: sycamore-fig tree",
+"media_type": "Text",
+"index_reference": "4518: sycamore-fig tree",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Sycamore-fig trees were plentiful in Judea</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs10:27\">1KI 10:27</a></strong> parallels <a href=\"https://ref.ly/2Chr1:15\">2CH 1:15</a>, <a href=\"https://ref.ly/2Chr9:27\">2CH 9:27</a> <em>See also</em> <a href=\"https://ref.ly/Luke19:4\">LUK 19:4</a></p>\n<h2>The cultivation of sycamore-fig trees</h2>\n<p><strong><a href=\"https://ref.ly/Amos7:14\">AMO 7:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr27:28\">1CH 27:28</a>; <a href=\"https://ref.ly/Ps78:47\">PSA 78:47</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "11010027",
+"start_ref_usfm": "1KI 10:27",
+"end_ref": "11010027",
+"end_ref_usfm": "1KI 10:27"
+},
+{
+"start_ref": "14001015",
+"start_ref_usfm": "2CH 1:15",
+"end_ref": "14001015",
+"end_ref_usfm": "2CH 1:15"
+},
+{
+"start_ref": "14009027",
+"start_ref_usfm": "2CH 9:27",
+"end_ref": "14009027",
+"end_ref_usfm": "2CH 9:27"
+},
+{
+"start_ref": "42019004",
+"start_ref_usfm": "LUK 19:4",
+"end_ref": "42019004",
+"end_ref_usfm": "LUK 19:4"
+},
+{
+"start_ref": "30007014",
+"start_ref_usfm": "AMO 7:14",
+"end_ref": "30007014",
+"end_ref_usfm": "AMO 7:14"
+},
+{
+"start_ref": "13027028",
+"start_ref_usfm": "1CH 27:28",
+"end_ref": "13027028",
+"end_ref_usfm": "1CH 27:28"
+},
+{
+"start_ref": "19078047",
+"start_ref_usfm": "PSA 78:47",
+"end_ref": "19078047",
+"end_ref_usfm": "PSA 78:47"
+}
+],
+"resource": [
+{
+"reference_id": "4440",
+"content_id": "4440",
+"resource_code": "DictionaryBibleThemes",
+"label": "4440: fig-tree",
+"language": "eng"
+},
+{
+"reference_id": "4450",
+"content_id": "4450",
+"resource_code": "DictionaryBibleThemes",
+"label": "4450: fruit",
+"language": "eng"
+},
+{
+"reference_id": "4528",
+"content_id": "4528",
+"resource_code": "DictionaryBibleThemes",
+"label": "4528: trees",
+"language": "eng"
+}
+]
+}
+}
+]

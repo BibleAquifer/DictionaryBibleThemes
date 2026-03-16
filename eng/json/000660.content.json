@@ -1,0 +1,283 @@
+[
+{
+"content_id": "5054",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5054: responsibility, examples of",
+"media_type": "Text",
+"index_reference": "5054: responsibility, examples of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture provides examples of individuals and situations in which responsibility is accepted, delegated or denied.</p>\n<h2>Examples of responsibility accepted</h2>\n<h3>Noah to build the ark</h3>\n<p><strong><a href=\"https://ref.ly/Gen6:13-Gen6:14\">GEN 6:13–6:14</a>, <a href=\"https://ref.ly/Gen6:22\">GEN 6:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb11:7\">HEB 11:7</a></p>\n<h3>Joseph over Potiphar's household</h3>\n<p><strong><a href=\"https://ref.ly/Gen39:4\">GEN 39:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen39:1-Gen39:6\">GEN 39:1–39:6</a></p>\n<h3>Joseph over the other prisoners</h3>\n<p><strong><a href=\"https://ref.ly/Gen39:22\">GEN 39:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen39:20-Gen39:23\">GEN 39:20–39:23</a></p>\n<h3>Joseph over the whole of Egypt</h3>\n<p><strong><a href=\"https://ref.ly/Gen41:39-Gen41:41\">GEN 41:39–41:41</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen41:55-Gen41:57\">GEN 41:55–41:57</a>, <a href=\"https://ref.ly/Gen45:8-Gen45:9\">GEN 45:8–45:9</a></p>\n<h3>Levites to be priests</h3>\n<p><strong><a href=\"https://ref.ly/Num3:5-Num3:7\">NUM 3:5–3:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num8:5-Num8:26\">NUM 8:5–8:26</a></p>\n<h3>Solomon, not David, to build the temple</h3>\n<p><a href=\"https://ref.ly/1Chr22:2-1Chr22:10\">1CH 22:2–22:10</a></p>\n<h3>Ezekiel to be a watchman</h3>\n<p><a href=\"https://ref.ly/Ezek3:16-Ezek3:21\">EZK 3:16–3:21</a></p>\n<h3>Jesus Christ in dying on the cross</h3>\n<p><strong><a href=\"https://ref.ly/Phil2:8\">PHP 2:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt26:39\">MAT 26:39</a>; <a href=\"https://ref.ly/John10:18\">JHN 10:18</a>; <a href=\"https://ref.ly/Rom5:19\">ROM 5:19</a></p>\n<h2>Examples of delegation of responsibility</h2>\n<h3>Moses chose leaders to judge</h3>\n<p><strong><a href=\"https://ref.ly/Exod18:24-Exod18:26\">EXO 18:24–18:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod18:13-Exod18:23\">EXO 18:13–18:23</a></p>\n<h3>The apostles delegated responsibility to seven men</h3>\n<p><strong><a href=\"https://ref.ly/Acts6:3\">ACT 6:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts6:1-Acts6:6\">ACT 6:1–6:6</a></p>\n<h3>Responsibility delegated to elders</h3>\n<p><strong><a href=\"https://ref.ly/Acts14:23\">ACT 14:23</a></strong></p>\n<h2>Examples of denial of responsibility</h2>\n<h3>Adam and Eve in eating the fruit</h3>\n<p><strong><a href=\"https://ref.ly/Gen3:11-Gen3:13\">GEN 3:11–3:13</a></strong> <em>God held them both responsible.</em></p>\n<h3>Aaron after making the golden calf</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Exod32:19-Exod32:24\">EXO 32:19–32:24</a></p>\n<h3>Saul after not destroying everything belonging to the Amalekites</h3>\n<p><a href=\"https://ref.ly/1Sam15:3\">1SA 15:3</a>, <a href=\"https://ref.ly/1Sam15:7-1Sam15:9\">1SA 15:7–15:9</a>, <a href=\"https://ref.ly/1Sam15:15\">1SA 15:15</a></p>\n<h3>Pilate after ordering Jesus Christ to be crucified</h3>\n<p><strong><a href=\"https://ref.ly/Matt27:24\">MAT 27:24</a></strong></p>\n<h3>Judas after betraying Jesus Christ</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Matt27:3-Matt27:5\">MAT 27:3–27:5</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01006013",
+"start_ref_usfm": "GEN 6:13",
+"end_ref": "01006014",
+"end_ref_usfm": "GEN 6:14"
+},
+{
+"start_ref": "01006022",
+"start_ref_usfm": "GEN 6:22",
+"end_ref": "01006022",
+"end_ref_usfm": "GEN 6:22"
+},
+{
+"start_ref": "58011007",
+"start_ref_usfm": "HEB 11:7",
+"end_ref": "58011007",
+"end_ref_usfm": "HEB 11:7"
+},
+{
+"start_ref": "01039004",
+"start_ref_usfm": "GEN 39:4",
+"end_ref": "01039004",
+"end_ref_usfm": "GEN 39:4"
+},
+{
+"start_ref": "01039001",
+"start_ref_usfm": "GEN 39:1",
+"end_ref": "01039006",
+"end_ref_usfm": "GEN 39:6"
+},
+{
+"start_ref": "01039022",
+"start_ref_usfm": "GEN 39:22",
+"end_ref": "01039022",
+"end_ref_usfm": "GEN 39:22"
+},
+{
+"start_ref": "01039020",
+"start_ref_usfm": "GEN 39:20",
+"end_ref": "01039023",
+"end_ref_usfm": "GEN 39:23"
+},
+{
+"start_ref": "01041039",
+"start_ref_usfm": "GEN 41:39",
+"end_ref": "01041041",
+"end_ref_usfm": "GEN 41:41"
+},
+{
+"start_ref": "01041055",
+"start_ref_usfm": "GEN 41:55",
+"end_ref": "01041057",
+"end_ref_usfm": "GEN 41:57"
+},
+{
+"start_ref": "01045008",
+"start_ref_usfm": "GEN 45:8",
+"end_ref": "01045009",
+"end_ref_usfm": "GEN 45:9"
+},
+{
+"start_ref": "04003005",
+"start_ref_usfm": "NUM 3:5",
+"end_ref": "04003007",
+"end_ref_usfm": "NUM 3:7"
+},
+{
+"start_ref": "04008005",
+"start_ref_usfm": "NUM 8:5",
+"end_ref": "04008026",
+"end_ref_usfm": "NUM 8:26"
+},
+{
+"start_ref": "13022002",
+"start_ref_usfm": "1CH 22:2",
+"end_ref": "13022010",
+"end_ref_usfm": "1CH 22:10"
+},
+{
+"start_ref": "26003016",
+"start_ref_usfm": "EZK 3:16",
+"end_ref": "26003021",
+"end_ref_usfm": "EZK 3:21"
+},
+{
+"start_ref": "50002008",
+"start_ref_usfm": "PHP 2:8",
+"end_ref": "50002008",
+"end_ref_usfm": "PHP 2:8"
+},
+{
+"start_ref": "40026039",
+"start_ref_usfm": "MAT 26:39",
+"end_ref": "40026039",
+"end_ref_usfm": "MAT 26:39"
+},
+{
+"start_ref": "43010018",
+"start_ref_usfm": "JHN 10:18",
+"end_ref": "43010018",
+"end_ref_usfm": "JHN 10:18"
+},
+{
+"start_ref": "45005019",
+"start_ref_usfm": "ROM 5:19",
+"end_ref": "45005019",
+"end_ref_usfm": "ROM 5:19"
+},
+{
+"start_ref": "02018024",
+"start_ref_usfm": "EXO 18:24",
+"end_ref": "02018026",
+"end_ref_usfm": "EXO 18:26"
+},
+{
+"start_ref": "02018013",
+"start_ref_usfm": "EXO 18:13",
+"end_ref": "02018023",
+"end_ref_usfm": "EXO 18:23"
+},
+{
+"start_ref": "44006003",
+"start_ref_usfm": "ACT 6:3",
+"end_ref": "44006003",
+"end_ref_usfm": "ACT 6:3"
+},
+{
+"start_ref": "44006001",
+"start_ref_usfm": "ACT 6:1",
+"end_ref": "44006006",
+"end_ref_usfm": "ACT 6:6"
+},
+{
+"start_ref": "44014023",
+"start_ref_usfm": "ACT 14:23",
+"end_ref": "44014023",
+"end_ref_usfm": "ACT 14:23"
+},
+{
+"start_ref": "01003011",
+"start_ref_usfm": "GEN 3:11",
+"end_ref": "01003013",
+"end_ref_usfm": "GEN 3:13"
+},
+{
+"start_ref": "02032019",
+"start_ref_usfm": "EXO 32:19",
+"end_ref": "02032024",
+"end_ref_usfm": "EXO 32:24"
+},
+{
+"start_ref": "09015003",
+"start_ref_usfm": "1SA 15:3",
+"end_ref": "09015003",
+"end_ref_usfm": "1SA 15:3"
+},
+{
+"start_ref": "09015007",
+"start_ref_usfm": "1SA 15:7",
+"end_ref": "09015009",
+"end_ref_usfm": "1SA 15:9"
+},
+{
+"start_ref": "09015015",
+"start_ref_usfm": "1SA 15:15",
+"end_ref": "09015015",
+"end_ref_usfm": "1SA 15:15"
+},
+{
+"start_ref": "40027024",
+"start_ref_usfm": "MAT 27:24",
+"end_ref": "40027024",
+"end_ref_usfm": "MAT 27:24"
+},
+{
+"start_ref": "40027003",
+"start_ref_usfm": "MAT 27:3",
+"end_ref": "40027005",
+"end_ref_usfm": "MAT 27:5"
+}
+],
+"resource": [
+{
+"reference_id": "4208",
+"content_id": "4208",
+"resource_code": "DictionaryBibleThemes",
+"label": "4208: land, as a divine responsibility",
+"language": "eng"
+},
+{
+"reference_id": "5216",
+"content_id": "5216",
+"resource_code": "DictionaryBibleThemes",
+"label": "5216: authority, nature of",
+"language": "eng"
+},
+{
+"reference_id": "5668",
+"content_id": "5668",
+"resource_code": "DictionaryBibleThemes",
+"label": "5668: children, responsibilities to parents",
+"language": "eng"
+},
+{
+"reference_id": "5685",
+"content_id": "5685",
+"resource_code": "DictionaryBibleThemes",
+"label": "5685: fathers, responsibilities of",
+"language": "eng"
+},
+{
+"reference_id": "5716",
+"content_id": "5716",
+"resource_code": "DictionaryBibleThemes",
+"label": "5716: middle age",
+"language": "eng"
+},
+{
+"reference_id": "5719",
+"content_id": "5719",
+"resource_code": "DictionaryBibleThemes",
+"label": "5719: mothers, responsibilities of",
+"language": "eng"
+},
+{
+"reference_id": "5851",
+"content_id": "5851",
+"resource_code": "DictionaryBibleThemes",
+"label": "5851: excuse",
+"language": "eng"
+},
+{
+"reference_id": "6115",
+"content_id": "6115",
+"resource_code": "DictionaryBibleThemes",
+"label": "6115: blame",
+"language": "eng"
+},
+{
+"reference_id": "6662",
+"content_id": "6662",
+"resource_code": "DictionaryBibleThemes",
+"label": "6662: freedom, abuse of Christian",
+"language": "eng"
+},
+{
+"reference_id": "6710",
+"content_id": "6710",
+"resource_code": "DictionaryBibleThemes",
+"label": "6710: privileges",
+"language": "eng"
+},
+{
+"reference_id": "8446",
+"content_id": "8446",
+"resource_code": "DictionaryBibleThemes",
+"label": "8446: hospitality, a duty of God's people",
+"language": "eng"
+},
+{
+"reference_id": "8452",
+"content_id": "8452",
+"resource_code": "DictionaryBibleThemes",
+"label": "8452: neighbours, duty to",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,253 @@
+[
+{
+"content_id": "8236",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8236: doctrine, purpose of",
+"media_type": "Text",
+"index_reference": "8236: doctrine, purpose of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Sound doctrine is intended to shape and mould the people of God for life and service in the world.</p>\n<h2>The purpose of doctrine for the individual</h2>\n<h3>It leads to repentance</h3>\n<p><strong><a href=\"https://ref.ly/2Tim2:25\">2TI 2:25</a></strong></p>\n<h3>It leads to salvation</h3>\n<p><strong><a href=\"https://ref.ly/1Tim4:16\">1TI 4:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/John20:31\">JHN 20:31</a>; <a href=\"https://ref.ly/1Cor1:21-1Cor1:24\">1CO 1:21–1:24</a>; <a href=\"https://ref.ly/2Tim3:14-2Tim3:15\">2TI 3:14–3:15</a></p>\n<h3>It is necessary for Christian maturity and effective service</h3>\n<p><strong><a href=\"https://ref.ly/2Tim3:16-2Tim3:17\">2TI 3:16–3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps19:7-Ps19:8\">PSA 19:7–19:8</a>; <a href=\"https://ref.ly/Acts2:42-Acts2:43\">ACT 2:42–2:43</a>; <a href=\"https://ref.ly/Eph4:11-Eph4:14\">EPH 4:11–4:14</a>; <a href=\"https://ref.ly/Heb5:13-Heb5:14\">HEB 5:13–5:14</a></p>\n<h3>It makes possible a defence of the faith</h3>\n<p><strong><a href=\"https://ref.ly/1Pet3:15-1Pet3:16\">1PE 3:15–3:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Col2:2-Col2:4\">COL 2:2–2:4</a>; <a href=\"https://ref.ly/Jude1:3\">JUD 1:3</a></p>\n<h3>It leads to enrichment and blessing</h3>\n<p><strong><a href=\"https://ref.ly/Deut32:1-Deut32:4\">DEU 32:1–32:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps19:7-Ps19:11\">PSA 19:7–19:11</a>, <a href=\"https://ref.ly/Ps119:97-Ps119:104\">PSA 119:97–119:104</a>; <a href=\"https://ref.ly/Isa55:10-Isa55:13\">ISA 55:10–55:13</a>; <a href=\"https://ref.ly/Ezek3:1-Ezek3:3\">EZK 3:1–3:3</a></p>\n<h3>It leads to perfection</h3>\n<p><strong><a href=\"https://ref.ly/Col1:28\">COL 1:28</a></strong></p>\n<h2>Doctrine as the basis of faithful ministry in the church</h2>\n<p><strong><a href=\"https://ref.ly/Titus1:9\">TIT 1:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim4:6\">1TI 4:6</a>, <a href=\"https://ref.ly/1Tim4:13-1Tim4:16\">1TI 4:13–4:16</a>; <a href=\"https://ref.ly/2Tim1:13-2Tim1:14\">2TI 1:13–1:14</a>, <a href=\"https://ref.ly/2Tim2:2\">2TI 2:2</a>; <a href=\"https://ref.ly/Titus2:1\">TIT 2:1</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "55002025",
+"start_ref_usfm": "2TI 2:25",
+"end_ref": "55002025",
+"end_ref_usfm": "2TI 2:25"
+},
+{
+"start_ref": "54004016",
+"start_ref_usfm": "1TI 4:16",
+"end_ref": "54004016",
+"end_ref_usfm": "1TI 4:16"
+},
+{
+"start_ref": "43020031",
+"start_ref_usfm": "JHN 20:31",
+"end_ref": "43020031",
+"end_ref_usfm": "JHN 20:31"
+},
+{
+"start_ref": "46001021",
+"start_ref_usfm": "1CO 1:21",
+"end_ref": "46001024",
+"end_ref_usfm": "1CO 1:24"
+},
+{
+"start_ref": "55003014",
+"start_ref_usfm": "2TI 3:14",
+"end_ref": "55003015",
+"end_ref_usfm": "2TI 3:15"
+},
+{
+"start_ref": "55003016",
+"start_ref_usfm": "2TI 3:16",
+"end_ref": "55003017",
+"end_ref_usfm": "2TI 3:17"
+},
+{
+"start_ref": "19019007",
+"start_ref_usfm": "PSA 19:7",
+"end_ref": "19019008",
+"end_ref_usfm": "PSA 19:8"
+},
+{
+"start_ref": "44002042",
+"start_ref_usfm": "ACT 2:42",
+"end_ref": "44002043",
+"end_ref_usfm": "ACT 2:43"
+},
+{
+"start_ref": "49004011",
+"start_ref_usfm": "EPH 4:11",
+"end_ref": "49004014",
+"end_ref_usfm": "EPH 4:14"
+},
+{
+"start_ref": "58005013",
+"start_ref_usfm": "HEB 5:13",
+"end_ref": "58005014",
+"end_ref_usfm": "HEB 5:14"
+},
+{
+"start_ref": "60003015",
+"start_ref_usfm": "1PE 3:15",
+"end_ref": "60003016",
+"end_ref_usfm": "1PE 3:16"
+},
+{
+"start_ref": "51002002",
+"start_ref_usfm": "COL 2:2",
+"end_ref": "51002004",
+"end_ref_usfm": "COL 2:4"
+},
+{
+"start_ref": "65001003",
+"start_ref_usfm": "JUD 1:3",
+"end_ref": "65001003",
+"end_ref_usfm": "JUD 1:3"
+},
+{
+"start_ref": "05032001",
+"start_ref_usfm": "DEU 32:1",
+"end_ref": "05032004",
+"end_ref_usfm": "DEU 32:4"
+},
+{
+"start_ref": "19019007",
+"start_ref_usfm": "PSA 19:7",
+"end_ref": "19019011",
+"end_ref_usfm": "PSA 19:11"
+},
+{
+"start_ref": "19119097",
+"start_ref_usfm": "PSA 119:97",
+"end_ref": "19119104",
+"end_ref_usfm": "PSA 119:104"
+},
+{
+"start_ref": "23055010",
+"start_ref_usfm": "ISA 55:10",
+"end_ref": "23055013",
+"end_ref_usfm": "ISA 55:13"
+},
+{
+"start_ref": "26003001",
+"start_ref_usfm": "EZK 3:1",
+"end_ref": "26003003",
+"end_ref_usfm": "EZK 3:3"
+},
+{
+"start_ref": "51001028",
+"start_ref_usfm": "COL 1:28",
+"end_ref": "51001028",
+"end_ref_usfm": "COL 1:28"
+},
+{
+"start_ref": "56001009",
+"start_ref_usfm": "TIT 1:9",
+"end_ref": "56001009",
+"end_ref_usfm": "TIT 1:9"
+},
+{
+"start_ref": "54004006",
+"start_ref_usfm": "1TI 4:6",
+"end_ref": "54004006",
+"end_ref_usfm": "1TI 4:6"
+},
+{
+"start_ref": "54004013",
+"start_ref_usfm": "1TI 4:13",
+"end_ref": "54004016",
+"end_ref_usfm": "1TI 4:16"
+},
+{
+"start_ref": "55001013",
+"start_ref_usfm": "2TI 1:13",
+"end_ref": "55001014",
+"end_ref_usfm": "2TI 1:14"
+},
+{
+"start_ref": "55002002",
+"start_ref_usfm": "2TI 2:2",
+"end_ref": "55002002",
+"end_ref_usfm": "2TI 2:2"
+},
+{
+"start_ref": "56002001",
+"start_ref_usfm": "TIT 2:1",
+"end_ref": "56002001",
+"end_ref_usfm": "TIT 2:1"
+}
+],
+"resource": [
+{
+"reference_id": "2420",
+"content_id": "2420",
+"resource_code": "DictionaryBibleThemes",
+"label": "2420: gospel",
+"language": "eng"
+},
+{
+"reference_id": "3140",
+"content_id": "3140",
+"resource_code": "DictionaryBibleThemes",
+"label": "3140: Holy Spirit, as teacher",
+"language": "eng"
+},
+{
+"reference_id": "5902",
+"content_id": "5902",
+"resource_code": "DictionaryBibleThemes",
+"label": "5902: maturity",
+"language": "eng"
+},
+{
+"reference_id": "6510",
+"content_id": "6510",
+"resource_code": "DictionaryBibleThemes",
+"label": "6510: salvation",
+"language": "eng"
+},
+{
+"reference_id": "6732",
+"content_id": "6732",
+"resource_code": "DictionaryBibleThemes",
+"label": "6732: repentance",
+"language": "eng"
+},
+{
+"reference_id": "6744",
+"content_id": "6744",
+"resource_code": "DictionaryBibleThemes",
+"label": "6744: sanctification",
+"language": "eng"
+},
+{
+"reference_id": "7703",
+"content_id": "7703",
+"resource_code": "DictionaryBibleThemes",
+"label": "7703: apologetics",
+"language": "eng"
+},
+{
+"reference_id": "7939",
+"content_id": "7939",
+"resource_code": "DictionaryBibleThemes",
+"label": "7939: ministry",
+"language": "eng"
+},
+{
+"reference_id": "8020",
+"content_id": "8020",
+"resource_code": "DictionaryBibleThemes",
+"label": "8020: faith",
+"language": "eng"
+},
+{
+"reference_id": "8104",
+"content_id": "8104",
+"resource_code": "DictionaryBibleThemes",
+"label": "8104: assurance",
+"language": "eng"
+},
+{
+"reference_id": "8283",
+"content_id": "8283",
+"resource_code": "DictionaryBibleThemes",
+"label": "8283: joy",
+"language": "eng"
+},
+{
+"reference_id": "8347",
+"content_id": "8347",
+"resource_code": "DictionaryBibleThemes",
+"label": "8347: spiritual growth",
+"language": "eng"
+}
+]
+}
+}
+]

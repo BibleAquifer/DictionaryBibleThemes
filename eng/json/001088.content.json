@@ -1,0 +1,207 @@
+[
+{
+"content_id": "5519",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5519: secretary",
+"media_type": "Text",
+"index_reference": "5519: secretary",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>A secretary was a royal official often responsible for correspondence</h2>\n<p><a href=\"https://ref.ly/2Sam8:17\">2SA 8:17</a>, <a href=\"https://ref.ly/2Sam20:25\">2SA 20:25</a>; ; <a href=\"https://ref.ly/1Kgs4:3\">1KI 4:3</a>; ; <a href=\"https://ref.ly/2Kgs18:18\">2KI 18:18</a>, <a href=\"https://ref.ly/2Kgs18:37\">2KI 18:37</a>, <a href=\"https://ref.ly/2Kgs19:2\">2KI 19:2</a>, <a href=\"https://ref.ly/2Kgs22:12\">2KI 22:12</a>; ; <a href=\"https://ref.ly/2Chr34:13\">2CH 34:13</a>, <a href=\"https://ref.ly/2Chr34:15-2Chr34:18\">2CH 34:15–34:18</a> <em>Shaphan takes the Book of the Law to King Josiah</em>; ; <a href=\"https://ref.ly/Ezra4:8-Ezra4:9\">EZR 4:8–4:9</a>, <a href=\"https://ref.ly/Ezra4:17\">EZR 4:17</a>, <a href=\"https://ref.ly/Ezra4:23\">EZR 4:23</a>; ; <a href=\"https://ref.ly/Esth3:12\">EST 3:12</a>, <a href=\"https://ref.ly/Esth8:9\">EST 8:9</a>; ; <a href=\"https://ref.ly/Jer36:10\">JER 36:10</a></p>\n<h2>A secretary collected the temple repair money</h2>\n<p><a href=\"https://ref.ly/2Kgs12:10-2Kgs12:12\">2KI 12:10–12:12</a>; ; <a href=\"https://ref.ly/2Chr24:11\">2CH 24:11</a></p>\n<h2>A secretary was in charge of conscripting soldiers</h2>\n<p><a href=\"https://ref.ly/2Kgs25:19\">2KI 25:19</a> parallel <a href=\"https://ref.ly/Jer52:25\">JER 52:25</a>; ; <a href=\"https://ref.ly/2Chr26:11\">2CH 26:11</a></p>\n<h2>Secretaries to writers of NT letters</h2>\n<p>Tertius and Silas acted in the capacity of secretary, writing down what the apostles told them to:\n <a href=\"https://ref.ly/Rom16:22\">ROM 16:22</a>; ; <a href=\"https://ref.ly/1Pet5:12\">1PE 5:12</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "10008017",
+"start_ref_usfm": "2SA 8:17",
+"end_ref": "10008017",
+"end_ref_usfm": "2SA 8:17"
+},
+{
+"start_ref": "10020025",
+"start_ref_usfm": "2SA 20:25",
+"end_ref": "10020025",
+"end_ref_usfm": "2SA 20:25"
+},
+{
+"start_ref": "11004003",
+"start_ref_usfm": "1KI 4:3",
+"end_ref": "11004003",
+"end_ref_usfm": "1KI 4:3"
+},
+{
+"start_ref": "12018018",
+"start_ref_usfm": "2KI 18:18",
+"end_ref": "12018018",
+"end_ref_usfm": "2KI 18:18"
+},
+{
+"start_ref": "12018037",
+"start_ref_usfm": "2KI 18:37",
+"end_ref": "12018037",
+"end_ref_usfm": "2KI 18:37"
+},
+{
+"start_ref": "12019002",
+"start_ref_usfm": "2KI 19:2",
+"end_ref": "12019002",
+"end_ref_usfm": "2KI 19:2"
+},
+{
+"start_ref": "12022012",
+"start_ref_usfm": "2KI 22:12",
+"end_ref": "12022012",
+"end_ref_usfm": "2KI 22:12"
+},
+{
+"start_ref": "14034013",
+"start_ref_usfm": "2CH 34:13",
+"end_ref": "14034013",
+"end_ref_usfm": "2CH 34:13"
+},
+{
+"start_ref": "14034015",
+"start_ref_usfm": "2CH 34:15",
+"end_ref": "14034018",
+"end_ref_usfm": "2CH 34:18"
+},
+{
+"start_ref": "15004008",
+"start_ref_usfm": "EZR 4:8",
+"end_ref": "15004009",
+"end_ref_usfm": "EZR 4:9"
+},
+{
+"start_ref": "15004017",
+"start_ref_usfm": "EZR 4:17",
+"end_ref": "15004017",
+"end_ref_usfm": "EZR 4:17"
+},
+{
+"start_ref": "15004023",
+"start_ref_usfm": "EZR 4:23",
+"end_ref": "15004023",
+"end_ref_usfm": "EZR 4:23"
+},
+{
+"start_ref": "17003012",
+"start_ref_usfm": "EST 3:12",
+"end_ref": "17003012",
+"end_ref_usfm": "EST 3:12"
+},
+{
+"start_ref": "17008009",
+"start_ref_usfm": "EST 8:9",
+"end_ref": "17008009",
+"end_ref_usfm": "EST 8:9"
+},
+{
+"start_ref": "24036010",
+"start_ref_usfm": "JER 36:10",
+"end_ref": "24036010",
+"end_ref_usfm": "JER 36:10"
+},
+{
+"start_ref": "12012010",
+"start_ref_usfm": "2KI 12:10",
+"end_ref": "12012012",
+"end_ref_usfm": "2KI 12:12"
+},
+{
+"start_ref": "14024011",
+"start_ref_usfm": "2CH 24:11",
+"end_ref": "14024011",
+"end_ref_usfm": "2CH 24:11"
+},
+{
+"start_ref": "12025019",
+"start_ref_usfm": "2KI 25:19",
+"end_ref": "12025019",
+"end_ref_usfm": "2KI 25:19"
+},
+{
+"start_ref": "24052025",
+"start_ref_usfm": "JER 52:25",
+"end_ref": "24052025",
+"end_ref_usfm": "JER 52:25"
+},
+{
+"start_ref": "14026011",
+"start_ref_usfm": "2CH 26:11",
+"end_ref": "14026011",
+"end_ref_usfm": "2CH 26:11"
+},
+{
+"start_ref": "45016022",
+"start_ref_usfm": "ROM 16:22",
+"end_ref": "45016022",
+"end_ref_usfm": "ROM 16:22"
+},
+{
+"start_ref": "60005012",
+"start_ref_usfm": "1PE 5:12",
+"end_ref": "60005012",
+"end_ref_usfm": "1PE 5:12"
+}
+],
+"resource": [
+{
+"reference_id": "4065",
+"content_id": "4065",
+"resource_code": "DictionaryBibleThemes",
+"label": "4065: orderliness",
+"language": "eng"
+},
+{
+"reference_id": "5266",
+"content_id": "5266",
+"resource_code": "DictionaryBibleThemes",
+"label": "5266: conscription",
+"language": "eng"
+},
+{
+"reference_id": "5391",
+"content_id": "5391",
+"resource_code": "DictionaryBibleThemes",
+"label": "5391: letters",
+"language": "eng"
+},
+{
+"reference_id": "5393",
+"content_id": "5393",
+"resource_code": "DictionaryBibleThemes",
+"label": "5393: literacy",
+"language": "eng"
+},
+{
+"reference_id": "5439",
+"content_id": "5439",
+"resource_code": "DictionaryBibleThemes",
+"label": "5439: pen",
+"language": "eng"
+},
+{
+"reference_id": "5514",
+"content_id": "5514",
+"resource_code": "DictionaryBibleThemes",
+"label": "5514: scribes",
+"language": "eng"
+},
+{
+"reference_id": "5638",
+"content_id": "5638",
+"resource_code": "DictionaryBibleThemes",
+"label": "5638: writing",
+"language": "eng"
+},
+{
+"reference_id": "7912",
+"content_id": "7912",
+"resource_code": "DictionaryBibleThemes",
+"label": "7912: collections",
+"language": "eng"
+}
+]
+}
+}
+]

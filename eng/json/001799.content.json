@@ -1,0 +1,172 @@
+[
+{
+"content_id": "7368",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7368: grain offering",
+"media_type": "Text",
+"index_reference": "7368: grain offering",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An offering that was usually offered as an accompaniment to animal sacrifices, but in special circumstances was presented alone. It could be cooked in various ways or presented uncooked. The offering could be made for a variety of purposes, depending on the sacrifice it accompanied.</p>\n<h2>The Hebrew word for <code>grain offering'' can also mean simply</code>gift''</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Gen4:4\">GEN 4:4</a>, <a href=\"https://ref.ly/Gen32:13\">GEN 32:13</a>; <a href=\"https://ref.ly/1Sam2:17\">1SA 2:17</a>; <a href=\"https://ref.ly/1Kgs4:21\">1KI 4:21</a>; <a href=\"https://ref.ly/Mark7:11\">MRK 7:11</a></p>\n<h2>The ingredients of the grain offering</h2>\n<h3>Flour, oil and incense</h3>\n<p><strong><a href=\"https://ref.ly/Lev2:1-Lev2:2\">LEV 2:1–2:2</a></strong></p>\n<h3>Salt</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Lev2:13\">LEV 2:13</a> <em>Salt, which prevented corruption, was offered with all the offerings.</em></p>\n<h3>No yeast or honey</h3>\n<p><a href=\"https://ref.ly/Lev2:11\">LEV 2:11</a></p>\n<h3>Roasted ears of corn</h3>\n<p><a href=\"https://ref.ly/Lev2:14-Lev2:16\">LEV 2:14–2:16</a></p>\n<h2>The preparation of the grain offering</h2>\n<p><a href=\"https://ref.ly/Lev2:4\">LEV 2:4</a> <em>oven-baked like bread</em>; ; <a href=\"https://ref.ly/Lev2:5-Lev2:6\">LEV 2:5–2:6</a> <em>on a griddle or in a pan</em></p>\n<h2>The presentation of the grain offering</h2>\n<h3>By fire</h3>\n<p><strong><a href=\"https://ref.ly/Lev2:2\">LEV 2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev2:3\">LEV 2:3</a> <em>It might be eaten, but only by the priests and in the sanctuary.</em></p>\n<h3>Accompanying vow fulfilment or freewill offerings</h3>\n<p><a href=\"https://ref.ly/Num15:1-Num15:10\">NUM 15:1–15:10</a></p>\n<h3>With an animal sacrifice</h3>\n<p><strong><a href=\"https://ref.ly/Num15:6\">NUM 15:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num15:8-Num15:9\">NUM 15:8–15:9</a> <em>the larger the animal, the larger the grain offering</em></p>\n<h3>With the two daily offerings</h3>\n<p><a href=\"https://ref.ly/Exod29:38-Exod29:41\">EXO 29:38–29:41</a></p>\n<h3>Circumstances under which the grain offering was presented alone</h3>\n<p><a href=\"https://ref.ly/Lev6:19-Lev6:23\">LEV 6:19–6:23</a> <em>when a priest was consecrated</em>; <a href=\"https://ref.ly/Num5:15\">NUM 5:15</a>, <a href=\"https://ref.ly/Num5:25\">NUM 5:25</a></p>\n<h2>The character of the grain offering</h2>\n<h3>It is most holy</h3>\n<p><strong><a href=\"https://ref.ly/Lev6:17\">LEV 6:17</a></strong></p>\n<h3>It is an aroma pleasing to the LORD</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Lev2:2\">LEV 2:2</a>, <a href=\"https://ref.ly/Lev2:9\">LEV 2:9</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01004004",
+"start_ref_usfm": "GEN 4:4",
+"end_ref": "01004004",
+"end_ref_usfm": "GEN 4:4"
+},
+{
+"start_ref": "01032013",
+"start_ref_usfm": "GEN 32:13",
+"end_ref": "01032013",
+"end_ref_usfm": "GEN 32:13"
+},
+{
+"start_ref": "09002017",
+"start_ref_usfm": "1SA 2:17",
+"end_ref": "09002017",
+"end_ref_usfm": "1SA 2:17"
+},
+{
+"start_ref": "11004021",
+"start_ref_usfm": "1KI 4:21",
+"end_ref": "11004021",
+"end_ref_usfm": "1KI 4:21"
+},
+{
+"start_ref": "41007011",
+"start_ref_usfm": "MRK 7:11",
+"end_ref": "41007011",
+"end_ref_usfm": "MRK 7:11"
+},
+{
+"start_ref": "03002001",
+"start_ref_usfm": "LEV 2:1",
+"end_ref": "03002002",
+"end_ref_usfm": "LEV 2:2"
+},
+{
+"start_ref": "03002013",
+"start_ref_usfm": "LEV 2:13",
+"end_ref": "03002013",
+"end_ref_usfm": "LEV 2:13"
+},
+{
+"start_ref": "03002011",
+"start_ref_usfm": "LEV 2:11",
+"end_ref": "03002011",
+"end_ref_usfm": "LEV 2:11"
+},
+{
+"start_ref": "03002014",
+"start_ref_usfm": "LEV 2:14",
+"end_ref": "03002016",
+"end_ref_usfm": "LEV 2:16"
+},
+{
+"start_ref": "03002004",
+"start_ref_usfm": "LEV 2:4",
+"end_ref": "03002004",
+"end_ref_usfm": "LEV 2:4"
+},
+{
+"start_ref": "03002005",
+"start_ref_usfm": "LEV 2:5",
+"end_ref": "03002006",
+"end_ref_usfm": "LEV 2:6"
+},
+{
+"start_ref": "03002002",
+"start_ref_usfm": "LEV 2:2",
+"end_ref": "03002002",
+"end_ref_usfm": "LEV 2:2"
+},
+{
+"start_ref": "03002003",
+"start_ref_usfm": "LEV 2:3",
+"end_ref": "03002003",
+"end_ref_usfm": "LEV 2:3"
+},
+{
+"start_ref": "04015001",
+"start_ref_usfm": "NUM 15:1",
+"end_ref": "04015010",
+"end_ref_usfm": "NUM 15:10"
+},
+{
+"start_ref": "04015006",
+"start_ref_usfm": "NUM 15:6",
+"end_ref": "04015006",
+"end_ref_usfm": "NUM 15:6"
+},
+{
+"start_ref": "04015008",
+"start_ref_usfm": "NUM 15:8",
+"end_ref": "04015009",
+"end_ref_usfm": "NUM 15:9"
+},
+{
+"start_ref": "02029038",
+"start_ref_usfm": "EXO 29:38",
+"end_ref": "02029041",
+"end_ref_usfm": "EXO 29:41"
+},
+{
+"start_ref": "03006019",
+"start_ref_usfm": "LEV 6:19",
+"end_ref": "03006023",
+"end_ref_usfm": "LEV 6:23"
+},
+{
+"start_ref": "04005015",
+"start_ref_usfm": "NUM 5:15",
+"end_ref": "04005015",
+"end_ref_usfm": "NUM 5:15"
+},
+{
+"start_ref": "04005025",
+"start_ref_usfm": "NUM 5:25",
+"end_ref": "04005025",
+"end_ref_usfm": "NUM 5:25"
+},
+{
+"start_ref": "03006017",
+"start_ref_usfm": "LEV 6:17",
+"end_ref": "03006017",
+"end_ref_usfm": "LEV 6:17"
+},
+{
+"start_ref": "03002009",
+"start_ref_usfm": "LEV 2:9",
+"end_ref": "03002009",
+"end_ref_usfm": "LEV 2:9"
+}
+],
+"resource": [
+{
+"reference_id": "4826",
+"content_id": "4826",
+"resource_code": "DictionaryBibleThemes",
+"label": "4826: fire",
+"language": "eng"
+},
+{
+"reference_id": "7435",
+"content_id": "7435",
+"resource_code": "DictionaryBibleThemes",
+"label": "7435: sacrifice, in OT",
+"language": "eng"
+},
+{
+"reference_id": "7766",
+"content_id": "7766",
+"resource_code": "DictionaryBibleThemes",
+"label": "7766: priests",
+"language": "eng"
+}
+]
+}
+}
+]

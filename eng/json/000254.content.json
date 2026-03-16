@@ -1,0 +1,231 @@
+[
+{
+"content_id": "3050",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "3050: Holy Spirit, wisdom of",
+"media_type": "Text",
+"index_reference": "3050: holy spirit, wisdom of",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The quality of being discerning and perceptive which is a characteristic of the Holy Spirit. The Holy Spirit is the source of human wisdom.</p>\n<h2>Those who knew and can know the wisdom of the Holy Spirit</h2>\n<h3>Joshua</h3>\n<p><strong><a href=\"https://ref.ly/Deut34:9\">DEU 34:9</a></strong> <em>Either a wise human spirit or the Spirit of God who gives wisdom (NIV footnote).</em></p>\n<h3>The Messiah</h3>\n<p><strong><a href=\"https://ref.ly/Isa11:2\">ISA 11:2</a></strong></p>\n<h3>Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Luke2:40\">LUK 2:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/Col2:9\">COL 2:9</a> <em>“fulness” includes wisdom.</em></p>\n<h3>Christians</h3>\n<p><strong><a href=\"https://ref.ly/Eph1:17\">EPH 1:17</a></strong></p>\n<h2>The Holy Spirit is the source of wisdom</h2>\n<p><strong><a href=\"https://ref.ly/Job32:6-Job32:9\">JOB 32:6–32:9</a></strong>; <strong><a href=\"https://ref.ly/Acts6:9-Acts6:10\">ACT 6:9–6:10</a></strong>; <strong><a href=\"https://ref.ly/1Cor2:12-1Cor2:14\">1CO 2:12–2:14</a></strong> <a href=\"https://ref.ly/1Kgs3:8-1Kgs3:9\">1KI 3:8–3:9</a>, <a href=\"https://ref.ly/1Kgs3:12\">1KI 3:12</a>, <a href=\"https://ref.ly/1Kgs4:29-1Kgs4:34\">1KI 4:29–4:34</a>, <a href=\"https://ref.ly/1Kgs10:1\">1KI 10:1</a>, <a href=\"https://ref.ly/1Kgs10:23-1Kgs10:24\">1KI 10:23–10:24</a>; \n<a href=\"https://ref.ly/Prov2:6\">PRO 2:6</a>; ; <a href=\"https://ref.ly/Dan5:10-Dan5:16\">DAN 5:10–5:16</a> <em>Daniel's wisdom</em>; ; <a href=\"https://ref.ly/Acts6:3\">ACT 6:3</a> <em>the choosing of the Seven</em>; ; <a href=\"https://ref.ly/Acts15:28\">ACT 15:28</a>; ; <a href=\"https://ref.ly/1Cor2:11\">1CO 2:11</a>, <a href=\"https://ref.ly/1Cor12:8\">1CO 12:8</a>; ; <a href=\"https://ref.ly/Col1:9\">COL 1:9</a></p>\n<h2>The Holy Spirit as teacher</h2>\n<p><strong><a href=\"https://ref.ly/John14:26\">JHN 14:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh9:20\">NEH 9:20</a>; <a href=\"https://ref.ly/Matt10:19-Matt10:20\">MAT 10:19–10:20</a> parallels <a href=\"https://ref.ly/Mark13:11\">MRK 13:11</a>, <a href=\"https://ref.ly/Luke12:12\">LUK 12:12</a>; <a href=\"https://ref.ly/1John2:27\">1JN 2:27</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05034009",
+"start_ref_usfm": "DEU 34:9",
+"end_ref": "05034009",
+"end_ref_usfm": "DEU 34:9"
+},
+{
+"start_ref": "23011002",
+"start_ref_usfm": "ISA 11:2",
+"end_ref": "23011002",
+"end_ref_usfm": "ISA 11:2"
+},
+{
+"start_ref": "42002040",
+"start_ref_usfm": "LUK 2:40",
+"end_ref": "42002040",
+"end_ref_usfm": "LUK 2:40"
+},
+{
+"start_ref": "51002009",
+"start_ref_usfm": "COL 2:9",
+"end_ref": "51002009",
+"end_ref_usfm": "COL 2:9"
+},
+{
+"start_ref": "49001017",
+"start_ref_usfm": "EPH 1:17",
+"end_ref": "49001017",
+"end_ref_usfm": "EPH 1:17"
+},
+{
+"start_ref": "18032006",
+"start_ref_usfm": "JOB 32:6",
+"end_ref": "18032009",
+"end_ref_usfm": "JOB 32:9"
+},
+{
+"start_ref": "44006009",
+"start_ref_usfm": "ACT 6:9",
+"end_ref": "44006010",
+"end_ref_usfm": "ACT 6:10"
+},
+{
+"start_ref": "46002012",
+"start_ref_usfm": "1CO 2:12",
+"end_ref": "46002014",
+"end_ref_usfm": "1CO 2:14"
+},
+{
+"start_ref": "11003008",
+"start_ref_usfm": "1KI 3:8",
+"end_ref": "11003009",
+"end_ref_usfm": "1KI 3:9"
+},
+{
+"start_ref": "11003012",
+"start_ref_usfm": "1KI 3:12",
+"end_ref": "11003012",
+"end_ref_usfm": "1KI 3:12"
+},
+{
+"start_ref": "11004029",
+"start_ref_usfm": "1KI 4:29",
+"end_ref": "11004034",
+"end_ref_usfm": "1KI 4:34"
+},
+{
+"start_ref": "11010001",
+"start_ref_usfm": "1KI 10:1",
+"end_ref": "11010001",
+"end_ref_usfm": "1KI 10:1"
+},
+{
+"start_ref": "11010023",
+"start_ref_usfm": "1KI 10:23",
+"end_ref": "11010024",
+"end_ref_usfm": "1KI 10:24"
+},
+{
+"start_ref": "20002006",
+"start_ref_usfm": "PRO 2:6",
+"end_ref": "20002006",
+"end_ref_usfm": "PRO 2:6"
+},
+{
+"start_ref": "27005010",
+"start_ref_usfm": "DAN 5:10",
+"end_ref": "27005016",
+"end_ref_usfm": "DAN 5:16"
+},
+{
+"start_ref": "44006003",
+"start_ref_usfm": "ACT 6:3",
+"end_ref": "44006003",
+"end_ref_usfm": "ACT 6:3"
+},
+{
+"start_ref": "44015028",
+"start_ref_usfm": "ACT 15:28",
+"end_ref": "44015028",
+"end_ref_usfm": "ACT 15:28"
+},
+{
+"start_ref": "46002011",
+"start_ref_usfm": "1CO 2:11",
+"end_ref": "46002011",
+"end_ref_usfm": "1CO 2:11"
+},
+{
+"start_ref": "46012008",
+"start_ref_usfm": "1CO 12:8",
+"end_ref": "46012008",
+"end_ref_usfm": "1CO 12:8"
+},
+{
+"start_ref": "51001009",
+"start_ref_usfm": "COL 1:9",
+"end_ref": "51001009",
+"end_ref_usfm": "COL 1:9"
+},
+{
+"start_ref": "43014026",
+"start_ref_usfm": "JHN 14:26",
+"end_ref": "43014026",
+"end_ref_usfm": "JHN 14:26"
+},
+{
+"start_ref": "16009020",
+"start_ref_usfm": "NEH 9:20",
+"end_ref": "16009020",
+"end_ref_usfm": "NEH 9:20"
+},
+{
+"start_ref": "40010019",
+"start_ref_usfm": "MAT 10:19",
+"end_ref": "40010020",
+"end_ref_usfm": "MAT 10:20"
+},
+{
+"start_ref": "41013011",
+"start_ref_usfm": "MRK 13:11",
+"end_ref": "41013011",
+"end_ref_usfm": "MRK 13:11"
+},
+{
+"start_ref": "42012012",
+"start_ref_usfm": "LUK 12:12",
+"end_ref": "42012012",
+"end_ref_usfm": "LUK 12:12"
+},
+{
+"start_ref": "62002027",
+"start_ref_usfm": "1JN 2:27",
+"end_ref": "62002027",
+"end_ref_usfm": "1JN 2:27"
+}
+],
+"resource": [
+{
+"reference_id": "1180",
+"content_id": "1180",
+"resource_code": "DictionaryBibleThemes",
+"label": "1180: God, wisdom of",
+"language": "eng"
+},
+{
+"reference_id": "2081",
+"content_id": "2081",
+"resource_code": "DictionaryBibleThemes",
+"label": "2081: Jesus Christ, wisdom of",
+"language": "eng"
+},
+{
+"reference_id": "3140",
+"content_id": "3140",
+"resource_code": "DictionaryBibleThemes",
+"label": "3140: Holy Spirit, as teacher",
+"language": "eng"
+},
+{
+"reference_id": "7966",
+"content_id": "7966",
+"resource_code": "DictionaryBibleThemes",
+"label": "7966: spiritual gifts",
+"language": "eng"
+},
+{
+"reference_id": "8226",
+"content_id": "8226",
+"resource_code": "DictionaryBibleThemes",
+"label": "8226: discernment",
+"language": "eng"
+},
+{
+"reference_id": "8281",
+"content_id": "8281",
+"resource_code": "DictionaryBibleThemes",
+"label": "8281: insight",
+"language": "eng"
+},
+{
+"reference_id": "8319",
+"content_id": "8319",
+"resource_code": "DictionaryBibleThemes",
+"label": "8319: perception, spiritual",
+"language": "eng"
+},
+{
+"reference_id": "8361",
+"content_id": "8361",
+"resource_code": "DictionaryBibleThemes",
+"label": "8361: wisdom",
+"language": "eng"
+}
+]
+}
+}
+]

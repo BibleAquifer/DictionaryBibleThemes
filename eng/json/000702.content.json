@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5107",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5107: Paul",
+"media_type": "Text",
+"index_reference": "5107: paul",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The “apostle to the Gentiles”. Converted from Judaism by an encounter with the risen Christ, Paul planted and corresponded with churches through much of the Mediterranean. In his letters, Paul stresses the universality of the gospel, which knows no distinction between Jew and Gentile, and the effects of Christian faith upon life and conduct.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5108",
+"content_id": "5108",
+"resource_code": "DictionaryBibleThemes",
+"label": "5108: Paul, life of",
+"language": "eng"
+},
+{
+"reference_id": "5109",
+"content_id": "5109",
+"resource_code": "DictionaryBibleThemes",
+"label": "5109: Paul, apostle to Gentiles",
+"language": "eng"
+},
+{
+"reference_id": "5110",
+"content_id": "5110",
+"resource_code": "DictionaryBibleThemes",
+"label": "5110: Paul, teaching of",
+"language": "eng"
+}
+]
+}
+}
+]

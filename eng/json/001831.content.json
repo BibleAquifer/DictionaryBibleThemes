@@ -1,0 +1,39 @@
+[
+{
+"content_id": "7428",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7428: Sabbath",
+"media_type": "Text",
+"index_reference": "7428: sabbath",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The day of rest laid down for the people of God. The OT treated the seventh day of the week (Saturday) as the Sabbath, a custom continued in modern Judaism. The Christian church, in recognition of the importance of the resurrection of Jesus Christ, observed a day of rest on the first day of the week (Sunday).</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7429",
+"content_id": "7429",
+"resource_code": "DictionaryBibleThemes",
+"label": "7429: Sabbath, in OT",
+"language": "eng"
+},
+{
+"reference_id": "7430",
+"content_id": "7430",
+"resource_code": "DictionaryBibleThemes",
+"label": "7430: Sabbath, in NT",
+"language": "eng"
+},
+{
+"reference_id": "7431",
+"content_id": "7431",
+"resource_code": "DictionaryBibleThemes",
+"label": "7431: Sabbath, sabbatical year",
+"language": "eng"
+}
+]
+}
+}
+]

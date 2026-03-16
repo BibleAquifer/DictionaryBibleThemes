@@ -1,0 +1,229 @@
+[
+{
+"content_id": "6126",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6126: condemnation, human",
+"media_type": "Text",
+"index_reference": "6126: condemnation, human",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The passing of judgment on others. This is valid when authorised by God, but otherwise it is frequently partial, godless and self-protecting, and therefore unacceptable.</p>\n<h2>Condemnation and the legal process: impartial judgment demanded</h2>\n<p><strong><a href=\"https://ref.ly/Exod23:6-Exod23:8\">EXO 23:6–23:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut1:15-Deut1:17\">DEU 1:15–1:17</a>, <a href=\"https://ref.ly/Deut17:2-Deut17:7\">DEU 17:2–17:7</a>, <a href=\"https://ref.ly/Deut19:15\">DEU 19:15</a>; <a href=\"https://ref.ly/2Chr19:4-2Chr19:7\">2CH 19:4–19:7</a>; <a href=\"https://ref.ly/Prov17:15\">PRO 17:15</a></p>\n<h2>The perversity and injustice of human condemnation</h2>\n<p><strong><a href=\"https://ref.ly/Rom2:1-Rom2:5\">ROM 2:1–2:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam12:1-2Sam12:10\">2SA 12:1–12:10</a>; <a href=\"https://ref.ly/Dan6:1-Dan6:16\">DAN 6:1–6:16</a></p>\n<h2>People's false condemnation of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Acts13:27-Acts13:28\">ACT 13:27–13:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt26:59-Matt26:63\">MAT 26:59–26:63</a> parallel <a href=\"https://ref.ly/Mark14:55-Mark14:61\">MRK 14:55–14:61</a></p>\n<h2>NT warnings against judgment and condemnation</h2>\n<p><strong><a href=\"https://ref.ly/Matt7:1-Matt7:5\">MAT 7:1–7:5</a></strong> parallels <a href=\"https://ref.ly/Luke6:37-Luke6:38\">LUK 6:37–6:38</a>, <a href=\"https://ref.ly/Luke6:41-Luke6:42\">LUK 6:41–6:42</a> <em>See also</em> <a href=\"https://ref.ly/Luke18:9-Luke18:14\">LUK 18:9–18:14</a>; <a href=\"https://ref.ly/John8:3-John8:11\">JHN 8:3–8:11</a>; <a href=\"https://ref.ly/Rom14:1-Rom14:4\">ROM 14:1–14:4</a>, <a href=\"https://ref.ly/Rom14:9-Rom14:13\">ROM 14:9–14:13</a></p>\n<h2>God's protection of his people from false condemnation</h2>\n<p><a href=\"https://ref.ly/Isa50:7-Isa50:9\">ISA 50:7–50:9</a>; ; <a href=\"https://ref.ly/Rom8:31-Rom8:39\">ROM 8:31–8:39</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02023006",
+"start_ref_usfm": "EXO 23:6",
+"end_ref": "02023008",
+"end_ref_usfm": "EXO 23:8"
+},
+{
+"start_ref": "05001015",
+"start_ref_usfm": "DEU 1:15",
+"end_ref": "05001017",
+"end_ref_usfm": "DEU 1:17"
+},
+{
+"start_ref": "05017002",
+"start_ref_usfm": "DEU 17:2",
+"end_ref": "05017007",
+"end_ref_usfm": "DEU 17:7"
+},
+{
+"start_ref": "05019015",
+"start_ref_usfm": "DEU 19:15",
+"end_ref": "05019015",
+"end_ref_usfm": "DEU 19:15"
+},
+{
+"start_ref": "14019004",
+"start_ref_usfm": "2CH 19:4",
+"end_ref": "14019007",
+"end_ref_usfm": "2CH 19:7"
+},
+{
+"start_ref": "20017015",
+"start_ref_usfm": "PRO 17:15",
+"end_ref": "20017015",
+"end_ref_usfm": "PRO 17:15"
+},
+{
+"start_ref": "45002001",
+"start_ref_usfm": "ROM 2:1",
+"end_ref": "45002005",
+"end_ref_usfm": "ROM 2:5"
+},
+{
+"start_ref": "10012001",
+"start_ref_usfm": "2SA 12:1",
+"end_ref": "10012010",
+"end_ref_usfm": "2SA 12:10"
+},
+{
+"start_ref": "27006001",
+"start_ref_usfm": "DAN 6:1",
+"end_ref": "27006016",
+"end_ref_usfm": "DAN 6:16"
+},
+{
+"start_ref": "44013027",
+"start_ref_usfm": "ACT 13:27",
+"end_ref": "44013028",
+"end_ref_usfm": "ACT 13:28"
+},
+{
+"start_ref": "40026059",
+"start_ref_usfm": "MAT 26:59",
+"end_ref": "40026063",
+"end_ref_usfm": "MAT 26:63"
+},
+{
+"start_ref": "41014055",
+"start_ref_usfm": "MRK 14:55",
+"end_ref": "41014061",
+"end_ref_usfm": "MRK 14:61"
+},
+{
+"start_ref": "40007001",
+"start_ref_usfm": "MAT 7:1",
+"end_ref": "40007005",
+"end_ref_usfm": "MAT 7:5"
+},
+{
+"start_ref": "42006037",
+"start_ref_usfm": "LUK 6:37",
+"end_ref": "42006038",
+"end_ref_usfm": "LUK 6:38"
+},
+{
+"start_ref": "42006041",
+"start_ref_usfm": "LUK 6:41",
+"end_ref": "42006042",
+"end_ref_usfm": "LUK 6:42"
+},
+{
+"start_ref": "42018009",
+"start_ref_usfm": "LUK 18:9",
+"end_ref": "42018014",
+"end_ref_usfm": "LUK 18:14"
+},
+{
+"start_ref": "43008003",
+"start_ref_usfm": "JHN 8:3",
+"end_ref": "43008011",
+"end_ref_usfm": "JHN 8:11"
+},
+{
+"start_ref": "45014001",
+"start_ref_usfm": "ROM 14:1",
+"end_ref": "45014004",
+"end_ref_usfm": "ROM 14:4"
+},
+{
+"start_ref": "45014009",
+"start_ref_usfm": "ROM 14:9",
+"end_ref": "45014013",
+"end_ref_usfm": "ROM 14:13"
+},
+{
+"start_ref": "23050007",
+"start_ref_usfm": "ISA 50:7",
+"end_ref": "23050009",
+"end_ref_usfm": "ISA 50:9"
+},
+{
+"start_ref": "45008031",
+"start_ref_usfm": "ROM 8:31",
+"end_ref": "45008039",
+"end_ref_usfm": "ROM 8:39"
+}
+],
+"resource": [
+{
+"reference_id": "2027",
+"content_id": "2027",
+"resource_code": "DictionaryBibleThemes",
+"label": "2027: Jesus Christ, grace and mercy of",
+"language": "eng"
+},
+{
+"reference_id": "2585",
+"content_id": "2585",
+"resource_code": "DictionaryBibleThemes",
+"label": "2585: Jesus Christ, trial of",
+"language": "eng"
+},
+{
+"reference_id": "5347",
+"content_id": "5347",
+"resource_code": "DictionaryBibleThemes",
+"label": "5347: injustice",
+"language": "eng"
+},
+{
+"reference_id": "5359",
+"content_id": "5359",
+"resource_code": "DictionaryBibleThemes",
+"label": "5359: justice",
+"language": "eng"
+},
+{
+"reference_id": "5375",
+"content_id": "5375",
+"resource_code": "DictionaryBibleThemes",
+"label": "5375: law",
+"language": "eng"
+},
+{
+"reference_id": "5820",
+"content_id": "5820",
+"resource_code": "DictionaryBibleThemes",
+"label": "5820: criticism",
+"language": "eng"
+},
+{
+"reference_id": "5897",
+"content_id": "5897",
+"resource_code": "DictionaryBibleThemes",
+"label": "5897: judging others",
+"language": "eng"
+},
+{
+"reference_id": "6652",
+"content_id": "6652",
+"resource_code": "DictionaryBibleThemes",
+"label": "6652: forgiveness",
+"language": "eng"
+},
+{
+"reference_id": "6676",
+"content_id": "6676",
+"resource_code": "DictionaryBibleThemes",
+"label": "6676: justification",
+"language": "eng"
+},
+{
+"reference_id": "6686",
+"content_id": "6686",
+"resource_code": "DictionaryBibleThemes",
+"label": "6686: mercy",
+"language": "eng"
+},
+{
+"reference_id": "8767",
+"content_id": "8767",
+"resource_code": "DictionaryBibleThemes",
+"label": "8767: hypocrisy",
+"language": "eng"
+},
+{
+"reference_id": "8823",
+"content_id": "8823",
+"resource_code": "DictionaryBibleThemes",
+"label": "8823: self-righteousness",
+"language": "eng"
+}
+]
+}
+}
+]

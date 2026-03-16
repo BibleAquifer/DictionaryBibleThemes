@@ -1,0 +1,247 @@
+[
+{
+"content_id": "4275",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4275: Sodom and Gomorrah",
+"media_type": "Text",
+"index_reference": "4275: sodom and gomorrah",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Two neighbouring cities, probably located at the eastern or south-eastern end of the Dead Sea, noted for their sinfulness. God's response in wrath and judgment serves as a warning to subsequent generations.</p>\n<h2>Sodom and Gomorrah's location</h2>\n<p><a href=\"https://ref.ly/Gen10:19\">GEN 10:19</a>, <a href=\"https://ref.ly/Gen13:10-Gen13:12\">GEN 13:10–13:12</a></p>\n<h2>Sodom became Lot's home</h2>\n<p><a href=\"https://ref.ly/Gen13:10-Gen13:12\">GEN 13:10–13:12</a></p>\n<h2>Sodom and Gomorrah at war</h2>\n<h3>Sodom and Gomorrah, with other cities of the plain, defeated by the alliance of four kings</h3>\n<p><a href=\"https://ref.ly/Gen14:1-Gen14:12\">GEN 14:1–14:12</a></p>\n<h3>Abram rescues Lot and is honoured by the king of Sodom and his allies</h3>\n<p><a href=\"https://ref.ly/Gen14:13-Gen14:24\">GEN 14:13–14:24</a></p>\n<h2>The wickedness of Sodom and Gomorrah</h2>\n<p><strong><a href=\"https://ref.ly/Gen13:13\">GEN 13:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:20-Gen18:21\">GEN 18:20–18:21</a>, <a href=\"https://ref.ly/Gen19:1-Gen19:9\">GEN 19:1–19:9</a></p>\n<h2>Abraham pleads for the righteous in Sodom and Gomorrah</h2>\n<p><a href=\"https://ref.ly/Gen18:16-Gen18:32\">GEN 18:16–18:32</a></p>\n<h2>God's judgment against Sodom and Gomorrah</h2>\n<p><strong><a href=\"https://ref.ly/Gen19:13\">GEN 19:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen19:23-Gen19:29\">GEN 19:23–19:29</a>; <a href=\"https://ref.ly/Deut29:23\">DEU 29:23</a>; <a href=\"https://ref.ly/Luke17:29\">LUK 17:29</a></p>\n<h2>The story of Sodom and Gomorrah becomes a picture of human sinfulness and divine judgment</h2>\n<p><strong><a href=\"https://ref.ly/Jude1:7\">JUD 1:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa3:9\">ISA 3:9</a>, <a href=\"https://ref.ly/Isa13:19\">ISA 13:19</a>; <a href=\"https://ref.ly/Jer23:14\">JER 23:14</a>; <a href=\"https://ref.ly/Lam4:6\">LAM 4:6</a>; <a href=\"https://ref.ly/Ezek16:44-Ezek16:58\">EZK 16:44–16:58</a>; <a href=\"https://ref.ly/Amos4:11\">AMO 4:11</a>; <a href=\"https://ref.ly/Matt10:15\">MAT 10:15</a> parallel <a href=\"https://ref.ly/Luke10:12\">LUK 10:12</a>; <a href=\"https://ref.ly/Matt11:23-Matt11:24\">MAT 11:23–11:24</a>; <a href=\"https://ref.ly/Luke17:28-Luke17:30\">LUK 17:28–17:30</a>; <a href=\"https://ref.ly/2Pet2:6-2Pet2:9\">2PE 2:6–2:9</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01010019",
+"start_ref_usfm": "GEN 10:19",
+"end_ref": "01010019",
+"end_ref_usfm": "GEN 10:19"
+},
+{
+"start_ref": "01013010",
+"start_ref_usfm": "GEN 13:10",
+"end_ref": "01013012",
+"end_ref_usfm": "GEN 13:12"
+},
+{
+"start_ref": "01014001",
+"start_ref_usfm": "GEN 14:1",
+"end_ref": "01014012",
+"end_ref_usfm": "GEN 14:12"
+},
+{
+"start_ref": "01014013",
+"start_ref_usfm": "GEN 14:13",
+"end_ref": "01014024",
+"end_ref_usfm": "GEN 14:24"
+},
+{
+"start_ref": "01013013",
+"start_ref_usfm": "GEN 13:13",
+"end_ref": "01013013",
+"end_ref_usfm": "GEN 13:13"
+},
+{
+"start_ref": "01018020",
+"start_ref_usfm": "GEN 18:20",
+"end_ref": "01018021",
+"end_ref_usfm": "GEN 18:21"
+},
+{
+"start_ref": "01019001",
+"start_ref_usfm": "GEN 19:1",
+"end_ref": "01019009",
+"end_ref_usfm": "GEN 19:9"
+},
+{
+"start_ref": "01018016",
+"start_ref_usfm": "GEN 18:16",
+"end_ref": "01018032",
+"end_ref_usfm": "GEN 18:32"
+},
+{
+"start_ref": "01019013",
+"start_ref_usfm": "GEN 19:13",
+"end_ref": "01019013",
+"end_ref_usfm": "GEN 19:13"
+},
+{
+"start_ref": "01019023",
+"start_ref_usfm": "GEN 19:23",
+"end_ref": "01019029",
+"end_ref_usfm": "GEN 19:29"
+},
+{
+"start_ref": "05029023",
+"start_ref_usfm": "DEU 29:23",
+"end_ref": "05029023",
+"end_ref_usfm": "DEU 29:23"
+},
+{
+"start_ref": "42017029",
+"start_ref_usfm": "LUK 17:29",
+"end_ref": "42017029",
+"end_ref_usfm": "LUK 17:29"
+},
+{
+"start_ref": "65001007",
+"start_ref_usfm": "JUD 1:7",
+"end_ref": "65001007",
+"end_ref_usfm": "JUD 1:7"
+},
+{
+"start_ref": "23003009",
+"start_ref_usfm": "ISA 3:9",
+"end_ref": "23003009",
+"end_ref_usfm": "ISA 3:9"
+},
+{
+"start_ref": "23013019",
+"start_ref_usfm": "ISA 13:19",
+"end_ref": "23013019",
+"end_ref_usfm": "ISA 13:19"
+},
+{
+"start_ref": "24023014",
+"start_ref_usfm": "JER 23:14",
+"end_ref": "24023014",
+"end_ref_usfm": "JER 23:14"
+},
+{
+"start_ref": "25004006",
+"start_ref_usfm": "LAM 4:6",
+"end_ref": "25004006",
+"end_ref_usfm": "LAM 4:6"
+},
+{
+"start_ref": "26016044",
+"start_ref_usfm": "EZK 16:44",
+"end_ref": "26016058",
+"end_ref_usfm": "EZK 16:58"
+},
+{
+"start_ref": "30004011",
+"start_ref_usfm": "AMO 4:11",
+"end_ref": "30004011",
+"end_ref_usfm": "AMO 4:11"
+},
+{
+"start_ref": "40010015",
+"start_ref_usfm": "MAT 10:15",
+"end_ref": "40010015",
+"end_ref_usfm": "MAT 10:15"
+},
+{
+"start_ref": "42010012",
+"start_ref_usfm": "LUK 10:12",
+"end_ref": "42010012",
+"end_ref_usfm": "LUK 10:12"
+},
+{
+"start_ref": "40011023",
+"start_ref_usfm": "MAT 11:23",
+"end_ref": "40011024",
+"end_ref_usfm": "MAT 11:24"
+},
+{
+"start_ref": "42017028",
+"start_ref_usfm": "LUK 17:28",
+"end_ref": "42017030",
+"end_ref_usfm": "LUK 17:30"
+},
+{
+"start_ref": "61002006",
+"start_ref_usfm": "2PE 2:6",
+"end_ref": "61002009",
+"end_ref_usfm": "2PE 2:9"
+}
+],
+"resource": [
+{
+"reference_id": "1025",
+"content_id": "1025",
+"resource_code": "DictionaryBibleThemes",
+"label": "1025: God, anger of",
+"language": "eng"
+},
+{
+"reference_id": "4224",
+"content_id": "4224",
+"resource_code": "DictionaryBibleThemes",
+"label": "4224: cities of the plain",
+"language": "eng"
+},
+{
+"reference_id": "4369",
+"content_id": "4369",
+"resource_code": "DictionaryBibleThemes",
+"label": "4369: sulphur",
+"language": "eng"
+},
+{
+"reference_id": "4828",
+"content_id": "4828",
+"resource_code": "DictionaryBibleThemes",
+"label": "4828: hail",
+"language": "eng"
+},
+{
+"reference_id": "4848",
+"content_id": "4848",
+"resource_code": "DictionaryBibleThemes",
+"label": "4848: smoke",
+"language": "eng"
+},
+{
+"reference_id": "5295",
+"content_id": "5295",
+"resource_code": "DictionaryBibleThemes",
+"label": "5295: destruction",
+"language": "eng"
+},
+{
+"reference_id": "5484",
+"content_id": "5484",
+"resource_code": "DictionaryBibleThemes",
+"label": "5484: punishment, by God",
+"language": "eng"
+},
+{
+"reference_id": "6026",
+"content_id": "6026",
+"resource_code": "DictionaryBibleThemes",
+"label": "6026: sin, God's judgment on",
+"language": "eng"
+},
+{
+"reference_id": "6125",
+"content_id": "6125",
+"resource_code": "DictionaryBibleThemes",
+"label": "6125: condemnation, divine",
+"language": "eng"
+},
+{
+"reference_id": "6236",
+"content_id": "6236",
+"resource_code": "DictionaryBibleThemes",
+"label": "6236: sexual sin",
+"language": "eng"
+},
+{
+"reference_id": "6738",
+"content_id": "6738",
+"resource_code": "DictionaryBibleThemes",
+"label": "6738: rescue",
+"language": "eng"
+},
+{
+"reference_id": "9210",
+"content_id": "9210",
+"resource_code": "DictionaryBibleThemes",
+"label": "9210: judgment, God's",
+"language": "eng"
+}
+]
+}
+}
+]

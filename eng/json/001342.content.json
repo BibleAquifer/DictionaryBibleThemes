@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5820",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5820: criticism",
+"media_type": "Text",
+"index_reference": "5820: criticism",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The judgment or evaluation of others. The word often has negative associations, implying a harsh or disapproving estimate of people or their actions.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5821",
+"content_id": "5821",
+"resource_code": "DictionaryBibleThemes",
+"label": "5821: criticism, amongst believers",
+"language": "eng"
+},
+{
+"reference_id": "5822",
+"content_id": "5822",
+"resource_code": "DictionaryBibleThemes",
+"label": "5822: criticism, against believers",
+"language": "eng"
+}
+]
+}
+}
+]

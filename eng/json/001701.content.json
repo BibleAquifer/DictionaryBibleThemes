@@ -1,0 +1,74 @@
+[
+{
+"content_id": "7020",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7020: church, the",
+"media_type": "Text",
+"index_reference": "7020: church, the",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The community of faithful believers, of whom Jesus Christ is the head, called out from the world to serve God down the ages. Scripture emphasises that the church is the body of Christ whose members are intended to be filled with the Holy Spirit. Scriptural understanding of the church is corporate, rather than solitary or individual.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7021",
+"content_id": "7021",
+"resource_code": "DictionaryBibleThemes",
+"label": "7021: church, OT anticipations of",
+"language": "eng"
+},
+{
+"reference_id": "7022",
+"content_id": "7022",
+"resource_code": "DictionaryBibleThemes",
+"label": "7022: church, and Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "7023",
+"content_id": "7023",
+"resource_code": "DictionaryBibleThemes",
+"label": "7023: church, and Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "7024",
+"content_id": "7024",
+"resource_code": "DictionaryBibleThemes",
+"label": "7024: church, nature and foundations of",
+"language": "eng"
+},
+{
+"reference_id": "7025",
+"content_id": "7025",
+"resource_code": "DictionaryBibleThemes",
+"label": "7025: church, unity and fellowship of",
+"language": "eng"
+},
+{
+"reference_id": "7026",
+"content_id": "7026",
+"resource_code": "DictionaryBibleThemes",
+"label": "7026: church, leadership of",
+"language": "eng"
+},
+{
+"reference_id": "7027",
+"content_id": "7027",
+"resource_code": "DictionaryBibleThemes",
+"label": "7027: church, purpose and mission of",
+"language": "eng"
+},
+{
+"reference_id": "7028",
+"content_id": "7028",
+"resource_code": "DictionaryBibleThemes",
+"label": "7028: church, life of",
+"language": "eng"
+}
+]
+}
+}
+]

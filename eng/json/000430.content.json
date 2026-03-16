@@ -1,0 +1,121 @@
+[
+{
+"content_id": "4432",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4432: dough",
+"media_type": "Text",
+"index_reference": "4432: dough",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A mixture of flour and water to which yeast is added and which is then baked to produce bread. Scripture makes several comparisons with it to teach spiritual lessons.</p>\n<h2>Dough and the process of making bread</h2>\n<h3>Yeast was normally added and the dough left to rise</h3>\n<p><strong><a href=\"https://ref.ly/Exod12:33-Exod12:34\">EXO 12:33–12:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:39\">EXO 12:39</a></p>\n<h3>Dough was kneaded before baking</h3>\n<p><strong><a href=\"https://ref.ly/Jer7:18\">JER 7:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam13:8\">2SA 13:8</a>; <a href=\"https://ref.ly/Hos7:4\">HOS 7:4</a></p>\n<h2>Spiritual lessons from comparisons with dough</h2>\n<h3>The dough offered as firstfruits</h3>\n<p><strong><a href=\"https://ref.ly/Rom11:13-Rom11:16\">ROM 11:13–11:16</a></strong></p>\n<h3>The influence of yeast on the dough</h3>\n<p><strong><a href=\"https://ref.ly/Matt13:33\">MAT 13:33</a></strong> parallel <a href=\"https://ref.ly/Luke13:20-Luke13:21\">LUK 13:20–13:21</a> <em>See also</em> <a href=\"https://ref.ly/1Cor5:1-1Cor5:8\">1CO 5:1–5:8</a>; <a href=\"https://ref.ly/Gal5:1-Gal5:10\">GAL 5:1–5:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012033",
+"start_ref_usfm": "EXO 12:33",
+"end_ref": "02012034",
+"end_ref_usfm": "EXO 12:34"
+},
+{
+"start_ref": "02012039",
+"start_ref_usfm": "EXO 12:39",
+"end_ref": "02012039",
+"end_ref_usfm": "EXO 12:39"
+},
+{
+"start_ref": "24007018",
+"start_ref_usfm": "JER 7:18",
+"end_ref": "24007018",
+"end_ref_usfm": "JER 7:18"
+},
+{
+"start_ref": "10013008",
+"start_ref_usfm": "2SA 13:8",
+"end_ref": "10013008",
+"end_ref_usfm": "2SA 13:8"
+},
+{
+"start_ref": "28007004",
+"start_ref_usfm": "HOS 7:4",
+"end_ref": "28007004",
+"end_ref_usfm": "HOS 7:4"
+},
+{
+"start_ref": "45011013",
+"start_ref_usfm": "ROM 11:13",
+"end_ref": "45011016",
+"end_ref_usfm": "ROM 11:16"
+},
+{
+"start_ref": "40013033",
+"start_ref_usfm": "MAT 13:33",
+"end_ref": "40013033",
+"end_ref_usfm": "MAT 13:33"
+},
+{
+"start_ref": "42013020",
+"start_ref_usfm": "LUK 13:20",
+"end_ref": "42013021",
+"end_ref_usfm": "LUK 13:21"
+},
+{
+"start_ref": "46005001",
+"start_ref_usfm": "1CO 5:1",
+"end_ref": "46005008",
+"end_ref_usfm": "1CO 5:8"
+},
+{
+"start_ref": "48005001",
+"start_ref_usfm": "GAL 5:1",
+"end_ref": "48005010",
+"end_ref_usfm": "GAL 5:10"
+}
+],
+"resource": [
+{
+"reference_id": "2375",
+"content_id": "2375",
+"resource_code": "DictionaryBibleThemes",
+"label": "2375: kingdom of God",
+"language": "eng"
+},
+{
+"reference_id": "4418",
+"content_id": "4418",
+"resource_code": "DictionaryBibleThemes",
+"label": "4418: bread",
+"language": "eng"
+},
+{
+"reference_id": "4554",
+"content_id": "4554",
+"resource_code": "DictionaryBibleThemes",
+"label": "4554: yeast",
+"language": "eng"
+},
+{
+"reference_id": "5222",
+"content_id": "5222",
+"resource_code": "DictionaryBibleThemes",
+"label": "5222: baking",
+"language": "eng"
+},
+{
+"reference_id": "5435",
+"content_id": "5435",
+"resource_code": "DictionaryBibleThemes",
+"label": "5435: ovens",
+"language": "eng"
+},
+{
+"reference_id": "7222",
+"content_id": "7222",
+"resource_code": "DictionaryBibleThemes",
+"label": "7222: exodus, events of",
+"language": "eng"
+}
+]
+}
+}
+]

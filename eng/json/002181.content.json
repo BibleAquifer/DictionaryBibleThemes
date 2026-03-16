@@ -1,0 +1,32 @@
+[
+{
+"content_id": "8357",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8357: weakness",
+"media_type": "Text",
+"index_reference": "8357: weakness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A lack of strength, whether physical or spiritual. Scripture attributes weakness to human sin and foolishness and urges believers to find their true strength in God alone.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8358",
+"content_id": "8358",
+"resource_code": "DictionaryBibleThemes",
+"label": "8358: weakness, physical",
+"language": "eng"
+},
+{
+"reference_id": "8359",
+"content_id": "8359",
+"resource_code": "DictionaryBibleThemes",
+"label": "8359: weakness, spiritual",
+"language": "eng"
+}
+]
+}
+}
+]

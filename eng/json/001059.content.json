@@ -1,0 +1,82 @@
+[
+{
+"content_id": "5488",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5488: quivers",
+"media_type": "Text",
+"index_reference": "5488: quivers",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A case for carrying arrows on hunting expeditions or in battle.</p>\n<h2>Quivers used on hunting expeditions</h2>\n<p><a href=\"https://ref.ly/Gen27:3\">GEN 27:3</a></p>\n<h2>Loaded quivers taken into battle</h2>\n<p><a href=\"https://ref.ly/Job39:23\">JOB 39:23</a>; ; <a href=\"https://ref.ly/Isa22:6\">ISA 22:6</a></p>\n<h2>Quivers referred to figuratively</h2>\n<h3>To depict the deadly fire-power of an enemy</h3>\n<p><a href=\"https://ref.ly/Jer5:16\">JER 5:16</a></p>\n<h3>As a symbol of a man's many sons</h3>\n<p><a href=\"https://ref.ly/Ps127:5\">PSA 127:5</a></p>\n<h3>To depict the LORD's concealment of his servant</h3>\n<p><a href=\"https://ref.ly/Isa49:2\">ISA 49:2</a></p>\n<h3>As an instrument of the LORD's discipline</h3>\n<p><a href=\"https://ref.ly/Lam3:13\">LAM 3:13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01027003",
+"start_ref_usfm": "GEN 27:3",
+"end_ref": "01027003",
+"end_ref_usfm": "GEN 27:3"
+},
+{
+"start_ref": "18039023",
+"start_ref_usfm": "JOB 39:23",
+"end_ref": "18039023",
+"end_ref_usfm": "JOB 39:23"
+},
+{
+"start_ref": "23022006",
+"start_ref_usfm": "ISA 22:6",
+"end_ref": "23022006",
+"end_ref_usfm": "ISA 22:6"
+},
+{
+"start_ref": "24005016",
+"start_ref_usfm": "JER 5:16",
+"end_ref": "24005016",
+"end_ref_usfm": "JER 5:16"
+},
+{
+"start_ref": "19127005",
+"start_ref_usfm": "PSA 127:5",
+"end_ref": "19127005",
+"end_ref_usfm": "PSA 127:5"
+},
+{
+"start_ref": "23049002",
+"start_ref_usfm": "ISA 49:2",
+"end_ref": "23049002",
+"end_ref_usfm": "ISA 49:2"
+},
+{
+"start_ref": "25003013",
+"start_ref_usfm": "LAM 3:13",
+"end_ref": "25003013",
+"end_ref_usfm": "LAM 3:13"
+}
+],
+"resource": [
+{
+"reference_id": "5206",
+"content_id": "5206",
+"resource_code": "DictionaryBibleThemes",
+"label": "5206: archers",
+"language": "eng"
+},
+{
+"reference_id": "5210",
+"content_id": "5210",
+"resource_code": "DictionaryBibleThemes",
+"label": "5210: arrows",
+"language": "eng"
+},
+{
+"reference_id": "5236",
+"content_id": "5236",
+"resource_code": "DictionaryBibleThemes",
+"label": "5236: bow and arrow",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+"content_id": "7221",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7221: exodus, the",
+"media_type": "Text",
+"index_reference": "7221: exodus, the",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The escape of the Israelites from slavery in Egypt under Moses' leadership. Despite their great deliverance, hardness of heart and disobedience towards God persisted. Divine deliverance in the exodus foreshadowed the act of salvation through Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7222",
+"content_id": "7222",
+"resource_code": "DictionaryBibleThemes",
+"label": "7222: exodus, events of",
+"language": "eng"
+},
+{
+"reference_id": "7223",
+"content_id": "7223",
+"resource_code": "DictionaryBibleThemes",
+"label": "7223: exodus, spiritual significance of",
+"language": "eng"
+}
+]
+}
+}
+]

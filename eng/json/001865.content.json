@@ -1,0 +1,116 @@
+[
+{
+"content_id": "7500",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7500: Jews and Gentiles",
+"media_type": "Text",
+"index_reference": "7500: jews and gentiles",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"7505\" data-resourcetype=\"DictionaryOfBibleThemes\">7505: Jews, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7510\" data-resourcetype=\"DictionaryOfBibleThemes\">7510: Gentiles</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7515\" data-resourcetype=\"DictionaryOfBibleThemes\">7515: anti-semitism</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7520\" data-resourcetype=\"DictionaryOfBibleThemes\">7520: dispersion, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7525\" data-resourcetype=\"DictionaryOfBibleThemes\">7525: exclusiveness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7530\" data-resourcetype=\"DictionaryOfBibleThemes\">7530: foreigners</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7535\" data-resourcetype=\"DictionaryOfBibleThemes\">7535: Greeks</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7540\" data-resourcetype=\"DictionaryOfBibleThemes\">7540: Judaism</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7545\" data-resourcetype=\"DictionaryOfBibleThemes\">7545: outsiders</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7550\" data-resourcetype=\"DictionaryOfBibleThemes\">7550: Pharisees</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7555\" data-resourcetype=\"DictionaryOfBibleThemes\">7555: Sadducees</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7560\" data-resourcetype=\"DictionaryOfBibleThemes\">7560: Samaritans, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7565\" data-resourcetype=\"DictionaryOfBibleThemes\">7565: Sanhedrin</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7570\" data-resourcetype=\"DictionaryOfBibleThemes\">7570: sects</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "7505",
+"content_id": "7505",
+"resource_code": "DictionaryBibleThemes",
+"label": "7505: Jews, the",
+"language": "eng"
+},
+{
+"reference_id": "7510",
+"content_id": "7510",
+"resource_code": "DictionaryBibleThemes",
+"label": "7510: Gentiles",
+"language": "eng"
+},
+{
+"reference_id": "7515",
+"content_id": "7515",
+"resource_code": "DictionaryBibleThemes",
+"label": "7515: anti-semitism",
+"language": "eng"
+},
+{
+"reference_id": "7520",
+"content_id": "7520",
+"resource_code": "DictionaryBibleThemes",
+"label": "7520: dispersion, the",
+"language": "eng"
+},
+{
+"reference_id": "7525",
+"content_id": "7525",
+"resource_code": "DictionaryBibleThemes",
+"label": "7525: exclusiveness",
+"language": "eng"
+},
+{
+"reference_id": "7530",
+"content_id": "7530",
+"resource_code": "DictionaryBibleThemes",
+"label": "7530: foreigners",
+"language": "eng"
+},
+{
+"reference_id": "7535",
+"content_id": "7535",
+"resource_code": "DictionaryBibleThemes",
+"label": "7535: Greeks",
+"language": "eng"
+},
+{
+"reference_id": "7540",
+"content_id": "7540",
+"resource_code": "DictionaryBibleThemes",
+"label": "7540: Judaism",
+"language": "eng"
+},
+{
+"reference_id": "7545",
+"content_id": "7545",
+"resource_code": "DictionaryBibleThemes",
+"label": "7545: outsiders",
+"language": "eng"
+},
+{
+"reference_id": "7550",
+"content_id": "7550",
+"resource_code": "DictionaryBibleThemes",
+"label": "7550: Pharisees",
+"language": "eng"
+},
+{
+"reference_id": "7555",
+"content_id": "7555",
+"resource_code": "DictionaryBibleThemes",
+"label": "7555: Sadducees",
+"language": "eng"
+},
+{
+"reference_id": "7560",
+"content_id": "7560",
+"resource_code": "DictionaryBibleThemes",
+"label": "7560: Samaritans, the",
+"language": "eng"
+},
+{
+"reference_id": "7565",
+"content_id": "7565",
+"resource_code": "DictionaryBibleThemes",
+"label": "7565: Sanhedrin",
+"language": "eng"
+},
+{
+"reference_id": "7570",
+"content_id": "7570",
+"resource_code": "DictionaryBibleThemes",
+"label": "7570: sects",
+"language": "eng"
+}
+]
+}
+}
+]

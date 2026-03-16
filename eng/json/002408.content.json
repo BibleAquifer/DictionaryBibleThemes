@@ -1,0 +1,259 @@
+[
+{
+"content_id": "8783",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8783: neglect",
+"media_type": "Text",
+"index_reference": "8783: neglect",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The shirking of one's duties or responsibilities, whether to God or to other people. The consequences of such neglect are often serious.</p>\n<h2>The Israelites sometimes neglected their religious duties</h2>\n<h3>They neglected to support the Levites</h3>\n<p><strong><a href=\"https://ref.ly/Deut14:27\">DEU 14:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut12:19\">DEU 12:19</a>; <a href=\"https://ref.ly/Neh13:10\">NEH 13:10</a></p>\n<h3>They neglected the temple</h3>\n<p><strong><a href=\"https://ref.ly/Neh13:11\">NEH 13:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr24:5\">2CH 24:5</a>; <a href=\"https://ref.ly/Mal1:6-Mal1:14\">MAL 1:6–1:14</a></p>\n<h3>Such neglect earned them the judgment of God</h3>\n<p><strong><a href=\"https://ref.ly/2Chr29:6-2Chr29:9\">2CH 29:6–29:9</a></strong></p>\n<h2>The Israelites sometimes neglected their social obligations</h2>\n<h3>They neglected to ensure justice for the poor</h3>\n<p><strong><a href=\"https://ref.ly/Isa5:7\">ISA 5:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Amos2:6-Amos2:8\">AMO 2:6–2:8</a>, <a href=\"https://ref.ly/Amos4:1-Amos4:3\">AMO 4:1–4:3</a>, <a href=\"https://ref.ly/Amos5:7-Amos5:15\">AMO 5:7–5:15</a></p>\n<h3>Their leaders neglected their responsibilities</h3>\n<p><strong><a href=\"https://ref.ly/Isa56:10-Isa56:12\">ISA 56:10–56:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek34:1-Ezek34:6\">EZK 34:1–34:6</a>; <a href=\"https://ref.ly/Amos6:1-Amos6:7\">AMO 6:1–6:7</a></p>\n<h3>God punished their neglect</h3>\n<p><strong><a href=\"https://ref.ly/Zeph1:12-Zeph1:13\">ZEP 1:12–1:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa32:9-Isa32:15\">ISA 32:9–32:15</a></p>\n<h2>Neglect in the NT</h2>\n<h3>Warnings against neglect</h3>\n<p><strong><a href=\"https://ref.ly/1Tim4:14\">1TI 4:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt23:23\">MAT 23:23</a> parallel <a href=\"https://ref.ly/Luke11:42\">LUK 11:42</a>; <a href=\"https://ref.ly/Matt25:14-Matt25:30\">MAT 25:14–25:30</a> parallel <a href=\"https://ref.ly/Luke19:12-Luke19:26\">LUK 19:12–19:26</a>; <a href=\"https://ref.ly/Luke12:35-Luke12:48\">LUK 12:35–12:48</a></p>\n<h2>Examples of neglect</h2>\n<h3>The neglect of salvation</h3>\n<p><a href=\"https://ref.ly/Heb2:1-Heb2:4\">HEB 2:1–2:4</a></p>\n<h3>The neglect of public worship</h3>\n<p><strong><a href=\"https://ref.ly/Heb10:25\">HEB 10:25</a></strong></p>\n<h3>Sodom's neglect of the poor</h3>\n<p><strong><a href=\"https://ref.ly/Ezek16:49\">EZK 16:49</a></strong></p>\n<h3>The neglect of widows</h3>\n<p><strong><a href=\"https://ref.ly/Acts6:1-Acts6:4\">ACT 6:1–6:4</a></strong></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05014027",
+"start_ref_usfm": "DEU 14:27",
+"end_ref": "05014027",
+"end_ref_usfm": "DEU 14:27"
+},
+{
+"start_ref": "05012019",
+"start_ref_usfm": "DEU 12:19",
+"end_ref": "05012019",
+"end_ref_usfm": "DEU 12:19"
+},
+{
+"start_ref": "16013010",
+"start_ref_usfm": "NEH 13:10",
+"end_ref": "16013010",
+"end_ref_usfm": "NEH 13:10"
+},
+{
+"start_ref": "16013011",
+"start_ref_usfm": "NEH 13:11",
+"end_ref": "16013011",
+"end_ref_usfm": "NEH 13:11"
+},
+{
+"start_ref": "14024005",
+"start_ref_usfm": "2CH 24:5",
+"end_ref": "14024005",
+"end_ref_usfm": "2CH 24:5"
+},
+{
+"start_ref": "39001006",
+"start_ref_usfm": "MAL 1:6",
+"end_ref": "39001014",
+"end_ref_usfm": "MAL 1:14"
+},
+{
+"start_ref": "14029006",
+"start_ref_usfm": "2CH 29:6",
+"end_ref": "14029009",
+"end_ref_usfm": "2CH 29:9"
+},
+{
+"start_ref": "23005007",
+"start_ref_usfm": "ISA 5:7",
+"end_ref": "23005007",
+"end_ref_usfm": "ISA 5:7"
+},
+{
+"start_ref": "30002006",
+"start_ref_usfm": "AMO 2:6",
+"end_ref": "30002008",
+"end_ref_usfm": "AMO 2:8"
+},
+{
+"start_ref": "30004001",
+"start_ref_usfm": "AMO 4:1",
+"end_ref": "30004003",
+"end_ref_usfm": "AMO 4:3"
+},
+{
+"start_ref": "30005007",
+"start_ref_usfm": "AMO 5:7",
+"end_ref": "30005015",
+"end_ref_usfm": "AMO 5:15"
+},
+{
+"start_ref": "23056010",
+"start_ref_usfm": "ISA 56:10",
+"end_ref": "23056012",
+"end_ref_usfm": "ISA 56:12"
+},
+{
+"start_ref": "26034001",
+"start_ref_usfm": "EZK 34:1",
+"end_ref": "26034006",
+"end_ref_usfm": "EZK 34:6"
+},
+{
+"start_ref": "30006001",
+"start_ref_usfm": "AMO 6:1",
+"end_ref": "30006007",
+"end_ref_usfm": "AMO 6:7"
+},
+{
+"start_ref": "36001012",
+"start_ref_usfm": "ZEP 1:12",
+"end_ref": "36001013",
+"end_ref_usfm": "ZEP 1:13"
+},
+{
+"start_ref": "23032009",
+"start_ref_usfm": "ISA 32:9",
+"end_ref": "23032015",
+"end_ref_usfm": "ISA 32:15"
+},
+{
+"start_ref": "54004014",
+"start_ref_usfm": "1TI 4:14",
+"end_ref": "54004014",
+"end_ref_usfm": "1TI 4:14"
+},
+{
+"start_ref": "40023023",
+"start_ref_usfm": "MAT 23:23",
+"end_ref": "40023023",
+"end_ref_usfm": "MAT 23:23"
+},
+{
+"start_ref": "42011042",
+"start_ref_usfm": "LUK 11:42",
+"end_ref": "42011042",
+"end_ref_usfm": "LUK 11:42"
+},
+{
+"start_ref": "40025014",
+"start_ref_usfm": "MAT 25:14",
+"end_ref": "40025030",
+"end_ref_usfm": "MAT 25:30"
+},
+{
+"start_ref": "42019012",
+"start_ref_usfm": "LUK 19:12",
+"end_ref": "42019026",
+"end_ref_usfm": "LUK 19:26"
+},
+{
+"start_ref": "42012035",
+"start_ref_usfm": "LUK 12:35",
+"end_ref": "42012048",
+"end_ref_usfm": "LUK 12:48"
+},
+{
+"start_ref": "58002001",
+"start_ref_usfm": "HEB 2:1",
+"end_ref": "58002004",
+"end_ref_usfm": "HEB 2:4"
+},
+{
+"start_ref": "58010025",
+"start_ref_usfm": "HEB 10:25",
+"end_ref": "58010025",
+"end_ref_usfm": "HEB 10:25"
+},
+{
+"start_ref": "26016049",
+"start_ref_usfm": "EZK 16:49",
+"end_ref": "26016049",
+"end_ref_usfm": "EZK 16:49"
+},
+{
+"start_ref": "44006001",
+"start_ref_usfm": "ACT 6:1",
+"end_ref": "44006004",
+"end_ref_usfm": "ACT 6:4"
+}
+],
+"resource": [
+{
+"reference_id": "1310",
+"content_id": "1310",
+"resource_code": "DictionaryBibleThemes",
+"label": "1310: God, as judge",
+"language": "eng"
+},
+{
+"reference_id": "4540",
+"content_id": "4540",
+"resource_code": "DictionaryBibleThemes",
+"label": "4540: weeds",
+"language": "eng"
+},
+{
+"reference_id": "5051",
+"content_id": "5051",
+"resource_code": "DictionaryBibleThemes",
+"label": "5051: responsibility",
+"language": "eng"
+},
+{
+"reference_id": "5359",
+"content_id": "5359",
+"resource_code": "DictionaryBibleThemes",
+"label": "5359: justice",
+"language": "eng"
+},
+{
+"reference_id": "5508",
+"content_id": "5508",
+"resource_code": "DictionaryBibleThemes",
+"label": "5508: ruins",
+"language": "eng"
+},
+{
+"reference_id": "5803",
+"content_id": "5803",
+"resource_code": "DictionaryBibleThemes",
+"label": "5803: carelessness",
+"language": "eng"
+},
+{
+"reference_id": "5810",
+"content_id": "5810",
+"resource_code": "DictionaryBibleThemes",
+"label": "5810: complacency",
+"language": "eng"
+},
+{
+"reference_id": "7259",
+"content_id": "7259",
+"resource_code": "DictionaryBibleThemes",
+"label": "7259: promised land, later history of",
+"language": "eng"
+},
+{
+"reference_id": "7967",
+"content_id": "7967",
+"resource_code": "DictionaryBibleThemes",
+"label": "7967: spiritual gifts, and responsibility",
+"language": "eng"
+},
+{
+"reference_id": "8232",
+"content_id": "8232",
+"resource_code": "DictionaryBibleThemes",
+"label": "8232: discipline, in the family",
+"language": "eng"
+},
+{
+"reference_id": "8741",
+"content_id": "8741",
+"resource_code": "DictionaryBibleThemes",
+"label": "8741: failure",
+"language": "eng"
+},
+{
+"reference_id": "8763",
+"content_id": "8763",
+"resource_code": "DictionaryBibleThemes",
+"label": "8763: forgetting",
+"language": "eng"
+}
+]
+}
+}
+]

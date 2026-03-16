@@ -1,0 +1,225 @@
+[
+{
+"content_id": "5851",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5851: excuse",
+"media_type": "Text",
+"index_reference": "5851: excuse",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The attempt to deny responsibility for an action or for a lack of action. There is no excuse for sin.</p>\n<h2>Examples of excuses given for wrong actions</h2>\n<p><a href=\"https://ref.ly/Gen3:12-Gen3:13\">GEN 3:12–3:13</a> <em>by Adam and Eve for eating the forbidden fruit</em>; ; <a href=\"https://ref.ly/Exod32:22-Exod32:24\">EXO 32:22–32:24</a> <em>by Aaron for making the golden calf</em>; ; <a href=\"https://ref.ly/1Sam13:11-1Sam13:12\">1SA 13:11–13:12</a> <em>by Saul for acting as priest</em>; <a href=\"https://ref.ly/1Sam15:20-1Sam15:21\">1SA 15:20–15:21</a>, <a href=\"https://ref.ly/1Sam15:24-1Sam15:25\">1SA 15:24–15:25</a></p>\n<h2>Examples of excuses given for inaction</h2>\n<p>By Moses:\n <a href=\"https://ref.ly/Exod3:11\">EXO 3:11</a>, <a href=\"https://ref.ly/Exod4:10\">EXO 4:10</a>; \n<a href=\"https://ref.ly/Judg6:15\">JDG 6:15</a> <em>by Gideon</em>; <a href=\"https://ref.ly/Prov22:13\">PRO 22:13</a>, <a href=\"https://ref.ly/Prov26:13\">PRO 26:13</a>; \n<a href=\"https://ref.ly/Jer1:6\">JER 1:6</a> <em>by Jeremiah</em>; <a href=\"https://ref.ly/Matt25:14-Matt25:30\">MAT 25:14–25:30</a>; ; <a href=\"https://ref.ly/Luke19:12-Luke19:27\">LUK 19:12–19:27</a>; \n<a href=\"https://ref.ly/Matt25:41-Matt25:45\">MAT 25:41–25:45</a> <em>by the ignorant</em></p>\n<h2>Excuses given by those unwilling to follow Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Luke14:16-Luke14:24\">LUK 14:16–14:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt22:2-Matt22:3\">MAT 22:2–22:3</a>; <a href=\"https://ref.ly/Luke9:59-Luke9:62\">LUK 9:59–9:62</a></p>\n<h2>There is no excuse for sin</h2>\n<p><strong><a href=\"https://ref.ly/Rom1:20\">ROM 1:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/John9:41\">JHN 9:41</a>, <a href=\"https://ref.ly/John15:22\">JHN 15:22</a>; <a href=\"https://ref.ly/Rom2:1\">ROM 2:1</a>, <a href=\"https://ref.ly/Rom3:19-Rom3:23\">ROM 3:19–3:23</a>, <a href=\"https://ref.ly/Rom5:12\">ROM 5:12</a>; <a href=\"https://ref.ly/1John1:8\">1JN 1:8</a>, <a href=\"https://ref.ly/1John1:10\">1JN 1:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01003012",
+"start_ref_usfm": "GEN 3:12",
+"end_ref": "01003013",
+"end_ref_usfm": "GEN 3:13"
+},
+{
+"start_ref": "02032022",
+"start_ref_usfm": "EXO 32:22",
+"end_ref": "02032024",
+"end_ref_usfm": "EXO 32:24"
+},
+{
+"start_ref": "09013011",
+"start_ref_usfm": "1SA 13:11",
+"end_ref": "09013012",
+"end_ref_usfm": "1SA 13:12"
+},
+{
+"start_ref": "09015020",
+"start_ref_usfm": "1SA 15:20",
+"end_ref": "09015021",
+"end_ref_usfm": "1SA 15:21"
+},
+{
+"start_ref": "09015024",
+"start_ref_usfm": "1SA 15:24",
+"end_ref": "09015025",
+"end_ref_usfm": "1SA 15:25"
+},
+{
+"start_ref": "02003011",
+"start_ref_usfm": "EXO 3:11",
+"end_ref": "02003011",
+"end_ref_usfm": "EXO 3:11"
+},
+{
+"start_ref": "02004010",
+"start_ref_usfm": "EXO 4:10",
+"end_ref": "02004010",
+"end_ref_usfm": "EXO 4:10"
+},
+{
+"start_ref": "07006015",
+"start_ref_usfm": "JDG 6:15",
+"end_ref": "07006015",
+"end_ref_usfm": "JDG 6:15"
+},
+{
+"start_ref": "20022013",
+"start_ref_usfm": "PRO 22:13",
+"end_ref": "20022013",
+"end_ref_usfm": "PRO 22:13"
+},
+{
+"start_ref": "20026013",
+"start_ref_usfm": "PRO 26:13",
+"end_ref": "20026013",
+"end_ref_usfm": "PRO 26:13"
+},
+{
+"start_ref": "24001006",
+"start_ref_usfm": "JER 1:6",
+"end_ref": "24001006",
+"end_ref_usfm": "JER 1:6"
+},
+{
+"start_ref": "40025014",
+"start_ref_usfm": "MAT 25:14",
+"end_ref": "40025030",
+"end_ref_usfm": "MAT 25:30"
+},
+{
+"start_ref": "42019012",
+"start_ref_usfm": "LUK 19:12",
+"end_ref": "42019027",
+"end_ref_usfm": "LUK 19:27"
+},
+{
+"start_ref": "40025041",
+"start_ref_usfm": "MAT 25:41",
+"end_ref": "40025045",
+"end_ref_usfm": "MAT 25:45"
+},
+{
+"start_ref": "42014016",
+"start_ref_usfm": "LUK 14:16",
+"end_ref": "42014024",
+"end_ref_usfm": "LUK 14:24"
+},
+{
+"start_ref": "40022002",
+"start_ref_usfm": "MAT 22:2",
+"end_ref": "40022003",
+"end_ref_usfm": "MAT 22:3"
+},
+{
+"start_ref": "42009059",
+"start_ref_usfm": "LUK 9:59",
+"end_ref": "42009062",
+"end_ref_usfm": "LUK 9:62"
+},
+{
+"start_ref": "45001020",
+"start_ref_usfm": "ROM 1:20",
+"end_ref": "45001020",
+"end_ref_usfm": "ROM 1:20"
+},
+{
+"start_ref": "43009041",
+"start_ref_usfm": "JHN 9:41",
+"end_ref": "43009041",
+"end_ref_usfm": "JHN 9:41"
+},
+{
+"start_ref": "43015022",
+"start_ref_usfm": "JHN 15:22",
+"end_ref": "43015022",
+"end_ref_usfm": "JHN 15:22"
+},
+{
+"start_ref": "45002001",
+"start_ref_usfm": "ROM 2:1",
+"end_ref": "45002001",
+"end_ref_usfm": "ROM 2:1"
+},
+{
+"start_ref": "45003019",
+"start_ref_usfm": "ROM 3:19",
+"end_ref": "45003023",
+"end_ref_usfm": "ROM 3:23"
+},
+{
+"start_ref": "45005012",
+"start_ref_usfm": "ROM 5:12",
+"end_ref": "45005012",
+"end_ref_usfm": "ROM 5:12"
+},
+{
+"start_ref": "62001008",
+"start_ref_usfm": "1JN 1:8",
+"end_ref": "62001008",
+"end_ref_usfm": "1JN 1:8"
+},
+{
+"start_ref": "62001010",
+"start_ref_usfm": "1JN 1:10",
+"end_ref": "62001010",
+"end_ref_usfm": "1JN 1:10"
+}
+],
+"resource": [
+{
+"reference_id": "4924",
+"content_id": "4924",
+"resource_code": "DictionaryBibleThemes",
+"label": "4924: delay",
+"language": "eng"
+},
+{
+"reference_id": "5051",
+"content_id": "5051",
+"resource_code": "DictionaryBibleThemes",
+"label": "5051: responsibility",
+"language": "eng"
+},
+{
+"reference_id": "5877",
+"content_id": "5877",
+"resource_code": "DictionaryBibleThemes",
+"label": "5877: hesitation",
+"language": "eng"
+},
+{
+"reference_id": "6020",
+"content_id": "6020",
+"resource_code": "DictionaryBibleThemes",
+"label": "6020: sin",
+"language": "eng"
+},
+{
+"reference_id": "6154",
+"content_id": "6154",
+"resource_code": "DictionaryBibleThemes",
+"label": "6154: fall, the",
+"language": "eng"
+},
+{
+"reference_id": "6183",
+"content_id": "6183",
+"resource_code": "DictionaryBibleThemes",
+"label": "6183: ignorance, of God",
+"language": "eng"
+},
+{
+"reference_id": "8712",
+"content_id": "8712",
+"resource_code": "DictionaryBibleThemes",
+"label": "8712: denial of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "8768",
+"content_id": "8768",
+"resource_code": "DictionaryBibleThemes",
+"label": "8768: idolatry",
+"language": "eng"
+}
+]
+}
+}
+]

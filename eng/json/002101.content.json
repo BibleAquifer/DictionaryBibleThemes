@@ -1,0 +1,67 @@
+[
+{
+"content_id": "8266",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8266: holiness",
+"media_type": "Text",
+"index_reference": "8266: holiness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The quality of God that sets him utterly apart from his world, especially in terms of his purity and sanctity. The holiness of God is also manifested in the persons and work of Jesus Christ and the Holy Spirit. Believers are called upon to become like God in his holiness.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8267",
+"content_id": "8267",
+"resource_code": "DictionaryBibleThemes",
+"label": "8267: holiness, of God",
+"language": "eng"
+},
+{
+"reference_id": "8268",
+"content_id": "8268",
+"resource_code": "DictionaryBibleThemes",
+"label": "8268: holiness, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "8269",
+"content_id": "8269",
+"resource_code": "DictionaryBibleThemes",
+"label": "8269: holiness, as separation from the worldly",
+"language": "eng"
+},
+{
+"reference_id": "8270",
+"content_id": "8270",
+"resource_code": "DictionaryBibleThemes",
+"label": "8270: holiness, as set apart for God",
+"language": "eng"
+},
+{
+"reference_id": "8271",
+"content_id": "8271",
+"resource_code": "DictionaryBibleThemes",
+"label": "8271: holiness, purpose of",
+"language": "eng"
+},
+{
+"reference_id": "8272",
+"content_id": "8272",
+"resource_code": "DictionaryBibleThemes",
+"label": "8272: holiness, believers' growth in",
+"language": "eng"
+},
+{
+"reference_id": "8273",
+"content_id": "8273",
+"resource_code": "DictionaryBibleThemes",
+"label": "8273: holiness, ethical aspects of",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,102 @@
+[
+{
+"content_id": "4532",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4532: vegetables",
+"media_type": "Text",
+"index_reference": "4532: vegetables",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>Vegetables in general</h2>\n<p><strong><a href=\"https://ref.ly/Prov15:17\">PRO 15:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut11:10-Deut11:11\">DEU 11:10–11:11</a>; <a href=\"https://ref.ly/1Kgs21:1-1Kgs21:2\">1KI 21:1–21:2</a>; <a href=\"https://ref.ly/Dan1:3-Dan1:16\">DAN 1:3–1:16</a>; <a href=\"https://ref.ly/Rom14:1-Rom14:4\">ROM 14:1–14:4</a></p>\n<h2>Specific vegetables</h2>\n<p><strong><a href=\"https://ref.ly/Num11:5\">NUM 11:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam17:27-2Sam17:29\">2SA 17:27–17:29</a>; <a href=\"https://ref.ly/Ezek4:9\">EZK 4:9</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "20015017",
+"start_ref_usfm": "PRO 15:17",
+"end_ref": "20015017",
+"end_ref_usfm": "PRO 15:17"
+},
+{
+"start_ref": "05011010",
+"start_ref_usfm": "DEU 11:10",
+"end_ref": "05011011",
+"end_ref_usfm": "DEU 11:11"
+},
+{
+"start_ref": "11021001",
+"start_ref_usfm": "1KI 21:1",
+"end_ref": "11021002",
+"end_ref_usfm": "1KI 21:2"
+},
+{
+"start_ref": "27001003",
+"start_ref_usfm": "DAN 1:3",
+"end_ref": "27001016",
+"end_ref_usfm": "DAN 1:16"
+},
+{
+"start_ref": "45014001",
+"start_ref_usfm": "ROM 14:1",
+"end_ref": "45014004",
+"end_ref_usfm": "ROM 14:4"
+},
+{
+"start_ref": "04011005",
+"start_ref_usfm": "NUM 11:5",
+"end_ref": "04011005",
+"end_ref_usfm": "NUM 11:5"
+},
+{
+"start_ref": "10017027",
+"start_ref_usfm": "2SA 17:27",
+"end_ref": "10017029",
+"end_ref_usfm": "2SA 17:29"
+},
+{
+"start_ref": "26004009",
+"start_ref_usfm": "EZK 4:9",
+"end_ref": "26004009",
+"end_ref_usfm": "EZK 4:9"
+}
+],
+"resource": [
+{
+"reference_id": "4239",
+"content_id": "4239",
+"resource_code": "DictionaryBibleThemes",
+"label": "4239: garden",
+"language": "eng"
+},
+{
+"reference_id": "4402",
+"content_id": "4402",
+"resource_code": "DictionaryBibleThemes",
+"label": "4402: plants",
+"language": "eng"
+},
+{
+"reference_id": "4404",
+"content_id": "4404",
+"resource_code": "DictionaryBibleThemes",
+"label": "4404: food",
+"language": "eng"
+},
+{
+"reference_id": "4450",
+"content_id": "4450",
+"resource_code": "DictionaryBibleThemes",
+"label": "4450: fruit",
+"language": "eng"
+},
+{
+"reference_id": "4456",
+"content_id": "4456",
+"resource_code": "DictionaryBibleThemes",
+"label": "4456: grain",
+"language": "eng"
+}
+]
+}
+}
+]

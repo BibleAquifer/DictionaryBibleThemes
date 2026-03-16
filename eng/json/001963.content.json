@@ -1,0 +1,225 @@
+[
+{
+"content_id": "7927",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7927: hymn",
+"media_type": "Text",
+"index_reference": "7927: hymn",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Poetry sung to the praise of God and for the mutual encouragement of believers. Hymns and songs are not clearly distinguished in Scripture, but the NT contains examples of possible early Christian hymns.</p>\n<h2>Hymns are sung to the praise of God's name</h2>\n<p><strong><a href=\"https://ref.ly/Ps40:3\">PSA 40:3</a></strong>; <strong><a href=\"https://ref.ly/Rom15:8-Rom15:11\">ROM 15:8–15:11</a></strong> <em>Because of Jesus Christ the Gentiles are now called upon to join with God's people in praising God.</em> <em>See also</em> <a href=\"https://ref.ly/Deut32:43\">DEU 32:43</a>; <a href=\"https://ref.ly/2Sam22:50\">2SA 22:50</a>; <a href=\"https://ref.ly/Ps18:49\">PSA 18:49</a>, <a href=\"https://ref.ly/Ps117:1\">PSA 117:1</a>; <a href=\"https://ref.ly/Heb2:12\">HEB 2:12</a></p>\n<h2>Christians are to sing hymns together for mutual encouragement</h2>\n<p><strong><a href=\"https://ref.ly/1Cor14:26\">1CO 14:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph5:19\">EPH 5:19</a>; <a href=\"https://ref.ly/Col3:16\">COL 3:16</a> <em>“Psalms” refers to the OT psalms (see <a href=\"https://ref.ly/Luke20:42\">Lk 20:42</a>; <a href=\"https://ref.ly/Luke24:44\">24:44</a>; <a href=\"https://ref.ly/Acts1:20\">Ac 1:20</a>; <a href=\"https://ref.ly/Acts13:33\">13:33</a>) some of which may have been set to music by Christians. “Psalm” could also describe a song newly composed for Christian worship (see <a href=\"https://ref.ly/1Cor14:26\">1Co 14:26</a> where “hymn” translates Greek “psalmos”).</em></p>\n<h2>Examples of singing hymns</h2>\n<h3>By Jesus Christ and his disciples</h3>\n<p><a href=\"https://ref.ly/Matt26:30\">MAT 26:30</a> parallel <a href=\"https://ref.ly/Mark14:26\">MRK 14:26</a></p>\n<h3>By Paul and Silas in prison</h3>\n<p><strong><a href=\"https://ref.ly/Acts16:25\">ACT 16:25</a></strong></p>\n<h2>Examples of hymns</h2>\n<h3>The Benedictus: Zechariah's song of thanksgiving at the birth of his son, John the Baptist</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Luke1:68-Luke1:79\">LUK 1:68–1:79</a></p>\n<h3>The Magnificat: Mary's song of praise as the future mother of the Lord</h3>\n<p><a href=\"https://ref.ly/Luke1:46-Luke1:55\">LUK 1:46–1:55</a></p>\n<h3>The Nunc Dimittis: Simeon's response to seeing the child Jesus</h3>\n<p><a href=\"https://ref.ly/Luke2:29-Luke2:32\">LUK 2:29–2:32</a></p>\n<h3>Other examples of possible early Christian hymns</h3>\n<p><a href=\"https://ref.ly/Rom11:33-Rom11:36\">ROM 11:33–11:36</a>; ; <a href=\"https://ref.ly/Eph5:14\">EPH 5:14</a>; ; <a href=\"https://ref.ly/Phil2:6-Phil2:11\">PHP 2:6–2:11</a>; ; <a href=\"https://ref.ly/Col1:15-Col1:20\">COL 1:15–1:20</a>; ; <a href=\"https://ref.ly/1Tim3:16\">1TI 3:16</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "19040003",
+"start_ref_usfm": "PSA 40:3",
+"end_ref": "19040003",
+"end_ref_usfm": "PSA 40:3"
+},
+{
+"start_ref": "45015008",
+"start_ref_usfm": "ROM 15:8",
+"end_ref": "45015011",
+"end_ref_usfm": "ROM 15:11"
+},
+{
+"start_ref": "05032043",
+"start_ref_usfm": "DEU 32:43",
+"end_ref": "05032043",
+"end_ref_usfm": "DEU 32:43"
+},
+{
+"start_ref": "10022050",
+"start_ref_usfm": "2SA 22:50",
+"end_ref": "10022050",
+"end_ref_usfm": "2SA 22:50"
+},
+{
+"start_ref": "19018049",
+"start_ref_usfm": "PSA 18:49",
+"end_ref": "19018049",
+"end_ref_usfm": "PSA 18:49"
+},
+{
+"start_ref": "19117001",
+"start_ref_usfm": "PSA 117:1",
+"end_ref": "19117001",
+"end_ref_usfm": "PSA 117:1"
+},
+{
+"start_ref": "58002012",
+"start_ref_usfm": "HEB 2:12",
+"end_ref": "58002012",
+"end_ref_usfm": "HEB 2:12"
+},
+{
+"start_ref": "46014026",
+"start_ref_usfm": "1CO 14:26",
+"end_ref": "46014026",
+"end_ref_usfm": "1CO 14:26"
+},
+{
+"start_ref": "49005019",
+"start_ref_usfm": "EPH 5:19",
+"end_ref": "49005019",
+"end_ref_usfm": "EPH 5:19"
+},
+{
+"start_ref": "51003016",
+"start_ref_usfm": "COL 3:16",
+"end_ref": "51003016",
+"end_ref_usfm": "COL 3:16"
+},
+{
+"start_ref": "42020042",
+"start_ref_usfm": "LUK 20:42",
+"end_ref": "42020042",
+"end_ref_usfm": "LUK 20:42"
+},
+{
+"start_ref": "42024044",
+"start_ref_usfm": "LUK 24:44",
+"end_ref": "42024044",
+"end_ref_usfm": "LUK 24:44"
+},
+{
+"start_ref": "44001020",
+"start_ref_usfm": "ACT 1:20",
+"end_ref": "44001020",
+"end_ref_usfm": "ACT 1:20"
+},
+{
+"start_ref": "44013033",
+"start_ref_usfm": "ACT 13:33",
+"end_ref": "44013033",
+"end_ref_usfm": "ACT 13:33"
+},
+{
+"start_ref": "40026030",
+"start_ref_usfm": "MAT 26:30",
+"end_ref": "40026030",
+"end_ref_usfm": "MAT 26:30"
+},
+{
+"start_ref": "41014026",
+"start_ref_usfm": "MRK 14:26",
+"end_ref": "41014026",
+"end_ref_usfm": "MRK 14:26"
+},
+{
+"start_ref": "44016025",
+"start_ref_usfm": "ACT 16:25",
+"end_ref": "44016025",
+"end_ref_usfm": "ACT 16:25"
+},
+{
+"start_ref": "42001068",
+"start_ref_usfm": "LUK 1:68",
+"end_ref": "42001079",
+"end_ref_usfm": "LUK 1:79"
+},
+{
+"start_ref": "42001046",
+"start_ref_usfm": "LUK 1:46",
+"end_ref": "42001055",
+"end_ref_usfm": "LUK 1:55"
+},
+{
+"start_ref": "42002029",
+"start_ref_usfm": "LUK 2:29",
+"end_ref": "42002032",
+"end_ref_usfm": "LUK 2:32"
+},
+{
+"start_ref": "45011033",
+"start_ref_usfm": "ROM 11:33",
+"end_ref": "45011036",
+"end_ref_usfm": "ROM 11:36"
+},
+{
+"start_ref": "49005014",
+"start_ref_usfm": "EPH 5:14",
+"end_ref": "49005014",
+"end_ref_usfm": "EPH 5:14"
+},
+{
+"start_ref": "50002006",
+"start_ref_usfm": "PHP 2:6",
+"end_ref": "50002011",
+"end_ref_usfm": "PHP 2:11"
+},
+{
+"start_ref": "51001015",
+"start_ref_usfm": "COL 1:15",
+"end_ref": "51001020",
+"end_ref_usfm": "COL 1:20"
+},
+{
+"start_ref": "54003016",
+"start_ref_usfm": "1TI 3:16",
+"end_ref": "54003016",
+"end_ref_usfm": "1TI 3:16"
+}
+],
+"resource": [
+{
+"reference_id": "7960",
+"content_id": "7960",
+"resource_code": "DictionaryBibleThemes",
+"label": "7960: singing",
+"language": "eng"
+},
+{
+"reference_id": "7963",
+"content_id": "7963",
+"resource_code": "DictionaryBibleThemes",
+"label": "7963: song",
+"language": "eng"
+},
+{
+"reference_id": "8414",
+"content_id": "8414",
+"resource_code": "DictionaryBibleThemes",
+"label": "8414: encouragement",
+"language": "eng"
+},
+{
+"reference_id": "8440",
+"content_id": "8440",
+"resource_code": "DictionaryBibleThemes",
+"label": "8440: glorifying God",
+"language": "eng"
+},
+{
+"reference_id": "8609",
+"content_id": "8609",
+"resource_code": "DictionaryBibleThemes",
+"label": "8609: prayer, as praise and thanksgiving",
+"language": "eng"
+},
+{
+"reference_id": "8627",
+"content_id": "8627",
+"resource_code": "DictionaryBibleThemes",
+"label": "8627: worship, elements of",
+"language": "eng"
+},
+{
+"reference_id": "8646",
+"content_id": "8646",
+"resource_code": "DictionaryBibleThemes",
+"label": "8646: doxology",
+"language": "eng"
+},
+{
+"reference_id": "8664",
+"content_id": "8664",
+"resource_code": "DictionaryBibleThemes",
+"label": "8664: praise",
+"language": "eng"
+}
+]
+}
+}
+]

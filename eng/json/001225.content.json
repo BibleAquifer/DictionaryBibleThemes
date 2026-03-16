@@ -1,0 +1,32 @@
+[
+{
+"content_id": "5680",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5680: family",
+"media_type": "Text",
+"index_reference": "5680: family",
+"language": "eng",
+"review_level": "None",
+"content": "<p>People who are linked by marriage or physical descent. The western idea of a “nuclear” family represents a narrow definition of the scope of the family. The ancient Near East had a broader and more extended understanding of family, which is often reflected in the Scriptural material.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5681",
+"content_id": "5681",
+"resource_code": "DictionaryBibleThemes",
+"label": "5681: family, nature of",
+"language": "eng"
+},
+{
+"reference_id": "5682",
+"content_id": "5682",
+"resource_code": "DictionaryBibleThemes",
+"label": "5682: family, significance of",
+"language": "eng"
+}
+]
+}
+}
+]

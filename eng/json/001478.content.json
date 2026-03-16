@@ -1,0 +1,317 @@
+[
+{
+"content_id": "5966",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5966: tenderness",
+"media_type": "Text",
+"index_reference": "5966: tenderness",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Physically, the state of being soft or easily damaged. Tenderness in relationships is an expression of love and affection which, in the case of God, is often linked with compassion for his people.</p>\n<h2>Physical tenderness</h2>\n<h3>Of new plant growth</h3>\n<p><strong><a href=\"https://ref.ly/Ezek17:22\">EZK 17:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut32:2\">DEU 32:2</a>; <a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a>; <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a>, <a href=\"https://ref.ly/Isa53:2\">ISA 53:2</a>; <a href=\"https://ref.ly/Matt24:32\">MAT 24:32</a> parallel <a href=\"https://ref.ly/Mark13:28\">MRK 13:28</a></p>\n<h3>Of meat</h3>\n<p><a href=\"https://ref.ly/Gen18:7\">GEN 18:7</a></p>\n<h3>Of the young and immature</h3>\n<p><strong><a href=\"https://ref.ly/Prov4:3\">PRO 4:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen33:13\">GEN 33:13</a>; <a href=\"https://ref.ly/Isa47:1\">ISA 47:1</a></p>\n<h2>Tenderness in relationships</h2>\n<h3>Human love and affection</h3>\n<p><strong><a href=\"https://ref.ly/Gen34:3\">GEN 34:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam1:26\">2SA 1:26</a>; <a href=\"https://ref.ly/Song7:10\">SNG 7:10</a>; <a href=\"https://ref.ly/Luke15:20\">LUK 15:20</a></p>\n<h3>God's tenderness</h3>\n<p><strong><a href=\"https://ref.ly/Isa40:1-Isa40:2\">ISA 40:1–40:2</a></strong>; <strong><a href=\"https://ref.ly/Luke1:78\">LUK 1:78</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut32:10-Deut32:14\">DEU 32:10–32:14</a>; <a href=\"https://ref.ly/Isa30:18\">ISA 30:18</a>, <a href=\"https://ref.ly/Isa54:10\">ISA 54:10</a>, <a href=\"https://ref.ly/Isa63:15\">ISA 63:15</a>; <a href=\"https://ref.ly/Jer31:3\">JER 31:3</a>, <a href=\"https://ref.ly/Jer31:20\">JER 31:20</a>; <a href=\"https://ref.ly/Hos2:14\">HOS 2:14</a>, <a href=\"https://ref.ly/Hos11:1-Hos11:4\">HOS 11:1–11:4</a>; <a href=\"https://ref.ly/Zeph3:17\">ZEP 3:17</a></p>\n<h3>The tenderness of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Mark10:16\">MRK 10:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt9:36\">MAT 9:36</a>, <a href=\"https://ref.ly/Matt14:14\">MAT 14:14</a>, <a href=\"https://ref.ly/Matt23:37\">MAT 23:37</a>; <a href=\"https://ref.ly/Mark1:41\">MRK 1:41</a>; <a href=\"https://ref.ly/John11:33-John11:36\">JHN 11:33–11:36</a>, <a href=\"https://ref.ly/John19:26-John19:27\">JHN 19:26–19:27</a></p>\n<h3>A mark of Christian behaviour</h3>\n<p><strong><a href=\"https://ref.ly/Phil2:1-Phil2:2\">PHP 2:1–2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor4:21\">1CO 4:21</a>; <a href=\"https://ref.ly/Phil1:8\">PHP 1:8</a>; <a href=\"https://ref.ly/Col3:12\">COL 3:12</a>; <a href=\"https://ref.ly/1Pet3:8\">1PE 3:8</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "26017022",
+"start_ref_usfm": "EZK 17:22",
+"end_ref": "26017022",
+"end_ref_usfm": "EZK 17:22"
+},
+{
+"start_ref": "05032002",
+"start_ref_usfm": "DEU 32:2",
+"end_ref": "05032002",
+"end_ref_usfm": "DEU 32:2"
+},
+{
+"start_ref": "12019026",
+"start_ref_usfm": "2KI 19:26",
+"end_ref": "12019026",
+"end_ref_usfm": "2KI 19:26"
+},
+{
+"start_ref": "23037027",
+"start_ref_usfm": "ISA 37:27",
+"end_ref": "23037027",
+"end_ref_usfm": "ISA 37:27"
+},
+{
+"start_ref": "23053002",
+"start_ref_usfm": "ISA 53:2",
+"end_ref": "23053002",
+"end_ref_usfm": "ISA 53:2"
+},
+{
+"start_ref": "40024032",
+"start_ref_usfm": "MAT 24:32",
+"end_ref": "40024032",
+"end_ref_usfm": "MAT 24:32"
+},
+{
+"start_ref": "41013028",
+"start_ref_usfm": "MRK 13:28",
+"end_ref": "41013028",
+"end_ref_usfm": "MRK 13:28"
+},
+{
+"start_ref": "01018007",
+"start_ref_usfm": "GEN 18:7",
+"end_ref": "01018007",
+"end_ref_usfm": "GEN 18:7"
+},
+{
+"start_ref": "20004003",
+"start_ref_usfm": "PRO 4:3",
+"end_ref": "20004003",
+"end_ref_usfm": "PRO 4:3"
+},
+{
+"start_ref": "01033013",
+"start_ref_usfm": "GEN 33:13",
+"end_ref": "01033013",
+"end_ref_usfm": "GEN 33:13"
+},
+{
+"start_ref": "23047001",
+"start_ref_usfm": "ISA 47:1",
+"end_ref": "23047001",
+"end_ref_usfm": "ISA 47:1"
+},
+{
+"start_ref": "01034003",
+"start_ref_usfm": "GEN 34:3",
+"end_ref": "01034003",
+"end_ref_usfm": "GEN 34:3"
+},
+{
+"start_ref": "10001026",
+"start_ref_usfm": "2SA 1:26",
+"end_ref": "10001026",
+"end_ref_usfm": "2SA 1:26"
+},
+{
+"start_ref": "22007010",
+"start_ref_usfm": "SNG 7:10",
+"end_ref": "22007010",
+"end_ref_usfm": "SNG 7:10"
+},
+{
+"start_ref": "42015020",
+"start_ref_usfm": "LUK 15:20",
+"end_ref": "42015020",
+"end_ref_usfm": "LUK 15:20"
+},
+{
+"start_ref": "23040001",
+"start_ref_usfm": "ISA 40:1",
+"end_ref": "23040002",
+"end_ref_usfm": "ISA 40:2"
+},
+{
+"start_ref": "42001078",
+"start_ref_usfm": "LUK 1:78",
+"end_ref": "42001078",
+"end_ref_usfm": "LUK 1:78"
+},
+{
+"start_ref": "05032010",
+"start_ref_usfm": "DEU 32:10",
+"end_ref": "05032014",
+"end_ref_usfm": "DEU 32:14"
+},
+{
+"start_ref": "23030018",
+"start_ref_usfm": "ISA 30:18",
+"end_ref": "23030018",
+"end_ref_usfm": "ISA 30:18"
+},
+{
+"start_ref": "23054010",
+"start_ref_usfm": "ISA 54:10",
+"end_ref": "23054010",
+"end_ref_usfm": "ISA 54:10"
+},
+{
+"start_ref": "23063015",
+"start_ref_usfm": "ISA 63:15",
+"end_ref": "23063015",
+"end_ref_usfm": "ISA 63:15"
+},
+{
+"start_ref": "24031003",
+"start_ref_usfm": "JER 31:3",
+"end_ref": "24031003",
+"end_ref_usfm": "JER 31:3"
+},
+{
+"start_ref": "24031020",
+"start_ref_usfm": "JER 31:20",
+"end_ref": "24031020",
+"end_ref_usfm": "JER 31:20"
+},
+{
+"start_ref": "28002014",
+"start_ref_usfm": "HOS 2:14",
+"end_ref": "28002014",
+"end_ref_usfm": "HOS 2:14"
+},
+{
+"start_ref": "28011001",
+"start_ref_usfm": "HOS 11:1",
+"end_ref": "28011004",
+"end_ref_usfm": "HOS 11:4"
+},
+{
+"start_ref": "36003017",
+"start_ref_usfm": "ZEP 3:17",
+"end_ref": "36003017",
+"end_ref_usfm": "ZEP 3:17"
+},
+{
+"start_ref": "41010016",
+"start_ref_usfm": "MRK 10:16",
+"end_ref": "41010016",
+"end_ref_usfm": "MRK 10:16"
+},
+{
+"start_ref": "40009036",
+"start_ref_usfm": "MAT 9:36",
+"end_ref": "40009036",
+"end_ref_usfm": "MAT 9:36"
+},
+{
+"start_ref": "40014014",
+"start_ref_usfm": "MAT 14:14",
+"end_ref": "40014014",
+"end_ref_usfm": "MAT 14:14"
+},
+{
+"start_ref": "40023037",
+"start_ref_usfm": "MAT 23:37",
+"end_ref": "40023037",
+"end_ref_usfm": "MAT 23:37"
+},
+{
+"start_ref": "41001041",
+"start_ref_usfm": "MRK 1:41",
+"end_ref": "41001041",
+"end_ref_usfm": "MRK 1:41"
+},
+{
+"start_ref": "43011033",
+"start_ref_usfm": "JHN 11:33",
+"end_ref": "43011036",
+"end_ref_usfm": "JHN 11:36"
+},
+{
+"start_ref": "43019026",
+"start_ref_usfm": "JHN 19:26",
+"end_ref": "43019027",
+"end_ref_usfm": "JHN 19:27"
+},
+{
+"start_ref": "50002001",
+"start_ref_usfm": "PHP 2:1",
+"end_ref": "50002002",
+"end_ref_usfm": "PHP 2:2"
+},
+{
+"start_ref": "46004021",
+"start_ref_usfm": "1CO 4:21",
+"end_ref": "46004021",
+"end_ref_usfm": "1CO 4:21"
+},
+{
+"start_ref": "50001008",
+"start_ref_usfm": "PHP 1:8",
+"end_ref": "50001008",
+"end_ref_usfm": "PHP 1:8"
+},
+{
+"start_ref": "51003012",
+"start_ref_usfm": "COL 3:12",
+"end_ref": "51003012",
+"end_ref_usfm": "COL 3:12"
+},
+{
+"start_ref": "60003008",
+"start_ref_usfm": "1PE 3:8",
+"end_ref": "60003008",
+"end_ref_usfm": "1PE 3:8"
+}
+],
+"resource": [
+{
+"reference_id": "1030",
+"content_id": "1030",
+"resource_code": "DictionaryBibleThemes",
+"label": "1030: God, compassion of",
+"language": "eng"
+},
+{
+"reference_id": "1085",
+"content_id": "1085",
+"resource_code": "DictionaryBibleThemes",
+"label": "1085: God, love of",
+"language": "eng"
+},
+{
+"reference_id": "2015",
+"content_id": "2015",
+"resource_code": "DictionaryBibleThemes",
+"label": "2015: Jesus Christ, compassion of",
+"language": "eng"
+},
+{
+"reference_id": "2036",
+"content_id": "2036",
+"resource_code": "DictionaryBibleThemes",
+"label": "2036: Jesus Christ, humility of",
+"language": "eng"
+},
+{
+"reference_id": "2048",
+"content_id": "2048",
+"resource_code": "DictionaryBibleThemes",
+"label": "2048: Jesus Christ, love of",
+"language": "eng"
+},
+{
+"reference_id": "5781",
+"content_id": "5781",
+"resource_code": "DictionaryBibleThemes",
+"label": "5781: affection",
+"language": "eng"
+},
+{
+"reference_id": "5806",
+"content_id": "5806",
+"resource_code": "DictionaryBibleThemes",
+"label": "5806: compassion",
+"language": "eng"
+},
+{
+"reference_id": "5946",
+"content_id": "5946",
+"resource_code": "DictionaryBibleThemes",
+"label": "5946: sensitivity",
+"language": "eng"
+},
+{
+"reference_id": "8264",
+"content_id": "8264",
+"resource_code": "DictionaryBibleThemes",
+"label": "8264: gentleness",
+"language": "eng"
+},
+{
+"reference_id": "8292",
+"content_id": "8292",
+"resource_code": "DictionaryBibleThemes",
+"label": "8292: love",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,46 @@
+[
+{
+"content_id": "6510",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "6510: salvation",
+"media_type": "Text",
+"index_reference": "6510: salvation",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The transformation of a person's individual nature and relationship with God as a result of repentance and faith in the atoning death of Jesus Christ on the cross. All humanity stands in need of salvation, which is only possible through faith in Jesus Christ.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "6511",
+"content_id": "6511",
+"resource_code": "DictionaryBibleThemes",
+"label": "6511: salvation, nature of",
+"language": "eng"
+},
+{
+"reference_id": "6512",
+"content_id": "6512",
+"resource_code": "DictionaryBibleThemes",
+"label": "6512: salvation, necessity and basis of",
+"language": "eng"
+},
+{
+"reference_id": "6513",
+"content_id": "6513",
+"resource_code": "DictionaryBibleThemes",
+"label": "6513: Saviour, God as",
+"language": "eng"
+},
+{
+"reference_id": "6514",
+"content_id": "6514",
+"resource_code": "DictionaryBibleThemes",
+"label": "6514: Saviour, Jesus Christ as",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,116 @@
+[
+{
+"content_id": "4000",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4000: Creation",
+"media_type": "Text",
+"index_reference": "4000: creation",
+"language": "eng",
+"review_level": "None",
+"content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"4005\" data-resourcetype=\"DictionaryOfBibleThemes\">4005: creation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4015\" data-resourcetype=\"DictionaryOfBibleThemes\">4015: life</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4025\" data-resourcetype=\"DictionaryOfBibleThemes\">4025: world, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4035\" data-resourcetype=\"DictionaryOfBibleThemes\">4035: abundance</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4040\" data-resourcetype=\"DictionaryOfBibleThemes\">4040: beauty</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4045\" data-resourcetype=\"DictionaryOfBibleThemes\">4045: chaos</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4050\" data-resourcetype=\"DictionaryOfBibleThemes\">4050: dust</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4055\" data-resourcetype=\"DictionaryOfBibleThemes\">4055: heaven and earth</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4060\" data-resourcetype=\"DictionaryOfBibleThemes\">4060: nature</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4065\" data-resourcetype=\"DictionaryOfBibleThemes\">4065: orderliness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4100\" data-resourcetype=\"DictionaryOfBibleThemes\">4100: Supernatural beings</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4200\" data-resourcetype=\"DictionaryOfBibleThemes\">4200: Places</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4300\" data-resourcetype=\"DictionaryOfBibleThemes\">4300: Metals and minerals</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4400\" data-resourcetype=\"DictionaryOfBibleThemes\">4400: Vegetation and food</span></li></ul>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "4005",
+"content_id": "4005",
+"resource_code": "DictionaryBibleThemes",
+"label": "4005: creation",
+"language": "eng"
+},
+{
+"reference_id": "4015",
+"content_id": "4015",
+"resource_code": "DictionaryBibleThemes",
+"label": "4015: life",
+"language": "eng"
+},
+{
+"reference_id": "4025",
+"content_id": "4025",
+"resource_code": "DictionaryBibleThemes",
+"label": "4025: world, the",
+"language": "eng"
+},
+{
+"reference_id": "4035",
+"content_id": "4035",
+"resource_code": "DictionaryBibleThemes",
+"label": "4035: abundance",
+"language": "eng"
+},
+{
+"reference_id": "4040",
+"content_id": "4040",
+"resource_code": "DictionaryBibleThemes",
+"label": "4040: beauty",
+"language": "eng"
+},
+{
+"reference_id": "4045",
+"content_id": "4045",
+"resource_code": "DictionaryBibleThemes",
+"label": "4045: chaos",
+"language": "eng"
+},
+{
+"reference_id": "4050",
+"content_id": "4050",
+"resource_code": "DictionaryBibleThemes",
+"label": "4050: dust",
+"language": "eng"
+},
+{
+"reference_id": "4055",
+"content_id": "4055",
+"resource_code": "DictionaryBibleThemes",
+"label": "4055: heaven and earth",
+"language": "eng"
+},
+{
+"reference_id": "4060",
+"content_id": "4060",
+"resource_code": "DictionaryBibleThemes",
+"label": "4060: nature",
+"language": "eng"
+},
+{
+"reference_id": "4065",
+"content_id": "4065",
+"resource_code": "DictionaryBibleThemes",
+"label": "4065: orderliness",
+"language": "eng"
+},
+{
+"reference_id": "4100",
+"content_id": "4100",
+"resource_code": "DictionaryBibleThemes",
+"label": "4100: Supernatural beings",
+"language": "eng"
+},
+{
+"reference_id": "4200",
+"content_id": "4200",
+"resource_code": "DictionaryBibleThemes",
+"label": "4200: Places",
+"language": "eng"
+},
+{
+"reference_id": "4300",
+"content_id": "4300",
+"resource_code": "DictionaryBibleThemes",
+"label": "4300: Metals and minerals",
+"language": "eng"
+},
+{
+"reference_id": "4400",
+"content_id": "4400",
+"resource_code": "DictionaryBibleThemes",
+"label": "4400: Vegetation and food",
+"language": "eng"
+}
+]
+}
+}
+]

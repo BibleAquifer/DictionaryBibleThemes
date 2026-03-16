@@ -1,0 +1,136 @@
+[
+{
+"content_id": "7930",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7930: Lord's Day, the",
+"media_type": "Text",
+"index_reference": "7930: lord's day, the",
+"language": "eng",
+"review_level": "None",
+"content": "<p>As well as keeping the Sabbath, the first Christians assembled together on the first day of the week to commemorate Jesus Christ's resurrection through the Lord's Supper. The Lord's Day quickly became the focal point of the Christian week, eventually assuming the characteristics of the Jewish Sabbath, namely worship and rest.</p>\n<h2>The disciples continued to observe the Sabbath</h2>\n<p><strong><a href=\"https://ref.ly/Luke23:56\">LUK 23:56</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts13:14\">ACT 13:14</a>, <a href=\"https://ref.ly/Acts13:42\">ACT 13:42</a>, <a href=\"https://ref.ly/Acts16:13\">ACT 16:13</a>, <a href=\"https://ref.ly/Acts17:2\">ACT 17:2</a>, <a href=\"https://ref.ly/Acts18:4\">ACT 18:4</a></p>\n<h2>The Lord's Day commemorated Jesus Christ's resurrection</h2>\n<h3>The resurrection took place on the first day of the week</h3>\n<p><strong><a href=\"https://ref.ly/Mark16:9\">MRK 16:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt28:1-Matt28:7\">MAT 28:1–28:7</a> parallels <a href=\"https://ref.ly/Mark16:1-Mark16:7\">MRK 16:1–16:7</a>, <a href=\"https://ref.ly/Luke24:1-Luke24:6\">LUK 24:1–24:6</a>, <a href=\"https://ref.ly/John20:1\">JHN 20:1</a></p>\n<h3>The disciples assembled together on the first day of the week</h3>\n<p><strong><a href=\"https://ref.ly/Acts20:7\">ACT 20:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/John20:19-John20:20\">JHN 20:19–20:20</a>, <a href=\"https://ref.ly/John20:24-John20:26\">JHN 20:24–20:26</a></p>\n<h2>The Lord's Day took over the role of the Sabbath</h2>\n<p><strong><a href=\"https://ref.ly/1Cor16:2\">1CO 16:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev1:10\">REV 1:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "42023056",
+"start_ref_usfm": "LUK 23:56",
+"end_ref": "42023056",
+"end_ref_usfm": "LUK 23:56"
+},
+{
+"start_ref": "44013014",
+"start_ref_usfm": "ACT 13:14",
+"end_ref": "44013014",
+"end_ref_usfm": "ACT 13:14"
+},
+{
+"start_ref": "44013042",
+"start_ref_usfm": "ACT 13:42",
+"end_ref": "44013042",
+"end_ref_usfm": "ACT 13:42"
+},
+{
+"start_ref": "44016013",
+"start_ref_usfm": "ACT 16:13",
+"end_ref": "44016013",
+"end_ref_usfm": "ACT 16:13"
+},
+{
+"start_ref": "44017002",
+"start_ref_usfm": "ACT 17:2",
+"end_ref": "44017002",
+"end_ref_usfm": "ACT 17:2"
+},
+{
+"start_ref": "44018004",
+"start_ref_usfm": "ACT 18:4",
+"end_ref": "44018004",
+"end_ref_usfm": "ACT 18:4"
+},
+{
+"start_ref": "41016009",
+"start_ref_usfm": "MRK 16:9",
+"end_ref": "41016009",
+"end_ref_usfm": "MRK 16:9"
+},
+{
+"start_ref": "40028001",
+"start_ref_usfm": "MAT 28:1",
+"end_ref": "40028007",
+"end_ref_usfm": "MAT 28:7"
+},
+{
+"start_ref": "41016001",
+"start_ref_usfm": "MRK 16:1",
+"end_ref": "41016007",
+"end_ref_usfm": "MRK 16:7"
+},
+{
+"start_ref": "42024001",
+"start_ref_usfm": "LUK 24:1",
+"end_ref": "42024006",
+"end_ref_usfm": "LUK 24:6"
+},
+{
+"start_ref": "43020001",
+"start_ref_usfm": "JHN 20:1",
+"end_ref": "43020001",
+"end_ref_usfm": "JHN 20:1"
+},
+{
+"start_ref": "44020007",
+"start_ref_usfm": "ACT 20:7",
+"end_ref": "44020007",
+"end_ref_usfm": "ACT 20:7"
+},
+{
+"start_ref": "43020019",
+"start_ref_usfm": "JHN 20:19",
+"end_ref": "43020020",
+"end_ref_usfm": "JHN 20:20"
+},
+{
+"start_ref": "43020024",
+"start_ref_usfm": "JHN 20:24",
+"end_ref": "43020026",
+"end_ref_usfm": "JHN 20:26"
+},
+{
+"start_ref": "46016002",
+"start_ref_usfm": "1CO 16:2",
+"end_ref": "46016002",
+"end_ref_usfm": "1CO 16:2"
+},
+{
+"start_ref": "66001010",
+"start_ref_usfm": "REV 1:10",
+"end_ref": "66001010",
+"end_ref_usfm": "REV 1:10"
+}
+],
+"resource": [
+{
+"reference_id": "2560",
+"content_id": "2560",
+"resource_code": "DictionaryBibleThemes",
+"label": "2560: Jesus Christ, resurrection of",
+"language": "eng"
+},
+{
+"reference_id": "7428",
+"content_id": "7428",
+"resource_code": "DictionaryBibleThemes",
+"label": "7428: Sabbath",
+"language": "eng"
+},
+{
+"reference_id": "7933",
+"content_id": "7933",
+"resource_code": "DictionaryBibleThemes",
+"label": "7933: Lord's Supper",
+"language": "eng"
+}
+]
+}
+}
+]

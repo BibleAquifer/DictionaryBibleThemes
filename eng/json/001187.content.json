@@ -1,0 +1,275 @@
+[
+{
+"content_id": "5625",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5625: witnesses, false",
+"media_type": "Text",
+"index_reference": "5625: witnesses, false",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Scripture prohibits individuals from bearing false witness against their neighbours.</p>\n<h2>False testimony forbidden</h2>\n<p><strong><a href=\"https://ref.ly/Exod20:16\">EXO 20:16</a></strong> parallel <a href=\"https://ref.ly/Deut5:20\">DEU 5:20</a> <em>See also</em> <a href=\"https://ref.ly/Exod23:1-Exod23:2\">EXO 23:1–23:2</a>; <a href=\"https://ref.ly/Lev19:12\">LEV 19:12</a>; <a href=\"https://ref.ly/Prov6:16-Prov6:19\">PRO 6:16–6:19</a>, <a href=\"https://ref.ly/Prov24:28\">PRO 24:28</a>; <a href=\"https://ref.ly/Luke3:14\">LUK 3:14</a>; <a href=\"https://ref.ly/Matt15:19\">MAT 15:19</a>, <a href=\"https://ref.ly/Matt19:18\">MAT 19:18</a> parallels <a href=\"https://ref.ly/Mark10:19\">MRK 10:19</a>, <a href=\"https://ref.ly/Luke18:20\">LUK 18:20</a></p>\n<h2>The effect of false witnesses on other people and society</h2>\n<p><strong><a href=\"https://ref.ly/Prov25:18\">PRO 25:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps27:12\">PSA 27:12</a>, <a href=\"https://ref.ly/Ps35:11\">PSA 35:11</a>; <a href=\"https://ref.ly/Prov12:17\">PRO 12:17</a>, <a href=\"https://ref.ly/Prov14:5\">PRO 14:5</a>, <a href=\"https://ref.ly/Prov14:25\">PRO 14:25</a>, <a href=\"https://ref.ly/Prov18:5\">PRO 18:5</a>, <a href=\"https://ref.ly/Prov19:28\">PRO 19:28</a></p>\n<h2>False witnesses will be punished</h2>\n<p><strong><a href=\"https://ref.ly/Deut19:16-Deut19:21\">DEU 19:16–19:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev6:1-Lev6:7\">LEV 6:1–6:7</a>; <a href=\"https://ref.ly/Prov19:5\">PRO 19:5</a>, <a href=\"https://ref.ly/Prov19:9\">PRO 19:9</a>, <a href=\"https://ref.ly/Prov21:28\">PRO 21:28</a>; <a href=\"https://ref.ly/Isa29:20-Isa29:21\">ISA 29:20–29:21</a>; <a href=\"https://ref.ly/Zech5:3-Zech5:4\">ZEC 5:3–5:4</a></p>\n<h2>Examples of false witnesses</h2>\n<p><a href=\"https://ref.ly/1Kgs21:8-1Kgs21:13\">1KI 21:8–21:13</a>; ; <a href=\"https://ref.ly/Matt26:59-Matt26:61\">MAT 26:59–26:61</a> parallel <a href=\"https://ref.ly/Mark14:55-Mark14:59\">MRK 14:55–14:59</a>; ; <a href=\"https://ref.ly/Matt28:12-Matt28:15\">MAT 28:12–28:15</a>; ; <a href=\"https://ref.ly/Acts6:11-Acts6:14\">ACT 6:11–6:14</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02020016",
+"start_ref_usfm": "EXO 20:16",
+"end_ref": "02020016",
+"end_ref_usfm": "EXO 20:16"
+},
+{
+"start_ref": "05005020",
+"start_ref_usfm": "DEU 5:20",
+"end_ref": "05005020",
+"end_ref_usfm": "DEU 5:20"
+},
+{
+"start_ref": "02023001",
+"start_ref_usfm": "EXO 23:1",
+"end_ref": "02023002",
+"end_ref_usfm": "EXO 23:2"
+},
+{
+"start_ref": "03019012",
+"start_ref_usfm": "LEV 19:12",
+"end_ref": "03019012",
+"end_ref_usfm": "LEV 19:12"
+},
+{
+"start_ref": "20006016",
+"start_ref_usfm": "PRO 6:16",
+"end_ref": "20006019",
+"end_ref_usfm": "PRO 6:19"
+},
+{
+"start_ref": "20024028",
+"start_ref_usfm": "PRO 24:28",
+"end_ref": "20024028",
+"end_ref_usfm": "PRO 24:28"
+},
+{
+"start_ref": "42003014",
+"start_ref_usfm": "LUK 3:14",
+"end_ref": "42003014",
+"end_ref_usfm": "LUK 3:14"
+},
+{
+"start_ref": "40015019",
+"start_ref_usfm": "MAT 15:19",
+"end_ref": "40015019",
+"end_ref_usfm": "MAT 15:19"
+},
+{
+"start_ref": "40019018",
+"start_ref_usfm": "MAT 19:18",
+"end_ref": "40019018",
+"end_ref_usfm": "MAT 19:18"
+},
+{
+"start_ref": "41010019",
+"start_ref_usfm": "MRK 10:19",
+"end_ref": "41010019",
+"end_ref_usfm": "MRK 10:19"
+},
+{
+"start_ref": "42018020",
+"start_ref_usfm": "LUK 18:20",
+"end_ref": "42018020",
+"end_ref_usfm": "LUK 18:20"
+},
+{
+"start_ref": "20025018",
+"start_ref_usfm": "PRO 25:18",
+"end_ref": "20025018",
+"end_ref_usfm": "PRO 25:18"
+},
+{
+"start_ref": "19027012",
+"start_ref_usfm": "PSA 27:12",
+"end_ref": "19027012",
+"end_ref_usfm": "PSA 27:12"
+},
+{
+"start_ref": "19035011",
+"start_ref_usfm": "PSA 35:11",
+"end_ref": "19035011",
+"end_ref_usfm": "PSA 35:11"
+},
+{
+"start_ref": "20012017",
+"start_ref_usfm": "PRO 12:17",
+"end_ref": "20012017",
+"end_ref_usfm": "PRO 12:17"
+},
+{
+"start_ref": "20014005",
+"start_ref_usfm": "PRO 14:5",
+"end_ref": "20014005",
+"end_ref_usfm": "PRO 14:5"
+},
+{
+"start_ref": "20014025",
+"start_ref_usfm": "PRO 14:25",
+"end_ref": "20014025",
+"end_ref_usfm": "PRO 14:25"
+},
+{
+"start_ref": "20018005",
+"start_ref_usfm": "PRO 18:5",
+"end_ref": "20018005",
+"end_ref_usfm": "PRO 18:5"
+},
+{
+"start_ref": "20019028",
+"start_ref_usfm": "PRO 19:28",
+"end_ref": "20019028",
+"end_ref_usfm": "PRO 19:28"
+},
+{
+"start_ref": "05019016",
+"start_ref_usfm": "DEU 19:16",
+"end_ref": "05019021",
+"end_ref_usfm": "DEU 19:21"
+},
+{
+"start_ref": "03006001",
+"start_ref_usfm": "LEV 6:1",
+"end_ref": "03006007",
+"end_ref_usfm": "LEV 6:7"
+},
+{
+"start_ref": "20019005",
+"start_ref_usfm": "PRO 19:5",
+"end_ref": "20019005",
+"end_ref_usfm": "PRO 19:5"
+},
+{
+"start_ref": "20019009",
+"start_ref_usfm": "PRO 19:9",
+"end_ref": "20019009",
+"end_ref_usfm": "PRO 19:9"
+},
+{
+"start_ref": "20021028",
+"start_ref_usfm": "PRO 21:28",
+"end_ref": "20021028",
+"end_ref_usfm": "PRO 21:28"
+},
+{
+"start_ref": "23029020",
+"start_ref_usfm": "ISA 29:20",
+"end_ref": "23029021",
+"end_ref_usfm": "ISA 29:21"
+},
+{
+"start_ref": "38005003",
+"start_ref_usfm": "ZEC 5:3",
+"end_ref": "38005004",
+"end_ref_usfm": "ZEC 5:4"
+},
+{
+"start_ref": "11021008",
+"start_ref_usfm": "1KI 21:8",
+"end_ref": "11021013",
+"end_ref_usfm": "1KI 21:13"
+},
+{
+"start_ref": "40026059",
+"start_ref_usfm": "MAT 26:59",
+"end_ref": "40026061",
+"end_ref_usfm": "MAT 26:61"
+},
+{
+"start_ref": "41014055",
+"start_ref_usfm": "MRK 14:55",
+"end_ref": "41014059",
+"end_ref_usfm": "MRK 14:59"
+},
+{
+"start_ref": "40028012",
+"start_ref_usfm": "MAT 28:12",
+"end_ref": "40028015",
+"end_ref_usfm": "MAT 28:15"
+},
+{
+"start_ref": "44006011",
+"start_ref_usfm": "ACT 6:11",
+"end_ref": "44006014",
+"end_ref_usfm": "ACT 6:14"
+}
+],
+"resource": [
+{
+"reference_id": "5202",
+"content_id": "5202",
+"resource_code": "DictionaryBibleThemes",
+"label": "5202: accusation, false",
+"language": "eng"
+},
+{
+"reference_id": "5347",
+"content_id": "5347",
+"resource_code": "DictionaryBibleThemes",
+"label": "5347: injustice",
+"language": "eng"
+},
+{
+"reference_id": "5361",
+"content_id": "5361",
+"resource_code": "DictionaryBibleThemes",
+"label": "5361: justice, human",
+"language": "eng"
+},
+{
+"reference_id": "5493",
+"content_id": "5493",
+"resource_code": "DictionaryBibleThemes",
+"label": "5493: retribution",
+"language": "eng"
+},
+{
+"reference_id": "5951",
+"content_id": "5951",
+"resource_code": "DictionaryBibleThemes",
+"label": "5951: slander",
+"language": "eng"
+},
+{
+"reference_id": "6145",
+"content_id": "6145",
+"resource_code": "DictionaryBibleThemes",
+"label": "6145: deceit",
+"language": "eng"
+},
+{
+"reference_id": "8734",
+"content_id": "8734",
+"resource_code": "DictionaryBibleThemes",
+"label": "8734: evil",
+"language": "eng"
+},
+{
+"reference_id": "8751",
+"content_id": "8751",
+"resource_code": "DictionaryBibleThemes",
+"label": "8751: false witness",
+"language": "eng"
+},
+{
+"reference_id": "8776",
+"content_id": "8776",
+"resource_code": "DictionaryBibleThemes",
+"label": "8776: lies",
+"language": "eng"
+},
+{
+"reference_id": "8828",
+"content_id": "8828",
+"resource_code": "DictionaryBibleThemes",
+"label": "8828: spite",
+"language": "eng"
+}
+]
+}
+}
+]

@@ -1,0 +1,32 @@
+[
+{
+"content_id": "1448",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1448: signs",
+"media_type": "Text",
+"index_reference": "1448: signs",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Miraculous or supernatural confirmations of the existence and power of God or the miraculous demonstration of spiritual authority on the part of an individual.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "1449",
+"content_id": "1449",
+"resource_code": "DictionaryBibleThemes",
+"label": "1449: signs, purposes of",
+"language": "eng"
+},
+{
+"reference_id": "1450",
+"content_id": "1450",
+"resource_code": "DictionaryBibleThemes",
+"label": "1450: signs, kinds of",
+"language": "eng"
+}
+]
+}
+}
+]

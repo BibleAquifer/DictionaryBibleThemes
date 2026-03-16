@@ -1,0 +1,39 @@
+[
+{
+"content_id": "5954",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5954: strength",
+"media_type": "Text",
+"index_reference": "5954: strength",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The quality of power and might which characterises God and his relationship to his creation. Human strength can lead to rebellion against God on account of a belief in human self-sufficiency.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5955",
+"content_id": "5955",
+"resource_code": "DictionaryBibleThemes",
+"label": "5955: strength, divine",
+"language": "eng"
+},
+{
+"reference_id": "5956",
+"content_id": "5956",
+"resource_code": "DictionaryBibleThemes",
+"label": "5956: strength, human",
+"language": "eng"
+},
+{
+"reference_id": "5957",
+"content_id": "5957",
+"resource_code": "DictionaryBibleThemes",
+"label": "5957: strength, spiritual",
+"language": "eng"
+}
+]
+}
+}
+]

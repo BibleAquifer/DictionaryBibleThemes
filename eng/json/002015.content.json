@@ -1,0 +1,67 @@
+[
+{
+"content_id": "8124",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8124: guidance",
+"media_type": "Text",
+"index_reference": "8124: guidance",
+"language": "eng",
+"review_level": "None",
+"content": "<p>God has purposes and plans for his people, as individuals and communities. Believers and churches should seek his direction and counsel in discerning these purposes and plans in their lives.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8125",
+"content_id": "8125",
+"resource_code": "DictionaryBibleThemes",
+"label": "8125: guidance, God's promises of",
+"language": "eng"
+},
+{
+"reference_id": "8126",
+"content_id": "8126",
+"resource_code": "DictionaryBibleThemes",
+"label": "8126: guidance, need for God's",
+"language": "eng"
+},
+{
+"reference_id": "8127",
+"content_id": "8127",
+"resource_code": "DictionaryBibleThemes",
+"label": "8127: guidance, of Holy Spirit",
+"language": "eng"
+},
+{
+"reference_id": "8128",
+"content_id": "8128",
+"resource_code": "DictionaryBibleThemes",
+"label": "8128: guidance, receiving God's",
+"language": "eng"
+},
+{
+"reference_id": "8129",
+"content_id": "8129",
+"resource_code": "DictionaryBibleThemes",
+"label": "8129: guidance, examples of God's",
+"language": "eng"
+},
+{
+"reference_id": "8130",
+"content_id": "8130",
+"resource_code": "DictionaryBibleThemes",
+"label": "8130: guidance, from godly people",
+"language": "eng"
+},
+{
+"reference_id": "8131",
+"content_id": "8131",
+"resource_code": "DictionaryBibleThemes",
+"label": "8131: guidance, results of",
+"language": "eng"
+}
+]
+}
+}
+]

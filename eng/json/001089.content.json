@@ -1,0 +1,46 @@
+[
+{
+"content_id": "5520",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5520: servants",
+"media_type": "Text",
+"index_reference": "5520: servants",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Someone who serves another. Scripture provides guidance concerning the roles of servants, noting in particular that Jesus Christ chose to be a servant and commands believers to serve one another.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5521",
+"content_id": "5521",
+"resource_code": "DictionaryBibleThemes",
+"label": "5521: servant, Jesus Christ as",
+"language": "eng"
+},
+{
+"reference_id": "5522",
+"content_id": "5522",
+"resource_code": "DictionaryBibleThemes",
+"label": "5522: servants, working conditions of",
+"language": "eng"
+},
+{
+"reference_id": "5523",
+"content_id": "5523",
+"resource_code": "DictionaryBibleThemes",
+"label": "5523: servants, good",
+"language": "eng"
+},
+{
+"reference_id": "5524",
+"content_id": "5524",
+"resource_code": "DictionaryBibleThemes",
+"label": "5524: servants, bad",
+"language": "eng"
+}
+]
+}
+}
+]

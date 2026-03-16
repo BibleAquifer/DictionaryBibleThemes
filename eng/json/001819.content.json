@@ -1,0 +1,289 @@
+[
+{
+"content_id": "7406",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "7406: Passover",
+"media_type": "Text",
+"index_reference": "7406: passover",
+"language": "eng",
+"review_level": "None",
+"content": "<p>One of the major OT feasts. It specifically commemorates the exodus from Egypt as an act of God's deliverance. In Israel's calendar of feasts it was always celebrated with the Feast of Unleavened Bread.</p>\n<h2>The institution of the Passover</h2>\n<p><strong><a href=\"https://ref.ly/Exod12:25-Exod12:27\">EXO 12:25–12:27</a></strong> <em>The Hebrew term “Passover” derives from a verb meaning “to pass over” with the sense of “to spare”.</em></p>\n<h2>Celebrating the Passover</h2>\n<h3>Instructions concerning its observance</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Exod12:2-Exod12:11\">EXO 12:2–12:11</a>, <a href=\"https://ref.ly/Exod12:46-Exod12:47\">EXO 12:46–12:47</a>; <a href=\"https://ref.ly/Num9:1-Num9:5\">NUM 9:1–9:5</a>; <a href=\"https://ref.ly/Deut16:1-Deut16:8\">DEU 16:1–16:8</a></p>\n<h3>Combined with the Feast of Unleavened Bread</h3>\n<p><a href=\"https://ref.ly/Exod34:25\">EXO 34:25</a></p>\n<h3>The need for ritual cleansing</h3>\n<p><a href=\"https://ref.ly/John11:55\">JHN 11:55</a></p>\n<h3>Provision for ritual uncleanness</h3>\n<p><a href=\"https://ref.ly/Num9:6-Num9:13\">NUM 9:6–9:13</a></p>\n<h3>Provision for non-Jews</h3>\n<p><a href=\"https://ref.ly/Exod12:43-Exod12:45\">EXO 12:43–12:45</a>, <a href=\"https://ref.ly/Exod12:48-Exod12:49\">EXO 12:48–12:49</a>; ; <a href=\"https://ref.ly/Num9:14\">NUM 9:14</a></p>\n<h3>Its observance in the OT</h3>\n<p>These occasions are times of spiritual renewal, when the nation remembered how the LORD had saved them:\n <a href=\"https://ref.ly/Josh5:10\">JOS 5:10</a>; ; <a href=\"https://ref.ly/2Kgs23:21-2Kgs23:23\">2KI 23:21–23:23</a>; ; <a href=\"https://ref.ly/2Chr30:1-2Chr30:5\">2CH 30:1–30:5</a>, <a href=\"https://ref.ly/2Chr30:13-2Chr30:20\">2CH 30:13–30:20</a>; ; <a href=\"https://ref.ly/Ezra6:19-Ezra6:21\">EZR 6:19–6:21</a></p>\n<h3>Ezekiel's vision of the future observance of the Passover</h3>\n<p><a href=\"https://ref.ly/Ezek45:21-Ezek45:24\">EZK 45:21–45:24</a></p>\n<h2>The Passover in the NT</h2>\n<h3>Its observance</h3>\n<p><a href=\"https://ref.ly/Luke2:41-Luke2:42\">LUK 2:41–2:42</a>; ; <a href=\"https://ref.ly/John6:4\">JHN 6:4</a>; ; <a href=\"https://ref.ly/Acts12:4\">ACT 12:4</a></p>\n<h3>It was celebrated by Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Luke22:15\">LUK 22:15</a></strong> <em>At Passover time Jesus Christ himself was sacrificed and he inaugurated the Lord's Supper.</em> <em>See also</em> <a href=\"https://ref.ly/Matt26:17-Matt26:19\">MAT 26:17–26:19</a> parallels <a href=\"https://ref.ly/Mark14:12-Mark14:16\">MRK 14:12–14:16</a>, <a href=\"https://ref.ly/Luke22:7-Luke22:13\">LUK 22:7–22:13</a>; <a href=\"https://ref.ly/John2:23\">JHN 2:23</a> <em>Jesus Christ observed the Passover like other Jews.</em></p>\n<h3>Jesus Christ identified with the Passover lamb</h3>\n<p><strong><a href=\"https://ref.ly/1Cor5:7\">1CO 5:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/John1:29\">JHN 1:29</a>, <a href=\"https://ref.ly/John1:36\">JHN 1:36</a>, <a href=\"https://ref.ly/John19:36\">JHN 19:36</a> <em>This may refer to the Passover victim</em>; <a href=\"https://ref.ly/Exod12:46\">EXO 12:46</a>; <a href=\"https://ref.ly/Rev5:5-Rev5:6\">REV 5:5–5:6</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02012025",
+"start_ref_usfm": "EXO 12:25",
+"end_ref": "02012027",
+"end_ref_usfm": "EXO 12:27"
+},
+{
+"start_ref": "02012002",
+"start_ref_usfm": "EXO 12:2",
+"end_ref": "02012011",
+"end_ref_usfm": "EXO 12:11"
+},
+{
+"start_ref": "02012046",
+"start_ref_usfm": "EXO 12:46",
+"end_ref": "02012047",
+"end_ref_usfm": "EXO 12:47"
+},
+{
+"start_ref": "04009001",
+"start_ref_usfm": "NUM 9:1",
+"end_ref": "04009005",
+"end_ref_usfm": "NUM 9:5"
+},
+{
+"start_ref": "05016001",
+"start_ref_usfm": "DEU 16:1",
+"end_ref": "05016008",
+"end_ref_usfm": "DEU 16:8"
+},
+{
+"start_ref": "02034025",
+"start_ref_usfm": "EXO 34:25",
+"end_ref": "02034025",
+"end_ref_usfm": "EXO 34:25"
+},
+{
+"start_ref": "43011055",
+"start_ref_usfm": "JHN 11:55",
+"end_ref": "43011055",
+"end_ref_usfm": "JHN 11:55"
+},
+{
+"start_ref": "04009006",
+"start_ref_usfm": "NUM 9:6",
+"end_ref": "04009013",
+"end_ref_usfm": "NUM 9:13"
+},
+{
+"start_ref": "02012043",
+"start_ref_usfm": "EXO 12:43",
+"end_ref": "02012045",
+"end_ref_usfm": "EXO 12:45"
+},
+{
+"start_ref": "02012048",
+"start_ref_usfm": "EXO 12:48",
+"end_ref": "02012049",
+"end_ref_usfm": "EXO 12:49"
+},
+{
+"start_ref": "04009014",
+"start_ref_usfm": "NUM 9:14",
+"end_ref": "04009014",
+"end_ref_usfm": "NUM 9:14"
+},
+{
+"start_ref": "06005010",
+"start_ref_usfm": "JOS 5:10",
+"end_ref": "06005010",
+"end_ref_usfm": "JOS 5:10"
+},
+{
+"start_ref": "12023021",
+"start_ref_usfm": "2KI 23:21",
+"end_ref": "12023023",
+"end_ref_usfm": "2KI 23:23"
+},
+{
+"start_ref": "14030001",
+"start_ref_usfm": "2CH 30:1",
+"end_ref": "14030005",
+"end_ref_usfm": "2CH 30:5"
+},
+{
+"start_ref": "14030013",
+"start_ref_usfm": "2CH 30:13",
+"end_ref": "14030020",
+"end_ref_usfm": "2CH 30:20"
+},
+{
+"start_ref": "15006019",
+"start_ref_usfm": "EZR 6:19",
+"end_ref": "15006021",
+"end_ref_usfm": "EZR 6:21"
+},
+{
+"start_ref": "26045021",
+"start_ref_usfm": "EZK 45:21",
+"end_ref": "26045024",
+"end_ref_usfm": "EZK 45:24"
+},
+{
+"start_ref": "42002041",
+"start_ref_usfm": "LUK 2:41",
+"end_ref": "42002042",
+"end_ref_usfm": "LUK 2:42"
+},
+{
+"start_ref": "43006004",
+"start_ref_usfm": "JHN 6:4",
+"end_ref": "43006004",
+"end_ref_usfm": "JHN 6:4"
+},
+{
+"start_ref": "44012004",
+"start_ref_usfm": "ACT 12:4",
+"end_ref": "44012004",
+"end_ref_usfm": "ACT 12:4"
+},
+{
+"start_ref": "42022015",
+"start_ref_usfm": "LUK 22:15",
+"end_ref": "42022015",
+"end_ref_usfm": "LUK 22:15"
+},
+{
+"start_ref": "40026017",
+"start_ref_usfm": "MAT 26:17",
+"end_ref": "40026019",
+"end_ref_usfm": "MAT 26:19"
+},
+{
+"start_ref": "41014012",
+"start_ref_usfm": "MRK 14:12",
+"end_ref": "41014016",
+"end_ref_usfm": "MRK 14:16"
+},
+{
+"start_ref": "42022007",
+"start_ref_usfm": "LUK 22:7",
+"end_ref": "42022013",
+"end_ref_usfm": "LUK 22:13"
+},
+{
+"start_ref": "43002023",
+"start_ref_usfm": "JHN 2:23",
+"end_ref": "43002023",
+"end_ref_usfm": "JHN 2:23"
+},
+{
+"start_ref": "46005007",
+"start_ref_usfm": "1CO 5:7",
+"end_ref": "46005007",
+"end_ref_usfm": "1CO 5:7"
+},
+{
+"start_ref": "43001029",
+"start_ref_usfm": "JHN 1:29",
+"end_ref": "43001029",
+"end_ref_usfm": "JHN 1:29"
+},
+{
+"start_ref": "43001036",
+"start_ref_usfm": "JHN 1:36",
+"end_ref": "43001036",
+"end_ref_usfm": "JHN 1:36"
+},
+{
+"start_ref": "43019036",
+"start_ref_usfm": "JHN 19:36",
+"end_ref": "43019036",
+"end_ref_usfm": "JHN 19:36"
+},
+{
+"start_ref": "02012046",
+"start_ref_usfm": "EXO 12:46",
+"end_ref": "02012046",
+"end_ref_usfm": "EXO 12:46"
+},
+{
+"start_ref": "66005005",
+"start_ref_usfm": "REV 5:5",
+"end_ref": "66005006",
+"end_ref_usfm": "REV 5:6"
+}
+],
+"resource": [
+{
+"reference_id": "1320",
+"content_id": "1320",
+"resource_code": "DictionaryBibleThemes",
+"label": "1320: God, as Saviour",
+"language": "eng"
+},
+{
+"reference_id": "2315",
+"content_id": "2315",
+"resource_code": "DictionaryBibleThemes",
+"label": "2315: Jesus Christ, as Lamb",
+"language": "eng"
+},
+{
+"reference_id": "2410",
+"content_id": "2410",
+"resource_code": "DictionaryBibleThemes",
+"label": "2410: cross, the",
+"language": "eng"
+},
+{
+"reference_id": "4554",
+"content_id": "4554",
+"resource_code": "DictionaryBibleThemes",
+"label": "4554: yeast",
+"language": "eng"
+},
+{
+"reference_id": "4663",
+"content_id": "4663",
+"resource_code": "DictionaryBibleThemes",
+"label": "4663: lamb",
+"language": "eng"
+},
+{
+"reference_id": "6722",
+"content_id": "6722",
+"resource_code": "DictionaryBibleThemes",
+"label": "6722: redemption, in OT",
+"language": "eng"
+},
+{
+"reference_id": "7221",
+"content_id": "7221",
+"resource_code": "DictionaryBibleThemes",
+"label": "7221: exodus, the",
+"language": "eng"
+},
+{
+"reference_id": "7335",
+"content_id": "7335",
+"resource_code": "DictionaryBibleThemes",
+"label": "7335: circumcision, physical",
+"language": "eng"
+},
+{
+"reference_id": "7354",
+"content_id": "7354",
+"resource_code": "DictionaryBibleThemes",
+"label": "7354: feasts and festivals",
+"language": "eng"
+},
+{
+"reference_id": "7404",
+"content_id": "7404",
+"resource_code": "DictionaryBibleThemes",
+"label": "7404: ordinances",
+"language": "eng"
+},
+{
+"reference_id": "7933",
+"content_id": "7933",
+"resource_code": "DictionaryBibleThemes",
+"label": "7933: Lord's Supper",
+"language": "eng"
+},
+{
+"reference_id": "7957",
+"content_id": "7957",
+"resource_code": "DictionaryBibleThemes",
+"label": "7957: sacraments",
+"language": "eng"
+}
+]
+}
+}
+]

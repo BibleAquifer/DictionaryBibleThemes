@@ -1,0 +1,82 @@
+[
+{
+"content_id": "5837",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5837: disguise",
+"media_type": "Text",
+"index_reference": "5837: disguise",
+"language": "eng",
+"review_level": "None",
+"content": "<h2>The hiding of one's personal identity for a variety of reasons</h2>\n<p><strong><a href=\"https://ref.ly/2Chr35:20-2Chr35:24\">2CH 35:20–35:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen38:13-Gen38:26\">GEN 38:13–38:26</a>; <a href=\"https://ref.ly/1Sam28:4-1Sam28:12\">1SA 28:4–28:12</a>; <a href=\"https://ref.ly/1Kgs14:1-1Kgs14:6\">1KI 14:1–14:6</a>, <a href=\"https://ref.ly/1Kgs20:35-1Kgs20:43\">1KI 20:35–20:43</a>, <a href=\"https://ref.ly/1Kgs22:29-1Kgs22:37\">1KI 22:29–22:37</a> parallel <a href=\"https://ref.ly/2Chr18:28-2Chr18:34\">2CH 18:28–18:34</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "14035020",
+"start_ref_usfm": "2CH 35:20",
+"end_ref": "14035024",
+"end_ref_usfm": "2CH 35:24"
+},
+{
+"start_ref": "01038013",
+"start_ref_usfm": "GEN 38:13",
+"end_ref": "01038026",
+"end_ref_usfm": "GEN 38:26"
+},
+{
+"start_ref": "09028004",
+"start_ref_usfm": "1SA 28:4",
+"end_ref": "09028012",
+"end_ref_usfm": "1SA 28:12"
+},
+{
+"start_ref": "11014001",
+"start_ref_usfm": "1KI 14:1",
+"end_ref": "11014006",
+"end_ref_usfm": "1KI 14:6"
+},
+{
+"start_ref": "11020035",
+"start_ref_usfm": "1KI 20:35",
+"end_ref": "11020043",
+"end_ref_usfm": "1KI 20:43"
+},
+{
+"start_ref": "11022029",
+"start_ref_usfm": "1KI 22:29",
+"end_ref": "11022037",
+"end_ref_usfm": "1KI 22:37"
+},
+{
+"start_ref": "14018028",
+"start_ref_usfm": "2CH 18:28",
+"end_ref": "14018034",
+"end_ref_usfm": "2CH 18:34"
+}
+],
+"resource": [
+{
+"reference_id": "4123",
+"content_id": "4123",
+"resource_code": "DictionaryBibleThemes",
+"label": "4123: Satan, as deceiver",
+"language": "eng"
+},
+{
+"reference_id": "5920",
+"content_id": "5920",
+"resource_code": "DictionaryBibleThemes",
+"label": "5920: pretence",
+"language": "eng"
+},
+{
+"reference_id": "6145",
+"content_id": "6145",
+"resource_code": "DictionaryBibleThemes",
+"label": "6145: deceit",
+"language": "eng"
+}
+]
+}
+}
+]

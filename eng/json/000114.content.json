@@ -1,0 +1,39 @@
+[
+{
+"content_id": "1510",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "1510: Trinity, the",
+"media_type": "Text",
+"index_reference": "1510: trinity, the",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The characteristically Christian doctrine about God. It declares that there is only one true God; that this God is three persons, the Father, the Son and the Holy Spirit, each of whom is distinct from, yet interrelated with, the others; and that all three persons are fully, equally and eternally divine.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "1511",
+"content_id": "1511",
+"resource_code": "DictionaryBibleThemes",
+"label": "1511: Trinity, relationships between the persons",
+"language": "eng"
+},
+{
+"reference_id": "1512",
+"content_id": "1512",
+"resource_code": "DictionaryBibleThemes",
+"label": "1512: Trinity, equality of the persons",
+"language": "eng"
+},
+{
+"reference_id": "1513",
+"content_id": "1513",
+"resource_code": "DictionaryBibleThemes",
+"label": "1513: Trinity, mission of the persons",
+"language": "eng"
+}
+]
+}
+}
+]

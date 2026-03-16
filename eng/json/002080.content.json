@@ -1,0 +1,53 @@
+[
+{
+"content_id": "8240",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "8240: ethics",
+"media_type": "Text",
+"index_reference": "8240: ethics",
+"language": "eng",
+"review_level": "None",
+"content": "<p>Principles, both theoretical and practical, for righteous living in the sight of God. Scripture provides detailed guidance concerning the conduct of believers, as well as examples of individuals whose lives illustrate positive and negative aspects of behaviour.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "8241",
+"content_id": "8241",
+"resource_code": "DictionaryBibleThemes",
+"label": "8241: ethics, basis of",
+"language": "eng"
+},
+{
+"reference_id": "8242",
+"content_id": "8242",
+"resource_code": "DictionaryBibleThemes",
+"label": "8242: ethics, personal",
+"language": "eng"
+},
+{
+"reference_id": "8243",
+"content_id": "8243",
+"resource_code": "DictionaryBibleThemes",
+"label": "8243: ethics, social",
+"language": "eng"
+},
+{
+"reference_id": "8244",
+"content_id": "8244",
+"resource_code": "DictionaryBibleThemes",
+"label": "8244: ethics, and grace",
+"language": "eng"
+},
+{
+"reference_id": "8245",
+"content_id": "8245",
+"resource_code": "DictionaryBibleThemes",
+"label": "8245: ethics, incentives towards",
+"language": "eng"
+}
+]
+}
+}
+]

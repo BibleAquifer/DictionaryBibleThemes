@@ -1,0 +1,132 @@
+[
+{
+"content_id": "4369",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4369: sulphur",
+"media_type": "Text",
+"index_reference": "4369: sulphur",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A yellow, crystalline substance, also known as brimstone, which ignites and burns readily. It is invariably associated with divine punishment in Scripture.</p>\n<h2>Burning sulphur causes desolation</h2>\n<p><strong><a href=\"https://ref.ly/Deut29:23\">DEU 29:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job18:12-Job18:17\">JOB 18:12–18:17</a></p>\n<h2>Divine punishment by means of burning sulphur</h2>\n<p><strong><a href=\"https://ref.ly/Ps11:5-Ps11:6\">PSA 11:5–11:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa30:31-Isa30:33\">ISA 30:31–30:33</a>, <a href=\"https://ref.ly/Isa34:8-Isa34:10\">ISA 34:8–34:10</a>; <a href=\"https://ref.ly/Ezek38:21-Ezek38:23\">EZK 38:21–38:23</a>; <a href=\"https://ref.ly/Rev9:13-Rev9:19\">REV 9:13–9:19</a>, <a href=\"https://ref.ly/Rev14:9-Rev14:11\">REV 14:9–14:11</a></p>\n<h2>Sodom and Gomorrah destroyed by burning sulphur</h2>\n<p><strong><a href=\"https://ref.ly/Gen19:24-Gen19:25\">GEN 19:24–19:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke17:28-Luke17:29\">LUK 17:28–17:29</a></p>\n<h2>The lake of burning sulphur</h2>\n<p><strong><a href=\"https://ref.ly/Rev21:8\">REV 21:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev19:19-Rev19:21\">REV 19:19–19:21</a>, <a href=\"https://ref.ly/Rev20:7-Rev20:10\">REV 20:7–20:10</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05029023",
+"start_ref_usfm": "DEU 29:23",
+"end_ref": "05029023",
+"end_ref_usfm": "DEU 29:23"
+},
+{
+"start_ref": "18018012",
+"start_ref_usfm": "JOB 18:12",
+"end_ref": "18018017",
+"end_ref_usfm": "JOB 18:17"
+},
+{
+"start_ref": "19011005",
+"start_ref_usfm": "PSA 11:5",
+"end_ref": "19011006",
+"end_ref_usfm": "PSA 11:6"
+},
+{
+"start_ref": "23030031",
+"start_ref_usfm": "ISA 30:31",
+"end_ref": "23030033",
+"end_ref_usfm": "ISA 30:33"
+},
+{
+"start_ref": "23034008",
+"start_ref_usfm": "ISA 34:8",
+"end_ref": "23034010",
+"end_ref_usfm": "ISA 34:10"
+},
+{
+"start_ref": "26038021",
+"start_ref_usfm": "EZK 38:21",
+"end_ref": "26038023",
+"end_ref_usfm": "EZK 38:23"
+},
+{
+"start_ref": "66009013",
+"start_ref_usfm": "REV 9:13",
+"end_ref": "66009019",
+"end_ref_usfm": "REV 9:19"
+},
+{
+"start_ref": "66014009",
+"start_ref_usfm": "REV 14:9",
+"end_ref": "66014011",
+"end_ref_usfm": "REV 14:11"
+},
+{
+"start_ref": "01019024",
+"start_ref_usfm": "GEN 19:24",
+"end_ref": "01019025",
+"end_ref_usfm": "GEN 19:25"
+},
+{
+"start_ref": "42017028",
+"start_ref_usfm": "LUK 17:28",
+"end_ref": "42017029",
+"end_ref_usfm": "LUK 17:29"
+},
+{
+"start_ref": "66021008",
+"start_ref_usfm": "REV 21:8",
+"end_ref": "66021008",
+"end_ref_usfm": "REV 21:8"
+},
+{
+"start_ref": "66019019",
+"start_ref_usfm": "REV 19:19",
+"end_ref": "66019021",
+"end_ref_usfm": "REV 19:21"
+},
+{
+"start_ref": "66020007",
+"start_ref_usfm": "REV 20:7",
+"end_ref": "66020010",
+"end_ref_usfm": "REV 20:10"
+}
+],
+"resource": [
+{
+"reference_id": "4275",
+"content_id": "4275",
+"resource_code": "DictionaryBibleThemes",
+"label": "4275: Sodom and Gomorrah",
+"language": "eng"
+},
+{
+"reference_id": "4306",
+"content_id": "4306",
+"resource_code": "DictionaryBibleThemes",
+"label": "4306: minerals",
+"language": "eng"
+},
+{
+"reference_id": "4826",
+"content_id": "4826",
+"resource_code": "DictionaryBibleThemes",
+"label": "4826: fire",
+"language": "eng"
+},
+{
+"reference_id": "5482",
+"content_id": "5482",
+"resource_code": "DictionaryBibleThemes",
+"label": "5482: punishment",
+"language": "eng"
+},
+{
+"reference_id": "9511",
+"content_id": "9511",
+"resource_code": "DictionaryBibleThemes",
+"label": "9511: hell, as a place of punishment",
+"language": "eng"
+}
+]
+}
+}
+]

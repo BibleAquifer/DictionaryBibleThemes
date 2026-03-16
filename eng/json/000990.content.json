@@ -1,0 +1,312 @@
+[
+{
+"content_id": "5409",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5409: metaphor",
+"media_type": "Text",
+"index_reference": "5409: metaphor",
+"language": "eng",
+"review_level": "None",
+"content": "<p>An image which suggests similarities between two different ideas, without implying that they are identical. Scripture uses metaphors extensively, as a way of illustrating aspects of its teaching.</p>\n<h2>Examples of metaphors for God</h2>\n<h3>Father</h3>\n<p><a href=\"https://ref.ly/Deut32:6\">DEU 32:6</a>; ; <a href=\"https://ref.ly/Isa64:8\">ISA 64:8</a>; ; <a href=\"https://ref.ly/Mal2:10\">MAL 2:10</a>; ; <a href=\"https://ref.ly/Eph4:6\">EPH 4:6</a></p>\n<h3>Rock</h3>\n<p><strong><a href=\"https://ref.ly/Deut32:4\">DEU 32:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam2:2\">1SA 2:2</a>; <a href=\"https://ref.ly/2Sam22:2\">2SA 22:2</a>; <a href=\"https://ref.ly/Ps62:2\">PSA 62:2</a>, <a href=\"https://ref.ly/Ps78:35\">PSA 78:35</a></p>\n<h3>Shepherd</h3>\n<p><strong><a href=\"https://ref.ly/Ps23:1\">PSA 23:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps28:9\">PSA 28:9</a>, <a href=\"https://ref.ly/Ps80:1\">PSA 80:1</a>; <a href=\"https://ref.ly/Ezek34:11-Ezek34:16\">EZK 34:11–34:16</a></p>\n<h2>Examples of metaphors for Jesus Christ</h2>\n<h3>Bread of life</h3>\n<p><a href=\"https://ref.ly/John6:35-John6:51\">JHN 6:35–6:51</a></p>\n<h3>Good shepherd</h3>\n<p><a href=\"https://ref.ly/John10:11\">JHN 10:11</a>, <a href=\"https://ref.ly/John10:14\">JHN 10:14</a></p>\n<h3>Light of the world</h3>\n<p><a href=\"https://ref.ly/John8:12\">JHN 8:12</a>, <a href=\"https://ref.ly/John9:5\">JHN 9:5</a></p>\n<h2>Examples of metaphors for the Holy Spirit</h2>\n<h3>Counsellor</h3>\n<p><a href=\"https://ref.ly/John14:16\">JHN 14:16</a>, <a href=\"https://ref.ly/John14:26\">JHN 14:26</a>, <a href=\"https://ref.ly/John15:26\">JHN 15:26</a>, <a href=\"https://ref.ly/John16:7\">JHN 16:7</a></p>\n<h3>Breath</h3>\n<p><a href=\"https://ref.ly/Gen2:7\">GEN 2:7</a>; ; <a href=\"https://ref.ly/Job32:8\">JOB 32:8</a>, <a href=\"https://ref.ly/Job33:4\">JOB 33:4</a>, <a href=\"https://ref.ly/Job34:14\">JOB 34:14</a></p>\n<h3>Wind</h3>\n<p><a href=\"https://ref.ly/John3:8\">JHN 3:8</a></p>\n<h2>Examples of metaphors for the church</h2>\n<h3>Bride</h3>\n<p><a href=\"https://ref.ly/Rev19:7\">REV 19:7</a>, <a href=\"https://ref.ly/Rev21:2-Rev21:9\">REV 21:2–21:9</a>, <a href=\"https://ref.ly/Rev22:17\">REV 22:17</a></p>\n<h3>Household of God</h3>\n<p><a href=\"https://ref.ly/Eph2:19\">EPH 2:19</a>; ; <a href=\"https://ref.ly/1Tim3:15\">1TI 3:15</a></p>\n<h3>Body of Christ</h3>\n<p><a href=\"https://ref.ly/Rom12:4\">ROM 12:4</a>; ; <a href=\"https://ref.ly/1Cor12:12-1Cor12:27\">1CO 12:12–12:27</a>; ; <a href=\"https://ref.ly/Eph1:22-Eph1:23\">EPH 1:22–1:23</a>; ; <a href=\"https://ref.ly/Col1:24\">COL 1:24</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "05032006",
+"start_ref_usfm": "DEU 32:6",
+"end_ref": "05032006",
+"end_ref_usfm": "DEU 32:6"
+},
+{
+"start_ref": "23064008",
+"start_ref_usfm": "ISA 64:8",
+"end_ref": "23064008",
+"end_ref_usfm": "ISA 64:8"
+},
+{
+"start_ref": "39002010",
+"start_ref_usfm": "MAL 2:10",
+"end_ref": "39002010",
+"end_ref_usfm": "MAL 2:10"
+},
+{
+"start_ref": "49004006",
+"start_ref_usfm": "EPH 4:6",
+"end_ref": "49004006",
+"end_ref_usfm": "EPH 4:6"
+},
+{
+"start_ref": "05032004",
+"start_ref_usfm": "DEU 32:4",
+"end_ref": "05032004",
+"end_ref_usfm": "DEU 32:4"
+},
+{
+"start_ref": "09002002",
+"start_ref_usfm": "1SA 2:2",
+"end_ref": "09002002",
+"end_ref_usfm": "1SA 2:2"
+},
+{
+"start_ref": "10022002",
+"start_ref_usfm": "2SA 22:2",
+"end_ref": "10022002",
+"end_ref_usfm": "2SA 22:2"
+},
+{
+"start_ref": "19062002",
+"start_ref_usfm": "PSA 62:2",
+"end_ref": "19062002",
+"end_ref_usfm": "PSA 62:2"
+},
+{
+"start_ref": "19078035",
+"start_ref_usfm": "PSA 78:35",
+"end_ref": "19078035",
+"end_ref_usfm": "PSA 78:35"
+},
+{
+"start_ref": "19023001",
+"start_ref_usfm": "PSA 23:1",
+"end_ref": "19023001",
+"end_ref_usfm": "PSA 23:1"
+},
+{
+"start_ref": "19028009",
+"start_ref_usfm": "PSA 28:9",
+"end_ref": "19028009",
+"end_ref_usfm": "PSA 28:9"
+},
+{
+"start_ref": "19080001",
+"start_ref_usfm": "PSA 80:1",
+"end_ref": "19080001",
+"end_ref_usfm": "PSA 80:1"
+},
+{
+"start_ref": "26034011",
+"start_ref_usfm": "EZK 34:11",
+"end_ref": "26034016",
+"end_ref_usfm": "EZK 34:16"
+},
+{
+"start_ref": "43006035",
+"start_ref_usfm": "JHN 6:35",
+"end_ref": "43006051",
+"end_ref_usfm": "JHN 6:51"
+},
+{
+"start_ref": "43010011",
+"start_ref_usfm": "JHN 10:11",
+"end_ref": "43010011",
+"end_ref_usfm": "JHN 10:11"
+},
+{
+"start_ref": "43010014",
+"start_ref_usfm": "JHN 10:14",
+"end_ref": "43010014",
+"end_ref_usfm": "JHN 10:14"
+},
+{
+"start_ref": "43008012",
+"start_ref_usfm": "JHN 8:12",
+"end_ref": "43008012",
+"end_ref_usfm": "JHN 8:12"
+},
+{
+"start_ref": "43009005",
+"start_ref_usfm": "JHN 9:5",
+"end_ref": "43009005",
+"end_ref_usfm": "JHN 9:5"
+},
+{
+"start_ref": "43014016",
+"start_ref_usfm": "JHN 14:16",
+"end_ref": "43014016",
+"end_ref_usfm": "JHN 14:16"
+},
+{
+"start_ref": "43014026",
+"start_ref_usfm": "JHN 14:26",
+"end_ref": "43014026",
+"end_ref_usfm": "JHN 14:26"
+},
+{
+"start_ref": "43015026",
+"start_ref_usfm": "JHN 15:26",
+"end_ref": "43015026",
+"end_ref_usfm": "JHN 15:26"
+},
+{
+"start_ref": "43016007",
+"start_ref_usfm": "JHN 16:7",
+"end_ref": "43016007",
+"end_ref_usfm": "JHN 16:7"
+},
+{
+"start_ref": "01002007",
+"start_ref_usfm": "GEN 2:7",
+"end_ref": "01002007",
+"end_ref_usfm": "GEN 2:7"
+},
+{
+"start_ref": "18032008",
+"start_ref_usfm": "JOB 32:8",
+"end_ref": "18032008",
+"end_ref_usfm": "JOB 32:8"
+},
+{
+"start_ref": "18033004",
+"start_ref_usfm": "JOB 33:4",
+"end_ref": "18033004",
+"end_ref_usfm": "JOB 33:4"
+},
+{
+"start_ref": "18034014",
+"start_ref_usfm": "JOB 34:14",
+"end_ref": "18034014",
+"end_ref_usfm": "JOB 34:14"
+},
+{
+"start_ref": "43003008",
+"start_ref_usfm": "JHN 3:8",
+"end_ref": "43003008",
+"end_ref_usfm": "JHN 3:8"
+},
+{
+"start_ref": "66019007",
+"start_ref_usfm": "REV 19:7",
+"end_ref": "66019007",
+"end_ref_usfm": "REV 19:7"
+},
+{
+"start_ref": "66021002",
+"start_ref_usfm": "REV 21:2",
+"end_ref": "66021009",
+"end_ref_usfm": "REV 21:9"
+},
+{
+"start_ref": "66022017",
+"start_ref_usfm": "REV 22:17",
+"end_ref": "66022017",
+"end_ref_usfm": "REV 22:17"
+},
+{
+"start_ref": "49002019",
+"start_ref_usfm": "EPH 2:19",
+"end_ref": "49002019",
+"end_ref_usfm": "EPH 2:19"
+},
+{
+"start_ref": "54003015",
+"start_ref_usfm": "1TI 3:15",
+"end_ref": "54003015",
+"end_ref_usfm": "1TI 3:15"
+},
+{
+"start_ref": "45012004",
+"start_ref_usfm": "ROM 12:4",
+"end_ref": "45012004",
+"end_ref_usfm": "ROM 12:4"
+},
+{
+"start_ref": "46012012",
+"start_ref_usfm": "1CO 12:12",
+"end_ref": "46012027",
+"end_ref_usfm": "1CO 12:27"
+},
+{
+"start_ref": "49001022",
+"start_ref_usfm": "EPH 1:22",
+"end_ref": "49001023",
+"end_ref_usfm": "EPH 1:23"
+},
+{
+"start_ref": "51001024",
+"start_ref_usfm": "COL 1:24",
+"end_ref": "51001024",
+"end_ref_usfm": "COL 1:24"
+}
+],
+"resource": [
+{
+"reference_id": "1040",
+"content_id": "1040",
+"resource_code": "DictionaryBibleThemes",
+"label": "1040: God, fatherhood of",
+"language": "eng"
+},
+{
+"reference_id": "1215",
+"content_id": "1215",
+"resource_code": "DictionaryBibleThemes",
+"label": "1215: God, feminine descriptions of",
+"language": "eng"
+},
+{
+"reference_id": "1220",
+"content_id": "1220",
+"resource_code": "DictionaryBibleThemes",
+"label": "1220: God, as shepherd",
+"language": "eng"
+},
+{
+"reference_id": "1240",
+"content_id": "1240",
+"resource_code": "DictionaryBibleThemes",
+"label": "1240: God, the Rock",
+"language": "eng"
+},
+{
+"reference_id": "1670",
+"content_id": "1670",
+"resource_code": "DictionaryBibleThemes",
+"label": "1670: symbols",
+"language": "eng"
+},
+{
+"reference_id": "2203",
+"content_id": "2203",
+"resource_code": "DictionaryBibleThemes",
+"label": "2203: Jesus Christ, titles and names of",
+"language": "eng"
+},
+{
+"reference_id": "2315",
+"content_id": "2315",
+"resource_code": "DictionaryBibleThemes",
+"label": "2315: Jesus Christ, as Lamb",
+"language": "eng"
+},
+{
+"reference_id": "2330",
+"content_id": "2330",
+"resource_code": "DictionaryBibleThemes",
+"label": "2330: Jesus Christ, as shepherd",
+"language": "eng"
+},
+{
+"reference_id": "3110",
+"content_id": "3110",
+"resource_code": "DictionaryBibleThemes",
+"label": "3110: Holy Spirit, titles and names of",
+"language": "eng"
+},
+{
+"reference_id": "5438",
+"content_id": "5438",
+"resource_code": "DictionaryBibleThemes",
+"label": "5438: parables",
+"language": "eng"
+},
+{
+"reference_id": "7020",
+"content_id": "7020",
+"resource_code": "DictionaryBibleThemes",
+"label": "7020: church, the",
+"language": "eng"
+}
+]
+}
+}
+]

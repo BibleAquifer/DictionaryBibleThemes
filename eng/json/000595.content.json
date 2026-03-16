@@ -1,0 +1,251 @@
+[
+{
+"content_id": "4930",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "4930: end",
+"media_type": "Text",
+"index_reference": "4930: end",
+"language": "eng",
+"review_level": "None",
+"content": "<p>A limit in time or space, or the outcome of a sequence of actions or events. God knows the end from the beginning. He is without limit: he exercises control over the furthest reaches of the world, and will bring to an end earthly powers, human life and the present age. Those who persevere to the end will be saved.</p>\n<h2>God is without limit</h2>\n<p><strong><a href=\"https://ref.ly/Heb1:12\">HEB 1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps102:26-Ps102:27\">PSA 102:26–102:27</a>; <a href=\"https://ref.ly/Dan6:26\">DAN 6:26</a>, <a href=\"https://ref.ly/Dan7:14\">DAN 7:14</a>; <a href=\"https://ref.ly/Matt24:35\">MAT 24:35</a> parallels <a href=\"https://ref.ly/Mark13:31\">MRK 13:31</a>, <a href=\"https://ref.ly/Luke21:33\">LUK 21:33</a>; <a href=\"https://ref.ly/Luke1:33\">LUK 1:33</a></p>\n<h2>God is the Beginning and the End</h2>\n<p><strong><a href=\"https://ref.ly/Rev21:6\">REV 21:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa44:6\">ISA 44:6</a>; <a href=\"https://ref.ly/Rev22:13\">REV 22:13</a></p>\n<h2>God brings earthly powers to an end</h2>\n<p><strong><a href=\"https://ref.ly/Isa13:11\">ISA 13:11</a></strong>; <strong><a href=\"https://ref.ly/Dan2:44\">DAN 2:44</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps89:44\">PSA 89:44</a>; <a href=\"https://ref.ly/Isa21:16\">ISA 21:16</a>, <a href=\"https://ref.ly/Isa23:9\">ISA 23:9</a>; <a href=\"https://ref.ly/Jer48:2\">JER 48:2</a> <em>Moab</em>; <a href=\"https://ref.ly/Jer49:37\">JER 49:37</a> <em>Elam</em>; <a href=\"https://ref.ly/Ezek7:2-Ezek7:6\">EZK 7:2–7:6</a> <em>Israel</em>; <a href=\"https://ref.ly/Ezek26:21\">EZK 26:21</a> <em>Tyre</em>; <a href=\"https://ref.ly/Ezek30:18\">EZK 30:18</a> <em>Egypt</em>; <a href=\"https://ref.ly/Dan5:26\">DAN 5:26</a> <em>Babylon</em></p>\n<h2>Persevering to the end</h2>\n<p><a href=\"https://ref.ly/Matt10:22\">MAT 10:22</a>, <a href=\"https://ref.ly/Matt24:13\">MAT 24:13</a>; ; <a href=\"https://ref.ly/Phil1:6\">PHP 1:6</a>; ; <a href=\"https://ref.ly/Heb3:14\">HEB 3:14</a>, <a href=\"https://ref.ly/Heb10:36\">HEB 10:36</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "58001012",
+"start_ref_usfm": "HEB 1:12",
+"end_ref": "58001012",
+"end_ref_usfm": "HEB 1:12"
+},
+{
+"start_ref": "19102026",
+"start_ref_usfm": "PSA 102:26",
+"end_ref": "19102027",
+"end_ref_usfm": "PSA 102:27"
+},
+{
+"start_ref": "27006026",
+"start_ref_usfm": "DAN 6:26",
+"end_ref": "27006026",
+"end_ref_usfm": "DAN 6:26"
+},
+{
+"start_ref": "27007014",
+"start_ref_usfm": "DAN 7:14",
+"end_ref": "27007014",
+"end_ref_usfm": "DAN 7:14"
+},
+{
+"start_ref": "40024035",
+"start_ref_usfm": "MAT 24:35",
+"end_ref": "40024035",
+"end_ref_usfm": "MAT 24:35"
+},
+{
+"start_ref": "41013031",
+"start_ref_usfm": "MRK 13:31",
+"end_ref": "41013031",
+"end_ref_usfm": "MRK 13:31"
+},
+{
+"start_ref": "42021033",
+"start_ref_usfm": "LUK 21:33",
+"end_ref": "42021033",
+"end_ref_usfm": "LUK 21:33"
+},
+{
+"start_ref": "42001033",
+"start_ref_usfm": "LUK 1:33",
+"end_ref": "42001033",
+"end_ref_usfm": "LUK 1:33"
+},
+{
+"start_ref": "66021006",
+"start_ref_usfm": "REV 21:6",
+"end_ref": "66021006",
+"end_ref_usfm": "REV 21:6"
+},
+{
+"start_ref": "23044006",
+"start_ref_usfm": "ISA 44:6",
+"end_ref": "23044006",
+"end_ref_usfm": "ISA 44:6"
+},
+{
+"start_ref": "66022013",
+"start_ref_usfm": "REV 22:13",
+"end_ref": "66022013",
+"end_ref_usfm": "REV 22:13"
+},
+{
+"start_ref": "23013011",
+"start_ref_usfm": "ISA 13:11",
+"end_ref": "23013011",
+"end_ref_usfm": "ISA 13:11"
+},
+{
+"start_ref": "27002044",
+"start_ref_usfm": "DAN 2:44",
+"end_ref": "27002044",
+"end_ref_usfm": "DAN 2:44"
+},
+{
+"start_ref": "19089044",
+"start_ref_usfm": "PSA 89:44",
+"end_ref": "19089044",
+"end_ref_usfm": "PSA 89:44"
+},
+{
+"start_ref": "23021016",
+"start_ref_usfm": "ISA 21:16",
+"end_ref": "23021016",
+"end_ref_usfm": "ISA 21:16"
+},
+{
+"start_ref": "23023009",
+"start_ref_usfm": "ISA 23:9",
+"end_ref": "23023009",
+"end_ref_usfm": "ISA 23:9"
+},
+{
+"start_ref": "24048002",
+"start_ref_usfm": "JER 48:2",
+"end_ref": "24048002",
+"end_ref_usfm": "JER 48:2"
+},
+{
+"start_ref": "24049037",
+"start_ref_usfm": "JER 49:37",
+"end_ref": "24049037",
+"end_ref_usfm": "JER 49:37"
+},
+{
+"start_ref": "26007002",
+"start_ref_usfm": "EZK 7:2",
+"end_ref": "26007006",
+"end_ref_usfm": "EZK 7:6"
+},
+{
+"start_ref": "26026021",
+"start_ref_usfm": "EZK 26:21",
+"end_ref": "26026021",
+"end_ref_usfm": "EZK 26:21"
+},
+{
+"start_ref": "26030018",
+"start_ref_usfm": "EZK 30:18",
+"end_ref": "26030018",
+"end_ref_usfm": "EZK 30:18"
+},
+{
+"start_ref": "27005026",
+"start_ref_usfm": "DAN 5:26",
+"end_ref": "27005026",
+"end_ref_usfm": "DAN 5:26"
+},
+{
+"start_ref": "40010022",
+"start_ref_usfm": "MAT 10:22",
+"end_ref": "40010022",
+"end_ref_usfm": "MAT 10:22"
+},
+{
+"start_ref": "40024013",
+"start_ref_usfm": "MAT 24:13",
+"end_ref": "40024013",
+"end_ref_usfm": "MAT 24:13"
+},
+{
+"start_ref": "50001006",
+"start_ref_usfm": "PHP 1:6",
+"end_ref": "50001006",
+"end_ref_usfm": "PHP 1:6"
+},
+{
+"start_ref": "58003014",
+"start_ref_usfm": "HEB 3:14",
+"end_ref": "58003014",
+"end_ref_usfm": "HEB 3:14"
+},
+{
+"start_ref": "58010036",
+"start_ref_usfm": "HEB 10:36",
+"end_ref": "58010036",
+"end_ref_usfm": "HEB 10:36"
+}
+],
+"resource": [
+{
+"reference_id": "1115",
+"content_id": "1115",
+"resource_code": "DictionaryBibleThemes",
+"label": "1115: God, purpose of",
+"language": "eng"
+},
+{
+"reference_id": "4909",
+"content_id": "4909",
+"resource_code": "DictionaryBibleThemes",
+"label": "4909: beginning",
+"language": "eng"
+},
+{
+"reference_id": "4915",
+"content_id": "4915",
+"resource_code": "DictionaryBibleThemes",
+"label": "4915: completion",
+"language": "eng"
+},
+{
+"reference_id": "4918",
+"content_id": "4918",
+"resource_code": "DictionaryBibleThemes",
+"label": "4918: dawn",
+"language": "eng"
+},
+{
+"reference_id": "4938",
+"content_id": "4938",
+"resource_code": "DictionaryBibleThemes",
+"label": "4938: fate, and final destiny",
+"language": "eng"
+},
+{
+"reference_id": "5235",
+"content_id": "5235",
+"resource_code": "DictionaryBibleThemes",
+"label": "5235: boundary",
+"language": "eng"
+},
+{
+"reference_id": "8459",
+"content_id": "8459",
+"resource_code": "DictionaryBibleThemes",
+"label": "8459: perseverance",
+"language": "eng"
+},
+{
+"reference_id": "9020",
+"content_id": "9020",
+"resource_code": "DictionaryBibleThemes",
+"label": "9020: death",
+"language": "eng"
+},
+{
+"reference_id": "9105",
+"content_id": "9105",
+"resource_code": "DictionaryBibleThemes",
+"label": "9105: last things",
+"language": "eng"
+},
+{
+"reference_id": "9120",
+"content_id": "9120",
+"resource_code": "DictionaryBibleThemes",
+"label": "9120: eternity",
+"language": "eng"
+}
+]
+}
+}
+]

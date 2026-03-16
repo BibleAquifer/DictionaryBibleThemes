@@ -1,0 +1,81 @@
+[
+{
+"content_id": "5560",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5560: suffering",
+"media_type": "Text",
+"index_reference": "5560: suffering",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The experience of pain or distress, both physical and emotional. Scripture is thoroughly realistic about the place of suffering in the world and in the lives of believers. To become a Christian is not to escape from suffering, but to be able to bear suffering with dignity and hope.</p>",
+"associations": {
+"passage": [],
+"resource": [
+{
+"reference_id": "5561",
+"content_id": "5561",
+"resource_code": "DictionaryBibleThemes",
+"label": "5561: suffering, nature of",
+"language": "eng"
+},
+{
+"reference_id": "5562",
+"content_id": "5562",
+"resource_code": "DictionaryBibleThemes",
+"label": "5562: suffering, of the innocent",
+"language": "eng"
+},
+{
+"reference_id": "5563",
+"content_id": "5563",
+"resource_code": "DictionaryBibleThemes",
+"label": "5563: suffering, of God",
+"language": "eng"
+},
+{
+"reference_id": "5564",
+"content_id": "5564",
+"resource_code": "DictionaryBibleThemes",
+"label": "5564: suffering, of Jesus Christ",
+"language": "eng"
+},
+{
+"reference_id": "5565",
+"content_id": "5565",
+"resource_code": "DictionaryBibleThemes",
+"label": "5565: suffering, of believers",
+"language": "eng"
+},
+{
+"reference_id": "5566",
+"content_id": "5566",
+"resource_code": "DictionaryBibleThemes",
+"label": "5566: suffering, encouragements in",
+"language": "eng"
+},
+{
+"reference_id": "5567",
+"content_id": "5567",
+"resource_code": "DictionaryBibleThemes",
+"label": "5567: suffering, emotional aspects of",
+"language": "eng"
+},
+{
+"reference_id": "5568",
+"content_id": "5568",
+"resource_code": "DictionaryBibleThemes",
+"label": "5568: suffering, causes of",
+"language": "eng"
+},
+{
+"reference_id": "5569",
+"content_id": "5569",
+"resource_code": "DictionaryBibleThemes",
+"label": "5569: suffering, hardship",
+"language": "eng"
+}
+]
+}
+}
+]

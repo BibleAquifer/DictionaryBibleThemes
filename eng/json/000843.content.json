@@ -1,0 +1,241 @@
+[
+{
+"content_id": "5255",
+"reference_id": 0,
+"version": "1.0.2",
+"title": "5255: citizenship",
+"media_type": "Text",
+"index_reference": "5255: citizenship",
+"language": "eng",
+"review_level": "None",
+"content": "<p>The privilege of belonging to a city or country. Scripture portrays believers as living in two realms, being members of both human society and of the heavenly city. In both realms there are duties as well as privileges.</p>\n<h2>Dual citizenship</h2>\n<p><strong><a href=\"https://ref.ly/Matt22:21\">MAT 22:21</a></strong> parallels <a href=\"https://ref.ly/Mark12:17\">MRK 12:17</a>, <a href=\"https://ref.ly/Luke20:25\">LUK 20:25</a> <em>See also</em> <a href=\"https://ref.ly/Ezra7:26\">EZR 7:26</a></p>\n<h2>Earthly citizenship</h2>\n<h3>Privileges and duties of citizens</h3>\n<p><strong><a href=\"https://ref.ly/Rom13:1-Rom13:7\">ROM 13:1–13:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl8:2\">ECC 8:2</a>; <a href=\"https://ref.ly/Matt17:27\">MAT 17:27</a>; <a href=\"https://ref.ly/Titus3:1\">TIT 3:1</a>; <a href=\"https://ref.ly/1Pet2:13-1Pet2:17\">1PE 2:13–2:17</a></p>\n<h3>Privileges and duties of Roman citizenship</h3>\n<p><a href=\"https://ref.ly/Acts16:37\">ACT 16:37</a>, <a href=\"https://ref.ly/Acts22:25-Acts22:29\">ACT 22:25–22:29</a>, <a href=\"https://ref.ly/Acts23:27\">ACT 23:27</a>, <a href=\"https://ref.ly/Acts25:10\">ACT 25:10</a></p>\n<h2>Heavenly citizenship and the Christian hope</h2>\n<p><strong><a href=\"https://ref.ly/Phil3:20\">PHP 3:20</a></strong>; <strong><a href=\"https://ref.ly/Heb13:14\">HEB 13:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke22:29-Luke22:30\">LUK 22:29–22:30</a>; <a href=\"https://ref.ly/John14:2\">JHN 14:2</a>; <a href=\"https://ref.ly/1Pet1:4\">1PE 1:4</a>; <a href=\"https://ref.ly/Rev21:2\">REV 21:2</a>, <a href=\"https://ref.ly/Rev21:27\">REV 21:27</a>, <a href=\"https://ref.ly/Rev22:3-Rev22:5\">REV 22:3–22:5</a></p>\n<h3>Gentiles are included in the citizenship of heaven</h3>\n<p><strong><a href=\"https://ref.ly/Eph2:19\">EPH 2:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph2:12-Eph2:13\">EPH 2:12–2:13</a></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "40022021",
+"start_ref_usfm": "MAT 22:21",
+"end_ref": "40022021",
+"end_ref_usfm": "MAT 22:21"
+},
+{
+"start_ref": "41012017",
+"start_ref_usfm": "MRK 12:17",
+"end_ref": "41012017",
+"end_ref_usfm": "MRK 12:17"
+},
+{
+"start_ref": "42020025",
+"start_ref_usfm": "LUK 20:25",
+"end_ref": "42020025",
+"end_ref_usfm": "LUK 20:25"
+},
+{
+"start_ref": "15007026",
+"start_ref_usfm": "EZR 7:26",
+"end_ref": "15007026",
+"end_ref_usfm": "EZR 7:26"
+},
+{
+"start_ref": "45013001",
+"start_ref_usfm": "ROM 13:1",
+"end_ref": "45013007",
+"end_ref_usfm": "ROM 13:7"
+},
+{
+"start_ref": "21008002",
+"start_ref_usfm": "ECC 8:2",
+"end_ref": "21008002",
+"end_ref_usfm": "ECC 8:2"
+},
+{
+"start_ref": "40017027",
+"start_ref_usfm": "MAT 17:27",
+"end_ref": "40017027",
+"end_ref_usfm": "MAT 17:27"
+},
+{
+"start_ref": "56003001",
+"start_ref_usfm": "TIT 3:1",
+"end_ref": "56003001",
+"end_ref_usfm": "TIT 3:1"
+},
+{
+"start_ref": "60002013",
+"start_ref_usfm": "1PE 2:13",
+"end_ref": "60002017",
+"end_ref_usfm": "1PE 2:17"
+},
+{
+"start_ref": "44016037",
+"start_ref_usfm": "ACT 16:37",
+"end_ref": "44016037",
+"end_ref_usfm": "ACT 16:37"
+},
+{
+"start_ref": "44022025",
+"start_ref_usfm": "ACT 22:25",
+"end_ref": "44022029",
+"end_ref_usfm": "ACT 22:29"
+},
+{
+"start_ref": "44023027",
+"start_ref_usfm": "ACT 23:27",
+"end_ref": "44023027",
+"end_ref_usfm": "ACT 23:27"
+},
+{
+"start_ref": "44025010",
+"start_ref_usfm": "ACT 25:10",
+"end_ref": "44025010",
+"end_ref_usfm": "ACT 25:10"
+},
+{
+"start_ref": "50003020",
+"start_ref_usfm": "PHP 3:20",
+"end_ref": "50003020",
+"end_ref_usfm": "PHP 3:20"
+},
+{
+"start_ref": "58013014",
+"start_ref_usfm": "HEB 13:14",
+"end_ref": "58013014",
+"end_ref_usfm": "HEB 13:14"
+},
+{
+"start_ref": "42022029",
+"start_ref_usfm": "LUK 22:29",
+"end_ref": "42022030",
+"end_ref_usfm": "LUK 22:30"
+},
+{
+"start_ref": "43014002",
+"start_ref_usfm": "JHN 14:2",
+"end_ref": "43014002",
+"end_ref_usfm": "JHN 14:2"
+},
+{
+"start_ref": "60001004",
+"start_ref_usfm": "1PE 1:4",
+"end_ref": "60001004",
+"end_ref_usfm": "1PE 1:4"
+},
+{
+"start_ref": "66021002",
+"start_ref_usfm": "REV 21:2",
+"end_ref": "66021002",
+"end_ref_usfm": "REV 21:2"
+},
+{
+"start_ref": "66021027",
+"start_ref_usfm": "REV 21:27",
+"end_ref": "66021027",
+"end_ref_usfm": "REV 21:27"
+},
+{
+"start_ref": "66022003",
+"start_ref_usfm": "REV 22:3",
+"end_ref": "66022005",
+"end_ref_usfm": "REV 22:5"
+},
+{
+"start_ref": "49002019",
+"start_ref_usfm": "EPH 2:19",
+"end_ref": "49002019",
+"end_ref_usfm": "EPH 2:19"
+},
+{
+"start_ref": "49002012",
+"start_ref_usfm": "EPH 2:12",
+"end_ref": "49002013",
+"end_ref_usfm": "EPH 2:13"
+}
+],
+"resource": [
+{
+"reference_id": "2375",
+"content_id": "2375",
+"resource_code": "DictionaryBibleThemes",
+"label": "2375: kingdom of God",
+"language": "eng"
+},
+{
+"reference_id": "4263",
+"content_id": "4263",
+"resource_code": "DictionaryBibleThemes",
+"label": "4263: Rome",
+"language": "eng"
+},
+{
+"reference_id": "5219",
+"content_id": "5219",
+"resource_code": "DictionaryBibleThemes",
+"label": "5219: authority, of human institutions",
+"language": "eng"
+},
+{
+"reference_id": "5256",
+"content_id": "5256",
+"resource_code": "DictionaryBibleThemes",
+"label": "5256: city",
+"language": "eng"
+},
+{
+"reference_id": "5540",
+"content_id": "5540",
+"resource_code": "DictionaryBibleThemes",
+"label": "5540: society",
+"language": "eng"
+},
+{
+"reference_id": "5577",
+"content_id": "5577",
+"resource_code": "DictionaryBibleThemes",
+"label": "5577: taxation",
+"language": "eng"
+},
+{
+"reference_id": "5611",
+"content_id": "5611",
+"resource_code": "DictionaryBibleThemes",
+"label": "5611: watchman",
+"language": "eng"
+},
+{
+"reference_id": "6710",
+"content_id": "6710",
+"resource_code": "DictionaryBibleThemes",
+"label": "6710: privileges",
+"language": "eng"
+},
+{
+"reference_id": "7105",
+"content_id": "7105",
+"resource_code": "DictionaryBibleThemes",
+"label": "7105: believers",
+"language": "eng"
+},
+{
+"reference_id": "7512",
+"content_id": "7512",
+"resource_code": "DictionaryBibleThemes",
+"label": "7512: Gentiles, in NT",
+"language": "eng"
+},
+{
+"reference_id": "7530",
+"content_id": "7530",
+"resource_code": "DictionaryBibleThemes",
+"label": "7530: foreigners",
+"language": "eng"
+},
+{
+"reference_id": "9410",
+"content_id": "9410",
+"resource_code": "DictionaryBibleThemes",
+"label": "9410: heaven",
+"language": "eng"
+}
+]
+}
+}
+]
