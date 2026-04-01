@@ -2,10 +2,10 @@
 {
 "content_id": "5552",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5552: spies",
 "media_type": "Text",
-"index_reference": "5552: spies",
+"index_reference": "5552",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Spies were used to collect information, usually of a military nature</h2>\n<p>Joseph's brothers accused of being spies:\n <a href=\"https://ref.ly/Gen42:9-Gen42:11\">GEN 42:9–42:11</a>, <a href=\"https://ref.ly/Gen42:14-Gen42:16\">GEN 42:14–42:16</a>, <a href=\"https://ref.ly/Gen42:30-Gen42:34\">GEN 42:30–42:34</a>; <a href=\"https://ref.ly/Num13:1-Num13:20\">NUM 13:1–13:20</a>, <a href=\"https://ref.ly/Num21:32\">NUM 21:32</a>; ; <a href=\"https://ref.ly/Deut1:22\">DEU 1:22</a>; ; <a href=\"https://ref.ly/Josh2:1-Josh2:3\">JOS 2:1–2:3</a>; <a href=\"https://ref.ly/Josh6:17\">JOS 6:17</a>, <a href=\"https://ref.ly/Josh6:22\">JOS 6:22</a>, <a href=\"https://ref.ly/Josh6:25\">JOS 6:25</a>; ; <a href=\"https://ref.ly/Heb11:31\">HEB 11:31</a>; ; <a href=\"https://ref.ly/Jas2:25\">JAS 2:25</a>; \n<a href=\"https://ref.ly/Josh7:2\">JOS 7:2</a>; ; <a href=\"https://ref.ly/Judg1:23-Judg1:24\">JDG 1:23–1:24</a>, <a href=\"https://ref.ly/Judg18:2\">JDG 18:2</a>, <a href=\"https://ref.ly/Judg18:14\">JDG 18:14</a>, <a href=\"https://ref.ly/Judg18:17\">JDG 18:17</a>; ; <a href=\"https://ref.ly/2Sam10:3\">2SA 10:3</a> parallel <a href=\"https://ref.ly/1Chr19:3\">1CH 19:3</a></p>\n<h2>Spies were used to incriminate Jesus Christ and the first Christians</h2>\n<p><a href=\"https://ref.ly/Luke20:20-Luke20:22\">LUK 20:20–20:22</a> parallels <a href=\"https://ref.ly/Matt22:15-Matt22:16\">MAT 22:15–22:16</a>, <a href=\"https://ref.ly/Mark12:13-Mark12:14\">MRK 12:13–12:14</a>; ; <a href=\"https://ref.ly/Gal2:4\">GAL 2:4</a></p>",
@@ -178,6 +178,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5969: treachery",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gur"
 }
 ]
 }

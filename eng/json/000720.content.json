@@ -2,10 +2,10 @@
 {
 "content_id": "5131",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5131: belt",
 "media_type": "Text",
-"index_reference": "5131: belt",
+"index_reference": "5131",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An item of clothing, worn round the waist, used for gathering clothes and holding weapons or money.</p>\n<h2>The belt as an item of clothing</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs18:46\">1KI 18:46</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam20:8\">2SA 20:8</a>; <a href=\"https://ref.ly/1Kgs2:5\">1KI 2:5</a>; <a href=\"https://ref.ly/2Kgs4:29\">2KI 4:29</a>, <a href=\"https://ref.ly/2Kgs9:1\">2KI 9:1</a>; <a href=\"https://ref.ly/Ps109:19\">PSA 109:19</a>; <a href=\"https://ref.ly/Isa5:27\">ISA 5:27</a>; <a href=\"https://ref.ly/Jer13:1-Jer13:11\">JER 13:1–13:11</a>; <a href=\"https://ref.ly/Dan10:5\">DAN 10:5</a>; <a href=\"https://ref.ly/Matt10:9\">MAT 10:9</a> parallel <a href=\"https://ref.ly/Mark6:8\">MRK 6:8</a>; <a href=\"https://ref.ly/Acts21:11\">ACT 21:11</a></p>\n<h2>Part of the battledress of a warrior</h2>\n<p><strong><a href=\"https://ref.ly/1Sam18:4\">1SA 18:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam18:11\">2SA 18:11</a>; <a href=\"https://ref.ly/Ezek23:15\">EZK 23:15</a></p>\n<h2>A leather belt was a sign of rough living</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs1:8\">2KI 1:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt3:4\">MAT 3:4</a> parallel <a href=\"https://ref.ly/Mark1:6\">MRK 1:6</a></p>\n<h2>The belt symbolises truth and righteousness</h2>\n<p><strong><a href=\"https://ref.ly/Isa11:5\">ISA 11:5</a></strong>; <strong><a href=\"https://ref.ly/Eph6:14\">EPH 6:14</a></strong></p>",
@@ -174,6 +174,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8486: spiritual warfare, armour",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Belt",
+"type": "realia",
+"confidence": 0.6423,
+"match_method": "scored",
+"preferred_label": "Belt"
 }
 ]
 }

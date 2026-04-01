@@ -2,10 +2,10 @@
 {
 "content_id": "7356",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7356: Feast of Dedication",
 "media_type": "Text",
-"index_reference": "7356: feast of dedication",
+"index_reference": "7356",
 "language": "eng",
 "review_level": "None",
 "content": "<p>This feast began on 25th Kislev (November/December) and lasted seven days. It celebrated the cleansing of the temple and altar by Judas Maccabeus after they had been defiled by Antiochus Epiphanes.</p>\n<h2>Jesus Christ was challenged to declare his messiahship at the Feast of Dedication</h2>\n<p><a href=\"https://ref.ly/John10:22-John10:24\">JHN 10:22–10:24</a></p>",
@@ -18,7 +18,16 @@
 "end_ref_usfm": "JHN 10:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "group:Nephilim",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nephilim"
+}
+]
 }
 }
 ]

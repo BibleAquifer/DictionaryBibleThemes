@@ -2,10 +2,10 @@
 {
 "content_id": "7360",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7360: Feast of Unleavened Bread",
 "media_type": "Text",
-"index_reference": "7360: feast of unleavened bread",
+"index_reference": "7360",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The feast was kept from 15th-21st Abib (March/April), to commemorate the haste with which the Israelites left Egypt. It was always celebrated in the calendar of feasts with the Feast of Passover.</p>\n<h2>Celebrating the Feast of Unleavened Bread</h2>\n<p><strong><a href=\"https://ref.ly/Exod12:15-Exod12:20\">EXO 12:15–12:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:39\">EXO 12:39</a>, <a href=\"https://ref.ly/Exod23:15\">EXO 23:15</a>; <a href=\"https://ref.ly/Lev23:6\">LEV 23:6</a>; <a href=\"https://ref.ly/Num28:17\">NUM 28:17</a>; <a href=\"https://ref.ly/Deut16:3\">DEU 16:3</a></p>\n<h2>All use of yeast was forbidden during the Feast of Unleavened Bread</h2>\n<h3>All leaven was to be removed from the home before the feast began</h3>\n<p><a href=\"https://ref.ly/Exod12:19\">EXO 12:19</a>, <a href=\"https://ref.ly/Exod13:7\">EXO 13:7</a>; ; <a href=\"https://ref.ly/Deut16:4\">DEU 16:4</a></p>\n<h3>No yeast was to be used in the preparation of food</h3>\n<p><a href=\"https://ref.ly/Exod12:18-Exod12:20\">EXO 12:18–12:20</a>, <a href=\"https://ref.ly/Exod13:6-Exod13:7\">EXO 13:6–13:7</a>, <a href=\"https://ref.ly/Exod23:15\">EXO 23:15</a></p>\n<h2>Sacrifices made at the Feast of Unleavened Bread</h2>\n<p><a href=\"https://ref.ly/Lev23:8\">LEV 23:8</a>; ; <a href=\"https://ref.ly/Num28:19-Num28:24\">NUM 28:19–28:24</a></p>\n<h2>The Feast of Unleavened Bread in NT times</h2>\n<p><a href=\"https://ref.ly/Mark14:1\">MRK 14:1</a>, <a href=\"https://ref.ly/Mark14:12\">MRK 14:12</a>; ; <a href=\"https://ref.ly/Acts12:3\">ACT 12:3</a>; ; <a href=\"https://ref.ly/1Cor5:6-1Cor5:8\">1CO 5:6–5:8</a></p>",
@@ -149,6 +149,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7406: Passover",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 0.628,
+"match_method": "scored",
+"preferred_label": "Unleavened Bread"
 }
 ]
 }

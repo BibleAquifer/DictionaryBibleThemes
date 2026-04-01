@@ -2,10 +2,10 @@
 {
 "content_id": "8221",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8221: courage, as strength from God",
 "media_type": "Text",
-"index_reference": "8221: courage, as strength from god",
+"index_reference": "8221",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God gives strength to his people.  He enables them to be courageous through his gift of faith.  God proves himself faithful to his promises and enables his people to trust him in everyday life.</p>\n<h2>Courage through faithful obedience</h2>\n<p><strong><a href=\"https://ref.ly/1Chr22:11-1Chr22:13\">1CH 22:11–22:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr28:20\">1CH 28:20</a>; <a href=\"https://ref.ly/Gen12:1-Gen12:4\">GEN 12:1–12:4</a>; <a href=\"https://ref.ly/Heb11:8\">HEB 11:8</a>; <a href=\"https://ref.ly/Gen22:1-Gen22:5\">GEN 22:1–22:5</a>; <a href=\"https://ref.ly/Heb11:17-Heb11:19\">HEB 11:17–11:19</a>; <a href=\"https://ref.ly/2Chr15:8\">2CH 15:8</a>, <a href=\"https://ref.ly/2Chr19:8-2Chr19:11\">2CH 19:8–19:11</a>; <a href=\"https://ref.ly/Ezra7:27-Ezra7:28\">EZR 7:27–7:28</a>, <a href=\"https://ref.ly/Ezra10:1-Ezra10:4\">EZR 10:1–10:4</a>; <a href=\"https://ref.ly/Matt26:39\">MAT 26:39</a> parallels <a href=\"https://ref.ly/Mark14:35-Mark14:36\">MRK 14:35–14:36</a>, <a href=\"https://ref.ly/Luke22:41-Luke22:42\">LUK 22:41–22:42</a></p>\n<h2>Courage in the face of wrongdoing</h2>\n<p><strong><a href=\"https://ref.ly/2Sam12:7-2Sam12:9\">2SA 12:7–12:9</a></strong> <em>The prophet accuses the king of adultery and murder.</em> <em>See also</em> <a href=\"https://ref.ly/2Chr26:16-2Chr26:18\">2CH 26:16–26:18</a> <em>Azariah and Uzziah</em>; <a href=\"https://ref.ly/Mark6:18\">MRK 6:18</a> <em>John the Baptist and Herod</em>; <a href=\"https://ref.ly/Heb11:7\">HEB 11:7</a>, <a href=\"https://ref.ly/Heb11:24-Heb11:27\">HEB 11:24–11:27</a></p>\n<h2>Courage under pressure</h2>\n<p><strong><a href=\"https://ref.ly/Ps46:1-Ps46:3\">PSA 46:1–46:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps10:17\">PSA 10:17</a>, <a href=\"https://ref.ly/Ps27:3\">PSA 27:3</a>; <a href=\"https://ref.ly/Isa12:2\">ISA 12:2</a> <em>Isaiah's encouragement of the exiles of Israel</em>; <a href=\"https://ref.ly/Acts27:22\">ACT 27:22</a>; <a href=\"https://ref.ly/1Cor16:13\">1CO 16:13</a>; <a href=\"https://ref.ly/2Cor6:4-2Cor6:10\">2CO 6:4–6:10</a>; <a href=\"https://ref.ly/Heb3:6\">HEB 3:6</a>, <a href=\"https://ref.ly/Heb11:32-Heb11:39\">HEB 11:32–11:39</a>; <a href=\"https://ref.ly/Matt14:27\">MAT 14:27</a> parallels <a href=\"https://ref.ly/Mark6:50\">MRK 6:50</a>, <a href=\"https://ref.ly/John6:20\">JHN 6:20</a></p>\n<h2>Courageous witness</h2>\n<p><strong><a href=\"https://ref.ly/Acts4:18-Acts4:20\">ACT 4:18–4:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt10:19-Matt10:26\">MAT 10:19–10:26</a> parallels <a href=\"https://ref.ly/Mark13:9-Mark13:11\">MRK 13:9–13:11</a>, <a href=\"https://ref.ly/Luke21:12-Luke21:15\">LUK 21:12–21:15</a>; <a href=\"https://ref.ly/Acts23:11\">ACT 23:11</a>; <a href=\"https://ref.ly/Phil1:14\">PHP 1:14</a>, <a href=\"https://ref.ly/Phil1:20\">PHP 1:20</a></p>\n<h2>Courage in prayer</h2>\n<p><strong><a href=\"https://ref.ly/Heb4:14-Heb4:16\">HEB 4:14–4:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:27-Gen18:28\">GEN 18:27–18:28</a>; <a href=\"https://ref.ly/1Chr17:25\">1CH 17:25</a> parallel <a href=\"https://ref.ly/2Sam7:27\">2SA 7:27</a></p>",
@@ -286,6 +286,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8754: fear",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Senaah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Senaah"
 }
 ]
 }

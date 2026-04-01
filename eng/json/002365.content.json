@@ -2,10 +2,10 @@
 {
 "content_id": "8734",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8734: evil",
 "media_type": "Text",
-"index_reference": "8734: evil",
+"index_reference": "8734",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The presence of corruption, malevolence and depravity in the world, opposed to God's nature and will. Scripture stresses that evil is a force in its own right, rather than the mere absence of good, and describes its origins and the manner in which God deals with its continuing presence and power in his world.</p>",
@@ -47,7 +47,8 @@
 "label": "8739: evil, examples of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "7359",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7359: Feast of Trumpets",
 "media_type": "Text",
-"index_reference": "7359: feast of trumpets",
+"index_reference": "7359",
 "language": "eng",
 "review_level": "None",
 "content": "<p>This feast, which is not specifically mentioned as such in the OT, took place at the observance of the new moon in the month of Tishri (September/October). It signalled the end of the agricultural year.</p>\n<h2>It was to be a day of rest, commemorated with the sounding of trumpets</h2>\n<p><a href=\"https://ref.ly/Lev23:24-Lev23:25\">LEV 23:24–23:25</a>; ; <a href=\"https://ref.ly/Num29:1\">NUM 29:1</a></p>\n<h2>Offerings were made to God</h2>\n<p><a href=\"https://ref.ly/Lev23:25\">LEV 23:25</a>; ; <a href=\"https://ref.ly/Num29:2-Num29:5\">NUM 29:2–29:5</a></p>\n<h2>Celebrated after the exile</h2>\n<p><a href=\"https://ref.ly/Neh8:2-Neh8:6\">NEH 8:2–8:6</a></p>",
@@ -57,7 +57,8 @@
 "label": "5056: rest",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

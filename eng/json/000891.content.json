@@ -2,10 +2,10 @@
 {
 "content_id": "5304",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5304: embroidery",
 "media_type": "Text",
-"index_reference": "5304: embroidery",
+"index_reference": "5304",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Examples of embroidery</h2>\n<h3>The entrance curtain to the tabernacle</h3>\n<p><strong><a href=\"https://ref.ly/Exod26:36\">EXO 26:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod27:16\">EXO 27:16</a>, <a href=\"https://ref.ly/Exod36:37\">EXO 36:37</a>, <a href=\"https://ref.ly/Exod38:18\">EXO 38:18</a></p>\n<h3>Aaron's sash</h3>\n<p><strong><a href=\"https://ref.ly/Exod28:39\">EXO 28:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod39:29\">EXO 39:29</a></p>\n<h3>Costly robes</h3>\n<p><strong><a href=\"https://ref.ly/Ps45:14\">PSA 45:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek16:10\">EZK 16:10</a>, <a href=\"https://ref.ly/Ezek16:13\">EZK 16:13</a>, <a href=\"https://ref.ly/Ezek16:18\">EZK 16:18</a>, <a href=\"https://ref.ly/Ezek26:16\">EZK 26:16</a></p>\n<h3>An expensive sail</h3>\n<p><a href=\"https://ref.ly/Ezek27:7\">EZK 27:7</a></p>\n<h2>Embroidery was important in trade</h2>\n<p><a href=\"https://ref.ly/Ezek27:16\">EZK 27:16</a>, <a href=\"https://ref.ly/Ezek27:24\">EZK 27:24</a></p>\n<h2>Embroidered garments were the spoils of war</h2>\n<p><a href=\"https://ref.ly/Judg5:30\">JDG 5:30</a></p>\n<h2>The developing human embryo is likened to God's embroidery</h2>\n<p><strong><a href=\"https://ref.ly/Ps139:15\">PSA 139:15</a></strong></p>",
@@ -157,6 +157,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7459: tabernacle, in OT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Frankincense",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Frankincense"
+},
+{
+"id": "realia:EmbroideredCloth",
+"type": "realia",
+"confidence": 0.885,
+"match_method": "scored",
+"preferred_label": "Embroidered Cloth"
 }
 ]
 }

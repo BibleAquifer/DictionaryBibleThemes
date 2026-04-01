@@ -2,10 +2,10 @@
 {
 "content_id": "8602",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8602: prayer",
 "media_type": "Text",
-"index_reference": "8602: prayer",
+"index_reference": "8602",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Fellowship with God through Jesus Christ, expressed in adoration, thanksgiving and intercession, through which believers draw near to God and learn more of his will for their lives. Scripture stresses the vital role of the Holy Spirit in stimulating and guiding prayer.</p>",
@@ -138,7 +138,8 @@
 "label": "8620: prayer, practicalities of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

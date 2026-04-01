@@ -2,10 +2,10 @@
 {
 "content_id": "8219",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8219: courage",
 "media_type": "Text",
-"index_reference": "8219: courage",
+"index_reference": "8219",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The quality of being able to act bravely under difficulties or in the face of opposition; being prepared to do dangerous or risky things in obedience to God, in the belief that he will strengthen, guard and protect his people.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8221: courage, as strength from God",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Semein",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Semein"
 }
 ]
 }

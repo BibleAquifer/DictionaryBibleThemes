@@ -2,16 +2,17 @@
 {
 "content_id": "5521",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5521: servant, Jesus Christ as",
 "media_type": "Text",
-"index_reference": "5521: servant, jesus christ as",
+"index_reference": "5521",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"2327.md\">2327: Jesus Christ, as servant</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

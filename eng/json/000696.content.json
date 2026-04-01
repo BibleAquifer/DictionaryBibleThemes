@@ -2,10 +2,10 @@
 {
 "content_id": "5100",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5100: Melchizedek",
 "media_type": "Text",
-"index_reference": "5100: melchizedek",
+"index_reference": "5100",
 "language": "eng",
 "review_level": "None",
 "content": "<p>“King of Righteousness”: king and priest of Salem, who blessed Abraham. David assumed Melchizedek's role as king and priest of Jersualem for himself and his descendants. Jesus Christ succeeded to this role and became a high priest in the order of Melchizedek.</p>\n<h2>Melchizedek was both king and priest</h2>\n<h3>As a king, Melchizedek entertained Abraham</h3>\n<p><strong><a href=\"https://ref.ly/Gen14:18\">GEN 14:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb7:1\">HEB 7:1</a></p>\n<h3>As a priest, Melchizedek blessed Abraham</h3>\n<p><strong><a href=\"https://ref.ly/Gen14:18-Gen14:19\">GEN 14:18–14:19</a></strong></p>\n<h3>Abraham acknowledged Melchizedek as a priest of the LORD</h3>\n<p><strong><a href=\"https://ref.ly/Gen14:20\">GEN 14:20</a>, <a href=\"https://ref.ly/Gen14:22\">GEN 14:22</a></strong> <em>Melchizedek here points ahead to Jesus Christ, who is also priest and king.</em></p>\n<h2>The status of Melchizedek</h2>\n<h3>David appropriates Melchizedek's office and authority for himself and his descendants</h3>\n<p><strong><a href=\"https://ref.ly/Ps110:1-Ps110:2\">PSA 110:1–110:2</a>, <a href=\"https://ref.ly/Ps110:4\">PSA 110:4</a></strong> <em>The word “order” here means “in succession to”, meaning that Christ assumes the status and function of Melchizedek.</em></p>\n<h3>The Davidic Messiah (Christ) inherits the office of Melchizedek</h3>\n<p><strong><a href=\"https://ref.ly/Matt22:41-Matt22:44\">MAT 22:41–22:44</a></strong> parallels <a href=\"https://ref.ly/Mark12:35-Mark12:37\">MRK 12:35–12:37</a>, <a href=\"https://ref.ly/Luke20:41-Luke20:44\">LUK 20:41–20:44</a> <em>Jesus Christ was at that time being acclaimed as the “Son of David” and by implication here claims to be the Messiah.</em> <em>See also</em> <a href=\"https://ref.ly/Matt20:30\">MAT 20:30</a> parallels <a href=\"https://ref.ly/Mark10:47\">MRK 10:47</a>, <a href=\"https://ref.ly/Luke18:35-Luke18:39\">LUK 18:35–18:39</a>; <a href=\"https://ref.ly/Matt21:9\">MAT 21:9</a> parallel <a href=\"https://ref.ly/Mark11:10\">MRK 11:10</a>; <a href=\"https://ref.ly/Matt21:15\">MAT 21:15</a>; <a href=\"https://ref.ly/Acts2:34\">ACT 2:34</a></p>\n<h2>Jesus Christ as high priest after the order of Melchizedek</h2>\n<p><strong><a href=\"https://ref.ly/Heb5:8-Heb5:10\">HEB 5:8–5:10</a>, <a href=\"https://ref.ly/Heb6:19-Heb6:20\">HEB 6:19–6:20</a></strong> <em>Only the high priest could sacrifice for the sins of the nation in the inner sanctuary behind the curtain.</em></p>\n<h3>The characteristics of the order of Melchizedek</h3>\n<p><strong><a href=\"https://ref.ly/Heb7:2-Heb7:3\">HEB 7:2–7:3</a></strong> <em>Melchizedek's order of priesthood was one of kingship, peace and righteousness; it did not depend on genealogical descent (unlike the Levitical priesthood); it is eternal, without known beginning or end.</em> <em>See also</em> <a href=\"https://ref.ly/Ps110:4\">PSA 110:4</a>; <a href=\"https://ref.ly/Heb5:6\">HEB 5:6</a>, <a href=\"https://ref.ly/Heb6:20\">HEB 6:20</a>, <a href=\"https://ref.ly/Heb7:21\">HEB 7:21</a></p>\n<h3>The uniqueness of Jesus Christ's high priesthood in the order of Melchizedek</h3>\n<p><strong><a href=\"https://ref.ly/Heb7:6-Heb7:7\">HEB 7:6–7:7</a></strong> <em>Melchizedek was superior to Abraham and therefore to the Levitical priesthood descended from Abraham</em>; <strong><a href=\"https://ref.ly/Ps110:4\">PSA 110:4</a></strong> <em>The priesthood is secured by God's oath.</em> <em>See also</em> <a href=\"https://ref.ly/Heb6:17-Heb6:20\">HEB 6:17–6:20</a>, <a href=\"https://ref.ly/Heb7:16\">HEB 7:16</a>, <a href=\"https://ref.ly/Heb7:20-Heb7:22\">HEB 7:20–7:22</a>, <a href=\"https://ref.ly/Heb7:26-Heb7:27\">HEB 7:26–7:27</a>, <a href=\"https://ref.ly/Heb8:1-Heb8:2\">HEB 8:1–8:2</a></p>\n<h3>Jesus Christ's high priesthood makes the Levitical priesthood obsolete</h3>\n<p><strong><a href=\"https://ref.ly/Heb8:13\">HEB 8:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb7:11\">HEB 7:11</a>, <a href=\"https://ref.ly/Heb7:18-Heb7:19\">HEB 7:18–7:19</a>, <a href=\"https://ref.ly/Heb8:7-Heb8:13\">HEB 8:7–8:13</a></p>",
@@ -294,6 +294,50 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8488: tithing",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ephah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephah"
+},
+{
+"id": "person:Ephah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephah"
+},
+{
+"id": "person:Ephah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephah"
+},
+{
+"id": "place:Ephah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephah"
+},
+{
+"id": "realia:Ephah",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephah"
+},
+{
+"id": "person:Melchizedek",
+"type": "person",
+"confidence": 0.5612,
+"match_method": "scored",
+"preferred_label": "Melchizedek"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "6718",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6718: reconciliation, between believers",
 "media_type": "Text",
-"index_reference": "6718: reconciliation, between believers",
+"index_reference": "6718",
 "language": "eng",
 "review_level": "None",
 "content": "<p>True reconciliation between people is only possible after they have been reconciled to God through Jesus Christ. Believers are urged to settle differences among themselves in brotherly love.</p>\n<h2>The cause of the breakdown in relationships is sin</h2>\n<p><strong><a href=\"https://ref.ly/Gen27:41\">GEN 27:41</a></strong> <a href=\"https://ref.ly/Gen37:4-Gen37:5\">GEN 37:4–37:5</a>, <a href=\"https://ref.ly/Gen37:18-Gen37:20\">GEN 37:18–37:20</a>; \n<a href=\"https://ref.ly/1Sam15:12-1Sam15:14\">1SA 15:12–15:14</a> <em>Samuel and Saul</em>; ; <a href=\"https://ref.ly/2Sam14:28\">2SA 14:28</a> <em>Absalom and David</em>; ; <a href=\"https://ref.ly/Acts15:37-Acts15:40\">ACT 15:37–15:40</a> <em>Paul and Barnabas</em>; ; <a href=\"https://ref.ly/Gal2:11\">GAL 2:11</a> <em>Paul opposes Peter</em></p>\n<h2>Believers should be reconciled to one another</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:23-Matt5:24\">MAT 5:23–5:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt5:9\">MAT 5:9</a>, <a href=\"https://ref.ly/Matt5:25\">MAT 5:25</a> parallel <a href=\"https://ref.ly/Luke12:58\">LUK 12:58</a>; <a href=\"https://ref.ly/Matt5:44\">MAT 5:44</a>, <a href=\"https://ref.ly/Matt18:15-Matt18:17\">MAT 18:15–18:17</a>, <a href=\"https://ref.ly/Matt18:21-Matt18:35\">MAT 18:21–18:35</a>; <a href=\"https://ref.ly/John17:20-John17:23\">JHN 17:20–17:23</a>; <a href=\"https://ref.ly/Rom12:18-Rom12:21\">ROM 12:18–12:21</a>; <a href=\"https://ref.ly/2Thess3:14-2Thess3:15\">2TH 3:14–3:15</a></p>\n<h2>The death of Jesus Christ should bring believers together in peace</h2>\n<p><strong><a href=\"https://ref.ly/Eph2:14-Eph2:22\">EPH 2:14–2:22</a></strong></p>\n<h2>The church should display reconciliation</h2>\n<p><strong><a href=\"https://ref.ly/Col3:12-Col3:15\">COL 3:12–3:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom12:18-Rom12:21\">ROM 12:18–12:21</a>; <a href=\"https://ref.ly/Eph4:32\">EPH 4:32</a>; <a href=\"https://ref.ly/2Thess3:14-2Thess3:15\">2TH 3:14–3:15</a></p>\n<h2>Examples of reconciliation between people</h2>\n<p><strong><a href=\"https://ref.ly/Gen33:4\">GEN 33:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen45:1-Gen45:5\">GEN 45:1–45:5</a> <em>Joseph and his brothers</em>; <a href=\"https://ref.ly/Josh22:10-Josh22:34\">JOS 22:10–22:34</a> <em>Israel, Reuben and Gad</em>; <a href=\"https://ref.ly/Luke23:12\">LUK 23:12</a> <em>Herod and Pilate</em>; <a href=\"https://ref.ly/John21:15-John21:17\">JHN 21:15–21:17</a> <em>Jesus Christ and Peter</em>; <a href=\"https://ref.ly/Acts9:26-Acts9:28\">ACT 9:26–9:28</a> <em>Paul and the apostles</em>; <a href=\"https://ref.ly/1Cor7:11\">1CO 7:11</a> <em>a wife and her husband</em></p>",
@@ -230,6 +230,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8839: unfaithfulness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Lemuel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lemuel"
 }
 ]
 }

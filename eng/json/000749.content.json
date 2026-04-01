@@ -2,10 +2,10 @@
 {
 "content_id": "5160",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5160: heel",
 "media_type": "Text",
-"index_reference": "5160: heel",
+"index_reference": "5160",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The heel as a vulnerable part of the body</h2>\n<p><a href=\"https://ref.ly/Gen3:15\">GEN 3:15</a>; ; <a href=\"https://ref.ly/Job18:9\">JOB 18:9</a></p>\n<h2>``Lifting up one's heel'' as a metaphor of betrayal</h2>\n<p><a href=\"https://ref.ly/Ps41:9\">PSA 41:9</a>; ; <a href=\"https://ref.ly/John13:18\">JHN 13:18</a></p>\n<h2>Jacob grasps Esau by the heel at birth</h2>\n<p><a href=\"https://ref.ly/Gen25:26\">GEN 25:26</a> <em>Jacob's name means “he grasps the heel” which, figuratively, means “he deceives”</em>; ; <a href=\"https://ref.ly/Hos12:3\">HOS 12:3</a></p>",
@@ -84,7 +84,8 @@
 "label": "6145: deceit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

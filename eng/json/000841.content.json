@@ -2,10 +2,10 @@
 {
 "content_id": "5253",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5253: cheating",
 "media_type": "Text",
-"index_reference": "5253: cheating",
+"index_reference": "5253",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Cheating is condemned</h2>\n<p><strong><a href=\"https://ref.ly/Lev6:1-Lev6:5\">LEV 6:1–6:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor6:7-1Cor6:8\">1CO 6:7–6:8</a>; <a href=\"https://ref.ly/1Thess4:6\">1TH 4:6</a></p>\n<h2>Examples of cheating</h2>\n<h3>Not paying fair wages</h3>\n<p><a href=\"https://ref.ly/Gen31:6-Gen31:9\">GEN 31:6–31:9</a>; ; <a href=\"https://ref.ly/Jas5:4\">JAS 5:4</a></p>\n<h3>Using dishonest weights or scales</h3>\n<p><a href=\"https://ref.ly/Deut25:13-Deut25:16\">DEU 25:13–25:16</a>; ; <a href=\"https://ref.ly/Hos12:7-Hos12:8\">HOS 12:7–12:8</a>; ; <a href=\"https://ref.ly/Amos8:5\">AMO 8:5</a></p>\n<h3>Charging excess taxes</h3>\n<p><a href=\"https://ref.ly/Luke19:8\">LUK 19:8</a></p>\n<h3>Offering blemished animals for sacrifice</h3>\n<p><a href=\"https://ref.ly/Mal1:12-Mal1:14\">MAL 1:12–1:14</a></p>\n<h3>Moving boundary stones</h3>\n<p><a href=\"https://ref.ly/Deut19:14\">DEU 19:14</a>, <a href=\"https://ref.ly/Deut27:17\">DEU 27:17</a></p>\n<h2>Samuel as an example of someone who did not cheat</h2>\n<p><a href=\"https://ref.ly/1Sam12:3-1Sam12:4\">1SA 12:3–12:4</a></p>",
@@ -119,7 +119,8 @@
 "label": "8714: dishonesty",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

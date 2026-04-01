@@ -2,10 +2,10 @@
 {
 "content_id": "5336",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5336: highway",
 "media_type": "Text",
-"index_reference": "5336: highway",
+"index_reference": "5336",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>A major road through Edom and Moab</h2>\n<p><strong><a href=\"https://ref.ly/Num20:17\">NUM 20:17</a></strong> <em>Moses to the king of Edom.</em> <em>See also</em> <a href=\"https://ref.ly/Num20:19\">NUM 20:19</a>, <a href=\"https://ref.ly/Num21:22\">NUM 21:22</a> parallel <a href=\"https://ref.ly/Deut2:27\">DEU 2:27</a>; <a href=\"https://ref.ly/Num21:33\">NUM 21:33</a> parallel <a href=\"https://ref.ly/Deut3:1\">DEU 3:1</a>; <a href=\"https://ref.ly/Deut2:8\">DEU 2:8</a></p>\n<h2>Main roads deserted in time of trouble and war</h2>\n<p><a href=\"https://ref.ly/Isa33:8\">ISA 33:8</a></p>\n<h2>Highways for the large-scale movement of people</h2>\n<p><strong><a href=\"https://ref.ly/Isa19:23\">ISA 19:23</a></strong> <em>Isaiah prophesies the future harmony that will exist between former enemies, who will then worship the LORD together.</em> <em>See also</em> <a href=\"https://ref.ly/Isa11:16\">ISA 11:16</a>, <a href=\"https://ref.ly/Isa35:8-Isa35:10\">ISA 35:8–35:10</a>, <a href=\"https://ref.ly/Isa49:11\">ISA 49:11</a>, <a href=\"https://ref.ly/Isa62:10\">ISA 62:10</a>; <a href=\"https://ref.ly/Jer31:21\">JER 31:21</a></p>\n<h2>The ``highway for our God''</h2>\n<p><strong><a href=\"https://ref.ly/Isa40:3-Isa40:4\">ISA 40:3–40:4</a></strong> <em>Isaiah foresees how God will bring his people home from exile in Babylon.</em> <em>See also</em> <a href=\"https://ref.ly/Mark1:2-Mark1:4\">MRK 1:2–1:4</a> parallels <a href=\"https://ref.ly/Matt2:1-Matt2:3\">MAT 2:1–2:3</a>, <a href=\"https://ref.ly/Luke3:2-Luke3:6\">LUK 3:2–3:6</a> <em>John the Baptist's call to repentance is seen as the necessary preparation for the coming of the Messiah.</em></p>\n<h2>Used metaphorically</h2>\n<p><strong><a href=\"https://ref.ly/Prov15:19\">PRO 15:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov7:27\">PRO 7:27</a>, <a href=\"https://ref.ly/Prov16:17\">PRO 16:17</a></p>",
@@ -180,6 +180,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6734: repentance, importance of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gaddiel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gaddiel"
 }
 ]
 }

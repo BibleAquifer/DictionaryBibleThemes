@@ -2,10 +2,10 @@
 {
 "content_id": "5287",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5287: dance",
 "media_type": "Text",
-"index_reference": "5287: dance",
+"index_reference": "5287",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Movement, usually in response to music, which is often a spontaneous expression of joy and delight in the Lord.</p>\n<h2>Dance as an expression of joy</h2>\n<p><strong><a href=\"https://ref.ly/Exod15:20\">EXO 15:20</a></strong>; <strong><a href=\"https://ref.ly/Ps30:11\">PSA 30:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg11:34\">JDG 11:34</a>, <a href=\"https://ref.ly/Judg21:21-Judg21:23\">JDG 21:21–21:23</a>; <a href=\"https://ref.ly/1Sam18:6-1Sam18:7\">1SA 18:6–18:7</a>, <a href=\"https://ref.ly/1Sam21:11\">1SA 21:11</a>, <a href=\"https://ref.ly/1Sam29:5\">1SA 29:5</a>; <a href=\"https://ref.ly/Eccl3:4\">ECC 3:4</a>; <a href=\"https://ref.ly/Song6:13\">SNG 6:13</a>; <a href=\"https://ref.ly/Jer31:4\">JER 31:4</a>, <a href=\"https://ref.ly/Jer31:13\">JER 31:13</a>; <a href=\"https://ref.ly/Lam5:15\">LAM 5:15</a>; <a href=\"https://ref.ly/Matt11:17\">MAT 11:17</a> parallel <a href=\"https://ref.ly/Luke7:32\">LUK 7:32</a>; <a href=\"https://ref.ly/Mark6:22\">MRK 6:22</a> <em>The daughter of Herodias dances for Herod</em>; <a href=\"https://ref.ly/Luke15:25\">LUK 15:25</a></p>\n<h2>Dance as an expression of praise</h2>\n<p><strong><a href=\"https://ref.ly/Ps150:4\">PSA 150:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps149:3\">PSA 149:3</a>; <a href=\"https://ref.ly/2Sam6:14\">2SA 6:14</a>, <a href=\"https://ref.ly/2Sam6:16\">2SA 6:16</a>; <a href=\"https://ref.ly/1Chr15:29\">1CH 15:29</a></p>\n<h2>Dance as an aspect of pagan worship</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs18:26\">1KI 18:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:19\">EXO 32:19</a></p>",
@@ -185,6 +185,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8666: praise, manner and methods of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Footstool",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Footstool"
 }
 ]
 }

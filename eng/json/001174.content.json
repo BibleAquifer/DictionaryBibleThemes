@@ -2,10 +2,10 @@
 {
 "content_id": "5611",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5611: watchman",
 "media_type": "Text",
-"index_reference": "5611: watchman",
+"index_reference": "5611",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A person stationed on the highest part of a city wall to warn inhabitants of an approaching enemy or messenger; also a person who kept watch over pastures, vineyards and sheep. The OT prophets were spiritual watchmen, warning the people of Israel of God's judgment.</p>\n<h2>Watchmen stationed on the highest part of a city wall</h2>\n<h3>To warn inhabitants of an approaching enemy</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs9:17\">2KI 9:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam14:16\">1SA 14:16</a>; <a href=\"https://ref.ly/2Sam13:34\">2SA 13:34</a>; <a href=\"https://ref.ly/Ps127:1\">PSA 127:1</a>, <a href=\"https://ref.ly/Ps130:6\">PSA 130:6</a>; <a href=\"https://ref.ly/Song3:3\">SNG 3:3</a>, <a href=\"https://ref.ly/Song5:7\">SNG 5:7</a>; <a href=\"https://ref.ly/Jer51:12\">JER 51:12</a></p>\n<h3>To give notice of approaching messengers</h3>\n<p><strong><a href=\"https://ref.ly/2Sam18:24-2Sam18:27\">2SA 18:24–18:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs9:18\">2KI 9:18</a>, <a href=\"https://ref.ly/2Kgs9:20\">2KI 9:20</a>; <a href=\"https://ref.ly/Isa21:6\">ISA 21:6</a>, <a href=\"https://ref.ly/Isa21:8\">ISA 21:8</a>, <a href=\"https://ref.ly/Isa52:8\">ISA 52:8</a></p>\n<h2>Watchmen stationed on towers in pastures and vineyards to guard against thieves</h2>\n<p><a href=\"https://ref.ly/2Chr26:10\">2CH 26:10</a>; ; <a href=\"https://ref.ly/Isa27:3\">ISA 27:3</a>; ; <a href=\"https://ref.ly/Mic4:8\">MIC 4:8</a></p>\n<h2>Watchmen stationed on hills</h2>\n<p><a href=\"https://ref.ly/Jer31:6\">JER 31:6</a> <em>This was to give notice of the various phases of the moon in order to fix the times for the most important festivals.</em></p>\n<h2>Watchmen who guarded sheep</h2>\n<p><a href=\"https://ref.ly/John10:3\">JHN 10:3</a></p>\n<h2>The OT prophets were spiritual watchmen warning the people of Israel of God's judgment</h2>\n<p><strong><a href=\"https://ref.ly/Jer6:17\">JER 6:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa21:11-Isa21:12\">ISA 21:11–21:12</a>, <a href=\"https://ref.ly/Isa56:10\">ISA 56:10</a>, <a href=\"https://ref.ly/Isa62:6\">ISA 62:6</a>; <a href=\"https://ref.ly/Ezek3:17\">EZK 3:17</a>, <a href=\"https://ref.ly/Ezek33:2\">EZK 33:2</a>, <a href=\"https://ref.ly/Ezek33:6-Ezek33:7\">EZK 33:6–33:7</a>; <a href=\"https://ref.ly/Hos9:8\">HOS 9:8</a>; <a href=\"https://ref.ly/Hab2:1\">HAB 2:1</a></p>",
@@ -230,7 +230,8 @@
 "label": "8490: watchfulness",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

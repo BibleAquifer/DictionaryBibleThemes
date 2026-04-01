@@ -2,10 +2,10 @@
 {
 "content_id": "5161",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5161: kneeling",
 "media_type": "Text",
-"index_reference": "5161: kneeling",
+"index_reference": "5161",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A bodily posture which expresses an attitude of humility, especially in worship, prayer or submission to the authority of another person.</p>\n<h2>Kneeling in worship</h2>\n<p><strong><a href=\"https://ref.ly/Ps95:6\">PSA 95:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr7:3\">2CH 7:3</a>, <a href=\"https://ref.ly/2Chr29:29\">2CH 29:29</a></p>\n<h2>Kneeling in submission</h2>\n<h3>To God</h3>\n<p><strong><a href=\"https://ref.ly/Isa45:23\">ISA 45:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom14:11\">ROM 14:11</a>; <a href=\"https://ref.ly/Ps22:29\">PSA 22:29</a></p>\n<h3>To Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Phil2:9-Phil2:11\">PHP 2:9–2:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt27:29\">MAT 27:29</a> <em>kneeling in mock submission</em>; <a href=\"https://ref.ly/Mark5:6\">MRK 5:6</a>, <a href=\"https://ref.ly/Mark10:17\">MRK 10:17</a>; <a href=\"https://ref.ly/Luke5:8\">LUK 5:8</a></p>\n<h3>To other people</h3>\n<p><strong><a href=\"https://ref.ly/Esth3:2\">EST 3:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs1:16\">1KI 1:16</a>; <a href=\"https://ref.ly/2Kgs1:13\">2KI 1:13</a>; <a href=\"https://ref.ly/Matt18:26\">MAT 18:26</a></p>\n<h2>Kneeling in prayer</h2>\n<p><strong><a href=\"https://ref.ly/Dan6:10\">DAN 6:10</a></strong>; <strong><a href=\"https://ref.ly/Matt9:18\">MAT 9:18</a></strong>; <strong><a href=\"https://ref.ly/Eph3:14\">EPH 3:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs8:54\">1KI 8:54</a>; <a href=\"https://ref.ly/2Chr6:13\">2CH 6:13</a>; <a href=\"https://ref.ly/Ezra9:5\">EZR 9:5</a>; <a href=\"https://ref.ly/Matt8:2\">MAT 8:2</a>, <a href=\"https://ref.ly/Matt15:25\">MAT 15:25</a>, <a href=\"https://ref.ly/Matt17:14\">MAT 17:14</a>, <a href=\"https://ref.ly/Matt20:20\">MAT 20:20</a>; <a href=\"https://ref.ly/Luke22:41\">LUK 22:41</a>; <a href=\"https://ref.ly/Acts7:60\">ACT 7:60</a>, <a href=\"https://ref.ly/Acts9:40\">ACT 9:40</a>, <a href=\"https://ref.ly/Acts20:36\">ACT 20:36</a>, <a href=\"https://ref.ly/Acts21:5\">ACT 21:5</a></p>",
@@ -248,6 +248,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8622: worship",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Esther",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esther"
 }
 ]
 }

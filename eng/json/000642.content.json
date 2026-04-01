@@ -2,10 +2,10 @@
 {
 "content_id": "5033",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5033: knowledge of good and evil",
 "media_type": "Text",
-"index_reference": "5033: knowledge of good and evil",
+"index_reference": "5033",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Every human being has some innate knowledge of good and evil. The full knowledge of good and evil derives from God and is revealed in Scripture. The human desire of Adam and Eve to know good and evil, and thus gain independence from God, brought about the fall.</p>\n<h2>The human quest for knowledge of good and evil</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:22\">GEN 3:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen2:9\">GEN 2:9</a>, <a href=\"https://ref.ly/Gen3:5-Gen3:6\">GEN 3:5–3:6</a>; <a href=\"https://ref.ly/2Sam14:17\">2SA 14:17</a>, <a href=\"https://ref.ly/2Sam19:35\">2SA 19:35</a>; <a href=\"https://ref.ly/Ezek28:2-Ezek28:7\">EZK 28:2–28:7</a></p>\n<h2>The consequences of the attempt to attain this knowledge</h2>\n<p><strong><a href=\"https://ref.ly/Gen2:17\">GEN 2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen3:7-Gen3:19\">GEN 3:7–3:19</a>; <a href=\"https://ref.ly/Ezek28:13-Ezek28:19\">EZK 28:13–28:19</a>; <a href=\"https://ref.ly/Rom1:28-Rom1:32\">ROM 1:28–1:32</a></p>\n<h2>God as the source of full knowledge of good and evil</h2>\n<p><strong><a href=\"https://ref.ly/Ps119:66\">PSA 119:66</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job28:28\">JOB 28:28</a>; <a href=\"https://ref.ly/Ps34:11-Ps34:14\">PSA 34:11–34:14</a>, <a href=\"https://ref.ly/Ps111:10\">PSA 111:10</a>; <a href=\"https://ref.ly/Rom7:7\">ROM 7:7</a></p>\n<h2>The natural knowledge of good and evil</h2>\n<h3>Given in the human conscience</h3>\n<p><strong><a href=\"https://ref.ly/Rom2:14-Rom2:15\">ROM 2:14–2:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job27:6\">JOB 27:6</a>; <a href=\"https://ref.ly/Ezek36:31\">EZK 36:31</a>; <a href=\"https://ref.ly/John3:20\">JHN 3:20</a>; <a href=\"https://ref.ly/Acts24:16\">ACT 24:16</a>; <a href=\"https://ref.ly/Rom9:1\">ROM 9:1</a>; <a href=\"https://ref.ly/2Cor1:12\">2CO 1:12</a>; <a href=\"https://ref.ly/1Tim1:5\">1TI 1:5</a>, <a href=\"https://ref.ly/1Tim1:18-1Tim1:19\">1TI 1:18–1:19</a>; <a href=\"https://ref.ly/1Pet3:15-1Pet3:16\">1PE 3:15–3:16</a></p>\n<h3>Conscience and moral decisions</h3>\n<p><a href=\"https://ref.ly/1Sam25:30-1Sam25:34\">1SA 25:30–25:34</a>; ; <a href=\"https://ref.ly/1Chr21:6-1Chr21:7\">1CH 21:6–21:7</a>; ; <a href=\"https://ref.ly/Ps37:27\">PSA 37:27</a>; ; <a href=\"https://ref.ly/Amos5:14-Amos5:15\">AMO 5:14–5:15</a>; ; <a href=\"https://ref.ly/Eph4:25-Eph4:32\">EPH 4:25–4:32</a></p>\n<h3>A natural knowledge of good and evil will not necessarily empower anyone to do good</h3>\n<p><strong><a href=\"https://ref.ly/Rom7:15-Rom7:25\">ROM 7:15–7:25</a></strong></p>",
@@ -275,6 +275,64 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8755: folly",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Elkanah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elkanah"
+},
+{
+"id": "person:Elkanah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elkanah"
+},
+{
+"id": "person:Elkanah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elkanah"
+},
+{
+"id": "person:Elkanah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elkanah"
+},
+{
+"id": "person:Elkanah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elkanah"
+},
+{
+"id": "person:Elkanah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elkanah"
+},
+{
+"id": "person:Elkanah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elkanah"
+},
+{
+"id": "person:Elkanah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elkanah"
 }
 ]
 }

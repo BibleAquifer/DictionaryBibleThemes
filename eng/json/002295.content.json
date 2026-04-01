@@ -2,10 +2,10 @@
 {
 "content_id": "8617",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8617: prayer, advice for effective",
 "media_type": "Text",
-"index_reference": "8617: prayer, advice for effective",
+"index_reference": "8617",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture provides guidance concerning what attitudes and actions are appropriate for effective prayer. It also identifies a number of motives which are likely to lead to prayers being unanswered.</p>\n<h2>Hindrances to prayer</h2>\n<h3>Sin</h3>\n<p><strong><a href=\"https://ref.ly/Isa59:2\">ISA 59:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps66:18\">PSA 66:18</a>; <a href=\"https://ref.ly/Jer14:10-Jer14:12\">JER 14:10–14:12</a>; <a href=\"https://ref.ly/Lam3:42-Lam3:44\">LAM 3:42–3:44</a>; <a href=\"https://ref.ly/Mic3:4\">MIC 3:4</a></p>\n<h3>Disobedience</h3>\n<p><strong><a href=\"https://ref.ly/Zech7:13\">ZEC 7:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut1:43-Deut1:45\">DEU 1:43–1:45</a>; <a href=\"https://ref.ly/Prov1:28-Prov1:31\">PRO 1:28–1:31</a></p>\n<h3>Selfishness</h3>\n<p><strong><a href=\"https://ref.ly/Jas4:3\">JAS 4:3</a></strong></p>\n<h3>Injustice</h3>\n<p><strong><a href=\"https://ref.ly/Isa1:15-Isa1:17\">ISA 1:15–1:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov21:13\">PRO 21:13</a>; <a href=\"https://ref.ly/Isa58:1-Isa58:7\">ISA 58:1–58:7</a></p>\n<h3>Lack of faith</h3>\n<p><strong><a href=\"https://ref.ly/Jas1:6-Jas1:7\">JAS 1:6–1:7</a></strong></p>\n<h2>Qualities that lead to effective prayer</h2>\n<h3>Humility</h3>\n<p><strong><a href=\"https://ref.ly/Luke18:9-Luke18:14\">LUK 18:9–18:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam7:18\">2SA 7:18</a>; <a href=\"https://ref.ly/2Chr7:14\">2CH 7:14</a>; <a href=\"https://ref.ly/Ps51:16-Ps51:17\">PSA 51:16–51:17</a>; <a href=\"https://ref.ly/Isa57:15\">ISA 57:15</a>; <a href=\"https://ref.ly/Matt8:8\">MAT 8:8</a> parallel <a href=\"https://ref.ly/Luke7:6\">LUK 7:6</a></p>\n<h3>Obedience</h3>\n<p><strong><a href=\"https://ref.ly/1John3:21-1John3:22\">1JN 3:21–3:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam15:22\">1SA 15:22</a>; <a href=\"https://ref.ly/Jer7:22-Jer7:23\">JER 7:22–7:23</a></p>\n<h3>Righteousness</h3>\n<p><strong><a href=\"https://ref.ly/Prov15:29\">PRO 15:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs3:11-1Kgs3:12\">1KI 3:11–3:12</a>; <a href=\"https://ref.ly/Ps34:15\">PSA 34:15</a></p>\n<h3>Single-mindedness</h3>\n<p><strong><a href=\"https://ref.ly/Jer29:13\">JER 29:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:29\">DEU 4:29</a>; <a href=\"https://ref.ly/1Chr28:9\">1CH 28:9</a></p>\n<h3>Faith</h3>\n<p><strong><a href=\"https://ref.ly/Matt21:21-Matt21:22\">MAT 21:21–21:22</a></strong> parallel <a href=\"https://ref.ly/Mark11:22-Mark11:24\">MRK 11:22–11:24</a> <em>See also</em> <a href=\"https://ref.ly/Matt7:7-Matt7:11\">MAT 7:7–7:11</a> parallel <a href=\"https://ref.ly/Luke11:9-Luke11:13\">LUK 11:9–11:13</a>; <a href=\"https://ref.ly/Matt8:5-Matt8:13\">MAT 8:5–8:13</a> parallel <a href=\"https://ref.ly/Luke7:1-Luke7:10\">LUK 7:1–7:10</a>; <a href=\"https://ref.ly/Matt15:21-Matt15:28\">MAT 15:21–15:28</a> parallel <a href=\"https://ref.ly/Mark7:24-Mark7:30\">MRK 7:24–7:30</a>; <a href=\"https://ref.ly/John14:12-John14:14\">JHN 14:12–14:14</a></p>",
@@ -276,7 +276,8 @@
 "label": "8827: selfishness",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

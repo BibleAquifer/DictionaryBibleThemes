@@ -2,10 +2,10 @@
 {
 "content_id": "6257",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6257: unbelievers",
 "media_type": "Text",
-"index_reference": "6257: unbelievers",
+"index_reference": "6257",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Those who are unwilling to believe and trust in God, especially as he has made himself known in and through Jesus Christ.</p>\n<h2>Characteristics of unbelievers</h2>\n<h3>A refusal to believe in God</h3>\n<p><a href=\"https://ref.ly/Num14:11\">NUM 14:11</a>; ; <a href=\"https://ref.ly/Ps78:32\">PSA 78:32</a>; ; <a href=\"https://ref.ly/John5:38\">JHN 5:38</a>; ; <a href=\"https://ref.ly/Acts14:2\">ACT 14:2</a></p>\n<h3>A refusal to trust in God</h3>\n<p><a href=\"https://ref.ly/Ps78:22\">PSA 78:22</a>; ; <a href=\"https://ref.ly/Heb4:2\">HEB 4:2</a></p>\n<h3>A persistence in sin</h3>\n<p><a href=\"https://ref.ly/Ps78:32\">PSA 78:32</a></p>\n<h2>Descriptions of unbelievers</h2>\n<h3>They are blind</h3>\n<p><strong><a href=\"https://ref.ly/2Cor4:4\">2CO 4:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/John9:39-John9:41\">JHN 9:39–9:41</a></p>\n<h3>They are disobedient</h3>\n<p><a href=\"https://ref.ly/Heb3:12\">HEB 3:12</a>, <a href=\"https://ref.ly/Heb3:18-Heb3:19\">HEB 3:18–3:19</a></p>\n<h2>Unbelievers can become believers</h2>\n<p><strong><a href=\"https://ref.ly/1Tim1:13\">1TI 1:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark9:24\">MRK 9:24</a></p>\n<h2>The effect of tongues and prophecy on unbelievers</h2>\n<p><a href=\"https://ref.ly/1Cor14:22-1Cor14:25\">1CO 14:22–14:25</a></p>\n<h2>Relationships between believers and unbelievers</h2>\n<h3>Believers should not marry unbelievers</h3>\n<p><strong><a href=\"https://ref.ly/2Cor6:14-2Cor6:15\">2CO 6:14–6:15</a></strong></p>\n<h3>An unbelieving husband or wife</h3>\n<p><strong><a href=\"https://ref.ly/1Cor7:12-1Cor7:16\">1CO 7:12–7:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Pet3:1\">1PE 3:1</a></p>\n<h3>Eating with unbelievers</h3>\n<p><strong><a href=\"https://ref.ly/1Cor10:27-1Cor10:29\">1CO 10:27–10:29</a></strong></p>\n<h2>The consequence of remaining an unbeliever</h2>\n<p><strong><a href=\"https://ref.ly/John3:18\">JHN 3:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke12:46\">LUK 12:46</a>; <a href=\"https://ref.ly/John8:24\">JHN 8:24</a>, <a href=\"https://ref.ly/John12:48\">JHN 12:48</a>; <a href=\"https://ref.ly/Rev21:8\">REV 21:8</a></p>\n<h2>Examples of unbelievers</h2>\n<p>Some Israelites:\n <a href=\"https://ref.ly/Num14:13-Num14:39\">NUM 14:13–14:39</a>; ; <a href=\"https://ref.ly/Deut1:34-Deut1:35\">DEU 1:34–1:35</a>; ; <a href=\"https://ref.ly/1Cor10:10\">1CO 10:10</a>; \n<a href=\"https://ref.ly/Matt17:20\">MAT 17:20</a> <em>the disciples</em>; ; <a href=\"https://ref.ly/Mark8:11-Mark8:12\">MRK 8:11–8:12</a> <em>some Pharisees</em>; <a href=\"https://ref.ly/Acts14:2\">ACT 14:2</a>, <a href=\"https://ref.ly/Acts17:5\">ACT 17:5</a></p>",
@@ -264,6 +264,50 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9510: hell",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jedaiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jedaiah"
+},
+{
+"id": "person:Jedaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jedaiah"
+},
+{
+"id": "person:Jedaiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jedaiah"
+},
+{
+"id": "person:Jedaiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jedaiah"
+},
+{
+"id": "person:Jedaiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jedaiah"
+},
+{
+"id": "person:Jedaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jedaiah"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5546",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5546: speech",
 "media_type": "Text",
-"index_reference": "5546: speech",
+"index_reference": "5546",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The human capacity to express oneself and communicate with others through the spoken word. God addresses humans through the spoken word, and supremely in and through Jesus Christ.</p>",
@@ -40,7 +40,8 @@
 "label": "5550: speech, negative aspects of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5671",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5671: clan",
 "media_type": "Text",
-"index_reference": "5671: clan",
+"index_reference": "5671",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A social unit, larger than a family but smaller than a tribe.</p>\n<h2>Membership of a clan</h2>\n<p><strong><a href=\"https://ref.ly/Judg6:15\">JDG 6:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev25:10\">LEV 25:10</a>; <a href=\"https://ref.ly/Josh7:14-Josh7:18\">JOS 7:14–7:18</a>; <a href=\"https://ref.ly/Ruth2:1\">RUT 2:1</a>; <a href=\"https://ref.ly/1Sam9:21\">1SA 9:21</a>, <a href=\"https://ref.ly/1Sam10:17-1Sam10:21\">1SA 10:17–10:21</a>, <a href=\"https://ref.ly/1Sam18:18\">1SA 18:18</a></p>\n<h2>Marriage and the clan</h2>\n<p><strong><a href=\"https://ref.ly/Judg12:9\">JDG 12:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen24:34-Gen24:41\">GEN 24:34–24:41</a>; <a href=\"https://ref.ly/Num36:1-Num36:12\">NUM 36:1–36:12</a></p>\n<h2>Inheritance within the clan</h2>\n<p><strong><a href=\"https://ref.ly/Num27:8-Num27:11\">NUM 27:8–27:11</a></strong></p>\n<h2>The responsibility of the clan for protection and revenge</h2>\n<p><strong><a href=\"https://ref.ly/Lev25:47-Lev25:49\">LEV 25:47–25:49</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ruth3:7-Ruth3:12\">RUT 3:7–3:12</a>, <a href=\"https://ref.ly/Ruth4:1-Ruth4:12\">RUT 4:1–4:12</a>; <a href=\"https://ref.ly/2Sam14:5-2Sam14:7\">2SA 14:5–14:7</a></p>\n<h2>The clans of Israel listed</h2>\n<p><a href=\"https://ref.ly/Num26:1-Num26:61\">NUM 26:1–26:61</a></p>\n<h2>The land allocated to the clans</h2>\n<p><a href=\"https://ref.ly/Josh13:15-Josh13:33\">JOS 13:15–13:33</a>, <a href=\"https://ref.ly/Josh15:1-Josh19:48\">JOS 15:1–19:48</a></p>\n<h2>Non-Israelite clans</h2>\n<p><strong><a href=\"https://ref.ly/Gen10:5\">GEN 10:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen10:15-Gen10:20\">GEN 10:15–10:20</a>, <a href=\"https://ref.ly/Gen10:31-Gen10:32\">GEN 10:31–10:32</a>, <a href=\"https://ref.ly/Gen36:40-Gen36:43\">GEN 36:40–36:43</a></p>",
@@ -179,6 +179,43 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7388: kinsman-redeemer",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Harim.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Harim"
+},
+{
+"id": "person:Harim.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Harim"
+},
+{
+"id": "person:Harim.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Harim"
+},
+{
+"id": "person:Rehum",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rehum"
+},
+{
+"id": "person:Harim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Harim"
 }
 ]
 }

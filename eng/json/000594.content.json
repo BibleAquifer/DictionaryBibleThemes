@@ -2,10 +2,10 @@
 {
 "content_id": "4926",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4926: delay, human",
 "media_type": "Text",
-"index_reference": "4926: delay, human",
+"index_reference": "4926",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Human delay is often the result of fear, indecision or disobedience to God. Scripture indicates that delay is to be avoided.</p>\n<h2>Examples of delay as a result of fear</h2>\n<h3>Israel entering the promised land</h3>\n<p><strong><a href=\"https://ref.ly/Num13:31-Num13:32\">NUM 13:31–13:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num13:1-Num13:3\">NUM 13:1–13:3</a>, <a href=\"https://ref.ly/Num13:17-Num13:20\">NUM 13:17–13:20</a>, <a href=\"https://ref.ly/Num13:27-Num13:30\">NUM 13:27–13:30</a>, <a href=\"https://ref.ly/Num14:33-Num14:35\">NUM 14:33–14:35</a></p>\n<h3>Gideon responding to God's call</h3>\n<p><a href=\"https://ref.ly/Judg6:36-Judg6:40\">JDG 6:36–6:40</a></p>\n<h2>Examples of delay as a result of disobedience</h2>\n<h3>Lot escaping from Sodom</h3>\n<p><strong><a href=\"https://ref.ly/Gen19:16\">GEN 19:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen19:12-Gen19:15\">GEN 19:12–19:15</a></p>\n<h3>Jonah going to Nineveh</h3>\n<p><strong><a href=\"https://ref.ly/Jonah1:3\">JON 1:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps119:60\">PSA 119:60</a>; <a href=\"https://ref.ly/Jonah1:1-Jonah1:2\">JON 1:1–1:2</a>, <a href=\"https://ref.ly/Jonah3:1-Jonah3:3\">JON 3:1–3:3</a> <em>Jonah obeyed the second time.</em></p>\n<h2>Nothing should delay believers from following Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt8:21-Matt8:22\">MAT 8:21–8:22</a></strong> parallel <a href=\"https://ref.ly/Luke9:59-Luke9:60\">LUK 9:59–9:60</a> <em>See also</em> <a href=\"https://ref.ly/Matt9:9\">MAT 9:9</a>; <a href=\"https://ref.ly/Mark1:20\">MRK 1:20</a>; <a href=\"https://ref.ly/Luke14:15-Luke14:24\">LUK 14:15–14:24</a>, <a href=\"https://ref.ly/Luke19:5-Luke19:6\">LUK 19:5–19:6</a></p>\n<h2>People should not delay in the matter of salvation</h2>\n<p><strong><a href=\"https://ref.ly/Isa55:6\">ISA 55:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Amos6:3\">AMO 6:3</a>; <a href=\"https://ref.ly/Acts24:24-Acts24:26\">ACT 24:24–24:26</a>; <a href=\"https://ref.ly/2Cor6:2\">2CO 6:2</a>; <a href=\"https://ref.ly/Heb2:3\">HEB 2:3</a></p>\n<h2>Believers are not to delay in fulfilling their vows to God and obligations to others</h2>\n<p><strong><a href=\"https://ref.ly/Eccl5:4\">ECC 5:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev19:13\">LEV 19:13</a>; <a href=\"https://ref.ly/Deut23:21\">DEU 23:21</a>; <a href=\"https://ref.ly/Ps61:8\">PSA 61:8</a></p>\n<h2>Examples of human responses to delay</h2>\n<h3>Sarah's wrong response brought trouble</h3>\n<p><strong><a href=\"https://ref.ly/Gen16:1-Gen16:6\">GEN 16:1–16:6</a></strong></p>\n<h3>Saul's wrong response cost him the kingship</h3>\n<p><strong><a href=\"https://ref.ly/1Sam13:11-1Sam13:12\">1SA 13:11–13:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam13:8-1Sam13:10\">1SA 13:8–13:10</a>, <a href=\"https://ref.ly/1Sam13:13-1Sam13:14\">1SA 13:13–13:14</a></p>\n<h3>Jacob responded with patience</h3>\n<p><a href=\"https://ref.ly/Gen29:20-Gen29:30\">GEN 29:20–29:30</a></p>\n<h3>Paul responded by giving instructions to Timothy</h3>\n<p><strong><a href=\"https://ref.ly/1Tim3:14-1Tim3:15\">1TI 3:14–3:15</a></strong></p>\n<h3>Daniel responded by praying</h3>\n<p><strong><a href=\"https://ref.ly/Dan9:19\">DAN 9:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan9:1-Dan9:23\">DAN 9:1–9:23</a>, <a href=\"https://ref.ly/Dan10:10-Dan10:13\">DAN 10:10–10:13</a> <em>Gabriel explains the reason for the delay.</em></p>\n<h3>David reponded by calling on the LORD</h3>\n<p><a href=\"https://ref.ly/Ps13:1\">PSA 13:1</a>, <a href=\"https://ref.ly/Ps40:17\">PSA 40:17</a>, <a href=\"https://ref.ly/Ps141:1\">PSA 141:1</a></p>",
@@ -316,6 +316,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8754: fear",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Ebenezer.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ebenezer"
+},
+{
+"id": "place:Ebenezer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ebenezer"
 }
 ]
 }

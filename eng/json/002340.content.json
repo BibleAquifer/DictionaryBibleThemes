@@ -2,10 +2,10 @@
 {
 "content_id": "8705",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8705: apostasy, in OT",
 "media_type": "Text",
-"index_reference": "8705: apostasy, in ot",
+"index_reference": "8705",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Israel was in danger of abandoning God from her earliest days. The OT frequently warns against apostasy and identifies its likely consequences.</p>\n<h2>Apostasy in Egypt and in the desert</h2>\n<p><strong><a href=\"https://ref.ly/Ps78:9-Ps78:41\">PSA 78:9–78:41</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:25-Exod32:29\">EXO 32:25–32:29</a> <em>the death of 3,000 after Aaron made the golden calf</em>; <a href=\"https://ref.ly/Lev17:7\">LEV 17:7</a>, <a href=\"https://ref.ly/Lev20:1-Lev20:6\">LEV 20:1–20:6</a>; <a href=\"https://ref.ly/Num14:9-Num14:12\">NUM 14:9–14:12</a> <em>The people rebel against Moses and Aaron after the return of the spies</em>; <a href=\"https://ref.ly/Num14:31-Num14:35\">NUM 14:31–14:35</a>, <a href=\"https://ref.ly/Num25:1-Num25:4\">NUM 25:1–25:4</a>, <a href=\"https://ref.ly/Num32:10-Num32:11\">NUM 32:10–32:11</a>; <a href=\"https://ref.ly/Deut31:16-Deut31:18\">DEU 31:16–31:18</a>, <a href=\"https://ref.ly/Deut32:15-Deut32:21\">DEU 32:15–32:21</a>; <a href=\"https://ref.ly/Ps95:7-Ps95:8\">PSA 95:7–95:8</a>, <a href=\"https://ref.ly/Ps106:13-Ps106:33\">PSA 106:13–106:33</a>; <a href=\"https://ref.ly/Heb3:15-Heb3:19\">HEB 3:15–3:19</a></p>\n<h2>Apostasy in the time of the judges</h2>\n<p><strong><a href=\"https://ref.ly/Ps78:55-Ps78:64\">PSA 78:55–78:64</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg2:6-Judg2:23\">JDG 2:6–2:23</a>, <a href=\"https://ref.ly/Judg8:27\">JDG 8:27</a>, <a href=\"https://ref.ly/Judg8:33-Judg8:34\">JDG 8:33–8:34</a>; <a href=\"https://ref.ly/Neh9:26-Neh9:31\">NEH 9:26–9:31</a>; <a href=\"https://ref.ly/Ps106:34-Ps106:39\">PSA 106:34–106:39</a></p>\n<h2>Apostasy in the kingdom of Israel</h2>\n<p><strong><a href=\"https://ref.ly/Hos5:3-Hos5:4\">HOS 5:3–5:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs17:7-2Kgs17:20\">2KI 17:7–17:20</a>; <a href=\"https://ref.ly/Hos1:2\">HOS 1:2</a>, <a href=\"https://ref.ly/Hos4:10-Hos4:19\">HOS 4:10–4:19</a>, <a href=\"https://ref.ly/Hos7:4\">HOS 7:4</a></p>\n<h2>Apostasy in the kingdom of Judah</h2>\n<p><strong><a href=\"https://ref.ly/Jer3:1-Jer3:25\">JER 3:1–3:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs23:26-2Kgs23:27\">2KI 23:26–23:27</a>; <a href=\"https://ref.ly/2Chr29:6-2Chr29:9\">2CH 29:6–29:9</a> <em>Hezekiah's reforms to purify the temple</em>; <a href=\"https://ref.ly/2Chr30:7-2Chr30:9\">2CH 30:7–30:9</a>; <a href=\"https://ref.ly/Isa1:1-Isa1:6\">ISA 1:1–1:6</a>, <a href=\"https://ref.ly/Isa30:1-Isa30:5\">ISA 30:1–30:5</a> <em>Judah's alliance with Egypt</em>; <a href=\"https://ref.ly/Jer2:7-Jer2:13\">JER 2:7–2:13</a>, <a href=\"https://ref.ly/Jer2:19-Jer2:25\">JER 2:19–2:25</a>, <a href=\"https://ref.ly/Jer5:5-Jer5:7\">JER 5:5–5:7</a>, <a href=\"https://ref.ly/Jer7:9-Jer7:15\">JER 7:9–7:15</a>, <a href=\"https://ref.ly/Jer9:2\">JER 9:2</a>, <a href=\"https://ref.ly/Jer13:23-Jer13:27\">JER 13:23–13:27</a>, <a href=\"https://ref.ly/Jer17:5-Jer17:6\">JER 17:5–17:6</a>, <a href=\"https://ref.ly/Jer17:13\">JER 17:13</a>, <a href=\"https://ref.ly/Jer23:10-Jer23:15\">JER 23:10–23:15</a> <em>lying prophets denounced</em>; <a href=\"https://ref.ly/Jer31:22\">JER 31:22</a>; <a href=\"https://ref.ly/Ezek6:9\">EZK 6:9</a>, <a href=\"https://ref.ly/Ezek16:15-Ezek16:42\">EZK 16:15–16:42</a>, <a href=\"https://ref.ly/Ezek23:1-Ezek23:35\">EZK 23:1–23:35</a>; <a href=\"https://ref.ly/Dan9:5-Dan9:14\">DAN 9:5–9:14</a></p>",
@@ -339,6 +339,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8768: idolatry",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Tabrimmon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tabrimmon"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5389",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5389: lending",
 "media_type": "Text",
-"index_reference": "5389: lending",
+"index_reference": "5389",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Freely giving the temporary use of property or possessions at no personal advantage. Scripture lays down conditions for lending and emphasises the responsibilities that it brings.</p>\n<h2>The motivation for lending</h2>\n<h3>Generosity</h3>\n<p><strong><a href=\"https://ref.ly/Ps37:25-Ps37:26\">PSA 37:25–37:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut15:11\">DEU 15:11</a>; <a href=\"https://ref.ly/Prov3:27-Prov3:28\">PRO 3:27–3:28</a>; <a href=\"https://ref.ly/Matt5:42\">MAT 5:42</a></p>\n<h3>Pity</h3>\n<p><strong><a href=\"https://ref.ly/Deut15:7-Deut15:8\">DEU 15:7–15:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev25:35-Lev25:36\">LEV 25:35–25:36</a>; <a href=\"https://ref.ly/Mark14:7\">MRK 14:7</a></p>\n<h3>Not necessarily expecting repayment</h3>\n<p><a href=\"https://ref.ly/Luke6:34-Luke6:36\">LUK 6:34–6:36</a></p>\n<h2>The dangers of lending</h2>\n<h3>Domination</h3>\n<p><strong><a href=\"https://ref.ly/Prov22:7\">PRO 22:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut15:6\">DEU 15:6</a>, <a href=\"https://ref.ly/Deut28:12-Deut28:13\">DEU 28:12–28:13</a>, <a href=\"https://ref.ly/Deut28:43-Deut28:44\">DEU 28:43–28:44</a>; <a href=\"https://ref.ly/Neh5:4-Neh5:5\">NEH 5:4–5:5</a></p>\n<h3>Loss</h3>\n<p><a href=\"https://ref.ly/Exod22:14\">EXO 22:14</a>; ; <a href=\"https://ref.ly/2Kgs6:5\">2KI 6:5</a>; ; <a href=\"https://ref.ly/Isa24:1-Isa24:2\">ISA 24:1–24:2</a></p>\n<h3>Exploitation</h3>\n<p><strong><a href=\"https://ref.ly/Lev25:36-Lev25:37\">LEV 25:36–25:37</a></strong></p>\n<h3>Usury</h3>\n<p><strong><a href=\"https://ref.ly/Exod22:25\">EXO 22:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut23:19\">DEU 23:19</a>; <a href=\"https://ref.ly/Ps15:5\">PSA 15:5</a>; <a href=\"https://ref.ly/Ezek18:8\">EZK 18:8</a>, <a href=\"https://ref.ly/Ezek18:12-Ezek18:13\">EZK 18:12–18:13</a></p>\n<h2>Safeguards for the lender</h2>\n<h3>Under the old covenant</h3>\n<p><strong><a href=\"https://ref.ly/Exod22:14\">EXO 22:14</a></strong> <em>This specific case probably represents a general principle of restitution governing all kinds of lending.</em></p>\n<h3>Under the new covenant</h3>\n<p><strong><a href=\"https://ref.ly/Luke6:30-Luke6:31\">LUK 6:30–6:31</a></strong></p>\n<h3>Generosity may be risky but brings its reward</h3>\n<p><strong><a href=\"https://ref.ly/Prov19:17\">PRO 19:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps112:5\">PSA 112:5</a>; <a href=\"https://ref.ly/Matt5:7\">MAT 5:7</a></p>\n<h2>Jesus Christ was lent a donkey</h2>\n<p><a href=\"https://ref.ly/Matt21:3\">MAT 21:3</a> parallels <a href=\"https://ref.ly/Mark11:3\">MRK 11:3</a>, <a href=\"https://ref.ly/Luke19:31\">LUK 19:31</a>; ; <a href=\"https://ref.ly/Luke19:34\">LUK 19:34</a></p>",
@@ -277,7 +277,8 @@
 "label": "8790: oppression",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

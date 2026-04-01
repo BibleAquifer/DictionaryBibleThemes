@@ -2,10 +2,10 @@
 {
 "content_id": "5364",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5364: key",
 "media_type": "Text",
-"index_reference": "5364: key",
+"index_reference": "5364",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A tool for opening a locked door. Used mainly symbolically in Scripture to speak of Jesus Christ's victory over death and his authority over believers, or of the need of deliverance from the imprisonment brought to human nature by sin and the law.</p>\n<h2>Keys for opening doors</h2>\n<p><a href=\"https://ref.ly/Judg3:23-Judg3:25\">JDG 3:23–3:25</a>; ; <a href=\"https://ref.ly/1Chr9:27\">1CH 9:27</a>; ; <a href=\"https://ref.ly/Luke3:20\">LUK 3:20</a>, <a href=\"https://ref.ly/Luke11:7\">LUK 11:7</a>; ; <a href=\"https://ref.ly/John20:19\">JHN 20:19</a>, <a href=\"https://ref.ly/John20:26\">JHN 20:26</a>; ; <a href=\"https://ref.ly/Acts5:23\">ACT 5:23</a></p>\n<h2>The symbolic use of keys</h2>\n<h3>As a symbol of Jesus Christ's complete authority</h3>\n<p><strong><a href=\"https://ref.ly/Rev3:7\">REV 3:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa22:22\">ISA 22:22</a></p>\n<h3>As a symbol of Jesus Christ's ultimate victory over death and hell</h3>\n<p><strong><a href=\"https://ref.ly/Rev1:18\">REV 1:18</a></strong></p>\n<h3>As a symbol of Satan's ultimate defeat</h3>\n<p><strong><a href=\"https://ref.ly/Rev20:1-Rev20:3\">REV 20:1–20:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev9:1\">REV 9:1</a></p>\n<h3>As a symbol of Jesus Christ's authoritative ministry through his church</h3>\n<p><strong><a href=\"https://ref.ly/Matt16:19\">MAT 16:19</a></strong> <em>Usually understood as illustrating how God's forgiveness is made effective through preaching the gospel.</em></p>\n<h3>As a symbol of living faith</h3>\n<p><strong><a href=\"https://ref.ly/Isa33:6\">ISA 33:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt13:52\">MAT 13:52</a></p>\n<h3>Being locked up as a symbol of obstacles to faith</h3>\n<p><strong><a href=\"https://ref.ly/Gal3:23\">GAL 3:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke11:52\">LUK 11:52</a></p>",
@@ -150,7 +150,8 @@
 "label": "8020: faith",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

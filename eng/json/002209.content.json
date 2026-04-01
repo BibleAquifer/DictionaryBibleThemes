@@ -2,10 +2,10 @@
 {
 "content_id": "8419",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8419: enlightenment",
 "media_type": "Text",
-"index_reference": "8419: enlightenment",
+"index_reference": "8419",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The illumination of the mind, especially by the word of God, leading to delight and increased pleasure in God.</p>\n<h2>Enlightenment as God-given understanding and insight</h2>\n<p><strong><a href=\"https://ref.ly/Ps43:3\">PSA 43:3</a></strong>; <strong><a href=\"https://ref.ly/Mic7:8-Mic7:9\">MIC 7:8–7:9</a></strong>; <strong><a href=\"https://ref.ly/John8:12\">JHN 8:12</a></strong>; <strong><a href=\"https://ref.ly/Eph1:18\">EPH 1:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam22:29\">2SA 22:29</a>; <a href=\"https://ref.ly/Ezra9:8\">EZR 9:8</a>; <a href=\"https://ref.ly/Job29:2-Job29:3\">JOB 29:2–29:3</a>; <a href=\"https://ref.ly/Ps18:28\">PSA 18:28</a>, <a href=\"https://ref.ly/Ps36:10\">PSA 36:10</a>, <a href=\"https://ref.ly/Ps97:11\">PSA 97:11</a>; <a href=\"https://ref.ly/Isa9:2\">ISA 9:2</a>, <a href=\"https://ref.ly/Isa42:6\">ISA 42:6</a>, <a href=\"https://ref.ly/Isa42:16\">ISA 42:16</a>, <a href=\"https://ref.ly/Isa49:6\">ISA 49:6</a>, <a href=\"https://ref.ly/Isa60:1\">ISA 60:1</a>; <a href=\"https://ref.ly/Dan2:22\">DAN 2:22</a>; <a href=\"https://ref.ly/Luke2:32\">LUK 2:32</a>; <a href=\"https://ref.ly/John1:9\">JHN 1:9</a>, <a href=\"https://ref.ly/John9:5\">JHN 9:5</a>, <a href=\"https://ref.ly/John12:46\">JHN 12:46</a>; <a href=\"https://ref.ly/Acts13:47\">ACT 13:47</a>, <a href=\"https://ref.ly/Acts26:18\">ACT 26:18</a>, <a href=\"https://ref.ly/Acts26:23\">ACT 26:23</a>; <a href=\"https://ref.ly/2Cor4:6\">2CO 4:6</a>; <a href=\"https://ref.ly/Heb6:4\">HEB 6:4</a>, <a href=\"https://ref.ly/Heb10:32\">HEB 10:32</a>; <a href=\"https://ref.ly/1Pet2:9\">1PE 2:9</a></p>\n<h2>Enlightenment through the word of God</h2>\n<p><strong><a href=\"https://ref.ly/Ps119:130\">PSA 119:130</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps19:8\">PSA 19:8</a>; <a href=\"https://ref.ly/Prov6:23\">PRO 6:23</a>; <a href=\"https://ref.ly/Isa51:4\">ISA 51:4</a>; <a href=\"https://ref.ly/2Pet1:19\">2PE 1:19</a></p>\n<h2>God needs no enlightenment</h2>\n<p><strong><a href=\"https://ref.ly/Isa40:14\">ISA 40:14</a></strong></p>",
@@ -259,6 +259,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8361: wisdom",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shimron",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimron"
 }
 ]
 }

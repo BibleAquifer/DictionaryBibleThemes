@@ -2,10 +2,10 @@
 {
 "content_id": "7900",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7900: The life of the church",
 "media_type": "Text",
-"index_reference": "7900: the life of the church",
+"index_reference": "7900",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"7903\" data-resourcetype=\"DictionaryOfBibleThemes\">7903: baptism</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7912\" data-resourcetype=\"DictionaryOfBibleThemes\">7912: collections</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7915\" data-resourcetype=\"DictionaryOfBibleThemes\">7915: confirmation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7918\" data-resourcetype=\"DictionaryOfBibleThemes\">7918: excommunication</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7921\" data-resourcetype=\"DictionaryOfBibleThemes\">7921: fellowship</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7927\" data-resourcetype=\"DictionaryOfBibleThemes\">7927: hymn</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7930\" data-resourcetype=\"DictionaryOfBibleThemes\">7930: Lord's Day, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7933\" data-resourcetype=\"DictionaryOfBibleThemes\">7933: Lord's Supper</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7936\" data-resourcetype=\"DictionaryOfBibleThemes\">7936: love feast</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7939\" data-resourcetype=\"DictionaryOfBibleThemes\">7939: ministry</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7948\" data-resourcetype=\"DictionaryOfBibleThemes\">7948: mission</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7957\" data-resourcetype=\"DictionaryOfBibleThemes\">7957: sacraments</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7960\" data-resourcetype=\"DictionaryOfBibleThemes\">7960: singing</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7963\" data-resourcetype=\"DictionaryOfBibleThemes\">7963: song</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7966\" data-resourcetype=\"DictionaryOfBibleThemes\">7966: spiritual gifts</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7972\" data-resourcetype=\"DictionaryOfBibleThemes\">7972: tongues, gift of</span></li></ul>",
@@ -123,6 +123,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7972: tongues, gift of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Carmel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Carmel"
 }
 ]
 }

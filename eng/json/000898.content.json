@@ -2,10 +2,10 @@
 {
 "content_id": "5311",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5311: extortion",
 "media_type": "Text",
-"index_reference": "5311: extortion",
+"index_reference": "5311",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Literally “twisting out”; obtaining money, etc., by violence, threats or unreasonable demands.</p>\n<h2>Extortion condemned</h2>\n<p><strong><a href=\"https://ref.ly/Ps62:10\">PSA 62:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl7:7\">ECC 7:7</a>; <a href=\"https://ref.ly/Isa10:1-Isa10:2\">ISA 10:1–10:2</a>; <a href=\"https://ref.ly/Ezek22:13\">EZK 22:13</a>; <a href=\"https://ref.ly/1Cor6:9-1Cor6:10\">1CO 6:9–6:10</a></p>\n<h2>Extortioners can be saved</h2>\n<p><a href=\"https://ref.ly/1Cor6:9-1Cor6:11\">1CO 6:9–6:11</a></p>\n<h2>What God requires from extortioners</h2>\n<h3>Repentance</h3>\n<p><strong><a href=\"https://ref.ly/Luke3:12-Luke3:14\">LUK 3:12–3:14</a></strong></p>\n<h3>Restitution</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Lev6:4-Lev6:5\">LEV 6:4–6:5</a>; <a href=\"https://ref.ly/Luke19:8\">LUK 19:8</a></p>\n<h2>Curses upon those who are guilty of extortion</h2>\n<p><strong><a href=\"https://ref.ly/Jer22:17-Jer22:19\">JER 22:17–22:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek18:18\">EZK 18:18</a>, <a href=\"https://ref.ly/Ezek22:12-Ezek22:14\">EZK 22:12–22:14</a>; <a href=\"https://ref.ly/Amos5:11\">AMO 5:11</a>; <a href=\"https://ref.ly/Hab2:6\">HAB 2:6</a></p>\n<h2>Blessings upon those who avoid extortion</h2>\n<p><strong><a href=\"https://ref.ly/Isa33:15-Isa33:16\">ISA 33:15–33:16</a></strong></p>\n<h2>Examples of extortion</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/1Sam2:12-1Sam2:17\">1SA 2:12–2:17</a> <em>Eli's sons</em>; <a href=\"https://ref.ly/1Sam8:11-1Sam8:18\">1SA 8:11–8:18</a> <em>the wicked king foretold by Samuel</em>; <a href=\"https://ref.ly/1Sam13:19-1Sam13:21\">1SA 13:19–13:21</a> <em>the Philistines</em>; <a href=\"https://ref.ly/Neh5:1-Neh5:5\">NEH 5:1–5:5</a> <em>the Jews in Nehemiah's day</em>; <a href=\"https://ref.ly/Ezek22:29\">EZK 22:29</a> <em>Israel under the kings</em>; <a href=\"https://ref.ly/Matt18:28\">MAT 18:28</a> <em>the servant in the parable</em>; <a href=\"https://ref.ly/Matt23:25\">MAT 23:25</a> <em>the Pharisees</em>; <a href=\"https://ref.ly/Luke18:11\">LUK 18:11</a> <em>sinners in the eyes of the Pharisee</em>; <a href=\"https://ref.ly/1Cor5:9-1Cor5:11\">1CO 5:9–5:11</a> <em>some Christians before conversion</em></p>",
@@ -233,6 +233,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8790: oppression",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Frog",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Frog"
 }
 ]
 }

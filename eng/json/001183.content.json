@@ -2,10 +2,10 @@
 {
 "content_id": "5621",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5621: wheel",
 "media_type": "Text",
-"index_reference": "5621: wheel",
+"index_reference": "5621",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Early wheels were solid wooden discs. These were replaced around 1500 B.C. by lighter, spoked wheels. The most common use of wheels is on chariots and carts; they were also used by potters and in machinery for drawing water from a well. The chariot throne of God has wheels which are vividly described.</p>\n<h2>Chariot wheels</h2>\n<p><strong><a href=\"https://ref.ly/Exod14:25\">EXO 14:25</a></strong>; <strong><a href=\"https://ref.ly/Nah3:2\">NAM 3:2</a></strong> <em>The sound of chariot wheels announces the approach of the enemy.</em> <em>See also</em> <a href=\"https://ref.ly/2Kgs7:6\">2KI 7:6</a>; <a href=\"https://ref.ly/Isa5:28\">ISA 5:28</a>; <a href=\"https://ref.ly/Jer47:3\">JER 47:3</a>; <a href=\"https://ref.ly/Joel2:5\">JOL 2:5</a>; <a href=\"https://ref.ly/Rev9:9\">REV 9:9</a></p>\n<h2>Wagon wheels</h2>\n<p>The Hebrew word for <code>wheel'' is here used for</code>wagon'':\n <a href=\"https://ref.ly/Ezek23:24\">EZK 23:24</a>, <a href=\"https://ref.ly/Ezek26:10\">EZK 26:10</a></p>\n<h2>Threshing wheels</h2>\n<p><strong><a href=\"https://ref.ly/Prov20:26\">PRO 20:26</a></strong> <em>Threshing was carried out by driving a sledge or a cart with heavy wheels over the grain.</em> <em>See also</em> <a href=\"https://ref.ly/Isa28:27-Isa28:28\">ISA 28:27–28:28</a></p>\n<h2>Other examples of wheels</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs7:32-1Kgs7:33\">1KI 7:32–7:33</a></strong> <em>The stands for basins in Solomon's temple were mounted on wheels.</em> <em>See also</em> <a href=\"https://ref.ly/1Kgs7:30\">1KI 7:30</a>; <a href=\"https://ref.ly/Eccl12:6\">ECC 12:6</a> <em>A wheel formed part of the machinery for drawing water from a well</em>; <a href=\"https://ref.ly/Jer18:3\">JER 18:3</a> <em>Potters turned their clay on a wheel.</em></p>\n<h2>The wheels of God's chariot throne</h2>\n<p><strong><a href=\"https://ref.ly/Ezek11:22-Ezek11:23\">EZK 11:22–11:23</a></strong>; <strong><a href=\"https://ref.ly/Dan7:9\">DAN 7:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs2:11\">2KI 2:11</a>; <a href=\"https://ref.ly/Isa66:15\">ISA 66:15</a>; <a href=\"https://ref.ly/Ezek1:15-Ezek1:21\">EZK 1:15–1:21</a>, <a href=\"https://ref.ly/Ezek3:12-Ezek3:13\">EZK 3:12–3:13</a>, <a href=\"https://ref.ly/Ezek10:1-Ezek10:19\">EZK 10:1–10:19</a></p>",
@@ -193,6 +193,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5581: throne",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hammelech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hammelech"
 }
 ]
 }

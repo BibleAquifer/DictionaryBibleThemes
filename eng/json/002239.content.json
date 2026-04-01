@@ -2,10 +2,10 @@
 {
 "content_id": "8453",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8453: obedience",
 "media_type": "Text",
-"index_reference": "8453: obedience",
+"index_reference": "8453",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A willingness to submit to the authority of someone else and to actually do what one is asked or told to do. Scripture lays particular emphasis upon the need for believers to obey God, stressing his trustworthiness. This obedience is especially clear in the life and death of Jesus Christ.</p>",
@@ -32,6 +32,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8456: obedience, to human authorities",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shual",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shual"
 }
 ]
 }

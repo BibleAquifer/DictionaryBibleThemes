@@ -2,10 +2,10 @@
 {
 "content_id": "6754",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6754: union with Christ",
 "media_type": "Text",
-"index_reference": "6754: union with christ",
+"index_reference": "6754",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The sharing of believers in the life of Jesus Christ by faith, allowing them to share in all the benefits and riches that result from his person and work.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6756: union with Christ, significance of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Lily",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lily"
 }
 ]
 }

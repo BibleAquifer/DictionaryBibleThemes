@@ -2,10 +2,10 @@
 {
 "content_id": "4681",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4681: ram",
 "media_type": "Text",
-"index_reference": "4681: ram",
+"index_reference": "4681",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The male sheep, part of an agrarian economy and used in sacrifice. Its skin had value and its horn was used in worship.</p>\n<h2>Rams as part of an agrarian economy</h2>\n<p><strong><a href=\"https://ref.ly/Gen31:38\">GEN 31:38</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen32:14\">GEN 32:14</a>; <a href=\"https://ref.ly/Deut32:14\">DEU 32:14</a>; <a href=\"https://ref.ly/2Kgs3:4\">2KI 3:4</a>; <a href=\"https://ref.ly/Ezek27:21\">EZK 27:21</a>, <a href=\"https://ref.ly/Ezek34:17\">EZK 34:17</a></p>\n<h2>Rams were used for religious purposes</h2>\n<h3>As sacrificial victims</h3>\n<p><strong><a href=\"https://ref.ly/Gen22:13\">GEN 22:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num23:2\">NUM 23:2</a>; <a href=\"https://ref.ly/1Sam15:22\">1SA 15:22</a>; <a href=\"https://ref.ly/1Chr15:26\">1CH 15:26</a>; <a href=\"https://ref.ly/Mic6:7\">MIC 6:7</a></p>\n<h3>In the making of a covenant</h3>\n<p><a href=\"https://ref.ly/Gen15:9-Gen15:10\">GEN 15:9–15:10</a></p>\n<h3>For guilt offerings</h3>\n<p><strong><a href=\"https://ref.ly/Lev5:15\">LEV 5:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev5:16-Lev5:19\">LEV 5:16–5:19</a>, <a href=\"https://ref.ly/Lev6:6\">LEV 6:6</a>, <a href=\"https://ref.ly/Lev19:21-Lev19:22\">LEV 19:21–19:22</a>; <a href=\"https://ref.ly/Num5:8\">NUM 5:8</a>; <a href=\"https://ref.ly/2Chr29:21\">2CH 29:21</a>; <a href=\"https://ref.ly/Ezra10:19\">EZR 10:19</a></p>\n<h3>For fellowship or burnt offerings</h3>\n<p><strong><a href=\"https://ref.ly/Lev9:4\">LEV 9:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev9:1-Lev9:3\">LEV 9:1–9:3</a>, <a href=\"https://ref.ly/Lev16:3-Lev16:5\">LEV 16:3–16:5</a>; <a href=\"https://ref.ly/Num6:14-Num6:17\">NUM 6:14–6:17</a>, <a href=\"https://ref.ly/Num7:17\">NUM 7:17</a>, <a href=\"https://ref.ly/Num15:6-Num15:7\">NUM 15:6–15:7</a>, <a href=\"https://ref.ly/Num28:11\">NUM 28:11</a>, <a href=\"https://ref.ly/Num29:2\">NUM 29:2</a>; <a href=\"https://ref.ly/Ezek43:23-Ezek43:24\">EZK 43:23–43:24</a>, <a href=\"https://ref.ly/Ezek46:4\">EZK 46:4</a></p>\n<h2>For Aaron's ordination</h2>\n<p><strong><a href=\"https://ref.ly/Lev8:22\">LEV 8:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod29:1-Exod29:34\">EXO 29:1–29:34</a>; <a href=\"https://ref.ly/Lev8:23-Lev8:30\">LEV 8:23–8:30</a></p>\n<h2>The ram's skin brought as an offering for the construction of the tabernacle</h2>\n<p><strong><a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod25:5\">EXO 25:5</a>, <a href=\"https://ref.ly/Exod35:7\">EXO 35:7</a>, <a href=\"https://ref.ly/Exod36:19\">EXO 36:19</a></p>\n<h2>The ram's horn</h2>\n<p><strong><a href=\"https://ref.ly/Ps81:3\">PSA 81:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod19:13\">EXO 19:13</a>; <a href=\"https://ref.ly/Josh6:4\">JOS 6:4</a>; <a href=\"https://ref.ly/1Chr15:28\">1CH 15:28</a>; <a href=\"https://ref.ly/Ps98:6\">PSA 98:6</a></p>\n<h2>Daniel's vision of the ram</h2>\n<p><strong><a href=\"https://ref.ly/Dan8:3\">DAN 8:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan8:4-Dan8:8\">DAN 8:4–8:8</a>, <a href=\"https://ref.ly/Dan8:20\">DAN 8:20</a></p>",
@@ -332,6 +332,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7745: ordination",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.6328,
+"match_method": "scored",
+"preferred_label": "Sheep"
 }
 ]
 }

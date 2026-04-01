@@ -2,10 +2,10 @@
 {
 "content_id": "4840",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4840: mist",
 "media_type": "Text",
-"index_reference": "4840: mist",
+"index_reference": "4840",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Mist is a natural phenomenon</h2>\n<h3>Mist as a source of water</h3>\n<p><a href=\"https://ref.ly/Gen2:5-Gen2:6\">GEN 2:5–2:6</a> <em>NIV footnote at verse 6</em></p>\n<h3>Mist as a barrier to effective vision</h3>\n<p><a href=\"https://ref.ly/Acts13:11\">ACT 13:11</a></p>\n<h2>Mist as a symbol</h2>\n<h3>Of a lack of substance or permanence</h3>\n<p><strong><a href=\"https://ref.ly/Hos6:4\">HOS 6:4</a></strong>; <strong><a href=\"https://ref.ly/Jas4:14\">JAS 4:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos13:3\">HOS 13:3</a>; <a href=\"https://ref.ly/2Pet2:17\">2PE 2:17</a></p>\n<h3>Of God's forgiveness</h3>\n<p><strong><a href=\"https://ref.ly/Isa44:22\">ISA 44:22</a></strong></p>",
@@ -68,6 +68,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4853: weather",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Thomas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thomas"
 }
 ]
 }

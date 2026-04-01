@@ -2,10 +2,10 @@
 {
 "content_id": "4422",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4422: brier",
 "media_type": "Text",
-"index_reference": "4422: brier",
+"index_reference": "4422",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Prickly vegetation, painful to the touch, often seen as a symbol of dereliction.</p>\n<h2>A brier as prickly vegetation</h2>\n<p><strong><a href=\"https://ref.ly/Ezek28:24\">EZK 28:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa7:23-Isa7:25\">ISA 7:23–7:25</a>; <a href=\"https://ref.ly/Ezek2:6\">EZK 2:6</a>; <a href=\"https://ref.ly/Mic7:2-Mic7:4\">MIC 7:2–7:4</a></p>\n<h2>A brier as a symbol of dereliction</h2>\n<p><strong><a href=\"https://ref.ly/Isa5:6\">ISA 5:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job31:38-Job31:40\">JOB 31:38–31:40</a>; <a href=\"https://ref.ly/Isa32:11-Isa32:13\">ISA 32:11–32:13</a>, <a href=\"https://ref.ly/Isa55:13\">ISA 55:13</a>; <a href=\"https://ref.ly/Hos9:6\">HOS 9:6</a></p>\n<h2>Briers are destroyed by fire</h2>\n<p><strong><a href=\"https://ref.ly/Isa10:17\">ISA 10:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa9:18\">ISA 9:18</a>, <a href=\"https://ref.ly/Isa27:4\">ISA 27:4</a></p>\n<h2>Briers as an instrument of punishment</h2>\n<p><strong><a href=\"https://ref.ly/Judg8:16\">JDG 8:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg8:4-Judg8:7\">JDG 8:4–8:7</a></p>",
@@ -103,6 +103,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4520: thorns",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Brier",
+"type": "flora",
+"confidence": 0.6275,
+"match_method": "scored",
+"preferred_label": "Brier"
 }
 ]
 }

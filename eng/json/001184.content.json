@@ -2,10 +2,10 @@
 {
 "content_id": "5622",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5622: witnesses",
 "media_type": "Text",
-"index_reference": "5622: witnesses",
+"index_reference": "5622",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Individuals who, having observed something take place, are able to give an accurate and full account of what has happened. Witnesses were of central importance to OT law. The theme of giving account is also of major importance to evangelism, which rests upon believers explaining the impact of Jesus Christ upon their lives.</p>",
@@ -32,6 +32,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5625: witnesses, false",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hammolecheth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hammolecheth"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "8168",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8168: way, the",
 "media_type": "Text",
-"index_reference": "8168: way, the",
+"index_reference": "8168",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A term used metaphorically to refer both to the Christian faith (especially in Acts) and to Jesus Christ himself (especially in John's Gospel). Faith in Jesus Christ is the only way of salvation for sinful human beings. The term is often used with other expressions in Scripture to describe aspects of the life of the believer.</p>\n<h2>The Way refers to the Christian faith</h2>\n<p><strong><a href=\"https://ref.ly/Acts9:2\">ACT 9:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts19:9\">ACT 19:9</a>, <a href=\"https://ref.ly/Acts19:23\">ACT 19:23</a>, <a href=\"https://ref.ly/Acts22:4\">ACT 22:4</a>, <a href=\"https://ref.ly/Acts24:14\">ACT 24:14</a>, <a href=\"https://ref.ly/Acts24:22\">ACT 24:22</a></p>\n<h2>The way refers to Jesus Christ himself</h2>\n<p><strong><a href=\"https://ref.ly/John14:6\">JHN 14:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/John10:9\">JHN 10:9</a>, <a href=\"https://ref.ly/John14:4-John14:6\">JHN 14:4–14:6</a>; <a href=\"https://ref.ly/1Tim2:5\">1TI 2:5</a>; <a href=\"https://ref.ly/Heb10:19-Heb10:20\">HEB 10:19–10:20</a></p>\n<h2>Faith in Jesus Christ is the only way of salvation for sinful human beings</h2>\n<p><strong><a href=\"https://ref.ly/Acts4:12\">ACT 4:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark16:16\">MRK 16:16</a>; <a href=\"https://ref.ly/John1:12-John1:13\">JHN 1:12–1:13</a>, <a href=\"https://ref.ly/John3:15-John3:16\">JHN 3:15–3:16</a>; <a href=\"https://ref.ly/Acts16:31\">ACT 16:31</a>; <a href=\"https://ref.ly/Rom10:9\">ROM 10:9</a>; <a href=\"https://ref.ly/Eph2:8\">EPH 2:8</a>; <a href=\"https://ref.ly/1Pet1:5\">1PE 1:5</a></p>\n<h2>Way used with other terms to describe the life of faith</h2>\n<h3>The way of righteousness</h3>\n<p><strong><a href=\"https://ref.ly/Matt21:32\">MAT 21:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt3:1-Matt3:12\">MAT 3:1–3:12</a>; <a href=\"https://ref.ly/2Pet2:21\">2PE 2:21</a></p>\n<h3>The way of God</h3>\n<p><strong><a href=\"https://ref.ly/Matt22:16\">MAT 22:16</a></strong> parallels <a href=\"https://ref.ly/Mark12:14\">MRK 12:14</a>, <a href=\"https://ref.ly/Luke20:21\">LUK 20:21</a> <em>See also</em> <a href=\"https://ref.ly/Ps18:30\">PSA 18:30</a>; <a href=\"https://ref.ly/Isa55:9\">ISA 55:9</a>; <a href=\"https://ref.ly/Acts18:25-Acts18:26\">ACT 18:25–18:26</a>; <a href=\"https://ref.ly/Heb3:10\">HEB 3:10</a>; <a href=\"https://ref.ly/Ps95:10\">PSA 95:10</a></p>\n<h3>The way of the Lord</h3>\n<p><strong><a href=\"https://ref.ly/Acts18:24-Acts18:25\">ACT 18:24–18:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:19\">GEN 18:19</a>; <a href=\"https://ref.ly/Ps27:11\">PSA 27:11</a>, <a href=\"https://ref.ly/Ps143:8\">PSA 143:8</a>; <a href=\"https://ref.ly/Prov10:29\">PRO 10:29</a></p>\n<h3>The way of salvation</h3>\n<p><strong><a href=\"https://ref.ly/Acts16:17\">ACT 16:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt7:14\">MAT 7:14</a></p>\n<h3>The way of peace</h3>\n<p><strong><a href=\"https://ref.ly/Luke1:79\">LUK 1:79</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa26:3\">ISA 26:3</a>, <a href=\"https://ref.ly/Isa26:12\">ISA 26:12</a>, <a href=\"https://ref.ly/Isa57:20-Isa57:21\">ISA 57:20–57:21</a>; <a href=\"https://ref.ly/Rom3:17\">ROM 3:17</a>; <a href=\"https://ref.ly/Isa59:8\">ISA 59:8</a></p>\n<h3>The way of holiness</h3>\n<p><strong><a href=\"https://ref.ly/Isa35:8\">ISA 35:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb9:8\">HEB 9:8</a></p>",
@@ -366,6 +366,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8266: holiness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:TheWay",
+"type": "keyterm",
+"confidence": 0.5991,
+"match_method": "scored",
+"preferred_label": "The Way"
 }
 ]
 }

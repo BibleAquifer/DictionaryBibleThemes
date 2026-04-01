@@ -2,10 +2,10 @@
 {
 "content_id": "5540",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5540: society",
 "media_type": "Text",
-"index_reference": "5540: society",
+"index_reference": "5540",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The network of relationships, institutions and shared values that together make up the corporate aspect of human life. Though often regarded as hostile to God and threatening to faith, society can be viewed positively as capable of redemption and an object of God's saving activity.</p>",
@@ -26,7 +26,8 @@
 "label": "5542: society, positive aspects of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

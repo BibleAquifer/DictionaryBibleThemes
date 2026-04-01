@@ -2,10 +2,10 @@
 {
 "content_id": "7352",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7352: ephod",
 "media_type": "Text",
-"index_reference": "7352: ephod",
+"index_reference": "7352",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>A garment worn by priests and high priests</h2>\n<p><strong><a href=\"https://ref.ly/Exod28:4\">EXO 28:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod28:6-Exod28:13\">EXO 28:6–28:13</a>, <a href=\"https://ref.ly/Exod39:2-Exod39:7\">EXO 39:2–39:7</a>; <a href=\"https://ref.ly/Lev8:7\">LEV 8:7</a>; <a href=\"https://ref.ly/Judg17:5\">JDG 17:5</a>, <a href=\"https://ref.ly/Judg18:17-Judg18:20\">JDG 18:17–18:20</a>; <a href=\"https://ref.ly/1Sam2:28\">1SA 2:28</a>, <a href=\"https://ref.ly/1Sam22:18\">1SA 22:18</a>, <a href=\"https://ref.ly/1Sam23:9\">1SA 23:9</a>; <a href=\"https://ref.ly/Hos3:4\">HOS 3:4</a></p>\n<h2>Worn by people other than priests</h2>\n<p><strong><a href=\"https://ref.ly/2Sam6:14\">2SA 6:14</a></strong> parallel <a href=\"https://ref.ly/1Chr15:27\">1CH 15:27</a> <em>See also</em> <a href=\"https://ref.ly/Judg8:27\">JDG 8:27</a>; <a href=\"https://ref.ly/1Sam2:18\">1SA 2:18</a></p>",
@@ -131,6 +131,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7766: priests",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Nekoda.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nekoda"
+},
+{
+"id": "person:Nekoda",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nekoda"
+},
+{
+"id": "realia:Ephod",
+"type": "realia",
+"confidence": 0.6446,
+"match_method": "scored",
+"preferred_label": "Ephod"
 }
 ]
 }

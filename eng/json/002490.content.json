@@ -2,10 +2,10 @@
 {
 "content_id": "9150",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9150: Messianic banquet",
 "media_type": "Text",
-"index_reference": "9150: messianic banquet",
+"index_reference": "9150",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A symbolic portrayal of the blessings of the age to come in which those chosen by God share in a rich feast with the Messiah. In the NT this is often pictured as a marriage supper with Jesus Christ as the groom and the church as both bride and invited guests. The feast, which will take place after the consummation of God's kingdom, is prefigured in the Lord's Supper.</p>\n<h2>The Messianic banquet promised</h2>\n<p><strong><a href=\"https://ref.ly/Isa25:6\">ISA 25:6</a></strong>; <strong><a href=\"https://ref.ly/Luke14:15\">LUK 14:15</a></strong></p>\n<h2>The significance of banqueting</h2>\n<h3>As a sign of spiritual blessing</h3>\n<p><strong><a href=\"https://ref.ly/Ps23:5\">PSA 23:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job36:16\">JOB 36:16</a>; <a href=\"https://ref.ly/Isa1:19\">ISA 1:19</a>, <a href=\"https://ref.ly/Isa55:1-Isa55:2\">ISA 55:1–55:2</a>; <a href=\"https://ref.ly/Joel2:24-Joel2:26\">JOL 2:24–2:26</a></p>\n<h3>As a sign of spiritual satisfaction</h3>\n<p><strong><a href=\"https://ref.ly/Ps63:5\">PSA 63:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps107:9\">PSA 107:9</a>; <a href=\"https://ref.ly/Isa58:11\">ISA 58:11</a>; <a href=\"https://ref.ly/Ezek34:14\">EZK 34:14</a>; <a href=\"https://ref.ly/John7:37-John7:38\">JHN 7:37–7:38</a>; <a href=\"https://ref.ly/Rev7:16-Rev7:17\">REV 7:16–7:17</a></p>\n<h3>As a sign of fellowship with God</h3>\n<p><strong><a href=\"https://ref.ly/Rev3:20\">REV 3:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod24:11\">EXO 24:11</a> <em>This may have been a covenant meal to seal the covenant between God and Israel</em>; <a href=\"https://ref.ly/Song2:4\">SNG 2:4</a></p>\n<h2>The Messianic banquet as a wedding feast</h2>\n<h3>The invitation to participate</h3>\n<p><strong><a href=\"https://ref.ly/Matt22:2\">MAT 22:2</a></strong>; <strong><a href=\"https://ref.ly/Rev19:7-Rev19:9\">REV 19:7–19:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt25:1-Matt25:10\">MAT 25:1–25:10</a>; <a href=\"https://ref.ly/Luke14:16\">LUK 14:16</a>; <a href=\"https://ref.ly/Rev21:2\">REV 21:2</a>, <a href=\"https://ref.ly/Rev21:9-Rev21:10\">REV 21:9–21:10</a></p>\n<h3>The invitation rejected</h3>\n<p><a href=\"https://ref.ly/Matt22:3-Matt22:6\">MAT 22:3–22:6</a>; ; <a href=\"https://ref.ly/Luke14:16-Luke14:20\">LUK 14:16–14:20</a></p>\n<h3>The invitation given to others</h3>\n<p><strong><a href=\"https://ref.ly/Matt8:11-Matt8:12\">MAT 8:11–8:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt22:7-Matt22:14\">MAT 22:7–22:14</a>; <a href=\"https://ref.ly/Luke13:28-Luke13:29\">LUK 13:28–13:29</a>, <a href=\"https://ref.ly/Luke14:21-Luke14:24\">LUK 14:21–14:24</a></p>\n<h2>The anticipation of the Messianic banquet</h2>\n<h3>Celebrating God's goodness</h3>\n<p><strong><a href=\"https://ref.ly/Deut16:15\">DEU 16:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh8:10-Neh8:12\">NEH 8:10–8:12</a>; <a href=\"https://ref.ly/Zech14:16\">ZEC 14:16</a></p>\n<h3>It is prefigured in the Lord's Supper</h3>\n<p><strong><a href=\"https://ref.ly/Luke22:15-Luke22:16\">LUK 22:15–22:16</a></strong> <em>The Messianic banquet is here associated with the Passover meal which Jesus Christ shared with his disciples</em>; <strong><a href=\"https://ref.ly/Matt26:27-Matt26:29\">MAT 26:27–26:29</a></strong> parallels <a href=\"https://ref.ly/Mark14:23-Mark14:25\">MRK 14:23–14:25</a>, <a href=\"https://ref.ly/Luke22:17-Luke22:18\">LUK 22:17–22:18</a><strong><a href=\"https://ref.ly/John6:48-John6:51\">JHN 6:48–6:51</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke22:29-Luke22:30\">LUK 22:29–22:30</a>; <a href=\"https://ref.ly/John6:55-John6:56\">JHN 6:55–6:56</a>; <a href=\"https://ref.ly/1Cor11:26\">1CO 11:26</a></p>",
@@ -309,6 +309,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9145: Messianic age",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Zaza",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zaza"
 }
 ]
 }

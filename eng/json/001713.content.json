@@ -2,16 +2,25 @@
 {
 "content_id": "7033",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7033: unity, of God",
 "media_type": "Text",
-"index_reference": "7033: unity, of god",
+"index_reference": "7033",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"1170.md\">1170: God, unity of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Melea",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Melea"
+}
+]
 }
 }
 ]

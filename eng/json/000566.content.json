@@ -2,10 +2,10 @@
 {
 "content_id": "4842",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4842: north",
 "media_type": "Text",
-"index_reference": "4842: north",
+"index_reference": "4842",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The geographical direction opposite to south, often used to demonstrate the vast extent between the two.</p>\n<h2>North as a point of the compass</h2>\n<p><strong><a href=\"https://ref.ly/Job37:22\">JOB 37:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen13:14\">GEN 13:14</a>; <a href=\"https://ref.ly/Deut2:3\">DEU 2:3</a>; <a href=\"https://ref.ly/Josh18:5\">JOS 18:5</a>; <a href=\"https://ref.ly/Eccl11:3\">ECC 11:3</a>; <a href=\"https://ref.ly/Isa14:31\">ISA 14:31</a>; <a href=\"https://ref.ly/Jer1:13-Jer1:15\">JER 1:13–1:15</a>, <a href=\"https://ref.ly/Jer3:18\">JER 3:18</a> <em>Although geographically situated to the east of Israel, invaders from Mesopotamia had to enter the country from the north, following the land route around the desert areas</em>; <a href=\"https://ref.ly/Jer46:6\">JER 46:6</a>; <a href=\"https://ref.ly/Ezek8:5\">EZK 8:5</a>, <a href=\"https://ref.ly/Ezek26:7\">EZK 26:7</a>; <a href=\"https://ref.ly/Amos8:12\">AMO 8:12</a>; <a href=\"https://ref.ly/Zeph2:13\">ZEP 2:13</a></p>\n<h2>North and south used to demonstrate vast extent</h2>\n<p><strong><a href=\"https://ref.ly/Gen28:14\">GEN 28:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job23:9\">JOB 23:9</a>; <a href=\"https://ref.ly/Isa43:6\">ISA 43:6</a>; <a href=\"https://ref.ly/Ezek20:47\">EZK 20:47</a>, <a href=\"https://ref.ly/Ezek21:4\">EZK 21:4</a>; <a href=\"https://ref.ly/Dan8:4\">DAN 8:4</a>; <a href=\"https://ref.ly/Zech6:6\">ZEC 6:6</a></p>\n<h2>The north wind</h2>\n<p><strong><a href=\"https://ref.ly/Prov25:23\">PRO 25:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl1:6\">ECC 1:6</a>; <a href=\"https://ref.ly/Song4:16\">SNG 4:16</a>; <a href=\"https://ref.ly/Ezek1:4\">EZK 1:4</a></p>",
@@ -177,6 +177,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4857: west",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Diklah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Diklah"
 }
 ]
 }

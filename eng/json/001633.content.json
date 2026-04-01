@@ -2,10 +2,10 @@
 {
 "content_id": "6660",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6660: freedom, through Jesus Christ",
 "media_type": "Text",
-"index_reference": "6660: freedom, through jesus christ",
+"index_reference": "6660",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Jesus Christ, the promised deliverer, sets his people free from the present effects of sin and from the power of sin and will finally deliver them completely from its presence.</p>\n<h2>The OT points ahead to a new and greater freedom and to a new deliverer</h2>\n<h3>The OT predicts Jesus Christ as the deliverer</h3>\n<p><strong><a href=\"https://ref.ly/Isa61:1\">ISA 61:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa42:6-Isa42:7\">ISA 42:6–42:7</a></p>\n<h3>The redemption of the exodus foreshadows the redemption achieved by Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Col1:13-Col1:14\">COL 1:13–1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor10:1-1Cor10:4\">1CO 10:1–10:4</a></p>\n<h3>Jesus Christ fulfils the OT predictions of him as deliverer</h3>\n<p><strong><a href=\"https://ref.ly/Luke4:18-Luke4:19\">LUK 4:18–4:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom11:26\">ROM 11:26</a>; <a href=\"https://ref.ly/Isa59:20\">ISA 59:20</a></p>\n<h2>The freedom that comes through Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/John8:32-John8:36\">JHN 8:32–8:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt1:21\">MAT 1:21</a></p>\n<h3>Jesus Christ sets his people free from the penalty of sin</h3>\n<p><strong><a href=\"https://ref.ly/1Thess1:10\">1TH 1:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/John3:36\">JHN 3:36</a>; <a href=\"https://ref.ly/Rom8:1-Rom8:2\">ROM 8:1–8:2</a>; <a href=\"https://ref.ly/Heb9:15\">HEB 9:15</a>; <a href=\"https://ref.ly/Rev1:5\">REV 1:5</a></p>\n<h3>Jesus Christ sets his people free from the spiritual death that accompanies sin</h3>\n<p><strong><a href=\"https://ref.ly/Rom6:1-Rom6:7\">ROM 6:1–6:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph2:1-Eph2:5\">EPH 2:1–2:5</a>; <a href=\"https://ref.ly/Heb9:14\">HEB 9:14</a></p>\n<h3>Jesus Christ sets his people free from the fear of death</h3>\n<p><strong><a href=\"https://ref.ly/Heb2:14-Heb2:15\">HEB 2:14–2:15</a></strong></p>\n<h3>Jesus Christ will finally set his people free from death itself</h3>\n<p><strong><a href=\"https://ref.ly/1Cor15:22-1Cor15:23\">1CO 15:22–15:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom5:12-Rom5:17\">ROM 5:12–5:17</a>, <a href=\"https://ref.ly/Rom7:24\">ROM 7:24</a></p>\n<h3>Jesus Christ sets his people free from the power of sin</h3>\n<p><strong><a href=\"https://ref.ly/Rom6:11-Rom6:14\">ROM 6:11–6:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom6:22-Rom6:23\">ROM 6:22–6:23</a></p>\n<h3>Jesus Christ sets his people free from the pollution of sin</h3>\n<p><strong><a href=\"https://ref.ly/2Pet1:2-2Pet1:4\">2PE 1:2–1:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal1:3-Gal1:4\">GAL 1:3–1:4</a></p>\n<h3>Jesus Christ sets his people free from the power of Satan</h3>\n<p><strong><a href=\"https://ref.ly/Col1:13-Col1:14\">COL 1:13–1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark3:27\">MRK 3:27</a> <em>The strong man is, by implication, Jesus Christ</em>; <a href=\"https://ref.ly/Acts26:17-Acts26:18\">ACT 26:17–26:18</a></p>\n<h3>Jesus Christ will set his people free from the presence of sin</h3>\n<p><strong><a href=\"https://ref.ly/Phil3:21\">PHP 3:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph5:27\">EPH 5:27</a>; <a href=\"https://ref.ly/Col1:22\">COL 1:22</a>; <a href=\"https://ref.ly/1Thess3:13\">1TH 3:13</a>, <a href=\"https://ref.ly/1Thess5:23\">1TH 5:23</a>; <a href=\"https://ref.ly/Rev21:4\">REV 21:4</a></p>\n<h2>Freedom as the result of being rescued from trials by Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/2Tim3:11\">2TI 3:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts26:17\">ACT 26:17</a>; <a href=\"https://ref.ly/2Tim4:18\">2TI 4:18</a>; <a href=\"https://ref.ly/2Pet2:9\">2PE 2:9</a></p>",
@@ -318,6 +318,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9020: death",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Lael",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lael"
 }
 ]
 }

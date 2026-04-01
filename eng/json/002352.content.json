@@ -2,10 +2,10 @@
 {
 "content_id": "8719",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8719: distrust",
 "media_type": "Text",
-"index_reference": "8719: distrust",
+"index_reference": "8719",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Failure to trust another, or a tendency to be suspicious of others' abilities or intentions. Though sometimes justifiable towards other human beings, such an attitude is never acceptable towards God.</p>\n<h2>Distrust between human beings</h2>\n<p><strong><a href=\"https://ref.ly/Gen50:15-Gen50:17\">GEN 50:15–50:17</a></strong> <em>Joseph's brothers distrusted him because they could not believe he had forgiven them.</em> <em>See also</em> <a href=\"https://ref.ly/Gen32:6-Gen32:8\">GEN 32:6–32:8</a> <em>Jacob distrusted Esau because he thought he was seeking revenge</em>; <a href=\"https://ref.ly/Judg11:19-Judg11:20\">JDG 11:19–11:20</a> <em>Sihon distrusted Israel because he suspected a trick</em>; <a href=\"https://ref.ly/Acts15:37-Acts15:38\">ACT 15:37–15:38</a> <em>Paul distrusted John Mark, having been let down by him.</em></p>\n<h2>Distrust of God</h2>\n<h3>Israel distrusted God</h3>\n<p><strong><a href=\"https://ref.ly/Zeph3:2\">ZEP 3:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut1:32-Deut1:33\">DEU 1:32–1:33</a>, <a href=\"https://ref.ly/Deut9:23-Deut9:24\">DEU 9:23–9:24</a> <em>Because that generation distrusted God, they failed to enter the promised land</em>; <a href=\"https://ref.ly/Ps78:7\">PSA 78:7</a>, <a href=\"https://ref.ly/Ps78:22\">PSA 78:22</a> <em>Israel distrusted God in spite of the miracles he had done for her.</em><a href=\"https://ref.ly/2Kgs17:14-2Kgs17:15\">2KI 17:14–17:15</a>; <a href=\"https://ref.ly/Jer13:25\">JER 13:25</a></p>\n<h3>Other examples</h3>\n<p>Distrust in God involves failure to trust God's promises and placing trust in other things:\n <a href=\"https://ref.ly/Jer13:25\">JER 13:25</a>; ; <a href=\"https://ref.ly/Ezek33:13\">EZK 33:13</a>; ; <a href=\"https://ref.ly/Mal3:6-Mal3:10\">MAL 3:6–3:10</a>; ; <a href=\"https://ref.ly/Matt19:22\">MAT 19:22</a> parallel <a href=\"https://ref.ly/Mark10:22\">MRK 10:22</a></p>\n<h2>Distrust by God</h2>\n<p><strong><a href=\"https://ref.ly/Job4:18\">JOB 4:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job15:15\">JOB 15:15</a>; <a href=\"https://ref.ly/John2:24\">JHN 2:24</a></p>\n<h2>Distrust is sometimes justified</h2>\n<p><strong><a href=\"https://ref.ly/Ps118:8\">PSA 118:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job39:12\">JOB 39:12</a>; <a href=\"https://ref.ly/Ps5:9\">PSA 5:9</a>, <a href=\"https://ref.ly/Ps44:6\">PSA 44:6</a>, <a href=\"https://ref.ly/Ps146:3\">PSA 146:3</a>; <a href=\"https://ref.ly/Jer7:4\">JER 7:4</a>, <a href=\"https://ref.ly/Jer9:4\">JER 9:4</a>, <a href=\"https://ref.ly/Jer12:6\">JER 12:6</a>; <a href=\"https://ref.ly/Mic7:5\">MIC 7:5</a>; <a href=\"https://ref.ly/Hab2:18\">HAB 2:18</a></p>",
@@ -257,6 +257,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8834: unbelief",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Kadesh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tahtim-hodshi"
 }
 ]
 }

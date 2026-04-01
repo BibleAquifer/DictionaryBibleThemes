@@ -2,10 +2,10 @@
 {
 "content_id": "8403",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8403: commands",
 "media_type": "Text",
-"index_reference": "8403: commands",
+"index_reference": "8403",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Demands made of his people, or obligations laid upon his people, by God. Scripture stresses that being the people of God involves responsibilities as well as privileges, and sets out the demands which God justly makes of his people.</p>",
@@ -26,7 +26,8 @@
 "label": "8405: commands, in NT",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

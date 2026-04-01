@@ -2,10 +2,10 @@
 {
 "content_id": "4518",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4518: sycamore-fig tree",
 "media_type": "Text",
-"index_reference": "4518: sycamore-fig tree",
+"index_reference": "4518",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Sycamore-fig trees were plentiful in Judea</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs10:27\">1KI 10:27</a></strong> parallels <a href=\"https://ref.ly/2Chr1:15\">2CH 1:15</a>, <a href=\"https://ref.ly/2Chr9:27\">2CH 9:27</a> <em>See also</em> <a href=\"https://ref.ly/Luke19:4\">LUK 19:4</a></p>\n<h2>The cultivation of sycamore-fig trees</h2>\n<p><strong><a href=\"https://ref.ly/Amos7:14\">AMO 7:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr27:28\">1CH 27:28</a>; <a href=\"https://ref.ly/Ps78:47\">PSA 78:47</a></p>",
@@ -75,6 +75,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4528: trees",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:SycomoreFig",
+"type": "flora",
+"confidence": 0.9415,
+"match_method": "scored",
+"preferred_label": "Sycomore Fig"
+},
+{
+"id": "flora:Fig",
+"type": "flora",
+"confidence": 0.6385,
+"match_method": "scored",
+"preferred_label": "Fig"
 }
 ]
 }

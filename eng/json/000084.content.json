@@ -2,16 +2,17 @@
 {
 "content_id": "1417",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1417: miracles, of Jesus Christ",
 "media_type": "Text",
-"index_reference": "1417: miracles, of jesus christ",
+"index_reference": "1417",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"2351.md\">2351: Jesus Christ, miracles of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

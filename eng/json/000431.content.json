@@ -2,10 +2,10 @@
 {
 "content_id": "4434",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4434: drinking",
 "media_type": "Text",
-"index_reference": "4434: drinking",
+"index_reference": "4434",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture lays down no general prohibition of the consumption of alcohol, but warns against its abuse.</p>",
@@ -26,7 +26,8 @@
 "label": "4436: drinking, abstention from",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

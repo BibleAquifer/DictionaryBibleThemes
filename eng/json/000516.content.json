@@ -2,10 +2,10 @@
 {
 "content_id": "4666",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4666: lion",
 "media_type": "Text",
-"index_reference": "4666: lion",
+"index_reference": "4666",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An important animal in the natural history of Palestine; a symbol of power and strength.</p>\n<h2>Lions seen as a threat to life</h2>\n<p><strong><a href=\"https://ref.ly/Dan6:7\">DAN 6:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg14:5\">JDG 14:5</a>; <a href=\"https://ref.ly/1Kgs13:24-1Kgs13:28\">1KI 13:24–13:28</a>, <a href=\"https://ref.ly/1Kgs20:36\">1KI 20:36</a>; <a href=\"https://ref.ly/Dan6:24\">DAN 6:24</a></p>\n<h2>God's deliverance from lions</h2>\n<p><strong><a href=\"https://ref.ly/Dan6:22\">DAN 6:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:34-1Sam17:37\">1SA 17:34–17:37</a>; <a href=\"https://ref.ly/2Tim4:17\">2TI 4:17</a>; <a href=\"https://ref.ly/Heb11:33\">HEB 11:33</a></p>\n<h2>The figurative use of lions</h2>\n<h3>As powerful</h3>\n<p><strong><a href=\"https://ref.ly/Job10:16\">JOB 10:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:9\">GEN 49:9</a>; <a href=\"https://ref.ly/Ps22:13\">PSA 22:13</a>, <a href=\"https://ref.ly/Ps22:21\">PSA 22:21</a></p>\n<h3>As cunning</h3>\n<p><strong><a href=\"https://ref.ly/Ps10:9\">PSA 10:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps17:12\">PSA 17:12</a>; <a href=\"https://ref.ly/Lam3:10\">LAM 3:10</a></p>\n<h3>As fearsome</h3>\n<p><a href=\"https://ref.ly/Jer12:8\">JER 12:8</a>, <a href=\"https://ref.ly/Jer51:38\">JER 51:38</a></p>\n<h3>As voracious</h3>\n<p><strong><a href=\"https://ref.ly/Ps7:2\">PSA 7:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps35:17\">PSA 35:17</a>, <a href=\"https://ref.ly/Ps57:4\">PSA 57:4</a>; <a href=\"https://ref.ly/Jer2:30\">JER 2:30</a>; <a href=\"https://ref.ly/Zeph3:3\">ZEP 3:3</a></p>\n<h3>They are not invincible</h3>\n<p><strong><a href=\"https://ref.ly/Ps34:10\">PSA 34:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job4:10-Job4:11\">JOB 4:10–4:11</a>; <a href=\"https://ref.ly/Ps58:6\">PSA 58:6</a>, <a href=\"https://ref.ly/Ps91:13\">PSA 91:13</a></p>\n<h3>Jesus Christ is likened to a lion</h3>\n<p><strong><a href=\"https://ref.ly/Rev5:5\">REV 5:5</a></strong></p>\n<h3>Satan is likened to a lion</h3>\n<p><strong><a href=\"https://ref.ly/1Pet5:8\">1PE 5:8</a></strong></p>\n<h2>The lion in God's new creation</h2>\n<p><strong><a href=\"https://ref.ly/Isa11:6\">ISA 11:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa65:25\">ISA 65:25</a></p>\n<h2>Lions as a decoration</h2>\n<p><a href=\"https://ref.ly/1Kgs7:29\">1KI 7:29</a>, <a href=\"https://ref.ly/1Kgs7:36\">1KI 7:36</a>, <a href=\"https://ref.ly/1Kgs10:20\">1KI 10:20</a></p>\n<h2>Samson's riddle concerning a lion</h2>\n<p><a href=\"https://ref.ly/Judg14:12-Judg14:18\">JDG 14:12–14:18</a></p>",
@@ -236,6 +236,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4627: creatures",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Cotton",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cotton"
+},
+{
+"id": "fauna:Lion",
+"type": "fauna",
+"confidence": 0.7637,
+"match_method": "scored",
+"preferred_label": "Lion"
 }
 ]
 }

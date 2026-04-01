@@ -2,10 +2,10 @@
 {
 "content_id": "4175",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4175: mediums",
 "media_type": "Text",
-"index_reference": "4175: mediums",
+"index_reference": "4175",
 "language": "eng",
 "review_level": "None",
 "content": "<p>People who claim to be channels through whom the spirits of the dead speak to the living.</p>\n<h2>God's people must not be mediums</h2>\n<p><strong><a href=\"https://ref.ly/Deut18:10-Deut18:12\">DEU 18:10–18:12</a></strong></p>\n<h2>God's people must not consult mediums</h2>\n<p><strong><a href=\"https://ref.ly/Isa8:19-Isa8:20\">ISA 8:19–8:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev19:31\">LEV 19:31</a>, <a href=\"https://ref.ly/Lev20:6\">LEV 20:6</a>; <a href=\"https://ref.ly/2Kgs23:24\">2KI 23:24</a>; <a href=\"https://ref.ly/Jer27:9\">JER 27:9</a></p>\n<h2>Examples of those who turned to mediums</h2>\n<h3>King Saul</h3>\n<p><a href=\"https://ref.ly/1Sam28:3-1Sam28:16\">1SA 28:3–28:16</a>; ; <a href=\"https://ref.ly/1Chr10:13\">1CH 10:13</a></p>\n<h3>King Manasseh</h3>\n<p><a href=\"https://ref.ly/2Kgs21:6\">2KI 21:6</a> parallel <a href=\"https://ref.ly/2Chr33:6\">2CH 33:6</a></p>\n<h3>The Egyptians</h3>\n<p><a href=\"https://ref.ly/Isa19:3\">ISA 19:3</a></p>",
@@ -141,6 +141,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8754: fear",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Beth-gader",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beth-gader"
 }
 ]
 }

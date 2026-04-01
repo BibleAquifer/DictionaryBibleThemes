@@ -2,10 +2,10 @@
 {
 "content_id": "6112",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6112: banishment",
 "media_type": "Text",
-"index_reference": "6112: banishment",
+"index_reference": "6112",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A form of punishment in which the guilty party is expelled from a region and forbidden to return. An important example is the banishment of Adam and Eve from Eden as a result of their disobedience to God.</p>\n<h2>Banishment is a punishment for disobedience</h2>\n<p><strong><a href=\"https://ref.ly/Ezra7:26\">EZR 7:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:15\">EXO 12:15</a>, <a href=\"https://ref.ly/Exod31:14\">EXO 31:14</a>; <a href=\"https://ref.ly/Lev7:20-Lev7:21\">LEV 7:20–7:21</a>; <a href=\"https://ref.ly/Num15:30\">NUM 15:30</a></p>\n<h2>Banishment by God</h2>\n<h3>Adam and Eve were banished from Eden because of their disobedience</h3>\n<p><strong><a href=\"https://ref.ly/Gen3:22-Gen3:24\">GEN 3:22–3:24</a></strong></p>\n<h3>God banished kings as a punishment</h3>\n<p>Nebuchadnezzar was banished from every human being because of his sin:\n <a href=\"https://ref.ly/Dan4:25\">DAN 4:25</a>, <a href=\"https://ref.ly/Dan4:32-Dan4:33\">DAN 4:32–4:33</a>; \n<a href=\"https://ref.ly/Ezek28:16-Ezek28:17\">EZK 28:16–28:17</a> <em>The king of Tyre was banished from God's presence because of his sin.</em></p>\n<h3>God punished the people of Judah by banishing them from their land</h3>\n<p><strong><a href=\"https://ref.ly/Jer23:39\">JER 23:39</a></strong> <em>God also promised their return (<a href=\"https://ref.ly/Jer32:37\">Jer 32:37</a>).</em> <em>See also</em> <a href=\"https://ref.ly/Jer8:3\">JER 8:3</a>, <a href=\"https://ref.ly/Jer24:9\">JER 24:9</a>, <a href=\"https://ref.ly/Jer25:10\">JER 25:10</a>, <a href=\"https://ref.ly/Jer27:10\">JER 27:10</a></p>\n<h3>At the final judgment, God will banish all evildoers</h3>\n<p><strong><a href=\"https://ref.ly/Matt7:23\">MAT 7:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt8:12\">MAT 8:12</a>, <a href=\"https://ref.ly/Matt22:13\">MAT 22:13</a>, <a href=\"https://ref.ly/Matt25:46\">MAT 25:46</a></p>\n<h2>Kings used banishment as a punishment</h2>\n<p>Saul expelled all mediums and spiritists from the land:\n <a href=\"https://ref.ly/1Sam28:3\">1SA 28:3</a>, <a href=\"https://ref.ly/1Sam28:9\">1SA 28:9</a>; \n<a href=\"https://ref.ly/1Kgs15:12\">1KI 15:12</a> <em>Asa banished all the shrine-prostitutes from the land.</em></p>\n<h2>The psalmists recognised banishment as the severest of punishments</h2>\n<p><a href=\"https://ref.ly/Ps5:10\">PSA 5:10</a>, <a href=\"https://ref.ly/Ps31:22\">PSA 31:22</a>, <a href=\"https://ref.ly/Ps37:22\">PSA 37:22</a>, <a href=\"https://ref.ly/Ps37:28\">PSA 37:28</a>, <a href=\"https://ref.ly/Ps37:34\">PSA 37:34</a>, <a href=\"https://ref.ly/Ps37:38\">PSA 37:38</a>, <a href=\"https://ref.ly/Ps51:11\">PSA 51:11</a>, <a href=\"https://ref.ly/Ps71:9\">PSA 71:9</a>, <a href=\"https://ref.ly/Ps125:5\">PSA 125:5</a>; ; <a href=\"https://ref.ly/Jonah2:4\">JON 2:4</a> <em>This portion of the book of Jonah is written in the same manner as the Psalms, i.e., as Hebrew poetry.</em></p>\n<h2>The church is to use banishment as a means of discipline</h2>\n<p><strong><a href=\"https://ref.ly/1Cor5:12-1Cor5:13\">1CO 5:12–5:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut17:7\">DEU 17:7</a>, <a href=\"https://ref.ly/Deut19:19\">DEU 19:19</a>, <a href=\"https://ref.ly/Deut21:21\">DEU 21:21</a>, <a href=\"https://ref.ly/Deut22:21\">DEU 22:21</a>, <a href=\"https://ref.ly/Deut22:24\">DEU 22:24</a>, <a href=\"https://ref.ly/Deut24:7\">DEU 24:7</a></p>",
@@ -330,6 +330,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jether.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jether"
 }
 ]
 }

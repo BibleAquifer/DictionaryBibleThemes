@@ -2,10 +2,10 @@
 {
 "content_id": "5086",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5086: David, rise of",
 "media_type": "Text",
-"index_reference": "5086: david, rise of",
+"index_reference": "5086",
 "language": "eng",
 "review_level": "None",
 "content": "<p>David rose from humble origins to become Israel's greatest king. His rise to power is seen by OT writers as evidence of God's guiding hand upon both David and Israel.</p>\n<h2>David was the great-grandson of Ruth and Boaz</h2>\n<p><strong><a href=\"https://ref.ly/Ruth4:13-Ruth4:22\">RUT 4:13–4:22</a></strong></p>\n<h2>David was anointed king by Samuel</h2>\n<p><strong><a href=\"https://ref.ly/1Sam16:1-1Sam16:13\">1SA 16:1–16:13</a></strong></p>\n<h2>David was a member of Saul's court</h2>\n<p><strong><a href=\"https://ref.ly/1Sam16:17-1Sam16:23\">1SA 16:17–16:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam18:2\">1SA 18:2</a>, <a href=\"https://ref.ly/1Sam18:5\">1SA 18:5</a></p>\n<h2>David's defeat of Goliath</h2>\n<p><strong><a href=\"https://ref.ly/1Sam17:50-1Sam17:51\">1SA 17:50–17:51</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:4-1Sam17:11\">1SA 17:4–17:11</a>, <a href=\"https://ref.ly/1Sam17:17-1Sam17:26\">1SA 17:17–17:26</a>, <a href=\"https://ref.ly/1Sam17:32-1Sam17:54\">1SA 17:32–17:54</a></p>\n<h2>David's friendship with Jonathan</h2>\n<p><strong><a href=\"https://ref.ly/1Sam18:1\">1SA 18:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam19:1-1Sam19:7\">1SA 19:1–19:7</a>, <a href=\"https://ref.ly/1Sam20:1-1Sam20:42\">1SA 20:1–20:42</a>, <a href=\"https://ref.ly/1Sam23:16-1Sam23:18\">1SA 23:16–23:18</a>; <a href=\"https://ref.ly/2Sam1:25-2Sam1:27\">2SA 1:25–1:27</a></p>\n<h2>The relationship between David and Saul</h2>\n<h3>Saul's jealousy of David</h3>\n<p><strong><a href=\"https://ref.ly/1Sam18:9-1Sam18:12\">1SA 18:9–18:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam18:15\">1SA 18:15</a>, <a href=\"https://ref.ly/1Sam18:28-1Sam18:29\">1SA 18:28–18:29</a>, <a href=\"https://ref.ly/1Sam19:1\">1SA 19:1</a>, <a href=\"https://ref.ly/1Sam19:9-1Sam19:17\">1SA 19:9–19:17</a>; <a href=\"https://ref.ly/Ps59:1-Ps59:4\">PSA 59:1–59:4</a></p>\n<h3>His flight from Saul</h3>\n<p><strong><a href=\"https://ref.ly/1Sam23:14\">1SA 23:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam21:10\">1SA 21:10</a>, <a href=\"https://ref.ly/1Sam22:1-1Sam22:5\">1SA 22:1–22:5</a>, <a href=\"https://ref.ly/1Sam27:1-1Sam27:6\">1SA 27:1–27:6</a>; <a href=\"https://ref.ly/Ps52:1\">PSA 52:1</a>, <a href=\"https://ref.ly/Ps54:1-Ps54:7\">PSA 54:1–54:7</a>, <a href=\"https://ref.ly/Ps56:1-Ps56:2\">PSA 56:1–56:2</a>, <a href=\"https://ref.ly/Ps57:1-Ps57:6\">PSA 57:1–57:6</a></p>\n<h3>His refusal to harm Saul</h3>\n<p><strong><a href=\"https://ref.ly/1Sam24:3-1Sam24:7\">1SA 24:3–24:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam26:7-1Sam26:25\">1SA 26:7–26:25</a></p>\n<h3>His reaction to Saul's death</h3>\n<p><strong><a href=\"https://ref.ly/2Sam1:11-2Sam1:12\">2SA 1:11–1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam1:17-2Sam1:27\">2SA 1:17–1:27</a></p>",
@@ -232,6 +232,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8773: jealousy",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:En-hazor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "En-hazor"
 }
 ]
 }

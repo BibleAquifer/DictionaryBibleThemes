@@ -2,10 +2,10 @@
 {
 "content_id": "1300",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1300: God, work of",
 "media_type": "Text",
-"index_reference": "1300: god, work of",
+"index_reference": "1300",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"1305\" data-resourcetype=\"DictionaryOfBibleThemes\">1305: God, activity of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1335\" data-resourcetype=\"DictionaryOfBibleThemes\">1335: blessing</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1340\" data-resourcetype=\"DictionaryOfBibleThemes\">1340: consistency</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1345\" data-resourcetype=\"DictionaryOfBibleThemes\">1345: covenant</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1355\" data-resourcetype=\"DictionaryOfBibleThemes\">1355: providence</span></li></ul>",
@@ -47,7 +47,8 @@
 "label": "1355: providence",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

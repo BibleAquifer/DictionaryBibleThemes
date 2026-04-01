@@ -2,10 +2,10 @@
 {
 "content_id": "1215",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1215: God, feminine descriptions of",
 "media_type": "Text",
-"index_reference": "1215: god, feminine descriptions of",
+"index_reference": "1215",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Some expressions attribute feminine qualities to God, especially relating to motherhood.</p>\n<h2>Descriptions of God relating to childbirth</h2>\n<h3>God gives birth to his people</h3>\n<p><strong><a href=\"https://ref.ly/Isa44:2\">ISA 44:2</a></strong> <em>God giving birth to Israel at the exodus.</em> <em>See also</em> <a href=\"https://ref.ly/Num11:12\">NUM 11:12</a>; <a href=\"https://ref.ly/Deut32:18\">DEU 32:18</a>; <a href=\"https://ref.ly/Isa44:24\">ISA 44:24</a></p>\n<h3>God gives birth to individuals</h3>\n<p><strong><a href=\"https://ref.ly/Ps139:13\">PSA 139:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen29:31\">GEN 29:31</a>, <a href=\"https://ref.ly/Gen30:22\">GEN 30:22</a>; <a href=\"https://ref.ly/Eccl11:5\">ECC 11:5</a>; <a href=\"https://ref.ly/Isa49:5\">ISA 49:5</a>; <a href=\"https://ref.ly/Jer1:5\">JER 1:5</a></p>\n<h3>God as a midwife</h3>\n<p><strong><a href=\"https://ref.ly/Ps22:9\">PSA 22:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job10:18\">JOB 10:18</a>; <a href=\"https://ref.ly/Ps71:6\">PSA 71:6</a>; <a href=\"https://ref.ly/Isa66:9\">ISA 66:9</a></p>\n<h2>Descriptions of God relating to motherhood</h2>\n<h3>God nurses his people</h3>\n<p><strong><a href=\"https://ref.ly/Isa49:15\">ISA 49:15</a></strong></p>\n<h3>God comforts his people</h3>\n<p><strong><a href=\"https://ref.ly/Isa66:13\">ISA 66:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:11\">ISA 40:11</a></p>\n<h3>God as a mother bird protecting her young</h3>\n<p><strong><a href=\"https://ref.ly/Deut32:10-Deut32:11\">DEU 32:10–32:11</a></strong>; <strong><a href=\"https://ref.ly/Matt23:37\">MAT 23:37</a></strong> parallel <a href=\"https://ref.ly/Luke13:34\">LUK 13:34</a> <em>See also</em> <a href=\"https://ref.ly/Ruth2:12\">RUT 2:12</a>; <a href=\"https://ref.ly/Ps17:8\">PSA 17:8</a>, <a href=\"https://ref.ly/Ps91:4\">PSA 91:4</a></p>",
@@ -179,7 +179,8 @@
 "label": "5721: mothers, as a symbol",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

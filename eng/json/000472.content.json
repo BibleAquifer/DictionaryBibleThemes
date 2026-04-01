@@ -2,10 +2,10 @@
 {
 "content_id": "4514",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4514: stick",
 "media_type": "Text",
-"index_reference": "4514: stick",
+"index_reference": "4514",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Literal uses of a stick of wood</h2>\n<h3>For fuel</h3>\n<p><strong><a href=\"https://ref.ly/Amos4:11\">AMO 4:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs17:8-1Kgs17:12\">1KI 17:8–17:12</a>; <a href=\"https://ref.ly/Zech3:1-Zech3:2\">ZEC 3:1–3:2</a></p>\n<h3>For beating</h3>\n<p><strong><a href=\"https://ref.ly/Isa28:27\">ISA 28:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:41-1Sam17:44\">1SA 17:41–17:44</a></p>\n<h3>To extend one's reach</h3>\n<p><strong><a href=\"https://ref.ly/Mark15:33-Mark15:36\">MRK 15:33–15:36</a></strong> parallel <a href=\"https://ref.ly/Matt27:45-Matt27:49\">MAT 27:45–27:49</a></p>\n<h3>Elisha and the axe-head that floats</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/2Kgs6:1-2Kgs6:7\">2KI 6:1–6:7</a></p>\n<h3>As an expression of contempt</h3>\n<p><strong><a href=\"https://ref.ly/Hos4:10-Hos4:12\">HOS 4:10–4:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek21:8-Ezek21:12\">EZK 21:8–21:12</a></p>\n<h2>Sticks used figuratively</h2>\n<h3>Symbolic use</h3>\n<p><a href=\"https://ref.ly/Ezek37:15-Ezek37:28\">EZK 37:15–37:28</a></p>\n<h3>Dry as a stick</h3>\n<p><strong><a href=\"https://ref.ly/Lam4:8\">LAM 4:8</a></strong></p>",
@@ -112,6 +112,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4552: wood",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Chesil",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chesil"
 }
 ]
 }

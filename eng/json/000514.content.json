@@ -2,10 +2,10 @@
 {
 "content_id": "4660",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4660: insects",
 "media_type": "Text",
-"index_reference": "4660: insects",
+"index_reference": "4660",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A wide variety of insects are mentioned in Scripture. Some are useful in the provision of food, while others are viciously destructive. Their behaviour is used figuratively in the poetic and prophetic literature.</p>\n<h2>Regulations concerning insects as food</h2>\n<p><strong><a href=\"https://ref.ly/Lev11:20-Lev11:23\">LEV 11:20–11:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut14:19\">DEU 14:19</a></p>\n<h2>Kinds of insect</h2>\n<h3>The ant</h3>\n<p><strong><a href=\"https://ref.ly/Prov6:6\">PRO 6:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov30:25\">PRO 30:25</a></p>\n<h3>The bee</h3>\n<p><strong><a href=\"https://ref.ly/Judg14:8\">JDG 14:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut1:44\">DEU 1:44</a>; <a href=\"https://ref.ly/Ps118:12\">PSA 118:12</a>; <a href=\"https://ref.ly/Isa7:18\">ISA 7:18</a></p>\n<h3>The flea</h3>\n<p><a href=\"https://ref.ly/1Sam24:14\">1SA 24:14</a>, <a href=\"https://ref.ly/1Sam26:20\">1SA 26:20</a></p>\n<h3>The fly</h3>\n<p><strong><a href=\"https://ref.ly/Exod8:24\">EXO 8:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod8:21-Exod8:22\">EXO 8:21–8:22</a>, <a href=\"https://ref.ly/Exod8:29-Exod8:31\">EXO 8:29–8:31</a>; <a href=\"https://ref.ly/Ps78:45\">PSA 78:45</a>; <a href=\"https://ref.ly/Eccl10:1\">ECC 10:1</a>; <a href=\"https://ref.ly/Isa51:6\">ISA 51:6</a></p>\n<h3>The gnat</h3>\n<p><strong><a href=\"https://ref.ly/Exod8:16\">EXO 8:16</a></strong>; <strong><a href=\"https://ref.ly/Matt23:24\">MAT 23:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod8:17-Exod8:18\">EXO 8:17–8:18</a>; <a href=\"https://ref.ly/Ps105:31\">PSA 105:31</a></p>\n<h3>The grasshopper</h3>\n<p><strong><a href=\"https://ref.ly/Isa40:22\">ISA 40:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num13:33\">NUM 13:33</a>; <a href=\"https://ref.ly/1Kgs8:37\">1KI 8:37</a> parallel <a href=\"https://ref.ly/2Chr6:28\">2CH 6:28</a>; <a href=\"https://ref.ly/Ps105:34\">PSA 105:34</a>; <a href=\"https://ref.ly/Eccl12:5\">ECC 12:5</a>; <a href=\"https://ref.ly/Nah3:15\">NAM 3:15</a></p>\n<h3>The hornet</h3>\n<p><a href=\"https://ref.ly/Exod23:28\">EXO 23:28</a>; ; <a href=\"https://ref.ly/Deut7:20\">DEU 7:20</a>; ; <a href=\"https://ref.ly/Josh24:12\">JOS 24:12</a></p>\n<h3>The locust</h3>\n<p><strong><a href=\"https://ref.ly/Joel2:25\">JOL 2:25</a></strong>; <strong><a href=\"https://ref.ly/Matt3:4\">MAT 3:4</a></strong> parallel <a href=\"https://ref.ly/Mark1:6\">MRK 1:6</a> <em>See also</em> <a href=\"https://ref.ly/Exod10:12-Exod10:14\">EXO 10:12–10:14</a>; <a href=\"https://ref.ly/Ps78:46\">PSA 78:46</a>; <a href=\"https://ref.ly/Prov30:27\">PRO 30:27</a>; <a href=\"https://ref.ly/Jer46:23\">JER 46:23</a></p>\n<h3>The moth</h3>\n<p><strong><a href=\"https://ref.ly/Job13:28\">JOB 13:28</a></strong>; <strong><a href=\"https://ref.ly/Matt6:19-Matt6:20\">MAT 6:19–6:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job4:19\">JOB 4:19</a>, <a href=\"https://ref.ly/Job27:18\">JOB 27:18</a>; <a href=\"https://ref.ly/Ps39:11\">PSA 39:11</a>; <a href=\"https://ref.ly/Isa50:9\">ISA 50:9</a>, <a href=\"https://ref.ly/Isa51:8\">ISA 51:8</a>; <a href=\"https://ref.ly/Hos5:12\">HOS 5:12</a>; <a href=\"https://ref.ly/Luke12:33\">LUK 12:33</a>; <a href=\"https://ref.ly/Jas5:2\">JAS 5:2</a></p>\n<h3>The spider</h3>\n<p>Although not strictly an insect the spider is most conveniently included under this category:\n <a href=\"https://ref.ly/Job8:14\">JOB 8:14</a>; ; <a href=\"https://ref.ly/Isa59:5\">ISA 59:5</a></p>",
@@ -335,7 +335,8 @@
 "label": "4843: plague",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

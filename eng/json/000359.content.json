@@ -2,10 +2,10 @@
 {
 "content_id": "4212",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4212: astronomy",
 "media_type": "Text",
-"index_reference": "4212: astronomy",
+"index_reference": "4212",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The study of the stars and planets, with a view to understanding their movements and their use in fixing the time of significant events.</p>\n<h2>Astronomy as a study</h2>\n<h3>It demonstrates the greatness of God and his creation</h3>\n<p><strong><a href=\"https://ref.ly/Job9:7-Job9:9\">JOB 9:7–9:9</a></strong>; <strong><a href=\"https://ref.ly/Isa40:26\">ISA 40:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen2:1\">GEN 2:1</a>; <a href=\"https://ref.ly/Deut10:14\">DEU 10:14</a>; <a href=\"https://ref.ly/1Chr16:26\">1CH 16:26</a>; <a href=\"https://ref.ly/Neh9:6\">NEH 9:6</a> <em>Nehemiah's prayer reviews God's grace and power in creation</em>; <a href=\"https://ref.ly/Job22:12\">JOB 22:12</a>, <a href=\"https://ref.ly/Job25:5\">JOB 25:5</a>, <a href=\"https://ref.ly/Job26:9\">JOB 26:9</a>; <a href=\"https://ref.ly/Ps19:1-Ps19:6\">PSA 19:1–19:6</a>, <a href=\"https://ref.ly/Ps33:6\">PSA 33:6</a>, <a href=\"https://ref.ly/Ps74:16\">PSA 74:16</a>, <a href=\"https://ref.ly/Ps89:5\">PSA 89:5</a>, <a href=\"https://ref.ly/Ps89:11\">PSA 89:11</a>, <a href=\"https://ref.ly/Ps96:5\">PSA 96:5</a>, <a href=\"https://ref.ly/Ps104:2\">PSA 104:2</a>, <a href=\"https://ref.ly/Ps136:5\">PSA 136:5</a>, <a href=\"https://ref.ly/Ps136:7-Ps136:9\">PSA 136:7–136:9</a>, <a href=\"https://ref.ly/Ps148:3\">PSA 148:3</a>; <a href=\"https://ref.ly/Prov3:19\">PRO 3:19</a> <em>Divine wisdom permeates the whole creation</em>; <a href=\"https://ref.ly/Isa38:8\">ISA 38:8</a> <em>the LORD's sign to Hezekiah</em>; <a href=\"https://ref.ly/Isa45:12\">ISA 45:12</a>; <a href=\"https://ref.ly/Jer31:35\">JER 31:35</a>; <a href=\"https://ref.ly/Matt5:45\">MAT 5:45</a>; <a href=\"https://ref.ly/Heb1:10\">HEB 1:10</a> <em>credited to Jesus Christ</em></p>\n<h3>It demonstrates the humility of the human race</h3>\n<p><strong><a href=\"https://ref.ly/Ps8:3-Ps8:4\">PSA 8:3–8:4</a></strong></p>\n<h2>The use of astronomy to determine dates</h2>\n<p><strong><a href=\"https://ref.ly/Gen1:3-Gen1:5\">GEN 1:3–1:5</a></strong>; <strong><a href=\"https://ref.ly/Ps81:3\">PSA 81:3</a>, <a href=\"https://ref.ly/Ps104:19\">PSA 104:19</a></strong></p>\n<h2>The mysteries of astronomy are beyond human understanding</h2>\n<p><strong><a href=\"https://ref.ly/Job38:31-Job38:33\">JOB 38:31–38:33</a></strong></p>\n<h2>God's judgment and astronomical disturbances</h2>\n<p><strong><a href=\"https://ref.ly/Joel2:31\">JOL 2:31</a></strong>; <strong><a href=\"https://ref.ly/Matt24:29\">MAT 24:29</a></strong> parallels <a href=\"https://ref.ly/Mark13:25\">MRK 13:25</a>, <a href=\"https://ref.ly/Luke21:25\">LUK 21:25</a> <em>See also</em> <a href=\"https://ref.ly/Isa13:10\">ISA 13:10</a>, <a href=\"https://ref.ly/Isa24:23\">ISA 24:23</a>, <a href=\"https://ref.ly/Isa30:26\">ISA 30:26</a>, <a href=\"https://ref.ly/Isa34:4\">ISA 34:4</a>, <a href=\"https://ref.ly/Isa51:6\">ISA 51:6</a>, <a href=\"https://ref.ly/Isa60:9-Isa60:20\">ISA 60:9–60:20</a> <em>the glory of Zion</em>; <a href=\"https://ref.ly/Ezek32:7-Ezek32:8\">EZK 32:7–32:8</a>; <a href=\"https://ref.ly/Joel2:10\">JOL 2:10</a>, <a href=\"https://ref.ly/Joel3:15\">JOL 3:15</a>; <a href=\"https://ref.ly/Amos8:9\">AMO 8:9</a>; <a href=\"https://ref.ly/Acts2:20\">ACT 2:20</a>; <a href=\"https://ref.ly/2Pet3:10\">2PE 3:10</a>; <a href=\"https://ref.ly/Rev8:12\">REV 8:12</a></p>\n<h2>Lessons from astronomy</h2>\n<h3>The stars as symbols of plenty</h3>\n<p><strong><a href=\"https://ref.ly/Gen15:5\">GEN 15:5</a></strong></p>\n<h3>The regularity of the heavens as a symbol of the bleakness of life</h3>\n<p><strong><a href=\"https://ref.ly/Eccl1:5\">ECC 1:5</a></strong></p>\n<h3>The differing splendour within the creation</h3>\n<p><strong><a href=\"https://ref.ly/1Cor15:41\">1CO 15:41</a></strong></p>\n<h3>Wandering stars as a symbol of lostness</h3>\n<p><strong><a href=\"https://ref.ly/Jude1:13\">JUD 1:13</a></strong></p>",
@@ -396,7 +396,8 @@
 "label": "9220: day of the LORD",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

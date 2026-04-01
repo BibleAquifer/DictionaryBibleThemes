@@ -2,10 +2,10 @@
 {
 "content_id": "4841",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4841: narrowness",
 "media_type": "Text",
-"index_reference": "4841: narrowness",
+"index_reference": "4841",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A state in which something is confined and restricted, lacking in breadth. It usually has pejorative implications, but Jesus Christ described the way of salvation in terms of narrowness.</p>\n<h2>Narrowness equated with no escape</h2>\n<p><strong><a href=\"https://ref.ly/Num22:24-Num22:26\">NUM 22:24–22:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov23:26-Prov23:28\">PRO 23:26–23:28</a></p>\n<h2>Narrowness associated with discomfort</h2>\n<p><strong><a href=\"https://ref.ly/Isa28:20\">ISA 28:20</a></strong></p>\n<h2>The narrow gate</h2>\n<p><strong><a href=\"https://ref.ly/Matt7:13-Matt7:14\">MAT 7:13–7:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke13:22-Luke13:30\">LUK 13:22–13:30</a></p>\n<h2>Narrowness in the architecture of the temple</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs6:4\">1KI 6:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek40:16\">EZK 40:16</a>, <a href=\"https://ref.ly/Ezek40:25\">EZK 40:25</a>, <a href=\"https://ref.ly/Ezek41:16\">EZK 41:16</a>, <a href=\"https://ref.ly/Ezek41:26\">EZK 41:26</a>, <a href=\"https://ref.ly/Ezek42:5\">EZK 42:5</a></p>",
@@ -114,7 +114,8 @@
 "label": "7467: temple, Solomon's",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5654",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5654: betrothal",
 "media_type": "Text",
-"index_reference": "5654: betrothal",
+"index_reference": "5654",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The period of engagement preceding marriage; betrothal was a binding contract established between two families and sealed by the exchange of gifts. During this period the couple did not live together; sexual relations with each other at this stage was regarded as equivalent to adultery. Betrothal describes the relationship between God and his people and between Jesus Christ and the church.</p>\n<h2>Betrothal and the choice of a spouse</h2>\n<h3>Wives were often chosen by parents for their sons</h3>\n<p><strong><a href=\"https://ref.ly/Gen21:21\">GEN 21:21</a></strong> <em>It was usual practice for the groom's parents to choose his wife and arrange the wedding.</em> <em>See also</em> <a href=\"https://ref.ly/Gen24:4\">GEN 24:4</a>, <a href=\"https://ref.ly/Gen38:6\">GEN 38:6</a></p>\n<h3>Suitable husbands were sought by parents for their daughters</h3>\n<p><strong><a href=\"https://ref.ly/Ruth3:1-Ruth3:4\">RUT 3:1–3:4</a></strong> <em>Naomi, in the role of parent, assumes responsibility to find a husband for Ruth.</em> <em>See also</em> <a href=\"https://ref.ly/Judg1:12-Judg1:13\">JDG 1:12–1:13</a>; <a href=\"https://ref.ly/1Sam18:17\">1SA 18:17</a>, <a href=\"https://ref.ly/1Sam18:21\">1SA 18:21</a></p>\n<h3>Betrothal following the couple's wishes</h3>\n<p><strong><a href=\"https://ref.ly/Judg14:1-Judg14:4\">JDG 14:1–14:4</a></strong> <em>Sometimes the man chose a prospective bride and his parents negotiated the marriage.</em> <em>See also</em> <a href=\"https://ref.ly/Gen34:1-Gen34:4\">GEN 34:1–34:4</a>, <a href=\"https://ref.ly/Gen24:57-Gen24:58\">GEN 24:57–24:58</a>, <a href=\"https://ref.ly/Gen26:34-Gen26:35\">GEN 26:34–26:35</a> <em>Esau chose a bride against his parents' wishes.</em></p>\n<h2>Betrothal preceded marriage</h2>\n<p><a href=\"https://ref.ly/Gen29:21\">GEN 29:21</a>; ; <a href=\"https://ref.ly/Deut20:7\">DEU 20:7</a> <em>A betrothed soldier was exempted from military service until after his marriage</em>; ; <a href=\"https://ref.ly/Matt1:24\">MAT 1:24</a>; ; <a href=\"https://ref.ly/1Cor7:36-1Cor7:38\">1CO 7:36–7:38</a></p>\n<h2>An exchange of gifts accompanyed betrothal</h2>\n<h3>The bride-price</h3>\n<p><strong><a href=\"https://ref.ly/Gen34:11-Gen34:12\">GEN 34:11–34:12</a></strong> <em>This gift, which was given by the groom to the bride's family as compensation, sealed the marriage contract.</em> <em>See also</em> <a href=\"https://ref.ly/Gen24:53\">GEN 24:53</a>, <a href=\"https://ref.ly/Gen29:18\">GEN 29:18</a>, <a href=\"https://ref.ly/Gen29:27\">GEN 29:27</a>; <a href=\"https://ref.ly/Exod22:16-Exod22:17\">EXO 22:16–22:17</a>; <a href=\"https://ref.ly/Deut22:28-Deut22:29\">DEU 22:28–22:29</a>; <a href=\"https://ref.ly/2Sam3:14\">2SA 3:14</a></p>\n<h3>The dowry</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs9:16\">1KI 9:16</a></strong> <em>The dowry was a gift from the bride's father to the bride and/or groom.</em> <a href=\"https://ref.ly/Gen24:59\">GEN 24:59</a>, <a href=\"https://ref.ly/Gen29:24\">GEN 29:24</a>, <a href=\"https://ref.ly/Gen29:29\">GEN 29:29</a>; \n<a href=\"https://ref.ly/Judg1:14-Judg1:15\">JDG 1:14–1:15</a></p>\n<h2>Betrothal was treated as marriage</h2>\n<p><strong><a href=\"https://ref.ly/Deut22:23-Deut22:24\">DEU 22:23–22:24</a></strong> <em>Though there were no sexual relations within the betrothal period, the commitment was regarded almost as seriously as marriage and infidelity of a betrothed partner was treated as adultery.</em> <em>See also</em> <a href=\"https://ref.ly/Gen19:14\">GEN 19:14</a> <em>The men betrothed to Lot's daughters are described as his “sons-in-law”</em>; <a href=\"https://ref.ly/Matt1:18-Matt1:20\">MAT 1:18–1:20</a> <em>Mary's pregnancy during betrothal left her open to the charge and consequences of unfaithfulness.</em></p>\n<h2>Betrothal portrays the relationship between God and his people</h2>\n<p><strong><a href=\"https://ref.ly/Hos2:19-Hos2:20\">HOS 2:19–2:20</a></strong>; <strong><a href=\"https://ref.ly/2Cor11:2\">2CO 11:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/John3:29\">JHN 3:29</a>; <a href=\"https://ref.ly/Eph5:25-Eph5:27\">EPH 5:25–5:27</a>; <a href=\"https://ref.ly/Rev19:7-Rev19:9\">REV 19:7–19:9</a>, <a href=\"https://ref.ly/Rev21:2\">REV 21:2</a></p>",
@@ -305,6 +305,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6236: sexual sin",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hanun.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hanun"
+},
+{
+"id": "person:Hanun.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hanun"
+},
+{
+"id": "person:Hanun",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hanun"
 }
 ]
 }

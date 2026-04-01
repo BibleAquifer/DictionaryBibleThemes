@@ -2,10 +2,10 @@
 {
 "content_id": "4808",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4808: crimson",
 "media_type": "Text",
-"index_reference": "4808: crimson",
+"index_reference": "4808",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A deep red colour used interchangeably with scarlet and sometimes with purple. It has associations with blood and richness.</p>\n<h2>The richness of crimson used for ornamentation</h2>\n<p><strong><a href=\"https://ref.ly/Exod25:3-Exod25:4\">EXO 25:3–25:4</a>, <a href=\"https://ref.ly/Exod28:6\">EXO 28:6</a></strong> <em>It was used extensively in the construction of the tabernacle</em>; <strong><a href=\"https://ref.ly/2Chr2:7\">2CH 2:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr2:14\">2CH 2:14</a>, <a href=\"https://ref.ly/2Chr3:14\">2CH 3:14</a></p>\n<h2>Crimson associated with splendour and prosperity</h2>\n<p><strong><a href=\"https://ref.ly/2Sam1:24\">2SA 1:24</a></strong>; <strong><a href=\"https://ref.ly/Rev18:16\">REV 18:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov31:21\">PRO 31:21</a>; <a href=\"https://ref.ly/Jer4:30\">JER 4:30</a>; <a href=\"https://ref.ly/Nah2:3\">NAM 2:3</a>; <a href=\"https://ref.ly/Matt27:28\">MAT 27:28</a> parallel <a href=\"https://ref.ly/Mark15:17\">MRK 15:17</a>; <a href=\"https://ref.ly/Rev18:12\">REV 18:12</a></p>\n<h2>Crimson associated with blood and sin</h2>\n<p><strong><a href=\"https://ref.ly/Isa1:18\">ISA 1:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev14:3-Lev14:6\">LEV 14:3–14:6</a>, <a href=\"https://ref.ly/Lev14:49-Lev14:53\">LEV 14:49–14:53</a>; <a href=\"https://ref.ly/Num19:6\">NUM 19:6</a>; <a href=\"https://ref.ly/Isa63:1-Isa63:3\">ISA 63:1–63:3</a>; <a href=\"https://ref.ly/Heb9:19\">HEB 9:19</a>; <a href=\"https://ref.ly/Rev17:3-Rev17:4\">REV 17:3–17:4</a></p>\n<h2>Everyday use of the colour crimson</h2>\n<p><a href=\"https://ref.ly/Gen38:28\">GEN 38:28</a>; ; <a href=\"https://ref.ly/Josh2:17-Josh2:18\">JOS 2:17–2:18</a>; ; <a href=\"https://ref.ly/Song4:3\">SNG 4:3</a></p>",
@@ -171,6 +171,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7459: tabernacle, in OT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:PurpleCloth",
+"type": "realia",
+"confidence": 0.5824,
+"match_method": "scored",
+"preferred_label": "Purple Cloth"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "8825",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8825: self-righteousness, and the gospel",
 "media_type": "Text",
-"index_reference": "8825: self-righteousness, and the gospel",
+"index_reference": "8825",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Self-righteousness is an obstacle to the gospel, which insists that true righteousness can only be found in Jesus Christ.</p>\n<h2>The real issue of righteousness</h2>\n<p><strong><a href=\"https://ref.ly/Job9:2\">JOB 9:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam6:20\">1SA 6:20</a>; <a href=\"https://ref.ly/Job4:17\">JOB 4:17</a>, <a href=\"https://ref.ly/Job15:14\">JOB 15:14</a>, <a href=\"https://ref.ly/Job32:2\">JOB 32:2</a> <em>Although Elihu had misjudged Job, his main point, that only God was righteous, was correct</em>; <a href=\"https://ref.ly/Job40:8\">JOB 40:8</a>; <a href=\"https://ref.ly/Ps130:3\">PSA 130:3</a></p>\n<h2>True righteousness is not the result of human effort</h2>\n<p><strong><a href=\"https://ref.ly/Rom3:20\">ROM 3:20</a></strong> <em>Even though God's law tells people what God requires, human beings cannot keep it because of the weakness of their sinful human natures.</em> <em>See also</em> <a href=\"https://ref.ly/Rom9:31\">ROM 9:31</a>; <a href=\"https://ref.ly/Gal2:16\">GAL 2:16</a>, <a href=\"https://ref.ly/Gal3:11\">GAL 3:11</a>; <a href=\"https://ref.ly/Eph2:8-Eph2:9\">EPH 2:8–2:9</a>; <a href=\"https://ref.ly/Titus3:5\">TIT 3:5</a>; <a href=\"https://ref.ly/1John2:16\">1JN 2:16</a></p>\n<h2>Self-righteousness is a contradiction in terms</h2>\n<p><strong><a href=\"https://ref.ly/2Chr6:36\">2CH 6:36</a></strong>; <strong><a href=\"https://ref.ly/Isa64:6\">ISA 64:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezra9:15\">EZR 9:15</a>; <a href=\"https://ref.ly/Ps14:3\">PSA 14:3</a>; <a href=\"https://ref.ly/Eccl7:20\">ECC 7:20</a>; <a href=\"https://ref.ly/Dan9:7\">DAN 9:7</a>; <a href=\"https://ref.ly/Rom3:10\">ROM 3:10</a>, <a href=\"https://ref.ly/Rom3:23\">ROM 3:23</a></p>\n<h2>God calls people from their pretended self-righteousness</h2>\n<p><strong><a href=\"https://ref.ly/Isa2:22\">ISA 2:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps75:2-Ps75:4\">PSA 75:2–75:4</a>; <a href=\"https://ref.ly/Jer17:5\">JER 17:5</a>; <a href=\"https://ref.ly/Matt5:20\">MAT 5:20</a></p>\n<h2>True righteouness</h2>\n<h3>It comes from God</h3>\n<p><strong><a href=\"https://ref.ly/Rom10:3\">ROM 10:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps98:2\">PSA 98:2</a>; <a href=\"https://ref.ly/Isa46:13\">ISA 46:13</a>, <a href=\"https://ref.ly/Isa51:5\">ISA 51:5</a>; <a href=\"https://ref.ly/Jer9:23-Jer9:24\">JER 9:23–9:24</a>; <a href=\"https://ref.ly/Rom1:17\">ROM 1:17</a></p>\n<h3>It is grounded in Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Acts13:39\">ACT 13:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor1:30\">1CO 1:30</a>; <a href=\"https://ref.ly/2Cor5:21\">2CO 5:21</a></p>\n<h3>It comes about by faith</h3>\n<p><strong><a href=\"https://ref.ly/Rom5:1\">ROM 5:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal5:5\">GAL 5:5</a>; <a href=\"https://ref.ly/Eph2:8\">EPH 2:8</a></p>\n<h3>It is received in humility</h3>\n<p><strong><a href=\"https://ref.ly/Luke18:13-Luke18:14\">LUK 18:13–18:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom3:27\">ROM 3:27</a>, <a href=\"https://ref.ly/Rom4:2\">ROM 4:2</a>; <a href=\"https://ref.ly/1Cor1:31\">1CO 1:31</a>, <a href=\"https://ref.ly/1Cor4:7\">1CO 4:7</a>; <a href=\"https://ref.ly/2Cor11:30\">2CO 11:30</a>, <a href=\"https://ref.ly/2Cor12:9\">2CO 12:9</a>; <a href=\"https://ref.ly/Gal6:13-Gal6:14\">GAL 6:13–6:14</a>; <a href=\"https://ref.ly/Eph2:9\">EPH 2:9</a>; <a href=\"https://ref.ly/Phil3:7-Phil3:9\">PHP 3:7–3:9</a></p>",
@@ -328,6 +328,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8774: legalism",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Throne",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Throne"
 }
 ]
 }

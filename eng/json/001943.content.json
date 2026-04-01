@@ -2,10 +2,10 @@
 {
 "content_id": "7789",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7789: shepherd, as church leader",
 "media_type": "Text",
-"index_reference": "7789: shepherd, as church leader",
+"index_reference": "7789",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Church leaders are likened to shepherds, on account of their pastoral responsibilities and tasks.</p>\n<h2>Jesus Christ, the archetypal shepherd</h2>\n<p><strong><a href=\"https://ref.ly/1Pet5:4\">1PE 5:4</a></strong></p>\n<h2>Appointment of shepherds</h2>\n<p><strong><a href=\"https://ref.ly/Eph4:11\">EPH 4:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark3:14\">MRK 3:14</a>; <a href=\"https://ref.ly/Acts14:23\">ACT 14:23</a>; <a href=\"https://ref.ly/1Cor12:28\">1CO 12:28</a></p>\n<h2>Shepherd responsibilities</h2>\n<h3>Feeding the flock</h3>\n<p><strong><a href=\"https://ref.ly/John21:15\">JHN 21:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark6:34\">MRK 6:34</a>; <a href=\"https://ref.ly/John21:17\">JHN 21:17</a>; <a href=\"https://ref.ly/1Cor3:2\">1CO 3:2</a>; <a href=\"https://ref.ly/Heb5:12-Heb5:14\">HEB 5:12–5:14</a>; <a href=\"https://ref.ly/Jude1:12\">JUD 1:12</a></p>\n<h3>Caring for the flock</h3>\n<p><strong><a href=\"https://ref.ly/John21:16\">JHN 21:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt25:36\">MAT 25:36</a>; <a href=\"https://ref.ly/Acts20:28\">ACT 20:28</a>; <a href=\"https://ref.ly/Phil1:1\">PHP 1:1</a>; <a href=\"https://ref.ly/1Tim3:1-1Tim3:2\">1TI 3:1–3:2</a>; <a href=\"https://ref.ly/2Tim1:17\">2TI 1:17</a>; <a href=\"https://ref.ly/Titus1:7\">TIT 1:7</a>; <a href=\"https://ref.ly/Jas1:27\">JAS 1:27</a>; <a href=\"https://ref.ly/1Pet5:2\">1PE 5:2</a></p>\n<h3>Protecting, from false teachers</h3>\n<p><strong><a href=\"https://ref.ly/Acts20:29\">ACT 20:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt7:15\">MAT 7:15</a>; <a href=\"https://ref.ly/John10:1\">JHN 10:1</a>, <a href=\"https://ref.ly/John10:10\">JHN 10:10</a></p>\n<h3>Leading, not exploiting</h3>\n<p><strong><a href=\"https://ref.ly/1Pet5:3\">1PE 5:3</a></strong></p>\n<h3>Being accountable</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Heb13:17\">HEB 13:17</a></p>\n<h3>Risking death</h3>\n<p><a href=\"https://ref.ly/John10:15\">JHN 10:15</a>; ; <a href=\"https://ref.ly/Acts12:1-Acts12:4\">ACT 12:1–12:4</a>, <a href=\"https://ref.ly/Acts21:13\">ACT 21:13</a></p>",
@@ -270,6 +270,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8750: false teachings",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Potiphar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Potiphar"
 }
 ]
 }

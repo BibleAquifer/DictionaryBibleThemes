@@ -2,10 +2,10 @@
 {
 "content_id": "7796",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7796: teaching",
 "media_type": "Text",
-"index_reference": "7796: teaching",
+"index_reference": "7796",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The act of instructing someone in matters of faith and morals, especially in the home or church. Teaching was a major aspect of the ministry of Jesus Christ.</p>",
@@ -26,7 +26,8 @@
 "label": "7798: teaching, of Jesus Christ",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

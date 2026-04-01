@@ -2,10 +2,10 @@
 {
 "content_id": "5352",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5352: inscriptions",
 "media_type": "Text",
-"index_reference": "5352: inscriptions",
+"index_reference": "5352",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>An inscription can signify ownership or jurisdiction</h2>\n<p><a href=\"https://ref.ly/Matt22:20-Matt22:21\">MAT 22:20–22:21</a> parallels <a href=\"https://ref.ly/Mark12:16-Mark12:17\">MRK 12:16–12:17</a>, <a href=\"https://ref.ly/Luke20:24-Luke20:25\">LUK 20:24–20:25</a>; ; <a href=\"https://ref.ly/Acts17:23\">ACT 17:23</a></p>\n<h2>The inscription on objects set apart for God</h2>\n<p><strong><a href=\"https://ref.ly/Zech14:20-Zech14:21\">ZEC 14:20–14:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod39:30\">EXO 39:30</a></p>\n<h2>An inscription can be symbolic of permanence</h2>\n<h3>Of a person's words</h3>\n<p><strong><a href=\"https://ref.ly/Isa30:8\">ISA 30:8</a></strong>; <strong><a href=\"https://ref.ly/2Tim2:19\">2TI 2:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job19:23-Job19:24\">JOB 19:23–19:24</a></p>\n<h3>Of the effect of sin</h3>\n<p><strong><a href=\"https://ref.ly/Jer17:1\">JER 17:1</a></strong></p>\n<h2>Inscriptions written by the finger of God</h2>\n<p><strong><a href=\"https://ref.ly/Exod31:18\">EXO 31:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:15-Exod32:16\">EXO 32:15–32:16</a>; <a href=\"https://ref.ly/Deut9:10\">DEU 9:10</a>; <a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a>, <a href=\"https://ref.ly/Dan5:22-Dan5:28\">DAN 5:22–5:28</a>; <a href=\"https://ref.ly/Zech3:9\">ZEC 3:9</a></p>",
@@ -137,7 +137,8 @@
 "label": "5638: writing",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

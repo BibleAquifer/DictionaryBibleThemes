@@ -2,10 +2,10 @@
 {
 "content_id": "8130",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8130: guidance, from godly people",
 "media_type": "Text",
-"index_reference": "8130: guidance, from godly people",
+"index_reference": "8130",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture gives examples of God guiding his people through the example and witness of godly leaders and men and women of faith.</p>\n<h2>The guidance of godly leaders</h2>\n<h3>Moses</h3>\n<p><a href=\"https://ref.ly/Exod32:34\">EXO 32:34</a>, <a href=\"https://ref.ly/Exod33:12-Exod33:17\">EXO 33:12–33:17</a>; ; <a href=\"https://ref.ly/Deut10:11\">DEU 10:11</a>, <a href=\"https://ref.ly/Deut31:2\">DEU 31:2</a></p>\n<h3>Joshua</h3>\n<p><a href=\"https://ref.ly/Num27:15-Num27:18\">NUM 27:15–27:18</a>; ; <a href=\"https://ref.ly/Deut1:38\">DEU 1:38</a>, <a href=\"https://ref.ly/Deut3:28\">DEU 3:28</a>; ; <a href=\"https://ref.ly/Josh1:6\">JOS 1:6</a></p>\n<h3>Gideon</h3>\n<p><a href=\"https://ref.ly/Judg7:17\">JDG 7:17</a></p>\n<h3>David</h3>\n<p><a href=\"https://ref.ly/2Sam5:1-2Sam5:2\">2SA 5:1–5:2</a> parallel <a href=\"https://ref.ly/1Chr11:1-1Chr11:2\">1CH 11:1–11:2</a>; ; <a href=\"https://ref.ly/Ps78:70-Ps78:72\">PSA 78:70–78:72</a></p>\n<h3>Solomon</h3>\n<p><a href=\"https://ref.ly/1Kgs3:5-1Kgs3:13\">1KI 3:5–3:13</a> parallel <a href=\"https://ref.ly/2Chr1:7-2Chr1:12\">2CH 1:7–1:12</a></p>\n<h3>Israel's priests</h3>\n<p><a href=\"https://ref.ly/Deut17:9-Deut17:10\">DEU 17:9–17:10</a>; ; <a href=\"https://ref.ly/Mal2:6-Mal2:7\">MAL 2:6–2:7</a></p>\n<h3>Israel's shepherds</h3>\n<p><a href=\"https://ref.ly/Jer3:15\">JER 3:15</a>, <a href=\"https://ref.ly/Jer23:3-Jer23:4\">JER 23:3–23:4</a></p>\n<h3>Pastors and teachers in the church</h3>\n<p><a href=\"https://ref.ly/Eph4:11-Eph4:13\">EPH 4:11–4:13</a>; ; <a href=\"https://ref.ly/2Tim2:24-2Tim2:26\">2TI 2:24–2:26</a></p>\n<h2>Godly parents</h2>\n<p><a href=\"https://ref.ly/Gen18:19\">GEN 18:19</a>; ; <a href=\"https://ref.ly/Prov4:11-Prov4:13\">PRO 4:11–4:13</a>, <a href=\"https://ref.ly/Prov6:20-Prov6:23\">PRO 6:20–6:23</a>, <a href=\"https://ref.ly/Prov13:1\">PRO 13:1</a>, <a href=\"https://ref.ly/Prov22:6\">PRO 22:6</a>; ; <a href=\"https://ref.ly/Eph6:4\">EPH 6:4</a></p>\n<h2>Other godly people</h2>\n<p><a href=\"https://ref.ly/Job31:18\">JOB 31:18</a>; ; <a href=\"https://ref.ly/Prov16:23\">PRO 16:23</a>; ; <a href=\"https://ref.ly/Dan5:12-Dan5:17\">DAN 5:12–5:17</a></p>",
@@ -222,7 +222,8 @@
 "label": "8361: wisdom",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

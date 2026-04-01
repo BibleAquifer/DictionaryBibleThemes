@@ -2,10 +2,10 @@
 {
 "content_id": "4452",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4452: gall",
 "media_type": "Text",
-"index_reference": "4452: gall",
+"index_reference": "4452",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Gall is a bitter herb</h2>\n<p><strong><a href=\"https://ref.ly/Prov5:3-Prov5:4\">PRO 5:3–5:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps69:19-Ps69:21\">PSA 69:19–69:21</a>; <a href=\"https://ref.ly/Lam3:13-Lam3:15\">LAM 3:13–3:15</a>, <a href=\"https://ref.ly/Lam3:19-Lam3:20\">LAM 3:19–3:20</a></p>\n<h2>Gall was offered to Jesus Christ at the crucifixion</h2>\n<p><a href=\"https://ref.ly/Matt27:33-Matt27:34\">MAT 27:33–27:34</a></p>\n<h2>Gall is a secretion of the liver</h2>\n<p><strong><a href=\"https://ref.ly/Job16:12-Job16:13\">JOB 16:12–16:13</a></strong></p>",
@@ -69,6 +69,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5927: resentment",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Cedar",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cedar"
 }
 ]
 }

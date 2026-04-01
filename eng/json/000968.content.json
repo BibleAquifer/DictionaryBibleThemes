@@ -2,10 +2,10 @@
 {
 "content_id": "5385",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5385: leisure",
 "media_type": "Text",
-"index_reference": "5385: leisure",
+"index_reference": "5385",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Time for rest and recreational activities. Economic conditions in biblical times did not allow ordinary people much free time for leisure. However Scripture does give principles which apply to leisure.</p>",
@@ -26,7 +26,8 @@
 "label": "5387: leisure, and pastimes",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

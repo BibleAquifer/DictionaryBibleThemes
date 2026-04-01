@@ -2,10 +2,10 @@
 {
 "content_id": "7460",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7460: tabernacle, in NT",
 "media_type": "Text",
-"index_reference": "7460: tabernacle, in nt",
+"index_reference": "7460",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The NT sees the tabernacle and its ceremonies as symbolising the saving work of Jesus Christ in his incarnation and death and in the experience of believers.</p>\n<h2>Jesus Christ as the tabernacle where God dwells</h2>\n<p><strong><a href=\"https://ref.ly/John1:14\">JHN 1:14</a>, <a href=\"https://ref.ly/John2:19-John2:21\">JHN 2:19–2:21</a></strong></p>\n<h2>The tabernacle showed that God was not limited to one place</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Acts7:44-Acts7:47\">ACT 7:44–7:47</a></p>\n<h2>The spiritual significance of the tabernacle</h2>\n<p><a href=\"https://ref.ly/Heb9:1-Heb9:5\">HEB 9:1–9:5</a></p>\n<h2>The earthly tabernacle as a copy of the heavenly one</h2>\n<p><strong><a href=\"https://ref.ly/Heb8:5\">HEB 8:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb8:1-Heb8:2\">HEB 8:1–8:2</a></p>\n<h3>The altar</h3>\n<p><a href=\"https://ref.ly/Rev6:9-Rev6:10\">REV 6:9–6:10</a>, <a href=\"https://ref.ly/Rev8:3-Rev8:5\">REV 8:3–8:5</a></p>\n<h3>The ark of the covenant</h3>\n<p><a href=\"https://ref.ly/Rev11:19\">REV 11:19</a></p>\n<h3>The atonement cover</h3>\n<p><a href=\"https://ref.ly/Exod25:22\">EXO 25:22</a>; ; <a href=\"https://ref.ly/Heb4:16\">HEB 4:16</a></p>\n<h3>The curtain preventing access to the holiest place</h3>\n<p><a href=\"https://ref.ly/Matt27:51\">MAT 27:51</a>; ; <a href=\"https://ref.ly/Heb6:19-Heb6:20\">HEB 6:19–6:20</a>, <a href=\"https://ref.ly/Heb9:8\">HEB 9:8</a>, <a href=\"https://ref.ly/Heb10:19-Heb10:20\">HEB 10:19–10:20</a></p>\n<h2>Jesus Christ as high priest</h2>\n<h3>Cleansing the earthly tabernacle</h3>\n<p><strong><a href=\"https://ref.ly/Heb9:21\">HEB 9:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb9:6-Heb9:8\">HEB 9:6–9:8</a> <em>on the Day of Atonement</em>; <a href=\"https://ref.ly/Heb9:25\">HEB 9:25</a></p>\n<h3>Through the blood of the cross, Jesus Christ enters the heavenly sanctuary</h3>\n<p><strong><a href=\"https://ref.ly/Heb9:24\">HEB 9:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb9:28\">HEB 9:28</a></p>",
@@ -188,6 +188,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8622: worship",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Tabernacle",
+"type": "realia",
+"confidence": 0.5536,
+"match_method": "scored",
+"preferred_label": "Tabernacle"
 }
 ]
 }

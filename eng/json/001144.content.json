@@ -2,10 +2,10 @@
 {
 "content_id": "5579",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5579: tetrarch",
 "media_type": "Text",
-"index_reference": "5579: tetrarch",
+"index_reference": "5579",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A ruler over one quarter of a region; a son of Herod the Great who ruled one quarter of the area originally ruled by his father.</p>\n<h2>Herod Archelaus, governor of Judea, Idumea and Samaria</h2>\n<p><strong><a href=\"https://ref.ly/Matt2:22\">MAT 2:22</a></strong> <em>The tetrarchy system had been started by Philip of Macedon and adopted by the Romans.</em></p>\n<h2>Herod Antipas, tetrarch of Galilee and Perea</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Matt14:1\">MAT 14:1</a>, <a href=\"https://ref.ly/Matt14:9\">MAT 14:9</a> <em>Sometimes a tetrarch would be given the courtesy title of king</em>; <a href=\"https://ref.ly/Mark6:14\">MRK 6:14</a> parallel <a href=\"https://ref.ly/Luke9:7\">LUK 9:7</a>; <a href=\"https://ref.ly/Luke3:1\">LUK 3:1</a>, <a href=\"https://ref.ly/Luke3:19\">LUK 3:19</a>, <a href=\"https://ref.ly/Luke23:7\">LUK 23:7</a>; <a href=\"https://ref.ly/Acts13:1\">ACT 13:1</a></p>\n<h2>Herod Philip, tetrarch of Iturea and Traconitis</h2>\n<p><a href=\"https://ref.ly/Luke3:1\">LUK 3:1</a></p>\n<h2>Lysanias, tetrarch of Abilene</h2>\n<p><a href=\"https://ref.ly/Luke3:1\">LUK 3:1</a></p>",
@@ -115,6 +115,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8456: obedience, to human authorities",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hadrach",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hadrach"
 }
 ]
 }

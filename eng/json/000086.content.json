@@ -2,10 +2,10 @@
 {
 "content_id": "1421",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1421: oracles",
 "media_type": "Text",
-"index_reference": "1421: oracles",
+"index_reference": "1421",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Divine utterances or messages spoken through human lips. Especially noteworthy are the oracles of Balaam. Several other prophecies are also referred to as oracles.</p>\n<h2>The oracles of Balaam</h2>\n<h3>Divine inspiration is irresistible</h3>\n<p><strong><a href=\"https://ref.ly/Num22:38\">NUM 22:38</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num22:18-Num22:19\">NUM 22:18–22:19</a>, <a href=\"https://ref.ly/Num23:11-Num23:12\">NUM 23:11–23:12</a>, <a href=\"https://ref.ly/Num23:25-Num23:26\">NUM 23:25–23:26</a>, <a href=\"https://ref.ly/Num24:12-Num24:13\">NUM 24:12–24:13</a></p>\n<h3>Balaam's experience</h3>\n<p><strong><a href=\"https://ref.ly/Num24:2-Num24:4\">NUM 24:2–24:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num23:3-Num23:5\">NUM 23:3–23:5</a>, <a href=\"https://ref.ly/Num24:15-Num24:16\">NUM 24:15–24:16</a></p>\n<h3>Balaam's oracles</h3>\n<p><strong><a href=\"https://ref.ly/Num23:6-Num23:10\">NUM 23:6–23:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num23:18-Num23:24\">NUM 23:18–23:24</a>, <a href=\"https://ref.ly/Num24:2-Num24:9\">NUM 24:2–24:9</a>, <a href=\"https://ref.ly/Num24:15-Num24:19\">NUM 24:15–24:19</a>, <a href=\"https://ref.ly/Num24:20-Num24:24\">NUM 24:20–24:24</a></p>\n<h2>Oracles of the prophets</h2>\n<p><strong><a href=\"https://ref.ly/Mal1:1\">MAL 1:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa13:1\">ISA 13:1</a>, <a href=\"https://ref.ly/Isa14:28\">ISA 14:28</a>, <a href=\"https://ref.ly/Isa21:1-Isa21:17\">ISA 21:1–21:17</a>, <a href=\"https://ref.ly/Isa30:6-Isa30:11\">ISA 30:6–30:11</a>; <a href=\"https://ref.ly/Ezek12:7-Ezek12:11\">EZK 12:7–12:11</a> <em>This oracle involved actions as well as words</em>; <a href=\"https://ref.ly/Nah1:1\">NAM 1:1</a></p>\n<h2>False oracles condemned</h2>\n<p><strong><a href=\"https://ref.ly/Lam2:14\">LAM 2:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer23:33-Jer23:40\">JER 23:33–23:40</a></p>\n<h2>Wise judgment likened to oracles</h2>\n<p><strong><a href=\"https://ref.ly/Prov16:10\">PRO 16:10</a></strong></p>\n<h2>Oracles of David</h2>\n<p><strong><a href=\"https://ref.ly/Ps36:1\">PSA 36:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam23:1-2Sam23:4\">2SA 23:1–23:4</a></p>",
@@ -247,7 +247,8 @@
 "label": "7781: seer",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

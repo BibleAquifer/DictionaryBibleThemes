@@ -2,10 +2,10 @@
 {
 "content_id": "5286",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5286: custom",
 "media_type": "Text",
-"index_reference": "5286: custom",
+"index_reference": "5286",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An established way or rule (often unwritten) of behaviour, either for an individual or in a society.</p>\n<h2>Examples of the customs of individuals</h2>\n<p><a href=\"https://ref.ly/1Sam27:11\">1SA 27:11</a>; ; <a href=\"https://ref.ly/Job1:5\">JOB 1:5</a>; ; <a href=\"https://ref.ly/Mark10:1\">MRK 10:1</a>; ; <a href=\"https://ref.ly/Luke4:16\">LUK 4:16</a>; ; <a href=\"https://ref.ly/Acts17:2\">ACT 17:2</a></p>\n<h2>Examples of group customs</h2>\n<p><a href=\"https://ref.ly/1Sam2:13\">1SA 2:13</a>; ; <a href=\"https://ref.ly/1Kgs18:28\">1KI 18:28</a>; ; <a href=\"https://ref.ly/Luke1:9\">LUK 1:9</a>; ; <a href=\"https://ref.ly/Acts16:20-Acts16:21\">ACT 16:20–16:21</a></p>\n<h2>Examples of social customs</h2>\n<p><a href=\"https://ref.ly/Gen29:26\">GEN 29:26</a> <em>The older daughter is married before the younger</em>; ; <a href=\"https://ref.ly/Judg8:24\">JDG 8:24</a> <em>The Ishmaelites wore gold ear-rings</em>; ; <a href=\"https://ref.ly/Judg14:10\">JDG 14:10</a> <em>wedding feasts</em>; ; <a href=\"https://ref.ly/Ruth4:7\">RUT 4:7</a> <em>exchanging sandals as symbol of closing deals</em>; ; <a href=\"https://ref.ly/1Sam20:25\">1SA 20:25</a>; <a href=\"https://ref.ly/2Kgs11:14\">2KI 11:14</a>; ; <a href=\"https://ref.ly/Esth1:13\">EST 1:13</a>; <a href=\"https://ref.ly/Ezek24:17\">EZK 24:17</a>, <a href=\"https://ref.ly/Ezek24:22\">EZK 24:22</a>; \n<a href=\"https://ref.ly/Matt27:15\">MAT 27:15</a> parallels <a href=\"https://ref.ly/Mark15:6\">MRK 15:6</a>, <a href=\"https://ref.ly/John18:39\">JHN 18:39</a> <em>release of prisoners at Passover</em>; <a href=\"https://ref.ly/Luke2:27\">LUK 2:27</a>, <a href=\"https://ref.ly/Luke2:42\">LUK 2:42</a>; \n<a href=\"https://ref.ly/John19:40\">JHN 19:40</a> <em>burial customs</em>; ; <a href=\"https://ref.ly/Acts25:16\">ACT 25:16</a> <em>Roman legal customs</em></p>\n<h2>A custom can commemorate a particular event</h2>\n<p><a href=\"https://ref.ly/Judg11:39-Judg11:40\">JDG 11:39–11:40</a>; ; <a href=\"https://ref.ly/Esth9:27\">EST 9:27</a></p>\n<h2>God's people are not to follow improper customs</h2>\n<p><strong><a href=\"https://ref.ly/Lev18:30\">LEV 18:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev20:23\">LEV 20:23</a>; <a href=\"https://ref.ly/2Kgs17:7-2Kgs17:8\">2KI 17:7–17:8</a>, <a href=\"https://ref.ly/2Kgs17:19\">2KI 17:19</a>, <a href=\"https://ref.ly/2Kgs17:33\">2KI 17:33</a>, <a href=\"https://ref.ly/2Kgs17:40-2Kgs17:41\">2KI 17:40–17:41</a>; <a href=\"https://ref.ly/Esth3:8\">EST 3:8</a>; <a href=\"https://ref.ly/Ps106:34-Ps106:35\">PSA 106:34–106:35</a>, <a href=\"https://ref.ly/Ps106:40-Ps106:41\">PSA 106:40–106:41</a>; <a href=\"https://ref.ly/Jer10:2-Jer10:3\">JER 10:2–10:3</a></p>\n<h2>The issue of whether or not Gentile Christians should follow Jewish customs</h2>\n<p><strong><a href=\"https://ref.ly/Gal2:14-Gal2:16\">GAL 2:14–2:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts6:11-Acts6:14\">ACT 6:11–6:14</a>, <a href=\"https://ref.ly/Acts15:1-Acts15:2\">ACT 15:1–15:2</a>, <a href=\"https://ref.ly/Acts15:28-Acts15:29\">ACT 15:28–15:29</a>, <a href=\"https://ref.ly/Acts21:21\">ACT 21:21</a>, <a href=\"https://ref.ly/Acts21:24\">ACT 21:24</a>, <a href=\"https://ref.ly/Acts28:17\">ACT 28:17</a>; <a href=\"https://ref.ly/Gal4:9-Gal4:10\">GAL 4:9–4:10</a>; <a href=\"https://ref.ly/Col2:8\">COL 2:8</a></p>",
@@ -373,7 +373,8 @@
 "label": "8217: conformity",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

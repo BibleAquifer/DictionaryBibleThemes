@@ -2,10 +2,10 @@
 {
 "content_id": "4821",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4821: east",
 "media_type": "Text",
-"index_reference": "4821: east",
+"index_reference": "4821",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The geographical direction often identified by the position of the rising sun. Many of Israel's invaders came from the east, often giving the term a negative association in OT writings.</p>\n<h2>East as a point of the compass</h2>\n<p><strong><a href=\"https://ref.ly/Gen2:8\">GEN 2:8</a></strong>; <strong><a href=\"https://ref.ly/Matt2:1-Matt2:2\">MAT 2:1–2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen4:16\">GEN 4:16</a>, <a href=\"https://ref.ly/Gen13:11\">GEN 13:11</a>, <a href=\"https://ref.ly/Gen13:14\">GEN 13:14</a>; <a href=\"https://ref.ly/Deut3:27\">DEU 3:27</a>; <a href=\"https://ref.ly/Ps107:3\">PSA 107:3</a>; <a href=\"https://ref.ly/Luke13:29\">LUK 13:29</a>; <a href=\"https://ref.ly/Rev21:13\">REV 21:13</a></p>\n<h2>East and west used to demonstrate vast extent</h2>\n<p><strong><a href=\"https://ref.ly/Gen28:14\">GEN 28:14</a></strong>; <strong><a href=\"https://ref.ly/Isa43:5\">ISA 43:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr12:15\">1CH 12:15</a>; <a href=\"https://ref.ly/Job23:8\">JOB 23:8</a>; <a href=\"https://ref.ly/Ps75:6\">PSA 75:6</a>, <a href=\"https://ref.ly/Ps103:12\">PSA 103:12</a>; <a href=\"https://ref.ly/Zech8:7\">ZEC 8:7</a>; <a href=\"https://ref.ly/Matt8:11\">MAT 8:11</a>, <a href=\"https://ref.ly/Matt24:27\">MAT 24:27</a>; <a href=\"https://ref.ly/Luke13:29\">LUK 13:29</a></p>\n<h2>East identified by the rising sun</h2>\n<p><strong><a href=\"https://ref.ly/Num2:3\">NUM 2:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh1:15\">JOS 1:15</a>, <a href=\"https://ref.ly/Josh19:12\">JOS 19:12</a>; <a href=\"https://ref.ly/Ps50:1\">PSA 50:1</a>, <a href=\"https://ref.ly/Ps113:3\">PSA 113:3</a>; <a href=\"https://ref.ly/Isa41:25\">ISA 41:25</a>, <a href=\"https://ref.ly/Isa45:6\">ISA 45:6</a></p>\n<h2>The east wind</h2>\n<p><strong><a href=\"https://ref.ly/Job15:2\">JOB 15:2</a></strong> <em>The east wind blows straight out of the desert</em>; <strong><a href=\"https://ref.ly/Ps48:7\">PSA 48:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen41:6\">GEN 41:6</a>; <a href=\"https://ref.ly/Exod10:13\">EXO 10:13</a>; <a href=\"https://ref.ly/Isa27:8\">ISA 27:8</a>; <a href=\"https://ref.ly/Jer4:11\">JER 4:11</a>, <a href=\"https://ref.ly/Jer18:17\">JER 18:17</a>; <a href=\"https://ref.ly/Ezek17:10\">EZK 17:10</a>, <a href=\"https://ref.ly/Ezek27:26\">EZK 27:26</a>; <a href=\"https://ref.ly/Hos13:15\">HOS 13:15</a>; <a href=\"https://ref.ly/Jonah4:8\">JON 4:8</a></p>\n<h2>Military threat from the east</h2>\n<p><strong><a href=\"https://ref.ly/Judg6:33\">JDG 6:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg10:8\">JDG 10:8</a>; <a href=\"https://ref.ly/1Chr5:10\">1CH 5:10</a>; <a href=\"https://ref.ly/Isa9:12\">ISA 9:12</a>, <a href=\"https://ref.ly/Isa46:11\">ISA 46:11</a></p>",
@@ -281,7 +281,8 @@
 "label": "4857: west",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

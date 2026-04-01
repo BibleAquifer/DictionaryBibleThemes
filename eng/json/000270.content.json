@@ -2,10 +2,10 @@
 {
 "content_id": "3230",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3230: Holy Spirit, and regeneration",
 "media_type": "Text",
-"index_reference": "3230: holy spirit, and regeneration",
+"index_reference": "3230",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God's Spirit works to bring the gift of new birth and renewal to those who have been called to faith.</p>\n<h2>The Holy Spirit's work is promised</h2>\n<p><strong><a href=\"https://ref.ly/Ezek36:26-Ezek36:27\">EZK 36:26–36:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek37:14\">EZK 37:14</a></p>\n<h2>Jesus Christ proclaims the Holy Spirit's work</h2>\n<p><strong><a href=\"https://ref.ly/John3:5-John3:8\">JHN 3:5–3:8</a></strong></p>\n<h2>The Holy Spirit's work brings salvation</h2>\n<p><strong><a href=\"https://ref.ly/Titus3:5-Titus3:6\">TIT 3:5–3:6</a></strong> <em>“washing” (apparently a reference to baptism) signifies regeneration.</em> <em>See also</em> <a href=\"https://ref.ly/Eph5:25-Eph5:27\">EPH 5:25–5:27</a></p>\n<h2>Regeneration is a creative work of God's Spirit alone</h2>\n<h3>It cannot be achieved by human means</h3>\n<p><strong><a href=\"https://ref.ly/John6:63\">JHN 6:63</a></strong> <em>See also</em> <a href=\"https://ref.ly/John1:13\">JHN 1:13</a>, <a href=\"https://ref.ly/John3:6\">JHN 3:6</a></p>\n<h3>It cannot be achieved through the works of the law</h3>\n<p><strong><a href=\"https://ref.ly/2Cor3:6\">2CO 3:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom2:29\">ROM 2:29</a>, <a href=\"https://ref.ly/Rom7:6\">ROM 7:6</a>, <a href=\"https://ref.ly/Rom8:2\">ROM 8:2</a>; <a href=\"https://ref.ly/Gal3:2\">GAL 3:2</a></p>",
@@ -175,7 +175,8 @@
 "label": "8150: revival, personal",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

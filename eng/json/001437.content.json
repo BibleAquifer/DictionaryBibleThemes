@@ -2,10 +2,10 @@
 {
 "content_id": "5923",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5923: public opinion",
 "media_type": "Text",
-"index_reference": "5923: public opinion",
+"index_reference": "5923",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The concepts and views held by the majority of the population. Scripture urges personal, independent thinking, based on God's word, rather than adherence to popular beliefs.</p>\n<h2>God's people should not be concerned about public opinion</h2>\n<p><strong><a href=\"https://ref.ly/Exod23:2\">EXO 23:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job31:33-Job31:34\">JOB 31:33–31:34</a>; <a href=\"https://ref.ly/Eccl7:21-Eccl7:22\">ECC 7:21–7:22</a></p>\n<h2>Examples of the impact of public opinion</h2>\n<p><a href=\"https://ref.ly/1Sam14:45\">1SA 14:45</a> <em>Public opinion saved Jonathan's life</em>; ; <a href=\"https://ref.ly/1Sam15:24\">1SA 15:24</a> <em>Public opinion led to Saul losing his kingdom</em>; ; <a href=\"https://ref.ly/Matt27:15-Matt27:26\">MAT 27:15–27:26</a> <em>Public opinion led to Jesus Christ being crucified</em>; ; <a href=\"https://ref.ly/Acts12:3\">ACT 12:3</a> <em>Public opinion led to Peter being imprisoned.</em></p>\n<h2>Public opinion is often contrary to divine standards</h2>\n<p><strong><a href=\"https://ref.ly/Hag1:2-Hag1:11\">HAG 1:2–1:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num13:21-Num14:10\">NUM 13:21–14:10</a>; <a href=\"https://ref.ly/Deut1:19-Deut1:40\">DEU 1:19–1:40</a>; <a href=\"https://ref.ly/1Sam8:4-1Sam8:9\">1SA 8:4–8:9</a>; <a href=\"https://ref.ly/1Kgs18:21\">1KI 18:21</a>; <a href=\"https://ref.ly/Jer2:31-Jer2:35\">JER 2:31–2:35</a>, <a href=\"https://ref.ly/Jer26:7-Jer26:16\">JER 26:7–26:16</a></p>\n<h2>Public opinion is sometimes in accord with divine standards</h2>\n<p><strong><a href=\"https://ref.ly/Deut5:28-Deut5:29\">DEU 5:28–5:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh24:19-Josh24:24\">JOS 24:19–24:24</a></p>\n<h2>Public opinion of Jesus Christ was divided</h2>\n<h3>Concerning his identity</h3>\n<p><strong><a href=\"https://ref.ly/Matt16:13-Matt16:17\">MAT 16:13–16:17</a></strong> parallels <a href=\"https://ref.ly/Mark8:27-Mark8:29\">MRK 8:27–8:29</a>, <a href=\"https://ref.ly/Luke9:18-Luke9:20\">LUK 9:18–9:20</a> <em>See also</em> <a href=\"https://ref.ly/John7:40-John7:43\">JHN 7:40–7:43</a></p>\n<h3>Concerning his teaching and ministry</h3>\n<p><a href=\"https://ref.ly/Luke12:51\">LUK 12:51</a>; ; <a href=\"https://ref.ly/John7:12\">JHN 7:12</a>, <a href=\"https://ref.ly/John7:43\">JHN 7:43</a>, <a href=\"https://ref.ly/John9:16\">JHN 9:16</a>, <a href=\"https://ref.ly/John10:19\">JHN 10:19</a></p>",
@@ -184,7 +184,8 @@
 "label": "5919: popularity",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

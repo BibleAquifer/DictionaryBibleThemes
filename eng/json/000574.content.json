@@ -2,10 +2,10 @@
 {
 "content_id": "4850",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4850: south",
 "media_type": "Text",
-"index_reference": "4850: south",
+"index_reference": "4850",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The geographical direction opposite to north, often used to demonstrate the vast extent between the two.</p>\n<h2>South as a point of the compass</h2>\n<p><strong><a href=\"https://ref.ly/Job9:9\">JOB 9:9</a></strong>; <strong><a href=\"https://ref.ly/Matt12:42\">MAT 12:42</a></strong> parallel <a href=\"https://ref.ly/Luke11:31\">LUK 11:31</a> <em>See also</em> <a href=\"https://ref.ly/Gen13:14\">GEN 13:14</a>; <a href=\"https://ref.ly/Num10:6\">NUM 10:6</a>; <a href=\"https://ref.ly/Deut33:2\">DEU 33:2</a>; <a href=\"https://ref.ly/1Sam23:19\">1SA 23:19</a>; <a href=\"https://ref.ly/Job39:26\">JOB 39:26</a>; <a href=\"https://ref.ly/Dan8:9\">DAN 8:9</a>; <a href=\"https://ref.ly/Acts21:3\">ACT 21:3</a></p>\n<h2>South and north used to demonstrate vast extent</h2>\n<p><strong><a href=\"https://ref.ly/Isa43:6\">ISA 43:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen28:14\">GEN 28:14</a>; <a href=\"https://ref.ly/Job23:9\">JOB 23:9</a>; <a href=\"https://ref.ly/Ezek20:47\">EZK 20:47</a>, <a href=\"https://ref.ly/Ezek21:4\">EZK 21:4</a></p>",
@@ -123,6 +123,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4857: west",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Dinhabah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dinhabah"
 }
 ]
 }

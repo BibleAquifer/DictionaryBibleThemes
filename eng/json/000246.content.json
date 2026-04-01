@@ -2,10 +2,10 @@
 {
 "content_id": "3010",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3010: God, the Holy Spirit",
 "media_type": "Text",
-"index_reference": "3010: god, the holy spirit",
+"index_reference": "3010",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The co-equal and co-eternal Spirit of the Father and the Son, who inspired Scripture and brings new life to the people of God. The Spirit of God is often portrayed in Scripture in terms of “breath”, “life” or “wind”, indicating his role in sustaining and bringing life to God's creation.</p>",
@@ -68,7 +68,8 @@
 "label": "3050: Holy Spirit, wisdom of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

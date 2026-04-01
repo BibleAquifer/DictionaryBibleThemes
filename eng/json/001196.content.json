@@ -2,10 +2,10 @@
 {
 "content_id": "5635",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5635: work, and redemption",
 "media_type": "Text",
-"index_reference": "5635: work, and redemption",
+"index_reference": "5635",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Although human activity cannot merit eternal redemption, work done in this life may, with God's enabling, substantially reflect the divine ideal, in anticipation of the perfect service of heaven.</p>\n<h2>Human work cannot merit redemption</h2>\n<p><a href=\"https://ref.ly/Eph2:8-Eph2:9\">EPH 2:8–2:9</a>; ; <a href=\"https://ref.ly/2Tim1:9\">2TI 1:9</a>; ; <a href=\"https://ref.ly/Titus3:4-Titus3:5\">TIT 3:4–3:5</a></p>\n<h2>Jesus Christ's finished work secures redemption</h2>\n<p><strong><a href=\"https://ref.ly/John17:4\">JHN 17:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/John4:34\">JHN 4:34</a>, <a href=\"https://ref.ly/John19:30\">JHN 19:30</a>; <a href=\"https://ref.ly/Heb9:12\">HEB 9:12</a></p>\n<h2>Faith leads believers to perform good works</h2>\n<p><strong><a href=\"https://ref.ly/Jas2:14\">JAS 2:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt7:16-Matt7:20\">MAT 7:16–7:20</a>, <a href=\"https://ref.ly/Matt12:33\">MAT 12:33</a>; <a href=\"https://ref.ly/Luke3:8-Luke3:9\">LUK 3:8–3:9</a>; <a href=\"https://ref.ly/Rom2:13\">ROM 2:13</a>; <a href=\"https://ref.ly/Heb6:10-Heb6:12\">HEB 6:10–6:12</a>; <a href=\"https://ref.ly/Jas2:17-Jas2:26\">JAS 2:17–2:26</a></p>\n<h2>Redeemed workers fulfil God's purpose in work</h2>\n<h3>By applying biblical virtues in employment</h3>\n<p><a href=\"https://ref.ly/Prov10:4\">PRO 10:4</a>, <a href=\"https://ref.ly/Prov14:23\">PRO 14:23</a>; ; <a href=\"https://ref.ly/Gal6:9\">GAL 6:9</a>; ; <a href=\"https://ref.ly/Col4:1\">COL 4:1</a></p>\n<h3>By the pursuit of excellence</h3>\n<p><a href=\"https://ref.ly/Eccl9:10\">ECC 9:10</a>; ; <a href=\"https://ref.ly/Titus2:7-Titus2:8\">TIT 2:7–2:8</a>, <a href=\"https://ref.ly/Titus3:8\">TIT 3:8</a>; ; <a href=\"https://ref.ly/1Pet2:12\">1PE 2:12</a>, <a href=\"https://ref.ly/1Pet2:15\">1PE 2:15</a></p>\n<h3>By doing their work as those responsible to God</h3>\n<p><a href=\"https://ref.ly/Rom12:1\">ROM 12:1</a>; ; <a href=\"https://ref.ly/1Cor7:24\">1CO 7:24</a>, <a href=\"https://ref.ly/1Cor10:31\">1CO 10:31</a>; ; <a href=\"https://ref.ly/Eph6:7\">EPH 6:7</a>; ; <a href=\"https://ref.ly/Col3:23\">COL 3:23</a></p>\n<h2>Work done, as for the Lord, will be rewarded by the Lord</h2>\n<p><strong><a href=\"https://ref.ly/Col3:23-Col3:24\">COL 3:23–3:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr31:21\">2CH 31:21</a>; <a href=\"https://ref.ly/Matt25:21\">MAT 25:21</a>; <a href=\"https://ref.ly/1Cor15:58\">1CO 15:58</a></p>\n<h2>Work will continue in the life to come</h2>\n<p><strong><a href=\"https://ref.ly/Rev22:3\">REV 22:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt25:21\">MAT 25:21</a>, <a href=\"https://ref.ly/Matt25:23\">MAT 25:23</a>; <a href=\"https://ref.ly/Luke19:17\">LUK 19:17</a>, <a href=\"https://ref.ly/Luke19:19\">LUK 19:19</a></p>",
@@ -305,6 +305,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9412: heaven, worship and service in",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hamutal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hamutal"
 }
 ]
 }

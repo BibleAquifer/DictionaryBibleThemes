@@ -2,10 +2,10 @@
 {
 "content_id": "1620",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1620: beatitudes, the",
 "media_type": "Text",
-"index_reference": "1620: beatitudes, the",
+"index_reference": "1620",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The blessings pronounced by Jesus Christ in the Sermon on the Mount on those whose lives exhibit particular characteristics or qualities. These contrast sharply with popular values and outlooks.</p>\n<h2>The poor in spirit</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:3\">MAT 5:3</a></strong> parallel <a href=\"https://ref.ly/Luke6:20\">LUK 6:20</a> <em>See also</em> <a href=\"https://ref.ly/Ps69:32-Ps69:33\">PSA 69:32–69:33</a>; <a href=\"https://ref.ly/Isa61:1\">ISA 61:1</a>; <a href=\"https://ref.ly/Matt23:12\">MAT 23:12</a>; <a href=\"https://ref.ly/Luke18:9-Luke18:14\">LUK 18:9–18:14</a></p>\n<h2>Those who mourn</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:4\">MAT 5:4</a></strong> parallel <a href=\"https://ref.ly/Luke6:21\">LUK 6:21</a> <em>See also</em> <a href=\"https://ref.ly/Ps51:17\">PSA 51:17</a>; <a href=\"https://ref.ly/Isa57:18-Isa57:21\">ISA 57:18–57:21</a>, <a href=\"https://ref.ly/Isa61:1-Isa61:3\">ISA 61:1–61:3</a>; <a href=\"https://ref.ly/Jer31:13\">JER 31:13</a>; <a href=\"https://ref.ly/Rev7:17\">REV 7:17</a>, <a href=\"https://ref.ly/Rev21:4\">REV 21:4</a></p>\n<h2>The meek</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:5\">MAT 5:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps37:11\">PSA 37:11</a>; <a href=\"https://ref.ly/Zeph3:11-Zeph3:12\">ZEP 3:11–3:12</a>; <a href=\"https://ref.ly/Matt11:29\">MAT 11:29</a></p>\n<h2>Those who hunger after righteousness</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:6\">MAT 5:6</a></strong> parallel <a href=\"https://ref.ly/Luke6:21\">LUK 6:21</a> <em>See also</em> <a href=\"https://ref.ly/Isa55:1-Isa55:2\">ISA 55:1–55:2</a>; <a href=\"https://ref.ly/Matt6:33\">MAT 6:33</a>; <a href=\"https://ref.ly/2Tim2:22\">2TI 2:22</a>; <a href=\"https://ref.ly/1Pet3:12\">1PE 3:12</a></p>\n<h2>The merciful</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:7\">MAT 5:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod34:6-Exod34:7\">EXO 34:6–34:7</a>; <a href=\"https://ref.ly/Dan9:9\">DAN 9:9</a>; <a href=\"https://ref.ly/Matt6:12\">MAT 6:12</a> parallel <a href=\"https://ref.ly/Luke11:4\">LUK 11:4</a>; <a href=\"https://ref.ly/Matt6:14-Matt6:15\">MAT 6:14–6:15</a>, <a href=\"https://ref.ly/Matt18:21-Matt18:35\">MAT 18:21–18:35</a>; <a href=\"https://ref.ly/Luke6:36\">LUK 6:36</a>; <a href=\"https://ref.ly/Jas2:13\">JAS 2:13</a></p>\n<h2>The pure in heart</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:8\">MAT 5:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps24:3-Ps24:5\">PSA 24:3–24:5</a>, <a href=\"https://ref.ly/Ps51:10\">PSA 51:10</a>, <a href=\"https://ref.ly/Ps73:1\">PSA 73:1</a>; <a href=\"https://ref.ly/1John3:2-1John3:3\">1JN 3:2–3:3</a></p>\n<h2>The peacemakers</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:9\">MAT 5:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps34:14\">PSA 34:14</a>; <a href=\"https://ref.ly/Matt5:44-Matt5:45\">MAT 5:44–5:45</a>; <a href=\"https://ref.ly/Rom12:18\">ROM 12:18</a>, <a href=\"https://ref.ly/Rom14:19\">ROM 14:19</a>; <a href=\"https://ref.ly/2Tim2:22\">2TI 2:22</a>; <a href=\"https://ref.ly/Jas3:17-Jas3:18\">JAS 3:17–3:18</a></p>\n<h2>The righteous who suffer persecution</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:10-Matt5:12\">MAT 5:10–5:12</a></strong> parallel <a href=\"https://ref.ly/Luke6:22\">LUK 6:22</a> <em>See also</em> <a href=\"https://ref.ly/John15:18-John15:21\">JHN 15:18–15:21</a>; <a href=\"https://ref.ly/2Tim3:10-2Tim3:12\">2TI 3:10–3:12</a>; <a href=\"https://ref.ly/Jas1:12\">JAS 1:12</a>; <a href=\"https://ref.ly/1Pet3:14\">1PE 3:14</a>, <a href=\"https://ref.ly/1Pet3:17\">1PE 3:17</a>, <a href=\"https://ref.ly/1Pet4:12-1Pet4:16\">1PE 4:12–4:16</a></p>",
@@ -403,7 +403,8 @@
 "label": "8794: persecution",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

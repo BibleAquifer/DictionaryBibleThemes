@@ -2,10 +2,10 @@
 {
 "content_id": "1120",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1120: God, repentance of",
 "media_type": "Text",
-"index_reference": "1120: god, repentance of",
+"index_reference": "1120",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A change in God's plan or intention, often in response to human repentance, but without implying any fault or moral imperfection on God's part.</p>\n<h2>God's repentance may show his pain and sorrow</h2>\n<p><strong><a href=\"https://ref.ly/Gen6:6-Gen6:7\">GEN 6:6–6:7</a></strong> <em>God's change of purpose here involves his intention to punish.</em> <em>See also</em> <a href=\"https://ref.ly/1Sam15:11\">1SA 15:11</a>, <a href=\"https://ref.ly/1Sam15:35\">1SA 15:35</a></p>\n<h2>God's repentance may show his compassion</h2>\n<p><strong><a href=\"https://ref.ly/Jonah4:2\">JON 4:2</a></strong> <em>God's change of purpose here involves his compassion for sinners: “relent” in this and other passages may also be translated “repent”.</em> <em>See also</em> <a href=\"https://ref.ly/Deut32:36\">DEU 32:36</a>; <a href=\"https://ref.ly/2Sam24:15-2Sam24:16\">2SA 24:15–24:16</a> parallel <a href=\"https://ref.ly/1Chr21:14-1Chr21:15\">1CH 21:14–21:15</a>; <a href=\"https://ref.ly/Ps106:45\">PSA 106:45</a>; <a href=\"https://ref.ly/Isa38:1-Isa38:5\">ISA 38:1–38:5</a>; <a href=\"https://ref.ly/Hos11:8\">HOS 11:8</a>; <a href=\"https://ref.ly/Amos7:1-Amos7:6\">AMO 7:1–7:6</a></p>\n<h3>God may repent in response to human repentance</h3>\n<p><strong><a href=\"https://ref.ly/Jer18:8\">JER 18:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:14\">EXO 32:14</a>; <a href=\"https://ref.ly/2Chr12:1-2Chr12:8\">2CH 12:1–12:8</a>; <a href=\"https://ref.ly/Jer26:13\">JER 26:13</a>, <a href=\"https://ref.ly/Jer26:19\">JER 26:19</a>; <a href=\"https://ref.ly/Joel2:13\">JOL 2:13</a>; <a href=\"https://ref.ly/Jonah3:6-Jonah3:10\">JON 3:6–3:10</a></p>\n<h2>God never repents of his oath or changes his character</h2>\n<p><a href=\"https://ref.ly/Num23:19\">NUM 23:19</a>; ; <a href=\"https://ref.ly/Ps110:4\">PSA 110:4</a>; ; <a href=\"https://ref.ly/Heb6:17-Heb6:18\">HEB 6:17–6:18</a></p>",
@@ -223,7 +223,8 @@
 "label": "6733: repentance, nature of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

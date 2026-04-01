@@ -2,10 +2,10 @@
 {
 "content_id": "4124",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4124: Satan, kingdom of",
 "media_type": "Text",
-"index_reference": "4124: satan, kingdom of",
+"index_reference": "4124",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Satan is depicted as the prince of this world, having power over demons and over godless people. He is, however, subject to God's sovereignty and therefore his power is limited and his rule temporary.</p>\n<h2>Satan's power</h2>\n<h3>He has power in the world</h3>\n<p><strong><a href=\"https://ref.ly/1John5:19\">1JN 5:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/John7:7\">JHN 7:7</a>, <a href=\"https://ref.ly/John8:44\">JHN 8:44</a>, <a href=\"https://ref.ly/John14:17\">JHN 14:17</a>, <a href=\"https://ref.ly/John15:18-John15:19\">JHN 15:18–15:19</a>, <a href=\"https://ref.ly/John16:20\">JHN 16:20</a>, <a href=\"https://ref.ly/John17:14\">JHN 17:14</a>; <a href=\"https://ref.ly/Acts26:18\">ACT 26:18</a>; <a href=\"https://ref.ly/2Cor4:4\">2CO 4:4</a>; <a href=\"https://ref.ly/Eph2:2\">EPH 2:2</a>; <a href=\"https://ref.ly/Col1:13\">COL 1:13</a>; <a href=\"https://ref.ly/1John2:15-1John2:16\">1JN 2:15–2:16</a>, <a href=\"https://ref.ly/1John4:4-1John4:5\">1JN 4:4–4:5</a>; <a href=\"https://ref.ly/Rev13:12\">REV 13:12</a></p>\n<h3>He claims power over this world</h3>\n<p><a href=\"https://ref.ly/Matt4:8-Matt4:9\">MAT 4:8–4:9</a> parallel <a href=\"https://ref.ly/Luke4:6\">LUK 4:6</a></p>\n<h3>He is called the <code>prince'' or the</code>god'' of this world</h3>\n<p><strong><a href=\"https://ref.ly/John12:31\">JHN 12:31</a></strong> <a href=\"https://ref.ly/John14:30\">JHN 14:30</a>, <a href=\"https://ref.ly/John16:11\">JHN 16:11</a>; ; <a href=\"https://ref.ly/2Cor4:4\">2CO 4:4</a></p>\n<h3>He is responsible for some illnesses</h3>\n<p><strong><a href=\"https://ref.ly/Luke13:16\">LUK 13:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job2:7\">JOB 2:7</a>; <a href=\"https://ref.ly/Acts10:38\">ACT 10:38</a>; <a href=\"https://ref.ly/2Cor12:7\">2CO 12:7</a> <em>Paul's “thorn in the flesh” may or may not have been a physical illness.</em></p>\n<h3>He is responsible for death</h3>\n<p><strong><a href=\"https://ref.ly/Heb2:14\">HEB 2:14</a></strong></p>\n<h2>Satan's kingdom</h2>\n<h3>He has a kingdom</h3>\n<p><strong><a href=\"https://ref.ly/Matt12:26\">MAT 12:26</a></strong> parallel <a href=\"https://ref.ly/Luke11:18\">LUK 11:18</a><strong><a href=\"https://ref.ly/Col1:13\">COL 1:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts26:18\">ACT 26:18</a>; <a href=\"https://ref.ly/Eph2:2\">EPH 2:2</a></p>\n<h3>He has a throne</h3>\n<p><strong><a href=\"https://ref.ly/Rev2:13\">REV 2:13</a></strong></p>\n<h3>He is the prince of demons</h3>\n<p><strong><a href=\"https://ref.ly/Matt9:34\">MAT 9:34</a></strong> <em>The name Beelzebub is used elsewhere to name the prince of the demons. This name was used also to identify Satan.</em> <em>See also</em> <a href=\"https://ref.ly/Matt12:24\">MAT 12:24</a> parallels <a href=\"https://ref.ly/Mark3:22\">MRK 3:22</a>, <a href=\"https://ref.ly/Luke11:15\">LUK 11:15</a></p>\n<h2>Satan's authority is limited</h2>\n<h3>He cannot do more than God allows</h3>\n<p><strong><a href=\"https://ref.ly/Job1:12\">JOB 1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job2:6\">JOB 2:6</a>; <a href=\"https://ref.ly/1Cor10:13\">1CO 10:13</a>; <a href=\"https://ref.ly/Rev12:12\">REV 12:12</a>, <a href=\"https://ref.ly/Rev20:3\">REV 20:3</a></p>\n<h3>His rule is temporary</h3>\n<p><a href=\"https://ref.ly/Rom16:20\">ROM 16:20</a>; ; <a href=\"https://ref.ly/Rev20:10\">REV 20:10</a></p>",
@@ -282,6 +282,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5459: prince",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Beracah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beracah"
 }
 ]
 }

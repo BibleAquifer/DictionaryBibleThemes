@@ -2,10 +2,10 @@
 {
 "content_id": "7772",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7772: prophets",
 "media_type": "Text",
-"index_reference": "7772: prophets",
+"index_reference": "7772",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Individuals called and empowered by God to declare his will to his people, including the disclosure of his future intentions to save and judge his people. The term refers particularly to the great OT prophets, such as Isaiah and Jeremiah, who were raised up to guide the people of God at critical moments in their history and whose ministries and teaching remain of continuing importance today. At several points in his ministry, Jesus Christ was acclaimed as a prophet.</p>",
@@ -39,6 +39,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7776: prophet, Jesus Christ as",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Pomegranate",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pomegranate"
 }
 ]
 }

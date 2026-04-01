@@ -2,10 +2,10 @@
 {
 "content_id": "4853",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4853: weather",
 "media_type": "Text",
-"index_reference": "4853: weather",
+"index_reference": "4853",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Patterns of climatic conditions, such as wind and rain, which were of major importance to the rural economies of the Near East. Scripture stresses the sovereignty of God over the weather and sees it as a possible means of judgment or reward.</p>",
@@ -26,7 +26,8 @@
 "label": "4855: weather, as God's judgment",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

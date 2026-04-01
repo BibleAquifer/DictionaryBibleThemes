@@ -2,10 +2,10 @@
 {
 "content_id": "7376",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7376: high priest",
 "media_type": "Text",
-"index_reference": "7376: high priest",
+"index_reference": "7376",
 "language": "eng",
 "review_level": "None",
 "content": "<p>One of the most important people in Israel, responsible for the spiritual welfare of the nation and, in particular, for making atonement for the sins of the people. The NT recognises Jesus Christ as bringing this role to fulfilment, making the perfect sacrifice for the sins of his people, as both high priest and the sacrificial victim.</p>",
@@ -32,6 +32,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7379: high priest, Jesus Christ as",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Net",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Net"
 }
 ]
 }

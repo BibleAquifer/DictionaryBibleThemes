@@ -2,10 +2,10 @@
 {
 "content_id": "5206",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5206: archers",
 "media_type": "Text",
-"index_reference": "5206: archers",
+"index_reference": "5206",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Those armed with arrows, whether for hunting or warfare. Archers were particularly valued on account of their accuracy.</p>\n<h2>Men who were archers</h2>\n<h3>Ishmael</h3>\n<p><strong><a href=\"https://ref.ly/Gen21:20\">GEN 21:20</a></strong></p>\n<h3>Esau</h3>\n<p><strong><a href=\"https://ref.ly/Gen27:3\">GEN 27:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen25:27\">GEN 25:27</a></p>\n<h3>Jonathan</h3>\n<p><strong><a href=\"https://ref.ly/1Sam20:18-1Sam20:23\">1SA 20:18–20:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam20:35-1Sam20:38\">1SA 20:35–20:38</a>; <a href=\"https://ref.ly/2Sam1:22\">2SA 1:22</a></p>\n<h2>Archers in the army of Israel and Judah</h2>\n<h3>From the tribe of Reuben</h3>\n<p><a href=\"https://ref.ly/1Chr5:18\">1CH 5:18</a></p>\n<h3>From the tribe of Benjamin</h3>\n<p><a href=\"https://ref.ly/1Chr8:40\">1CH 8:40</a>, <a href=\"https://ref.ly/1Chr12:1-1Chr12:2\">1CH 12:1–12:2</a></p>\n<h3>In Asa's army</h3>\n<p><a href=\"https://ref.ly/2Chr14:8\">2CH 14:8</a></p>\n<h3>In Uzziah's army</h3>\n<p><a href=\"https://ref.ly/2Chr26:14\">2CH 26:14</a></p>\n<h2>Archers in the armies of other nations</h2>\n<h3>The Philistines</h3>\n<p><a href=\"https://ref.ly/1Sam31:1-1Sam31:3\">1SA 31:1–31:3</a></p>\n<h3>The Assyrians</h3>\n<p><a href=\"https://ref.ly/2Kgs19:32\">2KI 19:32</a></p>\n<h3>The Medes</h3>\n<p><a href=\"https://ref.ly/Isa13:17-Isa13:18\">ISA 13:17–13:18</a>; ; <a href=\"https://ref.ly/Jer50:9\">JER 50:9</a>, <a href=\"https://ref.ly/Jer50:14\">JER 50:14</a>, <a href=\"https://ref.ly/Jer51:11\">JER 51:11</a></p>\n<h3>The Lydians</h3>\n<p><a href=\"https://ref.ly/Isa66:19\">ISA 66:19</a></p>\n<h3>The Babylonians</h3>\n<p><a href=\"https://ref.ly/Jer4:29\">JER 4:29</a> <em>a prophecy of Babylon besieging Judah</em></p>\n<h2>Men shot by archers</h2>\n<h3>Saul</h3>\n<p><strong><a href=\"https://ref.ly/1Sam31:3\">1SA 31:3</a></strong></p>\n<h3>Uriah</h3>\n<p><strong><a href=\"https://ref.ly/2Sam11:24\">2SA 11:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam11:14-2Sam11:17\">2SA 11:14–11:17</a></p>\n<h3>Ahab, king of Israel</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs22:34\">1KI 22:34</a></strong></p>\n<h3>Joram</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs9:24\">2KI 9:24</a></strong></p>\n<h3>Josiah</h3>\n<p><strong><a href=\"https://ref.ly/2Chr35:23\">2CH 35:23</a></strong></p>\n<h2>God likened to an archer</h2>\n<p><strong><a href=\"https://ref.ly/Lam3:12-Lam3:13\">LAM 3:12–3:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps7:12-Ps7:13\">PSA 7:12–7:13</a>; <a href=\"https://ref.ly/Lam2:4\">LAM 2:4</a>; <a href=\"https://ref.ly/Ezek5:16\">EZK 5:16</a>; <a href=\"https://ref.ly/Zech9:13\">ZEC 9:13</a></p>",
@@ -241,6 +241,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5612: weapons",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Bow",
+"type": "realia",
+"confidence": 0.6167,
+"match_method": "scored",
+"preferred_label": "Bow"
 }
 ]
 }

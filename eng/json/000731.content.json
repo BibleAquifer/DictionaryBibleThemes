@@ -2,10 +2,10 @@
 {
 "content_id": "5142",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5142: clapping",
 "media_type": "Text",
-"index_reference": "5142: clapping",
+"index_reference": "5142",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Applauding with one's hands, as an expression of delight. Scripture portrays even the creation sharing in this delight at the majesty of its Creator.</p>\n<h2>Clapping as an expression of delight</h2>\n<h3>At a coronation</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs11:12\">2KI 11:12</a></strong></p>\n<h3>Expressing praise</h3>\n<p><strong><a href=\"https://ref.ly/Ps47:1\">PSA 47:1</a></strong></p>\n<h3>Expressing the delight of the creation in its Creator</h3>\n<p><strong><a href=\"https://ref.ly/Ps98:8\">PSA 98:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa55:12\">ISA 55:12</a></p>\n<h2>Clapping as an act of derision</h2>\n<p><strong><a href=\"https://ref.ly/Lam2:15\">LAM 2:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job27:21-Job27:23\">JOB 27:21–27:23</a>, <a href=\"https://ref.ly/Job34:37\">JOB 34:37</a>; <a href=\"https://ref.ly/Ezek25:6\">EZK 25:6</a>; <a href=\"https://ref.ly/Nah3:19\">NAM 3:19</a></p>",
@@ -88,7 +88,8 @@
 "label": "8283: joy",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

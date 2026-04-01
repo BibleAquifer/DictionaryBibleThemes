@@ -2,10 +2,10 @@
 {
 "content_id": "6236",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6236: sexual sin",
 "media_type": "Text",
-"index_reference": "6236: sexual sin",
+"index_reference": "6236",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Sexual relations are to be seen as an aspect of God's good creation which can be corrupted and devalued through human sin.</p>",
@@ -60,6 +60,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6243: adultery, spiritual",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jason",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jason"
 }
 ]
 }

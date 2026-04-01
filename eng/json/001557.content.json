@@ -2,10 +2,10 @@
 {
 "content_id": "6209",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6209: pagans",
 "media_type": "Text",
-"index_reference": "6209: pagans",
+"index_reference": "6209",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>OT use of the term ``pagan''</h2>\n<h3>Used of foreign adherents of heathen religions</h3>\n<p><strong><a href=\"https://ref.ly/Isa2:6\">ISA 2:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs23:4-2Kgs23:7\">2KI 23:4–23:7</a>; <a href=\"https://ref.ly/Zeph1:4-Zeph1:6\">ZEP 1:4–1:6</a></p>\n<h3>Used of heathen religions, peoples and countries</h3>\n<p><strong><a href=\"https://ref.ly/Isa57:8\">ISA 57:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lam1:10\">LAM 1:10</a>; <a href=\"https://ref.ly/Amos7:17\">AMO 7:17</a></p>\n<h2>In the Gospels <code>pagans'' is synonymous with</code>Gentiles''</h2>\n<p><strong><a href=\"https://ref.ly/Matt6:7\">MAT 6:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt5:47\">MAT 5:47</a>, <a href=\"https://ref.ly/Matt6:32\">MAT 6:32</a> parallel <a href=\"https://ref.ly/Luke12:30\">LUK 12:30</a>; <a href=\"https://ref.ly/Matt18:17\">MAT 18:17</a></p>\n<h2>The term ``pagans'' is used to refer to people who were neither Jews nor Christians</h2>\n<h3>Pagans as idolaters</h3>\n<p><strong><a href=\"https://ref.ly/1Cor12:2\">1CO 12:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor10:7\">1CO 10:7</a>; <a href=\"https://ref.ly/Exod32:6\">EXO 32:6</a>; <a href=\"https://ref.ly/1Cor10:20\">1CO 10:20</a></p>\n<h3>Pagans as immoral</h3>\n<p><strong><a href=\"https://ref.ly/1Pet4:3\">1PE 4:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor5:1\">1CO 5:1</a></p>\n<h3>Many believers lived among the pagans</h3>\n<p><strong><a href=\"https://ref.ly/1Pet2:12\">1PE 2:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/3John1:7\">3JN 1:7</a></p>",
@@ -182,6 +182,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8768: idolatry",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jannai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jannai"
 }
 ]
 }

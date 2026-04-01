@@ -2,10 +2,10 @@
 {
 "content_id": "5584",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5584: torture",
 "media_type": "Text",
-"index_reference": "5584: torture",
+"index_reference": "5584",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The torture of people</h2>\n<p><strong><a href=\"https://ref.ly/Jer52:10-Jer52:11\">JER 52:10–52:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut28:29-Deut28:35\">DEU 28:29–28:35</a>; <a href=\"https://ref.ly/Judg8:16\">JDG 8:16</a>, <a href=\"https://ref.ly/Judg16:21\">JDG 16:21</a>; <a href=\"https://ref.ly/Job19:2\">JOB 19:2</a>; <a href=\"https://ref.ly/Ps137:3\">PSA 137:3</a>; <a href=\"https://ref.ly/Isa13:15-Isa13:18\">ISA 13:15–13:18</a>, <a href=\"https://ref.ly/Isa51:23\">ISA 51:23</a>; <a href=\"https://ref.ly/Lam5:11-Lam5:13\">LAM 5:11–5:13</a>; <a href=\"https://ref.ly/Ezek23:10\">EZK 23:10</a>; <a href=\"https://ref.ly/Matt18:34\">MAT 18:34</a>; <a href=\"https://ref.ly/Acts16:22-Acts16:24\">ACT 16:22–16:24</a>; <a href=\"https://ref.ly/Heb11:35-Heb11:38\">HEB 11:35–11:38</a>; <a href=\"https://ref.ly/Rev9:5\">REV 9:5</a>, <a href=\"https://ref.ly/Rev9:10\">REV 9:10</a></p>\n<h2>The torture of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Luke22:63\">LUK 22:63</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt27:27-Matt27:31\">MAT 27:27–27:31</a> parallel <a href=\"https://ref.ly/Mark15:16-Mark15:20\">MRK 15:16–15:20</a>; <a href=\"https://ref.ly/John19:2-John19:3\">JHN 19:2–19:3</a><strong><a href=\"https://ref.ly/John19:18\">JHN 19:18</a></strong> parallels <a href=\"https://ref.ly/Matt27:35\">MAT 27:35</a>, <a href=\"https://ref.ly/Mark15:24\">MRK 15:24</a>, <a href=\"https://ref.ly/Luke23:33\">LUK 23:33</a> <em>Crucifixion was essentially death by torture.</em></p>\n<h2>Torture in the setting of judgment</h2>\n<p><strong><a href=\"https://ref.ly/Matt8:29\">MAT 8:29</a></strong> parallels <a href=\"https://ref.ly/Mark5:7\">MRK 5:7</a>, <a href=\"https://ref.ly/Luke8:28\">LUK 8:28</a><strong><a href=\"https://ref.ly/Rev20:10\">REV 20:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt25:46\">MAT 25:46</a>; <a href=\"https://ref.ly/Luke16:23\">LUK 16:23</a>; <a href=\"https://ref.ly/Rev14:11\">REV 14:11</a>, <a href=\"https://ref.ly/Rev18:7\">REV 18:7</a></p>",
@@ -282,6 +282,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hagar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hagar"
 }
 ]
 }

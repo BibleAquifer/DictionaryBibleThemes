@@ -2,10 +2,10 @@
 {
 "content_id": "5851",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5851: excuse",
 "media_type": "Text",
-"index_reference": "5851: excuse",
+"index_reference": "5851",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The attempt to deny responsibility for an action or for a lack of action. There is no excuse for sin.</p>\n<h2>Examples of excuses given for wrong actions</h2>\n<p><a href=\"https://ref.ly/Gen3:12-Gen3:13\">GEN 3:12–3:13</a> <em>by Adam and Eve for eating the forbidden fruit</em>; ; <a href=\"https://ref.ly/Exod32:22-Exod32:24\">EXO 32:22–32:24</a> <em>by Aaron for making the golden calf</em>; ; <a href=\"https://ref.ly/1Sam13:11-1Sam13:12\">1SA 13:11–13:12</a> <em>by Saul for acting as priest</em>; <a href=\"https://ref.ly/1Sam15:20-1Sam15:21\">1SA 15:20–15:21</a>, <a href=\"https://ref.ly/1Sam15:24-1Sam15:25\">1SA 15:24–15:25</a></p>\n<h2>Examples of excuses given for inaction</h2>\n<p>By Moses:\n <a href=\"https://ref.ly/Exod3:11\">EXO 3:11</a>, <a href=\"https://ref.ly/Exod4:10\">EXO 4:10</a>; \n<a href=\"https://ref.ly/Judg6:15\">JDG 6:15</a> <em>by Gideon</em>; <a href=\"https://ref.ly/Prov22:13\">PRO 22:13</a>, <a href=\"https://ref.ly/Prov26:13\">PRO 26:13</a>; \n<a href=\"https://ref.ly/Jer1:6\">JER 1:6</a> <em>by Jeremiah</em>; <a href=\"https://ref.ly/Matt25:14-Matt25:30\">MAT 25:14–25:30</a>; ; <a href=\"https://ref.ly/Luke19:12-Luke19:27\">LUK 19:12–19:27</a>; \n<a href=\"https://ref.ly/Matt25:41-Matt25:45\">MAT 25:41–25:45</a> <em>by the ignorant</em></p>\n<h2>Excuses given by those unwilling to follow Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Luke14:16-Luke14:24\">LUK 14:16–14:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt22:2-Matt22:3\">MAT 22:2–22:3</a>; <a href=\"https://ref.ly/Luke9:59-Luke9:62\">LUK 9:59–9:62</a></p>\n<h2>There is no excuse for sin</h2>\n<p><strong><a href=\"https://ref.ly/Rom1:20\">ROM 1:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/John9:41\">JHN 9:41</a>, <a href=\"https://ref.ly/John15:22\">JHN 15:22</a>; <a href=\"https://ref.ly/Rom2:1\">ROM 2:1</a>, <a href=\"https://ref.ly/Rom3:19-Rom3:23\">ROM 3:19–3:23</a>, <a href=\"https://ref.ly/Rom5:12\">ROM 5:12</a>; <a href=\"https://ref.ly/1John1:8\">1JN 1:8</a>, <a href=\"https://ref.ly/1John1:10\">1JN 1:10</a></p>",
@@ -219,7 +219,8 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

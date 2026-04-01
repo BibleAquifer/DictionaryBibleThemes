@@ -2,10 +2,10 @@
 {
 "content_id": "6249",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6249: temptation, universality of",
 "media_type": "Text",
-"index_reference": "6249: temptation, universality of",
+"index_reference": "6249",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture makes clear that all human beings are subject to temptation. It provides examples of individuals who have faced and yielded to such influences.</p>\n<h2>The inevitability of temptation to do wrong</h2>\n<p><strong><a href=\"https://ref.ly/1Cor10:13\">1CO 10:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov7:21-Prov7:23\">PRO 7:21–7:23</a>; <a href=\"https://ref.ly/Matt13:20-Matt13:21\">MAT 13:20–13:21</a> parallels <a href=\"https://ref.ly/Mark4:16-Mark4:17\">MRK 4:16–4:17</a>, <a href=\"https://ref.ly/Luke8:13\">LUK 8:13</a>; <a href=\"https://ref.ly/Luke17:1\">LUK 17:1</a>; <a href=\"https://ref.ly/Rom7:15\">ROM 7:15</a>; <a href=\"https://ref.ly/1Cor10:12\">1CO 10:12</a>; <a href=\"https://ref.ly/2Cor11:3\">2CO 11:3</a>; <a href=\"https://ref.ly/1Pet1:6\">1PE 1:6</a></p>\n<h2>Examples of those who were tempted</h2>\n<h3>Adam and Eve tempted</h3>\n<p><strong><a href=\"https://ref.ly/Gen3:6-Gen3:7\">GEN 3:6–3:7</a></strong> <em>Sin enters the world through temptation, which leads to the fall of humanity.</em></p>\n<h3>Esau tempted</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Gen25:29-Gen25:34\">GEN 25:29–25:34</a></p>\n<h3>Achan tempted</h3>\n<p><a href=\"https://ref.ly/Josh7:21\">JOS 7:21</a></p>\n<h3>Samson tempted</h3>\n<p><a href=\"https://ref.ly/Judg14:16-Judg14:17\">JDG 14:16–14:17</a></p>\n<h3>David tempted</h3>\n<p><a href=\"https://ref.ly/2Sam11:2-2Sam11:4\">2SA 11:2–11:4</a></p>\n<h3>Solomon tempted</h3>\n<p><a href=\"https://ref.ly/1Kgs11:1\">1KI 11:1</a>, <a href=\"https://ref.ly/1Kgs11:4\">1KI 11:4</a></p>\n<h3>Gehazi tempted</h3>\n<p><a href=\"https://ref.ly/2Kgs5:20-2Kgs5:23\">2KI 5:20–5:23</a></p>\n<h3>Peter tempted</h3>\n<p><a href=\"https://ref.ly/Matt26:69-Matt26:75\">MAT 26:69–26:75</a> parallels <a href=\"https://ref.ly/Luke22:55-Luke22:62\">LUK 22:55–22:62</a>, <a href=\"https://ref.ly/John18:16-John18:18\">JHN 18:16–18:18</a>, <a href=\"https://ref.ly/John18:25-John18:27\">JHN 18:25–18:27</a></p>\n<h2>Help for those facing temptation</h2>\n<p><strong><a href=\"https://ref.ly/Rom8:31\">ROM 8:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh1:5\">JOS 1:5</a>; <a href=\"https://ref.ly/Rom8:37-Rom8:39\">ROM 8:37–8:39</a>; <a href=\"https://ref.ly/Heb4:15-Heb4:16\">HEB 4:15–4:16</a>, <a href=\"https://ref.ly/Heb13:5\">HEB 13:5</a>; <a href=\"https://ref.ly/1John2:1\">1JN 2:1</a>, <a href=\"https://ref.ly/1John4:4\">1JN 4:4</a>; <a href=\"https://ref.ly/Rev3:10\">REV 3:10</a></p>",
@@ -220,6 +220,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8027: faith, testing of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jeberechiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeberechiah"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "7712",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7712: convincing",
 "media_type": "Text",
-"index_reference": "7712: convincing",
+"index_reference": "7712",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Persuading one's hearers of the truth of one's case. Scripture gives examples of people who have been convinced of the truth of God's word and of the gospel.</p>\n<h2>Examples of prophets convincing their hearers</h2>\n<h3>Elijah at Mount Carmel</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs18:20-1Kgs18:39\">1KI 18:20–18:39</a></strong></p>\n<h3>Jonah at Nineveh</h3>\n<p><strong><a href=\"https://ref.ly/Jonah3:1-Jonah3:9\">JON 3:1–3:9</a></strong></p>\n<h2>Hardness of heart can prevent individuals from being convinced of the truth</h2>\n<h3>The ministry of the prophets</h3>\n<p><strong><a href=\"https://ref.ly/Jer6:10\">JER 6:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs22:15-1Kgs22:28\">1KI 22:15–22:28</a> parallel <a href=\"https://ref.ly/2Chr18:14-2Chr18:27\">2CH 18:14–18:27</a>; <a href=\"https://ref.ly/Jer35:15\">JER 35:15</a>; <a href=\"https://ref.ly/Ezek2:4-Ezek2:5\">EZK 2:4–2:5</a>; <a href=\"https://ref.ly/Amos7:10-Amos7:13\">AMO 7:10–7:13</a></p>\n<h3>The ministry of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/John12:37-John12:40\">JHN 12:37–12:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa53:1\">ISA 53:1</a>, <a href=\"https://ref.ly/Isa6:10\">ISA 6:10</a>; <a href=\"https://ref.ly/Matt13:13-Matt13:15\">MAT 13:13–13:15</a> parallels <a href=\"https://ref.ly/Mark4:10-Mark4:12\">MRK 4:10–4:12</a>, <a href=\"https://ref.ly/Luke8:10\">LUK 8:10</a>; <a href=\"https://ref.ly/Isa6:9-Isa6:10\">ISA 6:9–6:10</a>; <a href=\"https://ref.ly/John7:25-John7:43\">JHN 7:25–7:43</a></p>\n<h2>Examples of individuals convinced of the truth of the gospel</h2>\n<h3>The Ethiopian eunuch</h3>\n<p><a href=\"https://ref.ly/Acts8:26-Acts8:38\">ACT 8:26–8:38</a></p>\n<h3>Paul</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:38-Rom8:39\">ROM 8:38–8:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor5:14-2Cor5:15\">2CO 5:14–5:15</a>; <a href=\"https://ref.ly/2Tim1:12\">2TI 1:12</a></p>\n<h3>Paul sought to convince others of the truth of the gospel</h3>\n<p><strong><a href=\"https://ref.ly/Acts18:4\">ACT 18:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts17:2-Acts17:4\">ACT 17:2–17:4</a>, <a href=\"https://ref.ly/Acts19:8\">ACT 19:8</a>, <a href=\"https://ref.ly/Acts26:28-Acts26:29\">ACT 26:28–26:29</a>, <a href=\"https://ref.ly/Acts28:23-Acts28:24\">ACT 28:23–28:24</a>; <a href=\"https://ref.ly/2Cor5:11\">2CO 5:11</a></p>",
@@ -252,6 +252,36 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8800: prejudice",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Philip.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+},
+{
+"id": "person:Philip.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+},
+{
+"id": "person:Philip.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
+},
+{
+"id": "person:Philip",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philip"
 }
 ]
 }

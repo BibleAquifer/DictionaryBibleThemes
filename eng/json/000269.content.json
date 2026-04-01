@@ -2,16 +2,17 @@
 {
 "content_id": "3227",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3227: Holy Spirit, and prophecy",
 "media_type": "Text",
-"index_reference": "3227: holy spirit, and prophecy",
+"index_reference": "3227",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"1427.md\">1427: prophecy</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

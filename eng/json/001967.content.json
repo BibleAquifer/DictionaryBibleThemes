@@ -2,10 +2,10 @@
 {
 "content_id": "7939",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7939: ministry",
 "media_type": "Text",
-"index_reference": "7939: ministry",
+"index_reference": "7939",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Service of a general, as well as a religious, nature. In its broadest sense ministry refers to service rendered to God or to people. Its more restricted sense refers to the official service of individuals, specially set aside by the church.</p>",
@@ -47,7 +47,8 @@
 "label": "7944: ministry, qualifications for",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

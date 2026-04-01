@@ -2,10 +2,10 @@
 {
 "content_id": "4114",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4114: angels, and praise of God",
 "media_type": "Text",
-"index_reference": "4114: angels, and praise of god",
+"index_reference": "4114",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Spiritual beings who praise God in a manner that is beyond human capacity.</p>\n<h2>Angels worship God in his presence</h2>\n<p><strong><a href=\"https://ref.ly/Rev7:11\">REV 7:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev3:5\">REV 3:5</a>, <a href=\"https://ref.ly/Rev8:2\">REV 8:2</a></p>\n<h2>Angels praise God for his works</h2>\n<h3>Angels praise God's work of creation</h3>\n<p><strong><a href=\"https://ref.ly/Job38:4-Job38:7\">JOB 38:4–38:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps148:1-Ps148:5\">PSA 148:1–148:5</a>; <a href=\"https://ref.ly/Neh9:6\">NEH 9:6</a></p>\n<h3>Angels praise God's work of redemption</h3>\n<p><strong><a href=\"https://ref.ly/Luke2:13-Luke2:14\">LUK 2:13–2:14</a></strong> <em>The angels are praising God for Jesus Christ's birth.</em> <em>See also</em> <a href=\"https://ref.ly/Isa44:23\">ISA 44:23</a>, <a href=\"https://ref.ly/Isa49:13\">ISA 49:13</a>; <a href=\"https://ref.ly/Luke15:10\">LUK 15:10</a>; <a href=\"https://ref.ly/Heb1:6\">HEB 1:6</a>; <a href=\"https://ref.ly/Deut32:43\">DEU 32:43</a></p>\n<h3>Angels praise God's kingdom</h3>\n<p><strong><a href=\"https://ref.ly/Ps103:19-Ps103:21\">PSA 103:19–103:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps96:10-Ps96:11\">PSA 96:10–96:11</a> parallel <a href=\"https://ref.ly/1Chr16:30-1Chr16:31\">1CH 16:30–16:31</a>; <a href=\"https://ref.ly/Ps145:10-Ps145:11\">PSA 145:10–145:11</a>; <a href=\"https://ref.ly/Rev11:15\">REV 11:15</a></p>\n<h2>Angelic beings praise God</h2>\n<p><strong><a href=\"https://ref.ly/Isa6:2-Isa6:4\">ISA 6:2–6:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev4:8\">REV 4:8</a>, <a href=\"https://ref.ly/Rev5:8-Rev5:10\">REV 5:8–5:10</a>, <a href=\"https://ref.ly/Rev7:11-Rev7:12\">REV 7:11–7:12</a></p>\n<h2>Thousands of angels worship God</h2>\n<p><strong><a href=\"https://ref.ly/Heb12:22\">HEB 12:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut33:2\">DEU 33:2</a>; <a href=\"https://ref.ly/Ps68:17\">PSA 68:17</a>; <a href=\"https://ref.ly/Dan7:10\">DAN 7:10</a>; <a href=\"https://ref.ly/Rev5:11-Rev5:12\">REV 5:11–5:12</a></p>\n<h2>Images of angelic beings decorate Israel's sanctuaries</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs6:23-1Kgs6:29\">1KI 6:23–6:29</a></strong> parallels <a href=\"https://ref.ly/2Chr3:7\">2CH 3:7</a>, <a href=\"https://ref.ly/2Chr3:10-2Chr3:13\">2CH 3:10–3:13</a> <em>See also</em> <a href=\"https://ref.ly/Exod26:1\">EXO 26:1</a>; <a href=\"https://ref.ly/Ezek41:18-Ezek41:20\">EZK 41:18–41:20</a>, <a href=\"https://ref.ly/Ezek41:25\">EZK 41:25</a> <em>The images of the cherubim represent the angels who worship God in heaven.</em></p>\n<h2>Angels are not to be worshipped</h2>\n<p><strong><a href=\"https://ref.ly/Rev22:8-Rev22:9\">REV 22:8–22:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt4:9-Matt4:10\">MAT 4:9–4:10</a> parallel <a href=\"https://ref.ly/Luke4:7-Luke4:8\">LUK 4:7–4:8</a>; <a href=\"https://ref.ly/Rom1:25\">ROM 1:25</a>; <a href=\"https://ref.ly/Col2:18\">COL 2:18</a></p>",
@@ -318,6 +318,43 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8664: praise",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Benjamin.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
+},
+{
+"id": "person:Benjamin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Benjamin"
 }
 ]
 }

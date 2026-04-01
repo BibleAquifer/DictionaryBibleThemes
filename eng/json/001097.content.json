@@ -2,10 +2,10 @@
 {
 "content_id": "5529",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5529: sieges",
 "media_type": "Text",
-"index_reference": "5529: sieges",
+"index_reference": "5529",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Sustained battle against fortified cities, preventing renewal of supplies; a common tactic in OT times. Samaria and Jerusalem both fell to sieges.</p>\n<h2>Sieges used by and against Israel</h2>\n<p><a href=\"https://ref.ly/Deut20:12\">DEU 20:12</a>, <a href=\"https://ref.ly/Deut20:19-Deut20:20\">DEU 20:19–20:20</a>; ; <a href=\"https://ref.ly/Judg9:50\">JDG 9:50</a>; ; <a href=\"https://ref.ly/1Sam11:1\">1SA 11:1</a>; ; <a href=\"https://ref.ly/2Sam11:1\">2SA 11:1</a>, <a href=\"https://ref.ly/2Sam20:15\">2SA 20:15</a></p>\n<h2>Ben-Hadad II twice besieged Samaria, unsuccessfully</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs20:1\">1KI 20:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs20:15-1Kgs20:20\">1KI 20:15–20:20</a>; <a href=\"https://ref.ly/2Kgs6:24\">2KI 6:24</a>, <a href=\"https://ref.ly/2Kgs7:3-2Kgs7:7\">2KI 7:3–7:7</a></p>\n<h2>Shalmaneser V besieged Samaria</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs17:5-2Kgs17:6\">2KI 17:5–17:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs18:9-2Kgs18:12\">2KI 18:9–18:12</a></p>\n<h2>Sennacherib besieged Jerusalem, unsuccessfully</h2>\n<p><a href=\"https://ref.ly/2Kgs18:17\">2KI 18:17</a>, <a href=\"https://ref.ly/2Kgs18:35-2Kgs18:36\">2KI 18:35–18:36</a>; ; <a href=\"https://ref.ly/2Chr32:1-2Chr32:5\">2CH 32:1–32:5</a>; ; <a href=\"https://ref.ly/Isa29:5-Isa29:8\">ISA 29:5–29:8</a>, <a href=\"https://ref.ly/Isa37:36-Isa37:37\">ISA 37:36–37:37</a></p>\n<h2>Nebuchadnezzar besieged Jerusalem</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs25:1\">2KI 25:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs25:2-2Kgs25:11\">2KI 25:2–25:11</a> parallel <a href=\"https://ref.ly/Jer39:1-Jer39:10\">JER 39:1–39:10</a>; <a href=\"https://ref.ly/2Chr36:17-2Chr36:20\">2CH 36:17–36:20</a> parallel <a href=\"https://ref.ly/Jer52:4-Jer52:15\">JER 52:4–52:15</a></p>\n<h2>Jesus Christ warned that Jerusalem would be besieged and destroyed</h2>\n<p><strong><a href=\"https://ref.ly/Luke19:43\">LUK 19:43</a></strong> <em>The Roman army destroyed Jerusalem in A.D. 70 using an embankment to besiege the city.</em> <em>See also</em> <a href=\"https://ref.ly/Luke21:20-Luke21:24\">LUK 21:20–21:24</a></p>\n<h2>Sieges caused great suffering and people adopted desperate measures for survival</h2>\n<p><a href=\"https://ref.ly/Deut28:51-Deut28:57\">DEU 28:51–28:57</a>; ; <a href=\"https://ref.ly/2Kgs6:24-2Kgs6:29\">2KI 6:24–6:29</a>, <a href=\"https://ref.ly/2Kgs18:27\">2KI 18:27</a></p>",
@@ -252,7 +252,8 @@
 "label": "9220: day of the LORD",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

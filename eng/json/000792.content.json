@@ -2,10 +2,10 @@
 {
 "content_id": "5203",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5203: acquittal",
 "media_type": "Text",
-"index_reference": "5203: acquittal",
+"index_reference": "5203",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The declaration of innocence and release from custody. It may be literal, in the context of human courts of justice, or figurative, God being portrayed as the judge of all the earth.</p>\n<h2>Divine justice</h2>\n<h3>Acquittal of the innocent</h3>\n<p><strong><a href=\"https://ref.ly/Matt12:33-Matt12:37\">MAT 12:33–12:37</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs8:31-1Kgs8:32\">1KI 8:31–8:32</a> parallel <a href=\"https://ref.ly/2Chr6:22-2Chr6:23\">2CH 6:22–6:23</a>; <a href=\"https://ref.ly/Job4:7\">JOB 4:7</a>; <a href=\"https://ref.ly/Prov10:16\">PRO 10:16</a>; <a href=\"https://ref.ly/Dan6:16-Dan6:22\">DAN 6:16–6:22</a>; <a href=\"https://ref.ly/Matt12:5\">MAT 12:5</a></p>\n<h3>Punishment of the guilty</h3>\n<p><strong><a href=\"https://ref.ly/Exod23:6-Exod23:7\">EXO 23:6–23:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod34:5-Exod34:7\">EXO 34:5–34:7</a>; <a href=\"https://ref.ly/Job4:8-Job4:9\">JOB 4:8–4:9</a>; <a href=\"https://ref.ly/Mic6:9-Mic6:16\">MIC 6:9–6:16</a>; <a href=\"https://ref.ly/Nah1:1-Nah1:6\">NAM 1:1–1:6</a></p>\n<h3>The acquittal of sinners in justification</h3>\n<p><strong><a href=\"https://ref.ly/Rom5:1-Rom5:2\">ROM 5:1–5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom4:23-Rom4:25\">ROM 4:23–4:25</a></p>\n<h2>Human justice</h2>\n<p><strong><a href=\"https://ref.ly/Deut25:1-Deut25:3\">DEU 25:1–25:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod22:2\">EXO 22:2</a>, <a href=\"https://ref.ly/Exod23:7-Exod23:8\">EXO 23:7–23:8</a>; <a href=\"https://ref.ly/Deut19:15-Deut19:19\">DEU 19:15–19:19</a>; <a href=\"https://ref.ly/2Kgs10:1-2Kgs10:9\">2KI 10:1–10:9</a>; <a href=\"https://ref.ly/Isa29:20-Isa29:21\">ISA 29:20–29:21</a></p>\n<h2>Unjust acquittal of the guilty</h2>\n<p><strong><a href=\"https://ref.ly/Prov17:15\">PRO 17:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov18:5\">PRO 18:5</a>, <a href=\"https://ref.ly/Prov24:23-Prov24:25\">PRO 24:23–24:25</a>; <a href=\"https://ref.ly/Isa5:22-Isa5:23\">ISA 5:22–5:23</a></p>\n<h2>Examples of acquittal of the innocent</h2>\n<p><strong><a href=\"https://ref.ly/Acts18:12-Acts18:17\">ACT 18:12–18:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts16:35-Acts16:39\">ACT 16:35–16:39</a></p>\n<h2>Instances when the innocent were not acquitted</h2>\n<h3>Jesus Christ was not acquitted because of pressure from the chief priests and the elders</h3>\n<p><strong><a href=\"https://ref.ly/Matt27:11-Matt27:26\">MAT 27:11–27:26</a></strong> parallels <a href=\"https://ref.ly/Mark15:2-Mark15:15\">MRK 15:2–15:15</a>, <a href=\"https://ref.ly/Luke23:2-Luke23:3\">LUK 23:2–23:3</a>, <a href=\"https://ref.ly/Luke23:18-Luke23:25\">LUK 23:18–23:25</a>, <a href=\"https://ref.ly/John18:29-John19:16\">JHN 18:29–19:16</a></p>\n<h3>Paul was not acquitted because he had appealed to Caesar</h3>\n<p><strong><a href=\"https://ref.ly/Acts26:30-Acts26:32\">ACT 26:30–26:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts25:1-Acts25:12\">ACT 25:1–25:12</a>, <a href=\"https://ref.ly/Acts25:23-Acts26:25\">ACT 25:23–26:25</a></p>",
@@ -273,7 +273,8 @@
 "label": "8277: innocence",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

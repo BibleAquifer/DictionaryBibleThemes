@@ -2,10 +2,10 @@
 {
 "content_id": "8146",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8146: renewal, of natural order",
 "media_type": "Text",
-"index_reference": "8146: renewal, of natural order",
+"index_reference": "8146",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God's transformation of the natural order is part of his plan of redeeming the whole universe as well as humanity.</p>\n<h2>Cosmic renewal</h2>\n<p><strong><a href=\"https://ref.ly/Rev21:1\">REV 21:1</a></strong>; <strong><a href=\"https://ref.ly/Rom8:19-Rom8:21\">ROM 8:19–8:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa65:17\">ISA 65:17</a>, <a href=\"https://ref.ly/Isa66:22\">ISA 66:22</a>; <a href=\"https://ref.ly/Matt19:28\">MAT 19:28</a>; <a href=\"https://ref.ly/2Pet3:10-2Pet3:13\">2PE 3:10–3:13</a>; <a href=\"https://ref.ly/Rev21:5\">REV 21:5</a></p>\n<h2>The renewal of nature</h2>\n<p><strong><a href=\"https://ref.ly/Isa11:6-Isa11:9\">ISA 11:6–11:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps104:30\">PSA 104:30</a>; <a href=\"https://ref.ly/Isa35:1-Isa35:2\">ISA 35:1–35:2</a>, <a href=\"https://ref.ly/Isa35:5-Isa35:7\">ISA 35:5–35:7</a>, <a href=\"https://ref.ly/Isa43:18-Isa43:21\">ISA 43:18–43:21</a>, <a href=\"https://ref.ly/Isa65:25\">ISA 65:25</a>; <a href=\"https://ref.ly/Ezek34:25-Ezek34:27\">EZK 34:25–34:27</a></p>",
@@ -160,7 +160,8 @@
 "label": "9160: new heavens and new earth",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

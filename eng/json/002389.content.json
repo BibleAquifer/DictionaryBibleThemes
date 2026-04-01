@@ -2,10 +2,10 @@
 {
 "content_id": "8761",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8761: fools, in teaching of Jesus Christ",
 "media_type": "Text",
-"index_reference": "8761: fools, in teaching of jesus christ",
+"index_reference": "8761",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Jesus Christ speaks about those whose words and actions demonstrate opposition to, or disregard for, the wisdom of God revealed in his words and through the Scriptures, and in parables points to the serious consequences of folly.</p>\n<h2>The foolishness of the Pharisees</h2>\n<h3>Their blindness</h3>\n<p><strong><a href=\"https://ref.ly/Matt23:16-Matt23:17\">MAT 23:16–23:17</a></strong> <em>The Pharisees demonstrate foolishness by attaching undue significance to what is less important whilst neglecting what really matters.</em> <em>See also</em> <a href=\"https://ref.ly/Matt7:3\">MAT 7:3</a> parallel <a href=\"https://ref.ly/Luke6:41\">LUK 6:41</a>; <a href=\"https://ref.ly/Matt15:14\">MAT 15:14</a> parallel <a href=\"https://ref.ly/Luke6:39\">LUK 6:39</a>; <a href=\"https://ref.ly/Matt23:23-Matt23:24\">MAT 23:23–23:24</a></p>\n<h3>Their hypocrisy</h3>\n<p><strong><a href=\"https://ref.ly/Luke11:39-Luke11:40\">LUK 11:39–11:40</a></strong> <em>The Pharisees were concerned with the externals of religion. Jesus Christ is concerned, also, with the inner life.</em> <em>See also</em> <a href=\"https://ref.ly/Matt12:35-Matt12:36\">MAT 12:35–12:36</a>, <a href=\"https://ref.ly/Matt23:25-Matt23:28\">MAT 23:25–23:28</a></p>\n<h2>The foolishness of the disciples</h2>\n<p><strong><a href=\"https://ref.ly/Luke24:25\">LUK 24:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt15:16-Matt15:20\">MAT 15:16–15:20</a> parallel <a href=\"https://ref.ly/Mark7:20-Mark7:23\">MRK 7:20–7:23</a>; <a href=\"https://ref.ly/Mark8:17\">MRK 8:17</a> parallel <a href=\"https://ref.ly/Matt16:9\">MAT 16:9</a>; <a href=\"https://ref.ly/Mark9:32\">MRK 9:32</a>, <a href=\"https://ref.ly/Mark16:12-Mark16:14\">MRK 16:12–16:14</a></p>\n<h2>Fools in Jesus Christ's parables</h2>\n<h3>The rich fool</h3>\n<p><strong><a href=\"https://ref.ly/Luke12:16-Luke12:21\">LUK 12:16–12:21</a></strong> <em>The foolishness of trusting in wealth and not in God.</em> <em>See also</em> <a href=\"https://ref.ly/Job27:16-Job27:19\">JOB 27:16–27:19</a>; <a href=\"https://ref.ly/Dan4:30-Dan4:31\">DAN 4:30–4:31</a>; <a href=\"https://ref.ly/Matt6:19\">MAT 6:19</a></p>\n<h3>The foolish builder</h3>\n<p><strong><a href=\"https://ref.ly/Matt7:24-Matt7:27\">MAT 7:24–7:27</a></strong> parallel <a href=\"https://ref.ly/Luke6:49\">LUK 6:49</a> <em>See also</em> <a href=\"https://ref.ly/Prov1:28-Prov1:33\">PRO 1:28–1:33</a>; <a href=\"https://ref.ly/Isa65:2\">ISA 65:2</a>; <a href=\"https://ref.ly/Jer5:21-Jer5:25\">JER 5:21–5:25</a>, <a href=\"https://ref.ly/Jer13:10\">JER 13:10</a>; <a href=\"https://ref.ly/Ezek3:7\">EZK 3:7</a></p>\n<h3>The foolish virgins</h3>\n<p><strong><a href=\"https://ref.ly/Matt25:1-Matt25:13\">MAT 25:1–25:13</a></strong> <em>The foolishness of being unprepared for the coming of God's kingdom.</em> <em>See also</em> <a href=\"https://ref.ly/Mark13:35-Mark13:36\">MRK 13:35–13:36</a>; <a href=\"https://ref.ly/Luke12:35-Luke12:36\">LUK 12:35–12:36</a></p>\n<h2>The seriousness of the term ``fool''</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:22\">MAT 5:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov1:32\">PRO 1:32</a>; <a href=\"https://ref.ly/Eccl7:17\">ECC 7:17</a></p>",
@@ -273,6 +273,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8834: unbelief",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Tahpanhes",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tahpanhes"
 }
 ]
 }

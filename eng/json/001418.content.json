@@ -2,10 +2,10 @@
 {
 "content_id": "5900",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5900: laughter",
 "media_type": "Text",
-"index_reference": "5900: laughter",
+"index_reference": "5900",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The act or sound of laughing, often associated with joy and delight, yet occasionally linked with ridicule and scorn.</p>\n<h2>People laughing</h2>\n<h3>Out of pleasure</h3>\n<p><strong><a href=\"https://ref.ly/Gen21:6\">GEN 21:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov31:25\">PRO 31:25</a>; <a href=\"https://ref.ly/Eccl3:4\">ECC 3:4</a>, <a href=\"https://ref.ly/Eccl10:19\">ECC 10:19</a></p>\n<h3>In scorn and derision</h3>\n<p><strong><a href=\"https://ref.ly/Matt9:24\">MAT 9:24</a></strong> parallels <a href=\"https://ref.ly/Mark5:40\">MRK 5:40</a>, <a href=\"https://ref.ly/Luke8:53\">LUK 8:53</a> <em>See also</em> <a href=\"https://ref.ly/Job39:18\">JOB 39:18</a>, <a href=\"https://ref.ly/Job41:29\">JOB 41:29</a>; <a href=\"https://ref.ly/Ps52:6\">PSA 52:6</a>; <a href=\"https://ref.ly/Lam1:7\">LAM 1:7</a>; <a href=\"https://ref.ly/Hab1:10\">HAB 1:10</a></p>\n<h2>God laughing</h2>\n<p><strong><a href=\"https://ref.ly/Ps2:4\">PSA 2:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps37:13\">PSA 37:13</a>, <a href=\"https://ref.ly/Ps59:8\">PSA 59:8</a>; <a href=\"https://ref.ly/Prov1:26\">PRO 1:26</a></p>\n<h2>God helping people to laugh</h2>\n<p><strong><a href=\"https://ref.ly/Ps126:2\">PSA 126:2</a></strong>; <strong><a href=\"https://ref.ly/Luke6:21\">LUK 6:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job5:22\">JOB 5:22</a>, <a href=\"https://ref.ly/Job8:21\">JOB 8:21</a>; <a href=\"https://ref.ly/Jer51:39\">JER 51:39</a> <em>as a prelude to judgment</em></p>\n<h2>Laughter qualified</h2>\n<p><strong><a href=\"https://ref.ly/Prov14:13\">PRO 14:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl2:2\">ECC 2:2</a>, <a href=\"https://ref.ly/Eccl7:3\">ECC 7:3</a></p>\n<h2>Laughter rebuked</h2>\n<p><strong><a href=\"https://ref.ly/Luke6:25\">LUK 6:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl7:6\">ECC 7:6</a>; <a href=\"https://ref.ly/Jas4:9\">JAS 4:9</a></p>",
@@ -223,6 +223,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8815: ridicule",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Horem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Horem"
 }
 ]
 }

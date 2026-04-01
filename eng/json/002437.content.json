@@ -2,10 +2,10 @@
 {
 "content_id": "8817",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8817: ridicule, objects of",
 "media_type": "Text",
-"index_reference": "8817: ridicule, objects of",
+"index_reference": "8817",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Ridicule of God and of believers is to be expected, but it will bring divine retribution upon its perpetrators.</p>\n<h2>God ridiculed</h2>\n<p><strong><a href=\"https://ref.ly/Ps74:10-Ps74:18\">PSA 74:10–74:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs19:4\">2KI 19:4</a> parallel <a href=\"https://ref.ly/Isa37:4\">ISA 37:4</a></p>\n<h2>Jesus Christ mocked</h2>\n<p><strong><a href=\"https://ref.ly/Luke22:63-Luke22:65\">LUK 22:63–22:65</a></strong> parallels <a href=\"https://ref.ly/Matt26:67-Matt26:68\">MAT 26:67–26:68</a>, <a href=\"https://ref.ly/Mark14:65\">MRK 14:65</a> <em>See also</em> <a href=\"https://ref.ly/Luke23:11\">LUK 23:11</a>; <a href=\"https://ref.ly/Matt27:27-Matt27:31\">MAT 27:27–27:31</a> parallel <a href=\"https://ref.ly/Mark15:16-Mark15:20\">MRK 15:16–15:20</a>; <a href=\"https://ref.ly/John19:1-John19:3\">JHN 19:1–19:3</a>; <a href=\"https://ref.ly/Matt27:39-Matt27:44\">MAT 27:39–27:44</a> parallels <a href=\"https://ref.ly/Mark15:29-Mark15:32\">MRK 15:29–15:32</a>, <a href=\"https://ref.ly/Luke23:35-Luke23:37\">LUK 23:35–23:37</a></p>\n<h2>God's messengers scorned</h2>\n<p><strong><a href=\"https://ref.ly/2Chr36:15-2Chr36:16\">2CH 36:15–36:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr30:6-2Chr30:10\">2CH 30:6–30:10</a>; <a href=\"https://ref.ly/Acts2:1-Acts2:13\">ACT 2:1–2:13</a>, <a href=\"https://ref.ly/Acts17:17-Acts17:18\">ACT 17:17–17:18</a>, <a href=\"https://ref.ly/Acts17:32\">ACT 17:32</a>; <a href=\"https://ref.ly/Heb11:36\">HEB 11:36</a></p>\n<h2>God's people may suffer ridicule for their faith</h2>\n<p><strong><a href=\"https://ref.ly/Ps22:6-Ps22:8\">PSA 22:6–22:8</a></strong> <a href=\"https://ref.ly/Job12:4\">JOB 12:4</a>, <a href=\"https://ref.ly/Job16:10\">JOB 16:10</a>, <a href=\"https://ref.ly/Job19:18\">JOB 19:18</a>, <a href=\"https://ref.ly/Job30:1\">JOB 30:1</a>, <a href=\"https://ref.ly/Job30:9\">JOB 30:9</a>; \n<a href=\"https://ref.ly/Ps35:15-Ps35:25\">PSA 35:15–35:25</a>, <a href=\"https://ref.ly/Ps42:10\">PSA 42:10</a>, <a href=\"https://ref.ly/Ps69:10-Ps69:12\">PSA 69:10–69:12</a>, <a href=\"https://ref.ly/Ps79:4\">PSA 79:4</a>, <a href=\"https://ref.ly/Ps89:50-Ps89:51\">PSA 89:50–89:51</a>, <a href=\"https://ref.ly/Ps123:3-Ps123:4\">PSA 123:3–123:4</a>; ; <a href=\"https://ref.ly/Jer20:7\">JER 20:7</a>; ; <a href=\"https://ref.ly/Lam2:15-Lam2:16\">LAM 2:15–2:16</a>, <a href=\"https://ref.ly/Lam3:14\">LAM 3:14</a>, <a href=\"https://ref.ly/Lam3:63\">LAM 3:63</a></p>\n<h2>Divine judgment because of ridicule</h2>\n<p><strong><a href=\"https://ref.ly/Zeph2:8-Zeph2:11\">ZEP 2:8–2:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov3:34\">PRO 3:34</a>; <a href=\"https://ref.ly/Isa28:22\">ISA 28:22</a></p>\n<h2>God ridicules his enemies</h2>\n<p><strong><a href=\"https://ref.ly/Ps2:4-Ps2:5\">PSA 2:4–2:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps59:8\">PSA 59:8</a></p>",
@@ -308,6 +308,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8819: scoffing",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Thessalonica",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thessalonians"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5247",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5247: carpenters",
 "media_type": "Text",
-"index_reference": "5247: carpenters",
+"index_reference": "5247",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Examples of carpenters at work</h2>\n<h3>In the building of the ark</h3>\n<p><a href=\"https://ref.ly/Gen6:14-Gen6:16\">GEN 6:14–6:16</a></p>\n<h3>In the construction of the tabernacle</h3>\n<p><strong><a href=\"https://ref.ly/Exod31:2-Exod31:5\">EXO 31:2–31:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod35:30-Exod35:33\">EXO 35:30–35:33</a></p>\n<h3>In the building of David's palace</h3>\n<p><strong><a href=\"https://ref.ly/2Sam5:11\">2SA 5:11</a></strong> parallel <a href=\"https://ref.ly/1Chr14:1\">1CH 14:1</a></p>\n<h3>In the building of the temple</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs5:18\">1KI 5:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr22:15\">1CH 22:15</a>; <a href=\"https://ref.ly/2Chr2:13-2Chr2:14\">2CH 2:13–2:14</a></p>\n<h3>In the restoration of the temple</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs12:11\">2KI 12:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs22:6\">2KI 22:6</a>; <a href=\"https://ref.ly/2Chr24:12\">2CH 24:12</a>, <a href=\"https://ref.ly/2Chr34:11\">2CH 34:11</a></p>\n<h3>In rebuilding the temple</h3>\n<p><strong><a href=\"https://ref.ly/Ezra3:7\">EZR 3:7</a></strong></p>\n<h3>In boatbuilding</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Ezek27:5-Ezek27:6\">EZK 27:5–27:6</a></p>\n<h2>Carpenters among the exiles in Babylon</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs24:16\">2KI 24:16</a></strong> <em>Carpenters are literally “craftsmen in wood”.</em> <em>See also</em> <a href=\"https://ref.ly/Jer24:1\">JER 24:1</a>, <a href=\"https://ref.ly/Jer29:2\">JER 29:2</a></p>\n<h2>Joseph as a carpenter</h2>\n<p><strong><a href=\"https://ref.ly/Matt13:55\">MAT 13:55</a></strong></p>\n<h2>Jesus Christ as a carpenter</h2>\n<p><strong><a href=\"https://ref.ly/Mark6:3\">MRK 6:3</a></strong></p>",
@@ -190,7 +190,8 @@
 "label": "5583: tools",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

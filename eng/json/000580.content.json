@@ -2,10 +2,10 @@
 {
 "content_id": "4857",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4857: west",
 "media_type": "Text",
-"index_reference": "4857: west",
+"index_reference": "4857",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The geographical direction often identified by the position of the setting sun.</p>\n<h2>West as a point of the compass</h2>\n<p><strong><a href=\"https://ref.ly/Exod10:19\">EXO 10:19</a></strong>; <strong><a href=\"https://ref.ly/Luke12:54\">LUK 12:54</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen13:14\">GEN 13:14</a>; <a href=\"https://ref.ly/Exod27:12\">EXO 27:12</a>; <a href=\"https://ref.ly/Num34:6\">NUM 34:6</a>; <a href=\"https://ref.ly/Deut3:27\">DEU 3:27</a>; <a href=\"https://ref.ly/Josh5:1\">JOS 5:1</a>; <a href=\"https://ref.ly/2Sam13:34\">2SA 13:34</a>; <a href=\"https://ref.ly/1Kgs4:24\">1KI 4:24</a>, <a href=\"https://ref.ly/1Kgs7:25\">1KI 7:25</a>; <a href=\"https://ref.ly/Job18:20\">JOB 18:20</a>; <a href=\"https://ref.ly/Isa24:14\">ISA 24:14</a>, <a href=\"https://ref.ly/Isa49:12\">ISA 49:12</a>, <a href=\"https://ref.ly/Isa59:19\">ISA 59:19</a>; <a href=\"https://ref.ly/Hos11:10\">HOS 11:10</a>; <a href=\"https://ref.ly/Rev21:13\">REV 21:13</a></p>\n<h2>West and east used to demonstrate vast extent</h2>\n<p><strong><a href=\"https://ref.ly/Ps103:12\">PSA 103:12</a></strong>; <strong><a href=\"https://ref.ly/Matt24:27\">MAT 24:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job23:8\">JOB 23:8</a>; <a href=\"https://ref.ly/Ps75:6\">PSA 75:6</a>; <a href=\"https://ref.ly/Isa43:5\">ISA 43:5</a>; <a href=\"https://ref.ly/Zech8:7\">ZEC 8:7</a>, <a href=\"https://ref.ly/Zech14:4\">ZEC 14:4</a>; <a href=\"https://ref.ly/Matt8:11\">MAT 8:11</a></p>\n<h2>West identified by the setting sun</h2>\n<p><strong><a href=\"https://ref.ly/Deut11:30\">DEU 11:30</a></strong>; <strong><a href=\"https://ref.ly/Ps113:3\">PSA 113:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps50:1\">PSA 50:1</a>; <a href=\"https://ref.ly/Isa45:6\">ISA 45:6</a>; <a href=\"https://ref.ly/Mal1:11\">MAL 1:11</a></p>",
@@ -215,7 +215,8 @@
 "label": "4850: south",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

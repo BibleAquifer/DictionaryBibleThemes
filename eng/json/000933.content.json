@@ -2,10 +2,10 @@
 {
 "content_id": "5346",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5346: injury",
 "media_type": "Text",
-"index_reference": "5346: injury",
+"index_reference": "5346",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Physical or mental hurt, usually resulting from the deliberate actions or words of others.</p>\n<h2>Physical injury</h2>\n<p><strong><a href=\"https://ref.ly/Judg1:6\">JDG 1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen32:25\">GEN 32:25</a>; <a href=\"https://ref.ly/Luke10:30\">LUK 10:30</a>; <a href=\"https://ref.ly/2Cor11:23-2Cor11:25\">2CO 11:23–11:25</a></p>\n<h3>Reparation must be made for physical injury</h3>\n<p><a href=\"https://ref.ly/Exod21:19\">EXO 21:19</a>, <a href=\"https://ref.ly/Exod21:22\">EXO 21:22</a>; ; <a href=\"https://ref.ly/Lev24:17-Lev24:22\">LEV 24:17–24:22</a></p>\n<h3>Jesus Christ suffered physical injury</h3>\n<p><a href=\"https://ref.ly/Matt16:21\">MAT 16:21</a>; ; <a href=\"https://ref.ly/John19:1\">JHN 19:1</a></p>\n<h3>God's people may suffer physical injury for his sake</h3>\n<p><a href=\"https://ref.ly/Jer38:6\">JER 38:6</a>; ; <a href=\"https://ref.ly/Gal6:17\">GAL 6:17</a>; ; <a href=\"https://ref.ly/Col1:24\">COL 1:24</a>; ; <a href=\"https://ref.ly/1Pet2:19\">1PE 2:19</a></p>\n<h2>Mental injury</h2>\n<h3>Injury by slander</h3>\n<p><a href=\"https://ref.ly/Lev19:16\">LEV 19:16</a>; ; <a href=\"https://ref.ly/Prov30:10\">PRO 30:10</a>; ; <a href=\"https://ref.ly/Matt5:11\">MAT 5:11</a>; ; <a href=\"https://ref.ly/Titus3:2\">TIT 3:2</a>; ; <a href=\"https://ref.ly/Jas4:11\">JAS 4:11</a>; ; <a href=\"https://ref.ly/1Pet2:1\">1PE 2:1</a></p>\n<h3>Injury by injustice</h3>\n<p><a href=\"https://ref.ly/Ps58:1-Ps58:2\">PSA 58:1–58:2</a>; ; <a href=\"https://ref.ly/Eccl3:16\">ECC 3:16</a>; ; <a href=\"https://ref.ly/Isa59:4-Isa59:6\">ISA 59:4–59:6</a>; ; <a href=\"https://ref.ly/Ezek34:4\">EZK 34:4</a></p>\n<h3>Jesus Christ suffered mental injury</h3>\n<p><a href=\"https://ref.ly/Matt26:59-Matt26:60\">MAT 26:59–26:60</a>; ; <a href=\"https://ref.ly/1Pet2:20-1Pet2:23\">1PE 2:20–2:23</a></p>\n<h3>God's people may suffer mental injury for his sake</h3>\n<p><strong><a href=\"https://ref.ly/Matt5:11\">MAT 5:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps38:20\">PSA 38:20</a>; <a href=\"https://ref.ly/Jer15:15\">JER 15:15</a>; <a href=\"https://ref.ly/1Thess2:2\">1TH 2:2</a>; <a href=\"https://ref.ly/1Pet2:19\">1PE 2:19</a></p>\n<h2>All deliberate injury ruled out by love</h2>\n<p><strong><a href=\"https://ref.ly/Rom13:10\">ROM 13:10</a></strong></p>\n<h2>Spiritual injury suffered by God's people</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Isa1:5-Isa1:6\">ISA 1:5–1:6</a>; <a href=\"https://ref.ly/Jer10:19\">JER 10:19</a>, <a href=\"https://ref.ly/Jer30:12\">JER 30:12</a>; <a href=\"https://ref.ly/Hos6:1\">HOS 6:1</a> <em>Sometimes this is God's judgment.</em></p>",
@@ -294,6 +294,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6221: rebellion",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gahar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gahar"
 }
 ]
 }

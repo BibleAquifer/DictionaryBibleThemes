@@ -2,10 +2,10 @@
 {
 "content_id": "5372",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5372: knife",
 "media_type": "Text",
-"index_reference": "5372: knife",
+"index_reference": "5372",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The knife as a domestic cutting implement</h2>\n<h3>Used for general purposes</h3>\n<p><a href=\"https://ref.ly/Prov23:2\">PRO 23:2</a>, <a href=\"https://ref.ly/Prov30:14\">PRO 30:14</a>; ; <a href=\"https://ref.ly/Jer36:23\">JER 36:23</a> <em>cutting a scroll</em></p>\n<h2>Knives used for shaving</h2>\n<p><a href=\"https://ref.ly/Lev19:27\">LEV 19:27</a>, <a href=\"https://ref.ly/Lev21:5\">LEV 21:5</a>; ; <a href=\"https://ref.ly/Judg16:17\">JDG 16:17</a>; ; <a href=\"https://ref.ly/Isa15:2\">ISA 15:2</a>; ; <a href=\"https://ref.ly/Ezek7:18\">EZK 7:18</a>; ; <a href=\"https://ref.ly/Mic1:16\">MIC 1:16</a></p>\n<h2>Knives used in religious ceremonies</h2>\n<h3>In circumcision</h3>\n<p>Flint rather than metal knives were used because of their sharpness:\n <a href=\"https://ref.ly/Exod4:25\">EXO 4:25</a>; ; <a href=\"https://ref.ly/Josh5:2-Josh5:3\">JOS 5:2–5:3</a></p>\n<h3>In sacrifice</h3>\n<p><a href=\"https://ref.ly/Gen15:10\">GEN 15:10</a>, <a href=\"https://ref.ly/Gen22:10\">GEN 22:10</a>; ; <a href=\"https://ref.ly/Exod29:17\">EXO 29:17</a>; ; <a href=\"https://ref.ly/Lev8:20\">LEV 8:20</a></p>\n<h2>Knives used for wounding</h2>\n<h3>For self-mutilation</h3>\n<p>This practice was associated with pagan worship, sometimes as an expression of mourning:\n <a href=\"https://ref.ly/Lev19:28\">LEV 19:28</a>, <a href=\"https://ref.ly/Lev21:5\">LEV 21:5</a>; ; <a href=\"https://ref.ly/Deut14:1-Deut14:2\">DEU 14:1–14:2</a>; ; <a href=\"https://ref.ly/1Kgs18:28\">1KI 18:28</a>; ; <a href=\"https://ref.ly/Jer16:6\">JER 16:6</a>, <a href=\"https://ref.ly/Jer41:5\">JER 41:5</a>, <a href=\"https://ref.ly/Jer47:5\">JER 47:5</a>, <a href=\"https://ref.ly/Jer48:37\">JER 48:37</a></p>\n<h3>In mutilation of others</h3>\n<p>As a punishment:\n <a href=\"https://ref.ly/Exod21:23-Exod21:25\">EXO 21:23–21:25</a>; ; <a href=\"https://ref.ly/Lev24:17-Lev24:20\">LEV 24:17–24:20</a>; ; <a href=\"https://ref.ly/Deut25:12\">DEU 25:12</a>; <a href=\"https://ref.ly/Judg1:6\">JDG 1:6</a>, <a href=\"https://ref.ly/Judg16:21\">JDG 16:21</a>; <a href=\"https://ref.ly/1Sam11:7\">1SA 11:7</a></p>\n<h2>Knives used in figures of speech</h2>\n<h3>For self-discipline</h3>\n<p><a href=\"https://ref.ly/Prov23:2\">PRO 23:2</a>; ; <a href=\"https://ref.ly/Matt5:29-Matt5:30\">MAT 5:29–5:30</a>, <a href=\"https://ref.ly/Matt18:8-Matt18:9\">MAT 18:8–18:9</a>; ; <a href=\"https://ref.ly/Mark9:43-Mark9:47\">MRK 9:43–9:47</a></p>\n<h3>As a symbol of pruning</h3>\n<p><a href=\"https://ref.ly/Isa18:5\">ISA 18:5</a>; ; <a href=\"https://ref.ly/John15:1-John15:2\">JHN 15:1–15:2</a></p>\n<h3>As a symbol of wickedness</h3>\n<p><a href=\"https://ref.ly/Prov30:14\">PRO 30:14</a></p>",
@@ -295,7 +295,8 @@
 "label": "7435: sacrifice, in OT",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

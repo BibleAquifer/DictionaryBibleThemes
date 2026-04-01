@@ -2,10 +2,10 @@
 {
 "content_id": "5320",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5320: funeral",
 "media_type": "Text",
-"index_reference": "5320: funeral",
+"index_reference": "5320",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Funerals were times for expressing grief</h2>\n<p><a href=\"https://ref.ly/Gen50:10\">GEN 50:10</a>; ; <a href=\"https://ref.ly/Acts9:36-Acts9:39\">ACT 9:36–9:39</a></p>\n<h2>Hired musicians sometimes played a funeral dirge</h2>\n<p><a href=\"https://ref.ly/Matt9:23\">MAT 9:23</a></p>\n<h2>The funeral bier</h2>\n<p><a href=\"https://ref.ly/2Sam3:31-2Sam3:32\">2SA 3:31–3:32</a>; ; <a href=\"https://ref.ly/Luke7:14\">LUK 7:14</a></p>\n<h2>Funeral fires lit in honour of worthy kings of Judah</h2>\n<p><a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a>, <a href=\"https://ref.ly/2Chr21:19\">2CH 21:19</a>; ; <a href=\"https://ref.ly/Jer34:5\">JER 34:5</a></p>\n<h2>Funerals often concluded with burial in a family tomb</h2>\n<p><a href=\"https://ref.ly/Gen49:29-Gen49:31\">GEN 49:29–49:31</a></p>\n<h2>Jesus Christ had no funeral ceremony</h2>\n<p><a href=\"https://ref.ly/Luke23:53\">LUK 23:53</a> parallels <a href=\"https://ref.ly/Matt27:59\">MAT 27:59</a>, <a href=\"https://ref.ly/Mark15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/John19:40-John19:42\">JHN 19:40–19:42</a></p>",
@@ -140,7 +140,8 @@
 "label": "9030: dead bodies",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

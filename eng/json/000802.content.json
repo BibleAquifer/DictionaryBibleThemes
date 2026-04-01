@@ -2,10 +2,10 @@
 {
 "content_id": "5213",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5213: assembly",
 "media_type": "Text",
-"index_reference": "5213: assembly",
+"index_reference": "5213",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Assemblies of the Israelites</h2>\n<p><strong><a href=\"https://ref.ly/Lev23:1-Lev23:2\">LEV 23:1–23:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod35:1\">EXO 35:1</a>; <a href=\"https://ref.ly/Lev4:14\">LEV 4:14</a>, <a href=\"https://ref.ly/Lev8:1-Lev8:5\">LEV 8:1–8:5</a>; <a href=\"https://ref.ly/Num10:1-Num10:7\">NUM 10:1–10:7</a>, <a href=\"https://ref.ly/Num15:35-Num15:36\">NUM 15:35–15:36</a>, <a href=\"https://ref.ly/Num16:45-Num16:47\">NUM 16:45–16:47</a>; <a href=\"https://ref.ly/1Sam7:5\">1SA 7:5</a>; <a href=\"https://ref.ly/1Kgs8:22\">1KI 8:22</a>; <a href=\"https://ref.ly/1Chr15:3\">1CH 15:3</a>; <a href=\"https://ref.ly/2Chr29:28\">2CH 29:28</a>; <a href=\"https://ref.ly/Ezra3:1\">EZR 3:1</a>; <a href=\"https://ref.ly/Ps22:25\">PSA 22:25</a>, <a href=\"https://ref.ly/Ps40:9-Ps40:10\">PSA 40:9–40:10</a>, <a href=\"https://ref.ly/Ps149:1\">PSA 149:1</a>; <a href=\"https://ref.ly/Amos5:21\">AMO 5:21</a></p>\n<h2>Assembling armies for war and groups for self-protection</h2>\n<p><strong><a href=\"https://ref.ly/Judg20:2\">JDG 20:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg10:17\">JDG 10:17</a>; <a href=\"https://ref.ly/1Sam7:6\">1SA 7:6</a>, <a href=\"https://ref.ly/1Sam13:5\">1SA 13:5</a>, <a href=\"https://ref.ly/1Sam17:2\">1SA 17:2</a>; <a href=\"https://ref.ly/Esth8:11\">EST 8:11</a>, <a href=\"https://ref.ly/Esth9:16\">EST 9:16</a></p>\n<h2>Assemblies of the Christian church</h2>\n<p><strong><a href=\"https://ref.ly/Acts14:27\">ACT 14:27</a></strong> <em>The Greek word for “church” can also be translated “assembly”.</em> <em>See also</em> <a href=\"https://ref.ly/Matt16:18\">MAT 16:18</a>; <a href=\"https://ref.ly/Acts13:1-Acts13:2\">ACT 13:1–13:2</a>, <a href=\"https://ref.ly/Acts14:23\">ACT 14:23</a>; <a href=\"https://ref.ly/1Cor11:18\">1CO 11:18</a>, <a href=\"https://ref.ly/1Cor14:23\">1CO 14:23</a>, <a href=\"https://ref.ly/1Cor16:19\">1CO 16:19</a></p>\n<h2>Assemblies for other purposes</h2>\n<p><strong><a href=\"https://ref.ly/Acts19:39\">ACT 19:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke23:1\">LUK 23:1</a>; <a href=\"https://ref.ly/Acts19:32\">ACT 19:32</a>, <a href=\"https://ref.ly/Acts19:41\">ACT 19:41</a>, <a href=\"https://ref.ly/Acts23:7\">ACT 23:7</a></p>",
@@ -285,6 +285,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7930: Lord's Day, the",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ezbon.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezbon"
+},
+{
+"id": "person:Ezbon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezbon"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5966",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5966: tenderness",
 "media_type": "Text",
-"index_reference": "5966: tenderness",
+"index_reference": "5966",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Physically, the state of being soft or easily damaged. Tenderness in relationships is an expression of love and affection which, in the case of God, is often linked with compassion for his people.</p>\n<h2>Physical tenderness</h2>\n<h3>Of new plant growth</h3>\n<p><strong><a href=\"https://ref.ly/Ezek17:22\">EZK 17:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut32:2\">DEU 32:2</a>; <a href=\"https://ref.ly/2Kgs19:26\">2KI 19:26</a>; <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a>, <a href=\"https://ref.ly/Isa53:2\">ISA 53:2</a>; <a href=\"https://ref.ly/Matt24:32\">MAT 24:32</a> parallel <a href=\"https://ref.ly/Mark13:28\">MRK 13:28</a></p>\n<h3>Of meat</h3>\n<p><a href=\"https://ref.ly/Gen18:7\">GEN 18:7</a></p>\n<h3>Of the young and immature</h3>\n<p><strong><a href=\"https://ref.ly/Prov4:3\">PRO 4:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen33:13\">GEN 33:13</a>; <a href=\"https://ref.ly/Isa47:1\">ISA 47:1</a></p>\n<h2>Tenderness in relationships</h2>\n<h3>Human love and affection</h3>\n<p><strong><a href=\"https://ref.ly/Gen34:3\">GEN 34:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam1:26\">2SA 1:26</a>; <a href=\"https://ref.ly/Song7:10\">SNG 7:10</a>; <a href=\"https://ref.ly/Luke15:20\">LUK 15:20</a></p>\n<h3>God's tenderness</h3>\n<p><strong><a href=\"https://ref.ly/Isa40:1-Isa40:2\">ISA 40:1–40:2</a></strong>; <strong><a href=\"https://ref.ly/Luke1:78\">LUK 1:78</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut32:10-Deut32:14\">DEU 32:10–32:14</a>; <a href=\"https://ref.ly/Isa30:18\">ISA 30:18</a>, <a href=\"https://ref.ly/Isa54:10\">ISA 54:10</a>, <a href=\"https://ref.ly/Isa63:15\">ISA 63:15</a>; <a href=\"https://ref.ly/Jer31:3\">JER 31:3</a>, <a href=\"https://ref.ly/Jer31:20\">JER 31:20</a>; <a href=\"https://ref.ly/Hos2:14\">HOS 2:14</a>, <a href=\"https://ref.ly/Hos11:1-Hos11:4\">HOS 11:1–11:4</a>; <a href=\"https://ref.ly/Zeph3:17\">ZEP 3:17</a></p>\n<h3>The tenderness of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Mark10:16\">MRK 10:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt9:36\">MAT 9:36</a>, <a href=\"https://ref.ly/Matt14:14\">MAT 14:14</a>, <a href=\"https://ref.ly/Matt23:37\">MAT 23:37</a>; <a href=\"https://ref.ly/Mark1:41\">MRK 1:41</a>; <a href=\"https://ref.ly/John11:33-John11:36\">JHN 11:33–11:36</a>, <a href=\"https://ref.ly/John19:26-John19:27\">JHN 19:26–19:27</a></p>\n<h3>A mark of Christian behaviour</h3>\n<p><strong><a href=\"https://ref.ly/Phil2:1-Phil2:2\">PHP 2:1–2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor4:21\">1CO 4:21</a>; <a href=\"https://ref.ly/Phil1:8\">PHP 1:8</a>; <a href=\"https://ref.ly/Col3:12\">COL 3:12</a>; <a href=\"https://ref.ly/1Pet3:8\">1PE 3:8</a></p>",
@@ -310,6 +310,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8292: love",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hymenaeus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hymenaeus"
 }
 ]
 }

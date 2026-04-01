@@ -2,10 +2,10 @@
 {
 "content_id": "8307",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8307: moderation",
 "media_type": "Text",
-"index_reference": "8307: moderation",
+"index_reference": "8307",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The classic virtue of temperate conduct, especially the avoidance of extremes. Scripture commends moderation as a way of life for Christians, while stressing the need for total commitment to God.</p>\n<h2>The ideal of moderation</h2>\n<p><strong><a href=\"https://ref.ly/Eccl7:16-Eccl7:18\">ECC 7:16–7:18</a></strong></p>\n<h2>Moderation in a legal context</h2>\n<p><strong><a href=\"https://ref.ly/Exod21:23-Exod21:25\">EXO 21:23–21:25</a></strong> <em>The purpose of this legislation was not to encourage vengeance but to moderate or restrain it.</em> <em>See also</em> <a href=\"https://ref.ly/Lev24:17-Lev24:22\">LEV 24:17–24:22</a>; <a href=\"https://ref.ly/Num35:9-Num35:15\">NUM 35:9–35:15</a> parallels <a href=\"https://ref.ly/Deut4:41-Deut4:43\">DEU 4:41–4:43</a>, <a href=\"https://ref.ly/Deut19:1-Deut19:10\">DEU 19:1–19:10</a> <em>One purpose of cities of refuge was to moderate the revenge of families of the murdered.</em></p>\n<h2>Moderation in personal and social relations</h2>\n<p><strong><a href=\"https://ref.ly/Prov17:27\">PRO 17:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen43:29-Gen43:31\">GEN 43:29–43:31</a>; <a href=\"https://ref.ly/Prov12:16\">PRO 12:16</a>, <a href=\"https://ref.ly/Prov23:4\">PRO 23:4</a>; <a href=\"https://ref.ly/Gal5:22-Gal5:23\">GAL 5:22–5:23</a></p>\n<h2>Moderation in personal ethics</h2>\n<p><strong><a href=\"https://ref.ly/Titus2:11-Titus2:12\">TIT 2:11–2:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov15:16\">PRO 15:16</a> <em>Moderation in matters of wealth is affirmed.</em><a href=\"https://ref.ly/Matt5:33-Matt5:37\">MAT 5:33–5:37</a>; <a href=\"https://ref.ly/Col4:6\">COL 4:6</a>\n<a href=\"https://ref.ly/Eph5:18\">EPH 5:18</a>; <a href=\"https://ref.ly/1Thess5:6-1Thess5:8\">1TH 5:6–5:8</a>; <a href=\"https://ref.ly/1Tim3:2-1Tim3:3\">1TI 3:2–3:3</a>, <a href=\"https://ref.ly/1Tim3:8\">1TI 3:8</a>, <a href=\"https://ref.ly/1Tim3:11\">1TI 3:11</a>; <a href=\"https://ref.ly/Titus1:7-Titus1:8\">TIT 1:7–1:8</a>, <a href=\"https://ref.ly/Titus2:2-Titus2:8\">TIT 2:2–2:8</a></p>\n<h2>Moderation in religious activity</h2>\n<p><strong><a href=\"https://ref.ly/Eccl7:16-Eccl7:17\">ECC 7:16–7:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt23:23-Matt23:26\">MAT 23:23–23:26</a>; <a href=\"https://ref.ly/1Cor14:26-1Cor14:33\">1CO 14:26–14:33</a></p>\n<h2>Moderation must not lead to being spiritually lukewarm</h2>\n<p><strong><a href=\"https://ref.ly/Rev3:15-Rev3:16\">REV 3:15–3:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev3:1-Rev3:2\">REV 3:1–3:2</a></p>",
@@ -244,6 +244,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8370: zeal",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Sheariah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheariah"
 }
 ]
 }

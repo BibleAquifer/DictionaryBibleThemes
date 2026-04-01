@@ -2,10 +2,10 @@
 {
 "content_id": "1510",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1510: Trinity, the",
 "media_type": "Text",
-"index_reference": "1510: trinity, the",
+"index_reference": "1510",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The characteristically Christian doctrine about God. It declares that there is only one true God; that this God is three persons, the Father, the Son and the Holy Spirit, each of whom is distinct from, yet interrelated with, the others; and that all three persons are fully, equally and eternally divine.</p>",
@@ -33,7 +33,8 @@
 "label": "1513: Trinity, mission of the persons",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

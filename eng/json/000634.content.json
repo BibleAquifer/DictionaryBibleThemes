@@ -2,10 +2,10 @@
 {
 "content_id": "5024",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5024: inner being",
 "media_type": "Text",
-"index_reference": "5024: inner being",
+"index_reference": "5024",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The deepest aspects of human nature, known completely by God, to be contrasted with the outward appearance or public image of a person.</p>\n<h2>The contrast of the inner being with the outward person</h2>\n<h3>The desires of the inner being</h3>\n<p><strong><a href=\"https://ref.ly/Rom7:14-Rom7:25\">ROM 7:14–7:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps51:3-Ps51:6\">PSA 51:3–51:6</a></p>\n<h3>The inner being is not subject to physical constraints</h3>\n<p><strong><a href=\"https://ref.ly/2Cor4:7-2Cor4:18\">2CO 4:7–4:18</a></strong></p>\n<h2>The inner being should take priority over the outward person</h2>\n<p><strong><a href=\"https://ref.ly/1Pet3:3-1Pet3:4\">1PE 3:3–3:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam16:7\">1SA 16:7</a>; <a href=\"https://ref.ly/Eph3:16-Eph3:19\">EPH 3:16–3:19</a></p>",
@@ -132,6 +132,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8164: spirituality",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Elishaphat",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elishaphat"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "9400",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9400: Heaven",
 "media_type": "Text",
-"index_reference": "9400: heaven",
+"index_reference": "9400",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"9410\" data-resourcetype=\"DictionaryOfBibleThemes\">9410: heaven</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9420\" data-resourcetype=\"DictionaryOfBibleThemes\">9420: book of life</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9430\" data-resourcetype=\"DictionaryOfBibleThemes\">9430: paradise</span></li></ul>",
@@ -33,7 +33,8 @@
 "label": "9430: paradise",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

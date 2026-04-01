@@ -2,10 +2,10 @@
 {
 "content_id": "3005",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3005: Holy Spirit, qualities of",
 "media_type": "Text",
-"index_reference": "3005: holy spirit, qualities of",
+"index_reference": "3005",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"3010\" data-resourcetype=\"DictionaryOfBibleThemes\">3010: God, the Holy Spirit</span></li></ul>",
@@ -19,7 +19,8 @@
 "label": "3010: God, the Holy Spirit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

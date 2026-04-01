@@ -2,10 +2,10 @@
 {
 "content_id": "4822",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4822: famine",
 "media_type": "Text",
-"index_reference": "4822: famine",
+"index_reference": "4822",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A severe long-term absence of food, leading to disaster for the people affected in this way. Scripture provides examples of such famines, while also indicating the possibility and dangers of spiritual famine arising through disobedience or lack of faith.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4824: famine, spiritual",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Deuel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Deuel"
 }
 ]
 }

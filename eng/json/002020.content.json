@@ -2,10 +2,10 @@
 {
 "content_id": "8129",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8129: guidance, examples of God's",
 "media_type": "Text",
-"index_reference": "8129: guidance, examples of god's",
+"index_reference": "8129",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture provides numerous examples of individuals who have realised their need of God's guidance and who have been given direction by him.</p>\n<h2>Examples of God taking the initiative to lead his people</h2>\n<h3>God's guidance of Israel and her leaders at the exodus</h3>\n<p><a href=\"https://ref.ly/Exod13:17-Exod13:18\">EXO 13:17–13:18</a>; ; <a href=\"https://ref.ly/Deut8:2\">DEU 8:2</a>, <a href=\"https://ref.ly/Deut8:15\">DEU 8:15</a>, <a href=\"https://ref.ly/Deut32:12\">DEU 32:12</a>; ; <a href=\"https://ref.ly/Josh24:2-Josh24:3\">JOS 24:2–24:3</a>; ; <a href=\"https://ref.ly/Ps77:19-Ps77:20\">PSA 77:19–77:20</a>, <a href=\"https://ref.ly/Ps106:9\">PSA 106:9</a>; ; <a href=\"https://ref.ly/Acts7:36\">ACT 7:36</a>, <a href=\"https://ref.ly/Acts13:17\">ACT 13:17</a></p>\n<h3>God's guidance likened to that of a shepherd</h3>\n<p><strong><a href=\"https://ref.ly/Ps23:1-Ps23:3\">PSA 23:1–23:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps78:52-Ps78:54\">PSA 78:52–78:54</a>; <a href=\"https://ref.ly/Isa40:11\">ISA 40:11</a>, <a href=\"https://ref.ly/Isa63:11-Isa63:14\">ISA 63:11–63:14</a>; <a href=\"https://ref.ly/Jer23:3\">JER 23:3</a>; <a href=\"https://ref.ly/Ezek34:12-Ezek34:13\">EZK 34:12–34:13</a>; <a href=\"https://ref.ly/Hos11:3-Hos11:4\">HOS 11:3–11:4</a>; <a href=\"https://ref.ly/John10:3\">JHN 10:3</a></p>\n<h3>God's guidance of Paul during his missionary journeys</h3>\n<p><a href=\"https://ref.ly/Acts16:6-Acts16:10\">ACT 16:6–16:10</a></p>\n<h2>Examples of God responding to requests for guidance</h2>\n<h3>Abraham's servant</h3>\n<p><a href=\"https://ref.ly/Gen24:12-Gen24:27\">GEN 24:12–24:27</a></p>\n<h3>Balaam</h3>\n<p><a href=\"https://ref.ly/Num23:3-Num23:8\">NUM 23:3–23:8</a></p>\n<h3>Gideon</h3>\n<p><a href=\"https://ref.ly/Judg6:36-Judg6:40\">JDG 6:36–6:40</a></p>\n<h3>Israel</h3>\n<p><a href=\"https://ref.ly/Judg20:23-Judg20:28\">JDG 20:23–20:28</a>; ; <a href=\"https://ref.ly/Ps107:4-Ps107:7\">PSA 107:4–107:7</a>, <a href=\"https://ref.ly/Ps107:23-Ps107:30\">PSA 107:23–107:30</a></p>\n<h3>Saul and Samuel</h3>\n<p><a href=\"https://ref.ly/1Sam9:6-1Sam9:10\">1SA 9:6–9:10</a>, <a href=\"https://ref.ly/1Sam9:15-1Sam9:20\">1SA 9:15–9:20</a>, <a href=\"https://ref.ly/1Sam10:20-1Sam10:24\">1SA 10:20–10:24</a></p>\n<h3>David</h3>\n<p><a href=\"https://ref.ly/1Sam23:1-1Sam23:5\">1SA 23:1–23:5</a>, <a href=\"https://ref.ly/1Sam30:7-1Sam30:8\">1SA 30:7–30:8</a>; ; <a href=\"https://ref.ly/2Sam2:1\">2SA 2:1</a>, <a href=\"https://ref.ly/2Sam5:18-2Sam5:19\">2SA 5:18–5:19</a>, <a href=\"https://ref.ly/2Sam5:22-2Sam5:25\">2SA 5:22–5:25</a></p>\n<h3>Ahab and Micaiah</h3>\n<p><a href=\"https://ref.ly/1Kgs22:12-1Kgs22:23\">1KI 22:12–22:23</a></p>\n<h3>Josiah and Huldah the prophetess</h3>\n<p><a href=\"https://ref.ly/2Kgs22:13-2Kgs22:20\">2KI 22:13–22:20</a></p>\n<h3>Jehoshaphat and Jahaziel the son of Zechariah</h3>\n<p><a href=\"https://ref.ly/2Chr20:15-2Chr20:17\">2CH 20:15–20:17</a></p>\n<h3>Zedekiah and Jeremiah</h3>\n<p><a href=\"https://ref.ly/Jer21:1-Jer21:7\">JER 21:1–21:7</a></p>\n<h2>Examples of God's guidance being refused or disobeyed</h2>\n<h3>Saul</h3>\n<p><a href=\"https://ref.ly/1Sam28:4-1Sam28:7\">1SA 28:4–28:7</a></p>\n<h3>The people of Jerusalem</h3>\n<p><a href=\"https://ref.ly/Jer2:13-Jer2:17\">JER 2:13–2:17</a>, <a href=\"https://ref.ly/Jer43:1-Jer43:4\">JER 43:1–43:4</a></p>",
@@ -281,6 +281,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7221: exodus, the",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Sanballat",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sanballat"
 }
 ]
 }

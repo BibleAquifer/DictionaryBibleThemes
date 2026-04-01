@@ -2,10 +2,10 @@
 {
 "content_id": "5588",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5588: traditions",
 "media_type": "Text",
-"index_reference": "5588: traditions",
+"index_reference": "5588",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Beliefs or customs handed down from previous generations. Believers are to hold to the traditions of the Christian faith. Human traditions can be contrary to God's word and thereby come into conflict with the Christian faith.</p>\n<h2>Examples of human traditions</h2>\n<p><a href=\"https://ref.ly/Ruth4:7\">RUT 4:7</a>; ; <a href=\"https://ref.ly/2Chr35:25\">2CH 35:25</a>; ; <a href=\"https://ref.ly/Ezek24:17\">EZK 24:17</a>, <a href=\"https://ref.ly/Ezek24:22\">EZK 24:22</a>; ; <a href=\"https://ref.ly/Mark7:3-Mark7:4\">MRK 7:3–7:4</a>; ; <a href=\"https://ref.ly/Luke2:42\">LUK 2:42</a>; ; <a href=\"https://ref.ly/John19:40\">JHN 19:40</a></p>\n<h2>Believers are to hold to and hand on the traditions of the Christian faith</h2>\n<p><strong><a href=\"https://ref.ly/1Cor11:2\">1CO 11:2</a></strong>; <strong><a href=\"https://ref.ly/1Thess5:21\">1TH 5:21</a></strong>; <strong><a href=\"https://ref.ly/2Tim2:2\">2TI 2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:9-Deut4:10\">DEU 4:9–4:10</a>, <a href=\"https://ref.ly/Deut6:6-Deut6:7\">DEU 6:6–6:7</a>, <a href=\"https://ref.ly/Deut11:19\">DEU 11:19</a>; <a href=\"https://ref.ly/1Cor11:23\">1CO 11:23</a>; <a href=\"https://ref.ly/Eph2:20\">EPH 2:20</a>; <a href=\"https://ref.ly/2Thess2:15\">2TH 2:15</a>, <a href=\"https://ref.ly/2Thess3:6\">2TH 3:6</a></p>\n<h2>Human traditions can be contrary to God's word</h2>\n<p><strong><a href=\"https://ref.ly/Matt15:3-Matt15:6\">MAT 15:3–15:6</a></strong> parallel <a href=\"https://ref.ly/Mark7:9-Mark7:13\">MRK 7:9–7:13</a><strong><a href=\"https://ref.ly/Col2:8\">COL 2:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mic6:16\">MIC 6:16</a>; <a href=\"https://ref.ly/Col2:20-Col2:22\">COL 2:20–2:22</a>; <a href=\"https://ref.ly/Titus1:13-Titus1:14\">TIT 1:13–1:14</a></p>\n<h2>The Christian faith is in conflict with traditions of purely human origins</h2>\n<p><strong><a href=\"https://ref.ly/Mark2:18-Mark2:22\">MRK 2:18–2:22</a></strong> parallels <a href=\"https://ref.ly/Matt9:14-Matt9:17\">MAT 9:14–9:17</a>, <a href=\"https://ref.ly/Luke5:33-Luke5:39\">LUK 5:33–5:39</a><strong><a href=\"https://ref.ly/1Pet1:18-1Pet1:19\">1PE 1:18–1:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt15:2\">MAT 15:2</a> parallel <a href=\"https://ref.ly/Mark7:5\">MRK 7:5</a>; <a href=\"https://ref.ly/Gal2:11-Gal2:16\">GAL 2:11–2:16</a>, <a href=\"https://ref.ly/Gal4:9-Gal4:11\">GAL 4:9–4:11</a></p>",
@@ -282,6 +282,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8774: legalism",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Haggedolim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haggedolim"
+},
+{
+"id": "keyterm:Teaching",
+"type": "keyterm",
+"confidence": 0.5552,
+"match_method": "scored",
+"preferred_label": "Teaching"
 }
 ]
 }

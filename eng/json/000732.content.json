@@ -2,10 +2,10 @@
 {
 "content_id": "5143",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5143: climbing",
 "media_type": "Text",
-"index_reference": "5143: climbing",
+"index_reference": "5143",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Physical climbing</h2>\n<p><strong><a href=\"https://ref.ly/Deut32:49-Deut32:50\">DEU 32:49–32:50</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num27:12\">NUM 27:12</a>; <a href=\"https://ref.ly/1Sam14:8-1Sam14:13\">1SA 14:8–14:13</a>; <a href=\"https://ref.ly/1Kgs18:42\">1KI 18:42</a>; <a href=\"https://ref.ly/2Kgs19:23\">2KI 19:23</a>; <a href=\"https://ref.ly/2Chr20:16\">2CH 20:16</a>; <a href=\"https://ref.ly/Isa40:9\">ISA 40:9</a>; <a href=\"https://ref.ly/Jer4:29\">JER 4:29</a>; <a href=\"https://ref.ly/Luke19:4\">LUK 19:4</a></p>\n<h2>Climbing associated with worship</h2>\n<p><strong><a href=\"https://ref.ly/Ps24:3\">PSA 24:3</a></strong> <em>Because Jerusalem was built at a high elevation, going to worship there usually involved ascent.</em> <em>See also</em> <a href=\"https://ref.ly/Ps122:3-Ps122:4\">PSA 122:3–122:4</a>; <a href=\"https://ref.ly/Isa2:3\">ISA 2:3</a>, <a href=\"https://ref.ly/Isa30:29\">ISA 30:29</a>; <a href=\"https://ref.ly/Zech14:17\">ZEC 14:17</a></p>\n<h2>Figurative climbing</h2>\n<p><strong><a href=\"https://ref.ly/Ps139:8\">PSA 139:8</a></strong>; <strong><a href=\"https://ref.ly/Jer9:21\">JER 9:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen28:12\">GEN 28:12</a>, <a href=\"https://ref.ly/Gen49:22\">GEN 49:22</a>; <a href=\"https://ref.ly/Deut30:12\">DEU 30:12</a>; <a href=\"https://ref.ly/Song7:8\">SNG 7:8</a>; <a href=\"https://ref.ly/Isa14:13-Isa14:14\">ISA 14:13–14:14</a>, <a href=\"https://ref.ly/Isa24:18\">ISA 24:18</a>; <a href=\"https://ref.ly/Amos9:2\">AMO 9:2</a>; <a href=\"https://ref.ly/John1:51\">JHN 1:51</a></p>",
@@ -185,7 +185,8 @@
 "label": "8622: worship",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

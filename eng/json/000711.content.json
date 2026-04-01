@@ -2,10 +2,10 @@
 {
 "content_id": "5118",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5118: Solomon",
 "media_type": "Text",
-"index_reference": "5118: solomon",
+"index_reference": "5118",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The son of David and Bathsheba, who succeeded David as king of Israel. Noted for his great wisdom, Solomon was responsible for the building of the temple of the LORD. In his latter years, influenced by his many foreign wives, he turned to idolatry.</p>",
@@ -25,6 +25,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5120: Solomon, character of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:Ephraim.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:Ephraim",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
 }
 ]
 }

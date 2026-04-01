@@ -2,10 +2,10 @@
 {
 "content_id": "7222",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7222: exodus, events of",
 "media_type": "Text",
-"index_reference": "7222: exodus, events of",
+"index_reference": "7222",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The escape of the Israelites from slavery in Egypt and their deliverance in the crossing of the Red Sea. The beginning of a long and difficult journey under Moses' leadership to Canaan, the promised land.</p>\n<h2>God's promise of deliverance</h2>\n<p><strong><a href=\"https://ref.ly/Exod6:1-Exod6:8\">EXO 6:1–6:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod3:7-Exod3:10\">EXO 3:7–3:10</a></p>\n<h2>The LORD smites the Egyptians with ten plagues</h2>\n<p>Pharaoh refuses, despite the plagues, to let the Israelites leave:\n <a href=\"https://ref.ly/Exod11:9-Exod11:10\">EXO 11:9–11:10</a>; ; <a href=\"https://ref.ly/Ps105:26-Ps105:36\">PSA 105:26–105:36</a></p>\n<h2>The plague on the firstborn and the Passover</h2>\n<p><strong><a href=\"https://ref.ly/Exod12:31\">EXO 12:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:23\">EXO 12:23</a></p>\n<h2>The Israelites leave Egypt</h2>\n<p><strong><a href=\"https://ref.ly/Exod12:37-Exod12:41\">EXO 12:37–12:41</a></strong>; <strong><a href=\"https://ref.ly/Num33:3-Num33:5\">NUM 33:3–33:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps105:37-Ps105:38\">PSA 105:37–105:38</a></p>\n<h2>The crossing of the Red Sea</h2>\n<p><strong><a href=\"https://ref.ly/Exod14:29-Exod14:31\">EXO 14:29–14:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod13:17-Exod14:28\">EXO 13:17–14:28</a></p>\n<h2>The Israelites' travels: described in detail in Exodus, Numbers, Deuteronomy and Joshua</h2>\n<p><a href=\"https://ref.ly/Num33:6-Num33:48\">NUM 33:6–33:48</a></p>\n<h2>God's mighty deliverance remembered in confession</h2>\n<p><strong><a href=\"https://ref.ly/Ps106:6-Ps106:7\">PSA 106:6–106:7</a></strong>; <strong><a href=\"https://ref.ly/Dan9:15\">DAN 9:15</a></strong></p>\n<h2>Events of the exodus: remembered in the Passover Feast</h2>\n<p><strong><a href=\"https://ref.ly/Exod12:24-Exod12:28\">EXO 12:24–12:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh5:10\">JOS 5:10</a></p>",
@@ -164,6 +164,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7406: Passover",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:GerizimMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mount Gerizim"
 }
 ]
 }

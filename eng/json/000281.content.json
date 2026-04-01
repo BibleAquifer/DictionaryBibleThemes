@@ -2,10 +2,10 @@
 {
 "content_id": "3263",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3263: Holy Spirit, guidance of",
 "media_type": "Text",
-"index_reference": "3263: holy spirit, guidance of",
+"index_reference": "3263",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The Holy Spirit gives guidance to groups and individuals facing challenges, decisions and difficulties. Such guidance, however given, effectively specifies the will of God in situations of choice within the biblically established guidelines of righteousness.</p>\n<h2>Knowing divine guidance is associated with the presence of the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/Isa63:11-Isa63:14\">ISA 63:11–63:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs18:12\">1KI 18:12</a>; <a href=\"https://ref.ly/Ps139:7-Ps139:10\">PSA 139:7–139:10</a></p>\n<h2>The Holy Spirit guides Jesus Christ in his ministry</h2>\n<p><strong><a href=\"https://ref.ly/Luke4:1\">LUK 4:1</a></strong> parallels <a href=\"https://ref.ly/Matt4:1\">MAT 4:1</a>, <a href=\"https://ref.ly/Mark1:12\">MRK 1:12</a> <em>See also</em> <a href=\"https://ref.ly/Acts10:37-Acts10:38\">ACT 10:37–10:38</a></p>\n<h2>The Holy Spirit guides the church in its corporate decisions</h2>\n<p><strong><a href=\"https://ref.ly/Acts13:2\">ACT 13:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts15:28\">ACT 15:28</a></p>\n<h2>The Holy Spirit's guidance of believers</h2>\n<h3>The Holy Spirit guides individual believers</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:14\">ROM 8:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal5:18\">GAL 5:18</a></p>\n<h3>He guides through the word of God, spiritually understood and kept before the mind</h3>\n<p><a href=\"https://ref.ly/Isa59:21\">ISA 59:21</a></p>\n<h3>He guides in prayer</h3>\n<p><a href=\"https://ref.ly/Rom8:26-Rom8:27\">ROM 8:26–8:27</a></p>\n<h3>He guides through spiritual gifts</h3>\n<p><a href=\"https://ref.ly/1Cor12:7-1Cor12:11\">1CO 12:7–12:11</a></p>\n<h3>He guides in Christian living</h3>\n<p><a href=\"https://ref.ly/Rom8:14\">ROM 8:14</a>; ; <a href=\"https://ref.ly/Gal5:25\">GAL 5:25</a></p>\n<h3>He guides in witness and evangelism</h3>\n<p><strong><a href=\"https://ref.ly/Mark13:11\">MRK 13:11</a></strong> parallels <a href=\"https://ref.ly/Matt10:19-Matt10:20\">MAT 10:19–10:20</a>, <a href=\"https://ref.ly/Luke12:11-Luke12:12\">LUK 12:11–12:12</a><strong><a href=\"https://ref.ly/Acts8:29\">ACT 8:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor2:13\">1CO 2:13</a></p>\n<h3>He guides in ministry</h3>\n<p><a href=\"https://ref.ly/Acts16:6-Acts16:7\">ACT 16:6–16:7</a>, <a href=\"https://ref.ly/Acts20:22\">ACT 20:22</a></p>\n<h3>He guides into a knowledge of truth</h3>\n<p><a href=\"https://ref.ly/John16:13\">JHN 16:13</a></p>",
@@ -199,6 +199,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8409: decision-making, and providence",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Aaron",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Aaron"
 }
 ]
 }

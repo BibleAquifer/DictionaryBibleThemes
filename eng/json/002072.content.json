@@ -2,10 +2,10 @@
 {
 "content_id": "8230",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8230: discipline",
 "media_type": "Text",
-"index_reference": "8230: discipline",
+"index_reference": "8230",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Loving and corrective training that leads to maturity and responsibility on the part of those who experience it.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8232: discipline, in the family",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Sephar",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sephar"
 }
 ]
 }

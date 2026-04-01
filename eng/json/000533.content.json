@@ -2,10 +2,10 @@
 {
 "content_id": "4806",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4806: cold",
 "media_type": "Text",
-"index_reference": "4806: cold",
+"index_reference": "4806",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Cold as part of the seasonal rhythm of the year</h2>\n<p><strong><a href=\"https://ref.ly/Gen8:22\">GEN 8:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job37:9\">JOB 37:9</a></p>\n<h2>Cold as an aspect of the night</h2>\n<p><strong><a href=\"https://ref.ly/Gen31:40\">GEN 31:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job24:7\">JOB 24:7</a>; <a href=\"https://ref.ly/Jer36:30\">JER 36:30</a></p>\n<h2>Cold as a source of discomfort</h2>\n<p><strong><a href=\"https://ref.ly/2Cor11:27\">2CO 11:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov25:20\">PRO 25:20</a>; <a href=\"https://ref.ly/John18:18\">JHN 18:18</a>; <a href=\"https://ref.ly/Acts28:2\">ACT 28:2</a></p>\n<h2>Cold as a source of refreshment</h2>\n<p><strong><a href=\"https://ref.ly/Prov25:25\">PRO 25:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov25:13\">PRO 25:13</a>; <a href=\"https://ref.ly/Matt10:42\">MAT 10:42</a></p>",
@@ -126,6 +126,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5132: biting",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Demas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Demas"
 }
 ]
 }

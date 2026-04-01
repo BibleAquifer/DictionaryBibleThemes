@@ -2,10 +2,10 @@
 {
 "content_id": "4827",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4827: frost",
 "media_type": "Text",
-"index_reference": "4827: frost",
+"index_reference": "4827",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A covering of the ground with fine particles of ice, characteristic of cold weather.</p>\n<h2>Frost is under God's control</h2>\n<p><strong><a href=\"https://ref.ly/Ps147:16\">PSA 147:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job38:29\">JOB 38:29</a></p>\n<h2>Frost will be absent on the day of the LORD</h2>\n<p><a href=\"https://ref.ly/Zech14:6\">ZEC 14:6</a></p>",
@@ -59,7 +59,8 @@
 "label": "4970: seasons, of the year",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

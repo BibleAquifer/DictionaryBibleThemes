@@ -2,10 +2,10 @@
 {
 "content_id": "3035",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3035: Holy Spirit, presence of",
 "media_type": "Text",
-"index_reference": "3035: holy spirit, presence of",
+"index_reference": "3035",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Present throughout the world, the Holy Spirit convicts the world of sin and brings peace and comfort to believers through his refreshing and restoring presence.</p>\n<h2>The Holy Spirit is present and active in creation</h2>\n<p><strong><a href=\"https://ref.ly/Gen1:2\">GEN 1:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job33:4\">JOB 33:4</a>; <a href=\"https://ref.ly/Ps104:30\">PSA 104:30</a></p>\n<h2>The Holy Spirit is present everywhere</h2>\n<p><strong><a href=\"https://ref.ly/Ps139:7\">PSA 139:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts20:23\">ACT 20:23</a></p>\n<h3>He is equated with God's presence</h3>\n<p><strong><a href=\"https://ref.ly/Ps51:11\">PSA 51:11</a></strong></p>\n<h3>He is present with God's people</h3>\n<p><strong><a href=\"https://ref.ly/Hag2:5\">HAG 2:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa59:21\">ISA 59:21</a>, <a href=\"https://ref.ly/Isa63:10-Isa63:14\">ISA 63:10–63:14</a>; <a href=\"https://ref.ly/Ezek36:27\">EZK 36:27</a>, <a href=\"https://ref.ly/Ezek37:14\">EZK 37:14</a>; <a href=\"https://ref.ly/1Cor3:16\">1CO 3:16</a>; <a href=\"https://ref.ly/Eph2:22\">EPH 2:22</a></p>\n<h3>He is present in Jesus Christ's ministry</h3>\n<p><a href=\"https://ref.ly/Luke4:14\">LUK 4:14</a>, <a href=\"https://ref.ly/Luke4:18\">LUK 4:18</a>, <a href=\"https://ref.ly/Luke5:17\">LUK 5:17</a>, <a href=\"https://ref.ly/Luke6:19\">LUK 6:19</a>, <a href=\"https://ref.ly/Luke10:21\">LUK 10:21</a>; ; <a href=\"https://ref.ly/Acts10:38\">ACT 10:38</a></p>\n<h3>He is present with Jesus Christ's disciples</h3>\n<p><strong><a href=\"https://ref.ly/John14:16-John14:17\">JHN 14:16–14:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/John14:26\">JHN 14:26</a>, <a href=\"https://ref.ly/John15:26-John15:27\">JHN 15:26–15:27</a></p>\n<h2>The consequences of the Holy Spirit's presence in the church</h2>\n<h3>He convicts of sin</h3>\n<p><a href=\"https://ref.ly/John16:7-John16:11\">JHN 16:7–16:11</a>; ; <a href=\"https://ref.ly/1Thess1:5\">1TH 1:5</a></p>\n<h3>He gives direction</h3>\n<p><a href=\"https://ref.ly/Acts13:2\">ACT 13:2</a>, <a href=\"https://ref.ly/Acts15:28\">ACT 15:28</a></p>\n<h3>He transforms experience</h3>\n<p><strong><a href=\"https://ref.ly/Phil1:19\">PHP 1:19</a></strong></p>\n<h3>He encourages</h3>\n<p><strong><a href=\"https://ref.ly/Acts9:31\">ACT 9:31</a></strong></p>\n<h3>He empowers Christians for witness</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Acts1:8\">ACT 1:8</a>, <a href=\"https://ref.ly/Acts6:10\">ACT 6:10</a></p>\n<h3>He sanctifies</h3>\n<p><strong><a href=\"https://ref.ly/2Cor3:18\">2CO 3:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom15:16\">ROM 15:16</a>; <a href=\"https://ref.ly/2Thess2:13\">2TH 2:13</a>; <a href=\"https://ref.ly/1Pet1:2\">1PE 1:2</a></p>\n<h2>The Holy Spirit's presence has observable effects</h2>\n<p><strong><a href=\"https://ref.ly/2Cor3:3\">2CO 3:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/John3:21\">JHN 3:21</a>; <a href=\"https://ref.ly/Acts11:23\">ACT 11:23</a></p>\n<h3>He brings blessing and fellowship</h3>\n<p><strong><a href=\"https://ref.ly/2Cor13:14\">2CO 13:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil2:1\">PHP 2:1</a>; <a href=\"https://ref.ly/1Pet4:14\">1PE 4:14</a></p>\n<h3>He brings freedom and peace</h3>\n<p><strong><a href=\"https://ref.ly/2Cor3:17\">2CO 3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:2\">ROM 8:2</a>, <a href=\"https://ref.ly/Rom8:5-Rom8:9\">ROM 8:5–8:9</a></p>\n<h3>He brings life</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:10-Rom8:11\">ROM 8:10–8:11</a></strong></p>",
@@ -360,6 +360,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8495: witnessing",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.6189,
+"match_method": "scored",
+"preferred_label": "Holy Spirit"
 }
 ]
 }

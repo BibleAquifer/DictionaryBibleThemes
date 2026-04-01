@@ -2,10 +2,10 @@
 {
 "content_id": "5233",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5233: borrowing",
 "media_type": "Text",
-"index_reference": "5233: borrowing",
+"index_reference": "5233",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Asking for and receiving money or goods for temporary use as a neighbourly kindness.</p>\n<h2>Believers should respond to requests to borrow</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:42\">MAT 5:42</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut15:7-Deut15:11\">DEU 15:7–15:11</a>; <a href=\"https://ref.ly/Luke6:35\">LUK 6:35</a>, <a href=\"https://ref.ly/Luke11:5-Luke11:8\">LUK 11:5–11:8</a></p>\n<h2>God's blessing on Israel made borrowing unnecessary</h2>\n<p><strong><a href=\"https://ref.ly/Deut28:12\">DEU 28:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut15:6\">DEU 15:6</a></p>\n<h2>The responsibilities of those who borrow</h2>\n<h3>Repayment</h3>\n<p><a href=\"https://ref.ly/Ps37:21\">PSA 37:21</a>; ; <a href=\"https://ref.ly/Rom13:8\">ROM 13:8</a></p>\n<h3>Restitution</h3>\n<p><a href=\"https://ref.ly/Exod22:14-Exod22:15\">EXO 22:14–22:15</a>; ; <a href=\"https://ref.ly/2Kgs6:5-2Kgs6:7\">2KI 6:5–6:7</a></p>\n<h2>Borrowing can bring debt and servitude</h2>\n<p><strong><a href=\"https://ref.ly/Prov22:7\">PRO 22:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt18:23-Matt18:25\">MAT 18:23–18:25</a></p>\n<h2>Security for borrowing</h2>\n<h3>Warnings against putting up security</h3>\n<p><strong><a href=\"https://ref.ly/Prov11:15\">PRO 11:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:1-Prov6:5\">PRO 6:1–6:5</a>, <a href=\"https://ref.ly/Prov17:18\">PRO 17:18</a>, <a href=\"https://ref.ly/Prov22:26-Prov22:27\">PRO 22:26–22:27</a></p>\n<h3>Security may be required</h3>\n<p><a href=\"https://ref.ly/Prov20:16\">PRO 20:16</a>, <a href=\"https://ref.ly/Prov27:13\">PRO 27:13</a></p>\n<h3>Security must be just</h3>\n<p><strong><a href=\"https://ref.ly/Deut24:6\">DEU 24:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job22:6\">JOB 22:6</a>; <a href=\"https://ref.ly/Neh5:3-Neh5:13\">NEH 5:3–5:13</a></p>\n<h2>Jesus Christ was willing to borrow</h2>\n<h3>Examples of borrowing</h3>\n<p><strong><a href=\"https://ref.ly/Luke5:3\">LUK 5:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt21:1-Matt21:3\">MAT 21:1–21:3</a> parallels <a href=\"https://ref.ly/Mark11:1-Mark11:3\">MRK 11:1–11:3</a>, <a href=\"https://ref.ly/Luke19:30-Luke19:31\">LUK 19:30–19:31</a>; <a href=\"https://ref.ly/Matt26:17-Matt26:19\">MAT 26:17–26:19</a> parallels <a href=\"https://ref.ly/Mark14:12-Mark14:16\">MRK 14:12–14:16</a>, <a href=\"https://ref.ly/Luke22:10-Luke22:12\">LUK 22:10–22:12</a></p>\n<h3>Other examples</h3>\n<p><a href=\"https://ref.ly/Exod3:21-Exod3:22\">EXO 3:21–3:22</a>, <a href=\"https://ref.ly/Exod11:2-Exod11:3\">EXO 11:2–11:3</a>, <a href=\"https://ref.ly/Exod12:35-Exod12:36\">EXO 12:35–12:36</a>; ; <a href=\"https://ref.ly/2Kgs4:3\">2KI 4:3</a>; ; <a href=\"https://ref.ly/Neh5:3\">NEH 5:3</a></p>",
@@ -253,7 +253,8 @@
 "label": "8434: giving",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

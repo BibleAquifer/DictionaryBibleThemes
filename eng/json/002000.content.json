@@ -2,10 +2,10 @@
 {
 "content_id": "8100",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8100: The life of faith",
 "media_type": "Text",
-"index_reference": "8100: the life of faith",
+"index_reference": "8100",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"8102\" data-resourcetype=\"DictionaryOfBibleThemes\">8102: abiding in Christ</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8104\" data-resourcetype=\"DictionaryOfBibleThemes\">8104: assurance</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8110\" data-resourcetype=\"DictionaryOfBibleThemes\">8110: athletics</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8112\" data-resourcetype=\"DictionaryOfBibleThemes\">8112: certainty</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8114\" data-resourcetype=\"DictionaryOfBibleThemes\">8114: discipleship</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8120\" data-resourcetype=\"DictionaryOfBibleThemes\">8120: following Jesus Christ</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8122\" data-resourcetype=\"DictionaryOfBibleThemes\">8122: friendship, with God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8124\" data-resourcetype=\"DictionaryOfBibleThemes\">8124: guidance</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8134\" data-resourcetype=\"DictionaryOfBibleThemes\">8134: knowing God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8138\" data-resourcetype=\"DictionaryOfBibleThemes\">8138: monotheism</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8140\" data-resourcetype=\"DictionaryOfBibleThemes\">8140: prize</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8142\" data-resourcetype=\"DictionaryOfBibleThemes\">8142: religion</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8144\" data-resourcetype=\"DictionaryOfBibleThemes\">8144: renewal</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8148\" data-resourcetype=\"DictionaryOfBibleThemes\">8148: revival</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8154\" data-resourcetype=\"DictionaryOfBibleThemes\">8154: righteousness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8160\" data-resourcetype=\"DictionaryOfBibleThemes\">8160: seeking God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8162\" data-resourcetype=\"DictionaryOfBibleThemes\">8162: spiritual vitality</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8164\" data-resourcetype=\"DictionaryOfBibleThemes\">8164: spirituality</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8166\" data-resourcetype=\"DictionaryOfBibleThemes\">8166: theology</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8168\" data-resourcetype=\"DictionaryOfBibleThemes\">8168: way, the</span></li></ul>",
@@ -151,6 +151,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8168: way, the",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Salamis",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Salamis"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "6653",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6653: forgiveness, divine",
 "media_type": "Text",
-"index_reference": "6653: forgiveness, divine",
+"index_reference": "6653",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God forgives the sins of believers on the basis of the once for all sacrifice offered by Jesus Christ on the cross. Believers' sins are no longer held against them, on account of the atoning death of Jesus Christ.</p>\n<h2>God's nature and forgiveness</h2>\n<p><strong><a href=\"https://ref.ly/Exod34:5-Exod34:7\">EXO 34:5–34:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num14:17-Num14:20\">NUM 14:17–14:20</a>; <a href=\"https://ref.ly/Neh9:16-Neh9:17\">NEH 9:16–9:17</a>; <a href=\"https://ref.ly/Ps103:1-Ps103:18\">PSA 103:1–103:18</a>; <a href=\"https://ref.ly/Isa43:25\">ISA 43:25</a>; <a href=\"https://ref.ly/Mic7:18-Mic7:20\">MIC 7:18–7:20</a>; <a href=\"https://ref.ly/1John1:8-1John1:9\">1JN 1:8–1:9</a></p>\n<h2>God's promise of forgiveness</h2>\n<p><strong><a href=\"https://ref.ly/Jer31:31-Jer31:34\">JER 31:31–31:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr7:14\">2CH 7:14</a>; <a href=\"https://ref.ly/Isa55:6-Isa55:7\">ISA 55:6–55:7</a>; <a href=\"https://ref.ly/Heb8:8-Heb8:12\">HEB 8:8–8:12</a></p>\n<h2>People's need of forgiveness</h2>\n<p><strong><a href=\"https://ref.ly/1John1:8-1John1:10\">1JN 1:8–1:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps51:1-Ps51:5\">PSA 51:1–51:5</a>; <a href=\"https://ref.ly/Isa6:1-Isa6:5\">ISA 6:1–6:5</a>; <a href=\"https://ref.ly/Rom3:9\">ROM 3:9</a>, <a href=\"https://ref.ly/Rom3:23\">ROM 3:23</a></p>\n<h2>The means of forgiveness</h2>\n<h3>Under the old covenant</h3>\n<p><strong><a href=\"https://ref.ly/Heb9:22\">HEB 9:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev4:27-Lev4:31\">LEV 4:27–4:31</a>, <a href=\"https://ref.ly/Lev5:17-Lev5:18\">LEV 5:17–5:18</a></p>\n<h3>Under the new covenant</h3>\n<p><strong><a href=\"https://ref.ly/Matt26:27-Matt26:28\">MAT 26:27–26:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/John1:29\">JHN 1:29</a>; <a href=\"https://ref.ly/Eph1:7-Eph1:8\">EPH 1:7–1:8</a>; <a href=\"https://ref.ly/Col2:13-Col2:15\">COL 2:13–2:15</a></p>\n<h2>The assurance of forgiveness</h2>\n<p><strong><a href=\"https://ref.ly/1John1:8-1John1:9\">1JN 1:8–1:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps51:7\">PSA 51:7</a>, <a href=\"https://ref.ly/Ps103:8-Ps103:12\">PSA 103:8–103:12</a>, <a href=\"https://ref.ly/Ps130:3-Ps130:4\">PSA 130:3–130:4</a>; <a href=\"https://ref.ly/Prov28:13\">PRO 28:13</a>; <a href=\"https://ref.ly/Isa1:18\">ISA 1:18</a>; <a href=\"https://ref.ly/Acts2:38\">ACT 2:38</a>; <a href=\"https://ref.ly/Jas5:13-Jas5:16\">JAS 5:13–5:16</a>; <a href=\"https://ref.ly/1John2:1-1John2:2\">1JN 2:1–2:2</a></p>",
@@ -282,6 +282,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8104: assurance",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Laadah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Laadah"
 }
 ]
 }

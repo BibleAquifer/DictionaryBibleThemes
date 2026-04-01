@@ -2,10 +2,10 @@
 {
 "content_id": "9135",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9135: immortality",
 "media_type": "Text",
-"index_reference": "9135: immortality",
+"index_reference": "9135",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The quality of enduring into eternity, which Scripture insists belongs to God alone. However, God bestows the gift of eternal life and immortality upon those who believe and trust in him.</p>",
@@ -26,7 +26,8 @@
 "label": "9137: immortality, in NT",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5275",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5275: cremation",
 "media_type": "Text",
-"index_reference": "5275: cremation",
+"index_reference": "5275",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The burning of a dead body. Cremation was not practised by Israel or the first Christians. In difficult circumstances a corpse might be burnt and the remains buried</h2>\n<h2>Cremation of corpses</h2>\n<p><strong><a href=\"https://ref.ly/1Sam31:12-1Sam31:13\">1SA 31:12–31:13</a></strong> <em>This was done to prevent any further abuse of the bodies by the Philistines. David later reburied the remains in a family grave (see <a href=\"https://ref.ly/2Sam21:12-2Sam21:14\">2Sa 21:12–14</a>).</em></p>\n<h2>Burning a body as a punishment</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Lev20:14\">LEV 20:14</a>, <a href=\"https://ref.ly/Lev21:9\">LEV 21:9</a>; <a href=\"https://ref.ly/Josh7:15\">JOS 7:15</a>, <a href=\"https://ref.ly/Josh7:25\">JOS 7:25</a>; <a href=\"https://ref.ly/2Kgs23:20\">2KI 23:20</a></p>\n<h2>Funeral fires for the kings of Judah</h2>\n<p>These were not for the purpose of cremating the king's corpse, but public demonstrations in his honour:\n <a href=\"https://ref.ly/2Chr16:14\">2CH 16:14</a>; ; <a href=\"https://ref.ly/Jer34:5\">JER 34:5</a></p>",
@@ -101,6 +101,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9030: dead bodies",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Flea",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Flea"
 }
 ]
 }

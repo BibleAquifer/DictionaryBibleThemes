@@ -2,10 +2,10 @@
 {
 "content_id": "5008",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5008: conscience",
 "media_type": "Text",
-"index_reference": "5008: conscience",
+"index_reference": "5008",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An innate ability to discern the difference between right and wrong, which Scripture describes as having its origin in God himself.</p>",
@@ -26,7 +26,8 @@
 "label": "5010: conscience, matters of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

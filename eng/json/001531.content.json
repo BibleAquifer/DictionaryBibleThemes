@@ -2,10 +2,10 @@
 {
 "content_id": "6160",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6160: fathers, sin of the",
 "media_type": "Text",
-"index_reference": "6160: fathers, sin of the",
+"index_reference": "6160",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Children may suffer on account of the sins committed by their forebears, just as they may also be blessed for their sake. Nevertheless, Scripture teaches that each individual must take responsibility for his or her own sin.</p>\n<h2>Children suffer the ill-effects of their fathers' sins</h2>\n<p><strong><a href=\"https://ref.ly/Exod34:6-Exod34:7\">EXO 34:6–34:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:4-Exod20:6\">EXO 20:4–20:6</a> parallel <a href=\"https://ref.ly/Deut5:8-Deut5:10\">DEU 5:8–5:10</a>; <a href=\"https://ref.ly/Lev26:39\">LEV 26:39</a>; <a href=\"https://ref.ly/Num14:18\">NUM 14:18</a>, <a href=\"https://ref.ly/Num14:31-Num14:33\">NUM 14:31–14:33</a>; <a href=\"https://ref.ly/Josh7:24-Josh7:25\">JOS 7:24–7:25</a>; <a href=\"https://ref.ly/1Kgs16:34\">1KI 16:34</a>; <a href=\"https://ref.ly/Josh6:26\">JOS 6:26</a>; <a href=\"https://ref.ly/Job21:19\">JOB 21:19</a>; <a href=\"https://ref.ly/Isa14:21\">ISA 14:21</a>; <a href=\"https://ref.ly/Jer32:18\">JER 32:18</a></p>\n<h2>The exilic prophets emphasised individual responsibility for sin</h2>\n<p><strong><a href=\"https://ref.ly/Ezek18:20\">EZK 18:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer31:29-Jer31:30\">JER 31:29–31:30</a>; <a href=\"https://ref.ly/Ezek18:1-Ezek18:20\">EZK 18:1–18:20</a></p>\n<h2>Children share in the blessing of their fathers</h2>\n<p><strong><a href=\"https://ref.ly/Gen17:4-Gen17:7\">GEN 17:4–17:7</a>, <a href=\"https://ref.ly/Gen26:24\">GEN 26:24</a></strong>; <strong><a href=\"https://ref.ly/Deut7:9\">DEU 7:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:17-Gen6:18\">GEN 6:17–6:18</a>, <a href=\"https://ref.ly/Gen15:18-Gen15:19\">GEN 15:18–15:19</a>; <a href=\"https://ref.ly/Exod2:23-Exod2:25\">EXO 2:23–2:25</a>, <a href=\"https://ref.ly/Exod20:4-Exod20:6\">EXO 20:4–20:6</a> parallel <a href=\"https://ref.ly/Deut5:8-Deut5:10\">DEU 5:8–5:10</a>; <a href=\"https://ref.ly/Num25:10-Num25:13\">NUM 25:10–25:13</a>; <a href=\"https://ref.ly/2Sam7:11-2Sam7:16\">2SA 7:11–7:16</a>; <a href=\"https://ref.ly/1Kgs11:12-1Kgs11:13\">1KI 11:12–11:13</a>, <a href=\"https://ref.ly/1Kgs11:31-1Kgs11:34\">1KI 11:31–11:34</a>; <a href=\"https://ref.ly/Luke1:50\">LUK 1:50</a>; <a href=\"https://ref.ly/Rom11:28-Rom11:29\">ROM 11:28–11:29</a></p>",
@@ -223,6 +223,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6020: sin",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Jackal",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jackal"
 }
 ]
 }

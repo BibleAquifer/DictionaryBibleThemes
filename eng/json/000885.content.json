@@ -2,10 +2,10 @@
 {
 "content_id": "5298",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5298: doctors",
 "media_type": "Text",
-"index_reference": "5298: doctors",
+"index_reference": "5298",
 "language": "eng",
 "review_level": "None",
 "content": "<p>People who are qualified in medicine and treat those who are ill. Doctors do not feature extensively in Scripture; rather God is portrayed as the source of health and healing for his people. Prophets were sometimes intermediaries in healing and priests were responsible for diagnosing certain diseases in accordance with the law. Luke, the author of the Gospel of that name and Acts, was a doctor.</p>\n<h2>God as the source of physical health and healing</h2>\n<p><strong><a href=\"https://ref.ly/Exod15:26\">EXO 15:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num12:10-Num12:15\">NUM 12:10–12:15</a>, <a href=\"https://ref.ly/Num21:4-Num21:9\">NUM 21:4–21:9</a>; <a href=\"https://ref.ly/Deut32:39\">DEU 32:39</a>; <a href=\"https://ref.ly/Ps6:2\">PSA 6:2</a></p>\n<h2>God as the source of spiritual healing</h2>\n<p><strong><a href=\"https://ref.ly/Job5:18\">JOB 5:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa53:5\">ISA 53:5</a>; <a href=\"https://ref.ly/Jer33:6\">JER 33:6</a>; <a href=\"https://ref.ly/Hos6:1\">HOS 6:1</a></p>\n<h2>Jesus Christ as a healer</h2>\n<p><strong><a href=\"https://ref.ly/Matt8:16-Matt8:17\">MAT 8:16–8:17</a></strong> parallels <a href=\"https://ref.ly/Mark1:32-Mark1:34\">MRK 1:32–1:34</a>, <a href=\"https://ref.ly/Luke4:40\">LUK 4:40</a> <em>See also</em> <a href=\"https://ref.ly/Isa53:4\">ISA 53:4</a>; <a href=\"https://ref.ly/Matt4:24\">MAT 4:24</a>, <a href=\"https://ref.ly/Matt14:14\">MAT 14:14</a> parallel <a href=\"https://ref.ly/Luke9:11\">LUK 9:11</a></p>\n<h2>Prophets as intermediaries in healing</h2>\n<p><a href=\"https://ref.ly/2Kgs5:1-2Kgs5:14\">2KI 5:1–5:14</a>, <a href=\"https://ref.ly/2Kgs20:1-2Kgs20:7\">2KI 20:1–20:7</a> parallels <a href=\"https://ref.ly/2Chr32:24\">2CH 32:24</a>, <a href=\"https://ref.ly/Isa38:1-Isa38:5\">ISA 38:1–38:5</a>; ; <a href=\"https://ref.ly/Isa38:21\">ISA 38:21</a></p>\n<h2>Priests in a medical role</h2>\n<p><a href=\"https://ref.ly/Lev13:1-Lev13:46\">LEV 13:1–13:46</a>, <a href=\"https://ref.ly/Lev15:1-Lev15:33\">LEV 15:1–15:33</a></p>\n<h2>Medical treatments mentioned in Scripture</h2>\n<h3>Use of oils and emollients on wounds</h3>\n<p><strong><a href=\"https://ref.ly/Isa1:6\">ISA 1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer46:11\">JER 46:11</a></p>\n<h3>Splinting and bandaging of broken limbs</h3>\n<p><strong><a href=\"https://ref.ly/Ezek30:21\">EZK 30:21</a></strong></p>\n<h3>Poultices</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs20:7\">2KI 20:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa38:21\">ISA 38:21</a></p>\n<h2>Human doctors mentioned in Scripture</h2>\n<h3>Their limited ability contrasted with God's power</h3>\n<p><strong><a href=\"https://ref.ly/2Chr16:12-2Chr16:13\">2CH 16:12–16:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job13:4\">JOB 13:4</a>; <a href=\"https://ref.ly/Mark5:25-Mark5:29\">MRK 5:25–5:29</a> parallel <a href=\"https://ref.ly/Luke8:43-Luke8:44\">LUK 8:43–8:44</a></p>\n<h3>Non-Israelite doctors</h3>\n<p><strong><a href=\"https://ref.ly/Gen50:2\">GEN 50:2</a></strong> <em>These were Egyptian physicians.</em> <em>See also</em> <a href=\"https://ref.ly/Col4:14\">COL 4:14</a> <em>Luke was a Greek.</em></p>\n<h3>Figurative use</h3>\n<p><strong><a href=\"https://ref.ly/Mark2:17\">MRK 2:17</a></strong> parallels <a href=\"https://ref.ly/Matt9:12\">MAT 9:12</a>, <a href=\"https://ref.ly/Luke5:31\">LUK 5:31</a> <em>See also</em> <a href=\"https://ref.ly/Luke4:23\">LUK 4:23</a></p>",
@@ -311,6 +311,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5571: surgery",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Fortunatus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fortunatus"
 }
 ]
 }

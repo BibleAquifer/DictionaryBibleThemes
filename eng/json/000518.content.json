@@ -2,10 +2,10 @@
 {
 "content_id": "4672",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4672: manger",
 "media_type": "Text",
-"index_reference": "4672: manger",
+"index_reference": "4672",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A feeding trough in a stable or stall, filled with fodder for donkeys, oxen, etc. The term is also used to refer to the stall in which animals were kept. The newborn Jesus was laid in a manger because there was no room at an inn.</p>\n<h2>A feeding place for livestock</h2>\n<h3>Recognised by the animals of the household</h3>\n<p><strong><a href=\"https://ref.ly/Isa1:3\">ISA 1:3</a></strong> <em>Israel is like a wild animal which does not recognise or accept God's provision.</em> <em>See also</em> <a href=\"https://ref.ly/Job39:9\">JOB 39:9</a></p>\n<h3>Provision for farm animals</h3>\n<p><strong><a href=\"https://ref.ly/Prov14:4\">PRO 14:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov12:10\">PRO 12:10</a>; <a href=\"https://ref.ly/Isa30:24\">ISA 30:24</a></p>\n<h3>Provision for beasts of burden</h3>\n<p><strong><a href=\"https://ref.ly/Gen24:32\">GEN 24:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen24:25\">GEN 24:25</a>, <a href=\"https://ref.ly/Gen42:27\">GEN 42:27</a>; <a href=\"https://ref.ly/Judg19:19\">JDG 19:19</a></p>\n<h2>Jesus Christ laid in a manger</h2>\n<p><strong><a href=\"https://ref.ly/Luke2:7\">LUK 2:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke2:12\">LUK 2:12</a>, <a href=\"https://ref.ly/Luke2:16\">LUK 2:16</a></p>\n<h2>Farm animals kept in stalls</h2>\n<h3>Cattle kept in stalls</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs4:23\">1KI 4:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr32:28\">2CH 32:28</a>; <a href=\"https://ref.ly/Ps50:9\">PSA 50:9</a>; <a href=\"https://ref.ly/Hab3:17\">HAB 3:17</a>; <a href=\"https://ref.ly/Mal4:2\">MAL 4:2</a></p>\n<h3>Other animals kept in stalls</h3>\n<p><a href=\"https://ref.ly/1Kgs4:26\">1KI 4:26</a> parallel <a href=\"https://ref.ly/2Chr9:25\">2CH 9:25</a>; ; <a href=\"https://ref.ly/Luke13:15\">LUK 13:15</a></p>",
@@ -160,6 +160,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4603: animals",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Manger",
+"type": "realia",
+"confidence": 0.5895,
+"match_method": "scored",
+"preferred_label": "Manger"
 }
 ]
 }

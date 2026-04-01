@@ -2,10 +2,10 @@
 {
 "content_id": "5232",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5232: book",
 "media_type": "Text",
-"index_reference": "5232: book",
+"index_reference": "5232",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Used most frequently to refer to a particular book of the Bible being written, another book of the Bible or a source no longer available. It is used occasionally of books in general or metaphorically of God's record of events.</p>\n<h2>References to books being written</h2>\n<p><a href=\"https://ref.ly/Jer25:13\">JER 25:13</a>, <a href=\"https://ref.ly/Jer30:2\">JER 30:2</a>; ; <a href=\"https://ref.ly/Nah1:1\">NAM 1:1</a>; ; <a href=\"https://ref.ly/John20:30\">JHN 20:30</a>; ; <a href=\"https://ref.ly/Rev22:7\">REV 22:7</a>, <a href=\"https://ref.ly/Rev22:9-Rev22:10\">REV 22:9–22:10</a>, <a href=\"https://ref.ly/Rev22:18-Rev22:19\">REV 22:18–22:19</a></p>\n<h2>References to other books of Scripture</h2>\n<p><a href=\"https://ref.ly/2Chr35:12\">2CH 35:12</a>; ; <a href=\"https://ref.ly/Ezra6:18\">EZR 6:18</a>; ; <a href=\"https://ref.ly/Neh13:1\">NEH 13:1</a>; ; <a href=\"https://ref.ly/Mark12:26\">MRK 12:26</a>; ; <a href=\"https://ref.ly/Luke3:4\">LUK 3:4</a>, <a href=\"https://ref.ly/Luke20:42\">LUK 20:42</a>; ; <a href=\"https://ref.ly/Acts1:1\">ACT 1:1</a> <em>Luke's Gospel</em>; ; <a href=\"https://ref.ly/Acts1:20\">ACT 1:20</a>, <a href=\"https://ref.ly/Acts7:42\">ACT 7:42</a>, <a href=\"https://ref.ly/Acts8:28\">ACT 8:28</a></p>\n<h2>References to books no longer available</h2>\n<h3>The Book of the Wars of the LORD</h3>\n<p><a href=\"https://ref.ly/Num21:14\">NUM 21:14</a> <em>This was probably an ancient collection of war songs in praise of God.</em></p>\n<h3>The Book of Jashar</h3>\n<p><strong><a href=\"https://ref.ly/Josh10:13\">JOS 10:13</a></strong> <em>An early account of Israel's wars, possibly in poetic form, but never a part of canonical Scripture.</em> <em>See also</em> <a href=\"https://ref.ly/2Sam1:18\">2SA 1:18</a></p>\n<h3>The book of the annals of the kings of Israel and Judah</h3>\n<p><strong><a href=\"https://ref.ly/2Chr16:11\">2CH 16:11</a></strong> <em>These sources were probably records of the reigns of the kings of Israel and Judah, compiled by the succession of Israel's prophets spanning the kingdom period (see e.g., <a href=\"https://ref.ly/1Chr29:29\">1Ch 29:29</a>; <a href=\"https://ref.ly/2Chr12:15\">2Ch 12:15</a>; <a href=\"https://ref.ly/2Chr20:34\">20:34</a>; <a href=\"https://ref.ly/2Chr26:22\">26:22</a>; <a href=\"https://ref.ly/2Chr32:32\">32:32</a>).</em> <em>See also</em> <a href=\"https://ref.ly/1Kgs11:41\">1KI 11:41</a>, <a href=\"https://ref.ly/1Kgs14:19\">1KI 14:19</a>, <a href=\"https://ref.ly/1Kgs14:29\">1KI 14:29</a>; <a href=\"https://ref.ly/2Kgs1:18\">2KI 1:18</a>, <a href=\"https://ref.ly/2Kgs8:23\">2KI 8:23</a>; <a href=\"https://ref.ly/1Chr9:1\">1CH 9:1</a>, <a href=\"https://ref.ly/1Chr27:24\">1CH 27:24</a>; <a href=\"https://ref.ly/2Chr24:27\">2CH 24:27</a>, <a href=\"https://ref.ly/2Chr27:7\">2CH 27:7</a></p>\n<h3>The book of the annals</h3>\n<p><a href=\"https://ref.ly/Neh12:23\">NEH 12:23</a> <em>This was probably the official temple chronicle, containing various lists and records (compare with <a href=\"https://ref.ly/Neh7:5\">Ne 7:5</a>).</em>; <a href=\"https://ref.ly/Esth2:23\">EST 2:23</a>, <a href=\"https://ref.ly/Esth6:1\">EST 6:1</a>, <a href=\"https://ref.ly/Esth10:2\">EST 10:2</a></p>\n<h2>References to books in general</h2>\n<p><strong><a href=\"https://ref.ly/Eccl12:12\">ECC 12:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/John21:25\">JHN 21:25</a>; <a href=\"https://ref.ly/Acts19:19\">ACT 19:19</a> <em>as sources of magical knowledge</em></p>\n<h2>Books used metaphorically of God's infallible record of events</h2>\n<p><strong><a href=\"https://ref.ly/Rev20:11-Rev20:12\">REV 20:11–20:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan7:10\">DAN 7:10</a>, <a href=\"https://ref.ly/Dan10:21\">DAN 10:21</a>, <a href=\"https://ref.ly/Dan12:1\">DAN 12:1</a></p>",
@@ -358,7 +358,8 @@
 "label": "9420: book of life",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

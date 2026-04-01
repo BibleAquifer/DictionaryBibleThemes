@@ -2,10 +2,10 @@
 {
 "content_id": "4508",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4508: sickle",
 "media_type": "Text",
-"index_reference": "4508: sickle",
+"index_reference": "4508",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A cutting tool with a short handle used in harvesting grain. Early blades were made of wood lined with flint teeth; these were later replaced with curved iron blades. The cutting down of grain at harvest with a sickle is used as a symbol of God's judgment.</p>\n<h2>Sickles used to harvest grain</h2>\n<p><strong><a href=\"https://ref.ly/Mark4:29\">MRK 4:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut16:9\">DEU 16:9</a>, <a href=\"https://ref.ly/Deut23:25\">DEU 23:25</a> <em>Sickles were not to be used in another person's field</em>; <a href=\"https://ref.ly/1Sam13:19-1Sam13:21\">1SA 13:19–13:21</a>; <a href=\"https://ref.ly/Jer50:16\">JER 50:16</a></p>\n<h2>Cutting down grain as a symbol of judgment</h2>\n<p><strong><a href=\"https://ref.ly/Joel3:13\">JOL 3:13</a></strong>; <strong><a href=\"https://ref.ly/Rev14:14-Rev14:19\">REV 14:14–14:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa17:5\">ISA 17:5</a>; <a href=\"https://ref.ly/Jer51:33\">JER 51:33</a>; <a href=\"https://ref.ly/Mic4:12\">MIC 4:12</a>; <a href=\"https://ref.ly/Matt13:30\">MAT 13:30</a></p>",
@@ -127,6 +127,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Cherethite",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cherethites"
+},
+{
+"id": "realia:Sickle",
+"type": "realia",
+"confidence": 0.7362,
+"match_method": "scored",
+"preferred_label": "Sickle"
 }
 ]
 }

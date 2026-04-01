@@ -2,10 +2,10 @@
 {
 "content_id": "7745",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7745: ordination",
 "media_type": "Text",
-"index_reference": "7745: ordination",
+"index_reference": "7745",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The appointment to a public ministry or office, including investing with the authority required for this ministry. The most important biblical model of ordination is provided by the OT priesthood.</p>\n<h2>Ordination of the OT priesthood</h2>\n<h3>The ceremony of ordination</h3>\n<p><strong><a href=\"https://ref.ly/Exod28:41\">EXO 28:41</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod29:29-Exod29:46\">EXO 29:29–29:46</a>, <a href=\"https://ref.ly/Exod30:30\">EXO 30:30</a>; <a href=\"https://ref.ly/Lev8:30\">LEV 8:30</a>, <a href=\"https://ref.ly/Lev8:33\">LEV 8:33</a>; <a href=\"https://ref.ly/Num3:3\">NUM 3:3</a></p>\n<h3>The role of the ordained priest</h3>\n<p>To properly apply the blood of the ordination offering:\n <a href=\"https://ref.ly/Exod29:20-Exod29:21\">EXO 29:20–29:21</a>; ; <a href=\"https://ref.ly/Lev7:37\">LEV 7:37</a>, <a href=\"https://ref.ly/Lev8:18\">LEV 8:18</a>; \n<a href=\"https://ref.ly/Lev16:32\">LEV 16:32</a> <em>to make atonement</em>; ; <a href=\"https://ref.ly/Lev21:10-Lev21:12\">LEV 21:10–21:12</a> <em>to observe a strict code of behaviour</em></p>\n<h2>Jesus is the Messiah, the anointed one</h2>\n<p><a href=\"https://ref.ly/Matt16:16\">MAT 16:16</a> <em>The Greek word “Christos”, like the Hebrew word “Messiah”, means “anointed (by God)”.</em></p>\n<h2>Ordination in the NT</h2>\n<h3>Jesus Christ appointed disciples without reference to a ceremony of ordination</h3>\n<p><a href=\"https://ref.ly/Mark3:14-Mark3:15\">MRK 3:14–3:15</a> parallel <a href=\"https://ref.ly/Luke6:13\">LUK 6:13</a></p>\n<h3>The apostles commissioned people for service by laying on of hands</h3>\n<p><strong><a href=\"https://ref.ly/Acts6:6\">ACT 6:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num8:10-Num8:11\">NUM 8:10–8:11</a>, <a href=\"https://ref.ly/Num27:18-Num27:23\">NUM 27:18–27:23</a>; <a href=\"https://ref.ly/Acts13:3\">ACT 13:3</a> <em>Barnabas and Saul were commissioned for missionary work.</em></p>\n<h3>The appointment of elders</h3>\n<p><a href=\"https://ref.ly/Acts14:23\">ACT 14:23</a>; ; <a href=\"https://ref.ly/1Tim1:18\">1TI 1:18</a>, <a href=\"https://ref.ly/1Tim4:14\">1TI 4:14</a>, <a href=\"https://ref.ly/1Tim5:22\">1TI 5:22</a>; ; <a href=\"https://ref.ly/2Tim1:6\">2TI 1:6</a>; ; <a href=\"https://ref.ly/Titus1:5\">TIT 1:5</a>, <a href=\"https://ref.ly/Titus1:6-Titus1:9\">TIT 1:6–1:9</a> <em>Certain qualities are required in an appointed elder or minister.</em></p>",
@@ -246,6 +246,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7943: ministry, in the church",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Pisgah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pisgah"
 }
 ]
 }

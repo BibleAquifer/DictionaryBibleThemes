@@ -2,10 +2,10 @@
 {
 "content_id": "8834",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8834: unbelief",
 "media_type": "Text",
-"index_reference": "8834: unbelief",
+"index_reference": "8834",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The lack of faith and trust in God that challenges his truthfulness and finds expression in disobedience and rebellion.</p>",
@@ -33,7 +33,8 @@
 "label": "8837: unbelief, and life of faith",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

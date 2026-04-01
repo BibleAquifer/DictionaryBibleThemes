@@ -2,10 +2,10 @@
 {
 "content_id": "4224",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4224: cities of the plain",
 "media_type": "Text",
-"index_reference": "4224: cities of the plain",
+"index_reference": "4224",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The cities of the plain of the River Jordan, chosen by Lot as a place of residence</h2>\n<p><strong><a href=\"https://ref.ly/Gen13:10-Gen13:12\">GEN 13:10–13:12</a></strong></p>\n<h3>Abraham rescues their inhabitants</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Gen14:1-Gen14:24\">GEN 14:1–14:24</a></p>\n<h3>Abraham prays for their inhabitants</h3>\n<p><a href=\"https://ref.ly/Gen18:17-Gen18:33\">GEN 18:17–18:33</a></p>\n<h3>Judgment on their sin</h3>\n<p><a href=\"https://ref.ly/Gen19:1-Gen19:29\">GEN 19:1–19:29</a></p>\n<h2>The cities of the plain as symbols of sin and judgment</h2>\n<p><strong><a href=\"https://ref.ly/Deut29:23\">DEU 29:23</a></strong>; <strong><a href=\"https://ref.ly/Luke17:28-Luke17:29\">LUK 17:28–17:29</a></strong></p>",
@@ -84,7 +84,8 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

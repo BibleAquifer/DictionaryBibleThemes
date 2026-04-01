@@ -2,10 +2,10 @@
 {
 "content_id": "5265",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5265: complaints",
 "media_type": "Text",
-"index_reference": "5265: complaints",
+"index_reference": "5265",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The expression of a grievance or displeasure, usually against the actions and attitudes of others including God himself.</p>\n<h2>Complaints against God</h2>\n<h3>Israel in the wilderness</h3>\n<p><strong><a href=\"https://ref.ly/Num11:1\">NUM 11:1</a>, <a href=\"https://ref.ly/Num14:26-Num14:27\">NUM 14:26–14:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod16:8\">EXO 16:8</a>, <a href=\"https://ref.ly/Exod16:12\">EXO 16:12</a>; <a href=\"https://ref.ly/Num21:5\">NUM 21:5</a>; <a href=\"https://ref.ly/1Cor10:10-1Cor10:11\">1CO 10:10–10:11</a></p>\n<h3>Moses</h3>\n<p><strong><a href=\"https://ref.ly/Exod5:22-Exod5:23\">EXO 5:22–5:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num11:11-Num11:15\">NUM 11:11–11:15</a></p>\n<h3>Elijah</h3>\n<p><a href=\"https://ref.ly/1Kgs19:4\">1KI 19:4</a></p>\n<h3>Job</h3>\n<p><strong><a href=\"https://ref.ly/Job10:1-Job10:2\">JOB 10:1–10:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job7:11-Job7:21\">JOB 7:11–7:21</a>, <a href=\"https://ref.ly/Job9:27-Job9:28\">JOB 9:27–9:28</a>, <a href=\"https://ref.ly/Job21:4\">JOB 21:4</a>, <a href=\"https://ref.ly/Job23:2\">JOB 23:2</a>, <a href=\"https://ref.ly/Job33:13\">JOB 33:13</a></p>\n<h3>The psalmists</h3>\n<p><strong><a href=\"https://ref.ly/Ps64:1\">PSA 64:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps73:13-Ps73:21\">PSA 73:13–73:21</a>, <a href=\"https://ref.ly/Ps77:7-Ps77:9\">PSA 77:7–77:9</a>, <a href=\"https://ref.ly/Ps88:3-Ps88:18\">PSA 88:3–88:18</a>, <a href=\"https://ref.ly/Ps142:2\">PSA 142:2</a></p>\n<h3>The prophets</h3>\n<p><strong><a href=\"https://ref.ly/Jer20:7-Jer20:8\">JER 20:7–20:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer12:1-Jer12:4\">JER 12:1–12:4</a>; <a href=\"https://ref.ly/Jonah4:1-Jonah4:3\">JON 4:1–4:3</a>; <a href=\"https://ref.ly/Hab1:2-Hab1:4\">HAB 1:2–1:4</a>, <a href=\"https://ref.ly/Hab1:12-Hab1:17\">HAB 1:12–1:17</a></p>\n<h2>Complaints against Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt9:11\">MAT 9:11</a></strong> parallels <a href=\"https://ref.ly/Mark2:16\">MRK 2:16</a>, <a href=\"https://ref.ly/Luke5:30\">LUK 5:30</a> <em>See also</em> <a href=\"https://ref.ly/Matt12:2\">MAT 12:2</a> parallels <a href=\"https://ref.ly/Mark2:24\">MRK 2:24</a>, <a href=\"https://ref.ly/Luke6:2\">LUK 6:2</a>; <a href=\"https://ref.ly/Matt15:2\">MAT 15:2</a> parallel <a href=\"https://ref.ly/Mark7:5\">MRK 7:5</a>; <a href=\"https://ref.ly/Mark2:7\">MRK 2:7</a> parallel <a href=\"https://ref.ly/Matt9:3\">MAT 9:3</a>; <a href=\"https://ref.ly/Luke15:2\">LUK 15:2</a>; <a href=\"https://ref.ly/John6:41-John6:43\">JHN 6:41–6:43</a></p>\n<h2>Examples of justified complaints</h2>\n<p><strong><a href=\"https://ref.ly/Acts6:1\">ACT 6:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen21:25\">GEN 21:25</a>; <a href=\"https://ref.ly/2Sam15:2-2Sam15:4\">2SA 15:2–15:4</a></p>\n<h2>Examples of unjustified complaints</h2>\n<p><strong><a href=\"https://ref.ly/Exod17:3\">EXO 17:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod14:11-Exod14:12\">EXO 14:11–14:12</a>, <a href=\"https://ref.ly/Exod15:24\">EXO 15:24</a>, <a href=\"https://ref.ly/Exod16:2-Exod16:3\">EXO 16:2–16:3</a>; <a href=\"https://ref.ly/Acts18:14-Acts18:15\">ACT 18:14–18:15</a></p>\n<h2>Scripture denounces unjustified complaints</h2>\n<p><strong><a href=\"https://ref.ly/Phil2:14\">PHP 2:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:27\">ISA 40:27</a>; <a href=\"https://ref.ly/Lam3:39\">LAM 3:39</a>; <a href=\"https://ref.ly/Jas5:9\">JAS 5:9</a>; <a href=\"https://ref.ly/1Pet4:9\">1PE 4:9</a></p>",
@@ -348,7 +348,8 @@
 "label": "8765: grudge",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

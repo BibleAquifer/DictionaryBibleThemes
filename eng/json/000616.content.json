@@ -2,10 +2,10 @@
 {
 "content_id": "5002",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5002: human race, and creation",
 "media_type": "Text",
-"index_reference": "5002: human race, and creation",
+"index_reference": "5002",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Although the human race is the pinnacle of God's creative work, it shares the inherent limitations of the physical realm. Human beings are nevertheless given responsibility to manage and steward the world.</p>\n<h2>The human race is an integral part of the physical creation</h2>\n<h3>The human race was created from the ground</h3>\n<p><strong><a href=\"https://ref.ly/Gen2:7\">GEN 2:7</a></strong> <em>The Hebrew word for man, “adam” sounds like the Hebrew word for ground “adamah”.</em> <em>See also</em> <a href=\"https://ref.ly/Gen3:17-Gen3:19\">GEN 3:17–3:19</a>; <a href=\"https://ref.ly/Job10:8-Job10:9\">JOB 10:8–10:9</a>; <a href=\"https://ref.ly/Ps103:13-Ps103:14\">PSA 103:13–103:14</a></p>\n<h3>The human race was created on the same day as the animals</h3>\n<p><a href=\"https://ref.ly/Gen1:24-Gen1:27\">GEN 1:24–1:27</a></p>\n<h3>The human race was created from dust like the animals</h3>\n<p><a href=\"https://ref.ly/Gen2:7\">GEN 2:7</a>, <a href=\"https://ref.ly/Gen2:19\">GEN 2:19</a></p>\n<h2>The human race is set apart from the rest of creation</h2>\n<h3>The human race is uniquely created in God's image</h3>\n<p><strong><a href=\"https://ref.ly/Gen5:1-Gen5:2\">GEN 5:1–5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen1:26-Gen1:27\">GEN 1:26–1:27</a>, <a href=\"https://ref.ly/Gen9:6\">GEN 9:6</a>; <a href=\"https://ref.ly/Jas3:9\">JAS 3:9</a></p>\n<h3>The human race is given authority to take care of creation</h3>\n<p><strong><a href=\"https://ref.ly/Gen1:26-Gen1:28\">GEN 1:26–1:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen2:15\">GEN 2:15</a>, <a href=\"https://ref.ly/Gen9:1-Gen9:3\">GEN 9:1–9:3</a>; <a href=\"https://ref.ly/Ps8:3-Ps8:8\">PSA 8:3–8:8</a>; <a href=\"https://ref.ly/Heb2:5-Heb2:8\">HEB 2:5–2:8</a></p>\n<h3>The human race is created with the power of choice</h3>\n<p><strong><a href=\"https://ref.ly/Gen2:16-Gen2:17\">GEN 2:16–2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen2:19\">GEN 2:19</a></p>\n<h3>Human beings are created accountable to God for their actions</h3>\n<p><strong><a href=\"https://ref.ly/Matt12:36\">MAT 12:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek18:20\">EZK 18:20</a>; <a href=\"https://ref.ly/John3:18-John3:19\">JHN 3:18–3:19</a>; <a href=\"https://ref.ly/Rom2:14-Rom2:15\">ROM 2:14–2:15</a>; <a href=\"https://ref.ly/Rev2:23\">REV 2:23</a></p>\n<h3>The human race is created dependent upon God</h3>\n<p><strong><a href=\"https://ref.ly/Matt4:4\">MAT 4:4</a></strong>; <strong><a href=\"https://ref.ly/2Cor3:5\">2CO 3:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr20:12\">2CH 20:12</a>; <a href=\"https://ref.ly/Jer10:23\">JER 10:23</a>; <a href=\"https://ref.ly/Jas4:13-Jas4:15\">JAS 4:13–4:15</a></p>\n<h2>The human race comprises two complementary genders</h2>\n<p><strong><a href=\"https://ref.ly/Gen2:18-Gen2:24\">GEN 2:18–2:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen1:26-Gen1:27\">GEN 1:26–1:27</a>, <a href=\"https://ref.ly/Gen5:1-Gen5:2\">GEN 5:1–5:2</a></p>\n<h2>The human race is one entity with a common ancestry in Adam</h2>\n<p><strong><a href=\"https://ref.ly/Acts17:26\">ACT 17:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen9:18-Gen9:19\">GEN 9:18–9:19</a>, <a href=\"https://ref.ly/Gen10:32-Gen11:1\">GEN 10:32–11:1</a></p>",
@@ -276,6 +276,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5745: women",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Elidad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elidad"
 }
 ]
 }

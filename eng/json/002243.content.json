@@ -2,10 +2,10 @@
 {
 "content_id": "8458",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8458: peacemakers",
 "media_type": "Text",
-"index_reference": "8458: peacemakers",
+"index_reference": "8458",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The commendation of peacemakers</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:9\">MAT 5:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov12:20\">PRO 12:20</a>; <a href=\"https://ref.ly/Rom14:19\">ROM 14:19</a></p>\n<h2>The importance of pursuing peace</h2>\n<p><a href=\"https://ref.ly/Eccl10:4\">ECC 10:4</a>; ; <a href=\"https://ref.ly/Rom12:18\">ROM 12:18</a>; ; <a href=\"https://ref.ly/Titus1:6\">TIT 1:6</a>; ; <a href=\"https://ref.ly/Heb12:14\">HEB 12:14</a>; ; <a href=\"https://ref.ly/Jas3:17\">JAS 3:17</a></p>\n<h2>Examples of peacemakers</h2>\n<p><a href=\"https://ref.ly/Gen13:8-Gen13:9\">GEN 13:8–13:9</a> <em>Abraham</em>; ; <a href=\"https://ref.ly/1Sam25:14-1Sam25:31\">1SA 25:14–25:31</a> <em>Abigail</em>; ; <a href=\"https://ref.ly/Esth10:3\">EST 10:3</a> <em>Mordecai</em>; ; <a href=\"https://ref.ly/Isa53:5\">ISA 53:5</a> <em>the suffering servant</em></p>",
@@ -133,6 +133,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6754: union with Christ",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hushim.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hushim"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "7452",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7452: snake, bronze",
 "media_type": "Text",
-"index_reference": "7452: snake, bronze",
+"index_reference": "7452",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The means of salvation for Israel in the wilderness, a parallel to be found in Jesus Christ.</p>\n<h2>Healing and salvation resulted from looking at the bronze snake</h2>\n<p><strong><a href=\"https://ref.ly/Num21:8-Num21:9\">NUM 21:8–21:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num21:4-Num21:7\">NUM 21:4–21:7</a></p>\n<h2>The bronze snake became an object of idolatrous worship</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs18:4\">2KI 18:4</a></strong></p>\n<h2>The bronze snake parallels Jesus Christ's crucifixion</h2>\n<p><strong><a href=\"https://ref.ly/John3:14-John3:15\">JHN 3:14–3:15</a></strong></p>",
@@ -85,6 +85,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8768: idolatry",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Obed-edom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obed-edom"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "8769",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8769: idolatry, in OT",
 "media_type": "Text",
-"index_reference": "8769: idolatry, in ot",
+"index_reference": "8769",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture provides illustrations of idolatry from various periods in the history of the people of God. Idolatry is seen as a constant temptation for believers, especially in times of national or personal stress.</p>\n<h2>Idolatry among the Gentiles</h2>\n<p><a href=\"https://ref.ly/Judg11:24\">JDG 11:24</a>, <a href=\"https://ref.ly/Judg16:23-Judg16:24\">JDG 16:23–16:24</a>; ; <a href=\"https://ref.ly/2Kgs5:18\">2KI 5:18</a>; ; <a href=\"https://ref.ly/Isa36:18-Isa36:20\">ISA 36:18–36:20</a>, <a href=\"https://ref.ly/Isa37:38\">ISA 37:38</a>, <a href=\"https://ref.ly/Isa46:1\">ISA 46:1</a>; ; <a href=\"https://ref.ly/Ezek8:14\">EZK 8:14</a>; ; <a href=\"https://ref.ly/Acts14:11-Acts14:13\">ACT 14:11–14:13</a>; ; <a href=\"https://ref.ly/1Cor8:5\">1CO 8:5</a></p>\n<h2>Idolatry among God's people</h2>\n<h3>In patriarchal times</h3>\n<p><strong><a href=\"https://ref.ly/Josh24:2\">JOS 24:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen31:30\">GEN 31:30</a>, <a href=\"https://ref.ly/Gen31:34\">GEN 31:34</a> <em>these household gods may have been either masks or statuettes</em>; <a href=\"https://ref.ly/Gen35:2\">GEN 35:2</a></p>\n<h3>In the Mosaic period</h3>\n<p><strong><a href=\"https://ref.ly/Exod32:4\">EXO 32:4</a></strong></p>\n<h3>In the period of the judges</h3>\n<p><strong><a href=\"https://ref.ly/Judg17:5\">JDG 17:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg10:6\">JDG 10:6</a></p>\n<h3>In the early monarchy</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs11:10\">1KI 11:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs12:28\">1KI 12:28</a> <em>The golden calves were perhaps pedestals on which the LORD was thought to sit.</em></p>\n<h3>In the middle monarchy</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs16:33\">1KI 16:33</a></strong> <em>An Asherah pole was probably a crude carved wooden image of a Canaanite fertility goddess.</em> <em>See also</em> <a href=\"https://ref.ly/1Kgs11:7-1Kgs11:8\">1KI 11:7–11:8</a>, <a href=\"https://ref.ly/1Kgs16:32\">1KI 16:32</a></p>\n<h3>In the late monarchy</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs21:2-2Kgs21:6\">2KI 21:2–21:6</a></strong></p>\n<h3>After the fall of Jerusalem</h3>\n<p><strong><a href=\"https://ref.ly/Ezek8:10\">EZK 8:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek8:3\">EZK 8:3</a>, <a href=\"https://ref.ly/Ezek8:14\">EZK 8:14</a>, <a href=\"https://ref.ly/Ezek8:16\">EZK 8:16</a></p>\n<h2>Objects of false worship</h2>\n<h3>The sun, moon and stars</h3>\n<p><strong><a href=\"https://ref.ly/Deut4:19\">DEU 4:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut17:3\">DEU 17:3</a>; <a href=\"https://ref.ly/Job31:26\">JOB 31:26</a></p>\n<h3>Other objects of worship</h3>\n<p><strong><a href=\"https://ref.ly/Deut4:28\">DEU 4:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut16:22\">DEU 16:22</a> <em>sacred stones</em>; <a href=\"https://ref.ly/1Kgs12:31\">1KI 12:31</a> <em>high places</em>; <a href=\"https://ref.ly/Isa1:29\">ISA 1:29</a> <em>oaks</em></p>\n<h2>Practices associated with idolatry</h2>\n<h3>The burning of children</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs23:10\">2KI 23:10</a></strong></p>\n<h3>The superstitious use of religious symbols</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs18:4\">2KI 18:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg8:27\">JDG 8:27</a> <em>The ephod was a priestly garment sometimes subject to excessive veneration.</em></p>\n<h3>Sexual deviance</h3>\n<p><strong><a href=\"https://ref.ly/Deut23:17\">DEU 23:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs14:24\">1KI 14:24</a>; <a href=\"https://ref.ly/Hos4:14\">HOS 4:14</a></p>",
@@ -325,7 +325,8 @@
 "label": "8752: false worship",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

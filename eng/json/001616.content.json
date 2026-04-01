@@ -2,10 +2,10 @@
 {
 "content_id": "6636",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6636: drawing near to God",
 "media_type": "Text",
-"index_reference": "6636: drawing near to god",
+"index_reference": "6636",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Under the old covenant, coming near to God was closely linked with the sacrificial system, but under the new covenant Jesus Christ's sacrifice has given believers free access into God's presence.</p>\n<h2>Drawing near to God under the old covenant</h2>\n<h3>Access to God was restricted</h3>\n<p><strong><a href=\"https://ref.ly/Exod24:1-Exod24:2\">EXO 24:1–24:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod19:20-Exod19:24\">EXO 19:20–19:24</a>, <a href=\"https://ref.ly/Exod20:18-Exod20:19\">EXO 20:18–20:19</a>; <a href=\"https://ref.ly/Lev21:21\">LEV 21:21</a>; <a href=\"https://ref.ly/Deut5:22-Deut5:27\">DEU 5:22–5:27</a>; <a href=\"https://ref.ly/Ps65:4\">PSA 65:4</a></p>\n<h3>Priests drew near to God in order to minister to him</h3>\n<p><strong><a href=\"https://ref.ly/Ezek44:15\">EZK 44:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev10:1-Lev10:3\">LEV 10:1–10:3</a>; <a href=\"https://ref.ly/Ezek40:46\">EZK 40:46</a>, <a href=\"https://ref.ly/Ezek42:13\">EZK 42:13</a>, <a href=\"https://ref.ly/Ezek43:19\">EZK 43:19</a>, <a href=\"https://ref.ly/Ezek45:4\">EZK 45:4</a></p>\n<h3>The people drew near to God to offer worship</h3>\n<p><strong><a href=\"https://ref.ly/Lev15:13-Lev15:15\">LEV 15:13–15:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev9:1-Lev9:5\">LEV 9:1–9:5</a>; <a href=\"https://ref.ly/Ps96:8\">PSA 96:8</a>, <a href=\"https://ref.ly/Ps100:2-Ps100:4\">PSA 100:2–100:4</a>; <a href=\"https://ref.ly/Mic6:6-Mic6:8\">MIC 6:6–6:8</a></p>\n<h2>Drawing near to God under the new covenant</h2>\n<p><strong><a href=\"https://ref.ly/Heb10:19-Heb10:22\">HEB 10:19–10:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor8:8\">1CO 8:8</a>; <a href=\"https://ref.ly/Heb7:11-Heb7:19\">HEB 7:11–7:19</a>, <a href=\"https://ref.ly/Heb10:1-Heb10:10\">HEB 10:1–10:10</a></p>\n<h2>God prompts his people to draw near to him</h2>\n<p><strong><a href=\"https://ref.ly/Isa55:1-Isa55:3\">ISA 55:1–55:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa55:6-Isa55:7\">ISA 55:6–55:7</a>; <a href=\"https://ref.ly/Jer3:21-Jer4:2\">JER 3:21–4:2</a></p>\n<h2>Some refuse to draw near to God</h2>\n<p><strong><a href=\"https://ref.ly/Zeph3:2\">ZEP 3:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer2:30-Jer2:31\">JER 2:30–2:31</a></p>\n<h2>All people will ultimately draw near to God</h2>\n<h3>Israel</h3>\n<p><strong><a href=\"https://ref.ly/Jer31:6\">JER 31:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer30:21-Jer30:22\">JER 30:21–30:22</a>; <a href=\"https://ref.ly/Hos3:4-Hos3:5\">HOS 3:4–3:5</a></p>\n<h3>All nations</h3>\n<p><strong><a href=\"https://ref.ly/Isa66:22-Isa66:23\">ISA 66:22–66:23</a></strong></p>\n<h2>God draws near to those who draw near to him</h2>\n<p><strong><a href=\"https://ref.ly/Jas4:8\">JAS 4:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps145:18\">PSA 145:18</a>; <a href=\"https://ref.ly/Jer3:22\">JER 3:22</a>, <a href=\"https://ref.ly/Jer30:21-Jer30:22\">JER 30:21–30:22</a>; <a href=\"https://ref.ly/Zech1:3\">ZEC 1:3</a>; <a href=\"https://ref.ly/Mal3:7\">MAL 3:7</a>; <a href=\"https://ref.ly/Heb7:19\">HEB 7:19</a></p>",
@@ -270,6 +270,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7766: priests",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Koa",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Koa"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "7754",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7754: preaching",
 "media_type": "Text",
-"index_reference": "7754: preaching",
+"index_reference": "7754",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The announcing of the good news of God by his servants through the faithful revelation of God's will, the exposition of God's word and the proclamation of Jesus Christ, the Son of God. Jesus Christ had an important preaching ministry.</p>",
@@ -67,6 +67,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7762: preaching, of Jesus Christ",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Pithon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pithon"
 }
 ]
 }

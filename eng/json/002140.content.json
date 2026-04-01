@@ -2,10 +2,10 @@
 {
 "content_id": "8309",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8309: morality",
 "media_type": "Text",
-"index_reference": "8309: morality",
+"index_reference": "8309",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Conformity to the standards of right living, especially in the sight of God. Scripture stresses that morality is grounded in the nature of God himself, and provides practical guidance concerning moral living and decision-making.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8311: morality, and redemption",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shear-jashub",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shear-jashub"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5629",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5629: work, as ordained by God",
 "media_type": "Text",
-"index_reference": "5629: work, as ordained by god",
+"index_reference": "5629",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God ordained work as the normal routine of living. Every legitimate human task, therefore, is of intrinsic worth, however menial it may seem, and is potentially a means of glorifying God.</p>\n<h2>Work is ordained by God</h2>\n<p><strong><a href=\"https://ref.ly/Gen1:27-Gen1:28\">GEN 1:27–1:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:9\">EXO 20:9</a> parallel <a href=\"https://ref.ly/Deut5:13\">DEU 5:13</a>; <a href=\"https://ref.ly/Ps104:23\">PSA 104:23</a> <em>Work is part of the rhythm of life.</em></p>\n<h2>God's purposes in ordaining work</h2>\n<h3>That people should be self-supporting</h3>\n<p><strong><a href=\"https://ref.ly/Gen3:19\">GEN 3:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps128:2\">PSA 128:2</a>; <a href=\"https://ref.ly/1Thess4:12\">1TH 4:12</a></p>\n<h3>That people should find self-fulfilment</h3>\n<p><strong><a href=\"https://ref.ly/Eccl2:24\">ECC 2:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov14:23\">PRO 14:23</a>; <a href=\"https://ref.ly/Eccl3:22\">ECC 3:22</a>, <a href=\"https://ref.ly/Eccl5:19\">ECC 5:19</a></p>\n<h3>That people should serve others</h3>\n<p><strong><a href=\"https://ref.ly/Eph4:28\">EPH 4:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov31:15\">PRO 31:15</a>; <a href=\"https://ref.ly/1Thess2:9\">1TH 2:9</a>; <a href=\"https://ref.ly/1Tim5:8\">1TI 5:8</a></p>\n<h3>That people should glorify God</h3>\n<p><strong><a href=\"https://ref.ly/Col3:17\">COL 3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor10:31\">1CO 10:31</a>; <a href=\"https://ref.ly/Eph6:5-Eph6:8\">EPH 6:5–6:8</a> parallel <a href=\"https://ref.ly/Col3:22-Col3:24\">COL 3:22–3:24</a></p>\n<h2>Consequences of viewing work as God's ordinance</h2>\n<h3>Work is seen as a moral duty</h3>\n<p><strong><a href=\"https://ref.ly/Titus3:14\">TIT 3:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:6\">PRO 6:6</a>; <a href=\"https://ref.ly/Eccl9:10\">ECC 9:10</a>; <a href=\"https://ref.ly/1Thess4:11\">1TH 4:11</a>; <a href=\"https://ref.ly/2Thess3:7-2Thess3:12\">2TH 3:7–3:12</a></p>\n<h3>Any legitimate work may be seen as God's calling</h3>\n<p><strong><a href=\"https://ref.ly/Gen2:15\">GEN 2:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod31:1-Exod31:6\">EXO 31:1–31:6</a>, <a href=\"https://ref.ly/Exod35:30-Exod35:35\">EXO 35:30–35:35</a>; <a href=\"https://ref.ly/Ps78:70-Ps78:71\">PSA 78:70–78:71</a>; <a href=\"https://ref.ly/Matt13:55\">MAT 13:55</a> parallel <a href=\"https://ref.ly/Mark6:3\">MRK 6:3</a>; <a href=\"https://ref.ly/Rom13:6\">ROM 13:6</a>; <a href=\"https://ref.ly/1Cor7:17\">1CO 7:17</a>, <a href=\"https://ref.ly/1Cor7:20-1Cor7:24\">1CO 7:20–7:24</a></p>\n<h3>Work is seen as a stewardship from God himself</h3>\n<p><strong><a href=\"https://ref.ly/Col3:23-Col3:24\">COL 3:23–3:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt25:14-Matt25:30\">MAT 25:14–25:30</a> parallel <a href=\"https://ref.ly/Luke19:12-Luke19:27\">LUK 19:12–19:27</a>; <a href=\"https://ref.ly/Eph6:5-Eph6:8\">EPH 6:5–6:8</a></p>\n<h3>Criticism of those who will not work</h3>\n<p><strong><a href=\"https://ref.ly/2Thess3:10-2Thess3:11\">2TH 3:10–3:11</a></strong></p>",
@@ -318,6 +318,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8440: glorifying God",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hamor",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hamor"
 }
 ]
 }

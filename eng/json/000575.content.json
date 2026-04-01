@@ -2,10 +2,10 @@
 {
 "content_id": "4851",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4851: storm",
 "media_type": "Text",
-"index_reference": "4851: storm",
+"index_reference": "4851",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Storms and bad weather</h2>\n<p><strong><a href=\"https://ref.ly/Exod9:24\">EXO 9:24</a></strong>; <strong><a href=\"https://ref.ly/Matt8:24\">MAT 8:24</a></strong> parallel <a href=\"https://ref.ly/Luke8:23\">LUK 8:23</a><strong><a href=\"https://ref.ly/Acts27:15\">ACT 27:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job36:33\">JOB 36:33</a>; <a href=\"https://ref.ly/Isa4:6\">ISA 4:6</a>; <a href=\"https://ref.ly/Acts27:18\">ACT 27:18</a>, <a href=\"https://ref.ly/Acts27:20\">ACT 27:20</a>; <a href=\"https://ref.ly/2Pet2:17\">2PE 2:17</a></p>\n<h2>The storms of life</h2>\n<p><strong><a href=\"https://ref.ly/Job30:22\">JOB 30:22</a></strong>; <strong><a href=\"https://ref.ly/Prov1:27\">PRO 1:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job9:17\">JOB 9:17</a>; <a href=\"https://ref.ly/Ps55:8\">PSA 55:8</a>; <a href=\"https://ref.ly/Prov10:25\">PRO 10:25</a>; <a href=\"https://ref.ly/Isa25:4\">ISA 25:4</a>, <a href=\"https://ref.ly/Isa32:2\">ISA 32:2</a>, <a href=\"https://ref.ly/Isa54:11\">ISA 54:11</a>; <a href=\"https://ref.ly/Jer25:32\">JER 25:32</a>; <a href=\"https://ref.ly/Ezek38:9\">EZK 38:9</a>; <a href=\"https://ref.ly/Matt7:24-Matt7:27\">MAT 7:24–7:27</a>; <a href=\"https://ref.ly/Jas1:6\">JAS 1:6</a></p>\n<h2>God controls storms</h2>\n<p><strong><a href=\"https://ref.ly/Jonah1:4\">JON 1:4</a></strong>; <strong><a href=\"https://ref.ly/Nah1:3\">NAM 1:3</a></strong>; <strong><a href=\"https://ref.ly/Zech10:1\">ZEC 10:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps83:15\">PSA 83:15</a>, <a href=\"https://ref.ly/Ps107:29\">PSA 107:29</a>; <a href=\"https://ref.ly/Jer11:16\">JER 11:16</a>, <a href=\"https://ref.ly/Jer23:19\">JER 23:19</a>, <a href=\"https://ref.ly/Jer30:23\">JER 30:23</a></p>\n<h2>Jesus Christ stills the storm</h2>\n<p><strong><a href=\"https://ref.ly/Luke8:24\">LUK 8:24</a></strong> parallels <a href=\"https://ref.ly/Matt8:26\">MAT 8:26</a>, <a href=\"https://ref.ly/Mark4:39\">MRK 4:39</a></p>",
@@ -267,6 +267,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5300: drowning",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Dionysius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dionysius"
 }
 ]
 }

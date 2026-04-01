@@ -2,10 +2,10 @@
 {
 "content_id": "5070",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5070: Individuals in OT and NT",
 "media_type": "Text",
-"index_reference": "5070: individuals in ot and nt",
+"index_reference": "5070",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"5071\" data-resourcetype=\"DictionaryOfBibleThemes\">5071: Aaron</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5075\" data-resourcetype=\"DictionaryOfBibleThemes\">5075: Abraham</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5080\" data-resourcetype=\"DictionaryOfBibleThemes\">5080: Adam</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5085\" data-resourcetype=\"DictionaryOfBibleThemes\">5085: David</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5091\" data-resourcetype=\"DictionaryOfBibleThemes\">5091: Deborah</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5092\" data-resourcetype=\"DictionaryOfBibleThemes\">5092: Elijah</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5093\" data-resourcetype=\"DictionaryOfBibleThemes\">5093: Eve</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5094\" data-resourcetype=\"DictionaryOfBibleThemes\">5094: Jacob</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5098\" data-resourcetype=\"DictionaryOfBibleThemes\">5098: John the Baptist</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5099\" data-resourcetype=\"DictionaryOfBibleThemes\">5099: Mary, mother of Jesus Christ</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5100\" data-resourcetype=\"DictionaryOfBibleThemes\">5100: Melchizedek</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5101\" data-resourcetype=\"DictionaryOfBibleThemes\">5101: Moses</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5106\" data-resourcetype=\"DictionaryOfBibleThemes\">5106: Noah</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5107\" data-resourcetype=\"DictionaryOfBibleThemes\">5107: Paul</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5112\" data-resourcetype=\"DictionaryOfBibleThemes\">5112: Peter</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5117\" data-resourcetype=\"DictionaryOfBibleThemes\">5117: Ruth</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5118\" data-resourcetype=\"DictionaryOfBibleThemes\">5118: Solomon</span></li></ul>",
@@ -130,6 +130,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5118: Solomon",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Emim",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Emim"
 }
 ]
 }

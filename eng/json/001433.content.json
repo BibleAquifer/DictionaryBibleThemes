@@ -2,10 +2,10 @@
 {
 "content_id": "5919",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5919: popularity",
 "media_type": "Text",
-"index_reference": "5919: popularity",
+"index_reference": "5919",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The state of being liked and admired. Scripture notes how the faithful preaching of the gospel will lead to hostility and unpopularity, not least on account of its demands on people and its proclamation of judgment.</p>\n<h2>The popularity of Jesus Christ during his early ministry</h2>\n<h3>Crowds gathered round him</h3>\n<p><strong><a href=\"https://ref.ly/Mark2:2\">MRK 2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark3:10\">MRK 3:10</a>, <a href=\"https://ref.ly/Mark5:24\">MRK 5:24</a>; <a href=\"https://ref.ly/Luke5:1\">LUK 5:1</a>, <a href=\"https://ref.ly/Luke8:19\">LUK 8:19</a>, <a href=\"https://ref.ly/Luke8:45\">LUK 8:45</a></p>\n<h3>Many people followed him</h3>\n<p><a href=\"https://ref.ly/Matt4:25\">MAT 4:25</a>, <a href=\"https://ref.ly/Matt13:2\">MAT 13:2</a>, <a href=\"https://ref.ly/Matt15:30\">MAT 15:30</a>; ; <a href=\"https://ref.ly/Mark1:33\">MRK 1:33</a>, <a href=\"https://ref.ly/Mark2:13\">MRK 2:13</a>; ; <a href=\"https://ref.ly/Luke12:1\">LUK 12:1</a></p>\n<h2>The popularity of David</h2>\n<p><a href=\"https://ref.ly/1Sam18:7\">1SA 18:7</a>, <a href=\"https://ref.ly/1Sam21:11\">1SA 21:11</a>, <a href=\"https://ref.ly/1Sam29:5\">1SA 29:5</a>; ; <a href=\"https://ref.ly/2Sam3:36\">2SA 3:36</a></p>\n<h2>Popularity can result from seeking approval from human beings, rather than from God</h2>\n<p><strong><a href=\"https://ref.ly/John12:43\">JHN 12:43</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke6:26\">LUK 6:26</a>; <a href=\"https://ref.ly/Col3:22\">COL 3:22</a></p>\n<h2>Actions carried out to gain popularity</h2>\n<p><a href=\"https://ref.ly/2Sam15:1-2Sam15:6\">2SA 15:1–15:6</a> <em>Absalom's attempt to curry favour</em>; ; <a href=\"https://ref.ly/Acts12:1-Acts12:3\">ACT 12:1–12:3</a> <em>Herod's arrest of Christians</em>; ; <a href=\"https://ref.ly/Acts24:27\">ACT 24:27</a> <em>Felix' imprisonment of Paul</em>; ; <a href=\"https://ref.ly/Acts25:9\">ACT 25:9</a> <em>Festus' prosecution of Paul</em></p>\n<h2>Causes of unpopularity for the gospel</h2>\n<h3>Its appeal to those whom the world regards as weak and foolish</h3>\n<p><a href=\"https://ref.ly/1Cor1:26-1Cor1:29\">1CO 1:26–1:29</a>, <a href=\"https://ref.ly/1Cor2:6-1Cor2:7\">1CO 2:6–2:7</a></p>\n<h3>Its insistence that people are sinful</h3>\n<p><a href=\"https://ref.ly/Rom7:7\">ROM 7:7</a>; ; <a href=\"https://ref.ly/1Tim5:20\">1TI 5:20</a>; ; <a href=\"https://ref.ly/1John1:8\">1JN 1:8</a></p>\n<h3>Its challenge to vested interests</h3>\n<p><a href=\"https://ref.ly/John11:45-John11:48\">JHN 11:45–11:48</a> <em>the Pharisees' privileged position</em>; ; <a href=\"https://ref.ly/Acts19:23-Acts19:40\">ACT 19:23–19:40</a> <em>the silversmith's trade</em>; ; <a href=\"https://ref.ly/Acts5:17-Acts5:41\">ACT 5:17–5:41</a>, <a href=\"https://ref.ly/Acts21:27-Acts21:36\">ACT 21:27–21:36</a></p>\n<h3>The high demands that the gospel makes of people</h3>\n<p><a href=\"https://ref.ly/Mark10:17-Mark10:23\">MRK 10:17–10:23</a></p>\n<h3>The difficulty of some of Jesus Christ's sayings</h3>\n<p><a href=\"https://ref.ly/John6:60-John6:66\">JHN 6:60–6:66</a></p>",
@@ -272,6 +272,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8848: worldliness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hoshaiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hoshaiah"
+},
+{
+"id": "person:Hoshaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hoshaiah"
 }
 ]
 }

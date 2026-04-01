@@ -2,10 +2,10 @@
 {
 "content_id": "9520",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9520: Abyss, the",
 "media_type": "Text",
-"index_reference": "9520: abyss, the",
+"index_reference": "9520",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Derived from a Greek word meaning “something which is bottomless” and often used to refer to a place of despair in which demons are imprisoned.</p>\n<h2>The Abyss as a place of despair</h2>\n<p><a href=\"https://ref.ly/Luke8:31\">LUK 8:31</a>; ; <a href=\"https://ref.ly/Rev9:2\">REV 9:2</a></p>\n<h2>The Abyss as the home of demons</h2>\n<p><a href=\"https://ref.ly/Rev9:11\">REV 9:11</a>, <a href=\"https://ref.ly/Rev17:8\">REV 17:8</a></p>\n<h2>The Abyss as a prison</h2>\n<p><a href=\"https://ref.ly/Rev9:1\">REV 9:1</a>, <a href=\"https://ref.ly/Rev20:1\">REV 20:1</a>, <a href=\"https://ref.ly/Rev20:3\">REV 20:3</a></p>",
@@ -82,6 +82,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9510: hell",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Abyss",
+"type": "keyterm",
+"confidence": 0.7885,
+"match_method": "scored",
+"preferred_label": "Abyss"
 }
 ]
 }

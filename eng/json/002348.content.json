@@ -2,10 +2,10 @@
 {
 "content_id": "8714",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8714: dishonesty",
 "media_type": "Text",
-"index_reference": "8714: dishonesty",
+"index_reference": "8714",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A way of speaking or acting which leads to people being deceived, misled or cheated.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8716: dishonesty, examples of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Tahath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tahath"
 }
 ]
 }

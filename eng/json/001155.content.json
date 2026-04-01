@@ -2,10 +2,10 @@
 {
 "content_id": "5590",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5590: travel",
 "media_type": "Text",
-"index_reference": "5590: travel",
+"index_reference": "5590",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Whole communities travelled</h2>\n<h3>The exodus</h3>\n<p><strong><a href=\"https://ref.ly/Exod17:1\">EXO 17:1</a></strong></p>\n<h3>The exile</h3>\n<p><strong><a href=\"https://ref.ly/2Chr36:20\">2CH 36:20</a></strong></p>\n<h3>The return from exile</h3>\n<p><strong><a href=\"https://ref.ly/Ezra2:1-Ezra2:2\">EZR 2:1–2:2</a></strong></p>\n<h2>Nomadic travelling</h2>\n<p><strong><a href=\"https://ref.ly/Gen12:6\">GEN 12:6</a></strong></p>\n<h2>Military forces travelled</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Exod14:4\">EXO 14:4</a>; <a href=\"https://ref.ly/2Sam10:16\">2SA 10:16</a>; <a href=\"https://ref.ly/2Kgs25:1\">2KI 25:1</a></p>\n<h2>Officials travelled</h2>\n<p><strong><a href=\"https://ref.ly/Gen41:46\">GEN 41:46</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs5:1-2Kgs5:5\">2KI 5:1–5:5</a> <em>Naaman</em>; <a href=\"https://ref.ly/Neh2:5\">NEH 2:5</a> <em>Nehemiah</em>; <a href=\"https://ref.ly/Acts8:27\">ACT 8:27</a> <em>the Ethiopian eunuch</em></p>\n<h2>Refugees travelled</h2>\n<p><a href=\"https://ref.ly/2Kgs25:26\">2KI 25:26</a>; ; <a href=\"https://ref.ly/Matt2:13-Matt2:14\">MAT 2:13–2:14</a></p>\n<h2>Business travel</h2>\n<p><strong><a href=\"https://ref.ly/Jas4:13\">JAS 4:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke10:33\">LUK 10:33</a></p>\n<h2>Travelling on pilgrimage</h2>\n<p><a href=\"https://ref.ly/Luke2:41-Luke2:44\">LUK 2:41–2:44</a></p>\n<h2>Missionary travels</h2>\n<h3>The Jews</h3>\n<p><a href=\"https://ref.ly/Matt23:15\">MAT 23:15</a></p>\n<h3>Jesus Christ and his disciples</h3>\n<p><a href=\"https://ref.ly/Mark1:39\">MRK 1:39</a>, <a href=\"https://ref.ly/Mark8:27\">MRK 8:27</a>; ; <a href=\"https://ref.ly/Luke8:1\">LUK 8:1</a>, <a href=\"https://ref.ly/Luke14:25\">LUK 14:25</a></p>\n<h3>The apostles</h3>\n<p><a href=\"https://ref.ly/Acts8:40\">ACT 8:40</a>, <a href=\"https://ref.ly/Acts11:19\">ACT 11:19</a>, <a href=\"https://ref.ly/Acts13:6\">ACT 13:6</a>, <a href=\"https://ref.ly/Acts15:3\">ACT 15:3</a>, <a href=\"https://ref.ly/Acts18:23\">ACT 18:23</a></p>\n<h2>Modes of travel</h2>\n<p><a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a> <em>in caravans</em>; ; <a href=\"https://ref.ly/Luke24:13-Luke24:15\">LUK 24:13–24:15</a> <em>on foot</em>; ; <a href=\"https://ref.ly/Acts8:28-Acts8:29\">ACT 8:28–8:29</a> <em>by chariot</em>; ; <a href=\"https://ref.ly/Acts23:23\">ACT 23:23</a> <em>on horseback</em>; ; <a href=\"https://ref.ly/Rev18:17\">REV 18:17</a> <em>by ship</em></p>\n<h2>The dangers of travel</h2>\n<p><strong><a href=\"https://ref.ly/2Cor11:26\">2CO 11:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr15:5\">2CH 15:5</a>; <a href=\"https://ref.ly/Ezra8:21-Ezra8:23\">EZR 8:21–8:23</a>; <a href=\"https://ref.ly/Job6:15-Job6:20\">JOB 6:15–6:20</a>; <a href=\"https://ref.ly/Luke10:30\">LUK 10:30</a>; <a href=\"https://ref.ly/Acts27:14-Acts27:44\">ACT 27:14–27:44</a></p>\n<h2>Guidance while travelling</h2>\n<p><a href=\"https://ref.ly/Gen24:26-Gen24:27\">GEN 24:26–24:27</a>; ; <a href=\"https://ref.ly/Exod13:21\">EXO 13:21</a>; ; <a href=\"https://ref.ly/Acts16:6-Acts16:7\">ACT 16:6–16:7</a></p>",
@@ -336,6 +336,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8168: way, the",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Haggiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haggiah"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "7448",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7448: slavery, in NT",
 "media_type": "Text",
-"index_reference": "7448: slavery, in nt",
+"index_reference": "7448",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The NT does not condone slavery but recognises that slavery exists, and that many slaves have become believers. The status of slaves in the church is transformed by the work of Jesus Christ. Slaves were accorded greater respect because they were seen to be spiritually equal with others.</p>\n<h2>Examples of slavery in the NT</h2>\n<p><a href=\"https://ref.ly/Acts16:16-Acts16:21\">ACT 16:16–16:21</a> <em>Paul and Silas deliver a demon-possessed slave girl</em>; ; <a href=\"https://ref.ly/Phlm1:8-Phlm1:21\">PHM 1:8–1:21</a> <em>Paul returns the runaway slave Onesimus to his master.</em></p>\n<h2>The gospel transforms the status of slaves</h2>\n<p><strong><a href=\"https://ref.ly/1Cor12:13\">1CO 12:13</a></strong>; <strong><a href=\"https://ref.ly/Gal3:26-Gal3:28\">GAL 3:26–3:28</a></strong></p>\n<h2>Instructions concerning slavery</h2>\n<h3>Instructions to Christian slaves</h3>\n<p><strong><a href=\"https://ref.ly/Eph6:5-Eph6:8\">EPH 6:5–6:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor7:20-1Cor7:24\">1CO 7:20–7:24</a>; <a href=\"https://ref.ly/Col3:22-Col3:24\">COL 3:22–3:24</a>; <a href=\"https://ref.ly/1Tim6:1-1Tim6:2\">1TI 6:1–6:2</a>; <a href=\"https://ref.ly/Titus2:9-Titus2:10\">TIT 2:9–2:10</a>; <a href=\"https://ref.ly/1Pet2:18-1Pet2:21\">1PE 2:18–2:21</a></p>\n<h3>Instructions to Christian masters</h3>\n<p><strong><a href=\"https://ref.ly/Eph6:9\">EPH 6:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Col4:1\">COL 4:1</a>; <a href=\"https://ref.ly/Phlm1:8-Phlm1:17\">PHM 1:8–1:17</a></p>\n<h3>The immorality of trading in slaves</h3>\n<p><strong><a href=\"https://ref.ly/1Tim1:9-1Tim1:10\">1TI 1:9–1:10</a></strong></p>",
@@ -146,7 +146,8 @@
 "label": "8342: servanthood",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5223",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5223: banner",
 "media_type": "Text",
-"index_reference": "5223: banner",
+"index_reference": "5223",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Generally, a standard raised in battle as a rallying point for armies. God is described as Israel's banner in recognition of his powerful defence of his people. The Messiah will raise a banner to rally the scattered exiles of Israel.</p>\n<h2>Israel's tribes identified by banners</h2>\n<p><strong><a href=\"https://ref.ly/Num2:2\">NUM 2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num1:52\">NUM 1:52</a>, <a href=\"https://ref.ly/Num2:17\">NUM 2:17</a>, <a href=\"https://ref.ly/Num2:34\">NUM 2:34</a>, <a href=\"https://ref.ly/Num10:14\">NUM 10:14</a></p>\n<h2>Banners carried into battle</h2>\n<h3>Battle standards carried by armies</h3>\n<p><strong><a href=\"https://ref.ly/Ps20:5\">PSA 20:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps74:4\">PSA 74:4</a>; <a href=\"https://ref.ly/Song6:4\">SNG 6:4</a>; <a href=\"https://ref.ly/Isa30:17\">ISA 30:17</a> <em>Banners to rally armies were often set up on the top of a hill</em>; <a href=\"https://ref.ly/Jer4:21\">JER 4:21</a></p>\n<h3>The LORD as Israel's banner</h3>\n<p><strong><a href=\"https://ref.ly/Exod17:15-Exod17:16\">EXO 17:15–17:16</a></strong> <em>The LORD is the rallying point for Israel and the source of the nation's confidence in battle.</em> <em>See also</em> <a href=\"https://ref.ly/Ps60:4-Ps60:6\">PSA 60:4–60:6</a></p>\n<h3>God's banner raised against his people</h3>\n<p><strong><a href=\"https://ref.ly/Isa5:25-Isa5:26\">ISA 5:25–5:26</a></strong> <em>God raises a banner to rally nations to battle against Israel.</em> <em>See also</em> <a href=\"https://ref.ly/Jer4:6\">JER 4:6</a>, <a href=\"https://ref.ly/Jer6:1\">JER 6:1</a></p>\n<h3>God's banner raised against the nations</h3>\n<p><strong><a href=\"https://ref.ly/Isa13:2-Isa13:5\">ISA 13:2–13:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa18:3\">ISA 18:3</a>, <a href=\"https://ref.ly/Isa31:9\">ISA 31:9</a>; <a href=\"https://ref.ly/Jer50:2\">JER 50:2</a>, <a href=\"https://ref.ly/Jer51:12\">JER 51:12</a>, <a href=\"https://ref.ly/Jer51:27-Jer51:28\">JER 51:27–51:28</a></p>\n<h2>The Messiah as a banner to the peoples</h2>\n<p><strong><a href=\"https://ref.ly/Isa11:10-Isa11:12\">ISA 11:10–11:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa49:22\">ISA 49:22</a>, <a href=\"https://ref.ly/Isa62:10\">ISA 62:10</a>; <a href=\"https://ref.ly/Zech10:8\">ZEC 10:8</a>; <a href=\"https://ref.ly/John12:32\">JHN 12:32</a></p>\n<h2>Other references to banners</h2>\n<p><a href=\"https://ref.ly/Song2:4\">SNG 2:4</a> <em>The king's love is like a banner, displayed for all to see</em>; ; <a href=\"https://ref.ly/Ezek27:7\">EZK 27:7</a> <em>a banner made from embroidered linen</em></p>",
@@ -222,6 +222,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Standard",
+"type": "realia",
+"confidence": 0.7221,
+"match_method": "scored",
+"preferred_label": "Standard"
 }
 ]
 }

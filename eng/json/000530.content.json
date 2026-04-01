@@ -2,10 +2,10 @@
 {
 "content_id": "4803",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4803: breadth",
 "media_type": "Text",
-"index_reference": "4803: breadth",
+"index_reference": "4803",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Breadth as a measurement</h2>\n<p><strong><a href=\"https://ref.ly/Isa40:12\">ISA 40:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:15\">GEN 6:15</a> <em>Noah's ark</em><a href=\"https://ref.ly/Exod25:10\">EXO 25:10</a>, <a href=\"https://ref.ly/Exod27:1\">EXO 27:1</a>, <a href=\"https://ref.ly/Exod27:12-Exod27:13\">EXO 27:12–27:13</a>, <a href=\"https://ref.ly/Exod37:25\">EXO 37:25</a>\n<a href=\"https://ref.ly/Deut3:11\">DEU 3:11</a> <em>Og's bed</em>; <a href=\"https://ref.ly/1Kgs6:21\">1KI 6:21</a>KI <a href=\"https://ref.ly/1Kgs7:2\">7:2</a>; <a href=\"https://ref.ly/2Chr3:3\">2CH 3:3</a>, <a href=\"https://ref.ly/2Chr4:1\">2CH 4:1</a>; <a href=\"https://ref.ly/Ezra6:3\">EZR 6:3</a>EZK <a href=\"https://ref.ly/Ezra40:7\">40:7</a>, <a href=\"https://ref.ly/Ezek40:42\">EZK 40:42</a>, <a href=\"https://ref.ly/Ezek41:9-Ezek41:12\">EZK 41:9–41:12</a>EZK <a href=\"https://ref.ly/Ezek45:1-Ezek45:3\">45:1–45:3</a>, <a href=\"https://ref.ly/Ezek48:13-Ezek48:15\">EZK 48:13–48:15</a>\n<a href=\"https://ref.ly/Zech2:2\">ZEC 2:2</a> <em>Jerusalem</em>; <a href=\"https://ref.ly/Zech5:2\">ZEC 5:2</a> <em>the flying scroll</em>; <a href=\"https://ref.ly/Rev21:16\">REV 21:16</a> <em>the new Jerusalem</em></p>\n<h2>Breadth indicating large areas</h2>\n<p><strong><a href=\"https://ref.ly/Gen13:17\">GEN 13:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam22:37\">2SA 22:37</a> parallel <a href=\"https://ref.ly/Ps18:36\">PSA 18:36</a>; <a href=\"https://ref.ly/Job37:10\">JOB 37:10</a>; <a href=\"https://ref.ly/Isa8:7-Isa8:8\">ISA 8:7–8:8</a>, <a href=\"https://ref.ly/Isa30:23\">ISA 30:23</a>, <a href=\"https://ref.ly/Isa33:21\">ISA 33:21</a>; <a href=\"https://ref.ly/Matt7:13-Matt7:14\">MAT 7:13–7:14</a></p>\n<h2>Breadth of understanding</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs4:29\">1KI 4:29</a></strong></p>\n<h2>Breadth of Jesus Christ's love</h2>\n<p><strong><a href=\"https://ref.ly/Eph3:14-Eph3:19\">EPH 3:14–3:19</a></strong></p>",
@@ -248,6 +248,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8355: understanding",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Delilah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delilah"
 }
 ]
 }

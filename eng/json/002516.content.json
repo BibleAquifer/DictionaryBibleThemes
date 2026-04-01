@@ -2,10 +2,10 @@
 {
 "content_id": "9500",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9500: Hell",
 "media_type": "Text",
-"index_reference": "9500: hell",
+"index_reference": "9500",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"9510\" data-resourcetype=\"DictionaryOfBibleThemes\">9510: hell</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9520\" data-resourcetype=\"DictionaryOfBibleThemes\">9520: Abyss, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9530\" data-resourcetype=\"DictionaryOfBibleThemes\">9530: Hades</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9540\" data-resourcetype=\"DictionaryOfBibleThemes\">9540: Sheol</span></li></ul>",
@@ -40,7 +40,8 @@
 "label": "9540: Sheol",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

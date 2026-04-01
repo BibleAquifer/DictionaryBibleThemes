@@ -2,10 +2,10 @@
 {
 "content_id": "5236",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5236: bow and arrow",
 "media_type": "Text",
-"index_reference": "5236: bow and arrow",
+"index_reference": "5236",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A weapon used for hunting and in warfare. In the Scriptures the tongue is likened to a bow and unfaithful Israel to a faulty bow. The bow is also symbolic of military power.</p>\n<h2>The bow and arrow used for hunting</h2>\n<p><strong><a href=\"https://ref.ly/Gen27:3\">GEN 27:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa7:24\">ISA 7:24</a></p>\n<h2>The bow and arrow used in warfare</h2>\n<p><strong><a href=\"https://ref.ly/Gen48:22\">GEN 48:22</a></strong>; <strong><a href=\"https://ref.ly/1Kgs22:34\">1KI 22:34</a></strong> parallel <a href=\"https://ref.ly/2Chr18:33\">2CH 18:33</a> <em>See also</em> <a href=\"https://ref.ly/Josh24:12\">JOS 24:12</a>; <a href=\"https://ref.ly/1Sam2:4\">1SA 2:4</a>, <a href=\"https://ref.ly/1Sam18:4\">1SA 18:4</a>; <a href=\"https://ref.ly/2Sam1:22\">2SA 1:22</a>, <a href=\"https://ref.ly/2Sam22:35\">2SA 22:35</a> parallel <a href=\"https://ref.ly/Ps18:34\">PSA 18:34</a>; <a href=\"https://ref.ly/2Kgs9:24\">2KI 9:24</a>; <a href=\"https://ref.ly/2Chr14:8\">2CH 14:8</a> <em>Asa's army</em>; <a href=\"https://ref.ly/2Chr26:14\">2CH 26:14</a>; <a href=\"https://ref.ly/Neh4:13\">NEH 4:13</a>, <a href=\"https://ref.ly/Neh4:16\">NEH 4:16</a>; <a href=\"https://ref.ly/Isa5:28\">ISA 5:28</a>, <a href=\"https://ref.ly/Isa13:18\">ISA 13:18</a>; <a href=\"https://ref.ly/Jer6:23\">JER 6:23</a>, <a href=\"https://ref.ly/Jer50:14\">JER 50:14</a>, <a href=\"https://ref.ly/Jer50:29\">JER 50:29</a></p>\n<h2>The tongue likened to a bow</h2>\n<p><strong><a href=\"https://ref.ly/Jer9:3\">JER 9:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps64:2-Ps64:4\">PSA 64:2–64:4</a></p>\n<h2>Unfaithful Israel likened to a faulty bow</h2>\n<p><strong><a href=\"https://ref.ly/Ps78:57\">PSA 78:57</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos7:16\">HOS 7:16</a></p>\n<h2>The bow as a symbol of power and strength</h2>\n<h3>Of military power</h3>\n<p><strong><a href=\"https://ref.ly/Ps44:6-Ps44:7\">PSA 44:6–44:7</a>, <a href=\"https://ref.ly/Ps60:4\">PSA 60:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:24\">GEN 49:24</a>; <a href=\"https://ref.ly/Ps46:9\">PSA 46:9</a>; <a href=\"https://ref.ly/Hos1:5\">HOS 1:5</a>, <a href=\"https://ref.ly/Hos1:7\">HOS 1:7</a>, <a href=\"https://ref.ly/Hos2:18\">HOS 2:18</a>; <a href=\"https://ref.ly/Zech9:10\">ZEC 9:10</a></p>\n<h3>Of God's power in judgment</h3>\n<p><strong><a href=\"https://ref.ly/Ps7:11-Ps7:12\">PSA 7:11–7:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps21:11-Ps21:12\">PSA 21:11–21:12</a>; <a href=\"https://ref.ly/Lam2:4\">LAM 2:4</a>, <a href=\"https://ref.ly/Lam3:12\">LAM 3:12</a>; <a href=\"https://ref.ly/Hab3:9\">HAB 3:9</a>; <a href=\"https://ref.ly/Zech9:13\">ZEC 9:13</a>; <a href=\"https://ref.ly/Rev6:2\">REV 6:2</a></p>\n<h3>Of personal strength and vigour</h3>\n<p><strong><a href=\"https://ref.ly/Job29:20\">JOB 29:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job30:11\">JOB 30:11</a></p>",
@@ -321,7 +321,8 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

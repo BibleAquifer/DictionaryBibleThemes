@@ -2,10 +2,10 @@
 {
 "content_id": "5202",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5202: accusation, false",
 "media_type": "Text",
-"index_reference": "5202: accusation, false",
+"index_reference": "5202",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture expressly forbids making false accusations, but God's people have often been subjected to them and many false accusations were made against Jesus Christ.</p>\n<h2>False accusation forbidden</h2>\n<p><strong><a href=\"https://ref.ly/Exod23:7\">EXO 23:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:1\">EXO 23:1</a>; <a href=\"https://ref.ly/Lev19:16\">LEV 19:16</a>; <a href=\"https://ref.ly/Luke3:14\">LUK 3:14</a></p>\n<h2>Satan associated with false accusation</h2>\n<p><strong><a href=\"https://ref.ly/Zech3:1\">ZEC 3:1</a></strong> <em>Although taken as a proper name in English, “Satan” is in fact simply the Hebrew word meaning “accuser”.</em> <em>See also</em> <a href=\"https://ref.ly/Job1:6-Job1:12\">JOB 1:6–1:12</a>; <a href=\"https://ref.ly/Rev12:10\">REV 12:10</a></p>\n<h2>Examples of false accusation</h2>\n<h3>In the OT</h3>\n<p><strong><a href=\"https://ref.ly/Ps41:5-Ps41:6\">PSA 41:5–41:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen39:7-Gen39:18\">GEN 39:7–39:18</a>; <a href=\"https://ref.ly/2Sam10:1-2Sam10:3\">2SA 10:1–10:3</a>; <a href=\"https://ref.ly/1Kgs21:7-1Kgs21:14\">1KI 21:7–21:14</a>; <a href=\"https://ref.ly/Ezra4:6-Ezra4:16\">EZR 4:6–4:16</a>; <a href=\"https://ref.ly/Neh6:5-Neh6:7\">NEH 6:5–6:7</a>; <a href=\"https://ref.ly/Ps35:19-Ps35:20\">PSA 35:19–35:20</a></p>\n<h3>In the experience of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Matt26:59-Matt26:61\">MAT 26:59–26:61</a></strong> parallel <a href=\"https://ref.ly/Mark14:55-Mark14:59\">MRK 14:55–14:59</a> <em>See also</em> <a href=\"https://ref.ly/Matt9:34\">MAT 9:34</a>, <a href=\"https://ref.ly/Matt12:24\">MAT 12:24</a> parallels <a href=\"https://ref.ly/Mark3:22\">MRK 3:22</a>, <a href=\"https://ref.ly/Luke11:15\">LUK 11:15</a>; <a href=\"https://ref.ly/Luke23:2\">LUK 23:2</a></p>\n<h3>In the experience of the first Christians</h3>\n<p><strong><a href=\"https://ref.ly/Acts16:19-Acts16:21\">ACT 16:19–16:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt5:11-Matt5:12\">MAT 5:11–5:12</a>; <a href=\"https://ref.ly/Acts6:11-Acts6:14\">ACT 6:11–6:14</a></p>",
@@ -241,7 +241,8 @@
 "label": "8794: persecution",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

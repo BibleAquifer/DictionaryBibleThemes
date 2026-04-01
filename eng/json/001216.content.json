@@ -2,10 +2,10 @@
 {
 "content_id": "5669",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5669: children, examples of",
 "media_type": "Text",
-"index_reference": "5669: children, examples of",
+"index_reference": "5669",
 "language": "eng",
 "review_level": "None",
 "content": "<p>In Scripture specific children are marked out as belonging to the Lord. Mention of others is made in association with miracles or notable situations.</p>\n<h2>The child Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt1:23\">MAT 1:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt2:11\">MAT 2:11</a>; <a href=\"https://ref.ly/Luke2:34\">LUK 2:34</a>, <a href=\"https://ref.ly/Luke2:49-Luke2:51\">LUK 2:49–2:51</a></p>\n<h2>Other notable children</h2>\n<p><a href=\"https://ref.ly/Exod2:7-Exod2:8\">EXO 2:7–2:8</a> <em>Moses</em>; ; <a href=\"https://ref.ly/Judg11:36\">JDG 11:36</a> <em>Jephthah's daughter</em>; <a href=\"https://ref.ly/1Sam2:18\">1SA 2:18</a>, <a href=\"https://ref.ly/1Sam2:26\">1SA 2:26</a>; <a href=\"https://ref.ly/1Sam16:11\">1SA 16:11</a>, <a href=\"https://ref.ly/1Sam17:33\">1SA 17:33</a>, <a href=\"https://ref.ly/1Sam17:41-1Sam17:42\">1SA 17:41–17:42</a>; \n<a href=\"https://ref.ly/2Kgs5:2\">2KI 5:2</a> <em>the young girl who helped Naaman</em>; ; <a href=\"https://ref.ly/Luke1:80\">LUK 1:80</a> <em>John the Baptist</em>; ; <a href=\"https://ref.ly/2Tim3:15\">2TI 3:15</a> <em>Timothy</em></p>\n<h2>Children in the miracles of Jesus Christ</h2>\n<p>Jairus' daughter:\n <a href=\"https://ref.ly/Matt9:18\">MAT 9:18</a> parallels <a href=\"https://ref.ly/Mark5:22-Mark5:23\">MRK 5:22–5:23</a>, <a href=\"https://ref.ly/Luke8:41-Luke8:42\">LUK 8:41–8:42</a>; ; <a href=\"https://ref.ly/Matt9:23-Matt9:25\">MAT 9:23–9:25</a> parallels <a href=\"https://ref.ly/Mark5:38-Mark5:43\">MRK 5:38–5:43</a>, <a href=\"https://ref.ly/Luke8:49-Luke8:55\">LUK 8:49–8:55</a>; ; <a href=\"https://ref.ly/Matt15:21-Matt15:28\">MAT 15:21–15:28</a> parallel <a href=\"https://ref.ly/Mark7:24-Mark7:30\">MRK 7:24–7:30</a> <em>Canaanite woman's daughter</em>; ; <a href=\"https://ref.ly/Matt17:14-Matt17:18\">MAT 17:14–17:18</a> parallels <a href=\"https://ref.ly/Mark9:17-Mark9:27\">MRK 9:17–9:27</a>, <a href=\"https://ref.ly/Luke9:38-Luke9:43\">LUK 9:38–9:43</a> <em>boy with epilepsy</em>; ; <a href=\"https://ref.ly/Luke7:11-Luke7:15\">LUK 7:11–7:15</a> <em>widow's son at Nain</em>; ; <a href=\"https://ref.ly/John4:46-John4:52\">JHN 4:46–4:52</a> <em>official's son at Capernaum</em>; \n<a href=\"https://ref.ly/John6:9\">JHN 6:9</a> <em>the boy who gave his lunch to help feed the crowd</em></p>",
@@ -265,7 +265,8 @@
 "label": "6608: adoption",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

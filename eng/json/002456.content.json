@@ -2,10 +2,10 @@
 {
 "content_id": "8839",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8839: unfaithfulness",
 "media_type": "Text",
-"index_reference": "8839: unfaithfulness",
+"index_reference": "8839",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The failure to fulfil the obligations of a relationship, resulting in disloyalty to God and to others.</p>",
@@ -25,6 +25,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8841: unfaithfulness, to people",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Tikvah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tikvah"
+},
+{
+"id": "person:Tikvah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tikvah"
 }
 ]
 }

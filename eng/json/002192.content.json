@@ -2,10 +2,10 @@
 {
 "content_id": "8370",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8370: zeal",
 "media_type": "Text",
-"index_reference": "8370: zeal",
+"index_reference": "8370",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A single-minded desire, characterised by enthusiasm and devotion. In Scripture it is often directed towards God, but God is also credited with zeal for his people and for the honour of his name. Misdirected or inappropriate zeal can degenerate into fanaticism.</p>\n<h2>Zeal for God</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs19:9-1Kgs19:10\">1KI 19:9–19:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num25:1-Num25:13\">NUM 25:1–25:13</a>; <a href=\"https://ref.ly/1Kgs19:13-1Kgs19:14\">1KI 19:13–19:14</a>; <a href=\"https://ref.ly/2Kgs10:15-2Kgs10:28\">2KI 10:15–10:28</a>; <a href=\"https://ref.ly/Prov23:17\">PRO 23:17</a></p>\n<h2>Zeal for God's house</h2>\n<p><strong><a href=\"https://ref.ly/Ps69:7-Ps69:9\">PSA 69:7–69:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/John2:13-John2:17\">JHN 2:13–2:17</a></p>\n<h2>Zeal for God's service</h2>\n<p><strong><a href=\"https://ref.ly/Rom12:11\">ROM 12:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh3:20\">NEH 3:20</a>; <a href=\"https://ref.ly/2Cor8:16-2Cor8:22\">2CO 8:16–8:22</a></p>\n<h2>Zeal for God's law</h2>\n<p><strong><a href=\"https://ref.ly/Acts21:20\">ACT 21:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps119:137-Ps119:144\">PSA 119:137–119:144</a></p>\n<h2>Zeal for the nation</h2>\n<p><strong><a href=\"https://ref.ly/2Sam21:2\">2SA 21:2</a></strong></p>\n<h2>God's zeal</h2>\n<h3>Manifested in wrath against sin</h3>\n<p><strong><a href=\"https://ref.ly/Isa42:13\">ISA 42:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num25:10-Num25:11\">NUM 25:10–25:11</a>; <a href=\"https://ref.ly/Deut29:18-Deut29:21\">DEU 29:18–29:21</a>; <a href=\"https://ref.ly/Isa59:12-Isa59:19\">ISA 59:12–59:19</a>; <a href=\"https://ref.ly/Ezek5:8-Ezek5:13\">EZK 5:8–5:13</a>, <a href=\"https://ref.ly/Ezek36:5-Ezek36:7\">EZK 36:5–36:7</a>, <a href=\"https://ref.ly/Ezek38:18-Ezek38:23\">EZK 38:18–38:23</a></p>\n<h3>Manifested in concern for his people</h3>\n<p><strong><a href=\"https://ref.ly/Isa26:11\">ISA 26:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs19:29-2Kgs19:31\">2KI 19:29–19:31</a> parallel <a href=\"https://ref.ly/Isa37:30-Isa37:32\">ISA 37:30–37:32</a>; <a href=\"https://ref.ly/Isa9:1-Isa9:7\">ISA 9:1–9:7</a>, <a href=\"https://ref.ly/Isa63:15\">ISA 63:15</a>; <a href=\"https://ref.ly/Ezek39:25\">EZK 39:25</a></p>\n<h2>Misdirected zeal</h2>\n<p><strong><a href=\"https://ref.ly/Prov19:2\">PRO 19:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts21:40-Acts22:5\">ACT 21:40–22:5</a>; <a href=\"https://ref.ly/Rom10:1-Rom10:4\">ROM 10:1–10:4</a>; <a href=\"https://ref.ly/1Cor13:3\">1CO 13:3</a>; <a href=\"https://ref.ly/Gal1:13-Gal1:14\">GAL 1:13–1:14</a>, <a href=\"https://ref.ly/Gal4:17-Gal4:18\">GAL 4:17–4:18</a>; <a href=\"https://ref.ly/Phil3:6\">PHP 3:6</a></p>\n<h2>Zeal for national identity: the Zealots</h2>\n<p><strong><a href=\"https://ref.ly/Acts1:13\">ACT 1:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt10:2-Matt10:4\">MAT 10:2–10:4</a> parallels <a href=\"https://ref.ly/Mark3:16-Mark3:19\">MRK 3:16–3:19</a>, <a href=\"https://ref.ly/Luke6:14-Luke6:16\">LUK 6:14–6:16</a></p>",
@@ -311,6 +311,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8248: faithfulness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Muppim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Muppim"
 }
 ]
 }

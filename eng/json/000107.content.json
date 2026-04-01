@@ -2,10 +2,10 @@
 {
 "content_id": "1460",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1460: truth",
 "media_type": "Text",
-"index_reference": "1460: truth",
+"index_reference": "1460",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Truth in Scripture is more than mere veracity. In the OT it is a moral concept, grounded in the being of God himself, which embodies the ideas of faithfulness and reliability, while in the NT the concept widens to embrace the ideas of reality and completeness.</p>",
@@ -33,7 +33,8 @@
 "label": "1463: truth, of God",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

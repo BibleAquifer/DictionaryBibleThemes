@@ -2,10 +2,10 @@
 {
 "content_id": "6701",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6701: peace, human search for",
 "media_type": "Text",
-"index_reference": "6701: peace, human search for",
+"index_reference": "6701",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture teaches that peace is only found in God, but people try to find it elsewhere. A person's desire for peace varies according to his or her circumstances.</p>\n<h2>The places where people search for peace</h2>\n<h3>People search for peace in others</h3>\n<p><strong><a href=\"https://ref.ly/Gen5:28-Gen5:29\">GEN 5:28–5:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song8:10\">SNG 8:10</a></p>\n<h3>People search for peace in material possessions</h3>\n<p><strong><a href=\"https://ref.ly/Eccl4:8\">ECC 4:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job21:7-Job21:13\">JOB 21:7–21:13</a>; <a href=\"https://ref.ly/Dan4:4\">DAN 4:4</a>; <a href=\"https://ref.ly/Matt19:16-Matt19:22\">MAT 19:16–19:22</a>; <a href=\"https://ref.ly/Luke12:16-Luke12:19\">LUK 12:16–12:19</a></p>\n<h3>People search for peace in God</h3>\n<p><strong><a href=\"https://ref.ly/Ps4:8\">PSA 4:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job22:21\">JOB 22:21</a>; <a href=\"https://ref.ly/Prov19:23\">PRO 19:23</a>; <a href=\"https://ref.ly/Isa26:3\">ISA 26:3</a>; <a href=\"https://ref.ly/Luke7:37-Luke7:50\">LUK 7:37–7:50</a></p>\n<h2>The dangers in searching for peace</h2>\n<h3>It can lead to greed</h3>\n<p><strong><a href=\"https://ref.ly/Eccl4:6\">ECC 4:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt23:25\">MAT 23:25</a></p>\n<h3>It can lead to suffering and bondage</h3>\n<p><a href=\"https://ref.ly/Gen42:1-Gen42:17\">GEN 42:1–42:17</a>; ; <a href=\"https://ref.ly/Josh9:3-Josh9:27\">JOS 9:3–9:27</a>; ; <a href=\"https://ref.ly/Mark5:25-Mark5:26\">MRK 5:25–5:26</a></p>\n<h3>It can lead to destruction</h3>\n<p><strong><a href=\"https://ref.ly/1Thess5:3\">1TH 5:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs20:12-2Kgs20:19\">2KI 20:12–20:19</a>; <a href=\"https://ref.ly/Luke16:19-Luke16:26\">LUK 16:19–16:26</a></p>\n<h2>People's search for peace varies according to their circumstances</h2>\n<h3>The desire can increase in times of suffering and difficulties</h3>\n<p><strong><a href=\"https://ref.ly/Exod2:23\">EXO 2:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer14:19\">JER 14:19</a>, <a href=\"https://ref.ly/Jer47:2-Jer47:6\">JER 47:2–47:6</a>; <a href=\"https://ref.ly/Lam3:7-Lam3:24\">LAM 3:7–3:24</a>; <a href=\"https://ref.ly/Ezek7:23-Ezek7:27\">EZK 7:23–7:27</a>; <a href=\"https://ref.ly/Mark5:24-Mark5:34\">MRK 5:24–5:34</a> parallels <a href=\"https://ref.ly/Matt9:18-Matt9:22\">MAT 9:18–9:22</a>, <a href=\"https://ref.ly/Luke8:42-Luke8:48\">LUK 8:42–8:48</a></p>\n<h3>The desire can diminish in times of comfort</h3>\n<p><strong><a href=\"https://ref.ly/Exod8:12-Exod8:15\">EXO 8:12–8:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job12:5\">JOB 12:5</a>; <a href=\"https://ref.ly/Hos10:1\">HOS 10:1</a>; <a href=\"https://ref.ly/Amos6:1\">AMO 6:1</a></p>",
@@ -268,7 +268,8 @@
 "label": "8823: self-righteousness",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

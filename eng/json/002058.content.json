@@ -2,10 +2,10 @@
 {
 "content_id": "8213",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8213: confidence",
 "media_type": "Text",
-"index_reference": "8213: confidence",
+"index_reference": "8213",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A state of self-assurance regarding one's status or ability, often grounded in human achievements. Scripture insists that Christian confidence is to be grounded in what God has done for believers, rather than in what they themselves have achieved.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8215: confidence, results of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:RockOfEscape",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sela-hammahlekoth"
 }
 ]
 }

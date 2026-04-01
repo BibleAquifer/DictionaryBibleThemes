@@ -2,10 +2,10 @@
 {
 "content_id": "5551",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5551: spinning and weaving",
 "media_type": "Text",
-"index_reference": "5551: spinning and weaving",
+"index_reference": "5551",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Spinning as the process of making thread</h2>\n<p><a href=\"https://ref.ly/Prov31:19\">PRO 31:19</a>; ; <a href=\"https://ref.ly/Matt6:28\">MAT 6:28</a> parallel <a href=\"https://ref.ly/Luke12:27\">LUK 12:27</a></p>\n<h2>Weaving as the process of making cloth</h2>\n<p><a href=\"https://ref.ly/Exod28:39\">EXO 28:39</a></p>\n<h2>Weavers and spinners</h2>\n<p><strong><a href=\"https://ref.ly/Isa19:9\">ISA 19:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod35:25\">EXO 35:25</a>, <a href=\"https://ref.ly/Exod35:35\">EXO 35:35</a>, <a href=\"https://ref.ly/Exod39:22\">EXO 39:22</a>, <a href=\"https://ref.ly/Exod39:27\">EXO 39:27</a>; <a href=\"https://ref.ly/2Kgs23:7\">2KI 23:7</a></p>\n<h2>The figurative use of spinning and weaving</h2>\n<p><strong><a href=\"https://ref.ly/Job7:6\">JOB 7:6</a></strong>; <strong><a href=\"https://ref.ly/Isa38:12\">ISA 38:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg16:13\">JDG 16:13</a>; <a href=\"https://ref.ly/1Sam17:7\">1SA 17:7</a>; <a href=\"https://ref.ly/Isa59:5\">ISA 59:5</a></p>",
@@ -151,6 +151,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5433: occupations",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Guni.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Guni"
+},
+{
+"id": "person:Guni",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Guni"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5258",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5258: cloth",
 "media_type": "Text",
-"index_reference": "5258: cloth",
+"index_reference": "5258",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A woven material from which garments or coverings were made. Different kinds of material are associated with different ranks and social positions.</p>\n<h2>Cloth for daily wear</h2>\n<p><strong><a href=\"https://ref.ly/Prov31:22\">PRO 31:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num15:38\">NUM 15:38</a>; <a href=\"https://ref.ly/Judg5:30\">JDG 5:30</a>, <a href=\"https://ref.ly/Judg14:12\">JDG 14:12</a>; <a href=\"https://ref.ly/2Sam1:24\">2SA 1:24</a>; <a href=\"https://ref.ly/1Chr15:27\">1CH 15:27</a>; <a href=\"https://ref.ly/Ps45:14\">PSA 45:14</a>; <a href=\"https://ref.ly/Ezek16:10\">EZK 16:10</a>, <a href=\"https://ref.ly/Ezek16:13\">EZK 16:13</a>; <a href=\"https://ref.ly/Matt9:16\">MAT 9:16</a>; <a href=\"https://ref.ly/John19:23\">JHN 19:23</a>; <a href=\"https://ref.ly/Acts9:39\">ACT 9:39</a></p>\n<h2>Cloth for general coverings</h2>\n<p><strong><a href=\"https://ref.ly/1Sam21:9\">1SA 21:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam17:19\">2SA 17:19</a>; <a href=\"https://ref.ly/Prov7:16\">PRO 7:16</a></p>\n<h2>Cloth for special uses</h2>\n<h3>For religious garments</h3>\n<p><strong><a href=\"https://ref.ly/Exod28:6\">EXO 28:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod28:8\">EXO 28:8</a>, <a href=\"https://ref.ly/Exod28:31\">EXO 28:31</a>, <a href=\"https://ref.ly/Exod28:39\">EXO 28:39</a>, <a href=\"https://ref.ly/Exod28:42\">EXO 28:42</a>, <a href=\"https://ref.ly/Exod35:19\">EXO 35:19</a>, <a href=\"https://ref.ly/Exod39:1\">EXO 39:1</a>, <a href=\"https://ref.ly/Exod39:5\">EXO 39:5</a>, <a href=\"https://ref.ly/Exod39:22\">EXO 39:22</a>, <a href=\"https://ref.ly/Exod39:41\">EXO 39:41</a></p>\n<h3>For the tabernacle</h3>\n<p><strong><a href=\"https://ref.ly/Exod26:1\">EXO 26:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod26:4\">EXO 26:4</a>, <a href=\"https://ref.ly/Exod36:8\">EXO 36:8</a>; <a href=\"https://ref.ly/2Chr3:14\">2CH 3:14</a></p>\n<h3>To cover religious objects</h3>\n<p><a href=\"https://ref.ly/Num4:5-Num4:13\">NUM 4:5–4:13</a></p>\n<h3>Sackcloth as a sign of mourning</h3>\n<p><strong><a href=\"https://ref.ly/Gen37:34\">GEN 37:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam3:31\">2SA 3:31</a>; <a href=\"https://ref.ly/1Kgs21:27\">1KI 21:27</a>; <a href=\"https://ref.ly/2Kgs19:1\">2KI 19:1</a>; <a href=\"https://ref.ly/Neh9:1\">NEH 9:1</a>; <a href=\"https://ref.ly/Ps35:13\">PSA 35:13</a>; <a href=\"https://ref.ly/Isa3:24\">ISA 3:24</a>; <a href=\"https://ref.ly/Jer4:8\">JER 4:8</a>; <a href=\"https://ref.ly/Joel1:13\">JOL 1:13</a></p>\n<h3>For burials</h3>\n<p><strong><a href=\"https://ref.ly/Matt27:59\">MAT 27:59</a></strong> parallels <a href=\"https://ref.ly/Mark15:46\">MRK 15:46</a>, <a href=\"https://ref.ly/Luke23:53\">LUK 23:53</a> <em>See also</em> <a href=\"https://ref.ly/John11:44\">JHN 11:44</a>, <a href=\"https://ref.ly/John20:7\">JHN 20:7</a></p>\n<h3>To wrap babies in</h3>\n<p><strong><a href=\"https://ref.ly/Ezek16:4\">EZK 16:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke2:7\">LUK 2:7</a>, <a href=\"https://ref.ly/Luke2:12\">LUK 2:12</a></p>\n<h2>Rules relating to cloth</h2>\n<p><a href=\"https://ref.ly/Lev13:47-Lev13:49\">LEV 13:47–13:49</a>, <a href=\"https://ref.ly/Lev19:19\">LEV 19:19</a></p>",
@@ -391,7 +391,8 @@
 "label": "7459: tabernacle, in OT",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

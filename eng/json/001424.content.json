@@ -2,10 +2,10 @@
 {
 "content_id": "5908",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5908: motives",
 "media_type": "Text",
-"index_reference": "5908: motives",
+"index_reference": "5908",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The underlying reasons for a course of action. Scripture stresses the importance of doing things with the intention of honouring and glorifying God and building up his people.</p>",
@@ -26,7 +26,8 @@
 "label": "5910: motives, examples of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

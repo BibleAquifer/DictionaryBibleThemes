@@ -2,10 +2,10 @@
 {
 "content_id": "4814",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4814: dew",
 "media_type": "Text",
-"index_reference": "4814: dew",
+"index_reference": "4814",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The nightly condensation of moisture from the atmosphere</h2>\n<p><strong><a href=\"https://ref.ly/Song5:2\">SNG 5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg6:36-Judg6:40\">JDG 6:36–6:40</a> <em>Gideon's sign</em><a href=\"https://ref.ly/Dan4:25\">DAN 4:25</a>, <a href=\"https://ref.ly/Dan5:21\">DAN 5:21</a></p>\n<h2>Dew as a sign of God's blessing and provision</h2>\n<p><strong><a href=\"https://ref.ly/Deut33:13\">DEU 33:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:28\">GEN 27:28</a>; <a href=\"https://ref.ly/Job38:28\">JOB 38:28</a>; <a href=\"https://ref.ly/Prov3:19-Prov3:20\">PRO 3:19–3:20</a>; <a href=\"https://ref.ly/Hos14:5\">HOS 14:5</a>; <a href=\"https://ref.ly/Zech8:12\">ZEC 8:12</a></p>\n<h3>Dew associated with manna</h3>\n<p><a href=\"https://ref.ly/Exod16:13-Exod16:14\">EXO 16:13–16:14</a>; ; <a href=\"https://ref.ly/Num11:9\">NUM 11:9</a></p>\n<h2>Lack of dew a sign of God's judgment</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs17:1\">1KI 17:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:39\">GEN 27:39</a>; <a href=\"https://ref.ly/2Sam1:21\">2SA 1:21</a>; <a href=\"https://ref.ly/Hag1:10\">HAG 1:10</a></p>\n<h2>Dew used metaphorically</h2>\n<p><strong><a href=\"https://ref.ly/Deut32:2\">DEU 32:2</a></strong>; <strong><a href=\"https://ref.ly/Ps110:3\">PSA 110:3</a></strong>; <strong><a href=\"https://ref.ly/Isa26:19\">ISA 26:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam17:12\">2SA 17:12</a>; <a href=\"https://ref.ly/Job29:19\">JOB 29:19</a>; <a href=\"https://ref.ly/Ps133:3\">PSA 133:3</a>; <a href=\"https://ref.ly/Prov19:12\">PRO 19:12</a>; <a href=\"https://ref.ly/Isa18:4\">ISA 18:4</a>; <a href=\"https://ref.ly/Hos6:4\">HOS 6:4</a>, <a href=\"https://ref.ly/Hos13:3\">HOS 13:3</a>; <a href=\"https://ref.ly/Mic5:7\">MIC 5:7</a></p>",
@@ -196,7 +196,8 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

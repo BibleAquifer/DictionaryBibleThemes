@@ -2,10 +2,10 @@
 {
 "content_id": "4534",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4534: vine",
 "media_type": "Text",
-"index_reference": "4534: vine",
+"index_reference": "4534",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A plant on which grapes grow, cultivated primarily for making wine. Jesus Christ described himself as the true vine, the source of life and growth for all believers.</p>\n<h2>The vine as an image of peace and security</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs4:25\">1KI 4:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs18:31\">2KI 18:31</a> parallel <a href=\"https://ref.ly/Isa36:16\">ISA 36:16</a>; <a href=\"https://ref.ly/Mic4:4\">MIC 4:4</a>; <a href=\"https://ref.ly/Zech3:10\">ZEC 3:10</a></p>\n<h2>Laws relating to the cultivation of vines</h2>\n<p><strong><a href=\"https://ref.ly/Lev25:1-Lev25:5\">LEV 25:1–25:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev25:8-Lev25:12\">LEV 25:8–25:12</a></p>\n<h2>Wild vines</h2>\n<p><strong><a href=\"https://ref.ly/Jer2:21\">JER 2:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs4:38-2Kgs4:40\">2KI 4:38–4:40</a></p>\n<h2>The destruction of vines as punishment</h2>\n<p><strong><a href=\"https://ref.ly/Jer8:13\">JER 8:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps78:42-Ps78:47\">PSA 78:42–78:47</a>, <a href=\"https://ref.ly/Ps105:27-Ps105:33\">PSA 105:27–105:33</a>, <a href=\"https://ref.ly/Ps80:16\">PSA 80:16</a>; <a href=\"https://ref.ly/Isa7:23\">ISA 7:23</a>, <a href=\"https://ref.ly/Isa16:8-Isa16:9\">ISA 16:8–16:9</a>, <a href=\"https://ref.ly/Isa17:10-Isa17:11\">ISA 17:10–17:11</a>, <a href=\"https://ref.ly/Isa24:5-Isa24:7\">ISA 24:5–24:7</a>, <a href=\"https://ref.ly/Isa32:9-Isa32:13\">ISA 32:9–32:13</a>; <a href=\"https://ref.ly/Jer5:14-Jer5:17\">JER 5:14–5:17</a>; <a href=\"https://ref.ly/Hos2:12\">HOS 2:12</a>; <a href=\"https://ref.ly/Nah2:2\">NAM 2:2</a>; <a href=\"https://ref.ly/Hag2:19\">HAG 2:19</a></p>\n<h2>Blessing on vines</h2>\n<p><strong><a href=\"https://ref.ly/Zech8:12\">ZEC 8:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut8:7-Deut8:8\">DEU 8:7–8:8</a>; <a href=\"https://ref.ly/Joel2:22\">JOL 2:22</a>; <a href=\"https://ref.ly/Mal3:11\">MAL 3:11</a></p>\n<h2>Vines in dreams and prophecies</h2>\n<p><strong><a href=\"https://ref.ly/Gen49:10-Gen49:12\">GEN 49:10–49:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen40:9-Gen40:13\">GEN 40:9–40:13</a></p>\n<h2>Vines in parables</h2>\n<p><strong><a href=\"https://ref.ly/Judg9:12-Judg9:13\">JDG 9:12–9:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa5:1-Isa5:2\">ISA 5:1–5:2</a>; <a href=\"https://ref.ly/Ezek17:1-Ezek17:10\">EZK 17:1–17:10</a>; <a href=\"https://ref.ly/Jonah4:5-Jonah4:11\">JON 4:5–4:11</a></p>\n<h2>Metaphorical references to vines</h2>\n<p><strong><a href=\"https://ref.ly/Ps128:3\">PSA 128:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:22\">GEN 49:22</a>; <a href=\"https://ref.ly/Deut32:31-Deut32:33\">DEU 32:31–32:33</a>; <a href=\"https://ref.ly/Job15:31-Job15:34\">JOB 15:31–15:34</a>; <a href=\"https://ref.ly/Song7:8\">SNG 7:8</a>; <a href=\"https://ref.ly/Isa34:4\">ISA 34:4</a>; <a href=\"https://ref.ly/Jer48:32\">JER 48:32</a>; <a href=\"https://ref.ly/Ezek15:1-Ezek15:6\">EZK 15:1–15:6</a>; <a href=\"https://ref.ly/Hos14:7\">HOS 14:7</a></p>\n<h2>Israel is described as a vine</h2>\n<p><strong><a href=\"https://ref.ly/Hos10:1\">HOS 10:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps80:8-Ps80:17\">PSA 80:8–80:17</a>; <a href=\"https://ref.ly/Jer2:21\">JER 2:21</a>, <a href=\"https://ref.ly/Jer6:9\">JER 6:9</a></p>\n<h2>Jesus Christ is the true vine</h2>\n<p><strong><a href=\"https://ref.ly/John15:1-John15:8\">JHN 15:1–15:8</a></strong></p>",
@@ -366,6 +366,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6700: peace",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Chesulloth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chesulloth"
+},
+{
+"id": "flora:Vine",
+"type": "flora",
+"confidence": 0.6068,
+"match_method": "scored",
+"preferred_label": "Vine"
 }
 ]
 }

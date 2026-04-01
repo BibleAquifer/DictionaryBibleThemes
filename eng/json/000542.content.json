@@ -2,10 +2,10 @@
 {
 "content_id": "4815",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4815: drought",
 "media_type": "Text",
-"index_reference": "4815: drought",
+"index_reference": "4815",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A severe long-term absence of water or drink of any kind, leading to disaster for the people affected in this way. Scripture provides examples of such droughts, while also indicating the possibility and dangers of long-term spiritual thirst arising through disobedience or lack of faith.</p>",
@@ -26,7 +26,8 @@
 "label": "4817: drought, spiritual",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

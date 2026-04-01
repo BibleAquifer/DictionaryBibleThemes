@@ -2,10 +2,10 @@
 {
 "content_id": "7418",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7418: Purim",
 "media_type": "Text",
-"index_reference": "7418: purim",
+"index_reference": "7418",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A Jewish festival of rejoicing and feasting celebrated in the month of Adar (February-March) commemorating the deliverance of the Jews recorded in the book of Esther.</p>\n<h2>The origins of Purim</h2>\n<h3>Esther's position as queen</h3>\n<p><a href=\"https://ref.ly/Esth4:14\">EST 4:14</a></p>\n<h3>Haman's death</h3>\n<p><a href=\"https://ref.ly/Esth7:10\">EST 7:10</a></p>\n<h3>The right of the Jews to avenge themselves on their enemies</h3>\n<p><a href=\"https://ref.ly/Esth8:11\">EST 8:11</a></p>\n<h3>Explanation of the name</h3>\n<p><strong><a href=\"https://ref.ly/Esth9:26\">EST 9:26</a></strong> <em>The word “pur”, meaning “lots”, relates to the lots cast to determine the time set for the massacre.</em></p>\n<h2>The date for celebrating Purim</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Esth9:17-Esth9:19\">EST 9:17–9:19</a> <em>those living in Susa celebrated on 15th Adar, those in rural towns on 14th</em></p>\n<h2>The establishment of Purim</h2>\n<p><a href=\"https://ref.ly/Esth9:27\">EST 9:27</a>, <a href=\"https://ref.ly/Esth3:7\">EST 3:7</a></p>",
@@ -96,6 +96,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8794: persecution",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Kedemah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kedemah"
 }
 ]
 }

@@ -2,16 +2,17 @@
 {
 "content_id": "8668",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8668: praise, and Holy Spirit",
 "media_type": "Text",
-"index_reference": "8668: praise, and holy spirit",
+"index_reference": "8668",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"3218.md\">3218: Holy Spirit, and praise</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

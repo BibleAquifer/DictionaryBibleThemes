@@ -2,10 +2,10 @@
 {
 "content_id": "5612",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5612: weapons",
 "media_type": "Text",
-"index_reference": "5612: weapons",
+"index_reference": "5612",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Instruments of warfare. God's people are to trust in him rather than in weapons. Scripture speaks of a day when weapons will become instruments of peace. The term is also used metaphorically.</p>\n<h2>Weapons of warfare</h2>\n<p><strong><a href=\"https://ref.ly/1Chr12:23\">1CH 12:23</a>, <a href=\"https://ref.ly/1Chr12:33\">1CH 12:33</a></strong>; <strong><a href=\"https://ref.ly/Neh4:16-Neh4:18\">NEH 4:16–4:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:5\">GEN 49:5</a>; <a href=\"https://ref.ly/1Sam8:12\">1SA 8:12</a>, <a href=\"https://ref.ly/1Sam17:45\">1SA 17:45</a>, <a href=\"https://ref.ly/1Sam17:54\">1SA 17:54</a>, <a href=\"https://ref.ly/1Sam21:8\">1SA 21:8</a>; <a href=\"https://ref.ly/2Sam1:27\">2SA 1:27</a>; <a href=\"https://ref.ly/2Kgs11:8\">2KI 11:8</a> parallel <a href=\"https://ref.ly/2Chr23:7\">2CH 23:7</a>; <a href=\"https://ref.ly/2Kgs11:11\">2KI 11:11</a> parallel <a href=\"https://ref.ly/2Chr23:10\">2CH 23:10</a>; <a href=\"https://ref.ly/1Chr12:34-1Chr12:37\">1CH 12:34–12:37</a>; <a href=\"https://ref.ly/2Chr32:5\">2CH 32:5</a>; <a href=\"https://ref.ly/Neh4:23\">NEH 4:23</a>; <a href=\"https://ref.ly/Ezek26:7-Ezek26:11\">EZK 26:7–26:11</a>, <a href=\"https://ref.ly/Ezek32:27\">EZK 32:27</a>; <a href=\"https://ref.ly/John18:3\">JHN 18:3</a></p>\n<h2>Trust in God rather than in weapons</h2>\n<p><strong><a href=\"https://ref.ly/Ps20:7-Ps20:8\">PSA 20:7–20:8</a></strong>; <strong><a href=\"https://ref.ly/Isa31:1\">ISA 31:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut1:41-Deut1:44\">DEU 1:41–1:44</a>, <a href=\"https://ref.ly/Deut20:1\">DEU 20:1</a>; <a href=\"https://ref.ly/1Sam17:45-1Sam17:47\">1SA 17:45–17:47</a>; <a href=\"https://ref.ly/2Chr20:20-2Chr20:24\">2CH 20:20–20:24</a>, <a href=\"https://ref.ly/2Chr32:7-2Chr32:8\">2CH 32:7–32:8</a>; <a href=\"https://ref.ly/Ps33:16-Ps33:19\">PSA 33:16–33:19</a>, <a href=\"https://ref.ly/Ps76:3\">PSA 76:3</a>, <a href=\"https://ref.ly/Ps147:10-Ps147:11\">PSA 147:10–147:11</a>; <a href=\"https://ref.ly/Prov21:31\">PRO 21:31</a>; <a href=\"https://ref.ly/Eccl9:18\">ECC 9:18</a>; <a href=\"https://ref.ly/Isa22:8-Isa22:11\">ISA 22:8–22:11</a>, <a href=\"https://ref.ly/Isa54:16-Isa54:17\">ISA 54:16–54:17</a>; <a href=\"https://ref.ly/Zech4:6\">ZEC 4:6</a></p>\n<h2>A day when weapons of war will become instruments of peace</h2>\n<p><strong><a href=\"https://ref.ly/Isa2:4\">ISA 2:4</a></strong> parallel <a href=\"https://ref.ly/Mic4:3\">MIC 4:3</a> <em>See also</em> <a href=\"https://ref.ly/Ps46:9\">PSA 46:9</a>; <a href=\"https://ref.ly/Isa9:5\">ISA 9:5</a>; <a href=\"https://ref.ly/Ezek39:7-Ezek39:10\">EZK 39:7–39:10</a>; <a href=\"https://ref.ly/Hos2:18\">HOS 2:18</a>; <a href=\"https://ref.ly/Zech9:10\">ZEC 9:10</a></p>\n<h2>Weapons used metaphorically by God</h2>\n<p><strong><a href=\"https://ref.ly/Isa59:15-Isa59:18\">ISA 59:15–59:18</a></strong>; <strong><a href=\"https://ref.ly/Jer50:25\">JER 50:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps7:11-Ps7:13\">PSA 7:11–7:13</a>; <a href=\"https://ref.ly/Isa13:5\">ISA 13:5</a>; <a href=\"https://ref.ly/Jer51:20\">JER 51:20</a>; <a href=\"https://ref.ly/Ezek9:1-Ezek9:8\">EZK 9:1–9:8</a></p>\n<h2>Weapons used metaphorically by Christians</h2>\n<p><strong><a href=\"https://ref.ly/2Cor10:4\">2CO 10:4</a></strong>; <strong><a href=\"https://ref.ly/Eph6:11-Eph6:17\">EPH 6:11–6:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom13:12\">ROM 13:12</a>; <a href=\"https://ref.ly/2Cor6:7\">2CO 6:7</a>; <a href=\"https://ref.ly/1Thess5:8\">1TH 5:8</a></p>",
@@ -408,6 +408,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8486: spiritual warfare, armour",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hallohesh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hallohesh"
 }
 ]
 }

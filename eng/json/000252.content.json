@@ -2,10 +2,10 @@
 {
 "content_id": "3040",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3040: Holy Spirit, promise of",
 "media_type": "Text",
-"index_reference": "3040: holy spirit, promise of",
+"index_reference": "3040",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The OT foretold and Jesus Christ reaffirmed that the Holy Spirit would be poured out on God's people, transforming, empowering and gifting them.</p>\n<h2>OT promises of the Holy Spirit fulfilled in the OT</h2>\n<h3>The promised Spirit enables prophecy</h3>\n<p><strong><a href=\"https://ref.ly/1Sam10:6\">1SA 10:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam10:10\">1SA 10:10</a></p>\n<h3>The Spirit fulfils the promised presence of the LORD</h3>\n<p><strong><a href=\"https://ref.ly/Exod33:14\">EXO 33:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa63:11\">ISA 63:11</a>, <a href=\"https://ref.ly/Isa63:14\">ISA 63:14</a>; <a href=\"https://ref.ly/Hag2:5\">HAG 2:5</a></p>\n<h2>OT promises of the Holy Spirit fulfilled in the NT</h2>\n<h3>The Spirit implements the promised new covenant</h3>\n<p><strong><a href=\"https://ref.ly/Jer31:33-Jer31:34\">JER 31:33–31:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:2\">ROM 8:2</a>, <a href=\"https://ref.ly/Rom8:9-Rom8:10\">ROM 8:9–8:10</a>; <a href=\"https://ref.ly/2Cor3:3\">2CO 3:3</a>, <a href=\"https://ref.ly/2Cor3:6\">2CO 3:6</a>; <a href=\"https://ref.ly/Heb8:10-Heb8:11\">HEB 8:10–8:11</a></p>\n<h3>The promised Spirit will renew Israel</h3>\n<p><strong><a href=\"https://ref.ly/Ezek36:26-Ezek36:27\">EZK 36:26–36:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek11:19\">EZK 11:19</a>, <a href=\"https://ref.ly/Ezek37:14\">EZK 37:14</a></p>\n<h3>The promised Spirit is the guarantee for Israel's future</h3>\n<p><strong><a href=\"https://ref.ly/Isa44:3\">ISA 44:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa32:15\">ISA 32:15</a>, <a href=\"https://ref.ly/Isa59:21\">ISA 59:21</a>; <a href=\"https://ref.ly/Ezek39:29\">EZK 39:29</a></p>\n<h3>The promised Spirit will empower the life and work of the Messiah</h3>\n<p><strong><a href=\"https://ref.ly/Isa61:1-Isa61:2\">ISA 61:1–61:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa11:2\">ISA 11:2</a>; <a href=\"https://ref.ly/Luke4:18-Luke4:19\">LUK 4:18–4:19</a></p>\n<h3>The Spirit is promised for all people</h3>\n<p><strong><a href=\"https://ref.ly/Joel2:28-Joel2:29\">JOL 2:28–2:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts2:17-Acts2:18\">ACT 2:17–2:18</a></p>\n<h2>Promises of the Holy Spirit in the NT</h2>\n<h3>The promise that Jesus Christ would baptise with the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/Matt3:11\">MAT 3:11</a></strong> parallels <a href=\"https://ref.ly/Mark1:8\">MRK 1:8</a>, <a href=\"https://ref.ly/Luke3:16\">LUK 3:16</a> <em>See also</em> <a href=\"https://ref.ly/John1:33\">JHN 1:33</a>; <a href=\"https://ref.ly/Acts1:5\">ACT 1:5</a>, <a href=\"https://ref.ly/Acts11:16\">ACT 11:16</a></p>\n<h3>The Spirit is promised by Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Luke24:49\">LUK 24:49</a></strong> <em>See also</em> <a href=\"https://ref.ly/John15:26\">JHN 15:26</a>, <a href=\"https://ref.ly/John16:7-John16:15\">JHN 16:7–16:15</a>; <a href=\"https://ref.ly/Acts1:5-Acts1:8\">ACT 1:5–1:8</a></p>\n<h3>The Spirit is promised for the time after Jesus Christ's resurrection and ascension</h3>\n<p><strong><a href=\"https://ref.ly/John7:39\">JHN 7:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts2:4\">ACT 2:4</a>, <a href=\"https://ref.ly/Acts2:33\">ACT 2:33</a></p>\n<h3>The promised Spirit fulfils God's word to Abraham</h3>\n<p><strong><a href=\"https://ref.ly/Gal3:14\">GAL 3:14</a></strong></p>\n<h3>The promised Spirit guarantees to believers their future inheritance</h3>\n<p><strong><a href=\"https://ref.ly/Eph1:13-Eph1:14\">EPH 1:13–1:14</a></strong></p>",
@@ -330,6 +330,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5467: promises, divine",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.5627,
+"match_method": "scored",
+"preferred_label": "Holy Spirit"
 }
 ]
 }

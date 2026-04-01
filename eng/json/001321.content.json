@@ -2,10 +2,10 @@
 {
 "content_id": "5799",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5799: bitterness",
 "media_type": "Text",
-"index_reference": "5799: bitterness",
+"index_reference": "5799",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A feeling of anger and resentment, caused particularly by perceived unfairness in suffering or by adverse circumstances.</p>\n<h2>The causes of bitterness</h2>\n<h3>Adverse personal circumstances</h3>\n<p><strong><a href=\"https://ref.ly/Job10:1\">JOB 10:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:34\">GEN 27:34</a>; <a href=\"https://ref.ly/Ruth1:20\">RUT 1:20</a> <em>“Mara” means “bitter”</em>; <a href=\"https://ref.ly/1Sam30:6\">1SA 30:6</a>; <a href=\"https://ref.ly/2Sam13:36\">2SA 13:36</a>; <a href=\"https://ref.ly/2Kgs4:27\">2KI 4:27</a>; <a href=\"https://ref.ly/Ps55:4-Ps55:14\">PSA 55:4–55:14</a>; <a href=\"https://ref.ly/Prov17:25\">PRO 17:25</a>; <a href=\"https://ref.ly/Jer6:26\">JER 6:26</a></p>\n<h3>External circumstances</h3>\n<p><strong><a href=\"https://ref.ly/Ezek3:14\">EZK 3:14</a></strong> <em>Because of the exiles' hardness of heart.</em> <em>See also</em> <a href=\"https://ref.ly/Job21:25\">JOB 21:25</a>, <a href=\"https://ref.ly/Job27:2\">JOB 27:2</a>; <a href=\"https://ref.ly/Lam3:1-Lam3:20\">LAM 3:1–3:20</a>; <a href=\"https://ref.ly/Ezek21:6\">EZK 21:6</a></p>\n<h3>Human failure</h3>\n<p><strong><a href=\"https://ref.ly/Matt26:75\">MAT 26:75</a></strong> parallel <a href=\"https://ref.ly/Luke22:61-Luke22:62\">LUK 22:61–22:62</a> <em>See also</em> <a href=\"https://ref.ly/Ezra10:1\">EZR 10:1</a>; <a href=\"https://ref.ly/Jer2:19\">JER 2:19</a>, <a href=\"https://ref.ly/Jer4:18\">JER 4:18</a>; <a href=\"https://ref.ly/Lam1:4\">LAM 1:4</a></p>\n<h2>Bitterness is evidence of a sinful heart</h2>\n<p><strong><a href=\"https://ref.ly/Acts8:23\">ACT 8:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom3:10-Rom3:18\">ROM 3:10–3:18</a></p>\n<h2>Bitterness is to be avoided</h2>\n<p><strong><a href=\"https://ref.ly/Heb12:15\">HEB 12:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph4:31\">EPH 4:31</a>; <a href=\"https://ref.ly/Jas3:14\">JAS 3:14</a></p>\n<h2>The remedy for bitterness</h2>\n<h3>Forgiveness</h3>\n<p><a href=\"https://ref.ly/Gen33:1-Gen33:11\">GEN 33:1–33:11</a>; ; <a href=\"https://ref.ly/Luke15:25-Luke15:32\">LUK 15:25–15:32</a>; ; <a href=\"https://ref.ly/Eph4:31-Eph4:32\">EPH 4:31–4:32</a></p>\n<h3>The causes of bitterness will pass away</h3>\n<p><strong><a href=\"https://ref.ly/Ps37:1-Ps37:2\">PSA 37:1–37:2</a></strong></p>\n<h2>Examples of bitterness in people's lives</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Ruth1:19-Ruth1:21\">RUT 1:19–1:21</a>; <a href=\"https://ref.ly/2Sam13:22\">2SA 13:22</a>; <a href=\"https://ref.ly/Esth5:9\">EST 5:9</a>; <a href=\"https://ref.ly/Luke15:30\">LUK 15:30</a></p>",
@@ -280,6 +280,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6652: forgiveness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Henadad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Henadad"
+},
+{
+"id": "person:Henadad.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Henadad"
+},
+{
+"id": "person:Henadad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Henadad"
 }
 ]
 }

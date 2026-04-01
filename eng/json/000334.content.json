@@ -2,10 +2,10 @@
 {
 "content_id": "4127",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4127: Satan, defeat of",
 "media_type": "Text",
-"index_reference": "4127: satan, defeat of",
+"index_reference": "4127",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Though defeated on Jesus Christ's cross, Satan is still active in this world, but his final overthrow by God is certain.</p>\n<h2>Satan is defeated by Jesus Christ</h2>\n<h3>Jesus Christ is stronger than Satan</h3>\n<p><strong><a href=\"https://ref.ly/John14:30\">JHN 14:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt12:28\">MAT 12:28</a>; <a href=\"https://ref.ly/Luke13:16\">LUK 13:16</a>; <a href=\"https://ref.ly/Acts10:38\">ACT 10:38</a>; <a href=\"https://ref.ly/Gal1:4\">GAL 1:4</a></p>\n<h3>Jesus Christ came to destroy Satan's work</h3>\n<p><strong><a href=\"https://ref.ly/1John3:8\">1JN 3:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb2:14-Heb2:15\">HEB 2:14–2:15</a></p>\n<h3>Satan is defeated on the cross</h3>\n<p><a href=\"https://ref.ly/Col1:13\">COL 1:13</a>; ; <a href=\"https://ref.ly/Titus2:14\">TIT 2:14</a>; ; <a href=\"https://ref.ly/Rev3:21\">REV 3:21</a></p>\n<h3>Satan's defeat is foreseen by Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/John12:31\">JHN 12:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt25:41\">MAT 25:41</a>; <a href=\"https://ref.ly/Luke10:18\">LUK 10:18</a>; <a href=\"https://ref.ly/John16:11\">JHN 16:11</a></p>\n<h3>Satan's agents are also defeated</h3>\n<p><strong><a href=\"https://ref.ly/Col2:15\">COL 2:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:38-Rom8:39\">ROM 8:38–8:39</a></p>\n<h2>Satan is defeated by Christians</h2>\n<p><strong><a href=\"https://ref.ly/Rev12:11\">REV 12:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts5:40-Acts5:42\">ACT 5:40–5:42</a>; <a href=\"https://ref.ly/1John2:13-1John2:14\">1JN 2:13–2:14</a></p>\n<h2>Satan's final overthrow</h2>\n<h3>Satan and his agents will be destroyed</h3>\n<p><strong><a href=\"https://ref.ly/Rom16:20\">ROM 16:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev17:14\">REV 17:14</a></p>\n<h3>Satan's final destiny</h3>\n<p><a href=\"https://ref.ly/1Tim3:6\">1TI 3:6</a> <em>judgment</em>; <a href=\"https://ref.ly/Rev20:1-Rev20:3\">REV 20:1–20:3</a>, <a href=\"https://ref.ly/Rev20:10\">REV 20:10</a></p>\n<h3>Death, the result of Satan's work, will be defeated</h3>\n<p><a href=\"https://ref.ly/1Cor15:26\">1CO 15:26</a>; ; <a href=\"https://ref.ly/Rev20:13-Rev20:14\">REV 20:13–20:14</a></p>",
@@ -252,6 +252,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9511: hell, as a place of punishment",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Bera",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bera"
 }
 ]
 }

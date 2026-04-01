@@ -2,10 +2,10 @@
 {
 "content_id": "4663",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4663: lamb",
 "media_type": "Text",
-"index_reference": "4663: lamb",
+"index_reference": "4663",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A common source of clothing and meat, this animal was given heightened significance by its place in the Jewish sacrificial system and was used figuratively of Jesus Christ.</p>\n<h2>The economic importance of lambs</h2>\n<h3>As food</h3>\n<p><strong><a href=\"https://ref.ly/2Sam12:4\">2SA 12:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut28:4\">DEU 28:4</a>; <a href=\"https://ref.ly/Amos6:4\">AMO 6:4</a></p>\n<h3>As a means of exchange</h3>\n<p><strong><a href=\"https://ref.ly/Gen30:32\">GEN 30:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs3:4\">2KI 3:4</a></p>\n<h2>The sacrificial significance of lambs</h2>\n<h3>Their general use</h3>\n<p><strong><a href=\"https://ref.ly/Gen22:7\">GEN 22:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod29:38\">EXO 29:38</a>; <a href=\"https://ref.ly/Lev3:7\">LEV 3:7</a>, <a href=\"https://ref.ly/Lev14:12\">LEV 14:12</a>, <a href=\"https://ref.ly/Lev14:24\">LEV 14:24</a>; <a href=\"https://ref.ly/1Sam7:9\">1SA 7:9</a></p>\n<h3>The Passover lamb</h3>\n<p><strong><a href=\"https://ref.ly/Exod12:21\">EXO 12:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:3\">EXO 12:3</a>, <a href=\"https://ref.ly/Exod12:7\">EXO 12:7</a>; <a href=\"https://ref.ly/2Chr30:15-2Chr30:17\">2CH 30:15–30:17</a>; <a href=\"https://ref.ly/Ezra6:20\">EZR 6:20</a>; <a href=\"https://ref.ly/Luke22:7\">LUK 22:7</a></p>\n<h3>The best had to be chosen</h3>\n<p><strong><a href=\"https://ref.ly/Num6:14\">NUM 6:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev4:32\">LEV 4:32</a>, <a href=\"https://ref.ly/Lev23:12\">LEV 23:12</a>; <a href=\"https://ref.ly/Num28:3-Num28:4\">NUM 28:3–28:4</a>, <a href=\"https://ref.ly/Num28:11\">NUM 28:11</a>; <a href=\"https://ref.ly/Ezek46:4\">EZK 46:4</a></p>\n<h3>They were costly</h3>\n<p><strong><a href=\"https://ref.ly/Lev12:8\">LEV 12:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod34:20\">EXO 34:20</a></p>\n<h2>The figurative use of lambs</h2>\n<h3>In general</h3>\n<p><strong><a href=\"https://ref.ly/Ps114:4\">PSA 114:4</a></strong>; <strong><a href=\"https://ref.ly/Luke10:3\">LUK 10:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:11\">ISA 40:11</a>, <a href=\"https://ref.ly/Isa65:25\">ISA 65:25</a>; <a href=\"https://ref.ly/Jer11:19\">JER 11:19</a>; <a href=\"https://ref.ly/John21:15\">JHN 21:15</a></p>\n<h3>Describing Jesus Christ and his work</h3>\n<p><strong><a href=\"https://ref.ly/John1:36\">JHN 1:36</a></strong>; <strong><a href=\"https://ref.ly/1Pet1:18-1Pet1:19\">1PE 1:18–1:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts8:32\">ACT 8:32</a>; <a href=\"https://ref.ly/Isa53:7\">ISA 53:7</a>; <a href=\"https://ref.ly/1Cor5:7\">1CO 5:7</a>; <a href=\"https://ref.ly/Rev5:12\">REV 5:12</a>, <a href=\"https://ref.ly/Rev22:3\">REV 22:3</a></p>",
@@ -296,6 +296,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7784: shepherd",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Cosam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cosam"
+},
+{
+"id": "fauna:Lamb",
+"type": "fauna",
+"confidence": 0.5838,
+"match_method": "scored",
+"preferred_label": "Sheep"
 }
 ]
 }

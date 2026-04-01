@@ -2,10 +2,10 @@
 {
 "content_id": "5795",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5795: bereavement",
 "media_type": "Text",
-"index_reference": "5795: bereavement",
+"index_reference": "5795",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The experience or status of suffering the loss through death of a close relative or friend.</p>",
@@ -26,7 +26,8 @@
 "label": "5797: bereavement, God's comfort in",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

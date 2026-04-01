@@ -2,10 +2,10 @@
 {
 "content_id": "8320",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8320: perfection",
 "media_type": "Text",
-"index_reference": "8320: perfection",
+"index_reference": "8320",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The state of completion and total self-sufficiency, characterised by an absence of any flaw or fault. This perfection is found in God himself and is the ultimate goal of the Christian life.</p>",
@@ -25,6 +25,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8322: perfection, human",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shebuel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shebuel"
+},
+{
+"id": "person:Shebuel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shebuel"
 }
 ]
 }

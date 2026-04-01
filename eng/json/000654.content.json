@@ -2,10 +2,10 @@
 {
 "content_id": "5047",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5047: opportunities, in life",
 "media_type": "Text",
-"index_reference": "5047: opportunities, in life",
+"index_reference": "5047",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture views life as divinely ordained to include occasions when certain forms of behaviour are appropriate.</p>\n<h2>The need to discern opportune moments</h2>\n<p><strong><a href=\"https://ref.ly/Eccl3:1\">ECC 3:1</a></strong></p>\n<h2>Every possible opportunity should be  taken to do good</h2>\n<p><strong><a href=\"https://ref.ly/Gal6:10\">GAL 6:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke10:33\">LUK 10:33</a>; <a href=\"https://ref.ly/John9:4\">JHN 9:4</a>; <a href=\"https://ref.ly/Eph5:16\">EPH 5:16</a>; <a href=\"https://ref.ly/Col4:5\">COL 4:5</a>; <a href=\"https://ref.ly/2Tim4:2\">2TI 4:2</a></p>\n<h2>Examples of individuals who seized opportunities to serve God</h2>\n<p>Rahab saved the spies and her household:\n <a href=\"https://ref.ly/Josh2:8-Josh2:14\">JOS 2:8–2:14</a>, <a href=\"https://ref.ly/Josh6:23\">JOS 6:23</a>; \n<a href=\"https://ref.ly/2Kgs5:1-2Kgs5:3\">2KI 5:1–5:3</a> <em>Naaman's wife's maid helped Naaman by telling her mistress about Elisha</em>; ; <a href=\"https://ref.ly/Neh2:2-Neh2:5\">NEH 2:2–2:5</a> <em>Nehemiah gained permission to rebuild the walls of Jerusalem.</em>; <a href=\"https://ref.ly/Esth4:14\">EST 4:14</a>, <a href=\"https://ref.ly/Esth7:3-Esth7:6\">EST 7:3–7:6</a>; \n<a href=\"https://ref.ly/Dan2:14-Dan2:16\">DAN 2:14–2:16</a> <em>Daniel offered to interpret Nebuchadnezzar's dream</em>; ; <a href=\"https://ref.ly/Acts18:24-Acts18:26\">ACT 18:24–18:26</a> <em>Priscilla and Aquila taught Apollos.</em></p>\n<h2>Some opportunities should be rejected</h2>\n<p><a href=\"https://ref.ly/1Sam24:3-1Sam24:4\">1SA 24:3–24:4</a>, <a href=\"https://ref.ly/1Sam24:10\">1SA 24:10</a>, <a href=\"https://ref.ly/1Sam26:6-1Sam26:11\">1SA 26:6–26:11</a></p>\n<h2>Opportunities to do evil may have appalling consequences</h2>\n<p><a href=\"https://ref.ly/Gen4:8\">GEN 4:8</a> <em>Cain made an opportunity to murder Abel</em>; ; <a href=\"https://ref.ly/Gen25:29-Gen25:31\">GEN 25:29–25:31</a> <em>Jacob took the opportunity to “buy” Esau's birthright.</em>; <a href=\"https://ref.ly/Gen37:18-Gen37:20\">GEN 37:18–37:20</a>, <a href=\"https://ref.ly/Gen37:27\">GEN 37:27</a>; \n<a href=\"https://ref.ly/Dan6:4-Dan6:5\">DAN 6:4–6:5</a> <em>Daniel's enemies sought and found an opportunity to lay a charge against him.</em>; <a href=\"https://ref.ly/Matt26:16\">MAT 26:16</a> parallels <a href=\"https://ref.ly/Mark14:11\">MRK 14:11</a>, <a href=\"https://ref.ly/Luke22:6\">LUK 22:6</a></p>\n<h2>Giving others an opportunity to do wrong must be avoided</h2>\n<p><a href=\"https://ref.ly/1Tim5:14\">1TI 5:14</a></p>",
@@ -251,6 +251,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8754: fear",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Elon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elon"
 }
 ]
 }

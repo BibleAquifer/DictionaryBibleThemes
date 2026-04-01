@@ -2,16 +2,17 @@
 {
 "content_id": "6724",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6724: redeemer, God as",
 "media_type": "Text",
-"index_reference": "6724: redeemer, god as",
+"index_reference": "6724",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"1315.md\">1315: God, as redeemer</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

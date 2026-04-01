@@ -2,10 +2,10 @@
 {
 "content_id": "5010",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5010: conscience, matters of",
 "media_type": "Text",
-"index_reference": "5010: conscience, matters of",
+"index_reference": "5010",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture gives guidance on matters of conscience, particularly in cases where believers may reach different conclusions on certain matters of moral or spiritual choice.</p>\n<h2>Having a right attitude to Christians with different opinions</h2>\n<h3>Consciences may differ</h3>\n<p><strong><a href=\"https://ref.ly/Rom14:2\">ROM 14:2</a></strong></p>\n<h3>Different conscientious decisions must not be condemned</h3>\n<p><strong><a href=\"https://ref.ly/Rom14:1\">ROM 14:1</a></strong> <em>The gospel dispenses believers from all prohibitions concerning food. Those who are strong in faith realise this, and joyfully accept this liberty. Yet others are hindered from accepting this, on account of scruples about food inherited from their past life. Paul asks those with a clearer grasp of the gospel to respect anyone whose “faith is weak”, so that, in their own time, they may come to share the fulness of the liberty of the children of God.</em> <em>See also</em> <a href=\"https://ref.ly/Rom14:10\">ROM 14:10</a>, <a href=\"https://ref.ly/Rom14:13\">ROM 14:13</a>; <a href=\"https://ref.ly/1Cor10:29-1Cor10:30\">1CO 10:29–10:30</a></p>\n<h3>God accepts and supports people who reach different conscientious decisions</h3>\n<p><strong><a href=\"https://ref.ly/Rom14:3-Rom14:4\">ROM 14:3–14:4</a></strong></p>\n<h3>God alone must judge whether decisions of the conscience are right or wrong</h3>\n<p><strong><a href=\"https://ref.ly/Rom14:12-Rom14:13\">ROM 14:12–14:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Col2:16\">COL 2:16</a></p>\n<h2>Decision-making</h2>\n<h3>Decisions should honour Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Rom14:6\">ROM 14:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom14:7-Rom14:9\">ROM 14:7–14:9</a>, <a href=\"https://ref.ly/Rom14:22\">ROM 14:22</a>; <a href=\"https://ref.ly/1Cor10:31\">1CO 10:31</a>; <a href=\"https://ref.ly/Col2:20-Col2:23\">COL 2:20–2:23</a></p>\n<h3>Decisions should arise from convictions</h3>\n<p><strong><a href=\"https://ref.ly/Rom14:5\">ROM 14:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom14:23\">ROM 14:23</a></p>\n<h3>Decisions should be based on good doctrine</h3>\n<p><strong><a href=\"https://ref.ly/1Cor10:25-1Cor10:26\">1CO 10:25–10:26</a></strong></p>\n<h2>Consideration of others</h2>\n<h3>Regard for another's position</h3>\n<p><strong><a href=\"https://ref.ly/1Cor10:23-1Cor10:24\">1CO 10:23–10:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom14:14\">ROM 14:14</a></p>\n<h3>Restraint of freedom for the sake of another</h3>\n<p><strong><a href=\"https://ref.ly/1Cor8:9\">1CO 8:9</a></strong> <em>“The weak” are Christians who have yet to grasp the full implications of the gospel. At this stage, they are likely to be scandalised by the full public exercise of Christian freedom on the part of those who are more mature in their faith. Paul's advice is to respect the sensitivities of the weak, and wait for these fellow believers to become spiritually mature. Paul is not suggesting that Christians should cease to exercise the liberty of faith. Rather, he is asking for pastoral sensitivity.</em> <em>See also</em> <a href=\"https://ref.ly/Rom14:15\">ROM 14:15</a>, <a href=\"https://ref.ly/Rom14:19-Rom14:21\">ROM 14:19–14:21</a>, <a href=\"https://ref.ly/Rom15:1-Rom15:3\">ROM 15:1–15:3</a>; <a href=\"https://ref.ly/1Cor8:10-1Cor8:13\">1CO 8:10–8:13</a>, <a href=\"https://ref.ly/1Cor10:27-1Cor10:29\">1CO 10:27–10:29</a></p>\n<h2>Appeals to conscience</h2>\n<p><a href=\"https://ref.ly/1Kgs12:1-1Kgs12:15\">1KI 12:1–12:15</a>; ; <a href=\"https://ref.ly/Acts10:9-Acts10:16\">ACT 10:9–10:16</a>, <a href=\"https://ref.ly/Acts15:6-Acts15:11\">ACT 15:6–15:11</a> <em>Peter argues against circumcision for Gentile believers</em>; ; <a href=\"https://ref.ly/1Cor8:4-1Cor8:8\">1CO 8:4–8:8</a>; ; <a href=\"https://ref.ly/Phlm1:8-Phlm1:21\">PHM 1:8–1:21</a>; ; <a href=\"https://ref.ly/Gal2:11-Gal2:16\">GAL 2:11–2:16</a> <em>Consciences are not infallible.</em></p>",
@@ -255,6 +255,36 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8469: respect",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Elihu.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elihu"
+},
+{
+"id": "person:Elihu.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elihu"
+},
+{
+"id": "person:Elihu.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elihu"
+},
+{
+"id": "person:Elihu",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elihu"
 }
 ]
 }

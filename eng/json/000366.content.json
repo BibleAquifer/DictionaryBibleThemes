@@ -2,10 +2,10 @@
 {
 "content_id": "4233",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4233: field of blood",
 "media_type": "Text",
-"index_reference": "4233: field of blood",
+"index_reference": "4233",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The field purchased by Judas Iscariot in which he subsequently died</h2>\n<p><strong><a href=\"https://ref.ly/Acts1:18-Acts1:19\">ACT 1:18–1:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt27:3-Matt27:10\">MAT 27:3–27:10</a></p>",
@@ -24,7 +24,23 @@
 "end_ref_usfm": "MAT 27:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Bidkar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bidkar"
+},
+{
+"id": "place:Akeldama",
+"type": "place",
+"confidence": 0.6925,
+"match_method": "scored",
+"preferred_label": "Akeldama"
+}
+]
 }
 }
 ]

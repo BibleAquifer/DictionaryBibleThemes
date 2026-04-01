@@ -2,10 +2,10 @@
 {
 "content_id": "7357",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7357: Feast of Firstfruits",
 "media_type": "Text",
-"index_reference": "7357: feast of firstfruits",
+"index_reference": "7357",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The date of the offering of firstfruits, a celebration of God's gift of the harvest, is not clear; it was probably held on 16th Abib.</p>\n<h2>Offerings made at the celebration of the firstfruits</h2>\n<h3>A burnt offering and a grain offering</h3>\n<p><a href=\"https://ref.ly/Lev23:12-Lev23:13\">LEV 23:12–23:13</a></p>\n<h3>Other offerings</h3>\n<p><a href=\"https://ref.ly/Lev23:19-Lev23:20\">LEV 23:19–23:20</a></p>",
@@ -60,7 +60,8 @@
 "label": "7480: wave offering",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

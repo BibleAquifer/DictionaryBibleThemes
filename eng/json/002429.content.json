@@ -2,10 +2,10 @@
 {
 "content_id": "8808",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8808: riches",
 "media_type": "Text",
-"index_reference": "8808: riches",
+"index_reference": "8808",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Material possessions and wealth. Scripture stresses that riches originate from God: used wisely, they can be a blessing; used foolishly, they can lead people away from God.</p>",
@@ -47,7 +47,8 @@
 "label": "8813: riches, spiritual",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

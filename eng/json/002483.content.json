@@ -2,10 +2,10 @@
 {
 "content_id": "9125",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9125: footstool",
 "media_type": "Text",
-"index_reference": "9125: footstool",
+"index_reference": "9125",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Used mostly symbolically to refer to God's supreme authority over his creation. It is used especially to refer to his final victory over all those who oppose him.</p>\n<h2>The footstool as a rest for the feet</h2>\n<p><strong><a href=\"https://ref.ly/2Chr9:18\">2CH 9:18</a></strong>; <strong><a href=\"https://ref.ly/Jas2:3\">JAS 2:3</a></strong></p>\n<h2>The footstool used symbolically</h2>\n<h3>God's footstool as a symbol for the ark and the temple</h3>\n<p><strong><a href=\"https://ref.ly/Ps132:7\">PSA 132:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr28:2\">1CH 28:2</a>; <a href=\"https://ref.ly/Ps99:5\">PSA 99:5</a>; <a href=\"https://ref.ly/Lam2:1\">LAM 2:1</a></p>\n<h3>God's footstool as a symbol for the earth</h3>\n<p><strong><a href=\"https://ref.ly/Isa66:1\">ISA 66:1</a></strong> <em>God cannot be confined to any man-made temple.</em> <em>See also</em> <a href=\"https://ref.ly/Matt5:35\">MAT 5:35</a>; <a href=\"https://ref.ly/Acts7:49\">ACT 7:49</a></p>\n<h3>Defeated enemies can be regarded as a footstool</h3>\n<p><a href=\"https://ref.ly/Josh10:24-Josh10:25\">JOS 10:24–10:25</a>; ; <a href=\"https://ref.ly/1Kgs5:3\">1KI 5:3</a>; ; <a href=\"https://ref.ly/Ps66:12\">PSA 66:12</a>; ; <a href=\"https://ref.ly/Isa51:23\">ISA 51:23</a>; ; <a href=\"https://ref.ly/Mic7:10\">MIC 7:10</a></p>\n<h3>Jesus Christ will make all God's enemies his footstool</h3>\n<p><strong><a href=\"https://ref.ly/Heb1:13\">HEB 1:13</a></strong> <em>This passage affirms Jesus Christ's supremacy over the angels.</em> <em>See also</em> <a href=\"https://ref.ly/Ps110:1\">PSA 110:1</a>; <a href=\"https://ref.ly/Matt22:44\">MAT 22:44</a> parallels <a href=\"https://ref.ly/Mark12:36\">MRK 12:36</a>, <a href=\"https://ref.ly/Luke20:43\">LUK 20:43</a>; <a href=\"https://ref.ly/Acts2:34-Acts2:35\">ACT 2:34–2:35</a>; <a href=\"https://ref.ly/Eph1:22\">EPH 1:22</a></p>\n<h3>Jesus Christ will complete his victory when he returns</h3>\n<p><strong><a href=\"https://ref.ly/Heb10:13\">HEB 10:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor15:25\">1CO 15:25</a>; <a href=\"https://ref.ly/Heb2:8\">HEB 2:8</a>; <a href=\"https://ref.ly/Ps8:6\">PSA 8:6</a></p>",
@@ -211,6 +211,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7467: temple, Solomon's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Footstool",
+"type": "realia",
+"confidence": 0.6047,
+"match_method": "scored",
+"preferred_label": "Footstool"
 }
 ]
 }

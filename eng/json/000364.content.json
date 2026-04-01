@@ -2,10 +2,10 @@
 {
 "content_id": "4227",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4227: deep, the",
 "media_type": "Text",
-"index_reference": "4227: deep, the",
+"index_reference": "4227",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Unfathomed waters, sometimes seen as existing under the earth, held back by God's power. The term is also used of deep seas, and in metaphorical contexts.</p>\n<h2>Unfathomed waters</h2>\n<p><strong><a href=\"https://ref.ly/Gen1:2\">GEN 1:2</a></strong>; <strong><a href=\"https://ref.ly/Ps104:6-Ps104:9\">PSA 104:6–104:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen7:11\">GEN 7:11</a>, <a href=\"https://ref.ly/Gen49:25\">GEN 49:25</a>; <a href=\"https://ref.ly/Deut33:13\">DEU 33:13</a>; <a href=\"https://ref.ly/Job38:16\">JOB 38:16</a>; <a href=\"https://ref.ly/Ps95:4\">PSA 95:4</a>, <a href=\"https://ref.ly/Ps139:15\">PSA 139:15</a>; <a href=\"https://ref.ly/Prov3:20\">PRO 3:20</a>, <a href=\"https://ref.ly/Prov8:27-Prov8:28\">PRO 8:27–8:28</a>; <a href=\"https://ref.ly/Isa7:11\">ISA 7:11</a>; <a href=\"https://ref.ly/Rom10:7\">ROM 10:7</a></p>\n<h2>Deep seas</h2>\n<p><strong><a href=\"https://ref.ly/Exod15:5\">EXO 15:5</a></strong>; <strong><a href=\"https://ref.ly/Jonah2:3\">JON 2:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job7:12\">JOB 7:12</a>, <a href=\"https://ref.ly/Job38:30\">JOB 38:30</a>; <a href=\"https://ref.ly/Ps42:7\">PSA 42:7</a>; <a href=\"https://ref.ly/Isa44:27\">ISA 44:27</a>, <a href=\"https://ref.ly/Isa51:10\">ISA 51:10</a>; <a href=\"https://ref.ly/Hab3:10\">HAB 3:10</a>; <a href=\"https://ref.ly/Matt18:6\">MAT 18:6</a>; <a href=\"https://ref.ly/Luke5:4\">LUK 5:4</a></p>\n<h2>The deep used metaphorically of a desperate situation</h2>\n<p><strong><a href=\"https://ref.ly/Ps18:16\">PSA 18:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam22:17\">2SA 22:17</a>; <a href=\"https://ref.ly/Ps30:1\">PSA 30:1</a>, <a href=\"https://ref.ly/Ps69:2\">PSA 69:2</a>, <a href=\"https://ref.ly/Ps69:15\">PSA 69:15</a>, <a href=\"https://ref.ly/Ps130:1\">PSA 130:1</a></p>",
@@ -216,7 +216,8 @@
 "label": "9520: Abyss, the",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

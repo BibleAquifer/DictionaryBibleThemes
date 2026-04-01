@@ -2,10 +2,10 @@
 {
 "content_id": "5466",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5466: promises",
 "media_type": "Text",
-"index_reference": "5466: promises",
+"index_reference": "5466",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Binding offers or commitments on the part of one person or people to another. The value of such promises depends upon the reliability and trustworthiness of the person who makes the promises. Scripture stresses the total reliability of God, including his promise to bestow his Spirit and urges believers to demonstrate the same trustworthiness in their dealings with one another.</p>",
@@ -33,7 +33,8 @@
 "label": "5469: promise, of Holy Spirit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

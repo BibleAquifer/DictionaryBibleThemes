@@ -2,10 +2,10 @@
 {
 "content_id": "5012",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5012: heart",
 "media_type": "Text",
-"index_reference": "5012: heart",
+"index_reference": "5012",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A vital bodily organ. The term is used in Scripture of the inner life of God or a person. The entire inner person, though fallen, may be changed by the Holy Spirit, in which case it should show evidence of renewal.</p>",
@@ -46,6 +46,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5017: heart, results of renewal in",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Elika",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elika"
 }
 ]
 }

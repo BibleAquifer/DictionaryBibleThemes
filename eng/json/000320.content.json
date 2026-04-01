@@ -2,10 +2,10 @@
 {
 "content_id": "4110",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4110: angels",
 "media_type": "Text",
-"index_reference": "4110: angels",
+"index_reference": "4110",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Spiritual beings who assist God, especially in his work of salvation, conveying his word to human beings and attending to the needs of God's people.</p>",
@@ -53,6 +53,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4116: angels, opposed to God",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Beninu",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beninu"
 }
 ]
 }

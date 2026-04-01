@@ -2,10 +2,10 @@
 {
 "content_id": "4408",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4408: balm",
 "media_type": "Text",
-"index_reference": "4408: balm",
+"index_reference": "4408",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Balm was a herb valued for its healing properties</h2>\n<p><strong><a href=\"https://ref.ly/Jer8:22\">JER 8:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr28:15\">2CH 28:15</a>; <a href=\"https://ref.ly/Jer46:11\">JER 46:11</a>, <a href=\"https://ref.ly/Jer51:8\">JER 51:8</a></p>\n<h2>Balm was exported from Israel to other nations</h2>\n<p><strong><a href=\"https://ref.ly/Gen43:11\">GEN 43:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a>; <a href=\"https://ref.ly/Ezek27:17\">EZK 27:17</a></p>",
@@ -82,6 +82,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5587: trade",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Liquidambar",
+"type": "flora",
+"confidence": 0.7719,
+"match_method": "scored",
+"preferred_label": "Liquidambar"
 }
 ]
 }

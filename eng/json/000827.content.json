@@ -2,10 +2,10 @@
 {
 "content_id": "5239",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5239: bricks",
 "media_type": "Text",
-"index_reference": "5239: bricks",
+"index_reference": "5239",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Bricks used in construction</h2>\n<h3>The tower of Babel</h3>\n<p><strong><a href=\"https://ref.ly/Gen11:3-Gen11:4\">GEN 11:3–11:4</a></strong></p>\n<h3>Altars</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Isa65:3\">ISA 65:3</a></p>\n<h3>Pavements</h3>\n<p><a href=\"https://ref.ly/Jer43:9\">JER 43:9</a></p>\n<h3>Bricks were cheaper than stone</h3>\n<p><a href=\"https://ref.ly/Isa9:10\">ISA 9:10</a></p>\n<h3>Repair of brickwork</h3>\n<p><a href=\"https://ref.ly/Nah3:14\">NAM 3:14</a></p>\n<h2>Making bricks as a punishment</h2>\n<p><strong><a href=\"https://ref.ly/Exod1:14\">EXO 1:14</a></strong>; <strong><a href=\"https://ref.ly/2Sam12:30-2Sam12:31\">2SA 12:30–12:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod5:7-Exod5:19\">EXO 5:7–5:19</a></p>",
@@ -88,6 +88,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5269: cornerstone",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Brick",
+"type": "realia",
+"confidence": 0.5926,
+"match_method": "scored",
+"preferred_label": "Brick"
 }
 ]
 }

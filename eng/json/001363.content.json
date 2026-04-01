@@ -2,10 +2,10 @@
 {
 "content_id": "5842",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5842: eloquence",
 "media_type": "Text",
-"index_reference": "5842: eloquence",
+"index_reference": "5842",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The ability to speak with fluency and persuasive power, using words appropriate to the circumstances.</p>\n<h2>Examples of lack of eloquence</h2>\n<p><strong><a href=\"https://ref.ly/Exod4:10\">EXO 4:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod6:12\">EXO 6:12</a>, <a href=\"https://ref.ly/Exod6:30\">EXO 6:30</a>; <a href=\"https://ref.ly/2Cor10:10\">2CO 10:10</a>, <a href=\"https://ref.ly/2Cor11:6\">2CO 11:6</a></p>\n<h2>Preaching the gospel does not rely on human eloquence</h2>\n<p><strong><a href=\"https://ref.ly/1Cor1:17\">1CO 1:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor1:19-1Cor1:21\">1CO 1:19–1:21</a>, <a href=\"https://ref.ly/1Cor2:1\">1CO 2:1</a>, <a href=\"https://ref.ly/1Cor13:1\">1CO 13:1</a></p>\n<h2>Eloquence that comes from God</h2>\n<p><strong><a href=\"https://ref.ly/Acts6:9-Acts6:10\">ACT 6:9–6:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod4:11\">EXO 4:11</a>, <a href=\"https://ref.ly/Exod4:15-Exod4:16\">EXO 4:15–4:16</a>; <a href=\"https://ref.ly/Isa32:4\">ISA 32:4</a>; <a href=\"https://ref.ly/Mark13:11\">MRK 13:11</a>; <a href=\"https://ref.ly/Luke21:15\">LUK 21:15</a>; <a href=\"https://ref.ly/Acts18:4\">ACT 18:4</a>, <a href=\"https://ref.ly/Acts19:8-Acts19:10\">ACT 19:8–19:10</a></p>\n<h2>Examples of eloquence in speeches</h2>\n<p><a href=\"https://ref.ly/Acts5:35-Acts5:40\">ACT 5:35–5:40</a>, <a href=\"https://ref.ly/Acts17:22-Acts17:23\">ACT 17:22–17:23</a>, <a href=\"https://ref.ly/Acts18:24-Acts18:28\">ACT 18:24–18:28</a></p>\n<h2>Eloquent words may lead to sin</h2>\n<p><strong><a href=\"https://ref.ly/Prov7:21\">PRO 7:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps12:3-Ps12:4\">PSA 12:3–12:4</a>, <a href=\"https://ref.ly/Ps55:21\">PSA 55:21</a>; <a href=\"https://ref.ly/Prov2:16\">PRO 2:16</a>, <a href=\"https://ref.ly/Prov5:3\">PRO 5:3</a>, <a href=\"https://ref.ly/Prov6:24\">PRO 6:24</a>, <a href=\"https://ref.ly/Prov29:5\">PRO 29:5</a></p>\n<h2>Sayings concerning eloquence</h2>\n<p><strong><a href=\"https://ref.ly/Ps45:1\">PSA 45:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov10:31-Prov10:32\">PRO 10:31–10:32</a>, <a href=\"https://ref.ly/Prov12:18\">PRO 12:18</a>, <a href=\"https://ref.ly/Prov22:11\">PRO 22:11</a>; <a href=\"https://ref.ly/Eccl10:12\">ECC 10:12</a></p>",
@@ -267,6 +267,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7751: persuasion",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hiel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hiel"
 }
 ]
 }

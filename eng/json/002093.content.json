@@ -2,10 +2,10 @@
 {
 "content_id": "8256",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8256: fruitfulness",
 "media_type": "Text",
-"index_reference": "8256: fruitfulness",
+"index_reference": "8256",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Fruitfulness is seen as a sign of blessing and closeness to God, just as barrenness may be seen as a sign of God's disfavour. Scripture stresses that faith is given in order that it may bear fruit.</p>",
@@ -25,6 +25,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8258: fruitfulness, spiritual",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shabbethai.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shabbethai"
+},
+{
+"id": "person:Shabbethai.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shabbethai"
+},
+{
+"id": "person:Shabbethai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shabbethai"
 }
 ]
 }

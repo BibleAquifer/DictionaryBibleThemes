@@ -2,10 +2,10 @@
 {
 "content_id": "5062",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5062: spirit",
 "media_type": "Text",
-"index_reference": "5062: spirit",
+"index_reference": "5062",
 "language": "eng",
 "review_level": "None",
 "content": "<p>In Scripture the innermost aspect of human nature. The three-fold division of spirit, soul and body is sometimes used to refer to this distinction between the physical and spiritual aspects of human existence.</p>",
@@ -32,6 +32,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5065: spirit, fallen and redeemed",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Elzabad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elzabad"
+},
+{
+"id": "person:Elzabad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elzabad"
 }
 ]
 }

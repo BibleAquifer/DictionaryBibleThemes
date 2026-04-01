@@ -2,16 +2,17 @@
 {
 "content_id": "1442",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1442: revelation, of God",
 "media_type": "Text",
-"index_reference": "1442: revelation, of god",
+"index_reference": "1442",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"1403.md\">1403: God, revelation of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

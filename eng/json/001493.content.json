@@ -2,10 +2,10 @@
 {
 "content_id": "6010",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6010: Sin",
 "media_type": "Text",
-"index_reference": "6010: sin",
+"index_reference": "6010",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"6020\" data-resourcetype=\"DictionaryOfBibleThemes\">6020: sin</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6040\" data-resourcetype=\"DictionaryOfBibleThemes\">6040: sinners</span></li></ul>",
@@ -26,7 +26,8 @@
 "label": "6040: sinners",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

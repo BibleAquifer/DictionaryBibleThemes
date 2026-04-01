@@ -2,10 +2,10 @@
 {
 "content_id": "8472",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8472: respect, for environment",
 "media_type": "Text",
-"index_reference": "8472: respect, for environment",
+"index_reference": "8472",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Although God created the universe and retains ultimate ownership of it, he has delegated responsibility for the well-being of the earth to the human race. This stewardship includes the care of the animal kingdom and the earth's natural resources.</p>\n<h2>God's creation is to be respected</h2>\n<h3>The earth belongs to God</h3>\n<p><strong><a href=\"https://ref.ly/Ps24:1-Ps24:2\">PSA 24:1–24:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod19:5-Exod19:6\">EXO 19:5–19:6</a>; <a href=\"https://ref.ly/Lev25:23\">LEV 25:23</a>; <a href=\"https://ref.ly/1Chr29:14\">1CH 29:14</a>; <a href=\"https://ref.ly/Ps50:9-Ps50:12\">PSA 50:9–50:12</a>, <a href=\"https://ref.ly/Ps89:11\">PSA 89:11</a>; <a href=\"https://ref.ly/Hag2:8\">HAG 2:8</a></p>\n<h3>Responsibility to rule and care for the earth has been delegated to the human race</h3>\n<p><strong><a href=\"https://ref.ly/Gen1:26-Gen1:28\">GEN 1:26–1:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen9:1-Gen9:3\">GEN 9:1–9:3</a>; <a href=\"https://ref.ly/Ps8:6-Ps8:8\">PSA 8:6–8:8</a>, <a href=\"https://ref.ly/Ps115:16\">PSA 115:16</a>; <a href=\"https://ref.ly/Heb2:8\">HEB 2:8</a>; <a href=\"https://ref.ly/Jas3:7\">JAS 3:7</a></p>\n<h3>God himself maintains a caring supervision of his creation</h3>\n<p><strong><a href=\"https://ref.ly/Matt6:26-Matt6:30\">MAT 6:26–6:30</a></strong> parallel <a href=\"https://ref.ly/Luke12:24-Luke12:28\">LUK 12:24–12:28</a> <em>See also</em> <a href=\"https://ref.ly/Deut11:10-Deut11:15\">DEU 11:10–11:15</a>; <a href=\"https://ref.ly/Ps65:9-Ps65:13\">PSA 65:9–65:13</a>; <a href=\"https://ref.ly/Matt5:45\">MAT 5:45</a></p>\n<h2>Respect for all nature and animals</h2>\n<p><strong><a href=\"https://ref.ly/Deut20:19\">DEU 20:19</a></strong> <em>NIV footnote.</em> <em>See also</em> <a href=\"https://ref.ly/Exod23:4-Exod23:5\">EXO 23:4–23:5</a>, <a href=\"https://ref.ly/Exod23:10-Exod23:11\">EXO 23:10–23:11</a>; <a href=\"https://ref.ly/Deut22:4\">DEU 22:4</a>, <a href=\"https://ref.ly/Deut22:6-Deut22:7\">DEU 22:6–22:7</a>, <a href=\"https://ref.ly/Deut25:4\">DEU 25:4</a>; <a href=\"https://ref.ly/Prov12:10\">PRO 12:10</a></p>\n<h2>Respect and care for the earth's natural resources</h2>\n<p><strong><a href=\"https://ref.ly/Exod23:10-Exod23:11\">EXO 23:10–23:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev25:1-Lev25:7\">LEV 25:1–25:7</a>; <a href=\"https://ref.ly/Neh10:31\">NEH 10:31</a></p>",
@@ -237,6 +237,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7482: Year of Jubilee",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Siaha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Siaha"
 }
 ]
 }

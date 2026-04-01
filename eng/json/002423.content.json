@@ -2,10 +2,10 @@
 {
 "content_id": "8801",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8801: presumption",
 "media_type": "Text",
-"index_reference": "8801: presumption",
+"index_reference": "8801",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A form of self-confidence, which makes overconfident assumptions concerning one's importance and rights. It is criticised as a form of arrogance that is unacceptable among believers, whose lives should be characterised by humility.</p>\n<h2>Presumption is unacceptable</h2>\n<p><strong><a href=\"https://ref.ly/Ps5:5\">PSA 5:5</a></strong>; <strong><a href=\"https://ref.ly/Isa13:11\">ISA 13:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num15:30\">NUM 15:30</a>; <a href=\"https://ref.ly/Deut6:16\">DEU 6:16</a>, <a href=\"https://ref.ly/Deut18:20\">DEU 18:20</a>; <a href=\"https://ref.ly/Isa45:9\">ISA 45:9</a>; <a href=\"https://ref.ly/Rom2:4\">ROM 2:4</a>, <a href=\"https://ref.ly/Rom9:20\">ROM 9:20</a>; <a href=\"https://ref.ly/1Cor10:9\">1CO 10:9</a>; <a href=\"https://ref.ly/Jas4:13\">JAS 4:13</a>; <a href=\"https://ref.ly/2Pet2:10\">2PE 2:10</a></p>\n<h2>Examples of presumption</h2>\n<p><a href=\"https://ref.ly/Gen11:1-Gen11:4\">GEN 11:1–11:4</a> <em>those preparing to build the tower of Babel in defiance of God</em>; ; <a href=\"https://ref.ly/Num14:40-Num14:45\">NUM 14:40–14:45</a> <em>the Israelites, ignoring Moses' orders</em>; ; <a href=\"https://ref.ly/Luke12:16-Luke12:21\">LUK 12:16–12:21</a> <em>the rich fool</em></p>\n<h2>Humility is commended in place of presumption</h2>\n<p><strong><a href=\"https://ref.ly/Mic6:8\">MIC 6:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke14:10\">LUK 14:10</a>, <a href=\"https://ref.ly/Luke22:26\">LUK 22:26</a>; <a href=\"https://ref.ly/Rom12:3\">ROM 12:3</a>; <a href=\"https://ref.ly/Jas4:10\">JAS 4:10</a>; <a href=\"https://ref.ly/1Pet5:5\">1PE 5:5</a></p>",
@@ -181,6 +181,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8820: self-confidence",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Judas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Judas"
 }
 ]
 }

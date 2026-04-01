@@ -2,10 +2,10 @@
 {
 "content_id": "5792",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5792: appetite",
 "media_type": "Text",
-"index_reference": "5792: appetite",
+"index_reference": "5792",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A hunger or desire for something. Although the primary reference of the term is to a hunger for food, it can also refer to other human desires. Scripture distinguishes between healthy and unhealthy appetites, indicating what it is appropriate to seek after.</p>\n<h2>Appetite as physical hunger</h2>\n<p><strong><a href=\"https://ref.ly/Num11:6\">NUM 11:6</a></strong>; <strong><a href=\"https://ref.ly/Prov6:30\">PRO 6:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps107:5-Ps107:9\">PSA 107:5–107:9</a>; <a href=\"https://ref.ly/Prov16:26\">PRO 16:26</a>; <a href=\"https://ref.ly/Eccl6:7\">ECC 6:7</a>; <a href=\"https://ref.ly/Isa29:8\">ISA 29:8</a>; <a href=\"https://ref.ly/Jer31:25\">JER 31:25</a>, <a href=\"https://ref.ly/Jer50:19\">JER 50:19</a>; <a href=\"https://ref.ly/Lam2:12\">LAM 2:12</a></p>\n<h2>Appetite as a spiritual hunger</h2>\n<p><strong><a href=\"https://ref.ly/Ps143:6\">PSA 143:6</a></strong>; <strong><a href=\"https://ref.ly/Prov25:25\">PRO 25:25</a></strong>; <strong><a href=\"https://ref.ly/Matt5:6\">MAT 5:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps119:20\">PSA 119:20</a>, <a href=\"https://ref.ly/Ps119:131\">PSA 119:131</a></p>\n<h2>The gospel satisfies human hunger and thirst</h2>\n<p><strong><a href=\"https://ref.ly/John4:13-John4:14\">JHN 4:13–4:14</a>, <a href=\"https://ref.ly/John6:35\">JHN 6:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps42:2\">PSA 42:2</a>; <a href=\"https://ref.ly/Isa55:1\">ISA 55:1</a>; <a href=\"https://ref.ly/John6:27\">JHN 6:27</a>, <a href=\"https://ref.ly/John6:50-John6:51\">JHN 6:50–6:51</a>, <a href=\"https://ref.ly/John7:37\">JHN 7:37</a>; <a href=\"https://ref.ly/Rev21:6\">REV 21:6</a>, <a href=\"https://ref.ly/Rev22:17\">REV 22:17</a></p>\n<h2>Lust as sexual appetite</h2>\n<p><a href=\"https://ref.ly/Prov6:25\">PRO 6:25</a>; ; <a href=\"https://ref.ly/Ezek23:11\">EZK 23:11</a>; ; <a href=\"https://ref.ly/Col3:5\">COL 3:5</a>; ; <a href=\"https://ref.ly/1Thess4:3-1Thess4:5\">1TH 4:3–4:5</a></p>",
@@ -259,7 +259,8 @@
 "label": "8821: self-indulgence",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

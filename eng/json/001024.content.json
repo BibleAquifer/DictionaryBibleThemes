@@ -2,10 +2,10 @@
 {
 "content_id": "5446",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5446: poverty",
 "media_type": "Text",
-"index_reference": "5446: poverty",
+"index_reference": "5446",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The state of being without material possessions or wealth. Scripture indicates that poverty is contrary to God's intention for his people, and that those who are poor and destitute are to be treated with special consideration and compassion.</p>",
@@ -39,6 +39,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5450: poverty, spiritual",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gibbethon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibbethon"
 }
 ]
 }

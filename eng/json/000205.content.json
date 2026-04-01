@@ -2,10 +2,10 @@
 {
 "content_id": "2375",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "2375: kingdom of God",
 "media_type": "Text",
-"index_reference": "2375: kingdom of god",
+"index_reference": "2375",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Or, less frequently, “kingdom of heaven”, the kingly rule of God in the lives of people and nations. It refers to the recognition of the authority of God, rather than a definite geographical area, and begins with the ministry of Jesus Christ.</p>",
@@ -33,7 +33,8 @@
 "label": "2378: kingdom of God, characteristics of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

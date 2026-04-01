@@ -2,10 +2,10 @@
 {
 "content_id": "7413",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7413: priesthood, in OT",
 "media_type": "Text",
-"index_reference": "7413: priesthood, in ot",
+"index_reference": "7413",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The institution of the priesthood or the particular body of people responsible for priestly duties.</p>\n<h2>The priesthood as an institution</h2>\n<h3>It was a perpetual institution</h3>\n<p><strong><a href=\"https://ref.ly/Exod40:15\">EXO 40:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num18:1\">NUM 18:1</a>, <a href=\"https://ref.ly/Num25:13\">NUM 25:13</a></p>\n<h3>It was distinct from the laity</h3>\n<p><strong><a href=\"https://ref.ly/Num3:10\">NUM 3:10</a></strong></p>\n<h3>It was subject to the king's authority</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs2:27\">1KI 2:27</a></strong></p>\n<h3>It was a privilege</h3>\n<p><strong><a href=\"https://ref.ly/Num18:7\">NUM 18:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod29:9\">EXO 29:9</a>; <a href=\"https://ref.ly/Num16:10\">NUM 16:10</a>; <a href=\"https://ref.ly/Josh18:7\">JOS 18:7</a></p>\n<h2>The priesthood as the body of people responsible for priestly duties</h2>\n<h3>The Aaronic priesthood</h3>\n<p><strong><a href=\"https://ref.ly/Exod28:41\">EXO 28:41</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr6:49\">1CH 6:49</a>; <a href=\"https://ref.ly/Neh10:38\">NEH 10:38</a></p>\n<h3>The Shiloh priesthood</h3>\n<p><strong><a href=\"https://ref.ly/Josh18:1\">JOS 18:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam3:14\">1SA 3:14</a>; <a href=\"https://ref.ly/1Kgs2:27\">1KI 2:27</a>; <a href=\"https://ref.ly/Ps78:60\">PSA 78:60</a> <em>The Shiloh priesthood ended when the Philistines took Shiloh (see <a href=\"https://ref.ly/1Sam4:17\">1Sa 4:17</a>)</em>; <a href=\"https://ref.ly/Jer7:12\">JER 7:12</a></p>\n<h3>The Melchizedek priesthood</h3>\n<p><strong><a href=\"https://ref.ly/Ps110:4\">PSA 110:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen14:18\">GEN 14:18</a>; <a href=\"https://ref.ly/Heb5:10\">HEB 5:10</a>, <a href=\"https://ref.ly/Heb7:11-Heb7:17\">HEB 7:11–7:17</a></p>\n<h3>The Anathoth priesthood</h3>\n<p><strong><a href=\"https://ref.ly/Jer1:1\">JER 1:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh21:18\">JOS 21:18</a>; <a href=\"https://ref.ly/1Kgs2:27\">1KI 2:27</a></p>\n<h3>The Zadokite priesthood</h3>\n<p><strong><a href=\"https://ref.ly/Ezek40:46\">EZK 40:46</a></strong> <em>The priestly line of Zadok lasted until 170 B.C.</em></p>\n<h3>The Levitical priesthood</h3>\n<p><strong><a href=\"https://ref.ly/Deut17:9\">DEU 17:9</a></strong> <em>The term “the priests, who are Levites” appears only in Deuteronomy. Some think it reflects a situation in which all Levites were priests. Not all passages support this view, however, and the phrase may simply distinguish the ministry of the Levitical priests from the priesthood of the king.</em></p>",
@@ -225,6 +225,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8622: worship",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Noah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Noah"
+},
+{
+"id": "person:Noah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Noah"
 }
 ]
 }

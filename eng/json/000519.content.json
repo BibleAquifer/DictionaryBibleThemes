@@ -2,10 +2,10 @@
 {
 "content_id": "4675",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4675: nest",
 "media_type": "Text",
-"index_reference": "4675: nest",
+"index_reference": "4675",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The nest as the home of a bird rearing its young</h2>\n<p><strong><a href=\"https://ref.ly/Ps84:3\">PSA 84:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut22:6-Deut22:7\">DEU 22:6–22:7</a>; <a href=\"https://ref.ly/Job39:27-Job39:30\">JOB 39:27–39:30</a>; <a href=\"https://ref.ly/Ps104:12\">PSA 104:12</a>, <a href=\"https://ref.ly/Ps104:17\">PSA 104:17</a>; <a href=\"https://ref.ly/Isa34:11\">ISA 34:11</a>, <a href=\"https://ref.ly/Isa34:15\">ISA 34:15</a>; <a href=\"https://ref.ly/Jer48:28\">JER 48:28</a>; <a href=\"https://ref.ly/Ezek17:23\">EZK 17:23</a></p>\n<h2>The nest as a place of security</h2>\n<p><strong><a href=\"https://ref.ly/Matt8:20\">MAT 8:20</a></strong> parallel <a href=\"https://ref.ly/Luke9:58\">LUK 9:58</a> <em>See also</em> <a href=\"https://ref.ly/Deut32:10-Deut32:11\">DEU 32:10–32:11</a>; <a href=\"https://ref.ly/Prov27:8\">PRO 27:8</a>; <a href=\"https://ref.ly/Hab2:9\">HAB 2:9</a></p>\n<h2>The nest may not always be safe</h2>\n<p><strong><a href=\"https://ref.ly/Isa10:14\">ISA 10:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num24:21-Num24:22\">NUM 24:21–24:22</a>; <a href=\"https://ref.ly/Isa16:2\">ISA 16:2</a>; <a href=\"https://ref.ly/Jer49:16\">JER 49:16</a>; <a href=\"https://ref.ly/Obad1:4\">OBA 1:4</a></p>\n<h2>The nest as the home of the viper</h2>\n<p><a href=\"https://ref.ly/Isa11:8\">ISA 11:8</a></p>",
@@ -147,7 +147,8 @@
 "label": "5942: security",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "8465",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8465: progress",
 "media_type": "Text",
-"index_reference": "8465: progress",
+"index_reference": "8465",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The process of development and growth, of special importance in the life of believers. Scripture stresses the importance of progress, both of the individual believer and of the church, and the need to work towards that goal.</p>\n<h2>Progress in the Christian life should be expected</h2>\n<p><strong><a href=\"https://ref.ly/2Cor3:18\">2CO 3:18</a></strong>; <strong><a href=\"https://ref.ly/Eph4:15\">EPH 4:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job17:9\">JOB 17:9</a>; <a href=\"https://ref.ly/Ps84:5\">PSA 84:5</a>, <a href=\"https://ref.ly/Ps84:7\">PSA 84:7</a>, <a href=\"https://ref.ly/Ps92:12\">PSA 92:12</a>; <a href=\"https://ref.ly/Prov4:18\">PRO 4:18</a>; <a href=\"https://ref.ly/Rom8:29-Rom8:30\">ROM 8:29–8:30</a></p>\n<h2>Believers are to strive for progress in their Christian lives</h2>\n<p><strong><a href=\"https://ref.ly/Phil2:12\">PHP 2:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps18:29\">PSA 18:29</a>; <a href=\"https://ref.ly/1Cor9:24-1Cor9:27\">1CO 9:24–9:27</a>; <a href=\"https://ref.ly/Phil3:12-Phil3:14\">PHP 3:12–3:14</a>; <a href=\"https://ref.ly/1Thess3:12\">1TH 3:12</a>; <a href=\"https://ref.ly/2Thess1:3\">2TH 1:3</a>; <a href=\"https://ref.ly/1Tim4:15\">1TI 4:15</a>; <a href=\"https://ref.ly/Heb6:1\">HEB 6:1</a>; <a href=\"https://ref.ly/1Pet2:2\">1PE 2:2</a>; <a href=\"https://ref.ly/2Pet1:5-2Pet1:8\">2PE 1:5–1:8</a>, <a href=\"https://ref.ly/2Pet3:18\">2PE 3:18</a></p>\n<h2>Progress in the Christian life brings assurance</h2>\n<p><strong><a href=\"https://ref.ly/Heb3:14\">HEB 3:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt10:22\">MAT 10:22</a> parallel <a href=\"https://ref.ly/Mark13:13\">MRK 13:13</a>; <a href=\"https://ref.ly/Matt24:13\">MAT 24:13</a>; <a href=\"https://ref.ly/Heb6:9-Heb6:11\">HEB 6:9–6:11</a></p>\n<h2>The church is expected to progress</h2>\n<p><strong><a href=\"https://ref.ly/Matt16:18\">MAT 16:18</a>, <a href=\"https://ref.ly/Matt13:31-Matt13:32\">MAT 13:31–13:32</a></strong> parallels <a href=\"https://ref.ly/Mark4:30-Mark4:32\">MRK 4:30–4:32</a>, <a href=\"https://ref.ly/Luke13:18-Luke13:19\">LUK 13:18–13:19</a><strong><a href=\"https://ref.ly/Eph4:16\">EPH 4:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts2:47\">ACT 2:47</a>, <a href=\"https://ref.ly/Acts4:4\">ACT 4:4</a>, <a href=\"https://ref.ly/Acts5:14\">ACT 5:14</a>, <a href=\"https://ref.ly/Acts6:7\">ACT 6:7</a>, <a href=\"https://ref.ly/Acts11:21\">ACT 11:21</a></p>",
@@ -301,7 +301,8 @@
 "label": "8443: growth",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

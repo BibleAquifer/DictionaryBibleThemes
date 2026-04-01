@@ -2,10 +2,10 @@
 {
 "content_id": "7906",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7906: baptism, in the Gospels",
 "media_type": "Text",
-"index_reference": "7906: baptism, in the gospels",
+"index_reference": "7906",
 "language": "eng",
 "review_level": "None",
 "content": "<p>In the Gospels baptising is based on the symbolic practice in the OT and Judaism of cleansing with water.</p>\n<h2>Washing was the means of achieving ritual purity</h2>\n<p><a href=\"https://ref.ly/Exod30:19-Exod30:20\">EXO 30:19–30:20</a>; ; <a href=\"https://ref.ly/Mark7:3-Mark7:4\">MRK 7:3–7:4</a> <em>The Greek word here translated “wash” is “baptizo”, from which the English “baptise” comes.</em></p>\n<h2>Sprinkling with water symbolises spiritual cleansing</h2>\n<p><strong><a href=\"https://ref.ly/Ezek36:25\">EZK 36:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Zech13:1\">ZEC 13:1</a>; <a href=\"https://ref.ly/Heb10:22\">HEB 10:22</a></p>\n<h2>Being baptised by John was a confession that cleansing was needed</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:11\">MAT 3:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt3:6\">MAT 3:6</a>; <a href=\"https://ref.ly/Mark1:4-Mark1:5\">MRK 1:4–1:5</a> parallel <a href=\"https://ref.ly/Luke3:3\">LUK 3:3</a>; <a href=\"https://ref.ly/Acts19:1-Acts19:4\">ACT 19:1–19:4</a></p>\n<h2>John promised that the Messiah would cleanse with the baptism of the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:11\">MAT 3:11</a></strong> parallels <a href=\"https://ref.ly/Mark1:8\">MRK 1:8</a>, <a href=\"https://ref.ly/Luke3:16\">LUK 3:16</a> <em>See also</em> <a href=\"https://ref.ly/Isa44:3\">ISA 44:3</a>; <a href=\"https://ref.ly/Ezek36:25-Ezek36:26\">EZK 36:25–36:26</a></p>\n<h2>Baptism involves both water and the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/John3:5\">JHN 3:5</a></strong></p>\n<h2>The disciples of Jesus Christ baptised like John's</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/John3:22-John3:23\">JHN 3:22–3:23</a>, <a href=\"https://ref.ly/John4:1\">JHN 4:1</a></p>\n<h2>Jesus Christ was baptised by John</h2>\n<p><a href=\"https://ref.ly/Matt3:13-Matt3:17\">MAT 3:13–3:17</a> parallels <a href=\"https://ref.ly/Mark1:9-Mark1:11\">MRK 1:9–1:11</a>, <a href=\"https://ref.ly/Luke3:21-Luke3:22\">LUK 3:21–3:22</a>, <a href=\"https://ref.ly/John1:32-John1:33\">JHN 1:32–1:33</a></p>",
@@ -180,6 +180,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8324: purity",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Raddai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Raddai"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "9136",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9136: immortality, in OT",
 "media_type": "Text",
-"index_reference": "9136: immortality, in ot",
+"index_reference": "9136",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The OT stresses that God alone is immortal and indicates that this gift may be granted to human beings under certain conditions.</p>\n<h2>Immortality is an attribute of God</h2>\n<h3>God is everlasting in himself</h3>\n<p><strong><a href=\"https://ref.ly/Ps90:2\">PSA 90:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh9:5\">NEH 9:5</a>; <a href=\"https://ref.ly/Ps41:13\">PSA 41:13</a>; <a href=\"https://ref.ly/Isa9:6\">ISA 9:6</a>, <a href=\"https://ref.ly/Isa40:28\">ISA 40:28</a>; <a href=\"https://ref.ly/Hab1:12\">HAB 1:12</a></p>\n<h3>God is everlasting in his character and actions</h3>\n<p><strong><a href=\"https://ref.ly/Deut33:27\">DEU 33:27</a></strong> <em>The way in which Scripture emphasises the character of God in these contexts shows that immortality is about a quality of being as well as about infinite duration.</em> <a href=\"https://ref.ly/Gen9:16\">GEN 9:16</a>, <a href=\"https://ref.ly/Gen17:7\">GEN 17:7</a>, <a href=\"https://ref.ly/Gen17:13\">GEN 17:13</a>, <a href=\"https://ref.ly/Gen17:19\">GEN 17:19</a>; ; <a href=\"https://ref.ly/1Chr16:17\">1CH 16:17</a> parallel <a href=\"https://ref.ly/Ps105:10\">PSA 105:10</a>; <a href=\"https://ref.ly/Ps9:7\">PSA 9:7</a>, <a href=\"https://ref.ly/Ps10:16\">PSA 10:16</a>, <a href=\"https://ref.ly/Ps132:12\">PSA 132:12</a>; ; <a href=\"https://ref.ly/Dan7:14\">DAN 7:14</a>, <a href=\"https://ref.ly/Dan7:27\">DAN 7:27</a>; <a href=\"https://ref.ly/Ps52:8\">PSA 52:8</a>, <a href=\"https://ref.ly/Ps103:17\">PSA 103:17</a>; ; <a href=\"https://ref.ly/Isa54:10\">ISA 54:10</a>; ; <a href=\"https://ref.ly/Jer31:3\">JER 31:3</a>; <a href=\"https://ref.ly/Ps119:142\">PSA 119:142</a>; ; <a href=\"https://ref.ly/Dan9:24\">DAN 9:24</a>; \n<a href=\"https://ref.ly/Isa45:17\">ISA 45:17</a> <em>God's everlasting salvation</em>; ; <a href=\"https://ref.ly/Isa54:8\">ISA 54:8</a> <em>God's everlasting kindness</em>; ; <a href=\"https://ref.ly/Isa60:19-Isa60:20\">ISA 60:19–60:20</a> <em>the LORD as the everlasting light</em></p>\n<h2>Immortality is conditionally offered to human beings</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:22-Gen3:23\">GEN 3:22–3:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps6:5\">PSA 6:5</a>, <a href=\"https://ref.ly/Ps88:5\">PSA 88:5</a>, <a href=\"https://ref.ly/Ps88:10\">PSA 88:10</a>, <a href=\"https://ref.ly/Ps115:17\">PSA 115:17</a>; <a href=\"https://ref.ly/Dan12:2\">DAN 12:2</a> <em>The most specific OT reference to immortality. Note that while resurrection to judgment is for all, immortality is only for the righteous (<a href=\"https://ref.ly/Prov12:28\">Pr 12:28</a>).</em></p>\n<h3>Enoch and Elijah: two special cases</h3>\n<p><a href=\"https://ref.ly/Gen5:24\">GEN 5:24</a>; ; <a href=\"https://ref.ly/2Kgs2:11\">2KI 2:11</a></p>\n<h2>The confidence of believers</h2>\n<p><strong><a href=\"https://ref.ly/Ps16:9-Ps16:11\">PSA 16:9–16:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps17:15\">PSA 17:15</a>, <a href=\"https://ref.ly/Ps21:6\">PSA 21:6</a>, <a href=\"https://ref.ly/Ps73:24\">PSA 73:24</a>, <a href=\"https://ref.ly/Ps133:3\">PSA 133:3</a></p>\n<h3>God will abolish death</h3>\n<p><strong><a href=\"https://ref.ly/Isa25:8\">ISA 25:8</a></strong></p>",
@@ -334,6 +334,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Zanoah.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zanoah"
+},
+{
+"id": "place:Zanoah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zanoah"
 }
 ]
 }

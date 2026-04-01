@@ -2,10 +2,10 @@
 {
 "content_id": "4636",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4636: dove",
 "media_type": "Text",
-"index_reference": "4636: dove",
+"index_reference": "4636",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A common species of bird. In Scripture the dove symbolises the Spirit of God, and also certain kinds of human behaviour.</p>\n<h2>A kind of bird</h2>\n<p><a href=\"https://ref.ly/Gen8:8-Gen8:12\">GEN 8:8–8:12</a>; ; <a href=\"https://ref.ly/Song2:12\">SNG 2:12</a>; ; <a href=\"https://ref.ly/Jer8:7\">JER 8:7</a></p>\n<h2>Doves as sacrifices for those who were poor</h2>\n<p><strong><a href=\"https://ref.ly/Lev5:7\">LEV 5:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen15:9\">GEN 15:9</a>; <a href=\"https://ref.ly/Lev1:14\">LEV 1:14</a>, <a href=\"https://ref.ly/Lev5:11\">LEV 5:11</a>, <a href=\"https://ref.ly/Lev12:6-Lev12:8\">LEV 12:6–12:8</a>, <a href=\"https://ref.ly/Lev14:22\">LEV 14:22</a>, <a href=\"https://ref.ly/Lev14:30\">LEV 14:30</a>, <a href=\"https://ref.ly/Lev15:14\">LEV 15:14</a>, <a href=\"https://ref.ly/Lev15:29\">LEV 15:29</a>; <a href=\"https://ref.ly/Num6:10\">NUM 6:10</a>; <a href=\"https://ref.ly/Matt21:12\">MAT 21:12</a> parallel <a href=\"https://ref.ly/Mark11:15\">MRK 11:15</a>; <a href=\"https://ref.ly/Luke2:24\">LUK 2:24</a>; <a href=\"https://ref.ly/John2:14\">JHN 2:14</a></p>\n<h2>``Dove'' as a term of endearment</h2>\n<p><a href=\"https://ref.ly/Song2:14\">SNG 2:14</a>, <a href=\"https://ref.ly/Song5:2\">SNG 5:2</a>, <a href=\"https://ref.ly/Song6:9\">SNG 6:9</a></p>\n<h3>Israel as God's ``dove''</h3>\n<p><a href=\"https://ref.ly/Ps68:13\">PSA 68:13</a>, <a href=\"https://ref.ly/Ps74:19\">PSA 74:19</a></p>\n<h2>``Dove'' used figuratively</h2>\n<p><a href=\"https://ref.ly/Ps55:6\">PSA 55:6</a>; ; <a href=\"https://ref.ly/Song1:15\">SNG 1:15</a>, <a href=\"https://ref.ly/Song4:1\">SNG 4:1</a>, <a href=\"https://ref.ly/Song5:12\">SNG 5:12</a>; ; <a href=\"https://ref.ly/Isa38:14\">ISA 38:14</a>, <a href=\"https://ref.ly/Isa59:11\">ISA 59:11</a>; ; <a href=\"https://ref.ly/Jer48:28\">JER 48:28</a>; ; <a href=\"https://ref.ly/Ezek7:16\">EZK 7:16</a>; ; <a href=\"https://ref.ly/Hos7:11\">HOS 7:11</a>, <a href=\"https://ref.ly/Hos11:11\">HOS 11:11</a>; ; <a href=\"https://ref.ly/Nah2:7\">NAM 2:7</a>; ; <a href=\"https://ref.ly/Matt10:16\">MAT 10:16</a></p>\n<h2>The dove as a symbol of the Spirit of God</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:16\">MAT 3:16</a></strong> parallels <a href=\"https://ref.ly/Mark1:10\">MRK 1:10</a>, <a href=\"https://ref.ly/Luke3:22\">LUK 3:22</a>, <a href=\"https://ref.ly/John1:32-John1:34\">JHN 1:32–1:34</a></p>",
@@ -310,6 +310,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8299: love, in relationships",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Dove",
+"type": "fauna",
+"confidence": 0.8029,
+"match_method": "scored",
+"preferred_label": "Dove"
 }
 ]
 }

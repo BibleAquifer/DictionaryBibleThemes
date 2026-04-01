@@ -2,16 +2,17 @@
 {
 "content_id": "6736",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6736: repentance, of God",
 "media_type": "Text",
-"index_reference": "6736: repentance, of god",
+"index_reference": "6736",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"1120.md\">1120: God, repentance of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

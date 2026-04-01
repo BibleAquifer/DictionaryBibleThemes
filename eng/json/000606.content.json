@@ -2,10 +2,10 @@
 {
 "content_id": "4960",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4960: noon",
 "media_type": "Text",
-"index_reference": "4960: noon",
+"index_reference": "4960",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The mid-point between sunrise and sunset when the sun is at its brightest. Noon is a time to seek shelter from the heat of the day. The darkening of the midday sun and the surprise attack of the enemy at noon are signs of God's judgment. The brilliance of the noonday sun is likened to the glory of Jesus Christ and to the vindication of God's people.</p>\n<h2>Noon as a time of severe heat</h2>\n<h3>Shelter from the noonday heat</h3>\n<p><strong><a href=\"https://ref.ly/Isa4:5-Isa4:6\">ISA 4:5–4:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa16:3\">ISA 16:3</a> <em>Moab likens asylum sought from Judah to shelter from the noonday sun</em>; <a href=\"https://ref.ly/Isa25:4\">ISA 25:4</a></p>\n<h3>Time to rest from the sun's heat</h3>\n<p><strong><a href=\"https://ref.ly/2Sam4:5\">2SA 4:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:1\">GEN 18:1</a><strong><a href=\"https://ref.ly/Song1:7\">SNG 1:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ruth2:7\">RUT 2:7</a> <em>Ruth rests from her gleaning at noon</em>; <a href=\"https://ref.ly/1Sam11:11\">1SA 11:11</a> <em>Saul's army halts its destruction of the Ammonites at midday</em>; <a href=\"https://ref.ly/1Kgs20:16\">1KI 20:16</a> <em>Israel's enemies relax at midday, unaware of the imminence of battle</em>; <a href=\"https://ref.ly/Matt20:12\">MAT 20:12</a> <em>Workers in the vineyard might have been expected to rest during the hottest part of the day</em>; <a href=\"https://ref.ly/John4:6\">JHN 4:6</a> <em>Jesus Christ rests from his journey by the well of Sychar.</em></p>\n<h2>Noon as a natural break in the day</h2>\n<p><a href=\"https://ref.ly/1Kgs18:26-1Kgs18:29\">1KI 18:26–18:29</a>; ; <a href=\"https://ref.ly/Neh8:3\">NEH 8:3</a></p>\n<h2>Noon as a time for prayer</h2>\n<p><strong><a href=\"https://ref.ly/Ps55:16-Ps55:17\">PSA 55:16–55:17</a></strong> <em>The devout Jew prayed three times daily.</em> <em>See also</em> <a href=\"https://ref.ly/Dan6:10\">DAN 6:10</a>; <a href=\"https://ref.ly/Acts10:9\">ACT 10:9</a></p>\n<h2>Noon as a time of God's judgment</h2>\n<h3>A time of unexpected destruction</h3>\n<p><strong><a href=\"https://ref.ly/Jer15:8\">JER 15:8</a></strong> <em>Armies usually attacked at dawn; a noon raid would take the people by surprise.</em> <em>See also</em> <a href=\"https://ref.ly/Jer6:4\">JER 6:4</a>, <a href=\"https://ref.ly/Jer20:16\">JER 20:16</a>; <a href=\"https://ref.ly/Zeph2:4\">ZEP 2:4</a></p>\n<h3>Darkness at noon is a sign of God's judgment</h3>\n<p><strong><a href=\"https://ref.ly/Job5:14\">JOB 5:14</a></strong>; <strong><a href=\"https://ref.ly/Amos8:9\">AMO 8:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut28:29\">DEU 28:29</a>; <a href=\"https://ref.ly/Isa59:9-Isa59:10\">ISA 59:9–59:10</a><strong><a href=\"https://ref.ly/Matt27:45\">MAT 27:45</a></strong> parallels <a href=\"https://ref.ly/Mark15:33\">MRK 15:33</a>, <a href=\"https://ref.ly/Luke23:44-Luke23:45\">LUK 23:44–23:45</a> <em>The noonday sun is darkened following the crucifixion.</em></p>\n<h2>The noonday sun as a symbol of glory</h2>\n<h3>The glory of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Rev1:16\">REV 1:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt17:2\">MAT 17:2</a></p>\n<h3>The vindication of God's people</h3>\n<p><strong><a href=\"https://ref.ly/Judg5:31\">JDG 5:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job11:17\">JOB 11:17</a>; <a href=\"https://ref.ly/Ps37:6\">PSA 37:6</a>; <a href=\"https://ref.ly/Isa58:10\">ISA 58:10</a>; <a href=\"https://ref.ly/Matt13:43\">MAT 13:43</a></p>\n<h2>Events that occurred at noon</h2>\n<p>Joseph invites his brothers to eat with him at noon:\n <a href=\"https://ref.ly/Gen43:16\">GEN 43:16</a>, <a href=\"https://ref.ly/Gen43:26\">GEN 43:26</a>; \n<a href=\"https://ref.ly/Josh10:12-Josh10:13\">JOS 10:12–10:13</a> <em>The sun stops in the middle of the sky, allowing Joshua to defeat the Amorites</em>; ; <a href=\"https://ref.ly/2Kgs4:18-2Kgs4:20\">2KI 4:18–4:20</a> <em>The Shunammite woman's son dies at noon.</em>; <a href=\"https://ref.ly/Acts22:6\">ACT 22:6</a>, <a href=\"https://ref.ly/Acts26:13\">ACT 26:13</a></p>",
@@ -322,6 +322,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Ekron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ekron"
 }
 ]
 }

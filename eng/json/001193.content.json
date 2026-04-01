@@ -2,16 +2,17 @@
 {
 "content_id": "5632",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5632: work, of Jesus Christ",
 "media_type": "Text",
-"index_reference": "5632: work, of jesus christ",
+"index_reference": "5632",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"2300.md\">2300: Jesus Christ, ministry and work of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

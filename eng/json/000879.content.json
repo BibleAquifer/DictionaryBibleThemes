@@ -2,10 +2,10 @@
 {
 "content_id": "5291",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5291: defence",
 "media_type": "Text",
-"index_reference": "5291: defence",
+"index_reference": "5291",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A means of protection and security against the attacks of others. Scripture insists that the most reliable form of defence for believers is trust in the Lord.</p>",
@@ -26,7 +26,8 @@
 "label": "5293: defence, human",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

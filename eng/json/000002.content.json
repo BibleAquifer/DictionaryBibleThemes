@@ -2,10 +2,10 @@
 {
 "content_id": "1000",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1000: God",
 "media_type": "Text",
-"index_reference": "1000: god",
+"index_reference": "1000",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"1010\" data-resourcetype=\"DictionaryOfBibleThemes\">1010: God, nature and qualities of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1200\" data-resourcetype=\"DictionaryOfBibleThemes\">1200: God, titles and descriptions of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1300\" data-resourcetype=\"DictionaryOfBibleThemes\">1300: God, work of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1400\" data-resourcetype=\"DictionaryOfBibleThemes\">1400: God, knowledge of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1500\" data-resourcetype=\"DictionaryOfBibleThemes\">1500: God, the Trinity</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1600\" data-resourcetype=\"DictionaryOfBibleThemes\">1600: Scripture as the word of God</span></li></ul>",
@@ -54,7 +54,8 @@
 "label": "1600: Scripture as the word of God",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

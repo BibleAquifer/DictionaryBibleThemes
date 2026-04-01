@@ -2,10 +2,10 @@
 {
 "content_id": "5444",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5444: pledges",
 "media_type": "Text",
-"index_reference": "5444: pledges",
+"index_reference": "5444",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A solemn, binding promise, often involving the deposit of valuable items or property as a guarantee that the promise will be kept. To break a pledge is to sin against God.</p>\n<h2>Pledges were binding</h2>\n<p><strong><a href=\"https://ref.ly/Num30:2\">NUM 30:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num30:3-Num30:15\">NUM 30:3–30:15</a> <em>In certain cases pledges made by daughters or wives could be nullified by fathers or husbands respectively.</em></p>\n<h2>Pledges were solemn promises</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs23:3\">2KI 23:3</a></strong> parallel <a href=\"https://ref.ly/2Chr34:31-2Chr34:32\">2CH 34:31–34:32</a> <em>See also</em> <a href=\"https://ref.ly/1Chr29:24\">1CH 29:24</a>; <a href=\"https://ref.ly/Ezra10:19\">EZR 10:19</a>; <a href=\"https://ref.ly/Ezek17:16-Ezek17:18\">EZK 17:16–17:18</a>; <a href=\"https://ref.ly/Mic7:20\">MIC 7:20</a>; <a href=\"https://ref.ly/1Pet3:21\">1PE 3:21</a></p>\n<h2>Pledges were guarantees that a promise would be kept</h2>\n<h3>Items deposited to secure a pledge</h3>\n<p><strong><a href=\"https://ref.ly/Gen38:17-Gen38:18\">GEN 38:17–38:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod22:26-Exod22:27\">EXO 22:26–22:27</a>; <a href=\"https://ref.ly/Deut24:10-Deut24:13\">DEU 24:10–24:13</a>; <a href=\"https://ref.ly/Prov20:16\">PRO 20:16</a>, <a href=\"https://ref.ly/Prov27:13\">PRO 27:13</a></p>\n<h3>Unjust exaction of pledges condemned</h3>\n<p><strong><a href=\"https://ref.ly/Deut24:17\">DEU 24:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job22:4-Job22:6\">JOB 22:4–22:6</a>, <a href=\"https://ref.ly/Job24:2-Job24:3\">JOB 24:2–24:3</a>; <a href=\"https://ref.ly/Amos2:6-Amos2:8\">AMO 2:6–2:8</a></p>\n<h2>Warning against making pledges on behalf of others</h2>\n<p><strong><a href=\"https://ref.ly/Prov11:15\">PRO 11:15</a></strong> <em>The foolishness of making a pledge as security for someone else's debt.</em> <em>See also</em> <a href=\"https://ref.ly/Prov6:1-Prov6:5\">PRO 6:1–6:5</a>, <a href=\"https://ref.ly/Prov17:18\">PRO 17:18</a>, <a href=\"https://ref.ly/Prov22:26-Prov22:27\">PRO 22:26–22:27</a></p>\n<h2>Pledges and betrothal</h2>\n<p><strong><a href=\"https://ref.ly/Matt1:18-Matt1:19\">MAT 1:18–1:19</a></strong> <em>Betrothal was a pledge to marry and as such was much more binding than the modern Western practice of engagement. It could only be broken by divorce and the betrothed woman was already described as a wife.</em> <em>See also</em> <a href=\"https://ref.ly/Exod22:16\">EXO 22:16</a>; <a href=\"https://ref.ly/Deut22:23-Deut22:25\">DEU 22:23–22:25</a>; <a href=\"https://ref.ly/Luke1:27\">LUK 1:27</a></p>",
@@ -253,7 +253,8 @@
 "label": "5925: rashness",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "8145",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8145: renewal, of people of God",
 "media_type": "Text",
-"index_reference": "8145: renewal, of people of god",
+"index_reference": "8145",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The transformation by God of the lives of his people, whether corporately or individually, leading to the recovery of lost vitality and purity.</p>\n<h2>Individual renewal</h2>\n<p><strong><a href=\"https://ref.ly/Isa40:30-Isa40:31\">ISA 40:30–40:31</a></strong>; <strong><a href=\"https://ref.ly/Eph4:22-Eph4:24\">EPH 4:22–4:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps23:3\">PSA 23:3</a>, <a href=\"https://ref.ly/Ps51:10-Ps51:12\">PSA 51:10–51:12</a>, <a href=\"https://ref.ly/Ps103:1-Ps103:5\">PSA 103:1–103:5</a>; <a href=\"https://ref.ly/John7:37-John7:39\">JHN 7:37–7:39</a>; <a href=\"https://ref.ly/Rom12:2\">ROM 12:2</a>; <a href=\"https://ref.ly/2Cor4:16\">2CO 4:16</a>; <a href=\"https://ref.ly/Col3:9-Col3:10\">COL 3:9–3:10</a>; <a href=\"https://ref.ly/2Tim1:6\">2TI 1:6</a>; <a href=\"https://ref.ly/Titus3:5\">TIT 3:5</a></p>\n<h2>Corporate renewal</h2>\n<h3>The renewal of Israel</h3>\n<p><strong><a href=\"https://ref.ly/Ezek37:1-Ezek37:14\">EZK 37:1–37:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer31:31-Jer31:34\">JER 31:31–31:34</a>; <a href=\"https://ref.ly/Lam5:21\">LAM 5:21</a>; <a href=\"https://ref.ly/Ezek11:17-Ezek11:20\">EZK 11:17–11:20</a>, <a href=\"https://ref.ly/Ezek36:24-Ezek36:28\">EZK 36:24–36:28</a>; <a href=\"https://ref.ly/Joel2:28-Joel2:32\">JOL 2:28–2:32</a></p>\n<h3>Examples of national renewal</h3>\n<p><strong><a href=\"https://ref.ly/2Chr34:29-2Chr34:33\">2CH 34:29–34:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh24:1\">JOS 24:1</a>, <a href=\"https://ref.ly/Josh24:14-Josh24:27\">JOS 24:14–24:27</a>; <a href=\"https://ref.ly/Ezra10:1-Ezra10:4\">EZR 10:1–10:4</a>; <a href=\"https://ref.ly/Neh10:28-Neh10:29\">NEH 10:28–10:29</a></p>\n<h3>The new Jerusalem</h3>\n<p><strong><a href=\"https://ref.ly/Isa65:17-Isa65:19\">ISA 65:17–65:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev3:12\">REV 3:12</a>, <a href=\"https://ref.ly/Rev21:2-Rev21:4\">REV 21:2–21:4</a>, <a href=\"https://ref.ly/Rev21:10\">REV 21:10</a></p>\n<h3>The church</h3>\n<p><strong><a href=\"https://ref.ly/Matt9:16-Matt9:19\">MAT 9:16–9:19</a></strong> parallels <a href=\"https://ref.ly/Mark2:21-Mark2:22\">MRK 2:21–2:22</a>, <a href=\"https://ref.ly/Luke5:36-Luke5:39\">LUK 5:36–5:39</a> <em>Jesus Christ here prophesies the great act of renewal by God whereby the church rather than Israel becomes the people of God.</em> <em>See also</em> <a href=\"https://ref.ly/Acts2:1-Acts2:4\">ACT 2:1–2:4</a>, <a href=\"https://ref.ly/Acts2:42-Acts2:47\">ACT 2:42–2:47</a></p>",
@@ -282,6 +282,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9165: restoration",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Sardis",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sardis"
 }
 ]
 }

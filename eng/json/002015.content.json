@@ -2,10 +2,10 @@
 {
 "content_id": "8124",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8124: guidance",
 "media_type": "Text",
-"index_reference": "8124: guidance",
+"index_reference": "8124",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God has purposes and plans for his people, as individuals and communities. Believers and churches should seek his direction and counsel in discerning these purposes and plans in their lives.</p>",
@@ -60,6 +60,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8131: guidance, results of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Samos",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Samos"
 }
 ]
 }

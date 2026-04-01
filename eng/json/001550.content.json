@@ -2,10 +2,10 @@
 {
 "content_id": "6194",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6194: impenitence, warnings against",
 "media_type": "Text",
-"index_reference": "6194: impenitence, warnings against",
+"index_reference": "6194",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture stresses the seriousness of impenitence. Despite the goodness of God, some sinners refuse to repent and turn to him in faith.</p>\n<h2>Impenitence is a refusal to turn from sin</h2>\n<p><strong><a href=\"https://ref.ly/Hos7:10\">HOS 7:10</a></strong>; <strong><a href=\"https://ref.ly/Acts7:51\">ACT 7:51</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job34:33\">JOB 34:33</a>; <a href=\"https://ref.ly/Isa1:4\">ISA 1:4</a>; <a href=\"https://ref.ly/Jer9:6\">JER 9:6</a>; <a href=\"https://ref.ly/Hos11:5\">HOS 11:5</a></p>\n<h2>Impenitence in spite of God's invitations and and warnings</h2>\n<p><strong><a href=\"https://ref.ly/Isa66:4\">ISA 66:4</a></strong>; <strong><a href=\"https://ref.ly/Zech7:11-Zech7:12\">ZEC 7:11–7:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs17:14\">2KI 17:14</a>; <a href=\"https://ref.ly/Zech1:4\">ZEC 1:4</a>JER <a href=\"https://ref.ly/Zech7:25-Zech7:26\">7:25–7:26</a>, <a href=\"https://ref.ly/Jer11:7-Jer11:8\">JER 11:7–11:8</a>, <a href=\"https://ref.ly/Jer11:10\">JER 11:10</a>, <a href=\"https://ref.ly/Jer13:10\">JER 13:10</a>, <a href=\"https://ref.ly/Jer17:23\">JER 17:23</a>, <a href=\"https://ref.ly/Jer25:3-Jer25:4\">JER 25:3–25:4</a>, <a href=\"https://ref.ly/Jer32:33\">JER 32:33</a>, <a href=\"https://ref.ly/Jer44:4-Jer44:5\">JER 44:4–44:5</a>, <a href=\"https://ref.ly/Jer44:16\">JER 44:16</a></p>\n<h2>Impenitence in spite of God's dealings</h2>\n<p><strong><a href=\"https://ref.ly/Num14:11\">NUM 14:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh9:17\">NEH 9:17</a>; <a href=\"https://ref.ly/Matt11:20-Matt11:24\">MAT 11:20–11:24</a> parallel <a href=\"https://ref.ly/Luke10:13-Luke10:15\">LUK 10:13–10:15</a></p>\n<h2>Impenitence in spite of God's punishment</h2>\n<p><strong><a href=\"https://ref.ly/Ps78:31-Ps78:32\">PSA 78:31–78:32</a></strong>; <strong><a href=\"https://ref.ly/Amos4:6\">AMO 4:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa9:13\">ISA 9:13</a>; <a href=\"https://ref.ly/Jer2:30\">JER 2:30</a>, <a href=\"https://ref.ly/Jer3:2-Jer3:3\">JER 3:2–3:3</a>, <a href=\"https://ref.ly/Jer5:3\">JER 5:3</a>, <a href=\"https://ref.ly/Jer30:15\">JER 30:15</a>; <a href=\"https://ref.ly/Zeph3:2\">ZEP 3:2</a>; <a href=\"https://ref.ly/Hag2:17\">HAG 2:17</a></p>\n<h2>Impenitence in spite of God's goodness</h2>\n<p><strong><a href=\"https://ref.ly/Rom2:4\">ROM 2:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job15:11\">JOB 15:11</a> <em>Although inappropriate for Job, the advice is still valid</em>; <a href=\"https://ref.ly/Rom10:21\">ROM 10:21</a></p>\n<h2>There is no remedy for persistent impenitence</h2>\n<p><strong><a href=\"https://ref.ly/2Chr36:16\">2CH 36:16</a></strong>; <strong><a href=\"https://ref.ly/2Thess2:10\">2TH 2:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb6:4-Heb6:6\">HEB 6:4–6:6</a>, <a href=\"https://ref.ly/Heb10:26-Heb10:27\">HEB 10:26–10:27</a></p>",
@@ -316,6 +316,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8834: unbelief",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Boaz",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Boaz"
 }
 ]
 }

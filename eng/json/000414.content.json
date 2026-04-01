@@ -2,10 +2,10 @@
 {
 "content_id": "4372",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4372: tin",
 "media_type": "Text",
-"index_reference": "4372: tin",
+"index_reference": "4372",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Tin smelted in furnaces</h2>\n<p><strong><a href=\"https://ref.ly/Ezek22:20\">EZK 22:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num31:21-Num31:23\">NUM 31:21–31:23</a>; <a href=\"https://ref.ly/Ezek22:18\">EZK 22:18</a></p>\n<h2>Tin traded by merchants</h2>\n<p><strong><a href=\"https://ref.ly/Ezek27:12\">EZK 27:12</a></strong></p>",
@@ -85,6 +85,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5587: trade",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Buz",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Buz"
 }
 ]
 }

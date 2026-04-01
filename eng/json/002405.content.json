@@ -2,10 +2,10 @@
 {
 "content_id": "8779",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8779: materialism, nature of",
 "media_type": "Text",
-"index_reference": "8779: materialism, nature of",
+"index_reference": "8779",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The attitude to life that places particular emphasis on immediate, physical values rather than on future, spiritual ones or that regards the material world as the only reality.</p>\n<h2>The basic features of materialism</h2>\n<h3>An attitude of godlessness</h3>\n<p><strong><a href=\"https://ref.ly/Ps14:1-Ps14:2\">PSA 14:1–14:2</a></strong> parallel <a href=\"https://ref.ly/Ps53:1-Ps53:2\">PSA 53:1–53:2</a> <em>See also</em> <a href=\"https://ref.ly/Job35:9-Job35:10\">JOB 35:9–35:10</a>; <a href=\"https://ref.ly/Ps10:4\">PSA 10:4</a>, <a href=\"https://ref.ly/Ps10:11\">PSA 10:11</a>; <a href=\"https://ref.ly/Eccl1:1-Eccl1:11\">ECC 1:1–1:11</a>; <a href=\"https://ref.ly/Luke12:13-Luke12:19\">LUK 12:13–12:19</a>; <a href=\"https://ref.ly/Rom1:20-Rom1:22\">ROM 1:20–1:22</a></p>\n<h3>A denial of the resurrection</h3>\n<p><strong><a href=\"https://ref.ly/Matt22:23\">MAT 22:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl4:1-Eccl4:3\">ECC 4:1–4:3</a>, <a href=\"https://ref.ly/Eccl9:3-Eccl9:6\">ECC 9:3–9:6</a>; <a href=\"https://ref.ly/Acts4:1-Acts4:2\">ACT 4:1–4:2</a>, <a href=\"https://ref.ly/Acts23:6-Acts23:8\">ACT 23:6–23:8</a>; <a href=\"https://ref.ly/1Cor15:12-1Cor15:17\">1CO 15:12–15:17</a>; <a href=\"https://ref.ly/2Tim2:17-2Tim2:19\">2TI 2:17–2:19</a></p>\n<h3>Desire for wealth and physical gratification</h3>\n<p><strong><a href=\"https://ref.ly/1Cor15:32\">1CO 15:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl2:4-Eccl2:9\">ECC 2:4–2:9</a>, <a href=\"https://ref.ly/Eccl9:7-Eccl9:10\">ECC 9:7–9:10</a>; <a href=\"https://ref.ly/Matt6:19-Matt6:24\">MAT 6:19–6:24</a></p>\n<h2>Materialism condemned</h2>\n<p><strong><a href=\"https://ref.ly/Ps52:7\">PSA 52:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job22:4-Job22:11\">JOB 22:4–22:11</a>, <a href=\"https://ref.ly/Job31:25-Job31:28\">JOB 31:25–31:28</a>; <a href=\"https://ref.ly/Ps49:10\">PSA 49:10</a>; <a href=\"https://ref.ly/Prov18:11\">PRO 18:11</a>, <a href=\"https://ref.ly/Prov23:5\">PRO 23:5</a>; <a href=\"https://ref.ly/Eccl5:10\">ECC 5:10</a>; <a href=\"https://ref.ly/Matt16:26\">MAT 16:26</a>; <a href=\"https://ref.ly/Luke12:23-Luke12:25\">LUK 12:23–12:25</a>, <a href=\"https://ref.ly/Luke21:34\">LUK 21:34</a>; <a href=\"https://ref.ly/Jas5:1-Jas5:3\">JAS 5:1–5:3</a></p>",
@@ -276,6 +276,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8848: worldliness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Tema",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tema"
 }
 ]
 }

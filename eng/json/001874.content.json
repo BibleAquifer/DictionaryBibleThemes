@@ -2,10 +2,10 @@
 {
 "content_id": "7535",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7535: Greeks",
 "media_type": "Text",
-"index_reference": "7535: greeks",
+"index_reference": "7535",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The inhabitants of Greece and her empire. The term is also used to describe non-Jews, so that “Greek”, in the NT, is virtually synonymous with “Gentile”. While distinctions between Greek and Jew on the one hand, and Greek and barbarian on the other, were important in the world at large, such divisions are to have no place within the church.</p>\n<h2>The cultural distinctiveness of Greeks in NT times</h2>\n<p><strong><a href=\"https://ref.ly/John7:35\">JHN 7:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark7:26\">MRK 7:26</a>; <a href=\"https://ref.ly/Acts6:1\">ACT 6:1</a>, <a href=\"https://ref.ly/Acts9:29\">ACT 9:29</a>; <a href=\"https://ref.ly/Rom1:14\">ROM 1:14</a></p>\n<h2>``Greeks'' used to describe non-Jews</h2>\n<p><strong><a href=\"https://ref.ly/Acts21:27-Acts21:28\">ACT 21:27–21:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts16:1-Acts16:3\">ACT 16:1–16:3</a>, <a href=\"https://ref.ly/Acts20:21\">ACT 20:21</a>; <a href=\"https://ref.ly/Gal2:3\">GAL 2:3</a></p>\n<h2>``Greeks'' used to refer to God-fearers</h2>\n<p><strong><a href=\"https://ref.ly/John12:20\">JHN 12:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts17:4\">ACT 17:4</a>, <a href=\"https://ref.ly/Acts17:12\">ACT 17:12</a>, <a href=\"https://ref.ly/Acts17:17\">ACT 17:17</a>, <a href=\"https://ref.ly/Acts18:4\">ACT 18:4</a></p>\n<h2>Greeks may reject the gospel as foolishness</h2>\n<p><strong><a href=\"https://ref.ly/1Cor1:22-1Cor1:23\">1CO 1:22–1:23</a></strong> <em>The high value placed by the Greeks upon human wisdom could hinder their response to the gospel.</em> <em>See also</em> <a href=\"https://ref.ly/Acts17:18-Acts17:34\">ACT 17:18–17:34</a></p>\n<h2>In Christ there is no distinction between Greeks and Jews</h2>\n<h3>Greeks and Jews share the same salvation</h3>\n<p><strong><a href=\"https://ref.ly/Rom10:11-Rom10:13\">ROM 10:11–10:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom3:28-Rom3:30\">ROM 3:28–3:30</a>; <a href=\"https://ref.ly/1Cor1:22-1Cor1:24\">1CO 1:22–1:24</a></p>\n<h3>Greeks and Jews are united in Christ</h3>\n<p><strong><a href=\"https://ref.ly/Col3:11\">COL 3:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor12:13\">1CO 12:13</a>; <a href=\"https://ref.ly/Gal3:26-Gal3:29\">GAL 3:26–3:29</a></p>",
@@ -228,6 +228,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8361: wisdom",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Greek",
+"type": "group",
+"confidence": 0.6164,
+"match_method": "scored",
+"preferred_label": "Greeks"
 }
 ]
 }

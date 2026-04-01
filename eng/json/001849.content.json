@@ -2,10 +2,10 @@
 {
 "content_id": "7458",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7458: tabernacle, the",
 "media_type": "Text",
-"index_reference": "7458: tabernacle, the",
+"index_reference": "7458",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The tabernacle (tent) was a portable and temporary shrine used for worship before the temple was built.  It denotes the temporary dwelling of God among his people.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7460: tabernacle, in NT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ochran",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ochran"
 }
 ]
 }

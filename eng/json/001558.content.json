@@ -2,10 +2,10 @@
 {
 "content_id": "6212",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6212: participation",
 "media_type": "Text",
-"index_reference": "6212: participation",
+"index_reference": "6212",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Sharing in actions or identifying with actions or people. All human beings share in Adam's fall and its consequences; believers share in Christ and his life.</p>",
@@ -26,7 +26,8 @@
 "label": "6214: participation, in Christ",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

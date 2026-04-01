@@ -2,10 +2,10 @@
 {
 "content_id": "8809",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8809: riches, nature of",
 "media_type": "Text",
-"index_reference": "8809: riches, nature of",
+"index_reference": "8809",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God has created an abundance of good things.  Those who have material wealth should understand its true nature and acknowledge God.</p>\n<h2>God and riches</h2>\n<h3>All riches belong to God the Creator</h3>\n<p><strong><a href=\"https://ref.ly/Ps24:1-Ps24:2\">PSA 24:1–24:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job41:11\">JOB 41:11</a>; <a href=\"https://ref.ly/Ps50:12\">PSA 50:12</a>; <a href=\"https://ref.ly/Hag2:8\">HAG 2:8</a></p>\n<h3>God gives of his riches</h3>\n<p><strong><a href=\"https://ref.ly/1Sam2:7\">1SA 2:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl5:19\">ECC 5:19</a>; <a href=\"https://ref.ly/1Chr29:12\">1CH 29:12</a>; <a href=\"https://ref.ly/2Chr1:12\">2CH 1:12</a></p>\n<h3>God gives the ability to produce wealth</h3>\n<p><strong><a href=\"https://ref.ly/Deut8:17-Deut8:18\">DEU 8:17–8:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen26:12-Gen26:13\">GEN 26:12–26:13</a>; <a href=\"https://ref.ly/Deut26:9-Deut26:10\">DEU 26:9–26:10</a></p>\n<h3>Riches may be a sign of God's blessing</h3>\n<p><strong><a href=\"https://ref.ly/Prov10:22\">PRO 10:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr25:9\">2CH 25:9</a>; <a href=\"https://ref.ly/Job1:9-Job1:10\">JOB 1:9–1:10</a>; <a href=\"https://ref.ly/Ps112:1-Ps112:3\">PSA 112:1–112:3</a>, <a href=\"https://ref.ly/Ps128:1-Ps128:2\">PSA 128:1–128:2</a>; <a href=\"https://ref.ly/Prov8:17-Prov8:18\">PRO 8:17–8:18</a></p>\n<h3>Riches should be thankfully received</h3>\n<p><strong><a href=\"https://ref.ly/1Tim4:4-1Tim4:5\">1TI 4:4–4:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt14:19\">MAT 14:19</a>; <a href=\"https://ref.ly/Rom1:21\">ROM 1:21</a>; <a href=\"https://ref.ly/Col3:17\">COL 3:17</a></p>\n<h2>The character of earthly riches</h2>\n<h3>Riches provide great opportunity for doing good</h3>\n<p><a href=\"https://ref.ly/Exod35:29\">EXO 35:29</a>; ; <a href=\"https://ref.ly/1Chr29:6-1Chr29:7\">1CH 29:6–29:7</a>; ; <a href=\"https://ref.ly/Luke12:33\">LUK 12:33</a>, <a href=\"https://ref.ly/Luke16:9\">LUK 16:9</a>, <a href=\"https://ref.ly/Luke19:8\">LUK 19:8</a>; ; <a href=\"https://ref.ly/Acts4:34-Acts4:35\">ACT 4:34–4:35</a></p>\n<h3>Riches do not satisfy</h3>\n<p><strong><a href=\"https://ref.ly/Eccl5:10\">ECC 5:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov13:11\">PRO 13:11</a>, <a href=\"https://ref.ly/Prov27:20\">PRO 27:20</a>, <a href=\"https://ref.ly/Prov27:24\">PRO 27:24</a>; <a href=\"https://ref.ly/Eccl4:8\">ECC 4:8</a>, <a href=\"https://ref.ly/Eccl6:7\">ECC 6:7</a>; <a href=\"https://ref.ly/Luke12:18\">LUK 12:18</a></p>\n<h3>Riches are insecure and uncertain</h3>\n<p><strong><a href=\"https://ref.ly/1Tim6:17\">1TI 6:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job1:13-Job1:19\">JOB 1:13–1:19</a>; <a href=\"https://ref.ly/Prov23:5\">PRO 23:5</a>, <a href=\"https://ref.ly/Prov27:24\">PRO 27:24</a>; <a href=\"https://ref.ly/Jer48:36\">JER 48:36</a>; <a href=\"https://ref.ly/Matt6:19\">MAT 6:19</a>; <a href=\"https://ref.ly/1Pet1:18\">1PE 1:18</a>; <a href=\"https://ref.ly/Rev18:14-Rev18:20\">REV 18:14–18:20</a></p>\n<h3>Riches are for this life only</h3>\n<p><strong><a href=\"https://ref.ly/1John2:17\">1JN 2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke12:13-Luke12:21\">LUK 12:13–12:21</a>; <a href=\"https://ref.ly/1Tim6:6-1Tim6:8\">1TI 6:6–6:8</a></p>",
@@ -360,6 +360,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8701: affluence",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Theater",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Theater"
 }
 ]
 }

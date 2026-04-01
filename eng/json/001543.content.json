@@ -2,10 +2,10 @@
 {
 "content_id": "6184",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6184: imagination",
 "media_type": "Text",
-"index_reference": "6184: imagination",
+"index_reference": "6184",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The human ability to form mental pictures, often used to refer to human desires or schemes which are inclined towards evil. Scripture often treats the human heart as the focus of the imagination.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6186: imagination, evil scheming",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jahzeiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jahzeiah"
 }
 ]
 }

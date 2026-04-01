@@ -2,10 +2,10 @@
 {
 "content_id": "5316",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5316: fortress",
 "media_type": "Text",
-"index_reference": "5316: fortress",
+"index_reference": "5316",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A secure dwelling-place, often a city, protected by walled defences. God is seen as the fortress of his people, their security and divine protector.</p>\n<h2>Fortresses were places of security</h2>\n<p><strong><a href=\"https://ref.ly/Jer4:5-Jer4:6\">JER 4:5–4:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam23:14\">1SA 23:14</a>; <a href=\"https://ref.ly/2Sam5:9\">2SA 5:9</a> parallel <a href=\"https://ref.ly/1Chr11:7-1Chr11:8\">1CH 11:7–11:8</a>; <a href=\"https://ref.ly/2Sam20:6\">2SA 20:6</a>, <a href=\"https://ref.ly/2Sam24:7\">2SA 24:7</a>; <a href=\"https://ref.ly/1Kgs15:17\">1KI 15:17</a></p>\n<h2>Examples of fortified cities</h2>\n<p><strong><a href=\"https://ref.ly/Num32:34-Num32:36\">NUM 32:34–32:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut3:4-Deut3:5\">DEU 3:4–3:5</a>; <a href=\"https://ref.ly/Josh19:35-Josh19:38\">JOS 19:35–19:38</a>; <a href=\"https://ref.ly/2Sam5:6-2Sam5:7\">2SA 5:6–5:7</a> parallel <a href=\"https://ref.ly/1Chr11:4-1Chr11:5\">1CH 11:4–11:5</a>; <a href=\"https://ref.ly/1Kgs4:13\">1KI 4:13</a>, <a href=\"https://ref.ly/1Kgs12:25\">1KI 12:25</a></p>\n<h2>Fortresses were symbolic of self-reliance</h2>\n<p><strong><a href=\"https://ref.ly/Deut28:52\">DEU 28:52</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov10:15\">PRO 10:15</a>; <a href=\"https://ref.ly/Ezek24:21\">EZK 24:21</a>; <a href=\"https://ref.ly/Dan11:38-Dan11:39\">DAN 11:38–11:39</a></p>\n<h2>Fortresses cannot withstand the judgment of God</h2>\n<p><strong><a href=\"https://ref.ly/Jer51:53\">JER 51:53</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa2:12-Isa2:18\">ISA 2:12–2:18</a>, <a href=\"https://ref.ly/Isa17:1-Isa17:3\">ISA 17:1–17:3</a>, <a href=\"https://ref.ly/Isa25:2\">ISA 25:2</a>, <a href=\"https://ref.ly/Isa25:12\">ISA 25:12</a>; <a href=\"https://ref.ly/Jer48:1\">JER 48:1</a>; <a href=\"https://ref.ly/Lam2:2\">LAM 2:2</a>AMO <a href=\"https://ref.ly/Lam1:4\">1:4</a>, <a href=\"https://ref.ly/Amos1:7\">AMO 1:7</a>, <a href=\"https://ref.ly/Amos1:10\">AMO 1:10</a>, <a href=\"https://ref.ly/Amos1:12\">AMO 1:12</a>, <a href=\"https://ref.ly/Amos1:14\">AMO 1:14</a>, <a href=\"https://ref.ly/Amos2:2\">AMO 2:2</a>, <a href=\"https://ref.ly/Amos2:5\">AMO 2:5</a>\n<a href=\"https://ref.ly/Hos10:13-Hos10:14\">HOS 10:13–10:14</a> <em>punishment for Israel</em>; <a href=\"https://ref.ly/Nah3:12\">NAM 3:12</a> <em>judgment on Nineveh</em></p>\n<h2>God is the secure fortress of his people</h2>\n<p><strong><a href=\"https://ref.ly/Ps9:9\">PSA 9:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam22:2-2Sam22:3\">2SA 22:2–22:3</a> parallel <a href=\"https://ref.ly/Ps18:2\">PSA 18:2</a>; <a href=\"https://ref.ly/Ps31:2-Ps31:3\">PSA 31:2–31:3</a>, <a href=\"https://ref.ly/Ps59:9\">PSA 59:9</a>, <a href=\"https://ref.ly/Ps59:16-Ps59:17\">PSA 59:16–59:17</a>, <a href=\"https://ref.ly/Ps144:2\">PSA 144:2</a>; <a href=\"https://ref.ly/Prov14:26\">PRO 14:26</a>; <a href=\"https://ref.ly/Isa17:10\">ISA 17:10</a>, <a href=\"https://ref.ly/Isa25:4\">ISA 25:4</a>; <a href=\"https://ref.ly/Nah1:7\">NAM 1:7</a></p>",
@@ -366,6 +366,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8030: trust",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Fortress",
+"type": "realia",
+"confidence": 0.5802,
+"match_method": "scored",
+"preferred_label": "Fortress"
 }
 ]
 }

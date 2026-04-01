@@ -2,10 +2,10 @@
 {
 "content_id": "5112",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5112: Peter",
 "media_type": "Text",
-"index_reference": "5112: peter",
+"index_reference": "5112",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The foremost of the disciples of Jesus Christ during his lifetime and of the apostles after the resurrection.</p>",
@@ -32,6 +32,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5115: Peter, preacher and teacher",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ephraim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:Ephraim.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
+},
+{
+"id": "place:Ephraim",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephraim"
 }
 ]
 }

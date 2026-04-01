@@ -2,10 +2,10 @@
 {
 "content_id": "5520",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5520: servants",
 "media_type": "Text",
-"index_reference": "5520: servants",
+"index_reference": "5520",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Someone who serves another. Scripture provides guidance concerning the roles of servants, noting in particular that Jesus Christ chose to be a servant and commands believers to serve one another.</p>",
@@ -40,7 +40,8 @@
 "label": "5524: servants, bad",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

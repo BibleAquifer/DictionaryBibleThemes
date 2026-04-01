@@ -2,10 +2,10 @@
 {
 "content_id": "8240",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8240: ethics",
 "media_type": "Text",
-"index_reference": "8240: ethics",
+"index_reference": "8240",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Principles, both theoretical and practical, for righteous living in the sight of God. Scripture provides detailed guidance concerning the conduct of believers, as well as examples of individuals whose lives illustrate positive and negative aspects of behaviour.</p>",
@@ -47,7 +47,8 @@
 "label": "8245: ethics, incentives towards",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "4444",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4444: flax",
 "media_type": "Text",
-"index_reference": "4444: flax",
+"index_reference": "4444",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Flax is the linum plant from which linen is made</h2>\n<p><a href=\"https://ref.ly/Exod9:31\">EXO 9:31</a>; ; <a href=\"https://ref.ly/Josh2:6\">JOS 2:6</a>; ; <a href=\"https://ref.ly/Judg15:14\">JDG 15:14</a></p>\n<h2>Making flax into linen</h2>\n<p><a href=\"https://ref.ly/Prov31:13\">PRO 31:13</a>; ; <a href=\"https://ref.ly/Isa19:9\">ISA 19:9</a></p>",
@@ -56,6 +56,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5392: linen",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Flax",
+"type": "flora",
+"confidence": 0.829,
+"match_method": "scored",
+"preferred_label": "Flax"
 }
 ]
 }

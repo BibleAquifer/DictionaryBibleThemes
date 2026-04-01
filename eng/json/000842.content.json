@@ -2,10 +2,10 @@
 {
 "content_id": "5254",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5254: citadel",
 "media_type": "Text",
-"index_reference": "5254: citadel",
+"index_reference": "5254",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An especially secure city, or part of a city, where soldiers were often based.</p>\n<h2>Examples of citadels</h2>\n<p><strong><a href=\"https://ref.ly/Ps48:12-Ps48:13\">PSA 48:12–48:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam12:26\">2SA 12:26</a>; <a href=\"https://ref.ly/1Kgs16:18\">1KI 16:18</a>; <a href=\"https://ref.ly/2Kgs15:25\">2KI 15:25</a>; <a href=\"https://ref.ly/Neh1:1-Neh1:2\">NEH 1:1–1:2</a>, <a href=\"https://ref.ly/Neh2:8\">NEH 2:8</a>, <a href=\"https://ref.ly/Neh7:2\">NEH 7:2</a>; <a href=\"https://ref.ly/Esth1:2\">EST 1:2</a>, <a href=\"https://ref.ly/Esth1:5\">EST 1:5</a>, <a href=\"https://ref.ly/Esth3:15\">EST 3:15</a>, <a href=\"https://ref.ly/Esth9:6\">EST 9:6</a>; <a href=\"https://ref.ly/Ps48:1-Ps48:3\">PSA 48:1–48:3</a>, <a href=\"https://ref.ly/Ps122:7\">PSA 122:7</a>; <a href=\"https://ref.ly/Isa34:13\">ISA 34:13</a>; <a href=\"https://ref.ly/Dan8:2\">DAN 8:2</a></p>\n<h2>Proverbial use of citadel</h2>\n<p><strong><a href=\"https://ref.ly/Prov18:19\">PRO 18:19</a></strong></p>",
@@ -143,6 +143,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7270: Zion, as a place",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Festus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Festus"
 }
 ]
 }

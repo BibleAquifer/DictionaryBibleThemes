@@ -2,10 +2,10 @@
 {
 "content_id": "5960",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5960: success",
 "media_type": "Text",
-"index_reference": "5960: success",
+"index_reference": "5960",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The achieving of objectives or personal fulfilment. For believers, success depends on faithfulness to God. Success can lead to dependence on one's own strength, instead of upon God.</p>\n<h2>Causes of success</h2>\n<h3>The favour of God</h3>\n<p><a href=\"https://ref.ly/Gen39:23\">GEN 39:23</a>; ; <a href=\"https://ref.ly/Josh1:7\">JOS 1:7</a>; ; <a href=\"https://ref.ly/2Chr20:20\">2CH 20:20</a>, <a href=\"https://ref.ly/2Chr26:5\">2CH 26:5</a></p>\n<h3>Human skill</h3>\n<p><a href=\"https://ref.ly/Eccl10:10\">ECC 10:10</a></p>\n<h3>Many advisers</h3>\n<p><a href=\"https://ref.ly/Prov15:22\">PRO 15:22</a></p>\n<h2>Nothing can succeed that is against God</h2>\n<p><strong><a href=\"https://ref.ly/Prov21:30\">PRO 21:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts5:34-Acts5:39\">ACT 5:34–5:39</a></p>\n<h2>Examples of prayers for success</h2>\n<p><a href=\"https://ref.ly/Gen24:12-Gen24:15\">GEN 24:12–24:15</a> <em>success in personal relationships</em>; <a href=\"https://ref.ly/1Chr4:10\">1CH 4:10</a>; ; <a href=\"https://ref.ly/2Chr14:11\">2CH 14:11</a>; \n<a href=\"https://ref.ly/Neh1:11\">NEH 1:11</a> <em>success in personal achievement</em>; ; <a href=\"https://ref.ly/Acts4:18-Acts4:31\">ACT 4:18–4:31</a> <em>success in ministry</em></p>\n<h2>The dangers of success</h2>\n<h3>Pride</h3>\n<p><strong><a href=\"https://ref.ly/2Chr25:19\">2CH 25:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam2:3\">1SA 2:3</a>; <a href=\"https://ref.ly/Prov11:2\">PRO 11:2</a>, <a href=\"https://ref.ly/Prov16:5\">PRO 16:5</a>; <a href=\"https://ref.ly/Mic2:3\">MIC 2:3</a></p>\n<h3>Boasting</h3>\n<p><strong><a href=\"https://ref.ly/Eph2:8\">EPH 2:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jas4:13-Jas4:17\">JAS 4:13–4:17</a>; <a href=\"https://ref.ly/Ps10:3-Ps10:4\">PSA 10:3–10:4</a>; <a href=\"https://ref.ly/Isa10:15-Isa10:16\">ISA 10:15–10:16</a></p>\n<h3>Forgetting God</h3>\n<p><strong><a href=\"https://ref.ly/Deut32:18\">DEU 32:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut8:11-Deut8:17\">DEU 8:11–8:17</a>; <a href=\"https://ref.ly/Judg3:7\">JDG 3:7</a>, <a href=\"https://ref.ly/Judg8:33-Judg8:34\">JDG 8:33–8:34</a></p>\n<h3>Lack of thankfulness</h3>\n<p><a href=\"https://ref.ly/Rom1:21\">ROM 1:21</a>; ; <a href=\"https://ref.ly/2Tim3:2\">2TI 3:2</a></p>",
@@ -257,6 +257,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8802: pride",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hushim.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hushim"
+},
+{
+"id": "person:Hushim.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hushim"
+},
+{
+"id": "person:Hushim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hushim"
 }
 ]
 }

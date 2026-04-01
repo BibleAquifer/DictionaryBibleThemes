@@ -2,10 +2,10 @@
 {
 "content_id": "4448",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4448: forests",
 "media_type": "Text",
-"index_reference": "4448: forests",
+"index_reference": "4448",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Forests the source of timber</h2>\n<p><strong><a href=\"https://ref.ly/Neh2:8\">NEH 2:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut19:5\">DEU 19:5</a>; <a href=\"https://ref.ly/Isa44:13-Isa44:14\">ISA 44:13–44:14</a>; <a href=\"https://ref.ly/Jer10:3\">JER 10:3</a>; <a href=\"https://ref.ly/Ezek39:10\">EZK 39:10</a></p>\n<h2>Forests the habitat of wild animals</h2>\n<p><strong><a href=\"https://ref.ly/Ps50:9-Ps50:11\">PSA 50:9–50:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps80:13\">PSA 80:13</a>, <a href=\"https://ref.ly/Ps104:20-Ps104:22\">PSA 104:20–104:22</a>; <a href=\"https://ref.ly/Isa56:9\">ISA 56:9</a>; <a href=\"https://ref.ly/Jer5:6\">JER 5:6</a>, <a href=\"https://ref.ly/Jer12:8\">JER 12:8</a>; <a href=\"https://ref.ly/Ezek34:25\">EZK 34:25</a>; <a href=\"https://ref.ly/Mic5:8\">MIC 5:8</a>, <a href=\"https://ref.ly/Mic7:14\">MIC 7:14</a></p>\n<h2>Destruction of forests</h2>\n<h3>As punishment</h3>\n<p><strong><a href=\"https://ref.ly/Jer21:14\">JER 21:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa10:18-Isa10:19\">ISA 10:18–10:19</a>, <a href=\"https://ref.ly/Isa10:33-Isa10:34\">ISA 10:33–10:34</a>; <a href=\"https://ref.ly/Zech11:1-Zech11:3\">ZEC 11:1–11:3</a></p>\n<h3>As a demonstration of power</h3>\n<p><strong><a href=\"https://ref.ly/Jer46:23\">JER 46:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs19:22-2Kgs19:24\">2KI 19:22–19:24</a> parallel <a href=\"https://ref.ly/Isa37:23-Isa37:25\">ISA 37:23–37:25</a>; <a href=\"https://ref.ly/Ezek20:46-Ezek20:48\">EZK 20:46–20:48</a></p>\n<h3>To render land suitable for human habitation</h3>\n<p><a href=\"https://ref.ly/Josh17:14-Josh17:18\">JOS 17:14–17:18</a></p>\n<h2>Forest fires</h2>\n<p><strong><a href=\"https://ref.ly/Jas3:5\">JAS 3:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps83:14-Ps83:15\">PSA 83:14–83:15</a>; <a href=\"https://ref.ly/Isa9:18\">ISA 9:18</a>; <a href=\"https://ref.ly/Jer21:14\">JER 21:14</a></p>\n<h3>The Palace of the Forest of Lebanon</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs7:2\">1KI 7:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs10:17\">1KI 10:17</a> parallel <a href=\"https://ref.ly/2Chr9:16\">2CH 9:16</a>; <a href=\"https://ref.ly/1Kgs10:21\">1KI 10:21</a> parallel <a href=\"https://ref.ly/2Chr9:20\">2CH 9:20</a></p>\n<h3>Location of forests</h3>\n<p><strong><a href=\"https://ref.ly/1Sam22:5\">1SA 22:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam18:6-2Sam18:17\">2SA 18:6–18:17</a>; <a href=\"https://ref.ly/Ezek20:46-Ezek20:48\">EZK 20:46–20:48</a></p>\n<h2>Poetic references to forests</h2>\n<p><strong><a href=\"https://ref.ly/Song2:3\">SNG 2:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr16:33\">1CH 16:33</a>; <a href=\"https://ref.ly/Ps29:9\">PSA 29:9</a>, <a href=\"https://ref.ly/Ps96:12\">PSA 96:12</a>; <a href=\"https://ref.ly/Isa7:2\">ISA 7:2</a>, <a href=\"https://ref.ly/Isa44:23\">ISA 44:23</a></p>",
@@ -288,6 +288,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8472: respect, for environment",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Cattle"
 }
 ]
 }

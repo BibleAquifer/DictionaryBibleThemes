@@ -2,10 +2,10 @@
 {
 "content_id": "1015",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1015: God",
 "media_type": "Text",
-"index_reference": "1015: god",
+"index_reference": "1015",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The Creator and Redeemer of the world, who reveals himself in Scripture and in Jesus Christ, and who is loved, worshipped and adored by believers. Scripture stresses the personal nature of God, and also his total reliability and trustworthiness. God is the Father of Jesus Christ and of all believers.</p>",
@@ -250,7 +250,8 @@
 "label": "1185: God, zeal of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

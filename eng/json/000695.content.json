@@ -2,10 +2,10 @@
 {
 "content_id": "5099",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5099: Mary, mother of Jesus Christ",
 "media_type": "Text",
-"index_reference": "5099: mary, mother of jesus christ",
+"index_reference": "5099",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Mary, the mother of Jesus Christ, provides Christians with an example of obedience to God and trust in Christ. She shared in the sufferings of her son, and took her place alongside the other disciples.</p>\n<h2>Mary's background</h2>\n<h3>She was from Nazareth</h3>\n<p><a href=\"https://ref.ly/Luke1:26\">LUK 1:26</a>, <a href=\"https://ref.ly/Luke2:39\">LUK 2:39</a>, <a href=\"https://ref.ly/Luke2:51\">LUK 2:51</a></p>\n<h3>She was related to Elizabeth, a descendant of Aaron</h3>\n<p><a href=\"https://ref.ly/Luke1:5\">LUK 1:5</a>, <a href=\"https://ref.ly/Luke1:36\">LUK 1:36</a></p>\n<h3>Possibly descended from David</h3>\n<p><a href=\"https://ref.ly/Luke1:32\">LUK 1:32</a></p>\n<h3>She was betrothed to Joseph</h3>\n<p><a href=\"https://ref.ly/Luke1:27\">LUK 1:27</a></p>\n<h3>She was a virgin</h3>\n<p><strong><a href=\"https://ref.ly/Luke1:34\">LUK 1:34</a></strong> <em>The Greek word translated “virgin” means “young”, “unmarried” and implies virginity. Betrothal might take place as early as 12 years old and lasted usually for a year, being as binding as a marriage contract, though without sexual relations.</em> <em>See also</em> <a href=\"https://ref.ly/Isa7:14\">ISA 7:14</a>; <a href=\"https://ref.ly/Matt1:23\">MAT 1:23</a></p>\n<h2>The events in Mary's life leading up to the birth of Jesus Christ</h2>\n<h3>The annunciation</h3>\n<p><strong><a href=\"https://ref.ly/Luke1:30-Luke1:31\">LUK 1:30–1:31</a></strong></p>\n<h3>Mary's response of submission and obedience</h3>\n<p><strong><a href=\"https://ref.ly/Luke1:38\">LUK 1:38</a></strong></p>\n<h3>The Magnificat expresses Mary's wonder and joy</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Luke1:46-Luke1:55\">LUK 1:46–1:55</a></p>\n<h3>Elizabeth's response to Mary</h3>\n<p><a href=\"https://ref.ly/Luke1:42-Luke1:45\">LUK 1:42–1:45</a></p>\n<h2>Mary, the mother</h2>\n<h3>The birth of Jesus Christ</h3>\n<p><a href=\"https://ref.ly/Luke2:4-Luke2:16\">LUK 2:4–2:16</a></p>\n<h3>Her memories</h3>\n<p><a href=\"https://ref.ly/Luke2:51\">LUK 2:51</a></p>\n<h3>Jesus Christ's circumcision and presentation</h3>\n<p><a href=\"https://ref.ly/Luke2:21-Luke2:24\">LUK 2:21–2:24</a> <em>Joseph and Mary were poor and they could not afford to offer a lamb (see <a href=\"https://ref.ly/Lev12:8\">Lev 12:8</a>).</em></p>\n<h3>The flight to Egypt</h3>\n<p><a href=\"https://ref.ly/Matt2:14\">MAT 2:14</a></p>\n<h3>Her other children</h3>\n<p><a href=\"https://ref.ly/Matt13:55-Matt13:56\">MAT 13:55–13:56</a> parallel <a href=\"https://ref.ly/Mark6:3\">MRK 6:3</a></p>\n<h3>Her anxieties</h3>\n<p><a href=\"https://ref.ly/Luke2:48\">LUK 2:48</a></p>\n<h3>Her doubts about Jesus Christ</h3>\n<p><a href=\"https://ref.ly/Mark3:20-Mark3:21\">MRK 3:20–3:21</a>, <a href=\"https://ref.ly/Mark3:31\">MRK 3:31</a></p>\n<h3>She could not dominate Jesus Christ</h3>\n<p><a href=\"https://ref.ly/Mark3:34-Mark3:35\">MRK 3:34–3:35</a> parallels <a href=\"https://ref.ly/Matt12:48-Matt12:50\">MAT 12:48–12:50</a>, <a href=\"https://ref.ly/Luke8:19-Luke8:21\">LUK 8:19–8:21</a>; ; <a href=\"https://ref.ly/John2:4\">JHN 2:4</a></p>\n<h2>Mary, the disciple</h2>\n<h3>Mary acknowledges Jesus Christ's authority</h3>\n<p><strong><a href=\"https://ref.ly/John2:5\">JHN 2:5</a></strong> <em>At the wedding at Cana.</em></p>\n<h3>Mary at the cross</h3>\n<p><strong><a href=\"https://ref.ly/John19:25\">JHN 19:25</a></strong> <em>Many Christians see this as the poignant fulfilment of Simeon's prophecy in <a href=\"https://ref.ly/Luke2:35\">Lk 2:35</a>.</em></p>\n<h3>Mary in Jesus Christ's family</h3>\n<p><strong><a href=\"https://ref.ly/John19:26-John19:27\">JHN 19:26–19:27</a></strong></p>\n<h3>Mary praying with other disciples</h3>\n<p><strong><a href=\"https://ref.ly/Acts1:14\">ACT 1:14</a></strong></p>",
@@ -254,7 +254,8 @@
 "label": "7334: circumcision",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

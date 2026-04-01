@@ -2,10 +2,10 @@
 {
 "content_id": "5148",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5148: ear",
 "media_type": "Text",
-"index_reference": "5148: ear",
+"index_reference": "5148",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The organ of hearing; the ear is referred to in various OT rites and is a symbol of attention, alertness or readiness to hear.</p>\n<h2>The ear in the OT rites</h2>\n<h3>Piercing the ear: a symbol of servanthood</h3>\n<p><strong><a href=\"https://ref.ly/Ps40:6\">PSA 40:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod21:5-Exod21:6\">EXO 21:5–21:6</a>; <a href=\"https://ref.ly/Deut15:16-Deut15:17\">DEU 15:16–15:17</a></p>\n<h3>Blood applied to the ear: a symbol of cleansing and ordination</h3>\n<p><strong><a href=\"https://ref.ly/Lev8:23\">LEV 8:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod29:20\">EXO 29:20</a>; <a href=\"https://ref.ly/Lev14:14\">LEV 14:14</a></p>\n<h2>God's ear as a symbol of his alertness to humanity</h2>\n<p><strong><a href=\"https://ref.ly/Ps116:1-Ps116:2\">PSA 116:1–116:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs19:16\">2KI 19:16</a>; <a href=\"https://ref.ly/2Chr7:15\">2CH 7:15</a>; <a href=\"https://ref.ly/Neh1:6\">NEH 1:6</a>JOB <a href=\"https://ref.ly/Neh34:28\">34:28</a>; <a href=\"https://ref.ly/Jas5:4\">JAS 5:4</a>\n<a href=\"https://ref.ly/Ps5:1\">PSA 5:1</a>, <a href=\"https://ref.ly/Ps31:2\">PSA 31:2</a>, <a href=\"https://ref.ly/Ps34:15\">PSA 34:15</a>, <a href=\"https://ref.ly/Ps88:2\">PSA 88:2</a>, <a href=\"https://ref.ly/Ps130:1-Ps130:2\">PSA 130:1–130:2</a>; <a href=\"https://ref.ly/Dan9:18\">DAN 9:18</a></p>\n<h2>God's ear may be turned away from humanity</h2>\n<p><strong><a href=\"https://ref.ly/Ps28:1\">PSA 28:1</a></strong> <em>The refusal to turn an ear towards someone was a symbol of refusing to listen.</em> <em>See also</em> <a href=\"https://ref.ly/Deut1:45\">DEU 1:45</a>; <a href=\"https://ref.ly/Lam3:56\">LAM 3:56</a>; <a href=\"https://ref.ly/Ezek8:18\">EZK 8:18</a> <em>God's attending ear is partly dependent on human attitudes to him.</em></p>\n<h2>The human ear used symbolically</h2>\n<h3>Human ears should be open to God</h3>\n<p><strong><a href=\"https://ref.ly/Isa50:4-Isa50:5\">ISA 50:4–50:5</a>, <a href=\"https://ref.ly/Isa55:3\">ISA 55:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job42:5\">JOB 42:5</a>; <a href=\"https://ref.ly/Ps81:8\">PSA 81:8</a>; <a href=\"https://ref.ly/Isa30:21\">ISA 30:21</a>, <a href=\"https://ref.ly/Isa32:3\">ISA 32:3</a>; <a href=\"https://ref.ly/Matt13:9\">MAT 13:9</a> parallels <a href=\"https://ref.ly/Mark4:9\">MRK 4:9</a>, <a href=\"https://ref.ly/Luke8:8\">LUK 8:8</a> <em>“He who has ears” implies a potential willingness to listen</em>; <a href=\"https://ref.ly/Matt13:16\">MAT 13:16</a>; <a href=\"https://ref.ly/Mark9:7\">MRK 9:7</a>; <a href=\"https://ref.ly/Rev2:7\">REV 2:7</a></p>\n<h3>Human ears may be closed against God</h3>\n<p><strong><a href=\"https://ref.ly/Zech7:11-Zech7:13\">ZEC 7:11–7:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps58:4-Ps58:5\">PSA 58:4–58:5</a>; <a href=\"https://ref.ly/Isa6:10\">ISA 6:10</a></p>\n<h3>The human ear should also be open to others</h3>\n<p><a href=\"https://ref.ly/Isa48:8\">ISA 48:8</a>; ; <a href=\"https://ref.ly/Jer6:10\">JER 6:10</a>; ; <a href=\"https://ref.ly/Ezek12:2\">EZK 12:2</a>; ; <a href=\"https://ref.ly/Acts7:51\">ACT 7:51</a>, <a href=\"https://ref.ly/Acts7:57\">ACT 7:57</a>; ; <a href=\"https://ref.ly/2Tim4:4\">2TI 4:4</a><strong><a href=\"https://ref.ly/Prov21:13\">PRO 21:13</a></strong></p>\n<h2>A discerning ear brings knowledge and understanding</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Job12:11\">JOB 12:11</a>, <a href=\"https://ref.ly/Job13:1\">JOB 13:1</a>, <a href=\"https://ref.ly/Job34:3\">JOB 34:3</a>; <a href=\"https://ref.ly/Prov18:15\">PRO 18:15</a></p>",
@@ -377,6 +377,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8342: servanthood",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Eshcol",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eshcol"
 }
 ]
 }

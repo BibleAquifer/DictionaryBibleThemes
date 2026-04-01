@@ -2,10 +2,10 @@
 {
 "content_id": "5915",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5915: ornaments",
 "media_type": "Text",
-"index_reference": "5915: ornaments",
+"index_reference": "5915",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The use of jewellery and other adornments is not forbidden in Scripture, but excessive use can indicate worldliness. Inner spiritual adornment is of greater value.</p>\n<h2>Possession and use of various ornaments show wealth</h2>\n<h3>Ornaments used to beautify</h3>\n<p><strong><a href=\"https://ref.ly/Song1:10-Song1:11\">SNG 1:10–1:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen37:3\">GEN 37:3</a>, <a href=\"https://ref.ly/Gen37:23\">GEN 37:23</a>, <a href=\"https://ref.ly/Gen37:32\">GEN 37:32</a>; <a href=\"https://ref.ly/2Sam1:24\">2SA 1:24</a>; <a href=\"https://ref.ly/Jer2:32\">JER 2:32</a></p>\n<h3>Rings, ear-rings and nose rings</h3>\n<p><a href=\"https://ref.ly/Gen35:4\">GEN 35:4</a>; ; <a href=\"https://ref.ly/Exod32:2-Exod32:3\">EXO 32:2–32:3</a>; ; <a href=\"https://ref.ly/Judg8:24\">JDG 8:24</a>; ; <a href=\"https://ref.ly/Esth8:8\">EST 8:8</a>; ; <a href=\"https://ref.ly/Prov25:12\">PRO 25:12</a>; ; <a href=\"https://ref.ly/Isa3:19\">ISA 3:19</a>, <a href=\"https://ref.ly/Isa3:21\">ISA 3:21</a>; ; <a href=\"https://ref.ly/Ezek16:12\">EZK 16:12</a>; ; <a href=\"https://ref.ly/Luke15:22\">LUK 15:22</a>; ; <a href=\"https://ref.ly/Jas2:2\">JAS 2:2</a></p>\n<h3>Bracelets and gold chains</h3>\n<p><a href=\"https://ref.ly/Gen24:22\">GEN 24:22</a>, <a href=\"https://ref.ly/Gen41:42\">GEN 41:42</a>; ; <a href=\"https://ref.ly/Prov1:9\">PRO 1:9</a>; ; <a href=\"https://ref.ly/Ezek16:11\">EZK 16:11</a>; ; <a href=\"https://ref.ly/Dan5:29\">DAN 5:29</a></p>\n<h3>Bells</h3>\n<p><a href=\"https://ref.ly/Exod28:33-Exod28:35\">EXO 28:33–28:35</a></p>\n<h2>Ornaments plundered from Egypt</h2>\n<p><strong><a href=\"https://ref.ly/Exod3:22\">EXO 3:22</a></strong></p>\n<h2>The misuse of ornaments for pride and seduction</h2>\n<p><strong><a href=\"https://ref.ly/Isa3:16\">ISA 3:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek23:40\">EZK 23:40</a>, <a href=\"https://ref.ly/Ezek23:42\">EZK 23:42</a>; <a href=\"https://ref.ly/Hos2:13\">HOS 2:13</a></p>\n<h2>Ornaments as gifts</h2>\n<p><strong><a href=\"https://ref.ly/Gen24:53\">GEN 24:53</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen24:22\">GEN 24:22</a>; <a href=\"https://ref.ly/Job42:11\">JOB 42:11</a></p>\n<h2>Adornment as a picture of God's love</h2>\n<p><strong><a href=\"https://ref.ly/Ezek16:11-Ezek16:13\">EZK 16:11–16:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa61:10\">ISA 61:10</a>; <a href=\"https://ref.ly/Luke15:22\">LUK 15:22</a></p>\n<h2>Ornaments as symbols of authority</h2>\n<p><strong><a href=\"https://ref.ly/Gen41:42\">GEN 41:42</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam1:10\">2SA 1:10</a>; <a href=\"https://ref.ly/Esth3:10\">EST 3:10</a>; <a href=\"https://ref.ly/Dan5:29\">DAN 5:29</a></p>\n<h2>Ornaments discarded</h2>\n<h3>In mourning</h3>\n<p><strong><a href=\"https://ref.ly/Exod33:4-Exod33:6\">EXO 33:4–33:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek26:16\">EZK 26:16</a></p>\n<h3>To make idols</h3>\n<p><strong><a href=\"https://ref.ly/Exod32:2-Exod32:4\">EXO 32:2–32:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg8:24-Judg8:27\">JDG 8:24–8:27</a></p>\n<h3>As offerings to God</h3>\n<p><strong><a href=\"https://ref.ly/Exod35:22\">EXO 35:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num31:50\">NUM 31:50</a></p>\n<h2>Inner, not outer, adornment encouraged</h2>\n<p><strong><a href=\"https://ref.ly/1Pet3:3-1Pet3:4\">1PE 3:3–3:4</a></strong></p>",
@@ -329,6 +329,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8808: riches",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hosah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hosah"
 }
 ]
 }

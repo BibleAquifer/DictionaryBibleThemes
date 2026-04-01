@@ -2,10 +2,10 @@
 {
 "content_id": "5535",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5535: sleep, and death",
 "media_type": "Text",
-"index_reference": "5535: sleep, and death",
+"index_reference": "5535",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture often uses sleep as an image of death, indicating that believers will be awakened to resurrection on the last day.</p>\n<h2>Death described in the imagery of sleep</h2>\n<h3>The sleep of death for human beings in general</h3>\n<p><strong><a href=\"https://ref.ly/Ps90:3-Ps90:6\">PSA 90:3–90:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job7:21\">JOB 7:21</a>, <a href=\"https://ref.ly/Job14:10-Job14:12\">JOB 14:10–14:12</a>; <a href=\"https://ref.ly/Ps13:3\">PSA 13:3</a>; <a href=\"https://ref.ly/Dan12:2\">DAN 12:2</a>; <a href=\"https://ref.ly/Matt9:24\">MAT 9:24</a> parallels <a href=\"https://ref.ly/Mark5:39\">MRK 5:39</a>, <a href=\"https://ref.ly/Luke8:52-Luke8:53\">LUK 8:52–8:53</a></p>\n<h3>Death as resting with the ancestors</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs2:10\">1KI 2:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut31:16\">DEU 31:16</a>; <a href=\"https://ref.ly/2Sam7:12\">2SA 7:12</a>; <a href=\"https://ref.ly/1Kgs11:43\">1KI 11:43</a> <em>Solomon</em>; <a href=\"https://ref.ly/1Kgs14:20\">1KI 14:20</a>, <a href=\"https://ref.ly/1Kgs14:31\">1KI 14:31</a>, <a href=\"https://ref.ly/1Kgs16:6\">1KI 16:6</a>, <a href=\"https://ref.ly/1Kgs22:50\">1KI 22:50</a> <em>Jehoshaphat</em>; <a href=\"https://ref.ly/2Kgs14:16\">2KI 14:16</a>, <a href=\"https://ref.ly/2Kgs15:7\">2KI 15:7</a>, <a href=\"https://ref.ly/2Kgs16:20\">2KI 16:20</a>, <a href=\"https://ref.ly/2Kgs20:21\">2KI 20:21</a> <em>Hezekiah</em>; <a href=\"https://ref.ly/2Kgs21:18\">2KI 21:18</a> <em>Manasseh</em></p>\n<h3>Those who fall asleep in Christ</h3>\n<p><strong><a href=\"https://ref.ly/Rev14:13\">REV 14:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/John11:11-John11:14\">JHN 11:11–11:14</a>; <a href=\"https://ref.ly/Acts7:60\">ACT 7:60</a>; <a href=\"https://ref.ly/1Cor15:6\">1CO 15:6</a>, <a href=\"https://ref.ly/1Cor15:17-1Cor15:19\">1CO 15:17–15:19</a></p>\n<h2>Death is not the end of existence</h2>\n<p><strong><a href=\"https://ref.ly/John5:28-John5:29\">JHN 5:28–5:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job14:13-Job14:15\">JOB 14:13–14:15</a>; <a href=\"https://ref.ly/Ps17:15\">PSA 17:15</a>; <a href=\"https://ref.ly/Isa26:19\">ISA 26:19</a>; <a href=\"https://ref.ly/Dan12:3\">DAN 12:3</a>; <a href=\"https://ref.ly/Luke16:22-Luke16:23\">LUK 16:22–16:23</a>; <a href=\"https://ref.ly/1Cor15:20\">1CO 15:20</a>, <a href=\"https://ref.ly/1Cor15:51-1Cor15:57\">1CO 15:51–15:57</a>; <a href=\"https://ref.ly/1Thess4:13-1Thess4:18\">1TH 4:13–4:18</a></p>\n<h3>Sleep denoting the finality of judgment for the lost</h3>\n<p><strong><a href=\"https://ref.ly/Jer51:57\">JER 51:57</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps7:3-Ps7:5\">PSA 7:3–7:5</a>, <a href=\"https://ref.ly/Ps76:5\">PSA 76:5</a>; <a href=\"https://ref.ly/Jer51:39\">JER 51:39</a></p>",
@@ -303,7 +303,8 @@
 "label": "9510: hell",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

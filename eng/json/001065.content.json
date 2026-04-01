@@ -2,10 +2,10 @@
 {
 "content_id": "5494",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5494: revenge",
 "media_type": "Text",
-"index_reference": "5494: revenge",
+"index_reference": "5494",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The returning of injury or insult. Scripture insists that human revenge is unacceptable and is to be left in the hands of God.</p>",
@@ -26,7 +26,8 @@
 "label": "5496: revenge, examples of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

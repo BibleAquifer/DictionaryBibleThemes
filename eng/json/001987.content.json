@@ -2,10 +2,10 @@
 {
 "content_id": "8010",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8010: Faith",
 "media_type": "Text",
-"index_reference": "8010: faith",
+"index_reference": "8010",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"8020\" data-resourcetype=\"DictionaryOfBibleThemes\">8020: faith</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8030\" data-resourcetype=\"DictionaryOfBibleThemes\">8030: trust</span></li></ul>",
@@ -26,7 +26,8 @@
 "label": "8030: trust",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

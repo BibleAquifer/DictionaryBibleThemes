@@ -2,10 +2,10 @@
 {
 "content_id": "4829",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4829: heat",
 "media_type": "Text",
-"index_reference": "4829: heat",
+"index_reference": "4829",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The heat of the sun</h2>\n<p><strong><a href=\"https://ref.ly/Isa4:6\">ISA 4:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen8:22\">GEN 8:22</a>, <a href=\"https://ref.ly/Gen18:1\">GEN 18:1</a>, <a href=\"https://ref.ly/Gen31:40\">GEN 31:40</a>; <a href=\"https://ref.ly/Deut28:22\">DEU 28:22</a> <em>Scorching heat was a curse for disobedience</em>; <a href=\"https://ref.ly/1Sam11:11\">1SA 11:11</a>; <a href=\"https://ref.ly/2Sam4:5\">2SA 4:5</a>; <a href=\"https://ref.ly/Neh7:3\">NEH 7:3</a>; <a href=\"https://ref.ly/Job24:19\">JOB 24:19</a>; <a href=\"https://ref.ly/Ps19:6\">PSA 19:6</a>; <a href=\"https://ref.ly/Isa18:4\">ISA 18:4</a>, <a href=\"https://ref.ly/Isa49:10\">ISA 49:10</a> <em>relief from heat in the promised restoration of Israel</em>; <a href=\"https://ref.ly/Jer36:30\">JER 36:30</a>; <a href=\"https://ref.ly/Hos13:5\">HOS 13:5</a>; <a href=\"https://ref.ly/Jonah4:8\">JON 4:8</a>; <a href=\"https://ref.ly/Matt20:12\">MAT 20:12</a>; <a href=\"https://ref.ly/Luke12:55\">LUK 12:55</a> <em>Jesus Christ on interpreting the times</em>; <a href=\"https://ref.ly/Jas1:11\">JAS 1:11</a>; <a href=\"https://ref.ly/Rev7:16\">REV 7:16</a></p>\n<h2>Artificial heat</h2>\n<p><strong><a href=\"https://ref.ly/Acts28:3\">ACT 28:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs19:6\">1KI 19:6</a>; <a href=\"https://ref.ly/Ezek24:11\">EZK 24:11</a>; <a href=\"https://ref.ly/Dan3:22\">DAN 3:22</a>; <a href=\"https://ref.ly/Hos7:7\">HOS 7:7</a>; <a href=\"https://ref.ly/1Tim4:2\">1TI 4:2</a></p>\n<h2>Bodily heat</h2>\n<p><a href=\"https://ref.ly/Lam5:10\">LAM 5:10</a></p>\n<h2>Heat associated with action in battle</h2>\n<p><a href=\"https://ref.ly/1Sam14:22\">1SA 14:22</a>; ; <a href=\"https://ref.ly/Isa21:15\">ISA 21:15</a></p>\n<h2>Heat associated with anger</h2>\n<p><strong><a href=\"https://ref.ly/Isa25:4-Isa25:5\">ISA 25:4–25:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod11:8\">EXO 11:8</a>; <a href=\"https://ref.ly/2Kgs23:26\">2KI 23:26</a>; <a href=\"https://ref.ly/Ps39:3\">PSA 39:3</a>, <a href=\"https://ref.ly/Ps78:49\">PSA 78:49</a>; <a href=\"https://ref.ly/Ezek38:18\">EZK 38:18</a></p>\n<h2>Heat associated with judgment</h2>\n<p><a href=\"https://ref.ly/2Pet3:12\">2PE 3:12</a>; ; <a href=\"https://ref.ly/Rev16:9\">REV 16:9</a></p>\n<h2>Heat referring to animals entering period of fertility</h2>\n<p><a href=\"https://ref.ly/Gen30:41-Gen30:42\">GEN 30:41–30:42</a>; ; <a href=\"https://ref.ly/Jer2:24\">JER 2:24</a></p>",
@@ -290,7 +290,8 @@
 "label": "5789: anger",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

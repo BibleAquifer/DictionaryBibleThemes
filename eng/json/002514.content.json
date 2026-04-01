@@ -2,10 +2,10 @@
 {
 "content_id": "9420",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9420: book of life",
 "media_type": "Text",
-"index_reference": "9420: book of life",
+"index_reference": "9420",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Book in which the names of the living were recorded and from which their names were removed at death. From the time of the exodus onwards, Scripture contains references to God's book of life. It is to contain only the names of the righteous and is to be opened on the day of judgment.</p>\n<h2>The privilege of having one's name in the book of life</h2>\n<p><strong><a href=\"https://ref.ly/Luke10:20\">LUK 10:20</a></strong>; <strong><a href=\"https://ref.ly/Heb12:22-Heb12:23\">HEB 12:22–12:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan12:1\">DAN 12:1</a>; <a href=\"https://ref.ly/Phil4:3\">PHP 4:3</a>; <a href=\"https://ref.ly/Rev3:5\">REV 3:5</a>, <a href=\"https://ref.ly/Rev21:27\">REV 21:27</a></p>\n<h2>The unrighteous are excluded from the book of life</h2>\n<p><strong><a href=\"https://ref.ly/Exod32:31-Exod32:33\">EXO 32:31–32:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps69:27-Ps69:28\">PSA 69:27–69:28</a>; <a href=\"https://ref.ly/Rev13:8\">REV 13:8</a>, <a href=\"https://ref.ly/Rev17:8\">REV 17:8</a>, <a href=\"https://ref.ly/Rev20:12-Rev20:15\">REV 20:12–20:15</a></p>\n<h2>Other references to such a book</h2>\n<p><a href=\"https://ref.ly/Ps56:8\">PSA 56:8</a>, <a href=\"https://ref.ly/Ps139:16\">PSA 139:16</a>; ; <a href=\"https://ref.ly/Mal3:16\">MAL 3:16</a></p>",
@@ -118,7 +118,8 @@
 "label": "9230: judgment seat",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

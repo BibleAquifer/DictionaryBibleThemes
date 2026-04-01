@@ -2,10 +2,10 @@
 {
 "content_id": "5884",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5884: indecision",
 "media_type": "Text",
-"index_reference": "5884: indecision",
+"index_reference": "5884",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Uncertainty, hesitation and doubt reflect a failure of the basic human ability to choose. They reveal an internal debate and lack of conviction.</p>\n<h2>Indecision arising from doubt and hesitation</h2>\n<p><strong><a href=\"https://ref.ly/Jas1:6-Jas1:8\">JAS 1:6–1:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs18:21\">1KI 18:21</a>; <a href=\"https://ref.ly/Matt14:31\">MAT 14:31</a>, <a href=\"https://ref.ly/Matt21:21\">MAT 21:21</a>; <a href=\"https://ref.ly/Mark11:23\">MRK 11:23</a>; <a href=\"https://ref.ly/Rom14:23\">ROM 14:23</a></p>\n<h2>Examples of indecisive behaviour</h2>\n<p><strong><a href=\"https://ref.ly/Exod3:11\">EXO 3:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod4:13\">EXO 4:13</a>, <a href=\"https://ref.ly/Exod14:10-Exod14:15\">EXO 14:10–14:15</a>; <a href=\"https://ref.ly/Josh7:10\">JOS 7:10</a>; <a href=\"https://ref.ly/Esth5:8\">EST 5:8</a>; <a href=\"https://ref.ly/Matt27:21-Matt27:26\">MAT 27:21–27:26</a> parallels <a href=\"https://ref.ly/Mark15:9-Mark15:15\">MRK 15:9–15:15</a>, <a href=\"https://ref.ly/Luke23:13-Luke23:25\">LUK 23:13–23:25</a>, <a href=\"https://ref.ly/John18:38-John18:40\">JHN 18:38–18:40</a>; <a href=\"https://ref.ly/Mark16:11-Mark16:14\">MRK 16:11–16:14</a>; <a href=\"https://ref.ly/John20:25\">JHN 20:25</a>; <a href=\"https://ref.ly/Acts24:25\">ACT 24:25</a></p>\n<h2>Indecision may be indicative of divided loyalty</h2>\n<p><strong><a href=\"https://ref.ly/Matt6:24\">MAT 6:24</a></strong> parallel <a href=\"https://ref.ly/Luke16:13\">LUK 16:13</a> <em>See also</em> <a href=\"https://ref.ly/Matt19:22\">MAT 19:22</a> parallels <a href=\"https://ref.ly/Mark10:22\">MRK 10:22</a>, <a href=\"https://ref.ly/Luke18:23\">LUK 18:23</a></p>\n<h2>Indecision or uncertainty may be prompted by Satan</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:1\">GEN 3:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen3:4\">GEN 3:4</a>; <a href=\"https://ref.ly/John8:44\">JHN 8:44</a>; <a href=\"https://ref.ly/2Cor11:3\">2CO 11:3</a>; <a href=\"https://ref.ly/Rev12:9\">REV 12:9</a></p>",
@@ -264,6 +264,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8837: unbelief, and life of faith",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:HolyPlace.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Place"
+},
+{
+"id": "place:HolyPlace",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Holy Place"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "8248",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8248: faithfulness",
 "media_type": "Text",
-"index_reference": "8248: faithfulness",
+"index_reference": "8248",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Commitment to a relationship with God or fellow human beings; seen in that loyalty, devotion and service which is a reflection of God's own faithfulness. Scripture points to the faithfulness of Jesus Christ as an example for believers.</p>",
@@ -47,7 +47,8 @@
 "label": "8253: faithfulness, examples of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

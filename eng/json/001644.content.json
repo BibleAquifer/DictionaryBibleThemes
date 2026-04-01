@@ -2,10 +2,10 @@
 {
 "content_id": "6674",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6674: imputation",
 "media_type": "Text",
-"index_reference": "6674: imputation",
+"index_reference": "6674",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The crediting by God to believers with righteousness on account of Jesus Christ. Paul argues that Abraham did nothing which earned him the status of being righteous in the sight of God. Rather, Abraham believed the promise of God, and for that reason was granted the status of being righteous before God. Likewise, all who trust in Jesus Christ have righteousness imputed to them--that is, reckoned as if it was theirs. Imputation should not be confused with impartation. Believers are not made right ethically (impartation), but put right relationally (imputation). What God changes is not the character of believers but their legal standing before him. From this new position, believers are called to co-operate with the Holy Spirit in sanctification so that their character increasingly reflects their new standing.</p>\n<h2>Righteousness imputed through faith not works</h2>\n<h3>The example of Abraham</h3>\n<p><strong><a href=\"https://ref.ly/Rom4:1-Rom4:3\">ROM 4:1–4:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen15:1-Gen15:6\">GEN 15:1–15:6</a>; <a href=\"https://ref.ly/Rom4:9-Rom4:22\">ROM 4:9–4:22</a>; <a href=\"https://ref.ly/Gal3:6-Gal3:9\">GAL 3:6–3:9</a></p>\n<h3>The testimony of David</h3>\n<p><strong><a href=\"https://ref.ly/Rom4:6-Rom4:8\">ROM 4:6–4:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps32:1-Ps32:2\">PSA 32:1–32:2</a></p>\n<h3>The principle holds true for everyone</h3>\n<p><strong><a href=\"https://ref.ly/Rom4:4-Rom4:5\">ROM 4:4–4:5</a>, <a href=\"https://ref.ly/Rom4:23-Rom4:24\">ROM 4:23–4:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor1:30\">1CO 1:30</a>; <a href=\"https://ref.ly/2Cor5:19\">2CO 5:19</a>; <a href=\"https://ref.ly/Gal3:7-Gal3:9\">GAL 3:7–3:9</a>; <a href=\"https://ref.ly/Phil3:9\">PHP 3:9</a></p>\n<h2>Believers' sins are imputed to Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/2Cor5:21\">2CO 5:21</a></strong></p>\n<h2>Imputed righteousness expresses itself in good works</h2>\n<p><strong><a href=\"https://ref.ly/Jas2:20-Jas2:24\">JAS 2:20–2:24</a></strong> <em>James does not contradict, but complements Paul's teaching by showing that the person who has been credited with righteousness will always express this in works.</em></p>",
@@ -153,7 +153,8 @@
 "label": "8266: holiness",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "7446",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7446: slavery",
 "media_type": "Text",
-"index_reference": "7446: slavery",
+"index_reference": "7446",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The state of being an unpaid servant, whether through forcible subjection or voluntary submission. Slavery was common in biblical times, and Scripture lays down strict guidelines as to how slaves are to be treated by their masters, stressing the new status that slaves have as a result of being believers in Jesus Christ. The image of slavery is also used to describe the state of sinful human beings.</p>",
@@ -33,7 +33,8 @@
 "label": "7449: slavery, spiritual",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

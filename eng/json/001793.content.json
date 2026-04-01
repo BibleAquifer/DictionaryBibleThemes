@@ -2,10 +2,10 @@
 {
 "content_id": "7358",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7358: Feast of Tabernacles",
 "media_type": "Text",
-"index_reference": "7358: feast of tabernacles",
+"index_reference": "7358",
 "language": "eng",
 "review_level": "None",
 "content": "<p>This feast began on 15th Tishri (September/October) and lasted seven days. It celebrated the first gathering of the fruit and grain harvests and also God's provision for his people during their wilderness journey from Egypt to the promised land.</p>\n<h2>Instructions for celebrating the Feast of Tabernacles</h2>\n<p><strong><a href=\"https://ref.ly/Exod23:16\">EXO 23:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:14\">EXO 23:14</a>, <a href=\"https://ref.ly/Exod34:22-Exod34:23\">EXO 34:22–34:23</a>; <a href=\"https://ref.ly/Lev23:33-Lev23:34\">LEV 23:33–23:34</a>, <a href=\"https://ref.ly/Lev23:39\">LEV 23:39</a>; <a href=\"https://ref.ly/Num29:12\">NUM 29:12</a>; <a href=\"https://ref.ly/Deut16:13\">DEU 16:13</a>, <a href=\"https://ref.ly/Deut16:14\">DEU 16:14</a>, <a href=\"https://ref.ly/Deut16:16\">DEU 16:16</a></p>\n<h2>People lived in booths for the duration of the Feast of Tabernacles</h2>\n<p><a href=\"https://ref.ly/Lev23:40\">LEV 23:40</a>, <a href=\"https://ref.ly/Lev23:42-Lev23:43\">LEV 23:42–23:43</a></p>\n<h2>The offerings to be made on each day of the Feast of Tabernacles</h2>\n<p><a href=\"https://ref.ly/Lev23:37\">LEV 23:37</a>; ; <a href=\"https://ref.ly/Num29:13-Num29:38\">NUM 29:13–29:38</a></p>\n<h2>The Feast of Tabernacles was celebrated throughout Israel's history</h2>\n<p><a href=\"https://ref.ly/2Chr8:12-2Chr8:13\">2CH 8:12–8:13</a> <em>under Solomon</em>; <a href=\"https://ref.ly/Ezra3:4\">EZR 3:4</a>; ; <a href=\"https://ref.ly/Neh8:17-Neh8:18\">NEH 8:17–8:18</a>; <a href=\"https://ref.ly/John7:2-John7:3\">JHN 7:2–7:3</a>, <a href=\"https://ref.ly/John7:37-John7:38\">JHN 7:37–7:38</a></p>",
@@ -141,6 +141,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7444: sin offering",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:FeastOfTabernacles",
+"type": "keyterm",
+"confidence": 0.5905,
+"match_method": "scored",
+"preferred_label": "Feast of Tabernacles"
 }
 ]
 }

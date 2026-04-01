@@ -2,10 +2,10 @@
 {
 "content_id": "5891",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5891: instability",
 "media_type": "Text",
-"index_reference": "5891: instability",
+"index_reference": "5891",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The danger of instability in the Christian life</h2>\n<p><strong><a href=\"https://ref.ly/Eph4:14\">EPH 4:14</a></strong>; <strong><a href=\"https://ref.ly/Jas1:6-Jas1:8\">JAS 1:6–1:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt7:26-Matt7:27\">MAT 7:26–7:27</a>; <a href=\"https://ref.ly/2Pet2:14\">2PE 2:14</a>, <a href=\"https://ref.ly/2Pet3:16\">2PE 3:16</a></p>\n<h2>Firmness of faith as an antidote to instability</h2>\n<p><strong><a href=\"https://ref.ly/1Cor15:58\">1CO 15:58</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt7:24-Matt7:25\">MAT 7:24–7:25</a>; <a href=\"https://ref.ly/Col1:23\">COL 1:23</a>; <a href=\"https://ref.ly/1Pet5:10\">1PE 5:10</a></p>\n<h2>Political instability</h2>\n<p><strong><a href=\"https://ref.ly/Prov29:4\">PRO 29:4</a></strong></p>",
@@ -157,7 +157,8 @@
 "label": "8721: doubt",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "4236",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4236: fountain",
 "media_type": "Text",
-"index_reference": "4236: fountain",
+"index_reference": "4236",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A source of natural spring water. Figuratively, it symbolises a place of cleansing, tears or sexual fulfilment. Significantly, God is pictured as a fountain of life.</p>\n<h2>The fountain as a source of spring water</h2>\n<p><strong><a href=\"https://ref.ly/Prov18:4\">PRO 18:4</a></strong></p>\n<h2>Figurative use of fountains</h2>\n<h3>A place of cleansing</h3>\n<p><strong><a href=\"https://ref.ly/Zech13:1\">ZEC 13:1</a></strong></p>\n<h3>Tears of inconsolable grief</h3>\n<p><strong><a href=\"https://ref.ly/Jer9:1\">JER 9:1</a></strong></p>\n<h3>Sexual fulfilment</h3>\n<p><strong><a href=\"https://ref.ly/Song4:12\">SNG 4:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov5:15-Prov5:18\">PRO 5:15–5:18</a>; <a href=\"https://ref.ly/Song4:15\">SNG 4:15</a></p>\n<h3>A source of life</h3>\n<p><strong><a href=\"https://ref.ly/Prov14:27\">PRO 14:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps36:8-Ps36:9\">PSA 36:8–36:9</a>, <a href=\"https://ref.ly/Ps87:7\">PSA 87:7</a>; <a href=\"https://ref.ly/Prov10:11\">PRO 10:11</a>, <a href=\"https://ref.ly/Prov13:14\">PRO 13:14</a>, <a href=\"https://ref.ly/Prov16:22\">PRO 16:22</a>; <a href=\"https://ref.ly/Joel3:18\">JOL 3:18</a></p>",
@@ -153,6 +153,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5198: weeping",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Bigtha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bigtha"
 }
 ]
 }

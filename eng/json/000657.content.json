@@ -2,10 +2,10 @@
 {
 "content_id": "5051",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5051: responsibility",
 "media_type": "Text",
-"index_reference": "5051: responsibility",
+"index_reference": "5051",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An obligation, especially to give account of one's actions. Scripture stresses that the responsibilities which believers and the church have arise from their special and privileged relationship to God.</p>",
@@ -32,6 +32,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5054: responsibility, examples of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:El-paran",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "El-paran"
 }
 ]
 }

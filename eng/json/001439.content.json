@@ -2,10 +2,10 @@
 {
 "content_id": "5925",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5925: rashness",
 "media_type": "Text",
-"index_reference": "5925: rashness",
+"index_reference": "5925",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Acting without careful consideration of the possible consequences or risks.</p>\n<h2>Examples of rashness</h2>\n<p><a href=\"https://ref.ly/Gen34:25-Gen34:31\">GEN 34:25–34:31</a> <em>Jacob's sons</em>; <a href=\"https://ref.ly/Exod2:11-Exod2:12\">EXO 2:11–2:12</a>; ; <a href=\"https://ref.ly/Acts7:24-Acts7:25\">ACT 7:24–7:25</a>; ; <a href=\"https://ref.ly/Num20:8-Num20:12\">NUM 20:8–20:12</a>; ; <a href=\"https://ref.ly/Ps106:32\">PSA 106:32</a>; \n<a href=\"https://ref.ly/Josh8:14-Josh8:17\">JOS 8:14–8:17</a> <em>the king of Ai</em>; ; <a href=\"https://ref.ly/Judg11:30-Judg11:31\">JDG 11:30–11:31</a> <em>Jephthah</em>; ; <a href=\"https://ref.ly/1Sam14:24\">1SA 14:24</a> <em>King Saul</em>; ; <a href=\"https://ref.ly/2Sam6:6\">2SA 6:6</a> <em>Uzzah</em>; ; <a href=\"https://ref.ly/2Sam12:18\">2SA 12:18</a> <em>fear for King David</em>; ; <a href=\"https://ref.ly/1Kgs1:5\">1KI 1:5</a> <em>King Adonijah</em>; ; <a href=\"https://ref.ly/2Kgs5:20-2Kgs5:21\">2KI 5:20–5:21</a> <em>Gehazi</em>; ; <a href=\"https://ref.ly/2Kgs10:16\">2KI 10:16</a> <em>Jehu</em>; ; <a href=\"https://ref.ly/2Chr26:16-2Chr26:20\">2CH 26:16–26:20</a> <em>King Uzziah</em>; ; <a href=\"https://ref.ly/2Chr35:21-2Chr35:22\">2CH 35:21–35:22</a> <em>King Josiah</em>; ; <a href=\"https://ref.ly/Hab1:6\">HAB 1:6</a> <em>the Babylonians</em>; ; <a href=\"https://ref.ly/Matt8:19-Matt8:20\">MAT 8:19–8:20</a> <em>a would-be disciple</em>; ; <a href=\"https://ref.ly/Matt14:6-Matt14:10\">MAT 14:6–14:10</a> parallel <a href=\"https://ref.ly/Mark6:26\">MRK 6:26</a> <em>King Herod</em>; <a href=\"https://ref.ly/Matt26:33-Matt26:34\">MAT 26:33–26:34</a>; ; <a href=\"https://ref.ly/John18:10\">JHN 18:10</a>; \n<a href=\"https://ref.ly/Acts19:36\">ACT 19:36</a> <em>the Ephesian crowd</em>; ; <a href=\"https://ref.ly/Gal1:6\">GAL 1:6</a> <em>the Galatian Christians</em>; ; <a href=\"https://ref.ly/2Tim3:2-2Tim3:4\">2TI 3:2–3:4</a> <em>a characteristic of the last days</em></p>\n<h2>Warnings against rashness</h2>\n<p><strong><a href=\"https://ref.ly/Prov14:16\">PRO 14:16</a></strong>; <strong><a href=\"https://ref.ly/Eccl5:2\">ECC 5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:16-Prov6:18\">PRO 6:16–6:18</a>, <a href=\"https://ref.ly/Prov12:18\">PRO 12:18</a>, <a href=\"https://ref.ly/Prov13:3\">PRO 13:3</a>, <a href=\"https://ref.ly/Prov19:2\">PRO 19:2</a>, <a href=\"https://ref.ly/Prov20:3\">PRO 20:3</a>, <a href=\"https://ref.ly/Prov20:25\">PRO 20:25</a>, <a href=\"https://ref.ly/Prov21:5\">PRO 21:5</a>, <a href=\"https://ref.ly/Prov25:8\">PRO 25:8</a>, <a href=\"https://ref.ly/Prov29:20\">PRO 29:20</a>; <a href=\"https://ref.ly/Eccl7:9\">ECC 7:9</a>, <a href=\"https://ref.ly/Eccl8:3\">ECC 8:3</a>; <a href=\"https://ref.ly/Isa52:12\">ISA 52:12</a>; <a href=\"https://ref.ly/Zeph3:7\">ZEP 3:7</a>; <a href=\"https://ref.ly/Acts19:35-Acts19:36\">ACT 19:35–19:36</a>; <a href=\"https://ref.ly/1Tim5:22\">1TI 5:22</a>; <a href=\"https://ref.ly/2Tim3:1-2Tim3:5\">2TI 3:1–3:5</a></p>\n<h2>Antidotes to rashness</h2>\n<h3>Trust in the guiding presence of the Lord</h3>\n<p><strong><a href=\"https://ref.ly/Isa52:12\">ISA 52:12</a></strong></p>\n<h3>Appreciating the importance of considered actions</h3>\n<p><strong><a href=\"https://ref.ly/Jas1:19\">JAS 1:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke14:28-Luke14:33\">LUK 14:28–14:33</a></p>",
@@ -332,6 +332,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8755: folly",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hotham.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hotham"
+},
+{
+"id": "person:Hotham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hotham"
 }
 ]
 }

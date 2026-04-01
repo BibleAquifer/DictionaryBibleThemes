@@ -2,10 +2,10 @@
 {
 "content_id": "5132",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5132: biting",
 "media_type": "Text",
-"index_reference": "5132: biting",
+"index_reference": "5132",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The use of teeth to harm, threaten or express frustration. It is illustrative of the effect of slander, cold wind, excessive wine or of God's judgment.</p>\n<h2>Biting used literally</h2>\n<h3>An effect of demon-possession</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Mark9:18\">MRK 9:18</a></p>\n<h3>Biting by reptiles and animals</h3>\n<p><strong><a href=\"https://ref.ly/Num21:6\">NUM 21:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl10:8\">ECC 10:8</a>, <a href=\"https://ref.ly/Eccl10:11\">ECC 10:11</a>; <a href=\"https://ref.ly/Dan6:24\">DAN 6:24</a></p>\n<h3>Reptiles and animals prevented from biting</h3>\n<p><strong><a href=\"https://ref.ly/Dan6:21-Dan6:22\">DAN 6:21–6:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark16:18\">MRK 16:18</a>; <a href=\"https://ref.ly/Acts28:4-Acts28:5\">ACT 28:4–28:5</a>; <a href=\"https://ref.ly/Heb11:33\">HEB 11:33</a></p>\n<h2>Biting used metaphorically</h2>\n<h3>Of God's judgment on the wicked</h3>\n<p><strong><a href=\"https://ref.ly/Jer8:17\">JER 8:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Joel1:6\">JOL 1:6</a>; <a href=\"https://ref.ly/Amos5:19\">AMO 5:19</a>, <a href=\"https://ref.ly/Amos9:3\">AMO 9:3</a></p>\n<h3>Of the wicked against God's people</h3>\n<p><strong><a href=\"https://ref.ly/Acts7:54\">ACT 7:54</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps35:16\">PSA 35:16</a>, <a href=\"https://ref.ly/Ps37:12\">PSA 37:12</a>; <a href=\"https://ref.ly/Lam2:16\">LAM 2:16</a>; <a href=\"https://ref.ly/1Cor15:32\">1CO 15:32</a> <em>A fulfilment of the prophecy of <a href=\"https://ref.ly/Isa22:13\">Isa 22:13</a>, indicating that the devouring of God's people is a part of the greed of the wicked</em>; <a href=\"https://ref.ly/2Tim4:17\">2TI 4:17</a></p>\n<h3>Of Satan and demons</h3>\n<p><a href=\"https://ref.ly/1Pet5:8\">1PE 5:8</a>; ; <a href=\"https://ref.ly/Rev9:8\">REV 9:8</a></p>\n<h3>Of the frustration of the wicked</h3>\n<p><strong><a href=\"https://ref.ly/Luke13:28\">LUK 13:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps112:10\">PSA 112:10</a>; <a href=\"https://ref.ly/Matt8:12\">MAT 8:12</a>, <a href=\"https://ref.ly/Matt13:42\">MAT 13:42</a>, <a href=\"https://ref.ly/Matt22:13\">MAT 22:13</a>, <a href=\"https://ref.ly/Matt24:51\">MAT 24:51</a>, <a href=\"https://ref.ly/Matt25:30\">MAT 25:30</a>; <a href=\"https://ref.ly/Rev16:10\">REV 16:10</a></p>\n<h3>Of quarrelling, slander and treachery</h3>\n<p><strong><a href=\"https://ref.ly/Gal5:15\">GAL 5:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:17\">GEN 49:17</a>; <a href=\"https://ref.ly/Ps57:4\">PSA 57:4</a>, <a href=\"https://ref.ly/Ps58:4\">PSA 58:4</a>, <a href=\"https://ref.ly/Ps140:3\">PSA 140:3</a>; <a href=\"https://ref.ly/Rom3:13-Rom3:14\">ROM 3:13–3:14</a>; <a href=\"https://ref.ly/2Cor12:20\">2CO 12:20</a></p>\n<h3>Of a cold wind</h3>\n<p><strong><a href=\"https://ref.ly/Job37:9-Job37:10\">JOB 37:9–37:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa28:2\">ISA 28:2</a></p>\n<h3>Of penetrating sarcasm</h3>\n<p><strong><a href=\"https://ref.ly/Matt23:27-Matt23:28\">MAT 23:27–23:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps115:3-Ps115:7\">PSA 115:3–115:7</a>; <a href=\"https://ref.ly/Isa46:5-Isa46:7\">ISA 46:5–46:7</a>; <a href=\"https://ref.ly/1Cor4:8\">1CO 4:8</a>; <a href=\"https://ref.ly/2Cor12:11-2Cor12:13\">2CO 12:11–12:13</a></p>\n<h3>Of the effect of excessive wine</h3>\n<p><a href=\"https://ref.ly/Prov23:31-Prov23:32\">PRO 23:31–23:32</a></p>",
@@ -366,6 +366,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9510: hell",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Eran",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eran"
 }
 ]
 }

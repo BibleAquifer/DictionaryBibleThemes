@@ -2,10 +2,10 @@
 {
 "content_id": "5715",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5715: menstruation",
 "media_type": "Text",
-"index_reference": "5715: menstruation",
+"index_reference": "5715",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>A woman was considered ceremonially unclean during menstruation</h2>\n<p><strong><a href=\"https://ref.ly/Lev15:19-Lev15:23\">LEV 15:19–15:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev12:1-Lev12:5\">LEV 12:1–12:5</a>, <a href=\"https://ref.ly/Lev15:25-Lev15:30\">LEV 15:25–15:30</a>; <a href=\"https://ref.ly/Isa30:22\">ISA 30:22</a></p>\n<h2>Sexual intercourse during menstruation forbidden</h2>\n<p><strong><a href=\"https://ref.ly/Lev18:19\">LEV 18:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev20:18\">LEV 20:18</a>; <a href=\"https://ref.ly/Ezek18:5-Ezek18:6\">EZK 18:5–18:6</a>, <a href=\"https://ref.ly/Ezek22:10\">EZK 22:10</a></p>\n<h2>The discomfort of menstruation</h2>\n<p><a href=\"https://ref.ly/Gen31:35\">GEN 31:35</a></p>",
@@ -87,6 +87,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7426: ritual washing",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hattil",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hattil"
 }
 ]
 }

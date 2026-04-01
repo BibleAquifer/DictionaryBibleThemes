@@ -2,10 +2,10 @@
 {
 "content_id": "5812",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5812: concealment",
 "media_type": "Text",
-"index_reference": "5812: concealment",
+"index_reference": "5812",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The deliberate hiding from view of a person, object or action. Those who sin against God often attempt to hide from him. The Bible teaches the need to confess sin and receive God's forgiveness. Nothing is concealed from him and all secrets will ultimately be revealed.</p>\n<h2>Attempted concealment of sin from God</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:1-Gen3:10\">GEN 3:1–3:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num32:23\">NUM 32:23</a>; <a href=\"https://ref.ly/Josh7:21\">JOS 7:21</a>; <a href=\"https://ref.ly/2Kgs17:9\">2KI 17:9</a>; <a href=\"https://ref.ly/Job24:13-Job24:17\">JOB 24:13–24:17</a>; <a href=\"https://ref.ly/Ezek8:12\">EZK 8:12</a></p>\n<h3>Such attempts are foolish</h3>\n<p><strong><a href=\"https://ref.ly/Prov28:13\">PRO 28:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa29:15\">ISA 29:15</a></p>\n<h3>No sin can be concealed from God</h3>\n<p><strong><a href=\"https://ref.ly/Heb4:13\">HEB 4:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job13:9\">JOB 13:9</a>, <a href=\"https://ref.ly/Job10:14\">JOB 10:14</a>; <a href=\"https://ref.ly/Ps44:20-Ps44:21\">PSA 44:20–44:21</a>, <a href=\"https://ref.ly/Ps69:5\">PSA 69:5</a>; <a href=\"https://ref.ly/Jer16:17\">JER 16:17</a>; <a href=\"https://ref.ly/Ezek11:5-Ezek11:6\">EZK 11:5–11:6</a></p>\n<h3>Concealed sins will be exposed</h3>\n<p><strong><a href=\"https://ref.ly/Eccl12:14\">ECC 12:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job20:27\">JOB 20:27</a>; <a href=\"https://ref.ly/Matt10:26\">MAT 10:26</a> parallel <a href=\"https://ref.ly/Luke12:2\">LUK 12:2</a>; <a href=\"https://ref.ly/Rom2:16\">ROM 2:16</a>; <a href=\"https://ref.ly/1Cor4:5\">1CO 4:5</a></p>\n<h3>Sins should be confessed to God and not concealed</h3>\n<p><strong><a href=\"https://ref.ly/1John1:8-1John1:9\">1JN 1:8–1:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps32:5-Ps32:6\">PSA 32:5–32:6</a></p>\n<h2>Believers should not conceal their light</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:14-Matt5:16\">MAT 5:14–5:16</a></strong></p>\n<h2>God may conceal matters</h2>\n<p><strong><a href=\"https://ref.ly/Col2:2-Col2:3\">COL 2:2–2:3</a>, <a href=\"https://ref.ly/Col3:3\">COL 3:3</a></strong> <em>Christ is the mystery of God, which has now been made known. Through faith, believers share in this mystery.</em> <em>See also</em> <a href=\"https://ref.ly/Prov25:2\">PRO 25:2</a>; <a href=\"https://ref.ly/Deut29:29\">DEU 29:29</a>; <a href=\"https://ref.ly/Matt13:11\">MAT 13:11</a>, <a href=\"https://ref.ly/Matt13:35\">MAT 13:35</a>; <a href=\"https://ref.ly/Mark13:32\">MRK 13:32</a>; <a href=\"https://ref.ly/Acts1:7\">ACT 1:7</a>; <a href=\"https://ref.ly/Rom16:25\">ROM 16:25</a>; <a href=\"https://ref.ly/Col1:26\">COL 1:26</a></p>\n<h2>The concealment of people</h2>\n<h3>Of Moses</h3>\n<p><strong><a href=\"https://ref.ly/Heb11:23\">HEB 11:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod2:2\">EXO 2:2</a></p>\n<h3>Of Israelite spies</h3>\n<p><strong><a href=\"https://ref.ly/Josh6:25\">JOS 6:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh2:4-Josh2:6\">JOS 2:4–2:6</a>, <a href=\"https://ref.ly/Josh6:17\">JOS 6:17</a></p>",
@@ -316,6 +316,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6694: mystery",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Heresh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Heresh"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5927",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5927: resentment",
 "media_type": "Text",
-"index_reference": "5927: resentment",
+"index_reference": "5927",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A feeling of bitterness towards someone, usually as a result of their actions or words. Resentment is possible against God or against other people.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5929: resentment, against people",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hothir",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hothir"
 }
 ]
 }

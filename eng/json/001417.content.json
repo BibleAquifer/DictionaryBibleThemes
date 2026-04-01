@@ -2,10 +2,10 @@
 {
 "content_id": "5899",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5899: lament",
 "media_type": "Text",
-"index_reference": "5899: lament",
+"index_reference": "5899",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A song of mourning or sorrow. Laments may be occasioned by bereavement, personal trouble, national disaster or the judgment of God.</p>\n<h2>Lamentation occasioned by bereavement</h2>\n<p><strong><a href=\"https://ref.ly/2Sam3:33-2Sam3:34\">2SA 3:33–3:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen50:10\">GEN 50:10</a>; <a href=\"https://ref.ly/Jer31:15\">JER 31:15</a>; <a href=\"https://ref.ly/Matt2:16-Matt2:18\">MAT 2:16–2:18</a>, <a href=\"https://ref.ly/Matt9:23\">MAT 9:23</a> parallels <a href=\"https://ref.ly/Mark5:38\">MRK 5:38</a>, <a href=\"https://ref.ly/Luke8:52\">LUK 8:52</a>; <a href=\"https://ref.ly/Luke23:27\">LUK 23:27</a>; <a href=\"https://ref.ly/John11:31-John11:33\">JHN 11:31–11:33</a></p>\n<h2>Lamentation occasioned by personal trouble</h2>\n<p><a href=\"https://ref.ly/Ps56:2\">PSA 56:2</a>, <a href=\"https://ref.ly/Ps56:8\">PSA 56:8</a>, <a href=\"https://ref.ly/Ps102:1-Ps102:2\">PSA 102:1–102:2</a></p>\n<h2>Lamentation occasioned by national disaster</h2>\n<p><strong><a href=\"https://ref.ly/2Chr35:25\">2CH 35:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam1:17-2Sam1:27\">2SA 1:17–1:27</a>; <a href=\"https://ref.ly/Esth4:1\">EST 4:1</a>, <a href=\"https://ref.ly/Esth9:31\">EST 9:31</a>; <a href=\"https://ref.ly/Jer8:21-Jer9:1\">JER 8:21–9:1</a></p>\n<h2>Lamentation occasioned by the judgment of God on Israel</h2>\n<p><strong><a href=\"https://ref.ly/Amos5:1-Amos5:2\">AMO 5:1–5:2</a></strong> <em>The call to lament is sometimes meant as a warning of impending judgment</em>; <strong><a href=\"https://ref.ly/Lam1:1\">LAM 1:1</a></strong> <em>The book of Lamentations is a series of laments after the fall of Jerusalem.</em> <em>See also</em> <a href=\"https://ref.ly/Isa3:24-Isa3:26\">ISA 3:24–3:26</a>, <a href=\"https://ref.ly/Isa29:1-Isa29:2\">ISA 29:1–29:2</a>; <a href=\"https://ref.ly/Jer4:7-Jer4:8\">JER 4:7–4:8</a>, <a href=\"https://ref.ly/Jer7:29\">JER 7:29</a>, <a href=\"https://ref.ly/Jer9:10\">JER 9:10</a>, <a href=\"https://ref.ly/Jer9:17-Jer9:21\">JER 9:17–9:21</a>; <a href=\"https://ref.ly/Lam2:5\">LAM 2:5</a>; <a href=\"https://ref.ly/Ezek2:9-Ezek2:10\">EZK 2:9–2:10</a>, <a href=\"https://ref.ly/Ezek19:1-Ezek19:14\">EZK 19:1–19:14</a></p>\n<h2>Lamentation occasioned by the judgment of God on other nations</h2>\n<p><strong><a href=\"https://ref.ly/Isa16:9-Isa16:11\">ISA 16:9–16:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa15:5\">ISA 15:5</a>, <a href=\"https://ref.ly/Isa15:8\">ISA 15:8</a>, <a href=\"https://ref.ly/Isa16:7\">ISA 16:7</a>, <a href=\"https://ref.ly/Isa19:8\">ISA 19:8</a>; <a href=\"https://ref.ly/Jer48:36\">JER 48:36</a>; <a href=\"https://ref.ly/Ezek26:17-Ezek26:18\">EZK 26:17–26:18</a>, <a href=\"https://ref.ly/Ezek27:2-Ezek27:36\">EZK 27:2–27:36</a>, <a href=\"https://ref.ly/Ezek28:12-Ezek28:19\">EZK 28:12–28:19</a>, <a href=\"https://ref.ly/Ezek30:2-Ezek30:4\">EZK 30:2–30:4</a>, <a href=\"https://ref.ly/Ezek32:2-Ezek32:16\">EZK 32:2–32:16</a></p>\n<h2>Lamentation as a sign of repentance</h2>\n<p><a href=\"https://ref.ly/Lam1:5\">LAM 1:5</a>, <a href=\"https://ref.ly/Lam1:8\">LAM 1:8</a>, <a href=\"https://ref.ly/Lam3:39-Lam3:40\">LAM 3:39–3:40</a>; ; <a href=\"https://ref.ly/Ezek9:3-Ezek9:6\">EZK 9:3–9:6</a></p>",
@@ -334,7 +334,8 @@
 "label": "9250: woe",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

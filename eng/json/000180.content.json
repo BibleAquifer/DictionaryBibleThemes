@@ -2,10 +2,10 @@
 {
 "content_id": "2300",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "2300: Jesus Christ, ministry and work of",
 "media_type": "Text",
-"index_reference": "2300: jesus christ, ministry and work of",
+"index_reference": "2300",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"2303\" data-resourcetype=\"DictionaryOfBibleThemes\">2303: Jesus Christ, as creator</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"2375\" data-resourcetype=\"DictionaryOfBibleThemes\">2375: kingdom of God</span></li></ul>",
@@ -26,7 +26,8 @@
 "label": "2375: kingdom of God",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5269",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5269: cornerstone",
 "media_type": "Text",
-"index_reference": "5269: cornerstone",
+"index_reference": "5269",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A stone that can be in the foundation, above ground level or at the summit of the roof (the “capstone”). The cornerstone of a large building gives it a reliable and firm foundation, leading to the cohesion and stability of the whole building. In Scripture, such foundation-stones are taken as symbolic of the basis of faith in Jesus Christ and the church. Jesus Christ is thus represented as both the foundation upon which the church is built, and the capstone which crowns the whole.</p>\n<h2>The place of the cornerstone in buildings</h2>\n<p><strong><a href=\"https://ref.ly/Job38:4-Job38:6\">JOB 38:4–38:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer51:26\">JER 51:26</a>; <a href=\"https://ref.ly/1Pet2:4-1Pet2:8\">1PE 2:4–2:8</a></p>\n<h2>The cornerstone is prominent, indispensable and should be reliable</h2>\n<p><strong><a href=\"https://ref.ly/Isa28:16\">ISA 28:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps118:22\">PSA 118:22</a>; <a href=\"https://ref.ly/Isa19:13\">ISA 19:13</a></p>\n<h2>Jesus Christ is the cornerstone of the church</h2>\n<p><strong><a href=\"https://ref.ly/Eph2:19-Eph2:22\">EPH 2:19–2:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Pet2:5-1Pet2:6\">1PE 2:5–2:6</a>; <a href=\"https://ref.ly/Isa28:16\">ISA 28:16</a></p>\n<h2>The cornerstone is a sure foundation for believers, but a stumbling-block for unbelievers</h2>\n<h3>Rejection of the cornerstone leads to stumbling and rejection</h3>\n<p><strong><a href=\"https://ref.ly/Matt21:42-Matt21:44\">MAT 21:42–21:44</a></strong> parallels <a href=\"https://ref.ly/Mark12:10-Mark12:11\">MRK 12:10–12:11</a>, <a href=\"https://ref.ly/Luke20:17-Luke20:18\">LUK 20:17–20:18</a> <em>See also</em> <a href=\"https://ref.ly/Ps118:22-Ps118:23\">PSA 118:22–118:23</a>; <a href=\"https://ref.ly/Isa8:13-Isa8:15\">ISA 8:13–8:15</a>; <a href=\"https://ref.ly/Rom9:33\">ROM 9:33</a>; <a href=\"https://ref.ly/Isa28:16\">ISA 28:16</a>; <a href=\"https://ref.ly/1Pet2:7-1Pet2:8\">1PE 2:7–2:8</a></p>\n<h3>Reliance on the cornerstone gives security to believers</h3>\n<p><strong><a href=\"https://ref.ly/1Pet2:6-1Pet2:7\">1PE 2:6–2:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa28:16\">ISA 28:16</a>; <a href=\"https://ref.ly/Acts4:10-Acts4:12\">ACT 4:10–4:12</a>; <a href=\"https://ref.ly/Eph2:20-Eph2:22\">EPH 2:20–2:22</a></p>\n<h2>The capstone as the crowning glory of a building</h2>\n<p><strong><a href=\"https://ref.ly/Ps118:22\">PSA 118:22</a></strong> <a href=\"https://ref.ly/Matt21:42-Matt21:44\">MAT 21:42–21:44</a> parallels <a href=\"https://ref.ly/Mark12:10\">MRK 12:10</a>, <a href=\"https://ref.ly/Luke20:17-Luke20:18\">LUK 20:17–20:18</a>; ; <a href=\"https://ref.ly/Acts4:10-Acts4:12\">ACT 4:10–4:12</a>; ; <a href=\"https://ref.ly/1Pet2:4-1Pet2:8\">1PE 2:4–2:8</a></p>",
@@ -161,6 +161,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7024: church, nature and foundations of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Cornerstone",
+"type": "realia",
+"confidence": 0.6048,
+"match_method": "scored",
+"preferred_label": "Cornerstone"
+},
+{
+"id": "realia:Foundation",
+"type": "realia",
+"confidence": 0.5532,
+"match_method": "scored",
+"preferred_label": "Foundation"
 }
 ]
 }

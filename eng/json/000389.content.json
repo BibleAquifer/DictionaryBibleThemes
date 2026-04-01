@@ -2,10 +2,10 @@
 {
 "content_id": "4299",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4299: wilderness",
 "media_type": "Text",
-"index_reference": "4299: wilderness",
+"index_reference": "4299",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Wilderness as a wild, uncultivated area of land, frequently interchangeable with ``desert''</h2>\n<p><strong><a href=\"https://ref.ly/Jer2:6\">JER 2:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer50:12\">JER 50:12</a></p>\n<h2>Good news for the wilderness</h2>\n<p><strong><a href=\"https://ref.ly/Isa35:1-Isa35:10\">ISA 35:1–35:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:3-Isa40:5\">ISA 40:3–40:5</a>; <a href=\"https://ref.ly/Matt3:3\">MAT 3:3</a> parallels <a href=\"https://ref.ly/Mark1:3\">MRK 1:3</a>, <a href=\"https://ref.ly/Luke3:4\">LUK 3:4</a></p>",
@@ -118,7 +118,8 @@
 "label": "7474: Tent of Meeting",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

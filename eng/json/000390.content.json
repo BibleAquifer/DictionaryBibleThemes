@@ -2,10 +2,10 @@
 {
 "content_id": "4300",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4300: Metals and minerals",
 "media_type": "Text",
-"index_reference": "4300: metals and minerals",
+"index_reference": "4300",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"4303\" data-resourcetype=\"DictionaryOfBibleThemes\">4303: metals</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4306\" data-resourcetype=\"DictionaryOfBibleThemes\">4306: minerals</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4309\" data-resourcetype=\"DictionaryOfBibleThemes\">4309: bitumen and tar</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4312\" data-resourcetype=\"DictionaryOfBibleThemes\">4312: bronze</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4315\" data-resourcetype=\"DictionaryOfBibleThemes\">4315: clay</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4318\" data-resourcetype=\"DictionaryOfBibleThemes\">4318: coal</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4321\" data-resourcetype=\"DictionaryOfBibleThemes\">4321: copper</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4324\" data-resourcetype=\"DictionaryOfBibleThemes\">4324: dross</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4327\" data-resourcetype=\"DictionaryOfBibleThemes\">4327: flint</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4330\" data-resourcetype=\"DictionaryOfBibleThemes\">4330: glass</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4333\" data-resourcetype=\"DictionaryOfBibleThemes\">4333: gold</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4336\" data-resourcetype=\"DictionaryOfBibleThemes\">4336: iron</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4339\" data-resourcetype=\"DictionaryOfBibleThemes\">4339: ivory</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4342\" data-resourcetype=\"DictionaryOfBibleThemes\">4342: jewels</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4345\" data-resourcetype=\"DictionaryOfBibleThemes\">4345: metalworkers</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4348\" data-resourcetype=\"DictionaryOfBibleThemes\">4348: mining</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4351\" data-resourcetype=\"DictionaryOfBibleThemes\">4351: refining</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4354\" data-resourcetype=\"DictionaryOfBibleThemes\">4354: rock</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4357\" data-resourcetype=\"DictionaryOfBibleThemes\">4357: salt</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4360\" data-resourcetype=\"DictionaryOfBibleThemes\">4360: sand</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4363\" data-resourcetype=\"DictionaryOfBibleThemes\">4363: silver</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4366\" data-resourcetype=\"DictionaryOfBibleThemes\">4366: stones</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4369\" data-resourcetype=\"DictionaryOfBibleThemes\">4369: sulphur</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4372\" data-resourcetype=\"DictionaryOfBibleThemes\">4372: tin</span></li></ul>",
@@ -180,7 +180,8 @@
 "label": "4372: tin",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

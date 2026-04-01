@@ -2,10 +2,10 @@
 {
 "content_id": "4306",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4306: minerals",
 "media_type": "Text",
-"index_reference": "4306: minerals",
+"index_reference": "4306",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Material mined from the earth, especially metal ores and other substances of neither animal nor vegetable origin.</p>\n<h2>Bitumen</h2>\n<p><a href=\"https://ref.ly/Gen11:1-Gen11:4\">GEN 11:1–11:4</a></p>\n<h2>Chalk</h2>\n<p><strong><a href=\"https://ref.ly/Isa27:9\">ISA 27:9</a></strong></p>\n<h2>Crystal</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Job28:17\">JOB 28:17</a>; <a href=\"https://ref.ly/Rev4:6\">REV 4:6</a></p>\n<h2>Flint</h2>\n<p><strong><a href=\"https://ref.ly/Ezek3:9\">EZK 3:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job28:9\">JOB 28:9</a>; <a href=\"https://ref.ly/Zech7:12\">ZEC 7:12</a></p>\n<h2>Lime</h2>\n<p><strong><a href=\"https://ref.ly/Amos2:1\">AMO 2:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa33:10-Isa33:12\">ISA 33:10–33:12</a></p>\n<h2>Marble</h2>\n<p><strong><a href=\"https://ref.ly/Esth1:6\">EST 1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr29:2\">1CH 29:2</a>; <a href=\"https://ref.ly/Song5:15\">SNG 5:15</a>; <a href=\"https://ref.ly/Rev18:11-Rev18:12\">REV 18:11–18:12</a></p>\n<h2>Pitch</h2>\n<p><strong><a href=\"https://ref.ly/Gen6:14\">GEN 6:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a>; <a href=\"https://ref.ly/Isa34:9\">ISA 34:9</a></p>\n<h2>Salt</h2>\n<p><strong><a href=\"https://ref.ly/Lev2:13\">LEV 2:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut29:23\">DEU 29:23</a>; <a href=\"https://ref.ly/Job39:5-Job39:6\">JOB 39:5–39:6</a>; <a href=\"https://ref.ly/Ezek47:6-Ezek47:11\">EZK 47:6–47:11</a></p>\n<h2>Soda</h2>\n<p><strong><a href=\"https://ref.ly/Prov25:20\">PRO 25:20</a></strong> <em>“soda” in this instance is probably sodium carbonate, which would react violently with vinegar.</em> <em>See also</em> <a href=\"https://ref.ly/Job9:30-Job9:31\">JOB 9:30–9:31</a>; <a href=\"https://ref.ly/Jer2:22\">JER 2:22</a></p>\n<h2>Sulphur</h2>\n<p><strong><a href=\"https://ref.ly/Gen19:24\">GEN 19:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut29:23\">DEU 29:23</a>; <a href=\"https://ref.ly/Luke17:29\">LUK 17:29</a>; <a href=\"https://ref.ly/Rev19:20\">REV 19:20</a></p>\n<h2>Tar</h2>\n<p><strong><a href=\"https://ref.ly/Gen14:10\">GEN 14:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a></p>\n<h2>Precious stones</h2>\n<p><strong><a href=\"https://ref.ly/Ezek28:13\">EZK 28:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod28:15-Exod28:21\">EXO 28:15–28:21</a>; <a href=\"https://ref.ly/Job28:5-Job28:6\">JOB 28:5–28:6</a>; <a href=\"https://ref.ly/Isa54:11-Isa54:12\">ISA 54:11–54:12</a>; <a href=\"https://ref.ly/Ezek27:16\">EZK 27:16</a>; <a href=\"https://ref.ly/Rev21:18\">REV 21:18</a></p>\n<h2>Metals</h2>\n<p><strong><a href=\"https://ref.ly/Isa60:17\">ISA 60:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num31:21-Num31:23\">NUM 31:21–31:23</a>; <a href=\"https://ref.ly/Deut8:7-Deut8:9\">DEU 8:7–8:9</a>; <a href=\"https://ref.ly/Job28:2\">JOB 28:2</a>; <a href=\"https://ref.ly/Ps119:72\">PSA 119:72</a>; <a href=\"https://ref.ly/Ezek27:12\">EZK 27:12</a></p>\n<h2>Stone</h2>\n<p><strong><a href=\"https://ref.ly/Prov27:3\">PRO 27:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh7:3-Josh7:5\">JOS 7:3–7:5</a>; <a href=\"https://ref.ly/Job6:12\">JOB 6:12</a>, <a href=\"https://ref.ly/Job38:29-Job38:30\">JOB 38:29–38:30</a>; <a href=\"https://ref.ly/Jer5:3\">JER 5:3</a></p>\n<h2>Sand</h2>\n<p><a href=\"https://ref.ly/Matt7:24-Matt7:27\">MAT 7:24–7:27</a></p>",
@@ -346,7 +346,8 @@
 "label": "4369: sulphur",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

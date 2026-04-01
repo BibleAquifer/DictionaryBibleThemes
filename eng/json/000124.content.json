@@ -2,10 +2,10 @@
 {
 "content_id": "1615",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1615: Scripture, sufficiency of",
 "media_type": "Text",
-"index_reference": "1615: scripture, sufficiency of",
+"index_reference": "1615",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture is presented as being of itself sufficient for faith and for life.</p>\n<h2>God's written revelation is sufficient</h2>\n<p><strong><a href=\"https://ref.ly/Deut4:1-Deut4:2\">DEU 4:1–4:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut12:32\">DEU 12:32</a>; <a href=\"https://ref.ly/Josh1:7-Josh1:8\">JOS 1:7–1:8</a>; <a href=\"https://ref.ly/Prov30:5-Prov30:6\">PRO 30:5–30:6</a>; <a href=\"https://ref.ly/Jer26:2\">JER 26:2</a></p>\n<h2>The NT records the completion and fulfilment of the OT</h2>\n<p><strong><a href=\"https://ref.ly/Heb1:1-Heb1:2\">HEB 1:1–1:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/John12:47-John12:50\">JHN 12:47–12:50</a>; <a href=\"https://ref.ly/Eph2:20\">EPH 2:20</a></p>\n<h3>Warnings against turning from, or adding to, the apostolic gospel, as set forth in Scripture</h3>\n<p><strong><a href=\"https://ref.ly/Rev22:18-Rev22:19\">REV 22:18–22:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal1:6-Gal1:9\">GAL 1:6–1:9</a>; <a href=\"https://ref.ly/Col1:25-Col2:8\">COL 1:25–2:8</a>, <a href=\"https://ref.ly/Col2:18\">COL 2:18</a>, <a href=\"https://ref.ly/Col2:20-Col2:23\">COL 2:20–2:23</a>; <a href=\"https://ref.ly/2Thess2:1-2Thess2:2\">2TH 2:1–2:2</a></p>\n<h2>Descriptions of Scripture point to its sufficiency</h2>\n<h3>Scripture is good</h3>\n<p><strong><a href=\"https://ref.ly/Rom7:12\">ROM 7:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim1:8\">1TI 1:8</a></p>\n<h3>Scripture is perfect</h3>\n<p><strong><a href=\"https://ref.ly/Ps19:7\">PSA 19:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps119:142\">PSA 119:142</a>; <a href=\"https://ref.ly/Jas1:25\">JAS 1:25</a></p>\n<h3>Scripture is eternal</h3>\n<p><strong><a href=\"https://ref.ly/Ps119:89\">PSA 119:89</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt5:18\">MAT 5:18</a>, <a href=\"https://ref.ly/Matt24:35\">MAT 24:35</a>; <a href=\"https://ref.ly/1Pet1:24-1Pet1:25\">1PE 1:24–1:25</a>; <a href=\"https://ref.ly/Isa40:6-Isa40:8\">ISA 40:6–40:8</a></p>",
@@ -192,7 +192,8 @@
 "label": "9612: hope, in God",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

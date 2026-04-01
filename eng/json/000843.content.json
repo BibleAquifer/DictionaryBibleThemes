@@ -2,10 +2,10 @@
 {
 "content_id": "5255",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5255: citizenship",
 "media_type": "Text",
-"index_reference": "5255: citizenship",
+"index_reference": "5255",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The privilege of belonging to a city or country. Scripture portrays believers as living in two realms, being members of both human society and of the heavenly city. In both realms there are duties as well as privileges.</p>\n<h2>Dual citizenship</h2>\n<p><strong><a href=\"https://ref.ly/Matt22:21\">MAT 22:21</a></strong> parallels <a href=\"https://ref.ly/Mark12:17\">MRK 12:17</a>, <a href=\"https://ref.ly/Luke20:25\">LUK 20:25</a> <em>See also</em> <a href=\"https://ref.ly/Ezra7:26\">EZR 7:26</a></p>\n<h2>Earthly citizenship</h2>\n<h3>Privileges and duties of citizens</h3>\n<p><strong><a href=\"https://ref.ly/Rom13:1-Rom13:7\">ROM 13:1–13:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl8:2\">ECC 8:2</a>; <a href=\"https://ref.ly/Matt17:27\">MAT 17:27</a>; <a href=\"https://ref.ly/Titus3:1\">TIT 3:1</a>; <a href=\"https://ref.ly/1Pet2:13-1Pet2:17\">1PE 2:13–2:17</a></p>\n<h3>Privileges and duties of Roman citizenship</h3>\n<p><a href=\"https://ref.ly/Acts16:37\">ACT 16:37</a>, <a href=\"https://ref.ly/Acts22:25-Acts22:29\">ACT 22:25–22:29</a>, <a href=\"https://ref.ly/Acts23:27\">ACT 23:27</a>, <a href=\"https://ref.ly/Acts25:10\">ACT 25:10</a></p>\n<h2>Heavenly citizenship and the Christian hope</h2>\n<p><strong><a href=\"https://ref.ly/Phil3:20\">PHP 3:20</a></strong>; <strong><a href=\"https://ref.ly/Heb13:14\">HEB 13:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke22:29-Luke22:30\">LUK 22:29–22:30</a>; <a href=\"https://ref.ly/John14:2\">JHN 14:2</a>; <a href=\"https://ref.ly/1Pet1:4\">1PE 1:4</a>; <a href=\"https://ref.ly/Rev21:2\">REV 21:2</a>, <a href=\"https://ref.ly/Rev21:27\">REV 21:27</a>, <a href=\"https://ref.ly/Rev22:3-Rev22:5\">REV 22:3–22:5</a></p>\n<h3>Gentiles are included in the citizenship of heaven</h3>\n<p><strong><a href=\"https://ref.ly/Eph2:19\">EPH 2:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph2:12-Eph2:13\">EPH 2:12–2:13</a></p>",
@@ -234,6 +234,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9410: heaven",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Akeldama",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Akeldama"
 }
 ]
 }

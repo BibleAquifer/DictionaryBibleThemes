@@ -2,10 +2,10 @@
 {
 "content_id": "5708",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5708: marriage",
 "media_type": "Text",
-"index_reference": "5708: marriage",
+"index_reference": "5708",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The union of a man and a woman in a permanent relationship. Though a lifelong monogamous commitment is presented as the ideal, polygamous marriages were occasionally known in OT times and carried the same legal and moral rights and responsibilities. God's relationship with his people is described in terms of the marriage bond.</p>",
@@ -39,6 +39,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5712: marriage, between God and his people",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Sophereth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sophereth"
 }
 ]
 }

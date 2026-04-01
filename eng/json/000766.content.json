@@ -2,10 +2,10 @@
 {
 "content_id": "5177",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5177: robes",
 "media_type": "Text",
-"index_reference": "5177: robes",
+"index_reference": "5177",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A formal style of clothing, often indicating priesthood, royalty or elevated social status.</p>\n<h2>Priestly robes</h2>\n<h3>Aaron's priestly robes</h3>\n<p><strong><a href=\"https://ref.ly/Exod28:4\">EXO 28:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod28:31-Exod28:34\">EXO 28:31–28:34</a>, <a href=\"https://ref.ly/Exod29:5\">EXO 29:5</a>, <a href=\"https://ref.ly/Exod39:22-Exod39:26\">EXO 39:22–39:26</a>; <a href=\"https://ref.ly/Lev8:7\">LEV 8:7</a>; <a href=\"https://ref.ly/Ps133:2\">PSA 133:2</a></p>\n<h3>Other wearers of priestly robes</h3>\n<p><a href=\"https://ref.ly/1Sam2:19\">1SA 2:19</a>; ; <a href=\"https://ref.ly/1Chr15:27\">1CH 15:27</a></p>\n<h2>Royal robes</h2>\n<h3>The majestic robes of God</h3>\n<p><a href=\"https://ref.ly/Ps93:1\">PSA 93:1</a>; ; <a href=\"https://ref.ly/Isa6:1\">ISA 6:1</a>, <a href=\"https://ref.ly/Isa63:1\">ISA 63:1</a></p>\n<h3>Robes for kings and queens</h3>\n<p><strong><a href=\"https://ref.ly/Esth5:1\">EST 5:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs22:10\">1KI 22:10</a> parallel <a href=\"https://ref.ly/2Chr18:9\">2CH 18:9</a>; <a href=\"https://ref.ly/1Kgs22:30\">1KI 22:30</a> parallel <a href=\"https://ref.ly/2Chr18:29\">2CH 18:29</a>; <a href=\"https://ref.ly/Esth8:15\">EST 8:15</a>; <a href=\"https://ref.ly/Jonah3:6\">JON 3:6</a>; <a href=\"https://ref.ly/Acts12:21\">ACT 12:21</a></p>\n<h3>Jesus Christ robed as a king and mocked</h3>\n<p><strong><a href=\"https://ref.ly/Mark15:17\">MRK 15:17</a></strong> parallel <a href=\"https://ref.ly/Matt27:28\">MAT 27:28</a> <em>See also</em> <a href=\"https://ref.ly/John19:2\">JHN 19:2</a>, <a href=\"https://ref.ly/John19:5\">JHN 19:5</a></p>\n<h2>Robes indicating office, favour or wealth</h2>\n<p><strong><a href=\"https://ref.ly/Gen41:42\">GEN 41:42</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen37:3\">GEN 37:3</a>; <a href=\"https://ref.ly/Josh7:21\">JOS 7:21</a>; <a href=\"https://ref.ly/1Sam18:4\">1SA 18:4</a>; <a href=\"https://ref.ly/2Sam13:18\">2SA 13:18</a>; <a href=\"https://ref.ly/1Kgs10:25\">1KI 10:25</a>; <a href=\"https://ref.ly/Esth6:7-Esth6:11\">EST 6:7–6:11</a>; <a href=\"https://ref.ly/Isa3:18-Isa3:23\">ISA 3:18–3:23</a>, <a href=\"https://ref.ly/Isa22:21\">ISA 22:21</a>; <a href=\"https://ref.ly/Mic2:8\">MIC 2:8</a>; <a href=\"https://ref.ly/Mark12:38\">MRK 12:38</a>; <a href=\"https://ref.ly/Luke20:46\">LUK 20:46</a>, <a href=\"https://ref.ly/Luke15:22\">LUK 15:22</a></p>\n<h2>Robes associated with righteousness and purity</h2>\n<p><strong><a href=\"https://ref.ly/Isa61:10\">ISA 61:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev6:11\">REV 6:11</a>, <a href=\"https://ref.ly/Rev7:9\">REV 7:9</a>, <a href=\"https://ref.ly/Rev7:13-Rev7:14\">REV 7:13–7:14</a>, <a href=\"https://ref.ly/Rev22:14\">REV 22:14</a></p>\n<h2>Tearing of robes to show mourning or repentance</h2>\n<p><strong><a href=\"https://ref.ly/Job2:12\">JOB 2:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr34:27\">2CH 34:27</a></p>",
@@ -354,6 +354,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9414: heaven, as community of the redeemed",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jeatherai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeatherai"
 }
 ]
 }

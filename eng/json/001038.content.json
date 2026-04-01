@@ -2,10 +2,10 @@
 {
 "content_id": "5463",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5463: proclamations",
 "media_type": "Text",
-"index_reference": "5463: proclamations",
+"index_reference": "5463",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Edicts or public declarations issued by the civil or religious authorities.</p>\n<h2>Examples of proclamations in biblical times</h2>\n<p><a href=\"https://ref.ly/Exod1:15-Exod1:22\">EXO 1:15–1:22</a> <em>Pharaoh's edict that all Hebrew boys were to be drowned</em>; ; <a href=\"https://ref.ly/Exod32:5\">EXO 32:5</a> <em>Aaron's proclamation of a festival to the LORD</em>; ; <a href=\"https://ref.ly/1Kgs21:9-1Kgs21:10\">1KI 21:9–21:10</a> <em>Jezebel's proclamation to ensnare Naboth</em>; ; <a href=\"https://ref.ly/2Kgs10:20\">2KI 10:20</a> <em>Jehu's proclamation of an assembly in honour of Baal</em>; ; <a href=\"https://ref.ly/2Chr24:9\">2CH 24:9</a> <em>Joash's proclamation of a tax for the LORD</em>; ; <a href=\"https://ref.ly/2Chr30:1-2Chr30:10\">2CH 30:1–30:10</a> <em>Hezekiah's invitation to celebrate the Passover</em>; <a href=\"https://ref.ly/Ezra1:1\">EZR 1:1</a>, <a href=\"https://ref.ly/Ezra5:13\">EZR 5:13</a>, <a href=\"https://ref.ly/Ezra6:3\">EZR 6:3</a>, <a href=\"https://ref.ly/Ezra7:13\">EZR 7:13</a>; \n<a href=\"https://ref.ly/Neh8:14-Neh8:15\">NEH 8:14–8:15</a> <em>the Levites' proclamation of festival arrangements</em>; <a href=\"https://ref.ly/Esth1:20\">EST 1:20</a>, <a href=\"https://ref.ly/Esth2:8\">EST 2:8</a>, <a href=\"https://ref.ly/Esth3:14\">EST 3:14</a>, <a href=\"https://ref.ly/Esth4:3\">EST 4:3</a>, <a href=\"https://ref.ly/Esth8:11\">EST 8:11</a>; <a href=\"https://ref.ly/Dan6:7\">DAN 6:7</a>, <a href=\"https://ref.ly/Dan6:15\">DAN 6:15</a>; \n<a href=\"https://ref.ly/Jonah3:7\">JON 3:7</a> <em>the king of Nineveh's proclamation of a fast of repentance</em>; ; <a href=\"https://ref.ly/Luke2:1\">LUK 2:1</a> <em>Caesar Augustus' proclamation of a census</em></p>",
@@ -181,6 +181,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8489: urgency",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gilalai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilalai"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "8407",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8407: confession, of Jesus Christ",
 "media_type": "Text",
-"index_reference": "8407: confession, of jesus christ",
+"index_reference": "8407",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A public declaration of faith in Jesus Christ, acknowledging both his divinity and his lordship. Without such, salvation is impossible.</p>\n<h2>Confession of faith in Jesus Christ is necessary for salvation</h2>\n<p><strong><a href=\"https://ref.ly/Rom10:9-Rom10:10\">ROM 10:9–10:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt10:32-Matt10:33\">MAT 10:32–10:33</a> parallel <a href=\"https://ref.ly/Luke12:8-Luke12:9\">LUK 12:8–12:9</a>; <a href=\"https://ref.ly/Mark8:38\">MRK 8:38</a>; <a href=\"https://ref.ly/2Tim2:12\">2TI 2:12</a>; <a href=\"https://ref.ly/1John4:15\">1JN 4:15</a>, <a href=\"https://ref.ly/1John2:23\">1JN 2:23</a></p>\n<h2>Confessing Jesus Christ as Lord is only possible by the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/1Cor12:3\">1CO 12:3</a></strong></p>\n<h2>Results of confessing faith in Jesus Christ</h2>\n<h3>Baptism</h3>\n<p><strong><a href=\"https://ref.ly/Acts2:38-Acts2:41\">ACT 2:38–2:41</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts18:8\">ACT 18:8</a>, <a href=\"https://ref.ly/Acts22:16\">ACT 22:16</a></p>\n<h3>A change in lifestyle</h3>\n<p><strong><a href=\"https://ref.ly/Matt7:21-Matt7:23\">MAT 7:21–7:23</a></strong>; <strong><a href=\"https://ref.ly/2Tim2:19\">2TI 2:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke19:8-Luke19:9\">LUK 19:8–19:9</a>; <a href=\"https://ref.ly/1Tim6:12\">1TI 6:12</a>; <a href=\"https://ref.ly/Heb13:15\">HEB 13:15</a>; <a href=\"https://ref.ly/1John1:6\">1JN 1:6</a>, <a href=\"https://ref.ly/1John2:4\">1JN 2:4</a></p>\n<h3>Persecution</h3>\n<p><strong><a href=\"https://ref.ly/John9:22\">JHN 9:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/John12:42-John12:43\">JHN 12:42–12:43</a>; <a href=\"https://ref.ly/2Tim3:12\">2TI 3:12</a></p>\n<h2>Demons confessed Jesus Christ's divinity</h2>\n<p><strong><a href=\"https://ref.ly/Luke4:41\">LUK 4:41</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt8:28-Matt8:29\">MAT 8:28–8:29</a> parallels <a href=\"https://ref.ly/Mark5:7\">MRK 5:7</a>, <a href=\"https://ref.ly/Luke8:28\">LUK 8:28</a></p>\n<h2>Ultimately all will confess Jesus Christ's lordship</h2>\n<p><strong><a href=\"https://ref.ly/Phil2:9-Phil2:11\">PHP 2:9–2:11</a></strong></p>\n<h2>Notable confessions of faith in Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/John1:49\">JHN 1:49</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt14:33\">MAT 14:33</a>, <a href=\"https://ref.ly/Matt16:16\">MAT 16:16</a> parallels <a href=\"https://ref.ly/Mark8:29\">MRK 8:29</a>, <a href=\"https://ref.ly/Luke9:20\">LUK 9:20</a>; <a href=\"https://ref.ly/John6:69\">JHN 6:69</a>, <a href=\"https://ref.ly/John11:27\">JHN 11:27</a>, <a href=\"https://ref.ly/John20:28\">JHN 20:28</a></p>\n<h2>The refusal to confess Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt10:32-Matt10:33\">MAT 10:32–10:33</a></strong> parallel <a href=\"https://ref.ly/Luke12:8-Luke12:9\">LUK 12:8–12:9</a> <em>See also</em> <a href=\"https://ref.ly/2Tim2:12\">2TI 2:12</a></p>",
@@ -286,6 +286,134 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8794: persecution",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shimei.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.14",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.15",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.16",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.17",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.18",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimeah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimeah"
+},
+{
+"id": "person:Shimei.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Shimei.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimei"
+},
+{
+"id": "person:Obed-edom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obed-edom"
 }
 ]
 }

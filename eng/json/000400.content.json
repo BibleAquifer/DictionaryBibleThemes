@@ -2,10 +2,10 @@
 {
 "content_id": "4330",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4330: glass",
 "media_type": "Text",
-"index_reference": "4330: glass",
+"index_reference": "4330",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A substance remarkable for its transparency. Two phenomena seen by John in his vision in the book of Revelation are likened to glass.</p>\n<h2>The sea of glass</h2>\n<p><strong><a href=\"https://ref.ly/Rev15:2\">REV 15:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev4:2-Rev4:6\">REV 4:2–4:6</a></p>\n<h2>The gold in the new Jerusalem likened to glass</h2>\n<p><strong><a href=\"https://ref.ly/Rev21:21\">REV 21:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev21:15-Rev21:18\">REV 21:15–21:18</a></p>",
@@ -51,7 +51,8 @@
 "label": "5411: mirror",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

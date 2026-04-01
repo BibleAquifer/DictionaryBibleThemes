@@ -2,10 +2,10 @@
 {
 "content_id": "8742",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8742: faithlessness",
 "media_type": "Text",
-"index_reference": "8742: faithlessness",
+"index_reference": "8742",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The lack or absence of faith, or the turning away from a professed commitment to God.</p>",
@@ -26,7 +26,8 @@
 "label": "8744: faithlessness, as disobedience",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

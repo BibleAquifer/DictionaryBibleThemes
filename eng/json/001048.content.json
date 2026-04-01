@@ -2,10 +2,10 @@
 {
 "content_id": "5475",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5475: property",
 "media_type": "Text",
-"index_reference": "5475: property",
+"index_reference": "5475",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The ultimate source of all property is God. While property is entrusted to human beings, they have responsibilities towards God as a result of their stewardship.</p>",
@@ -33,7 +33,8 @@
 "label": "5478: property, houses",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

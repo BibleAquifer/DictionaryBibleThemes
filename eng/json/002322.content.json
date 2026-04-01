@@ -2,10 +2,10 @@
 {
 "content_id": "8658",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8658: Lord's Prayer, the",
 "media_type": "Text",
-"index_reference": "8658: lord's prayer, the",
+"index_reference": "8658",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The name given to the prayer Jesus Christ taught his disciples, probably as a model prayer for regular use.</p>\n<h2>Aspects of the Lord's Prayer</h2>\n<h3>A recognition of God as Father and Lord</h3>\n<p><strong><a href=\"https://ref.ly/Matt6:9\">MAT 6:9</a></strong> parallel <a href=\"https://ref.ly/Luke11:2\">LUK 11:2</a> <em>See also</em> <a href=\"https://ref.ly/Matt7:21\">MAT 7:21</a>, <a href=\"https://ref.ly/Matt16:17\">MAT 16:17</a>; <a href=\"https://ref.ly/Luke10:21\">LUK 10:21</a>; <a href=\"https://ref.ly/Eph3:14-Eph3:15\">EPH 3:14–3:15</a></p>\n<h3>A desire for God's perfect will to be done</h3>\n<p><strong><a href=\"https://ref.ly/Matt6:10\">MAT 6:10</a></strong> parallel <a href=\"https://ref.ly/Luke11:2\">LUK 11:2</a> <em>See also</em> <a href=\"https://ref.ly/Matt12:50\">MAT 12:50</a>, <a href=\"https://ref.ly/Matt26:39\">MAT 26:39</a>, <a href=\"https://ref.ly/Matt26:42\">MAT 26:42</a>; <a href=\"https://ref.ly/Acts21:14\">ACT 21:14</a>; <a href=\"https://ref.ly/Col1:9\">COL 1:9</a>; <a href=\"https://ref.ly/Heb10:9\">HEB 10:9</a></p>\n<h3>Asking for physical provision</h3>\n<p><strong><a href=\"https://ref.ly/Matt6:11\">MAT 6:11</a></strong> parallel <a href=\"https://ref.ly/Luke11:3\">LUK 11:3</a> <em>See also</em> <a href=\"https://ref.ly/Matt6:31-Matt6:32\">MAT 6:31–6:32</a>, <a href=\"https://ref.ly/Matt7:9-Matt7:11\">MAT 7:9–7:11</a></p>\n<h3>Asking for forgiveness</h3>\n<p><strong><a href=\"https://ref.ly/Matt6:12\">MAT 6:12</a></strong> parallel <a href=\"https://ref.ly/Luke11:4\">LUK 11:4</a> <em>See also</em> <a href=\"https://ref.ly/Matt6:14-Matt6:15\">MAT 6:14–6:15</a>, <a href=\"https://ref.ly/Matt18:23-Matt18:35\">MAT 18:23–18:35</a>; <a href=\"https://ref.ly/Mark11:25\">MRK 11:25</a>; <a href=\"https://ref.ly/Luke23:34\">LUK 23:34</a>; <a href=\"https://ref.ly/Col3:13\">COL 3:13</a>; <a href=\"https://ref.ly/1John1:9\">1JN 1:9</a></p>\n<h3>Asking for spiritual protection</h3>\n<p><strong><a href=\"https://ref.ly/Matt6:13\">MAT 6:13</a></strong> parallel <a href=\"https://ref.ly/Luke11:4\">LUK 11:4</a> <em>See also</em> <a href=\"https://ref.ly/2Cor1:10-2Cor1:11\">2CO 1:10–1:11</a>; <a href=\"https://ref.ly/Jude1:24\">JUD 1:24</a>; <a href=\"https://ref.ly/Rev3:10\">REV 3:10</a></p>\n<h3>The doxology</h3>\n<p><strong><a href=\"https://ref.ly/Matt6:13\">MAT 6:13</a></strong> <em>NIV footnote.</em></p>",
@@ -250,7 +250,8 @@
 "label": "8602: prayer",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5852",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5852: experience",
 "media_type": "Text",
-"index_reference": "5852: experience",
+"index_reference": "5852",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The direct personal knowledge of people and situations which comes from a firsthand encounter with life. To experience God is to encounter and know him directly, rather than merely to know facts about him.</p>",
@@ -25,6 +25,57 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5854: experience, of God",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hilkiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hilkiah"
+},
+{
+"id": "person:Hilkiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hilkiah"
+},
+{
+"id": "person:Hilkiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hilkiah"
+},
+{
+"id": "person:Hilkiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hilkiah"
+},
+{
+"id": "person:Hilkiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hilkiah"
+},
+{
+"id": "person:Hilkiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hilkiah"
+},
+{
+"id": "person:Hilkiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hilkiah"
 }
 ]
 }

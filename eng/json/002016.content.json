@@ -2,10 +2,10 @@
 {
 "content_id": "8125",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8125: guidance, God's promises of",
 "media_type": "Text",
-"index_reference": "8125: guidance, god's promises of",
+"index_reference": "8125",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture bears witness to God's promises of guidance for his people.</p>\n<h2>All God's intentions will be realised</h2>\n<h3>God has purposes</h3>\n<p><strong><a href=\"https://ref.ly/Isa14:27\">ISA 14:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job36:5\">JOB 36:5</a>; <a href=\"https://ref.ly/Isa55:10-Isa55:11\">ISA 55:10–55:11</a>; <a href=\"https://ref.ly/Jer23:20\">JER 23:20</a>; <a href=\"https://ref.ly/Rom8:28\">ROM 8:28</a>; <a href=\"https://ref.ly/Eph3:10-Eph3:11\">EPH 3:10–3:11</a>; <a href=\"https://ref.ly/2Tim1:9\">2TI 1:9</a>; <a href=\"https://ref.ly/Heb6:17\">HEB 6:17</a></p>\n<h3>God has plans</h3>\n<p><strong><a href=\"https://ref.ly/Lam2:17\">LAM 2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps33:11\">PSA 33:11</a>, <a href=\"https://ref.ly/Ps40:5\">PSA 40:5</a>; <a href=\"https://ref.ly/Prov16:9\">PRO 16:9</a>; <a href=\"https://ref.ly/Isa14:24\">ISA 14:24</a>, <a href=\"https://ref.ly/Isa25:1\">ISA 25:1</a>, <a href=\"https://ref.ly/Isa37:26\">ISA 37:26</a></p>\n<h3>God desires his purposes and plans to be fulfilled</h3>\n<p><strong><a href=\"https://ref.ly/Luke22:42\">LUK 22:42</a></strong> parallels <a href=\"https://ref.ly/Matt26:39\">MAT 26:39</a>, <a href=\"https://ref.ly/Mark14:36\">MRK 14:36</a><strong><a href=\"https://ref.ly/Acts21:14\">ACT 21:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr13:2\">1CH 13:2</a>; <a href=\"https://ref.ly/Ps57:2\">PSA 57:2</a>, <a href=\"https://ref.ly/Ps138:8\">PSA 138:8</a>; <a href=\"https://ref.ly/Acts18:21\">ACT 18:21</a>; <a href=\"https://ref.ly/Rom1:10\">ROM 1:10</a>, <a href=\"https://ref.ly/Rom15:32\">ROM 15:32</a>; <a href=\"https://ref.ly/Jas4:13-Jas4:15\">JAS 4:13–4:15</a></p>\n<h2>Examples of God working out his purposes</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:23\">ACT 2:23</a></strong> <a href=\"https://ref.ly/Isa46:10-Isa46:11\">ISA 46:10–46:11</a>, <a href=\"https://ref.ly/Isa48:14\">ISA 48:14</a>; \n<a href=\"https://ref.ly/Jer29:10-Jer29:11\">JER 29:10–29:11</a> <em>restoration of Israel after the exile</em>; ; <a href=\"https://ref.ly/Acts13:36\">ACT 13:36</a> <em>David</em>; ; <a href=\"https://ref.ly/Rom9:11-Rom9:12\">ROM 9:11–9:12</a> <em>Esau and Jacob</em>; ; <a href=\"https://ref.ly/Rom9:17\">ROM 9:17</a> <em>Pharaoh</em></p>\n<h2>God promises to guide Israel and Judah</h2>\n<p><strong><a href=\"https://ref.ly/Exod15:13\">EXO 15:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:34\">EXO 32:34</a>; <a href=\"https://ref.ly/Ps23:2-Ps23:3\">PSA 23:2–23:3</a>, <a href=\"https://ref.ly/Ps48:14\">PSA 48:14</a>; <a href=\"https://ref.ly/Isa30:21\">ISA 30:21</a>, <a href=\"https://ref.ly/Isa49:10\">ISA 49:10</a>, <a href=\"https://ref.ly/Isa58:11\">ISA 58:11</a>; <a href=\"https://ref.ly/Jer31:8-Jer31:9\">JER 31:8–31:9</a>; <a href=\"https://ref.ly/Ezek34:11-Ezek34:16\">EZK 34:11–34:16</a>; <a href=\"https://ref.ly/Luke1:76-Luke1:79\">LUK 1:76–1:79</a></p>\n<h2>Other promises of God's guidance</h2>\n<p><a href=\"https://ref.ly/Gen12:1\">GEN 12:1</a>, <a href=\"https://ref.ly/Gen26:2-Gen26:3\">GEN 26:2–26:3</a>; ; <a href=\"https://ref.ly/1Sam16:3\">1SA 16:3</a>; ; <a href=\"https://ref.ly/Ps32:8\">PSA 32:8</a>, <a href=\"https://ref.ly/Ps67:4\">PSA 67:4</a>; ; <a href=\"https://ref.ly/Isa42:16\">ISA 42:16</a>; ; <a href=\"https://ref.ly/Rev7:17\">REV 7:17</a></p>",
@@ -347,6 +347,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5942: security",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Samothrace",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Samothrace"
 }
 ]
 }

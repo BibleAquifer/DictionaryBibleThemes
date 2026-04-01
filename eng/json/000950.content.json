@@ -2,10 +2,10 @@
 {
 "content_id": "5365",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5365: kidnapping",
 "media_type": "Text",
-"index_reference": "5365: kidnapping",
+"index_reference": "5365",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The abduction of a person, normally for the purpose of selling into slavery.</p>\n<h2>Examples of kidnapping</h2>\n<h3>Joseph</h3>\n<p><a href=\"https://ref.ly/Gen37:23-Gen37:28\">GEN 37:23–37:28</a>, <a href=\"https://ref.ly/Gen40:15\">GEN 40:15</a>, <a href=\"https://ref.ly/Gen45:3-Gen45:5\">GEN 45:3–45:5</a></p>\n<h3>The girls at Shiloh</h3>\n<p><a href=\"https://ref.ly/Judg21:16-Judg21:23\">JDG 21:16–21:23</a></p>\n<h2>The penalty for kidnapping</h2>\n<p><strong><a href=\"https://ref.ly/Exod21:16\">EXO 21:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut24:7\">DEU 24:7</a>; <a href=\"https://ref.ly/1Tim1:9-1Tim1:10\">1TI 1:9–1:10</a></p>",
@@ -69,7 +69,8 @@
 "label": "7446: slavery",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

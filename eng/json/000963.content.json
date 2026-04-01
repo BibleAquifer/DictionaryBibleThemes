@@ -2,10 +2,10 @@
 {
 "content_id": "5379",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5379: law, Jesus Christ's attitude to",
 "media_type": "Text",
-"index_reference": "5379: law, jesus christ's attitude to",
+"index_reference": "5379",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Jesus Christ accepted the authority of the OT law and saw himself as coming to fulfil its purpose.</p>\n<h2>Jesus Christ's disputes with the Pharisees and teachers of the law</h2>\n<h3>The Pharisees and teachers of the law accuse Jesus Christ's disciples of not following tradition</h3>\n<p><strong><a href=\"https://ref.ly/Mark7:5\">MRK 7:5</a></strong> parallel <a href=\"https://ref.ly/Matt15:2\">MAT 15:2</a></p>\n<h3>Jesus Christ accuses the Pharisees and teachers of the law of hypocrisy</h3>\n<p><strong><a href=\"https://ref.ly/Mark7:6-Mark7:8\">MRK 7:6–7:8</a></strong> parallel <a href=\"https://ref.ly/Matt15:7-Matt15:9\">MAT 15:7–15:9</a> <em>See also</em> <a href=\"https://ref.ly/Isa29:13\">ISA 29:13</a></p>\n<h3>Jesus Christ gives examples where human tradition is observed rather than God's law</h3>\n<p><a href=\"https://ref.ly/Mark7:10-Mark7:13\">MRK 7:10–7:13</a> parallel <a href=\"https://ref.ly/Matt15:3-Matt15:6\">MAT 15:3–15:6</a>; ; <a href=\"https://ref.ly/Matt23:1-Matt23:36\">MAT 23:1–23:36</a> parallels <a href=\"https://ref.ly/Mark12:38-Mark12:39\">MRK 12:38–12:39</a>, <a href=\"https://ref.ly/Luke20:45-Luke20:46\">LUK 20:45–20:46</a></p>\n<h3>The Pharisees accuse Jesus Christ of breaking the Sabbath</h3>\n<p><strong><a href=\"https://ref.ly/Mark2:23-Mark2:24\">MRK 2:23–2:24</a></strong> parallels <a href=\"https://ref.ly/Matt12:1-Matt12:2\">MAT 12:1–12:2</a>, <a href=\"https://ref.ly/Luke6:1-Luke6:2\">LUK 6:1–6:2</a></p>\n<h3>Jesus Christ demonstrates his authority over the Sabbath</h3>\n<p><strong><a href=\"https://ref.ly/Mark2:27-Mark3:4\">MRK 2:27–3:4</a></strong> parallels <a href=\"https://ref.ly/Matt12:8-Matt12:10\">MAT 12:8–12:10</a>, <a href=\"https://ref.ly/Luke6:5-Luke6:7\">LUK 6:5–6:7</a></p>\n<h3>Jesus Christ challenges the religious leaders to think about principles not rules</h3>\n<p><strong><a href=\"https://ref.ly/Mark3:4\">MRK 3:4</a></strong> parallels <a href=\"https://ref.ly/Luke6:9\">LUK 6:9</a>, <a href=\"https://ref.ly/Matt12:11-Matt12:12\">MAT 12:11–12:12</a> <em>See also</em> <a href=\"https://ref.ly/Luke13:10-Luke13:17\">LUK 13:10–13:17</a></p>\n<h2>Jesus Christ came to fulfil the law</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:17\">MAT 5:17</a>, <a href=\"https://ref.ly/Matt5:21-Matt5:22\">MAT 5:21–5:22</a></strong> <em>Jesus Christ went beyond the literal rules of the law, to the thought behind the act.</em> <em>See also</em> <a href=\"https://ref.ly/Exod20:13\">EXO 20:13</a><strong><a href=\"https://ref.ly/Matt5:27-Matt5:28\">MAT 5:27–5:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:14\">EXO 20:14</a></p>\n<h2>Jesus Christ asserts the continuing validity of the law</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:18-Matt5:19\">MAT 5:18–5:19</a></strong>; <strong><a href=\"https://ref.ly/Luke10:25-Luke10:28\">LUK 10:25–10:28</a></strong> parallels <a href=\"https://ref.ly/Matt22:37-Matt22:39\">MAT 22:37–22:39</a>, <a href=\"https://ref.ly/Mark12:29-Mark12:34\">MRK 12:29–12:34</a> <em>See also</em> <a href=\"https://ref.ly/Luke10:29-Luke10:37\">LUK 10:29–10:37</a>, <a href=\"https://ref.ly/Luke16:16\">LUK 16:16</a></p>\n<h2>Jesus Christ himself was obedient to the law and its commands</h2>\n<h3>In honouring his parents</h3>\n<p><a href=\"https://ref.ly/Luke2:41-Luke2:51\">LUK 2:41–2:51</a></p>\n<h3>In being baptised</h3>\n<p><strong><a href=\"https://ref.ly/Matt3:13-Matt3:15\">MAT 3:13–3:15</a></strong></p>\n<h3>In resisting temptation</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Luke4:1-Luke4:13\">LUK 4:1–4:13</a></p>\n<h3>In observing the Passover</h3>\n<p><strong><a href=\"https://ref.ly/Luke22:7-Luke22:8\">LUK 22:7–22:8</a></strong></p>\n<h3>In submitting to the will of God</h3>\n<p><strong><a href=\"https://ref.ly/Matt26:39\">MAT 26:39</a></strong> parallels <a href=\"https://ref.ly/Mark14:35-Mark14:36\">MRK 14:35–14:36</a>, <a href=\"https://ref.ly/Luke22:41-Luke22:42\">LUK 22:41–22:42</a></p>",
@@ -282,6 +282,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8767: hypocrisy",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gath"
 }
 ]
 }

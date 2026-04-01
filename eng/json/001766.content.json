@@ -2,10 +2,10 @@
 {
 "content_id": "7314",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7314: blood",
 "media_type": "Text",
-"index_reference": "7314: blood",
+"index_reference": "7314",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The symbol of life, which thus plays an especially important role in the sacrificial system of the OT. The shedding of the blood of a sacrificial animal represents the giving up of its life. The “blood of Christ” refers to Jesus Christ's obedient giving of his life, in order to achieve redemption and forgiveness.</p>",
@@ -40,7 +40,8 @@
 "label": "7318: blood, as symbol of guilt",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

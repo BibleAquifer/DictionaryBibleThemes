@@ -2,10 +2,10 @@
 {
 "content_id": "5359",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5359: justice",
 "media_type": "Text",
-"index_reference": "5359: justice",
+"index_reference": "5359",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A concern to act rightly, and to be seen by others to act rightly. Divine justice embraces every aspect of the right ordering of human society according to the will of God, its creator.</p>",
@@ -33,7 +33,8 @@
 "label": "5362: justice, in believers' lives",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5957",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5957: strength, spiritual",
 "media_type": "Text",
-"index_reference": "5957: strength, spiritual",
+"index_reference": "5957",
 "language": "eng",
 "review_level": "None",
 "content": "<p>In contrast to human strength, God is the source and supplier of all spiritual strength through which believers can do all that God asks.</p>\n<h2>God is the source of spiritual strength</h2>\n<h3>God gives strength</h3>\n<p><strong><a href=\"https://ref.ly/Eph6:10\">EPH 6:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg16:3\">JDG 16:3</a>, <a href=\"https://ref.ly/Judg16:6\">JDG 16:6</a>, <a href=\"https://ref.ly/Judg16:18-Judg16:20\">JDG 16:18–16:20</a>; <a href=\"https://ref.ly/Ps68:35\">PSA 68:35</a>; <a href=\"https://ref.ly/Isa40:29-Isa40:31\">ISA 40:29–40:31</a>; <a href=\"https://ref.ly/Luke24:49\">LUK 24:49</a>; <a href=\"https://ref.ly/Acts1:8\">ACT 1:8</a>; <a href=\"https://ref.ly/Eph3:16\">EPH 3:16</a>, <a href=\"https://ref.ly/Eph3:20\">EPH 3:20</a>; <a href=\"https://ref.ly/2Thess2:16-2Thess2:17\">2TH 2:16–2:17</a>; <a href=\"https://ref.ly/1Tim1:12\">1TI 1:12</a>; <a href=\"https://ref.ly/2Tim1:7\">2TI 1:7</a></p>\n<h3>Strength comes from the promise of his presence</h3>\n<p><strong><a href=\"https://ref.ly/Josh1:9\">JOS 1:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut31:7-Deut31:8\">DEU 31:7–31:8</a>; <a href=\"https://ref.ly/Ps119:28\">PSA 119:28</a>; <a href=\"https://ref.ly/Isa41:10\">ISA 41:10</a>; <a href=\"https://ref.ly/Jer1:8\">JER 1:8</a>; <a href=\"https://ref.ly/Hag2:4\">HAG 2:4</a>; <a href=\"https://ref.ly/2Tim4:17\">2TI 4:17</a></p>\n<h3>Strength comes from the realisation of his grace</h3>\n<p><strong><a href=\"https://ref.ly/2Tim2:1\">2TI 2:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts20:32\">ACT 20:32</a>; <a href=\"https://ref.ly/1Cor15:10\">1CO 15:10</a>; <a href=\"https://ref.ly/Heb13:9\">HEB 13:9</a></p>\n<h3>Strength comes through the Holy Spirit</h3>\n<p><strong><a href=\"https://ref.ly/Zech4:6-Zech4:7\">ZEC 4:6–4:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg14:6\">JDG 14:6</a>; <a href=\"https://ref.ly/Luke4:14\">LUK 4:14</a>; <a href=\"https://ref.ly/Eph3:7\">EPH 3:7</a>, <a href=\"https://ref.ly/Eph3:16\">EPH 3:16</a></p>\n<h3>Overcoming strength is often veiled in weakness</h3>\n<p><strong><a href=\"https://ref.ly/2Cor12:7-2Cor12:10\">2CO 12:7–12:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps8:2\">PSA 8:2</a>; <a href=\"https://ref.ly/Acts14:19-Acts14:20\">ACT 14:19–14:20</a>; <a href=\"https://ref.ly/2Cor4:8-2Cor4:12\">2CO 4:8–4:12</a>; <a href=\"https://ref.ly/Col2:15\">COL 2:15</a>; <a href=\"https://ref.ly/Heb11:32-Heb11:38\">HEB 11:32–11:38</a></p>\n<h2>Aspects of spiritual strength</h2>\n<h3>Profound dependence upon God</h3>\n<p><strong><a href=\"https://ref.ly/1Sam17:45\">1SA 17:45</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps27:1\">PSA 27:1</a>, <a href=\"https://ref.ly/Ps44:4-Ps44:8\">PSA 44:4–44:8</a>, <a href=\"https://ref.ly/Ps118:6\">PSA 118:6</a>; <a href=\"https://ref.ly/Isa40:29-Isa40:31\">ISA 40:29–40:31</a>; <a href=\"https://ref.ly/Dan3:16-Dan3:18\">DAN 3:16–3:18</a>; <a href=\"https://ref.ly/Matt26:42\">MAT 26:42</a>; <a href=\"https://ref.ly/1Cor1:31\">1CO 1:31</a>; <a href=\"https://ref.ly/Gal6:14\">GAL 6:14</a>; <a href=\"https://ref.ly/Heb13:6\">HEB 13:6</a></p>\n<h3>Humility and gentleness</h3>\n<p><strong><a href=\"https://ref.ly/Matt11:29\">MAT 11:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num12:3\">NUM 12:3</a>; <a href=\"https://ref.ly/1Thess2:6-1Thess2:8\">1TH 2:6–2:8</a>, <a href=\"https://ref.ly/1Thess2:11-1Thess2:12\">1TH 2:11–2:12</a></p>",
@@ -357,6 +357,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8482: spiritual warfare",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hushah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hushah"
+},
+{
+"id": "place:Hushah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hushah"
+},
+{
+"id": "group:Hushathites",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hushathites"
 }
 ]
 }

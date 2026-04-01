@@ -2,16 +2,32 @@
 {
 "content_id": "5453",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5453: power, of God",
 "media_type": "Text",
-"index_reference": "5453: power, of god",
+"index_reference": "5453",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"1105.md\">1105: God, power of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Gibeon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeon"
+},
+{
+"id": "group:Gibeon",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibeonites"
+}
+]
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5176",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5176: ring",
 "media_type": "Text",
-"index_reference": "5176: ring",
+"index_reference": "5176",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An ornament or a status symbol, sometimes used in sacred furnishings or as a charm.</p>\n<h2>Rings worn as jewellery</h2>\n<h3>Gold nose rings, worn especially by women</h3>\n<p>These were often given by a suitor as a symbol of betrothal:\n <a href=\"https://ref.ly/Gen24:22\">GEN 24:22</a>, <a href=\"https://ref.ly/Gen24:30\">GEN 24:30</a>, <a href=\"https://ref.ly/Gen24:47\">GEN 24:47</a>; ; <a href=\"https://ref.ly/Prov11:22\">PRO 11:22</a>; ; <a href=\"https://ref.ly/Isa3:21\">ISA 3:21</a>; ; <a href=\"https://ref.ly/Ezek16:12\">EZK 16:12</a></p>\n<h3>The signet ring as a sign of authority</h3>\n<p><a href=\"https://ref.ly/Gen41:42\">GEN 41:42</a>; ; <a href=\"https://ref.ly/Num31:50\">NUM 31:50</a>; ; <a href=\"https://ref.ly/Esth3:10\">EST 3:10</a>, <a href=\"https://ref.ly/Esth3:12\">EST 3:12</a>, <a href=\"https://ref.ly/Esth8:8\">EST 8:8</a>; ; <a href=\"https://ref.ly/Dan6:17\">DAN 6:17</a>; <a href=\"https://ref.ly/Jer22:24\">JER 22:24</a>; ; <a href=\"https://ref.ly/Hag2:23\">HAG 2:23</a></p>\n<h3>Gold ear-rings, worn by men and women</h3>\n<p>Ear-rings were sometimes used as charms or amulets:\n <a href=\"https://ref.ly/Gen35:4\">GEN 35:4</a>; ; <a href=\"https://ref.ly/Exod32:2-Exod32:3\">EXO 32:2–32:3</a>, <a href=\"https://ref.ly/Exod35:22\">EXO 35:22</a>; ; <a href=\"https://ref.ly/Judg8:24-Judg8:25\">JDG 8:24–8:25</a></p>\n<h2>Rings as indications of wealth or status</h2>\n<p><a href=\"https://ref.ly/Job42:11\">JOB 42:11</a>; ; <a href=\"https://ref.ly/Hos2:13\">HOS 2:13</a>; ; <a href=\"https://ref.ly/Luke15:22\">LUK 15:22</a>; ; <a href=\"https://ref.ly/Jas2:2\">JAS 2:2</a></p>\n<h2>Rings used in sacred furnishings</h2>\n<h3>On the ark of the covenant</h3>\n<p><a href=\"https://ref.ly/Exod25:12-Exod25:15\">EXO 25:12–25:15</a></p>\n<h3>On the table</h3>\n<p><a href=\"https://ref.ly/Exod25:26-Exod25:27\">EXO 25:26–25:27</a></p>\n<h3>In the tabernacle</h3>\n<p><a href=\"https://ref.ly/Exod26:24-Exod26:29\">EXO 26:24–26:29</a></p>\n<h3>On priestly garments</h3>\n<p><a href=\"https://ref.ly/Exod28:23-Exod28:24\">EXO 28:23–28:24</a></p>\n<h3>For carrying altars</h3>\n<p><a href=\"https://ref.ly/Exod27:4-Exod27:7\">EXO 27:4–27:7</a>, <a href=\"https://ref.ly/Exod30:4\">EXO 30:4</a>, <a href=\"https://ref.ly/Exod37:27\">EXO 37:27</a></p>",
@@ -270,6 +270,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7459: tabernacle, in OT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Earring",
+"type": "realia",
+"confidence": 0.5654,
+"match_method": "scored",
+"preferred_label": "Earring"
 }
 ]
 }

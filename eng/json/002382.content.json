@@ -2,10 +2,10 @@
 {
 "content_id": "8753",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8753: favouritism",
 "media_type": "Text",
-"index_reference": "8753: favouritism",
+"index_reference": "8753",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The unfair treatment of a person or group in preference to another. Favouritism is shown in Scripture as causing division both in the family and in the church. It is warned against in the administration of justice. The human tendency to partiality is contrasted with God's impartial dealings.</p>\n<h2>Favouritism in family life</h2>\n<h3>Isaac's preference for Esau</h3>\n<p><a href=\"https://ref.ly/Gen25:23\">GEN 25:23</a>, <a href=\"https://ref.ly/Gen25:28\">GEN 25:28</a></p>\n<h3>Rebekah's preference for Jacob</h3>\n<p><a href=\"https://ref.ly/Gen27:6-Gen27:10\">GEN 27:6–27:10</a></p>\n<h3>Jacob's preference for Joseph</h3>\n<p><a href=\"https://ref.ly/Gen37:3-Gen37:4\">GEN 37:3–37:4</a></p>\n<h3>Elkanah's preference for Hannah</h3>\n<p><a href=\"https://ref.ly/1Sam1:5-1Sam1:6\">1SA 1:5–1:6</a></p>\n<h3>The child of a favourite wife must not receive preferential treatment</h3>\n<p><a href=\"https://ref.ly/Deut21:15-Deut21:16\">DEU 21:15–21:16</a></p>\n<h2>Favouritism in church relationships</h2>\n<h3>In the treatment of widows</h3>\n<p><a href=\"https://ref.ly/Acts6:1\">ACT 6:1</a></p>\n<h3>James warned against favouring rich Christians</h3>\n<p><a href=\"https://ref.ly/Jas2:1-Jas2:4\">JAS 2:1–2:4</a>, <a href=\"https://ref.ly/Jas2:8-Jas2:9\">JAS 2:8–2:9</a></p>\n<h3>Paul warned Timothy against showing favouritism</h3>\n<p><strong><a href=\"https://ref.ly/1Tim5:21\">1TI 5:21</a></strong></p>\n<h2>Justice must be impartial</h2>\n<p><strong><a href=\"https://ref.ly/Lev19:15\">LEV 19:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:3\">EXO 23:3</a>; <a href=\"https://ref.ly/Deut16:19\">DEU 16:19</a>; <a href=\"https://ref.ly/Job13:10\">JOB 13:10</a>; <a href=\"https://ref.ly/Ps82:2\">PSA 82:2</a>; <a href=\"https://ref.ly/Prov24:23\">PRO 24:23</a>, <a href=\"https://ref.ly/Prov28:21\">PRO 28:21</a>; <a href=\"https://ref.ly/Mal2:9\">MAL 2:9</a></p>\n<h2>God has no favourites</h2>\n<p><strong><a href=\"https://ref.ly/Rom2:11\">ROM 2:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job34:19\">JOB 34:19</a>; <a href=\"https://ref.ly/Matt5:45\">MAT 5:45</a></p>\n<h3>God has no favourite nation</h3>\n<p><strong><a href=\"https://ref.ly/Acts10:34-Acts10:35\">ACT 10:34–10:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom2:10\">ROM 2:10</a>; <a href=\"https://ref.ly/Eph6:8-Eph6:9\">EPH 6:8–6:9</a></p>\n<h3>God does not differentiate between Jewish and Gentile Christians</h3>\n<p><a href=\"https://ref.ly/Acts15:7-Acts15:9\">ACT 15:7–15:9</a>; ; <a href=\"https://ref.ly/Rom10:12-Rom10:13\">ROM 10:12–10:13</a></p>\n<h3>God judges all without favouritism</h3>\n<p><a href=\"https://ref.ly/Deut10:17\">DEU 10:17</a>; ; <a href=\"https://ref.ly/2Chr19:7\">2CH 19:7</a>; ; <a href=\"https://ref.ly/Rom2:9\">ROM 2:9</a>; ; <a href=\"https://ref.ly/Col3:25\">COL 3:25</a>; ; <a href=\"https://ref.ly/1Pet1:17\">1PE 1:17</a></p>",
@@ -269,7 +269,8 @@
 "label": "8800: prejudice",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5662",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5662: certificate of divorce",
 "media_type": "Text",
-"index_reference": "5662: certificate of divorce",
+"index_reference": "5662",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>A certificate of divorce was required under Mosaic law</h2>\n<p><strong><a href=\"https://ref.ly/Mark10:4\">MRK 10:4</a></strong> parallel <a href=\"https://ref.ly/Matt19:7\">MAT 19:7</a> <em>The certificate provided a divorced wife with some legal protection and permitted her to remarry.</em> <em>See also</em> <a href=\"https://ref.ly/Deut24:1-Deut24:4\">DEU 24:1–24:4</a>; <a href=\"https://ref.ly/Hos2:2\">HOS 2:2</a> <em>These words may have been adapted from a divorce bill</em>; <a href=\"https://ref.ly/Matt5:31\">MAT 5:31</a></p>\n<h2>God gave his unfaithful people a certificate of divorce</h2>\n<p><strong><a href=\"https://ref.ly/Jer3:8\">JER 3:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa50:1\">ISA 50:1</a> <em>Unlike Israel, Judah had been given no certificate of divorce. The exile is thus portrayed as only a temporary separation.</em></p>",
@@ -82,6 +82,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6242: adultery",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Harbona.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Harbona"
+},
+{
+"id": "person:Harbona",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Harbona"
 }
 ]
 }

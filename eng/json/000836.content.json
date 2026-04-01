@@ -2,10 +2,10 @@
 {
 "content_id": "5248",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5248: cart",
 "media_type": "Text",
-"index_reference": "5248: cart",
+"index_reference": "5248",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>General description of carts</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Num7:3\">NUM 7:3</a>; <a href=\"https://ref.ly/1Sam6:7\">1SA 6:7</a>, <a href=\"https://ref.ly/1Sam6:14\">1SA 6:14</a> <em>made of wood</em>; <a href=\"https://ref.ly/Isa5:18\">ISA 5:18</a> <em>pulled by ropes</em>; <a href=\"https://ref.ly/Isa28:27-Isa28:28\">ISA 28:27–28:28</a> <em>equipped with heavy wheels</em></p>\n<h2>Carts as a means of transport</h2>\n<h3>Carts used to transport people</h3>\n<p><strong><a href=\"https://ref.ly/Gen46:5\">GEN 46:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen45:19-Gen45:21\">GEN 45:19–45:21</a>, <a href=\"https://ref.ly/Gen45:27\">GEN 45:27</a>; <a href=\"https://ref.ly/Isa66:20\">ISA 66:20</a></p>\n<h3>Carts used as military transport</h3>\n<p><strong><a href=\"https://ref.ly/Ezek23:24\">EZK 23:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek26:10\">EZK 26:10</a></p>\n<h3>Carts used to transport grain</h3>\n<p><strong><a href=\"https://ref.ly/Amos2:13\">AMO 2:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps65:11\">PSA 65:11</a></p>\n<h3>Carts used to transport the tabernacle</h3>\n<p><a href=\"https://ref.ly/Num7:6-Num7:8\">NUM 7:6–7:8</a> <em>The heavier items of the tabernacle and its furniture were carried on covered carts drawn by oxen.</em></p>\n<h3>A new cart to transport the ark of the LORD</h3>\n<p><strong><a href=\"https://ref.ly/1Sam6:8\">1SA 6:8</a></strong> <em>The Philistines send the ark back to Israel.</em> <em>See also</em> <a href=\"https://ref.ly/1Sam6:10-1Sam6:11\">1SA 6:10–6:11</a>; <a href=\"https://ref.ly/2Sam6:2-2Sam6:3\">2SA 6:2–6:3</a> parallel <a href=\"https://ref.ly/1Chr13:7\">1CH 13:7</a> <em>The ark is started on its journey to Jerusalem.</em></p>",
@@ -155,6 +155,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7459: tabernacle, in OT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Wagon",
+"type": "realia",
+"confidence": 0.781,
+"match_method": "scored",
+"preferred_label": "Wagon"
 }
 ]
 }

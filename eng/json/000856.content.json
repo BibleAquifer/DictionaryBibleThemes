@@ -2,10 +2,10 @@
 {
 "content_id": "5268",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5268: cooking",
 "media_type": "Text",
-"index_reference": "5268: cooking",
+"index_reference": "5268",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture contains much evidence of methods of cooking and types of food cooked in biblical times. Cooking was an essential part of sacrificial worship, as well as being a domestic necessity.</p>\n<h2>Cooks</h2>\n<p><strong><a href=\"https://ref.ly/1Sam8:10-1Sam8:13\">1SA 8:10–8:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam9:23-1Sam9:24\">1SA 9:23–9:24</a></p>\n<h2>Cooking utensils</h2>\n<p><strong><a href=\"https://ref.ly/1Sam2:13-1Sam2:14\">1SA 2:13–2:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev2:7\">LEV 2:7</a>, <a href=\"https://ref.ly/Lev6:28\">LEV 6:28</a>, <a href=\"https://ref.ly/Lev7:9\">LEV 7:9</a>, <a href=\"https://ref.ly/Lev11:35\">LEV 11:35</a>; <a href=\"https://ref.ly/Num11:8\">NUM 11:8</a>; <a href=\"https://ref.ly/Ezek11:3\">EZK 11:3</a>; <a href=\"https://ref.ly/Zech14:20-Zech14:21\">ZEC 14:20–14:21</a></p>\n<h2>Cooking methods</h2>\n<h3>Baking</h3>\n<p><a href=\"https://ref.ly/Gen19:3\">GEN 19:3</a>; ; <a href=\"https://ref.ly/Exod16:23\">EXO 16:23</a>; ; <a href=\"https://ref.ly/Lev26:26\">LEV 26:26</a>; ; <a href=\"https://ref.ly/1Sam28:24\">1SA 28:24</a>; ; <a href=\"https://ref.ly/Ezek46:20\">EZK 46:20</a></p>\n<h3>Boiling</h3>\n<p><strong><a href=\"https://ref.ly/Exod16:23\">EXO 16:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num6:19\">NUM 6:19</a>; <a href=\"https://ref.ly/1Sam2:13\">1SA 2:13</a></p>\n<h3>Roasting</h3>\n<p><strong><a href=\"https://ref.ly/1Sam2:15\">1SA 2:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:8-Exod12:9\">EXO 12:8–12:9</a>; <a href=\"https://ref.ly/Deut16:5-Deut16:7\">DEU 16:5–16:7</a>; <a href=\"https://ref.ly/Prov12:27\">PRO 12:27</a>; <a href=\"https://ref.ly/Isa44:16\">ISA 44:16</a>, <a href=\"https://ref.ly/Isa44:19\">ISA 44:19</a></p>\n<h2>Food cooked</h2>\n<h3>Meat</h3>\n<p><strong><a href=\"https://ref.ly/Ezek24:10\">EZK 24:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:3-Gen27:19\">GEN 27:3–27:19</a>; <a href=\"https://ref.ly/Exod29:31\">EXO 29:31</a>; <a href=\"https://ref.ly/Lev8:31\">LEV 8:31</a>; <a href=\"https://ref.ly/1Kgs17:6\">1KI 17:6</a>; <a href=\"https://ref.ly/Mic3:3\">MIC 3:3</a>EXO <a href=\"https://ref.ly/Mic23:19\">23:19</a>, <a href=\"https://ref.ly/Exod34:26\">EXO 34:26</a>; <a href=\"https://ref.ly/Deut14:21\">DEU 14:21</a></p>\n<h3>Grain</h3>\n<p><strong><a href=\"https://ref.ly/1Sam17:17\">1SA 17:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh5:11\">JOS 5:11</a>; <a href=\"https://ref.ly/Ruth2:14\">RUT 2:14</a>; <a href=\"https://ref.ly/1Sam25:18\">1SA 25:18</a>; <a href=\"https://ref.ly/2Sam17:27-2Sam17:28\">2SA 17:27–17:28</a>; <a href=\"https://ref.ly/1Kgs17:10-1Kgs17:16\">1KI 17:10–17:16</a></p>\n<h3>Stew</h3>\n<p><strong><a href=\"https://ref.ly/Gen25:29\">GEN 25:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs4:38-2Kgs4:41\">2KI 4:38–4:41</a></p>\n<h3>Human flesh</h3>\n<p><strong><a href=\"https://ref.ly/Lam4:10\">LAM 4:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs6:26-2Kgs6:29\">2KI 6:26–6:29</a></p>\n<h2>Cooked offerings</h2>\n<p><strong><a href=\"https://ref.ly/Lev2:7\">LEV 2:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev2:14\">LEV 2:14</a>, <a href=\"https://ref.ly/Lev7:9\">LEV 7:9</a>, <a href=\"https://ref.ly/Lev8:31\">LEV 8:31</a>; <a href=\"https://ref.ly/2Chr35:13\">2CH 35:13</a>; <a href=\"https://ref.ly/Ezek46:20\">EZK 46:20</a>, <a href=\"https://ref.ly/Ezek46:24\">EZK 46:24</a></p>",
@@ -353,7 +353,8 @@
 "label": "7402: offerings",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

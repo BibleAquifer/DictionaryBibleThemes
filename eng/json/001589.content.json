@@ -2,10 +2,10 @@
 {
 "content_id": "6510",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6510: salvation",
 "media_type": "Text",
-"index_reference": "6510: salvation",
+"index_reference": "6510",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The transformation of a person's individual nature and relationship with God as a result of repentance and faith in the atoning death of Jesus Christ on the cross. All humanity stands in need of salvation, which is only possible through faith in Jesus Christ.</p>",
@@ -39,6 +39,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6514: Saviour, Jesus Christ as",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Kadesh-barnea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kadesh-barnea"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5835",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5835: disappointment",
 "media_type": "Text",
-"index_reference": "5835: disappointment",
+"index_reference": "5835",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The sadness experienced when people or circumstances do not fulfil expectations.</p>\n<h2>Disappointment caused by people or circumstances</h2>\n<p><strong><a href=\"https://ref.ly/Job6:19-Job6:21\">JOB 6:19–6:21</a></strong>; <strong><a href=\"https://ref.ly/Jer8:15\">JER 8:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps10:1\">PSA 10:1</a>; <a href=\"https://ref.ly/Prov10:1\">PRO 10:1</a>, <a href=\"https://ref.ly/Prov13:12\">PRO 13:12</a>, <a href=\"https://ref.ly/Prov17:21\">PRO 17:21</a>, <a href=\"https://ref.ly/Prov29:21\">PRO 29:21</a>; <a href=\"https://ref.ly/Eccl6:2\">ECC 6:2</a>; <a href=\"https://ref.ly/Isa49:4\">ISA 49:4</a>; <a href=\"https://ref.ly/Jer2:36\">JER 2:36</a>, <a href=\"https://ref.ly/Jer14:19\">JER 14:19</a>; <a href=\"https://ref.ly/Lam4:17\">LAM 4:17</a>; <a href=\"https://ref.ly/Ezek37:11\">EZK 37:11</a></p>\n<h2>Disappointment as a result of not understanding God's purposes</h2>\n<p><strong><a href=\"https://ref.ly/Luke24:21\">LUK 24:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job30:26\">JOB 30:26</a>; <a href=\"https://ref.ly/Ps73:13\">PSA 73:13</a>; <a href=\"https://ref.ly/Jer15:18\">JER 15:18</a></p>\n<h2>Disappointment as the result of sin</h2>\n<p><strong><a href=\"https://ref.ly/Prov11:7\">PRO 11:7</a></strong>; <strong><a href=\"https://ref.ly/Hag1:9\">HAG 1:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job11:20\">JOB 11:20</a>; <a href=\"https://ref.ly/Prov10:28\">PRO 10:28</a>; <a href=\"https://ref.ly/Lam3:18\">LAM 3:18</a>; <a href=\"https://ref.ly/Hos13:15\">HOS 13:15</a>; <a href=\"https://ref.ly/Joel1:10\">JOL 1:10</a>; <a href=\"https://ref.ly/Zech9:5\">ZEC 9:5</a></p>\n<h2>Examples of disappointment</h2>\n<p><a href=\"https://ref.ly/Ruth1:20\">RUT 1:20</a> <em>Naomi at her losses</em>; ; <a href=\"https://ref.ly/1Sam1:10\">1SA 1:10</a> <em>Hannah with her childlessness</em>; ; <a href=\"https://ref.ly/1Sam15:11\">1SA 15:11</a> <em>Samuel with Saul</em>; ; <a href=\"https://ref.ly/1Sam30:3-1Sam30:6\">1SA 30:3–30:6</a> <em>David and his men at Ziklag</em>; ; <a href=\"https://ref.ly/1Kgs19:4\">1KI 19:4</a> <em>Elijah with his own performance</em>; ; <a href=\"https://ref.ly/Matt19:22\">MAT 19:22</a> parallels <a href=\"https://ref.ly/Mark10:22\">MRK 10:22</a>, <a href=\"https://ref.ly/Luke18:23\">LUK 18:23</a> <em>the rich young man</em>; ; <a href=\"https://ref.ly/2Cor12:21\">2CO 12:21</a> <em>Paul's possible disappointment with the Corinthians</em>; ; <a href=\"https://ref.ly/Gal1:6\">GAL 1:6</a> <em>Paul with the Galatians</em></p>\n<h2>God's disappointment with people</h2>\n<p><strong><a href=\"https://ref.ly/Gen6:6\">GEN 6:6</a></strong>; <strong><a href=\"https://ref.ly/1Sam15:35\">1SA 15:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps78:40\">PSA 78:40</a>; <a href=\"https://ref.ly/Isa63:10\">ISA 63:10</a>; <a href=\"https://ref.ly/Ezek6:9\">EZK 6:9</a></p>\n<h2>God does not disappoint his faithful people</h2>\n<p><strong><a href=\"https://ref.ly/Josh21:45\">JOS 21:45</a></strong>; <strong><a href=\"https://ref.ly/Rom5:5\">ROM 5:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh23:14\">JOS 23:14</a>; <a href=\"https://ref.ly/1Kgs8:56\">1KI 8:56</a>; <a href=\"https://ref.ly/Ps22:5\">PSA 22:5</a>, <a href=\"https://ref.ly/Ps25:3\">PSA 25:3</a>, <a href=\"https://ref.ly/Ps119:116\">PSA 119:116</a></p>",
@@ -357,6 +357,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9610: hope",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hezion",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hezion"
 }
 ]
 }

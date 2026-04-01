@@ -2,10 +2,10 @@
 {
 "content_id": "5816",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5816: consciousness",
 "media_type": "Text",
-"index_reference": "5816: consciousness",
+"index_reference": "5816",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The state of being aware, especially of one's actions and motivations, or of the existence and concerns of others. All people have a general awareness or consciousness of God and of sin, but it is often suppressed or destroyed.</p>\n<h2>Consciousness of sin</h2>\n<h3>Through the law</h3>\n<p><strong><a href=\"https://ref.ly/Rom3:19-Rom3:20\">ROM 3:19–3:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom7:7-Rom7:13\">ROM 7:7–7:13</a>; <a href=\"https://ref.ly/Jas2:9-Jas2:10\">JAS 2:9–2:10</a></p>\n<h3>Through the convicting power of the Holy Spirit</h3>\n<p><strong><a href=\"https://ref.ly/John16:8\">JHN 16:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor14:24-1Cor14:25\">1CO 14:24–14:25</a>; <a href=\"https://ref.ly/Jude1:14-Jude1:15\">JUD 1:14–1:15</a></p>\n<h3>Through comparison with God's righteousness</h3>\n<p><strong><a href=\"https://ref.ly/Ps143:2\">PSA 143:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job25:2-Job25:6\">JOB 25:2–25:6</a>; <a href=\"https://ref.ly/Ps130:3-Ps130:4\">PSA 130:3–130:4</a></p>\n<h2>Consciousness of God</h2>\n<h3>Through an innate knowledge of the creator</h3>\n<p><strong><a href=\"https://ref.ly/Rom1:19-Rom1:23\">ROM 1:19–1:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts17:22-Acts17:31\">ACT 17:22–17:31</a>; <a href=\"https://ref.ly/Rom1:28\">ROM 1:28</a>; <a href=\"https://ref.ly/Eph4:17-Eph4:19\">EPH 4:17–4:19</a></p>\n<h3>Through the revelation of God in nature</h3>\n<p><strong><a href=\"https://ref.ly/Acts14:17\">ACT 14:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps19:1-Ps19:6\">PSA 19:1–19:6</a>, <a href=\"https://ref.ly/Ps50:6\">PSA 50:6</a></p>\n<h3>Through observation of divine judgment</h3>\n<p><strong><a href=\"https://ref.ly/Ezek6:13\">EZK 6:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps83:16-Ps83:18\">PSA 83:16–83:18</a>; <a href=\"https://ref.ly/Ezek29:6-Ezek29:9\">EZK 29:6–29:9</a>, <a href=\"https://ref.ly/Ezek39:6\">EZK 39:6</a></p>\n<h3>Through observation of divine blessing</h3>\n<p><strong><a href=\"https://ref.ly/Josh4:23-Josh4:24\">JOS 4:23–4:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod7:5\">EXO 7:5</a>; <a href=\"https://ref.ly/Deut4:35\">DEU 4:35</a>; <a href=\"https://ref.ly/Isa52:9-Isa52:10\">ISA 52:9–52:10</a></p>\n<h2>Lack of consciousness</h2>\n<p><strong><a href=\"https://ref.ly/Job14:10-Job14:12\">JOB 14:10–14:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps6:5\">PSA 6:5</a>, <a href=\"https://ref.ly/Ps30:9\">PSA 30:9</a>, <a href=\"https://ref.ly/Ps31:17\">PSA 31:17</a>, <a href=\"https://ref.ly/Ps88:10-Ps88:12\">PSA 88:10–88:12</a>, <a href=\"https://ref.ly/Ps115:17-Ps115:18\">PSA 115:17–115:18</a>; <a href=\"https://ref.ly/Eccl9:5-Eccl9:6\">ECC 9:5–9:6</a>, <a href=\"https://ref.ly/Eccl9:10\">ECC 9:10</a>; <a href=\"https://ref.ly/Isa38:18-Isa38:19\">ISA 38:18–38:19</a></p>",
@@ -273,6 +273,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9020: death",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hermas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hermas"
 }
 ]
 }

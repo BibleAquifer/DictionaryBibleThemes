@@ -2,10 +2,10 @@
 {
 "content_id": "7130",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7130: flock, God's",
 "media_type": "Text",
-"index_reference": "7130: flock, god's",
+"index_reference": "7130",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God's people are frequently portrayed as a flock of sheep, for whom he cares with the tenderness and concern of a loving shepherd.</p>\n<h2>The divine shepherd</h2>\n<h3>God portrayed as a shepherd</h3>\n<p><strong><a href=\"https://ref.ly/Ps23:1\">PSA 23:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps80:1\">PSA 80:1</a></p>\n<h3>Jesus Christ portrayed as a shepherd</h3>\n<p><strong><a href=\"https://ref.ly/John10:11\">JHN 10:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt26:31\">MAT 26:31</a>; <a href=\"https://ref.ly/Zech13:7\">ZEC 13:7</a></p>\n<h2>God's people are his flock</h2>\n<h3>Israel and Judah depicted as God's flock</h3>\n<p><strong><a href=\"https://ref.ly/Ps77:20\">PSA 77:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps78:52\">PSA 78:52</a>; <a href=\"https://ref.ly/Isa63:11\">ISA 63:11</a>; <a href=\"https://ref.ly/Jer13:17\">JER 13:17</a>, <a href=\"https://ref.ly/Jer31:10\">JER 31:10</a>, <a href=\"https://ref.ly/Jer50:17\">JER 50:17</a>; <a href=\"https://ref.ly/Mic2:12\">MIC 2:12</a>, <a href=\"https://ref.ly/Mic7:14\">MIC 7:14</a></p>\n<h3>NT believers depicted as God's flock</h3>\n<p><strong><a href=\"https://ref.ly/Acts20:28\">ACT 20:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke12:32\">LUK 12:32</a>; <a href=\"https://ref.ly/John10:14-John10:16\">JHN 10:14–10:16</a></p>\n<h2>God cares for his flock</h2>\n<p><strong><a href=\"https://ref.ly/Isa40:11\">ISA 40:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps95:6-Ps95:7\">PSA 95:6–95:7</a>; <a href=\"https://ref.ly/Ezek34:11-Ezek34:16\">EZK 34:11–34:16</a>; <a href=\"https://ref.ly/Mic5:4\">MIC 5:4</a>; <a href=\"https://ref.ly/Zech9:16\">ZEC 9:16</a></p>\n<h2>God judges his flock</h2>\n<p><strong><a href=\"https://ref.ly/Ezek34:17-Ezek34:24\">EZK 34:17–34:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Zech11:7-Zech11:16\">ZEC 11:7–11:16</a></p>\n<h2>The under-shepherds of the flock</h2>\n<h3>Many of Israel's leaders exploited God's flock</h3>\n<p><strong><a href=\"https://ref.ly/Ezek34:2-Ezek34:3\">EZK 34:2–34:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer10:21\">JER 10:21</a>; <a href=\"https://ref.ly/Zech11:4-Zech11:5\">ZEC 11:4–11:5</a>; <a href=\"https://ref.ly/John10:12-John10:13\">JHN 10:12–10:13</a></p>\n<h3>God will judge the corrupt shepherds</h3>\n<p><strong><a href=\"https://ref.ly/Ezek34:7-Ezek34:10\">EZK 34:7–34:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer23:1-Jer23:5\">JER 23:1–23:5</a>, <a href=\"https://ref.ly/Jer25:34-Jer25:36\">JER 25:34–25:36</a>; <a href=\"https://ref.ly/Zech10:3\">ZEC 10:3</a>, <a href=\"https://ref.ly/Zech11:17\">ZEC 11:17</a></p>\n<h3>Church leaders are to care for God's flock</h3>\n<p><strong><a href=\"https://ref.ly/1Pet5:2-1Pet5:3\">1PE 5:2–5:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts20:28-Acts20:29\">ACT 20:28–20:29</a></p>",
@@ -279,6 +279,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7784: shepherd",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Mikneiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mikneiah"
+},
+{
+"id": "fauna:Flock",
+"type": "fauna",
+"confidence": 0.6759,
+"match_method": "scored",
+"preferred_label": "Flock"
 }
 ]
 }

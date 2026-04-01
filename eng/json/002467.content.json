@@ -2,10 +2,10 @@
 {
 "content_id": "9010",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9010: Death",
 "media_type": "Text",
-"index_reference": "9010: death",
+"index_reference": "9010",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"9020\" data-resourcetype=\"DictionaryOfBibleThemes\">9020: death</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9030\" data-resourcetype=\"DictionaryOfBibleThemes\">9030: dead bodies</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9040\" data-resourcetype=\"DictionaryOfBibleThemes\">9040: grave, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9050\" data-resourcetype=\"DictionaryOfBibleThemes\">9050: tombs</span></li></ul>",
@@ -40,7 +40,8 @@
 "label": "9050: tombs",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

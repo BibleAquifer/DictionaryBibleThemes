@@ -2,10 +2,10 @@
 {
 "content_id": "5321",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5321: furnace",
 "media_type": "Text",
-"index_reference": "5321: furnace",
+"index_reference": "5321",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A closed fireplace made of brick or stone for domestic or industrial usage. Used figuratively, it represents God's presence, testing and judgment.</p>\n<h2>Everyday use of furnaces</h2>\n<h3>As a stove or oven</h3>\n<p><a href=\"https://ref.ly/Neh3:11\">NEH 3:11</a>, <a href=\"https://ref.ly/Neh12:38\">NEH 12:38</a>; ; <a href=\"https://ref.ly/Lam5:10\">LAM 5:10</a>; ; <a href=\"https://ref.ly/Dan3:6\">DAN 3:6</a></p>\n<h3>As a kiln</h3>\n<p><a href=\"https://ref.ly/Exod9:8\">EXO 9:8</a></p>\n<h3>For smelting metals</h3>\n<p><a href=\"https://ref.ly/Ps12:6\">PSA 12:6</a>; ; <a href=\"https://ref.ly/Prov27:21\">PRO 27:21</a></p>\n<h2>Figurative use of furnaces</h2>\n<h3>As a symbol of God's majestic presence</h3>\n<p><a href=\"https://ref.ly/Gen15:17\">GEN 15:17</a>; ; <a href=\"https://ref.ly/Isa31:9\">ISA 31:9</a></p>\n<h3>As a symbol of affliction and testing</h3>\n<p><strong><a href=\"https://ref.ly/Isa48:10\">ISA 48:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:20\">DEU 4:20</a>; <a href=\"https://ref.ly/1Kgs8:51\">1KI 8:51</a>; <a href=\"https://ref.ly/Prov17:3\">PRO 17:3</a>; <a href=\"https://ref.ly/Jer11:4\">JER 11:4</a></p>\n<h3>As a symbol of God's wrath</h3>\n<p><strong><a href=\"https://ref.ly/Matt13:42\">MAT 13:42</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen19:28\">GEN 19:28</a>; <a href=\"https://ref.ly/Ps21:9\">PSA 21:9</a>; <a href=\"https://ref.ly/Ezek22:17-Ezek22:22\">EZK 22:17–22:22</a>; <a href=\"https://ref.ly/Mal4:1\">MAL 4:1</a>; <a href=\"https://ref.ly/Matt13:50\">MAT 13:50</a>; <a href=\"https://ref.ly/Rev9:2\">REV 9:2</a></p>",
@@ -208,6 +208,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9510: hell",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Kiln",
+"type": "realia",
+"confidence": 0.7138,
+"match_method": "scored",
+"preferred_label": "Kiln"
 }
 ]
 }

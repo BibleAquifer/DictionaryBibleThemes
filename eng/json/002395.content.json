@@ -2,10 +2,10 @@
 {
 "content_id": "8768",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8768: idolatry",
 "media_type": "Text",
-"index_reference": "8768: idolatry",
+"index_reference": "8768",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The worship or adoration of anyone or anything other than the LORD God. Idolatry includes the worship of other gods, such as those of the nations surrounding Israel, images or idols and the creation itself.</p>",
@@ -32,6 +32,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8771: idolatry, objections to",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Telaim",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Telaim"
 }
 ]
 }

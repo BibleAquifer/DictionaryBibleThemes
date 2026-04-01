@@ -2,10 +2,10 @@
 {
 "content_id": "5190",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5190: thigh",
 "media_type": "Text",
-"index_reference": "5190: thigh",
+"index_reference": "5190",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The human thigh</h2>\n<h3>A symbol of strength</h3>\n<p><a href=\"https://ref.ly/Job40:17\">JOB 40:17</a>; ; <a href=\"https://ref.ly/Dan2:32\">DAN 2:32</a></p>\n<h3>Weapons strapped to the thigh</h3>\n<p><a href=\"https://ref.ly/Judg3:16\">JDG 3:16</a>, <a href=\"https://ref.ly/Judg3:21\">JDG 3:21</a></p>\n<h3>The hand is placed under the thigh when taking an oath</h3>\n<p><a href=\"https://ref.ly/Gen24:2\">GEN 24:2</a>, <a href=\"https://ref.ly/Gen24:9\">GEN 24:9</a>, <a href=\"https://ref.ly/Gen47:29\">GEN 47:29</a></p>\n<h3>The priests' undergarments covered the thigh</h3>\n<p><strong><a href=\"https://ref.ly/Exod28:42-Exod28:43\">EXO 28:42–28:43</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:26\">EXO 20:26</a>; <a href=\"https://ref.ly/Lev6:10\">LEV 6:10</a>, <a href=\"https://ref.ly/Lev16:3-Lev16:4\">LEV 16:3–16:4</a>; <a href=\"https://ref.ly/Ezek44:17-Ezek44:18\">EZK 44:17–44:18</a></p>\n<h3>The wasting of the thigh</h3>\n<p>The wasting away of the thigh is part of the judgment on an unfaithful wife:\n <a href=\"https://ref.ly/Num5:21-Num5:22\">NUM 5:21–5:22</a>, <a href=\"https://ref.ly/Num5:27\">NUM 5:27</a></p>\n<h3>The thigh as a place of identification</h3>\n<p><a href=\"https://ref.ly/Rev19:16\">REV 19:16</a></p>\n<h2>The right thighs of animals used in sacrificial offerings</h2>\n<p><a href=\"https://ref.ly/Exod29:22\">EXO 29:22</a>, <a href=\"https://ref.ly/Exod29:27\">EXO 29:27</a>; ; <a href=\"https://ref.ly/Lev7:32-Lev7:34\">LEV 7:32–7:34</a>, <a href=\"https://ref.ly/Lev8:25-Lev8:26\">LEV 8:25–8:26</a>, <a href=\"https://ref.ly/Lev9:21\">LEV 9:21</a>, <a href=\"https://ref.ly/Lev10:14-Lev10:15\">LEV 10:14–10:15</a>; ; <a href=\"https://ref.ly/Num6:20\">NUM 6:20</a>, <a href=\"https://ref.ly/Num18:18\">NUM 18:18</a></p>",
@@ -221,7 +221,8 @@
 "label": "8839: unfaithfulness",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

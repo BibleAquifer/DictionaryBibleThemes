@@ -2,10 +2,10 @@
 {
 "content_id": "6169",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6169: godlessness",
 "media_type": "Text",
-"index_reference": "6169: godlessness",
+"index_reference": "6169",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An outlook and lifestyle which does not acknowledge God. God frustrates the evil purposes of the godless and judges them. Believers are to guard against godlessness.</p>\n<h2>Godlessness is an outlook and lifestyle which does not acknowledge God</h2>\n<p><strong><a href=\"https://ref.ly/Ps14:1-Ps14:3\">PSA 14:1–14:3</a></strong> parallel <a href=\"https://ref.ly/Ps53:1-Ps53:3\">PSA 53:1–53:3</a> <em>See also</em> <a href=\"https://ref.ly/Job35:9-Job35:10\">JOB 35:9–35:10</a>; <a href=\"https://ref.ly/Ps10:4-Ps10:11\">PSA 10:4–10:11</a>, <a href=\"https://ref.ly/Ps36:1-Ps36:4\">PSA 36:1–36:4</a>; <a href=\"https://ref.ly/Prov11:9\">PRO 11:9</a>, <a href=\"https://ref.ly/Prov30:8-Prov30:9\">PRO 30:8–30:9</a></p>\n<h2>Examples of godlessness</h2>\n<p>Judah's religious leaders:\n <a href=\"https://ref.ly/Jer23:11-Jer23:12\">JER 23:11–23:12</a>, <a href=\"https://ref.ly/Jer23:15-Jer23:17\">JER 23:15–23:17</a>; \n<a href=\"https://ref.ly/Heb12:16\">HEB 12:16</a> <em>Esau</em></p>\n<h2>God frustrates the evil purposes of the godless</h2>\n<p><a href=\"https://ref.ly/Job8:11-Job8:19\">JOB 8:11–8:19</a>, <a href=\"https://ref.ly/Job34:29-Job34:30\">JOB 34:29–34:30</a>; ; <a href=\"https://ref.ly/Ps9:17-Ps9:20\">PSA 9:17–9:20</a></p>\n<h2>God judges godless people and nations</h2>\n<p><strong><a href=\"https://ref.ly/Rom1:18\">ROM 1:18</a></strong> <a href=\"https://ref.ly/Job13:15-Job13:16\">JOB 13:15–13:16</a>, <a href=\"https://ref.ly/Job15:34\">JOB 15:34</a>, <a href=\"https://ref.ly/Job20:4-Job20:5\">JOB 20:4–20:5</a>, <a href=\"https://ref.ly/Job27:8-Job27:10\">JOB 27:8–27:10</a>, <a href=\"https://ref.ly/Job36:8-Job36:13\">JOB 36:8–36:13</a>; \n<a href=\"https://ref.ly/Ps50:16-Ps50:22\">PSA 50:16–50:22</a>; ; <a href=\"https://ref.ly/Isa10:6\">ISA 10:6</a>, <a href=\"https://ref.ly/Isa33:13-Isa33:14\">ISA 33:13–33:14</a></p>\n<h2>Believers are to guard against godlessness</h2>\n<p><strong><a href=\"https://ref.ly/Jude1:3-Jude1:23\">JUD 1:3–1:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim4:7\">1TI 4:7</a>, <a href=\"https://ref.ly/1Tim6:20-1Tim6:21\">1TI 6:20–6:21</a></p>\n<h2>Jesus Christ will turn godlessness away from Israel</h2>\n<p><a href=\"https://ref.ly/Rom11:26-Rom11:27\">ROM 11:26–11:27</a></p>",
@@ -252,6 +252,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8846: ungodliness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jadon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jadon"
 }
 ]
 }

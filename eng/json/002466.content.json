@@ -2,10 +2,10 @@
 {
 "content_id": "9000",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9000: Last things",
 "media_type": "Text",
-"index_reference": "9000: last things",
+"index_reference": "9000",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"9010\" data-resourcetype=\"DictionaryOfBibleThemes\">9010: Death</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9100\" data-resourcetype=\"DictionaryOfBibleThemes\">9100: Aspects of the last things</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9200\" data-resourcetype=\"DictionaryOfBibleThemes\">9200: Judgment</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9300\" data-resourcetype=\"DictionaryOfBibleThemes\">9300: Resurrection</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9400\" data-resourcetype=\"DictionaryOfBibleThemes\">9400: Heaven</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9500\" data-resourcetype=\"DictionaryOfBibleThemes\">9500: Hell</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9600\" data-resourcetype=\"DictionaryOfBibleThemes\">9600: Hope</span></li></ul>",
@@ -60,6 +60,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9600: Hope",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:JezreelValley",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Valley of Jezreel"
 }
 ]
 }

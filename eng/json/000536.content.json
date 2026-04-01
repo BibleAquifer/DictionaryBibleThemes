@@ -2,10 +2,10 @@
 {
 "content_id": "4809",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4809: darkness",
 "media_type": "Text",
-"index_reference": "4809: darkness",
+"index_reference": "4809",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The absence of light. Often used figuratively as a symbol of sin, chaos or the absence of God.</p>",
@@ -33,7 +33,8 @@
 "label": "4812: darkness, and God's judgment",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

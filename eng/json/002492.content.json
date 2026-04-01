@@ -2,10 +2,10 @@
 {
 "content_id": "9160",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9160: new heavens and new earth",
 "media_type": "Text",
-"index_reference": "9160: new heavens and new earth",
+"index_reference": "9160",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A way of referring to the new creation that will come about at the end of time. The theme of the restoration and re-creation of the world is a central aspect of the Christian hope.</p>\n<h2>The new heavens and new earth will replace the old</h2>\n<p><strong><a href=\"https://ref.ly/Isa65:17\">ISA 65:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb12:26-Heb12:27\">HEB 12:26–12:27</a>; <a href=\"https://ref.ly/2Pet3:12-2Pet3:13\">2PE 3:12–3:13</a>; <a href=\"https://ref.ly/Rev21:1\">REV 21:1</a></p>\n<h2>The nature of the new heavens and new earth</h2>\n<h3>Their permanence</h3>\n<p><strong><a href=\"https://ref.ly/Isa66:22\">ISA 66:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb12:28\">HEB 12:28</a></p>\n<h3>The place of God's presence</h3>\n<p><strong><a href=\"https://ref.ly/Rev21:3\">REV 21:3</a></strong></p>\n<h3>The effects of the fall will be reversed</h3>\n<p><strong><a href=\"https://ref.ly/Rev21:4\">REV 21:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa65:20\">ISA 65:20</a>, <a href=\"https://ref.ly/Isa65:23\">ISA 65:23</a>, <a href=\"https://ref.ly/Isa65:25\">ISA 65:25</a></p>",
@@ -127,6 +127,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9410: heaven",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Zeboim",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zeboim"
 }
 ]
 }

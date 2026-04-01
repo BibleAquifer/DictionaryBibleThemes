@@ -2,10 +2,10 @@
 {
 "content_id": "5003",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5003: human race, and God",
 "media_type": "Text",
-"index_reference": "5003: human race, and god",
+"index_reference": "5003",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Though vastly superior to the human race, God nevertheless loves, sustains and governs it, sending his Son as a human being to redeem humanity.</p>\n<h2>God is incomparably superior to the human race</h2>\n<p><strong><a href=\"https://ref.ly/Isa40:15-Isa40:22\">ISA 40:15–40:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job25:1-Job25:6\">JOB 25:1–25:6</a>, <a href=\"https://ref.ly/Job38:1-Job38:7\">JOB 38:1–38:7</a>; <a href=\"https://ref.ly/Ps8:3-Ps8:4\">PSA 8:3–8:4</a>; <a href=\"https://ref.ly/Isa31:1-Isa31:3\">ISA 31:1–31:3</a>; <a href=\"https://ref.ly/Acts17:24-Acts17:25\">ACT 17:24–17:25</a>; <a href=\"https://ref.ly/1Cor1:20-1Cor1:25\">1CO 1:20–1:25</a></p>\n<h2>The human race is dependent upon God</h2>\n<p><strong><a href=\"https://ref.ly/Job34:14-Job34:15\">JOB 34:14–34:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job12:10\">JOB 12:10</a>; <a href=\"https://ref.ly/Ps36:5-Ps36:6\">PSA 36:5–36:6</a>; <a href=\"https://ref.ly/Acts17:24-Acts17:28\">ACT 17:24–17:28</a></p>\n<h2>The human race is valued and loved by God</h2>\n<h3>The human race is the object of God's care and compassion</h3>\n<p><strong><a href=\"https://ref.ly/Ps103:13\">PSA 103:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps10:17-Ps10:18\">PSA 10:17–10:18</a>; <a href=\"https://ref.ly/Lam3:31-Lam3:33\">LAM 3:31–3:33</a>; <a href=\"https://ref.ly/Matt6:25-Matt6:33\">MAT 6:25–6:33</a> parallel <a href=\"https://ref.ly/Luke12:22-Luke12:31\">LUK 12:22–12:31</a></p>\n<h3>God wants to bless the human race</h3>\n<p><a href=\"https://ref.ly/Gen12:1-Gen12:3\">GEN 12:1–12:3</a>; ; <a href=\"https://ref.ly/Rom10:12\">ROM 10:12</a></p>\n<h3>God wants to save the human race</h3>\n<p><strong><a href=\"https://ref.ly/John3:16-John3:17\">JHN 3:16–3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim2:1-1Tim2:4\">1TI 2:1–2:4</a>; <a href=\"https://ref.ly/2Pet3:8-2Pet3:9\">2PE 3:8–3:9</a></p>\n<h3>God highly values the human race and human life</h3>\n<p><strong><a href=\"https://ref.ly/Gen9:6\">GEN 9:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:13\">EXO 20:13</a>; <a href=\"https://ref.ly/Matt16:26\">MAT 16:26</a> parallels <a href=\"https://ref.ly/Mark8:36-Mark8:37\">MRK 8:36–8:37</a>, <a href=\"https://ref.ly/Luke9:25\">LUK 9:25</a>; <a href=\"https://ref.ly/1Pet1:18-1Pet1:19\">1PE 1:18–1:19</a></p>\n<h2>God is sovereign and watches over the human race</h2>\n<p><strong><a href=\"https://ref.ly/Ps33:10-Ps33:15\">PSA 33:10–33:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps9:7-Ps9:8\">PSA 9:7–9:8</a>; <a href=\"https://ref.ly/Prov5:21\">PRO 5:21</a>; <a href=\"https://ref.ly/Dan5:18-Dan5:21\">DAN 5:18–5:21</a></p>\n<h2>God will judge and punish the wickedness of the human race</h2>\n<p><strong><a href=\"https://ref.ly/Isa2:12-Isa2:17\">ISA 2:12–2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt13:40-Matt13:43\">MAT 13:40–13:43</a>; <a href=\"https://ref.ly/Acts17:29-Acts17:31\">ACT 17:29–17:31</a>; <a href=\"https://ref.ly/Rom2:5-Rom2:11\">ROM 2:5–2:11</a></p>\n<h2>God is to be feared and worshipped by the entire human race</h2>\n<p><strong><a href=\"https://ref.ly/Ps33:8\">PSA 33:8</a></strong>; <strong><a href=\"https://ref.ly/Rom1:20-Rom1:25\">ROM 1:20–1:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr16:28-1Chr16:31\">1CH 16:28–16:31</a>; <a href=\"https://ref.ly/Ps96:7-Ps96:10\">PSA 96:7–96:10</a></p>",
@@ -330,6 +330,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8471: respect, for human beings",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Eliehoenai.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eliehoenai"
+},
+{
+"id": "person:Eliehoenai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eliehoenai"
 }
 ]
 }

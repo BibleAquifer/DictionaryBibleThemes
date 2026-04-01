@@ -2,10 +2,10 @@
 {
 "content_id": "5182",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5182: skin",
 "media_type": "Text",
-"index_reference": "5182: skin",
+"index_reference": "5182",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The outer covering of the body. Diseased skin is often subject to pain and regarded as unclean.</p>\n<h2>Skin as the outer covering of the body</h2>\n<p><strong><a href=\"https://ref.ly/Job10:10-Job10:11\">JOB 10:10–10:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen3:21\">GEN 3:21</a>, <a href=\"https://ref.ly/Gen27:11\">GEN 27:11</a>; <a href=\"https://ref.ly/Ezek37:6\">EZK 37:6</a>, <a href=\"https://ref.ly/Ezek37:8\">EZK 37:8</a></p>\n<h2>Violence against the skin</h2>\n<p><strong><a href=\"https://ref.ly/Mic3:2-Mic3:3\">MIC 3:2–3:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job2:4-Job2:5\">JOB 2:4–2:5</a></p>\n<h2>Skin and bones</h2>\n<p><strong><a href=\"https://ref.ly/Ps102:5\">PSA 102:5</a></strong> <em>To be reduced to skin and bones is a mark of severe suffering.</em> <em>See also</em> <a href=\"https://ref.ly/Num4:8-Num4:14\">NUM 4:8–4:14</a> <em>animal skins used for covering the ark of the Testimony</em>; <a href=\"https://ref.ly/Job19:20\">JOB 19:20</a>; <a href=\"https://ref.ly/Lam3:4\">LAM 3:4</a>, <a href=\"https://ref.ly/Lam4:8\">LAM 4:8</a></p>\n<h2>Skin diseases</h2>\n<h3>Skin diseases are painful</h3>\n<p><strong><a href=\"https://ref.ly/Job30:30\">JOB 30:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job7:5\">JOB 7:5</a>, <a href=\"https://ref.ly/Job18:13\">JOB 18:13</a>; <a href=\"https://ref.ly/Lam5:10\">LAM 5:10</a></p>\n<h3>They can be defiling</h3>\n<p><strong><a href=\"https://ref.ly/Num5:2-Num5:3\">NUM 5:2–5:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev13:1-Lev13:11\">LEV 13:1–13:11</a>, <a href=\"https://ref.ly/Lev13:43-Lev13:46\">LEV 13:43–13:46</a>, <a href=\"https://ref.ly/Lev22:4\">LEV 22:4</a></p>\n<h3>As God's punishment for sin</h3>\n<p><a href=\"https://ref.ly/Num12:10-Num12:11\">NUM 12:10–12:11</a> <em>Miriam</em>; ; <a href=\"https://ref.ly/2Kgs5:26-2Kgs5:27\">2KI 5:26–5:27</a> <em>Naaman</em>; ; <a href=\"https://ref.ly/2Chr26:19-2Chr26:20\">2CH 26:19–26:20</a> <em>Uzziah</em></p>\n<h3>Healed by Jesus Christ</h3>\n<p><a href=\"https://ref.ly/Matt8:2-Matt8:3\">MAT 8:2–8:3</a> parallels <a href=\"https://ref.ly/Mark1:40-Mark1:42\">MRK 1:40–1:42</a>, <a href=\"https://ref.ly/Luke5:12-Luke5:13\">LUK 5:12–5:13</a>; ; <a href=\"https://ref.ly/Luke17:12-Luke17:14\">LUK 17:12–17:14</a></p>\n<h2>Skin cannot be changed</h2>\n<p><strong><a href=\"https://ref.ly/Jer13:23\">JER 13:23</a></strong></p>\n<h2>A person can know God even when the skin has been destroyed</h2>\n<p><strong><a href=\"https://ref.ly/Job19:26-Job19:27\">JOB 19:26–19:27</a></strong></p>",
@@ -270,6 +270,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9310: resurrection",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Eunice",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eunice"
 }
 ]
 }

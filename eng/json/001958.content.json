@@ -2,10 +2,10 @@
 {
 "content_id": "7921",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7921: fellowship",
 "media_type": "Text",
-"index_reference": "7921: fellowship",
+"index_reference": "7921",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Association based upon the sharing of something in common. Believers have fellowship with one another on the basis of their common fellowship with God, their participation in the blessings of the gospel and their common task of mission. True fellowship is demonstrated in concern for, and practical commitment to, one another.</p>",
@@ -39,6 +39,36 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7925: fellowship, among believers",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Ramoth-gilead",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramoth-gilead"
+},
+{
+"id": "place:Ramah.6",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah.8",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramah"
+},
+{
+"id": "place:Ramah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ramah"
 }
 ]
 }

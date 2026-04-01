@@ -2,10 +2,10 @@
 {
 "content_id": "8343",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8343: servanthood, in society",
 "media_type": "Text",
-"index_reference": "8343: servanthood, in society",
+"index_reference": "8343",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Servants and slaves were an important feature of everyday life in biblical times. The idea of servanthood is used both literally and metaphorically throughout Scripture.</p>\n<h2>Laws of servanthood</h2>\n<p><strong><a href=\"https://ref.ly/Exod21:2-Exod21:6\">EXO 21:2–21:6</a></strong> parallel <a href=\"https://ref.ly/Deut15:12-Deut15:18\">DEU 15:12–15:18</a> <em>The words “servant” and “slave” are the same in Hebrew, but according to OT law, an Israelite servant was to be accorded more rights than a foreign slave.</em> <em>See also</em> <a href=\"https://ref.ly/Gen17:13\">GEN 17:13</a>; <a href=\"https://ref.ly/Exod12:44\">EXO 12:44</a>, <a href=\"https://ref.ly/Exod20:10\">EXO 20:10</a> parallel <a href=\"https://ref.ly/Deut5:14\">DEU 5:14</a>; <a href=\"https://ref.ly/Lev25:39-Lev25:55\">LEV 25:39–25:55</a>; <a href=\"https://ref.ly/Deut21:10-Deut21:14\">DEU 21:10–21:14</a>, <a href=\"https://ref.ly/Deut29:10-Deut29:11\">DEU 29:10–29:11</a>; <a href=\"https://ref.ly/1Chr2:34-1Chr2:35\">1CH 2:34–2:35</a></p>\n<h2>Citizens referred to as servants of the king</h2>\n<p><strong><a href=\"https://ref.ly/1Sam17:34\">1SA 17:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam18:29\">2SA 18:29</a>; <a href=\"https://ref.ly/2Kgs5:6\">2KI 5:6</a>; <a href=\"https://ref.ly/Ezra4:11\">EZR 4:11</a>; <a href=\"https://ref.ly/Prov14:35\">PRO 14:35</a>; <a href=\"https://ref.ly/Matt18:23\">MAT 18:23</a></p>\n<h2>Kings as servants of other kings</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs16:7\">2KI 16:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam10:19\">2SA 10:19</a> parallel <a href=\"https://ref.ly/1Chr19:19\">1CH 19:19</a>; <a href=\"https://ref.ly/2Kgs17:3\">2KI 17:3</a>, <a href=\"https://ref.ly/2Kgs24:1\">2KI 24:1</a>; <a href=\"https://ref.ly/Isa60:10\">ISA 60:10</a></p>\n<h2>Servant as a self-designated title of respect</h2>\n<p><strong><a href=\"https://ref.ly/2Sam9:2\">2SA 9:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen19:2\">GEN 19:2</a>, <a href=\"https://ref.ly/Gen32:4\">GEN 32:4</a>; <a href=\"https://ref.ly/1Sam17:34\">1SA 17:34</a>; <a href=\"https://ref.ly/2Sam14:6\">2SA 14:6</a>; <a href=\"https://ref.ly/2Kgs2:15-2Kgs2:16\">2KI 2:15–2:16</a>, <a href=\"https://ref.ly/2Kgs4:1\">2KI 4:1</a>, <a href=\"https://ref.ly/2Kgs6:3\">2KI 6:3</a>; <a href=\"https://ref.ly/Dan1:12-Dan1:13\">DAN 1:12–1:13</a>, <a href=\"https://ref.ly/Dan2:4\">DAN 2:4</a></p>\n<h2>Servanthood in Proverbs</h2>\n<p><strong><a href=\"https://ref.ly/Prov14:35\">PRO 14:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov11:29\">PRO 11:29</a>, <a href=\"https://ref.ly/Prov12:9\">PRO 12:9</a>, <a href=\"https://ref.ly/Prov17:2\">PRO 17:2</a>, <a href=\"https://ref.ly/Prov29:19\">PRO 29:19</a>, <a href=\"https://ref.ly/Prov30:10\">PRO 30:10</a>, <a href=\"https://ref.ly/Prov30:21-Prov30:23\">PRO 30:21–30:23</a></p>\n<h2>Servanthood in the NT</h2>\n<p><strong><a href=\"https://ref.ly/Matt23:8-Matt23:12\">MAT 23:8–23:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt6:24\">MAT 6:24</a>; <a href=\"https://ref.ly/Luke17:7-Luke17:10\">LUK 17:7–17:10</a>; <a href=\"https://ref.ly/John15:20\">JHN 15:20</a>; <a href=\"https://ref.ly/Rom12:3-Rom12:8\">ROM 12:3–12:8</a></p>",
@@ -306,6 +306,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7446: slavery",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shelumiel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shelumiel"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "7350",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7350: drink offering",
 "media_type": "Text",
-"index_reference": "7350: drink offering",
+"index_reference": "7350",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A sacrificial offering of wine poured out at the foot of the altar, to accompany a burnt, fellowship or grain offering.</p>\n<h2>The drink offering was an ancient custom</h2>\n<p><strong><a href=\"https://ref.ly/Gen35:14\">GEN 35:14</a></strong></p>\n<h2>Drink offerings were proportionate to the size of animal sacrificed</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Num15:5\">NUM 15:5</a>, <a href=\"https://ref.ly/Num15:7\">NUM 15:7</a>, <a href=\"https://ref.ly/Num15:10\">NUM 15:10</a></p>\n<h2>Drink offerings were required on feasts and sacred days</h2>\n<p>As part of the daily offerings:\n <a href=\"https://ref.ly/Exod29:41\">EXO 29:41</a>; ; <a href=\"https://ref.ly/Num28:7-Num28:8\">NUM 28:7–28:8</a>; \n<a href=\"https://ref.ly/Lev23:13\">LEV 23:13</a> <em>Firstfruits</em>; <a href=\"https://ref.ly/Lev23:18\">LEV 23:18</a>; ; <a href=\"https://ref.ly/Num28:31\">NUM 28:31</a>; <a href=\"https://ref.ly/Lev23:37\">LEV 23:37</a>; ; <a href=\"https://ref.ly/Num29:30-Num29:31\">NUM 29:30–29:31</a>; \n<a href=\"https://ref.ly/Num28:24\">NUM 28:24</a> <em>Passover</em>; ; <a href=\"https://ref.ly/Num28:9-Num28:10\">NUM 28:9–28:10</a> <em>Sabbath offerings</em>; ; <a href=\"https://ref.ly/Num28:14\">NUM 28:14</a> <em>monthly offerings</em>; ; <a href=\"https://ref.ly/Num29:6\">NUM 29:6</a> <em>Feast of Trumpets</em>; ; <a href=\"https://ref.ly/Num29:11\">NUM 29:11</a> <em>Day of Atonement</em></p>\n<h2>Occasions for making a drink offering</h2>\n<h3>To accompany sacrifices for unintentional sins</h3>\n<p><a href=\"https://ref.ly/Num15:24\">NUM 15:24</a></p>\n<h3>To mark special occasions</h3>\n<p><a href=\"https://ref.ly/Num6:17\">NUM 6:17</a> <em>after taking a Nazirite vow</em>; ; <a href=\"https://ref.ly/1Chr29:21\">1CH 29:21</a> <em>at the accession of a king</em>; ; <a href=\"https://ref.ly/2Chr29:35\">2CH 29:35</a> <em>during a religious reformation</em>; ; <a href=\"https://ref.ly/Ezek45:17\">EZK 45:17</a> <em>in Ezekiel's vision of restored worship</em></p>\n<h2>God's displeasure when drink offerings were poured out to idols</h2>\n<p><strong><a href=\"https://ref.ly/Jer7:18\">JER 7:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa57:6\">ISA 57:6</a>; <a href=\"https://ref.ly/Jer19:13\">JER 19:13</a>, <a href=\"https://ref.ly/Jer32:29\">JER 32:29</a>, <a href=\"https://ref.ly/Jer44:17-Jer44:19\">JER 44:17–44:19</a>, <a href=\"https://ref.ly/Jer44:25\">JER 44:25</a>; <a href=\"https://ref.ly/Ezek20:28\">EZK 20:28</a></p>\n<h2>Drink offerings as a symbol</h2>\n<h3>Of restoration after a locust plague</h3>\n<p><a href=\"https://ref.ly/Joel2:13-Joel2:14\">JOL 2:13–2:14</a></p>\n<h3>Of devotion and sacrifice</h3>\n<p><strong><a href=\"https://ref.ly/Phil2:17\">PHP 2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam23:15-2Sam23:17\">2SA 23:15–23:17</a>; <a href=\"https://ref.ly/2Tim4:6-2Tim4:8\">2TI 4:6–4:8</a></p>",
@@ -239,6 +239,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7368: grain offering",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Wine",
+"type": "realia",
+"confidence": 0.7063,
+"match_method": "scored",
+"preferred_label": "Wine"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.5988,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }

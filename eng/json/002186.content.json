@@ -2,16 +2,17 @@
 {
 "content_id": "8363",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8363: wisdom, of Jesus Christ",
 "media_type": "Text",
-"index_reference": "8363: wisdom, of jesus christ",
+"index_reference": "8363",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"2081.md\">2081: Jesus Christ, wisdom of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

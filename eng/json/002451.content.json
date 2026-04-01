@@ -2,10 +2,10 @@
 {
 "content_id": "8833",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8833: threats",
 "media_type": "Text",
-"index_reference": "8833: threats",
+"index_reference": "8833",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Intimidating announcements of action to be taken unless conditions are met. God uses threats against tyrannical and disobedient earthly rulers as a means of restoring them to obedience and humility in his sight. God's people are not to threaten others and though the wicked will sometimes seek to intimidate them, they are to rely on God's protection.</p>\n<h2>God threatened Pharaoh</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Exod8:1-Exod8:4\">EXO 8:1–8:4</a>, <a href=\"https://ref.ly/Exod8:21\">EXO 8:21</a>, <a href=\"https://ref.ly/Exod9:2-Exod9:3\">EXO 9:2–9:3</a>, <a href=\"https://ref.ly/Exod9:13-Exod9:14\">EXO 9:13–9:14</a>, <a href=\"https://ref.ly/Exod10:3-Exod10:6\">EXO 10:3–10:6</a></p>\n<h2>God threatened his own people</h2>\n<h3>In general</h3>\n<p><strong><a href=\"https://ref.ly/Josh23:15-Josh23:16\">JOS 23:15–23:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev26:14-Lev26:20\">LEV 26:14–26:20</a>; <a href=\"https://ref.ly/Deut11:26-Deut11:28\">DEU 11:26–11:28</a>, <a href=\"https://ref.ly/Deut28:15-Deut28:20\">DEU 28:15–28:20</a>; <a href=\"https://ref.ly/1Sam12:15\">1SA 12:15</a>, <a href=\"https://ref.ly/1Sam12:25\">1SA 12:25</a>; <a href=\"https://ref.ly/1Kgs9:6-1Kgs9:7\">1KI 9:6–9:7</a></p>\n<h3>Regarding the Babylonian captivity</h3>\n<p><strong><a href=\"https://ref.ly/Ezek6:9-Ezek6:10\">EZK 6:9–6:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer6:8\">JER 6:8</a>, <a href=\"https://ref.ly/Jer22:5-Jer22:7\">JER 22:5–22:7</a>, <a href=\"https://ref.ly/Jer44:28-Jer44:29\">JER 44:28–44:29</a></p>\n<h2>Threats made by God may be averted</h2>\n<h3>Through a faithful intercessor</h3>\n<p><strong><a href=\"https://ref.ly/Exod32:11-Exod32:14\">EXO 32:11–32:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh1:8-Neh1:9\">NEH 1:8–1:9</a></p>\n<h3>Through turning from evil</h3>\n<p><strong><a href=\"https://ref.ly/Jonah3:10\">JON 3:10</a></strong></p>\n<h2>The result of threats inflicted by God may be alleviated</h2>\n<h3>Through returning to the LORD</h3>\n<p><strong><a href=\"https://ref.ly/Deut30:1-Deut30:3\">DEU 30:1–30:3</a></strong></p>\n<h3>Through submission to God's will</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Jer27:6-Jer27:13\">JER 27:6–27:13</a></p>\n<h2>God's people may be threatened by others</h2>\n<p><strong><a href=\"https://ref.ly/Acts9:1\">ACT 9:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs18:17-2Kgs18:35\">2KI 18:17–18:35</a> parallel <a href=\"https://ref.ly/Isa36:1-Isa36:20\">ISA 36:1–36:20</a>; <a href=\"https://ref.ly/Neh4:7-Neh4:8\">NEH 4:7–4:8</a>; <a href=\"https://ref.ly/Ps55:9-Ps55:11\">PSA 55:9–55:11</a>, <a href=\"https://ref.ly/Ps73:8\">PSA 73:8</a></p>\n<h2>God's people, when threatened, are to rely on him</h2>\n<p><strong><a href=\"https://ref.ly/Ps64:1-Ps64:10\">PSA 64:1–64:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs19:6-2Kgs19:7\">2KI 19:6–19:7</a> parallel <a href=\"https://ref.ly/Isa37:6-Isa37:7\">ISA 37:6–37:7</a>; <a href=\"https://ref.ly/Neh6:11-Neh6:14\">NEH 6:11–6:14</a>; <a href=\"https://ref.ly/Isa30:17-Isa30:18\">ISA 30:17–30:18</a>; <a href=\"https://ref.ly/Acts4:17-Acts4:21\">ACT 4:17–4:21</a>, <a href=\"https://ref.ly/Acts4:29-Acts4:30\">ACT 4:29–4:30</a></p>\n<h2>God's people are not to threaten others</h2>\n<p><strong><a href=\"https://ref.ly/Eph6:9\">EPH 6:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Pet2:20-1Pet2:23\">1PE 2:20–2:23</a></p>\n<h2>The rich are more likely to be threatened than the poor</h2>\n<p><a href=\"https://ref.ly/Prov13:8\">PRO 13:8</a></p>",
@@ -318,6 +318,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Tiberius",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiberius"
 }
 ]
 }

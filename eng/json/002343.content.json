@@ -2,10 +2,10 @@
 {
 "content_id": "8709",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8709: astrology",
 "media_type": "Text",
-"index_reference": "8709: astrology",
+"index_reference": "8709",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The study of the stars and planets, based on the pagan assumption that they exercise a decisive influence over human destinies. Scripture rejects such beliefs, insisting upon the total sovereignty of God over his entire creation.</p>\n<h2>Astrology is to be rejected</h2>\n<h3>The worship of heavenly bodies is forbidden</h3>\n<p><strong><a href=\"https://ref.ly/Deut4:19\">DEU 4:19</a></strong>; <strong><a href=\"https://ref.ly/2Kgs17:16\">2KI 17:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs21:3-2Kgs21:5\">2KI 21:3–21:5</a> parallel <a href=\"https://ref.ly/2Chr33:3-2Chr33:5\">2CH 33:3–33:5</a>; <a href=\"https://ref.ly/2Kgs23:4\">2KI 23:4</a>, <a href=\"https://ref.ly/2Kgs23:11\">2KI 23:11</a>; <a href=\"https://ref.ly/Job31:26-Job31:28\">JOB 31:26–31:28</a>; <a href=\"https://ref.ly/Ezek8:16-Ezek8:18\">EZK 8:16–8:18</a>; <a href=\"https://ref.ly/Zeph1:5\">ZEP 1:5</a></p>\n<h3>The consultation of stars is condemned</h3>\n<p><strong><a href=\"https://ref.ly/Isa47:13\">ISA 47:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer8:2\">JER 8:2</a></p>\n<h2>Astrology at the time of Daniel</h2>\n<p><a href=\"https://ref.ly/Dan2:1-Dan2:13\">DAN 2:1–2:13</a>, <a href=\"https://ref.ly/Dan4:1-Dan4:7\">DAN 4:1–4:7</a>, <a href=\"https://ref.ly/Dan5:1-Dan5:8\">DAN 5:1–5:8</a></p>\n<h2>Astrologers came to worship the newborn Jesus</h2>\n<p><a href=\"https://ref.ly/Matt2:1-Matt2:10\">MAT 2:1–2:10</a></p>",
@@ -166,7 +166,8 @@
 "label": "8752: false worship",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5890",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5890: insecurity",
 "media_type": "Text",
-"index_reference": "5890: insecurity",
+"index_reference": "5890",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Lack of security, often in relation to one's future or to one's present position. All human life is insecure, but the future of sinners is particularly dangerous and real security is found only in God.</p>\n<h2>The insecurity of human life</h2>\n<p><strong><a href=\"https://ref.ly/Isa40:6-Isa40:8\">ISA 40:6–40:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job1:13-Job1:21\">JOB 1:13–1:21</a>; <a href=\"https://ref.ly/Ps90:10\">PSA 90:10</a>, <a href=\"https://ref.ly/Ps146:3-Ps146:6\">PSA 146:3–146:6</a>; <a href=\"https://ref.ly/Eccl9:1\">ECC 9:1</a>, <a href=\"https://ref.ly/Eccl9:12\">ECC 9:12</a>, <a href=\"https://ref.ly/Eccl10:8-Eccl10:9\">ECC 10:8–10:9</a>; <a href=\"https://ref.ly/Jer51:58\">JER 51:58</a>; <a href=\"https://ref.ly/1Thess5:1-1Thess5:3\">1TH 5:1–5:3</a></p>\n<h2>The insecurity of the sinner's life</h2>\n<p><strong><a href=\"https://ref.ly/Ps37:1-Ps37:2\">PSA 37:1–37:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps37:9-Ps37:11\">PSA 37:9–37:11</a>; <a href=\"https://ref.ly/Prov6:12-Prov6:15\">PRO 6:12–6:15</a>, <a href=\"https://ref.ly/Prov11:5\">PRO 11:5</a>, <a href=\"https://ref.ly/Prov24:19-Prov24:22\">PRO 24:19–24:22</a>, <a href=\"https://ref.ly/Prov29:1\">PRO 29:1</a>; <a href=\"https://ref.ly/Isa30:12-Isa30:14\">ISA 30:12–30:14</a>, <a href=\"https://ref.ly/Isa47:8-Isa47:11\">ISA 47:8–47:11</a>; <a href=\"https://ref.ly/Jer6:13-Jer6:15\">JER 6:13–6:15</a>, <a href=\"https://ref.ly/Jer15:5-Jer15:9\">JER 15:5–15:9</a>, <a href=\"https://ref.ly/Jer49:16-Jer49:18\">JER 49:16–49:18</a>; <a href=\"https://ref.ly/Amos8:14\">AMO 8:14</a></p>\n<h2>The insecurity of the rich</h2>\n<p><strong><a href=\"https://ref.ly/1Tim6:17\">1TI 6:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov27:24\">PRO 27:24</a>; <a href=\"https://ref.ly/Luke12:15-Luke12:21\">LUK 12:15–12:21</a>; <a href=\"https://ref.ly/1Tim6:7-1Tim6:10\">1TI 6:7–6:10</a></p>\n<h2>Examples of behaviour motivated by insecurity</h2>\n<h3>Saul's vendetta against David</h3>\n<p><strong><a href=\"https://ref.ly/1Sam18:6-1Sam18:12\">1SA 18:6–18:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam18:17-1Sam18:29\">1SA 18:17–18:29</a>, <a href=\"https://ref.ly/1Sam19:1\">1SA 19:1</a>, <a href=\"https://ref.ly/1Sam19:9-1Sam19:17\">1SA 19:9–19:17</a>, <a href=\"https://ref.ly/1Sam20:30-1Sam20:31\">1SA 20:30–20:31</a></p>\n<h3>Assassination of political rivals</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs11:1\">2KI 11:1</a></strong> parallel <a href=\"https://ref.ly/2Chr22:10\">2CH 22:10</a> <em>See also</em> <a href=\"https://ref.ly/Judg9:1-Judg9:6\">JDG 9:1–9:6</a></p>\n<h2>True security is to be found in God alone</h2>\n<p><strong><a href=\"https://ref.ly/Prov14:26\">PRO 14:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut33:12\">DEU 33:12</a>; <a href=\"https://ref.ly/1Kgs2:45\">1KI 2:45</a>; <a href=\"https://ref.ly/Ps16:5\">PSA 16:5</a>, <a href=\"https://ref.ly/Ps48:8\">PSA 48:8</a>; <a href=\"https://ref.ly/Prov3:5-Prov3:6\">PRO 3:5–3:6</a></p>",
@@ -317,7 +317,8 @@
 "label": "8808: riches",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5771",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5771: abstinence",
 "media_type": "Text",
-"index_reference": "5771: abstinence",
+"index_reference": "5771",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The deliberate decision to do without something, especially as a form of spiritual discipline expressing commitment or repentance.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5773: abstinence, as a discipline",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Helbah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Helbah"
 }
 ]
 }

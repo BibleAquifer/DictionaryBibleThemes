@@ -2,16 +2,17 @@
 {
 "content_id": "7023",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7023: church, and Holy Spirit",
 "media_type": "Text",
-"index_reference": "7023: church, and holy spirit",
+"index_reference": "7023",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"3275.md\">3275: Holy Spirit, in the church</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "7322",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7322: burnt offering",
 "media_type": "Text",
-"index_reference": "7322: burnt offering",
+"index_reference": "7322",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Probably the earliest and most basic form of sacrifice. It is seen fundamentally as a gift to God, either in thanksgiving for his goodness or for atonement for sin.</p>\n<h2>Hebrew names for the burnt offering</h2>\n<p><strong><a href=\"https://ref.ly/Deut33:10\">DEU 33:10</a></strong> <em>The rarer Hebrew expression means something whole or complete</em>; <strong><a href=\"https://ref.ly/Ps66:13\">PSA 66:13</a></strong> <em>The commoner expression in Hebrew means that which “goes up” to God.</em> <em>See also</em> <a href=\"https://ref.ly/1Sam7:9\">1SA 7:9</a>; <a href=\"https://ref.ly/Ps51:19\">PSA 51:19</a></p>\n<h2>Early examples of burnt offerings</h2>\n<p><strong><a href=\"https://ref.ly/Gen8:20\">GEN 8:20</a></strong> <a href=\"https://ref.ly/Gen22:2-Gen22:8\">GEN 22:2–22:8</a>, <a href=\"https://ref.ly/Gen22:13\">GEN 22:13</a>; ; <a href=\"https://ref.ly/Exod10:25\">EXO 10:25</a>, <a href=\"https://ref.ly/Exod18:12\">EXO 18:12</a>, <a href=\"https://ref.ly/Exod20:24\">EXO 20:24</a>, <a href=\"https://ref.ly/Exod24:5\">EXO 24:5</a>; ; <a href=\"https://ref.ly/Job1:5\">JOB 1:5</a></p>\n<h2>Regulations concerning the burnt offering</h2>\n<h3>How the offering is to be made</h3>\n<p><a href=\"https://ref.ly/Lev1:1-Lev1:17\">LEV 1:1–1:17</a>, <a href=\"https://ref.ly/Lev6:8-Lev6:13\">LEV 6:8–6:13</a>, <a href=\"https://ref.ly/Lev7:8\">LEV 7:8</a> <em>the entitlement of the priest</em>; ; <a href=\"https://ref.ly/Mal1:8\">MAL 1:8</a></p>\n<h3>Occasions for making the offering</h3>\n<p><strong><a href=\"https://ref.ly/Num28:9-Num28:10\">NUM 28:9–28:10</a></strong> <em>It was an additional offering on the Sabbath.</em> <a href=\"https://ref.ly/Exod29:38-Exod29:42\">EXO 29:38–29:42</a>; ; <a href=\"https://ref.ly/Ezra3:3\">EZR 3:3</a>; \n<a href=\"https://ref.ly/Lev8:18-Lev8:21\">LEV 8:18–8:21</a> <em>at the ordination of priests</em>; <a href=\"https://ref.ly/Lev16:3\">LEV 16:3</a>, <a href=\"https://ref.ly/Lev16:24\">LEV 16:24</a>; \n<a href=\"https://ref.ly/Num28:11-Num28:14\">NUM 28:11–28:14</a> <em>on the first of the month, the new moon</em>; <a href=\"https://ref.ly/Num28:19\">NUM 28:19</a>, <a href=\"https://ref.ly/Num28:23\">NUM 28:23</a>; <a href=\"https://ref.ly/Lev23:12\">LEV 23:12</a>, <a href=\"https://ref.ly/Lev23:18\">LEV 23:18</a>; ; <a href=\"https://ref.ly/Num28:27\">NUM 28:27</a>; <a href=\"https://ref.ly/Num29:2\">NUM 29:2</a>, <a href=\"https://ref.ly/Num29:6\">NUM 29:6</a>; <a href=\"https://ref.ly/Num29:13\">NUM 29:13</a>; \n<a href=\"https://ref.ly/Luke2:24\">LUK 2:24</a> <em>for purification after childbirth</em></p>\n<h2>Burnt offerings in idolatrous worship</h2>\n<p><a href=\"https://ref.ly/Exod32:6\">EXO 32:6</a>; ; <a href=\"https://ref.ly/2Kgs10:25\">2KI 10:25</a></p>\n<h2>Warnings about misplaced confidence in the burnt offering</h2>\n<p><strong><a href=\"https://ref.ly/1Sam15:22\">1SA 15:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa1:11-Isa1:15\">ISA 1:11–1:15</a>; <a href=\"https://ref.ly/Jer7:21-Jer7:22\">JER 7:21–7:22</a>; <a href=\"https://ref.ly/Hos6:6\">HOS 6:6</a>; <a href=\"https://ref.ly/Amos5:25\">AMO 5:25</a>; <a href=\"https://ref.ly/Mic6:6-Mic6:8\">MIC 6:6–6:8</a></p>\n<h2>NT references to the burnt offering</h2>\n<h3>Jesus Christ endorsed the prophets' teaching</h3>\n<p><strong><a href=\"https://ref.ly/Mark12:33-Mark12:34\">MRK 12:33–12:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt9:13\">MAT 9:13</a>, <a href=\"https://ref.ly/Matt12:7\">MAT 12:7</a></p>\n<h3>The holy life of Jesus Christ is the perfect burnt offering</h3>\n<p><strong><a href=\"https://ref.ly/Heb10:5-Heb10:10\">HEB 10:5–10:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb10:14\">HEB 10:14</a></p>",
@@ -331,6 +331,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7435: sacrifice, in OT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Neapolis.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Neapolis"
+},
+{
+"id": "place:Neapolis",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Neapolis"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.6947,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }

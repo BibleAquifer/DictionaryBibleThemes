@@ -2,10 +2,10 @@
 {
 "content_id": "4240",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4240: garden, natural",
 "media_type": "Text",
-"index_reference": "4240: garden, natural",
+"index_reference": "4240",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A place of leisure for growing flowers, fruit and vegetables.</p>\n<h2>General references to gardens</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs21:2\">1KI 21:2</a></strong>; <strong><a href=\"https://ref.ly/Eccl2:5\">ECC 2:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song4:12\">SNG 4:12</a>, <a href=\"https://ref.ly/Song5:1\">SNG 5:1</a>, <a href=\"https://ref.ly/Song6:2\">SNG 6:2</a>; <a href=\"https://ref.ly/Isa5:7\">ISA 5:7</a>; <a href=\"https://ref.ly/Jer29:5\">JER 29:5</a>; <a href=\"https://ref.ly/Lam2:6\">LAM 2:6</a>; <a href=\"https://ref.ly/Amos4:9\">AMO 4:9</a>, <a href=\"https://ref.ly/Amos9:14\">AMO 9:14</a>MAT <a href=\"https://ref.ly/Amos13:32\">13:32</a>; <a href=\"https://ref.ly/Luke11:42\">LUK 11:42</a>, <a href=\"https://ref.ly/Luke13:19\">LUK 13:19</a></p>\n<h2>Gardens require irrigation</h2>\n<p><strong><a href=\"https://ref.ly/Deut11:10\">DEU 11:10</a></strong>; <strong><a href=\"https://ref.ly/Isa1:30\">ISA 1:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num24:6\">NUM 24:6</a>; <a href=\"https://ref.ly/Job8:16\">JOB 8:16</a>; <a href=\"https://ref.ly/Isa58:11\">ISA 58:11</a>; <a href=\"https://ref.ly/Jer31:12\">JER 31:12</a></p>\n<h2>Gardens attached to palaces</h2>\n<p><strong><a href=\"https://ref.ly/Esth1:5-Esth1:6\">EST 1:5–1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs21:18\">2KI 21:18</a>, <a href=\"https://ref.ly/2Kgs21:26\">2KI 21:26</a>; <a href=\"https://ref.ly/Neh3:15\">NEH 3:15</a>; <a href=\"https://ref.ly/Esth7:7\">EST 7:7</a>; <a href=\"https://ref.ly/Jer39:4\">JER 39:4</a></p>\n<h2>Idolatrous worship in gardens</h2>\n<p><strong><a href=\"https://ref.ly/Isa65:3\">ISA 65:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa1:29\">ISA 1:29</a>, <a href=\"https://ref.ly/Isa66:17\">ISA 66:17</a></p>\n<h2>Jesus Christ betrayed in a garden</h2>\n<p><a href=\"https://ref.ly/Matt26:36\">MAT 26:36</a> parallel <a href=\"https://ref.ly/Mark14:32\">MRK 14:32</a> <em>Gethsemane was a garden.</em></p>\n<h2>Jesus Christ buried in a garden tomb</h2>\n<p><a href=\"https://ref.ly/John19:41-John19:42\">JHN 19:41–19:42</a></p>",
@@ -247,6 +247,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4538: vineyard",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Bilgah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bilgah"
+},
+{
+"id": "person:Bilgah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bilgah"
 }
 ]
 }

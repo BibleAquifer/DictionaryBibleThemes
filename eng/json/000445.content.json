@@ -2,10 +2,10 @@
 {
 "content_id": "4460",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4460: grass",
 "media_type": "Text",
-"index_reference": "4460: grass",
+"index_reference": "4460",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Green vegetation, which grows rapidly after rainfall, and serves as good food for many animals. The withering of grass in hot weather is often used in Scripture as a symbol of the frailty and brevity of human life.</p>\n<h2>Grass is food for animals</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs18:5\">1KI 18:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num22:4\">NUM 22:4</a>; <a href=\"https://ref.ly/Deut11:15\">DEU 11:15</a>; <a href=\"https://ref.ly/Job6:5\">JOB 6:5</a>, <a href=\"https://ref.ly/Job40:15\">JOB 40:15</a>; <a href=\"https://ref.ly/Ps104:14\">PSA 104:14</a>, <a href=\"https://ref.ly/Ps106:20\">PSA 106:20</a>; <a href=\"https://ref.ly/Jer14:5\">JER 14:5</a>; <a href=\"https://ref.ly/Dan4:25\">DAN 4:25</a>, <a href=\"https://ref.ly/Dan4:32-Dan4:33\">DAN 4:32–4:33</a>, <a href=\"https://ref.ly/Dan5:21\">DAN 5:21</a></p>\n<h2>Rain is essential for the growth of grass</h2>\n<p><strong><a href=\"https://ref.ly/Job38:25-Job38:27\">JOB 38:25–38:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut32:2\">DEU 32:2</a>; <a href=\"https://ref.ly/2Sam23:4\">2SA 23:4</a>; <a href=\"https://ref.ly/Ps147:8\">PSA 147:8</a>; <a href=\"https://ref.ly/Prov19:12\">PRO 19:12</a>; <a href=\"https://ref.ly/Mic5:7\">MIC 5:7</a></p>\n<h2>Grass grows quickly and abundantly</h2>\n<p><strong><a href=\"https://ref.ly/Isa44:3-Isa44:4\">ISA 44:3–44:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job5:25\">JOB 5:25</a>; <a href=\"https://ref.ly/Ps72:16\">PSA 72:16</a>, <a href=\"https://ref.ly/Ps92:7\">PSA 92:7</a>; <a href=\"https://ref.ly/Isa35:7\">ISA 35:7</a>, <a href=\"https://ref.ly/Isa66:14\">ISA 66:14</a></p>\n<h2>Grass withers, dies and burns easily</h2>\n<p><strong><a href=\"https://ref.ly/Isa15:6\">ISA 15:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps102:4\">PSA 102:4</a>, <a href=\"https://ref.ly/Ps102:11\">PSA 102:11</a>; <a href=\"https://ref.ly/Isa5:24\">ISA 5:24</a>; <a href=\"https://ref.ly/Jer12:4\">JER 12:4</a>; <a href=\"https://ref.ly/Rev8:7\">REV 8:7</a></p>\n<h2>The life cycle of grass is short</h2>\n<p><strong><a href=\"https://ref.ly/Ps129:6\">PSA 129:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa37:27\">ISA 37:27</a>; <a href=\"https://ref.ly/Matt6:28-Matt6:34\">MAT 6:28–6:34</a> parallel <a href=\"https://ref.ly/Luke12:27-Luke12:31\">LUK 12:27–12:31</a></p>\n<h2>The brevity of human life is compared to that of grass</h2>\n<p><strong><a href=\"https://ref.ly/Isa40:6-Isa40:8\">ISA 40:6–40:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs19:25-2Kgs19:26\">2KI 19:25–19:26</a>; <a href=\"https://ref.ly/Job8:11-Job8:13\">JOB 8:11–8:13</a>; <a href=\"https://ref.ly/Ps37:1-Ps37:2\">PSA 37:1–37:2</a>, <a href=\"https://ref.ly/Ps90:5\">PSA 90:5</a>, <a href=\"https://ref.ly/Ps103:13-Ps103:19\">PSA 103:13–103:19</a>; <a href=\"https://ref.ly/Isa51:12\">ISA 51:12</a>; <a href=\"https://ref.ly/1Pet1:24-1Pet1:25\">1PE 1:24–1:25</a></p>",
@@ -286,6 +286,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4528: trees",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Grass",
+"type": "flora",
+"confidence": 0.6927,
+"match_method": "scored",
+"preferred_label": "Grass"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "1457",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1457: trance",
 "media_type": "Text",
-"index_reference": "1457: trance",
+"index_reference": "1457",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An ecstatic state in which people may be aware of God communicating with them; it may cause them to lose control of their actions or to have abnormal strength.</p>\n<h2>God communicating with people through a trance</h2>\n<h3>Ezekiel</h3>\n<p><a href=\"https://ref.ly/Ezek8:1-Ezek8:3\">EZK 8:1–8:3</a></p>\n<h3>Peter</h3>\n<p><a href=\"https://ref.ly/Acts10:9-Acts10:23\">ACT 10:9–10:23</a>, <a href=\"https://ref.ly/Acts11:4-Acts11:18\">ACT 11:4–11:18</a></p>\n<h3>Paul</h3>\n<p><a href=\"https://ref.ly/Acts22:17-Acts22:21\">ACT 22:17–22:21</a></p>\n<h3>John</h3>\n<p><a href=\"https://ref.ly/Rev1:10-Rev1:13\">REV 1:10–1:13</a>, <a href=\"https://ref.ly/Rev4:2\">REV 4:2</a>, <a href=\"https://ref.ly/Rev17:3\">REV 17:3</a>, <a href=\"https://ref.ly/Rev21:10\">REV 21:10</a></p>\n<h2>Examples of the Holy Spirit's domination of individuals in a trance-like manner</h2>\n<h3>Balaam</h3>\n<p><a href=\"https://ref.ly/Num24:2-Num24:3\">NUM 24:2–24:3</a>, <a href=\"https://ref.ly/Num24:12-Num24:13\">NUM 24:12–24:13</a></p>\n<h3>King Saul and his men pursuing David</h3>\n<p><a href=\"https://ref.ly/1Sam19:19-1Sam19:24\">1SA 19:19–19:24</a></p>\n<h2>Under the influence of the Holy Spirit people may act with abnormal strength</h2>\n<h3>Samson</h3>\n<p><a href=\"https://ref.ly/Judg14:6\">JDG 14:6</a>, <a href=\"https://ref.ly/Judg14:19\">JDG 14:19</a>, <a href=\"https://ref.ly/Judg15:14\">JDG 15:14</a></p>\n<h3>Elijah</h3>\n<p><a href=\"https://ref.ly/1Kgs18:46\">1KI 18:46</a></p>",
@@ -159,7 +159,8 @@
 "label": "5841: ecstasy",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

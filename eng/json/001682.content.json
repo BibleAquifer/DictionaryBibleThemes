@@ -2,10 +2,10 @@
 {
 "content_id": "6732",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6732: repentance",
 "media_type": "Text",
-"index_reference": "6732: repentance",
+"index_reference": "6732",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A change of mind leading to a change of action. It involves a sincere turning from sin to serve God and includes sorrow for, and confession of, sin and where possible restitution. At points, Scripture refers to God changing his plans in response to events.</p>",
@@ -40,7 +40,8 @@
 "label": "6736: repentance, of God",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

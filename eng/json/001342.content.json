@@ -2,10 +2,10 @@
 {
 "content_id": "5820",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5820: criticism",
 "media_type": "Text",
-"index_reference": "5820: criticism",
+"index_reference": "5820",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The judgment or evaluation of others. The word often has negative associations, implying a harsh or disapproving estimate of people or their actions.</p>",
@@ -26,7 +26,8 @@
 "label": "5822: criticism, against believers",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

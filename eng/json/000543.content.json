@@ -2,10 +2,10 @@
 {
 "content_id": "4816",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4816: drought, physical",
 "media_type": "Text",
-"index_reference": "4816: drought, physical",
+"index_reference": "4816",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Drought arises through the absence of rain, leading to severe hardship for those who are affected by it.</p>\n<h2>Drought may be a sign of God's displeasure</h2>\n<p><strong><a href=\"https://ref.ly/Deut11:17\">DEU 11:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut28:22-Deut28:24\">DEU 28:22–28:24</a>; <a href=\"https://ref.ly/2Sam1:21\">2SA 1:21</a>; <a href=\"https://ref.ly/1Kgs17:1\">1KI 17:1</a>; <a href=\"https://ref.ly/Ps107:33-Ps107:34\">PSA 107:33–107:34</a>; <a href=\"https://ref.ly/Isa5:6\">ISA 5:6</a>, <a href=\"https://ref.ly/Isa5:13\">ISA 5:13</a>; <a href=\"https://ref.ly/Jer2:2-Jer2:3\">JER 2:2–2:3</a>, <a href=\"https://ref.ly/Jer14:1-Jer14:6\">JER 14:1–14:6</a>, <a href=\"https://ref.ly/Jer50:38\">JER 50:38</a>; <a href=\"https://ref.ly/Ezek22:23-Ezek22:24\">EZK 22:23–22:24</a>; <a href=\"https://ref.ly/Amos4:7\">AMO 4:7</a>; <a href=\"https://ref.ly/Hag1:11\">HAG 1:11</a>; <a href=\"https://ref.ly/Jas5:17\">JAS 5:17</a></p>\n<h2>The response of believers to drought</h2>\n<h3>It tests their faith</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs17:7\">1KI 17:7</a></strong>; <strong><a href=\"https://ref.ly/Hab3:17-Hab3:18\">HAB 3:17–3:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut8:15\">DEU 8:15</a>; <a href=\"https://ref.ly/Isa41:17\">ISA 41:17</a>, <a href=\"https://ref.ly/Isa48:20-Isa48:21\">ISA 48:20–48:21</a>; <a href=\"https://ref.ly/Jer2:5-Jer2:6\">JER 2:5–2:6</a>; <a href=\"https://ref.ly/Hos13:5\">HOS 13:5</a></p>\n<h3>It gives opportunity to help others</h3>\n<p><strong><a href=\"https://ref.ly/Acts11:28-Acts11:29\">ACT 11:28–11:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen41:56-Gen41:57\">GEN 41:56–41:57</a>; <a href=\"https://ref.ly/1Kgs17:9\">1KI 17:9</a>, <a href=\"https://ref.ly/1Kgs18:1-1Kgs18:4\">1KI 18:1–18:4</a></p>\n<h2>Rain is a sign of God's general favour or of his forgiveness</h2>\n<h3>His general favour</h3>\n<p><strong><a href=\"https://ref.ly/Acts14:17\">ACT 14:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:28\">GEN 27:28</a>; <a href=\"https://ref.ly/Job5:10\">JOB 5:10</a>, <a href=\"https://ref.ly/Job38:25-Job38:28\">JOB 38:25–38:28</a>; <a href=\"https://ref.ly/Ps65:9-Ps65:10\">PSA 65:9–65:10</a>, <a href=\"https://ref.ly/Ps147:8\">PSA 147:8</a>; <a href=\"https://ref.ly/Jer5:24\">JER 5:24</a>, <a href=\"https://ref.ly/Jer14:22\">JER 14:22</a>; <a href=\"https://ref.ly/Matt5:45\">MAT 5:45</a></p>\n<h3>His response to repentance</h3>\n<p><strong><a href=\"https://ref.ly/Joel2:12\">JOL 2:12</a>, <a href=\"https://ref.ly/Joel2:23\">JOL 2:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mal3:10\">MAL 3:10</a></p>\n<h3>His response to obedience</h3>\n<p><strong><a href=\"https://ref.ly/Deut11:13-Deut11:14\">DEU 11:13–11:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev26:3-Lev26:4\">LEV 26:3–26:4</a></p>\n<h3>His response to prayer</h3>\n<p><strong><a href=\"https://ref.ly/Jas5:18\">JAS 5:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs8:35-1Kgs8:36\">1KI 8:35–8:36</a>, <a href=\"https://ref.ly/1Kgs18:36-1Kgs18:46\">1KI 18:36–18:46</a>; <a href=\"https://ref.ly/Zech10:1\">ZEC 10:1</a></p>",
@@ -327,7 +327,8 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

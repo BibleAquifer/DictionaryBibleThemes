@@ -2,10 +2,10 @@
 {
 "content_id": "5532",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5532: sleep",
 "media_type": "Text",
-"index_reference": "5532: sleep",
+"index_reference": "5532",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A state of slumber or rest, reflecting tiredness and the need for refreshment. Although sleep is a natural physical process, Scripture also uses the term in a number of important spiritual senses.</p>",
@@ -32,6 +32,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5535: sleep, and death",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Grave",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Grave"
 }
 ]
 }

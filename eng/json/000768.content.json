@@ -2,10 +2,10 @@
 {
 "content_id": "5179",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5179: sandal",
 "media_type": "Text",
-"index_reference": "5179: sandal",
+"index_reference": "5179",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A form of open shoe worn in warm climates, and the only form of foot-covering to be of major importance in Scripture. Both the wearing and the removal of sandals is often seen as symbolic; to go barefoot was often a sign of shame, mourning or poverty.</p>\n<h2>Sandals were normally worn by an official, soldier or messenger</h2>\n<p><a href=\"https://ref.ly/1Kgs2:5\">1KI 2:5</a>; ; <a href=\"https://ref.ly/Eph6:15\">EPH 6:15</a></p>\n<h2>Untying and carrying sandals was the task of a servant</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:11\">MAT 3:11</a></strong> parallels <a href=\"https://ref.ly/Mark1:7\">MRK 1:7</a>, <a href=\"https://ref.ly/Luke3:16\">LUK 3:16</a>, <a href=\"https://ref.ly/John1:27\">JHN 1:27</a> <em>John considers himself unworthy even to be a slave of Jesus Christ.</em> <em>See also</em> <a href=\"https://ref.ly/Acts13:25\">ACT 13:25</a></p>\n<h2>The removal of sandals as a gesture</h2>\n<h3>As a mark of respect in the presence of God</h3>\n<p><strong><a href=\"https://ref.ly/Exod3:5\">EXO 3:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh5:15\">JOS 5:15</a>; <a href=\"https://ref.ly/Acts7:33\">ACT 7:33</a></p>\n<h3>To show rejection of any claim to property</h3>\n<p><a href=\"https://ref.ly/Deut25:9-Deut25:10\">DEU 25:9–25:10</a>; ; <a href=\"https://ref.ly/Ruth4:7-Ruth4:8\">RUT 4:7–4:8</a>; ; <a href=\"https://ref.ly/Ps60:8\">PSA 60:8</a> parallel <a href=\"https://ref.ly/Ps108:9\">PSA 108:9</a></p>\n<h3>To predict the defeat and disgrace of Egypt and Assyria</h3>\n<p><a href=\"https://ref.ly/Isa20:2-Isa20:4\">ISA 20:2–20:4</a></p>\n<h3>As a sign of mourning and repentance</h3>\n<p><a href=\"https://ref.ly/2Sam15:30\">2SA 15:30</a>; ; <a href=\"https://ref.ly/Ezek24:17\">EZK 24:17</a>, <a href=\"https://ref.ly/Ezek24:23\">EZK 24:23</a>; ; <a href=\"https://ref.ly/Mic1:8\">MIC 1:8</a></p>\n<h2>The symbolic use of sandals</h2>\n<h3>As symbols of readiness for action</h3>\n<p><strong><a href=\"https://ref.ly/Exod12:11\">EXO 12:11</a></strong></p>\n<h3>As symbols of oppression and injustice</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Amos2:6\">AMO 2:6</a>, <a href=\"https://ref.ly/Amos8:6\">AMO 8:6</a></p>\n<h3>Fine sandals as a status symbol</h3>\n<p><a href=\"https://ref.ly/Ezek16:10\">EZK 16:10</a>; ; <a href=\"https://ref.ly/Luke15:22\">LUK 15:22</a></p>\n<h2>Sandals as an example of the need for minimum possessions in God's service</h2>\n<p><a href=\"https://ref.ly/Matt10:10\">MAT 10:10</a> parallels <a href=\"https://ref.ly/Mark6:9\">MRK 6:9</a>, <a href=\"https://ref.ly/Luke10:4\">LUK 10:4</a>; ; <a href=\"https://ref.ly/Luke22:35\">LUK 22:35</a></p>",
@@ -201,6 +201,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5197: walking",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Sandal",
+"type": "realia",
+"confidence": 0.607,
+"match_method": "scored",
+"preferred_label": "Sandal"
 }
 ]
 }

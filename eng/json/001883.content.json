@@ -2,10 +2,10 @@
 {
 "content_id": "7570",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7570: sects",
 "media_type": "Text",
-"index_reference": "7570: sects",
+"index_reference": "7570",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The Pharisees described as a sect</h2>\n<p><strong><a href=\"https://ref.ly/Acts26:5\">ACT 26:5</a></strong> <em>The word “sect” in the NT does not have the same negative connotations as in modern society. The Greek word for “sect” is also translated as “party” in the NIV.</em> <em>See also</em> <a href=\"https://ref.ly/Luke5:30\">LUK 5:30</a>; <a href=\"https://ref.ly/Acts15:5\">ACT 15:5</a></p>\n<h2>The Sadducees described as a sect</h2>\n<p><strong><a href=\"https://ref.ly/Acts5:17\">ACT 5:17</a></strong></p>\n<h2>Christians described as a sect</h2>\n<p><strong><a href=\"https://ref.ly/Acts24:14\">ACT 24:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts24:5\">ACT 24:5</a>, <a href=\"https://ref.ly/Acts28:21-Acts28:22\">ACT 28:21–28:22</a></p>\n<h2>Sectarianism condemned</h2>\n<p><a href=\"https://ref.ly/1Cor3:3-1Cor3:4\">1CO 3:3–3:4</a>; ; <a href=\"https://ref.ly/2Cor12:20\">2CO 12:20</a>; ; <a href=\"https://ref.ly/Gal5:20\">GAL 5:20</a></p>",
@@ -121,6 +121,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8766: heresies",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Paper",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Paper"
 }
 ]
 }

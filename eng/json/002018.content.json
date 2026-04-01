@@ -2,16 +2,32 @@
 {
 "content_id": "8127",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8127: guidance, of Holy Spirit",
 "media_type": "Text",
-"index_reference": "8127: guidance, of holy spirit",
+"index_reference": "8127",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"3263.md\">3263: Holy Spirit, guidance of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Samuel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Samuel"
+},
+{
+"id": "person:Joel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joel"
+}
+]
 }
 }
 ]

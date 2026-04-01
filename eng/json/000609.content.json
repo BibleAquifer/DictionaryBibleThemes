@@ -2,10 +2,10 @@
 {
 "content_id": "4969",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4969: seasons",
 "media_type": "Text",
-"index_reference": "4969: seasons",
+"index_reference": "4969",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The main periods of the year which each have their own distinctive weather. In life, the varied periods of human experience.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4971: seasons, of life",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ela",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ela"
 }
 ]
 }

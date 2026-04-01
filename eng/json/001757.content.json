@@ -2,10 +2,10 @@
 {
 "content_id": "7270",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7270: Zion, as a place",
 "media_type": "Text",
-"index_reference": "7270: zion, as a place",
+"index_reference": "7270",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Originally the name of the southernmost hill on which the Canaanite fortress-city of Jebus was located. It was conquered by David around 1000 B.C. and renamed Jerusalem. Situated on the borders of Judah and Israel, it became David's capital. As the city expanded, the name Zion came to be applied to the whole city.</p>\n<h2>The name of Zion</h2>\n<p><strong><a href=\"https://ref.ly/1Chr11:4-1Chr11:5\">1CH 11:4–11:5</a></strong> parallel <a href=\"https://ref.ly/2Sam5:6-2Sam5:7\">2SA 5:6–5:7</a></p>\n<h2>The early history of Zion</h2>\n<h3>Early mention of Zion</h3>\n<p><strong><a href=\"https://ref.ly/Gen14:18\">GEN 14:18</a></strong></p>\n<h3>Early attempts to take control of Zion</h3>\n<p><strong><a href=\"https://ref.ly/Josh15:63\">JOS 15:63</a></strong> parallel <a href=\"https://ref.ly/Judg1:21\">JDG 1:21</a></p>\n<h2>Zion as the City of David</h2>\n<h3>Considered an impregnable fortress in David's time</h3>\n<p><strong><a href=\"https://ref.ly/2Sam5:6\">2SA 5:6</a></strong> parallel <a href=\"https://ref.ly/1Chr11:4-1Chr11:5\">1CH 11:4–11:5</a> <em>See also</em> <a href=\"https://ref.ly/2Sam5:8\">2SA 5:8</a></p>\n<h3>Captured by David</h3>\n<p><strong><a href=\"https://ref.ly/2Sam5:7\">2SA 5:7</a></strong> parallel <a href=\"https://ref.ly/1Chr11:4\">1CH 11:4</a></p>\n<h3>Zion, established by David as his new capital and renamed</h3>\n<p><strong><a href=\"https://ref.ly/2Sam5:9\">2SA 5:9</a></strong> parallel <a href=\"https://ref.ly/1Chr11:7\">1CH 11:7</a></p>\n<h3>Further strengthened by David</h3>\n<p><strong><a href=\"https://ref.ly/1Chr11:8\">1CH 11:8</a></strong> parallel <a href=\"https://ref.ly/2Sam5:9\">2SA 5:9</a></p>\n<h3>The location of David's palace</h3>\n<p><strong><a href=\"https://ref.ly/2Sam5:11\">2SA 5:11</a></strong> parallel <a href=\"https://ref.ly/1Chr14:1\">1CH 14:1</a></p>\n<h3>The new resting place for the ark of the covenant</h3>\n<p><strong><a href=\"https://ref.ly/1Chr15:1-1Chr16:6\">1CH 15:1–16:6</a></strong> parallel <a href=\"https://ref.ly/2Sam6:1-2Sam6:23\">2SA 6:1–6:23</a></p>\n<h2>Zion as the name of the extended city of Jerusalem</h2>\n<p><strong><a href=\"https://ref.ly/Isa33:20\">ISA 33:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs19:20-2Kgs19:21\">2KI 19:20–19:21</a> parallel <a href=\"https://ref.ly/Isa37:21-Isa37:22\">ISA 37:21–37:22</a>; <a href=\"https://ref.ly/Isa4:3\">ISA 4:3</a>; <a href=\"https://ref.ly/Lam1:4-Lam1:8\">LAM 1:4–1:8</a>; <a href=\"https://ref.ly/Joel2:32\">JOL 2:32</a>; <a href=\"https://ref.ly/Zeph3:14-Zeph3:16\">ZEP 3:14–3:16</a></p>",
@@ -200,7 +200,8 @@
 "label": "8642: celebration",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

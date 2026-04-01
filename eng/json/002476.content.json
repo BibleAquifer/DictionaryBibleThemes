@@ -2,10 +2,10 @@
 {
 "content_id": "9100",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9100: Aspects of the last things",
 "media_type": "Text",
-"index_reference": "9100: aspects of the last things",
+"index_reference": "9100",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"9105\" data-resourcetype=\"DictionaryOfBibleThemes\">9105: last things</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9110\" data-resourcetype=\"DictionaryOfBibleThemes\">9110: after-life</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9115\" data-resourcetype=\"DictionaryOfBibleThemes\">9115: antichrist, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9120\" data-resourcetype=\"DictionaryOfBibleThemes\">9120: eternity</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9125\" data-resourcetype=\"DictionaryOfBibleThemes\">9125: footstool</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9130\" data-resourcetype=\"DictionaryOfBibleThemes\">9130: future, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9135\" data-resourcetype=\"DictionaryOfBibleThemes\">9135: immortality</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9140\" data-resourcetype=\"DictionaryOfBibleThemes\">9140: last days</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9145\" data-resourcetype=\"DictionaryOfBibleThemes\">9145: Messianic age</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9150\" data-resourcetype=\"DictionaryOfBibleThemes\">9150: Messianic banquet</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9155\" data-resourcetype=\"DictionaryOfBibleThemes\">9155: millennium</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9160\" data-resourcetype=\"DictionaryOfBibleThemes\">9160: new heavens and new earth</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9165\" data-resourcetype=\"DictionaryOfBibleThemes\">9165: restoration</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9170\" data-resourcetype=\"DictionaryOfBibleThemes\">9170: signs of the times</span></li></ul>",
@@ -110,7 +110,8 @@
 "label": "9170: signs of the times",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

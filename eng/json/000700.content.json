@@ -2,10 +2,10 @@
 {
 "content_id": "5104",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5104: Moses, foreshadower of Jesus Christ",
 "media_type": "Text",
-"index_reference": "5104: moses, foreshadower of jesus christ",
+"index_reference": "5104",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Moses foreshadows Jesus Christ in his role as a law-giver, as a mediator between God and his people and as a prophet who declared the will of God. In these matters, Jesus Christ brought to perfection the work begun through Moses.</p>\n<h2>Parallels between the infancies of Moses and Jesus Christ</h2>\n<h3>Their births</h3>\n<p><strong><a href=\"https://ref.ly/Acts7:20\">ACT 7:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke2:11\">LUK 2:11</a></p>\n<h3>Moses' mother hid him to escape the slaughter decreed by Pharaoh</h3>\n<p><a href=\"https://ref.ly/Exod1:22\">EXO 1:22</a>, <a href=\"https://ref.ly/Exod2:2\">EXO 2:2</a></p>\n<h3>Herod's attempt to slaughter Jesus Christ</h3>\n<p><a href=\"https://ref.ly/Matt2:12\">MAT 2:12</a>, <a href=\"https://ref.ly/Matt2:16\">MAT 2:16</a></p>\n<h3>Moses, the Israelite exile in Egypt and Midian</h3>\n<p><a href=\"https://ref.ly/Exod2:11\">EXO 2:11</a>, <a href=\"https://ref.ly/Exod2:15\">EXO 2:15</a>, <a href=\"https://ref.ly/Exod2:22\">EXO 2:22</a>; ; <a href=\"https://ref.ly/Deut34:4\">DEU 34:4</a></p>\n<h3>Joseph takes Jesus Christ to Egypt for safety</h3>\n<p><a href=\"https://ref.ly/Matt2:13\">MAT 2:13</a>, <a href=\"https://ref.ly/Matt8:20\">MAT 8:20</a> <em>Moses, like Jesus Christ, had no settled home in his own country.</em></p>\n<h2>Supernatural signs confirmed the callings both of Moses and Jesus Christ</h2>\n<p><a href=\"https://ref.ly/Exod4:5-Exod4:9\">EXO 4:5–4:9</a>; ; <a href=\"https://ref.ly/Matt3:17\">MAT 3:17</a></p>\n<h2>Parallels between Moses and Jesus Christ</h2>\n<h3>As mediators of covenants</h3>\n<p><strong><a href=\"https://ref.ly/Heb9:15\">HEB 9:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod19:3-Exod19:9\">EXO 19:3–19:9</a>; <a href=\"https://ref.ly/John1:17\">JHN 1:17</a>; <a href=\"https://ref.ly/Heb8:6-Heb8:7\">HEB 8:6–8:7</a></p>\n<h3>As those intimate with God</h3>\n<p><strong><a href=\"https://ref.ly/Exod33:11\">EXO 33:11</a></strong>; <strong><a href=\"https://ref.ly/John5:20\">JHN 5:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut34:10\">DEU 34:10</a>; <a href=\"https://ref.ly/Matt17:3-Matt17:5\">MAT 17:3–17:5</a>; <a href=\"https://ref.ly/John14:9-John14:11\">JHN 14:9–14:11</a></p>\n<h3>As prophets</h3>\n<p><strong><a href=\"https://ref.ly/Deut34:10\">DEU 34:10</a></strong>; <strong><a href=\"https://ref.ly/Acts3:22\">ACT 3:22</a></strong>; <strong><a href=\"https://ref.ly/John6:14\">JHN 6:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut18:15-Deut18:18\">DEU 18:15–18:18</a>; <a href=\"https://ref.ly/Luke24:19\">LUK 24:19</a>; <a href=\"https://ref.ly/John4:19\">JHN 4:19</a>; <a href=\"https://ref.ly/Acts7:37\">ACT 7:37</a></p>\n<h3>As priests</h3>\n<p><strong><a href=\"https://ref.ly/Heb9:11-Heb9:12\">HEB 9:11–9:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb10:11-Heb10:12\">HEB 10:11–10:12</a></p>\n<h3>As those who reveal the glory of God</h3>\n<p><strong><a href=\"https://ref.ly/Exod34:33-Exod34:35\">EXO 34:33–34:35</a></strong>; <strong><a href=\"https://ref.ly/2Cor3:18\">2CO 3:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/John1:17\">JHN 1:17</a></p>\n<h3>Moses as servant; Jesus Christ as Son</h3>\n<p><strong><a href=\"https://ref.ly/Heb3:1-Heb3:6\">HEB 3:1–3:6</a></strong></p>",
@@ -258,6 +258,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6684: mediator",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Ephes-dammim",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephes-dammim"
 }
 ]
 }

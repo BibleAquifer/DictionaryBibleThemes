@@ -2,10 +2,10 @@
 {
 "content_id": "5657",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5657: birthright",
 "media_type": "Text",
-"index_reference": "5657: birthright",
+"index_reference": "5657",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The right of the firstborn son in ancient Israel to inherit his father's estate. Where the property was divided, the firstborn received a double share.</p>\n<h2>Birthright was recognised amongst the patriarchs</h2>\n<p><strong><a href=\"https://ref.ly/Gen25:5-Gen25:6\">GEN 25:5–25:6</a>, <a href=\"https://ref.ly/Gen25:34\">GEN 25:34</a></strong></p>\n<h2>Birthright and the law</h2>\n<h3>It was guaranteed under the law</h3>\n<p><strong><a href=\"https://ref.ly/Deut21:15-Deut21:17\">DEU 21:15–21:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr26:10\">1CH 26:10</a> <em>some ignored this law</em></p>\n<h3>Daughters and others could inherit if there were no sons</h3>\n<p><a href=\"https://ref.ly/Num27:1-Num27:11\">NUM 27:1–27:11</a></p>\n<h3>Only sons of a lawful marriage qualified</h3>\n<p><a href=\"https://ref.ly/Gen21:8-Gen21:13\">GEN 21:8–21:13</a>; ; <a href=\"https://ref.ly/Judg11:1-Judg11:2\">JDG 11:1–11:2</a></p>\n<h2>Birthright and kingship</h2>\n<h3>Succession was normally to the firstborn</h3>\n<p><strong><a href=\"https://ref.ly/2Chr21:1-2Chr21:3\">2CH 21:1–21:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr11:18-2Chr11:22\">2CH 11:18–11:22</a> <em>favouritism could intrude here also</em></p>\n<h2>Transfer of the birthright</h2>\n<h3>Through misconduct</h3>\n<p><strong><a href=\"https://ref.ly/1Chr5:1\">1CH 5:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:3-Gen49:4\">GEN 49:3–49:4</a></p>\n<h3>By transaction</h3>\n<p><strong><a href=\"https://ref.ly/Gen25:29-Gen25:34\">GEN 25:29–25:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb12:16-Heb12:17\">HEB 12:16–12:17</a></p>\n<h2>The Christian birthright</h2>\n<p><strong><a href=\"https://ref.ly/Rom8:17\">ROM 8:17</a></strong> <em>Jesus Christ is the firstborn over all creation; by the grace of God Christians share in his inheritance.</em> <em>See also</em> <a href=\"https://ref.ly/Gal4:7\">GAL 4:7</a>; <a href=\"https://ref.ly/Col1:15\">COL 1:15</a>; <a href=\"https://ref.ly/Heb1:2\">HEB 1:2</a></p>",
@@ -191,6 +191,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9413: heaven, inheritance of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Haradah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haradah"
 }
 ]
 }

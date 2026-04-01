@@ -2,10 +2,10 @@
 {
 "content_id": "8301",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8301: love, and enemies",
 "media_type": "Text",
-"index_reference": "8301: love, and enemies",
+"index_reference": "8301",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God loves even those who oppose him and believers must follow his example in loving their enemies.</p>\n<h2>God's love for sinners</h2>\n<p><strong><a href=\"https://ref.ly/Isa53:6\">ISA 53:6</a></strong>; <strong><a href=\"https://ref.ly/John3:16\">JHN 3:16</a></strong>; <strong><a href=\"https://ref.ly/2Pet3:9\">2PE 3:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:32\">GEN 18:32</a>; <a href=\"https://ref.ly/Lam3:33\">LAM 3:33</a>; <a href=\"https://ref.ly/Ezek18:23\">EZK 18:23</a>; <a href=\"https://ref.ly/Matt5:45\">MAT 5:45</a>; <a href=\"https://ref.ly/Rom5:8\">ROM 5:8</a>, <a href=\"https://ref.ly/Rom8:32\">ROM 8:32</a>; <a href=\"https://ref.ly/2Cor5:19\">2CO 5:19</a>; <a href=\"https://ref.ly/1John4:9-1John4:10\">1JN 4:9–4:10</a></p>\n<h2>The example of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt23:37\">MAT 23:37</a></strong> parallel <a href=\"https://ref.ly/Luke13:34\">LUK 13:34</a><strong><a href=\"https://ref.ly/1Pet3:18\">1PE 3:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa53:5\">ISA 53:5</a>; <a href=\"https://ref.ly/Matt20:28\">MAT 20:28</a> parallel <a href=\"https://ref.ly/Mark10:45\">MRK 10:45</a>; <a href=\"https://ref.ly/Luke23:34\">LUK 23:34</a>; <a href=\"https://ref.ly/Rom5:6\">ROM 5:6</a>; <a href=\"https://ref.ly/2Cor5:14\">2CO 5:14</a>, <a href=\"https://ref.ly/2Cor8:9\">2CO 8:9</a>; <a href=\"https://ref.ly/Heb13:12\">HEB 13:12</a>; <a href=\"https://ref.ly/1Pet2:21\">1PE 2:21</a>, <a href=\"https://ref.ly/1Pet2:24\">1PE 2:24</a>; <a href=\"https://ref.ly/1John2:2\">1JN 2:2</a></p>\n<h2>God's people must love their enemies</h2>\n<p><strong><a href=\"https://ref.ly/Lev19:18\">LEV 19:18</a></strong>; <strong><a href=\"https://ref.ly/Luke6:35-Luke6:36\">LUK 6:35–6:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:4\">EXO 23:4</a>; <a href=\"https://ref.ly/Prov24:17\">PRO 24:17</a>, <a href=\"https://ref.ly/Prov25:21\">PRO 25:21</a>; <a href=\"https://ref.ly/Matt5:44\">MAT 5:44</a>; <a href=\"https://ref.ly/Luke6:27\">LUK 6:27</a>; <a href=\"https://ref.ly/Col3:13\">COL 3:13</a>; <a href=\"https://ref.ly/1Thess5:15\">1TH 5:15</a>; <a href=\"https://ref.ly/2Tim2:25\">2TI 2:25</a>; <a href=\"https://ref.ly/1Pet3:9\">1PE 3:9</a></p>\n<h2>Examples of love for enemies</h2>\n<p><a href=\"https://ref.ly/Gen50:20-Gen50:21\">GEN 50:20–50:21</a> <em>Joseph</em>; ; <a href=\"https://ref.ly/Num12:13\">NUM 12:13</a>; ; <a href=\"https://ref.ly/1Sam24:17\">1SA 24:17</a>, <a href=\"https://ref.ly/1Sam26:21\">1SA 26:21</a>; ; <a href=\"https://ref.ly/2Sam19:23\">2SA 19:23</a>; ; <a href=\"https://ref.ly/2Kgs6:22\">2KI 6:22</a> <em>the king of Israel</em>; ; <a href=\"https://ref.ly/Acts7:60\">ACT 7:60</a> <em>Stephen</em>; ; <a href=\"https://ref.ly/Acts9:17\">ACT 9:17</a> <em>Ananias</em>; ; <a href=\"https://ref.ly/1Cor4:12\">1CO 4:12</a></p>",
@@ -310,6 +310,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8727: enemies",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shaul.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shaul"
+},
+{
+"id": "person:Shaul.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shaul"
+},
+{
+"id": "person:Shaul",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shaul"
 }
 ]
 }

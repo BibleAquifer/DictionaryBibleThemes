@@ -2,10 +2,10 @@
 {
 "content_id": "5091",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5091: Deborah",
 "media_type": "Text",
-"index_reference": "5091: deborah",
+"index_reference": "5091",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An outstanding leader in Israel when the nation faced a crisis of resurgent Canaanite power in the time of the judges. Her name means “bee”.</p>\n<h2>Deborah's calling</h2>\n<h3>As a judge</h3>\n<p><a href=\"https://ref.ly/Judg4:4-Judg4:5\">JDG 4:4–4:5</a>, <a href=\"https://ref.ly/Judg5:7\">JDG 5:7</a> <em>She was probably called upon to settle intertribal disputes, “mother in Israel” meaning one who promotes the unity of God's family.</em></p>\n<h3>As a prophetess</h3>\n<p><a href=\"https://ref.ly/Judg4:4\">JDG 4:4</a>, <a href=\"https://ref.ly/Judg4:7\">JDG 4:7</a>, <a href=\"https://ref.ly/Judg4:9\">JDG 4:9</a>, <a href=\"https://ref.ly/Judg4:14\">JDG 4:14</a></p>\n<h2>Deborah's response to the Canaanite threat</h2>\n<h3>She was petitioned by the people</h3>\n<p><a href=\"https://ref.ly/Judg5:11-Judg5:12\">JDG 5:11–5:12</a></p>\n<h3>She appointed Barak commander-in-chief</h3>\n<p><a href=\"https://ref.ly/Judg4:6\">JDG 4:6</a></p>\n<h3>She accompanied the army into battle</h3>\n<p><a href=\"https://ref.ly/Judg4:8-Judg4:10\">JDG 4:8–4:10</a></p>\n<h3>She led the people in victory celebration</h3>\n<p><a href=\"https://ref.ly/Judg5:1-Judg5:3\">JDG 5:1–5:3</a>, <a href=\"https://ref.ly/Judg5:28-Judg5:31\">JDG 5:28–5:31</a> <em>In this respect she is like Moses and Miriam (<a href=\"https://ref.ly/Exod15:1,Exod15:20\">Ex 15:1,20</a>).</em></p>\n<h2>Deborah's character</h2>\n<h3>She was wise, decisive, courageous, inspiring and bold</h3>\n<p><a href=\"https://ref.ly/Judg4:5-Judg4:9\">JDG 4:5–4:9</a>, <a href=\"https://ref.ly/Judg4:14\">JDG 4:14</a>, <a href=\"https://ref.ly/Judg5:9\">JDG 5:9</a>, <a href=\"https://ref.ly/Judg5:15-Judg5:17\">JDG 5:15–5:17</a> <em>Her confidence was in God's word and promise and she did not shrink from rebuking God's people.</em></p>\n<h3>She gave credit to others</h3>\n<p><a href=\"https://ref.ly/Judg5:14-Judg5:15\">JDG 5:14–5:15</a>, <a href=\"https://ref.ly/Judg5:18-Judg5:19\">JDG 5:18–5:19</a>, <a href=\"https://ref.ly/Judg5:24-Judg5:27\">JDG 5:24–5:27</a></p>\n<h3>She gave glory to God</h3>\n<p><a href=\"https://ref.ly/Judg5:20-Judg5:23\">JDG 5:20–5:23</a> <em>These verses are a poetic acknowledgment that God has fought on Israel's behalf.</em></p>\n<h2>She was God's person for the hour</h2>\n<p><strong><a href=\"https://ref.ly/Judg5:31\">JDG 5:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth4:14\">EST 4:14</a></p>",
@@ -172,6 +172,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7772: prophets",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Ain.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ain"
+},
+{
+"id": "person:Deborah.2",
+"type": "person",
+"confidence": 0.583,
+"match_method": "scored",
+"preferred_label": "Deborah"
 }
 ]
 }

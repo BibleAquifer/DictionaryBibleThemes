@@ -2,10 +2,10 @@
 {
 "content_id": "5085",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5085: David",
 "media_type": "Text",
-"index_reference": "5085: david",
+"index_reference": "5085",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The youngest son of Jesse and great-grandson of Ruth and Boaz, who became Israel's greatest king. Born in the town of Bethlehem, he probably lived c. 1040–970 B.C.</p>",
@@ -39,6 +39,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5089: David, significance of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:En-hakkore",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "En-hakkore"
 }
 ]
 }

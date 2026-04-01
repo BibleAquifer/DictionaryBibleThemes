@@ -2,10 +2,10 @@
 {
 "content_id": "9200",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9200: Judgment",
 "media_type": "Text",
-"index_reference": "9200: judgment",
+"index_reference": "9200",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"9210\" data-resourcetype=\"DictionaryOfBibleThemes\">9210: judgment, God's</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9220\" data-resourcetype=\"DictionaryOfBibleThemes\">9220: day of the LORD</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9230\" data-resourcetype=\"DictionaryOfBibleThemes\">9230: judgment seat</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9240\" data-resourcetype=\"DictionaryOfBibleThemes\">9240: last judgment</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"9250\" data-resourcetype=\"DictionaryOfBibleThemes\">9250: woe</span></li></ul>",
@@ -46,6 +46,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9250: woe",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Zeror",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zeror"
 }
 ]
 }

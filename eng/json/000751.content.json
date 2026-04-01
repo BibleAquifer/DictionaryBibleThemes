@@ -2,10 +2,10 @@
 {
 "content_id": "5162",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5162: lameness",
 "media_type": "Text",
-"index_reference": "5162: lameness",
+"index_reference": "5162",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A physical condition impairing leg movement.</p>\n<h2>Causes of lameness</h2>\n<h3>Congenital</h3>\n<p><strong><a href=\"https://ref.ly/Acts3:2\">ACT 3:2</a>, <a href=\"https://ref.ly/Acts14:8\">ACT 14:8</a></strong></p>\n<h3>Accidental</h3>\n<p><strong><a href=\"https://ref.ly/2Sam4:4\">2SA 4:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam9:3\">2SA 9:3</a>, <a href=\"https://ref.ly/2Sam9:13\">2SA 9:13</a></p>\n<h2>Care for the lame</h2>\n<h3>General care</h3>\n<p><strong><a href=\"https://ref.ly/Job29:15\">JOB 29:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer31:8\">JER 31:8</a>; <a href=\"https://ref.ly/Luke14:13-Luke14:14\">LUK 14:13–14:14</a></p>\n<h3>Healing</h3>\n<p><strong><a href=\"https://ref.ly/Matt11:5-Matt11:6\">MAT 11:5–11:6</a></strong> parallel <a href=\"https://ref.ly/Luke7:22\">LUK 7:22</a> <em>See also</em> <a href=\"https://ref.ly/Matt4:23-Matt4:24\">MAT 4:23–4:24</a>, <a href=\"https://ref.ly/Matt8:6-Matt8:7\">MAT 8:6–8:7</a>, <a href=\"https://ref.ly/Matt9:2-Matt9:8\">MAT 9:2–9:8</a> parallels <a href=\"https://ref.ly/Mark2:1-Mark2:12\">MRK 2:1–2:12</a>, <a href=\"https://ref.ly/Luke5:17-Luke5:26\">LUK 5:17–5:26</a>; <a href=\"https://ref.ly/Matt15:30-Matt15:31\">MAT 15:30–15:31</a>, <a href=\"https://ref.ly/Matt21:14\">MAT 21:14</a>; <a href=\"https://ref.ly/Acts3:6-Acts3:10\">ACT 3:6–3:10</a>, <a href=\"https://ref.ly/Acts8:7-Acts8:8\">ACT 8:7–8:8</a>, <a href=\"https://ref.ly/Acts9:33-Acts9:34\">ACT 9:33–9:34</a>, <a href=\"https://ref.ly/Acts14:8\">ACT 14:8</a></p>\n<h2>The spiritual significance of lameness</h2>\n<h3>Relative importance of lameness</h3>\n<p><strong><a href=\"https://ref.ly/Mark9:45\">MRK 9:45</a></strong></p>\n<h3>Parallel to weakness</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/2Sam5:6-2Sam5:8\">2SA 5:6–5:8</a>; <a href=\"https://ref.ly/Isa35:2-Isa35:3\">ISA 35:2–35:3</a>; <a href=\"https://ref.ly/Heb12:12-Heb12:13\">HEB 12:12–12:13</a></p>\n<h3>As a parallel to fools' words</h3>\n<p><strong><a href=\"https://ref.ly/Prov26:7\">PRO 26:7</a></strong></p>\n<h3>Ultimate healing in heaven</h3>\n<p><strong><a href=\"https://ref.ly/Isa35:6\">ISA 35:6</a></strong></p>\n<h2>Lameness in animals</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Deut15:21\">DEU 15:21</a>; <a href=\"https://ref.ly/Mal1:7-Mal1:8\">MAL 1:7–1:8</a>, <a href=\"https://ref.ly/Mal1:13\">MAL 1:13</a></p>",
@@ -243,7 +243,8 @@
 "label": "5876: helpfulness",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

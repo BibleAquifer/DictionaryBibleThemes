@@ -2,10 +2,10 @@
 {
 "content_id": "4859",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4859: white",
 "media_type": "Text",
-"index_reference": "4859: white",
+"index_reference": "4859",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A symbol of purity and regeneration reflecting godliness, and also a symbol of victory.</p>\n<h2>White used symbolically</h2>\n<h3>Of purity and holiness</h3>\n<p><strong><a href=\"https://ref.ly/Matt17:1-Matt17:2\">MAT 17:1–17:2</a></strong> parallel <a href=\"https://ref.ly/Mark9:2-Mark9:3\">MRK 9:2–9:3</a> <em>See also</em> <a href=\"https://ref.ly/Dan7:9\">DAN 7:9</a>; <a href=\"https://ref.ly/Matt28:2-Matt28:3\">MAT 28:2–28:3</a> parallel <a href=\"https://ref.ly/Mark16:5\">MRK 16:5</a>; <a href=\"https://ref.ly/John20:12\">JHN 20:12</a>; <a href=\"https://ref.ly/Acts1:10\">ACT 1:10</a>; <a href=\"https://ref.ly/Rev1:12-Rev1:14\">REV 1:12–1:14</a>, <a href=\"https://ref.ly/Rev4:4\">REV 4:4</a>, <a href=\"https://ref.ly/Rev6:1-Rev6:2\">REV 6:1–6:2</a>, <a href=\"https://ref.ly/Rev19:11-Rev19:14\">REV 19:11–19:14</a>, <a href=\"https://ref.ly/Rev20:11\">REV 20:11</a></p>\n<h3>Of forgiveness and regeneration</h3>\n<p><strong><a href=\"https://ref.ly/Isa1:18\">ISA 1:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps51:7\">PSA 51:7</a>; <a href=\"https://ref.ly/Rev3:4-Rev3:5\">REV 3:4–3:5</a>, <a href=\"https://ref.ly/Rev3:18\">REV 3:18</a>, <a href=\"https://ref.ly/Rev6:11\">REV 6:11</a>, <a href=\"https://ref.ly/Rev7:9\">REV 7:9</a>, <a href=\"https://ref.ly/Rev7:13-Rev7:14\">REV 7:13–7:14</a></p>\n<h3>Of superficial righteousness</h3>\n<p><strong><a href=\"https://ref.ly/Matt23:27\">MAT 23:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek13:10-Ezek13:15\">EZK 13:10–13:15</a>, <a href=\"https://ref.ly/Ezek22:28\">EZK 22:28</a>; <a href=\"https://ref.ly/Acts23:3\">ACT 23:3</a></p>\n<h3>Of joy</h3>\n<p><a href=\"https://ref.ly/Eccl9:7-Eccl9:8\">ECC 9:7–9:8</a></p>\n<h2>White used descriptively</h2>\n<p><strong><a href=\"https://ref.ly/Esth1:6\">EST 1:6</a></strong>; <strong><a href=\"https://ref.ly/Lam4:7\">LAM 4:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen30:37\">GEN 30:37</a>, <a href=\"https://ref.ly/Gen49:12\">GEN 49:12</a>; <a href=\"https://ref.ly/Exod16:31\">EXO 16:31</a> <em>the manna</em>; <a href=\"https://ref.ly/Lev11:18\">LEV 11:18</a>LEV <a href=\"https://ref.ly/Lev13:3-Lev13:4\">13:3–13:4</a>, <a href=\"https://ref.ly/Lev13:38-Lev13:39\">LEV 13:38–13:39</a>; <a href=\"https://ref.ly/2Kgs5:27\">2KI 5:27</a>\n<a href=\"https://ref.ly/Judg5:10-Judg5:11\">JDG 5:10–5:11</a>; <a href=\"https://ref.ly/Esth8:15\">EST 8:15</a>; <a href=\"https://ref.ly/Job6:6\">JOB 6:6</a>, <a href=\"https://ref.ly/Job41:32\">JOB 41:32</a>; <a href=\"https://ref.ly/Joel1:7\">JOL 1:7</a>ZEC <a href=\"https://ref.ly/Joel1:8\">1:8</a>, <a href=\"https://ref.ly/Zech6:1-Zech6:6\">ZEC 6:1–6:6</a>\n<a href=\"https://ref.ly/Matt5:36\">MAT 5:36</a>; <a href=\"https://ref.ly/Rev2:17\">REV 2:17</a></p>",
@@ -335,7 +335,8 @@
 "label": "8767: hypocrisy",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

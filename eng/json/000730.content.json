@@ -2,10 +2,10 @@
 {
 "content_id": "5141",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5141: cheeks",
 "media_type": "Text",
-"index_reference": "5141: cheeks",
+"index_reference": "5141",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Literally, the parts either side of the face. Striking the cheek is an extreme form of insult.</p>\n<h2>Cheeks as features of beauty</h2>\n<p><strong><a href=\"https://ref.ly/Song1:10\">SNG 1:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song5:13\">SNG 5:13</a></p>\n<h2>Cheeks can bear symbols of grief</h2>\n<p><strong><a href=\"https://ref.ly/Lam1:2\">LAM 1:2</a></strong></p>\n<h2>Striking the cheek is a form of insult or challenge</h2>\n<p><strong><a href=\"https://ref.ly/Job16:10\">JOB 16:10</a></strong>; <strong><a href=\"https://ref.ly/Matt5:39\">MAT 5:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lam3:30\">LAM 3:30</a>; <a href=\"https://ref.ly/Mic5:1\">MIC 5:1</a>; <a href=\"https://ref.ly/Matt26:67\">MAT 26:67</a>; <a href=\"https://ref.ly/John18:22-John18:23\">JHN 18:22–18:23</a>; <a href=\"https://ref.ly/Luke6:29\">LUK 6:29</a></p>\n<h2>Plucking the beard from the cheek is a form of insult</h2>\n<p><strong><a href=\"https://ref.ly/Isa50:6\">ISA 50:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam10:4-2Sam10:5\">2SA 10:4–10:5</a> parallel <a href=\"https://ref.ly/1Chr19:4-1Chr19:5\">1CH 19:4–19:5</a></p>",
@@ -133,7 +133,8 @@
 "label": "5893: insults",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

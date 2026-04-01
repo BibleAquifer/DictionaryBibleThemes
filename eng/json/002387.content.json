@@ -2,10 +2,10 @@
 {
 "content_id": "8759",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8759: fools",
 "media_type": "Text",
-"index_reference": "8759: fools",
+"index_reference": "8759",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Those who lack wisdom and understanding, especially in relation to God.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8761: fools, in teaching of Jesus Christ",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Tebaliah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tebaliah"
 }
 ]
 }

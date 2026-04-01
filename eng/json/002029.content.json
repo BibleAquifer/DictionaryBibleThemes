@@ -2,10 +2,10 @@
 {
 "content_id": "8144",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8144: renewal",
 "media_type": "Text",
-"index_reference": "8144: renewal",
+"index_reference": "8144",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The regeneration or revitalisation that God brings to his people and creation, as part of the process of redemption.</p>",
@@ -26,7 +26,8 @@
 "label": "8146: renewal, of natural order",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

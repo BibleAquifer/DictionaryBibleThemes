@@ -2,10 +2,10 @@
 {
 "content_id": "5803",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5803: carelessness",
 "media_type": "Text",
-"index_reference": "5803: carelessness",
+"index_reference": "5803",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A lack of attention to one's thoughts and deeds, or a failure to give adequate thought to the consequences of one's actions, often leading to distressing results.</p>\n<h2>Carelessness in speech</h2>\n<p><strong><a href=\"https://ref.ly/Lev5:4\">LEV 5:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov20:25\">PRO 20:25</a>; <a href=\"https://ref.ly/Eccl5:2\">ECC 5:2</a>, <a href=\"https://ref.ly/Eccl5:6\">ECC 5:6</a>; <a href=\"https://ref.ly/Matt12:36\">MAT 12:36</a></p>\n<h2>Warnings against carelessness in actions</h2>\n<p><strong><a href=\"https://ref.ly/Exod21:33-Exod21:34\">EXO 21:33–21:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod21:22-Exod21:25\">EXO 21:22–21:25</a>, <a href=\"https://ref.ly/Exod21:28-Exod21:29\">EXO 21:28–21:29</a>, <a href=\"https://ref.ly/Exod21:35-Exod21:36\">EXO 21:35–21:36</a>, <a href=\"https://ref.ly/Exod22:5\">EXO 22:5</a>; <a href=\"https://ref.ly/Lev5:2-Lev5:3\">LEV 5:2–5:3</a>; <a href=\"https://ref.ly/Num35:22-Num35:24\">NUM 35:22–35:24</a></p>\n<h2>Unintentional sins resulting from carelessness</h2>\n<h3>By the nation</h3>\n<p><strong><a href=\"https://ref.ly/Lev4:13\">LEV 4:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num15:22-Num15:26\">NUM 15:22–15:26</a></p>\n<h3>By an individual</h3>\n<p><strong><a href=\"https://ref.ly/Lev4:27\">LEV 4:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev4:2-Lev4:3\">LEV 4:2–4:3</a>, <a href=\"https://ref.ly/Lev4:22-Lev4:23\">LEV 4:22–4:23</a>; <a href=\"https://ref.ly/Num15:27-Num15:28\">NUM 15:27–15:28</a>, <a href=\"https://ref.ly/Num35:22-Num35:24\">NUM 35:22–35:24</a></p>\n<h2>Examples of carelessness</h2>\n<h3>Careless speech</h3>\n<p><strong><a href=\"https://ref.ly/Judg11:30-Judg11:35\">JDG 11:30–11:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen25:29-Gen25:34\">GEN 25:29–25:34</a>; <a href=\"https://ref.ly/Matt14:6-Matt14:11\">MAT 14:6–14:11</a> parallel <a href=\"https://ref.ly/Mark6:21-Mark6:28\">MRK 6:21–6:28</a></p>\n<h3>Careless actions and omissions</h3>\n<p><strong><a href=\"https://ref.ly/Matt7:26-Matt7:27\">MAT 7:26–7:27</a></strong> parallel <a href=\"https://ref.ly/Luke6:49\">LUK 6:49</a> <em>See also</em> <a href=\"https://ref.ly/Matt25:1-Matt25:13\">MAT 25:1–25:13</a></p>",
@@ -232,6 +232,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8783: neglect",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Josiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Josiah"
 }
 ]
 }

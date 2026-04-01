@@ -2,10 +2,10 @@
 {
 "content_id": "5924",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5924: quarrelsomeness",
 "media_type": "Text",
-"index_reference": "5924: quarrelsomeness",
+"index_reference": "5924",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The evil of quarrelling</h2>\n<p><strong><a href=\"https://ref.ly/Jas4:1-Jas4:2\">JAS 4:1–4:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod21:18-Exod21:19\">EXO 21:18–21:19</a>; <a href=\"https://ref.ly/Prov10:12\">PRO 10:12</a>, <a href=\"https://ref.ly/Prov13:10\">PRO 13:10</a>, <a href=\"https://ref.ly/Prov15:18\">PRO 15:18</a>, <a href=\"https://ref.ly/Prov20:3\">PRO 20:3</a>, <a href=\"https://ref.ly/Prov21:9\">PRO 21:9</a>, <a href=\"https://ref.ly/Prov22:10\">PRO 22:10</a>, <a href=\"https://ref.ly/Prov26:20-Prov26:21\">PRO 26:20–26:21</a>, <a href=\"https://ref.ly/Prov27:15-Prov27:16\">PRO 27:15–27:16</a>, <a href=\"https://ref.ly/Prov30:33\">PRO 30:33</a>; <a href=\"https://ref.ly/2Tim2:23\">2TI 2:23</a></p>\n<h2>Quarrelsomeness is unfitting for God's people</h2>\n<p><strong><a href=\"https://ref.ly/1Cor3:3\">1CO 3:3</a></strong>; <strong><a href=\"https://ref.ly/1Tim3:2-1Tim3:3\">1TI 3:2–3:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov17:19\">PRO 17:19</a>; <a href=\"https://ref.ly/Isa58:4\">ISA 58:4</a>; <a href=\"https://ref.ly/Rom13:12-Rom13:14\">ROM 13:12–13:14</a>; <a href=\"https://ref.ly/2Cor12:20\">2CO 12:20</a>; <a href=\"https://ref.ly/1Tim6:3-1Tim6:5\">1TI 6:3–6:5</a>; <a href=\"https://ref.ly/2Tim2:14\">2TI 2:14</a>, <a href=\"https://ref.ly/2Tim2:23-2Tim2:24\">2TI 2:23–2:24</a></p>\n<h2>Examples of quarrelsomeness</h2>\n<p><strong><a href=\"https://ref.ly/1Cor1:10-1Cor1:12\">1CO 1:10–1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen13:7-Gen13:8\">GEN 13:7–13:8</a>, <a href=\"https://ref.ly/Gen26:20-Gen26:22\">GEN 26:20–26:22</a>; <a href=\"https://ref.ly/Exod17:1-Exod17:7\">EXO 17:1–17:7</a> <em>NIV footnote at verse 7</em>; <a href=\"https://ref.ly/Num20:1-Num20:13\">NUM 20:1–20:13</a> <em>NIV footnote at verse 13</em>; <a href=\"https://ref.ly/Deut33:8\">DEU 33:8</a>; <a href=\"https://ref.ly/Ps95:8\">PSA 95:8</a>, <a href=\"https://ref.ly/Ps106:32\">PSA 106:32</a>; <a href=\"https://ref.ly/Mark9:33-Mark9:34\">MRK 9:33–9:34</a> parallel <a href=\"https://ref.ly/Luke9:46\">LUK 9:46</a>; <a href=\"https://ref.ly/Luke22:24\">LUK 22:24</a>; <a href=\"https://ref.ly/Phil4:2-Phil4:3\">PHP 4:2–4:3</a></p>",
@@ -246,7 +246,8 @@
 "label": "8828: spite",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

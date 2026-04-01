@@ -2,10 +2,10 @@
 {
 "content_id": "5651",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5651: ancestors",
 "media_type": "Text",
-"index_reference": "5651: ancestors",
+"index_reference": "5651",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The ancestors of Israel</h2>\n<h3>Abraham, Isaac and Jacob</h3>\n<p><strong><a href=\"https://ref.ly/Lev26:45\">LEV 26:45</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jas2:21\">JAS 2:21</a></p>\n<h3>More immediate forebears</h3>\n<p><strong><a href=\"https://ref.ly/Amos2:4\">AMO 2:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs19:3-1Kgs19:4\">1KI 19:3–19:4</a>; <a href=\"https://ref.ly/Acts28:17\">ACT 28:17</a></p>\n<h2>Ancestors of specific groups of people</h2>\n<p><strong><a href=\"https://ref.ly/Josh17:1\">JOS 17:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen10:21\">GEN 10:21</a></p>\n<h2>Ancestors of individuals</h2>\n<p><strong><a href=\"https://ref.ly/Rom9:5\">ROM 9:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb7:10\">HEB 7:10</a></p>\n<h2>The figurative use of ancestors</h2>\n<p><strong><a href=\"https://ref.ly/Ezek16:3\">EZK 16:3</a></strong></p>",
@@ -136,7 +136,8 @@
 "label": "7248: patriarchs",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

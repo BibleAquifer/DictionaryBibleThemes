@@ -2,10 +2,10 @@
 {
 "content_id": "4432",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4432: dough",
 "media_type": "Text",
-"index_reference": "4432: dough",
+"index_reference": "4432",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A mixture of flour and water to which yeast is added and which is then baked to produce bread. Scripture makes several comparisons with it to teach spiritual lessons.</p>\n<h2>Dough and the process of making bread</h2>\n<h3>Yeast was normally added and the dough left to rise</h3>\n<p><strong><a href=\"https://ref.ly/Exod12:33-Exod12:34\">EXO 12:33–12:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:39\">EXO 12:39</a></p>\n<h3>Dough was kneaded before baking</h3>\n<p><strong><a href=\"https://ref.ly/Jer7:18\">JER 7:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam13:8\">2SA 13:8</a>; <a href=\"https://ref.ly/Hos7:4\">HOS 7:4</a></p>\n<h2>Spiritual lessons from comparisons with dough</h2>\n<h3>The dough offered as firstfruits</h3>\n<p><strong><a href=\"https://ref.ly/Rom11:13-Rom11:16\">ROM 11:13–11:16</a></strong></p>\n<h3>The influence of yeast on the dough</h3>\n<p><strong><a href=\"https://ref.ly/Matt13:33\">MAT 13:33</a></strong> parallel <a href=\"https://ref.ly/Luke13:20-Luke13:21\">LUK 13:20–13:21</a> <em>See also</em> <a href=\"https://ref.ly/1Cor5:1-1Cor5:8\">1CO 5:1–5:8</a>; <a href=\"https://ref.ly/Gal5:1-Gal5:10\">GAL 5:1–5:10</a></p>",
@@ -114,6 +114,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7222: exodus, events of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Carmi.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Carmi"
+},
+{
+"id": "person:Carmi.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Carmi"
+},
+{
+"id": "person:Caleb.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caleb"
 }
 ]
 }

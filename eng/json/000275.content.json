@@ -2,10 +2,10 @@
 {
 "content_id": "3245",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3245: Holy Spirit, blasphemy against",
 "media_type": "Text",
-"index_reference": "3245: holy spirit, blasphemy against",
+"index_reference": "3245",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The denial of the action of the Holy Spirit in the ministry of Jesus Christ, or the attribution of his works to demonic influence.</p>\n<h2>Jesus Christ warns against blasphemy</h2>\n<p><strong><a href=\"https://ref.ly/Mark3:29\">MRK 3:29</a></strong> parallels <a href=\"https://ref.ly/Matt12:31-Matt12:32\">MAT 12:31–12:32</a>, <a href=\"https://ref.ly/Luke12:10\">LUK 12:10</a> <em>See also</em> <a href=\"https://ref.ly/1John5:16\">1JN 5:16</a></p>\n<h2>Blasphemy as erroneously attributing the work of the Holy Spirit to demonic influence</h2>\n<h3>Jesus Christ is accused of being possessed by demons</h3>\n<p><strong><a href=\"https://ref.ly/Mark3:22\">MRK 3:22</a></strong> parallels <a href=\"https://ref.ly/Matt12:24\">MAT 12:24</a>, <a href=\"https://ref.ly/Luke11:15\">LUK 11:15</a> <em>See also</em> <a href=\"https://ref.ly/Matt10:25\">MAT 10:25</a>; <a href=\"https://ref.ly/John7:20\">JHN 7:20</a>, <a href=\"https://ref.ly/John8:48\">JHN 8:48</a>, <a href=\"https://ref.ly/John8:52\">JHN 8:52</a>, <a href=\"https://ref.ly/John10:20\">JHN 10:20</a></p>\n<h3>Jesus Christ is accused of casting out demons by demonic power</h3>\n<p><strong><a href=\"https://ref.ly/Matt9:34\">MAT 9:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt12:24\">MAT 12:24</a> parallels <a href=\"https://ref.ly/Mark3:22\">MRK 3:22</a>, <a href=\"https://ref.ly/Luke11:15\">LUK 11:15</a></p>\n<h3>Jesus Christ refutes these charges</h3>\n<p><a href=\"https://ref.ly/Matt12:25-Matt12:29\">MAT 12:25–12:29</a> parallels <a href=\"https://ref.ly/Mark3:23-Mark3:27\">MRK 3:23–3:27</a>, <a href=\"https://ref.ly/Luke11:17-Luke11:22\">LUK 11:17–11:22</a></p>\n<h2>Blasphemy as acting in ways which deny the Holy Spirit's work</h2>\n<p><strong><a href=\"https://ref.ly/Acts5:3\">ACT 5:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa63:10\">ISA 63:10</a>; <a href=\"https://ref.ly/1Thess5:19\">1TH 5:19</a>; <a href=\"https://ref.ly/Heb10:26-Heb10:31\">HEB 10:26–10:31</a></p>",
@@ -196,7 +196,8 @@
 "label": "8843: unforgivable sin",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

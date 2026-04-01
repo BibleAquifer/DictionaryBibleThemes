@@ -2,10 +2,10 @@
 {
 "content_id": "8656",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8656: longing for God",
 "media_type": "Text",
-"index_reference": "8656: longing for god",
+"index_reference": "8656",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A deep desire for God, which Scripture often compares to hunger or thirst. Only Jesus Christ can truly satisfy this longing for God.</p>\n<h2>The individual's longing for God</h2>\n<p><strong><a href=\"https://ref.ly/Ps119:20\">PSA 119:20</a></strong>; <strong><a href=\"https://ref.ly/Isa26:9\">ISA 26:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps73:25\">PSA 73:25</a>, <a href=\"https://ref.ly/Ps119:81\">PSA 119:81</a>, <a href=\"https://ref.ly/Ps119:131\">PSA 119:131</a></p>\n<h2>The longing for God compared to hunger and thirst</h2>\n<p><strong><a href=\"https://ref.ly/Ps42:2\">PSA 42:2</a>, <a href=\"https://ref.ly/Ps63:1\">PSA 63:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps143:6\">PSA 143:6</a>; <a href=\"https://ref.ly/Amos8:11\">AMO 8:11</a></p>\n<h2>The longing for God is satisfied through Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/John4:13-John4:14\">JHN 4:13–4:14</a>, <a href=\"https://ref.ly/John6:35\">JHN 6:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps42:2\">PSA 42:2</a>; <a href=\"https://ref.ly/Isa55:1\">ISA 55:1</a>; <a href=\"https://ref.ly/John6:27\">JHN 6:27</a>, <a href=\"https://ref.ly/John6:50-John6:51\">JHN 6:50–6:51</a>, <a href=\"https://ref.ly/John7:37\">JHN 7:37</a>; <a href=\"https://ref.ly/Rev21:6\">REV 21:6</a>, <a href=\"https://ref.ly/Rev22:17\">REV 22:17</a></p>",
@@ -198,6 +198,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8622: worship",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Suph",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Suph"
 }
 ]
 }

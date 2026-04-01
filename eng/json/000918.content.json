@@ -2,10 +2,10 @@
 {
 "content_id": "5331",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5331: hanging",
 "media_type": "Text",
-"index_reference": "5331: hanging",
+"index_reference": "5331",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Death by suspension from the neck or impaling on a pole, or the suspension of a body after execution by another means.</p>\n<h2>Suicide by hanging</h2>\n<p><a href=\"https://ref.ly/2Sam17:23\">2SA 17:23</a>; ; <a href=\"https://ref.ly/Matt27:5\">MAT 27:5</a></p>\n<h2>Execution by hanging or impaling</h2>\n<p><a href=\"https://ref.ly/Gen40:18-Gen40:22\">GEN 40:18–40:22</a>; <a href=\"https://ref.ly/Acts5:30\">ACT 5:30</a>, <a href=\"https://ref.ly/Acts10:39\">ACT 10:39</a>; <a href=\"https://ref.ly/Ezra6:11\">EZR 6:11</a>; ; <a href=\"https://ref.ly/Esth2:23\">EST 2:23</a>, <a href=\"https://ref.ly/Esth7:9-Esth7:10\">EST 7:9–7:10</a>, <a href=\"https://ref.ly/Esth9:12-Esth9:13\">EST 9:12–9:13</a></p>\n<h2>Hanging after execution</h2>\n<p><a href=\"https://ref.ly/Deut21:22\">DEU 21:22</a>; ; <a href=\"https://ref.ly/Josh8:29\">JOS 8:29</a>, <a href=\"https://ref.ly/Josh10:26\">JOS 10:26</a>; ; <a href=\"https://ref.ly/2Sam4:12\">2SA 4:12</a>, <a href=\"https://ref.ly/2Sam21:9-2Sam21:10\">2SA 21:9–21:10</a></p>\n<h2>Anyone hung on a tree was under God's curse</h2>\n<p><a href=\"https://ref.ly/Deut21:23\">DEU 21:23</a>; ; <a href=\"https://ref.ly/Gal3:13\">GAL 3:13</a></p>",
@@ -164,6 +164,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7346: death penalty",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gabbai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gabbai"
 }
 ]
 }

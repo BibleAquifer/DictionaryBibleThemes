@@ -2,10 +2,10 @@
 {
 "content_id": "5935",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5935: riddles",
 "media_type": "Text",
-"index_reference": "5935: riddles",
+"index_reference": "5935",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Enigmatic or allegorical statements whose meaning must be searched for or revealed by God. They may be compared with other forms of obscure communication and contrasted with clear messages. Riddles are associated with proverbs and parables as means of teaching wisdom.</p>\n<h2>Samson's riddle</h2>\n<h3>The riddle posed</h3>\n<p><strong><a href=\"https://ref.ly/Judg14:5-Judg14:14\">JDG 14:5–14:14</a></strong> <em>In the ancient world, riddles were popular at feasts and special occasions.</em></p>\n<h3>The riddle solved</h3>\n<p><strong><a href=\"https://ref.ly/Judg14:15-Judg14:20\">JDG 14:15–14:20</a></strong></p>\n<h2>Further examples of riddles</h2>\n<h3>Riddles and dreams</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Gen37:5-Gen37:9\">GEN 37:5–37:9</a> <em>Joseph's dreams</em>; <a href=\"https://ref.ly/Gen40:5-Gen40:8\">GEN 40:5–40:8</a> <em>dreams of Pharaoh's cupbearer and baker</em>; <a href=\"https://ref.ly/Gen41:1-Gen41:8\">GEN 41:1–41:8</a> <em>Pharaoh's dreams</em>; <a href=\"https://ref.ly/Dan2:1-Dan2:3\">DAN 2:1–2:3</a> <em>Nebuchadnezzar's dream</em></p>\n<h3>Four mysteries</h3>\n<p><a href=\"https://ref.ly/Prov30:18-Prov30:19\">PRO 30:18–30:19</a></p>\n<h3>The eagles and the vine</h3>\n<p><a href=\"https://ref.ly/Ezek17:2-Ezek17:8\">EZK 17:2–17:8</a>, <a href=\"https://ref.ly/Ezek17:11-Ezek17:15\">EZK 17:11–17:15</a></p>\n<h3>The writing on the wall</h3>\n<p><a href=\"https://ref.ly/Dan5:5-Dan5:9\">DAN 5:5–5:9</a>, <a href=\"https://ref.ly/Dan5:25-Dan5:28\">DAN 5:25–5:28</a></p>\n<h3>Riddles in the ministry of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/John16:25\">JHN 16:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/John2:19\">JHN 2:19</a> <em>the destruction of the temple</em>; <a href=\"https://ref.ly/John16:16-John16:19\">JHN 16:16–16:19</a> <em>Jesus Christ predicts his death and resurrection in enigmatic form.</em></p>\n<h3>The riddle of the number of the beast</h3>\n<p><a href=\"https://ref.ly/Rev13:18\">REV 13:18</a>, <a href=\"https://ref.ly/Rev17:7-Rev17:9\">REV 17:7–17:9</a></p>\n<h2>Riddles and prophetic communication</h2>\n<h3>Riddles contrasted with clear messages</h3>\n<p><strong><a href=\"https://ref.ly/Num12:6-Num12:8\">NUM 12:6–12:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut34:10\">DEU 34:10</a>; <a href=\"https://ref.ly/1Cor13:12\">1CO 13:12</a>; <a href=\"https://ref.ly/1Pet1:10-1Pet1:11\">1PE 1:10–1:11</a></p>\n<h3>Messianic prophecies cast as riddles</h3>\n<p><a href=\"https://ref.ly/Gen49:8-Gen49:11\">GEN 49:8–49:11</a>; ; <a href=\"https://ref.ly/Isa11:1\">ISA 11:1</a>, <a href=\"https://ref.ly/Isa53:2\">ISA 53:2</a></p>\n<h2>Riddles as means of teaching wisdom</h2>\n<h3>Riddles explained by the wise</h3>\n<p><strong><a href=\"https://ref.ly/Ps49:3-Ps49:4\">PSA 49:3–49:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs10:3\">1KI 10:3</a> parallel <a href=\"https://ref.ly/2Chr9:2\">2CH 9:2</a>; <a href=\"https://ref.ly/Dan5:12\">DAN 5:12</a></p>\n<h3>Riddles and proverbs</h3>\n<p><strong><a href=\"https://ref.ly/Prov1:1-Prov1:6\">PRO 1:1–1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:6-Prov6:8\">PRO 6:6–6:8</a>, <a href=\"https://ref.ly/Prov26:1-Prov26:2\">PRO 26:1–26:2</a>, <a href=\"https://ref.ly/Prov26:7-Prov26:10\">PRO 26:7–26:10</a></p>\n<h3>Riddles and parables</h3>\n<p><strong><a href=\"https://ref.ly/Ps78:2\">PSA 78:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg9:7-Judg9:15\">JDG 9:7–9:15</a>; <a href=\"https://ref.ly/2Sam12:1-2Sam12:4\">2SA 12:1–12:4</a>; <a href=\"https://ref.ly/Isa5:1-Isa5:2\">ISA 5:1–5:2</a>; <a href=\"https://ref.ly/Jer13:1-Jer13:7\">JER 13:1–13:7</a>; <a href=\"https://ref.ly/Matt13:34-Matt13:35\">MAT 13:34–13:35</a></p>",
@@ -319,7 +319,8 @@
 "label": "8361: wisdom",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "4609",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4609: beast, the",
 "media_type": "Text",
-"index_reference": "4609: beast, the",
+"index_reference": "4609",
 "language": "eng",
 "review_level": "None",
 "content": "<p>In apocalyptic literature, symbol of the ultimate adversary of God in the great final spiritual battle.</p>\n<h2>Beasts represent rulers and nations opposed to God</h2>\n<p><a href=\"https://ref.ly/Dan7:3-Dan7:7\">DAN 7:3–7:7</a>, <a href=\"https://ref.ly/Dan7:11-Dan7:12\">DAN 7:11–7:12</a>, <a href=\"https://ref.ly/Dan7:17\">DAN 7:17</a>, <a href=\"https://ref.ly/Dan7:19-Dan7:23\">DAN 7:19–7:23</a></p>\n<h2>The beast represents the antichrist in the final spiritual battle</h2>\n<h3>The emergence of the beast</h3>\n<p><a href=\"https://ref.ly/Rev11:7\">REV 11:7</a>, <a href=\"https://ref.ly/Rev13:1\">REV 13:1</a>, <a href=\"https://ref.ly/Rev13:11\">REV 13:11</a>, <a href=\"https://ref.ly/Rev17:3\">REV 17:3</a></p>\n<h3>The power and authority of the beast</h3>\n<p><a href=\"https://ref.ly/Rev13:2-Rev13:7\">REV 13:2–13:7</a>, <a href=\"https://ref.ly/Rev13:12-Rev13:15\">REV 13:12–13:15</a></p>\n<h3>Those who will worship the beast, and those who will not</h3>\n<p><a href=\"https://ref.ly/Rev13:8\">REV 13:8</a>, <a href=\"https://ref.ly/Rev13:16-Rev13:18\">REV 13:16–13:18</a>, <a href=\"https://ref.ly/Rev14:9-Rev14:11\">REV 14:9–14:11</a>, <a href=\"https://ref.ly/Rev16:2\">REV 16:2</a>, <a href=\"https://ref.ly/Rev20:4\">REV 20:4</a></p>\n<h3>The defeat of the beast and the fulfilment of God's purposes</h3>\n<p><a href=\"https://ref.ly/Rev16:10-Rev16:11\">REV 16:10–16:11</a>, <a href=\"https://ref.ly/Rev17:7-Rev17:14\">REV 17:7–17:14</a>, <a href=\"https://ref.ly/Rev17:16-Rev17:17\">REV 17:16–17:17</a>, <a href=\"https://ref.ly/Rev19:19-Rev19:20\">REV 19:19–19:20</a></p>",
@@ -169,7 +169,8 @@
 "label": "9240: last judgment",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

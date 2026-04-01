@@ -2,10 +2,10 @@
 {
 "content_id": "4849",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4849: snow",
 "media_type": "Text",
-"index_reference": "4849: snow",
+"index_reference": "4849",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Snow in winter</h2>\n<p><strong><a href=\"https://ref.ly/2Sam23:20\">2SA 23:20</a></strong> parallel <a href=\"https://ref.ly/1Chr11:22\">1CH 11:22</a> <em>See also</em> <a href=\"https://ref.ly/Prov31:21\">PRO 31:21</a></p>\n<h2>Snow all year round on Mount Lebanon</h2>\n<p><strong><a href=\"https://ref.ly/Jer18:14\">JER 18:14</a></strong></p>\n<h2>Melting snow forms temporary streams</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Job6:16\">JOB 6:16</a>, <a href=\"https://ref.ly/Job24:19\">JOB 24:19</a></p>\n<h2>Snow under divine control</h2>\n<p><strong><a href=\"https://ref.ly/Ps148:8\">PSA 148:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job37:6\">JOB 37:6</a>, <a href=\"https://ref.ly/Job38:22\">JOB 38:22</a>; <a href=\"https://ref.ly/Ps147:16\">PSA 147:16</a>; <a href=\"https://ref.ly/Isa55:10-Isa55:11\">ISA 55:10–55:11</a></p>\n<h2>Snow as a symbol of whiteness</h2>\n<p><strong><a href=\"https://ref.ly/Exod4:6\">EXO 4:6</a></strong>; <strong><a href=\"https://ref.ly/Rev1:14\">REV 1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num12:10\">NUM 12:10</a>; <a href=\"https://ref.ly/2Kgs5:27\">2KI 5:27</a>; <a href=\"https://ref.ly/Lam4:7\">LAM 4:7</a>; <a href=\"https://ref.ly/Dan7:9\">DAN 7:9</a>; <a href=\"https://ref.ly/Matt28:3\">MAT 28:3</a></p>\n<h2>Snow as a symbol of purity</h2>\n<p><strong><a href=\"https://ref.ly/Ps51:7\">PSA 51:7</a></strong>; <strong><a href=\"https://ref.ly/Isa1:18\">ISA 1:18</a></strong></p>",
@@ -182,7 +182,8 @@
 "label": "8324: purity",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

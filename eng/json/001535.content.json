@@ -2,10 +2,10 @@
 {
 "content_id": "6172",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6172: guilt",
 "media_type": "Text",
-"index_reference": "6172: guilt",
+"index_reference": "6172",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Primarily a state of being at fault, often accompanied by a feeling of being in the wrong. Scripture affirms that human guilt arises from sin before God, and can only be purged through accepting the forgiveness offered through the death of Jesus Christ.</p>",
@@ -32,6 +32,43 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6175: guilt, removal of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jahath.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jahath"
+},
+{
+"id": "person:Jahath.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jahath"
+},
+{
+"id": "person:Jahath.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jahath"
+},
+{
+"id": "person:Libni",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Libni"
+},
+{
+"id": "person:Jahath",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jahath"
 }
 ]
 }

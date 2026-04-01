@@ -2,10 +2,10 @@
 {
 "content_id": "6133",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6133: coveting",
 "media_type": "Text",
-"index_reference": "6133: coveting",
+"index_reference": "6133",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Desiring to possess something at the expense of the legitimate owner.</p>",
@@ -26,7 +26,8 @@
 "label": "6135: coveting, and other sins",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

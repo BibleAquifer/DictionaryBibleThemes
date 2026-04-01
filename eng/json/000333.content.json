@@ -2,10 +2,10 @@
 {
 "content_id": "4126",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4126: Satan, resistance to",
 "media_type": "Text",
-"index_reference": "4126: satan, resistance to",
+"index_reference": "4126",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Jesus Christ resisted Satan in his ministry, and believers are commanded to follow his example in this respect. God assists believers in this struggle.</p>\n<h2>Satan can be resisted</h2>\n<h3>His power is limited</h3>\n<p><a href=\"https://ref.ly/Job1:12\">JOB 1:12</a>, <a href=\"https://ref.ly/Job2:6\">JOB 2:6</a>; ; <a href=\"https://ref.ly/1Cor10:13\">1CO 10:13</a>; ; <a href=\"https://ref.ly/Rev12:12\">REV 12:12</a>, <a href=\"https://ref.ly/Rev20:3\">REV 20:3</a></p>\n<h3>Jesus Christ resists Satan</h3>\n<p><a href=\"https://ref.ly/Matt4:1-Matt4:11\">MAT 4:1–4:11</a> parallel <a href=\"https://ref.ly/Luke4:1-Luke4:13\">LUK 4:1–4:13</a>; ; <a href=\"https://ref.ly/John1:5\">JHN 1:5</a>; ; <a href=\"https://ref.ly/Heb2:18\">HEB 2:18</a>, <a href=\"https://ref.ly/Heb4:15\">HEB 4:15</a></p>\n<h3>Christians can resist Satan</h3>\n<p><strong><a href=\"https://ref.ly/Jas4:7\">JAS 4:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke10:19\">LUK 10:19</a>; <a href=\"https://ref.ly/Rom6:13\">ROM 6:13</a>; <a href=\"https://ref.ly/Eph4:26-Eph4:27\">EPH 4:26–4:27</a>, <a href=\"https://ref.ly/Eph6:11-Eph6:13\">EPH 6:11–6:13</a>; <a href=\"https://ref.ly/1Pet5:8-1Pet5:9\">1PE 5:8–5:9</a>; <a href=\"https://ref.ly/2Pet3:17\">2PE 3:17</a>; <a href=\"https://ref.ly/1John2:13-1John2:14\">1JN 2:13–2:14</a></p>\n<h2>God protects his people from Satan</h2>\n<p><strong><a href=\"https://ref.ly/2Thess3:3\">2TH 3:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/1John5:18\">1JN 5:18</a></p>\n<h2>God's protection is to be sought in prayer</h2>\n<p><strong><a href=\"https://ref.ly/John17:15\">JHN 17:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt6:13\">MAT 6:13</a>; <a href=\"https://ref.ly/Luke22:31-Luke22:32\">LUK 22:31–22:32</a>; <a href=\"https://ref.ly/Eph6:11\">EPH 6:11</a>, <a href=\"https://ref.ly/Eph6:18\">EPH 6:18</a></p>\n<h2>Jesus Christ has the victory over Satan</h2>\n<h3>Jesus Christ's defeat of Satan on the cross</h3>\n<p><strong><a href=\"https://ref.ly/Col2:15\">COL 2:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/John12:31\">JHN 12:31</a>; <a href=\"https://ref.ly/Rev12:11\">REV 12:11</a></p>\n<h3>Jesus Christ's name is powerful against Satan</h3>\n<p><strong><a href=\"https://ref.ly/Phil2:10\">PHP 2:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa45:23\">ISA 45:23</a>; <a href=\"https://ref.ly/Ps118:10-Ps118:12\">PSA 118:10–118:12</a>; <a href=\"https://ref.ly/Mark16:17-Mark16:18\">MRK 16:17–16:18</a>; <a href=\"https://ref.ly/Luke10:17\">LUK 10:17</a>; <a href=\"https://ref.ly/Acts16:18\">ACT 16:18</a></p>\n<h3>God's love cannot be thwarted</h3>\n<p><a href=\"https://ref.ly/Rom8:38-Rom8:39\">ROM 8:38–8:39</a></p>\n<h2>Resisting Satan brings reward</h2>\n<p><strong><a href=\"https://ref.ly/2Tim4:7-2Tim4:8\">2TI 4:7–4:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jas1:12\">JAS 1:12</a>; <a href=\"https://ref.ly/Rev2:7\">REV 2:7</a>, <a href=\"https://ref.ly/Rev2:17\">REV 2:17</a>, <a href=\"https://ref.ly/Rev2:26\">REV 2:26</a>, <a href=\"https://ref.ly/Rev3:5\">REV 3:5</a>, <a href=\"https://ref.ly/Rev3:12\">REV 3:12</a>, <a href=\"https://ref.ly/Rev3:21\">REV 3:21</a></p>",
@@ -347,6 +347,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8737: evil, believers' responses to",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Beraiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beraiah"
 }
 ]
 }

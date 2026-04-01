@@ -2,10 +2,10 @@
 {
 "content_id": "5299",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5299: door",
 "media_type": "Text",
-"index_reference": "5299: door",
+"index_reference": "5299",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A point of entry, especially to a house. The door-frame was given special significance within the law of Moses, and temple doorkeepers had a special status. Used figuratively, it relates to opportunity, and Jesus Christ used it of himself as the means of access to God.</p>\n<h2>The function of doors: gaining or barring entry</h2>\n<p><strong><a href=\"https://ref.ly/Ps24:7\">PSA 24:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen19:6\">GEN 19:6</a>, <a href=\"https://ref.ly/Gen19:9-Gen19:11\">GEN 19:9–19:11</a>; <a href=\"https://ref.ly/Exod12:22\">EXO 12:22</a>; <a href=\"https://ref.ly/2Sam13:17-2Sam13:18\">2SA 13:17–13:18</a>; <a href=\"https://ref.ly/2Kgs4:4-2Kgs4:5\">2KI 4:4–4:5</a> <em>Elisha and the widow's oil</em>; <a href=\"https://ref.ly/Neh13:19\">NEH 13:19</a>; <a href=\"https://ref.ly/Ps24:9\">PSA 24:9</a>; <a href=\"https://ref.ly/Prov5:8\">PRO 5:8</a> <em>warning against adultery</em>; <a href=\"https://ref.ly/Matt6:6\">MAT 6:6</a> <em>Jesus Christ advocates secret prayer</em>; <a href=\"https://ref.ly/Mark1:33\">MRK 1:33</a>; <a href=\"https://ref.ly/Luke11:7\">LUK 11:7</a>; <a href=\"https://ref.ly/John18:15-John18:16\">JHN 18:15–18:16</a>; <a href=\"https://ref.ly/Acts5:19\">ACT 5:19</a>; <a href=\"https://ref.ly/Rev3:8\">REV 3:8</a></p>\n<h2>The status and role of temple doorkeepers</h2>\n<p><strong><a href=\"https://ref.ly/Ps84:10\">PSA 84:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs25:18\">2KI 25:18</a> parallel <a href=\"https://ref.ly/Jer52:24\">JER 52:24</a>; <a href=\"https://ref.ly/1Chr15:23-1Chr15:24\">1CH 15:23–15:24</a>; <a href=\"https://ref.ly/2Chr23:19\">2CH 23:19</a>, <a href=\"https://ref.ly/2Chr34:13\">2CH 34:13</a></p>\n<h2>The door and its surroundings as a symbol of a household</h2>\n<p><strong><a href=\"https://ref.ly/Exod12:22-Exod12:23\">EXO 12:22–12:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:7\">EXO 12:7</a>, <a href=\"https://ref.ly/Exod21:6\">EXO 21:6</a>; <a href=\"https://ref.ly/Deut6:9\">DEU 6:9</a>, <a href=\"https://ref.ly/Deut11:20\">DEU 11:20</a>, <a href=\"https://ref.ly/Deut15:16-Deut15:17\">DEU 15:16–15:17</a>, <a href=\"https://ref.ly/Deut22:21\">DEU 22:21</a>; <a href=\"https://ref.ly/Isa57:8\">ISA 57:8</a>; <a href=\"https://ref.ly/Ezek45:19\">EZK 45:19</a></p>\n<h2>Figurative use of opening a door</h2>\n<h3>The door as a symbol of opportunity</h3>\n<p><strong><a href=\"https://ref.ly/1Cor16:8-1Cor16:9\">1CO 16:8–16:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen4:7\">GEN 4:7</a>; <a href=\"https://ref.ly/Hos2:15\">HOS 2:15</a>; <a href=\"https://ref.ly/Acts14:27\">ACT 14:27</a>; <a href=\"https://ref.ly/Col4:3\">COL 4:3</a>; <a href=\"https://ref.ly/Rev3:7-Rev3:8\">REV 3:7–3:8</a></p>\n<h3>Opening the door as a symbol of allowing Jesus Christ into one's life</h3>\n<p><strong><a href=\"https://ref.ly/Rev3:20\">REV 3:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke12:35-Luke12:36\">LUK 12:35–12:36</a></p>\n<h3>The door opened in answer to prayer</h3>\n<p><strong><a href=\"https://ref.ly/Matt7:7-Matt7:8\">MAT 7:7–7:8</a></strong> parallel <a href=\"https://ref.ly/Luke11:9-Luke11:10\">LUK 11:9–11:10</a></p>\n<h3>Jesus Christ as the means of access to God</h3>\n<p><strong><a href=\"https://ref.ly/John10:7\">JHN 10:7</a></strong> <em>“Door” is sometimes used as a synonym for “gate”.</em> <em>See also</em> <a href=\"https://ref.ly/John10:9\">JHN 10:9</a></p>\n<h3>The door is indicative of imminent arrival</h3>\n<p><a href=\"https://ref.ly/Matt24:33\">MAT 24:33</a> parallel <a href=\"https://ref.ly/Mark13:29\">MRK 13:29</a></p>\n<h3>The door as the entry to the coming kindgom</h3>\n<p><a href=\"https://ref.ly/Matt25:10-Matt25:12\">MAT 25:10–25:12</a>; ; <a href=\"https://ref.ly/Luke13:23-Luke13:25\">LUK 13:23–13:25</a></p>",
@@ -331,7 +331,8 @@
 "label": "6606: access to God",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

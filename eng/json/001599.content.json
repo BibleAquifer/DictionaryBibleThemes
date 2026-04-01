@@ -2,10 +2,10 @@
 {
 "content_id": "6608",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6608: adoption",
 "media_type": "Text",
-"index_reference": "6608: adoption",
+"index_reference": "6608",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The deliberate action by which a family gives to a person all the privileges of being a member of that family.</p>",
@@ -33,7 +33,8 @@
 "label": "6611: adoption, privileges and duties of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

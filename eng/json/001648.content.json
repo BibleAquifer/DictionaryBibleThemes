@@ -2,10 +2,10 @@
 {
 "content_id": "6679",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6679: justification, results of",
 "media_type": "Text",
-"index_reference": "6679: justification, results of",
+"index_reference": "6679",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Justification brings a changed relationship with God and a future hope. It will also bring a change in behaviour.</p>\n<h2>The results of justification</h2>\n<h3>Peace with God, access to his presence and the hope of his glory</h3>\n<p><strong><a href=\"https://ref.ly/Rom5:1-Rom5:2\">ROM 5:1–5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:30\">ROM 8:30</a>; <a href=\"https://ref.ly/Titus3:7\">TIT 3:7</a></p>\n<h3>Assurance of forgiveness</h3>\n<p><a href=\"https://ref.ly/Rom5:9\">ROM 5:9</a>; ; <a href=\"https://ref.ly/Eph1:13-Eph1:14\">EPH 1:13–1:14</a></p>\n<h3>Knowing Jesus Christ and participating in his resurrection</h3>\n<p><strong><a href=\"https://ref.ly/Phil3:10-Phil3:11\">PHP 3:10–3:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom6:5\">ROM 6:5</a></p>\n<h3>Freedom from condemnation</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:31-Rom8:34\">ROM 8:31–8:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:1-Rom8:4\">ROM 8:1–8:4</a>; <a href=\"https://ref.ly/Gal3:13-Gal3:14\">GAL 3:13–3:14</a></p>\n<h3>Freedom from domination by sin</h3>\n<p><strong><a href=\"https://ref.ly/Rom6:14\">ROM 6:14</a>, <a href=\"https://ref.ly/Rom6:17-Rom6:18\">ROM 6:17–6:18</a></strong></p>\n<h3>Adoption into God's family</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Rom8:15-Rom8:17\">ROM 8:15–8:17</a>; <a href=\"https://ref.ly/Gal4:6-Gal4:7\">GAL 4:6–4:7</a></p>\n<h3>Righteousness in the sight of God</h3>\n<p><strong><a href=\"https://ref.ly/Rom5:17\">ROM 5:17</a></strong>; <strong><a href=\"https://ref.ly/Phil3:8-Phil3:9\">PHP 3:8–3:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom3:20-Rom3:22\">ROM 3:20–3:22</a>; <a href=\"https://ref.ly/1Cor1:30\">1CO 1:30</a></p>\n<h3>Justification must lead to good works</h3>\n<p><strong><a href=\"https://ref.ly/Jas2:24\">JAS 2:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom6:15-Rom6:18\">ROM 6:15–6:18</a>; <a href=\"https://ref.ly/Gal5:13-Gal5:16\">GAL 5:13–5:16</a>; <a href=\"https://ref.ly/Jas2:14-Jas2:26\">JAS 2:14–2:26</a></p>",
@@ -228,6 +228,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9610: hope",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Laodicea",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Laodicea"
+},
+{
+"id": "group:Laodicea",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Laodiceans"
 }
 ]
 }

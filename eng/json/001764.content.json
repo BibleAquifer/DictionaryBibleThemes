@@ -2,10 +2,10 @@
 {
 "content_id": "7310",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7310: avenger of blood",
 "media_type": "Text",
-"index_reference": "7310: avenger of blood",
+"index_reference": "7310",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The one responsible in OT law for carrying out the death penalty in the case of murder, usually, the murdered person's next of kin.</p>\n<h2>The responsibility of the avenger of blood</h2>\n<p><strong><a href=\"https://ref.ly/Num35:16-Num35:21\">NUM 35:16–35:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num35:26-Num35:27\">NUM 35:26–35:27</a>; <a href=\"https://ref.ly/Deut19:11-Deut19:12\">DEU 19:11–19:12</a></p>\n<h2>Protection from the avenger of blood</h2>\n<p><strong><a href=\"https://ref.ly/Num35:10-Num35:15\">NUM 35:10–35:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num35:22-Num35:25\">NUM 35:22–35:25</a>; <a href=\"https://ref.ly/Deut19:4-Deut19:6\">DEU 19:4–19:6</a>; <a href=\"https://ref.ly/Josh20:1-Josh20:6\">JOS 20:1–20:6</a></p>\n<h2>Examples of avenging of blood</h2>\n<p><a href=\"https://ref.ly/Gen4:24\">GEN 4:24</a>; ; <a href=\"https://ref.ly/2Sam3:27\">2SA 3:27</a>, <a href=\"https://ref.ly/2Sam14:11\">2SA 14:11</a></p>\n<h2>God as an avenger of blood</h2>\n<p><strong><a href=\"https://ref.ly/Deut32:43\">DEU 32:43</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg9:23-Judg9:24\">JDG 9:23–9:24</a>; <a href=\"https://ref.ly/2Kgs9:7\">2KI 9:7</a>; <a href=\"https://ref.ly/Ps9:12\">PSA 9:12</a>, <a href=\"https://ref.ly/Ps79:10\">PSA 79:10</a>; <a href=\"https://ref.ly/Rev6:10\">REV 6:10</a>, <a href=\"https://ref.ly/Rev19:2\">REV 19:2</a></p>",
@@ -177,6 +177,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Nard",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nard"
 }
 ]
 }

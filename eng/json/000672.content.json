@@ -2,10 +2,10 @@
 {
 "content_id": "5071",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5071: Aaron",
 "media_type": "Text",
-"index_reference": "5071: aaron",
+"index_reference": "5071",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The elder brother of Moses and Miriam. He served as a spokesman for his brother in the confrontation with Pharoah, which eventually led to the exodus from Egypt. He was later consecrated as high priest.</p>",
@@ -26,7 +26,8 @@
 "label": "5073: Aaron, as model priest",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

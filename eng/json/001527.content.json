@@ -2,10 +2,10 @@
 {
 "content_id": "6154",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6154: fall, the",
 "media_type": "Text",
-"index_reference": "6154: fall, the",
+"index_reference": "6154",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The departure by creation, including human beings, from the patterns and standards set for it by God. Creation now exists at a lower level of integrity and fulfilment than that which God originally intended for it.</p>",
@@ -32,6 +32,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6157: fall, of Satan and his angels",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jacan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jacan"
 }
 ]
 }

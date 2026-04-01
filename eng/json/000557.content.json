@@ -2,10 +2,10 @@
 {
 "content_id": "4832",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4832: length",
 "media_type": "Text",
-"index_reference": "4832: length",
+"index_reference": "4832",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Length as measurement</h2>\n<p><strong><a href=\"https://ref.ly/Lev19:35\">LEV 19:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:15\">GEN 6:15</a>; <a href=\"https://ref.ly/Exod26:12\">EXO 26:12</a>; <a href=\"https://ref.ly/2Sam8:2\">2SA 8:2</a>; <a href=\"https://ref.ly/2Chr3:8\">2CH 3:8</a>EZK <a href=\"https://ref.ly/2Chr40:5\">40:5</a>, <a href=\"https://ref.ly/Ezek40:11\">EZK 40:11</a>, <a href=\"https://ref.ly/Ezek40:20\">EZK 40:20</a>, <a href=\"https://ref.ly/Ezek41:4\">EZK 41:4</a>, <a href=\"https://ref.ly/Ezek41:8\">EZK 41:8</a>, <a href=\"https://ref.ly/Ezek41:12\">EZK 41:12</a>, <a href=\"https://ref.ly/Ezek41:15\">EZK 41:15</a>, <a href=\"https://ref.ly/Ezek42:10-Ezek42:11\">EZK 42:10–42:11</a>\n<a href=\"https://ref.ly/Acts12:10\">ACT 12:10</a>; <a href=\"https://ref.ly/Rev21:16\">REV 21:16</a></p>\n<h2>Length of land</h2>\n<p><strong><a href=\"https://ref.ly/Gen13:17\">GEN 13:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek48:8\">EZK 48:8</a>, <a href=\"https://ref.ly/Ezek48:13\">EZK 48:13</a>, <a href=\"https://ref.ly/Ezek48:18\">EZK 48:18</a>, <a href=\"https://ref.ly/Ezek48:21\">EZK 48:21</a></p>\n<h2>Length of life</h2>\n<p><strong><a href=\"https://ref.ly/Ps90:10\">PSA 90:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps21:4\">PSA 21:4</a>; <a href=\"https://ref.ly/Prov10:27\">PRO 10:27</a></p>\n<h2>Length of time</h2>\n<p><strong><a href=\"https://ref.ly/Exod12:40\">EXO 12:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam2:11\">2SA 2:11</a></p>\n<h2>Length of Jesus Christ's love</h2>\n<p><a href=\"https://ref.ly/Eph3:14-Eph3:19\">EPH 3:14–3:19</a></p>",
@@ -232,7 +232,8 @@
 "label": "8275: honesty",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

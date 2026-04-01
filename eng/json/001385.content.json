@@ -2,10 +2,10 @@
 {
 "content_id": "5866",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5866: gluttony",
 "media_type": "Text",
-"index_reference": "5866: gluttony",
+"index_reference": "5866",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture condemns an excessive greed for food. Its unrestrained self-indulgence often leads to deeper iniquity and represents a rejection of godly moderation.</p>\n<h2>Gluttony is a form of idolatry and therefore condemned as offensive to God</h2>\n<p><strong><a href=\"https://ref.ly/Eph5:5\">EPH 5:5</a></strong>; <strong><a href=\"https://ref.ly/Phil3:19\">PHP 3:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps10:3\">PSA 10:3</a>; <a href=\"https://ref.ly/Isa22:12-Isa22:14\">ISA 22:12–22:14</a> <em>Gluttony as escapism, trying to avoid God's requirements</em>; <a href=\"https://ref.ly/Zech7:4-Zech7:6\">ZEC 7:4–7:6</a> <em>Even their religious feasts were nothing but self-indulgence</em>; <a href=\"https://ref.ly/Mark7:21-Mark7:23\">MRK 7:21–7:23</a>; <a href=\"https://ref.ly/1Cor6:9-1Cor6:10\">1CO 6:9–6:10</a>, <a href=\"https://ref.ly/1Cor10:7\">1CO 10:7</a>; <a href=\"https://ref.ly/Col3:5\">COL 3:5</a>; <a href=\"https://ref.ly/Jas5:5\">JAS 5:5</a></p>\n<h2>Gluttony is closely linked with drunkenness</h2>\n<p><a href=\"https://ref.ly/Exod32:6\">EXO 32:6</a>; ; <a href=\"https://ref.ly/Judg9:27\">JDG 9:27</a>; ; <a href=\"https://ref.ly/1Sam25:36\">1SA 25:36</a></p>\n<h2>The destructive consequences of gluttony</h2>\n<p><strong><a href=\"https://ref.ly/Prov23:20-Prov23:21\">PRO 23:20–23:21</a>, <a href=\"https://ref.ly/Prov28:7\">PRO 28:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov15:27\">PRO 15:27</a>, <a href=\"https://ref.ly/Prov28:25\">PRO 28:25</a>; <a href=\"https://ref.ly/Eccl6:7\">ECC 6:7</a></p>\n<h2>Warnings against gluttony</h2>\n<p><strong><a href=\"https://ref.ly/Prov23:1-Prov23:2\">PRO 23:1–23:2</a></strong>; <strong><a href=\"https://ref.ly/Luke12:15\">LUK 12:15</a></strong>; <strong><a href=\"https://ref.ly/Eph5:3\">EPH 5:3</a></strong>; <strong><a href=\"https://ref.ly/Col3:5\">COL 3:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke12:19-Luke12:20\">LUK 12:19–12:20</a>, <a href=\"https://ref.ly/Luke21:34\">LUK 21:34</a>; <a href=\"https://ref.ly/1Cor5:9-1Cor5:11\">1CO 5:9–5:11</a>; <a href=\"https://ref.ly/Gal5:19-Gal5:21\">GAL 5:19–5:21</a>; <a href=\"https://ref.ly/Titus1:12-Titus1:13\">TIT 1:12–1:13</a>; <a href=\"https://ref.ly/1Pet4:3-1Pet4:4\">1PE 4:3–4:4</a></p>\n<h2>Examples of gluttony</h2>\n<p><a href=\"https://ref.ly/Gen25:29-Gen25:34\">GEN 25:29–25:34</a> <em>Esau putting food before his birthright</em>; ; <a href=\"https://ref.ly/Num11:32\">NUM 11:32</a> <em>the children of Israel gorging on quail</em>; ; <a href=\"https://ref.ly/1Sam30:16\">1SA 30:16</a> <em>an Amalekite raiding party</em>; ; <a href=\"https://ref.ly/1Kgs1:24-1Kgs1:25\">1KI 1:24–1:25</a> <em>Adonijah feasting with his supporters</em>; ; <a href=\"https://ref.ly/Dan5:1\">DAN 5:1</a> <em>King Belshazzar</em>; ; <a href=\"https://ref.ly/Matt11:19\">MAT 11:19</a> parallel <a href=\"https://ref.ly/Luke7:34\">LUK 7:34</a> <em>Jesus Christ falsely accused of gluttony</em>; ; <a href=\"https://ref.ly/Matt23:25\">MAT 23:25</a> parallel <a href=\"https://ref.ly/Luke11:39\">LUK 11:39</a> <em>the Pharisees</em>; ; <a href=\"https://ref.ly/Matt24:49\">MAT 24:49</a> parallel <a href=\"https://ref.ly/Luke12:45\">LUK 12:45</a> <em>the irresponsible servant</em>; ; <a href=\"https://ref.ly/Luke15:13\">LUK 15:13</a> <em>the prodigal son</em>; ; <a href=\"https://ref.ly/2Pet2:13-2Pet2:14\">2PE 2:13–2:14</a> <em>false teachers</em></p>",
@@ -294,6 +294,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8821: self-indulgence",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hobab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hobab"
 }
 ]
 }

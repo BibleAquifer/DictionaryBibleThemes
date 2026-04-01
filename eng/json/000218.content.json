@@ -2,10 +2,10 @@
 {
 "content_id": "2423",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "2423: gospel, essence of",
 "media_type": "Text",
-"index_reference": "2423: gospel, essence of",
+"index_reference": "2423",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The chief characteristic and fundamental doctrine of the gospel is that Jesus Christ is both Lord and Saviour.</p>\n<h2>Jesus Christ as Lord</h2>\n<h3>The universal lordship of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Matt28:18\">MAT 28:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan7:13-Dan7:14\">DAN 7:13–7:14</a>; <a href=\"https://ref.ly/Luke10:22\">LUK 10:22</a>; <a href=\"https://ref.ly/John3:35\">JHN 3:35</a>, <a href=\"https://ref.ly/John17:2\">JHN 17:2</a>; <a href=\"https://ref.ly/Acts10:36\">ACT 10:36</a>; <a href=\"https://ref.ly/Rom14:9\">ROM 14:9</a>; <a href=\"https://ref.ly/1Cor15:27\">1CO 15:27</a>; <a href=\"https://ref.ly/Eph1:20-Eph1:22\">EPH 1:20–1:22</a>; <a href=\"https://ref.ly/Phil2:9-Phil2:10\">PHP 2:9–2:10</a>; <a href=\"https://ref.ly/Col1:15-Col1:20\">COL 1:15–1:20</a></p>\n<h3>Personal implications of the lordship of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Luke12:8-Luke12:9\">LUK 12:8–12:9</a></strong>; <strong><a href=\"https://ref.ly/Rom10:9\">ROM 10:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt7:21-Matt7:27\">MAT 7:21–7:27</a> parallel <a href=\"https://ref.ly/Luke6:46-Luke6:49\">LUK 6:46–6:49</a>; <a href=\"https://ref.ly/John13:13-John13:14\">JHN 13:13–13:14</a></p>\n<h3>The lordship of Jesus Christ can only be acknowledged through divine inspiration and revelation</h3>\n<p><strong><a href=\"https://ref.ly/1Cor12:3\">1CO 12:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/John16:13-John16:15\">JHN 16:13–16:15</a>; <a href=\"https://ref.ly/1John4:2-1John4:3\">1JN 4:2–4:3</a></p>\n<h2>Jesus Christ as Saviour</h2>\n<p><strong><a href=\"https://ref.ly/Luke2:11\">LUK 2:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/John1:29\">JHN 1:29</a>, <a href=\"https://ref.ly/John4:42\">JHN 4:42</a>; <a href=\"https://ref.ly/Acts5:31\">ACT 5:31</a>; <a href=\"https://ref.ly/1Tim2:5-1Tim2:6\">1TI 2:5–2:6</a>; <a href=\"https://ref.ly/Titus2:11-Titus2:14\">TIT 2:11–2:14</a>; <a href=\"https://ref.ly/1John4:14\">1JN 4:14</a></p>\n<h3>Jesus Christ is the promised Messiah</h3>\n<p><strong><a href=\"https://ref.ly/Matt1:20-Matt1:23\">MAT 1:20–1:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa7:14\">ISA 7:14</a>; <a href=\"https://ref.ly/Ps130:8\">PSA 130:8</a>; <a href=\"https://ref.ly/Isa53:11\">ISA 53:11</a>; <a href=\"https://ref.ly/Acts13:23\">ACT 13:23</a></p>\n<h3>Jesus Christ did everything that was required to save his people</h3>\n<p><strong><a href=\"https://ref.ly/John19:30\">JHN 19:30</a></strong> <em>He fulfilled all God's righteous requirements, made perfect atonement for sin and gained victory over death for all who believe in him.</em> <em>See also</em> <a href=\"https://ref.ly/Matt3:15\">MAT 3:15</a>; <a href=\"https://ref.ly/John4:34\">JHN 4:34</a>, <a href=\"https://ref.ly/John17:4\">JHN 17:4</a>; <a href=\"https://ref.ly/1Cor15:20-1Cor15:22\">1CO 15:20–15:22</a></p>\n<h3>Salvation comes only through Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/John14:6\">JHN 14:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts4:12\">ACT 4:12</a>, <a href=\"https://ref.ly/Acts10:43\">ACT 10:43</a>, <a href=\"https://ref.ly/Acts16:30-Acts16:31\">ACT 16:30–16:31</a>; <a href=\"https://ref.ly/1Tim2:5\">1TI 2:5</a></p>\n<h3>Jesus Christ will return to judge the world and bring his people to glory</h3>\n<p><strong><a href=\"https://ref.ly/Matt16:27\">MAT 16:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/John14:3\">JHN 14:3</a>; <a href=\"https://ref.ly/Acts1:11\">ACT 1:11</a>, <a href=\"https://ref.ly/Acts17:31\">ACT 17:31</a>; <a href=\"https://ref.ly/1Thess4:16-1Thess4:17\">1TH 4:16–4:17</a>; <a href=\"https://ref.ly/2Tim4:1\">2TI 4:1</a>; <a href=\"https://ref.ly/Rev1:7\">REV 1:7</a>, <a href=\"https://ref.ly/Rev22:7\">REV 22:7</a>, <a href=\"https://ref.ly/Rev22:12\">REV 22:12</a>, <a href=\"https://ref.ly/Rev22:20\">REV 22:20</a></p>",
@@ -389,7 +389,8 @@
 "label": "6666: grace",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

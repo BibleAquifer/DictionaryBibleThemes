@@ -2,10 +2,10 @@
 {
 "content_id": "5628",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5628: work",
 "media_type": "Text",
-"index_reference": "5628: work",
+"index_reference": "5628",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Work was ordained by God as a means of fulfilment, service and praise. It is to be supplemented by rest, following the pattern of God's creation of the world. Despite the effects of sin, work can still be honouring to God.</p>",
@@ -68,7 +68,8 @@
 "label": "5636: work, and rest",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

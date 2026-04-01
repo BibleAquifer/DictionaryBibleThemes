@@ -2,10 +2,10 @@
 {
 "content_id": "4639",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4639: dung and manure",
 "media_type": "Text",
-"index_reference": "4639: dung and manure",
+"index_reference": "4639",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Human dung is considered unclean</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Deut23:12-Deut23:14\">DEU 23:12–23:14</a>; <a href=\"https://ref.ly/Ezek4:12-Ezek4:14\">EZK 4:12–4:14</a></p>\n<h3>The Dung Gate of Jerusalem</h3>\n<p><a href=\"https://ref.ly/Neh2:13\">NEH 2:13</a>, <a href=\"https://ref.ly/Neh3:13-Neh3:14\">NEH 3:13–3:14</a>, <a href=\"https://ref.ly/Neh12:31\">NEH 12:31</a></p>\n<h2>Uses of manure</h2>\n<h3>As fertiliser</h3>\n<p><a href=\"https://ref.ly/Luke13:8\">LUK 13:8</a>, <a href=\"https://ref.ly/Luke14:35\">LUK 14:35</a></p>\n<h3>As fuel</h3>\n<p><a href=\"https://ref.ly/Ezek4:15\">EZK 4:15</a></p>\n<h2>Symbolic references to dung</h2>\n<h3>As fuel</h3>\n<p><a href=\"https://ref.ly/1Kgs14:10\">1KI 14:10</a></p>\n<h3>As something perishable</h3>\n<p><a href=\"https://ref.ly/Job20:7\">JOB 20:7</a></p>\n<h3>As something trampled down</h3>\n<p><a href=\"https://ref.ly/Isa25:10\">ISA 25:10</a></p>\n<h3>As something worthless</h3>\n<p><a href=\"https://ref.ly/Phil3:8\">PHP 3:8</a></p>",
@@ -120,7 +120,8 @@
 "label": "7340: clean and unclean",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

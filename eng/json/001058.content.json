@@ -2,10 +2,10 @@
 {
 "content_id": "5487",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5487: queen",
 "media_type": "Text",
-"index_reference": "5487: queen",
+"index_reference": "5487",
 "language": "eng",
 "review_level": "None",
 "content": "<p>In OT times the chief wife of a king's harem or a female monarch. A queen mother, as a king's widow and the mother of the reigning king, would have held a position of some authority and influence.</p>\n<h2>A queen as the wife of a king</h2>\n<h3>A chief wife among several</h3>\n<p><strong><a href=\"https://ref.ly/Esth2:17\">EST 2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth1:9-Esth1:12\">EST 1:9–1:12</a>, <a href=\"https://ref.ly/Esth2:4\">EST 2:4</a></p>\n<h3>Enjoying a position of some influence</h3>\n<p><a href=\"https://ref.ly/Esth1:15-Esth1:18\">EST 1:15–1:18</a>, <a href=\"https://ref.ly/Esth2:22\">EST 2:22</a>, <a href=\"https://ref.ly/Esth5:12\">EST 5:12</a>, <a href=\"https://ref.ly/Esth7:5-Esth7:8\">EST 7:5–7:8</a></p>\n<h3>Enjoying the king's special favour</h3>\n<p><strong><a href=\"https://ref.ly/Esth5:2-Esth5:3\">EST 5:2–5:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth7:1-Esth7:3\">EST 7:1–7:3</a>, <a href=\"https://ref.ly/Esth8:1\">EST 8:1</a>, <a href=\"https://ref.ly/Esth8:7\">EST 8:7</a>, <a href=\"https://ref.ly/Esth9:12\">EST 9:12</a>; <a href=\"https://ref.ly/Song6:8-Song6:9\">SNG 6:8–6:9</a>; <a href=\"https://ref.ly/Neh2:6\">NEH 2:6</a>; <a href=\"https://ref.ly/Ps45:9\">PSA 45:9</a></p>\n<h3>Sometimes granted considerable authority</h3>\n<p><strong><a href=\"https://ref.ly/Esth9:29\">EST 9:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth9:31\">EST 9:31</a></p>\n<h2>A queen as a female monarch</h2>\n<h3>The queen of Sheba</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs10:1\">1KI 10:1</a></strong> parallel <a href=\"https://ref.ly/2Chr9:1\">2CH 9:1</a> <em>See also</em> <a href=\"https://ref.ly/1Kgs10:2-1Kgs10:10\">1KI 10:2–10:10</a> parallel <a href=\"https://ref.ly/2Chr9:1-2Chr9:9\">2CH 9:1–9:9</a>; <a href=\"https://ref.ly/1Kgs10:13\">1KI 10:13</a> parallel <a href=\"https://ref.ly/2Chr9:12\">2CH 9:12</a>; <a href=\"https://ref.ly/Matt12:42\">MAT 12:42</a> parallel <a href=\"https://ref.ly/Luke11:31\">LUK 11:31</a></p>\n<h3>Queen Athaliah of Judah</h3>\n<p><a href=\"https://ref.ly/2Kgs11:1-2Kgs11:21\">2KI 11:1–11:21</a> parallel <a href=\"https://ref.ly/2Chr22:10-2Chr23:21\">2CH 22:10–23:21</a></p>\n<h2>Queen used figuratively</h2>\n<h3>Of Jerusalem</h3>\n<p><a href=\"https://ref.ly/Lam1:1\">LAM 1:1</a>; ; <a href=\"https://ref.ly/Ezek16:13\">EZK 16:13</a></p>\n<h3>Of Babylon</h3>\n<p><a href=\"https://ref.ly/Isa47:5\">ISA 47:5</a>, <a href=\"https://ref.ly/Isa47:7\">ISA 47:7</a>; ; <a href=\"https://ref.ly/Rev18:7\">REV 18:7</a></p>\n<h2>Queen of Heaven: a title for the Babylonian goddess Ishtar</h2>\n<p><a href=\"https://ref.ly/Jer7:18\">JER 7:18</a>, <a href=\"https://ref.ly/Jer44:17-Jer44:19\">JER 44:17–44:19</a>, <a href=\"https://ref.ly/Jer44:25\">JER 44:25</a></p>\n<h2>A queen mother as a king's widow and mother of the reigning king</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs2:19\">1KI 2:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs15:13\">1KI 15:13</a> parallel <a href=\"https://ref.ly/2Chr15:16\">2CH 15:16</a>; <a href=\"https://ref.ly/2Kgs10:13\">2KI 10:13</a>, <a href=\"https://ref.ly/2Kgs24:8\">2KI 24:8</a>, <a href=\"https://ref.ly/2Kgs24:12\">2KI 24:12</a>, <a href=\"https://ref.ly/2Kgs24:15\">2KI 24:15</a>; <a href=\"https://ref.ly/Jer13:18\">JER 13:18</a>, <a href=\"https://ref.ly/Jer22:26\">JER 22:26</a>, <a href=\"https://ref.ly/Jer29:2\">JER 29:2</a>; <a href=\"https://ref.ly/Dan5:10\">DAN 5:10</a>; <a href=\"https://ref.ly/Acts8:27\">ACT 8:27</a></p>",
@@ -358,7 +358,8 @@
 "label": "8747: false gods",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

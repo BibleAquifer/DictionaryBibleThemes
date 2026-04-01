@@ -2,10 +2,10 @@
 {
 "content_id": "5920",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5920: pretence",
 "media_type": "Text",
-"index_reference": "5920: pretence",
+"index_reference": "5920",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The deception of others by individuals, usually for the sake of their own interest, safety or pride. Scripture condemns such pretence and demands honesty from believers at every point.</p>\n<h2>Pretence practised by people for their own interests</h2>\n<h3>The wearing of a disguise</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs14:1-1Kgs14:6\">1KI 14:1–14:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:5-Gen27:19\">GEN 27:5–27:19</a>, <a href=\"https://ref.ly/Gen27:35-Gen27:36\">GEN 27:35–27:36</a>, <a href=\"https://ref.ly/Gen29:16-Gen29:25\">GEN 29:16–29:25</a>, <a href=\"https://ref.ly/Gen38:13-Gen38:16\">GEN 38:13–38:16</a>; <a href=\"https://ref.ly/2Sam14:1-2Sam14:3\">2SA 14:1–14:3</a></p>\n<h3>Other pretences</h3>\n<p><strong><a href=\"https://ref.ly/Gen42:7\">GEN 42:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen34:13-Gen34:15\">GEN 34:13–34:15</a>, <a href=\"https://ref.ly/Gen34:25\">GEN 34:25</a>; <a href=\"https://ref.ly/2Sam13:1-2Sam13:11\">2SA 13:1–13:11</a>; <a href=\"https://ref.ly/2Kgs10:18-2Kgs10:19\">2KI 10:18–10:19</a>; <a href=\"https://ref.ly/Prov13:7\">PRO 13:7</a>; <a href=\"https://ref.ly/Jer9:6-Jer9:9\">JER 9:6–9:9</a>; <a href=\"https://ref.ly/Matt22:15-Matt22:22\">MAT 22:15–22:22</a> parallels <a href=\"https://ref.ly/Mark12:13-Mark12:17\">MRK 12:13–12:17</a>, <a href=\"https://ref.ly/Luke20:20-Luke20:26\">LUK 20:20–20:26</a></p>\n<h2>Pretence practised by people for their own safety</h2>\n<h3>The wearing of a disguise</h3>\n<p><strong><a href=\"https://ref.ly/Josh9:3-Josh9:22\">JOS 9:3–9:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam28:7-1Sam28:12\">1SA 28:7–28:12</a>; <a href=\"https://ref.ly/1Kgs22:29-1Kgs22:32\">1KI 22:29–22:32</a> parallel <a href=\"https://ref.ly/2Chr18:28-2Chr18:32\">2CH 18:28–18:32</a></p>\n<h3>Other pretences</h3>\n<p><strong><a href=\"https://ref.ly/1Sam21:10-1Sam21:13\">1SA 21:10–21:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam19:11-1Sam19:17\">1SA 19:11–19:17</a>; PSA 34:0; <a href=\"https://ref.ly/Acts27:29-Acts27:30\">ACT 27:29–27:30</a></p>\n<h2>Examples of pretence</h2>\n<h3>That practised by people because of their pride</h3>\n<p><strong><a href=\"https://ref.ly/Prov12:9\">PRO 12:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr35:20-2Chr35:22\">2CH 35:20–35:22</a>; <a href=\"https://ref.ly/Prov13:7\">PRO 13:7</a>; <a href=\"https://ref.ly/Matt6:2\">MAT 6:2</a>, <a href=\"https://ref.ly/Matt6:5\">MAT 6:5</a>, <a href=\"https://ref.ly/Matt6:16\">MAT 6:16</a>, <a href=\"https://ref.ly/Matt23:27-Matt23:28\">MAT 23:27–23:28</a>, <a href=\"https://ref.ly/Matt24:4-Matt24:5\">MAT 24:4–24:5</a> parallels <a href=\"https://ref.ly/Mark13:5-Mark13:6\">MRK 13:5–13:6</a>, <a href=\"https://ref.ly/Luke21:8\">LUK 21:8</a></p>\n<h3>That practised by people in their approach to God</h3>\n<p><strong><a href=\"https://ref.ly/Jer3:10\">JER 3:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt15:7-Matt15:8\">MAT 15:7–15:8</a> parallel <a href=\"https://ref.ly/Mark7:6\">MRK 7:6</a>; <a href=\"https://ref.ly/Isa29:13\">ISA 29:13</a></p>\n<h3>That commanded by the LORD for his own purpose</h3>\n<p><a href=\"https://ref.ly/1Kgs20:37-1Kgs20:43\">1KI 20:37–20:43</a></p>\n<h2>God's people must rid themselves of pretence</h2>\n<p><strong><a href=\"https://ref.ly/1Pet2:1\">1PE 2:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps119:29\">PSA 119:29</a>; <a href=\"https://ref.ly/Luke12:1\">LUK 12:1</a>; <a href=\"https://ref.ly/1Pet2:21-1Pet2:22\">1PE 2:21–2:22</a>; <a href=\"https://ref.ly/Isa53:9\">ISA 53:9</a></p>\n<h2>The gospel demolishes pretence</h2>\n<p><strong><a href=\"https://ref.ly/2Cor10:5\">2CO 10:5</a></strong></p>",
@@ -354,6 +354,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8776: lies",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hoshama",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hoshama"
 }
 ]
 }

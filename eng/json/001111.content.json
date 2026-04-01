@@ -2,10 +2,10 @@
 {
 "content_id": "5545",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5545: spear",
 "media_type": "Text",
-"index_reference": "5545: spear",
+"index_reference": "5545",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A weapon of warfare for stabbing or throwing. God promises a time when they will be changed into instruments of peace.</p>\n<h2>People killed by spears</h2>\n<p><a href=\"https://ref.ly/Num25:6-Num25:8\">NUM 25:6–25:8</a>; ; <a href=\"https://ref.ly/2Sam2:23\">2SA 2:23</a>, <a href=\"https://ref.ly/2Sam18:14\">2SA 18:14</a>, <a href=\"https://ref.ly/2Sam23:21\">2SA 23:21</a> parallel <a href=\"https://ref.ly/1Chr11:23\">1CH 11:23</a></p>\n<h2>Jesus Christ pierced by a spear</h2>\n<p><strong><a href=\"https://ref.ly/John19:34\">JHN 19:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa53:5\">ISA 53:5</a>; <a href=\"https://ref.ly/Zech12:10\">ZEC 12:10</a>; <a href=\"https://ref.ly/John20:27\">JHN 20:27</a>; <a href=\"https://ref.ly/Rev1:7\">REV 1:7</a></p>\n<h2>Armies of Judah armed with spears</h2>\n<p><a href=\"https://ref.ly/2Chr11:12\">2CH 11:12</a>, <a href=\"https://ref.ly/2Chr14:8\">2CH 14:8</a>, <a href=\"https://ref.ly/2Chr25:5\">2CH 25:5</a>, <a href=\"https://ref.ly/2Chr26:14\">2CH 26:14</a>; ; <a href=\"https://ref.ly/Neh4:13\">NEH 4:13</a></p>\n<h2>Armies of other nations that used spears</h2>\n<h3>The Philistines</h3>\n<p><a href=\"https://ref.ly/1Sam17:7\">1SA 17:7</a></p>\n<h3>The Babylonians</h3>\n<p><a href=\"https://ref.ly/Jer6:22-Jer6:23\">JER 6:22–6:23</a></p>\n<h3>The Egyptians</h3>\n<p><a href=\"https://ref.ly/2Sam23:21\">2SA 23:21</a> parallel <a href=\"https://ref.ly/1Chr11:23\">1CH 11:23</a>; ; <a href=\"https://ref.ly/Jer46:2-Jer46:4\">JER 46:2–46:4</a></p>\n<h3>The Romans</h3>\n<p><a href=\"https://ref.ly/John19:34\">JHN 19:34</a></p>\n<h2>God's people are not to trust in spears but in God</h2>\n<p><strong><a href=\"https://ref.ly/1Sam17:47\">1SA 17:47</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:45-1Sam17:46\">1SA 17:45–17:46</a></p>\n<h2>King Saul and his spear</h2>\n<h3>Used against David</h3>\n<p><strong><a href=\"https://ref.ly/1Sam18:10-1Sam18:11\">1SA 18:10–18:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam19:9-1Sam19:10\">1SA 19:9–19:10</a></p>\n<h3>Used against Jonathan</h3>\n<p><strong><a href=\"https://ref.ly/1Sam20:33\">1SA 20:33</a></strong></p>\n<h3>David takes Saul's spear</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/1Sam26:5-1Sam26:24\">1SA 26:5–26:24</a></p>\n<h2>Joshua's spear used as a sign of victory</h2>\n<p><strong><a href=\"https://ref.ly/Josh8:18\">JOS 8:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh8:19\">JOS 8:19</a>, <a href=\"https://ref.ly/Josh8:25-Josh8:26\">JOS 8:25–8:26</a></p>\n<h2>Goliath's spear symbolises his strength</h2>\n<p><a href=\"https://ref.ly/1Sam17:7\">1SA 17:7</a>, <a href=\"https://ref.ly/1Sam17:45-1Sam17:47\">1SA 17:45–17:47</a>; ; <a href=\"https://ref.ly/2Sam21:19\">2SA 21:19</a>; ; <a href=\"https://ref.ly/1Chr20:5\">1CH 20:5</a></p>\n<h2>Spears will be turned into pruning hooks</h2>\n<p><strong><a href=\"https://ref.ly/Isa2:4\">ISA 2:4</a></strong> parallel <a href=\"https://ref.ly/Mic4:3\">MIC 4:3</a> <em>Some believe that the peace described in <a href=\"https://ref.ly/Isa2:1-Isa2:4\">Isa 2:1–4</a> has been inaugurated with the coming of Jesus Christ. Others maintain that it refers to conditions that will obtain during a future reign of Jesus Christ on earth. The details are generally taken to be figurative rather than literal.</em> <em>See also</em> <a href=\"https://ref.ly/Ps46:9\">PSA 46:9</a></p>\n<h2>Pruning hooks will be turned into spears</h2>\n<p><strong><a href=\"https://ref.ly/Joel3:10\">JOL 3:10</a></strong></p>",
@@ -243,6 +243,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5612: weapons",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Spear",
+"type": "realia",
+"confidence": 0.6515,
+"match_method": "scored",
+"preferred_label": "Spear"
 }
 ]
 }

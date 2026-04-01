@@ -2,10 +2,10 @@
 {
 "content_id": "7377",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7377: high priest, in OT",
 "media_type": "Text",
-"index_reference": "7377: high priest, in ot",
+"index_reference": "7377",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The OT emphasises the spiritual importance of the high priest, especially as the one who makes atonement for the sins of the nation. It also sets out his duties and responsibilities.</p>\n<h2>The role of the high priest</h2>\n<h3>Making atonement on the Day of Atonement</h3>\n<p><strong><a href=\"https://ref.ly/Lev16:3\">LEV 16:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev16:1-Lev16:34\">LEV 16:1–16:34</a></p>\n<h3>Teaching</h3>\n<p><strong><a href=\"https://ref.ly/Deut33:10\">DEU 33:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezra7:12\">EZR 7:12</a>; <a href=\"https://ref.ly/Neh8:2\">NEH 8:2</a></p>\n<h3>Providing oracles</h3>\n<p><strong><a href=\"https://ref.ly/Lev8:8\">LEV 8:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num27:21\">NUM 27:21</a>; <a href=\"https://ref.ly/Deut33:8\">DEU 33:8</a></p>\n<h3>Interceding</h3>\n<p><strong><a href=\"https://ref.ly/Ezra9:5\">EZR 9:5</a></strong></p>\n<h3>Administering the sanctuary</h3>\n<p><strong><a href=\"https://ref.ly/Num3:38\">NUM 3:38</a></strong></p>\n<h3>Anointing kings</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs11:12\">2KI 11:12</a></strong></p>\n<h3>Supervising censuses</h3>\n<p><strong><a href=\"https://ref.ly/Num26:1-Num26:2\">NUM 26:1–26:2</a></strong></p>\n<h3>Encouraging soldiers</h3>\n<p><strong><a href=\"https://ref.ly/Deut20:2\">DEU 20:2</a></strong></p>\n<h2>Titles used to refer to the high priest</h2>\n<h3>The priest</h3>\n<p><strong><a href=\"https://ref.ly/Exod31:10\">EXO 31:10</a></strong></p>\n<h3>The anointed priest</h3>\n<p><strong><a href=\"https://ref.ly/Lev4:3\">LEV 4:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod30:30\">EXO 30:30</a>; <a href=\"https://ref.ly/Lev4:5\">LEV 4:5</a>, <a href=\"https://ref.ly/Lev4:16\">LEV 4:16</a>, <a href=\"https://ref.ly/Lev16:32\">LEV 16:32</a></p>\n<h3>The high priest</h3>\n<p><strong><a href=\"https://ref.ly/Lev21:10\">LEV 21:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hag1:12-Hag1:14\">HAG 1:12–1:14</a>, <a href=\"https://ref.ly/Hag2:2-Hag2:4\">HAG 2:2–2:4</a>; <a href=\"https://ref.ly/Zech3:1-Zech3:8\">ZEC 3:1–3:8</a>, <a href=\"https://ref.ly/Zech6:11\">ZEC 6:11</a></p>\n<h2>Melchizedek, the king-priest</h2>\n<p><a href=\"https://ref.ly/Gen14:18\">GEN 14:18</a>; ; <a href=\"https://ref.ly/Ps110:4\">PSA 110:4</a> <em>David's son, as king-priest, is appointed to the order of Melchizedek, a priesthood superior to that of Aaron</em>; ; <a href=\"https://ref.ly/Heb7:11\">HEB 7:11</a></p>\n<h2>High priesthood in the law</h2>\n<h3>Only certain people might be high priests</h3>\n<p><strong><a href=\"https://ref.ly/Num3:10\">NUM 3:10</a></strong></p>\n<h3>Consecration of a high priest</h3>\n<p><strong><a href=\"https://ref.ly/Lev8:30\">LEV 8:30</a></strong></p>\n<h3>Dignity of the high priesthood</h3>\n<p><strong><a href=\"https://ref.ly/Deut17:12\">DEU 17:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev21:10\">LEV 21:10</a></p>\n<h3>Dress of the high priest</h3>\n<p><strong><a href=\"https://ref.ly/Exod28:4\">EXO 28:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev8:7-Lev8:9\">LEV 8:7–8:9</a>, <a href=\"https://ref.ly/Lev16:4\">LEV 16:4</a></p>\n<h2>Other high priests mentioned in the OT</h2>\n<p><a href=\"https://ref.ly/1Sam1:9\">1SA 1:9</a> <em>Eli</em>; ; <a href=\"https://ref.ly/1Sam21:2\">1SA 21:2</a> <em>Ahimelech</em>; ; <a href=\"https://ref.ly/1Chr24:3\">1CH 24:3</a> <em>Zadok</em>; ; <a href=\"https://ref.ly/2Kgs16:10\">2KI 16:10</a> <em>Uriah</em>; ; <a href=\"https://ref.ly/2Kgs22:4\">2KI 22:4</a> <em>Hilkiah</em>; ; <a href=\"https://ref.ly/2Kgs25:18\">2KI 25:18</a> <em>Seraiah</em>; ; <a href=\"https://ref.ly/Neh3:1\">NEH 3:1</a> <em>Eliashib</em></p>",
@@ -337,7 +337,8 @@
 "label": "7768: priests, function in OT times",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

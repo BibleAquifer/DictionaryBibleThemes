@@ -2,10 +2,10 @@
 {
 "content_id": "8418",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8418: endurance",
 "media_type": "Text",
-"index_reference": "8418: endurance",
+"index_reference": "8418",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The ability to persevere in a task or calling. The Christian is called to endure in the face of trial or opposition, and his endurance brings spiritual rewards.</p>\n<h2>Endurance commended as a virtue for God's people</h2>\n<p><strong><a href=\"https://ref.ly/Josh1:7\">JOS 1:7</a></strong>; <strong><a href=\"https://ref.ly/Gal6:9\">GAL 6:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut5:32\">DEU 5:32</a>; <a href=\"https://ref.ly/Josh23:8\">JOS 23:8</a>; <a href=\"https://ref.ly/Job17:9\">JOB 17:9</a>; <a href=\"https://ref.ly/Acts11:23\">ACT 11:23</a>, <a href=\"https://ref.ly/Acts13:43\">ACT 13:43</a>, <a href=\"https://ref.ly/Acts14:22\">ACT 14:22</a>; <a href=\"https://ref.ly/Eph4:14\">EPH 4:14</a>; <a href=\"https://ref.ly/1Tim6:11\">1TI 6:11</a>; <a href=\"https://ref.ly/2Tim2:3\">2TI 2:3</a>; <a href=\"https://ref.ly/1Pet2:20\">1PE 2:20</a>; <a href=\"https://ref.ly/Rev13:10\">REV 13:10</a></p>\n<h2>Endurance is a hallmark of true Christian profession</h2>\n<p><strong><a href=\"https://ref.ly/Matt10:22\">MAT 10:22</a></strong> parallel <a href=\"https://ref.ly/Mark13:13\">MRK 13:13</a><strong><a href=\"https://ref.ly/Luke9:62\">LUK 9:62</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts20:24\">ACT 20:24</a>; <a href=\"https://ref.ly/2Tim2:12\">2TI 2:12</a></p>\n<h2>Christian endurance originates with God</h2>\n<p><strong><a href=\"https://ref.ly/Rom15:5\">ROM 15:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor1:8-2Cor1:9\">2CO 1:8–1:9</a>; <a href=\"https://ref.ly/Col1:10-Col1:11\">COL 1:10–1:11</a>; <a href=\"https://ref.ly/2Thess3:5\">2TH 3:5</a></p>\n<h2>Christian endurance involves standing firm</h2>\n<p><strong><a href=\"https://ref.ly/1Cor15:58\">1CO 15:58</a></strong>; <strong><a href=\"https://ref.ly/Phil1:27\">PHP 1:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal5:1\">GAL 5:1</a>; <a href=\"https://ref.ly/Phil4:1\">PHP 4:1</a>; <a href=\"https://ref.ly/2Thess2:15\">2TH 2:15</a>; <a href=\"https://ref.ly/2Tim3:14\">2TI 3:14</a>, <a href=\"https://ref.ly/2Tim4:5\">2TI 4:5</a></p>\n<h2>The results of enduring</h2>\n<h3>Salvation</h3>\n<p><strong><a href=\"https://ref.ly/Heb10:36\">HEB 10:36</a></strong>; <strong><a href=\"https://ref.ly/Jas1:12\">JAS 1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom2:7\">ROM 2:7</a>, <a href=\"https://ref.ly/Rom15:4\">ROM 15:4</a>; <a href=\"https://ref.ly/1Tim4:16\">1TI 4:16</a>; <a href=\"https://ref.ly/2Tim2:10\">2TI 2:10</a>; <a href=\"https://ref.ly/Heb12:7-Heb12:9\">HEB 12:7–12:9</a></p>\n<h3>Protection</h3>\n<p><strong><a href=\"https://ref.ly/Rev3:10\">REV 3:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Thess3:3-2Thess3:4\">2TH 3:3–3:4</a></p>\n<h3>Spiritual fruit</h3>\n<p><strong><a href=\"https://ref.ly/Jas1:4\">JAS 1:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke8:15\">LUK 8:15</a>; <a href=\"https://ref.ly/Rom5:3-Rom5:5\">ROM 5:3–5:5</a></p>\n<h3>Encouragement for others</h3>\n<p><strong><a href=\"https://ref.ly/2Cor1:6\">2CO 1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Pet5:9\">1PE 5:9</a>; <a href=\"https://ref.ly/Heb12:1-Heb12:3\">HEB 12:1–12:3</a>; <a href=\"https://ref.ly/Rev1:9\">REV 1:9</a></p>\n<h2>Examples of endurance</h2>\n<p><a href=\"https://ref.ly/Ps123:3-Ps123:4\">PSA 123:3–123:4</a>; ; <a href=\"https://ref.ly/1Cor4:12\">1CO 4:12</a>; ; <a href=\"https://ref.ly/1Thess1:3\">1TH 1:3</a>; ; <a href=\"https://ref.ly/2Thess1:4\">2TH 1:4</a>; ; <a href=\"https://ref.ly/2Tim3:10-2Tim3:11\">2TI 3:10–3:11</a>; ; <a href=\"https://ref.ly/Jas5:11\">JAS 5:11</a>; ; <a href=\"https://ref.ly/Rev2:3\">REV 2:3</a></p>",
@@ -408,6 +408,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8794: persecution",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Shimron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimron"
 }
 ]
 }

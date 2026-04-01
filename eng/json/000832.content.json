@@ -2,10 +2,10 @@
 {
 "content_id": "5244",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5244: camp",
 "media_type": "Text",
-"index_reference": "5244: camp",
+"index_reference": "5244",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A dwelling-place in the desert, often linked with the idea of a wandering people.</p>\n<h2>Camps and the nomadic lifestyle of early Israel</h2>\n<h3>At the time of the patriarchs</h3>\n<p><strong><a href=\"https://ref.ly/Gen25:16\">GEN 25:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen26:17\">GEN 26:17</a>, <a href=\"https://ref.ly/Gen31:25\">GEN 31:25</a>, <a href=\"https://ref.ly/Gen32:21\">GEN 32:21</a>, <a href=\"https://ref.ly/Gen33:18\">GEN 33:18</a></p>\n<h3>During Israel's wanderings in the wilderness</h3>\n<p><strong><a href=\"https://ref.ly/Num1:52\">NUM 1:52</a>, <a href=\"https://ref.ly/Num9:17-Num9:18\">NUM 9:17–9:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod13:20\">EXO 13:20</a>, <a href=\"https://ref.ly/Exod16:13\">EXO 16:13</a>, <a href=\"https://ref.ly/Exod19:16-Exod19:17\">EXO 19:16–19:17</a>, <a href=\"https://ref.ly/Exod32:26-Exod32:27\">EXO 32:26–32:27</a></p>\n<h3>During the entry into the promised land</h3>\n<p><strong><a href=\"https://ref.ly/Josh4:19\">JOS 4:19</a></strong></p>\n<h2>The camp as a symbol of God's holy presence</h2>\n<h3>All that was unclean was put outside the camp</h3>\n<p><strong><a href=\"https://ref.ly/Lev13:46\">LEV 13:46</a></strong>; <strong><a href=\"https://ref.ly/Deut23:14\">DEU 23:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod29:14\">EXO 29:14</a>; <a href=\"https://ref.ly/Lev24:14\">LEV 24:14</a>; <a href=\"https://ref.ly/Num5:2-Num5:4\">NUM 5:2–5:4</a>; <a href=\"https://ref.ly/Heb13:11-Heb13:13\">HEB 13:11–13:13</a> <em>a picture of Jesus Christ's rejection</em></p>\n<h3>The camp and God's protection</h3>\n<p><strong><a href=\"https://ref.ly/Gen32:2\">GEN 32:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps34:7\">PSA 34:7</a></p>\n<h2>The camp as a military base</h2>\n<p><strong><a href=\"https://ref.ly/1Sam17:1\">1SA 17:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg7:8-Judg7:11\">JDG 7:8–7:11</a>, <a href=\"https://ref.ly/Judg7:13-Judg7:15\">JDG 7:13–7:15</a>; <a href=\"https://ref.ly/2Kgs3:24\">2KI 3:24</a>; <a href=\"https://ref.ly/Jer50:29\">JER 50:29</a>; <a href=\"https://ref.ly/Ezek4:2\">EZK 4:2</a></p>",
@@ -204,7 +204,8 @@
 "label": "7474: Tent of Meeting",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

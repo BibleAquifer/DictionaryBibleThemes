@@ -2,10 +2,10 @@
 {
 "content_id": "8775",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8775: libertinism",
 "media_type": "Text",
-"index_reference": "8775: libertinism",
+"index_reference": "8775",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A form of abuse of Christian freedom which refuses to acknowledge any obligation for Christians to obey the law or to restrain sin.</p>\n<h2>Grace must not lead to libertinism</h2>\n<p><strong><a href=\"https://ref.ly/Rom6:1-Rom6:2\">ROM 6:1–6:2</a>, <a href=\"https://ref.ly/Rom6:15\">ROM 6:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom3:5-Rom3:8\">ROM 3:5–3:8</a>; <a href=\"https://ref.ly/Gal2:17-Gal2:21\">GAL 2:17–2:21</a></p>\n<h2>Believers must resist sin</h2>\n<p><strong><a href=\"https://ref.ly/Rom6:12\">ROM 6:12</a>, <a href=\"https://ref.ly/Rom6:14\">ROM 6:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb12:1-Heb12:2\">HEB 12:1–12:2</a>; <a href=\"https://ref.ly/1John5:16-1John5:18\">1JN 5:16–5:18</a></p>\n<h2>The law remains valid for believers</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:17-Matt5:18\">MAT 5:17–5:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh23:6\">JOS 23:6</a>; <a href=\"https://ref.ly/1Chr22:12\">1CH 22:12</a>; <a href=\"https://ref.ly/Prov28:7\">PRO 28:7</a>; <a href=\"https://ref.ly/Rom7:12\">ROM 7:12</a>; <a href=\"https://ref.ly/1Tim1:8\">1TI 1:8</a></p>\n<h2>The dangers of libertinism</h2>\n<h3>Falling back into sin</h3>\n<p><a href=\"https://ref.ly/Rom6:1-Rom6:2\">ROM 6:1–6:2</a>; ; <a href=\"https://ref.ly/Heb12:1\">HEB 12:1</a>; ; <a href=\"https://ref.ly/1John1:8-1John1:10\">1JN 1:8–1:10</a></p>\n<h3>Disobedience towards God</h3>\n<p><strong><a href=\"https://ref.ly/1John2:3-1John2:4\">1JN 2:3–2:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/1John3:4\">1JN 3:4</a>; <a href=\"https://ref.ly/2Cor10:6\">2CO 10:6</a>; <a href=\"https://ref.ly/Eph5:6\">EPH 5:6</a>; <a href=\"https://ref.ly/1Pet2:8\">1PE 2:8</a></p>\n<h3>Selfishness</h3>\n<p><strong><a href=\"https://ref.ly/1John3:17\">1JN 3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke6:32-Luke6:34\">LUK 6:32–6:34</a>; <a href=\"https://ref.ly/2Tim2:1-2Tim2:4\">2TI 2:1–2:4</a>; <a href=\"https://ref.ly/1John2:9-1John2:11\">1JN 2:9–2:11</a></p>",
@@ -183,6 +183,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8750: false teachings",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Temah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Temah"
 }
 ]
 }

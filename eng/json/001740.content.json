@@ -2,10 +2,10 @@
 {
 "content_id": "7227",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7227: flood, the",
 "media_type": "Text",
-"index_reference": "7227: flood, the",
+"index_reference": "7227",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A universal catastrophe by means of which the world was overwhelmed by water as the judgment of God on sinful humanity. Only Noah, his family and the animals were saved.</p>\n<h2>Details of the flood</h2>\n<h3>Its source</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Gen7:4\">GEN 7:4</a>, <a href=\"https://ref.ly/Gen7:11-Gen7:12\">GEN 7:11–7:12</a>, <a href=\"https://ref.ly/Gen8:2\">GEN 8:2</a></p>\n<h3>Its extent</h3>\n<p><strong><a href=\"https://ref.ly/Gen7:17-Gen7:20\">GEN 7:17–7:20</a></strong></p>\n<h3>Its duration</h3>\n<p><strong><a href=\"https://ref.ly/Gen7:24\">GEN 7:24</a></strong></p>\n<h3>Its effect</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Gen7:21-Gen7:23\">GEN 7:21–7:23</a></p>\n<h2>The flood was God's judgment on sinful humanity</h2>\n<h3>Wickedness had become universal</h3>\n<p><a href=\"https://ref.ly/Gen6:5\">GEN 6:5</a>, <a href=\"https://ref.ly/Gen6:11-Gen6:13\">GEN 6:11–6:13</a></p>\n<h3>Judgment would be universal</h3>\n<p><a href=\"https://ref.ly/Gen6:7\">GEN 6:7</a>, <a href=\"https://ref.ly/Gen6:13\">GEN 6:13</a>, <a href=\"https://ref.ly/Gen6:17\">GEN 6:17</a>, <a href=\"https://ref.ly/Gen7:4\">GEN 7:4</a></p>\n<h3>Judgment was universal</h3>\n<p><a href=\"https://ref.ly/Gen7:21-Gen7:22\">GEN 7:21–7:22</a></p>\n<h2>Those not destroyed by the flood</h2>\n<h3>Noah, who was blameless in the midst of wickedness</h3>\n<p><a href=\"https://ref.ly/Gen6:8-Gen6:9\">GEN 6:8–6:9</a></p>\n<h3>Noah and his family kept safe in the ark</h3>\n<p><strong><a href=\"https://ref.ly/Gen7:23\">GEN 7:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:14\">GEN 6:14</a>, <a href=\"https://ref.ly/Gen6:18\">GEN 6:18</a>, <a href=\"https://ref.ly/Gen7:1\">GEN 7:1</a>, <a href=\"https://ref.ly/Gen7:7\">GEN 7:7</a>, <a href=\"https://ref.ly/Gen7:13\">GEN 7:13</a>, <a href=\"https://ref.ly/Gen8:15-Gen8:16\">GEN 8:15–8:16</a>, <a href=\"https://ref.ly/Gen8:18\">GEN 8:18</a>; <a href=\"https://ref.ly/2Pet2:5\">2PE 2:5</a>, <a href=\"https://ref.ly/2Pet2:9\">2PE 2:9</a></p>\n<h3>God kept the animals safe in the ark</h3>\n<p><a href=\"https://ref.ly/Gen6:19-Gen6:21\">GEN 6:19–6:21</a>, <a href=\"https://ref.ly/Gen7:2-Gen7:3\">GEN 7:2–7:3</a>, <a href=\"https://ref.ly/Gen7:8-Gen7:9\">GEN 7:8–7:9</a>, <a href=\"https://ref.ly/Gen7:14-Gen7:16\">GEN 7:14–7:16</a>, <a href=\"https://ref.ly/Gen8:1\">GEN 8:1</a>, <a href=\"https://ref.ly/Gen8:17\">GEN 8:17</a>, <a href=\"https://ref.ly/Gen8:19\">GEN 8:19</a></p>\n<h2>God promised never to send another universal flood</h2>\n<h3>God decided this in his heart</h3>\n<p><strong><a href=\"https://ref.ly/Gen8:21-Gen8:22\">GEN 8:21–8:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa54:9\">ISA 54:9</a></p>\n<h3>God established his covenant with Noah</h3>\n<p><a href=\"https://ref.ly/Gen9:8-Gen9:11\">GEN 9:8–9:11</a></p>\n<h3>The rainbow as the sign and reminder of God's covenant</h3>\n<p><a href=\"https://ref.ly/Gen9:12-Gen9:17\">GEN 9:12–9:17</a></p>\n<h2>The story of the flood used figuratively</h2>\n<h3>Of the judgment to come</h3>\n<p><a href=\"https://ref.ly/Dan9:26\">DAN 9:26</a>; ; <a href=\"https://ref.ly/2Pet3:6-2Pet3:7\">2PE 3:6–3:7</a></p>\n<h3>Of Jesus Christ's second coming</h3>\n<p><a href=\"https://ref.ly/Matt24:36-Matt24:44\">MAT 24:36–24:44</a> parallel <a href=\"https://ref.ly/Luke17:26-Luke17:27\">LUK 17:26–17:27</a></p>\n<h3>Of baptism</h3>\n<p><a href=\"https://ref.ly/1Pet3:20-1Pet3:21\">1PE 3:20–3:21</a></p>",
@@ -316,6 +316,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8734: evil",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:NeboMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mount Nebo"
 }
 ]
 }

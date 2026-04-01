@@ -2,10 +2,10 @@
 {
 "content_id": "5368",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5368: kingship",
 "media_type": "Text",
-"index_reference": "5368: kingship",
+"index_reference": "5368",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The sovereignty and rule of a king. Scripture stresses that all human authority derives ultimately from God, and that human kings are required to acknowledge and respond to this divine authority.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5370: kingship, human",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gareb",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gareb"
 }
 ]
 }

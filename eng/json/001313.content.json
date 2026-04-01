@@ -2,10 +2,10 @@
 {
 "content_id": "5791",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5791: anger, human",
 "media_type": "Text",
-"index_reference": "5791: anger, human",
+"index_reference": "5791",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Human anger arises for a number of reasons, some of which are acceptable and others which are not. Scripture stresses the potentially destructive aspects of human anger and urges moderation.</p>\n<h2>Reasons for human anger</h2>\n<h3>Jealousy</h3>\n<p><strong><a href=\"https://ref.ly/Gen4:4-Gen4:5\">GEN 4:4–4:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:28\">1SA 17:28</a>, <a href=\"https://ref.ly/1Sam18:8\">1SA 18:8</a>; <a href=\"https://ref.ly/1Kgs21:4\">1KI 21:4</a>; <a href=\"https://ref.ly/Luke15:28\">LUK 15:28</a></p>\n<h3>Pride</h3>\n<p><strong><a href=\"https://ref.ly/Jonah4:1\">JON 4:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam3:8\">2SA 3:8</a>, <a href=\"https://ref.ly/2Sam6:8\">2SA 6:8</a>; <a href=\"https://ref.ly/2Kgs5:11\">2KI 5:11</a>; <a href=\"https://ref.ly/2Chr26:19\">2CH 26:19</a></p>\n<h3>The truth</h3>\n<p><strong><a href=\"https://ref.ly/2Chr16:10\">2CH 16:10</a></strong> <em>Hanani had prophesied against the king.</em> <em>See also</em> <a href=\"https://ref.ly/Num24:10\">NUM 24:10</a>; <a href=\"https://ref.ly/Jer37:15\">JER 37:15</a></p>\n<h3>Human anger is sometimes justified</h3>\n<p><strong><a href=\"https://ref.ly/Exod32:19\">EXO 32:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod11:8\">EXO 11:8</a>, <a href=\"https://ref.ly/Exod16:20\">EXO 16:20</a>; <a href=\"https://ref.ly/Num16:15\">NUM 16:15</a>; <a href=\"https://ref.ly/Lev10:16\">LEV 10:16</a>; <a href=\"https://ref.ly/1Sam11:6\">1SA 11:6</a>, <a href=\"https://ref.ly/1Sam20:34\">1SA 20:34</a>; <a href=\"https://ref.ly/2Sam12:5\">2SA 12:5</a>; <a href=\"https://ref.ly/Neh5:6\">NEH 5:6</a>; <a href=\"https://ref.ly/Mark3:5\">MRK 3:5</a>; <a href=\"https://ref.ly/Luke14:21\">LUK 14:21</a></p>\n<h2>Results of human anger</h2>\n<h3>Strife</h3>\n<p><strong><a href=\"https://ref.ly/Gen4:8\">GEN 4:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam20:30\">1SA 20:30</a>; <a href=\"https://ref.ly/Ps124:2-Ps124:3\">PSA 124:2–124:3</a>; <a href=\"https://ref.ly/Prov29:22\">PRO 29:22</a>, <a href=\"https://ref.ly/Prov30:33\">PRO 30:33</a></p>\n<h3>God's judgment</h3>\n<p><strong><a href=\"https://ref.ly/Matt5:22\">MAT 5:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:5-Gen49:7\">GEN 49:5–49:7</a></p>\n<h3>Sin</h3>\n<p><strong><a href=\"https://ref.ly/Jas1:20\">JAS 1:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps4:4\">PSA 4:4</a>; <a href=\"https://ref.ly/Prov14:17\">PRO 14:17</a>; <a href=\"https://ref.ly/2Cor12:20\">2CO 12:20</a>; <a href=\"https://ref.ly/Eph4:26\">EPH 4:26</a></p>\n<h2>Dealing with anger</h2>\n<h3>Becoming slow to anger</h3>\n<p><strong><a href=\"https://ref.ly/1Cor13:5\">1CO 13:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl7:9\">ECC 7:9</a>; <a href=\"https://ref.ly/Titus1:7\">TIT 1:7</a>; <a href=\"https://ref.ly/Jas1:19\">JAS 1:19</a></p>\n<h3>Not taking revenge</h3>\n<p><strong><a href=\"https://ref.ly/Rom12:19\">ROM 12:19</a></strong></p>\n<h3>Renouncing anger</h3>\n<p><strong><a href=\"https://ref.ly/Eph4:31\">EPH 4:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps37:8\">PSA 37:8</a>; <a href=\"https://ref.ly/Col3:8\">COL 3:8</a>; <a href=\"https://ref.ly/1Tim2:8\">1TI 2:8</a></p>",
@@ -345,6 +345,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Helon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Helon"
 }
 ]
 }

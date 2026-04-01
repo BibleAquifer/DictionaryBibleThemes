@@ -2,10 +2,10 @@
 {
 "content_id": "6600",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6600: Aspects of salvation",
 "media_type": "Text",
-"index_reference": "6600: aspects of salvation",
+"index_reference": "6600",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"6602\" data-resourcetype=\"DictionaryOfBibleThemes\">6602: acceptance</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6606\" data-resourcetype=\"DictionaryOfBibleThemes\">6606: access to God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6608\" data-resourcetype=\"DictionaryOfBibleThemes\">6608: adoption</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6614\" data-resourcetype=\"DictionaryOfBibleThemes\">6614: atonement</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6620\" data-resourcetype=\"DictionaryOfBibleThemes\">6620: calling</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6622\" data-resourcetype=\"DictionaryOfBibleThemes\">6622: choice</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6624\" data-resourcetype=\"DictionaryOfBibleThemes\">6624: confession, of sin</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6626\" data-resourcetype=\"DictionaryOfBibleThemes\">6626: conversion</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6632\" data-resourcetype=\"DictionaryOfBibleThemes\">6632: conviction</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6634\" data-resourcetype=\"DictionaryOfBibleThemes\">6634: deliverance</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6636\" data-resourcetype=\"DictionaryOfBibleThemes\">6636: drawing near to God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6638\" data-resourcetype=\"DictionaryOfBibleThemes\">6638: election</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6644\" data-resourcetype=\"DictionaryOfBibleThemes\">6644: eternal life</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6648\" data-resourcetype=\"DictionaryOfBibleThemes\">6648: expiation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6650\" data-resourcetype=\"DictionaryOfBibleThemes\">6650: finding</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6652\" data-resourcetype=\"DictionaryOfBibleThemes\">6652: forgiveness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6658\" data-resourcetype=\"DictionaryOfBibleThemes\">6658: freedom</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6666\" data-resourcetype=\"DictionaryOfBibleThemes\">6666: grace</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6674\" data-resourcetype=\"DictionaryOfBibleThemes\">6674: imputation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6676\" data-resourcetype=\"DictionaryOfBibleThemes\">6676: justification</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6682\" data-resourcetype=\"DictionaryOfBibleThemes\">6682: mediation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6684\" data-resourcetype=\"DictionaryOfBibleThemes\">6684: mediator</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6686\" data-resourcetype=\"DictionaryOfBibleThemes\">6686: mercy</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6694\" data-resourcetype=\"DictionaryOfBibleThemes\">6694: mystery</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6696\" data-resourcetype=\"DictionaryOfBibleThemes\">6696: necessity</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6698\" data-resourcetype=\"DictionaryOfBibleThemes\">6698: newness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6700\" data-resourcetype=\"DictionaryOfBibleThemes\">6700: peace</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6708\" data-resourcetype=\"DictionaryOfBibleThemes\">6708: predestination</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6710\" data-resourcetype=\"DictionaryOfBibleThemes\">6710: privileges</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6712\" data-resourcetype=\"DictionaryOfBibleThemes\">6712: propitiation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6714\" data-resourcetype=\"DictionaryOfBibleThemes\">6714: ransom</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6716\" data-resourcetype=\"DictionaryOfBibleThemes\">6716: reconciliation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6720\" data-resourcetype=\"DictionaryOfBibleThemes\">6720: redemption</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6728\" data-resourcetype=\"DictionaryOfBibleThemes\">6728: regeneration</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6730\" data-resourcetype=\"DictionaryOfBibleThemes\">6730: reinstatement</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6732\" data-resourcetype=\"DictionaryOfBibleThemes\">6732: repentance</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6738\" data-resourcetype=\"DictionaryOfBibleThemes\">6738: rescue</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6740\" data-resourcetype=\"DictionaryOfBibleThemes\">6740: returning to God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6742\" data-resourcetype=\"DictionaryOfBibleThemes\">6742: sackcloth and ashes</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6744\" data-resourcetype=\"DictionaryOfBibleThemes\">6744: sanctification</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6750\" data-resourcetype=\"DictionaryOfBibleThemes\">6750: sin-bearer</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6752\" data-resourcetype=\"DictionaryOfBibleThemes\">6752: substitution</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"6754\" data-resourcetype=\"DictionaryOfBibleThemes\">6754: union with Christ</span></li></ul>",
@@ -312,6 +312,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6754: union with Christ",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Kiriathaim.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kiriathaim"
+},
+{
+"id": "place:Kiriathaim",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kiriathaim"
 }
 ]
 }

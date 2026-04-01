@@ -2,10 +2,10 @@
 {
 "content_id": "8025",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8025: faith, origins of",
 "media_type": "Text",
-"index_reference": "8025: faith, origins of",
+"index_reference": "8025",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Faith is a gift from God himself and is not to be seen as the result of human striving or achievement. Faith is inspired by the word and works of God.</p>\n<h2>Faith is a gift from God</h2>\n<p><strong><a href=\"https://ref.ly/John6:63-John6:65\">JHN 6:63–6:65</a></strong>; <strong><a href=\"https://ref.ly/Eph2:8-Eph2:9\">EPH 2:8–2:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt16:15-Matt16:17\">MAT 16:15–16:17</a>; <a href=\"https://ref.ly/Mark9:24\">MRK 9:24</a>; <a href=\"https://ref.ly/Luke17:5\">LUK 17:5</a>; <a href=\"https://ref.ly/Acts3:16\">ACT 3:16</a>, <a href=\"https://ref.ly/Acts14:27\">ACT 14:27</a>, <a href=\"https://ref.ly/Acts18:27\">ACT 18:27</a>; <a href=\"https://ref.ly/Rom12:3\">ROM 12:3</a>; <a href=\"https://ref.ly/1Cor4:7\">1CO 4:7</a>, <a href=\"https://ref.ly/1Cor12:9\">1CO 12:9</a>; <a href=\"https://ref.ly/Phil1:29\">PHP 1:29</a>; <a href=\"https://ref.ly/Jas2:5\">JAS 2:5</a></p>\n<h2>Faith comes through God's word</h2>\n<h3>Faith following a direct word from God</h3>\n<p><a href=\"https://ref.ly/Heb11:29-Heb11:30\">HEB 11:29–11:30</a>; ; <a href=\"https://ref.ly/Exod14:15\">EXO 14:15</a> <em>Moses receives God's instructions at the Red Sea</em>; ; <a href=\"https://ref.ly/Josh6:2-Josh6:5\">JOS 6:2–6:5</a> <em>Joshua receives God's instructions concerning Jericho</em>; ; <a href=\"https://ref.ly/Acts27:23-Acts27:25\">ACT 27:23–27:25</a></p>\n<h3>Faith through the Scriptures</h3>\n<p><a href=\"https://ref.ly/John2:22\">JHN 2:22</a>, <a href=\"https://ref.ly/John20:30-John20:31\">JHN 20:30–20:31</a>; ; <a href=\"https://ref.ly/2Tim3:15\">2TI 3:15</a></p>\n<h3>Faith comes through hearing God's word preached</h3>\n<p><strong><a href=\"https://ref.ly/Rom10:14-Rom10:17\">ROM 10:14–10:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa52:7\">ISA 52:7</a>, <a href=\"https://ref.ly/Isa53:1\">ISA 53:1</a>; <a href=\"https://ref.ly/John1:7\">JHN 1:7</a>, <a href=\"https://ref.ly/John4:41-John4:42\">JHN 4:41–4:42</a>, <a href=\"https://ref.ly/John17:20\">JHN 17:20</a>; <a href=\"https://ref.ly/Acts11:19-Acts11:21\">ACT 11:19–11:21</a>; <a href=\"https://ref.ly/1Cor2:4-1Cor2:5\">1CO 2:4–2:5</a></p>\n<h2>Faith comes through a personal encounter with Jesus Christ</h2>\n<p><a href=\"https://ref.ly/John9:35-John9:38\">JHN 9:35–9:38</a>, <a href=\"https://ref.ly/John20:26-John20:28\">JHN 20:26–20:28</a></p>\n<h2>Faith comes through witnessing miracles</h2>\n<p><strong><a href=\"https://ref.ly/John14:11\">JHN 14:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/John2:11\">JHN 2:11</a> <em>the miracle at the wedding feast</em>; <a href=\"https://ref.ly/John4:53\">JHN 4:53</a> <em>Jesus Christ heals an official's son.</em><a href=\"https://ref.ly/John11:45\">JHN 11:45</a>, <a href=\"https://ref.ly/John12:11\">JHN 12:11</a>\n<a href=\"https://ref.ly/Acts9:42\">ACT 9:42</a> <em>the raising of Tabitha</em></p>\n<h2>Faith based on knowledge of God</h2>\n<h3>Knowledge of God's faithfulness leads to faith</h3>\n<p><a href=\"https://ref.ly/Ps46:1-Ps46:3\">PSA 46:1–46:3</a>; ; <a href=\"https://ref.ly/Lam3:19-Lam3:24\">LAM 3:19–3:24</a>; ; <a href=\"https://ref.ly/Nah1:7\">NAM 1:7</a>; ; <a href=\"https://ref.ly/Acts2:25-Acts2:26\">ACT 2:25–2:26</a></p>\n<h3>Knowledge of God's achievements leads to faith</h3>\n<p><a href=\"https://ref.ly/Deut3:21-Deut3:22\">DEU 3:21–3:22</a>; ; <a href=\"https://ref.ly/1Sam17:34-1Sam17:37\">1SA 17:34–17:37</a>; ; <a href=\"https://ref.ly/Jer14:22\">JER 14:22</a></p>",
@@ -333,6 +333,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8825: self-righteousness, and the gospel",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Rezin.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rezin"
+},
+{
+"id": "person:Rezin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rezin"
 }
 ]
 }

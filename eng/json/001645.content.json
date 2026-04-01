@@ -2,10 +2,10 @@
 {
 "content_id": "6676",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6676: justification",
 "media_type": "Text",
-"index_reference": "6676: justification",
+"index_reference": "6676",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The acquittal, or declaration of being righteous, before God as judge. It is a central aspect of Paul's understanding of what God achieved for believers through the death and resurrection of Jesus Christ.</p>",
@@ -33,7 +33,8 @@
 "label": "6679: justification, results of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

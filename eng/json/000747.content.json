@@ -2,10 +2,10 @@
 {
 "content_id": "5158",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5158: head-covering",
 "media_type": "Text",
-"index_reference": "5158: head-covering",
+"index_reference": "5158",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A form of clothing worn on the head, often as a sign of status or rank.</p>\n<h2>Priestly head-coverings</h2>\n<p><strong><a href=\"https://ref.ly/Exod29:6\">EXO 29:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod28:4\">EXO 28:4</a> parallel <a href=\"https://ref.ly/Lev8:9\">LEV 8:9</a>; <a href=\"https://ref.ly/Lev16:4\">LEV 16:4</a>; <a href=\"https://ref.ly/Zech3:5\">ZEC 3:5</a></p>\n<h2>Royal head-coverings</h2>\n<p><strong><a href=\"https://ref.ly/Ezek21:25-Ezek21:26\">EZK 21:25–21:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam1:10\">2SA 1:10</a>; <a href=\"https://ref.ly/2Kgs11:12\">2KI 11:12</a> parallel <a href=\"https://ref.ly/2Chr23:11\">2CH 23:11</a>; <a href=\"https://ref.ly/Esth1:10-Esth1:11\">EST 1:10–1:11</a>, <a href=\"https://ref.ly/Esth2:17\">EST 2:17</a>; <a href=\"https://ref.ly/Ps21:1-Ps21:3\">PSA 21:1–21:3</a>; <a href=\"https://ref.ly/Song3:11\">SNG 3:11</a>; <a href=\"https://ref.ly/Rev14:14\">REV 14:14</a></p>\n<h2>Military head-coverings</h2>\n<p><strong><a href=\"https://ref.ly/1Sam17:5\">1SA 17:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr26:14\">2CH 26:14</a>; <a href=\"https://ref.ly/Ezek23:15\">EZK 23:15</a>, <a href=\"https://ref.ly/Ezek23:24\">EZK 23:24</a>, <a href=\"https://ref.ly/Ezek27:10\">EZK 27:10</a>, <a href=\"https://ref.ly/Ezek38:5\">EZK 38:5</a></p>\n<h2>Head-coverings in mourning</h2>\n<p><strong><a href=\"https://ref.ly/2Sam15:30\">2SA 15:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth6:12\">EST 6:12</a>; <a href=\"https://ref.ly/Ezek24:17\">EZK 24:17</a></p>\n<h2>Head-coverings in worship</h2>\n<p><strong><a href=\"https://ref.ly/1Cor11:4-1Cor11:7\">1CO 11:4–11:7</a></strong> <em>NIV footnote gives an alternative translation for these verses, taking hair as the head-covering.</em></p>\n<h2>Metaphorical use of head-coverings</h2>\n<p><strong><a href=\"https://ref.ly/Job29:14\">JOB 29:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph6:17\">EPH 6:17</a></p>",
@@ -239,7 +239,8 @@
 "label": "5419: mourning",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

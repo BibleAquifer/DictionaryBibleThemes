@@ -2,10 +2,10 @@
 {
 "content_id": "6640",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6640: election, privileges of",
 "media_type": "Text",
-"index_reference": "6640: election, privileges of",
+"index_reference": "6640",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God chose a people to enjoy a unique relationship with him which entailed the privilege of belonging to him, sharing in all his inheritance, serving him, praising him and proclaiming him.</p>\n<h2>God elected Israel out of all the nations of the world</h2>\n<p><strong><a href=\"https://ref.ly/Deut7:6\">DEU 7:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut14:1-Deut14:2\">DEU 14:1–14:2</a>; <a href=\"https://ref.ly/1Kgs3:8\">1KI 3:8</a>; <a href=\"https://ref.ly/1Chr16:13\">1CH 16:13</a>; <a href=\"https://ref.ly/Ps105:6\">PSA 105:6</a>, <a href=\"https://ref.ly/Ps105:43\">PSA 105:43</a>, <a href=\"https://ref.ly/Ps135:4\">PSA 135:4</a>; <a href=\"https://ref.ly/Isa41:8-Isa41:9\">ISA 41:8–41:9</a>; <a href=\"https://ref.ly/Ezek20:5-Ezek20:6\">EZK 20:5–20:6</a></p>\n<h3>The election of the nation is anticipated in the election of the patriarchs</h3>\n<p><strong><a href=\"https://ref.ly/Deut4:37-Deut4:38\">DEU 4:37–4:38</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut10:15\">DEU 10:15</a>; <a href=\"https://ref.ly/Acts13:17-Acts13:19\">ACT 13:17–13:19</a></p>\n<h2>Election was not based on merit</h2>\n<p><strong><a href=\"https://ref.ly/Deut7:7-Deut7:8\">DEU 7:7–7:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut9:4-Deut9:6\">DEU 9:4–9:6</a>; <a href=\"https://ref.ly/Ezek16:1-Ezek16:14\">EZK 16:1–16:14</a></p>\n<h2>God conferred privileges on the people he elected</h2>\n<h3>Election meant that God dwelled in their midst</h3>\n<p><strong><a href=\"https://ref.ly/2Chr6:6\">2CH 6:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs14:21\">1KI 14:21</a> parallel <a href=\"https://ref.ly/2Chr12:13\">2CH 12:13</a>; <a href=\"https://ref.ly/2Kgs21:7\">2KI 21:7</a> parallel <a href=\"https://ref.ly/2Chr33:7\">2CH 33:7</a>; <a href=\"https://ref.ly/2Chr6:34-2Chr6:35\">2CH 6:34–6:35</a>, <a href=\"https://ref.ly/2Chr7:12\">2CH 7:12</a>, <a href=\"https://ref.ly/2Chr7:16\">2CH 7:16</a>; <a href=\"https://ref.ly/Neh1:9\">NEH 1:9</a>; <a href=\"https://ref.ly/Ps132:13\">PSA 132:13</a></p>\n<h3>Election meant that God showed divine favour</h3>\n<p><strong><a href=\"https://ref.ly/Ps33:12\">PSA 33:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps65:4\">PSA 65:4</a>, <a href=\"https://ref.ly/Ps106:4-Ps106:5\">PSA 106:4–106:5</a>; <a href=\"https://ref.ly/Isa14:1\">ISA 14:1</a>, <a href=\"https://ref.ly/Isa43:1\">ISA 43:1</a>, <a href=\"https://ref.ly/Isa43:20\">ISA 43:20</a>, <a href=\"https://ref.ly/Isa44:1-Isa44:5\">ISA 44:1–44:5</a>, <a href=\"https://ref.ly/Isa45:4\">ISA 45:4</a>; <a href=\"https://ref.ly/Zech1:17\">ZEC 1:17</a></p>\n<h2>God gave responsiblilities to the people he elected</h2>\n<h3>Election calls for obedient and holy living</h3>\n<p><strong><a href=\"https://ref.ly/Lev20:26\">LEV 20:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod19:5-Exod19:6\">EXO 19:5–19:6</a></p>\n<h3>Election means increased accountability</h3>\n<p><strong><a href=\"https://ref.ly/Amos3:2\">AMO 3:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs23:26\">2KI 23:26</a></p>\n<h2>God's choice of Israel does not automatically imply election to salvation</h2>\n<p><strong><a href=\"https://ref.ly/Rom9:6-Rom9:8\">ROM 9:6–9:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom11:7-Rom11:8\">ROM 11:7–11:8</a></p>",
@@ -308,6 +308,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7334: circumcision",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Kolaiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kolaiah"
+},
+{
+"id": "person:Kolaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kolaiah"
 }
 ]
 }

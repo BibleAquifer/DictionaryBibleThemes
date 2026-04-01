@@ -2,10 +2,10 @@
 {
 "content_id": "5868",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5868: gossip",
 "media_type": "Text",
-"index_reference": "5868: gossip",
+"index_reference": "5868",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Idle talk which foolishly or maliciously spreads rumours or facts. The effects of gossiping are divisive and destructive.</p>\n<h2>Examples of gossiping</h2>\n<p><a href=\"https://ref.ly/Neh6:5-Neh6:8\">NEH 6:5–6:8</a> <em>False rumours were used to intimidate Nehemiah</em>; ; <a href=\"https://ref.ly/Ps41:5-Ps41:8\">PSA 41:5–41:8</a>; ; <a href=\"https://ref.ly/John7:12-John7:13\">JHN 7:12–7:13</a>; ; <a href=\"https://ref.ly/3John1:9-3John1:10\">3JN 1:9–1:10</a></p>\n<h2>Dangers of talking too much</h2>\n<p><strong><a href=\"https://ref.ly/Prov10:19\">PRO 10:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov18:6-Prov18:7\">PRO 18:6–18:7</a>, <a href=\"https://ref.ly/Prov21:23\">PRO 21:23</a>, <a href=\"https://ref.ly/Prov29:11\">PRO 29:11</a>; <a href=\"https://ref.ly/Eccl5:2-Eccl5:3\">ECC 5:2–5:3</a>; <a href=\"https://ref.ly/Matt12:36-Matt12:37\">MAT 12:36–12:37</a></p>\n<h2>Gossip can result from idleness</h2>\n<p><strong><a href=\"https://ref.ly/1Tim5:13\">1TI 5:13</a></strong></p>\n<h2>Gossip has disastrous effects</h2>\n<p><strong><a href=\"https://ref.ly/Prov16:28\">PRO 16:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov11:13\">PRO 11:13</a>, <a href=\"https://ref.ly/Prov17:9\">PRO 17:9</a>, <a href=\"https://ref.ly/Prov25:9-Prov25:10\">PRO 25:9–25:10</a>, <a href=\"https://ref.ly/Prov26:20\">PRO 26:20</a></p>\n<h2>Gossiping condemned and forbidden</h2>\n<p><strong><a href=\"https://ref.ly/Lev19:16\">LEV 19:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:1\">EXO 23:1</a>; <a href=\"https://ref.ly/Ps101:5\">PSA 101:5</a>; <a href=\"https://ref.ly/Prov10:18\">PRO 10:18</a>; <a href=\"https://ref.ly/Rom1:29-Rom1:30\">ROM 1:29–1:30</a>; <a href=\"https://ref.ly/2Cor12:20\">2CO 12:20</a></p>\n<h2>Advice on avoiding gossip</h2>\n<p><strong><a href=\"https://ref.ly/Ps141:3\">PSA 141:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov20:19\">PRO 20:19</a></p>",
@@ -226,6 +226,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8830: suspicion",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Habaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Habaiah"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5220",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5220: authority, abuse of",
 "media_type": "Text",
-"index_reference": "5220: authority, abuse of",
+"index_reference": "5220",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The misuse of a person's freedom of action in order to exploit, oppress or treat other people in a way that is not for their good.</p>\n<h2>Warnings against the abuse of authority</h2>\n<h3>By employers over employees</h3>\n<p><strong><a href=\"https://ref.ly/Eph6:9\">EPH 6:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev25:43\">LEV 25:43</a>; <a href=\"https://ref.ly/Deut24:14\">DEU 24:14</a></p>\n<h3>By fathers over children</h3>\n<p><strong><a href=\"https://ref.ly/Eph6:4\">EPH 6:4</a></strong> parallel <a href=\"https://ref.ly/Col3:21\">COL 3:21</a></p>\n<h3>By husbands over wives</h3>\n<p><strong><a href=\"https://ref.ly/Col3:19\">COL 3:19</a></strong></p>\n<h3>By elders over the church</h3>\n<p><strong><a href=\"https://ref.ly/1Pet5:2-1Pet5:3\">1PE 5:2–5:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek34:2-Ezek34:7\">EZK 34:2–34:7</a></p>\n<h3>By those mistreating foreigners</h3>\n<p><strong><a href=\"https://ref.ly/Exod22:21\">EXO 22:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:9\">EXO 23:9</a></p>\n<h3>By leaders over those who are led</h3>\n<p><strong><a href=\"https://ref.ly/Matt20:25-Matt20:27\">MAT 20:25–20:27</a></strong> parallel <a href=\"https://ref.ly/Mark10:42-Mark10:44\">MRK 10:42–10:44</a> <em>See also</em> <a href=\"https://ref.ly/Luke22:25-Luke22:26\">LUK 22:25–22:26</a></p>\n<h3>By those taking advantage of the helpless or poor</h3>\n<p><strong><a href=\"https://ref.ly/Exod22:22\">EXO 22:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov22:22\">PRO 22:22</a>; <a href=\"https://ref.ly/Ezek22:29\">EZK 22:29</a>; <a href=\"https://ref.ly/Zech7:10\">ZEC 7:10</a></p>\n<h3>By those who oppress others</h3>\n<p><strong><a href=\"https://ref.ly/Jer22:17\">JER 22:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps73:8\">PSA 73:8</a>, <a href=\"https://ref.ly/Ps119:134\">PSA 119:134</a>; <a href=\"https://ref.ly/Ezek22:7\">EZK 22:7</a></p>\n<h2>Examples of the abuse of authority</h2>\n<p><strong><a href=\"https://ref.ly/Gen16:6\">GEN 16:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod1:11\">EXO 1:11</a>; <a href=\"https://ref.ly/1Kgs12:14\">1KI 12:14</a>; <a href=\"https://ref.ly/Jas2:6\">JAS 2:6</a></p>",
@@ -204,6 +204,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8827: selfishness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Ezion-geber",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezion-geber"
 }
 ]
 }

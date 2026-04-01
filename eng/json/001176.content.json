@@ -2,10 +2,10 @@
 {
 "content_id": "5613",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5613: weights and measures",
 "media_type": "Text",
-"index_reference": "5613: weights and measures",
+"index_reference": "5613",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The peoples of the ancient Near East used a variety of standards of weights and measures, so that modern equivalents can only be approximate. The focus of Scripture is on the importance of keeping just weights and measures, and the prophets denounced those who used false balances and deceitful measures.</p>",
@@ -53,6 +53,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5619: weights and measures, distance and area",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Haman",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haman"
 }
 ]
 }

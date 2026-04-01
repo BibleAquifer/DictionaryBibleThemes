@@ -2,10 +2,10 @@
 {
 "content_id": "5512",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5512: scales and balances",
 "media_type": "Text",
-"index_reference": "5512: scales and balances",
+"index_reference": "5512",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Weighing devices designed to ensure fair dealing. The terms are also used metaphorically in Scripture.</p>\n<h2>Scales and balances were used in business transactions</h2>\n<p><a href=\"https://ref.ly/Jer32:10\">JER 32:10</a></p>\n<h2>Scales and balances should not be used dishonestly</h2>\n<h3>Exhortations to honest dealing</h3>\n<p><strong><a href=\"https://ref.ly/Lev19:35-Lev19:36\">LEV 19:35–19:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek45:10\">EZK 45:10</a></p>\n<h3>The LORD hates dishonest dealing</h3>\n<p><strong><a href=\"https://ref.ly/Prov20:10\">PRO 20:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov11:1\">PRO 11:1</a>, <a href=\"https://ref.ly/Prov16:11\">PRO 16:11</a>, <a href=\"https://ref.ly/Prov20:23\">PRO 20:23</a></p>\n<h3>Dishonest dealing was one of the reasons for God's judgment on his people</h3>\n<p><strong><a href=\"https://ref.ly/Jer5:1\">JER 5:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos12:6-Hos12:7\">HOS 12:6–12:7</a>; <a href=\"https://ref.ly/Amos8:4-Amos8:8\">AMO 8:4–8:8</a>; <a href=\"https://ref.ly/Mic6:10-Mic6:13\">MIC 6:10–6:13</a></p>\n<h2>Scales and balances used metaphorically</h2>\n<h3>To emphasise Job's distress</h3>\n<p><strong><a href=\"https://ref.ly/Job6:2\">JOB 6:2</a></strong></p>\n<h3>To highlight God's greatness</h3>\n<p><strong><a href=\"https://ref.ly/Isa40:15\">ISA 40:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:12\">ISA 40:12</a></p>\n<h3>Of God's judgment</h3>\n<p><strong><a href=\"https://ref.ly/Dan5:25-Dan5:30\">DAN 5:25–5:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek5:1-Ezek5:2\">EZK 5:1–5:2</a>; <a href=\"https://ref.ly/Rev6:5-Rev6:6\">REV 6:5–6:6</a></p>",
@@ -142,6 +142,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Balance",
+"type": "realia",
+"confidence": 0.6648,
+"match_method": "scored",
+"preferred_label": "Balance"
 }
 ]
 }

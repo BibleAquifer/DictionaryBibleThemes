@@ -2,10 +2,10 @@
 {
 "content_id": "6250",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6250: temptation, sources of",
 "media_type": "Text",
-"index_reference": "6250: temptation, sources of",
+"index_reference": "6250",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Temptation comes from a number of sources but not from God.</p>\n<h2>Temptation arising from sinful human nature</h2>\n<p><strong><a href=\"https://ref.ly/Eph2:1-Eph2:3\">EPH 2:1–2:3</a></strong>; <strong><a href=\"https://ref.ly/Jas1:14\">JAS 1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt5:29-Matt5:30\">MAT 5:29–5:30</a> parallel <a href=\"https://ref.ly/Mark9:43-Mark9:47\">MRK 9:43–9:47</a>; <a href=\"https://ref.ly/Matt6:23\">MAT 6:23</a>; <a href=\"https://ref.ly/Rom7:18-Rom7:23\">ROM 7:18–7:23</a></p>\n<h2>Temptation from other people</h2>\n<p><strong><a href=\"https://ref.ly/2Pet2:18\">2PE 2:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen3:6\">GEN 3:6</a>; <a href=\"https://ref.ly/Prov5:3-Prov5:6\">PRO 5:3–5:6</a></p>\n<h2>Temptation from Satan</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:1\">GEN 3:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr21:1\">1CH 21:1</a>; <a href=\"https://ref.ly/Matt4:1\">MAT 4:1</a> parallels <a href=\"https://ref.ly/Mark1:13\">MRK 1:13</a>, <a href=\"https://ref.ly/Luke4:2\">LUK 4:2</a>; <a href=\"https://ref.ly/Mark4:15\">MRK 4:15</a> parallel <a href=\"https://ref.ly/Luke8:12\">LUK 8:12</a>; <a href=\"https://ref.ly/1Cor7:5\">1CO 7:5</a>; <a href=\"https://ref.ly/1Thess3:5\">1TH 3:5</a></p>\n<h2>Temptation from the world</h2>\n<p><strong><a href=\"https://ref.ly/1John2:16\">1JN 2:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt13:22\">MAT 13:22</a> parallels <a href=\"https://ref.ly/Mark4:19\">MRK 4:19</a>, <a href=\"https://ref.ly/Luke8:14\">LUK 8:14</a></p>\n<h2>Attractions which lead to temptation</h2>\n<h3>Money</h3>\n<p><strong><a href=\"https://ref.ly/1Tim6:9-1Tim6:10\">1TI 6:9–6:10</a></strong></p>\n<h3>Power</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Deut8:17-Deut8:18\">DEU 8:17–8:18</a>; <a href=\"https://ref.ly/2Chr26:16\">2CH 26:16</a></p>\n<h3>Lust</h3>\n<p><a href=\"https://ref.ly/Prov6:25\">PRO 6:25</a>, <a href=\"https://ref.ly/Prov7:21\">PRO 7:21</a></p>\n<h3>Pride</h3>\n<p><a href=\"https://ref.ly/Prov11:2\">PRO 11:2</a></p>\n<h2>Temptation does not come from God</h2>\n<p><strong><a href=\"https://ref.ly/Jas1:13\">JAS 1:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt6:13\">MAT 6:13</a> parallel <a href=\"https://ref.ly/Luke11:4\">LUK 11:4</a></p>",
@@ -275,6 +275,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8832: testing",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jerusalem"
 }
 ]
 }

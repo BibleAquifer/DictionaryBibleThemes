@@ -2,10 +2,10 @@
 {
 "content_id": "1614",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1614: Scripture, understanding",
 "media_type": "Text",
-"index_reference": "1614: scripture, understanding",
+"index_reference": "1614",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God intends his word to be understood and has provided the directions and means for understanding it.</p>\n<h2>Scripture is intended to be clearly understood</h2>\n<h3>It is accessible to ordinary people</h3>\n<p><strong><a href=\"https://ref.ly/Ps119:130\">PSA 119:130</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps19:7\">PSA 19:7</a></p>\n<h3>Some sections are difficult to understand</h3>\n<p><strong><a href=\"https://ref.ly/2Pet3:15-2Pet3:16\">2PE 3:15–3:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb5:11\">HEB 5:11</a></p>\n<h2>God has prescribed the way to understand Scripture</h2>\n<h3>Through public reading</h3>\n<p><strong><a href=\"https://ref.ly/1Tim4:13\">1TI 4:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh8:2-Neh8:8\">NEH 8:2–8:8</a>, <a href=\"https://ref.ly/Neh13:1-Neh13:3\">NEH 13:1–13:3</a></p>\n<h3>Through diligent study</h3>\n<p><strong><a href=\"https://ref.ly/2Tim2:15\">2TI 2:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut17:18-Deut17:20\">DEU 17:18–17:20</a>; <a href=\"https://ref.ly/Acts17:11\">ACT 17:11</a></p>\n<h3>Through thoughtful meditation</h3>\n<p><strong><a href=\"https://ref.ly/Ps1:1-Ps1:3\">PSA 1:1–1:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh1:8\">JOS 1:8</a>; <a href=\"https://ref.ly/Job23:12\">JOB 23:12</a>; <a href=\"https://ref.ly/Ps119:15\">PSA 119:15</a>, <a href=\"https://ref.ly/Ps119:27\">PSA 119:27</a>, <a href=\"https://ref.ly/Ps119:48\">PSA 119:48</a>, <a href=\"https://ref.ly/Ps119:97\">PSA 119:97</a>, <a href=\"https://ref.ly/Ps119:148\">PSA 119:148</a></p>\n<h2>Assistance in understanding through the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/1Cor2:9-1Cor2:12\">1CO 2:9–2:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa64:4\">ISA 64:4</a>; <a href=\"https://ref.ly/Luke24:45\">LUK 24:45</a>; <a href=\"https://ref.ly/John14:26\">JHN 14:26</a>, <a href=\"https://ref.ly/John16:13\">JHN 16:13</a>; <a href=\"https://ref.ly/1John2:27\">1JN 2:27</a></p>\n<h2>Assistance in understanding through ministers of the word</h2>\n<p><strong><a href=\"https://ref.ly/Neh8:2-Neh8:8\">NEH 8:2–8:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph4:11-Eph4:14\">EPH 4:11–4:14</a>; <a href=\"https://ref.ly/1Tim4:11-1Tim4:16\">1TI 4:11–4:16</a>; <a href=\"https://ref.ly/2Tim4:1-2Tim4:5\">2TI 4:1–4:5</a></p>",
@@ -252,7 +252,8 @@
 "label": "8674: study",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5412",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5412: money",
 "media_type": "Text",
-"index_reference": "5412: money",
+"index_reference": "5412",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture stresses the positive and negative aspects of money, making it clear that the pursuit or love of money can easily lead to spiritual decay.</p>",
@@ -33,7 +33,8 @@
 "label": "5415: money, uses of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

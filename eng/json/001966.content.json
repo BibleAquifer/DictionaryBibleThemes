@@ -2,10 +2,10 @@
 {
 "content_id": "7936",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7936: love feast",
 "media_type": "Text",
-"index_reference": "7936: love feast",
+"index_reference": "7936",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The first Christians generally celebrated the Lord's Supper with the accompaniment of a meal, called the “agape” or “love feast”.</p>\n<h2>OT antecedents of the love feast</h2>\n<h3>The Passover meal</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Exod12:3-Exod12:11\">EXO 12:3–12:11</a>, <a href=\"https://ref.ly/Exod12:15-Exod12:16\">EXO 12:15–12:16</a>; <a href=\"https://ref.ly/Matt26:17-Matt26:18\">MAT 26:17–26:18</a> parallels <a href=\"https://ref.ly/Mark14:12-Mark14:15\">MRK 14:12–14:15</a>, <a href=\"https://ref.ly/Luke22:7-Luke22:12\">LUK 22:7–22:12</a>; <a href=\"https://ref.ly/1Cor11:23-1Cor11:25\">1CO 11:23–11:25</a></p>\n<h3>Other festive occasions</h3>\n<p><a href=\"https://ref.ly/Deut12:7\">DEU 12:7</a>; ; <a href=\"https://ref.ly/Neh8:10\">NEH 8:10</a></p>\n<h2>The NT practice of the love feast</h2>\n<h3>It was linked with the Lord's Supper</h3>\n<p><strong><a href=\"https://ref.ly/Acts2:46\">ACT 2:46</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts20:7\">ACT 20:7</a>; <a href=\"https://ref.ly/1Cor11:17-1Cor11:34\">1CO 11:17–11:34</a></p>\n<h3>The name ``love feasts''</h3>\n<p><strong><a href=\"https://ref.ly/Jude1:12\">JUD 1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Pet2:13\">2PE 2:13</a>; <a href=\"https://ref.ly/John13:2\">JHN 13:2</a>, <a href=\"https://ref.ly/John13:34\">JHN 13:34</a> <em>It was at the Last Supper that Jesus Christ gave his new commandment to his disciples to love one another as he had loved them.</em></p>\n<h3>The charitable distribution of food</h3>\n<p><a href=\"https://ref.ly/Acts6:1\">ACT 6:1</a></p>\n<h2>Abuses of the love feast</h2>\n<h3>Selfishness, indulgence and ostentation</h3>\n<p><strong><a href=\"https://ref.ly/1Cor11:20-1Cor11:22\">1CO 11:20–11:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor11:33-1Cor11:34\">1CO 11:33–11:34</a></p>\n<h3>Licentiousness</h3>\n<p><strong><a href=\"https://ref.ly/2Pet2:13\">2PE 2:13</a></strong></p>\n<h3>Ungodly participants, especially false teachers</h3>\n<p><strong><a href=\"https://ref.ly/Jude1:4\">JUD 1:4</a>, <a href=\"https://ref.ly/Jude1:12\">JUD 1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Pet2:1\">2PE 2:1</a>, <a href=\"https://ref.ly/2Pet2:13\">2PE 2:13</a></p>\n<h2>The heavenly love feast</h2>\n<h3>Foretold by Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Matt26:29\">MAT 26:29</a></strong> parallel <a href=\"https://ref.ly/Mark14:25\">MRK 14:25</a></p>\n<h3>The marriage supper of the Lamb</h3>\n<p><strong><a href=\"https://ref.ly/Rev19:9\">REV 19:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa25:6\">ISA 25:6</a>; <a href=\"https://ref.ly/Matt22:2-Matt22:14\">MAT 22:2–22:14</a> <em>The parable of the marriage supper indicates the prerequisites for attendance at the supper.</em></p>",
@@ -225,6 +225,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8821: self-indulgence",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ram.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ram"
+},
+{
+"id": "person:Ram.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ram"
+},
+{
+"id": "person:Ram",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ram"
 }
 ]
 }

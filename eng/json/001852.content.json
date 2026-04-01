@@ -2,10 +2,10 @@
 {
 "content_id": "7462",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7462: tassel",
 "media_type": "Text",
-"index_reference": "7462: tassel",
+"index_reference": "7462",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A fringe of twisted threads attached to the bottom edge of Israelite men's cloaks. The Pharisees lengthened the tassels on their cloaks to draw attention to their piety.</p>\n<h2>Tassels attached to outer garments</h2>\n<h3>On the corners of garments</h3>\n<p><strong><a href=\"https://ref.ly/Num15:38\">NUM 15:38</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut22:12\">DEU 22:12</a></p>\n<h3>On the cloak of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Matt9:20\">MAT 9:20</a></strong> parallels <a href=\"https://ref.ly/Mark5:27\">MRK 5:27</a>, <a href=\"https://ref.ly/Luke8:44\">LUK 8:44</a> <em>The woman probably touched the tassels on Jesus Christ's cloak.</em> <em>See also</em> <a href=\"https://ref.ly/Matt14:36\">MAT 14:36</a> parallel <a href=\"https://ref.ly/Mark6:56\">MRK 6:56</a></p>\n<h2>Tassels as a reminder of God's law</h2>\n<p><strong><a href=\"https://ref.ly/Num15:39-Num15:41\">NUM 15:39–15:41</a></strong> <em>The movement of the tassels would draw back wandering eyes to God and his law.</em></p>\n<h2>Ostentatious tassels symbolise outward religious show</h2>\n<p><strong><a href=\"https://ref.ly/Matt23:5-Matt23:7\">MAT 23:5–23:7</a></strong> parallels <a href=\"https://ref.ly/Mark12:38-Mark12:39\">MRK 12:38–12:39</a>, <a href=\"https://ref.ly/Luke20:46\">LUK 20:46</a> <em>See also</em> <a href=\"https://ref.ly/Matt6:1-Matt6:6\">MAT 6:1–6:6</a></p>",
@@ -161,6 +161,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8767: hypocrisy",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Tassel",
+"type": "realia",
+"confidence": 0.5968,
+"match_method": "scored",
+"preferred_label": "Tassel"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5019",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5019: human nature",
 "media_type": "Text",
-"index_reference": "5019: human nature",
+"index_reference": "5019",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture declares that human nature was created by God in his image and likeness, and set above all other creatures.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5021: humanity, of Jesus Christ",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Eliphelehu",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eliphelehu"
 }
 ]
 }

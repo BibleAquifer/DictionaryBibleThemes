@@ -2,10 +2,10 @@
 {
 "content_id": "5827",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5827: curse",
 "media_type": "Text",
-"index_reference": "5827: curse",
+"index_reference": "5827",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An expression of contempt or malediction for someone. To be cursed is to suffer various kinds of misfortune, sometimes to the extent of being cut off from one's family or community, or of suffering death itself.</p>\n<h2>Divine curses</h2>\n<h3>Divine curses came into effect after the fall</h3>\n<p><strong><a href=\"https://ref.ly/Gen3:14-Gen3:19\">GEN 3:14–3:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen5:29\">GEN 5:29</a>, <a href=\"https://ref.ly/Gen8:21\">GEN 8:21</a> <em>This curse refers to the flood; the curse of <a href=\"https://ref.ly/Gen3:17\">Ge 3:17</a> is not revoked here.</em></p>\n<h3>Divine curses come from disobeying the law</h3>\n<p><strong><a href=\"https://ref.ly/Deut28:15-Deut28:19\">DEU 28:15–28:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev26:14-Lev26:39\">LEV 26:14–26:39</a>; <a href=\"https://ref.ly/Deut11:26-Deut11:28\">DEU 11:26–11:28</a>, <a href=\"https://ref.ly/Deut27:9-Deut27:26\">DEU 27:9–27:26</a>, <a href=\"https://ref.ly/Deut28:20-Deut28:68\">DEU 28:20–28:68</a>, <a href=\"https://ref.ly/Deut29:18-Deut29:21\">DEU 29:18–29:21</a>; <a href=\"https://ref.ly/Jer11:2-Jer11:4\">JER 11:2–11:4</a>, <a href=\"https://ref.ly/Jer11:8\">JER 11:8</a>; <a href=\"https://ref.ly/Dan9:11-Dan9:14\">DAN 9:11–9:14</a>; <a href=\"https://ref.ly/Gal3:10\">GAL 3:10</a></p>\n<h2>Human curses</h2>\n<h3>Human curses upon other human beings</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs2:23-2Kgs2:24\">2KI 2:23–2:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen9:24-Gen9:25\">GEN 9:24–9:25</a>; <a href=\"https://ref.ly/Josh9:22-Josh9:23\">JOS 9:22–9:23</a>; <a href=\"https://ref.ly/1Sam14:24-1Sam14:28\">1SA 14:24–14:28</a>; <a href=\"https://ref.ly/Neh13:25\">NEH 13:25</a></p>\n<h3>Human curses upon God</h3>\n<p><strong><a href=\"https://ref.ly/Job2:9\">JOB 2:9</a></strong>; <strong><a href=\"https://ref.ly/Rev16:9\">REV 16:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa52:5\">ISA 52:5</a>; <a href=\"https://ref.ly/Ezek20:27\">EZK 20:27</a></p>\n<h3>Human beings are forbidden to curse God and others</h3>\n<p><strong><a href=\"https://ref.ly/Lev24:15-Lev24:16\">LEV 24:15–24:16</a></strong> <a href=\"https://ref.ly/Exod22:28\">EXO 22:28</a>; ; <a href=\"https://ref.ly/1Kgs21:13\">1KI 21:13</a>; <a href=\"https://ref.ly/Exod21:17\">EXO 21:17</a>; ; <a href=\"https://ref.ly/Matt15:4\">MAT 15:4</a> parallel <a href=\"https://ref.ly/Mark7:10\">MRK 7:10</a>; ; <a href=\"https://ref.ly/Lev20:9\">LEV 20:9</a>; \n<a href=\"https://ref.ly/Lev19:14\">LEV 19:14</a> <em>cursing the deaf</em></p>\n<h2>People can curse the day they were born</h2>\n<p><strong><a href=\"https://ref.ly/Jer20:14\">JER 20:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job3:1-Job3:10\">JOB 3:1–3:10</a></p>\n<h2>Paul wishes himself cursed for the sake of Israel</h2>\n<p><a href=\"https://ref.ly/Rom9:3-Rom9:4\">ROM 9:3–9:4</a></p>\n<h2>Jesus Christ took the curse of the law upon himself</h2>\n<p><strong><a href=\"https://ref.ly/Gal3:13-Gal3:14\">GAL 3:13–3:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut21:22-Deut21:23\">DEU 21:22–21:23</a></p>\n<h2>Christians are exhorted to bless those who curse them</h2>\n<p><strong><a href=\"https://ref.ly/Luke6:27-Luke6:28\">LUK 6:27–6:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt5:39-Matt5:42\">MAT 5:39–5:42</a> parallel <a href=\"https://ref.ly/Luke6:29-Luke6:30\">LUK 6:29–6:30</a>; <a href=\"https://ref.ly/Rom12:14\">ROM 12:14</a>; <a href=\"https://ref.ly/1Cor4:12-1Cor4:13\">1CO 4:12–4:13</a></p>",
@@ -342,6 +342,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9030: dead bodies",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Heshbon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Heshbon"
 }
 ]
 }

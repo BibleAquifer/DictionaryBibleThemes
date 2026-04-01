@@ -2,10 +2,10 @@
 {
 "content_id": "2424",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "2424: gospel, promises of",
 "media_type": "Text",
-"index_reference": "2424: gospel, promises of",
+"index_reference": "2424",
 "language": "eng",
 "review_level": "None",
 "content": "<p>To all who believe and submit to its demands, the promises of the gospel include forgiveness of sins, new life in Jesus Christ and adoption into the family of God.</p>\n<h2>Forgiveness of sins</h2>\n<h3>The sin of God's people is imputed to God's Son</h3>\n<p><strong><a href=\"https://ref.ly/John1:29\">JHN 1:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa53:4-Isa53:6\">ISA 53:4–53:6</a>; <a href=\"https://ref.ly/Luke24:46-Luke24:47\">LUK 24:46–24:47</a>; <a href=\"https://ref.ly/Acts5:30-Acts5:32\">ACT 5:30–5:32</a>, <a href=\"https://ref.ly/Acts13:38\">ACT 13:38</a>; <a href=\"https://ref.ly/Titus2:13-Titus2:14\">TIT 2:13–2:14</a>; <a href=\"https://ref.ly/Heb9:28\">HEB 9:28</a>; <a href=\"https://ref.ly/1Pet2:24\">1PE 2:24</a></p>\n<h3>The righteousness of God's Son is imputed to God's people</h3>\n<p><strong><a href=\"https://ref.ly/Rom1:16-Rom1:17\">ROM 1:16–1:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom3:21-Rom3:26\">ROM 3:21–3:26</a>, <a href=\"https://ref.ly/Rom9:30\">ROM 9:30</a>; <a href=\"https://ref.ly/Phil3:7-Phil3:9\">PHP 3:7–3:9</a></p>\n<h2>Peace with God</h2>\n<p><strong><a href=\"https://ref.ly/Rom5:1-Rom5:2\">ROM 5:1–5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/John14:27\">JHN 14:27</a>; <a href=\"https://ref.ly/Rom8:1-Rom8:4\">ROM 8:1–8:4</a>, <a href=\"https://ref.ly/Rom8:31-Rom8:35\">ROM 8:31–8:35</a></p>\n<h2>New birth</h2>\n<p><strong><a href=\"https://ref.ly/1Pet1:23-1Pet1:25\">1PE 1:23–1:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/John1:12-John1:13\">JHN 1:12–1:13</a>, <a href=\"https://ref.ly/John3:5-John3:8\">JHN 3:5–3:8</a>; <a href=\"https://ref.ly/Jas1:18\">JAS 1:18</a></p>\n<h2>Eternal life</h2>\n<p><strong><a href=\"https://ref.ly/John3:14-John3:16\">JHN 3:14–3:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/John1:4\">JHN 1:4</a>, <a href=\"https://ref.ly/John6:68-John6:69\">JHN 6:68–6:69</a>, <a href=\"https://ref.ly/John10:10\">JHN 10:10</a>, <a href=\"https://ref.ly/John20:31\">JHN 20:31</a>; <a href=\"https://ref.ly/1John1:1-1John1:2\">1JN 1:1–1:2</a>, <a href=\"https://ref.ly/1John5:12\">1JN 5:12</a></p>\n<h2>The gift of the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:38\">ACT 2:38</a></strong> <em>See also</em> <a href=\"https://ref.ly/Joel2:28-Joel2:32\">JOL 2:28–2:32</a>; <a href=\"https://ref.ly/John7:37-John7:39\">JHN 7:37–7:39</a>; <a href=\"https://ref.ly/Acts8:14-Acts8:17\">ACT 8:14–8:17</a>, <a href=\"https://ref.ly/Acts19:1-Acts19:7\">ACT 19:1–19:7</a></p>\n<h2>Adoption into God's family</h2>\n<p><strong><a href=\"https://ref.ly/Rom8:12-Rom8:17\">ROM 8:12–8:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/John1:12-John1:13\">JHN 1:12–1:13</a>; <a href=\"https://ref.ly/Gal3:26\">GAL 3:26</a>, <a href=\"https://ref.ly/Gal4:4-Gal4:6\">GAL 4:4–4:6</a>; <a href=\"https://ref.ly/Eph1:5\">EPH 1:5</a></p>",
@@ -306,7 +306,8 @@
 "label": "8154: righteousness",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

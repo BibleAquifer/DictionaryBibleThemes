@@ -2,10 +2,10 @@
 {
 "content_id": "8217",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8217: conformity",
 "media_type": "Text",
-"index_reference": "8217: conformity",
+"index_reference": "8217",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Correspondence in character or behaviour; believers are not to conform to the ways of this world but are to be conformed to the image of Christ.</p>\n<h2>Believers are not to conform to the ways of this world</h2>\n<p><strong><a href=\"https://ref.ly/Rom12:2\">ROM 12:2</a></strong>; <strong><a href=\"https://ref.ly/1Pet1:14\">1PE 1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:2\">EXO 23:2</a>; <a href=\"https://ref.ly/Lev20:23\">LEV 20:23</a>; <a href=\"https://ref.ly/Deut18:9\">DEU 18:9</a> <em>Israel was not to imitate the practices of surrounding nations</em>; <a href=\"https://ref.ly/2Kgs17:15\">2KI 17:15</a>; <a href=\"https://ref.ly/Ezek11:12\">EZK 11:12</a>; <a href=\"https://ref.ly/Dan1:8\">DAN 1:8</a> <em>Daniel refused to conform to the ways of Babylon</em>; <a href=\"https://ref.ly/Dan3:12\">DAN 3:12</a>; <a href=\"https://ref.ly/Eph4:17\">EPH 4:17</a>; <a href=\"https://ref.ly/Col3:7-Col3:8\">COL 3:7–3:8</a>; <a href=\"https://ref.ly/1Thess5:6\">1TH 5:6</a>; <a href=\"https://ref.ly/1Tim1:9-1Tim1:11\">1TI 1:9–1:11</a>; <a href=\"https://ref.ly/1Pet4:3\">1PE 4:3</a>; <a href=\"https://ref.ly/3John1:11\">3JN 1:11</a></p>\n<h2>Christians will be conformed to the image of Christ</h2>\n<p><strong><a href=\"https://ref.ly/Rom8:29\">ROM 8:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/John13:15\">JHN 13:15</a>, <a href=\"https://ref.ly/John13:34\">JHN 13:34</a>; <a href=\"https://ref.ly/Rom13:14\">ROM 13:14</a>; <a href=\"https://ref.ly/1Cor11:1\">1CO 11:1</a>; <a href=\"https://ref.ly/Eph5:1-Eph5:2\">EPH 5:1–5:2</a>; <a href=\"https://ref.ly/Phil2:5\">PHP 2:5</a></p>\n<h2>The means of being conformed to Jesus Christ</h2>\n<h3>In being completely united with him</h3>\n<p><strong><a href=\"https://ref.ly/Rom6:3-Rom6:10\">ROM 6:3–6:10</a></strong>; <strong><a href=\"https://ref.ly/2Cor4:10\">2CO 4:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:10-Rom8:11\">ROM 8:10–8:11</a>, <a href=\"https://ref.ly/Rom8:17-Rom8:18\">ROM 8:17–8:18</a>; <a href=\"https://ref.ly/Phil3:10-Phil3:11\">PHP 3:10–3:11</a>; <a href=\"https://ref.ly/1Pet4:13\">1PE 4:13</a></p>\n<h3>In his death</h3>\n<p><strong><a href=\"https://ref.ly/Phil3:10\">PHP 3:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal6:14\">GAL 6:14</a>; <a href=\"https://ref.ly/Col1:24\">COL 1:24</a>, <a href=\"https://ref.ly/Col3:3\">COL 3:3</a>; <a href=\"https://ref.ly/1Pet2:21\">1PE 2:21</a>, <a href=\"https://ref.ly/1Pet4:1\">1PE 4:1</a></p>\n<h3>In his resurrection</h3>\n<p><strong><a href=\"https://ref.ly/Eph2:4-Eph2:6\">EPH 2:4–2:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor15:20-1Cor15:22\">1CO 15:20–15:22</a>; <a href=\"https://ref.ly/Col3:1\">COL 3:1</a></p>",
@@ -311,6 +311,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8453: obedience",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Seleucia",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seleucia"
 }
 ]
 }

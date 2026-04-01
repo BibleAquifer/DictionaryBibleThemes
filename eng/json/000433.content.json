@@ -2,10 +2,10 @@
 {
 "content_id": "4436",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4436: drinking, abstention from",
 "media_type": "Text",
-"index_reference": "4436: drinking, abstention from",
+"index_reference": "4436",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture indicates that the abuse of drinking, such as drunkenness, is unacceptable. It also indicates the advantages of abstention from drinking in certain situations.</p>\n<h2>For some, at certain times, total abstinence is right</h2>\n<p><a href=\"https://ref.ly/Lev10:8-Lev10:9\">LEV 10:8–10:9</a>; ; <a href=\"https://ref.ly/Ezek44:21\">EZK 44:21</a> <em>priests</em>; ; <a href=\"https://ref.ly/Num6:1-Num6:4\">NUM 6:1–6:4</a>, <a href=\"https://ref.ly/Num6:20\">NUM 6:20</a> <em>Nazirites</em>; ; <a href=\"https://ref.ly/Judg13:2-Judg13:5\">JDG 13:2–13:5</a>, <a href=\"https://ref.ly/Judg13:7\">JDG 13:7</a>, <a href=\"https://ref.ly/Judg13:13-Judg13:14\">JDG 13:13–13:14</a>; ; <a href=\"https://ref.ly/Prov31:4-Prov31:5\">PRO 31:4–31:5</a>; ; <a href=\"https://ref.ly/Isa22:12-Isa22:13\">ISA 22:12–22:13</a>; ; <a href=\"https://ref.ly/Jer35:1-Jer35:14\">JER 35:1–35:14</a>; ; <a href=\"https://ref.ly/Dan1:5-Dan1:16\">DAN 1:5–1:16</a>; <a href=\"https://ref.ly/Matt11:18\">MAT 11:18</a>; ; <a href=\"https://ref.ly/Luke1:15\">LUK 1:15</a>; \n<a href=\"https://ref.ly/Matt27:34\">MAT 27:34</a> <em>Jesus Christ</em>; ; <a href=\"https://ref.ly/Rom14:21\">ROM 14:21</a> <em>the Christian who does not want to give offence</em></p>\n<h2>Warnings against the abuse of alcohol</h2>\n<p><strong><a href=\"https://ref.ly/Isa5:11\">ISA 5:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov20:1\">PRO 20:1</a>; <a href=\"https://ref.ly/Isa5:22\">ISA 5:22</a>; <a href=\"https://ref.ly/Hab2:15\">HAB 2:15</a>; <a href=\"https://ref.ly/Luke21:34\">LUK 21:34</a>; <a href=\"https://ref.ly/Rom13:13\">ROM 13:13</a>; <a href=\"https://ref.ly/1Cor6:9-1Cor6:10\">1CO 6:9–6:10</a>, <a href=\"https://ref.ly/1Cor11:20-1Cor11:21\">1CO 11:20–11:21</a>; <a href=\"https://ref.ly/Gal5:19-Gal5:21\">GAL 5:19–5:21</a>; <a href=\"https://ref.ly/Eph5:18\">EPH 5:18</a>; <a href=\"https://ref.ly/1Thess5:7-1Thess5:8\">1TH 5:7–5:8</a>; <a href=\"https://ref.ly/Titus2:3\">TIT 2:3</a></p>\n<h2>Christian leaders are to be sober</h2>\n<p><strong><a href=\"https://ref.ly/1Tim3:2-1Tim3:3\">1TI 3:2–3:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim3:8\">1TI 3:8</a>; <a href=\"https://ref.ly/Titus1:7\">TIT 1:7</a></p>\n<h2>Examples of drunkenness</h2>\n<p><a href=\"https://ref.ly/Gen9:20-Gen9:21\">GEN 9:20–9:21</a>, <a href=\"https://ref.ly/Gen19:30-Gen19:35\">GEN 19:30–19:35</a>; ; <a href=\"https://ref.ly/1Sam25:36\">1SA 25:36</a>; ; <a href=\"https://ref.ly/2Sam11:12-2Sam11:13\">2SA 11:12–11:13</a>; ; <a href=\"https://ref.ly/1Kgs16:9\">1KI 16:9</a>, <a href=\"https://ref.ly/1Kgs20:16\">1KI 20:16</a>; ; <a href=\"https://ref.ly/Esth1:10\">EST 1:10</a>; ; <a href=\"https://ref.ly/Isa28:7\">ISA 28:7</a>, <a href=\"https://ref.ly/Isa56:10-Isa56:12\">ISA 56:10–56:12</a>; ; <a href=\"https://ref.ly/Matt24:49\">MAT 24:49</a> parallel <a href=\"https://ref.ly/Luke12:45\">LUK 12:45</a></p>\n<h2>Some accusations of drunkenness were unfounded</h2>\n<p><a href=\"https://ref.ly/1Sam1:13-1Sam1:15\">1SA 1:13–1:15</a>; ; <a href=\"https://ref.ly/Matt11:19\">MAT 11:19</a> parallel <a href=\"https://ref.ly/Luke7:34\">LUK 7:34</a>; ; <a href=\"https://ref.ly/Acts2:13-Acts2:15\">ACT 2:13–2:15</a> <em>the disciples on the day of Pentecost</em></p>",
@@ -332,7 +332,8 @@
 "label": "8821: self-indulgence",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

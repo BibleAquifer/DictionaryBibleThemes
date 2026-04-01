@@ -2,10 +2,10 @@
 {
 "content_id": "5460",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5460: prison",
 "media_type": "Text",
-"index_reference": "5460: prison",
+"index_reference": "5460",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A place of confinement, such as a jail or dungeon, used to imprison individuals.</p>\n<h2>Irregular prisons</h2>\n<p><strong><a href=\"https://ref.ly/Gen37:22\">GEN 37:22</a></strong> <em>A cistern was usually a plaster-coated underground rock cavity used for storing water.</em> <em>See also</em> <a href=\"https://ref.ly/Num12:14-Num12:15\">NUM 12:14–12:15</a> <em>Miriam's confinement may have been as much isolation as punishment</em>; <a href=\"https://ref.ly/Jer38:6\">JER 38:6</a>, <a href=\"https://ref.ly/Jer38:13\">JER 38:13</a></p>\n<h2>Houses used as prisons</h2>\n<p><strong><a href=\"https://ref.ly/Jer37:15\">JER 37:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam20:3\">2SA 20:3</a>; <a href=\"https://ref.ly/Luke22:54\">LUK 22:54</a>; <a href=\"https://ref.ly/Acts28:16\">ACT 28:16</a></p>\n<h2>Legally established prisons</h2>\n<p><strong><a href=\"https://ref.ly/Gen39:20\">GEN 39:20</a></strong>; <strong><a href=\"https://ref.ly/Acts5:18\">ACT 5:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen42:16-Gen42:19\">GEN 42:16–42:19</a>; <a href=\"https://ref.ly/Judg16:21\">JDG 16:21</a>; <a href=\"https://ref.ly/1Kgs22:27\">1KI 22:27</a>; <a href=\"https://ref.ly/2Kgs17:4\">2KI 17:4</a>, <a href=\"https://ref.ly/2Kgs25:27\">2KI 25:27</a>; <a href=\"https://ref.ly/2Chr16:10\">2CH 16:10</a>; <a href=\"https://ref.ly/Matt14:3\">MAT 14:3</a>; <a href=\"https://ref.ly/Luke21:12\">LUK 21:12</a>; <a href=\"https://ref.ly/Acts4:3\">ACT 4:3</a>, <a href=\"https://ref.ly/Acts12:4-Acts12:7\">ACT 12:4–12:7</a>, <a href=\"https://ref.ly/Acts16:37\">ACT 16:37</a></p>\n<h2>Barracks or guardhouses as prisons</h2>\n<p><a href=\"https://ref.ly/Jer32:2\">JER 32:2</a>; ; <a href=\"https://ref.ly/Acts22:24\">ACT 22:24</a>; ; <a href=\"https://ref.ly/Phil1:12-Phil1:13\">PHP 1:12–1:13</a></p>\n<h2>Figurative and poetic use of prisons</h2>\n<p><strong><a href=\"https://ref.ly/Isa42:7\">ISA 42:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job11:10\">JOB 11:10</a>; <a href=\"https://ref.ly/Ps88:8\">PSA 88:8</a>, <a href=\"https://ref.ly/Ps142:7\">PSA 142:7</a>; <a href=\"https://ref.ly/Isa24:22\">ISA 24:22</a>; <a href=\"https://ref.ly/Luke12:58\">LUK 12:58</a>; <a href=\"https://ref.ly/1Pet3:19\">1PE 3:19</a>; <a href=\"https://ref.ly/2Pet2:4\">2PE 2:4</a>; <a href=\"https://ref.ly/Rev1:18\">REV 1:18</a>REV <a href=\"https://ref.ly/Rev20:1\">20:1</a>, <a href=\"https://ref.ly/Rev20:7\">REV 20:7</a></p>",
@@ -257,6 +257,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6660: freedom, through Jesus Christ",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Prison",
+"type": "realia",
+"confidence": 0.6183,
+"match_method": "scored",
+"preferred_label": "Prison"
 }
 ]
 }

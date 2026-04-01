@@ -2,10 +2,10 @@
 {
 "content_id": "7370",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7370: guilt offering",
 "media_type": "Text",
-"index_reference": "7370: guilt offering",
+"index_reference": "7370",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An offering that resembled the sin offering, but was offered especially in cases where restitution could be made for an unintentional sin.</p>\n<h2>Circumstances for making the guilt offering</h2>\n<h3>Unintentional sin against God</h3>\n<p><strong><a href=\"https://ref.ly/Lev5:17\">LEV 5:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev5:15\">LEV 5:15</a></p>\n<h3>Sin against a neighbour where restitution can be made</h3>\n<p><a href=\"https://ref.ly/Lev5:16\">LEV 5:16</a> <em>Where restitution is possible it is a requirement</em>; ; <a href=\"https://ref.ly/Lev6:1-Lev6:5\">LEV 6:1–6:5</a> <em>A surcharge of twenty per cent was to be added</em>; ; <a href=\"https://ref.ly/Num5:5-Num5:8\">NUM 5:5–5:8</a> <em>Restitution must be made to God if the wronged person is not accessible.</em></p>\n<h2>The nature of the guilt offering</h2>\n<h3>A ram without defect</h3>\n<p><strong><a href=\"https://ref.ly/Lev5:18\">LEV 5:18</a></strong></p>\n<h3>Regulations governing the offering</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Lev7:1-Lev7:6\">LEV 7:1–7:6</a>; <a href=\"https://ref.ly/Num18:9\">NUM 18:9</a></p>\n<h2>Other situations requiring a guilt offering</h2>\n<p><a href=\"https://ref.ly/Lev14:12-Lev14:14\">LEV 14:12–14:14</a> <em>cleansing from infectious diseases</em>; ; <a href=\"https://ref.ly/Lev19:20-Lev19:22\">LEV 19:20–19:22</a> <em>wronging a man by intercourse with a slave girl promised to him</em>; ; <a href=\"https://ref.ly/Num6:12\">NUM 6:12</a> <em>cleansing a Nazirite after contact with a dead body</em>; ; <a href=\"https://ref.ly/Ezra10:19\">EZR 10:19</a> <em>for returning exiles who had intermarried</em></p>\n<h2>Guilt offerings in Ezekiel's vision of the temple</h2>\n<p><a href=\"https://ref.ly/Ezek40:38-Ezek40:39\">EZK 40:38–40:39</a>, <a href=\"https://ref.ly/Ezek42:13\">EZK 42:13</a>, <a href=\"https://ref.ly/Ezek44:29\">EZK 44:29</a>, <a href=\"https://ref.ly/Ezek46:20\">EZK 46:20</a></p>\n<h2>The death of the ``suffering servant'' is interpreted as a guilt offering</h2>\n<p><strong><a href=\"https://ref.ly/Isa53:10\">ISA 53:10</a></strong></p>",
@@ -170,6 +170,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7444: sin offering",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Netaim",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Netaim"
 }
 ]
 }

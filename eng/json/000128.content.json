@@ -2,10 +2,10 @@
 {
 "content_id": "1650",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1650: numbers, significance of",
 "media_type": "Text",
-"index_reference": "1650: numbers, significance of",
+"index_reference": "1650",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Numbers appear frequently in Scripture and in a variety of contexts. Occasionally they have a special theological significance.</p>",
@@ -61,7 +61,8 @@
 "label": "1657: numbers, fractions",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

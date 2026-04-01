@@ -2,10 +2,10 @@
 {
 "content_id": "1345",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1345: covenant",
 "media_type": "Text",
-"index_reference": "1345: covenant",
+"index_reference": "1345",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God's commitment to, and requirement of, his people expressed in promise, law, judgment, faithfulness and mercy.  Also used of commitment within human relationships based upon agreements.</p>",
@@ -61,7 +61,8 @@
 "label": "1352: covenant, the new",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

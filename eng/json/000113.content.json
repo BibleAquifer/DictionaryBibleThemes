@@ -2,10 +2,10 @@
 {
 "content_id": "1500",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1500: God, the Trinity",
 "media_type": "Text",
-"index_reference": "1500: god, the trinity",
+"index_reference": "1500",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"1510\" data-resourcetype=\"DictionaryOfBibleThemes\">1510: Trinity, the</span></li></ul>",
@@ -19,7 +19,8 @@
 "label": "1510: Trinity, the",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5322",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5322: gallows",
 "media_type": "Text",
-"index_reference": "5322: gallows",
+"index_reference": "5322",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A wooden structure, sometimes a tree, used to impale or display a body after death, or for execution by hanging. Those hanged on gallows were deemed to be under God's curse.</p>\n<h2>A gallows used for impalement and display of bodies</h2>\n<p><strong><a href=\"https://ref.ly/Ezra6:11\">EZR 6:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh8:29\">JOS 8:29</a>, <a href=\"https://ref.ly/Josh10:26\">JOS 10:26</a>; <a href=\"https://ref.ly/2Sam4:12\">2SA 4:12</a></p>\n<h2>A gallows used for execution</h2>\n<p><strong><a href=\"https://ref.ly/Esth7:9-Esth7:10\">EST 7:9–7:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth2:23\">EST 2:23</a>, <a href=\"https://ref.ly/Esth9:13\">EST 9:13</a></p>\n<h2>Those hanged on gallows are under God's curse</h2>\n<p><strong><a href=\"https://ref.ly/Gal3:13\">GAL 3:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut21:23\">DEU 21:23</a></p>",
@@ -109,7 +109,8 @@
 "label": "7346: death penalty",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

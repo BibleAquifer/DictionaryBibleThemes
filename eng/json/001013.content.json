@@ -2,10 +2,10 @@
 {
 "content_id": "5435",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5435: ovens",
 "media_type": "Text",
-"index_reference": "5435: ovens",
+"index_reference": "5435",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Ovens were a common feature of domestic life and activity</h2>\n<p><strong><a href=\"https://ref.ly/Exod8:1-Exod8:4\">EXO 8:1–8:4</a></strong></p>\n<h2>Uses for ovens</h2>\n<h3>For baking bread</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Lev26:23-Lev26:26\">LEV 26:23–26:26</a></p>\n<h3>For baking grain offerings</h3>\n<p><a href=\"https://ref.ly/Lev2:4\">LEV 2:4</a>, <a href=\"https://ref.ly/Lev7:9\">LEV 7:9</a></p>\n<h2>Ovens could be rendered unclean</h2>\n<p><a href=\"https://ref.ly/Lev11:35\">LEV 11:35</a></p>\n<h2>Ovens were characterised by great heat</h2>\n<p><a href=\"https://ref.ly/Lam5:10\">LAM 5:10</a>; ; <a href=\"https://ref.ly/Hos7:4\">HOS 7:4</a>, <a href=\"https://ref.ly/Hos7:6-Hos7:7\">HOS 7:6–7:7</a></p>\n<h2>The Tower of the Ovens was a place in Jerusalem in Nehemiah's day</h2>\n<p><a href=\"https://ref.ly/Neh3:11\">NEH 3:11</a>, <a href=\"https://ref.ly/Neh12:38\">NEH 12:38</a></p>",
@@ -107,6 +107,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7368: grain offering",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Geshur",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Geshur"
+},
+{
+"id": "group:Geshur",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Geshurites"
 }
 ]
 }

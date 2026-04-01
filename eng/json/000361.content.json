@@ -2,10 +2,10 @@
 {
 "content_id": "4218",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4218: cave",
 "media_type": "Text",
-"index_reference": "4218: cave",
+"index_reference": "4218",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A natural cavity in a rock face, often used as a place of refuge.</p>\n<h2>Caves as places of refuge</h2>\n<p><strong><a href=\"https://ref.ly/Judg6:2\">JDG 6:2</a></strong>; <strong><a href=\"https://ref.ly/1Sam22:1-1Sam22:2\">1SA 22:1–22:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen19:30\">GEN 19:30</a>; <a href=\"https://ref.ly/Josh10:16-Josh10:18\">JOS 10:16–10:18</a>, <a href=\"https://ref.ly/Josh10:22-Josh10:23\">JOS 10:22–10:23</a>, <a href=\"https://ref.ly/Josh10:27\">JOS 10:27</a>; <a href=\"https://ref.ly/Judg15:8\">JDG 15:8</a>, <a href=\"https://ref.ly/Judg15:11\">JDG 15:11</a>; <a href=\"https://ref.ly/1Sam13:6\">1SA 13:6</a>, <a href=\"https://ref.ly/1Sam24:2-1Sam24:22\">1SA 24:2–24:22</a> <em>Saul comes to David's cave, but David spares his life</em>; <a href=\"https://ref.ly/2Sam17:9\">2SA 17:9</a>, <a href=\"https://ref.ly/2Sam23:13\">2SA 23:13</a> parallel <a href=\"https://ref.ly/1Chr11:15\">1CH 11:15</a>; <a href=\"https://ref.ly/1Kgs18:4\">1KI 18:4</a>, <a href=\"https://ref.ly/1Kgs18:13\">1KI 18:13</a>, <a href=\"https://ref.ly/1Kgs19:9\">1KI 19:9</a>; PSA 57:0, PSA 142:0; <a href=\"https://ref.ly/Isa2:19-Isa2:21\">ISA 2:19–2:21</a> <em>a place of refuge in the face of divine judgment</em>; <a href=\"https://ref.ly/Jer48:28\">JER 48:28</a>, <a href=\"https://ref.ly/Jer49:8\">JER 49:8</a>; <a href=\"https://ref.ly/Ezek33:27\">EZK 33:27</a>; <a href=\"https://ref.ly/Heb11:38\">HEB 11:38</a> <em>a place of refuge for those being persecuted for their faith</em>; <a href=\"https://ref.ly/Rev6:15\">REV 6:15</a></p>\n<h2>Caves used as graves</h2>\n<p><strong><a href=\"https://ref.ly/John11:38\">JHN 11:38</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen23:8-Gen23:20\">GEN 23:8–23:20</a>, <a href=\"https://ref.ly/Gen25:9\">GEN 25:9</a>, <a href=\"https://ref.ly/Gen49:29-Gen49:32\">GEN 49:29–49:32</a>, <a href=\"https://ref.ly/Gen50:13\">GEN 50:13</a></p>",
@@ -202,6 +202,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9050: tombs",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jerusalem"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5847",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5847: enthusiasm",
 "media_type": "Text",
-"index_reference": "5847: enthusiasm",
+"index_reference": "5847",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A state of eagerness, leading to the positive and committed performance of actions.</p>\n<h2>Enthusiasm for doing good</h2>\n<p><strong><a href=\"https://ref.ly/1Pet3:10-1Pet3:13\">1PE 3:10–3:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Titus2:11-Titus2:14\">TIT 2:11–2:14</a></p>\n<h2>Enthusiasm for doing evil</h2>\n<p><strong><a href=\"https://ref.ly/Jer8:6\">JER 8:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mic2:1-Mic2:2\">MIC 2:1–2:2</a>; <a href=\"https://ref.ly/Zeph3:7\">ZEP 3:7</a></p>\n<h2>Enthusiasm for work</h2>\n<p><strong><a href=\"https://ref.ly/Prov31:10-Prov31:19\">PRO 31:10–31:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:6-Prov6:11\">PRO 6:6–6:11</a>, <a href=\"https://ref.ly/Prov31:24\">PRO 31:24</a>, <a href=\"https://ref.ly/Prov31:27\">PRO 31:27</a></p>\n<h2>Enthusiasm for giving</h2>\n<p><strong><a href=\"https://ref.ly/2Cor9:2\">2CO 9:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor8:10-2Cor8:12\">2CO 8:10–8:12</a>; <a href=\"https://ref.ly/Gal2:10\">GAL 2:10</a></p>\n<h2>Enthusiasm for spiritual gifts</h2>\n<p><strong><a href=\"https://ref.ly/1Cor14:12\">1CO 14:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor14:39\">1CO 14:39</a></p>\n<h2>Enthusiasm for serving God</h2>\n<p><strong><a href=\"https://ref.ly/2Cor8:16-2Cor8:17\">2CO 8:16–8:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Pet5:2\">1PE 5:2</a></p>",
@@ -179,7 +179,8 @@
 "label": "8442: good works",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

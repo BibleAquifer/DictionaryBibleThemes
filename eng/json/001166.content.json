@@ -2,10 +2,10 @@
 {
 "content_id": "5602",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5602: vomit",
 "media_type": "Text",
-"index_reference": "5602: vomit",
+"index_reference": "5602",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The literal act of vomiting</h2>\n<p><strong><a href=\"https://ref.ly/Jonah2:10\">JON 2:10</a></strong></p>\n<h2>Proverbial references to vomiting</h2>\n<p><strong><a href=\"https://ref.ly/Prov26:11\">PRO 26:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov23:6-Prov23:8\">PRO 23:6–23:8</a>, <a href=\"https://ref.ly/Prov25:16-Prov25:17\">PRO 25:16–25:17</a>; <a href=\"https://ref.ly/2Pet2:17-2Pet2:22\">2PE 2:17–2:22</a></p>\n<h2>Metaphorical references to vomiting</h2>\n<h3>An illustration of exile and destruction</h3>\n<p><strong><a href=\"https://ref.ly/Lev18:24-Lev18:28\">LEV 18:24–18:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev20:22-Lev20:24\">LEV 20:22–20:24</a></p>\n<h3>An illustration of punishment</h3>\n<p><strong><a href=\"https://ref.ly/Isa19:13-Isa19:14\">ISA 19:13–19:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer25:15-Jer25:29\">JER 25:15–25:29</a>, <a href=\"https://ref.ly/Jer48:26\">JER 48:26</a></p>\n<h3>An illustration of corruption</h3>\n<p><strong><a href=\"https://ref.ly/Isa28:7-Isa28:8\">ISA 28:7–28:8</a></strong></p>\n<h3>An illustration of the fate of the wicked</h3>\n<p><strong><a href=\"https://ref.ly/Job20:12-Job20:15\">JOB 20:12–20:15</a></strong></p>",
@@ -119,6 +119,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5297: disease",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hakupha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hakupha"
 }
 ]
 }

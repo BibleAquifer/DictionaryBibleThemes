@@ -2,10 +2,10 @@
 {
 "content_id": "6500",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6500: Salvation",
 "media_type": "Text",
-"index_reference": "6500: salvation",
+"index_reference": "6500",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"6510\" data-resourcetype=\"DictionaryOfBibleThemes\">6510: salvation</span></li></ul>",
@@ -18,6 +18,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6510: salvation",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Junia",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Junia"
 }
 ]
 }

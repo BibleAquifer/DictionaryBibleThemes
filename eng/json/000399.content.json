@@ -2,10 +2,10 @@
 {
 "content_id": "4327",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4327: flint",
 "media_type": "Text",
-"index_reference": "4327: flint",
+"index_reference": "4327",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Flint tools</h2>\n<p><strong><a href=\"https://ref.ly/Josh5:2-Josh5:3\">JOS 5:2–5:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod4:25\">EXO 4:25</a>; <a href=\"https://ref.ly/Jer17:1\">JER 17:1</a></p>\n<h2>Flinty rock</h2>\n<p><strong><a href=\"https://ref.ly/Job28:9\">JOB 28:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut32:13-Deut32:14\">DEU 32:13–32:14</a></p>\n<h2>Metaphorical use of flint</h2>\n<p><strong><a href=\"https://ref.ly/Ezek3:9\">EZK 3:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa5:28\">ISA 5:28</a>, <a href=\"https://ref.ly/Isa50:7\">ISA 50:7</a>; <a href=\"https://ref.ly/Zech7:12\">ZEC 7:12</a></p>",
@@ -94,6 +94,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5583: tools",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Knife",
+"type": "realia",
+"confidence": 0.5606,
+"match_method": "scored",
+"preferred_label": "Knife"
 }
 ]
 }

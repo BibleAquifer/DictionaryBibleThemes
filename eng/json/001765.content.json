@@ -2,10 +2,10 @@
 {
 "content_id": "7312",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7312: Baal",
 "media_type": "Text",
-"index_reference": "7312: baal",
+"index_reference": "7312",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Literally “master”, used to refer to a variety of local gods in the Near East, encountered by Israel in Canaan. In the later period, the word comes to refer especially to the local god of the city of Tyre (Baal Melgart), on account of the increasing importance of that city in the region.</p>\n<h2>The history of Baal worship</h2>\n<h3>In the exodus period</h3>\n<p><strong><a href=\"https://ref.ly/Num25:3-Num25:5\">NUM 25:3–25:5</a></strong> <em>A Moabite deity whose worship involved sexual immorality.</em> <em>See also</em> <a href=\"https://ref.ly/Num22:41\">NUM 22:41</a>; <a href=\"https://ref.ly/Deut4:3\">DEU 4:3</a>; <a href=\"https://ref.ly/Ps106:28\">PSA 106:28</a>; <a href=\"https://ref.ly/Hos9:10\">HOS 9:10</a></p>\n<h3>In the time of the judges</h3>\n<p><strong><a href=\"https://ref.ly/Judg2:12-Judg2:13\">JDG 2:12–2:13</a></strong> <em>Ashtoreth was the consort of Baal.</em> <em>See also</em> <a href=\"https://ref.ly/Judg3:7\">JDG 3:7</a>, <a href=\"https://ref.ly/Judg6:31-Judg6:32\">JDG 6:31–6:32</a>, <a href=\"https://ref.ly/Judg8:33\">JDG 8:33</a>, <a href=\"https://ref.ly/Judg10:6\">JDG 10:6</a>; <a href=\"https://ref.ly/1Sam7:4\">1SA 7:4</a>, <a href=\"https://ref.ly/1Sam12:10\">1SA 12:10</a></p>\n<h3>In the time of Elijah</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs17:1\">1KI 17:1</a></strong> <em>The proclamation of a drought and the contest on Carmel challenged the supposed power of Baal.</em> <em>See also</em> <a href=\"https://ref.ly/1Kgs16:30-1Kgs16:33\">1KI 16:30–16:33</a>, <a href=\"https://ref.ly/1Kgs18:18-1Kgs19:1\">1KI 18:18–19:1</a>, <a href=\"https://ref.ly/1Kgs22:53\">1KI 22:53</a>; <a href=\"https://ref.ly/2Kgs10:18-2Kgs10:29\">2KI 10:18–10:29</a>, <a href=\"https://ref.ly/2Kgs11:17-2Kgs11:18\">2KI 11:17–11:18</a></p>\n<h3>During the later monarchy in the north</h3>\n<p><strong><a href=\"https://ref.ly/Hos2:2-Hos2:13\">HOS 2:2–2:13</a></strong> <em>Lovers are gods such as Baal.</em> <em>See also</em> <a href=\"https://ref.ly/Hos11:2\">HOS 11:2</a>, <a href=\"https://ref.ly/Hos13:1\">HOS 13:1</a></p>\n<h3>During the later monarchy in the south</h3>\n<p><strong><a href=\"https://ref.ly/2Chr28:1-2Chr28:2\">2CH 28:1–28:2</a></strong> <em>The Judean kingdom copied the idolatry in the north.</em> <em>See also</em> <a href=\"https://ref.ly/Jer2:8\">JER 2:8</a>, <a href=\"https://ref.ly/Jer7:9\">JER 7:9</a>; <a href=\"https://ref.ly/Hos3:3\">HOS 3:3</a></p>",
@@ -211,6 +211,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8768: idolatry",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Nathan-melech",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nathan-melech"
+},
+{
+"id": "deity:Baal",
+"type": "deity",
+"confidence": 0.6219,
+"match_method": "scored",
+"preferred_label": "Baal"
 }
 ]
 }

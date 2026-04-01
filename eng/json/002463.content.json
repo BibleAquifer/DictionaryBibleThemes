@@ -2,10 +2,10 @@
 {
 "content_id": "8847",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8847: vulgarity",
 "media_type": "Text",
-"index_reference": "8847: vulgarity",
+"index_reference": "8847",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Believers are to avoid vulgar intentions</h2>\n<h3>The men of Sodom had vulgar intentions</h3>\n<p><a href=\"https://ref.ly/Gen19:5\">GEN 19:5</a></p>\n<h3>They were judged by God</h3>\n<p><a href=\"https://ref.ly/Gen19:24-Gen19:25\">GEN 19:24–19:25</a>; ; <a href=\"https://ref.ly/2Pet2:6-2Pet2:7\">2PE 2:6–2:7</a>; ; <a href=\"https://ref.ly/Jude1:7\">JUD 1:7</a></p>\n<h3>The men of Gibeah had vulgar intentions</h3>\n<p><a href=\"https://ref.ly/Judg19:22\">JDG 19:22</a>, <a href=\"https://ref.ly/Judg19:25\">JDG 19:25</a></p>\n<h3>They were punished by the Israelites</h3>\n<p><a href=\"https://ref.ly/Judg20:4-Judg20:7\">JDG 20:4–20:7</a>, <a href=\"https://ref.ly/Judg20:33-Judg20:36\">JDG 20:33–20:36</a>, <a href=\"https://ref.ly/Judg20:48\">JDG 20:48</a></p>\n<h3>Such vulgarity is condemned by God</h3>\n<p><a href=\"https://ref.ly/Lev18:22\">LEV 18:22</a>; ; <a href=\"https://ref.ly/Rom1:24-Rom1:28\">ROM 1:24–1:28</a></p>\n<h2>Paul warns against vulgar speech</h2>\n<p><a href=\"https://ref.ly/Eph4:29\">EPH 4:29</a>, <a href=\"https://ref.ly/Eph5:4\">EPH 5:4</a>; ; <a href=\"https://ref.ly/Col3:8\">COL 3:8</a></p>\n<h2>Believers are to avoid vulgar actions</h2>\n<h3>Noah got drunk and exposed himself</h3>\n<p><a href=\"https://ref.ly/Gen9:21-Gen9:22\">GEN 9:21–9:22</a></p>\n<h3>Lot's daughters became pregnant by their father</h3>\n<p><a href=\"https://ref.ly/Gen19:31-Gen19:36\">GEN 19:31–19:36</a></p>\n<h2>Some converts led vulgar and depraved lives before conversion</h2>\n<p><a href=\"https://ref.ly/1Cor6:9-1Cor6:11\">1CO 6:9–6:11</a></p>\n<h2>The Cretans had a reputation for vulgarity</h2>\n<p><a href=\"https://ref.ly/Titus1:12\">TIT 1:12</a>, <a href=\"https://ref.ly/Titus1:15-Titus1:16\">TIT 1:15–1:16</a></p>",
@@ -168,6 +168,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8308: modesty",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Timnah.1",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Timnah"
+},
+{
+"id": "place:Timnah.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Timnah"
+},
+{
+"id": "place:Timnah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Timnah"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "4820",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4820: earthquake",
 "media_type": "Text",
-"index_reference": "4820: earthquake",
+"index_reference": "4820",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Earthquakes as natural events</h2>\n<p><strong><a href=\"https://ref.ly/Amos1:1\">AMO 1:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam14:15\">1SA 14:15</a>; <a href=\"https://ref.ly/Zech14:5\">ZEC 14:5</a>; <a href=\"https://ref.ly/Acts16:26\">ACT 16:26</a></p>\n<h2>Earthquakes remain under God's sovereignty</h2>\n<p><strong><a href=\"https://ref.ly/Ps75:3\">PSA 75:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps46:2-Ps46:3\">PSA 46:2–46:3</a></p>\n<h2>Earthquakes as a demonstration of God's power</h2>\n<p><strong><a href=\"https://ref.ly/Ps77:18\">PSA 77:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod19:18\">EXO 19:18</a>; <a href=\"https://ref.ly/Num16:31-Num16:32\">NUM 16:31–16:32</a>; <a href=\"https://ref.ly/Judg5:5\">JDG 5:5</a>; <a href=\"https://ref.ly/2Sam22:8\">2SA 22:8</a> parallel <a href=\"https://ref.ly/Ps18:7\">PSA 18:7</a>; <a href=\"https://ref.ly/Isa29:6\">ISA 29:6</a>; <a href=\"https://ref.ly/Nah1:5\">NAM 1:5</a>; <a href=\"https://ref.ly/Acts16:26\">ACT 16:26</a>; <a href=\"https://ref.ly/Rev11:19\">REV 11:19</a></p>\n<h2>Elijah and the earthquake on Mount Horeb</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs19:11-1Kgs19:12\">1KI 19:11–19:12</a></strong></p>\n<h2>The earthquake accompanying Jesus Christ's death and resurrection</h2>\n<p><strong><a href=\"https://ref.ly/Matt28:2\">MAT 28:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt27:54\">MAT 27:54</a></p>\n<h2>Earthquakes among the signs of the end time</h2>\n<p><strong><a href=\"https://ref.ly/Matt24:7\">MAT 24:7</a></strong> parallels <a href=\"https://ref.ly/Mark13:8\">MRK 13:8</a>, <a href=\"https://ref.ly/Luke21:11\">LUK 21:11</a> <em>See also</em> <a href=\"https://ref.ly/Isa24:19-Isa24:20\">ISA 24:19–24:20</a>; <a href=\"https://ref.ly/Ezek38:19-Ezek38:20\">EZK 38:19–38:20</a>; <a href=\"https://ref.ly/Rev6:12\">REV 6:12</a>, <a href=\"https://ref.ly/Rev8:5\">REV 8:5</a>, <a href=\"https://ref.ly/Rev11:13\">REV 11:13</a>, <a href=\"https://ref.ly/Rev16:18\">REV 16:18</a></p>",
@@ -196,7 +196,8 @@
 "label": "9140: last days",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

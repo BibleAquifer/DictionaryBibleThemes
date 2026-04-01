@@ -2,10 +2,10 @@
 {
 "content_id": "4486",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4486: myrrh",
 "media_type": "Text",
-"index_reference": "4486: myrrh",
+"index_reference": "4486",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A resinous substance derived from certain trees and bushes native to the Near East. It was a valuable commodity and had a variety of uses.</p>\n<h2>Myrrh was traded by merchants</h2>\n<p><strong><a href=\"https://ref.ly/Gen37:25\">GEN 37:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev18:11-Rev18:13\">REV 18:11–18:13</a></p>\n<h2>Myrrh was presented as a gift</h2>\n<p><strong><a href=\"https://ref.ly/Matt2:11\">MAT 2:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen43:11\">GEN 43:11</a></p>\n<h2>Uses of myrrh</h2>\n<h3>In the sacred anointing oil</h3>\n<p><strong><a href=\"https://ref.ly/Exod30:22-Exod30:28\">EXO 30:22–30:28</a></strong></p>\n<h3>As a perfume</h3>\n<p><strong><a href=\"https://ref.ly/Song1:13\">SNG 1:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps45:8\">PSA 45:8</a>; <a href=\"https://ref.ly/Prov7:10-Prov7:18\">PRO 7:10–7:18</a>; <a href=\"https://ref.ly/Song3:6\">SNG 3:6</a></p>\n<h3>In beauty treatments</h3>\n<p><strong><a href=\"https://ref.ly/Esth2:12\">EST 2:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song5:5\">SNG 5:5</a></p>\n<h3>As a painkiller</h3>\n<p><strong><a href=\"https://ref.ly/Mark15:22-Mark15:23\">MRK 15:22–15:23</a></strong></p>\n<h3>In embalming</h3>\n<p><strong><a href=\"https://ref.ly/John19:38-John19:40\">JHN 19:38–19:40</a></strong></p>\n<h2>The metaphorical use of myrrh</h2>\n<p><strong><a href=\"https://ref.ly/Song5:13\">SNG 5:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song4:1-Song4:7\">SNG 4:1–4:7</a>, <a href=\"https://ref.ly/Song4:12-Song4:14\">SNG 4:12–4:14</a>, <a href=\"https://ref.ly/Song5:1\">SNG 5:1</a></p>",
@@ -170,6 +170,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7386: incense",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Myrrh",
+"type": "flora",
+"confidence": 0.5879,
+"match_method": "scored",
+"preferred_label": "Myrrh"
 }
 ]
 }

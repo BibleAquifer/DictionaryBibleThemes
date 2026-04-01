@@ -2,10 +2,10 @@
 {
 "content_id": "4498",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4498: ploughing",
 "media_type": "Text",
-"index_reference": "4498: ploughing",
+"index_reference": "4498",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Cutting up the furrows in soil and turning it up before work can be done on the land.</p>\n<h2>Ploughing as a way of life</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs19:19-1Kgs19:21\">1KI 19:19–19:21</a></strong>; <strong><a href=\"https://ref.ly/Luke17:7\">LUK 17:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam8:12\">1SA 8:12</a>, <a href=\"https://ref.ly/1Sam13:19-1Sam13:21\">1SA 13:19–13:21</a>; <a href=\"https://ref.ly/Job1:14\">JOB 1:14</a>; <a href=\"https://ref.ly/Prov20:4\">PRO 20:4</a>; <a href=\"https://ref.ly/Isa28:24\">ISA 28:24</a>; <a href=\"https://ref.ly/Ezek36:9\">EZK 36:9</a>; <a href=\"https://ref.ly/Amos9:13\">AMO 9:13</a></p>\n<h2>Rules concerning ploughing</h2>\n<p><a href=\"https://ref.ly/Exod23:10-Exod23:11\">EXO 23:10–23:11</a>, <a href=\"https://ref.ly/Exod34:21\">EXO 34:21</a>; ; <a href=\"https://ref.ly/Deut22:10\">DEU 22:10</a></p>\n<h2>Ploughing used figuratively</h2>\n<p><strong><a href=\"https://ref.ly/Job4:8\">JOB 4:8</a></strong>; <strong><a href=\"https://ref.ly/Luke9:62\">LUK 9:62</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg14:18\">JDG 14:18</a>; <a href=\"https://ref.ly/Ps129:3\">PSA 129:3</a>, <a href=\"https://ref.ly/Ps141:7\">PSA 141:7</a>; <a href=\"https://ref.ly/Isa2:4\">ISA 2:4</a>; <a href=\"https://ref.ly/Jer4:3\">JER 4:3</a>; <a href=\"https://ref.ly/Hos10:11-Hos10:12\">HOS 10:11–10:12</a>; <a href=\"https://ref.ly/Amos6:12\">AMO 6:12</a>; <a href=\"https://ref.ly/1Cor9:10\">1CO 9:10</a></p>",
@@ -193,6 +193,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7482: Year of Jubilee",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Caleb.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Caleb"
 }
 ]
 }

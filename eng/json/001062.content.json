@@ -2,10 +2,10 @@
 {
 "content_id": "5491",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5491: refugees",
 "media_type": "Text",
-"index_reference": "5491: refugees",
+"index_reference": "5491",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Fugitives driven from home because of personal, political or religious persecution, or because of physical danger.</p>\n<h2>Examples of refugees</h2>\n<p><a href=\"https://ref.ly/Gen16:6-Gen16:8\">GEN 16:6–16:8</a> <em>Hagar</em>; ; <a href=\"https://ref.ly/Gen46:1\">GEN 46:1</a>; ; <a href=\"https://ref.ly/Exod12:37-Exod12:39\">EXO 12:37–12:39</a>; ; <a href=\"https://ref.ly/Ruth1:1\">RUT 1:1</a>; ; <a href=\"https://ref.ly/Matt2:13-Matt2:15\">MAT 2:13–2:15</a> <em>Mary, Joseph and Jesus Christ</em>; ; <a href=\"https://ref.ly/Acts18:2\">ACT 18:2</a></p>\n<h2>Refugees are to be treated kindly</h2>\n<p><a href=\"https://ref.ly/Deut23:15-Deut23:16\">DEU 23:15–23:16</a>; ; <a href=\"https://ref.ly/Matt25:35\">MAT 25:35</a>; ; <a href=\"https://ref.ly/Phlm1:10-Phlm1:16\">PHM 1:10–1:16</a></p>\n<h2>Refugees from legal accusation are to be provided for</h2>\n<p><a href=\"https://ref.ly/Num35:6\">NUM 35:6</a>; ; <a href=\"https://ref.ly/Josh20:1-Josh20:6\">JOS 20:1–20:6</a></p>\n<h2>The LORD is a place of spiritual refuge</h2>\n<p><a href=\"https://ref.ly/Deut33:27\">DEU 33:27</a>; ; <a href=\"https://ref.ly/2Sam22:3\">2SA 22:3</a>; ; <a href=\"https://ref.ly/Ps9:9\">PSA 9:9</a>, <a href=\"https://ref.ly/Ps59:16\">PSA 59:16</a>; ; <a href=\"https://ref.ly/Isa25:4\">ISA 25:4</a>; ; <a href=\"https://ref.ly/Jer16:19\">JER 16:19</a>; ; <a href=\"https://ref.ly/Nah1:7\">NAM 1:7</a></p>",
@@ -184,7 +184,8 @@
 "label": "7338: cities of refuge",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

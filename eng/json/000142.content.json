@@ -2,10 +2,10 @@
 {
 "content_id": "2006",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "2006: God, the Son",
 "media_type": "Text",
-"index_reference": "2006: god, the son",
+"index_reference": "2006",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The co-equal and co-eternal Son of the Father, who became incarnate in Jesus Christ for the redemption of the world. Scripture stresses both the divinity and the humanity of the incarnate Son of God, and the necessity and total sufficiency of his atoning death for human redemption. Through his resurrection and ascension, he interecedes for believers at the right hand of God.</p>",
@@ -187,7 +187,8 @@
 "label": "2081: Jesus Christ, wisdom of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

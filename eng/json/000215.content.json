@@ -2,10 +2,10 @@
 {
 "content_id": "2420",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "2420: gospel",
 "media_type": "Text",
-"index_reference": "2420: gospel",
+"index_reference": "2420",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The good news of God's redemption of sinful humanity through the life, death and resurrection of his Son Jesus Christ.</p>",
@@ -68,7 +68,8 @@
 "label": "2428: gospel, descriptions of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

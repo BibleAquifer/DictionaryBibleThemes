@@ -2,10 +2,10 @@
 {
 "content_id": "5106",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5106: Noah",
 "media_type": "Text",
-"index_reference": "5106: noah",
+"index_reference": "5106",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A figure of major importance in the early chapters of Genesis, with whom God established a covenant, the sign of which was the rainbow. The life of Noah (whose name means “rest” or “comfort”) demonstrates God's ability to save the righteous and destroy the ungodly.</p>\n<h2>Noah's righteousness</h2>\n<h3>Noah walked with God</h3>\n<p><strong><a href=\"https://ref.ly/Gen6:8-Gen6:9\">GEN 6:8–6:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek14:14\">EZK 14:14</a>, <a href=\"https://ref.ly/Ezek14:20\">EZK 14:20</a></p>\n<h3>Noah enjoyed God's protection</h3>\n<p><strong><a href=\"https://ref.ly/2Pet2:5\">2PE 2:5</a></strong></p>\n<h3>Noah illustrates God's restoring grace after judgment</h3>\n<p><strong><a href=\"https://ref.ly/Isa54:7-Isa54:10\">ISA 54:7–54:10</a></strong></p>\n<h2>The history of Noah</h2>\n<h3>Noah's family</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Gen5:22-Gen5:29\">GEN 5:22–5:29</a>; <a href=\"https://ref.ly/1Chr1:1-1Chr1:3\">1CH 1:1–1:3</a></p>\n<h3>Noah built the ark at God's command</h3>\n<p><strong><a href=\"https://ref.ly/Heb11:7\">HEB 11:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:11-Gen6:21\">GEN 6:11–6:21</a></p>\n<h3>Noah had three sons</h3>\n<p><strong><a href=\"https://ref.ly/Gen5:32\">GEN 5:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen9:18-Gen9:19\">GEN 9:18–9:19</a>; <a href=\"https://ref.ly/1Chr1:4\">1CH 1:4</a>GEN <a href=\"https://ref.ly/1Chr10:1\">10:1</a>, <a href=\"https://ref.ly/Gen10:32\">GEN 10:32</a></p>\n<h3>Noah saved his family and animals from the flood</h3>\n<p><strong><a href=\"https://ref.ly/Gen7:7-Gen7:9\">GEN 7:7–7:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen8:18-Gen8:19\">GEN 8:18–8:19</a>; <a href=\"https://ref.ly/1Pet3:20\">1PE 3:20</a></p>\n<h3>Noah worshipped the LORD</h3>\n<p><strong><a href=\"https://ref.ly/Gen8:20\">GEN 8:20</a></strong></p>\n<h3>God established a covenant with Noah, the sign of which is the rainbow</h3>\n<p><strong><a href=\"https://ref.ly/Gen8:21-Gen8:22\">GEN 8:21–8:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen9:8-Gen9:9\">GEN 9:8–9:9</a>, <a href=\"https://ref.ly/Gen9:12-Gen9:17\">GEN 9:12–9:17</a></p>\n<h3>Noah lived to a great age</h3>\n<p><strong><a href=\"https://ref.ly/Gen9:28-Gen9:29\">GEN 9:28–9:29</a></strong></p>\n<h2>Noah's character</h2>\n<h3>Noah was obedient</h3>\n<p><strong><a href=\"https://ref.ly/Gen6:22\">GEN 6:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen8:15-Gen8:19\">GEN 8:15–8:19</a></p>\n<h3>Noah was reverent</h3>\n<p><a href=\"https://ref.ly/Gen8:20\">GEN 8:20</a></p>\n<h3>Noah was a man of the soil</h3>\n<p><strong><a href=\"https://ref.ly/Gen9:20\">GEN 9:20</a></strong></p>\n<h3>Noah was subject to human frailty</h3>\n<p><strong><a href=\"https://ref.ly/Gen9:21\">GEN 9:21</a></strong> <em>Nakedness was seen as shameful by OT writers.</em></p>\n<h3>Noah blessed and cursed his sons in a prophetic way</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Gen9:24-Gen9:27\">GEN 9:24–9:27</a></p>\n<h2>Jesus Christ was a direct descendant of Noah</h2>\n<p><a href=\"https://ref.ly/Luke3:23\">LUK 3:23</a>, <a href=\"https://ref.ly/Luke3:36\">LUK 3:36</a></p>\n<h2>The last days are likened to the time of Noah</h2>\n<p><strong><a href=\"https://ref.ly/Matt24:37-Matt24:39\">MAT 24:37–24:39</a></strong> parallel <a href=\"https://ref.ly/Luke17:26-Luke17:27\">LUK 17:26–17:27</a></p>",
@@ -247,6 +247,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9140: last days",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Ephesus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ephesus"
+},
+{
+"id": "person:Noah",
+"type": "person",
+"confidence": 0.602,
+"match_method": "scored",
+"preferred_label": "Noah"
 }
 ]
 }
