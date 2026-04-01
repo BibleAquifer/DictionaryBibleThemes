@@ -2,10 +2,10 @@
 {
 "content_id": "5318",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5318: fraud",
 "media_type": "Text",
-"index_reference": "5318: fraud",
+"index_reference": "5318",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The obtaining of goods or money by deception. Scripture condemns this practice, requiring believers to be honest in their dealings with one another.</p>\n<h2>Fraud of all kinds is forbidden</h2>\n<p><strong><a href=\"https://ref.ly/Lev19:11\">LEV 19:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev19:13\">LEV 19:13</a>; <a href=\"https://ref.ly/Mark10:19\">MRK 10:19</a>; <a href=\"https://ref.ly/1Cor6:8\">1CO 6:8</a></p>\n<h2>The importance of integrity in public life</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs12:15\">2KI 12:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num16:15\">NUM 16:15</a>; <a href=\"https://ref.ly/1Sam12:4\">1SA 12:4</a>; <a href=\"https://ref.ly/2Sam18:12\">2SA 18:12</a>; <a href=\"https://ref.ly/1Kgs13:8\">1KI 13:8</a>; <a href=\"https://ref.ly/2Kgs5:16\">2KI 5:16</a></p>\n<h2>Kinds of fraud</h2>\n<h3>Stealing</h3>\n<p><strong><a href=\"https://ref.ly/Exod20:15\">EXO 20:15</a></strong> parallel <a href=\"https://ref.ly/Deut5:19\">DEU 5:19</a> <em>See also</em> <a href=\"https://ref.ly/Deut23:24\">DEU 23:24</a>; <a href=\"https://ref.ly/Eph4:28\">EPH 4:28</a>; <a href=\"https://ref.ly/Titus2:12\">TIT 2:12</a>; <a href=\"https://ref.ly/1Pet4:15\">1PE 4:15</a></p>\n<h3>Breach of trust</h3>\n<p><a href=\"https://ref.ly/Lev6:2\">LEV 6:2</a>; ; <a href=\"https://ref.ly/Ezek16:17\">EZK 16:17</a>; ; <a href=\"https://ref.ly/Luke16:12\">LUK 16:12</a></p>\n<h3>Not repaying loans</h3>\n<p><strong><a href=\"https://ref.ly/Ps37:21\">PSA 37:21</a></strong></p>\n<h3>Not paying fair wages</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Gen31:6-Gen31:9\">GEN 31:6–31:9</a>; <a href=\"https://ref.ly/Jas5:4\">JAS 5:4</a></p>\n<h3>Using dishonest weights or scales</h3>\n<p><strong><a href=\"https://ref.ly/Lev19:35-Lev19:36\">LEV 19:35–19:36</a></strong>; <strong><a href=\"https://ref.ly/Prov20:23\">PRO 20:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut25:13-Deut25:16\">DEU 25:13–25:16</a>; <a href=\"https://ref.ly/Hos12:7-Hos12:8\">HOS 12:7–12:8</a>; <a href=\"https://ref.ly/Amos8:5\">AMO 8:5</a></p>\n<h3>Charging excess taxes</h3>\n<p><a href=\"https://ref.ly/Luke19:8\">LUK 19:8</a></p>\n<h3>Moving boundary stones</h3>\n<p><strong><a href=\"https://ref.ly/Prov23:10\">PRO 23:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut19:14\">DEU 19:14</a>, <a href=\"https://ref.ly/Deut27:17\">DEU 27:17</a></p>\n<h3>Extortion</h3>\n<p><strong><a href=\"https://ref.ly/Hab2:6\">HAB 2:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa10:2\">ISA 10:2</a>; <a href=\"https://ref.ly/Ezek22:12\">EZK 22:12</a>; <a href=\"https://ref.ly/Amos5:11\">AMO 5:11</a>; <a href=\"https://ref.ly/Matt18:28\">MAT 18:28</a></p>",
@@ -292,7 +292,8 @@
 "label": "8790: oppression",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

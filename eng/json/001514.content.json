@@ -2,10 +2,10 @@
 {
 "content_id": "6124",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6124: condemnation",
 "media_type": "Text",
-"index_reference": "6124: condemnation",
+"index_reference": "6124",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An act of judgment, in which someone rebukes and denounces the actions and motivations of others. Scripture stresses the righteousness and trustworthiness of divine condemnation but notes how human judgments are often tainted and distorted by sin.</p>",
@@ -25,6 +25,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6126: condemnation, human",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Izhar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Izhar"
+},
+{
+"id": "person:Izhar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Izhar"
 }
 ]
 }

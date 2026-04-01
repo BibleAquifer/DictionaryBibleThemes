@@ -2,10 +2,10 @@
 {
 "content_id": "8627",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8627: worship, elements of",
 "media_type": "Text",
-"index_reference": "8627: worship, elements of",
+"index_reference": "8627",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Praise and thankfulness are important elements of worship, which also includes confession of sin, the reading of Scripture and music.</p>\n<h2>Worship with awe</h2>\n<p><strong><a href=\"https://ref.ly/Deut10:12\">DEU 10:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev10:1-Lev10:3\">LEV 10:1–10:3</a>; <a href=\"https://ref.ly/2Chr7:3\">2CH 7:3</a>; <a href=\"https://ref.ly/Ps2:11\">PSA 2:11</a>, <a href=\"https://ref.ly/Ps68:35\">PSA 68:35</a>, <a href=\"https://ref.ly/Ps96:9\">PSA 96:9</a>; <a href=\"https://ref.ly/Eccl5:1\">ECC 5:1</a></p>\n<h2>Worship includes trust</h2>\n<p><strong><a href=\"https://ref.ly/Ps4:5\">PSA 4:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps37:7\">PSA 37:7</a>; <a href=\"https://ref.ly/Heb11:6\">HEB 11:6</a></p>\n<h2>Worship includes praise</h2>\n<p><strong><a href=\"https://ref.ly/Ps22:22\">PSA 22:22</a>, <a href=\"https://ref.ly/Ps107:32\">PSA 107:32</a></strong>; <strong><a href=\"https://ref.ly/Heb13:15\">HEB 13:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr31:2\">2CH 31:2</a>; <a href=\"https://ref.ly/Neh9:5-Neh9:6\">NEH 9:5–9:6</a>; <a href=\"https://ref.ly/Ps150:1-Ps150:6\">PSA 150:1–150:6</a>; <a href=\"https://ref.ly/Heb2:12\">HEB 2:12</a>; <a href=\"https://ref.ly/Rev7:11-Rev7:12\">REV 7:11–7:12</a></p>\n<h2>Worship includes thanksgiving</h2>\n<p><strong><a href=\"https://ref.ly/Ps100:4\">PSA 100:4</a></strong>; <strong><a href=\"https://ref.ly/Rev11:16-Rev11:17\">REV 11:16–11:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr7:3\">2CH 7:3</a>; <a href=\"https://ref.ly/Ps50:14\">PSA 50:14</a>, <a href=\"https://ref.ly/Ps50:23\">PSA 50:23</a>; <a href=\"https://ref.ly/Eph5:19-Eph5:20\">EPH 5:19–5:20</a>; <a href=\"https://ref.ly/Phil4:6\">PHP 4:6</a>; <a href=\"https://ref.ly/Rev7:11-Rev7:12\">REV 7:11–7:12</a></p>\n<h2>Worship with joy</h2>\n<p><strong><a href=\"https://ref.ly/Ps95:1\">PSA 95:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps27:6\">PSA 27:6</a>, <a href=\"https://ref.ly/Ps43:4\">PSA 43:4</a>, <a href=\"https://ref.ly/Ps100:2\">PSA 100:2</a>; <a href=\"https://ref.ly/Luke24:52-Luke24:53\">LUK 24:52–24:53</a>; <a href=\"https://ref.ly/Acts2:46-Acts2:47\">ACT 2:46–2:47</a></p>\n<h2>Worship includes the confession of Jesus Christ as Lord</h2>\n<p><strong><a href=\"https://ref.ly/Heb13:15\">HEB 13:15</a></strong></p>\n<h2>Worship includes confession of sin</h2>\n<p><strong><a href=\"https://ref.ly/Hos14:2\">HOS 14:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev16:21\">LEV 16:21</a>; <a href=\"https://ref.ly/Neh9:2\">NEH 9:2</a>; <a href=\"https://ref.ly/Ps66:18\">PSA 66:18</a></p>\n<h2>Worship includes the reading of God's word</h2>\n<p><strong><a href=\"https://ref.ly/Col3:16\">COL 3:16</a></strong>; <strong><a href=\"https://ref.ly/1Tim4:13\">1TI 4:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh8:5-Neh8:6\">NEH 8:5–8:6</a>, <a href=\"https://ref.ly/Neh9:3\">NEH 9:3</a></p>\n<h2>Worship includes music and song</h2>\n<p><strong><a href=\"https://ref.ly/Ps95:2-Ps95:3\">PSA 95:2–95:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam6:5\">2SA 6:5</a>; <a href=\"https://ref.ly/Ps100:2\">PSA 100:2</a>; <a href=\"https://ref.ly/Eph5:19-Eph5:20\">EPH 5:19–5:20</a></p>\n<h2>Worship includes dance</h2>\n<p><strong><a href=\"https://ref.ly/Ps149:3\">PSA 149:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod15:20\">EXO 15:20</a>; <a href=\"https://ref.ly/Ps30:11\">PSA 30:11</a></p>",
@@ -348,7 +348,8 @@
 "label": "8646: doxology",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

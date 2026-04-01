@@ -2,10 +2,10 @@
 {
 "content_id": "5139",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5139: bracelet",
 "media_type": "Text",
-"index_reference": "5139: bracelet",
+"index_reference": "5139",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An expensive ornamental armlet usually worn by women.</p>",
@@ -46,6 +46,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8808: riches",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Esau",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esau"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5406",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5406: mercenaries",
 "media_type": "Text",
-"index_reference": "5406: mercenaries",
+"index_reference": "5406",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Soldiers who offers their services for money, irrespective of the nationality of the army in question.</p>\n<h2>Mercenaries in the Egyptian army</h2>\n<p><strong><a href=\"https://ref.ly/Jer46:20-Jer46:21\">JER 46:20–46:21</a></strong> <em>These mercenaries were drawn from Cush to the south of Egypt, Put to the west of Egypt and Lydia in north Africa.</em></p>\n<h2>Mercenaries in the Ammonite army</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/2Sam10:6\">2SA 10:6</a> parallel <a href=\"https://ref.ly/1Chr19:7\">1CH 19:7</a></p>\n<h2>Mercenaries hired by Jehoiada the priest</h2>\n<p><a href=\"https://ref.ly/2Kgs11:4\">2KI 11:4</a>, <a href=\"https://ref.ly/2Kgs11:19\">2KI 11:19</a> <em>The Carites were from Caria in south-west Asia Minor.</em></p>\n<h2>Mercenaries in the army of Judah</h2>\n<p><a href=\"https://ref.ly/2Chr25:6\">2CH 25:6</a></p>\n<h2>Fear of mercenary attack</h2>\n<p><a href=\"https://ref.ly/2Kgs7:6-2Kgs7:7\">2KI 7:6–7:7</a></p>",
@@ -75,6 +75,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5544: soldiers",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hell"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "4550",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4550: winnowing",
 "media_type": "Text",
-"index_reference": "4550: winnowing",
+"index_reference": "4550",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The exposing of grain to the air by either tossing or fanning so that the loose outer part is blown away. It is also used figuratively to refer to God's judgment.</p>\n<h2>Winnowing took place at the threshing-floor</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Ruth3:2\">RUT 3:2</a></p>\n<h2>Winnowing used figuratively</h2>\n<p><strong><a href=\"https://ref.ly/Jer15:7\">JER 15:7</a></strong>; <strong><a href=\"https://ref.ly/Matt3:12\">MAT 3:12</a></strong> parallel <a href=\"https://ref.ly/Luke3:17\">LUK 3:17</a> <em>See also</em> <a href=\"https://ref.ly/Prov20:8\">PRO 20:8</a>, <a href=\"https://ref.ly/Prov20:26\">PRO 20:26</a>; <a href=\"https://ref.ly/Isa41:16\">ISA 41:16</a>; <a href=\"https://ref.ly/Jer4:11\">JER 4:11</a>, <a href=\"https://ref.ly/Jer51:2\">JER 51:2</a></p>",
@@ -108,6 +108,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5530: sifting",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Joel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Joel"
+},
+{
+"id": "realia:WinnowingFork",
+"type": "realia",
+"confidence": 0.6028,
+"match_method": "scored",
+"preferred_label": "Winnowing Fork"
 }
 ]
 }

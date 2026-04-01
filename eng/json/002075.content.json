@@ -2,10 +2,10 @@
 {
 "content_id": "8234",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8234: doctrine",
 "media_type": "Text",
-"index_reference": "8234: doctrine",
+"index_reference": "8234",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The body of teachings of the Christian faith concerning its central beliefs. Doctrine is grounded in Scripture and aims to maintain the integrity of Christianity by distinguishing it from non-Christian beliefs. Doctrine is of central importance in Christian preaching and teaching in that it equips the people of God for effective and faithful service in his world.</p>",
@@ -32,6 +32,64 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8237: doctrine, false",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Seraiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seraiah"
+},
+{
+"id": "person:Seraiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seraiah"
+},
+{
+"id": "person:Seraiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seraiah"
+},
+{
+"id": "person:Seraiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seraiah"
+},
+{
+"id": "person:Seraiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seraiah"
+},
+{
+"id": "person:Seraiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seraiah"
+},
+{
+"id": "person:Seraiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seraiah"
+},
+{
+"id": "person:Seraiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seraiah"
 }
 ]
 }

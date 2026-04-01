@@ -2,10 +2,10 @@
 {
 "content_id": "7778",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7778: school of prophets",
 "media_type": "Text",
-"index_reference": "7778: school of prophets",
+"index_reference": "7778",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A company of prophets working and prophesying together under the instruction and leadership of a more experienced prophet. There were also similar companies of false prophets.</p>\n<h2>A school of prophets used by God to influence others</h2>\n<p><strong><a href=\"https://ref.ly/1Sam19:19-1Sam19:24\">1SA 19:19–19:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam10:5-1Sam10:6\">1SA 10:5–10:6</a>, <a href=\"https://ref.ly/1Sam10:10-1Sam10:13\">1SA 10:10–10:13</a>; <a href=\"https://ref.ly/2Kgs9:1-2Kgs9:3\">2KI 9:1–9:3</a>; <a href=\"https://ref.ly/Ezra5:2\">EZR 5:2</a></p>\n<h2>Schools of prophets associated with particular places</h2>\n<h3>Bethel</h3>\n<p><a href=\"https://ref.ly/2Kgs2:3\">2KI 2:3</a></p>\n<h3>Jericho</h3>\n<p><a href=\"https://ref.ly/2Kgs2:15\">2KI 2:15</a></p>\n<h2>Leaders of schools of prophets</h2>\n<h3>Samuel and a school of prophets</h3>\n<p><a href=\"https://ref.ly/1Sam19:20\">1SA 19:20</a></p>\n<h3>Elisha and a school of prophets</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs2:15\">2KI 2:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs4:1\">2KI 4:1</a>, <a href=\"https://ref.ly/2Kgs4:38\">2KI 4:38</a>, <a href=\"https://ref.ly/2Kgs6:1-2Kgs6:4\">2KI 6:1–6:4</a></p>\n<h2>A school of prophets in danger</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs18:4\">1KI 18:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs18:13\">1KI 18:13</a></p>\n<h2>Schools of false prophets</h2>\n<p><a href=\"https://ref.ly/1Kgs18:19\">1KI 18:19</a>, <a href=\"https://ref.ly/1Kgs18:40\">1KI 18:40</a>, <a href=\"https://ref.ly/1Kgs22:6\">1KI 22:6</a> parallel <a href=\"https://ref.ly/2Chr18:5\">2CH 18:5</a>; ; <a href=\"https://ref.ly/1Kgs22:10\">1KI 22:10</a> parallel <a href=\"https://ref.ly/2Chr18:9\">2CH 18:9</a>; ; <a href=\"https://ref.ly/1Kgs22:12-1Kgs22:14\">1KI 22:12–22:14</a> parallel <a href=\"https://ref.ly/2Chr18:11-2Chr18:13\">2CH 18:11–18:13</a>; ; <a href=\"https://ref.ly/1Kgs22:19-1Kgs22:23\">1KI 22:19–22:23</a> parallel <a href=\"https://ref.ly/2Chr18:18-2Chr18:22\">2CH 18:18–18:22</a>; ; <a href=\"https://ref.ly/Neh6:14\">NEH 6:14</a></p>",
@@ -198,6 +198,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8794: persecution",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Poplar",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Poplar"
 }
 ]
 }

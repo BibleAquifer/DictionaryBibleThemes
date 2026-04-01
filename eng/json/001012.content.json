@@ -2,10 +2,10 @@
 {
 "content_id": "5434",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5434: officer",
 "media_type": "Text",
-"index_reference": "5434: officer",
+"index_reference": "5434",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A person holding a position of authority (serving others), in a government, an army or navy, the church or other organisation.</p>\n<h2>Examples of officers</h2>\n<h3>Government officers</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs4:5\">1KI 4:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs4:7-1Kgs4:19\">1KI 4:7–4:19</a>, <a href=\"https://ref.ly/1Kgs4:27-1Kgs4:28\">1KI 4:27–4:28</a>, <a href=\"https://ref.ly/1Kgs20:14\">1KI 20:14</a>; <a href=\"https://ref.ly/2Kgs15:25\">2KI 15:25</a>, <a href=\"https://ref.ly/2Kgs18:24\">2KI 18:24</a> parallel <a href=\"https://ref.ly/Isa36:9\">ISA 36:9</a>; <a href=\"https://ref.ly/Ezra4:8\">EZR 4:8</a>; <a href=\"https://ref.ly/Neh11:9\">NEH 11:9</a>; <a href=\"https://ref.ly/Isa33:18\">ISA 33:18</a></p>\n<h3>Army officers</h3>\n<p><strong><a href=\"https://ref.ly/Exod14:7\">EXO 14:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod15:4\">EXO 15:4</a>; <a href=\"https://ref.ly/Deut20:8-Deut20:9\">DEU 20:8–20:9</a>; <a href=\"https://ref.ly/2Sam8:7\">2SA 8:7</a>; <a href=\"https://ref.ly/2Kgs6:8\">2KI 6:8</a>; <a href=\"https://ref.ly/1Chr27:16-1Chr27:22\">1CH 27:16–27:22</a>; <a href=\"https://ref.ly/Isa21:5\">ISA 21:5</a>; <a href=\"https://ref.ly/Jer38:17-Jer38:18\">JER 38:17–38:18</a>; <a href=\"https://ref.ly/Ezek23:15\">EZK 23:15</a>; <a href=\"https://ref.ly/Acts21:32\">ACT 21:32</a>, <a href=\"https://ref.ly/Acts25:23\">ACT 25:23</a></p>\n<h3>Navy officers</h3>\n<p><a href=\"https://ref.ly/2Chr8:18\">2CH 8:18</a></p>\n<h3>Church officers</h3>\n<p><strong><a href=\"https://ref.ly/Phil1:1\">PHP 1:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts20:17\">ACT 20:17</a>, <a href=\"https://ref.ly/Acts20:28\">ACT 20:28</a>; <a href=\"https://ref.ly/1Tim3:1\">1TI 3:1</a>, <a href=\"https://ref.ly/1Tim3:8-1Tim3:10\">1TI 3:8–3:10</a>, <a href=\"https://ref.ly/1Tim5:17\">1TI 5:17</a>; <a href=\"https://ref.ly/Titus1:5\">TIT 1:5</a>, <a href=\"https://ref.ly/Titus1:7\">TIT 1:7</a></p>\n<h2>Other kinds of officer</h2>\n<h3>The officer in charge of the king's palace</h3>\n<p><a href=\"https://ref.ly/1Kgs4:6\">1KI 4:6</a>, <a href=\"https://ref.ly/1Kgs18:3\">1KI 18:3</a>; ; <a href=\"https://ref.ly/2Kgs18:18\">2KI 18:18</a>, <a href=\"https://ref.ly/2Kgs19:2\">2KI 19:2</a></p>\n<h3>The officer in charge of the treasuries</h3>\n<p><a href=\"https://ref.ly/1Chr26:24\">1CH 26:24</a>; ; <a href=\"https://ref.ly/2Chr24:11\">2CH 24:11</a></p>\n<h3>The priest in charge of punishing troublemakers in the temple court</h3>\n<p><a href=\"https://ref.ly/Jer20:1-Jer20:2\">JER 20:1–20:2</a></p>\n<h3>The commander of the king's guard</h3>\n<p><a href=\"https://ref.ly/Dan2:14-Dan2:15\">DAN 2:14–2:15</a></p>\n<h3>A court attendant</h3>\n<p><a href=\"https://ref.ly/Matt5:25\">MAT 5:25</a> parallel <a href=\"https://ref.ly/Luke12:58\">LUK 12:58</a></p>\n<h3>A member of the temple guard</h3>\n<p><a href=\"https://ref.ly/Luke22:4\">LUK 22:4</a>, <a href=\"https://ref.ly/Luke22:52\">LUK 22:52</a>; ; <a href=\"https://ref.ly/Acts5:22\">ACT 5:22</a>, <a href=\"https://ref.ly/Acts5:26\">ACT 5:26</a></p>\n<h3>The attendant of a Roman magistrate</h3>\n<p><a href=\"https://ref.ly/Acts16:35\">ACT 16:35</a>, <a href=\"https://ref.ly/Acts16:38\">ACT 16:38</a></p>",
@@ -372,6 +372,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7939: ministry",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Geshem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Geshem"
 }
 ]
 }

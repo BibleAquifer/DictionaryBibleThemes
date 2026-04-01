@@ -2,10 +2,10 @@
 {
 "content_id": "5619",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5619: weights and measures, distance and area",
 "media_type": "Text",
-"index_reference": "5619: weights and measures, distance and area",
+"index_reference": "5619",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Diverse expressions were used for these measurements, their being determined in the most practical way possible, reckoned by known averages.</p>\n<h2>Expressions of distance</h2>\n<h3>A bow-shot</h3>\n<p><strong><a href=\"https://ref.ly/Gen21:15-Gen21:16\">GEN 21:15–21:16</a></strong></p>\n<h3>Some distance</h3>\n<p><strong><a href=\"https://ref.ly/Exod33:7\">EXO 33:7</a></strong> <em>A variety of distance often lies behind this expression, as can be seen in the examples that follow.</em> <em>See also</em> <a href=\"https://ref.ly/Gen35:16\">GEN 35:16</a>, <a href=\"https://ref.ly/Gen36:6\">GEN 36:6</a>; <a href=\"https://ref.ly/Num2:2\">NUM 2:2</a>; <a href=\"https://ref.ly/1Sam26:13\">1SA 26:13</a>; <a href=\"https://ref.ly/2Sam15:17\">2SA 15:17</a>; <a href=\"https://ref.ly/Matt8:30\">MAT 8:30</a></p>\n<h3>A Sabbath day's journey</h3>\n<p><strong><a href=\"https://ref.ly/Acts1:12\">ACT 1:12</a></strong> <em>While this is the only mention of this phrase in Scripture, it was in fact a popular expression, indicating the distance a devout Jew could walk on the Sabbath. It was based on the rabbinical interpretation of <a href=\"https://ref.ly/Exod16:29\">Ex 16:29</a> in the light of <a href=\"https://ref.ly/Num35:5\">Nu 35:5</a>, and was limited to 2,000 cubits.</em></p>\n<h3>A day's journey</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs19:3-1Kgs19:4\">1KI 19:3–19:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num11:31\">NUM 11:31</a></p>\n<h3>A three-day journey</h3>\n<p><strong><a href=\"https://ref.ly/Gen30:36\">GEN 30:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod3:18\">EXO 3:18</a>; <a href=\"https://ref.ly/Num10:33\">NUM 10:33</a>; <a href=\"https://ref.ly/Ezra10:7-Ezra10:9\">EZR 10:7–10:9</a>; <a href=\"https://ref.ly/Jonah3:3\">JON 3:3</a></p>\n<h3>Far away</h3>\n<p><strong><a href=\"https://ref.ly/Deut28:49\">DEU 28:49</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs8:46\">1KI 8:46</a> parallel <a href=\"https://ref.ly/2Chr6:36\">2CH 6:36</a>; <a href=\"https://ref.ly/Isa6:12\">ISA 6:12</a>; <a href=\"https://ref.ly/Ezek11:15-Ezek11:16\">EZK 11:15–11:16</a>; <a href=\"https://ref.ly/Joel3:8\">JOL 3:8</a>; <a href=\"https://ref.ly/Zech6:15\">ZEC 6:15</a>; <a href=\"https://ref.ly/Acts22:21\">ACT 22:21</a></p>\n<h2>Expressions of area</h2>\n<h3>Area expressed by the yoke</h3>\n<p><strong><a href=\"https://ref.ly/1Sam14:14\">1SA 14:14</a></strong> <em>The area translated “about half an acre” in the Hebrew means “half a yoke”. The yoke was the area of land ploughed by a yoke of oxen in one day, approximately one acre.</em> <em>See also</em> <a href=\"https://ref.ly/Isa5:10\">ISA 5:10</a> <em>The Hebrew describes the area as “ten-yoke”, that is, the land ploughed by ten yoke of oxen in one day.</em></p>\n<h3>Area expressed by the amount of seed required to sow the land</h3>\n<p><strong><a href=\"https://ref.ly/Lev27:16\">LEV 27:16</a></strong></p>\n<h3>Area expressed by its constituent measurements</h3>\n<p><strong><a href=\"https://ref.ly/Ezek40:47\">EZK 40:47</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod28:16\">EXO 28:16</a> parallel <a href=\"https://ref.ly/Exod39:9\">EXO 39:9</a>; <a href=\"https://ref.ly/1Kgs7:23\">1KI 7:23</a>; <a href=\"https://ref.ly/Ezek45:1-Ezek45:6\">EZK 45:1–45:6</a></p>",
@@ -251,6 +251,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5590: travel",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hammath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hammath"
 }
 ]
 }

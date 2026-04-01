@@ -2,10 +2,10 @@
 {
 "content_id": "7239",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7239: Jerusalem",
 "media_type": "Text",
-"index_reference": "7239: jerusalem",
+"index_reference": "7239",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The city in southern Palestine, situated in the Judean hills, around 20 miles west of the Dead Sea. Established as the Israelite capital by David, it remained the capital of Judah from the reign of Rehoboam until its destruction by the Romans in A.D. 70.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7241: Jerusalem, significance of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Mozah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mozah"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "8306",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8306: mercifulness",
 "media_type": "Text",
-"index_reference": "8306: mercifulness",
+"index_reference": "8306",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An attitude of compassion and care, grounded in the nature of God himself, made manifest in the life and ministry of Jesus Christ, and expected of believers.</p>\n<h2>The mercifulness of God</h2>\n<p><strong><a href=\"https://ref.ly/Deut4:31\">DEU 4:31</a></strong>; <strong><a href=\"https://ref.ly/Ps78:38\">PSA 78:38</a></strong>; <strong><a href=\"https://ref.ly/Jer3:12\">JER 3:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut7:7-Deut7:8\">DEU 7:7–7:8</a>; <a href=\"https://ref.ly/Neh9:31\">NEH 9:31</a>; <a href=\"https://ref.ly/Zech1:16\">ZEC 1:16</a>; <a href=\"https://ref.ly/Luke1:50-Luke1:54\">LUK 1:50–1:54</a>; <a href=\"https://ref.ly/Jas5:11\">JAS 5:11</a></p>\n<h2>The expression of God's mercifulness</h2>\n<h3>In the forgiveness of sins</h3>\n<p><strong><a href=\"https://ref.ly/Ps78:38\">PSA 78:38</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam24:14\">2SA 24:14</a>; <a href=\"https://ref.ly/1Kgs8:50\">1KI 8:50</a>; <a href=\"https://ref.ly/Ps26:11\">PSA 26:11</a>, <a href=\"https://ref.ly/Ps51:1\">PSA 51:1</a>; <a href=\"https://ref.ly/Dan9:9\">DAN 9:9</a></p>\n<h3>In response to prayer</h3>\n<p><strong><a href=\"https://ref.ly/Ps6:2\">PSA 6:2</a>, <a href=\"https://ref.ly/Ps27:7\">PSA 27:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs8:28\">1KI 8:28</a>; <a href=\"https://ref.ly/Ps9:13\">PSA 9:13</a></p>\n<h2>The mercifulness of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt9:36\">MAT 9:36</a></strong>; <strong><a href=\"https://ref.ly/Heb2:17\">HEB 2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt8:16\">MAT 8:16</a>; <a href=\"https://ref.ly/Heb4:16\">HEB 4:16</a></p>\n<h2>The mercifulness expected of believers</h2>\n<p><strong><a href=\"https://ref.ly/Luke6:36\">LUK 6:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mic6:8\">MIC 6:8</a>; <a href=\"https://ref.ly/Zech7:9\">ZEC 7:9</a>; <a href=\"https://ref.ly/Matt9:13\">MAT 9:13</a>, <a href=\"https://ref.ly/Matt18:21-Matt18:35\">MAT 18:21–18:35</a> <em>the parable of the unmerciful servant</em>; <a href=\"https://ref.ly/Matt23:23\">MAT 23:23</a>; <a href=\"https://ref.ly/Luke10:29-Luke10:37\">LUK 10:29–10:37</a> <em>the parable of the good Samaritan</em>; <a href=\"https://ref.ly/Rom12:8\">ROM 12:8</a>; <a href=\"https://ref.ly/Eph4:32-Eph5:2\">EPH 4:32–5:2</a>; <a href=\"https://ref.ly/Jas2:12-Jas2:13\">JAS 2:12–2:13</a>, <a href=\"https://ref.ly/Jas3:17\">JAS 3:17</a>; <a href=\"https://ref.ly/Jude1:22-Jude1:23\">JUD 1:22–1:23</a></p>\n<h2>The blessing promised to the merciful</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:7\">MAT 5:7</a></strong> <em>Jesus Christ to his disciples.</em></p>",
@@ -279,6 +279,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6686: mercy",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Sheal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sheal"
 }
 ]
 }

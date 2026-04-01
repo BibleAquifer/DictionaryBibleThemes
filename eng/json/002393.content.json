@@ -2,10 +2,10 @@
 {
 "content_id": "8766",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8766: heresies",
 "media_type": "Text",
-"index_reference": "8766: heresies",
+"index_reference": "8766",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Teachings held by a factional religious party which deny some aspect of established doctrine. NT writers give no toleration to heresies in the church.</p>\n<h2>Heresy as deviant teaching</h2>\n<p><strong><a href=\"https://ref.ly/Heb13:9\">HEB 13:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal1:6-Gal1:7\">GAL 1:6–1:7</a>; <a href=\"https://ref.ly/2Tim4:3-2Tim4:4\">2TI 4:3–4:4</a></p>\n<h2>Heresies and the factional nature of Judaism</h2>\n<h3>The party of the Pharisees</h3>\n<p><strong><a href=\"https://ref.ly/Acts26:5\">ACT 26:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts15:5\">ACT 15:5</a>; <a href=\"https://ref.ly/Phil3:5-Phil3:6\">PHP 3:5–3:6</a></p>\n<h3>The party of the Sadducees</h3>\n<p><strong><a href=\"https://ref.ly/Acts23:8\">ACT 23:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt22:23\">MAT 22:23</a> parallels <a href=\"https://ref.ly/Mark12:18\">MRK 12:18</a>, <a href=\"https://ref.ly/Luke20:27\">LUK 20:27</a></p>\n<h3>Christianity was perceived as a heresy within Judaism</h3>\n<p><strong><a href=\"https://ref.ly/Acts24:14\">ACT 24:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts24:5\">ACT 24:5</a>, <a href=\"https://ref.ly/Acts28:22\">ACT 28:22</a></p>\n<h2>Heresies within the church</h2>\n<h3>The imposition of Jewish regulations on Gentile converts</h3>\n<p><strong><a href=\"https://ref.ly/Acts15:1\">ACT 15:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal6:12-Gal6:13\">GAL 6:12–6:13</a>; <a href=\"https://ref.ly/1Tim1:3-1Tim1:7\">1TI 1:3–1:7</a>; <a href=\"https://ref.ly/Titus1:10\">TIT 1:10</a></p>\n<h3>Heresies concerning the person of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/2John1:7\">2JN 1:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1John2:22-1John2:23\">1JN 2:22–2:23</a>, <a href=\"https://ref.ly/1John4:1-1John4:3\">1JN 4:1–4:3</a></p>\n<h3>Heresies concerning the return of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/2Thess2:1-2Thess2:2\">2TH 2:1–2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt24:4-Matt24:5\">MAT 24:4–24:5</a> parallels <a href=\"https://ref.ly/Mark13:5-Mark13:6\">MRK 13:5–13:6</a>, <a href=\"https://ref.ly/Luke21:8\">LUK 21:8</a>; <a href=\"https://ref.ly/Matt24:23-Matt24:24\">MAT 24:23–24:24</a> parallel <a href=\"https://ref.ly/Mark13:21-Mark13:22\">MRK 13:21–13:22</a></p>\n<h2>The origins of heresy</h2>\n<h3>Erroneous human teaching</h3>\n<p><strong><a href=\"https://ref.ly/Col2:8\">COL 2:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph4:14\">EPH 4:14</a>; <a href=\"https://ref.ly/Col2:20-Col2:22\">COL 2:20–2:22</a></p>\n<h3>Deceitful demonic power</h3>\n<p><strong><a href=\"https://ref.ly/1Tim4:1\">1TI 4:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1John4:2-1John4:3\">1JN 4:2–4:3</a>, <a href=\"https://ref.ly/1John4:6\">1JN 4:6</a></p>\n<h2>Christian opposition to heresy</h2>\n<h3>Heresy warned against</h3>\n<p><strong><a href=\"https://ref.ly/2Pet3:17\">2PE 3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim4:7\">1TI 4:7</a>; <a href=\"https://ref.ly/Titus1:10-Titus1:14\">TIT 1:10–1:14</a></p>\n<h3>Heresy condemned</h3>\n<p><strong><a href=\"https://ref.ly/2Pet2:3\">2PE 2:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal1:8-Gal1:9\">GAL 1:8–1:9</a>; <a href=\"https://ref.ly/2Pet2:17-2Pet2:22\">2PE 2:17–2:22</a></p>",
@@ -324,6 +324,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8831: syncretism",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Tel-abib",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tel-abib"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5940",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5940: searching",
 "media_type": "Text",
-"index_reference": "5940: searching",
+"index_reference": "5940",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture points to several aspects of searching: the human search for satisfaction in the things of this world, the human search for God and God's search for lost humanity.</p>\n<h2>The human search for security in the world</h2>\n<h3>The search for material well-being</h3>\n<p><strong><a href=\"https://ref.ly/Luke12:16-Luke12:19\">LUK 12:16–12:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen42:1-Gen42:3\">GEN 42:1–42:3</a>; <a href=\"https://ref.ly/Ruth3:1\">RUT 3:1</a>; <a href=\"https://ref.ly/Job28:1-Job28:11\">JOB 28:1–28:11</a>; <a href=\"https://ref.ly/Lam1:11\">LAM 1:11</a></p>\n<h3>The search for comfort</h3>\n<p><strong><a href=\"https://ref.ly/Ps119:82\">PSA 119:82</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod14:10-Exod14:12\">EXO 14:10–14:12</a>; <a href=\"https://ref.ly/Num11:4-Num11:6\">NUM 11:4–11:6</a>; <a href=\"https://ref.ly/1Kgs1:1-1Kgs1:4\">1KI 1:1–1:4</a></p>\n<h3>The search for success</h3>\n<p><strong><a href=\"https://ref.ly/Eccl2:1-Eccl2:11\">ECC 2:1–2:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr18:9-2Chr18:12\">2CH 18:9–18:12</a>; <a href=\"https://ref.ly/Jer45:5\">JER 45:5</a></p>\n<h3>The search for security</h3>\n<p><strong><a href=\"https://ref.ly/Josh9:22-Josh9:24\">JOS 9:22–9:24</a></strong> <em>The Gibeonites resorted to deception in their eagerness to be secure.</em> <em>See also</em> <a href=\"https://ref.ly/Exod16:2-Exod16:3\">EXO 16:2–16:3</a>; <a href=\"https://ref.ly/Judg18:7\">JDG 18:7</a>; <a href=\"https://ref.ly/2Kgs20:19\">2KI 20:19</a> parallel <a href=\"https://ref.ly/Isa39:8\">ISA 39:8</a></p>\n<h3>The search for love</h3>\n<p><strong><a href=\"https://ref.ly/Prov7:18\">PRO 7:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg14:1-Judg14:3\">JDG 14:1–14:3</a>; <a href=\"https://ref.ly/2Sam13:1-2Sam13:14\">2SA 13:1–13:14</a>; <a href=\"https://ref.ly/1Kgs11:1-1Kgs11:3\">1KI 11:1–11:3</a></p>\n<h3>The search for wisdom and understanding</h3>\n<p><strong><a href=\"https://ref.ly/Eccl8:16-Eccl8:17\">ECC 8:16–8:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl7:24-Eccl7:29\">ECC 7:24–7:29</a></p>\n<h2>Instructions to search for God</h2>\n<p><strong><a href=\"https://ref.ly/Isa55:6-Isa55:7\">ISA 55:6–55:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr28:9\">1CH 28:9</a>; <a href=\"https://ref.ly/2Chr7:14\">2CH 7:14</a>; <a href=\"https://ref.ly/Jer29:13\">JER 29:13</a>; <a href=\"https://ref.ly/Matt7:7-Matt7:8\">MAT 7:7–7:8</a></p>\n<h2>God's search for lost humanity</h2>\n<p><strong><a href=\"https://ref.ly/Ezek34:11\">EZK 34:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke15:1-Luke15:10\">LUK 15:1–15:10</a>, <a href=\"https://ref.ly/Luke19:9-Luke19:10\">LUK 19:9–19:10</a></p>\n<h2>God searches a person's innermost being</h2>\n<p><strong><a href=\"https://ref.ly/Prov20:27\">PRO 20:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr28:9\">1CH 28:9</a>; <a href=\"https://ref.ly/Ps139:1-Ps139:4\">PSA 139:1–139:4</a>; <a href=\"https://ref.ly/Jer17:10\">JER 17:10</a>; <a href=\"https://ref.ly/Rom8:27\">ROM 8:27</a>; <a href=\"https://ref.ly/Rev2:23\">REV 2:23</a></p>",
@@ -292,7 +292,8 @@
 "label": "8778: materialism",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

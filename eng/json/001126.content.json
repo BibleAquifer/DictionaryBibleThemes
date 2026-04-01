@@ -2,10 +2,10 @@
 {
 "content_id": "5560",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5560: suffering",
 "media_type": "Text",
-"index_reference": "5560: suffering",
+"index_reference": "5560",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The experience of pain or distress, both physical and emotional. Scripture is thoroughly realistic about the place of suffering in the world and in the lives of believers. To become a Christian is not to escape from suffering, but to be able to bear suffering with dignity and hope.</p>",
@@ -75,7 +75,8 @@
 "label": "5569: suffering, hardship",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

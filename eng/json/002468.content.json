@@ -2,10 +2,10 @@
 {
 "content_id": "9020",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9020: death",
 "media_type": "Text",
-"index_reference": "9020: death",
+"index_reference": "9020",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Death in its various aspects is seen by Scripture as the opposite of God-given life.</p>",
@@ -39,6 +39,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9024: death, spiritual",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Vophsi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Vophsi"
 }
 ]
 }

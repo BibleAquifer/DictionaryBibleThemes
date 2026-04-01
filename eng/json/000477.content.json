@@ -2,10 +2,10 @@
 {
 "content_id": "4524",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4524: threshing-floor",
 "media_type": "Text",
-"index_reference": "4524: threshing-floor",
+"index_reference": "4524",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The place where winnowing and threshing took place at harvest time.</p>\n<h2>The threshing-floor and agriculture</h2>\n<p><a href=\"https://ref.ly/Gen50:10-Gen50:11\">GEN 50:10–50:11</a>; ; <a href=\"https://ref.ly/Judg6:37\">JDG 6:37</a>; ; <a href=\"https://ref.ly/Ruth3:2-Ruth3:14\">RUT 3:2–3:14</a>; ; <a href=\"https://ref.ly/1Sam23:1\">1SA 23:1</a>; ; <a href=\"https://ref.ly/2Sam6:6\">2SA 6:6</a> parallel <a href=\"https://ref.ly/1Chr13:9\">1CH 13:9</a>; ; <a href=\"https://ref.ly/1Kgs22:10\">1KI 22:10</a> parallel <a href=\"https://ref.ly/2Chr18:9\">2CH 18:9</a>; ; <a href=\"https://ref.ly/Job39:12\">JOB 39:12</a></p>\n<h2>The threshing-floor as a symbol of harvest</h2>\n<p><strong><a href=\"https://ref.ly/Deut16:13\">DEU 16:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num15:20\">NUM 15:20</a>, <a href=\"https://ref.ly/Num18:27\">NUM 18:27</a>, <a href=\"https://ref.ly/Num18:30\">NUM 18:30</a>; <a href=\"https://ref.ly/Deut15:14\">DEU 15:14</a>; <a href=\"https://ref.ly/2Kgs6:27\">2KI 6:27</a>; <a href=\"https://ref.ly/Hos9:1-Hos9:2\">HOS 9:1–9:2</a>; <a href=\"https://ref.ly/Joel2:24\">JOL 2:24</a></p>\n<h2>The threshing-floor as a symbol of judgment</h2>\n<p><strong><a href=\"https://ref.ly/Isa21:10\">ISA 21:10</a></strong>; <strong><a href=\"https://ref.ly/Hos13:3\">HOS 13:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer51:33\">JER 51:33</a>; <a href=\"https://ref.ly/Dan2:35\">DAN 2:35</a>; <a href=\"https://ref.ly/Mic4:12\">MIC 4:12</a>; <a href=\"https://ref.ly/Matt3:12\">MAT 3:12</a> parallel <a href=\"https://ref.ly/Luke3:17\">LUK 3:17</a></p>\n<h2>A threshing-floor was the site of the Jerusalem temple</h2>\n<p><strong><a href=\"https://ref.ly/2Chr3:1\">2CH 3:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam24:16-2Sam24:25\">2SA 24:16–24:25</a> parallel <a href=\"https://ref.ly/1Chr21:15-1Chr21:26\">1CH 21:15–21:26</a></p>",
@@ -223,6 +223,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:ThreshingFloor",
+"type": "realia",
+"confidence": 0.76,
+"match_method": "scored",
+"preferred_label": "Threshing Floor"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5228",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5228: battering-rams",
 "media_type": "Text",
-"index_reference": "5228: battering-rams",
+"index_reference": "5228",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Battering-rams used to make breaches in the walls of besieged cities</h2>\n<h3>Historic references to the breaking down of walls</h3>\n<p><a href=\"https://ref.ly/2Sam20:15\">2SA 20:15</a> <em>The wall of Abel Beth Maacah. References to breached or broken walls are evidence that the use of battering-rams was common</em>; ; <a href=\"https://ref.ly/2Kgs14:13\">2KI 14:13</a> parallel <a href=\"https://ref.ly/2Chr25:23\">2CH 25:23</a>; ; <a href=\"https://ref.ly/Jer39:2\">JER 39:2</a> parallels <a href=\"https://ref.ly/2Chr36:19\">2CH 36:19</a>, <a href=\"https://ref.ly/Jer52:7\">JER 52:7</a>; ; <a href=\"https://ref.ly/Neh1:3\">NEH 1:3</a></p>\n<h3>Figurative references to the breaking down of walls</h3>\n<p><a href=\"https://ref.ly/Ps89:40\">PSA 89:40</a> <em>referring to God's displeasure with David's dynasty</em></p>\n<h3>Prophetic references to the breaking down of walls as a picture of the LORD's power</h3>\n<p><a href=\"https://ref.ly/Isa22:5\">ISA 22:5</a>, <a href=\"https://ref.ly/Isa24:12\">ISA 24:12</a>; ; <a href=\"https://ref.ly/Ezek21:22\">EZK 21:22</a>, <a href=\"https://ref.ly/Ezek26:9\">EZK 26:9</a>; ; <a href=\"https://ref.ly/Mic2:13\">MIC 2:13</a></p>\n<h3>Peace is symbolised by no breaching of walls</h3>\n<p><a href=\"https://ref.ly/Ps144:14\">PSA 144:14</a></p>\n<h2>Model battering-rams were part of the symbolic representation of the siege of Jerusalem</h2>\n<p><a href=\"https://ref.ly/Ezek4:2\">EZK 4:2</a></p>",
@@ -137,6 +137,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5612: weapons",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Battering-ram",
+"type": "realia",
+"confidence": 0.5945,
+"match_method": "scored",
+"preferred_label": "Battering-Ram"
 }
 ]
 }

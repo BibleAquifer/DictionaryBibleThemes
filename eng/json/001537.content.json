@@ -2,10 +2,10 @@
 {
 "content_id": "6174",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6174: guilt, human aspects of",
 "media_type": "Text",
-"index_reference": "6174: guilt, human aspects of",
+"index_reference": "6174",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture affirms that all are guilty in the sight of God, and explores the various ways in which guilt affects human life, before offering forgiveness of guilt through the death of Jesus Christ.</p>\n<h2>Human awareness of guilt</h2>\n<p><strong><a href=\"https://ref.ly/Ps51:3-Ps51:5\">PSA 51:3–51:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen42:21\">GEN 42:21</a>; <a href=\"https://ref.ly/Ps32:1-Ps32:4\">PSA 32:1–32:4</a>; <a href=\"https://ref.ly/John8:3-John8:11\">JHN 8:3–8:11</a>; <a href=\"https://ref.ly/Heb9:9\">HEB 9:9</a>; <a href=\"https://ref.ly/1John3:19-1John3:20\">1JN 3:19–3:20</a></p>\n<h2>Human beings are held responsible for their guilt</h2>\n<p><strong><a href=\"https://ref.ly/Lev5:17\">LEV 5:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa24:5-Isa24:6\">ISA 24:5–24:6</a>; <a href=\"https://ref.ly/Ezek18:19-Ezek18:20\">EZK 18:19–18:20</a>; <a href=\"https://ref.ly/Hos10:1-Hos10:2\">HOS 10:1–10:2</a>, <a href=\"https://ref.ly/Hos13:16\">HOS 13:16</a>; <a href=\"https://ref.ly/Matt12:35-Matt12:36\">MAT 12:35–12:36</a>; <a href=\"https://ref.ly/Rom14:12\">ROM 14:12</a>; <a href=\"https://ref.ly/2Cor5:10\">2CO 5:10</a>; <a href=\"https://ref.ly/Rev20:12\">REV 20:12</a></p>\n<h2>Guilt defiles human life</h2>\n<p><strong><a href=\"https://ref.ly/Isa59:1-Isa59:3\">ISA 59:1–59:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps51:1-Ps51:7\">PSA 51:1–51:7</a>; <a href=\"https://ref.ly/Jer2:22\">JER 2:22</a>; <a href=\"https://ref.ly/Heb10:22\">HEB 10:22</a></p>\n<h2>Human experience of guilt</h2>\n<h3>Feelings of guilt in general</h3>\n<p><strong><a href=\"https://ref.ly/Heb10:1-Heb10:2\">HEB 10:1–10:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam24:10\">2SA 24:10</a> parallel <a href=\"https://ref.ly/1Chr21:8\">1CH 21:8</a>; <a href=\"https://ref.ly/2Cor7:10\">2CO 7:10</a>; <a href=\"https://ref.ly/Heb10:22\">HEB 10:22</a>; <a href=\"https://ref.ly/1John3:19-1John3:20\">1JN 3:19–3:20</a></p>\n<h3>Guilt produces feelings of anguish and despair</h3>\n<p><strong><a href=\"https://ref.ly/Matt27:3-Matt27:5\">MAT 27:3–27:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezra9:1-Ezra9:7\">EZR 9:1–9:7</a>, <a href=\"https://ref.ly/Ezra10:1\">EZR 10:1</a>; <a href=\"https://ref.ly/Ps40:11-Ps40:12\">PSA 40:11–40:12</a>; <a href=\"https://ref.ly/Prov28:17\">PRO 28:17</a>; <a href=\"https://ref.ly/Lam1:20\">LAM 1:20</a></p>\n<h3>Guilt produces feelings of shame and disgrace</h3>\n<p><strong><a href=\"https://ref.ly/Ezra9:6\">EZR 9:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer23:38-Jer23:40\">JER 23:38–23:40</a></p>\n<h3>Guilt produces feelings of fear and terror</h3>\n<p><strong><a href=\"https://ref.ly/Isa6:1-Isa6:7\">ISA 6:1–6:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen3:8-Gen3:10\">GEN 3:8–3:10</a>; <a href=\"https://ref.ly/Isa33:14\">ISA 33:14</a></p>\n<h3>Guilt produces feelings of unworthiness</h3>\n<p><strong><a href=\"https://ref.ly/Luke15:21\">LUK 15:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezra9:13-Ezra9:15\">EZR 9:13–9:15</a>; <a href=\"https://ref.ly/Ps51:11\">PSA 51:11</a> <em>The fear of being cast out of God's presence is the result of the psalmist's sense of guilt</em>; <a href=\"https://ref.ly/Luke5:8\">LUK 5:8</a>; <a href=\"https://ref.ly/1Cor15:9\">1CO 15:9</a></p>",
@@ -331,7 +331,8 @@
 "label": "8754: fear",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

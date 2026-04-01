@@ -2,10 +2,10 @@
 {
 "content_id": "7384",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7384: household gods",
 "media_type": "Text",
-"index_reference": "7384: household gods",
+"index_reference": "7384",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Known in the Hebrew as “teraphim”, miniature idols small enough for their owners to keep in their homes or to carry with them when travelling.</p>\n<h2>Examples of the use of household gods</h2>\n<p><strong><a href=\"https://ref.ly/Gen31:19\">GEN 31:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen31:34\">GEN 31:34</a>; <a href=\"https://ref.ly/Judg17:1-Judg17:6\">JDG 17:1–17:6</a>, <a href=\"https://ref.ly/Judg18:18\">JDG 18:18</a>, <a href=\"https://ref.ly/Judg18:30-Judg18:31\">JDG 18:30–18:31</a>; <a href=\"https://ref.ly/1Sam19:13-1Sam19:16\">1SA 19:13–19:16</a>; <a href=\"https://ref.ly/Ezek21:21\">EZK 21:21</a> <em>Three methods of divination are described here, shaking the arrows (belomancy), consulting the household gods (necromancy) and the examination of the liver of a sacrificed victim (hepatoscopy).</em></p>\n<h2>The use of household gods was contrary to God's law</h2>\n<p><strong><a href=\"https://ref.ly/Deut7:25-Deut7:26\">DEU 7:25–7:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:4-Exod20:6\">EXO 20:4–20:6</a> parallel <a href=\"https://ref.ly/Deut5:8-Deut5:10\">DEU 5:8–5:10</a></p>\n<h2>The removal and condemnation of household gods</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs23:24\">2KI 23:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen35:2-Gen35:4\">GEN 35:2–35:4</a>; <a href=\"https://ref.ly/Isa44:9-Isa44:11\">ISA 44:9–44:11</a>; <a href=\"https://ref.ly/Ezek18:5-Ezek18:6\">EZK 18:5–18:6</a>; <a href=\"https://ref.ly/Zech10:2\">ZEC 10:2</a></p>",
@@ -186,6 +186,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8840: unfaithfulness, to God",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "deity:Teraphim",
+"type": "deity",
+"confidence": 0.6384,
+"match_method": "scored",
+"preferred_label": "Teraphim"
 }
 ]
 }

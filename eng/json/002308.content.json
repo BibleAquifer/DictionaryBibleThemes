@@ -2,10 +2,10 @@
 {
 "content_id": "8632",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8632: adoration",
 "media_type": "Text",
-"index_reference": "8632: adoration",
+"index_reference": "8632",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An attitude of worship characterised by love and reverence towards God. It can also describe the love between man and woman.</p>\n<h2>Adoration of God by his people</h2>\n<p><strong><a href=\"https://ref.ly/Deut10:12\">DEU 10:12</a></strong></p>\n<h3>Adoration and love for God</h3>\n<p><strong><a href=\"https://ref.ly/Ps31:23\">PSA 31:23</a>, <a href=\"https://ref.ly/Ps116:1\">PSA 116:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut6:5\">DEU 6:5</a>, <a href=\"https://ref.ly/Deut11:1\">DEU 11:1</a>; <a href=\"https://ref.ly/Josh22:5\">JOS 22:5</a>; <a href=\"https://ref.ly/Ps18:1\">PSA 18:1</a>, <a href=\"https://ref.ly/Ps26:8\">PSA 26:8</a></p>\n<h3>Adoration and reverence for God</h3>\n<p><strong><a href=\"https://ref.ly/Ps5:7\">PSA 5:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod3:5\">EXO 3:5</a>; <a href=\"https://ref.ly/Deut13:4\">DEU 13:4</a>; <a href=\"https://ref.ly/Josh5:15\">JOS 5:15</a>; <a href=\"https://ref.ly/1Chr16:29\">1CH 16:29</a>; <a href=\"https://ref.ly/Ps29:2\">PSA 29:2</a>, <a href=\"https://ref.ly/Ps33:8\">PSA 33:8</a>, <a href=\"https://ref.ly/Ps95:6\">PSA 95:6</a>, <a href=\"https://ref.ly/Ps99:5\">PSA 99:5</a>; <a href=\"https://ref.ly/Dan6:26\">DAN 6:26</a>; <a href=\"https://ref.ly/Jonah1:16\">JON 1:16</a>; <a href=\"https://ref.ly/Hab2:20\">HAB 2:20</a></p>\n<h2>Examples of adoration in worship</h2>\n<p>Moses and the Israelites:\n <a href=\"https://ref.ly/Exod15:1-Exod15:2\">EXO 15:1–15:2</a>, <a href=\"https://ref.ly/Exod15:6-Exod15:7\">EXO 15:6–15:7</a>, <a href=\"https://ref.ly/Exod15:11-Exod15:12\">EXO 15:11–15:12</a>; \n<a href=\"https://ref.ly/1Sam2:1-1Sam2:2\">1SA 2:1–2:2</a> <em>Hannah</em>; ; <a href=\"https://ref.ly/2Sam22:47-2Sam22:51\">2SA 22:47–22:51</a> <em>David</em>; ; <a href=\"https://ref.ly/1Kgs8:23-1Kgs8:24\">1KI 8:23–8:24</a> <em>Solomon</em>; <a href=\"https://ref.ly/Ps27:4\">PSA 27:4</a>, <a href=\"https://ref.ly/Ps63:2-Ps63:5\">PSA 63:2–63:5</a>, <a href=\"https://ref.ly/Ps73:25-Ps73:26\">PSA 73:25–73:26</a>, <a href=\"https://ref.ly/Ps84:1-Ps84:2\">PSA 84:1–84:2</a>, <a href=\"https://ref.ly/Ps103:1-Ps103:5\">PSA 103:1–103:5</a>, <a href=\"https://ref.ly/Ps103:20-Ps103:22\">PSA 103:20–103:22</a>; \n<a href=\"https://ref.ly/Luke1:46-Luke1:49\">LUK 1:46–1:49</a> <em>Mary</em>; <a href=\"https://ref.ly/Rev4:8-Rev4:11\">REV 4:8–4:11</a>, <a href=\"https://ref.ly/Rev5:8-Rev5:14\">REV 5:8–5:14</a>, <a href=\"https://ref.ly/Rev7:9-Rev7:12\">REV 7:9–7:12</a>, <a href=\"https://ref.ly/Rev15:3-Rev15:4\">REV 15:3–15:4</a>, <a href=\"https://ref.ly/Rev19:6-Rev19:8\">REV 19:6–19:8</a></p>\n<h2>Adoration also describes the love between man and woman</h2>\n<p><a href=\"https://ref.ly/Prov5:18-Prov5:19\">PRO 5:18–5:19</a>; ; <a href=\"https://ref.ly/Song1:2-Song1:4\">SNG 1:2–1:4</a></p>",
@@ -343,6 +343,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8676: thanksgiving",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Stork",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Stork"
 }
 ]
 }

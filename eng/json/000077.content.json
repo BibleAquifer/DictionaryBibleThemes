@@ -2,10 +2,10 @@
 {
 "content_id": "1400",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1400: God, knowledge of",
 "media_type": "Text",
-"index_reference": "1400: god, knowledge of",
+"index_reference": "1400",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"1403\" data-resourcetype=\"DictionaryOfBibleThemes\">1403: God, revelation of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1406\" data-resourcetype=\"DictionaryOfBibleThemes\">1406: burning bush</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1409\" data-resourcetype=\"DictionaryOfBibleThemes\">1409: dream</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1412\" data-resourcetype=\"DictionaryOfBibleThemes\">1412: foreknowledge</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1415\" data-resourcetype=\"DictionaryOfBibleThemes\">1415: miracles</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1421\" data-resourcetype=\"DictionaryOfBibleThemes\">1421: oracles</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1424\" data-resourcetype=\"DictionaryOfBibleThemes\">1424: predictions</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1427\" data-resourcetype=\"DictionaryOfBibleThemes\">1427: prophecy</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1436\" data-resourcetype=\"DictionaryOfBibleThemes\">1436: reality</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1439\" data-resourcetype=\"DictionaryOfBibleThemes\">1439: revelation</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1448\" data-resourcetype=\"DictionaryOfBibleThemes\">1448: signs</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1454\" data-resourcetype=\"DictionaryOfBibleThemes\">1454: theophany</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1457\" data-resourcetype=\"DictionaryOfBibleThemes\">1457: trance</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1460\" data-resourcetype=\"DictionaryOfBibleThemes\">1460: truth</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1466\" data-resourcetype=\"DictionaryOfBibleThemes\">1466: vision</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1469\" data-resourcetype=\"DictionaryOfBibleThemes\">1469: visions</span></li></ul>",
@@ -124,7 +124,8 @@
 "label": "1469: visions",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

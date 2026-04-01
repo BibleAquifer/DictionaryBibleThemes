@@ -2,10 +2,10 @@
 {
 "content_id": "5314",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5314: flute",
 "media_type": "Text",
-"index_reference": "5314: flute",
+"index_reference": "5314",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Early origin of the flute</h2>\n<p><strong><a href=\"https://ref.ly/Gen4:19-Gen4:21\">GEN 4:19–4:21</a></strong> <em>Jubal was descended from Cain and was in the seventh generation after Adam.</em></p>\n<h2>The flute used in worship</h2>\n<h3>In Israelite worship</h3>\n<p><strong><a href=\"https://ref.ly/Ps150:1-Ps150:6\">PSA 150:1–150:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam10:5\">1SA 10:5</a>; PSA 5:0; <a href=\"https://ref.ly/Isa30:29\">ISA 30:29</a></p>\n<h3>In pagan worship</h3>\n<p><strong><a href=\"https://ref.ly/Dan3:7\">DAN 3:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan3:5\">DAN 3:5</a>, <a href=\"https://ref.ly/Dan3:10-Dan3:11\">DAN 3:10–3:11</a>, <a href=\"https://ref.ly/Dan3:15\">DAN 3:15</a></p>\n<h2>The flute played at celebratory events</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs1:38-1Kgs1:40\">1KI 1:38–1:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job21:12\">JOB 21:12</a>; <a href=\"https://ref.ly/Isa5:12\">ISA 5:12</a>; <a href=\"https://ref.ly/Matt11:17\">MAT 11:17</a> parallel <a href=\"https://ref.ly/Luke7:32\">LUK 7:32</a>; <a href=\"https://ref.ly/Rev18:22\">REV 18:22</a></p>\n<h2>The flute used in mourning</h2>\n<p><strong><a href=\"https://ref.ly/Matt9:23-Matt9:24\">MAT 9:23–9:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job30:31\">JOB 30:31</a>; <a href=\"https://ref.ly/Jer48:36\">JER 48:36</a></p>\n<h2>The flute used metaphorically by Paul</h2>\n<p><strong><a href=\"https://ref.ly/1Cor14:6-1Cor14:10\">1CO 14:6–14:10</a></strong></p>",
@@ -148,6 +148,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8627: worship, elements of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 0.6576,
+"match_method": "scored",
+"preferred_label": "Flute"
 }
 ]
 }

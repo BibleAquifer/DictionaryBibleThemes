@@ -2,10 +2,10 @@
 {
 "content_id": "8207",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8207: commitment",
 "media_type": "Text",
-"index_reference": "8207: commitment",
+"index_reference": "8207",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A state of personal dedication to something or someone, which results in actively promoting and working for their good and well-being.</p>",
@@ -39,6 +39,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8211: commitment, to the world",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Secu",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Secu"
 }
 ]
 }

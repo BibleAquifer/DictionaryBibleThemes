@@ -2,10 +2,10 @@
 {
 "content_id": "8154",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8154: righteousness",
 "media_type": "Text",
-"index_reference": "8154: righteousness",
+"index_reference": "8154",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture identifies a close link between righteousness and faith. Part of “being in a right relationship with God” is believing and trusting in him. The NT does not see faith simply in terms of moral righteousness, but also in terms of a living trusting relationship with God. Scripture affirms the righteousness of God and Jesus Christ in all their activity.</p>",
@@ -40,7 +40,8 @@
 "label": "8158: righteousness, of believers",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "8495",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8495: witnessing",
 "media_type": "Text",
-"index_reference": "8495: witnessing",
+"index_reference": "8495",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The task of declaring what has happened, especially in relation to the life, death and resurrection of Jesus Christ. Believers are given the responsibility of proclaiming the good news of Jesus Christ to the world at all times and in all places.</p>",
@@ -32,6 +32,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8498: witnessing, and Holy Spirit",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Siloam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Siloam"
 }
 ]
 }

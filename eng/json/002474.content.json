@@ -2,10 +2,10 @@
 {
 "content_id": "9040",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9040: grave, the",
 "media_type": "Text",
-"index_reference": "9040: grave, the",
+"index_reference": "9040",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An OT synonym for death, the natural, inevitable human destiny, though not without hope for the righteous.</p>\n<h2>The grave as a place of burial</h2>\n<p><a href=\"https://ref.ly/Num19:16\">NUM 19:16</a>, <a href=\"https://ref.ly/Num19:18\">NUM 19:18</a>; ; <a href=\"https://ref.ly/Deut34:6\">DEU 34:6</a>; ; <a href=\"https://ref.ly/1Kgs13:31\">1KI 13:31</a>; ; <a href=\"https://ref.ly/2Kgs21:26\">2KI 21:26</a>; ; <a href=\"https://ref.ly/Isa22:16\">ISA 22:16</a></p>\n<h2>The grave representing natural death</h2>\n<p><strong><a href=\"https://ref.ly/Gen37:35\">GEN 37:35</a></strong>; <strong><a href=\"https://ref.ly/Ps88:3\">PSA 88:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen42:38\">GEN 42:38</a>, <a href=\"https://ref.ly/Gen44:29\">GEN 44:29</a>; <a href=\"https://ref.ly/2Sam22:5-2Sam22:6\">2SA 22:5–22:6</a>; <a href=\"https://ref.ly/1Kgs2:6\">1KI 2:6</a>, <a href=\"https://ref.ly/1Kgs2:9\">1KI 2:9</a>; <a href=\"https://ref.ly/Job3:21-Job3:22\">JOB 3:21–3:22</a>, <a href=\"https://ref.ly/Job5:26\">JOB 5:26</a>, <a href=\"https://ref.ly/Job10:19\">JOB 10:19</a>, <a href=\"https://ref.ly/Job17:1\">JOB 17:1</a>; <a href=\"https://ref.ly/Ps30:3\">PSA 30:3</a>, <a href=\"https://ref.ly/Ps89:48\">PSA 89:48</a>; <a href=\"https://ref.ly/Prov5:5\">PRO 5:5</a>, <a href=\"https://ref.ly/Prov9:18\">PRO 9:18</a>, <a href=\"https://ref.ly/Prov15:24\">PRO 15:24</a>, <a href=\"https://ref.ly/Prov30:16\">PRO 30:16</a>; <a href=\"https://ref.ly/Isa28:15\">ISA 28:15</a>, <a href=\"https://ref.ly/Isa28:18\">ISA 28:18</a>; <a href=\"https://ref.ly/Jer20:17\">JER 20:17</a>; <a href=\"https://ref.ly/Hab2:5\">HAB 2:5</a></p>\n<h2>The grave as judgment</h2>\n<p><strong><a href=\"https://ref.ly/Ps55:15\">PSA 55:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num16:30\">NUM 16:30</a>, <a href=\"https://ref.ly/Num16:33\">NUM 16:33</a>; <a href=\"https://ref.ly/Job24:19\">JOB 24:19</a>, <a href=\"https://ref.ly/Job40:13\">JOB 40:13</a>; <a href=\"https://ref.ly/Ps9:17\">PSA 9:17</a>, <a href=\"https://ref.ly/Ps31:17\">PSA 31:17</a>, <a href=\"https://ref.ly/Ps49:14\">PSA 49:14</a>; <a href=\"https://ref.ly/Isa5:14\">ISA 5:14</a>, <a href=\"https://ref.ly/Isa14:9\">ISA 14:9</a>, <a href=\"https://ref.ly/Isa14:11\">ISA 14:11</a>, <a href=\"https://ref.ly/Isa14:15\">ISA 14:15</a></p>\n<h2>The grave represented only hopelessness and oblivion before Jesus Christ's resurrection</h2>\n<p><strong><a href=\"https://ref.ly/Job17:13-Job17:16\">JOB 17:13–17:16</a></strong>; <strong><a href=\"https://ref.ly/Eccl9:10\">ECC 9:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job7:9\">JOB 7:9</a>; <a href=\"https://ref.ly/Ps6:5\">PSA 6:5</a>, <a href=\"https://ref.ly/Ps31:17\">PSA 31:17</a>, <a href=\"https://ref.ly/Ps88:5\">PSA 88:5</a>, <a href=\"https://ref.ly/Ps88:11\">PSA 88:11</a>; <a href=\"https://ref.ly/Isa38:18\">ISA 38:18</a></p>\n<h2>The OT hope of redemption from the grave anticipated the gospel message</h2>\n<p><strong><a href=\"https://ref.ly/Ps49:15\">PSA 49:15</a></strong>; <strong><a href=\"https://ref.ly/1Cor15:55\">1CO 15:55</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam2:6\">1SA 2:6</a>; <a href=\"https://ref.ly/Job14:13\">JOB 14:13</a>; <a href=\"https://ref.ly/Hos13:14\">HOS 13:14</a>; <a href=\"https://ref.ly/Acts2:27\">ACT 2:27</a>; <a href=\"https://ref.ly/Ps16:10\">PSA 16:10</a></p>",
@@ -394,7 +394,8 @@
 "label": "9610: hope",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

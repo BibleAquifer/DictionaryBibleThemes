@@ -2,10 +2,10 @@
 {
 "content_id": "5063",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5063: spirit, nature of",
 "media_type": "Text",
-"index_reference": "5063: spirit, nature of",
+"index_reference": "5063",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The life-giving principle of human nature, to be distinguished from the purely physical aspects of life.</p>\n<h2>The human spirit as distinct from the body</h2>\n<p><strong><a href=\"https://ref.ly/Matt26:41\">MAT 26:41</a></strong> parallel <a href=\"https://ref.ly/Mark14:38\">MRK 14:38</a><strong><a href=\"https://ref.ly/1Thess5:23\">1TH 5:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:10\">ROM 8:10</a>; <a href=\"https://ref.ly/1Cor5:3-1Cor5:5\">1CO 5:3–5:5</a>, <a href=\"https://ref.ly/1Cor7:34\">1CO 7:34</a>; <a href=\"https://ref.ly/2Cor7:1\">2CO 7:1</a>; <a href=\"https://ref.ly/Col2:5\">COL 2:5</a>; <a href=\"https://ref.ly/Heb4:12\">HEB 4:12</a> <em>“spirit” and “soul” may be two names for the inner being penetrated by the word of God, or they may distinguish the inner person in relation to God (“spirit”) from their relation to the world (“soul”)</em>; <a href=\"https://ref.ly/Jas2:26\">JAS 2:26</a>; <a href=\"https://ref.ly/Rev18:13\">REV 18:13</a></p>\n<h2>The human spirit vitalises the body</h2>\n<p><strong><a href=\"https://ref.ly/Jas2:26\">JAS 2:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen2:7\">GEN 2:7</a>; <a href=\"https://ref.ly/Job34:14\">JOB 34:14</a>; <a href=\"https://ref.ly/Luke8:55\">LUK 8:55</a>; <a href=\"https://ref.ly/1Cor15:45\">1CO 15:45</a>; <a href=\"https://ref.ly/Rev13:15\">REV 13:15</a> <em>“breath” is the same word as “spirit” in Greek.</em></p>\n<h2>The human spirit as the seat of thought and feeling</h2>\n<h3>The seat of perception</h3>\n<p><a href=\"https://ref.ly/Ezek13:3\">EZK 13:3</a>; ; <a href=\"https://ref.ly/Mark2:8\">MRK 2:8</a>; ; <a href=\"https://ref.ly/Rom8:16\">ROM 8:16</a>; ; <a href=\"https://ref.ly/1Cor2:11\">1CO 2:11</a></p>\n<h3>The seat of feeling</h3>\n<p><a href=\"https://ref.ly/2Sam13:39\">2SA 13:39</a>; ; <a href=\"https://ref.ly/Job32:18\">JOB 32:18</a>; ; <a href=\"https://ref.ly/Isa54:6\">ISA 54:6</a>, <a href=\"https://ref.ly/Isa57:15\">ISA 57:15</a>, <a href=\"https://ref.ly/Isa66:2\">ISA 66:2</a>; ; <a href=\"https://ref.ly/Ezek3:14\">EZK 3:14</a>; ; <a href=\"https://ref.ly/Dan7:15\">DAN 7:15</a>; ; <a href=\"https://ref.ly/Matt5:3\">MAT 5:3</a>; ; <a href=\"https://ref.ly/Luke1:47\">LUK 1:47</a>; ; <a href=\"https://ref.ly/John11:33\">JHN 11:33</a>, <a href=\"https://ref.ly/John13:21\">JHN 13:21</a></p>\n<h3>The seat of volition</h3>\n<p><a href=\"https://ref.ly/Matt26:41\">MAT 26:41</a> parallel <a href=\"https://ref.ly/Mark14:38\">MRK 14:38</a>; ; <a href=\"https://ref.ly/2Cor12:18\">2CO 12:18</a>; ; <a href=\"https://ref.ly/Phil1:27\">PHP 1:27</a></p>\n<h2>The human spirit survives physical death</h2>\n<p><strong><a href=\"https://ref.ly/2Cor5:1-2Cor5:5\">2CO 5:1–5:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam28:13-1Sam28:14\">1SA 28:13–28:14</a>; <a href=\"https://ref.ly/Matt10:28\">MAT 10:28</a>; <a href=\"https://ref.ly/Acts7:59\">ACT 7:59</a>; <a href=\"https://ref.ly/Rom8:23\">ROM 8:23</a>; <a href=\"https://ref.ly/Heb12:23\">HEB 12:23</a>; <a href=\"https://ref.ly/1Pet3:19\">1PE 3:19</a>, <a href=\"https://ref.ly/1Pet4:6\">1PE 4:6</a></p>\n<h2>Jesus Christ had a human spirit</h2>\n<p><strong><a href=\"https://ref.ly/John13:21\">JHN 13:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt27:50\">MAT 27:50</a> parallels <a href=\"https://ref.ly/Luke23:46\">LUK 23:46</a>, <a href=\"https://ref.ly/John19:30\">JHN 19:30</a>; <a href=\"https://ref.ly/John12:27\">JHN 12:27</a></p>",
@@ -366,6 +366,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9135: immortality",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Elizaphan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elizaphan"
+},
+{
+"id": "keyterm:Spirit.2",
+"type": "keyterm",
+"confidence": 0.5865,
+"match_method": "scored",
+"preferred_label": "Spirit"
 }
 ]
 }

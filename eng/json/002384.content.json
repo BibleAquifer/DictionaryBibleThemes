@@ -2,10 +2,10 @@
 {
 "content_id": "8755",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8755: folly",
 "media_type": "Text",
-"index_reference": "8755: folly",
+"index_reference": "8755",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A human attitude of lack of wisdom or contempt for wisdom, which shows itself in a lack of understanding and obedience. Scripture contrasts human foolishness with divine wisdom, and indicates the serious consequences of a rejection of the wisdom of God.</p>",
@@ -26,7 +26,8 @@
 "label": "8757: folly, effects of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

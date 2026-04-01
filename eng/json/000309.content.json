@@ -2,10 +2,10 @@
 {
 "content_id": "4028",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4028: world, as redeemed",
 "media_type": "Text",
-"index_reference": "4028: world, as redeemed",
+"index_reference": "4028",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Though fallen, the world is offered the hope of redemption and restoration through Jesus Christ.</p>\n<h2>This world has an end</h2>\n<h3>It is temporary</h3>\n<p><strong><a href=\"https://ref.ly/1Pet1:24\">1PE 1:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:6-Isa40:7\">ISA 40:6–40:7</a>; <a href=\"https://ref.ly/Matt5:18\">MAT 5:18</a>, <a href=\"https://ref.ly/Matt24:35\">MAT 24:35</a> parallels <a href=\"https://ref.ly/Mark13:31\">MRK 13:31</a>, <a href=\"https://ref.ly/Luke21:33\">LUK 21:33</a>; <a href=\"https://ref.ly/1Cor7:31\">1CO 7:31</a>; <a href=\"https://ref.ly/Heb1:10-Heb1:12\">HEB 1:10–1:12</a>, <a href=\"https://ref.ly/Heb12:26-Heb12:27\">HEB 12:26–12:27</a></p>\n<h3>It is under God's judgment</h3>\n<p><strong><a href=\"https://ref.ly/Isa13:13\">ISA 13:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa34:4\">ISA 34:4</a>, <a href=\"https://ref.ly/Isa51:6\">ISA 51:6</a>; <a href=\"https://ref.ly/Joel2:30-Joel2:31\">JOL 2:30–2:31</a>; <a href=\"https://ref.ly/2Pet3:10\">2PE 3:10</a>; <a href=\"https://ref.ly/1John2:17\">1JN 2:17</a>; <a href=\"https://ref.ly/Rev20:11\">REV 20:11</a></p>\n<h2>Through Jesus Christ there is redemption and renewal for the world</h2>\n<h3>For humanity</h3>\n<p><strong><a href=\"https://ref.ly/1John2:2\">1JN 2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt1:21\">MAT 1:21</a>; <a href=\"https://ref.ly/John1:29\">JHN 1:29</a>, <a href=\"https://ref.ly/John3:16-John3:17\">JHN 3:16–3:17</a>; <a href=\"https://ref.ly/Rom5:18\">ROM 5:18</a>; <a href=\"https://ref.ly/2Cor5:18-2Cor5:19\">2CO 5:18–5:19</a></p>\n<h3>For creation</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:19-Rom8:21\">ROM 8:19–8:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt24:7-Matt24:8\">MAT 24:7–24:8</a> parallels <a href=\"https://ref.ly/Mark13:8\">MRK 13:8</a>, <a href=\"https://ref.ly/Luke21:10-Luke21:11\">LUK 21:10–21:11</a>; <a href=\"https://ref.ly/Col1:20\">COL 1:20</a></p>\n<h3>The promise of a new heaven and a new earth</h3>\n<p><strong><a href=\"https://ref.ly/2Pet3:13\">2PE 3:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa65:17\">ISA 65:17</a>; <a href=\"https://ref.ly/1Cor15:24-1Cor15:28\">1CO 15:24–15:28</a>; <a href=\"https://ref.ly/Eph1:10\">EPH 1:10</a>; <a href=\"https://ref.ly/Rev21:1-Rev21:4\">REV 21:1–21:4</a></p>",
@@ -275,7 +275,8 @@
 "label": "9410: heaven",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

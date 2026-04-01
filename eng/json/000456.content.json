@@ -2,10 +2,10 @@
 {
 "content_id": "4482",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4482: millstones",
 "media_type": "Text",
-"index_reference": "4482: millstones",
+"index_reference": "4482",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Pairs of upper and lower millstones were used for grinding grain in the ancient East. Millstones were common features of the daily life of ordinary people.</p>\n<h2>Millstones as a means of earning a living</h2>\n<p><strong><a href=\"https://ref.ly/Deut24:6\">DEU 24:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa47:1-Isa47:2\">ISA 47:1–47:2</a>; <a href=\"https://ref.ly/Jer25:10\">JER 25:10</a>; <a href=\"https://ref.ly/Rev18:22\">REV 18:22</a></p>\n<h2>Millstones were heavy and burdensome</h2>\n<p><strong><a href=\"https://ref.ly/Matt18:6\">MAT 18:6</a></strong> parallels <a href=\"https://ref.ly/Mark9:42\">MRK 9:42</a>, <a href=\"https://ref.ly/Luke17:2\">LUK 17:2</a></p>\n<h2>Millstones as potential weapons</h2>\n<p><strong><a href=\"https://ref.ly/Judg9:50-Judg9:53\">JDG 9:50–9:53</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam11:21\">2SA 11:21</a></p>\n<h2>Millstones in figurative use</h2>\n<p><strong><a href=\"https://ref.ly/Job41:24\">JOB 41:24</a></strong></p>\n<h2>Millstones as symbols of destructive force</h2>\n<p><strong><a href=\"https://ref.ly/Rev18:21\">REV 18:21</a></strong></p>",
@@ -99,6 +99,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5295: destruction",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Hand-mill",
+"type": "realia",
+"confidence": 0.6042,
+"match_method": "scored",
+"preferred_label": "Hand-Mill"
 }
 ]
 }

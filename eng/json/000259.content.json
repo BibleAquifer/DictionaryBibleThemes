@@ -2,10 +2,10 @@
 {
 "content_id": "3140",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3140: Holy Spirit, as teacher",
 "media_type": "Text",
-"index_reference": "3140: holy spirit, as teacher",
+"index_reference": "3140",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Having instructed God's people in the OT and Jesus Christ's disciples in the NT, the Spirit of truth continues to reveal the truth of God to believers.</p>\n<h2>The Holy Spirit as teacher in the OT</h2>\n<h3>The Spirit teaches on practical matters</h3>\n<p><strong><a href=\"https://ref.ly/1Chr28:12-1Chr28:13\">1CH 28:12–28:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod31:2-Exod31:6\">EXO 31:2–31:6</a> parallel <a href=\"https://ref.ly/Exod35:30-Exod35:35\">EXO 35:30–35:35</a>; <a href=\"https://ref.ly/1Chr28:19\">1CH 28:19</a></p>\n<h3>The Spirit teaches the ways of God</h3>\n<p><strong><a href=\"https://ref.ly/Ps143:10\">PSA 143:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh9:20\">NEH 9:20</a>, <a href=\"https://ref.ly/Neh9:30\">NEH 9:30</a>; <a href=\"https://ref.ly/Isa48:16-Isa48:17\">ISA 48:16–48:17</a></p>\n<h3>The Spirit teaches about the salvation which is to come in Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/1Pet1:10-1Pet1:11\">1PE 1:10–1:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb9:8\">HEB 9:8</a>, <a href=\"https://ref.ly/Heb10:15-Heb10:17\">HEB 10:15–10:17</a></p>\n<h2>The Holy Spirit empowers Jesus Christ's teaching</h2>\n<p><strong><a href=\"https://ref.ly/Luke4:14-Luke4:15\">LUK 4:14–4:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/John3:34\">JHN 3:34</a>; <a href=\"https://ref.ly/Acts1:2\">ACT 1:2</a></p>\n<h2>The Holy Spirit teaches Jesus Christ's disciples</h2>\n<h3>The Spirit will teach the disciples what to say when persecuted</h3>\n<p><strong><a href=\"https://ref.ly/Matt10:19-Matt10:20\">MAT 10:19–10:20</a></strong> parallels <a href=\"https://ref.ly/Mark13:11\">MRK 13:11</a>, <a href=\"https://ref.ly/Luke12:11-Luke12:12\">LUK 12:11–12:12</a> <em>See also</em> <a href=\"https://ref.ly/Acts4:8\">ACT 4:8</a>, <a href=\"https://ref.ly/Acts6:10\">ACT 6:10</a></p>\n<h3>Jesus Christ promises the Spirit's teaching ministry</h3>\n<p><strong><a href=\"https://ref.ly/John14:26\">JHN 14:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/John14:16\">JHN 14:16</a>, <a href=\"https://ref.ly/John16:13-John16:15\">JHN 16:13–16:15</a></p>\n<h3>The Spirit continues to teach believers</h3>\n<p><strong><a href=\"https://ref.ly/1John2:20\">1JN 2:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/1John2:27\">1JN 2:27</a></p>\n<h3>The Spirit teaches the churches</h3>\n<p><a href=\"https://ref.ly/Rev2:7\">REV 2:7</a>, <a href=\"https://ref.ly/Rev2:11\">REV 2:11</a>, <a href=\"https://ref.ly/Rev2:17\">REV 2:17</a>, <a href=\"https://ref.ly/Rev2:29\">REV 2:29</a>, <a href=\"https://ref.ly/Rev3:6\">REV 3:6</a>, <a href=\"https://ref.ly/Rev3:13\">REV 3:13</a>, <a href=\"https://ref.ly/Rev3:22\">REV 3:22</a></p>\n<h3>The Spirit teaches within believers' hearts, in contrast to the written code</h3>\n<p><a href=\"https://ref.ly/Ezek36:27\">EZK 36:27</a>; ; <a href=\"https://ref.ly/Rom2:29\">ROM 2:29</a>; ; <a href=\"https://ref.ly/2Cor3:7-2Cor3:8\">2CO 3:7–3:8</a></p>\n<h2>The Holy Spirit's teaching centres on Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/John16:14-John16:15\">JHN 16:14–16:15</a></strong></p>\n<h2>The Holy Spirit inspires Scripture for teaching</h2>\n<p><strong><a href=\"https://ref.ly/2Tim3:16\">2TI 3:16</a></strong></p>",
@@ -312,6 +312,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8355: understanding",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.5855,
+"match_method": "scored",
+"preferred_label": "Holy Spirit"
 }
 ]
 }

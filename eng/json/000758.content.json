@@ -2,10 +2,10 @@
 {
 "content_id": "5169",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5169: nakedness",
 "media_type": "Text",
-"index_reference": "5169: nakedness",
+"index_reference": "5169",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Nakedness was innocent before the fall</h2>\n<p><a href=\"https://ref.ly/Gen2:25\">GEN 2:25</a></p>\n<h2>The shame of nakedness a result of the fall</h2>\n<p><a href=\"https://ref.ly/Gen3:7-Gen3:11\">GEN 3:7–3:11</a></p>\n<h2>Public exposure of nakedness is indicative of shame or humiliation</h2>\n<p><strong><a href=\"https://ref.ly/Rev3:18\">REV 3:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen9:22-Gen9:23\">GEN 9:22–9:23</a>; <a href=\"https://ref.ly/Exod20:26\">EXO 20:26</a>; <a href=\"https://ref.ly/Isa47:3\">ISA 47:3</a>; <a href=\"https://ref.ly/Ezek16:8\">EZK 16:8</a>, <a href=\"https://ref.ly/Ezek16:35-Ezek16:37\">EZK 16:35–16:37</a>; <a href=\"https://ref.ly/Hos2:9-Hos2:10\">HOS 2:9–2:10</a>; <a href=\"https://ref.ly/Amos2:16\">AMO 2:16</a>; <a href=\"https://ref.ly/Nah3:5\">NAM 3:5</a>; <a href=\"https://ref.ly/Hab2:15\">HAB 2:15</a>; <a href=\"https://ref.ly/Rev17:16\">REV 17:16</a></p>\n<h2>Exposure of nakedness is symbolic of adultery and prostitution</h2>\n<p><strong><a href=\"https://ref.ly/Ezek23:18\">EZK 23:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa57:8\">ISA 57:8</a>; <a href=\"https://ref.ly/Lam1:8\">LAM 1:8</a>; <a href=\"https://ref.ly/Ezek16:36\">EZK 16:36</a></p>\n<h2>Nakedness is symbolic of dire poverty</h2>\n<p><strong><a href=\"https://ref.ly/Rev3:17\">REV 3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut28:48\">DEU 28:48</a>; <a href=\"https://ref.ly/2Chr28:15\">2CH 28:15</a>; <a href=\"https://ref.ly/Job1:21\">JOB 1:21</a>, <a href=\"https://ref.ly/Job24:4-Job24:10\">JOB 24:4–24:10</a>; <a href=\"https://ref.ly/Isa58:6-Isa58:7\">ISA 58:6–58:7</a>; <a href=\"https://ref.ly/Mic1:8\">MIC 1:8</a>, <a href=\"https://ref.ly/Mic1:11\">MIC 1:11</a>; <a href=\"https://ref.ly/Rom8:35\">ROM 8:35</a>; <a href=\"https://ref.ly/2Cor11:27\">2CO 11:27</a></p>",
@@ -217,7 +217,8 @@
 "label": "8277: innocence",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

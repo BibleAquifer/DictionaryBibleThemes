@@ -2,10 +2,10 @@
 {
 "content_id": "4296",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4296: wells",
 "media_type": "Text",
-"index_reference": "4296: wells",
+"index_reference": "4296",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Artificial openings to tap underground water supplies. They were very important for life in a settled urban society and this is reflected in their symbolical use in Scripture.</p>\n<h2>The importance of wells in urban life</h2>\n<p><strong><a href=\"https://ref.ly/Neh9:25\">NEH 9:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut6:10-Deut6:11\">DEU 6:10–6:11</a></p>\n<h2>Women drew water for domestic use</h2>\n<p><strong><a href=\"https://ref.ly/Gen24:11-Gen24:20\">GEN 24:11–24:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam9:11\">1SA 9:11</a>; <a href=\"https://ref.ly/John4:7-John4:9\">JHN 4:7–4:9</a></p>\n<h2>Livestock were watered at wells</h2>\n<p><strong><a href=\"https://ref.ly/Gen29:2-Gen29:3\">GEN 29:2–29:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen29:7-Gen29:10\">GEN 29:7–29:10</a>; <a href=\"https://ref.ly/Exod2:15-Exod2:17\">EXO 2:15–2:17</a></p>\n<h2>Wells were sometimes a source of contention</h2>\n<p><strong><a href=\"https://ref.ly/Gen21:25\">GEN 21:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen26:12-Gen26:22\">GEN 26:12–26:22</a>; <a href=\"https://ref.ly/Num20:17\">NUM 20:17</a>, <a href=\"https://ref.ly/Num21:22\">NUM 21:22</a></p>\n<h2>Wells as landmarks</h2>\n<p><strong><a href=\"https://ref.ly/Gen16:7\">GEN 16:7</a></strong> <em>Verse 14 refers to this spring as a well.</em> <em>See also</em> <a href=\"https://ref.ly/Gen16:14\">GEN 16:14</a>, <a href=\"https://ref.ly/Gen21:31\">GEN 21:31</a> <em>“Beersheba” means either “well of seven” or “well of the oath”</em>; <a href=\"https://ref.ly/Gen26:20-Gen26:22\">GEN 26:20–26:22</a>; <a href=\"https://ref.ly/John4:6\">JHN 4:6</a></p>\n<h2>Figurative use of wells</h2>\n<h3>Associated with God and his goodness</h3>\n<p><strong><a href=\"https://ref.ly/Isa12:3\">ISA 12:3</a></strong>; <strong><a href=\"https://ref.ly/Jer17:13\">JER 17:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer2:13\">JER 2:13</a>; <a href=\"https://ref.ly/John4:14\">JHN 4:14</a>; <a href=\"https://ref.ly/Rev7:17\">REV 7:17</a></p>\n<h3>Associated with human love</h3>\n<p><a href=\"https://ref.ly/Prov5:15\">PRO 5:15</a></p>\n<h3>In warnings against and judgment of sin</h3>\n<p><strong><a href=\"https://ref.ly/Jer6:7\">JER 6:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov23:27\">PRO 23:27</a>; <a href=\"https://ref.ly/Jer51:36\">JER 51:36</a></p>",
@@ -218,7 +218,8 @@
 "label": "5621: wheel",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

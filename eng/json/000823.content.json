@@ -2,10 +2,10 @@
 {
 "content_id": "5235",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5235: boundary",
 "media_type": "Text",
-"index_reference": "5235: boundary",
+"index_reference": "5235",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The agreed limits to the lands of an invidivudal or people. Designated by God and protected by law, both national and local boundaries could be subject to dispute.</p>\n<h2>The importance of boundary marks</h2>\n<p><strong><a href=\"https://ref.ly/Deut19:14\">DEU 19:14</a></strong>; <strong><a href=\"https://ref.ly/Prov23:10\">PRO 23:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut27:17\">DEU 27:17</a>; <a href=\"https://ref.ly/Prov22:28\">PRO 22:28</a></p>\n<h2>Examples of significant boundaries</h2>\n<h3>Boundaries of the promised land</h3>\n<p><strong><a href=\"https://ref.ly/Exod23:31\">EXO 23:31</a></strong>; <strong><a href=\"https://ref.ly/1Kgs4:21\">1KI 4:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num34:1-Num34:12\">NUM 34:1–34:12</a>; <a href=\"https://ref.ly/Deut3:12-Deut3:17\">DEU 3:12–3:17</a>; <a href=\"https://ref.ly/Josh13:1-Josh13:33\">JOS 13:1–13:33</a>, <a href=\"https://ref.ly/Josh15:1-Josh15:63\">JOS 15:1–15:63</a>, <a href=\"https://ref.ly/Josh16:1-Josh16:10\">JOS 16:1–16:10</a>, <a href=\"https://ref.ly/Josh17:1-Josh17:18\">JOS 17:1–17:18</a>, <a href=\"https://ref.ly/Josh18:11-Josh18:28\">JOS 18:11–18:28</a>, <a href=\"https://ref.ly/Josh19:1-Josh19:48\">JOS 19:1–19:48</a>; <a href=\"https://ref.ly/Isa26:15\">ISA 26:15</a>; <a href=\"https://ref.ly/Ezek47:15-Ezek47:20\">EZK 47:15–47:20</a>, <a href=\"https://ref.ly/Ezek48:1-Ezek48:8\">EZK 48:1–48:8</a></p>\n<h2>Boundaries of other nations</h2>\n<p><strong><a href=\"https://ref.ly/Acts17:26\">ACT 17:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen10:18-Gen10:19\">GEN 10:18–10:19</a>; <a href=\"https://ref.ly/Num21:13\">NUM 21:13</a>, <a href=\"https://ref.ly/Num33:37\">NUM 33:37</a>, <a href=\"https://ref.ly/Num33:44\">NUM 33:44</a>; <a href=\"https://ref.ly/Deut32:8\">DEU 32:8</a>; <a href=\"https://ref.ly/Josh12:2-Josh12:5\">JOS 12:2–12:5</a>; <a href=\"https://ref.ly/Judg1:36\">JDG 1:36</a>, <a href=\"https://ref.ly/Judg11:18\">JDG 11:18</a>; <a href=\"https://ref.ly/Ezek29:10\">EZK 29:10</a></p>\n<h3>City boundaries</h3>\n<p><a href=\"https://ref.ly/Num35:26\">NUM 35:26</a></p>\n<h3>Religious boundaries</h3>\n<p><strong><a href=\"https://ref.ly/Exod19:12\">EXO 19:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod19:23\">EXO 19:23</a></p>\n<h2>Boundary problems and disputes</h2>\n<p><strong><a href=\"https://ref.ly/Job24:2\">JOB 24:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh22:25\">JOS 22:25</a>; <a href=\"https://ref.ly/Hos5:10\">HOS 5:10</a>; <a href=\"https://ref.ly/Amos1:13\">AMO 1:13</a>; <a href=\"https://ref.ly/Mic5:6\">MIC 5:6</a></p>\n<h2>God establishes other boundaries</h2>\n<p><strong><a href=\"https://ref.ly/Job26:10\">JOB 26:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job38:9-Job38:11\">JOB 38:9–38:11</a>; <a href=\"https://ref.ly/Ps104:9\">PSA 104:9</a>; <a href=\"https://ref.ly/Prov8:29\">PRO 8:29</a>; <a href=\"https://ref.ly/Jer5:22\">JER 5:22</a></p>\n<h2>Metaphorical boundaries</h2>\n<p><strong><a href=\"https://ref.ly/Ps16:6\">PSA 16:6</a></strong></p>",
@@ -301,7 +301,8 @@
 "label": "9120: eternity",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

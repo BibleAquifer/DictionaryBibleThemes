@@ -2,10 +2,10 @@
 {
 "content_id": "6125",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6125: condemnation, divine",
 "media_type": "Text",
-"index_reference": "6125: condemnation, divine",
+"index_reference": "6125",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God's righteous condemnation is directed against human sin and wickedness.</p>\n<h2>God's wrath causes divine condemnation</h2>\n<p><strong><a href=\"https://ref.ly/Rom1:18-Rom1:20\">ROM 1:18–1:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev16:1-Rev16:7\">REV 16:1–16:7</a></p>\n<h2>The reality and certainty of divine condemnation</h2>\n<p><strong><a href=\"https://ref.ly/Mark16:15-Mark16:16\">MRK 16:15–16:16</a></strong>; <strong><a href=\"https://ref.ly/John5:28-John5:29\">JHN 5:28–5:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt12:36-Matt12:37\">MAT 12:36–12:37</a>, <a href=\"https://ref.ly/Matt25:31-Matt25:33\">MAT 25:31–25:33</a>, <a href=\"https://ref.ly/Matt25:41-Matt25:45\">MAT 25:41–25:45</a>; <a href=\"https://ref.ly/2Pet2:4-2Pet2:9\">2PE 2:4–2:9</a></p>\n<h2>People's awareness of being under divine condemnation</h2>\n<p><strong><a href=\"https://ref.ly/2Sam24:10\">2SA 24:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps32:3-Ps32:5\">PSA 32:3–32:5</a>, <a href=\"https://ref.ly/Ps51:3-Ps51:4\">PSA 51:3–51:4</a>; <a href=\"https://ref.ly/Dan9:7-Dan9:14\">DAN 9:7–9:14</a></p>\n<h2>Examples of divine condemnation</h2>\n<h3>Condemnation of individuals</h3>\n<p><a href=\"https://ref.ly/Gen3:16-Gen3:19\">GEN 3:16–3:19</a>; ; <a href=\"https://ref.ly/Acts5:1-Acts5:11\">ACT 5:1–5:11</a>; ; <a href=\"https://ref.ly/Rev20:11-Rev20:15\">REV 20:11–20:15</a></p>\n<h3>Condemnation of groups, cities and nations</h3>\n<p><a href=\"https://ref.ly/Gen11:4-Gen11:9\">GEN 11:4–11:9</a>, <a href=\"https://ref.ly/Gen19:23-Gen19:25\">GEN 19:23–19:25</a>; ; <a href=\"https://ref.ly/Joel3:1-Joel3:8\">JOL 3:1–3:8</a>, <a href=\"https://ref.ly/Joel3:12-Joel3:13\">JOL 3:12–3:13</a></p>\n<h2>Divine condemnation averted through the work of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/John3:16-John3:18\">JHN 3:16–3:18</a>, <a href=\"https://ref.ly/John5:24\">JHN 5:24</a></strong>; <strong><a href=\"https://ref.ly/Rom8:1-Rom8:4\">ROM 8:1–8:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:31-Rom8:34\">ROM 8:31–8:34</a></p>",
@@ -234,6 +234,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9250: woe",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Izliah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Izliah"
 }
 ]
 }

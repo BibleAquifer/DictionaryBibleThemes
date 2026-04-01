@@ -2,10 +2,10 @@
 {
 "content_id": "2227",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "2227: Immanuel",
 "media_type": "Text",
-"index_reference": "2227: immanuel",
+"index_reference": "2227",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An OT name given to Jesus Christ, meaning “God with us”.</p>\n<h2>Actual uses of the name Immanuel</h2>\n<p><strong><a href=\"https://ref.ly/Isa7:14\">ISA 7:14</a></strong> <em>The name was given originally to a child of Isaiah's day who would signify God's salvation and judgment for Judah</em>; <strong><a href=\"https://ref.ly/Isa8:7-Isa8:10\">ISA 8:7–8:10</a></strong> <em>The original fulfilment of the Immanuel prophecy would bring judgment on Judah</em>; <strong><a href=\"https://ref.ly/Matt1:22-Matt1:23\">MAT 1:22–1:23</a></strong> <em>Isaiah's prophecy is fulfilled through the virginal conception of Jesus Christ.</em></p>\n<h2>The significance of Immanuel</h2>\n<h3>God is with his people</h3>\n<p><strong><a href=\"https://ref.ly/Gen28:15\">GEN 28:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod33:14\">EXO 33:14</a>; <a href=\"https://ref.ly/Num14:9\">NUM 14:9</a>; <a href=\"https://ref.ly/Deut4:7\">DEU 4:7</a>; <a href=\"https://ref.ly/2Chr13:12\">2CH 13:12</a>; <a href=\"https://ref.ly/Ps46:7\">PSA 46:7</a>, <a href=\"https://ref.ly/Ps46:11\">PSA 46:11</a>; <a href=\"https://ref.ly/Hag2:4\">HAG 2:4</a>; <a href=\"https://ref.ly/Rom8:31\">ROM 8:31</a>; <a href=\"https://ref.ly/Heb13:5\">HEB 13:5</a></p>\n<h3>God dwells with his people</h3>\n<p><strong><a href=\"https://ref.ly/Rev21:3\">REV 21:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev26:11-Lev26:12\">LEV 26:11–26:12</a>; <a href=\"https://ref.ly/Ezek37:27\">EZK 37:27</a>; <a href=\"https://ref.ly/2Cor6:16\">2CO 6:16</a></p>\n<h3>Jesus Christ is always with believers</h3>\n<p><strong><a href=\"https://ref.ly/Matt28:20\">MAT 28:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/John14:18\">JHN 14:18</a>, <a href=\"https://ref.ly/John14:23\">JHN 14:23</a>, <a href=\"https://ref.ly/John15:4-John15:5\">JHN 15:4–15:5</a>, <a href=\"https://ref.ly/John15:7\">JHN 15:7</a>; <a href=\"https://ref.ly/Acts18:10\">ACT 18:10</a>; <a href=\"https://ref.ly/Gal2:20\">GAL 2:20</a></p>\n<h3>The Holy Spirit is always with believers</h3>\n<p><strong><a href=\"https://ref.ly/John14:17\">JHN 14:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:9-Rom8:11\">ROM 8:9–8:11</a>; <a href=\"https://ref.ly/1Cor3:16\">1CO 3:16</a>; <a href=\"https://ref.ly/2Cor1:22\">2CO 1:22</a>; <a href=\"https://ref.ly/Eph2:22\">EPH 2:22</a>; <a href=\"https://ref.ly/2Tim1:14\">2TI 1:14</a>; <a href=\"https://ref.ly/1John4:13\">1JN 4:13</a></p>",
@@ -282,6 +282,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7135: Israel, as the people of God",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jesus.2",
+"type": "person",
+"confidence": 0.5741,
+"match_method": "scored",
+"preferred_label": "Jesus"
 }
 ]
 }

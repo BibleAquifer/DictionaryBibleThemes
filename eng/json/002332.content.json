@@ -2,10 +2,10 @@
 {
 "content_id": "8674",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8674: study",
 "media_type": "Text",
-"index_reference": "8674: study",
+"index_reference": "8674",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The application of the mind with a view to acquiring knowledge, particularly of the Scriptures. God promises his help to those who give themselves to this work.</p>\n<h2>The study of the works of the LORD</h2>\n<p><strong><a href=\"https://ref.ly/Ps111:2\">PSA 111:2</a></strong> <em>The works mentioned are his acts of providence and grace.</em></p>\n<h2>God's people are to study in order to gain wisdom</h2>\n<p><strong><a href=\"https://ref.ly/Prov2:1-Prov2:5\">PRO 2:1–2:5</a>, <a href=\"https://ref.ly/Prov4:5\">PRO 4:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job28:12\">JOB 28:12</a>, <a href=\"https://ref.ly/Job28:20\">JOB 28:20</a>; <a href=\"https://ref.ly/Ps90:12\">PSA 90:12</a>; <a href=\"https://ref.ly/Prov3:13\">PRO 3:13</a>, <a href=\"https://ref.ly/Prov15:14\">PRO 15:14</a>, <a href=\"https://ref.ly/Prov23:23\">PRO 23:23</a></p>\n<h2>The study of human activity, achievement and wisdom</h2>\n<p><strong><a href=\"https://ref.ly/Eccl1:13-Eccl1:14\">ECC 1:13–1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl1:17\">ECC 1:17</a>, <a href=\"https://ref.ly/Eccl2:12\">ECC 2:12</a>, <a href=\"https://ref.ly/Eccl7:25\">ECC 7:25</a>, <a href=\"https://ref.ly/Eccl8:9\">ECC 8:9</a>, <a href=\"https://ref.ly/Eccl8:16\">ECC 8:16</a>, <a href=\"https://ref.ly/Eccl9:1\">ECC 9:1</a>, <a href=\"https://ref.ly/Eccl12:9-Eccl12:11\">ECC 12:9–12:11</a> <em>The Teacher turned from human wisdom to searching out and setting forth proverbs</em>; <a href=\"https://ref.ly/Eccl12:12\">ECC 12:12</a> <em>He concluded that all human study was wearisome.</em></p>\n<h2>The study of the word of God</h2>\n<h3>The study of the word of God is commended</h3>\n<p><strong><a href=\"https://ref.ly/2Tim2:15\">2TI 2:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa8:20\">ISA 8:20</a>; <a href=\"https://ref.ly/Jer15:16\">JER 15:16</a>; <a href=\"https://ref.ly/Matt22:29\">MAT 22:29</a>; <a href=\"https://ref.ly/Rom15:4\">ROM 15:4</a>; <a href=\"https://ref.ly/1Pet2:2\">1PE 2:2</a></p>\n<h3>Ezra studied the law of the LORD</h3>\n<p><a href=\"https://ref.ly/Ezra7:10\">EZR 7:10</a></p>\n<h3>The Bereans studied the Scriptures</h3>\n<p><a href=\"https://ref.ly/Acts17:11\">ACT 17:11</a></p>\n<h3>Some Jews studied the Scriptures without finding Jesus Christ</h3>\n<p><a href=\"https://ref.ly/John5:39\">JHN 5:39</a></p>\n<h2>God promises his help in the study of the Scriptures</h2>\n<p><a href=\"https://ref.ly/John14:26\">JHN 14:26</a>, <a href=\"https://ref.ly/John16:13\">JHN 16:13</a></p>",
@@ -271,7 +271,8 @@
 "label": "8662: meditation",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

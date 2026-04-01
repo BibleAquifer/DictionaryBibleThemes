@@ -2,10 +2,10 @@
 {
 "content_id": "8835",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8835: unbelief, nature and effects of",
 "media_type": "Text",
-"index_reference": "8835: unbelief, nature and effects of",
+"index_reference": "8835",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Unbelief, or the failure to trust God, holds back his blessing and leads to condemnation and spiritual death.</p>\n<h2>The nature of unbelief</h2>\n<h3>Not trusting God</h3>\n<p><strong><a href=\"https://ref.ly/Ps78:22\">PSA 78:22</a></strong></p>\n<h3>Rebelling against God</h3>\n<p><strong><a href=\"https://ref.ly/Heb3:12\">HEB 3:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps78:40\">PSA 78:40</a>; <a href=\"https://ref.ly/Heb3:16\">HEB 3:16</a></p>\n<h3>Disobeying God</h3>\n<p><strong><a href=\"https://ref.ly/Heb11:31\">HEB 11:31</a></strong> <em>NIV footnote.</em> <em>See also</em> <a href=\"https://ref.ly/Eph2:2\">EPH 2:2</a>; <a href=\"https://ref.ly/Heb3:18-Heb3:19\">HEB 3:18–3:19</a>, <a href=\"https://ref.ly/Heb4:11\">HEB 4:11</a></p>\n<h3>Questioning God's truthfulness</h3>\n<p><strong><a href=\"https://ref.ly/1John5:10\">1JN 5:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps106:24\">PSA 106:24</a>; <a href=\"https://ref.ly/1John1:10\">1JN 1:10</a></p>\n<h2>Unbelief as the result of the devil's work</h2>\n<h3>Taking away God's word</h3>\n<p><strong><a href=\"https://ref.ly/Luke8:12\">LUK 8:12</a></strong> parallels <a href=\"https://ref.ly/Matt13:19\">MAT 13:19</a>, <a href=\"https://ref.ly/Mark4:15\">MRK 4:15</a></p>\n<h3>Causing spiritual blindness</h3>\n<p><strong><a href=\"https://ref.ly/2Cor4:4\">2CO 4:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom1:21\">ROM 1:21</a>; <a href=\"https://ref.ly/2Cor4:3\">2CO 4:3</a>; <a href=\"https://ref.ly/Eph4:18\">EPH 4:18</a></p>\n<h2>Unbelief as the result of not belonging to God</h2>\n<p><strong><a href=\"https://ref.ly/John10:26\">JHN 10:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/John5:38\">JHN 5:38</a>, <a href=\"https://ref.ly/John8:44-John8:45\">JHN 8:44–8:45</a>, <a href=\"https://ref.ly/John12:37-John12:40\">JHN 12:37–12:40</a>; <a href=\"https://ref.ly/1Cor2:14\">1CO 2:14</a></p>\n<h2>Unbelief hinders Jesus Christ's miracles</h2>\n<p><strong><a href=\"https://ref.ly/Matt13:58\">MAT 13:58</a></strong> parallel <a href=\"https://ref.ly/Mark6:5-Mark6:6\">MRK 6:5–6:6</a></p>\n<h2>The consequences of persistent unbelief</h2>\n<h3>Failure to receive God's reward</h3>\n<p><strong><a href=\"https://ref.ly/Heb3:19\">HEB 3:19</a></strong> <em>The “rest” that God's people enjoyed on entering the promised land is here taken to symbolise the final reward prepared by God for his people.</em> <em>See also</em> <a href=\"https://ref.ly/Heb4:1-Heb4:2\">HEB 4:1–4:2</a>, <a href=\"https://ref.ly/Heb4:6\">HEB 4:6</a>; <a href=\"https://ref.ly/Jude1:5\">JUD 1:5</a></p>\n<h3>Exclusion from the people of God</h3>\n<p><strong><a href=\"https://ref.ly/Rom11:20\">ROM 11:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb6:4-Heb6:6\">HEB 6:4–6:6</a></p>\n<h3>Death in sin</h3>\n<p><strong><a href=\"https://ref.ly/John8:24\">JHN 8:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps106:43\">PSA 106:43</a>; <a href=\"https://ref.ly/Mark4:12\">MRK 4:12</a>; <a href=\"https://ref.ly/Acts10:43\">ACT 10:43</a></p>\n<h3>God's wrath</h3>\n<p><strong><a href=\"https://ref.ly/John3:36\">JHN 3:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom1:18\">ROM 1:18</a>, <a href=\"https://ref.ly/Rom2:5\">ROM 2:5</a>, <a href=\"https://ref.ly/Rom2:8\">ROM 2:8</a></p>\n<h3>Condemnation by God</h3>\n<p><strong><a href=\"https://ref.ly/John3:18\">JHN 3:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark16:16\">MRK 16:16</a>; <a href=\"https://ref.ly/Luke12:46\">LUK 12:46</a>; <a href=\"https://ref.ly/John12:48\">JHN 12:48</a>; <a href=\"https://ref.ly/2Thess2:12\">2TH 2:12</a>; <a href=\"https://ref.ly/Rev21:8\">REV 21:8</a></p>",
@@ -366,6 +366,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9024: death, spiritual",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Tibni",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tibni"
 }
 ]
 }

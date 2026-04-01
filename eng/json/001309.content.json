@@ -2,10 +2,10 @@
 {
 "content_id": "5786",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5786: ambition, negative aspects of",
 "media_type": "Text",
-"index_reference": "5786: ambition, negative aspects of",
+"index_reference": "5786",
 "language": "eng",
 "review_level": "None",
 "content": "<p>In its negative sense, ambition is the pursuit of personal status and fortune, which is contrary to the purposes of God as expressed in Scripture.</p>\n<h2>Selfish ambition: a desire for personal aggrandisement</h2>\n<p><strong><a href=\"https://ref.ly/Mark10:36-Mark10:37\">MRK 10:36–10:37</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen11:4\">GEN 11:4</a> <em>the men of Babel</em>; <a href=\"https://ref.ly/2Sam15:1-2Sam15:4\">2SA 15:1–15:4</a> <em>Absalom</em>; <a href=\"https://ref.ly/1Kgs1:5\">1KI 1:5</a> <em>Adonijah</em>; <a href=\"https://ref.ly/Isa14:13-Isa14:14\">ISA 14:13–14:14</a> <em>the king of Babylon</em>; <a href=\"https://ref.ly/Ezek28:2\">EZK 28:2</a> <em>the ruler of Tyre</em>; <a href=\"https://ref.ly/Dan11:36-Dan11:38\">DAN 11:36–11:38</a>; <a href=\"https://ref.ly/Mic7:3\">MIC 7:3</a>; <a href=\"https://ref.ly/Hab2:4-Hab2:5\">HAB 2:4–2:5</a>; <a href=\"https://ref.ly/Matt20:21\">MAT 20:21</a>; <a href=\"https://ref.ly/Luke22:24\">LUK 22:24</a>; <a href=\"https://ref.ly/Phil1:17\">PHP 1:17</a>; <a href=\"https://ref.ly/2Thess2:4-2Thess2:7\">2TH 2:4–2:7</a> <em>the antichrist</em></p>\n<h2>Selfish ambition arises from fallen human nature</h2>\n<p><strong><a href=\"https://ref.ly/Gal5:19-Gal5:21\">GAL 5:19–5:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:18\">PRO 6:18</a>; <a href=\"https://ref.ly/Eph2:3\">EPH 2:3</a>; <a href=\"https://ref.ly/1John2:16\">1JN 2:16</a></p>\n<h2>The results of selfish ambition</h2>\n<h3>Humiliation by God</h3>\n<p><strong><a href=\"https://ref.ly/Matt23:12\">MAT 23:12</a></strong></p>\n<h3>The believer becomes spiritually unproductive</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Mark4:18-Mark4:19\">MRK 4:18–4:19</a>; <a href=\"https://ref.ly/Jas3:14-Jas3:16\">JAS 3:14–3:16</a></p>\n<h2>Warnings against selfish ambition</h2>\n<p><strong><a href=\"https://ref.ly/Phil2:3\">PHP 2:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer45:5\">JER 45:5</a> <em>God's word to Baruch</em></p>",
@@ -193,6 +193,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8848: worldliness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Helkath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Helkath"
 }
 ]
 }

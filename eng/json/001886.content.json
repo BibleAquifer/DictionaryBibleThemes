@@ -2,10 +2,10 @@
 {
 "content_id": "7620",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7620: disciples",
 "media_type": "Text",
-"index_reference": "7620: disciples",
+"index_reference": "7620",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The group of people called to follow and serve Jesus Christ.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7622: disciples, characteristics of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "7431",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7431: Sabbath, sabbatical year",
 "media_type": "Text",
-"index_reference": "7431: sabbath, sabbatical year",
+"index_reference": "7431",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Just as the seventh day was observed as a day of rest, so the OT regarded every seventh year as a sabbath year, to be set aside for rest.</p>\n<h2>The sabbath year</h2>\n<h3>As a time for leaving fields fallow</h3>\n<p><strong><a href=\"https://ref.ly/Exod23:10-Exod23:11\">EXO 23:10–23:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev25:4\">LEV 25:4</a>, <a href=\"https://ref.ly/Lev26:34\">LEV 26:34</a>; <a href=\"https://ref.ly/Neh10:31\">NEH 10:31</a> <em>An important feature was the opportunity for the poor to benefit from unharvested fields.</em></p>\n<h3>As a time for cancelling debts</h3>\n<p><strong><a href=\"https://ref.ly/Deut15:1\">DEU 15:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut15:9\">DEU 15:9</a>, <a href=\"https://ref.ly/Deut31:10\">DEU 31:10</a>; <a href=\"https://ref.ly/Neh10:31\">NEH 10:31</a></p>\n<h3>As a time for freeing slaves</h3>\n<p><strong><a href=\"https://ref.ly/Deut15:12\">DEU 15:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer34:14\">JER 34:14</a></p>\n<h2>The Year of Jubilee as seven Sabbaths</h2>\n<p><strong><a href=\"https://ref.ly/Lev25:8-Lev25:12\">LEV 25:8–25:12</a></strong></p>",
@@ -108,7 +108,8 @@
 "label": "7482: Year of Jubilee",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

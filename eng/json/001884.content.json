@@ -2,10 +2,10 @@
 {
 "content_id": "7600",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7600: History of God's people in NT",
 "media_type": "Text",
-"index_reference": "7600: history of god's people in nt",
+"index_reference": "7600",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"7610\" data-resourcetype=\"DictionaryOfBibleThemes\">7610: Council of Jerusalem</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7620\" data-resourcetype=\"DictionaryOfBibleThemes\">7620: disciples</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7630\" data-resourcetype=\"DictionaryOfBibleThemes\">7630: Twelve, the</span></li></ul>",
@@ -33,7 +33,8 @@
 "label": "7630: Twelve, the",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

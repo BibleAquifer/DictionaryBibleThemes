@@ -2,10 +2,10 @@
 {
 "content_id": "7511",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7511: Gentiles, in OT",
 "media_type": "Text",
-"index_reference": "7511: gentiles, in ot",
+"index_reference": "7511",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Under the OT, Gentiles were generally excluded from the worship of the synagogue and from all the privileges of being Jewish. However, the OT made provision for non-Jews who believed in the God of Israel.</p>\n<h2>Believing foreigners were permitted to participate in worship</h2>\n<p><strong><a href=\"https://ref.ly/Exod12:48-Exod12:49\">EXO 12:48–12:49</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num9:14\">NUM 9:14</a>, <a href=\"https://ref.ly/Num15:13-Num15:16\">NUM 15:13–15:16</a>; <a href=\"https://ref.ly/1Kgs8:41-1Kgs8:43\">1KI 8:41–8:43</a>; <a href=\"https://ref.ly/Isa56:6-Isa56:8\">ISA 56:6–56:8</a></p>\n<h2>Foreigners living in Israel were to be treated kindly</h2>\n<p><strong><a href=\"https://ref.ly/Exod23:9\">EXO 23:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod22:21\">EXO 22:21</a>; <a href=\"https://ref.ly/Lev19:9-Lev19:10\">LEV 19:9–19:10</a>, <a href=\"https://ref.ly/Lev24:22\">LEV 24:22</a>; <a href=\"https://ref.ly/Deut26:12-Deut26:15\">DEU 26:12–26:15</a>, <a href=\"https://ref.ly/Deut27:19\">DEU 27:19</a></p>\n<h2>Divine promises concerning the Gentiles</h2>\n<h3>All people will be blessed through Abraham</h3>\n<p><strong><a href=\"https://ref.ly/Gen12:3\">GEN 12:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:18\">GEN 18:18</a>, <a href=\"https://ref.ly/Gen22:18\">GEN 22:18</a>; <a href=\"https://ref.ly/Gal3:8-Gal3:9\">GAL 3:8–3:9</a></p>\n<h3>All nations will bow before God</h3>\n<p><strong><a href=\"https://ref.ly/Ps22:27-Ps22:28\">PSA 22:27–22:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps86:9\">PSA 86:9</a>; <a href=\"https://ref.ly/Dan7:14\">DAN 7:14</a>; <a href=\"https://ref.ly/Amos9:11-Amos9:12\">AMO 9:11–9:12</a></p>\n<h3>The Gentiles will be enlightened</h3>\n<p><strong><a href=\"https://ref.ly/Isa49:6\">ISA 49:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa9:1-Isa9:2\">ISA 9:1–9:2</a>, <a href=\"https://ref.ly/Isa42:6\">ISA 42:6</a>, <a href=\"https://ref.ly/Isa60:1-Isa60:3\">ISA 60:1–60:3</a>; <a href=\"https://ref.ly/Luke2:30-Luke2:32\">LUK 2:30–2:32</a></p>\n<h3>The Messiah will bring justice to the Gentiles</h3>\n<p><strong><a href=\"https://ref.ly/Matt12:18-Matt12:21\">MAT 12:18–12:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa42:1-Isa42:4\">ISA 42:1–42:4</a></p>\n<h3>Gentiles will become God's people</h3>\n<p><strong><a href=\"https://ref.ly/Rom9:22-Rom9:25\">ROM 9:22–9:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos2:23\">HOS 2:23</a>; <a href=\"https://ref.ly/1Pet2:10\">1PE 2:10</a></p>\n<h3>Gentiles will praise God</h3>\n<p><strong><a href=\"https://ref.ly/Rom15:9-Rom15:12\">ROM 15:9–15:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut32:43\">DEU 32:43</a>; <a href=\"https://ref.ly/2Sam22:50\">2SA 22:50</a>; <a href=\"https://ref.ly/Ps18:49\">PSA 18:49</a>; <a href=\"https://ref.ly/Isa11:10\">ISA 11:10</a></p>",
@@ -294,7 +294,8 @@
 "label": "8020: faith",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

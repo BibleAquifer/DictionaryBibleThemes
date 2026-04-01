@@ -2,10 +2,10 @@
 {
 "content_id": "6230",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6230: rejection",
 "media_type": "Text",
-"index_reference": "6230: rejection",
+"index_reference": "6230",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The deliberate and conscious act of turning away from someone, or refusing to accept something that is being offered.</p>",
@@ -32,6 +32,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6233: rejection, human experience of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jashen",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jashen"
 }
 ]
 }

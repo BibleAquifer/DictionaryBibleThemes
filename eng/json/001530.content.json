@@ -2,10 +2,10 @@
 {
 "content_id": "6157",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6157: fall, of Satan and his angels",
 "media_type": "Text",
-"index_reference": "6157: fall, of satan and his angels",
+"index_reference": "6157",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Satan and his angels rebelled against God and were removed from their positions of authority. They are now destined for judgment.</p>\n<h2>The rebellion of Satan and his angels</h2>\n<p><strong><a href=\"https://ref.ly/Isa14:12-Isa14:15\">ISA 14:12–14:15</a></strong> <em>Written about a king in Isaiah's own time, this passage has been used by both Jews and Christians as a description of the fall of Satan</em>; <strong><a href=\"https://ref.ly/Jude1:6\">JUD 1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job4:18\">JOB 4:18</a>; <a href=\"https://ref.ly/Ezek28:15\">EZK 28:15</a>; <a href=\"https://ref.ly/Luke10:18\">LUK 10:18</a>; <a href=\"https://ref.ly/Rev12:7-Rev12:9\">REV 12:7–12:9</a>, <a href=\"https://ref.ly/Rev12:12\">REV 12:12</a></p>\n<h2>The results of the rebellion of Satan and his angels</h2>\n<h3>Constant spiritual warfare on the earth</h3>\n<p><strong><a href=\"https://ref.ly/Rev12:17\">REV 12:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt16:23\">MAT 16:23</a> parallel <a href=\"https://ref.ly/Mark8:33\">MRK 8:33</a>; <a href=\"https://ref.ly/Acts13:10\">ACT 13:10</a>; <a href=\"https://ref.ly/2Cor11:13-2Cor11:15\">2CO 11:13–11:15</a>; <a href=\"https://ref.ly/Gal5:16-Gal5:18\">GAL 5:16–5:18</a>; <a href=\"https://ref.ly/1Tim3:6-1Tim3:7\">1TI 3:6–3:7</a>; <a href=\"https://ref.ly/Jas4:7\">JAS 4:7</a>; <a href=\"https://ref.ly/1Pet5:8-1Pet5:9\">1PE 5:8–5:9</a></p>\n<h3>God's punishment</h3>\n<p><strong><a href=\"https://ref.ly/2Pet2:4\">2PE 2:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt25:41\">MAT 25:41</a>; <a href=\"https://ref.ly/Jude1:6\">JUD 1:6</a>; <a href=\"https://ref.ly/Rev19:20\">REV 19:20</a>, <a href=\"https://ref.ly/Rev20:10\">REV 20:10</a></p>",
@@ -202,6 +202,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jachin.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jachin"
+},
+{
+"id": "person:Jachin.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jachin"
+},
+{
+"id": "person:Jachin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jachin"
 }
 ]
 }

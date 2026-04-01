@@ -2,10 +2,10 @@
 {
 "content_id": "5679",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5679: dowry",
 "media_type": "Text",
-"index_reference": "5679: dowry",
+"index_reference": "5679",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A present given by a woman's father on her marriage. At betrothal the bridegroom gave a compensatory gift, known as the bride-price, to the woman's family.</p>\n<h2>The bride-price</h2>\n<p><strong><a href=\"https://ref.ly/Exod22:16-Exod22:17\">EXO 22:16–22:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen34:12\">GEN 34:12</a></p>\n<h3>Usually it consisted of payment in kind</h3>\n<p><strong><a href=\"https://ref.ly/Gen24:53\">GEN 24:53</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen29:16-Gen29:28\">GEN 29:16–29:28</a>, <a href=\"https://ref.ly/Gen31:41\">GEN 31:41</a>; <a href=\"https://ref.ly/1Sam18:25\">1SA 18:25</a>; <a href=\"https://ref.ly/2Sam3:14\">2SA 3:14</a></p>\n<h2>The dowry given by the bride's father</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs9:16\">1KI 9:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen24:59-Gen24:61\">GEN 24:59–24:61</a>, <a href=\"https://ref.ly/Gen29:24\">GEN 29:24</a>, <a href=\"https://ref.ly/Gen29:29\">GEN 29:29</a>; <a href=\"https://ref.ly/Judg1:14-Judg1:15\">JDG 1:14–1:15</a></p>",
@@ -127,7 +127,8 @@
 "label": "5742: wedding",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

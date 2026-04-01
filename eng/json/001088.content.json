@@ -2,10 +2,10 @@
 {
 "content_id": "5519",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5519: secretary",
 "media_type": "Text",
-"index_reference": "5519: secretary",
+"index_reference": "5519",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>A secretary was a royal official often responsible for correspondence</h2>\n<p><a href=\"https://ref.ly/2Sam8:17\">2SA 8:17</a>, <a href=\"https://ref.ly/2Sam20:25\">2SA 20:25</a>; ; <a href=\"https://ref.ly/1Kgs4:3\">1KI 4:3</a>; ; <a href=\"https://ref.ly/2Kgs18:18\">2KI 18:18</a>, <a href=\"https://ref.ly/2Kgs18:37\">2KI 18:37</a>, <a href=\"https://ref.ly/2Kgs19:2\">2KI 19:2</a>, <a href=\"https://ref.ly/2Kgs22:12\">2KI 22:12</a>; ; <a href=\"https://ref.ly/2Chr34:13\">2CH 34:13</a>, <a href=\"https://ref.ly/2Chr34:15-2Chr34:18\">2CH 34:15–34:18</a> <em>Shaphan takes the Book of the Law to King Josiah</em>; ; <a href=\"https://ref.ly/Ezra4:8-Ezra4:9\">EZR 4:8–4:9</a>, <a href=\"https://ref.ly/Ezra4:17\">EZR 4:17</a>, <a href=\"https://ref.ly/Ezra4:23\">EZR 4:23</a>; ; <a href=\"https://ref.ly/Esth3:12\">EST 3:12</a>, <a href=\"https://ref.ly/Esth8:9\">EST 8:9</a>; ; <a href=\"https://ref.ly/Jer36:10\">JER 36:10</a></p>\n<h2>A secretary collected the temple repair money</h2>\n<p><a href=\"https://ref.ly/2Kgs12:10-2Kgs12:12\">2KI 12:10–12:12</a>; ; <a href=\"https://ref.ly/2Chr24:11\">2CH 24:11</a></p>\n<h2>A secretary was in charge of conscripting soldiers</h2>\n<p><a href=\"https://ref.ly/2Kgs25:19\">2KI 25:19</a> parallel <a href=\"https://ref.ly/Jer52:25\">JER 52:25</a>; ; <a href=\"https://ref.ly/2Chr26:11\">2CH 26:11</a></p>\n<h2>Secretaries to writers of NT letters</h2>\n<p>Tertius and Silas acted in the capacity of secretary, writing down what the apostles told them to:\n <a href=\"https://ref.ly/Rom16:22\">ROM 16:22</a>; ; <a href=\"https://ref.ly/1Pet5:12\">1PE 5:12</a></p>",
@@ -201,7 +201,8 @@
 "label": "7912: collections",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

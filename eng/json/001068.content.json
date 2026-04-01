@@ -2,10 +2,10 @@
 {
 "content_id": "5498",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5498: reward",
 "media_type": "Text",
-"index_reference": "5498: reward",
+"index_reference": "5498",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Recompense in recognition of services rendered. Scripture stresses that while salvation is a gift of God, believers will be rewarded according to their deeds. Believers should be honest in rewarding others for their work.</p>",
@@ -33,7 +33,8 @@
 "label": "5501: reward, human",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

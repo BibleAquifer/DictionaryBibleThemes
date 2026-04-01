@@ -2,10 +2,10 @@
 {
 "content_id": "5907",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5907: miserliness",
 "media_type": "Text",
-"index_reference": "5907: miserliness",
+"index_reference": "5907",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A reluctance to part with money, often associated with the hoarding of money or possessions.  While Scripture censures the squandering of resources, it also regards the hoarding of money or possessions as potentially idolatrous.</p>\n<h2>Miserliness as a form of idolatry</h2>\n<p><strong><a href=\"https://ref.ly/Prov18:11\">PRO 18:11</a></strong>; <strong><a href=\"https://ref.ly/Matt6:24\">MAT 6:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut15:9\">DEU 15:9</a>; <a href=\"https://ref.ly/Prov11:26\">PRO 11:26</a>; <a href=\"https://ref.ly/Hos12:8\">HOS 12:8</a>; <a href=\"https://ref.ly/Matt6:19-Matt6:21\">MAT 6:19–6:21</a>; <a href=\"https://ref.ly/Eph5:3-Eph5:5\">EPH 5:3–5:5</a>; <a href=\"https://ref.ly/Col3:5\">COL 3:5</a>; <a href=\"https://ref.ly/1Tim6:17\">1TI 6:17</a></p>\n<h2>The foolishness of miserliness</h2>\n<p><strong><a href=\"https://ref.ly/Eccl2:26\">ECC 2:26</a></strong>; <strong><a href=\"https://ref.ly/1Tim6:7\">1TI 6:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps39:6\">PSA 39:6</a>, <a href=\"https://ref.ly/Ps39:11\">PSA 39:11</a>, <a href=\"https://ref.ly/Ps49:10\">PSA 49:10</a>; <a href=\"https://ref.ly/Prov22:16\">PRO 22:16</a>, <a href=\"https://ref.ly/Prov23:6\">PRO 23:6</a>, <a href=\"https://ref.ly/Prov28:8\">PRO 28:8</a>, <a href=\"https://ref.ly/Prov28:22\">PRO 28:22</a>; <a href=\"https://ref.ly/Eccl4:7-Eccl4:8\">ECC 4:7–4:8</a>, <a href=\"https://ref.ly/Eccl5:10-Eccl5:11\">ECC 5:10–5:11</a>, <a href=\"https://ref.ly/Eccl5:15\">ECC 5:15</a>; <a href=\"https://ref.ly/Luke12:15-Luke12:21\">LUK 12:15–12:21</a></p>\n<h2>Miserliness leads to misery</h2>\n<p><strong><a href=\"https://ref.ly/Prov11:24\">PRO 11:24</a></strong>; <strong><a href=\"https://ref.ly/1Tim6:9-1Tim6:10\">1TI 6:9–6:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov11:16\">PRO 11:16</a>; <a href=\"https://ref.ly/Eccl5:12-Eccl5:14\">ECC 5:12–5:14</a>; <a href=\"https://ref.ly/Jas5:1-Jas5:6\">JAS 5:1–5:6</a></p>\n<h2>Some examples of miserliness</h2>\n<p><a href=\"https://ref.ly/1Sam25:3\">1SA 25:3</a>; ; <a href=\"https://ref.ly/Amos3:10\">AMO 3:10</a>; ; <a href=\"https://ref.ly/Luke16:19-Luke16:31\">LUK 16:19–16:31</a>; ; <a href=\"https://ref.ly/Acts5:1-Acts5:2\">ACT 5:1–5:2</a></p>",
@@ -268,6 +268,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8827: selfishness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Hornet",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hornet"
 }
 ]
 }

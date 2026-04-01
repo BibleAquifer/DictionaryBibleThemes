@@ -2,10 +2,10 @@
 {
 "content_id": "4802",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4802: blight",
 "media_type": "Text",
-"index_reference": "4802: blight",
+"index_reference": "4802",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A disease ruinous to crops. In the OT blight was seen as evidence of God's judgment.</p>\n<h2>Blight as punishment from God</h2>\n<p><strong><a href=\"https://ref.ly/Deut28:22\">DEU 28:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos9:16\">HOS 9:16</a>; <a href=\"https://ref.ly/Amos4:9\">AMO 4:9</a>; <a href=\"https://ref.ly/Hag2:17\">HAG 2:17</a></p>\n<h2>Deliverance from blight</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs8:37-1Kgs8:39\">1KI 8:37–8:39</a></strong> parallel <a href=\"https://ref.ly/2Chr6:28-2Chr6:30\">2CH 6:28–6:30</a></p>\n<h2>Blight as a symbol of sorrow</h2>\n<p><strong><a href=\"https://ref.ly/Ps102:4\">PSA 102:4</a></strong></p>",
@@ -117,6 +117,43 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8256: fruitfulness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Delaiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delaiah"
+},
+{
+"id": "person:Delaiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delaiah"
+},
+{
+"id": "person:Delaiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delaiah"
+},
+{
+"id": "person:Delaiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delaiah"
+},
+{
+"id": "person:Delaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Delaiah"
 }
 ]
 }

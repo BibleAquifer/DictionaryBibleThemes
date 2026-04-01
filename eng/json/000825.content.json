@@ -2,10 +2,10 @@
 {
 "content_id": "5237",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5237: breastplate",
 "media_type": "Text",
-"index_reference": "5237: breastplate",
+"index_reference": "5237",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A coat of armour comprising one or more pieces of bronze, iron or chain mail covering the chest and back to protect the heart and other vital organs. Used figuratively it refers to righteousness, faith and love.</p>\n<h2>Breastplates were coats or tunics of armour</h2>\n<h3>They were part of military dress</h3>\n<p><strong><a href=\"https://ref.ly/2Chr26:14\">2CH 26:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:5\">1SA 17:5</a>, <a href=\"https://ref.ly/1Sam17:38\">1SA 17:38</a>; <a href=\"https://ref.ly/2Sam20:8\">2SA 20:8</a></p>\n<h3>They were worn by soldiers</h3>\n<p><strong><a href=\"https://ref.ly/2Sam20:8\">2SA 20:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh4:16\">NEH 4:16</a>; <a href=\"https://ref.ly/Jer46:4\">JER 46:4</a>, <a href=\"https://ref.ly/Jer51:3\">JER 51:3</a></p>\n<h3>Bronze breastplates</h3>\n<p><strong><a href=\"https://ref.ly/1Sam17:5\">1SA 17:5</a></strong></p>\n<h3>Iron breastplates</h3>\n<p><strong><a href=\"https://ref.ly/Rev9:9\">REV 9:9</a></strong></p>\n<h2>Those wearing breastplates were not impregnable</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs22:34\">1KI 22:34</a></strong> parallel <a href=\"https://ref.ly/2Chr18:33\">2CH 18:33</a> <em>See also</em> <a href=\"https://ref.ly/1Sam31:3\">1SA 31:3</a>; <a href=\"https://ref.ly/1Kgs20:11\">1KI 20:11</a></p>\n<h2>The breastplate was often referred to figuratively</h2>\n<h3>As a picture of righteousness</h3>\n<p><strong><a href=\"https://ref.ly/Isa59:17\">ISA 59:17</a></strong>; <strong><a href=\"https://ref.ly/Eph6:14\">EPH 6:14</a></strong></p>\n<h3>As a picture of faith and love</h3>\n<p><strong><a href=\"https://ref.ly/1Thess5:8\">1TH 5:8</a></strong></p>\n<h3>As a picture of invincibility</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Rev9:9\">REV 9:9</a></p>",
@@ -186,6 +186,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8486: spiritual warfare, armour",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Breastplate",
+"type": "realia",
+"confidence": 0.6478,
+"match_method": "scored",
+"preferred_label": "Breastplate"
 }
 ]
 }

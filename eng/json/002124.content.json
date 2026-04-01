@@ -2,10 +2,10 @@
 {
 "content_id": "8292",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8292: love",
 "media_type": "Text",
-"index_reference": "8292: love",
+"index_reference": "8292",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A caring commitment, in which affection and delight are shown to others, which is grounded in the nature of God himself. In his words and actions, and supremely in the death of Jesus Christ on the cross, God demonstrates the nature of love and defines the direction in which human love in all its forms should develop.</p>",
@@ -81,6 +81,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8302: love, abuse of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Sharai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sharai"
 }
 ]
 }

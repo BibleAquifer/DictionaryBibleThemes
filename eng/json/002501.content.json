@@ -2,10 +2,10 @@
 {
 "content_id": "9300",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9300: Resurrection",
 "media_type": "Text",
-"index_reference": "9300: resurrection",
+"index_reference": "9300",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"9310\" data-resourcetype=\"DictionaryOfBibleThemes\">9310: resurrection</span></li></ul>",
@@ -19,7 +19,8 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

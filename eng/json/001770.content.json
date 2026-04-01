@@ -2,10 +2,10 @@
 {
 "content_id": "7318",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7318: blood, as symbol of guilt",
 "media_type": "Text",
-"index_reference": "7318: blood, as symbol of guilt",
+"index_reference": "7318",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Blood is often used as an image of people's sin and guilt, and the judgment which follows. Blood-guilt is ascribed to those who are responsible for the shedding of innocent blood.</p>\n<h2>Blood as an image of sin and guilt</h2>\n<p><strong><a href=\"https://ref.ly/Isa59:2-Isa59:3\">ISA 59:2–59:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev20:9-Lev20:13\">LEV 20:9–20:13</a>, <a href=\"https://ref.ly/Lev20:27\">LEV 20:27</a>; <a href=\"https://ref.ly/2Sam1:14-2Sam1:16\">2SA 1:14–1:16</a>; <a href=\"https://ref.ly/Isa1:15-Isa1:18\">ISA 1:15–1:18</a>; <a href=\"https://ref.ly/Nah3:1\">NAM 3:1</a>; <a href=\"https://ref.ly/Acts18:6\">ACT 18:6</a></p>\n<h2>Blood as an image of judgment</h2>\n<p><strong><a href=\"https://ref.ly/Isa34:5-Isa34:6\">ISA 34:5–34:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod7:14-Exod7:21\">EXO 7:14–7:21</a>; <a href=\"https://ref.ly/Ps78:44\">PSA 78:44</a>, <a href=\"https://ref.ly/Ps105:29\">PSA 105:29</a>; <a href=\"https://ref.ly/Acts2:19-Acts2:20\">ACT 2:19–2:20</a>; <a href=\"https://ref.ly/Joel2:30-Joel2:31\">JOL 2:30–2:31</a></p>\n<h2>Blood as a sign of the end times</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:19-Acts2:20\">ACT 2:19–2:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Joel2:30-Joel2:31\">JOL 2:30–2:31</a>; <a href=\"https://ref.ly/Rev6:12-Rev6:15\">REV 6:12–6:15</a>, <a href=\"https://ref.ly/Rev8:7-Rev8:9\">REV 8:7–8:9</a>, <a href=\"https://ref.ly/Rev16:3-Rev16:6\">REV 16:3–16:6</a></p>\n<h2>Blood-guilt, the result of shedding innocent blood</h2>\n<h3>Examples of blood-guilt</h3>\n<p><strong><a href=\"https://ref.ly/Gen4:8-Gen4:11\">GEN 4:8–4:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam1:14-2Sam1:16\">2SA 1:14–1:16</a>, <a href=\"https://ref.ly/2Sam4:5-2Sam4:12\">2SA 4:5–4:12</a>; <a href=\"https://ref.ly/Ezek35:5-Ezek35:9\">EZK 35:5–35:9</a>; <a href=\"https://ref.ly/Hab2:12\">HAB 2:12</a>; <a href=\"https://ref.ly/Matt27:3-Matt27:8\">MAT 27:3–27:8</a>, <a href=\"https://ref.ly/Matt27:24\">MAT 27:24</a>; <a href=\"https://ref.ly/Acts5:28\">ACT 5:28</a></p>\n<h3>The right to avenge blood-guilt under the law</h3>\n<p><strong><a href=\"https://ref.ly/Deut19:11-Deut19:13\">DEU 19:11–19:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num35:16-Num35:28\">NUM 35:16–35:28</a></p>\n<h3>Restraint to avoid further blood-guilt</h3>\n<p><strong><a href=\"https://ref.ly/Deut4:41-Deut4:42\">DEU 4:41–4:42</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen4:15\">GEN 4:15</a>; <a href=\"https://ref.ly/Num35:6-Num35:34\">NUM 35:6–35:34</a>; <a href=\"https://ref.ly/Deut19:4-Deut19:10\">DEU 19:4–19:10</a>; <a href=\"https://ref.ly/Josh20:1-Josh20:9\">JOS 20:1–20:9</a></p>\n<h3>Blood-guilt cannot be forgotten</h3>\n<p><strong><a href=\"https://ref.ly/Gen9:5-Gen9:6\">GEN 9:5–9:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen4:10-Gen4:16\">GEN 4:10–4:16</a>, <a href=\"https://ref.ly/Gen42:22\">GEN 42:22</a>; <a href=\"https://ref.ly/1Kgs2:28-1Kgs2:33\">1KI 2:28–2:33</a>; <a href=\"https://ref.ly/Isa26:21\">ISA 26:21</a>; <a href=\"https://ref.ly/Matt23:30-Matt23:31\">MAT 23:30–23:31</a></p>",
@@ -264,7 +264,8 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

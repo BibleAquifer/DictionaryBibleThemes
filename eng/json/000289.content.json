@@ -2,10 +2,10 @@
 {
 "content_id": "3287",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3287: Holy Spirit, sealing of",
 "media_type": "Text",
-"index_reference": "3287: holy spirit, sealing of",
+"index_reference": "3287",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Based on the practice of sealing letters, documents and property, the Holy Spirit is described as being a seal on the lives of God's people, affirming their Christian character, marking them out as belonging to God and guarding them from the world and the devil.</p>\n<h2>The Holy Spirit's seal on the life of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/John6:27\">JHN 6:27</a></strong> <em>The Greek implies a once-and-for-all sealing at a particular time in the past and probably alludes to the baptism of Jesus Christ when the Holy Spirit came upon him.</em> <em>See also</em> <a href=\"https://ref.ly/Isa42:1\">ISA 42:1</a>, <a href=\"https://ref.ly/Isa61:1\">ISA 61:1</a></p>\n<h2>The seal of the Holy Spirit in the life of believers</h2>\n<h3>The seal marks God's ownership</h3>\n<p><strong><a href=\"https://ref.ly/2Cor1:21-2Cor1:22\">2CO 1:21–1:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev7:3-Rev7:4\">REV 7:3–7:4</a>, <a href=\"https://ref.ly/Rev9:4\">REV 9:4</a>, <a href=\"https://ref.ly/Rev14:1\">REV 14:1</a>, <a href=\"https://ref.ly/Rev22:4\">REV 22:4</a></p>\n<h3>The seal acts as a guarantee of redemption</h3>\n<p><strong><a href=\"https://ref.ly/Eph1:13-Eph1:14\">EPH 1:13–1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor5:5\">2CO 5:5</a>; <a href=\"https://ref.ly/Eph4:30\">EPH 4:30</a>; <a href=\"https://ref.ly/1Pet1:5\">1PE 1:5</a></p>",
@@ -154,6 +154,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7903: baptism",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ebiasaph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ebiasaph"
 }
 ]
 }

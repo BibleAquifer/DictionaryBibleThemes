@@ -2,10 +2,10 @@
 {
 "content_id": "5266",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5266: conscription",
 "media_type": "Text",
-"index_reference": "5266: conscription",
+"index_reference": "5266",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The compulsory calling up of people to service, especially military service. The OT refers to men being conscripted to serve in the army, or in major building projects.</p>\n<h2>Men conscripted to serve in the army</h2>\n<h3>Moses drew up lists of potential fighting men for the conquest of Canaan</h3>\n<p><strong><a href=\"https://ref.ly/Num1:2-Num1:3\">NUM 1:2–1:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num1:17-Num1:19\">NUM 1:17–1:19</a>, <a href=\"https://ref.ly/Num1:45-Num1:46\">NUM 1:45–1:46</a>NUM <a href=\"https://ref.ly/Num26:2\">26:2</a>, <a href=\"https://ref.ly/Num26:3-Num26:4\">NUM 26:3–26:4</a>, <a href=\"https://ref.ly/Num26:63-Num26:65\">NUM 26:63–26:65</a></p>\n<h3>Deborah called up troops to attack Jabin, a Canaanite king</h3>\n<p><a href=\"https://ref.ly/Judg4:4-Judg4:7\">JDG 4:4–4:7</a></p>\n<h3>God restricted the number of men conscripted by Gideon</h3>\n<p><a href=\"https://ref.ly/Judg7:1-Judg7:8\">JDG 7:1–7:8</a> <em>The purpose of this was to make clear that Israel's victory was in God's strength alone.</em></p>\n<h3>The Benjamites raised a tribal militia to fight the rest of Israel</h3>\n<p><a href=\"https://ref.ly/Judg20:15-Judg20:17\">JDG 20:15–20:17</a></p>\n<h3>King Saul chose men to fight the Philistines</h3>\n<p><a href=\"https://ref.ly/1Sam13:2\">1SA 13:2</a>, <a href=\"https://ref.ly/1Sam14:52\">1SA 14:52</a></p>\n<h3>King David maintained a regular army</h3>\n<p><a href=\"https://ref.ly/1Chr27:1-1Chr27:15\">1CH 27:1–27:15</a></p>\n<h2>The conscription of labourers</h2>\n<h3>Those in charge of conscription</h3>\n<p><a href=\"https://ref.ly/2Kgs25:19\">2KI 25:19</a> parallel <a href=\"https://ref.ly/Jer52:25\">JER 52:25</a></p>\n<h3>Solomon used conscripts to build the temple and other projects</h3>\n<p><a href=\"https://ref.ly/1Kgs5:13-1Kgs5:15\">1KI 5:13–5:15</a> parallel <a href=\"https://ref.ly/2Chr2:2\">2CH 2:2</a>; ; <a href=\"https://ref.ly/1Kgs9:15\">1KI 9:15</a>, <a href=\"https://ref.ly/1Kgs9:20-1Kgs9:21\">1KI 9:20–9:21</a> parallel <a href=\"https://ref.ly/2Chr8:7-2Chr8:8\">2CH 8:7–8:8</a></p>",
@@ -162,7 +162,8 @@
 "label": "5628: work",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

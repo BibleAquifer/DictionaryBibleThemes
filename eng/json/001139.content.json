@@ -2,10 +2,10 @@
 {
 "content_id": "5574",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5574: tablet",
 "media_type": "Text",
-"index_reference": "5574: tablet",
+"index_reference": "5574",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A flat, usually rectangular, surface used for writing. Stone tablets, symbolising permanence, were usually engraved with an iron tool. Tablets of moist clay and writing boards of wood or ivory containing a layer of wax were inscribed with a stylus. The term is also used figuratively to refer to the human heart.</p>\n<h2>Tablets engraved with an iron tool</h2>\n<p><strong><a href=\"https://ref.ly/Job19:23-Job19:24\">JOB 19:23–19:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer17:1\">JER 17:1</a></p>\n<h2>The Ten Commandments were inscribed on stone tablets</h2>\n<h3>The tablets were inscribed by God</h3>\n<p><strong><a href=\"https://ref.ly/Deut9:9-Deut9:11\">DEU 9:9–9:11</a></strong> <em>In keeping with ancient Near Eastern practice, the two tablets may have been duplicates of a single covenant document.</em> <em>See also</em> <a href=\"https://ref.ly/Exod24:12\">EXO 24:12</a>, <a href=\"https://ref.ly/Exod31:18\">EXO 31:18</a>; <a href=\"https://ref.ly/Deut4:13\">DEU 4:13</a>, <a href=\"https://ref.ly/Deut5:22\">DEU 5:22</a></p>\n<h3>The tablets were broken</h3>\n<p><strong><a href=\"https://ref.ly/Exod32:15-Exod32:19\">EXO 32:15–32:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut9:15-Deut9:17\">DEU 9:15–9:17</a></p>\n<h3>New tablets were inscribed by God</h3>\n<p><strong><a href=\"https://ref.ly/Deut10:1-Deut10:4\">DEU 10:1–10:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod34:4\">EXO 34:4</a>, <a href=\"https://ref.ly/Exod34:28-Exod34:29\">EXO 34:28–34:29</a></p>\n<h3>The new tablets were put into the ark</h3>\n<p><strong><a href=\"https://ref.ly/Deut10:5\">DEU 10:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs8:9\">1KI 8:9</a> parallel <a href=\"https://ref.ly/2Chr5:10\">2CH 5:10</a>; <a href=\"https://ref.ly/Heb9:4\">HEB 9:4</a></p>\n<h3>God's commands were copied onto altar stones</h3>\n<p><strong><a href=\"https://ref.ly/Deut27:2-Deut27:8\">DEU 27:2–27:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh8:30-Josh8:32\">JOS 8:30–8:32</a></p>\n<h2>Writing tablets</h2>\n<h3>Tablets of unspecified material</h3>\n<p><strong><a href=\"https://ref.ly/Hab2:2\">HAB 2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa30:8\">ISA 30:8</a>; <a href=\"https://ref.ly/Luke1:63\">LUK 1:63</a></p>\n<h3>Other surfaces used for writing</h3>\n<p><a href=\"https://ref.ly/1Kgs7:36\">1KI 7:36</a> <em>The bases of the bronze lavers in Solomon's temple were engraved</em>; ; <a href=\"https://ref.ly/Isa8:1\">ISA 8:1</a> <em>Isaiah's inscription is with a pen on a scroll</em>; ; <a href=\"https://ref.ly/Ezek4:1\">EZK 4:1</a> <em>Ezekiel draws a plan of Jerusalem on a clay tablet. This was a common medium for plans in Babylon.</em></p>\n<h2>Tablets of the heart</h2>\n<h3>The commands and teachings of Proverbs</h3>\n<p><strong><a href=\"https://ref.ly/Prov3:3\">PRO 3:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:21\">PRO 6:21</a>, <a href=\"https://ref.ly/Prov7:3\">PRO 7:3</a></p>\n<h3>The new covenant</h3>\n<p><strong><a href=\"https://ref.ly/Jer31:33\">JER 31:33</a></strong> <em>Under the new covenant God's law will be inward, written on human hearts rather than on tablets of stone.</em> <em>See also</em> <a href=\"https://ref.ly/Ezek36:26-Ezek36:27\">EZK 36:26–36:27</a>; <a href=\"https://ref.ly/2Cor3:3\">2CO 3:3</a>; <a href=\"https://ref.ly/Heb8:10\">HEB 8:10</a>, <a href=\"https://ref.ly/Heb10:16\">HEB 10:16</a></p>",
@@ -288,6 +288,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7410: phylactery",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Tablet",
+"type": "realia",
+"confidence": 0.6843,
+"match_method": "scored",
+"preferred_label": "Tablet"
 }
 ]
 }

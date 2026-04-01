@@ -2,10 +2,10 @@
 {
 "content_id": "5375",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5375: law",
 "media_type": "Text",
-"index_reference": "5375: law",
+"index_reference": "5375",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The God-given regulation of the life of the people of God in relationship with him. As the command of God, it enables and gives shape to the relationship between God and human beings on the one hand, and between fellow human beings on the other.</p>",
@@ -54,7 +54,8 @@
 "label": "5381: law, letter and spirit of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5936",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5936: riots",
 "media_type": "Text",
-"index_reference": "5936: riots",
+"index_reference": "5936",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The hostile reactions of crowds who take the law into their own hands, frequently in opposition to a messenger of God.</p>\n<h2>Riotous responses to unpopular actions or teaching</h2>\n<p><a href=\"https://ref.ly/Gen19:4-Gen19:11\">GEN 19:4–19:11</a> <em>the hostility of the men of Sodom against Lot</em>; ; <a href=\"https://ref.ly/Judg6:30-Judg6:31\">JDG 6:30–6:31</a> <em>The men of Ophrah call for the death of Gideon</em>; ; <a href=\"https://ref.ly/Jer26:8-Jer26:11\">JER 26:8–26:11</a> <em>The people react to Jeremiah's message</em>; ; <a href=\"https://ref.ly/Luke4:28-Luke4:30\">LUK 4:28–4:30</a> <em>The people of Nazareth expel Jesus Christ</em>; ; <a href=\"https://ref.ly/Acts19:23-Acts19:34\">ACT 19:23–19:34</a> <em>the anger of the Ephesians over Paul</em>; ; <a href=\"https://ref.ly/2Cor6:5\">2CO 6:5</a></p>\n<h2>Riots stirred up intentionally</h2>\n<p><a href=\"https://ref.ly/Matt27:20-Matt27:24\">MAT 27:20–27:24</a> parallel <a href=\"https://ref.ly/Mark15:6-Mark15:15\">MRK 15:6–15:15</a>; ; <a href=\"https://ref.ly/Acts6:8-Acts6:14\">ACT 6:8–6:14</a>, <a href=\"https://ref.ly/Acts17:5-Acts17:9\">ACT 17:5–17:9</a>, <a href=\"https://ref.ly/Acts21:27-Acts21:35\">ACT 21:27–21:35</a></p>\n<h2>Riotous behaviour avoided or quelled</h2>\n<p><a href=\"https://ref.ly/Matt26:3-Matt26:5\">MAT 26:3–26:5</a> parallel <a href=\"https://ref.ly/Mark14:1-Mark14:2\">MRK 14:1–14:2</a>; ; <a href=\"https://ref.ly/Acts19:35-Acts19:41\">ACT 19:35–19:41</a>, <a href=\"https://ref.ly/Acts24:5-Acts24:12\">ACT 24:5–24:12</a></p>",
@@ -159,7 +159,8 @@
 "label": "8785: opposition",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

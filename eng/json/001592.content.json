@@ -2,16 +2,25 @@
 {
 "content_id": "6513",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6513: Saviour, God as",
 "media_type": "Text",
-"index_reference": "6513: saviour, god as",
+"index_reference": "6513",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"1320.md\">1320: God, as Saviour</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Kain",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Kain"
+}
+]
 }
 }
 ]

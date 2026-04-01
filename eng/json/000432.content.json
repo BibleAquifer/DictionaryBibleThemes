@@ -2,10 +2,10 @@
 {
 "content_id": "4435",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4435: drinking",
 "media_type": "Text",
-"index_reference": "4435: drinking",
+"index_reference": "4435",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Wine as a gift of God</h2>\n<h3>A sign of his blessing</h3>\n<p><strong><a href=\"https://ref.ly/Deut7:13\">DEU 7:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:28\">GEN 27:28</a>; <a href=\"https://ref.ly/Deut33:28\">DEU 33:28</a>; <a href=\"https://ref.ly/Prov3:9-Prov3:10\">PRO 3:9–3:10</a>; <a href=\"https://ref.ly/Joel2:18-Joel2:19\">JOL 2:18–2:19</a>, <a href=\"https://ref.ly/Joel2:22-Joel2:24\">JOL 2:22–2:24</a>, <a href=\"https://ref.ly/Joel3:18\">JOL 3:18</a>; <a href=\"https://ref.ly/Amos9:13-Amos9:14\">AMO 9:13–9:14</a></p>\n<h3>Drinking wine has God's approval</h3>\n<p><strong><a href=\"https://ref.ly/Deut14:26\">DEU 14:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/John2:1-John2:10\">JHN 2:1–2:10</a>; <a href=\"https://ref.ly/1Tim5:23\">1TI 5:23</a> <em>approval implicit in the advice given</em></p>\n<h2>Withdrawal of wine is evidence of divine judgment</h2>\n<p><strong><a href=\"https://ref.ly/Isa24:6-Isa24:7\">ISA 24:6–24:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer48:32-Jer48:33\">JER 48:32–48:33</a></p>\n<h2>Drinking used extensively as a metaphor</h2>\n<h3>Of suffering God's judgment</h3>\n<p><a href=\"https://ref.ly/Job21:20\">JOB 21:20</a>; ; <a href=\"https://ref.ly/Ps75:8\">PSA 75:8</a>; ; <a href=\"https://ref.ly/Isa29:9\">ISA 29:9</a>; ; <a href=\"https://ref.ly/Jer25:15-Jer25:17\">JER 25:15–25:17</a>; ; <a href=\"https://ref.ly/Ezek23:31-Ezek23:34\">EZK 23:31–23:34</a>; ; <a href=\"https://ref.ly/Hab2:16\">HAB 2:16</a>; ; <a href=\"https://ref.ly/Rev18:3\">REV 18:3</a></p>\n<h3>Of love</h3>\n<p><a href=\"https://ref.ly/Prov7:18\">PRO 7:18</a></p>\n<h3>Of Jesus Christ's destiny of suffering</h3>\n<p><strong><a href=\"https://ref.ly/Matt26:42\">MAT 26:42</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt26:39\">MAT 26:39</a> parallels <a href=\"https://ref.ly/Mark14:36\">MRK 14:36</a>, <a href=\"https://ref.ly/Luke22:42\">LUK 22:42</a>; <a href=\"https://ref.ly/Matt20:22-Matt20:23\">MAT 20:22–20:23</a> parallel <a href=\"https://ref.ly/Mark10:38-Mark10:39\">MRK 10:38–10:39</a>; <a href=\"https://ref.ly/John18:11\">JHN 18:11</a></p>\n<h3>Of spiritual satisfaction</h3>\n<p><a href=\"https://ref.ly/John4:13-John4:14\">JHN 4:13–4:14</a></p>\n<h3>Of the Christian experience of the Holy Spirit</h3>\n<p><strong><a href=\"https://ref.ly/John7:37\">JHN 7:37</a></strong></p>\n<h2>Jesus Christ's symbolic use of wine</h2>\n<p><strong><a href=\"https://ref.ly/Matt26:27-Matt26:29\">MAT 26:27–26:29</a></strong> parallels <a href=\"https://ref.ly/Mark14:23-Mark14:25\">MRK 14:23–14:25</a>, <a href=\"https://ref.ly/Luke22:17-Luke22:18\">LUK 22:17–22:18</a>, <a href=\"https://ref.ly/Luke22:20\">LUK 22:20</a> <em>See also</em> <a href=\"https://ref.ly/John6:53-John6:56\">JHN 6:53–6:56</a> <em>the believer's participation in Jesus Christ</em></p>",
@@ -307,7 +307,8 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

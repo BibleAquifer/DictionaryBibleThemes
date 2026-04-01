@@ -2,10 +2,10 @@
 {
 "content_id": "9611",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9611: hope, nature of",
 "media_type": "Text",
-"index_reference": "9611: hope, nature of",
+"index_reference": "9611",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Hope, in its general sense, is the anticipation of a future outcome. It is a subjective expectation which may be either firmly based or misdirected.</p>\n<h2>Hope that an event will take place</h2>\n<p><strong><a href=\"https://ref.ly/1Cor9:10\">1CO 9:10</a></strong>; <strong><a href=\"https://ref.ly/1Tim3:14\">1TI 3:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth9:1\">EST 9:1</a>; <a href=\"https://ref.ly/Luke6:34\">LUK 6:34</a>; <a href=\"https://ref.ly/Acts24:26\">ACT 24:26</a> <em>Felix hoped Paul would offer him a bribe</em>; <a href=\"https://ref.ly/Rom15:24\">ROM 15:24</a> <em>Paul hoped to visit Rome on his way to Spain</em>; <a href=\"https://ref.ly/1Cor9:15\">1CO 9:15</a>, <a href=\"https://ref.ly/1Cor16:7\">1CO 16:7</a>; <a href=\"https://ref.ly/2Cor1:13-2Cor1:14\">2CO 1:13–1:14</a>, <a href=\"https://ref.ly/2Cor5:11\">2CO 5:11</a>, <a href=\"https://ref.ly/2Cor11:1\">2CO 11:1</a>PHP <a href=\"https://ref.ly/2Cor2:19\">2:19</a>, <a href=\"https://ref.ly/Phil2:23\">PHP 2:23</a>\n<a href=\"https://ref.ly/Phlm1:22\">PHM 1:22</a>; <a href=\"https://ref.ly/2John1:12\">2JN 1:12</a>; <a href=\"https://ref.ly/3John1:14\">3JN 1:14</a></p>\n<h2>Hope for a positive outcome</h2>\n<p><strong><a href=\"https://ref.ly/Eccl9:4\">ECC 9:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ruth1:12\">RUT 1:12</a>; <a href=\"https://ref.ly/2Kgs4:28\">2KI 4:28</a>; <a href=\"https://ref.ly/Prov19:18\">PRO 19:18</a>; <a href=\"https://ref.ly/Rom11:14\">ROM 11:14</a></p>\n<h2>Misplaced or vain hope</h2>\n<p><strong><a href=\"https://ref.ly/Ps33:17\">PSA 33:17</a></strong>; <strong><a href=\"https://ref.ly/Jer23:16\">JER 23:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job8:13-Job8:14\">JOB 8:13–8:14</a>, <a href=\"https://ref.ly/Job11:20\">JOB 11:20</a>; <a href=\"https://ref.ly/Prov26:12\">PRO 26:12</a>, <a href=\"https://ref.ly/Prov29:20\">PRO 29:20</a>; <a href=\"https://ref.ly/Jer50:7\">JER 50:7</a>; <a href=\"https://ref.ly/1Tim6:17\">1TI 6:17</a></p>\n<h2>Hope removed or not satisfied</h2>\n<p><strong><a href=\"https://ref.ly/Job30:26\">JOB 30:26</a></strong>; <strong><a href=\"https://ref.ly/Jer8:15\">JER 8:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job6:19-Job6:20\">JOB 6:19–6:20</a>, <a href=\"https://ref.ly/Job14:7-Job14:12\">JOB 14:7–14:12</a>, <a href=\"https://ref.ly/Job19:10\">JOB 19:10</a>, <a href=\"https://ref.ly/Job27:8\">JOB 27:8</a>; <a href=\"https://ref.ly/Isa38:18\">ISA 38:18</a>; <a href=\"https://ref.ly/Jer13:16\">JER 13:16</a>, <a href=\"https://ref.ly/Jer14:19\">JER 14:19</a>; <a href=\"https://ref.ly/Lam3:18\">LAM 3:18</a>; <a href=\"https://ref.ly/Ezek37:11\">EZK 37:11</a>; <a href=\"https://ref.ly/Zech9:5\">ZEC 9:5</a>; <a href=\"https://ref.ly/Luke24:21\">LUK 24:21</a> <em>The two disciples share their hopes with Jesus Christ on the Emmaus road</em>; <a href=\"https://ref.ly/1Thess4:13\">1TH 4:13</a></p>\n<h2>The malicious hope of the wicked</h2>\n<p><strong><a href=\"https://ref.ly/Prov10:28\">PRO 10:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov11:7\">PRO 11:7</a>, <a href=\"https://ref.ly/Prov11:23\">PRO 11:23</a>, <a href=\"https://ref.ly/Prov24:19-Prov24:20\">PRO 24:19–24:20</a>; <a href=\"https://ref.ly/Luke20:20\">LUK 20:20</a>, <a href=\"https://ref.ly/Luke23:8\">LUK 23:8</a>; <a href=\"https://ref.ly/Acts16:19\">ACT 16:19</a></p>",
@@ -355,7 +355,8 @@
 "label": "8112: certainty",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

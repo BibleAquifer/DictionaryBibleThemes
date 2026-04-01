@@ -2,10 +2,10 @@
 {
 "content_id": "8831",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8831: syncretism",
 "media_type": "Text",
-"index_reference": "8831: syncretism",
+"index_reference": "8831",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The incorporation into religious faith and practice of elements from other religions, resulting in a loss of integrity and assimilation to the surrounding culture.</p>\n<h2>Syncretism in Israel</h2>\n<h3>God's claim to exclusive worship, the basis of the rejection of syncretism</h3>\n<p><strong><a href=\"https://ref.ly/Exod20:3\">EXO 20:3</a></strong> parallel <a href=\"https://ref.ly/Deut5:7\">DEU 5:7</a> <em>See also</em> <a href=\"https://ref.ly/Deut6:13-Deut6:15\">DEU 6:13–6:15</a>; <a href=\"https://ref.ly/Josh24:14-Josh24:15\">JOS 24:14–24:15</a>; <a href=\"https://ref.ly/1Kgs18:21\">1KI 18:21</a></p>\n<h3>Syncretism forbidden to Israel</h3>\n<p><strong><a href=\"https://ref.ly/Exod34:15-Exod34:16\">EXO 34:15–34:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut7:1-Deut7:6\">DEU 7:1–7:6</a>; <a href=\"https://ref.ly/Josh23:16\">JOS 23:16</a>; <a href=\"https://ref.ly/1Sam7:3\">1SA 7:3</a></p>\n<h3>Israelite practice of syncretism</h3>\n<p><strong><a href=\"https://ref.ly/Jer19:4-Jer19:5\">JER 19:4–19:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs17:34-2Kgs17:41\">2KI 17:34–17:41</a>, <a href=\"https://ref.ly/2Kgs21:1-2Kgs21:7\">2KI 21:1–21:7</a> parallel <a href=\"https://ref.ly/2Chr33:1-2Chr33:7\">2CH 33:1–33:7</a>; <a href=\"https://ref.ly/Ezek8:9-Ezek8:16\">EZK 8:9–8:16</a></p>\n<h3>The consequence of syncretism</h3>\n<p><strong><a href=\"https://ref.ly/Jer2:5\">JER 2:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut18:9-Deut18:13\">DEU 18:9–18:13</a>; <a href=\"https://ref.ly/2Kgs17:15-2Kgs17:17\">2KI 17:15–17:17</a>; <a href=\"https://ref.ly/Isa2:6\">ISA 2:6</a></p>\n<h3>Punishment for syncretism</h3>\n<p><strong><a href=\"https://ref.ly/Zeph1:4-Zeph1:5\">ZEP 1:4–1:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut17:2-Deut17:7\">DEU 17:2–17:7</a>; <a href=\"https://ref.ly/Jer19:10-Jer19:13\">JER 19:10–19:13</a>; <a href=\"https://ref.ly/Hos2:2-Hos2:13\">HOS 2:2–2:13</a></p>\n<h2>Syncretism in NT times</h2>\n<h3>Mediterranean society was syncretistic</h3>\n<p><a href=\"https://ref.ly/Acts14:11-Acts14:13\">ACT 14:11–14:13</a>, <a href=\"https://ref.ly/Acts17:16-Acts17:23\">ACT 17:16–17:23</a>, <a href=\"https://ref.ly/Acts19:13-Acts19:16\">ACT 19:13–19:16</a></p>\n<h3>NT opposition to syncretism</h3>\n<p><strong><a href=\"https://ref.ly/Heb13:9\">HEB 13:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor10:21\">1CO 10:21</a>; <a href=\"https://ref.ly/Gal4:9-Gal4:10\">GAL 4:9–4:10</a>; <a href=\"https://ref.ly/Col2:18\">COL 2:18</a></p>\n<h2>Monotheism is incompatible with syncretism</h2>\n<p><strong><a href=\"https://ref.ly/Isa44:6\">ISA 44:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut6:4-Deut6:5\">DEU 6:4–6:5</a>; <a href=\"https://ref.ly/Isa43:10-Isa43:12\">ISA 43:10–43:12</a>; <a href=\"https://ref.ly/1Cor8:4-1Cor8:6\">1CO 8:4–8:6</a></p>",
@@ -266,6 +266,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8768: idolatry",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Tiberias",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiberias"
 }
 ]
 }

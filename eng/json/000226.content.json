@@ -2,10 +2,10 @@
 {
 "content_id": "2510",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "2510: Jesus Christ, baptism of",
 "media_type": "Text",
-"index_reference": "2510: jesus christ, baptism of",
+"index_reference": "2510",
 "language": "eng",
 "review_level": "None",
 "content": "<p>In obedience to God's will Jesus Christ was baptised in the River Jordan by John. The event was sealed by the descent of the Holy Spirit and the Father's voice of approval.</p>\n<h2>John tries to prevent Jesus Christ from being baptised</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:13-Matt3:14\">MAT 3:13–3:14</a></strong> <em>John was baptising repentant sinners but he knew that Jesus Christ was sinless.</em></p>\n<h2>The necessity of Jesus Christ's baptism</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:15\">MAT 3:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark10:38\">MRK 10:38</a>; <a href=\"https://ref.ly/Luke12:50\">LUK 12:50</a></p>\n<h2>The events surrounding Jesus Christ's baptism</h2>\n<h3>The baptism itself</h3>\n<p><strong><a href=\"https://ref.ly/Mark1:9\">MRK 1:9</a></strong> parallels <a href=\"https://ref.ly/Matt3:13\">MAT 3:13</a>, <a href=\"https://ref.ly/Luke3:21\">LUK 3:21</a></p>\n<h3>Jesus Christ prays while being baptised</h3>\n<p><strong><a href=\"https://ref.ly/Luke3:21\">LUK 3:21</a></strong></p>\n<h3>The Holy Spirit descends on Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Mark1:10\">MRK 1:10</a></strong> parallels <a href=\"https://ref.ly/Matt3:16\">MAT 3:16</a>, <a href=\"https://ref.ly/Luke3:22\">LUK 3:22</a> <em>The Holy Spirit came upon Jesus Christ to equip him for his ministry which was about to begin and to give him strength at a time of temptation.</em> <em>See also</em> <a href=\"https://ref.ly/John1:32-John1:34\">JHN 1:32–1:34</a></p>\n<h3>The voice of the Father is heard</h3>\n<p><strong><a href=\"https://ref.ly/Matt3:17\">MAT 3:17</a></strong> parallels <a href=\"https://ref.ly/Mark1:11\">MRK 1:11</a>, <a href=\"https://ref.ly/Luke3:22\">LUK 3:22</a> <em>These words, which are an allusion to <a href=\"https://ref.ly/Ps2:7\">Ps 2:7</a> and <a href=\"https://ref.ly/Isa42:1\">Isa 42:1</a>, were repeated at the transfiguration.</em> <em>See also</em> <a href=\"https://ref.ly/Matt17:5\">MAT 17:5</a> parallels <a href=\"https://ref.ly/Mark9:7\">MRK 9:7</a>, <a href=\"https://ref.ly/Luke9:35\">LUK 9:35</a></p>",
@@ -198,7 +198,8 @@
 "label": "7903: baptism",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

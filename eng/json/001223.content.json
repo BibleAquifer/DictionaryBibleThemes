@@ -2,10 +2,10 @@
 {
 "content_id": "5677",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5677: divorce, amongst believers",
 "media_type": "Text",
-"index_reference": "5677: divorce, amongst believers",
+"index_reference": "5677",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Jesus Christ challenged the liberal approach to divorce taken by some rabbis of his day, and upheld the idea of marriage as a lifelong commitment. Remarriage after divorce is generally classed as adultery and, where possible, divorced parties should seek reconciliation. There are circumstances, however, where remarriage is permissible.</p>\n<h2>The liberal attitude to divorce</h2>\n<p><strong><a href=\"https://ref.ly/Matt19:3\">MAT 19:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut21:14\">DEU 21:14</a>, <a href=\"https://ref.ly/Deut24:1\">DEU 24:1</a></p>\n<h2>The undesirability of divorce</h2>\n<h3>God's plan for marriage</h3>\n<p><strong><a href=\"https://ref.ly/Matt19:4-Matt19:6\">MAT 19:4–19:6</a></strong> parallel <a href=\"https://ref.ly/Mark10:6-Mark10:9\">MRK 10:6–10:9</a> <em>See also</em> <a href=\"https://ref.ly/Gen1:27\">GEN 1:27</a>, <a href=\"https://ref.ly/Gen2:24\">GEN 2:24</a>; <a href=\"https://ref.ly/Mal2:15\">MAL 2:15</a>; <a href=\"https://ref.ly/Eph5:31\">EPH 5:31</a></p>\n<h3>Divorce is permitted because of human sinfulness</h3>\n<p><strong><a href=\"https://ref.ly/Matt19:8\">MAT 19:8</a></strong> parallel <a href=\"https://ref.ly/Mark10:5\">MRK 10:5</a></p>\n<h3>Christians should not seek divorce</h3>\n<p><strong><a href=\"https://ref.ly/1Cor7:10\">1CO 7:10</a></strong> <em>This command, echoing Jesus Christ's words, applies where both parties are believers.</em> <em>See also</em> <a href=\"https://ref.ly/1Cor7:12-1Cor7:14\">1CO 7:12–7:14</a></p>\n<h2>Remarriage after divorce</h2>\n<h3>Believers should seek reconciliation</h3>\n<p><strong><a href=\"https://ref.ly/1Cor7:11\">1CO 7:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut24:2-Deut24:4\">DEU 24:2–24:4</a> <em>Marriage to another after divorce prevents reconciliation.</em></p>\n<h3>Remarriage after divorce is classed as adultery</h3>\n<p><strong><a href=\"https://ref.ly/Luke16:18\">LUK 16:18</a></strong> parallel <a href=\"https://ref.ly/Mark10:11-Mark10:12\">MRK 10:11–10:12</a> <em>This is a general rule, though there may be exceptions (see below).</em> <em>See also</em> <a href=\"https://ref.ly/Rom7:2-Rom7:3\">ROM 7:2–7:3</a>; <a href=\"https://ref.ly/1Cor7:39\">1CO 7:39</a></p>\n<h3>Remarriage may be permissible</h3>\n<p><a href=\"https://ref.ly/1Cor7:27-1Cor7:28\">1CO 7:27–7:28</a> <em>“unmarried” means literally “freed from a wife” and thus may be applied to those widowed or properly divorced. It is no sin for them to (re)marry.</em></p>\n<h3>Possible grounds for divorce and remarriage</h3>\n<p><strong><a href=\"https://ref.ly/Matt19:9\">MAT 19:9</a></strong>; <strong><a href=\"https://ref.ly/1Cor7:15\">1CO 7:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer3:8\">JER 3:8</a> <em>God divorced Israel because of her adultery</em>; <a href=\"https://ref.ly/Matt1:18-Matt1:19\">MAT 1:18–1:19</a>, <a href=\"https://ref.ly/Matt5:32\">MAT 5:32</a></p>",
@@ -183,6 +183,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6718: reconciliation, between believers",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Harod",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Harod"
 }
 ]
 }

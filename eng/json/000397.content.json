@@ -2,10 +2,10 @@
 {
 "content_id": "4321",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4321: copper",
 "media_type": "Text",
-"index_reference": "4321: copper",
+"index_reference": "4321",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The mining of copper</h2>\n<p><strong><a href=\"https://ref.ly/Deut8:7-Deut8:9\">DEU 8:7–8:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job28:2-Job28:10\">JOB 28:2–28:10</a></p>\n<h2>The smelting of copper</h2>\n<p><strong><a href=\"https://ref.ly/Ezek22:20-Ezek22:21\">EZK 22:20–22:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek22:18\">EZK 22:18</a>, <a href=\"https://ref.ly/Ezek24:11\">EZK 24:11</a></p>\n<h2>Coins made of copper</h2>\n<p><strong><a href=\"https://ref.ly/Matt10:9\">MAT 10:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark12:41-Mark12:42\">MRK 12:41–12:42</a> parallel <a href=\"https://ref.ly/Luke21:1-Luke21:2\">LUK 21:1–21:2</a> <em>Coins of various denominations were made of copper in late OT and in NT times.</em></p>",
@@ -130,6 +130,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5260: coinage",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Bozez",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bozez"
 }
 ]
 }

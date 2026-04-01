@@ -2,10 +2,10 @@
 {
 "content_id": "6700",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6700: peace",
 "media_type": "Text",
-"index_reference": "6700: peace",
+"index_reference": "6700",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The state of harmony that is available to believers through having a right relationship with God and others and is especially associated with the presence of the Holy Spirit.</p>",
@@ -53,6 +53,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6706: peace, and Holy Spirit",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Lazarus.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lazarus"
+},
+{
+"id": "person:Lazarus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lazarus"
 }
 ]
 }

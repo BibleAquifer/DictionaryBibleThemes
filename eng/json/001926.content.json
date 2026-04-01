@@ -2,10 +2,10 @@
 {
 "content_id": "7766",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7766: priests",
 "media_type": "Text",
-"index_reference": "7766: priests",
+"index_reference": "7766",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A group of men charged with the responsibility of mediating between God and his people, ensuring proper worship, and maintaining the spiritual health of the people of God.</p>",
@@ -39,6 +39,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7770: priests, tasks in NT times",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Pochereth-hazzebaim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pochereth-hazzebaim"
 }
 ]
 }

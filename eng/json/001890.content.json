@@ -2,10 +2,10 @@
 {
 "content_id": "7631",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7631: Twelve, calling of",
 "media_type": "Text",
-"index_reference": "7631: twelve, calling of",
+"index_reference": "7631",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Jesus Christ's chosen companions, whom he called and trained to carry on his mission after his death and resurrection.</p>\n<h2>The calling of the Twelve</h2>\n<h3>Their names</h3>\n<p><strong><a href=\"https://ref.ly/Matt10:1-Matt10:4\">MAT 10:1–10:4</a></strong> parallel <a href=\"https://ref.ly/Mark3:14-Mark3:19\">MRK 3:14–3:19</a> <em>See also</em> <a href=\"https://ref.ly/Luke6:12-Luke6:16\">LUK 6:12–6:16</a>; <a href=\"https://ref.ly/Acts1:12-Acts1:13\">ACT 1:12–1:13</a></p>\n<h3>Their selection was preceded by prayer</h3>\n<p><a href=\"https://ref.ly/Luke6:12-Luke6:13\">LUK 6:12–6:13</a></p>\n<h3>As Jesus Christ's companions, they were to share in his mission</h3>\n<p><a href=\"https://ref.ly/Mark3:14-Mark3:15\">MRK 3:14–3:15</a>, <a href=\"https://ref.ly/Mark6:7-Mark6:13\">MRK 6:7–6:13</a> parallels <a href=\"https://ref.ly/Matt10:1\">MAT 10:1</a>, <a href=\"https://ref.ly/Matt10:9-Matt10:14\">MAT 10:9–10:14</a>, <a href=\"https://ref.ly/Luke9:1-Luke9:6\">LUK 9:1–9:6</a>; ; <a href=\"https://ref.ly/Luke8:1\">LUK 8:1</a></p>\n<h3>Jesus Christ promised them authority at the final judgment</h3>\n<p><a href=\"https://ref.ly/Matt19:28\">MAT 19:28</a> parallel <a href=\"https://ref.ly/Luke22:30\">LUK 22:30</a></p>\n<h2>After Judas' death the Twelve became the Eleven</h2>\n<p><a href=\"https://ref.ly/Matt28:16\">MAT 28:16</a>; ; <a href=\"https://ref.ly/Mark16:14\">MRK 16:14</a>; ; <a href=\"https://ref.ly/Luke24:9\">LUK 24:9</a>, <a href=\"https://ref.ly/Luke24:33\">LUK 24:33</a>; ; <a href=\"https://ref.ly/Acts2:14\">ACT 2:14</a></p>\n<h3>The Eleven became the Twelve again with the election of Matthias</h3>\n<p><a href=\"https://ref.ly/Acts1:26\">ACT 1:26</a></p>\n<h2>The ministry of the Twelve after the resurrection supplemented by the appointment of deacons</h2>\n<p><a href=\"https://ref.ly/Acts6:2-Acts6:3\">ACT 6:2–6:3</a></p>\n<h2>The symbolic significance of the Twelve</h2>\n<h3>The twelve tribes of Israel</h3>\n<p><a href=\"https://ref.ly/Gen49:28\">GEN 49:28</a>; ; <a href=\"https://ref.ly/Ezek47:13\">EZK 47:13</a>; ; <a href=\"https://ref.ly/Matt19:28\">MAT 19:28</a> parallel <a href=\"https://ref.ly/Luke22:30\">LUK 22:30</a> <em>Twelve symbolises completeness and is associated with the rule of God.</em></p>",
@@ -221,6 +221,36 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7948: mission",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Pelatiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pelatiah"
+},
+{
+"id": "person:Pelatiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pelatiah"
+},
+{
+"id": "person:Pelatiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pelatiah"
+},
+{
+"id": "person:Pelatiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pelatiah"
 }
 ]
 }

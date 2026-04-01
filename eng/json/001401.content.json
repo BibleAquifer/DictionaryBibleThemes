@@ -2,10 +2,10 @@
 {
 "content_id": "5883",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5883: impatience",
 "media_type": "Text",
-"index_reference": "5883: impatience",
+"index_reference": "5883",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A refusal to wait for people or developments, frequently displaying a lack of faith.</p>\n<h2>Examples of impatience</h2>\n<p><a href=\"https://ref.ly/Gen16:1-Gen16:2\">GEN 16:1–16:2</a> <em>Abraham and Sarah who did not wait for God to give them the son he had promised</em>; ; <a href=\"https://ref.ly/Gen25:30\">GEN 25:30</a> <em>Esau's impatience cost him his birthright</em>; ; <a href=\"https://ref.ly/Num20:9-Num20:11\">NUM 20:9–20:11</a> <em>Moses</em>; <a href=\"https://ref.ly/Num21:4\">NUM 21:4</a>; ; <a href=\"https://ref.ly/Ps106:13\">PSA 106:13</a>; ; <a href=\"https://ref.ly/Isa59:7\">ISA 59:7</a>; \n<a href=\"https://ref.ly/1Sam13:6-1Sam13:12\">1SA 13:6–13:12</a> <em>Saul made the offering without waiting for Samuel</em>; ; <a href=\"https://ref.ly/2Sam13:2\">2SA 13:2</a> <em>Amnon with his half-sister, Tamar</em>; ; <a href=\"https://ref.ly/2Sam14:29\">2SA 14:29</a> <em>Absalom with Joab</em>; ; <a href=\"https://ref.ly/2Sam18:14\">2SA 18:14</a> <em>Joab with Absalom</em>; ; <a href=\"https://ref.ly/2Kgs5:11-2Kgs5:12\">2KI 5:11–5:12</a> <em>Naaman</em>; ; <a href=\"https://ref.ly/2Kgs6:33\">2KI 6:33</a> <em>King Joram</em>; <a href=\"https://ref.ly/Job6:11\">JOB 6:11</a>, <a href=\"https://ref.ly/Job21:4\">JOB 21:4</a>; \n<a href=\"https://ref.ly/Job32:16\">JOB 32:16</a> <em>Elihu</em>; ; <a href=\"https://ref.ly/Matt18:29-Matt18:30\">MAT 18:29–18:30</a> <em>the unforgiving debtor</em>; ; <a href=\"https://ref.ly/Luke15:2\">LUK 15:2</a> <em>The younger son could not wait for his inheritance</em>; ; <a href=\"https://ref.ly/John21:3\">JHN 21:3</a> <em>Peter</em>; ; <a href=\"https://ref.ly/Acts20:16\">ACT 20:16</a> <em>Paul</em>; ; <a href=\"https://ref.ly/1Cor11:20-1Cor11:21\">1CO 11:20–11:21</a> <em>the Corinthian Christians at their communal meal</em>; ; <a href=\"https://ref.ly/Rev6:10-Rev6:11\">REV 6:10–6:11</a> <em>the martyrs waiting for the Lord to avenge their deaths</em></p>\n<h2>Warnings against impatience</h2>\n<p><strong><a href=\"https://ref.ly/Ps37:7\">PSA 37:7</a></strong>; <strong><a href=\"https://ref.ly/Prov19:2\">PRO 19:2</a></strong>; <strong><a href=\"https://ref.ly/Gal6:9\">GAL 6:9</a></strong>; <strong><a href=\"https://ref.ly/Jas1:19-Jas1:20\">JAS 1:19–1:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:18\">PRO 6:18</a>, <a href=\"https://ref.ly/Prov12:16\">PRO 12:16</a>, <a href=\"https://ref.ly/Prov14:29\">PRO 14:29</a>, <a href=\"https://ref.ly/Prov15:18\">PRO 15:18</a>, <a href=\"https://ref.ly/Prov16:32\">PRO 16:32</a>, <a href=\"https://ref.ly/Prov20:3\">PRO 20:3</a>PRO <a href=\"https://ref.ly/Prov21:5\">21:5</a>, <a href=\"https://ref.ly/Prov28:22\">PRO 28:22</a>\n<a href=\"https://ref.ly/Prov25:8\">PRO 25:8</a> <em>the need to exercise caution in disputes</em><a href=\"https://ref.ly/Prov29:20\">PRO 29:20</a>; <a href=\"https://ref.ly/Eccl5:2\">ECC 5:2</a>\n<a href=\"https://ref.ly/Eccl7:9\">ECC 7:9</a>, <a href=\"https://ref.ly/Eccl8:3\">ECC 8:3</a>; <a href=\"https://ref.ly/Hab2:3\">HAB 2:3</a></p>",
@@ -317,7 +317,8 @@
 "label": "8834: unbelief",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "6626",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6626: conversion",
 "media_type": "Text",
-"index_reference": "6626: conversion",
+"index_reference": "6626",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Turning or returning to God in repentance, faith and obedience by those who do not know God or who have turned from him. Although conversion can be seen as a human act or decision, Scripture stresses that the work of God lies behind this human decision, guiding and motivating it.</p>",
@@ -33,7 +33,8 @@
 "label": "6629: conversion, examples of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

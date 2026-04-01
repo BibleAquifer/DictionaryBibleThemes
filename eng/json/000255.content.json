@@ -2,10 +2,10 @@
 {
 "content_id": "3100",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3100: Holy Spirit, titles and descriptions of",
 "media_type": "Text",
-"index_reference": "3100: holy spirit, titles and descriptions of",
+"index_reference": "3100",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"3110\" data-resourcetype=\"DictionaryOfBibleThemes\">3110: Holy Spirit, titles and names of</span></li></ul>",
@@ -19,7 +19,8 @@
 "label": "3110: Holy Spirit, titles and names of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

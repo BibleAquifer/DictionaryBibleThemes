@@ -2,10 +2,10 @@
 {
 "content_id": "4026",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4026: world, as God's creation",
 "media_type": "Text",
-"index_reference": "4026: world, as god's creation",
+"index_reference": "4026",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The heavens and the earth were created by God, and ordered by him and for him.</p>\n<h2>The world was created out of nothing</h2>\n<h3>By the will of God</h3>\n<p><strong><a href=\"https://ref.ly/Gen1:1\">GEN 1:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps96:5\">PSA 96:5</a>, <a href=\"https://ref.ly/Ps102:25\">PSA 102:25</a>, <a href=\"https://ref.ly/Ps148:5\">PSA 148:5</a>; <a href=\"https://ref.ly/Isa40:28\">ISA 40:28</a>; <a href=\"https://ref.ly/Heb11:3\">HEB 11:3</a>; <a href=\"https://ref.ly/Rev4:11\">REV 4:11</a>, <a href=\"https://ref.ly/Rev10:6\">REV 10:6</a></p>\n<h3>By the word of God</h3>\n<p><strong><a href=\"https://ref.ly/John1:1-John1:3\">JHN 1:1–1:3</a></strong> <em>Jesus Christ as the eternal Word is creator of all things.</em> <em>See also</em> <a href=\"https://ref.ly/Gen1:3\">GEN 1:3</a>; <a href=\"https://ref.ly/John1:10\">JHN 1:10</a>; <a href=\"https://ref.ly/1Cor8:6\">1CO 8:6</a>; <a href=\"https://ref.ly/Heb1:2\">HEB 1:2</a>; <a href=\"https://ref.ly/2Pet3:5\">2PE 3:5</a></p>\n<h3>By the Spirit of God</h3>\n<p><strong><a href=\"https://ref.ly/Gen1:2\">GEN 1:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job26:13\">JOB 26:13</a>, <a href=\"https://ref.ly/Job33:4\">JOB 33:4</a>; <a href=\"https://ref.ly/Ps33:6\">PSA 33:6</a></p>\n<h3>By the hand of God</h3>\n<p><strong><a href=\"https://ref.ly/Heb1:10\">HEB 1:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps8:3\">PSA 8:3</a></p>\n<h3>By the mind of God</h3>\n<p><strong><a href=\"https://ref.ly/Ps136:5\">PSA 136:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps104:24\">PSA 104:24</a>; <a href=\"https://ref.ly/Prov3:19-Prov3:20\">PRO 3:19–3:20</a></p>\n<h2>The world God created was perfect</h2>\n<p><strong><a href=\"https://ref.ly/Gen1:31\">GEN 1:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim4:4\">1TI 4:4</a></p>\n<h2>God created the world for a purpose</h2>\n<h3>For his glory</h3>\n<p><strong><a href=\"https://ref.ly/Ps19:1-Ps19:2\">PSA 19:1–19:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps50:6\">PSA 50:6</a>, <a href=\"https://ref.ly/Ps148:1-Ps148:4\">PSA 148:1–148:4</a>; <a href=\"https://ref.ly/Rom1:20\">ROM 1:20</a>, <a href=\"https://ref.ly/Rom11:36\">ROM 11:36</a></p>\n<h3>That people might worship and revere him</h3>\n<p><strong><a href=\"https://ref.ly/Ps147:4-Ps147:5\">PSA 147:4–147:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen15:5\">GEN 15:5</a>; <a href=\"https://ref.ly/Neh9:6\">NEH 9:6</a>; <a href=\"https://ref.ly/Job22:12\">JOB 22:12</a>; <a href=\"https://ref.ly/Isa40:25-Isa40:26\">ISA 40:25–40:26</a>; <a href=\"https://ref.ly/Jer31:35\">JER 31:35</a></p>\n<h3>For his possession and use</h3>\n<p><strong><a href=\"https://ref.ly/Deut10:14\">DEU 10:14</a></strong>; <strong><a href=\"https://ref.ly/Col1:16-Col1:17\">COL 1:16–1:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps24:1-Ps24:2\">PSA 24:1–24:2</a>, <a href=\"https://ref.ly/Ps50:12\">PSA 50:12</a>, <a href=\"https://ref.ly/Ps89:11\">PSA 89:11</a>; <a href=\"https://ref.ly/Acts7:49\">ACT 7:49</a> <em>God reigns within the world he has made.</em></p>",
@@ -349,7 +349,8 @@
 "label": "8355: understanding",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

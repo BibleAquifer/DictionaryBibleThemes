@@ -2,10 +2,10 @@
 {
 "content_id": "7355",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7355: feasts and festivals, nature of",
 "media_type": "Text",
-"index_reference": "7355: feasts and festivals, nature of",
+"index_reference": "7355",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Israel's feasts and festivals were to be times of religious and community celebration. Ordained by God, they were to be the outward expression of a right spirital attitude.</p>\n<h2>Feasts and festivals were appointed by God</h2>\n<p><strong><a href=\"https://ref.ly/Exod5:1\">EXO 5:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod10:9\">EXO 10:9</a>; <a href=\"https://ref.ly/Hos9:5\">HOS 9:5</a></p>\n<h2>Israel's three annual festivals</h2>\n<h3>The three pilgrim festivals</h3>\n<p><strong><a href=\"https://ref.ly/Exod23:14-Exod23:19\">EXO 23:14–23:19</a></strong>; <strong><a href=\"https://ref.ly/2Chr8:12-2Chr8:13\">2CH 8:12–8:13</a></strong> <a href=\"https://ref.ly/Exod12:14\">EXO 12:14</a>; ; <a href=\"https://ref.ly/Num28:17\">NUM 28:17</a>; <a href=\"https://ref.ly/Lev23:15-Lev23:21\">LEV 23:15–23:21</a>; ; <a href=\"https://ref.ly/Num28:26\">NUM 28:26</a>; <a href=\"https://ref.ly/Lev23:39-Lev23:41\">LEV 23:39–23:41</a>; ; <a href=\"https://ref.ly/Num29:12\">NUM 29:12</a>; ; <a href=\"https://ref.ly/Judg21:19\">JDG 21:19</a>; ; <a href=\"https://ref.ly/1Kgs8:65\">1KI 8:65</a> parallel <a href=\"https://ref.ly/2Chr7:8\">2CH 7:8</a></p>\n<h3>They were a joyful response to God's blessings</h3>\n<p><strong><a href=\"https://ref.ly/Zech8:19\">ZEC 8:19</a></strong> <em>Contrasting with fasts.</em> <em>See also</em> <a href=\"https://ref.ly/Nah1:15\">NAM 1:15</a></p>\n<h3>They were celebrated with sacrifices and offerings</h3>\n<p><a href=\"https://ref.ly/Num29:39\">NUM 29:39</a>; ; <a href=\"https://ref.ly/Ezek46:11\">EZK 46:11</a></p>\n<h2>Israel's other festivals</h2>\n<p>New Moon festivals:\n <a href=\"https://ref.ly/Num10:10\">NUM 10:10</a>; ; <a href=\"https://ref.ly/1Sam20:18\">1SA 20:18</a>; ; <a href=\"https://ref.ly/1Chr23:31\">1CH 23:31</a>; ; <a href=\"https://ref.ly/Hos2:11\">HOS 2:11</a>; <a href=\"https://ref.ly/Exod32:5\">EXO 32:5</a>; ; <a href=\"https://ref.ly/1Kgs12:32-1Kgs12:33\">1KI 12:32–12:33</a></p>\n<h2>Festivals should be the outward expression of a right spiritual attitude</h2>\n<p><a href=\"https://ref.ly/Isa1:14\">ISA 1:14</a>, <a href=\"https://ref.ly/Isa29:1\">ISA 29:1</a>; ; <a href=\"https://ref.ly/Hos5:7\">HOS 5:7</a>; ; <a href=\"https://ref.ly/Mal2:3\">MAL 2:3</a>; ; <a href=\"https://ref.ly/1Cor5:8\">1CO 5:8</a></p>\n<h2>OT festivals find their fulfilment in Jesus Christ</h2>\n<p><a href=\"https://ref.ly/Col2:16-Col2:17\">COL 2:16–2:17</a></p>",
@@ -262,6 +262,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8768: idolatry",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Nepheg.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nepheg"
+},
+{
+"id": "person:Nepheg",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nepheg"
 }
 ]
 }

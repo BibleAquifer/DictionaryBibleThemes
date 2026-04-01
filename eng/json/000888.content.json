@@ -2,10 +2,10 @@
 {
 "content_id": "5301",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5301: dyeing",
 "media_type": "Text",
-"index_reference": "5301: dyeing",
+"index_reference": "5301",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Dyeing cloth or animal skin</h2>\n<p><strong><a href=\"https://ref.ly/Exod26:14\">EXO 26:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod25:5\">EXO 25:5</a>, <a href=\"https://ref.ly/Exod35:7\">EXO 35:7</a>, <a href=\"https://ref.ly/Exod35:23\">EXO 35:23</a>, <a href=\"https://ref.ly/Exod36:19\">EXO 36:19</a>, <a href=\"https://ref.ly/Exod39:34\">EXO 39:34</a></p>",
@@ -70,7 +70,8 @@
 "label": "5258: cloth",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

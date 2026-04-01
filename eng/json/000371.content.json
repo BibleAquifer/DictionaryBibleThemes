@@ -2,10 +2,10 @@
 {
 "content_id": "4245",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4245: hills",
 "media_type": "Text",
-"index_reference": "4245: hills",
+"index_reference": "4245",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The promised land was a place of hills</h2>\n<h3>The high ground to the east of Jordan</h3>\n<p><strong><a href=\"https://ref.ly/Deut3:12\">DEU 3:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen31:21\">GEN 31:21</a></p>\n<h3>The high ground of Judah in the south</h3>\n<p><strong><a href=\"https://ref.ly/Josh11:21\">JOS 11:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh12:8\">JOS 12:8</a>; <a href=\"https://ref.ly/Luke1:39\">LUK 1:39</a></p>\n<h3>The high ground of Judah includes Jerusalem</h3>\n<p><strong><a href=\"https://ref.ly/Joel3:17\">JOL 3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps2:6\">PSA 2:6</a>; <a href=\"https://ref.ly/Isa10:32\">ISA 10:32</a>; <a href=\"https://ref.ly/Dan9:16\">DAN 9:16</a></p>\n<h3>The high ground to the north</h3>\n<p><strong><a href=\"https://ref.ly/Judg3:27\">JDG 3:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh20:7\">JOS 20:7</a>; <a href=\"https://ref.ly/2Kgs5:22\">2KI 5:22</a></p>\n<h2>Topics associated with hills</h2>\n<h3>Plenty</h3>\n<p><strong><a href=\"https://ref.ly/Joel3:18\">JOL 3:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut8:7-Deut8:9\">DEU 8:7–8:9</a>; <a href=\"https://ref.ly/Ps50:10\">PSA 50:10</a>, <a href=\"https://ref.ly/Ps72:3\">PSA 72:3</a>, <a href=\"https://ref.ly/Ps72:16\">PSA 72:16</a>; <a href=\"https://ref.ly/Isa7:25\">ISA 7:25</a>; <a href=\"https://ref.ly/Amos9:13\">AMO 9:13</a></p>\n<h3>Age</h3>\n<p><strong><a href=\"https://ref.ly/Job15:7\">JOB 15:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:26\">GEN 49:26</a>; <a href=\"https://ref.ly/Deut33:15\">DEU 33:15</a>; <a href=\"https://ref.ly/Prov8:25\">PRO 8:25</a>; <a href=\"https://ref.ly/Hab3:6\">HAB 3:6</a></p>\n<h3>Hiding</h3>\n<p><a href=\"https://ref.ly/Josh2:16\">JOS 2:16</a>; ; <a href=\"https://ref.ly/1Sam23:14\">1SA 23:14</a></p>\n<h3>Grazing</h3>\n<p><a href=\"https://ref.ly/1Kgs22:17\">1KI 22:17</a>; ; <a href=\"https://ref.ly/Jer33:13\">JER 33:13</a>; ; <a href=\"https://ref.ly/Ezek34:6\">EZK 34:6</a>; ; <a href=\"https://ref.ly/Matt18:12\">MAT 18:12</a></p>\n<h3>Idolatrous worship</h3>\n<p><strong><a href=\"https://ref.ly/Deut12:2\">DEU 12:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs11:7\">1KI 11:7</a>, <a href=\"https://ref.ly/1Kgs14:23\">1KI 14:23</a>; <a href=\"https://ref.ly/2Kgs17:10\">2KI 17:10</a>, <a href=\"https://ref.ly/2Kgs23:13\">2KI 23:13</a>; <a href=\"https://ref.ly/Jer13:27\">JER 13:27</a>; <a href=\"https://ref.ly/Hos4:13\">HOS 4:13</a></p>\n<h2>Hills used metaphorically</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:14\">MAT 5:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps114:4\">PSA 114:4</a>; <a href=\"https://ref.ly/Isa40:12\">ISA 40:12</a>, <a href=\"https://ref.ly/Isa55:12\">ISA 55:12</a></p>",
@@ -328,6 +328,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8769: idolatry, in OT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Bilshan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bilshan"
 }
 ]
 }

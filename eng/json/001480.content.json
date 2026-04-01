@@ -2,10 +2,10 @@
 {
 "content_id": "5968",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5968: timidity",
 "media_type": "Text",
-"index_reference": "5968: timidity",
+"index_reference": "5968",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>People who were timid in accepting God's call</h2>\n<h3>Moses</h3>\n<p><a href=\"https://ref.ly/Exod3:11-Exod3:14\">EXO 3:11–3:14</a>, <a href=\"https://ref.ly/Exod4:1-Exod4:3\">EXO 4:1–4:3</a>, <a href=\"https://ref.ly/Exod4:10-Exod4:15\">EXO 4:10–4:15</a>, <a href=\"https://ref.ly/Exod6:12\">EXO 6:12</a>, <a href=\"https://ref.ly/Exod6:30\">EXO 6:30</a></p>\n<h3>Gideon</h3>\n<p><a href=\"https://ref.ly/Judg6:14-Judg6:15\">JDG 6:14–6:15</a>, <a href=\"https://ref.ly/Judg6:36-Judg6:40\">JDG 6:36–6:40</a></p>\n<h3>Saul</h3>\n<p><a href=\"https://ref.ly/1Sam9:21\">1SA 9:21</a>, <a href=\"https://ref.ly/1Sam15:17\">1SA 15:17</a></p>\n<h3>David</h3>\n<p><a href=\"https://ref.ly/1Sam18:18\">1SA 18:18</a></p>\n<h3>Jeremiah</h3>\n<p><a href=\"https://ref.ly/Jer1:6\">JER 1:6</a></p>\n<h2>Timothy's timidity</h2>\n<p><strong><a href=\"https://ref.ly/2Tim1:7\">2TI 1:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor16:10-1Cor16:11\">1CO 16:10–16:11</a></p>\n<h2>Paul's gentleness misunderstood as timidity</h2>\n<p><a href=\"https://ref.ly/2Cor10:1\">2CO 10:1</a></p>\n<h2>Christians are to encourage the timid</h2>\n<p><strong><a href=\"https://ref.ly/1Thess5:14\">1TH 5:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:15\">ROM 8:15</a>; <a href=\"https://ref.ly/2Tim1:7\">2TI 1:7</a></p>",
@@ -193,7 +193,8 @@
 "label": "8754: fear",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

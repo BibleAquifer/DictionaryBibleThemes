@@ -2,10 +2,10 @@
 {
 "content_id": "6716",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6716: reconciliation",
 "media_type": "Text",
-"index_reference": "6716: reconciliation",
+"index_reference": "6716",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The restoration of fellowship between God and humanity and the resulting restoration of human relationships. The NT affirms that the reconciliation of the world to God is only possible on the basis of the work of Jesus Christ.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6718: reconciliation, between believers",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Lehabim",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lehabim"
 }
 ]
 }

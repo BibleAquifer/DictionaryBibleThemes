@@ -2,10 +2,10 @@
 {
 "content_id": "5721",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5721: mothers, as a symbol",
 "media_type": "Text",
-"index_reference": "5721: mothers, as a symbol",
+"index_reference": "5721",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Motherhood is used in Scripture to illustrate the relationship between God and his people, to describe certain aspects of Israel and also to explain the difference between the two covenants.</p>\n<h2>God's tender care for his children is like a mother's</h2>\n<h3>God's care like that of a mother bird</h3>\n<p><a href=\"https://ref.ly/Deut32:11\">DEU 32:11</a>; ; <a href=\"https://ref.ly/Matt23:37\">MAT 23:37</a> parallel <a href=\"https://ref.ly/Luke13:34\">LUK 13:34</a></p>\n<h3>God never forgets his children</h3>\n<p><strong><a href=\"https://ref.ly/Isa49:15\">ISA 49:15</a></strong></p>\n<h3>Becoming a Christian is like birth</h3>\n<p><strong><a href=\"https://ref.ly/John3:5-John3:6\">JHN 3:5–3:6</a></strong></p>\n<h3>The believer trusts God as a weaned child trusts his or her mother</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Ps131:1-Ps131:2\">PSA 131:1–131:2</a>; <a href=\"https://ref.ly/Isa66:13\">ISA 66:13</a></p>\n<h2>Israel pictured as a mother</h2>\n<p><strong><a href=\"https://ref.ly/Ezek16:44-Ezek16:45\">EZK 16:44–16:45</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa50:1\">ISA 50:1</a>, <a href=\"https://ref.ly/Isa54:1\">ISA 54:1</a>, <a href=\"https://ref.ly/Isa66:7-Isa66:13\">ISA 66:7–66:13</a>; <a href=\"https://ref.ly/Ezek16:3\">EZK 16:3</a>, <a href=\"https://ref.ly/Ezek19:2\">EZK 19:2</a>, <a href=\"https://ref.ly/Ezek19:10\">EZK 19:10</a>; <a href=\"https://ref.ly/Hos2:2-Hos2:13\">HOS 2:2–2:13</a></p>\n<h2>Mothers as symbols of the old and new covenants</h2>\n<p><a href=\"https://ref.ly/Gal4:21-Gal4:28\">GAL 4:21–4:28</a></p>",
@@ -157,6 +157,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8031: trust, importance of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Havvoth-jair",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Havvoth-jair"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5146",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5146: covering",
 "media_type": "Text",
-"index_reference": "5146: covering",
+"index_reference": "5146",
 "language": "eng",
 "review_level": "None",
 "content": "<p>That which literally or metaphorically hides from the human or divine eye what should not be seen.</p>\n<h2>Covering for the human body</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:7\">GEN 3:7</a></strong>; <strong><a href=\"https://ref.ly/Ezek16:8\">EZK 16:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen9:23\">GEN 9:23</a>; <a href=\"https://ref.ly/Exod22:26-Exod22:27\">EXO 22:26–22:27</a>, <a href=\"https://ref.ly/Exod28:42\">EXO 28:42</a>; <a href=\"https://ref.ly/Isa47:3\">ISA 47:3</a>, <a href=\"https://ref.ly/Isa57:8\">ISA 57:8</a>; <a href=\"https://ref.ly/Ezek16:10\">EZK 16:10</a>; <a href=\"https://ref.ly/Hos2:9\">HOS 2:9</a>; <a href=\"https://ref.ly/Jonah3:6\">JON 3:6</a>; <a href=\"https://ref.ly/Rev3:18\">REV 3:18</a></p>\n<h2>Covering as a sign of submission or humility</h2>\n<p><strong><a href=\"https://ref.ly/Isa6:2\">ISA 6:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen24:65\">GEN 24:65</a>; <a href=\"https://ref.ly/1Cor11:5-1Cor11:15\">1CO 11:5–11:15</a> <em>Some suggest that this passage refers either to a woman's modesty or to her dignity considering her new Christian status of equality with man.</em></p>\n<h2>The covering of human sin through atonement</h2>\n<p><strong><a href=\"https://ref.ly/Ps32:1-Ps32:2\">PSA 32:1–32:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen20:16\">GEN 20:16</a>; <a href=\"https://ref.ly/Lev4:20\">LEV 4:20</a> <em>The word translated “atonement” literally means “covering”</em>; <a href=\"https://ref.ly/Neh4:5\">NEH 4:5</a>; <a href=\"https://ref.ly/Job14:17\">JOB 14:17</a>; <a href=\"https://ref.ly/Ps32:5\">PSA 32:5</a>, <a href=\"https://ref.ly/Ps85:2\">PSA 85:2</a>; <a href=\"https://ref.ly/Prov17:9\">PRO 17:9</a>; <a href=\"https://ref.ly/Rom4:7-Rom4:8\">ROM 4:7–4:8</a>; <a href=\"https://ref.ly/Jas5:20\">JAS 5:20</a>; <a href=\"https://ref.ly/1Pet4:8\">1PE 4:8</a></p>\n<h2>Natural phenomena as God's covering</h2>\n<p><strong><a href=\"https://ref.ly/Ps18:11\">PSA 18:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod19:18\">EXO 19:18</a>; <a href=\"https://ref.ly/Num9:15-Num9:16\">NUM 9:15–9:16</a>; <a href=\"https://ref.ly/Ps105:39\">PSA 105:39</a></p>",
@@ -235,6 +235,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6614: atonement",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ish-bosheth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ish-bosheth"
 }
 ]
 }

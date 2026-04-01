@@ -2,10 +2,10 @@
 {
 "content_id": "8644",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8644: commemoration",
 "media_type": "Text",
-"index_reference": "8644: commemoration",
+"index_reference": "8644",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The act of remembering particular people, places or events in order to reflect on and be thankful for God's faithfulness.</p>\n<h2>Commemoration of people</h2>\n<p><strong><a href=\"https://ref.ly/2Chr35:25-2Chr35:27\">2CH 35:25–35:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg11:28-Judg11:40\">JDG 11:28–11:40</a>; <a href=\"https://ref.ly/1Kgs11:41\">1KI 11:41</a> parallel <a href=\"https://ref.ly/2Chr9:29\">2CH 9:29</a></p>\n<h3>Commemoration of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Luke22:19\">LUK 22:19</a></strong>; <strong><a href=\"https://ref.ly/1Cor11:23-1Cor11:26\">1CO 11:23–11:26</a></strong></p>\n<h2>Commemoration of places</h2>\n<p><strong><a href=\"https://ref.ly/Gen35:1\">GEN 35:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh4:19-Josh4:24\">JOS 4:19–4:24</a>; <a href=\"https://ref.ly/Judg6:24\">JDG 6:24</a>; <a href=\"https://ref.ly/2Sam24:18\">2SA 24:18</a></p>\n<h2>Commemoration of events</h2>\n<h3>Commemoration of God's creation of the world</h3>\n<p><strong><a href=\"https://ref.ly/Exod20:8-Exod20:11\">EXO 20:8–20:11</a></strong> parallel <a href=\"https://ref.ly/Deut5:12-Deut5:15\">DEU 5:12–5:15</a> <em>See also</em> <a href=\"https://ref.ly/Exod31:12-Exod31:17\">EXO 31:12–31:17</a></p>\n<h3>Commemoration of God's acts in history</h3>\n<p><strong><a href=\"https://ref.ly/Exod12:14-Exod12:17\">EXO 12:14–12:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod13:1-Exod13:10\">EXO 13:1–13:10</a>; <a href=\"https://ref.ly/Ps9:1-Ps9:6\">PSA 9:1–9:6</a>, <a href=\"https://ref.ly/Ps126:1-Ps126:3\">PSA 126:1–126:3</a></p>\n<h3>Commemoration of God's provision of food</h3>\n<p><strong><a href=\"https://ref.ly/Lev23:9-Lev23:14\">LEV 23:9–23:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev23:15-Lev23:22\">LEV 23:15–23:22</a> parallels <a href=\"https://ref.ly/Num28:26-Num28:31\">NUM 28:26–28:31</a>, <a href=\"https://ref.ly/Deut16:9-Deut16:12\">DEU 16:9–16:12</a>; <a href=\"https://ref.ly/Lev23:33-Lev23:43\">LEV 23:33–23:43</a> parallels <a href=\"https://ref.ly/Num29:12-Num29:39\">NUM 29:12–29:39</a>, <a href=\"https://ref.ly/Deut16:13-Deut16:17\">DEU 16:13–16:17</a></p>",
@@ -227,7 +227,8 @@
 "label": "8670: remembering",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

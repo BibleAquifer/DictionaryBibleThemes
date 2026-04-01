@@ -2,10 +2,10 @@
 {
 "content_id": "4937",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4937: fate, and fatalism",
 "media_type": "Text",
-"index_reference": "4937: fate, and fatalism",
+"index_reference": "4937",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The belief that all things are predetermined, especially by the stars, removing human freedom and responsibility. Scripture affirms human freedom and responsibility and declares that the sun, moon and stars are all part of God's creation and are subject to him.</p>\n<h2>The heavenly bodies subject to God's authority</h2>\n<h3>The heavenly bodies are created by God</h3>\n<p><a href=\"https://ref.ly/Gen1:14-Gen1:18\">GEN 1:14–1:18</a>; ; <a href=\"https://ref.ly/Job9:9\">JOB 9:9</a>; ; <a href=\"https://ref.ly/Ps8:3\">PSA 8:3</a>, <a href=\"https://ref.ly/Ps74:16\">PSA 74:16</a>, <a href=\"https://ref.ly/Ps148:3-Ps148:5\">PSA 148:3–148:5</a>; ; <a href=\"https://ref.ly/Amos5:8\">AMO 5:8</a></p>\n<h3>The heavenly bodies are subject to the rule and providence of God</h3>\n<p><strong><a href=\"https://ref.ly/Isa40:26\">ISA 40:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job38:31-Job38:32\">JOB 38:31–38:32</a>; <a href=\"https://ref.ly/Ps104:19\">PSA 104:19</a>; <a href=\"https://ref.ly/Jer31:35\">JER 31:35</a>; <a href=\"https://ref.ly/Matt5:45\">MAT 5:45</a></p>\n<h2>The biblical rejection of fatalism in human choice</h2>\n<h3>Human beings are free to choose between right and wrong</h3>\n<p><strong><a href=\"https://ref.ly/Deut11:26-Deut11:28\">DEU 11:26–11:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut30:15-Deut30:19\">DEU 30:15–30:19</a>; <a href=\"https://ref.ly/Ezek18:21-Ezek18:23\">EZK 18:21–18:23</a></p>\n<h3>Human beings are free to call upon the name of the Lord</h3>\n<p><a href=\"https://ref.ly/Joel2:32\">JOL 2:32</a>; ; <a href=\"https://ref.ly/Acts2:21\">ACT 2:21</a>; ; <a href=\"https://ref.ly/Rom10:11-Rom10:13\">ROM 10:11–10:13</a></p>\n<h3>Human beings are free to seek the Lord</h3>\n<p><a href=\"https://ref.ly/1Chr28:9\">1CH 28:9</a>; ; <a href=\"https://ref.ly/Isa55:6\">ISA 55:6</a></p>\n<h3>Human beings are free to come to the Lord</h3>\n<p><strong><a href=\"https://ref.ly/Rev22:17\">REV 22:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt11:28\">MAT 11:28</a></p>",
@@ -216,7 +216,8 @@
 "label": "8709: astrology",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

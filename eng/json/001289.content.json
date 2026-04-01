@@ -2,10 +2,10 @@
 {
 "content_id": "5764",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5764: attitudes, negative to God",
 "media_type": "Text",
-"index_reference": "5764: attitudes, negative to god",
+"index_reference": "5764",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture identifies a range of negative attitudes towards God, which believers are encouraged to avoid.</p>\n<h2>Rejection</h2>\n<p><strong><a href=\"https://ref.ly/Isa53:3\">ISA 53:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev26:15-Lev26:16\">LEV 26:15–26:16</a>; <a href=\"https://ref.ly/1Sam8:7\">1SA 8:7</a>; <a href=\"https://ref.ly/Ezek5:6\">EZK 5:6</a>, <a href=\"https://ref.ly/Ezek20:15-Ezek20:16\">EZK 20:15–20:16</a>; <a href=\"https://ref.ly/John1:11\">JHN 1:11</a></p>\n<h2>Lack of faith</h2>\n<p><strong><a href=\"https://ref.ly/Mark4:40\">MRK 4:40</a></strong> parallels <a href=\"https://ref.ly/Matt8:26\">MAT 8:26</a>, <a href=\"https://ref.ly/Luke8:25\">LUK 8:25</a> <em>See also</em> <a href=\"https://ref.ly/Matt13:58\">MAT 13:58</a> parallel <a href=\"https://ref.ly/Mark6:6\">MRK 6:6</a></p>\n<h2>Pride</h2>\n<p><strong><a href=\"https://ref.ly/Deut8:14\">DEU 8:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev26:19\">LEV 26:19</a>; <a href=\"https://ref.ly/Luke1:51\">LUK 1:51</a>; <a href=\"https://ref.ly/Jas4:6\">JAS 4:6</a>; <a href=\"https://ref.ly/1Pet5:5\">1PE 5:5</a>; <a href=\"https://ref.ly/Prov3:34\">PRO 3:34</a></p>\n<h2>Stubbornness</h2>\n<p><strong><a href=\"https://ref.ly/Jer5:23\">JER 5:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps78:8\">PSA 78:8</a>; <a href=\"https://ref.ly/Isa48:4\">ISA 48:4</a>; <a href=\"https://ref.ly/Mark3:5\">MRK 3:5</a>, <a href=\"https://ref.ly/Mark16:14\">MRK 16:14</a>; <a href=\"https://ref.ly/Rom2:5\">ROM 2:5</a></p>\n<h2>Rebellion</h2>\n<p><strong><a href=\"https://ref.ly/Ps78:40\">PSA 78:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut1:26\">DEU 1:26</a>; <a href=\"https://ref.ly/Isa1:2\">ISA 1:2</a>; <a href=\"https://ref.ly/Jer2:29\">JER 2:29</a>; <a href=\"https://ref.ly/Ezek2:3\">EZK 2:3</a>; <a href=\"https://ref.ly/Hos7:13\">HOS 7:13</a>; <a href=\"https://ref.ly/Titus1:10\">TIT 1:10</a>; <a href=\"https://ref.ly/Heb3:16\">HEB 3:16</a></p>\n<h2>Hostility</h2>\n<p><strong><a href=\"https://ref.ly/Rom8:7\">ROM 8:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev26:21\">LEV 26:21</a>, <a href=\"https://ref.ly/Lev26:23-Lev26:24\">LEV 26:23–26:24</a>, <a href=\"https://ref.ly/Lev26:27-Lev26:28\">LEV 26:27–26:28</a>; <a href=\"https://ref.ly/Hos9:7\">HOS 9:7</a></p>",
@@ -312,6 +312,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8834: unbelief",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hegai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hegai"
 }
 ]
 }

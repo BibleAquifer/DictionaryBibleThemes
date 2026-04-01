@@ -2,10 +2,10 @@
 {
 "content_id": "5273",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5273: creativity",
 "media_type": "Text",
-"index_reference": "5273: creativity",
+"index_reference": "5273",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Imagination and skill used in the expression of visual or performing arts. Human creativity has its source in God, but may be used either to his honour or dishonour.</p>\n<h2>God's creativity</h2>\n<p><strong><a href=\"https://ref.ly/Isa64:8\">ISA 64:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job38:1-Job38:41\">JOB 38:1–38:41</a>; <a href=\"https://ref.ly/Ps139:13-Ps139:16\">PSA 139:13–139:16</a>; <a href=\"https://ref.ly/Eccl3:11\">ECC 3:11</a>; <a href=\"https://ref.ly/Isa45:7-Isa45:12\">ISA 45:7–45:12</a>, <a href=\"https://ref.ly/Isa45:18\">ISA 45:18</a>; <a href=\"https://ref.ly/Eph2:10\">EPH 2:10</a> <em>Redemption may be described in terms of re-creation.</em></p>\n<h2>God is the source of human creativity</h2>\n<p><strong><a href=\"https://ref.ly/Exod35:30-Exod35:35\">EXO 35:30–35:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod31:1-Exod31:6\">EXO 31:1–31:6</a>, <a href=\"https://ref.ly/Exod36:1-Exod36:2\">EXO 36:1–36:2</a></p>\n<h2>Creativity for its own sake</h2>\n<p><a href=\"https://ref.ly/Eccl2:4-Eccl2:6\">ECC 2:4–2:6</a></p>\n<h2>Creativity used in the service of God</h2>\n<h3>Building the tabernacle and temple</h3>\n<p><strong><a href=\"https://ref.ly/Exod36:8\">EXO 36:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr22:15-1Chr22:16\">1CH 22:15–22:16</a>; <a href=\"https://ref.ly/2Chr2:5-2Chr2:7\">2CH 2:5–2:7</a>, <a href=\"https://ref.ly/2Chr2:13-2Chr2:14\">2CH 2:13–2:14</a></p>\n<h3>Music and dancing</h3>\n<p><strong><a href=\"https://ref.ly/Ps149:3\">PSA 149:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr6:31-1Chr6:32\">1CH 6:31–6:32</a>, <a href=\"https://ref.ly/1Chr25:1-1Chr25:7\">1CH 25:1–25:7</a>; <a href=\"https://ref.ly/Ps92:1-Ps92:3\">PSA 92:1–92:3</a>, <a href=\"https://ref.ly/Ps98:5\">PSA 98:5</a>, <a href=\"https://ref.ly/Ps144:9\">PSA 144:9</a></p>\n<h2>The abuse of human creativity</h2>\n<p><strong><a href=\"https://ref.ly/Hab2:18\">HAB 2:18</a></strong> <em>Human creativity, like all of God's gifts, can be abused by sinful human beings, and used to dishonour him rather than serve him.</em> <em>See also</em> <a href=\"https://ref.ly/Deut27:15\">DEU 27:15</a>; <a href=\"https://ref.ly/2Kgs19:18\">2KI 19:18</a>; <a href=\"https://ref.ly/Isa40:19-Isa40:20\">ISA 40:19–40:20</a>, <a href=\"https://ref.ly/Isa44:10-Isa44:13\">ISA 44:10–44:13</a>; <a href=\"https://ref.ly/Acts19:23-Acts19:26\">ACT 19:23–19:26</a></p>",
@@ -238,7 +238,8 @@
 "label": "6184: imagination",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

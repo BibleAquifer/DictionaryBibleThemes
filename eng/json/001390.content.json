@@ -2,10 +2,10 @@
 {
 "content_id": "5871",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5871: greed, believers' response to",
 "media_type": "Text",
-"index_reference": "5871: greed, believers' response to",
+"index_reference": "5871",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Greed should have no place in the lives of God's people.</p>\n<h2>The righteous are not to be greedy</h2>\n<p><strong><a href=\"https://ref.ly/Prov28:6\">PRO 28:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:17\">EXO 20:17</a> parallel <a href=\"https://ref.ly/Deut5:21\">DEU 5:21</a>; <a href=\"https://ref.ly/Prov11:28\">PRO 11:28</a>, <a href=\"https://ref.ly/Prov22:1\">PRO 22:1</a>, <a href=\"https://ref.ly/Prov23:4\">PRO 23:4</a>; <a href=\"https://ref.ly/Ezek18:8\">EZK 18:8</a>, <a href=\"https://ref.ly/Ezek18:17\">EZK 18:17</a>; <a href=\"https://ref.ly/Rom13:9\">ROM 13:9</a></p>\n<h2>The Christian leader is not to be greedy</h2>\n<p><strong><a href=\"https://ref.ly/1Tim3:2-1Tim3:3\">1TI 3:2–3:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Titus1:7\">TIT 1:7</a>; <a href=\"https://ref.ly/1Pet5:2\">1PE 5:2</a></p>\n<h3>The example of Paul</h3>\n<p><strong><a href=\"https://ref.ly/Acts20:33\">ACT 20:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Thess2:5\">1TH 2:5</a></p>\n<h2>The antidotes to greed</h2>\n<h3>Greed must be repented of</h3>\n<p><strong><a href=\"https://ref.ly/Luke3:14\">LUK 3:14</a></strong> <em>John the Baptist counselling soldiers on how they must express their repentance.</em></p>\n<h3>The need to be on guard against greed</h3>\n<p><strong><a href=\"https://ref.ly/Ps62:10\">PSA 62:10</a></strong>; <strong><a href=\"https://ref.ly/Luke12:15\">LUK 12:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke12:16-Luke12:21\">LUK 12:16–12:21</a></p>\n<h3>The need to be separate from greed and from the greedy</h3>\n<p><strong><a href=\"https://ref.ly/1Cor5:11\">1CO 5:11</a></strong>; <strong><a href=\"https://ref.ly/Col3:5\">COL 3:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job36:18\">JOB 36:18</a>; <a href=\"https://ref.ly/Eph5:3\">EPH 5:3</a></p>\n<h3>The need to be content</h3>\n<p><strong><a href=\"https://ref.ly/Heb13:5\">HEB 13:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil4:11-Phil4:13\">PHP 4:11–4:13</a>; <a href=\"https://ref.ly/1Tim6:3-1Tim6:10\">1TI 6:3–6:10</a></p>\n<h3>The need to seek God, not gain</h3>\n<p><strong><a href=\"https://ref.ly/1Tim6:17-1Tim6:18\">1TI 6:17–6:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs3:11-1Kgs3:14\">1KI 3:11–3:14</a>; <a href=\"https://ref.ly/Ps119:14\">PSA 119:14</a>; <a href=\"https://ref.ly/Jer9:23-Jer9:24\">JER 9:23–9:24</a></p>",
@@ -214,6 +214,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8808: riches",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hodesh",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hodesh"
 }
 ]
 }

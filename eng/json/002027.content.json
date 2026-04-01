@@ -2,10 +2,10 @@
 {
 "content_id": "8140",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8140: prize",
 "media_type": "Text",
-"index_reference": "8140: prize",
+"index_reference": "8140",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Something of value given to those competing in a race, which the Christian life is likened to. Though believers must accept discipline and training, a prize is reserved for everyone who is committed to Jesus Christ.</p>\n<h2>A prize is reserved for all believers</h2>\n<p><strong><a href=\"https://ref.ly/2Tim4:7-2Tim4:8\">2TI 4:7–4:8</a></strong> <em>The crown is the wreath given to the winner of a race.</em> <em>See also</em> <a href=\"https://ref.ly/Jas1:12\">JAS 1:12</a>; <a href=\"https://ref.ly/1Pet5:4\">1PE 5:4</a></p>\n<h2>Requirements for winning the prize</h2>\n<h3>Total dedication to God</h3>\n<p><strong><a href=\"https://ref.ly/Acts20:24\">ACT 20:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil3:7-Phil3:8\">PHP 3:7–3:8</a></p>\n<h3>Perseverance</h3>\n<p><strong><a href=\"https://ref.ly/Phil3:14\">PHP 3:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil2:16\">PHP 2:16</a>; <a href=\"https://ref.ly/Heb12:1\">HEB 12:1</a>; <a href=\"https://ref.ly/Rev2:10\">REV 2:10</a>, <a href=\"https://ref.ly/Rev3:11\">REV 3:11</a></p>\n<h3>Keeping God's rules</h3>\n<p><strong><a href=\"https://ref.ly/2Tim2:5\">2TI 2:5</a></strong></p>\n<h3>Self-discipline</h3>\n<p><strong><a href=\"https://ref.ly/1Cor9:25-1Cor9:27\">1CO 9:25–9:27</a></strong></p>\n<h2>Hindrances to winning the prize</h2>\n<h3>Falling into sin</h3>\n<p><strong><a href=\"https://ref.ly/Heb12:1\">HEB 12:1</a></strong></p>\n<h3>Following false teaching</h3>\n<p><strong><a href=\"https://ref.ly/Gal5:7\">GAL 5:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal2:2\">GAL 2:2</a>; <a href=\"https://ref.ly/Col2:18\">COL 2:18</a></p>",
@@ -186,6 +186,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9413: heaven, inheritance of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Sarah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sarah"
 }
 ]
 }

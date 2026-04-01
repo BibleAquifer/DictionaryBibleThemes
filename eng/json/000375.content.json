@@ -2,10 +2,10 @@
 {
 "content_id": "4257",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4257: pit",
 "media_type": "Text",
-"index_reference": "4257: pit",
+"index_reference": "4257",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>A hole in the ground</h2>\n<p><strong><a href=\"https://ref.ly/Matt15:14\">MAT 15:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod21:33-Exod21:34\">EXO 21:33–21:34</a>; <a href=\"https://ref.ly/2Sam18:17\">2SA 18:17</a>, <a href=\"https://ref.ly/2Sam23:20\">2SA 23:20</a>; <a href=\"https://ref.ly/Matt12:11\">MAT 12:11</a>; <a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a>; <a href=\"https://ref.ly/Luke6:39\">LUK 6:39</a></p>\n<h2>A pit used as a trap</h2>\n<p><strong><a href=\"https://ref.ly/Ps35:7-Ps35:8\">PSA 35:7–35:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps7:15\">PSA 7:15</a>, <a href=\"https://ref.ly/Ps9:15\">PSA 9:15</a>, <a href=\"https://ref.ly/Ps57:6\">PSA 57:6</a>, <a href=\"https://ref.ly/Ps94:13\">PSA 94:13</a>; <a href=\"https://ref.ly/Prov26:27\">PRO 26:27</a>; <a href=\"https://ref.ly/Eccl10:8\">ECC 10:8</a>; <a href=\"https://ref.ly/Isa24:17-Isa24:18\">ISA 24:17–24:18</a>; <a href=\"https://ref.ly/Jer18:20-Jer18:22\">JER 18:20–18:22</a>, <a href=\"https://ref.ly/Jer48:43-Jer48:44\">JER 48:43–48:44</a>; <a href=\"https://ref.ly/Ezek19:4\">EZK 19:4</a>, <a href=\"https://ref.ly/Ezek19:8\">EZK 19:8</a></p>\n<h2>A pit as a symbol of distress or grief</h2>\n<p><strong><a href=\"https://ref.ly/Ps40:2\">PSA 40:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job9:30-Job9:31\">JOB 9:30–9:31</a>; <a href=\"https://ref.ly/Ps88:6\">PSA 88:6</a>; <a href=\"https://ref.ly/Prov22:14\">PRO 22:14</a>, <a href=\"https://ref.ly/Prov23:27\">PRO 23:27</a>; <a href=\"https://ref.ly/Lam3:53-Lam3:55\">LAM 3:53–3:55</a>; <a href=\"https://ref.ly/Zech9:11\">ZEC 9:11</a></p>\n<h2>The pit as a term for the grave</h2>\n<p><strong><a href=\"https://ref.ly/Isa14:15\">ISA 14:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job33:18\">JOB 33:18</a>, <a href=\"https://ref.ly/Job33:22\">JOB 33:22</a>, <a href=\"https://ref.ly/Job33:24\">JOB 33:24</a>, <a href=\"https://ref.ly/Job33:28\">JOB 33:28</a>, <a href=\"https://ref.ly/Job33:30\">JOB 33:30</a>; <a href=\"https://ref.ly/Ps28:1\">PSA 28:1</a>, <a href=\"https://ref.ly/Ps30:3\">PSA 30:3</a>, <a href=\"https://ref.ly/Ps30:9\">PSA 30:9</a>, <a href=\"https://ref.ly/Ps55:23\">PSA 55:23</a>, <a href=\"https://ref.ly/Ps69:15\">PSA 69:15</a>, <a href=\"https://ref.ly/Ps88:4\">PSA 88:4</a>, <a href=\"https://ref.ly/Ps103:4\">PSA 103:4</a>, <a href=\"https://ref.ly/Ps143:7\">PSA 143:7</a>; <a href=\"https://ref.ly/Prov1:12\">PRO 1:12</a>; <a href=\"https://ref.ly/Isa14:19\">ISA 14:19</a>, <a href=\"https://ref.ly/Isa38:17-Isa38:18\">ISA 38:17–38:18</a>; <a href=\"https://ref.ly/Ezek26:20\">EZK 26:20</a>, <a href=\"https://ref.ly/Ezek28:8\">EZK 28:8</a>, <a href=\"https://ref.ly/Ezek31:14\">EZK 31:14</a>, <a href=\"https://ref.ly/Ezek31:16\">EZK 31:16</a>, <a href=\"https://ref.ly/Ezek31:18\">EZK 31:18</a>, <a href=\"https://ref.ly/Ezek32:23-Ezek32:25\">EZK 32:23–32:25</a>, <a href=\"https://ref.ly/Ezek32:29-Ezek32:30\">EZK 32:29–32:30</a>; <a href=\"https://ref.ly/Jonah2:6\">JON 2:6</a></p>\n<h2>The pit as a symbol of judgment</h2>\n<p><strong><a href=\"https://ref.ly/Isa30:33\">ISA 30:33</a></strong></p>",
@@ -387,6 +387,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9540: Sheol",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Bithiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bithiah"
 }
 ]
 }

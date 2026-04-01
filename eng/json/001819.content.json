@@ -2,10 +2,10 @@
 {
 "content_id": "7406",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7406: Passover",
 "media_type": "Text",
-"index_reference": "7406: passover",
+"index_reference": "7406",
 "language": "eng",
 "review_level": "None",
 "content": "<p>One of the major OT feasts. It specifically commemorates the exodus from Egypt as an act of God's deliverance. In Israel's calendar of feasts it was always celebrated with the Feast of Unleavened Bread.</p>\n<h2>The institution of the Passover</h2>\n<p><strong><a href=\"https://ref.ly/Exod12:25-Exod12:27\">EXO 12:25–12:27</a></strong> <em>The Hebrew term “Passover” derives from a verb meaning “to pass over” with the sense of “to spare”.</em></p>\n<h2>Celebrating the Passover</h2>\n<h3>Instructions concerning its observance</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Exod12:2-Exod12:11\">EXO 12:2–12:11</a>, <a href=\"https://ref.ly/Exod12:46-Exod12:47\">EXO 12:46–12:47</a>; <a href=\"https://ref.ly/Num9:1-Num9:5\">NUM 9:1–9:5</a>; <a href=\"https://ref.ly/Deut16:1-Deut16:8\">DEU 16:1–16:8</a></p>\n<h3>Combined with the Feast of Unleavened Bread</h3>\n<p><a href=\"https://ref.ly/Exod34:25\">EXO 34:25</a></p>\n<h3>The need for ritual cleansing</h3>\n<p><a href=\"https://ref.ly/John11:55\">JHN 11:55</a></p>\n<h3>Provision for ritual uncleanness</h3>\n<p><a href=\"https://ref.ly/Num9:6-Num9:13\">NUM 9:6–9:13</a></p>\n<h3>Provision for non-Jews</h3>\n<p><a href=\"https://ref.ly/Exod12:43-Exod12:45\">EXO 12:43–12:45</a>, <a href=\"https://ref.ly/Exod12:48-Exod12:49\">EXO 12:48–12:49</a>; ; <a href=\"https://ref.ly/Num9:14\">NUM 9:14</a></p>\n<h3>Its observance in the OT</h3>\n<p>These occasions are times of spiritual renewal, when the nation remembered how the LORD had saved them:\n <a href=\"https://ref.ly/Josh5:10\">JOS 5:10</a>; ; <a href=\"https://ref.ly/2Kgs23:21-2Kgs23:23\">2KI 23:21–23:23</a>; ; <a href=\"https://ref.ly/2Chr30:1-2Chr30:5\">2CH 30:1–30:5</a>, <a href=\"https://ref.ly/2Chr30:13-2Chr30:20\">2CH 30:13–30:20</a>; ; <a href=\"https://ref.ly/Ezra6:19-Ezra6:21\">EZR 6:19–6:21</a></p>\n<h3>Ezekiel's vision of the future observance of the Passover</h3>\n<p><a href=\"https://ref.ly/Ezek45:21-Ezek45:24\">EZK 45:21–45:24</a></p>\n<h2>The Passover in the NT</h2>\n<h3>Its observance</h3>\n<p><a href=\"https://ref.ly/Luke2:41-Luke2:42\">LUK 2:41–2:42</a>; ; <a href=\"https://ref.ly/John6:4\">JHN 6:4</a>; ; <a href=\"https://ref.ly/Acts12:4\">ACT 12:4</a></p>\n<h3>It was celebrated by Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Luke22:15\">LUK 22:15</a></strong> <em>At Passover time Jesus Christ himself was sacrificed and he inaugurated the Lord's Supper.</em> <em>See also</em> <a href=\"https://ref.ly/Matt26:17-Matt26:19\">MAT 26:17–26:19</a> parallels <a href=\"https://ref.ly/Mark14:12-Mark14:16\">MRK 14:12–14:16</a>, <a href=\"https://ref.ly/Luke22:7-Luke22:13\">LUK 22:7–22:13</a>; <a href=\"https://ref.ly/John2:23\">JHN 2:23</a> <em>Jesus Christ observed the Passover like other Jews.</em></p>\n<h3>Jesus Christ identified with the Passover lamb</h3>\n<p><strong><a href=\"https://ref.ly/1Cor5:7\">1CO 5:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/John1:29\">JHN 1:29</a>, <a href=\"https://ref.ly/John1:36\">JHN 1:36</a>, <a href=\"https://ref.ly/John19:36\">JHN 19:36</a> <em>This may refer to the Passover victim</em>; <a href=\"https://ref.ly/Exod12:46\">EXO 12:46</a>; <a href=\"https://ref.ly/Rev5:5-Rev5:6\">REV 5:5–5:6</a></p>",
@@ -282,6 +282,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7957: sacraments",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Passover",
+"type": "keyterm",
+"confidence": 0.6899,
+"match_method": "scored",
+"preferred_label": "Passover"
 }
 ]
 }

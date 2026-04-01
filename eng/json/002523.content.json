@@ -2,10 +2,10 @@
 {
 "content_id": "9540",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9540: Sheol",
 "media_type": "Text",
-"index_reference": "9540: sheol",
+"index_reference": "9540",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A Hebrew term used to refer to the grave, the pit or the tomb. Some older translations have the term incorrectly translated as “hell”.</p>\n<h2>Sheol is the destiny of all</h2>\n<p><strong><a href=\"https://ref.ly/Ps89:48\">PSA 89:48</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen37:35\">GEN 37:35</a>, <a href=\"https://ref.ly/Gen44:29\">GEN 44:29</a>; <a href=\"https://ref.ly/1Kgs2:9\">1KI 2:9</a>; <a href=\"https://ref.ly/Ps18:5\">PSA 18:5</a>, <a href=\"https://ref.ly/Ps107:20\">PSA 107:20</a>; <a href=\"https://ref.ly/Prov1:12\">PRO 1:12</a>, <a href=\"https://ref.ly/Prov30:16\">PRO 30:16</a>; <a href=\"https://ref.ly/Ezek31:15-Ezek31:17\">EZK 31:15–31:17</a>; <a href=\"https://ref.ly/Jonah2:2\">JON 2:2</a></p>\n<h2>Sheol is often described in terms suggesting a grave</h2>\n<p><strong><a href=\"https://ref.ly/Ps88:11-Ps88:12\">PSA 88:11–88:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job3:13-Job3:19\">JOB 3:13–3:19</a>, <a href=\"https://ref.ly/Job7:9\">JOB 7:9</a>, <a href=\"https://ref.ly/Job17:13-Job17:16\">JOB 17:13–17:16</a>; <a href=\"https://ref.ly/Ps6:5\">PSA 6:5</a>; <a href=\"https://ref.ly/Eccl9:10\">ECC 9:10</a>; <a href=\"https://ref.ly/Isa14:9-Isa14:11\">ISA 14:9–14:11</a>, <a href=\"https://ref.ly/Isa38:18\">ISA 38:18</a></p>\n<h2>To go to Sheol was regarded as a punishment</h2>\n<p><strong><a href=\"https://ref.ly/Num16:33\">NUM 16:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam2:6\">1SA 2:6</a>; <a href=\"https://ref.ly/Job24:19\">JOB 24:19</a>; <a href=\"https://ref.ly/Ps9:17\">PSA 9:17</a>, <a href=\"https://ref.ly/Ps31:17\">PSA 31:17</a>, <a href=\"https://ref.ly/Ps49:14\">PSA 49:14</a>, <a href=\"https://ref.ly/Ps55:15\">PSA 55:15</a>; <a href=\"https://ref.ly/Isa14:15\">ISA 14:15</a></p>\n<h2>There is hope even in Sheol</h2>\n<p><strong><a href=\"https://ref.ly/Job14:13\">JOB 14:13</a></strong>; <strong><a href=\"https://ref.ly/Ps16:10\">PSA 16:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps30:3\">PSA 30:3</a>, <a href=\"https://ref.ly/Ps49:15\">PSA 49:15</a>, <a href=\"https://ref.ly/Ps86:13\">PSA 86:13</a></p>",
@@ -247,6 +247,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9530: Hades",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 0.5859,
+"match_method": "scored",
+"preferred_label": "Hell"
 }
 ]
 }

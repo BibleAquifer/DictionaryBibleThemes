@@ -2,10 +2,10 @@
 {
 "content_id": "8446",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8446: hospitality, a duty of God's people",
 "media_type": "Text",
-"index_reference": "8446: hospitality, a duty of god's people",
+"index_reference": "8446",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Hospitality is commanded by God</h2>\n<p><strong><a href=\"https://ref.ly/Heb13:2\">HEB 13:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa58:6-Isa58:7\">ISA 58:6–58:7</a>; <a href=\"https://ref.ly/John13:12-John13:15\">JHN 13:12–13:15</a>; <a href=\"https://ref.ly/Rom12:13\">ROM 12:13</a>; <a href=\"https://ref.ly/1Pet4:9\">1PE 4:9</a></p>\n<h2>Hospitality is a responsibility of leaders</h2>\n<p><strong><a href=\"https://ref.ly/1Tim3:2\">1TI 3:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim5:9-1Tim5:10\">1TI 5:9–5:10</a>; <a href=\"https://ref.ly/Titus1:8\">TIT 1:8</a></p>\n<h2>Hospitality indicates true discipleship</h2>\n<p><strong><a href=\"https://ref.ly/Job31:32\">JOB 31:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt25:35\">MAT 25:35</a></p>\n<h2>Hospitality crosses social barriers</h2>\n<h3>Of race</h3>\n<p><strong><a href=\"https://ref.ly/Lev19:33-Lev19:34\">LEV 19:33–19:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod22:21\">EXO 22:21</a>, <a href=\"https://ref.ly/Exod23:9\">EXO 23:9</a></p>\n<h3>Of class and status</h3>\n<p><strong><a href=\"https://ref.ly/Luke14:12-Luke14:14\">LUK 14:12–14:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jas2:2-Jas2:4\">JAS 2:2–2:4</a></p>\n<h2>Hospitality is to be offered to Christian ministers</h2>\n<p><strong><a href=\"https://ref.ly/Rom16:1-Rom16:2\">ROM 16:1–16:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Col4:10\">COL 4:10</a>; <a href=\"https://ref.ly/3John1:5-3John1:10\">3JN 1:5–1:10</a></p>\n<h2>Hospitality is to be refused to false teachers</h2>\n<p><a href=\"https://ref.ly/2John1:10-2John1:11\">2JN 1:10–1:11</a></p>\n<h2>Hospitality as a picture of salvation</h2>\n<p><strong><a href=\"https://ref.ly/Ps23:5-Ps23:6\">PSA 23:5–23:6</a></strong>; <strong><a href=\"https://ref.ly/Rev3:20\">REV 3:20</a></strong> <em>Jesus Christ comes as a willing guest to the repentant, as a sign of renewed fellowship.</em> <em>See also</em> <a href=\"https://ref.ly/Isa25:6\">ISA 25:6</a>; <a href=\"https://ref.ly/Matt22:1-Matt22:14\">MAT 22:1–22:14</a>; <a href=\"https://ref.ly/Luke14:15-Luke14:24\">LUK 14:15–14:24</a>, <a href=\"https://ref.ly/Luke19:1-Luke19:10\">LUK 19:1–19:10</a>; <a href=\"https://ref.ly/John14:2-John14:3\">JHN 14:2–14:3</a></p>\n<h2>Warnings against inhospitable behaviour</h2>\n<p><strong><a href=\"https://ref.ly/Deut23:3-Deut23:4\">DEU 23:3–23:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt10:14\">MAT 10:14</a> parallels <a href=\"https://ref.ly/Mark6:11\">MRK 6:11</a>, <a href=\"https://ref.ly/Luke9:5\">LUK 9:5</a>; <a href=\"https://ref.ly/Matt25:41-Matt25:45\">MAT 25:41–25:45</a></p>",
@@ -275,6 +275,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9410: heaven",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shomer.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shomer"
+},
+{
+"id": "person:Shomer",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shomer"
 }
 ]
 }

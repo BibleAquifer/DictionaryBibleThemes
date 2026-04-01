@@ -2,10 +2,10 @@
 {
 "content_id": "5080",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5080: Adam",
 "media_type": "Text",
-"index_reference": "5080: adam",
+"index_reference": "5080",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The Hebrew word “adam” is used both for “man” in general and also as the personal name of the first man that God created. It sounds like the word “adamah”, meaning “ground”.</p>",
@@ -33,7 +33,8 @@
 "label": "5083: Adam, and Jesus Christ",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

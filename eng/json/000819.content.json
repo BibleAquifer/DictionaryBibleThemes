@@ -2,10 +2,10 @@
 {
 "content_id": "5231",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5231: birthday",
 "media_type": "Text",
-"index_reference": "5231: birthday",
+"index_reference": "5231",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Birthday celebrations</h2>\n<p><strong><a href=\"https://ref.ly/Mark6:21\">MRK 6:21</a></strong> parallel <a href=\"https://ref.ly/Matt14:6\">MAT 14:6</a> <em>See also</em> <a href=\"https://ref.ly/Gen40:20\">GEN 40:20</a></p>\n<h2>Cursing the day of birth</h2>\n<p><strong><a href=\"https://ref.ly/Job3:1-Job3:4\">JOB 3:1–3:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer20:14-Jer20:15\">JER 20:14–20:15</a></p>",
@@ -85,7 +85,8 @@
 "label": "8642: celebration",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

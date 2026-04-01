@@ -2,10 +2,10 @@
 {
 "content_id": "4522",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4522: threshing",
 "media_type": "Text",
-"index_reference": "4522: threshing",
+"index_reference": "4522",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The process of beating out or separating grain from harvested stalks.</p>\n<h2>Threshing and the harvest</h2>\n<p><strong><a href=\"https://ref.ly/Lev26:5\">LEV 26:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg6:11\">JDG 6:11</a>; <a href=\"https://ref.ly/1Chr21:20\">1CH 21:20</a>; <a href=\"https://ref.ly/1Cor9:9\">1CO 9:9</a>; <a href=\"https://ref.ly/Deut25:4\">DEU 25:4</a>; <a href=\"https://ref.ly/1Tim5:18\">1TI 5:18</a> <em>Paul is adapting a humane OT law to the support of Christian workers.</em></p>\n<h2>Threshing implements</h2>\n<p><strong><a href=\"https://ref.ly/2Sam24:22\">2SA 24:22</a></strong> parallel <a href=\"https://ref.ly/1Chr21:23\">1CH 21:23</a> <em>A threshing-sledge was a board studded underneath with sharp stones which was dragged by oxen over the wheat ears in order to separate the kernels.</em> <em>See also</em> <a href=\"https://ref.ly/Job41:30\">JOB 41:30</a>; <a href=\"https://ref.ly/Isa28:27-Isa28:28\">ISA 28:27–28:28</a>, <a href=\"https://ref.ly/Isa41:15\">ISA 41:15</a></p>\n<h2>Threshing used figuratively</h2>\n<p><strong><a href=\"https://ref.ly/Isa27:12\">ISA 27:12</a></strong>; <strong><a href=\"https://ref.ly/Hos10:11\">HOS 10:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs13:7\">2KI 13:7</a>; <a href=\"https://ref.ly/Prov20:26\">PRO 20:26</a>; <a href=\"https://ref.ly/Jer50:11\">JER 50:11</a>; <a href=\"https://ref.ly/Mic4:13\">MIC 4:13</a></p>",
@@ -171,7 +171,8 @@
 "label": "5621: wheel",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

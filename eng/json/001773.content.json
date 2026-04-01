@@ -2,10 +2,10 @@
 {
 "content_id": "7324",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7324: calf worship",
 "media_type": "Text",
-"index_reference": "7324: calf worship",
+"index_reference": "7324",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A heathen (notably Egyptian and Canaanite) practice, in which statues of bull calves were worshipped as symbols of fertility and physical strength. Contrary to the second commandment this was copied by the Israelites and by Jeroboam after the division of the kingdom, in both cases incurring God's wrath.</p>\n<h2>Aaron made a golden calf for the Israelites to worship</h2>\n<h3>This act was born partly of impatience</h3>\n<p><strong><a href=\"https://ref.ly/Exod32:1-Exod32:4\">EXO 32:1–32:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:7-Exod32:8\">EXO 32:7–32:8</a>; <a href=\"https://ref.ly/Ps106:19-Ps106:22\">PSA 106:19–106:22</a>; <a href=\"https://ref.ly/Acts7:41\">ACT 7:41</a></p>\n<h3>It was swiftly condemned</h3>\n<p><strong><a href=\"https://ref.ly/Exod32:19-Exod32:20\">EXO 32:19–32:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:35\">EXO 32:35</a>; <a href=\"https://ref.ly/Deut9:16-Deut9:21\">DEU 9:16–9:21</a>; <a href=\"https://ref.ly/Ps106:23\">PSA 106:23</a></p>\n<h2>King Jeroboam initiated calf worship</h2>\n<h3>As a matter of expediency</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs12:26-1Kgs12:30\">1KI 12:26–12:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs17:15-2Kgs17:16\">2KI 17:15–17:16</a>; <a href=\"https://ref.ly/2Chr11:14-2Chr11:15\">2CH 11:14–11:15</a>, <a href=\"https://ref.ly/2Chr13:8\">2CH 13:8</a></p>\n<h3>Jeroboam's sin was one of the main reasons for the Assyrian captivity</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs17:18-2Kgs17:28\">2KI 17:18–17:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos8:4-Hos8:9\">HOS 8:4–8:9</a>, <a href=\"https://ref.ly/Hos10:5-Hos10:6\">HOS 10:5–10:6</a></p>\n<h2>Calf worship is detestable and useless</h2>\n<p><a href=\"https://ref.ly/Deut7:25\">DEU 7:25</a>; ; <a href=\"https://ref.ly/Isa44:9-Isa44:20\">ISA 44:9–44:20</a>, <a href=\"https://ref.ly/Isa46:6-Isa46:7\">ISA 46:6–46:7</a>; ; <a href=\"https://ref.ly/Rom1:21-Rom1:23\">ROM 1:21–1:23</a></p>",
@@ -182,6 +182,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8768: idolatry",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Nebaioth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nebaioth"
 }
 ]
 }

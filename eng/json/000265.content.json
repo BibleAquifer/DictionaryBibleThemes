@@ -2,10 +2,10 @@
 {
 "content_id": "3215",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3215: Holy Spirit, and peace",
 "media_type": "Text",
-"index_reference": "3215: holy spirit, and peace",
+"index_reference": "3215",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The Holy Spirit brings a sense of well-being, contentment and wholeness to believers whatever their outward circumstances. Peace is therefore an indication of the Holy Spirit's presence.</p>\n<h2>Peace is part of the nature of the Holy Spirit</h2>\n<h3>The Spirit is likened to a dove, the symbol of peace</h3>\n<p><strong><a href=\"https://ref.ly/Matt3:16\">MAT 3:16</a></strong> parallels <a href=\"https://ref.ly/Mark1:10\">MRK 1:10</a>, <a href=\"https://ref.ly/Luke3:22\">LUK 3:22</a>, <a href=\"https://ref.ly/John1:32\">JHN 1:32</a></p>\n<h3>As part of the Godhead the Spirit is the God of peace</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Phil4:9\">PHP 4:9</a>; <a href=\"https://ref.ly/1Thess5:23\">1TH 5:23</a>; <a href=\"https://ref.ly/Heb13:20\">HEB 13:20</a></p>\n<h2>Peace is a resource that the Holy Spirit gives to believers</h2>\n<p><strong><a href=\"https://ref.ly/Rom14:17\">ROM 14:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/John14:15-John14:19\">JHN 14:15–14:19</a> <em>The Greek word “parakletos” means “one called alongside”, hence “comforter” or “advocate”</em>; <a href=\"https://ref.ly/Rom15:13\">ROM 15:13</a></p>\n<h2>The fruit of the Spirit includes peace</h2>\n<p><strong><a href=\"https://ref.ly/Gal5:22-Gal5:25\">GAL 5:22–5:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:6\">ROM 8:6</a></p>\n<h2>The Holy Spirit brings peace to God's people concerning their circumstances</h2>\n<h3>He changes situations to bring peace</h3>\n<p><strong><a href=\"https://ref.ly/Isa32:14-Isa32:18\">ISA 32:14–32:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa63:14\">ISA 63:14</a>; <a href=\"https://ref.ly/Acts9:31\">ACT 9:31</a></p>\n<h3>He brings peace of mind to those facing difficult situations</h3>\n<p><strong><a href=\"https://ref.ly/Phil1:19\">PHP 1:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hag2:5\">HAG 2:5</a>; <a href=\"https://ref.ly/John16:5-John16:21\">JHN 16:5–16:21</a>, <a href=\"https://ref.ly/John20:21-John20:22\">JHN 20:21–20:22</a></p>\n<h2>The Holy Spirit brings peaceful relationships</h2>\n<h3>Between believers</h3>\n<p><strong><a href=\"https://ref.ly/Eph4:3\">EPH 4:3</a></strong></p>\n<h3>Between believers and God the Father</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:1-Rom8:2\">ROM 8:1–8:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:11\">ROM 8:11</a>, <a href=\"https://ref.ly/Rom8:14-Rom8:17\">ROM 8:14–8:17</a> <em>The result of the Spirit's work is contrasted with fear, the opposite of peace.</em></p>",
@@ -213,6 +213,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6700: peace",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.5755,
+"match_method": "scored",
+"preferred_label": "Holy Spirit"
 }
 ]
 }

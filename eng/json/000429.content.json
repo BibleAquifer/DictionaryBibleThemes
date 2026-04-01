@@ -2,10 +2,10 @@
 {
 "content_id": "4430",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4430: crops",
 "media_type": "Text",
-"index_reference": "4430: crops",
+"index_reference": "4430",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Crops represent God's provision and are regulated by the Mosaic law. Their failure is associated with disobedience.</p>\n<h2>Crops related to the law of Moses</h2>\n<p><strong><a href=\"https://ref.ly/Deut7:12-Deut7:13\">DEU 7:12–7:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:10-Exod23:11\">EXO 23:10–23:11</a>, <a href=\"https://ref.ly/Exod23:16\">EXO 23:16</a>; <a href=\"https://ref.ly/Lev23:39\">LEV 23:39</a>, <a href=\"https://ref.ly/Lev25:3\">LEV 25:3</a>, <a href=\"https://ref.ly/Lev25:15-Lev25:16\">LEV 25:15–25:16</a>, <a href=\"https://ref.ly/Lev25:20-Lev25:22\">LEV 25:20–25:22</a>, <a href=\"https://ref.ly/Lev26:3-Lev26:4\">LEV 26:3–26:4</a>; <a href=\"https://ref.ly/Deut14:28-Deut14:29\">DEU 14:28–14:29</a>, <a href=\"https://ref.ly/Deut16:13\">DEU 16:13</a> <em>the Feast of Tabernacles</em>; <a href=\"https://ref.ly/Deut22:9\">DEU 22:9</a>, <a href=\"https://ref.ly/Deut26:12\">DEU 26:12</a>, <a href=\"https://ref.ly/Deut28:11\">DEU 28:11</a>, <a href=\"https://ref.ly/Deut30:8-Deut30:9\">DEU 30:8–30:9</a>; <a href=\"https://ref.ly/Neh10:35-Neh10:37\">NEH 10:35–10:37</a>; <a href=\"https://ref.ly/Prov3:9-Prov3:10\">PRO 3:9–3:10</a>; <a href=\"https://ref.ly/Mal3:10-Mal3:11\">MAL 3:10–3:11</a></p>\n<h2>Crops representing God's goodness</h2>\n<p><strong><a href=\"https://ref.ly/Ps65:9-Ps65:10\">PSA 65:9–65:10</a></strong>; <strong><a href=\"https://ref.ly/Acts14:17\">ACT 14:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen26:12\">GEN 26:12</a>; <a href=\"https://ref.ly/Jer2:7\">JER 2:7</a>; <a href=\"https://ref.ly/Ezek34:27-Ezek34:29\">EZK 34:27–34:29</a>, <a href=\"https://ref.ly/Ezek36:30\">EZK 36:30</a>; <a href=\"https://ref.ly/Zech8:12\">ZEC 8:12</a>; <a href=\"https://ref.ly/Jas5:17-Jas5:18\">JAS 5:17–5:18</a></p>\n<h2>The failure of crops as a result of disobedience</h2>\n<p><strong><a href=\"https://ref.ly/Deut11:16-Deut11:17\">DEU 11:16–11:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen4:10-Gen4:12\">GEN 4:10–4:12</a>; <a href=\"https://ref.ly/Deut28:18\">DEU 28:18</a>, <a href=\"https://ref.ly/Deut28:42\">DEU 28:42</a>, <a href=\"https://ref.ly/Deut28:49-Deut28:51\">DEU 28:49–28:51</a>; <a href=\"https://ref.ly/Judg6:3-Judg6:4\">JDG 6:3–6:4</a>; <a href=\"https://ref.ly/Job31:5-Job31:8\">JOB 31:5–31:8</a>; <a href=\"https://ref.ly/Ps78:46\">PSA 78:46</a>, <a href=\"https://ref.ly/Ps105:34-Ps105:35\">PSA 105:34–105:35</a>; <a href=\"https://ref.ly/Amos7:1\">AMO 7:1</a>; <a href=\"https://ref.ly/Hag1:9-Hag1:10\">HAG 1:9–1:10</a></p>\n<h2>Crops used metaphorically</h2>\n<p><strong><a href=\"https://ref.ly/Jas5:7\">JAS 5:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa5:1-Isa5:2\">ISA 5:1–5:2</a>; <a href=\"https://ref.ly/Matt13:8\">MAT 13:8</a>, <a href=\"https://ref.ly/Matt13:23\">MAT 13:23</a>, <a href=\"https://ref.ly/Matt21:40-Matt21:41\">MAT 21:40–21:41</a>; <a href=\"https://ref.ly/Luke12:16-Luke12:17\">LUK 12:16–12:17</a>; <a href=\"https://ref.ly/John4:36\">JHN 4:36</a>; <a href=\"https://ref.ly/2Tim2:6\">2TI 2:6</a>; <a href=\"https://ref.ly/Heb6:7-Heb6:8\">HEB 6:7–6:8</a>; <a href=\"https://ref.ly/Rev22:1-Rev22:2\">REV 22:1–22:2</a></p>",
@@ -372,6 +372,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5903: maturity, physical",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Carmel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Carmel"
 }
 ]
 }

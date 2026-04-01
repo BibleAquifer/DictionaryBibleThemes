@@ -2,10 +2,10 @@
 {
 "content_id": "4630",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4630: dog",
 "media_type": "Text",
-"index_reference": "4630: dog",
+"index_reference": "4630",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Although used by shepherds and occasionally kept as pets, in Bible times most dogs were semi-wild scavengers.</p>\n<h2>The animal</h2>\n<p><a href=\"https://ref.ly/Exod11:7\">EXO 11:7</a>; ; <a href=\"https://ref.ly/Judg7:5\">JDG 7:5</a>; ; <a href=\"https://ref.ly/Job30:1\">JOB 30:1</a></p>\n<h3>Dogs as scavengers</h3>\n<p><a href=\"https://ref.ly/Exod22:31\">EXO 22:31</a>; ; <a href=\"https://ref.ly/1Kgs14:11\">1KI 14:11</a>, <a href=\"https://ref.ly/1Kgs16:4\">1KI 16:4</a>, <a href=\"https://ref.ly/1Kgs21:19\">1KI 21:19</a>, <a href=\"https://ref.ly/1Kgs21:23\">1KI 21:23</a>, <a href=\"https://ref.ly/1Kgs22:38\">1KI 22:38</a>; ; <a href=\"https://ref.ly/2Kgs9:10\">2KI 9:10</a>, <a href=\"https://ref.ly/2Kgs9:36\">2KI 9:36</a>; ; <a href=\"https://ref.ly/Ps59:6\">PSA 59:6</a>, <a href=\"https://ref.ly/Ps59:14\">PSA 59:14</a>, <a href=\"https://ref.ly/Ps68:23\">PSA 68:23</a></p>\n<h3>Dogs as dangerous and bloodthirsty</h3>\n<p><a href=\"https://ref.ly/Jer15:3\">JER 15:3</a>; ; <a href=\"https://ref.ly/Ps22:16\">PSA 22:16</a>, <a href=\"https://ref.ly/Ps22:20\">PSA 22:20</a>; ; <a href=\"https://ref.ly/2Pet2:22\">2PE 2:22</a></p>\n<h2>Dogs in the teaching of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt7:6\">MAT 7:6</a>, <a href=\"https://ref.ly/Matt15:26-Matt15:27\">MAT 15:26–15:27</a></strong> parallel <a href=\"https://ref.ly/Mark7:27-Mark7:28\">MRK 7:27–7:28</a> <em>See also</em> <a href=\"https://ref.ly/Luke16:21\">LUK 16:21</a></p>\n<h2>Dogs in proverbs</h2>\n<p><a href=\"https://ref.ly/Prov26:11\">PRO 26:11</a>, <a href=\"https://ref.ly/Prov26:17\">PRO 26:17</a>; ; <a href=\"https://ref.ly/Eccl9:4\">ECC 9:4</a></p>\n<h2>Dogs used as a term of abuse or low esteem</h2>\n<p><a href=\"https://ref.ly/1Sam17:43\">1SA 17:43</a>, <a href=\"https://ref.ly/1Sam24:14\">1SA 24:14</a>; ; <a href=\"https://ref.ly/2Sam9:8\">2SA 9:8</a>, <a href=\"https://ref.ly/2Sam16:9\">2SA 16:9</a>; ; <a href=\"https://ref.ly/2Kgs8:13\">2KI 8:13</a>; ; <a href=\"https://ref.ly/Isa56:10-Isa56:11\">ISA 56:10–56:11</a>; ; <a href=\"https://ref.ly/Phil3:2\">PHP 3:2</a>; ; <a href=\"https://ref.ly/Rev22:15\">REV 22:15</a></p>",
@@ -224,6 +224,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7512: Gentiles, in NT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Dog",
+"type": "fauna",
+"confidence": 0.7753,
+"match_method": "scored",
+"preferred_label": "Dog"
 }
 ]
 }

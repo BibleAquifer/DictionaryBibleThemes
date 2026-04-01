@@ -2,10 +2,10 @@
 {
 "content_id": "4025",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4025: world, the",
 "media_type": "Text",
-"index_reference": "4025: world, the",
+"index_reference": "4025",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture understands “the world” in a number of senses. It initially refers to the world as God's good creation. However, that same world has now fallen into sin, with the result that it can be a threat to believers. Believers are called to live in the world, maintaining contact with it, while remaining distinct from it, and avoiding being contaminated by it.</p>",
@@ -47,7 +47,8 @@
 "label": "4030: world, human behaviour in",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

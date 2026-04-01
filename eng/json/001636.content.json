@@ -2,10 +2,10 @@
 {
 "content_id": "6663",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6663: freedom, of the will",
 "media_type": "Text",
-"index_reference": "6663: freedom, of the will",
+"index_reference": "6663",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The ability to make decisions without being coerced by external forces. Scripture stresses that people are confronted with free choices between good and evil and commands them to choose good. However, it also notes that limitations are placed upon human actions through the enslaving power of sin.</p>\n<h2>Freedom of the will</h2>\n<h3>Freedom of the will to choose between good and evil</h3>\n<p><strong><a href=\"https://ref.ly/Deut11:26-Deut11:28\">DEU 11:26–11:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut30:15-Deut30:16\">DEU 30:15–30:16</a>, <a href=\"https://ref.ly/Deut30:19\">DEU 30:19</a>; <a href=\"https://ref.ly/Josh24:15\">JOS 24:15</a>; <a href=\"https://ref.ly/1Chr28:9\">1CH 28:9</a>; <a href=\"https://ref.ly/Jer26:3\">JER 26:3</a>; <a href=\"https://ref.ly/Ezek18:21-Ezek18:23\">EZK 18:21–18:23</a></p>\n<h3>Freedom of the will to seek and find God</h3>\n<p><strong><a href=\"https://ref.ly/Isa55:6\">ISA 55:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Amos5:4\">AMO 5:4</a>; <a href=\"https://ref.ly/Acts2:21\">ACT 2:21</a>; <a href=\"https://ref.ly/Rom10:11\">ROM 10:11</a>; <a href=\"https://ref.ly/Isa28:16\">ISA 28:16</a>; <a href=\"https://ref.ly/Rev22:17\">REV 22:17</a></p>\n<h2>The effect of sin upon freedom of the will</h2>\n<h3>Sin prevents human beings from breaking free from its bondage</h3>\n<p><strong><a href=\"https://ref.ly/Rom7:14-Rom7:20\">ROM 7:14–7:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom6:16\">ROM 6:16</a>, <a href=\"https://ref.ly/Rom6:22\">ROM 6:22</a>, <a href=\"https://ref.ly/Rom7:25\">ROM 7:25</a> <em>Paul stresses that it is only through Jesus Christ that human beings can be freed from servitude to sin.</em></p>\n<h3>Sin hardens human hearts</h3>\n<p><strong><a href=\"https://ref.ly/Heb3:13\">HEB 3:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan5:20\">DAN 5:20</a>; <a href=\"https://ref.ly/Rom1:21\">ROM 1:21</a>; <a href=\"https://ref.ly/Eph4:17-Eph4:19\">EPH 4:17–4:19</a></p>\n<h3>God hardens human hearts</h3>\n<p><strong><a href=\"https://ref.ly/Exod9:12\">EXO 9:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod4:21\">EXO 4:21</a>, <a href=\"https://ref.ly/Exod10:20\">EXO 10:20</a>, <a href=\"https://ref.ly/Exod14:4\">EXO 14:4</a>, <a href=\"https://ref.ly/Exod14:8\">EXO 14:8</a>; <a href=\"https://ref.ly/Deut2:30\">DEU 2:30</a>; <a href=\"https://ref.ly/Josh11:19-Josh11:20\">JOS 11:19–11:20</a>; <a href=\"https://ref.ly/Rom1:22-Rom1:24\">ROM 1:22–1:24</a>, <a href=\"https://ref.ly/Rom9:17-Rom9:18\">ROM 9:17–9:18</a></p>\n<h3>Human beings harden their own hearts</h3>\n<p><strong><a href=\"https://ref.ly/1Sam6:6\">1SA 6:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod8:15\">EXO 8:15</a>, <a href=\"https://ref.ly/Exod8:32\">EXO 8:32</a>; <a href=\"https://ref.ly/Ps95:8\">PSA 95:8</a>; <a href=\"https://ref.ly/Prov28:14\">PRO 28:14</a>; <a href=\"https://ref.ly/Heb3:8\">HEB 3:8</a>, <a href=\"https://ref.ly/Heb3:15\">HEB 3:15</a>, <a href=\"https://ref.ly/Heb4:7\">HEB 4:7</a></p>",
@@ -290,7 +290,8 @@
 "label": "8408: decision-making",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

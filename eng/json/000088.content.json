@@ -2,10 +2,10 @@
 {
 "content_id": "1427",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1427: prophecy",
 "media_type": "Text",
-"index_reference": "1427: prophecy",
+"index_reference": "1427",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The disclosing of the will and purposes of God through inspired or Spirit-filled human beings. The OT emphasises the importance of prophecy as a means of knowing God. Many OT prophecies find their fulfilment in Jesus Christ. The NT sets out the place of prophecy in the life of the church and gives guidance concerning the use of this gift.</p>",
@@ -47,7 +47,8 @@
 "label": "1432: prophecy, in NT",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

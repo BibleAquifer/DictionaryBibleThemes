@@ -2,10 +2,10 @@
 {
 "content_id": "9530",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9530: Hades",
 "media_type": "Text",
-"index_reference": "9530: hades",
+"index_reference": "9530",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A term used in the NT to refer to the place in which departed spirits rest, while waiting for judgment.</p>\n<h2>Hades is the place where the dead wait for judgment</h2>\n<p><strong><a href=\"https://ref.ly/Rev20:13-Rev20:14\">REV 20:13–20:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt11:23\">MAT 11:23</a> parallel <a href=\"https://ref.ly/Luke10:15\">LUK 10:15</a> <em>translated “depths”</em>; <a href=\"https://ref.ly/Luke16:23\">LUK 16:23</a> <em>translated “hell”</em><a href=\"https://ref.ly/Acts2:27\">ACT 2:27</a>, <a href=\"https://ref.ly/Acts2:31\">ACT 2:31</a>\n<a href=\"https://ref.ly/Rev6:8\">REV 6:8</a></p>\n<h2>Jesus Christ is Lord of Hades</h2>\n<p><strong><a href=\"https://ref.ly/Matt16:18\">MAT 16:18</a></strong>; <strong><a href=\"https://ref.ly/Rev1:18\">REV 1:18</a></strong></p>",
@@ -108,6 +108,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9540: Sheol",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:WorldOfTheDead",
+"type": "keyterm",
+"confidence": 0.8515,
+"match_method": "scored",
+"preferred_label": "World of the Dead"
+},
+{
+"id": "place:Hell",
+"type": "place",
+"confidence": 0.7015,
+"match_method": "scored",
+"preferred_label": "Hell"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5067",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5067: suicide",
 "media_type": "Text",
-"index_reference": "5067: suicide",
+"index_reference": "5067",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The deliberate taking of one's own life, a rare occurrence in Scripture.</p>\n<h2>Psychological causes of suicide</h2>\n<h3>A sense of guilt leads to suicide</h3>\n<p><strong><a href=\"https://ref.ly/Matt27:5\">MAT 27:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts1:18-Acts1:19\">ACT 1:18–1:19</a></p>\n<h3>Defeat leads to suicide</h3>\n<p><strong><a href=\"https://ref.ly/1Sam31:4\">1SA 31:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam31:5-1Sam31:6\">1SA 31:5–31:6</a> parallel <a href=\"https://ref.ly/1Chr10:4-1Chr10:5\">1CH 10:4–10:5</a>; <a href=\"https://ref.ly/2Sam1:9\">2SA 1:9</a>, <a href=\"https://ref.ly/2Sam17:23\">2SA 17:23</a>; <a href=\"https://ref.ly/1Kgs16:18\">1KI 16:18</a></p>\n<h3>Defiance leads to suicide</h3>\n<p><a href=\"https://ref.ly/Judg16:26-Judg16:30\">JDG 16:26–16:30</a>; ; <a href=\"https://ref.ly/2Sam17:23\">2SA 17:23</a></p>\n<h3>Failure leads to attempted suicide</h3>\n<p><a href=\"https://ref.ly/Acts16:27\">ACT 16:27</a></p>\n<h2>Desire for death is more frequently expressed in the Bible than actual suicide</h2>\n<h3>The desire for death in a prophet's depression</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs19:3-1Kgs19:4\">1KI 19:3–19:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer15:10\">JER 15:10</a>, <a href=\"https://ref.ly/Jer20:14-Jer20:18\">JER 20:14–20:18</a>; <a href=\"https://ref.ly/Jonah4:1-Jonah4:3\">JON 4:1–4:3</a> <em>A desire for death does not lead to taking of one's own life, but to entrusting the place and time of one's death to the Lord.</em></p>\n<h3>The desire for death arising from grief and pain</h3>\n<p><strong><a href=\"https://ref.ly/Job10:1\">JOB 10:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job3:1-Job3:4\">JOB 3:1–3:4</a>, <a href=\"https://ref.ly/Job7:15-Job7:16\">JOB 7:15–7:16</a></p>\n<h3>The desire for death because of judgment</h3>\n<p><strong><a href=\"https://ref.ly/Rev9:6\">REV 9:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos10:8\">HOS 10:8</a>; <a href=\"https://ref.ly/Rev6:16\">REV 6:16</a></p>\n<h2>Life hated because of its apparent futility</h2>\n<p><strong><a href=\"https://ref.ly/Eccl2:17\">ECC 2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps90:8-Ps90:10\">PSA 90:8–90:10</a>; <a href=\"https://ref.ly/Eccl4:1-Eccl4:3\">ECC 4:1–4:3</a></p>\n<h2>Suicide usurps God's sovereignty over life</h2>\n<h3>God is Creator, and thus has authority over his creation</h3>\n<p><strong><a href=\"https://ref.ly/Job10:12\">JOB 10:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen2:7\">GEN 2:7</a>, <a href=\"https://ref.ly/Gen2:17\">GEN 2:17</a>; <a href=\"https://ref.ly/Ps90:1-Ps90:10\">PSA 90:1–90:10</a>, <a href=\"https://ref.ly/Ps139:13-Ps139:15\">PSA 139:13–139:15</a></p>\n<h3>God controls life and death</h3>\n<p><strong><a href=\"https://ref.ly/Job1:21\">JOB 1:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:25-Exod23:26\">EXO 23:25–23:26</a>; <a href=\"https://ref.ly/Deut32:39\">DEU 32:39</a>; <a href=\"https://ref.ly/Job30:23\">JOB 30:23</a>; <a href=\"https://ref.ly/Eccl8:8\">ECC 8:8</a>; <a href=\"https://ref.ly/Luke12:22-Luke12:25\">LUK 12:22–12:25</a>; <a href=\"https://ref.ly/Heb9:27\">HEB 9:27</a></p>\n<h2>Taking life, including one's own, is sin</h2>\n<p><strong><a href=\"https://ref.ly/Exod20:13\">EXO 20:13</a></strong></p>\n<h3>God's command that believers love themselves is violated by suicide</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Lev19:18\">LEV 19:18</a>; <a href=\"https://ref.ly/Matt22:39\">MAT 22:39</a>; <a href=\"https://ref.ly/Eph5:29\">EPH 5:29</a></p>\n<h3>God's command that believers should love others is violated by suicide</h3>\n<p><a href=\"https://ref.ly/Matt7:12\">MAT 7:12</a> <em>Relatives and friends are hurt when a loved one commits suicide.</em></p>",
@@ -287,6 +287,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9020: death",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Emek-keziz",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Emek-keziz"
 }
 ]
 }

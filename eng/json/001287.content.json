@@ -2,10 +2,10 @@
 {
 "content_id": "5762",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5762: attitudes, God's to people",
 "media_type": "Text",
-"index_reference": "5762: attitudes, god's to people",
+"index_reference": "5762",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture indicates the ways in which God relates to people, often suggesting that these illustrate the ways in which believers should behave.</p>\n<h2>God's love</h2>\n<p><strong><a href=\"https://ref.ly/John3:16\">JHN 3:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps36:5-Ps36:7\">PSA 36:5–36:7</a>, <a href=\"https://ref.ly/Ps107:1\">PSA 107:1</a>, <a href=\"https://ref.ly/Ps136:1\">PSA 136:1</a>; <a href=\"https://ref.ly/John13:1\">JHN 13:1</a>; <a href=\"https://ref.ly/Rom5:5\">ROM 5:5</a>, <a href=\"https://ref.ly/Rom8:35-Rom8:39\">ROM 8:35–8:39</a>; <a href=\"https://ref.ly/Eph5:2\">EPH 5:2</a>; <a href=\"https://ref.ly/1John4:8-1John4:10\">1JN 4:8–4:10</a>, <a href=\"https://ref.ly/1John4:16\">1JN 4:16</a></p>\n<h2>God's compassion</h2>\n<p><strong><a href=\"https://ref.ly/Ps116:5\">PSA 116:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa54:8\">ISA 54:8</a>; <a href=\"https://ref.ly/Jer9:24\">JER 9:24</a>; <a href=\"https://ref.ly/Hos11:4\">HOS 11:4</a>; <a href=\"https://ref.ly/Matt9:36\">MAT 9:36</a>; <a href=\"https://ref.ly/Rom2:4\">ROM 2:4</a>, <a href=\"https://ref.ly/Rom11:22\">ROM 11:22</a>; <a href=\"https://ref.ly/2Cor1:3\">2CO 1:3</a>; <a href=\"https://ref.ly/Eph2:7\">EPH 2:7</a>; <a href=\"https://ref.ly/Titus3:4\">TIT 3:4</a>; <a href=\"https://ref.ly/Jas5:11\">JAS 5:11</a></p>\n<h2>God's grace and mercy</h2>\n<p><strong><a href=\"https://ref.ly/John1:14\">JHN 1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:31\">DEU 4:31</a>; <a href=\"https://ref.ly/Dan9:9\">DAN 9:9</a>; <a href=\"https://ref.ly/Rom5:15\">ROM 5:15</a>; <a href=\"https://ref.ly/2Cor8:9\">2CO 8:9</a>; <a href=\"https://ref.ly/Eph2:4\">EPH 2:4</a>, <a href=\"https://ref.ly/Eph2:7\">EPH 2:7</a>; <a href=\"https://ref.ly/1Tim1:14\">1TI 1:14</a>; <a href=\"https://ref.ly/1Pet5:10\">1PE 5:10</a></p>\n<h2>God's jealousy</h2>\n<p><strong><a href=\"https://ref.ly/Exod20:5\">EXO 20:5</a></strong> parallel <a href=\"https://ref.ly/Deut5:9\">DEU 5:9</a> <em>See also</em> <a href=\"https://ref.ly/Deut4:24\">DEU 4:24</a>; <a href=\"https://ref.ly/Josh24:19\">JOS 24:19</a>; <a href=\"https://ref.ly/Nah1:2\">NAM 1:2</a></p>\n<h2>God's patience</h2>\n<p><strong><a href=\"https://ref.ly/2Pet3:9\">2PE 3:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh9:30\">NEH 9:30</a>; <a href=\"https://ref.ly/Rom9:22\">ROM 9:22</a>; <a href=\"https://ref.ly/1Tim1:16\">1TI 1:16</a>; <a href=\"https://ref.ly/1Pet3:20\">1PE 3:20</a></p>\n<h2>God's faithfulness</h2>\n<p><strong><a href=\"https://ref.ly/Ps117:2\">PSA 117:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod34:6\">EXO 34:6</a>; <a href=\"https://ref.ly/Deut7:9\">DEU 7:9</a>; <a href=\"https://ref.ly/Ps25:10\">PSA 25:10</a>, <a href=\"https://ref.ly/Ps36:5\">PSA 36:5</a>, <a href=\"https://ref.ly/Ps119:90\">PSA 119:90</a>; <a href=\"https://ref.ly/Lam3:22-Lam3:23\">LAM 3:22–3:23</a>; <a href=\"https://ref.ly/1Cor10:13\">1CO 10:13</a>; <a href=\"https://ref.ly/1John1:9\">1JN 1:9</a></p>",
@@ -370,6 +370,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8792: oppression, God's attitude to",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hebron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hebron"
 }
 ]
 }

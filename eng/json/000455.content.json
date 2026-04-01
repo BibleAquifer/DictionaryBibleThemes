@@ -2,10 +2,10 @@
 {
 "content_id": "4480",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4480: milk",
 "media_type": "Text",
-"index_reference": "4480: milk",
+"index_reference": "4480",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A common source of food and nourishment, associated with rich and productive land. The term is also used figuratively as a form of spiritual food suitable for those who have yet to reach maturity in the Christian faith.</p>\n<h2>Milk as a source of nourishment</h2>\n<p><strong><a href=\"https://ref.ly/Deut32:13-Deut32:14\">DEU 32:13–32:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:8\">GEN 18:8</a>; <a href=\"https://ref.ly/Judg4:19\">JDG 4:19</a>; <a href=\"https://ref.ly/2Sam17:29\">2SA 17:29</a>; <a href=\"https://ref.ly/Prov27:27\">PRO 27:27</a>; <a href=\"https://ref.ly/Ezek25:4\">EZK 25:4</a>; <a href=\"https://ref.ly/1Cor9:7\">1CO 9:7</a> <em>illustrating the support of the ministry</em></p>\n<h2>Milk as an indication of prosperity and well-being</h2>\n<p><strong><a href=\"https://ref.ly/Deut6:3\">DEU 6:3</a></strong> <em>A frequent description of the promised land</em>; <strong><a href=\"https://ref.ly/Isa55:1\">ISA 55:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod3:8\">EXO 3:8</a>; <a href=\"https://ref.ly/Lev20:24\">LEV 20:24</a>; <a href=\"https://ref.ly/Num13:27\">NUM 13:27</a>; <a href=\"https://ref.ly/Isa7:22\">ISA 7:22</a>, <a href=\"https://ref.ly/Isa60:16\">ISA 60:16</a>; <a href=\"https://ref.ly/Ezek20:6\">EZK 20:6</a>; <a href=\"https://ref.ly/Joel3:18\">JOL 3:18</a></p>\n<h2>Laws concerning milk</h2>\n<p><a href=\"https://ref.ly/Exod23:19\">EXO 23:19</a>, <a href=\"https://ref.ly/Exod34:26\">EXO 34:26</a>; ; <a href=\"https://ref.ly/Deut14:21\">DEU 14:21</a></p>\n<h2>Elementary Christian teaching likened to milk</h2>\n<p><strong><a href=\"https://ref.ly/Heb5:12-Heb5:13\">HEB 5:12–5:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor3:2\">1CO 3:2</a>; <a href=\"https://ref.ly/1Pet2:2\">1PE 2:2</a></p>\n<h2>Milk used figuratively</h2>\n<p><strong><a href=\"https://ref.ly/Prov30:33\">PRO 30:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:12\">GEN 49:12</a>; <a href=\"https://ref.ly/Job10:10\">JOB 10:10</a>; <a href=\"https://ref.ly/Song4:11\">SNG 4:11</a>, <a href=\"https://ref.ly/Song5:12\">SNG 5:12</a>; <a href=\"https://ref.ly/Lam4:7\">LAM 4:7</a></p>",
@@ -202,7 +202,8 @@
 "label": "7257: promised land, the",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

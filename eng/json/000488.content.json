@@ -2,10 +2,10 @@
 {
 "content_id": "4546",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4546: winepress",
 "media_type": "Text",
-"index_reference": "4546: winepress",
+"index_reference": "4546",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The vat in which grapes were trodden to produce juice for making wine. Scripture sometimes uses the image of treading grapes at the winepress to depict scenes of divine wrath and punishment.</p>\n<h2>Winepresses were widely used</h2>\n<p><strong><a href=\"https://ref.ly/Deut15:12-Deut15:14\">DEU 15:12–15:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num18:25-Num18:27\">NUM 18:25–18:27</a>, <a href=\"https://ref.ly/Num18:30\">NUM 18:30</a>; <a href=\"https://ref.ly/Judg6:11\">JDG 6:11</a>; <a href=\"https://ref.ly/2Kgs6:24-2Kgs6:27\">2KI 6:24–6:27</a></p>\n<h2>Treading grapes at winepresses</h2>\n<h3>Literal references</h3>\n<p><strong><a href=\"https://ref.ly/Neh13:15\">NEH 13:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job24:11\">JOB 24:11</a>; <a href=\"https://ref.ly/Isa16:10\">ISA 16:10</a>; <a href=\"https://ref.ly/Jer48:33\">JER 48:33</a></p>\n<h3>Metaphorical references</h3>\n<p><strong><a href=\"https://ref.ly/Lam1:15\">LAM 1:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa63:1-Isa63:6\">ISA 63:1–63:6</a>; <a href=\"https://ref.ly/Joel3:13\">JOL 3:13</a>; <a href=\"https://ref.ly/Rev14:17-Rev14:20\">REV 14:17–14:20</a>, <a href=\"https://ref.ly/Rev19:11-Rev19:16\">REV 19:11–19:16</a></p>\n<h2>The association of winepresses with harvest</h2>\n<p><strong><a href=\"https://ref.ly/Rev14:18-Rev14:19\">REV 14:18–14:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut16:13-Deut16:15\">DEU 16:13–16:15</a></p>\n<h2>Winepresses in vineyards</h2>\n<p><strong><a href=\"https://ref.ly/Isa5:1-Isa5:2\">ISA 5:1–5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt21:33-Matt21:34\">MAT 21:33–21:34</a> parallel <a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a></p>\n<h2>Winepresses in place-names</h2>\n<p><strong><a href=\"https://ref.ly/Judg7:25\">JDG 7:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Zech14:10\">ZEC 14:10</a></p>",
@@ -194,6 +194,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4548: wineskin",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Winepress",
+"type": "realia",
+"confidence": 0.701,
+"match_method": "scored",
+"preferred_label": "Winepress"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "4936",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4936: fate",
 "media_type": "Text",
-"index_reference": "4936: fate",
+"index_reference": "4936",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A hidden power which some believe to control and determine everything that happens in such a way that it is impossible to prevent or change things. Scripture stresses both the sovereignty of God and human responsibility and has no place for this pagan notion. The term is also used in a looser sense, to mean “end” or “destiny”.</p>",
@@ -26,7 +26,8 @@
 "label": "4938: fate, and final destiny",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

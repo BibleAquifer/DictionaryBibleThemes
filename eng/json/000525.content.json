@@ -2,10 +2,10 @@
 {
 "content_id": "4693",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4693: wool",
 "media_type": "Text",
-"index_reference": "4693: wool",
+"index_reference": "4693",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Wool used for clothing</h2>\n<p><strong><a href=\"https://ref.ly/Ezek34:3\">EZK 34:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev13:47-Lev13:48\">LEV 13:47–13:48</a>; <a href=\"https://ref.ly/Deut22:11\">DEU 22:11</a>; <a href=\"https://ref.ly/Prov31:13\">PRO 31:13</a>; <a href=\"https://ref.ly/Isa51:8\">ISA 51:8</a>; <a href=\"https://ref.ly/Ezek44:17\">EZK 44:17</a></p>\n<h2>Wool used in sacrificial ritual</h2>\n<p><a href=\"https://ref.ly/Num19:6\">NUM 19:6</a>; ; <a href=\"https://ref.ly/Heb9:19\">HEB 9:19</a></p>\n<h2>Wool as a valuable commodity</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs3:4\">2KI 3:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut18:4\">DEU 18:4</a>; <a href=\"https://ref.ly/Ezek27:18\">EZK 27:18</a>; <a href=\"https://ref.ly/Hos2:5\">HOS 2:5</a>, <a href=\"https://ref.ly/Hos2:9\">HOS 2:9</a></p>\n<h2>Figurative use of wool</h2>\n<p><strong><a href=\"https://ref.ly/Isa1:18\">ISA 1:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps147:16\">PSA 147:16</a>; <a href=\"https://ref.ly/Dan7:9\">DAN 7:9</a>; <a href=\"https://ref.ly/Rev1:14\">REV 1:14</a></p>",
@@ -142,6 +142,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5258: cloth",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Wool",
+"type": "realia",
+"confidence": 0.7401,
+"match_method": "scored",
+"preferred_label": "Wool"
 }
 ]
 }

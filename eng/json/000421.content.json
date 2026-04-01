@@ -2,10 +2,10 @@
 {
 "content_id": "4412",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4412: binding corn",
 "media_type": "Text",
-"index_reference": "4412: binding corn",
+"index_reference": "4412",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Binding corn as a feature of agricultural life</h2>\n<p><strong><a href=\"https://ref.ly/Gen37:7\">GEN 37:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev19:9\">LEV 19:9</a> <em>the law of the gleaner</em>; <a href=\"https://ref.ly/Lev23:10\">LEV 23:10</a>, <a href=\"https://ref.ly/Lev23:22\">LEV 23:22</a>; <a href=\"https://ref.ly/Deut11:14\">DEU 11:14</a>, <a href=\"https://ref.ly/Deut24:19\">DEU 24:19</a>; <a href=\"https://ref.ly/Ruth2:16\">RUT 2:16</a>; <a href=\"https://ref.ly/Isa17:5\">ISA 17:5</a></p>\n<h2>Metaphorical usage</h2>\n<p><strong><a href=\"https://ref.ly/Ps126:6\">PSA 126:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job5:26\">JOB 5:26</a>; <a href=\"https://ref.ly/Prov10:5\">PRO 10:5</a>; <a href=\"https://ref.ly/Jer9:22\">JER 9:22</a>; <a href=\"https://ref.ly/Mic4:12\">MIC 4:12</a>; <a href=\"https://ref.ly/Matt9:37-Matt9:38\">MAT 9:37–9:38</a>, <a href=\"https://ref.ly/Matt13:30\">MAT 13:30</a>; <a href=\"https://ref.ly/Luke10:2\">LUK 10:2</a></p>",
@@ -157,6 +157,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4542: wheat",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Calneh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Calneh"
 }
 ]
 }

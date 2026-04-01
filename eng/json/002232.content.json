@@ -2,10 +2,10 @@
 {
 "content_id": "8445",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8445: hospitality",
 "media_type": "Text",
-"index_reference": "8445: hospitality",
+"index_reference": "8445",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Acts of generosity and friendship towards strangers. God's people are called to be hospitable as part of their duty to others and in gratitude for the salvation they have received from God. Showing hospitality includes the responsibility to protect those received as guests.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8447: hospitality, examples of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shoham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shoham"
 }
 ]
 }

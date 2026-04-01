@@ -2,10 +2,10 @@
 {
 "content_id": "5829",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5829: defiance",
 "media_type": "Text",
-"index_reference": "5829: defiance",
+"index_reference": "5829",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Open refusal to obey any authority. Defiance is seen in the Bible as evil when authority is legitimate but good when authority is ungodly.</p>\n<h2>Defiance of God is condemned</h2>\n<p><strong><a href=\"https://ref.ly/Jer50:29\">JER 50:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs13:21-1Kgs13:22\">1KI 13:21–13:22</a>, <a href=\"https://ref.ly/1Kgs13:26\">1KI 13:26</a>; <a href=\"https://ref.ly/Ps139:19-Ps139:22\">PSA 139:19–139:22</a>; <a href=\"https://ref.ly/Isa3:8\">ISA 3:8</a>, <a href=\"https://ref.ly/Isa65:7\">ISA 65:7</a>; <a href=\"https://ref.ly/Jer48:26\">JER 48:26</a>, <a href=\"https://ref.ly/Jer48:42\">JER 48:42</a></p>\n<h3>To defy God's people is to defy God</h3>\n<p><a href=\"https://ref.ly/1Sam17:10\">1SA 17:10</a>, <a href=\"https://ref.ly/1Sam17:23\">1SA 17:23</a>, <a href=\"https://ref.ly/1Sam17:25-1Sam17:26\">1SA 17:25–17:26</a>, <a href=\"https://ref.ly/1Sam17:36\">1SA 17:36</a>, <a href=\"https://ref.ly/1Sam17:45\">1SA 17:45</a></p>\n<h2>Defiance of legitimate authority</h2>\n<p><strong><a href=\"https://ref.ly/Rom13:2\">ROM 13:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num15:30\">NUM 15:30</a>; <a href=\"https://ref.ly/1Pet2:13\">1PE 2:13</a></p>\n<h2>Defiance of ungodly authority</h2>\n<p><strong><a href=\"https://ref.ly/Dan3:28\">DAN 3:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan6:13\">DAN 6:13</a>; <a href=\"https://ref.ly/Acts4:19\">ACT 4:19</a>, <a href=\"https://ref.ly/Acts5:29\">ACT 5:29</a>, <a href=\"https://ref.ly/Acts17:7\">ACT 17:7</a>; <a href=\"https://ref.ly/Rev20:4\">REV 20:4</a></p>",
@@ -193,6 +193,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8718: disobedience",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hethlon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hethlon"
 }
 ]
 }

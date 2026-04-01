@@ -2,10 +2,10 @@
 {
 "content_id": "8613",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8613: prayer, persistence in",
 "media_type": "Text",
-"index_reference": "8613: prayer, persistence in",
+"index_reference": "8613",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An answer to prayer may not come immediately. Petitioners are to continue praying earnestly. This requires patience, determination and, at times, a willingness to wrestle with God for the desired outcome.</p>\n<h2>The principle of persistence in prayer</h2>\n<h3>Prayer should be made with patience and perseverance</h3>\n<p><strong><a href=\"https://ref.ly/Ps40:1\">PSA 40:1</a>, <a href=\"https://ref.ly/Ps88:1\">PSA 88:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr16:11\">1CH 16:11</a>; <a href=\"https://ref.ly/Ps116:2\">PSA 116:2</a></p>\n<h3>Jesus Christ taught his disciples to persist in prayer</h3>\n<p><strong><a href=\"https://ref.ly/Luke18:1-Luke18:8\">LUK 18:1–18:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke11:5-Luke11:10\">LUK 11:5–11:10</a></p>\n<h3>Persistence in prayer was exemplified in the early church</h3>\n<p><strong><a href=\"https://ref.ly/Acts1:14\">ACT 1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts2:42\">ACT 2:42</a></p>\n<h3>Paul exhorted the churches to practise persistent prayer</h3>\n<p><strong><a href=\"https://ref.ly/Eph6:18\">EPH 6:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom12:12\">ROM 12:12</a>; <a href=\"https://ref.ly/1Thess5:17\">1TH 5:17</a></p>\n<h2>Examples of persistence in prayer</h2>\n<h3>Abraham pleads persistently for Sodom</h3>\n<p><strong><a href=\"https://ref.ly/Gen18:23-Gen18:33\">GEN 18:23–18:33</a></strong></p>\n<h3>Jacob persists in wrestling with God</h3>\n<p><strong><a href=\"https://ref.ly/Gen32:24-Gen32:32\">GEN 32:24–32:32</a></strong></p>\n<h3>Moses persists in interceding for Israel</h3>\n<p><strong><a href=\"https://ref.ly/Deut9:25-Deut9:29\">DEU 9:25–9:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:31-Exod32:32\">EXO 32:31–32:32</a></p>\n<h3>Hannah persistently asks for a son</h3>\n<p><strong><a href=\"https://ref.ly/1Sam1:10-1Sam1:11\">1SA 1:10–1:11</a></strong></p>\n<h3>Elijah persists in prayer about the rain</h3>\n<p><strong><a href=\"https://ref.ly/Jas5:17-Jas5:18\">JAS 5:17–5:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs18:36-1Kgs18:44\">1KI 18:36–18:44</a></p>\n<h3>The psalmists persist in calling out to God</h3>\n<p><a href=\"https://ref.ly/Ps88:1-Ps88:18\">PSA 88:1–88:18</a>, <a href=\"https://ref.ly/Ps119:147-Ps119:149\">PSA 119:147–119:149</a>, <a href=\"https://ref.ly/Ps130:1-Ps130:6\">PSA 130:1–130:6</a></p>\n<h3>Jesus Christ persisted in pursuing the Father's will</h3>\n<p><strong><a href=\"https://ref.ly/Luke22:42-Luke22:44\">LUK 22:42–22:44</a></strong> parallels <a href=\"https://ref.ly/Matt26:36-Matt26:43\">MAT 26:36–26:43</a>, <a href=\"https://ref.ly/Mark14:32-Mark14:40\">MRK 14:32–14:40</a></p>\n<h2>Persistence in prayer is exemplified in waiting for God</h2>\n<p><strong><a href=\"https://ref.ly/Mic7:7\">MIC 7:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps27:14\">PSA 27:14</a>, <a href=\"https://ref.ly/Ps33:20\">PSA 33:20</a>, <a href=\"https://ref.ly/Ps37:7\">PSA 37:7</a>, <a href=\"https://ref.ly/Ps38:15\">PSA 38:15</a>, <a href=\"https://ref.ly/Ps40:1\">PSA 40:1</a>; <a href=\"https://ref.ly/Isa26:8\">ISA 26:8</a></p>",
@@ -213,6 +213,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8672: striving with God",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Stachys",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Stachys"
 }
 ]
 }

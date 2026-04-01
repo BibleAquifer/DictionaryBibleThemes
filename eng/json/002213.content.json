@@ -2,10 +2,10 @@
 {
 "content_id": "8424",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8424: evangelism",
 "media_type": "Text",
-"index_reference": "8424: evangelism",
+"index_reference": "8424",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The proclamation of the good news of Jesus Christ, which arises naturally from believers' love for God and appreciation of all that God has done for them. The NT stresses the importance of evangelism, and provides guidance as to how it should be carried out.</p>",
@@ -32,6 +32,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8427: evangelism, kinds of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Shion",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shion"
 }
 ]
 }

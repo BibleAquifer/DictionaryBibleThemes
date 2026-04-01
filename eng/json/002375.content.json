@@ -2,10 +2,10 @@
 {
 "content_id": "8746",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8746: false Christs",
 "media_type": "Text",
-"index_reference": "8746: false christs",
+"index_reference": "8746",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Mistaken and deceptive people claiming to be Jesus Christ. Jesus Christ warns his followers to be on their guard against the appearance of such people.</p>\n<h2>Jesus Christ warns that false Christs will appear</h2>\n<p><strong><a href=\"https://ref.ly/Matt24:5\">MAT 24:5</a></strong> parallels <a href=\"https://ref.ly/Mark13:6\">MRK 13:6</a>, <a href=\"https://ref.ly/Luke21:8\">LUK 21:8</a> <em>See also</em> <a href=\"https://ref.ly/Matt24:23\">MAT 24:23</a> parallel <a href=\"https://ref.ly/Mark13:21\">MRK 13:21</a></p>\n<h2>False Christs will perform signs and miracles in order to deceive</h2>\n<p><strong><a href=\"https://ref.ly/Matt24:24\">MAT 24:24</a></strong> parallel <a href=\"https://ref.ly/Mark13:22\">MRK 13:22</a></p>\n<h2>False Christs can be recognised because the return of Jesus Christ will be obvious to everyone</h2>\n<p><strong><a href=\"https://ref.ly/Matt24:27-Matt24:31\">MAT 24:27–24:31</a></strong> parallels <a href=\"https://ref.ly/Mark13:24-Mark13:27\">MRK 13:24–13:27</a>, <a href=\"https://ref.ly/Luke21:25-Luke21:28\">LUK 21:25–21:28</a> <em>The personal return of the Lord Jesus Christ is not described in terms of an appearance to a select group, but to the whole world. The attempt of anyone to convince others that he is Christ therefore is a sure sign of deception.</em></p>",
@@ -121,6 +121,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9115: antichrist, the",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Tarsus",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tarsus"
 }
 ]
 }

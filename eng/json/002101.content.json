@@ -2,10 +2,10 @@
 {
 "content_id": "8266",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8266: holiness",
 "media_type": "Text",
-"index_reference": "8266: holiness",
+"index_reference": "8266",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The quality of God that sets him utterly apart from his world, especially in terms of his purity and sanctity. The holiness of God is also manifested in the persons and work of Jesus Christ and the Holy Spirit. Believers are called upon to become like God in his holiness.</p>",
@@ -60,6 +60,120 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8273: holiness, ethical aspects of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shallum.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shallum"
+},
+{
+"id": "person:Shallum.11",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shallum"
+},
+{
+"id": "person:Shallum.12",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shallum"
+},
+{
+"id": "person:Shallum.13",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shallum"
+},
+{
+"id": "person:Shallum.14",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shallum"
+},
+{
+"id": "person:Shallum.15",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shallum"
+},
+{
+"id": "person:Shillem",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shillem"
+},
+{
+"id": "person:Shallum.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shallum"
+},
+{
+"id": "person:Shallum.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shallum"
+},
+{
+"id": "person:Shallum.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shallum"
+},
+{
+"id": "person:Shallum.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shallum"
+},
+{
+"id": "person:Shallum.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shallum"
+},
+{
+"id": "person:Shallum.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shallum"
+},
+{
+"id": "person:Shallum.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shallum"
+},
+{
+"id": "person:Shallum.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shallum"
+},
+{
+"id": "person:Jehoiachin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehoiachin"
 }
 ]
 }

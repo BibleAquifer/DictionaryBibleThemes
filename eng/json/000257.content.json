@@ -2,10 +2,10 @@
 {
 "content_id": "3120",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3120: Holy Spirit, descriptions of",
 "media_type": "Text",
-"index_reference": "3120: holy spirit, descriptions of",
+"index_reference": "3120",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Though himself invisible, the Holy Spirit may appear in symbolic form and his activities may be described metaphorically.</p>\n<h2>The dove</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:16\">MAT 3:16</a></strong> parallels <a href=\"https://ref.ly/Mark1:10\">MRK 1:10</a>, <a href=\"https://ref.ly/Luke3:22\">LUK 3:22</a> <em>See also</em> <a href=\"https://ref.ly/John1:32\">JHN 1:32</a></p>\n<h2>The wind or breath</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:2\">ACT 2:2</a></strong> <em>This phenomenon accompanied the filling with the Spirit.</em> <em>See also</em> <a href=\"https://ref.ly/Ezek37:9-Ezek37:14\">EZK 37:9–37:14</a> <em>The same Hebrew word is here translated “breath”, “wind” and “spirit”</em>; <a href=\"https://ref.ly/John3:8\">JHN 3:8</a>, <a href=\"https://ref.ly/John20:22\">JHN 20:22</a></p>\n<h2>The fire</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:3-Acts2:4\">ACT 2:3–2:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa4:4\">ISA 4:4</a>; <a href=\"https://ref.ly/Matt3:11-Matt3:12\">MAT 3:11–3:12</a> parallel <a href=\"https://ref.ly/Luke3:16-Luke3:17\">LUK 3:16–3:17</a>; <a href=\"https://ref.ly/1Thess5:19\">1TH 5:19</a></p>\n<h2>The oil of anointing</h2>\n<p><a href=\"https://ref.ly/Isa61:1\">ISA 61:1</a>; ; <a href=\"https://ref.ly/Acts10:38\">ACT 10:38</a></p>\n<h2>Water</h2>\n<p><strong><a href=\"https://ref.ly/John7:37-John7:39\">JHN 7:37–7:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa44:3\">ISA 44:3</a>; <a href=\"https://ref.ly/John4:14\">JHN 4:14</a>; <a href=\"https://ref.ly/1Cor12:13\">1CO 12:13</a></p>\n<h2>A seal</h2>\n<p><strong><a href=\"https://ref.ly/Eph1:13\">EPH 1:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph4:30\">EPH 4:30</a></p>\n<h2>A deposit</h2>\n<p><a href=\"https://ref.ly/2Cor1:21-2Cor1:22\">2CO 1:21–1:22</a>; ; <a href=\"https://ref.ly/Eph1:14\">EPH 1:14</a></p>\n<h2>A guide or shepherd</h2>\n<p><strong><a href=\"https://ref.ly/Isa63:14\">ISA 63:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa34:16\">ISA 34:16</a></p>\n<h2>A voice</h2>\n<p><strong><a href=\"https://ref.ly/Heb3:7-Heb3:11\">HEB 3:7–3:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek2:2\">EZK 2:2</a>; <a href=\"https://ref.ly/Matt10:19-Matt10:20\">MAT 10:19–10:20</a> parallel <a href=\"https://ref.ly/Mark13:11\">MRK 13:11</a>; <a href=\"https://ref.ly/John16:13\">JHN 16:13</a></p>\n<h2>God's gift</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:38\">ACT 2:38</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts1:4\">ACT 1:4</a>, <a href=\"https://ref.ly/Acts8:20\">ACT 8:20</a>, <a href=\"https://ref.ly/Acts10:45\">ACT 10:45</a>, <a href=\"https://ref.ly/Acts11:17\">ACT 11:17</a></p>\n<h2>The power of God</h2>\n<p><strong><a href=\"https://ref.ly/Luke1:35\">LUK 1:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke5:17\">LUK 5:17</a>, <a href=\"https://ref.ly/Luke6:19\">LUK 6:19</a>, <a href=\"https://ref.ly/Luke24:49\">LUK 24:49</a></p>",
@@ -331,7 +331,8 @@
 "label": "7784: shepherd",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

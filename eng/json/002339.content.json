@@ -2,10 +2,10 @@
 {
 "content_id": "8704",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8704: apostasy",
 "media_type": "Text",
-"index_reference": "8704: apostasy",
+"index_reference": "8704",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A general falling away from religion or a denial of the faith by those who once held it or professed to hold it. It is frequently described in terms of spiritual adultery and thus provokes the jealous anger of God.</p>",
@@ -33,7 +33,8 @@
 "label": "8707: apostasy, dealing with personal",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

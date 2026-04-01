@@ -2,10 +2,10 @@
 {
 "content_id": "7394",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7394: memorial",
 "media_type": "Text",
-"index_reference": "7394: memorial",
+"index_reference": "7394",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An object, institution or custom established or founded as a reminder of an important person or event held to be worth remembering in the life of the community.</p>\n<h2>Objects as a memorial</h2>\n<h3>Stones</h3>\n<p><strong><a href=\"https://ref.ly/Josh4:4-Josh4:7\">JOS 4:4–4:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod28:9-Exod28:12\">EXO 28:9–28:12</a> parallel <a href=\"https://ref.ly/Exod39:6-Exod39:7\">EXO 39:6–39:7</a>; <a href=\"https://ref.ly/Exod28:29\">EXO 28:29</a></p>\n<h3>Money or gold</h3>\n<p><strong><a href=\"https://ref.ly/Exod30:16\">EXO 30:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num31:54\">NUM 31:54</a></p>\n<h3>Incense</h3>\n<p><strong><a href=\"https://ref.ly/Lev24:7\">LEV 24:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa66:3\">ISA 66:3</a></p>\n<h3>A crown</h3>\n<p><strong><a href=\"https://ref.ly/Zech6:9-Zech6:15\">ZEC 6:9–6:15</a></strong></p>\n<h2>Offerings as a memorial</h2>\n<p><strong><a href=\"https://ref.ly/Lev2:1-Lev2:2\">LEV 2:1–2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev5:11-Lev5:13\">LEV 5:11–5:13</a>; <a href=\"https://ref.ly/Num10:10\">NUM 10:10</a></p>\n<h2>Meals as a memorial</h2>\n<h3>The Lord's Supper</h3>\n<p><strong><a href=\"https://ref.ly/1Cor11:23-1Cor11:26\">1CO 11:23–11:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt26:26-Matt26:28\">MAT 26:26–26:28</a> parallels <a href=\"https://ref.ly/Mark14:22-Mark14:24\">MRK 14:22–14:24</a>, <a href=\"https://ref.ly/Luke22:17-Luke22:20\">LUK 22:17–22:20</a></p>\n<h3>The Passover and the Feast of Unleavened Bread</h3>\n<p><a href=\"https://ref.ly/Deut16:1-Deut16:8\">DEU 16:1–16:8</a> parallels <a href=\"https://ref.ly/Exod12:14-Exod12:20\">EXO 12:14–12:20</a>, <a href=\"https://ref.ly/Lev23:4-Lev23:8\">LEV 23:4–23:8</a>, <a href=\"https://ref.ly/Num28:16-Num28:25\">NUM 28:16–28:25</a></p>",
@@ -188,6 +188,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8763: forgetting",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Nicanor",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nicanor"
 }
 ]
 }

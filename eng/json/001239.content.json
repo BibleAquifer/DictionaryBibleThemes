@@ -2,10 +2,10 @@
 {
 "content_id": "5697",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5697: grandparents",
 "media_type": "Text",
-"index_reference": "5697: grandparents",
+"index_reference": "5697",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Grandparents mentioned in Scripture</h2>\n<h3>Saul, the grandfather of Mephibosheth</h3>\n<p><strong><a href=\"https://ref.ly/2Sam9:7\">2SA 9:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam16:3\">2SA 16:3</a>, <a href=\"https://ref.ly/2Sam19:26-2Sam19:28\">2SA 19:26–19:28</a></p>\n<h3>Maacah, the grandmother of Asa</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs15:9-1Kgs15:10\">1KI 15:9–15:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs15:13\">1KI 15:13</a> parallel <a href=\"https://ref.ly/2Chr15:16\">2CH 15:16</a></p>\n<h3>Lois, the grandmother of Timothy</h3>\n<p><strong><a href=\"https://ref.ly/2Tim1:5\">2TI 1:5</a></strong></p>\n<h2>Believers have a responsibility to support their grandparents</h2>\n<p><strong><a href=\"https://ref.ly/1Tim5:4\">1TI 5:4</a></strong></p>",
@@ -88,6 +88,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5731: parents",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hashmonah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hashmonah"
 }
 ]
 }

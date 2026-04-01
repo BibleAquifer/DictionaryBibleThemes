@@ -2,10 +2,10 @@
 {
 "content_id": "8815",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8815: ridicule",
 "media_type": "Text",
-"index_reference": "8815: ridicule",
+"index_reference": "8815",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Laughing others to scorn, publicly humiliating or making fun of them in a demeaning manner.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8817: ridicule, objects of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Theophilus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Theophilus"
 }
 ]
 }

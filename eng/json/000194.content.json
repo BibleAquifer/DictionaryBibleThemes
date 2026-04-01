@@ -2,16 +2,17 @@
 {
 "content_id": "2342",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "2342: Jesus Christ, Holy Spirit in life of",
 "media_type": "Text",
-"index_reference": "2342: jesus christ, holy spirit in life of",
+"index_reference": "2342",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"3269.md\">3269: Holy Spirit, in life of Jesus Christ</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

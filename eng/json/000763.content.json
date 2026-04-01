@@ -2,10 +2,10 @@
 {
 "content_id": "5174",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5174: prostration",
 "media_type": "Text",
-"index_reference": "5174: prostration",
+"index_reference": "5174",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The act of falling down upon one's face in front of someone, as a gesture of fear or reverence before God or a person of high rank.</p>\n<h2>Prostration before God</h2>\n<h3>In reverence or fear</h3>\n<p><strong><a href=\"https://ref.ly/Num20:6\">NUM 20:6</a></strong>; <strong><a href=\"https://ref.ly/1Chr29:20\">1CH 29:20</a></strong>; <strong><a href=\"https://ref.ly/Rev7:11\">REV 7:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen17:3\">GEN 17:3</a>; <a href=\"https://ref.ly/Lev9:24\">LEV 9:24</a>; <a href=\"https://ref.ly/Num24:4\">NUM 24:4</a>; <a href=\"https://ref.ly/1Sam5:3\">1SA 5:3</a>; <a href=\"https://ref.ly/1Kgs18:39\">1KI 18:39</a>; <a href=\"https://ref.ly/Neh8:6\">NEH 8:6</a>; <a href=\"https://ref.ly/Ezek1:28\">EZK 1:28</a>; <a href=\"https://ref.ly/Matt2:11\">MAT 2:11</a>, <a href=\"https://ref.ly/Matt17:6\">MAT 17:6</a>, <a href=\"https://ref.ly/Matt26:39\">MAT 26:39</a>; <a href=\"https://ref.ly/Luke5:12\">LUK 5:12</a></p>\n<h3>As an expression of grieving over sin</h3>\n<p><a href=\"https://ref.ly/Deut9:18\">DEU 9:18</a>, <a href=\"https://ref.ly/Deut9:25\">DEU 9:25</a>; ; <a href=\"https://ref.ly/Josh7:6\">JOS 7:6</a>; ; <a href=\"https://ref.ly/Isa15:3\">ISA 15:3</a>; ; <a href=\"https://ref.ly/Ezek9:8\">EZK 9:8</a></p>\n<h2>Prostration before God's messenger</h2>\n<p><strong><a href=\"https://ref.ly/Num22:31\">NUM 22:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh5:14\">JOS 5:14</a>; <a href=\"https://ref.ly/Judg13:20\">JDG 13:20</a>; <a href=\"https://ref.ly/1Chr21:16\">1CH 21:16</a>; <a href=\"https://ref.ly/Dan8:17\">DAN 8:17</a>; <a href=\"https://ref.ly/Luke24:5\">LUK 24:5</a></p>\n<h2>Prostration before other people</h2>\n<p><strong><a href=\"https://ref.ly/1Sam24:8\">1SA 24:8</a></strong>; <strong><a href=\"https://ref.ly/Isa51:23\">ISA 51:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ruth2:10\">RUT 2:10</a>; <a href=\"https://ref.ly/1Sam25:23\">1SA 25:23</a>, <a href=\"https://ref.ly/1Sam28:14\">1SA 28:14</a>; <a href=\"https://ref.ly/2Sam14:4\">2SA 14:4</a>, <a href=\"https://ref.ly/2Sam19:18\">2SA 19:18</a>; <a href=\"https://ref.ly/Isa49:23\">ISA 49:23</a>; <a href=\"https://ref.ly/Dan2:46\">DAN 2:46</a></p>",
@@ -300,6 +300,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8622: worship",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Eth-kazin",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eth-kazin"
 }
 ]
 }

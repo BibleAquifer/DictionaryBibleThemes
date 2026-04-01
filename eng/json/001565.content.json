@@ -2,10 +2,10 @@
 {
 "content_id": "6224",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6224: rebellion, against human authority",
 "media_type": "Text",
-"index_reference": "6224: rebellion, against human authority",
+"index_reference": "6224",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Human authority is frequently defied and resisted. To rebel against God's chosen leaders is to defy God himself.</p>\n<h2>Examples of rebellion against human leaders</h2>\n<p><strong><a href=\"https://ref.ly/Gen14:3-Gen14:4\">GEN 14:3–14:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs18:7\">2KI 18:7</a>, <a href=\"https://ref.ly/2Kgs24:1\">2KI 24:1</a>, <a href=\"https://ref.ly/2Kgs24:20\">2KI 24:20</a> parallels <a href=\"https://ref.ly/2Chr36:13\">2CH 36:13</a>, <a href=\"https://ref.ly/Jer52:3\">JER 52:3</a>; <a href=\"https://ref.ly/2Chr13:6\">2CH 13:6</a>; <a href=\"https://ref.ly/Mark15:7\">MRK 15:7</a></p>\n<h3>Rebellion against parents</h3>\n<p><a href=\"https://ref.ly/Deut21:18-Deut21:21\">DEU 21:18–21:21</a></p>\n<h3>The rebellion of nations</h3>\n<p><a href=\"https://ref.ly/1Kgs12:19\">1KI 12:19</a> parallel <a href=\"https://ref.ly/2Chr10:19\">2CH 10:19</a>; ; <a href=\"https://ref.ly/2Kgs1:1\">2KI 1:1</a></p>\n<h2>Accusations of rebellion</h2>\n<p><a href=\"https://ref.ly/Neh2:19\">NEH 2:19</a>, <a href=\"https://ref.ly/Neh6:5-Neh6:8\">NEH 6:5–6:8</a></p>\n<h2>Rebellion against God's chosen leaders</h2>\n<p><strong><a href=\"https://ref.ly/Exod23:21\">EXO 23:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num16:1-Num16:3\">NUM 16:1–16:3</a>, <a href=\"https://ref.ly/Num20:2-Num20:5\">NUM 20:2–20:5</a>; <a href=\"https://ref.ly/Josh1:18\">JOS 1:18</a>; <a href=\"https://ref.ly/2Sam15:10\">2SA 15:10</a></p>\n<h2>Rebellion against legitimate authority is condemned</h2>\n<p><strong><a href=\"https://ref.ly/Rom13:2\">ROM 13:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Pet2:13\">1PE 2:13</a></p>",
@@ -208,6 +208,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7733: leaders",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jarha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jarha"
 }
 ]
 }

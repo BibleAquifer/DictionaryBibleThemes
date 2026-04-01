@@ -2,10 +2,10 @@
 {
 "content_id": "6145",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6145: deceit",
 "media_type": "Text",
-"index_reference": "6145: deceit",
+"index_reference": "6145",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Behaviour, in words or actions, which is deliberately intended to make people believe things that are not true.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6147: deceit, practice of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jabal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jabal"
 }
 ]
 }

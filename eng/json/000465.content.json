@@ -2,10 +2,10 @@
 {
 "content_id": "4500",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4500: poison",
 "media_type": "Text",
-"index_reference": "4500: poison",
+"index_reference": "4500",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A substance obtained from plants or animals that can cause illness, pain, disability or death. It is often used symbolically to refer to distress or bitterness.</p>\n<h2>Kinds of poison</h2>\n<h3>Poison from plants, water or food</h3>\n<p><a href=\"https://ref.ly/Exod15:23\">EXO 15:23</a>; ; <a href=\"https://ref.ly/Deut32:32\">DEU 32:32</a>; ; <a href=\"https://ref.ly/2Kgs2:19-2Kgs2:22\">2KI 2:19–2:22</a>, <a href=\"https://ref.ly/2Kgs4:39-2Kgs4:40\">2KI 4:39–4:40</a>; ; <a href=\"https://ref.ly/Hos10:4\">HOS 10:4</a></p>\n<h3>Poison from animals or reptiles</h3>\n<p><a href=\"https://ref.ly/Num21:6\">NUM 21:6</a>; ; <a href=\"https://ref.ly/Deut32:24\">DEU 32:24</a>, <a href=\"https://ref.ly/Deut32:33\">DEU 32:33</a></p>\n<h2>Poison used symbolically</h2>\n<h3>To refer to distress</h3>\n<p>In these incidences God himself is portrayed as the one who brings such bitter experiences:\n <a href=\"https://ref.ly/Job6:4\">JOB 6:4</a>; ; <a href=\"https://ref.ly/Jer8:14\">JER 8:14</a>, <a href=\"https://ref.ly/Jer9:15\">JER 9:15</a>, <a href=\"https://ref.ly/Jer23:15\">JER 23:15</a></p>\n<h3>To refer to evil and its effects</h3>\n<p><strong><a href=\"https://ref.ly/Job20:12-Job20:16\">JOB 20:12–20:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut29:18\">DEU 29:18</a>, <a href=\"https://ref.ly/Deut32:32-Deut32:33\">DEU 32:32–32:33</a>; <a href=\"https://ref.ly/Ps58:4\">PSA 58:4</a>; <a href=\"https://ref.ly/Prov23:32\">PRO 23:32</a>; <a href=\"https://ref.ly/Isa14:29\">ISA 14:29</a>; <a href=\"https://ref.ly/Jer8:17\">JER 8:17</a>; <a href=\"https://ref.ly/Amos6:12\">AMO 6:12</a>; <a href=\"https://ref.ly/Acts14:2\">ACT 14:2</a>; <a href=\"https://ref.ly/Rom3:13\">ROM 3:13</a>; <a href=\"https://ref.ly/Ps140:1-Ps140:3\">PSA 140:1–140:3</a>; <a href=\"https://ref.ly/Jas3:8\">JAS 3:8</a>; <a href=\"https://ref.ly/Rev9:5\">REV 9:5</a></p>",
@@ -191,7 +191,8 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

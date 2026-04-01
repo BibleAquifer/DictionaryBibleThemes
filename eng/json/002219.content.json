@@ -2,10 +2,10 @@
 {
 "content_id": "8430",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8430: fasting, nature of",
 "media_type": "Text",
-"index_reference": "8430: fasting, nature of",
+"index_reference": "8430",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture frequently refers to individuals fasting and describes the different kinds of fast which may be undertaken.</p>\n<h2>Kinds of fasting</h2>\n<h3>Abstaining from food and drink</h3>\n<p><strong><a href=\"https://ref.ly/Ezra10:6\">EZR 10:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan9:3\">DAN 9:3</a>; <a href=\"https://ref.ly/Acts23:12\">ACT 23:12</a></p>\n<h3>Abstaining from food only</h3>\n<p><strong><a href=\"https://ref.ly/1Sam1:7\">1SA 1:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan6:18\">DAN 6:18</a></p>\n<h2>The duration of fasting</h2>\n<h3>One day: the normal fast period</h3>\n<p><a href=\"https://ref.ly/Lev23:32\">LEV 23:32</a>; ; <a href=\"https://ref.ly/Judg20:26\">JDG 20:26</a>; ; <a href=\"https://ref.ly/2Sam1:12\">2SA 1:12</a></p>\n<h3>Three days</h3>\n<p><a href=\"https://ref.ly/Esth4:16\">EST 4:16</a>; ; <a href=\"https://ref.ly/Acts9:9\">ACT 9:9</a></p>\n<h3>Seven days</h3>\n<p><a href=\"https://ref.ly/1Sam31:13\">1SA 31:13</a> parallel <a href=\"https://ref.ly/1Chr10:12\">1CH 10:12</a>; ; <a href=\"https://ref.ly/2Sam12:16-2Sam12:20\">2SA 12:16–12:20</a></p>\n<h3>Forty days</h3>\n<p>These 40-day fasts are all in unique circumstances and are not prescribed:\n <a href=\"https://ref.ly/Exod34:28\">EXO 34:28</a>; ; <a href=\"https://ref.ly/1Kgs19:8\">1KI 19:8</a>; ; <a href=\"https://ref.ly/Matt4:2\">MAT 4:2</a> parallel <a href=\"https://ref.ly/Luke4:2\">LUK 4:2</a></p>\n<h2>Regular observances of fasting</h2>\n<h3>Those prescribed by the Law</h3>\n<p><strong><a href=\"https://ref.ly/Lev16:29-Lev16:31\">LEV 16:29–16:31</a></strong> <em>NIV footnote at verse 29.</em> <em>See also</em> <a href=\"https://ref.ly/Lev23:26-Lev23:32\">LEV 23:26–23:32</a>; <a href=\"https://ref.ly/Num29:7\">NUM 29:7</a>; <a href=\"https://ref.ly/Acts27:9\">ACT 27:9</a></p>\n<h3>Those observed in Jewish tradition</h3>\n<p><strong><a href=\"https://ref.ly/Zech8:19\">ZEC 8:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth9:30-Esth9:31\">EST 9:30–9:31</a>; <a href=\"https://ref.ly/Zech7:2-Zech7:5\">ZEC 7:2–7:5</a></p>\n<h3>Those observed by the Pharisees</h3>\n<p><a href=\"https://ref.ly/Luke18:11-Luke18:12\">LUK 18:11–18:12</a></p>\n<h2>Involuntary fasts</h2>\n<h3>Those imposed by decree</h3>\n<p><strong><a href=\"https://ref.ly/2Chr20:3\">2CH 20:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam14:241\">1SA 14:241</a>KI <a href=\"https://ref.ly/1Sam13:8-1Sam13:9\">13:8–13:9</a>, <a href=\"https://ref.ly/1Kgs13:16\">1KI 13:16</a>\n<a href=\"https://ref.ly/1Kgs21:9\">1KI 21:9</a>; <a href=\"https://ref.ly/Jer36:9\">JER 36:9</a></p>\n<h3>Those imposed by circumstances</h3>\n<p><a href=\"https://ref.ly/Acts27:33\">ACT 27:33</a>; ; <a href=\"https://ref.ly/2Cor6:5\">2CO 6:5</a>, <a href=\"https://ref.ly/2Cor11:27\">2CO 11:27</a></p>\n<h2>Voluntary fasts</h2>\n<p><strong><a href=\"https://ref.ly/Neh1:4\">NEH 1:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke2:37\">LUK 2:37</a></p>",
@@ -277,6 +277,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8475: self-denial",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shishak",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shishak"
 }
 ]
 }

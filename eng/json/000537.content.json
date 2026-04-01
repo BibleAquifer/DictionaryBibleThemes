@@ -2,10 +2,10 @@
 {
 "content_id": "4810",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4810: darkness, natural",
 "media_type": "Text",
-"index_reference": "4810: darkness, natural",
+"index_reference": "4810",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture stresses that God is able to be present and known, even in the darkest aspects of the world.</p>\n<h2>Darkness as a symbol of the terrifying majesty of God</h2>\n<p><strong><a href=\"https://ref.ly/Exod20:18-Exod20:21\">EXO 20:18–20:21</a></strong>; <strong><a href=\"https://ref.ly/Ps97:2\">PSA 97:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:11-Deut4:12\">DEU 4:11–4:12</a>, <a href=\"https://ref.ly/Deut5:22-Deut5:24\">DEU 5:22–5:24</a>; <a href=\"https://ref.ly/Heb12:18-Heb12:21\">HEB 12:18–12:21</a></p>\n<h2>God is the source of natural darkness</h2>\n<p><strong><a href=\"https://ref.ly/Isa45:7\">ISA 45:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen1:2-Gen1:5\">GEN 1:2–1:5</a>, <a href=\"https://ref.ly/Gen1:16-Gen1:18\">GEN 1:16–1:18</a>; <a href=\"https://ref.ly/Job26:10\">JOB 26:10</a>; <a href=\"https://ref.ly/Ps74:16\">PSA 74:16</a>, <a href=\"https://ref.ly/Ps104:19-Ps104:20\">PSA 104:19–104:20</a></p>\n<h2>God's eye penetrates the darkness</h2>\n<p><strong><a href=\"https://ref.ly/Job34:21-Job34:22\">JOB 34:21–34:22</a></strong>; <strong><a href=\"https://ref.ly/Ps139:11-Ps139:12\">PSA 139:11–139:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan2:22\">DAN 2:22</a>; <a href=\"https://ref.ly/Amos5:8-Amos5:9\">AMO 5:8–5:9</a>; <a href=\"https://ref.ly/2Cor4:6\">2CO 4:6</a></p>\n<h2>Miracles involving natural darkness</h2>\n<p><strong><a href=\"https://ref.ly/Matt27:45\">MAT 27:45</a></strong> parallels <a href=\"https://ref.ly/Mark15:33\">MRK 15:33</a>, <a href=\"https://ref.ly/Luke23:44-Luke23:45\">LUK 23:44–23:45</a> <em>See also</em> <a href=\"https://ref.ly/Exod10:21-Exod10:23\">EXO 10:21–10:23</a>, <a href=\"https://ref.ly/Exod14:19-Exod14:20\">EXO 14:19–14:20</a>; <a href=\"https://ref.ly/Josh24:6-Josh24:7\">JOS 24:6–24:7</a>; <a href=\"https://ref.ly/Ps105:26-Ps105:28\">PSA 105:26–105:28</a>; <a href=\"https://ref.ly/Isa50:3\">ISA 50:3</a>; <a href=\"https://ref.ly/Acts2:19-Acts2:20\">ACT 2:19–2:20</a>; <a href=\"https://ref.ly/Joel2:30-Joel2:32\">JOL 2:30–2:32</a>; <a href=\"https://ref.ly/Acts13:9-Acts13:12\">ACT 13:9–13:12</a></p>\n<h2>Natural darkness used poetically</h2>\n<p><a href=\"https://ref.ly/2Sam22:10-2Sam22:12\">2SA 22:10–22:12</a> parallel <a href=\"https://ref.ly/Ps18:9-Ps18:11\">PSA 18:9–18:11</a>; ; <a href=\"https://ref.ly/Job3:1-Job3:10\">JOB 3:1–3:10</a></p>",
@@ -242,7 +242,8 @@
 "label": "4957: night",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

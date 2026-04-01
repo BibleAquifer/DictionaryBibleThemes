@@ -2,10 +2,10 @@
 {
 "content_id": "7551",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7551: Pharisees, beliefs of",
 "media_type": "Text",
-"index_reference": "7551: pharisees, beliefs of",
+"index_reference": "7551",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The Pharisees placed considerable emphasis upon the rigorous upholding of the law, particularly the traditional forms in which the law had been established by their predecessors.</p>\n<h2>Pharisaic interpretation of the law</h2>\n<h3>Pharisees were the recognised custodians of the law</h3>\n<p><strong><a href=\"https://ref.ly/Matt23:1-Matt23:3\">MAT 23:1–23:3</a></strong></p>\n<h3>Pharisees emphasised the traditions of the elders</h3>\n<p><strong><a href=\"https://ref.ly/Mark7:3-Mark7:4\">MRK 7:3–7:4</a></strong> <em>For the Pharisees the oral law, the traditions of their predecessors, had an authority equal to that of the written law.</em> <em>See also</em> <a href=\"https://ref.ly/Matt15:1-Matt15:2\">MAT 15:1–15:2</a> parallel <a href=\"https://ref.ly/Mark7:5\">MRK 7:5</a>; <a href=\"https://ref.ly/Gal1:14\">GAL 1:14</a></p>\n<h2>Pharisaic observance of the law</h2>\n<h3>The Sabbath</h3>\n<p><strong><a href=\"https://ref.ly/Matt12:1-Matt12:2\">MAT 12:1–12:2</a></strong> parallels <a href=\"https://ref.ly/Mark2:23-Mark2:24\">MRK 2:23–2:24</a>, <a href=\"https://ref.ly/Luke6:1-Luke6:2\">LUK 6:1–6:2</a> <em>See also</em> <a href=\"https://ref.ly/Luke13:14\">LUK 13:14</a></p>\n<h3>Fasting</h3>\n<p><strong><a href=\"https://ref.ly/Matt9:14\">MAT 9:14</a></strong> parallels <a href=\"https://ref.ly/Mark2:18\">MRK 2:18</a>, <a href=\"https://ref.ly/Luke5:33\">LUK 5:33</a> <em>See also</em> <a href=\"https://ref.ly/Luke18:9-Luke18:12\">LUK 18:9–18:12</a></p>\n<h3>Tithing</h3>\n<p><strong><a href=\"https://ref.ly/Matt23:23\">MAT 23:23</a></strong> parallel <a href=\"https://ref.ly/Luke11:42\">LUK 11:42</a></p>\n<h2>Pharisaic doctrine</h2>\n<p><strong><a href=\"https://ref.ly/Acts23:6-Acts23:9\">ACT 23:6–23:9</a></strong></p>\n<h2>Pharisaic proselytism</h2>\n<p><strong><a href=\"https://ref.ly/Matt23:15\">MAT 23:15</a></strong></p>",
@@ -198,6 +198,36 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9314: resurrection, of the dead",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Pahath-moab.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pahath-moab"
+},
+{
+"id": "person:Pahath-moab.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pahath-moab"
+},
+{
+"id": "person:Pahath-moab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pahath-moab"
+},
+{
+"id": "group:Pharisee",
+"type": "group",
+"confidence": 0.6418,
+"match_method": "scored",
+"preferred_label": "Pharisees"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5114",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5114: Peter, the apostle",
 "media_type": "Text",
-"index_reference": "5114: peter, the apostle",
+"index_reference": "5114",
 "language": "eng",
 "review_level": "None",
 "content": "<p>As a result of the coming of the Holy Spirit, Peter was transformed into a dynamic apostle and witness to Jesus Christ.</p>\n<h2>Peter's credentials as an apostle</h2>\n<p><a href=\"https://ref.ly/Matt10:2\">MAT 10:2</a>; ; <a href=\"https://ref.ly/Acts2:37\">ACT 2:37</a>, <a href=\"https://ref.ly/Acts5:29\">ACT 5:29</a>; ; <a href=\"https://ref.ly/1Pet1:1\">1PE 1:1</a>; ; <a href=\"https://ref.ly/2Pet1:1\">2PE 1:1</a></p>\n<h3>Peter as an apostle to the Jews</h3>\n<p><strong><a href=\"https://ref.ly/Gal2:8\">GAL 2:8</a></strong></p>\n<h2>Peter's leadership</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Acts1:21-Acts1:22\">ACT 1:21–1:22</a>, <a href=\"https://ref.ly/Acts2:14\">ACT 2:14</a>, <a href=\"https://ref.ly/Acts3:12\">ACT 3:12</a>, <a href=\"https://ref.ly/Acts4:8\">ACT 4:8</a>, <a href=\"https://ref.ly/Acts5:29\">ACT 5:29</a>, <a href=\"https://ref.ly/Acts8:20\">ACT 8:20</a></p>\n<h2>Peter and the Gentiles</h2>\n<h3>He was the first to baptise Gentiles who had not been circumcised</h3>\n<p><a href=\"https://ref.ly/Acts10:47-Acts10:48\">ACT 10:47–10:48</a></p>\n<h3>He defended this action against critics</h3>\n<p><a href=\"https://ref.ly/Acts11:17\">ACT 11:17</a>, <a href=\"https://ref.ly/Acts15:7-Acts15:11\">ACT 15:7–15:11</a></p>\n<h3>He later wavered in his attitude to the Gentiles</h3>\n<p><a href=\"https://ref.ly/Gal2:11-Gal2:14\">GAL 2:11–2:14</a></p>\n<h2>The miraculous power of the Holy Spirit at work in Peter</h2>\n<p><a href=\"https://ref.ly/Acts3:2-Acts3:7\">ACT 3:2–3:7</a>, <a href=\"https://ref.ly/Acts5:9-Acts5:10\">ACT 5:9–5:10</a>, <a href=\"https://ref.ly/Acts5:15-Acts5:16\">ACT 5:15–5:16</a>, <a href=\"https://ref.ly/Acts9:34\">ACT 9:34</a>, <a href=\"https://ref.ly/Acts9:40\">ACT 9:40</a>, <a href=\"https://ref.ly/Acts12:1-Acts12:11\">ACT 12:1–12:11</a> <em>Peter himself experienced a miracle when imprisoned by Herod Agrippa.</em></p>\n<h2>Peter's missionary travels</h2>\n<p><a href=\"https://ref.ly/1Cor1:12\">1CO 1:12</a> <em>He visited Corinth</em>; ; <a href=\"https://ref.ly/1Cor9:5\">1CO 9:5</a> <em>He took his wife with him</em>; ; <a href=\"https://ref.ly/1Pet1:1\">1PE 1:1</a> <em>He visited northern Asia Minor</em>; ; <a href=\"https://ref.ly/1Pet5:13\">1PE 5:13</a> <em>One interpretation of this verse is that Peter was writing from Rome and was using the name “Babylon” symbolically to refer to Rome.</em></p>",
@@ -199,7 +199,8 @@
 "label": "8619: prayer, in the church",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

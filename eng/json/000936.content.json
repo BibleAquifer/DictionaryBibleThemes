@@ -2,10 +2,10 @@
 {
 "content_id": "5349",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5349: injustice, examples of",
 "media_type": "Text",
-"index_reference": "5349: injustice, examples of",
+"index_reference": "5349",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Injustice can be found, in varying degrees of intensity, in every area of human relationships. It produces exploitation and suffering, both mental and physical.</p>\n<h2>Injustice occurs in family life</h2>\n<p><strong><a href=\"https://ref.ly/Mark7:9-Mark7:13\">MRK 7:9–7:13</a></strong> parallel <a href=\"https://ref.ly/Matt15:3-Matt15:6\">MAT 15:3–15:6</a> <em>See also</em> <a href=\"https://ref.ly/Gen27:35\">GEN 27:35</a>; <a href=\"https://ref.ly/Lev20:9-Lev20:10\">LEV 20:9–20:10</a>; <a href=\"https://ref.ly/Mal2:13-Mal2:14\">MAL 2:13–2:14</a>; <a href=\"https://ref.ly/1Cor7:4-1Cor7:5\">1CO 7:4–7:5</a>; <a href=\"https://ref.ly/Eph6:4\">EPH 6:4</a>; <a href=\"https://ref.ly/Col3:19\">COL 3:19</a>, <a href=\"https://ref.ly/Col3:21\">COL 3:21</a></p>\n<h2>Injustice occurs in the community</h2>\n<p><strong><a href=\"https://ref.ly/Isa59:14-Isa59:15\">ISA 59:14–59:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev19:16\">LEV 19:16</a>; <a href=\"https://ref.ly/Deut19:14\">DEU 19:14</a>, <a href=\"https://ref.ly/Deut23:24-Deut23:25\">DEU 23:24–23:25</a>, <a href=\"https://ref.ly/Deut24:6-Deut24:7\">DEU 24:6–24:7</a>; <a href=\"https://ref.ly/Ps101:5\">PSA 101:5</a>; <a href=\"https://ref.ly/Prov3:28-Prov3:30\">PRO 3:28–3:30</a>, <a href=\"https://ref.ly/Prov22:28\">PRO 22:28</a>, <a href=\"https://ref.ly/Prov23:10-Prov23:11\">PRO 23:10–23:11</a>; <a href=\"https://ref.ly/Jer17:11\">JER 17:11</a></p>\n<h2>Injustice occurs in the business world</h2>\n<p><strong><a href=\"https://ref.ly/Hos12:7\">HOS 12:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev19:35\">LEV 19:35</a>; <a href=\"https://ref.ly/Prov11:1\">PRO 11:1</a>; <a href=\"https://ref.ly/1Tim6:10\">1TI 6:10</a></p>\n<h2>Injustice occurs in courts of law</h2>\n<p><strong><a href=\"https://ref.ly/Prov24:23-Prov24:24\">PRO 24:23–24:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps26:10\">PSA 26:10</a>; <a href=\"https://ref.ly/Prov14:5\">PRO 14:5</a>, <a href=\"https://ref.ly/Prov28:21\">PRO 28:21</a>; <a href=\"https://ref.ly/Isa5:22-Isa5:23\">ISA 5:22–5:23</a>, <a href=\"https://ref.ly/Isa29:21\">ISA 29:21</a>; <a href=\"https://ref.ly/Hos10:4\">HOS 10:4</a>; <a href=\"https://ref.ly/Amos5:12\">AMO 5:12</a>; <a href=\"https://ref.ly/Hab1:4\">HAB 1:4</a>; <a href=\"https://ref.ly/Mal2:9\">MAL 2:9</a>; <a href=\"https://ref.ly/Acts16:36-Acts16:37\">ACT 16:36–16:37</a></p>\n<h2>Injustice can be caused by rulers and governments</h2>\n<p><strong><a href=\"https://ref.ly/Isa10:1-Isa10:2\">ISA 10:1–10:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod1:10-Exod1:11\">EXO 1:10–1:11</a>; <a href=\"https://ref.ly/Ps58:1-Ps58:2\">PSA 58:1–58:2</a>, <a href=\"https://ref.ly/Ps94:20-Ps94:21\">PSA 94:20–94:21</a>; <a href=\"https://ref.ly/Prov29:4\">PRO 29:4</a>, <a href=\"https://ref.ly/Prov31:4-Prov31:5\">PRO 31:4–31:5</a>; <a href=\"https://ref.ly/Eccl5:8-Eccl5:9\">ECC 5:8–5:9</a>; <a href=\"https://ref.ly/Isa1:21\">ISA 1:21</a>; <a href=\"https://ref.ly/Mic3:8\">MIC 3:8</a>; <a href=\"https://ref.ly/Hab2:9\">HAB 2:9</a><strong><a href=\"https://ref.ly/Luke23:4-Luke23:25\">LUK 23:4–23:25</a></strong> parallels <a href=\"https://ref.ly/Matt27:15-Matt27:26\">MAT 27:15–27:26</a>, <a href=\"https://ref.ly/Mark15:6-Mark15:15\">MRK 15:6–15:15</a>, <a href=\"https://ref.ly/John18:38-John18:40\">JHN 18:38–18:40</a> <em>See also</em> <a href=\"https://ref.ly/Rom13:1-Rom13:4\">ROM 13:1–13:4</a> <em>the proper role of governing authorities</em></p>",
@@ -390,6 +390,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8751: false witness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Galatia",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galatians"
 }
 ]
 }

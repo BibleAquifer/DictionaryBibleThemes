@@ -2,10 +2,10 @@
 {
 "content_id": "8308",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8308: modesty",
 "media_type": "Text",
-"index_reference": "8308: modesty",
+"index_reference": "8308",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An attitude of humility, avoiding improper self-exaltation or excessive flamboyance. Scripture urges modesty in personal behaviour, forms of dress and forms of behaviour.</p>\n<h2>Modesty as an attitude of humility</h2>\n<p><strong><a href=\"https://ref.ly/Rom12:3\">ROM 12:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov25:6-Prov25:7\">PRO 25:6–25:7</a>, <a href=\"https://ref.ly/Prov29:23\">PRO 29:23</a>; <a href=\"https://ref.ly/Luke22:25-Luke22:27\">LUK 22:25–22:27</a> parallels <a href=\"https://ref.ly/Matt20:25-Matt20:28\">MAT 20:25–20:28</a>, <a href=\"https://ref.ly/Mark10:42-Mark10:45\">MRK 10:42–10:45</a>; <a href=\"https://ref.ly/Rom11:20-Rom11:21\">ROM 11:20–11:21</a>; <a href=\"https://ref.ly/2Cor10:13-2Cor10:16\">2CO 10:13–10:16</a>, <a href=\"https://ref.ly/2Cor12:5-2Cor12:6\">2CO 12:5–12:6</a>; <a href=\"https://ref.ly/Phil2:5-Phil2:8\">PHP 2:5–2:8</a>; <a href=\"https://ref.ly/1Pet5:5\">1PE 5:5</a></p>\n<h2>Believers should dress modestly</h2>\n<p><strong><a href=\"https://ref.ly/1Tim2:9-1Tim2:10\">1TI 2:9–2:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa3:16-Isa3:24\">ISA 3:16–3:24</a>; <a href=\"https://ref.ly/1Pet3:3\">1PE 3:3</a></p>\n<h2>Examples of those who acted with modesty</h2>\n<p><a href=\"https://ref.ly/Gen32:9-Gen32:10\">GEN 32:9–32:10</a> <em>Jacob</em>; ; <a href=\"https://ref.ly/Gen41:15-Gen41:16\">GEN 41:15–41:16</a> <em>Joseph</em>; ; <a href=\"https://ref.ly/Judg6:15\">JDG 6:15</a> <em>Gideon</em>; ; <a href=\"https://ref.ly/1Sam9:19-1Sam9:21\">1SA 9:19–9:21</a> <em>Saul</em>; ; <a href=\"https://ref.ly/2Sam7:18\">2SA 7:18</a> <em>David</em>; ; <a href=\"https://ref.ly/Jer1:6\">JER 1:6</a> <em>Jeremiah</em>; ; <a href=\"https://ref.ly/Dan2:27-Dan2:30\">DAN 2:27–2:30</a> <em>Daniel</em>; ; <a href=\"https://ref.ly/Matt8:5-Matt8:9\">MAT 8:5–8:9</a> parallel <a href=\"https://ref.ly/Luke7:6-Luke7:8\">LUK 7:6–7:8</a> <em>a centurion</em></p>",
@@ -193,7 +193,8 @@
 "label": "8802: pride",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

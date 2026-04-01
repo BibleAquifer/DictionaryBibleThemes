@@ -2,10 +2,10 @@
 {
 "content_id": "6644",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6644: eternal life",
 "media_type": "Text",
-"index_reference": "6644: eternal life",
+"index_reference": "6644",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The state of being in a permanent living relationship with God, through Jesus Christ, begun in this life and consummated at the resurrection of believers.</p>",
@@ -32,6 +32,36 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6647: eternal life, experience of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Korah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Korah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Korah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
+},
+{
+"id": "person:Korah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Korah"
 }
 ]
 }

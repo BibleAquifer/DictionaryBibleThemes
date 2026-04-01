@@ -2,10 +2,10 @@
 {
 "content_id": "8733",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8733: envy",
 "media_type": "Text",
-"index_reference": "8733: envy",
+"index_reference": "8733",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A desire for another's gifts, possessions, position or achievements, closely associated with jealousy.</p>\n<h2>Causes of envy</h2>\n<h3>Envy is the result of human sin</h3>\n<p><strong><a href=\"https://ref.ly/Gal5:19-Gal5:21\">GAL 5:19–5:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov23:17\">PRO 23:17</a>; <a href=\"https://ref.ly/Matt15:19-Matt15:20\">MAT 15:19–15:20</a> parallel <a href=\"https://ref.ly/Mark7:21-Mark7:23\">MRK 7:21–7:23</a>; <a href=\"https://ref.ly/Rom1:29\">ROM 1:29</a>; <a href=\"https://ref.ly/1Cor3:3\">1CO 3:3</a>; <a href=\"https://ref.ly/1Tim6:4\">1TI 6:4</a>; <a href=\"https://ref.ly/Titus3:3\">TIT 3:3</a>; <a href=\"https://ref.ly/1Pet2:1-1Pet2:2\">1PE 2:1–2:2</a></p>\n<h3>Envy arises from the good fortune of others</h3>\n<p><a href=\"https://ref.ly/Gen26:12-Gen26:14\">GEN 26:12–26:14</a>; ; <a href=\"https://ref.ly/1Sam18:6-1Sam18:8\">1SA 18:6–18:8</a>; ; <a href=\"https://ref.ly/Ps73:3\">PSA 73:3</a>; ; <a href=\"https://ref.ly/Matt20:12-Matt20:15\">MAT 20:12–20:15</a></p>\n<h3>Love does not envy others</h3>\n<p><strong><a href=\"https://ref.ly/1Cor13:4\">1CO 13:4</a></strong></p>\n<h3>Envy arises from the spiritual abilities of others</h3>\n<p><strong><a href=\"https://ref.ly/Ps106:16-Ps106:18\">PSA 106:16–106:18</a></strong>; <strong><a href=\"https://ref.ly/Acts13:44-Acts13:45\">ACT 13:44–13:45</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num11:28-Num11:30\">NUM 11:28–11:30</a>, <a href=\"https://ref.ly/Num12:2\">NUM 12:2</a>, <a href=\"https://ref.ly/Num16:1-Num16:3\">NUM 16:1–16:3</a>; <a href=\"https://ref.ly/Matt27:18\">MAT 27:18</a> parallel <a href=\"https://ref.ly/Mark15:10\">MRK 15:10</a>; <a href=\"https://ref.ly/Acts17:5\">ACT 17:5</a>; <a href=\"https://ref.ly/Phil1:15\">PHP 1:15</a></p>\n<h2>Examples of envy</h2>\n<h3>Cain envies Abel</h3>\n<p><strong><a href=\"https://ref.ly/Gen4:3-Gen4:5\">GEN 4:3–4:5</a></strong></p>\n<h3>Esau envies Jacob</h3>\n<p><strong><a href=\"https://ref.ly/Gen27:41\">GEN 27:41</a></strong></p>\n<h3>Rachel envies Leah</h3>\n<p><strong><a href=\"https://ref.ly/Gen30:1\">GEN 30:1</a></strong></p>\n<h3>The brothers envy Joseph</h3>\n<p><strong><a href=\"https://ref.ly/Gen37:4\">GEN 37:4</a></strong></p>\n<h2>Results of envy</h2>\n<p><strong><a href=\"https://ref.ly/Job5:2\">JOB 5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov14:30\">PRO 14:30</a>; <a href=\"https://ref.ly/Eccl4:4\">ECC 4:4</a>; <a href=\"https://ref.ly/Jas3:14-Jas3:16\">JAS 3:14–3:16</a></p>\n<h3>In some cases, envy can be used by God</h3>\n<p><strong><a href=\"https://ref.ly/Rom10:19\">ROM 10:19</a>, <a href=\"https://ref.ly/Rom11:11\">ROM 11:11</a>, <a href=\"https://ref.ly/Rom11:13-Rom11:14\">ROM 11:13–11:14</a></strong> <em>Paul hopes that the Gentiles' response to the gospel might make Israel want its blessings as well.</em> <em>See also</em> <a href=\"https://ref.ly/Deut32:21\">DEU 32:21</a></p>\n<h2>Envy forbidden</h2>\n<p><strong><a href=\"https://ref.ly/Ps37:1\">PSA 37:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov3:31\">PRO 3:31</a>, <a href=\"https://ref.ly/Prov24:1\">PRO 24:1</a>; <a href=\"https://ref.ly/Gal5:26\">GAL 5:26</a></p>",
@@ -282,7 +282,8 @@
 "label": "8773: jealousy",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

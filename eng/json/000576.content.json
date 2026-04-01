@@ -2,10 +2,10 @@
 {
 "content_id": "4852",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4852: thunder",
 "media_type": "Text",
-"index_reference": "4852: thunder",
+"index_reference": "4852",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Thunder as an aspect of violent weather</h2>\n<p><strong><a href=\"https://ref.ly/Job28:26\">JOB 28:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job36:29\">JOB 36:29</a>, <a href=\"https://ref.ly/Job36:33\">JOB 36:33</a>; <a href=\"https://ref.ly/Ps93:4\">PSA 93:4</a>; <a href=\"https://ref.ly/Jer10:13\">JER 10:13</a>, <a href=\"https://ref.ly/Jer51:16\">JER 51:16</a></p>\n<h2>Thunder as a sign of the presence of God</h2>\n<p><strong><a href=\"https://ref.ly/Exod19:16\">EXO 19:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:18\">EXO 20:18</a>; <a href=\"https://ref.ly/1Sam12:17-1Sam12:18\">1SA 12:17–12:18</a>; <a href=\"https://ref.ly/Job26:14\">JOB 26:14</a>, <a href=\"https://ref.ly/Job37:4-Job37:5\">JOB 37:4–37:5</a>, <a href=\"https://ref.ly/Job40:9\">JOB 40:9</a>; <a href=\"https://ref.ly/Ps18:13\">PSA 18:13</a>, <a href=\"https://ref.ly/Ps29:3\">PSA 29:3</a>, <a href=\"https://ref.ly/Ps68:33\">PSA 68:33</a>, <a href=\"https://ref.ly/Ps81:7\">PSA 81:7</a>; <a href=\"https://ref.ly/John12:29\">JHN 12:29</a>; <a href=\"https://ref.ly/Rev4:5\">REV 4:5</a>, <a href=\"https://ref.ly/Rev6:1\">REV 6:1</a>, <a href=\"https://ref.ly/Rev8:5\">REV 8:5</a>, <a href=\"https://ref.ly/Rev10:3-Rev10:4\">REV 10:3–10:4</a>, <a href=\"https://ref.ly/Rev11:19\">REV 11:19</a>, <a href=\"https://ref.ly/Rev14:2\">REV 14:2</a>, <a href=\"https://ref.ly/Rev19:6\">REV 19:6</a></p>\n<h2>Thunder as an expression of the judgment of God</h2>\n<p><strong><a href=\"https://ref.ly/1Sam2:10\">1SA 2:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod9:23\">EXO 9:23</a>, <a href=\"https://ref.ly/Exod9:28-Exod9:29\">EXO 9:28–9:29</a>, <a href=\"https://ref.ly/Exod9:33-Exod9:34\">EXO 9:33–9:34</a>; <a href=\"https://ref.ly/1Sam7:10\">1SA 7:10</a>; <a href=\"https://ref.ly/2Sam22:14\">2SA 22:14</a>; <a href=\"https://ref.ly/Ps77:17-Ps77:18\">PSA 77:17–77:18</a>, <a href=\"https://ref.ly/Ps104:7\">PSA 104:7</a>; <a href=\"https://ref.ly/Isa29:6\">ISA 29:6</a>, <a href=\"https://ref.ly/Isa30:30\">ISA 30:30</a>, <a href=\"https://ref.ly/Isa33:3\">ISA 33:3</a>; <a href=\"https://ref.ly/Jer25:30\">JER 25:30</a>; <a href=\"https://ref.ly/Joel2:11\">JOL 2:11</a>, <a href=\"https://ref.ly/Joel3:16\">JOL 3:16</a>; <a href=\"https://ref.ly/Amos1:2\">AMO 1:2</a>; <a href=\"https://ref.ly/Rev16:18\">REV 16:18</a></p>\n<h2>The thunder of horses' hoofs</h2>\n<p><strong><a href=\"https://ref.ly/Judg5:22\">JDG 5:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev9:9\">REV 9:9</a></p>\n<h2>The Sons of Thunder</h2>\n<p><strong><a href=\"https://ref.ly/Mark3:17\">MRK 3:17</a></strong></p>",
@@ -305,6 +305,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Dion",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dion"
 }
 ]
 }

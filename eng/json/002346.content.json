@@ -2,10 +2,10 @@
 {
 "content_id": "8712",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8712: denial of Jesus Christ",
 "media_type": "Text",
-"index_reference": "8712: denial of jesus christ",
+"index_reference": "8712",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The making of a conscious, informed decision not to accept Jesus Christ or his claims and teaching.</p>\n<h2>Jesus Christ was denied by the Jewish people</h2>\n<p><strong><a href=\"https://ref.ly/John1:11\">JHN 1:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt11:16-Matt11:19\">MAT 11:16–11:19</a> parallel <a href=\"https://ref.ly/Luke7:31-Luke7:35\">LUK 7:31–7:35</a>; <a href=\"https://ref.ly/Matt13:54-Matt13:58\">MAT 13:54–13:58</a> parallel <a href=\"https://ref.ly/Mark6:1-Mark6:6\">MRK 6:1–6:6</a>; <a href=\"https://ref.ly/Matt26:63-Matt26:68\">MAT 26:63–26:68</a> parallels <a href=\"https://ref.ly/Mark14:61-Mark14:65\">MRK 14:61–14:65</a>, <a href=\"https://ref.ly/Luke22:66-Luke22:71\">LUK 22:66–22:71</a>; <a href=\"https://ref.ly/Luke4:16-Luke4:30\">LUK 4:16–4:30</a>; <a href=\"https://ref.ly/John5:37-John5:43\">JHN 5:37–5:43</a>; <a href=\"https://ref.ly/Acts4:8-Acts4:12\">ACT 4:8–4:12</a>; <a href=\"https://ref.ly/Ps118:22\">PSA 118:22</a></p>\n<h2>The consequences of denying Jesus Christ</h2>\n<h3>Denying Jesus Christ results in judgment</h3>\n<p><strong><a href=\"https://ref.ly/John12:48\">JHN 12:48</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt12:38-Matt12:42\">MAT 12:38–12:42</a> parallel <a href=\"https://ref.ly/Luke11:29-Luke11:32\">LUK 11:29–11:32</a></p>\n<h3>Denying Jesus Christ means replacement by others</h3>\n<p><strong><a href=\"https://ref.ly/Acts13:46\">ACT 13:46</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt21:40-Matt21:41\">MAT 21:40–21:41</a> parallels <a href=\"https://ref.ly/Mark12:9\">MRK 12:9</a>, <a href=\"https://ref.ly/Luke20:15-Luke20:16\">LUK 20:15–20:16</a>; <a href=\"https://ref.ly/Acts18:5-Acts18:6\">ACT 18:5–18:6</a></p>\n<h3>To deny Christ is to be denied by Christ</h3>\n<p><strong><a href=\"https://ref.ly/2Tim2:12\">2TI 2:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt10:32\">MAT 10:32</a>; <a href=\"https://ref.ly/Mark8:38\">MRK 8:38</a></p>\n<h2>Warnings against those who deny Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/2Pet2:1\">2PE 2:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1John2:22-1John2:23\">1JN 2:22–2:23</a>; <a href=\"https://ref.ly/2John1:7\">2JN 1:7</a>; <a href=\"https://ref.ly/Jude1:4\">JUD 1:4</a></p>\n<h2>Denial, repentance and restoration: the example of Peter</h2>\n<h3>Peter's denial predicted by Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Mark14:29-Mark14:30\">MRK 14:29–14:30</a></strong> parallels <a href=\"https://ref.ly/Matt26:31-Matt26:34\">MAT 26:31–26:34</a>, <a href=\"https://ref.ly/Luke22:31-Luke22:34\">LUK 22:31–22:34</a></p>\n<h3>Peter declares he will never deny Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Mark14:31\">MRK 14:31</a></strong> parallel <a href=\"https://ref.ly/Matt26:35\">MAT 26:35</a></p>\n<h3>Peter denied that he knew Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Matt26:69-Matt26:75\">MAT 26:69–26:75</a></strong> parallels <a href=\"https://ref.ly/Mark14:66-Mark14:72\">MRK 14:66–14:72</a>, <a href=\"https://ref.ly/Luke22:55-Luke22:62\">LUK 22:55–22:62</a>, <a href=\"https://ref.ly/John18:15-John18:18\">JHN 18:15–18:18</a>, <a href=\"https://ref.ly/John18:25-John18:27\">JHN 18:25–18:27</a></p>\n<h3>Peter's restoration to Christ</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/John21:15-John21:19\">JHN 21:15–21:19</a>; <a href=\"https://ref.ly/Acts1:15-Acts1:22\">ACT 1:15–1:22</a>, <a href=\"https://ref.ly/Acts2:14-Acts2:41\">ACT 2:14–2:41</a></p>",
@@ -287,6 +287,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6730: reinstatement",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Tahash",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tahash"
 }
 ]
 }

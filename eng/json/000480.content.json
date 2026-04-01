@@ -2,10 +2,10 @@
 {
 "content_id": "4530",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4530: unleavened bread",
 "media_type": "Text",
-"index_reference": "4530: unleavened bread",
+"index_reference": "4530",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Bread baked without yeast, often made because of insufficient time to prepare bread in the conventional manner. It was also eaten at the Passover Feast and was presented with sacrifices and offerings.</p>\n<h2>Unleavened bread prepared in haste</h2>\n<p><strong><a href=\"https://ref.ly/Exod12:39\">EXO 12:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen19:1-Gen19:3\">GEN 19:1–19:3</a>; <a href=\"https://ref.ly/Exod12:8-Exod12:11\">EXO 12:8–12:11</a>; <a href=\"https://ref.ly/Judg6:17-Judg6:19\">JDG 6:17–6:19</a>; <a href=\"https://ref.ly/1Sam28:21-1Sam28:25\">1SA 28:21–28:25</a></p>\n<h2>Unleavened bread eaten to commemorate the Passover</h2>\n<p><a href=\"https://ref.ly/Exod12:1-Exod12:20\">EXO 12:1–12:20</a>, <a href=\"https://ref.ly/Exod13:3-Exod13:7\">EXO 13:3–13:7</a>, <a href=\"https://ref.ly/Exod23:15\">EXO 23:15</a>, <a href=\"https://ref.ly/Exod34:18\">EXO 34:18</a>; ; <a href=\"https://ref.ly/Lev23:5-Lev23:6\">LEV 23:5–23:6</a> parallel <a href=\"https://ref.ly/Num28:16-Num28:17\">NUM 28:16–28:17</a>; ; <a href=\"https://ref.ly/Num9:9-Num9:11\">NUM 9:9–9:11</a>; ; <a href=\"https://ref.ly/Deut16:1-Deut16:4\">DEU 16:1–16:4</a>, <a href=\"https://ref.ly/Deut16:8\">DEU 16:8</a>; ; <a href=\"https://ref.ly/Ezek45:21\">EZK 45:21</a></p>\n<h2>Unleavened bread presented to God as an offering</h2>\n<p><strong><a href=\"https://ref.ly/Lev2:11\">LEV 2:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod29:2-Exod29:4\">EXO 29:2–29:4</a> parallel <a href=\"https://ref.ly/Lev8:1-Lev8:3\">LEV 8:1–8:3</a>; <a href=\"https://ref.ly/Exod29:22-Exod29:25\">EXO 29:22–29:25</a> parallel <a href=\"https://ref.ly/Lev8:25-Lev8:28\">LEV 8:25–8:28</a>; <a href=\"https://ref.ly/Lev2:4-Lev2:5\">LEV 2:4–2:5</a>, <a href=\"https://ref.ly/Lev6:14-Lev6:17\">LEV 6:14–6:17</a>, <a href=\"https://ref.ly/Lev7:11-Lev7:12\">LEV 7:11–7:12</a>; <a href=\"https://ref.ly/Num6:13-Num6:20\">NUM 6:13–6:20</a></p>\n<h2>Symbolism of unleavened bread</h2>\n<p><a href=\"https://ref.ly/1Cor5:6-1Cor5:8\">1CO 5:6–5:8</a></p>",
@@ -225,6 +225,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7745: ordination",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Chinnereth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chinnereth"
+},
+{
+"id": "realia:UnleavenedBread",
+"type": "realia",
+"confidence": 0.6765,
+"match_method": "scored",
+"preferred_label": "Unleavened Bread"
 }
 ]
 }

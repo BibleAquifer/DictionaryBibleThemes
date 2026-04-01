@@ -2,10 +2,10 @@
 {
 "content_id": "8490",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8490: watchfulness",
 "media_type": "Text",
-"index_reference": "8490: watchfulness",
+"index_reference": "8490",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The state of being alert and expectant; watching over someone in one's care or waiting for the arrival of someone important or for some significant event. Scripture lays particular emphasis on the need to watch for the second coming of Jesus Christ.</p>",
@@ -32,6 +32,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8493: watchfulness, of believers",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Silk",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Silk"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "8816",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8816: ridicule, nature of",
 "media_type": "Text",
-"index_reference": "8816: ridicule, nature of",
+"index_reference": "8816",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture declares that ridicule of the weak, the poor and the godly is unacceptable. Those who ridicule them invite judgment upon themselves.</p>\n<h2>Warnings against ridicule</h2>\n<h3>Ridicule is foolish</h3>\n<p><strong><a href=\"https://ref.ly/Prov11:12\">PRO 11:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov1:20-Prov1:22\">PRO 1:20–1:22</a>, <a href=\"https://ref.ly/Prov14:6\">PRO 14:6</a>, <a href=\"https://ref.ly/Prov14:9\">PRO 14:9</a></p>\n<h3>Ridicule creates trouble</h3>\n<p><strong><a href=\"https://ref.ly/Prov9:12\">PRO 9:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov19:29\">PRO 19:29</a>, <a href=\"https://ref.ly/Prov22:10\">PRO 22:10</a>, <a href=\"https://ref.ly/Prov29:8\">PRO 29:8</a>, <a href=\"https://ref.ly/Prov30:17\">PRO 30:17</a>; <a href=\"https://ref.ly/Matt5:22\">MAT 5:22</a> <em>“Raca” probably means “empty-head”, a term of derision.</em></p>\n<h3>Ridicule is a sign of the last days</h3>\n<p><strong><a href=\"https://ref.ly/2Pet3:3-2Pet3:4\">2PE 3:3–3:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jude1:18\">JUD 1:18</a></p>\n<h2>Examples of ridicule</h2>\n<p><a href=\"https://ref.ly/Judg9:28-Judg9:29\">JDG 9:28–9:29</a>, <a href=\"https://ref.ly/Judg9:38\">JDG 9:38</a>; ; <a href=\"https://ref.ly/1Sam17:41-1Sam17:44\">1SA 17:41–17:44</a>; ; <a href=\"https://ref.ly/1Kgs22:24\">1KI 22:24</a>; ; <a href=\"https://ref.ly/2Kgs2:23-2Kgs2:24\">2KI 2:23–2:24</a>, <a href=\"https://ref.ly/2Kgs18:23-2Kgs18:25\">2KI 18:23–18:25</a>; ; <a href=\"https://ref.ly/Neh2:19\">NEH 2:19</a>, <a href=\"https://ref.ly/Neh4:1-Neh4:3\">NEH 4:1–4:3</a></p>\n<h2>Ridicule associated with divine punishment</h2>\n<p><strong><a href=\"https://ref.ly/Isa14:3-Isa14:4\">ISA 14:3–14:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa37:22-Isa37:23\">ISA 37:22–37:23</a>; <a href=\"https://ref.ly/Jer49:17\">JER 49:17</a>, <a href=\"https://ref.ly/Jer50:13\">JER 50:13</a>; <a href=\"https://ref.ly/Ezek36:1-Ezek36:7\">EZK 36:1–36:7</a>; <a href=\"https://ref.ly/Hab2:6\">HAB 2:6</a>; <a href=\"https://ref.ly/Zeph2:15\">ZEP 2:15</a><strong><a href=\"https://ref.ly/Mic2:3-Mic2:4\">MIC 2:3–2:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut28:37\">DEU 28:37</a>; <a href=\"https://ref.ly/1Kgs9:6-1Kgs9:9\">1KI 9:6–9:9</a> parallel <a href=\"https://ref.ly/2Chr7:19-2Chr7:22\">2CH 7:19–7:22</a>; <a href=\"https://ref.ly/Jer19:8\">JER 19:8</a>, <a href=\"https://ref.ly/Jer24:9\">JER 24:9</a>; <a href=\"https://ref.ly/Ezek5:14-Ezek5:15\">EZK 5:14–5:15</a>, <a href=\"https://ref.ly/Ezek23:32\">EZK 23:32</a>, <a href=\"https://ref.ly/Ezek22:3-Ezek22:5\">EZK 22:3–22:5</a>; <a href=\"https://ref.ly/Hos7:16\">HOS 7:16</a>; <a href=\"https://ref.ly/Mic6:16\">MIC 6:16</a></p>\n<h2>Prophets ridicule idolatry</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs18:27\">1KI 18:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa41:7\">ISA 41:7</a>, <a href=\"https://ref.ly/Isa41:21-Isa41:24\">ISA 41:21–41:24</a>, <a href=\"https://ref.ly/Isa44:12-Isa44:17\">ISA 44:12–44:17</a>, <a href=\"https://ref.ly/Isa46:1-Isa46:2\">ISA 46:1–46:2</a>; <a href=\"https://ref.ly/Jer10:3-Jer10:5\">JER 10:3–10:5</a></p>",
@@ -360,6 +360,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8794: persecution",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Thessalonica",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Thessalonians"
 }
 ]
 }

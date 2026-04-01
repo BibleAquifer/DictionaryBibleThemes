@@ -2,10 +2,10 @@
 {
 "content_id": "8420",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8420: equipping",
 "media_type": "Text",
-"index_reference": "8420: equipping",
+"index_reference": "8420",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The providing of all necessary facilities for achieving a task. Scripture suggests that God does not provide tasks for believers without also providing the gifts which are needed to equip believers for those tasks.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8422: equipping, spiritual",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Shimron",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shimron"
 }
 ]
 }

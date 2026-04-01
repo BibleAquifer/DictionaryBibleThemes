@@ -2,10 +2,10 @@
 {
 "content_id": "5241",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5241: burial",
 "media_type": "Text",
-"index_reference": "5241: burial",
+"index_reference": "5241",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The burying of a dead body, usually in a family tomb. The lack of a proper burial was regarded as a great misfortune and disgrace. Burial was usually accompanied by mourning.</p>\n<h2>Burial in a family tomb</h2>\n<p><strong><a href=\"https://ref.ly/Gen49:29-Gen49:31\">GEN 49:29–49:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen23:19-Gen23:20\">GEN 23:19–23:20</a>, <a href=\"https://ref.ly/Gen25:9-Gen25:10\">GEN 25:9–25:10</a>, <a href=\"https://ref.ly/Gen50:13\">GEN 50:13</a>; <a href=\"https://ref.ly/Judg8:32\">JDG 8:32</a>, <a href=\"https://ref.ly/Judg16:31\">JDG 16:31</a>; <a href=\"https://ref.ly/1Sam25:1\">1SA 25:1</a> <em>“at his home” probably refers to the family tomb, but could mean more literally under the floor of the house or yard</em>; <a href=\"https://ref.ly/2Sam2:32\">2SA 2:32</a>, <a href=\"https://ref.ly/2Sam17:23\">2SA 17:23</a></p>\n<h2>Other places of burial</h2>\n<p><a href=\"https://ref.ly/Gen35:8\">GEN 35:8</a>, <a href=\"https://ref.ly/Gen35:19-Gen35:20\">GEN 35:19–35:20</a></p>\n<h2>Burial of criminals hung on a tree</h2>\n<p><strong><a href=\"https://ref.ly/Deut21:22-Deut21:23\">DEU 21:22–21:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/John19:31\">JHN 19:31</a> <em>The request of the Jews was probably not only to avoid desecrating a special Sabbath, but also to identify Jesus Christ as one cursed by God.</em></p>\n<h2>Burial of an executed criminal or enemy under a heap of stones</h2>\n<p><a href=\"https://ref.ly/Josh7:26\">JOS 7:26</a>, <a href=\"https://ref.ly/Josh8:29\">JOS 8:29</a>, <a href=\"https://ref.ly/Josh10:27\">JOS 10:27</a>; ; <a href=\"https://ref.ly/2Sam18:17\">2SA 18:17</a></p>\n<h2>Lack of a proper burial</h2>\n<p><strong><a href=\"https://ref.ly/Jer22:18-Jer22:19\">JER 22:18–22:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut28:26\">DEU 28:26</a>; <a href=\"https://ref.ly/2Sam21:12-2Sam21:14\">2SA 21:12–21:14</a>; <a href=\"https://ref.ly/1Kgs13:22\">1KI 13:22</a>; <a href=\"https://ref.ly/Eccl6:3\">ECC 6:3</a>; <a href=\"https://ref.ly/Jer7:33\">JER 7:33</a>, <a href=\"https://ref.ly/Jer16:4\">JER 16:4</a>, <a href=\"https://ref.ly/Jer25:33\">JER 25:33</a></p>\n<h2>Common burial-grounds</h2>\n<p><a href=\"https://ref.ly/2Kgs23:6\">2KI 23:6</a>; ; <a href=\"https://ref.ly/Jer26:23\">JER 26:23</a>; ; <a href=\"https://ref.ly/Matt27:7\">MAT 27:7</a></p>\n<h2>Burial accompanied by mourning</h2>\n<p><strong><a href=\"https://ref.ly/Acts8:2\">ACT 8:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut34:5-Deut34:8\">DEU 34:5–34:8</a></p>\n<h2>Preparation of Jesus Christ's body for burial</h2>\n<p><strong><a href=\"https://ref.ly/John19:39-John19:40\">JHN 19:39–19:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt26:12\">MAT 26:12</a> parallel <a href=\"https://ref.ly/Mark14:8\">MRK 14:8</a>; <a href=\"https://ref.ly/Mark16:1\">MRK 16:1</a> parallels <a href=\"https://ref.ly/Luke24:1\">LUK 24:1</a>, <a href=\"https://ref.ly/John12:7\">JHN 12:7</a></p>",
@@ -298,6 +298,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9050: tombs",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "LORD"
 }
 ]
 }

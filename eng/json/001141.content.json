@@ -2,10 +2,10 @@
 {
 "content_id": "5576",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5576: tax collectors",
 "media_type": "Text",
-"index_reference": "5576: tax collectors",
+"index_reference": "5576",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Governments have a right to collect taxes, but those who collect them have often been unpopular, not least because they seem to have demanded more than they were entitled to. Jesus Christ welcomed such people, as he did other sinners, and many repented as a result of his affirming attitude.</p>\n<h2>Honest tax collectors deserve respect</h2>\n<p><strong><a href=\"https://ref.ly/Rom13:6-Rom13:7\">ROM 13:6–13:7</a></strong></p>\n<h3>Temple taxes collected by Levites</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/2Chr24:6\">2CH 24:6</a>, <a href=\"https://ref.ly/2Chr24:9\">2CH 24:9</a></p>\n<h3>Temple tax paid by Jesus Christ</h3>\n<p><a href=\"https://ref.ly/Matt17:24-Matt17:26\">MAT 17:24–17:26</a></p>\n<h2>Tax collectors often unpopular</h2>\n<h3>In NT times</h3>\n<p><strong><a href=\"https://ref.ly/Luke18:11\">LUK 18:11</a></strong> <em>Tax collectors were widely suspected of corruption.</em></p>\n<h2>Tax collectors despised as collaborators with Rome</h2>\n<h3>Jesus Christ recognises this popular contempt</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Matt5:46\">MAT 5:46</a>, <a href=\"https://ref.ly/Matt18:17\">MAT 18:17</a>; <a href=\"https://ref.ly/Luke18:11\">LUK 18:11</a></p>\n<h2>Many tax collectors come to John</h2>\n<p><strong><a href=\"https://ref.ly/Luke3:12-Luke3:13\">LUK 3:12–3:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt21:31-Matt21:32\">MAT 21:31–21:32</a>; <a href=\"https://ref.ly/Luke7:29\">LUK 7:29</a></p>\n<h2>Many tax collectors flock around Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Luke15:1\">LUK 15:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt9:10\">MAT 9:10</a> parallels <a href=\"https://ref.ly/Mark2:15\">MRK 2:15</a>, <a href=\"https://ref.ly/Luke5:29\">LUK 5:29</a></p>\n<h3>Jesus Christ criticised for eating with tax collectors</h3>\n<p><strong><a href=\"https://ref.ly/Luke15:2\">LUK 15:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt9:11\">MAT 9:11</a> parallels <a href=\"https://ref.ly/Mark2:16\">MRK 2:16</a>, <a href=\"https://ref.ly/Luke5:30\">LUK 5:30</a>; <a href=\"https://ref.ly/Matt11:19\">MAT 11:19</a> parallel <a href=\"https://ref.ly/Luke7:34\">LUK 7:34</a>; <a href=\"https://ref.ly/Luke19:1-Luke19:7\">LUK 19:1–19:7</a></p>\n<h3>Jesus Christ defends his concern</h3>\n<p><strong><a href=\"https://ref.ly/Matt9:12-Matt9:14\">MAT 9:12–9:14</a></strong> parallels <a href=\"https://ref.ly/Mark2:17\">MRK 2:17</a>, <a href=\"https://ref.ly/Luke5:31\">LUK 5:31</a> <em>See also</em> <a href=\"https://ref.ly/Luke15:3-Luke15:4\">LUK 15:3–15:4</a> <em>The parables in Luke chapter 15 are in part a defence of Jesus Christ's concern for tax collectors and sinners.</em></p>\n<h2>Tax collectors converted</h2>\n<h3>In the parable</h3>\n<p><strong><a href=\"https://ref.ly/Luke18:13-Luke18:14\">LUK 18:13–18:14</a></strong></p>\n<h3>Matthew Levi</h3>\n<p><strong><a href=\"https://ref.ly/Matt9:9\">MAT 9:9</a></strong> parallels <a href=\"https://ref.ly/Mark2:13-Mark2:14\">MRK 2:13–2:14</a>, <a href=\"https://ref.ly/Luke5:27-Luke5:28\">LUK 5:27–5:28</a></p>\n<h3>Zacchaeus</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Luke19:1-Luke19:9\">LUK 19:1–19:9</a></p>",
@@ -269,6 +269,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7912: collections",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hadid",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hadid"
+},
+{
+"id": "keyterm:TaxCollector",
+"type": "keyterm",
+"confidence": 0.6645,
+"match_method": "scored",
+"preferred_label": "Tax Collector"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "7248",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7248: patriarchs",
 "media_type": "Text",
-"index_reference": "7248: patriarchs",
+"index_reference": "7248",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The patriarchs: Abraham, Isaac, Jacob and his twelve sons</h2>\n<p><strong><a href=\"https://ref.ly/Heb7:4\">HEB 7:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/John7:22\">JHN 7:22</a>; <a href=\"https://ref.ly/Acts7:8-Acts7:9\">ACT 7:8–7:9</a>; <a href=\"https://ref.ly/Rom9:5\">ROM 9:5</a>, <a href=\"https://ref.ly/Rom11:28\">ROM 11:28</a>, <a href=\"https://ref.ly/Rom15:8\">ROM 15:8</a></p>\n<h2>David also called a patriarch</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:29\">ACT 2:29</a></strong></p>",
@@ -118,7 +118,8 @@
 "label": "7258: promised land, early history of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

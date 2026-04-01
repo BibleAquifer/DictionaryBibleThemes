@@ -2,10 +2,10 @@
 {
 "content_id": "5593",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5593: trial",
 "media_type": "Text",
-"index_reference": "5593: trial",
+"index_reference": "5593",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A process of testing or investigation, which may be legal, as in a court case, or spiritual, as in a testing of faith or power. Scripture makes reference to both.</p>\n<h2>Legal trials</h2>\n<h3>The need for legal trials</h3>\n<p><a href=\"https://ref.ly/Deut16:18-Deut16:20\">DEU 16:18–16:20</a>; ; <a href=\"https://ref.ly/John7:50-John7:51\">JHN 7:50–7:51</a>; ; <a href=\"https://ref.ly/Acts16:37-Acts16:39\">ACT 16:37–16:39</a></p>\n<h3>Trials concerning accidental killings</h3>\n<p><strong><a href=\"https://ref.ly/Josh20:9\">JOS 20:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num35:9-Num35:12\">NUM 35:9–35:12</a>; <a href=\"https://ref.ly/Josh20:1-Josh20:6\">JOS 20:1–20:6</a></p>\n<h3>Unjust trials</h3>\n<p><strong><a href=\"https://ref.ly/Mark13:9-Mark13:13\">MRK 13:9–13:13</a></strong> parallels <a href=\"https://ref.ly/Matt24:9-Matt24:11\">MAT 24:9–24:11</a>, <a href=\"https://ref.ly/Luke21:12\">LUK 21:12</a> <em>See also</em> <a href=\"https://ref.ly/1Kgs21:1-1Kgs21:14\">1KI 21:1–21:14</a>; <a href=\"https://ref.ly/Ps37:32-Ps37:33\">PSA 37:32–37:33</a>; <a href=\"https://ref.ly/Acts12:1-Acts12:4\">ACT 12:1–12:4</a>, <a href=\"https://ref.ly/Acts16:37\">ACT 16:37</a></p>\n<h3>The trial of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Matt26:57-Matt26:68\">MAT 26:57–26:68</a></strong> parallels <a href=\"https://ref.ly/Mark14:53-Mark14:65\">MRK 14:53–14:65</a>, <a href=\"https://ref.ly/John18:19-John18:24\">JHN 18:19–18:24</a> <em>See also</em> <a href=\"https://ref.ly/Matt27:11-Matt27:26\">MAT 27:11–27:26</a> parallels <a href=\"https://ref.ly/Mark15:2-Mark15:15\">MRK 15:2–15:15</a>, <a href=\"https://ref.ly/Luke23:2-Luke23:25\">LUK 23:2–23:25</a>, <a href=\"https://ref.ly/John18:28-John19:16\">JHN 18:28–19:16</a></p>\n<h3>The trial of Paul</h3>\n<p><strong><a href=\"https://ref.ly/Acts27:23-Acts27:24\">ACT 27:23–27:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts22:30-Acts23:11\">ACT 22:30–23:11</a>, <a href=\"https://ref.ly/Acts24:1-Acts24:23\">ACT 24:1–24:23</a>, <a href=\"https://ref.ly/Acts25:1-Acts25:12\">ACT 25:1–25:12</a>, <a href=\"https://ref.ly/Acts25:23-Acts26:32\">ACT 25:23–26:32</a></p>\n<h2>Trials of faith</h2>\n<h3>Through testing or temptation</h3>\n<p><strong><a href=\"https://ref.ly/Jas1:2-Jas1:3\">JAS 1:2–1:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen22:1\">GEN 22:1</a>; <a href=\"https://ref.ly/Luke22:28\">LUK 22:28</a>; <a href=\"https://ref.ly/2Cor8:1-2Cor8:2\">2CO 8:1–8:2</a>; <a href=\"https://ref.ly/1Thess3:2-1Thess3:4\">1TH 3:2–3:4</a>; <a href=\"https://ref.ly/2Thess1:4\">2TH 1:4</a>; <a href=\"https://ref.ly/Jas1:12\">JAS 1:12</a>; <a href=\"https://ref.ly/1Pet1:6\">1PE 1:6</a>, <a href=\"https://ref.ly/1Pet4:12-1Pet4:16\">1PE 4:12–4:16</a>; <a href=\"https://ref.ly/2Pet2:4-2Pet2:9\">2PE 2:4–2:9</a>; <a href=\"https://ref.ly/Rev3:10\">REV 3:10</a></p>\n<h3>Through burdensome responsibilities</h3>\n<p><strong><a href=\"https://ref.ly/Gal4:14\">GAL 4:14</a></strong></p>\n<h2>Trials of strength or power</h2>\n<p><strong><a href=\"https://ref.ly/Deut7:19\">DEU 7:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod7:8-Exod7:24\">EXO 7:8–7:24</a>; <a href=\"https://ref.ly/Deut29:2-Deut29:3\">DEU 29:2–29:3</a>; <a href=\"https://ref.ly/1Kgs18:16-1Kgs18:40\">1KI 18:16–18:40</a></p>",
@@ -314,6 +314,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8832: testing",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Haggi",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haggi"
 }
 ]
 }

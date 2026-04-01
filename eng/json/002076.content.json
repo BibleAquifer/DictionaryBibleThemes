@@ -2,10 +2,10 @@
 {
 "content_id": "8235",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8235: doctrine, nature of",
 "media_type": "Text",
-"index_reference": "8235: doctrine, nature of",
+"index_reference": "8235",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The teachings of Scripture, especially as expressed as a formulation and summary of revealed truth.</p>\n<h2>Doctrine communicated</h2>\n<h3>In the OT</h3>\n<p><strong><a href=\"https://ref.ly/Ezra7:10\">EZR 7:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut33:10\">DEU 33:10</a>; <a href=\"https://ref.ly/Ps78:1-Ps78:4\">PSA 78:1–78:4</a>, <a href=\"https://ref.ly/Ps119:33-Ps119:36\">PSA 119:33–119:36</a>; <a href=\"https://ref.ly/Prov4:1-Prov4:2\">PRO 4:1–4:2</a>; <a href=\"https://ref.ly/Mal2:6\">MAL 2:6</a></p>\n<h3>In the ministry of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Matt4:23\">MAT 4:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt9:35\">MAT 9:35</a>; <a href=\"https://ref.ly/Mark6:6\">MRK 6:6</a>, <a href=\"https://ref.ly/Mark6:34\">MRK 6:34</a>; <a href=\"https://ref.ly/Luke6:6\">LUK 6:6</a>, <a href=\"https://ref.ly/Luke13:10\">LUK 13:10</a>, <a href=\"https://ref.ly/Luke13:22\">LUK 13:22</a>, <a href=\"https://ref.ly/Luke19:47\">LUK 19:47</a>, <a href=\"https://ref.ly/Luke20:1\">LUK 20:1</a>, <a href=\"https://ref.ly/Luke21:37\">LUK 21:37</a>; <a href=\"https://ref.ly/John6:59\">JHN 6:59</a>MAT <a href=\"https://ref.ly/John7:28-John7:29\">7:28–7:29</a>, <a href=\"https://ref.ly/Matt13:54\">MAT 13:54</a>, <a href=\"https://ref.ly/Matt22:23-Matt22:33\">MAT 22:23–22:33</a>; <a href=\"https://ref.ly/Mark1:21-Mark1:22\">MRK 1:21–1:22</a> parallel <a href=\"https://ref.ly/Luke4:31-Luke4:32\">LUK 4:31–4:32</a></p>\n<h3>In the ministry of the apostles</h3>\n<p><strong><a href=\"https://ref.ly/Acts2:42\">ACT 2:42</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts4:2\">ACT 4:2</a>, <a href=\"https://ref.ly/Acts5:42\">ACT 5:42</a>, <a href=\"https://ref.ly/Acts18:11\">ACT 18:11</a><strong><a href=\"https://ref.ly/2Tim1:13\">2TI 1:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor15:3-1Cor15:5\">1CO 15:3–15:5</a>; <a href=\"https://ref.ly/Phil2:5-Phil2:11\">PHP 2:5–2:11</a>; <a href=\"https://ref.ly/1Tim3:16\">1TI 3:16</a>; <a href=\"https://ref.ly/Titus2:1-Titus2:10\">TIT 2:1–2:10</a>; <a href=\"https://ref.ly/Heb5:11-Heb6:2\">HEB 5:11–6:2</a></p>\n<h3>In the church</h3>\n<p><strong><a href=\"https://ref.ly/Eph4:11\">EPH 4:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts13:1\">ACT 13:1</a>; <a href=\"https://ref.ly/Rom12:7\">ROM 12:7</a>; <a href=\"https://ref.ly/1Cor12:28\">1CO 12:28</a>, <a href=\"https://ref.ly/1Cor14:26\">1CO 14:26</a>; <a href=\"https://ref.ly/1Tim5:17\">1TI 5:17</a>; <a href=\"https://ref.ly/Jas3:1\">JAS 3:1</a></p>\n<h2>True doctrine is from God</h2>\n<p><strong><a href=\"https://ref.ly/John7:16\">JHN 7:16</a></strong>; <strong><a href=\"https://ref.ly/2Tim3:16-2Tim3:17\">2TI 3:16–3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/John8:28\">JHN 8:28</a>, <a href=\"https://ref.ly/John12:49-John12:50\">JHN 12:49–12:50</a>, <a href=\"https://ref.ly/John14:10\">JHN 14:10</a>, <a href=\"https://ref.ly/John14:24\">JHN 14:24</a>; <a href=\"https://ref.ly/2Pet1:20-2Pet1:21\">2PE 1:20–1:21</a></p>",
@@ -372,6 +372,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8314: orthodoxy",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "deity:Seraph",
+"type": "deity",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Seraph"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "8706",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8706: apostasy, warnings against personal",
 "media_type": "Text",
-"index_reference": "8706: apostasy, warnings against personal",
+"index_reference": "8706",
 "language": "eng",
 "review_level": "None",
 "content": "<p>It is possible for individuals to fall away from faith or turn against Jesus Christ. Scripture identifies this danger and warns against its negative consequences.</p>\n<h2>Personal apostasy described</h2>\n<p><strong><a href=\"https://ref.ly/Heb6:4-Heb6:8\">HEB 6:4–6:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt13:20-Matt13:21\">MAT 13:20–13:21</a> parallels <a href=\"https://ref.ly/Mark4:16-Mark4:17\">MRK 4:16–4:17</a>, <a href=\"https://ref.ly/Luke8:13\">LUK 8:13</a>; <a href=\"https://ref.ly/Matt24:10-Matt24:12\">MAT 24:10–24:12</a>; <a href=\"https://ref.ly/Gal1:6\">GAL 1:6</a>, <a href=\"https://ref.ly/Gal5:4\">GAL 5:4</a>; <a href=\"https://ref.ly/2Thess2:3\">2TH 2:3</a>; <a href=\"https://ref.ly/2Tim4:3-2Tim4:4\">2TI 4:3–4:4</a>; <a href=\"https://ref.ly/1Tim4:1\">1TI 4:1</a>; <a href=\"https://ref.ly/1John2:19\">1JN 2:19</a>, <a href=\"https://ref.ly/1John5:16\">1JN 5:16</a></p>\n<h2>Warnings against personal apostasy</h2>\n<p><strong><a href=\"https://ref.ly/Heb10:26-Heb10:31\">HEB 10:26–10:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt10:33\">MAT 10:33</a> parallels <a href=\"https://ref.ly/Mark8:38\">MRK 8:38</a>, <a href=\"https://ref.ly/Luke12:9\">LUK 12:9</a>; <a href=\"https://ref.ly/John15:6\">JHN 15:6</a>; <a href=\"https://ref.ly/2Tim2:12\">2TI 2:12</a>; <a href=\"https://ref.ly/Heb3:12\">HEB 3:12</a>; <a href=\"https://ref.ly/2Pet3:17\">2PE 3:17</a></p>\n<h2>OT examples of personal apostasy</h2>\n<p><a href=\"https://ref.ly/Deut13:1-Deut13:11\">DEU 13:1–13:11</a> <em>an unfruitful prophet or relative</em>; <a href=\"https://ref.ly/1Sam15:11\">1SA 15:11</a>, <a href=\"https://ref.ly/1Sam15:28\">1SA 15:28</a>, <a href=\"https://ref.ly/1Sam16:14\">1SA 16:14</a>; ; <a href=\"https://ref.ly/2Sam7:15\">2SA 7:15</a>; \n<a href=\"https://ref.ly/2Chr26:16-2Chr26:21\">2CH 26:16–26:21</a> <em>King Uzziah</em>; ; <a href=\"https://ref.ly/2Chr28:19-2Chr28:27\">2CH 28:19–28:27</a> <em>King Ahaz</em></p>\n<h2>NT examples of personal apostasy</h2>\n<p><a href=\"https://ref.ly/Matt26:14-Matt26:16\">MAT 26:14–26:16</a> parallels <a href=\"https://ref.ly/Mark14:10-Mark14:11\">MRK 14:10–14:11</a>, <a href=\"https://ref.ly/Luke22:3-Luke22:6\">LUK 22:3–22:6</a> <em>Judas</em>; ; <a href=\"https://ref.ly/Luke13:26-Luke13:27\">LUK 13:26–13:27</a>; ; <a href=\"https://ref.ly/John6:66\">JHN 6:66</a>; ; <a href=\"https://ref.ly/Acts5:1-Acts5:11\">ACT 5:1–5:11</a> <em>Ananias and Sapphira</em>; ; <a href=\"https://ref.ly/1Tim1:19-1Tim1:20\">1TI 1:19–1:20</a> <em>Hymenaeus and Alexander</em>; ; <a href=\"https://ref.ly/Titus1:16\">TIT 1:16</a>; ; <a href=\"https://ref.ly/2Tim4:10\">2TI 4:10</a> <em>Demas</em>; ; <a href=\"https://ref.ly/2Pet2:1-2Pet2:3\">2PE 2:1–2:3</a>, <a href=\"https://ref.ly/2Pet2:10-2Pet2:15\">2PE 2:10–2:15</a>, <a href=\"https://ref.ly/2Pet2:20-2Pet2:22\">2PE 2:20–2:22</a>; ; <a href=\"https://ref.ly/Jude1:4\">JUD 1:4</a>, <a href=\"https://ref.ly/Jude1:8-Jude1:16\">JUD 1:8–1:16</a>; ; <a href=\"https://ref.ly/Rev2:20-Rev2:22\">REV 2:20–2:22</a> <em>Jezebel</em></p>",
@@ -307,7 +307,8 @@
 "label": "8839: unfaithfulness",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

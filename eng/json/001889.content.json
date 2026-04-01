@@ -2,10 +2,10 @@
 {
 "content_id": "7630",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7630: Twelve, the",
 "media_type": "Text",
-"index_reference": "7630: twelve, the",
+"index_reference": "7630",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The inner circle of the twelve disciples, called by Jesus Christ to follow him and carry on his mission after his death and resurrection.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7632: Twelve, diverse characters of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Pelaliah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Pelaliah"
 }
 ]
 }

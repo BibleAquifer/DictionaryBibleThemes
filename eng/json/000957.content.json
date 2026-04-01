@@ -2,10 +2,10 @@
 {
 "content_id": "5373",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5373: lamp and lampstand",
 "media_type": "Text",
-"index_reference": "5373: lamp and lampstand",
+"index_reference": "5373",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A device to give light, especially in buildings, and the stand on which it was placed. They were both used as symbols of the gospel or of churches which resulted from the preaching of the gospel.</p>\n<h2>Domestic lamps</h2>\n<p><strong><a href=\"https://ref.ly/Prov31:18\">PRO 31:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs4:10\">2KI 4:10</a>; <a href=\"https://ref.ly/Jer25:10\">JER 25:10</a>; <a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a>; <a href=\"https://ref.ly/Luke15:8\">LUK 15:8</a>; <a href=\"https://ref.ly/Acts20:8\">ACT 20:8</a>; <a href=\"https://ref.ly/Rev18:23\">REV 18:23</a></p>\n<h2>Lamps in the tabernacle and temple</h2>\n<p><strong><a href=\"https://ref.ly/2Chr4:7\">2CH 4:7</a></strong>; <strong><a href=\"https://ref.ly/Heb9:2\">HEB 9:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod25:31-Exod25:40\">EXO 25:31–25:40</a>, <a href=\"https://ref.ly/Exod26:35\">EXO 26:35</a>, <a href=\"https://ref.ly/Exod30:27\">EXO 30:27</a>, <a href=\"https://ref.ly/Exod31:8\">EXO 31:8</a>, <a href=\"https://ref.ly/Exod35:14\">EXO 35:14</a>, <a href=\"https://ref.ly/Exod37:17-Exod37:24\">EXO 37:17–37:24</a>, <a href=\"https://ref.ly/Exod39:37\">EXO 39:37</a>, <a href=\"https://ref.ly/Exod40:4\">EXO 40:4</a>, <a href=\"https://ref.ly/Exod40:24-Exod40:25\">EXO 40:24–40:25</a>; <a href=\"https://ref.ly/Num4:9-Num4:10\">NUM 4:9–4:10</a>, <a href=\"https://ref.ly/Num8:1-Num8:4\">NUM 8:1–8:4</a>; <a href=\"https://ref.ly/1Kgs7:49\">1KI 7:49</a>; <a href=\"https://ref.ly/2Chr4:19-2Chr4:21\">2CH 4:19–4:21</a>; <a href=\"https://ref.ly/Jer52:19\">JER 52:19</a></p>\n<h2>Tending the lamps</h2>\n<p><strong><a href=\"https://ref.ly/Exod27:20-Exod27:21\">EXO 27:20–27:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod30:7-Exod30:8\">EXO 30:7–30:8</a>; <a href=\"https://ref.ly/Lev24:2-Lev24:4\">LEV 24:2–24:4</a>; <a href=\"https://ref.ly/Num3:31\">NUM 3:31</a>; <a href=\"https://ref.ly/1Sam3:3\">1SA 3:3</a>; <a href=\"https://ref.ly/2Chr13:11\">2CH 13:11</a>, <a href=\"https://ref.ly/2Chr29:7\">2CH 29:7</a></p>\n<h2>Lamps used metaphorically</h2>\n<p><strong><a href=\"https://ref.ly/2Sam21:17\">2SA 21:17</a></strong> <em>The lamp of Israel represents the king</em>; <strong><a href=\"https://ref.ly/Ps119:105\">PSA 119:105</a></strong>; <strong><a href=\"https://ref.ly/Matt5:15-Matt5:16\">MAT 5:15–5:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark4:21\">MRK 4:21</a>; <a href=\"https://ref.ly/Luke8:16\">LUK 8:16</a>, <a href=\"https://ref.ly/Luke11:33\">LUK 11:33</a><strong><a href=\"https://ref.ly/John5:35\">JHN 5:35</a></strong>; <strong><a href=\"https://ref.ly/Rev1:12-Rev1:13\">REV 1:12–1:13</a></strong> <em>The lampstands represent the seven churches.</em> <em>See also</em> <a href=\"https://ref.ly/2Sam22:29\">2SA 22:29</a>; <a href=\"https://ref.ly/Job18:5-Job18:6\">JOB 18:5–18:6</a>, <a href=\"https://ref.ly/Job29:2-Job29:3\">JOB 29:2–29:3</a>; <a href=\"https://ref.ly/Ps18:28\">PSA 18:28</a>; <a href=\"https://ref.ly/Prov13:9\">PRO 13:9</a>; <a href=\"https://ref.ly/Zeph1:12\">ZEP 1:12</a>; <a href=\"https://ref.ly/Zech4:2\">ZEC 4:2</a>; <a href=\"https://ref.ly/Matt6:22\">MAT 6:22</a> parallel <a href=\"https://ref.ly/Luke11:34-Luke11:36\">LUK 11:34–11:36</a>; <a href=\"https://ref.ly/Matt25:1-Matt25:13\">MAT 25:1–25:13</a> <em>the parable of the ten virgins</em>; <a href=\"https://ref.ly/Luke12:35\">LUK 12:35</a>; <a href=\"https://ref.ly/Rev11:4\">REV 11:4</a>, <a href=\"https://ref.ly/Rev22:5\">REV 22:5</a></p>",
@@ -353,6 +353,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7467: temple, Solomon's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gatam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gatam"
+},
+{
+"id": "realia:Lampstand.2",
+"type": "realia",
+"confidence": 0.5562,
+"match_method": "scored",
+"preferred_label": "Lampstand"
 }
 ]
 }

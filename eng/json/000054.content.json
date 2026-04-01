@@ -2,10 +2,10 @@
 {
 "content_id": "1250",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1250: Abba",
 "media_type": "Text",
-"index_reference": "1250: abba",
+"index_reference": "1250",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The Aramaic word “Abba” is thought to be a very intimate term for “Father” suggesting that those who use it to refer to God enjoy a close relationship with him. Jesus Christ uses the term as a consequence of his natural sonship of God; believers may use it as a consequence of their adopted sonship of God through faith.</p>\n<h2>``Abba'' used in addressing God</h2>\n<h3>By Jesus Christ</h3>\n<p><a href=\"https://ref.ly/Mark14:36\">MRK 14:36</a></p>\n<h3>By believers</h3>\n<p><a href=\"https://ref.ly/Rom8:15\">ROM 8:15</a>; ; <a href=\"https://ref.ly/Gal4:6\">GAL 4:6</a></p>",
@@ -100,6 +100,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8134: knowing God",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "deity:Lord",
+"type": "deity",
+"confidence": 0.679,
+"match_method": "scored",
+"preferred_label": "LORD"
 }
 ]
 }

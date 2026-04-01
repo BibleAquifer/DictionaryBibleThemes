@@ -2,10 +2,10 @@
 {
 "content_id": "5006",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5006: human race, destiny of",
 "media_type": "Text",
-"index_reference": "5006: human race, destiny of",
+"index_reference": "5006",
 "language": "eng",
 "review_level": "None",
 "content": "<p>All human beings must face judgment, when God will reward them according to their attitude towards him.</p>\n<h2>The human race will face final judgment</h2>\n<p><strong><a href=\"https://ref.ly/Matt16:27\">MAT 16:27</a></strong>; <strong><a href=\"https://ref.ly/1Cor4:5\">1CO 4:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan12:1-Dan12:2\">DAN 12:1–12:2</a>; <a href=\"https://ref.ly/Mal3:16-Mal3:18\">MAL 3:16–3:18</a>; <a href=\"https://ref.ly/Matt13:40-Matt13:43\">MAT 13:40–13:43</a>; <a href=\"https://ref.ly/John5:24-John5:29\">JHN 5:24–5:29</a>; <a href=\"https://ref.ly/Rom2:5-Rom2:11\">ROM 2:5–2:11</a></p>\n<h2>Unbelievers will be separated from God</h2>\n<p><strong><a href=\"https://ref.ly/2Thess1:8-2Thess1:10\">2TH 1:8–1:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt25:31-Matt25:46\">MAT 25:31–25:46</a>; <a href=\"https://ref.ly/Mark9:42-Mark9:48\">MRK 9:42–9:48</a>; <a href=\"https://ref.ly/Luke13:22-Luke13:28\">LUK 13:22–13:28</a>; <a href=\"https://ref.ly/2Pet3:7\">2PE 3:7</a>; <a href=\"https://ref.ly/Rev20:11-Rev20:15\">REV 20:11–20:15</a></p>\n<h2>Those who have faith will live in God's presence</h2>\n<p><strong><a href=\"https://ref.ly/Rev21:1-Rev21:3\">REV 21:1–21:3</a></strong>; <strong><a href=\"https://ref.ly/John14:1-John14:3\">JHN 14:1–14:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Zech2:10-Zech2:13\">ZEC 2:10–2:13</a>; <a href=\"https://ref.ly/Rev7:13-Rev7:17\">REV 7:13–7:17</a>, <a href=\"https://ref.ly/Rev22:3-Rev22:4\">REV 22:3–22:4</a></p>\n<h3>United in the praise of God</h3>\n<p><strong><a href=\"https://ref.ly/Rev7:9-Rev7:10\">REV 7:9–7:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa2:2-Isa2:4\">ISA 2:2–2:4</a> parallel <a href=\"https://ref.ly/Mic4:1-Mic4:3\">MIC 4:1–4:3</a>; <a href=\"https://ref.ly/Matt8:11\">MAT 8:11</a> parallel <a href=\"https://ref.ly/Luke13:29\">LUK 13:29</a>; <a href=\"https://ref.ly/Rev5:9-Rev5:10\">REV 5:9–5:10</a>, <a href=\"https://ref.ly/Rev21:22-Rev21:27\">REV 21:22–21:27</a></p>\n<h3>Delivered from suffering, pain and death</h3>\n<p><strong><a href=\"https://ref.ly/Rev21:3-Rev21:4\">REV 21:3–21:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa25:6-Isa25:8\">ISA 25:6–25:8</a>, <a href=\"https://ref.ly/Isa65:17-Isa65:25\">ISA 65:17–65:25</a>; <a href=\"https://ref.ly/Rev7:16-Rev7:17\">REV 7:16–7:17</a>, <a href=\"https://ref.ly/Rev22:1-Rev22:3\">REV 22:1–22:3</a></p>\n<h3>Sharing in the glory of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Col3:4\">COL 3:4</a></strong>; <strong><a href=\"https://ref.ly/1Pet5:4\">1PE 5:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Tim4:8\">2TI 4:8</a></p>",
@@ -294,6 +294,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9510: hell",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Elienai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elienai"
 }
 ]
 }

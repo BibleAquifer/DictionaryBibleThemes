@@ -2,10 +2,10 @@
 {
 "content_id": "5246",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5246: captivity",
 "media_type": "Text",
-"index_reference": "5246: captivity",
+"index_reference": "5246",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The state of individuals, communities or nations held in bondage by a foreign power. Such captivity may be punishment from God who, nevertheless, hears the cry of his captive people. God will punish those who, in their arrogance, take others captive. The term is sometimes used metaphorically of the bondage of sin. Jesus Christ alone can free people from such a state.</p>\n<h2>Individuals and communities taken into captivity</h2>\n<p><strong><a href=\"https://ref.ly/1Sam30:1-1Sam30:3\">1SA 30:1–30:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen14:11-Gen14:14\">GEN 14:11–14:14</a></p>\n<h2>Nations taken into captivity</h2>\n<p><strong><a href=\"https://ref.ly/Jer48:46\">JER 48:46</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod6:9\">EXO 6:9</a>; <a href=\"https://ref.ly/Num31:9-Num31:12\">NUM 31:9–31:12</a>; <a href=\"https://ref.ly/Isa20:3-Isa20:4\">ISA 20:3–20:4</a></p>\n<h2>The captivity of Israel</h2>\n<h3>As a punishment from the LORD</h3>\n<p><strong><a href=\"https://ref.ly/Ps106:39-Ps106:43\">PSA 106:39–106:43</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps78:58-Ps78:61\">PSA 78:58–78:61</a></p>\n<h3>The LORD hears the cry of his people</h3>\n<p><strong><a href=\"https://ref.ly/Exod2:23\">EXO 2:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod6:5-Exod6:6\">EXO 6:5–6:6</a>; <a href=\"https://ref.ly/1Kgs8:46-1Kgs8:51\">1KI 8:46–8:51</a>; <a href=\"https://ref.ly/Ps69:33\">PSA 69:33</a>, <a href=\"https://ref.ly/Ps106:44-Ps106:46\">PSA 106:44–106:46</a></p>\n<h3>The Israelites were never to forget their captivity in Egypt</h3>\n<p><strong><a href=\"https://ref.ly/Deut5:15\">DEU 5:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod13:3\">EXO 13:3</a>, <a href=\"https://ref.ly/Exod13:14\">EXO 13:14</a>; <a href=\"https://ref.ly/Deut6:12\">DEU 6:12</a>, <a href=\"https://ref.ly/Deut6:20-Deut6:21\">DEU 6:20–6:21</a>, <a href=\"https://ref.ly/Deut15:12-Deut15:15\">DEU 15:12–15:15</a>, <a href=\"https://ref.ly/Deut16:11-Deut16:12\">DEU 16:11–16:12</a>, <a href=\"https://ref.ly/Deut24:17-Deut24:18\">DEU 24:17–24:18</a>, <a href=\"https://ref.ly/Deut24:21-Deut24:22\">DEU 24:21–24:22</a>; <a href=\"https://ref.ly/Josh24:17\">JOS 24:17</a>; <a href=\"https://ref.ly/Jer34:12-Jer34:14\">JER 34:12–34:14</a></p>\n<h2>God will punish those who take others into captivity</h2>\n<p><strong><a href=\"https://ref.ly/Amos1:6-Amos1:7\">AMO 1:6–1:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr28:9-2Chr28:15\">2CH 28:9–28:15</a>; <a href=\"https://ref.ly/Neh4:4\">NEH 4:4</a>; <a href=\"https://ref.ly/Amos1:9-Amos1:10\">AMO 1:9–1:10</a>; <a href=\"https://ref.ly/Acts7:6-Acts7:7\">ACT 7:6–7:7</a></p>\n<h2>Captivity used metaphorically</h2>\n<h3>Of the bondage of sin</h3>\n<p><strong><a href=\"https://ref.ly/John8:34\">JHN 8:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts8:23\">ACT 8:23</a>; <a href=\"https://ref.ly/Rom7:14\">ROM 7:14</a>, <a href=\"https://ref.ly/Rom7:25\">ROM 7:25</a>; <a href=\"https://ref.ly/2Tim2:26\">2TI 2:26</a>; <a href=\"https://ref.ly/2Pet2:19\">2PE 2:19</a></p>\n<h3>Jesus Christ alone can free from such sin</h3>\n<p><strong><a href=\"https://ref.ly/2Cor10:5\">2CO 10:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa42:6-Isa42:7\">ISA 42:6–42:7</a>, <a href=\"https://ref.ly/Isa61:1\">ISA 61:1</a>; <a href=\"https://ref.ly/Luke4:18\">LUK 4:18</a>; <a href=\"https://ref.ly/John8:36\">JHN 8:36</a>; <a href=\"https://ref.ly/Gal2:4-Gal2:5\">GAL 2:4–2:5</a>, <a href=\"https://ref.ly/Gal5:1\">GAL 5:1</a>; <a href=\"https://ref.ly/Eph4:8\">EPH 4:8</a>; <a href=\"https://ref.ly/Ps68:18\">PSA 68:18</a></p>",
@@ -361,7 +361,8 @@
 "label": "8790: oppression",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

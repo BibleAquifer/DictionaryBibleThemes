@@ -2,10 +2,10 @@
 {
 "content_id": "5718",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5718: mothers",
 "media_type": "Text",
-"index_reference": "5718: mothers",
+"index_reference": "5718",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The female parent of children. The role and influence of mothers are frequently stressed in Scripture, and their care for children is used as a picture of God's care for his people.</p>",
@@ -32,6 +32,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5721: mothers, as a symbol",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hauran",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hauran"
 }
 ]
 }

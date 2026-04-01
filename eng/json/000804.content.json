@@ -2,10 +2,10 @@
 {
 "content_id": "5215",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5215: authority",
 "media_type": "Text",
-"index_reference": "5215: authority",
+"index_reference": "5215",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The right to act or speak in certain ways, in accordance with the authorisation of a higher power. All human authority derives from God, and is to be exercised in a responsible manner.</p>",
@@ -47,7 +47,8 @@
 "label": "5220: authority, abuse of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "7715",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7715: deacons",
 "media_type": "Text",
-"index_reference": "7715: deacons",
+"index_reference": "7715",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Those who “serve” in the Christian community, assisting the elders or overseers (bishops). The Greek word which the NIV translates four times as “deacon” occurs a further 25 times in the NT, where it is translated as “servant”. It seems that all Christians have a general servant role, whereas some (deacons) are called to a specific office of service within the church.</p>\n<h2>The Seven: assistants to the apostles</h2>\n<h3>Why they were needed</h3>\n<p><strong><a href=\"https://ref.ly/Acts6:1-Acts6:4\">ACT 6:1–6:4</a></strong> <em>The verb “wait” means “to serve”.</em></p>\n<h3>Their qualifications and selection</h3>\n<p><strong><a href=\"https://ref.ly/Acts6:3\">ACT 6:3</a></strong></p>\n<h3>Their names and appointment</h3>\n<p><strong><a href=\"https://ref.ly/Acts6:5-Acts6:6\">ACT 6:5–6:6</a></strong> <em>Although the Seven are not actually called “deacons”, they were probably the earliest example of Christians carrying out the tasks which came to be linked with deacons.</em></p>\n<h2>Deacons were assistants to overseers in Philippi</h2>\n<p><strong><a href=\"https://ref.ly/Phil1:1\">PHP 1:1</a></strong> <em>All Christians are “saints” (that is, set apart for God), but overseers and deacons have specific roles assigned to them.</em></p>\n<h2>Qualifications for men and women deacons</h2>\n<p><strong><a href=\"https://ref.ly/1Tim3:8-1Tim3:13\">1TI 3:8–3:13</a></strong> <em>There is no NT description of the precise role of deacons (although <a href=\"https://ref.ly/Acts6:1-Acts6:4\">Ac 6:1–4</a> may imply a certain role). These qualifications would be appropriate for people responsible for financial management, administration, and social service, such as that offered to widows</em>; <strong><a href=\"https://ref.ly/1Tim3:11\">1TI 3:11</a></strong> <em>The women may be deacons' wives (NIV text), or deaconesses (NIV footnote).</em></p>\n<h2>Phoebe, a deaconess</h2>\n<p><strong><a href=\"https://ref.ly/Rom16:1\">ROM 16:1</a></strong> <em>NIV footnote.</em></p>",
@@ -138,6 +138,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8492: watchfulness, of leaders",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Philologus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Philologus"
 }
 ]
 }

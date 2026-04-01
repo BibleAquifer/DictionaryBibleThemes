@@ -2,10 +2,10 @@
 {
 "content_id": "4318",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4318: coal",
 "media_type": "Text",
-"index_reference": "4318: coal",
+"index_reference": "4318",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Carbonised vegetable material of wood, woody matter or charcoal, used for burning.</p>\n<h2>Coal used to burn incense</h2>\n<p><strong><a href=\"https://ref.ly/Lev16:12-Lev16:13\">LEV 16:12–16:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num16:16-Num16:18\">NUM 16:16–16:18</a>, <a href=\"https://ref.ly/Num16:35-Num16:38\">NUM 16:35–16:38</a></p>\n<h2>Coal burned in the Most Holy Place</h2>\n<p><strong><a href=\"https://ref.ly/Isa6:4-Isa6:7\">ISA 6:4–6:7</a></strong></p>\n<h2>Coal used for baking and cooking</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs19:6\">1KI 19:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa44:19\">ISA 44:19</a>; <a href=\"https://ref.ly/Ezek24:9-Ezek24:11\">EZK 24:9–24:11</a>; <a href=\"https://ref.ly/John21:9\">JHN 21:9</a></p>\n<h2>Coal used for domestic fires</h2>\n<p><strong><a href=\"https://ref.ly/Isa47:14\">ISA 47:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa30:12-Isa30:14\">ISA 30:12–30:14</a></p>\n<h2>Coal used by blacksmiths</h2>\n<p><strong><a href=\"https://ref.ly/Isa44:12\">ISA 44:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa54:16\">ISA 54:16</a></p>\n<h2>Burning coal associated with divine punishment</h2>\n<p><strong><a href=\"https://ref.ly/Ps11:6\">PSA 11:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps120:3-Ps120:4\">PSA 120:3–120:4</a>, <a href=\"https://ref.ly/Ps140:9-Ps140:10\">PSA 140:9–140:10</a></p>\n<h2>Burning coal in descriptions of God</h2>\n<h3>In poetic passages</h3>\n<p><strong><a href=\"https://ref.ly/2Sam22:8-2Sam22:9\">2SA 22:8–22:9</a></strong> parallel <a href=\"https://ref.ly/Ps18:7-Ps18:8\">PSA 18:7–18:8</a></p>\n<h3>In visions</h3>\n<p><strong><a href=\"https://ref.ly/Ezek1:4-Ezek1:14\">EZK 1:4–1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek10:1-Ezek10:2\">EZK 10:1–10:2</a></p>\n<h2>Metaphorical use of coal</h2>\n<p><strong><a href=\"https://ref.ly/2Sam14:7\">2SA 14:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:27-Prov6:29\">PRO 6:27–6:29</a>, <a href=\"https://ref.ly/Prov25:21-Prov25:22\">PRO 25:21–25:22</a>; <a href=\"https://ref.ly/Rom12:17-Rom12:21\">ROM 12:17–12:21</a></p>",
@@ -221,7 +221,8 @@
 "label": "7386: incense",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "6742",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6742: sackcloth and ashes",
 "media_type": "Text",
-"index_reference": "6742: sackcloth and ashes",
+"index_reference": "6742",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Sackcloth is a coarse, black cloth made from goat's hair that was worn together with the burnt ashes of wood as a sign of mourning for personal and national disaster, as a sign of repentance and at times of prayer for deliverance.</p>\n<h2>Sackcloth and ashes worn as a sign of mourning for the dead</h2>\n<h3>By Jacob for Joseph</h3>\n<p><strong><a href=\"https://ref.ly/Gen37:34\">GEN 37:34</a></strong></p>\n<h3>By David, Joab and the people for Abner</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/2Sam3:31\">2SA 3:31</a></p>\n<h2>Sackcloth and ashes worn as a sign of mourning for personal or national disaster</h2>\n<p><strong><a href=\"https://ref.ly/Job16:15\">JOB 16:15</a>, <a href=\"https://ref.ly/Job42:6\">JOB 42:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth4:1\">EST 4:1</a>; <a href=\"https://ref.ly/Lam2:10\">LAM 2:10</a>; <a href=\"https://ref.ly/Joel1:8\">JOL 1:8</a></p>\n<h2>Sackcloth and ashes worn as a sign of repentance for sin</h2>\n<h3>By Ahab</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs21:27\">1KI 21:27</a></strong></p>\n<h3>By David and the elders</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/1Chr21:16\">1CH 21:16</a></p>\n<h3>By the Israelites</h3>\n<p><strong><a href=\"https://ref.ly/Neh9:1\">NEH 9:1</a></strong></p>\n<h3>By the Ninevites and their king</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Jonah3:5-Jonah3:9\">JON 3:5–3:9</a> <em>Even the animals were to wear sackcloth.</em></p>\n<h3>By others</h3>\n<p><a href=\"https://ref.ly/Isa15:3\">ISA 15:3</a>; ; <a href=\"https://ref.ly/Jer49:3\">JER 49:3</a>; ; <a href=\"https://ref.ly/Ezek27:31\">EZK 27:31</a>; ; <a href=\"https://ref.ly/Matt11:21\">MAT 11:21</a> parallel <a href=\"https://ref.ly/Luke10:13\">LUK 10:13</a></p>\n<h2>Sackcloth and ashes worn at times of prayer for deliverance</h2>\n<h3>By Hezekiah and his companions</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs19:1-2Kgs19:2\">2KI 19:1–19:2</a></strong></p>\n<h3>By Daniel</h3>\n<p><strong><a href=\"https://ref.ly/Dan9:3\">DAN 9:3</a></strong></p>\n<h2>Sackcloth was worn in many different ways</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/1Kgs20:31\">1KI 20:31</a>; <a href=\"https://ref.ly/2Kgs6:30\">2KI 6:30</a>; <a href=\"https://ref.ly/Isa3:24\">ISA 3:24</a>, <a href=\"https://ref.ly/Isa58:5\">ISA 58:5</a>; <a href=\"https://ref.ly/Joel1:13\">JOL 1:13</a></p>\n<h2>Sackcloth used figuratively</h2>\n<p><a href=\"https://ref.ly/Isa50:3\">ISA 50:3</a></p>",
@@ -205,6 +205,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8602: prayer",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Sackcloth",
+"type": "realia",
+"confidence": 0.7561,
+"match_method": "scored",
+"preferred_label": "Sackcloth"
 }
 ]
 }

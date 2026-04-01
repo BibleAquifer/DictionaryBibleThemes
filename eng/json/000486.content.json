@@ -2,10 +2,10 @@
 {
 "content_id": "4542",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4542: wheat",
 "media_type": "Text",
-"index_reference": "4542: wheat",
+"index_reference": "4542",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A cereal widely cultivated for use as food. One of the main agricultural crops in biblical times, it is referred to throughout the Scriptures and features several times in Jesus Christ's teaching.</p>\n<h2>The cultivation of wheat</h2>\n<h3>Sowing wheat</h3>\n<p><strong><a href=\"https://ref.ly/Isa28:24-Isa28:25\">ISA 28:24–28:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer12:13\">JER 12:13</a>; <a href=\"https://ref.ly/1Cor15:37-1Cor15:38\">1CO 15:37–15:38</a></p>\n<h3>The growth of the plant</h3>\n<p><strong><a href=\"https://ref.ly/Exod9:31-Exod9:32\">EXO 9:31–9:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/John12:24\">JHN 12:24</a></p>\n<h3>The wheat harvest</h3>\n<p><strong><a href=\"https://ref.ly/1Sam6:13\">1SA 6:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen30:14\">GEN 30:14</a>; <a href=\"https://ref.ly/Judg15:1\">JDG 15:1</a>; <a href=\"https://ref.ly/Ruth2:23\">RUT 2:23</a>; <a href=\"https://ref.ly/1Sam12:16-1Sam12:18\">1SA 12:16–12:18</a>; <a href=\"https://ref.ly/Joel1:8-Joel1:11\">JOL 1:8–1:11</a></p>\n<h3>Threshing wheat</h3>\n<p><strong><a href=\"https://ref.ly/Judg6:11\">JDG 6:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr21:18-1Chr21:28\">1CH 21:18–21:28</a></p>\n<h3>The parable of the wheat and the weeds</h3>\n<p><a href=\"https://ref.ly/Matt13:24-Matt13:30\">MAT 13:24–13:30</a>, <a href=\"https://ref.ly/Matt13:36-Matt13:43\">MAT 13:36–13:43</a></p>\n<h2>Wheat as food</h2>\n<p><strong><a href=\"https://ref.ly/Ps81:13-Ps81:16\">PSA 81:13–81:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut8:7-Deut8:8\">DEU 8:7–8:8</a>, <a href=\"https://ref.ly/Deut32:13-Deut32:14\">DEU 32:13–32:14</a>; <a href=\"https://ref.ly/2Sam17:27-2Sam17:29\">2SA 17:27–17:29</a>; <a href=\"https://ref.ly/Ps147:12-Ps147:14\">PSA 147:12–147:14</a>; <a href=\"https://ref.ly/Jer41:4-Jer41:8\">JER 41:4–41:8</a>; <a href=\"https://ref.ly/Ezek4:9-Ezek4:13\">EZK 4:9–4:13</a></p>\n<h2>Offerings of wheat</h2>\n<p><strong><a href=\"https://ref.ly/Exod34:22\">EXO 34:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod29:2-Exod29:3\">EXO 29:2–29:3</a>; <a href=\"https://ref.ly/Ezra6:9\">EZR 6:9</a>, <a href=\"https://ref.ly/Ezra7:21-Ezra7:23\">EZR 7:21–7:23</a>; <a href=\"https://ref.ly/Ezek45:13\">EZK 45:13</a></p>\n<h2>Trade in wheat</h2>\n<p><strong><a href=\"https://ref.ly/Ezek27:17\">EZK 27:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Amos8:4-Amos8:6\">AMO 8:4–8:6</a>; <a href=\"https://ref.ly/Rev18:11-Rev18:13\">REV 18:11–18:13</a></p>\n<h2>Wheat as payment or tribute</h2>\n<p><strong><a href=\"https://ref.ly/2Chr2:8-2Chr2:10\">2CH 2:8–2:10</a></strong> parallel <a href=\"https://ref.ly/1Kgs5:11\">1KI 5:11</a> <em>See also</em> <a href=\"https://ref.ly/2Chr2:15-2Chr2:16\">2CH 2:15–2:16</a>, <a href=\"https://ref.ly/2Chr27:5\">2CH 27:5</a>; <a href=\"https://ref.ly/Luke16:1-Luke16:7\">LUK 16:1–16:7</a>; <a href=\"https://ref.ly/Rev6:6\">REV 6:6</a></p>\n<h2>Metaphorical references to wheat</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:11-Matt3:12\">MAT 3:11–3:12</a></strong> parallel <a href=\"https://ref.ly/Luke3:16-Luke3:17\">LUK 3:16–3:17</a> <em>See also</em> <a href=\"https://ref.ly/Song7:2\">SNG 7:2</a>; <a href=\"https://ref.ly/Luke22:31-Luke22:32\">LUK 22:31–22:32</a></p>",
@@ -336,6 +336,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7368: grain offering",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Wheat",
+"type": "flora",
+"confidence": 0.6048,
+"match_method": "scored",
+"preferred_label": "Wheat"
 }
 ]
 }

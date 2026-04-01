@@ -2,10 +2,10 @@
 {
 "content_id": "8342",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8342: servanthood",
 "media_type": "Text",
-"index_reference": "8342: servanthood",
+"index_reference": "8342",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The state of being the servant of others, especially of God. Scripture stresses the privileges and responsibilities of being a servant of God and points to Jesus Christ as the model of servanthood.</p>",
@@ -33,7 +33,8 @@
 "label": "8345: servanthood, and worship of God",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

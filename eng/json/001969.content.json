@@ -2,16 +2,17 @@
 {
 "content_id": "7941",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7941: ministry, of Holy Spirit",
 "media_type": "Text",
-"index_reference": "7941: ministry, of holy spirit",
+"index_reference": "7941",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"3200.md\">3200: Holy Spirit, ministry and work of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5424",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5424: nationalism",
 "media_type": "Text",
-"index_reference": "5424: nationalism",
+"index_reference": "5424",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A concern to preserve or proclaim the distinctive features of a nation or people.</p>\n<h2>The recognition of different national groups</h2>\n<p><strong><a href=\"https://ref.ly/Gen10:32\">GEN 10:32</a></strong> <em><a href=\"https://ref.ly/Gen10:32\">Ge 10:32</a> is the summary conclusion of the table of nations which begins in <a href=\"https://ref.ly/Gen10:1\">Ge 10:1</a>.</em> <em>See also</em> <a href=\"https://ref.ly/Gen17:4-Gen17:6\">GEN 17:4–17:6</a>, <a href=\"https://ref.ly/Gen19:36-Gen19:38\">GEN 19:36–19:38</a>; <a href=\"https://ref.ly/Exod3:8\">EXO 3:8</a>; <a href=\"https://ref.ly/1Kgs9:20\">1KI 9:20</a> parallel <a href=\"https://ref.ly/2Chr8:7\">2CH 8:7</a></p>\n<h2>Israel was to be a special nation set apart for God</h2>\n<h3>The choosing of the nation of Israel</h3>\n<p><strong><a href=\"https://ref.ly/Exod19:5-Exod19:6\">EXO 19:5–19:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen12:1-Gen12:3\">GEN 12:1–12:3</a>; <a href=\"https://ref.ly/Exod33:13\">EXO 33:13</a>; <a href=\"https://ref.ly/Deut7:6-Deut7:8\">DEU 7:6–7:8</a>, <a href=\"https://ref.ly/Deut14:2\">DEU 14:2</a>; <a href=\"https://ref.ly/2Sam7:23\">2SA 7:23</a> parallel <a href=\"https://ref.ly/1Chr17:21\">1CH 17:21</a>; <a href=\"https://ref.ly/Ps33:12\">PSA 33:12</a>; <a href=\"https://ref.ly/Rom9:4-Rom9:5\">ROM 9:4–9:5</a></p>\n<h3>The mission of Israel to the nations</h3>\n<p><strong><a href=\"https://ref.ly/Exod34:10\">EXO 34:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:6\">DEU 4:6</a></p>\n<h2>Examples of nationalism</h2>\n<h3>Positive examples</h3>\n<p><strong><a href=\"https://ref.ly/Ruth1:16-Ruth1:17\">RUT 1:16–1:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod8:23\">EXO 8:23</a>, <a href=\"https://ref.ly/Exod34:24\">EXO 34:24</a>; <a href=\"https://ref.ly/Deut26:5\">DEU 26:5</a>; <a href=\"https://ref.ly/Isa10:6\">ISA 10:6</a></p>\n<h3>Negative examples</h3>\n<p><strong><a href=\"https://ref.ly/Isa1:4\">ISA 1:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num13:31-Num13:32\">NUM 13:31–13:32</a>, <a href=\"https://ref.ly/Num24:14\">NUM 24:14</a>; <a href=\"https://ref.ly/1Kgs22:4\">1KI 22:4</a>; <a href=\"https://ref.ly/Prov14:34\">PRO 14:34</a>; <a href=\"https://ref.ly/Isa14:1-Isa14:2\">ISA 14:1–14:2</a>; <a href=\"https://ref.ly/Jer49:31\">JER 49:31</a>; <a href=\"https://ref.ly/Ezek36:5\">EZK 36:5</a>; <a href=\"https://ref.ly/Joel1:6\">JOL 1:6</a>, <a href=\"https://ref.ly/Joel3:2\">JOL 3:2</a></p>\n<h2>The people of God transcend all national boundaries</h2>\n<h3>The church is God's holy nation</h3>\n<p><strong><a href=\"https://ref.ly/1Pet2:9-1Pet2:10\">1PE 2:9–2:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph2:19\">EPH 2:19</a></p>\n<h3>People of all nations are included</h3>\n<p><strong><a href=\"https://ref.ly/Matt8:11\">MAT 8:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt28:19\">MAT 28:19</a>; <a href=\"https://ref.ly/Acts11:18\">ACT 11:18</a>, <a href=\"https://ref.ly/Acts11:20-Acts11:21\">ACT 11:20–11:21</a>; <a href=\"https://ref.ly/Rev5:9\">REV 5:9</a>, <a href=\"https://ref.ly/Rev7:9\">REV 7:9</a>, <a href=\"https://ref.ly/Rev14:6\">REV 14:6</a></p>\n<h3>Christian unity is greater than nationalism</h3>\n<p><strong><a href=\"https://ref.ly/Gal3:26-Gal3:29\">GAL 3:26–3:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom9:6-Rom9:8\">ROM 9:6–9:8</a>; <a href=\"https://ref.ly/Eph2:11-Eph2:13\">EPH 2:11–2:13</a></p>",
@@ -331,6 +331,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7515: anti-semitism",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gerar",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gerar"
 }
 ]
 }

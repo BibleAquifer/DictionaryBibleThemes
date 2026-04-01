@@ -2,10 +2,10 @@
 {
 "content_id": "5403",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5403: masons",
 "media_type": "Text",
-"index_reference": "5403: masons",
+"index_reference": "5403",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Building projects on which masons were employed</h2>\n<h3>David's palace</h3>\n<p><strong><a href=\"https://ref.ly/2Sam5:11\">2SA 5:11</a></strong> parallel <a href=\"https://ref.ly/1Chr14:1\">1CH 14:1</a></p>\n<h3>Solomon's palace</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/1Kgs7:9-1Kgs7:12\">1KI 7:9–7:12</a></p>\n<h3>The temple</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs6:7\">1KI 6:7</a></strong>; <strong><a href=\"https://ref.ly/1Chr22:14-1Chr22:15\">1CH 22:14–22:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs5:15-1Kgs5:18\">1KI 5:15–5:18</a> parallel <a href=\"https://ref.ly/2Chr2:2\">2CH 2:2</a>; <a href=\"https://ref.ly/2Chr2:18\">2CH 2:18</a></p>\n<h3>The repair of the temple</h3>\n<p><a href=\"https://ref.ly/2Kgs12:11-2Kgs12:12\">2KI 12:11–12:12</a> parallel <a href=\"https://ref.ly/2Chr24:12\">2CH 24:12</a>; ; <a href=\"https://ref.ly/2Kgs22:5-2Kgs22:6\">2KI 22:5–22:6</a> parallel <a href=\"https://ref.ly/2Chr34:11\">2CH 34:11</a></p>\n<h3>The rebuilding of the temple</h3>\n<p><strong><a href=\"https://ref.ly/Ezra3:7\">EZR 3:7</a></strong></p>\n<h3>Herod's temple</h3>\n<p><strong><a href=\"https://ref.ly/Mark13:1-Mark13:2\">MRK 13:1–13:2</a></strong></p>\n<h2>The work of masons</h2>\n<h3>Skilled work</h3>\n<p><strong><a href=\"https://ref.ly/2Chr2:13-2Chr2:14\">2CH 2:13–2:14</a></strong></p>\n<h3>Dressed stone was superior</h3>\n<p><strong><a href=\"https://ref.ly/Isa9:10\">ISA 9:10</a></strong> <em>The arrogant boast of the inhabitants of Samaria.</em></p>\n<h3>Dangerous work</h3>\n<p><strong><a href=\"https://ref.ly/Eccl10:9\">ECC 10:9</a></strong></p>\n<h2>Masons could make mistakes</h2>\n<p><strong><a href=\"https://ref.ly/Ps118:22\">PSA 118:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt21:42\">MAT 21:42</a> parallels <a href=\"https://ref.ly/Mark12:10\">MRK 12:10</a>, <a href=\"https://ref.ly/Luke20:17\">LUK 20:17</a> <em>Jesus Christ interprets the saying as referring to his rejection by the Jews</em>; <a href=\"https://ref.ly/Acts4:11\">ACT 4:11</a>; <a href=\"https://ref.ly/1Pet2:7\">1PE 2:7</a></p>\n<h2>God is described as a mason</h2>\n<p><strong><a href=\"https://ref.ly/1Pet2:4-1Pet2:6\">1PE 2:4–2:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job38:6\">JOB 38:6</a>; <a href=\"https://ref.ly/Isa28:16\">ISA 28:16</a></p>",
@@ -224,6 +224,36 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7467: temple, Solomon's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gedor.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gedor"
+},
+{
+"id": "place:Gedor.3",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gedor"
+},
+{
+"id": "place:Gedor.4",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gedor"
+},
+{
+"id": "place:Gedor",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gedor"
 }
 ]
 }

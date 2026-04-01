@@ -2,10 +2,10 @@
 {
 "content_id": "4548",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4548: wineskin",
 "media_type": "Text",
-"index_reference": "4548: wineskin",
+"index_reference": "4548",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A container or sack, made from animal skin to hold wine. Jesus Christ used the image of old and new wineskins to explain the differences between himself and John the Baptist.</p>\n<h2>Wineskins used to store or carry wine</h2>\n<p><strong><a href=\"https://ref.ly/1Sam10:2-1Sam10:4\">1SA 10:2–10:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam1:24\">1SA 1:24</a>; <a href=\"https://ref.ly/Ps119:83\">PSA 119:83</a>; <a href=\"https://ref.ly/Jer13:12-Jer13:14\">JER 13:12–13:14</a>; <a href=\"https://ref.ly/Hab2:15-Hab2:16\">HAB 2:15–2:16</a></p>\n<h2>Old and new wineskins</h2>\n<p><strong><a href=\"https://ref.ly/Job32:17-Job32:20\">JOB 32:17–32:20</a></strong> <em>New wine was stored in new wineskins, which expanded with the wine as it fermented.</em> <em>See also</em> <a href=\"https://ref.ly/Josh9:3-Josh9:13\">JOS 9:3–9:13</a></p>\n<h2>Wineskins as gifts</h2>\n<p><strong><a href=\"https://ref.ly/2Sam16:1-2Sam16:2\">2SA 16:1–16:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam16:14-1Sam16:20\">1SA 16:14–16:20</a>, <a href=\"https://ref.ly/1Sam25:14-1Sam25:20\">1SA 25:14–25:20</a></p>\n<h2>The parable of old and new wineskins</h2>\n<p><strong><a href=\"https://ref.ly/Matt9:14-Matt9:17\">MAT 9:14–9:17</a></strong> parallels <a href=\"https://ref.ly/Mark2:18-Mark2:22\">MRK 2:18–2:22</a>, <a href=\"https://ref.ly/Luke5:33-Luke5:39\">LUK 5:33–5:39</a></p>",
@@ -118,6 +118,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5325: gifts",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Skin-bottle",
+"type": "realia",
+"confidence": 0.5832,
+"match_method": "scored",
+"preferred_label": "Skin-Bottle"
 }
 ]
 }

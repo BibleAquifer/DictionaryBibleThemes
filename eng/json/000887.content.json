@@ -2,10 +2,10 @@
 {
 "content_id": "5300",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5300: drowning",
 "media_type": "Text",
-"index_reference": "5300: drowning",
+"index_reference": "5300",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The Egyptians pursuing Israel drowned in the Red Sea</h2>\n<p><strong><a href=\"https://ref.ly/Heb11:29\">HEB 11:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod14:21-Exod14:28\">EXO 14:21–14:28</a>, <a href=\"https://ref.ly/Exod15:1-Exod15:5\">EXO 15:1–15:5</a></p>\n<h2>Jonah was delivered from drowning</h2>\n<p><strong><a href=\"https://ref.ly/Jonah2:2-Jonah2:7\">JON 2:2–2:7</a></strong></p>\n<h2>The demon-possessed herd of pigs drowned in the Sea of Galilee</h2>\n<p><strong><a href=\"https://ref.ly/Mark5:1-Mark5:13\">MRK 5:1–5:13</a></strong> parallels <a href=\"https://ref.ly/Matt8:28-Matt8:32\">MAT 8:28–8:32</a>, <a href=\"https://ref.ly/Luke8:26-Luke8:33\">LUK 8:26–8:33</a></p>\n<h2>Jesus Christ's disciples feared they would drown in a storm</h2>\n<p><strong><a href=\"https://ref.ly/Mark4:35-Mark4:41\">MRK 4:35–4:41</a></strong> parallels <a href=\"https://ref.ly/Matt8:23-Matt8:27\">MAT 8:23–8:27</a>, <a href=\"https://ref.ly/Luke8:22-Luke8:25\">LUK 8:22–8:25</a></p>\n<h2>Drowning in the teaching of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt18:6\">MAT 18:6</a></strong></p>\n<h2>Metaphorical use</h2>\n<p><strong><a href=\"https://ref.ly/Job10:15\">JOB 10:15</a></strong></p>",
@@ -140,6 +140,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9020: death",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:FoundationGate",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Foundation Gate"
 }
 ]
 }

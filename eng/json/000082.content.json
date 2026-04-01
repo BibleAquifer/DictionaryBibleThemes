@@ -2,10 +2,10 @@
 {
 "content_id": "1415",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1415: miracles",
 "media_type": "Text",
-"index_reference": "1415: miracles",
+"index_reference": "1415",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Events that are totally out of the ordinary and that cannot be adequately explained on the basis of natural occurrences, such as those associated with the ministry of Jesus Christ. They are seen as evidence of the presence and power of God in the world or as demonstrating authority on the part of one of his servants.</p>",
@@ -33,7 +33,8 @@
 "label": "1418: miracles, responses to",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

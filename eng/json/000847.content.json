@@ -2,10 +2,10 @@
 {
 "content_id": "5259",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5259: coat",
 "media_type": "Text",
-"index_reference": "5259: coat",
+"index_reference": "5259",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Various objects were given an outer coating to fit them for their particular purpose.</p>\n<h2>An outer coating given to various objects</h2>\n<h3>An outer coat of pitch made wood and papyrus waterproof</h3>\n<p><strong><a href=\"https://ref.ly/Gen6:14\">GEN 6:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a></p>\n<h3>An outer coat of plaster made stone suitable for writing on</h3>\n<p><strong><a href=\"https://ref.ly/Deut27:2-Deut27:4\">DEU 27:2–27:4</a></strong></p>\n<h3>An outer coat of glaze rendered earthenware suitable for food use</h3>\n<p><strong><a href=\"https://ref.ly/Prov26:23\">PRO 26:23</a></strong></p>\n<h2>Coats of armour for protection</h2>\n<p><strong><a href=\"https://ref.ly/2Chr26:14\">2CH 26:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:4-1Sam17:7\">1SA 17:4–17:7</a>, <a href=\"https://ref.ly/1Sam17:38\">1SA 17:38</a></p>\n<h2>Coat used metaphorically</h2>\n<p><strong><a href=\"https://ref.ly/Job41:13-Job41:17\">JOB 41:13–41:17</a></strong></p>",
@@ -95,6 +95,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5237: breastplate",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Finger",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Finger"
 }
 ]
 }

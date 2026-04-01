@@ -2,10 +2,10 @@
 {
 "content_id": "5439",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5439: pen",
 "media_type": "Text",
-"index_reference": "5439: pen",
+"index_reference": "5439",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The pen as an implement for writing</h2>\n<p><strong><a href=\"https://ref.ly/Isa8:1\">ISA 8:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/3John1:13\">3JN 1:13</a></p>\n<h2>By extension, refering to what is written</h2>\n<p><strong><a href=\"https://ref.ly/Jer8:8\">JER 8:8</a></strong> <em>This means that what they wrote was untrue.</em> <em>See also</em> <a href=\"https://ref.ly/Matt5:18\">MAT 5:18</a>; <a href=\"https://ref.ly/Luke16:17\">LUK 16:17</a></p>\n<h2>Used symbolically</h2>\n<p><strong><a href=\"https://ref.ly/Ps45:1\">PSA 45:1</a></strong></p>\n<h2>Sharpened with a penknife</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Jer36:23\">JER 36:23</a></p>",
@@ -75,6 +75,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5638: writing",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gezer",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gezer"
+},
+{
+"id": "realia:Pen",
+"type": "realia",
+"confidence": 0.5689,
+"match_method": "scored",
+"preferred_label": "Pen"
 }
 ]
 }

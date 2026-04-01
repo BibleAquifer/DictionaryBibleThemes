@@ -2,16 +2,32 @@
 {
 "content_id": "5860",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5860: favour, divine",
 "media_type": "Text",
-"index_reference": "5860: favour, divine",
+"index_reference": "5860",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"1055.md\">1055: God, grace and mercy of</a>, <a href=\"2027.md\">2027: Jesus Christ, grace and mercy of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Hiram.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hiram"
+},
+{
+"id": "person:Hiram",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hiram"
+}
+]
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5000",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5000: Humanity",
 "media_type": "Text",
-"index_reference": "5000: humanity",
+"index_reference": "5000",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"5001\" data-resourcetype=\"DictionaryOfBibleThemes\">5001: human race, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5008\" data-resourcetype=\"DictionaryOfBibleThemes\">5008: conscience</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5012\" data-resourcetype=\"DictionaryOfBibleThemes\">5012: heart</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5019\" data-resourcetype=\"DictionaryOfBibleThemes\">5019: human nature</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5023\" data-resourcetype=\"DictionaryOfBibleThemes\">5023: image of God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5024\" data-resourcetype=\"DictionaryOfBibleThemes\">5024: inner being</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5025\" data-resourcetype=\"DictionaryOfBibleThemes\">5025: killing</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5026\" data-resourcetype=\"DictionaryOfBibleThemes\">5026: knowledge</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5033\" data-resourcetype=\"DictionaryOfBibleThemes\">5033: knowledge of good and evil</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5034\" data-resourcetype=\"DictionaryOfBibleThemes\">5034: likeness</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5035\" data-resourcetype=\"DictionaryOfBibleThemes\">5035: mind</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5040\" data-resourcetype=\"DictionaryOfBibleThemes\">5040: murder</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5041\" data-resourcetype=\"DictionaryOfBibleThemes\">5041: name</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5046\" data-resourcetype=\"DictionaryOfBibleThemes\">5046: opportunities</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5050\" data-resourcetype=\"DictionaryOfBibleThemes\">5050: reason</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5051\" data-resourcetype=\"DictionaryOfBibleThemes\">5051: responsibility</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5056\" data-resourcetype=\"DictionaryOfBibleThemes\">5056: rest</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5061\" data-resourcetype=\"DictionaryOfBibleThemes\">5061: sanctity of life</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5062\" data-resourcetype=\"DictionaryOfBibleThemes\">5062: spirit</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5067\" data-resourcetype=\"DictionaryOfBibleThemes\">5067: suicide</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5070\" data-resourcetype=\"DictionaryOfBibleThemes\">5070: Individuals in OT and NT</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"5125\" data-resourcetype=\"DictionaryOfBibleThemes\">5125: Parts of the body and clothing</span></li></ul>",
@@ -166,7 +166,8 @@
 "label": "5125: Parts of the body and clothing",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

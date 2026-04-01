@@ -2,10 +2,10 @@
 {
 "content_id": "6638",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6638: election",
 "media_type": "Text",
-"index_reference": "6638: election",
+"index_reference": "6638",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture affirms that God chooses a people as his own, not on account of their numerical strength or moral merits, but on account of his love for them.  Election is on the basis of divine grace, not human merit.</p>",
@@ -33,7 +33,8 @@
 "label": "6641: election, responsibilities of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

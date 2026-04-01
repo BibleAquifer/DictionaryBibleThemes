@@ -2,10 +2,10 @@
 {
 "content_id": "7915",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7915: confirmation",
 "media_type": "Text",
-"index_reference": "7915: confirmation",
+"index_reference": "7915",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The act of publicly affirming something or someone, usually with a view to declaring trustworthiness. God confirmed his covenants, oaths and promises to emphasise his intention to fulfil them and he confirms the gospel to demonstrate its truthfulness.</p>\n<h2>Confirmation of covenants</h2>\n<p><strong><a href=\"https://ref.ly/Deut4:31\">DEU 4:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen17:1-Gen17:22\">GEN 17:1–17:22</a>; <a href=\"https://ref.ly/Deut8:18\">DEU 8:18</a>; <a href=\"https://ref.ly/2Kgs23:3\">2KI 23:3</a>; <a href=\"https://ref.ly/1Chr16:17\">1CH 16:17</a>; <a href=\"https://ref.ly/Ps105:10\">PSA 105:10</a>; <a href=\"https://ref.ly/Dan9:26-Dan9:27\">DAN 9:26–9:27</a></p>\n<h2>Confirmation of oaths</h2>\n<p><strong><a href=\"https://ref.ly/Ps119:106\">PSA 119:106</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen26:1-Gen26:5\">GEN 26:1–26:5</a></p>\n<h2>Confirmation of promises</h2>\n<p><strong><a href=\"https://ref.ly/Rom15:8\">ROM 15:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut29:12-Deut29:13\">DEU 29:12–29:13</a>; <a href=\"https://ref.ly/2Chr1:9\">2CH 1:9</a>; <a href=\"https://ref.ly/Heb6:17\">HEB 6:17</a></p>\n<h2>Confirmation of the gospel</h2>\n<p><strong><a href=\"https://ref.ly/Mark16:20\">MRK 16:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts14:3\">ACT 14:3</a>; <a href=\"https://ref.ly/1Cor1:4-1Cor1:6\">1CO 1:4–1:6</a>; <a href=\"https://ref.ly/Phil1:7\">PHP 1:7</a>; <a href=\"https://ref.ly/Heb2:3\">HEB 2:3</a></p>\n<h2>Confirmation of wisdom</h2>\n<p><strong><a href=\"https://ref.ly/Job28:25-Job28:28\">JOB 28:25–28:28</a></strong></p>\n<h2>Confirmation of vows</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Num30:1-Num30:16\">NUM 30:1–30:16</a> <em>A vow made by a woman could be either confirmed or nullified by her father or husband.</em></p>\n<h2>Confirmation of a witness's testimony</h2>\n<p><strong><a href=\"https://ref.ly/Deut19:15\">DEU 19:15</a></strong> <em>Evidence accepted in court required confirmation by more than one witness.</em> <em>See also</em> <a href=\"https://ref.ly/1Kgs1:11-1Kgs1:14\">1KI 1:11–1:14</a>; <a href=\"https://ref.ly/Mark14:56-Mark14:59\">MRK 14:56–14:59</a> <em>The proper judicial procedure was not followed at the trial of Jesus Christ</em>; <a href=\"https://ref.ly/Rom9:1-Rom9:4\">ROM 9:1–9:4</a> <em>Paul here invokes the Holy Spirit as a witness</em>; <a href=\"https://ref.ly/Heb6:16\">HEB 6:16</a></p>\n<h2>Confirmation of letters</h2>\n<p><strong><a href=\"https://ref.ly/Acts15:27\">ACT 15:27</a></strong> <em>This constituted verification of the authenticity of a letter which could easily have been forged or tampered with.</em> <em>See also</em> <a href=\"https://ref.ly/Esth9:29-Esth9:32\">EST 9:29–9:32</a></p>\n<h2>Confirmation of office or position</h2>\n<p><strong><a href=\"https://ref.ly/1Sam11:15\">1SA 11:15</a></strong></p>",
@@ -257,6 +257,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8751: false witness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:RaisinCake",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Raisin Cake"
 }
 ]
 }

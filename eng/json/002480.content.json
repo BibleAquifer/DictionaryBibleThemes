@@ -2,10 +2,10 @@
 {
 "content_id": "9120",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9120: eternity",
 "media_type": "Text",
-"index_reference": "9120: eternity",
+"index_reference": "9120",
 "language": "eng",
 "review_level": "None",
 "content": "<p>In Scripture eternity is not an abstraction but limitless time, over which God is totally sovereign.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9122: eternity, and God",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Zacchaeus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zacchaeus"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "6248",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6248: temptation",
 "media_type": "Text",
-"index_reference": "6248: temptation",
+"index_reference": "6248",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Pressure to yield to influences that can lead people away from God and into sin.</p>",
@@ -46,6 +46,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6253: temptation, avoiding causing",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jeatherai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jeatherai"
 }
 ]
 }

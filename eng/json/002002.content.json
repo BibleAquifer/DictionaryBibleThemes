@@ -2,10 +2,10 @@
 {
 "content_id": "8104",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8104: assurance",
 "media_type": "Text",
-"index_reference": "8104: assurance",
+"index_reference": "8104",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Certainty of a present relationship with God through Jesus Christ and a secure future hope which is based upon divine revelation, centred on the person, promises and action of God and confirmed by the Holy Spirit.</p>",
@@ -39,6 +39,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8108: assurance, and Holy Spirit",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Jerusalem",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jerusalem"
 }
 ]
 }

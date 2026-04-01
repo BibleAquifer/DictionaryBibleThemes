@@ -2,10 +2,10 @@
 {
 "content_id": "4170",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4170: host of heaven",
 "media_type": "Text",
-"index_reference": "4170: host of heaven",
+"index_reference": "4170",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>God's angelic attendants</h2>\n<p><strong><a href=\"https://ref.ly/Ps148:2\">PSA 148:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs22:19-1Kgs22:22\">1KI 22:19–22:22</a> parallel <a href=\"https://ref.ly/2Chr18:18-2Chr18:21\">2CH 18:18–18:21</a>; <a href=\"https://ref.ly/Ps103:21\">PSA 103:21</a>; <a href=\"https://ref.ly/Luke2:8-Luke2:15\">LUK 2:8–2:15</a></p>\n<h2>The stars in the sky</h2>\n<h3>Created by God</h3>\n<p><strong><a href=\"https://ref.ly/Ps33:6\">PSA 33:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh9:6\">NEH 9:6</a>; <a href=\"https://ref.ly/Isa40:26\">ISA 40:26</a>, <a href=\"https://ref.ly/Isa45:12\">ISA 45:12</a></p>\n<h3>Objects of worship</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs23:4-2Kgs23:5\">2KI 23:4–23:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs17:16\">2KI 17:16</a>, <a href=\"https://ref.ly/2Kgs21:3-2Kgs21:5\">2KI 21:3–21:5</a> parallel <a href=\"https://ref.ly/2Chr33:3-2Chr33:5\">2CH 33:3–33:5</a>; <a href=\"https://ref.ly/Jer19:13\">JER 19:13</a>; <a href=\"https://ref.ly/Zeph1:4-Zeph1:5\">ZEP 1:4–1:5</a></p>\n<h3>Portrayed symbolically</h3>\n<p><strong><a href=\"https://ref.ly/Dan8:10\">DAN 8:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa34:4\">ISA 34:4</a></p>",
@@ -156,6 +156,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9410: heaven",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Bethel.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethel"
+},
+{
+"id": "place:Bethel",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bethel"
 }
 ]
 }

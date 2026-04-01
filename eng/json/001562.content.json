@@ -2,10 +2,10 @@
 {
 "content_id": "6221",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6221: rebellion",
 "media_type": "Text",
-"index_reference": "6221: rebellion",
+"index_reference": "6221",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A state of revolt against established divine or human authority. Scripture condemns rebellion against God and indicates the futility of Israel's frequent rebellions against him.</p>",
@@ -33,7 +33,8 @@
 "label": "6224: rebellion, against human authority",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

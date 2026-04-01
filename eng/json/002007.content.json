@@ -2,10 +2,10 @@
 {
 "content_id": "8110",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8110: athletics",
 "media_type": "Text",
-"index_reference": "8110: athletics",
+"index_reference": "8110",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Sports engaged in by athletes. Scripture uses the image of running in a race to represent the Christian life. Believers should show similar perseverance as they press on to their heavenly reward.</p>\n<h2>The Christian life is like running a race</h2>\n<p><strong><a href=\"https://ref.ly/Acts20:24\">ACT 20:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal2:2\">GAL 2:2</a>, <a href=\"https://ref.ly/Gal5:7\">GAL 5:7</a>; <a href=\"https://ref.ly/Phil2:16\">PHP 2:16</a>; <a href=\"https://ref.ly/1Tim1:18-1Tim1:19\">1TI 1:18–1:19</a></p>\n<h2>Christians, like athletes, are to be single-minded</h2>\n<p><strong><a href=\"https://ref.ly/2Tim2:4-2Tim2:5\">2TI 2:4–2:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor9:24-1Cor9:27\">1CO 9:24–9:27</a></p>\n<h2>Christians, like athletes, are to persevere</h2>\n<p><strong><a href=\"https://ref.ly/Heb12:1\">HEB 12:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil3:12-Phil3:14\">PHP 3:12–3:14</a>; <a href=\"https://ref.ly/1Tim6:12\">1TI 6:12</a>; <a href=\"https://ref.ly/Rev3:11\">REV 3:11</a></p>\n<h2>The reward at the end of the race of life</h2>\n<p><strong><a href=\"https://ref.ly/2Tim4:7-2Tim4:8\">2TI 4:7–4:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor9:25\">1CO 9:25</a>; <a href=\"https://ref.ly/Jas1:12\">JAS 1:12</a>; <a href=\"https://ref.ly/1Pet5:4\">1PE 5:4</a>; <a href=\"https://ref.ly/Rev2:10\">REV 2:10</a> <em>The “crown” referred to is the garland or wreath awarded to the winner in athletics contests.</em></p>\n<h2>The race is not necessarily won by the swiftest</h2>\n<p><a href=\"https://ref.ly/Eccl9:11\">ECC 9:11</a></p>",
@@ -170,6 +170,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9410: heaven",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Salmon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Salmon"
 }
 ]
 }

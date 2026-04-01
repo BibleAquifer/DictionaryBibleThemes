@@ -2,10 +2,10 @@
 {
 "content_id": "8736",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8736: evil, warnings against",
 "media_type": "Text",
-"index_reference": "8736: evil, warnings against",
+"index_reference": "8736",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture repeatedly warns against evil. It exposes it and reveals its consequences.</p>\n<h2>God opposes evil</h2>\n<p><strong><a href=\"https://ref.ly/Ps34:16\">PSA 34:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:16-Prov6:19\">PRO 6:16–6:19</a>; <a href=\"https://ref.ly/Isa31:2\">ISA 31:2</a>; <a href=\"https://ref.ly/Mic2:1\">MIC 2:1</a></p>\n<h2>Warnings against specific dangers</h2>\n<p><strong><a href=\"https://ref.ly/Lev20:23\">LEV 20:23</a></strong>; <strong><a href=\"https://ref.ly/2Cor6:14\">2CO 6:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek20:18\">EZK 20:18</a>; <a href=\"https://ref.ly/Luke12:1\">LUK 12:1</a>, <a href=\"https://ref.ly/Luke12:15\">LUK 12:15</a>; <a href=\"https://ref.ly/Acts13:40\">ACT 13:40</a>; <a href=\"https://ref.ly/1Cor10:21\">1CO 10:21</a>; <a href=\"https://ref.ly/2Pet3:17\">2PE 3:17</a></p>\n<h2>God's law given to counter evil</h2>\n<h3>By exposing evil</h3>\n<p><strong><a href=\"https://ref.ly/Rom7:7\">ROM 7:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom3:20\">ROM 3:20</a>, <a href=\"https://ref.ly/Rom5:20\">ROM 5:20</a>, <a href=\"https://ref.ly/Rom7:13\">ROM 7:13</a>; <a href=\"https://ref.ly/Gal3:19\">GAL 3:19</a></p>\n<h3>By leading believers away from evil</h3>\n<p><strong><a href=\"https://ref.ly/Gal3:24\">GAL 3:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim1:9-1Tim1:11\">1TI 1:9–1:11</a></p>\n<h2>The state is ordained to restrain evil</h2>\n<p><strong><a href=\"https://ref.ly/Rom13:1-Rom13:4\">ROM 13:1–13:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut17:7\">DEU 17:7</a>, <a href=\"https://ref.ly/Deut17:12-Deut17:13\">DEU 17:12–17:13</a>, <a href=\"https://ref.ly/Deut21:21\">DEU 21:21</a>; <a href=\"https://ref.ly/1Tim2:1-1Tim2:2\">1TI 2:1–2:2</a>; <a href=\"https://ref.ly/1Pet2:13-1Pet2:14\">1PE 2:13–2:14</a></p>\n<h2>Evil rebounds on evildoers</h2>\n<p><strong><a href=\"https://ref.ly/Prov22:8\">PRO 22:8</a></strong>; <strong><a href=\"https://ref.ly/Gal6:7-Gal6:8\">GAL 6:7–6:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut19:18-Deut19:19\">DEU 19:18–19:19</a>; <a href=\"https://ref.ly/Esth9:25\">EST 9:25</a>; <a href=\"https://ref.ly/Prov1:29-Prov1:31\">PRO 1:29–1:31</a>, <a href=\"https://ref.ly/Prov14:22\">PRO 14:22</a>, <a href=\"https://ref.ly/Prov17:13\">PRO 17:13</a>; <a href=\"https://ref.ly/Hos8:7\">HOS 8:7</a></p>\n<h2>Evil ends in judgment</h2>\n<p><strong><a href=\"https://ref.ly/Isa65:12\">ISA 65:12</a></strong>; <strong><a href=\"https://ref.ly/Rom2:9\">ROM 2:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps37:9\">PSA 37:9</a>; <a href=\"https://ref.ly/Prov6:12-Prov6:15\">PRO 6:12–6:15</a>, <a href=\"https://ref.ly/Prov12:7\">PRO 12:7</a>; <a href=\"https://ref.ly/Mal4:1\">MAL 4:1</a>; <a href=\"https://ref.ly/Rom2:5\">ROM 2:5</a>, <a href=\"https://ref.ly/Rom6:23\">ROM 6:23</a></p>",
@@ -314,6 +314,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6193: impenitence",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Tappuah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tappuah"
 }
 ]
 }

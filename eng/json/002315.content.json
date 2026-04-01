@@ -2,10 +2,10 @@
 {
 "content_id": "8646",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8646: doxology",
 "media_type": "Text",
-"index_reference": "8646: doxology",
+"index_reference": "8646",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A form of words that offers praise to God, especially for his work of creation and redemption. Scripture records a number of these forms of praise which were used in both public and private worship.</p>\n<h2>Doxologies used in the formal worship of Israel</h2>\n<p><strong><a href=\"https://ref.ly/1Chr29:10-1Chr29:13\">1CH 29:10–29:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps41:13\">PSA 41:13</a>, <a href=\"https://ref.ly/Ps72:18-Ps72:19\">PSA 72:18–72:19</a>, <a href=\"https://ref.ly/Ps106:48\">PSA 106:48</a>, <a href=\"https://ref.ly/Ps150:1-Ps150:6\">PSA 150:1–150:6</a></p>\n<h2>Doxologies used in the spontaneous praise of God's people</h2>\n<p><strong><a href=\"https://ref.ly/Rom11:33-Rom11:36\">ROM 11:33–11:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps57:5\">PSA 57:5</a>, <a href=\"https://ref.ly/Ps57:11\">PSA 57:11</a>; <a href=\"https://ref.ly/Matt21:9\">MAT 21:9</a> parallels <a href=\"https://ref.ly/Mark11:9-Mark11:10\">MRK 11:9–11:10</a>, <a href=\"https://ref.ly/Luke19:38\">LUK 19:38</a>; <a href=\"https://ref.ly/Gal1:5\">GAL 1:5</a>; <a href=\"https://ref.ly/Eph3:21\">EPH 3:21</a>; <a href=\"https://ref.ly/Phil4:20\">PHP 4:20</a>; <a href=\"https://ref.ly/1Tim1:17\">1TI 1:17</a></p>\n<h2>Doxologies used as a benediction</h2>\n<p><strong><a href=\"https://ref.ly/Jude1:24-Jude1:25\">JUD 1:24–1:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph3:20-Eph3:21\">EPH 3:20–3:21</a>; <a href=\"https://ref.ly/Rom16:25-Rom16:27\">ROM 16:25–16:27</a>; <a href=\"https://ref.ly/Heb13:20-Heb13:21\">HEB 13:20–13:21</a>; <a href=\"https://ref.ly/2Pet3:18\">2PE 3:18</a></p>\n<h2>Doxologies used in heavenly worship</h2>\n<p><strong><a href=\"https://ref.ly/Rev5:12-Rev5:13\">REV 5:12–5:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa6:3\">ISA 6:3</a>; <a href=\"https://ref.ly/Luke2:13-Luke2:14\">LUK 2:13–2:14</a>; <a href=\"https://ref.ly/Rev4:8\">REV 4:8</a>, <a href=\"https://ref.ly/Rev4:11\">REV 4:11</a>, <a href=\"https://ref.ly/Rev5:9-Rev5:14\">REV 5:9–5:14</a>, <a href=\"https://ref.ly/Rev7:12\">REV 7:12</a>, <a href=\"https://ref.ly/Rev19:1\">REV 19:1</a></p>",
@@ -258,7 +258,8 @@
 "label": "8676: thanksgiving",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5001",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5001: human race, the",
 "media_type": "Text",
-"index_reference": "5001: human race, the",
+"index_reference": "5001",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Human beings are the high point of God's creation. They alone are created in his image. As a result of sin they are alienated from God and from one another, and are unable by themselves to alter this situation. The salvation of humanity rests totally upon the atoning sacrifice of Jesus Christ, received by grace through faith.</p>",
@@ -46,6 +46,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5006: human race, destiny of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Eliathah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eliathah"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5634",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5634: work, and the fall",
 "media_type": "Text",
-"index_reference": "5634: work, and the fall",
+"index_reference": "5634",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Human work, which was once a pleasure, became a burden only on account of human disobedience.</p>\n<h2>Work is under God's judgment</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:17-Gen3:19\">GEN 3:17–3:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen5:29\">GEN 5:29</a></p>\n<h2>Work is often frustrating</h2>\n<p><strong><a href=\"https://ref.ly/Eccl2:22-Eccl2:23\">ECC 2:22–2:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl2:11\">ECC 2:11</a>, <a href=\"https://ref.ly/Eccl2:18\">ECC 2:18</a>, <a href=\"https://ref.ly/Eccl4:8\">ECC 4:8</a>, <a href=\"https://ref.ly/Eccl5:16-Eccl5:17\">ECC 5:16–5:17</a></p>\n<h2>Work may exploit rather than enhance society</h2>\n<h3>Through dishonesty</h3>\n<p><a href=\"https://ref.ly/Lev19:35\">LEV 19:35</a>; ; <a href=\"https://ref.ly/Deut25:13\">DEU 25:13</a>; ; <a href=\"https://ref.ly/Hos12:7\">HOS 12:7</a></p>\n<h3>Through oppression</h3>\n<p><a href=\"https://ref.ly/Exod1:11-Exod1:14\">EXO 1:11–1:14</a>; ; <a href=\"https://ref.ly/1Kgs12:4\">1KI 12:4</a>, <a href=\"https://ref.ly/1Kgs12:10-1Kgs12:14\">1KI 12:10–12:14</a></p>\n<h2>Work may be undervalued or overvalued</h2>\n<h3>Some people avoid work to their cost</h3>\n<p><a href=\"https://ref.ly/Prov6:6-Prov6:11\">PRO 6:6–6:11</a>, <a href=\"https://ref.ly/Prov13:4\">PRO 13:4</a>, <a href=\"https://ref.ly/Prov19:15\">PRO 19:15</a>, <a href=\"https://ref.ly/Prov24:30-Prov24:34\">PRO 24:30–24:34</a>; ; <a href=\"https://ref.ly/Eccl10:18\">ECC 10:18</a>; ; <a href=\"https://ref.ly/2Thess3:10-2Thess3:11\">2TH 3:10–3:11</a></p>\n<h3>Some people overwork to their cost</h3>\n<p><a href=\"https://ref.ly/Exod18:17-Exod18:18\">EXO 18:17–18:18</a>; ; <a href=\"https://ref.ly/Ps127:2\">PSA 127:2</a>; ; <a href=\"https://ref.ly/Luke10:41-Luke10:42\">LUK 10:41–10:42</a>, <a href=\"https://ref.ly/Luke12:15-Luke12:21\">LUK 12:15–12:21</a></p>",
@@ -220,6 +220,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8790: oppression",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hamul",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hamul"
 }
 ]
 }

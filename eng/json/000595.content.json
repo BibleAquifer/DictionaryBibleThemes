@@ -2,10 +2,10 @@
 {
 "content_id": "4930",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4930: end",
 "media_type": "Text",
-"index_reference": "4930: end",
+"index_reference": "4930",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A limit in time or space, or the outcome of a sequence of actions or events. God knows the end from the beginning. He is without limit: he exercises control over the furthest reaches of the world, and will bring to an end earthly powers, human life and the present age. Those who persevere to the end will be saved.</p>\n<h2>God is without limit</h2>\n<p><strong><a href=\"https://ref.ly/Heb1:12\">HEB 1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps102:26-Ps102:27\">PSA 102:26–102:27</a>; <a href=\"https://ref.ly/Dan6:26\">DAN 6:26</a>, <a href=\"https://ref.ly/Dan7:14\">DAN 7:14</a>; <a href=\"https://ref.ly/Matt24:35\">MAT 24:35</a> parallels <a href=\"https://ref.ly/Mark13:31\">MRK 13:31</a>, <a href=\"https://ref.ly/Luke21:33\">LUK 21:33</a>; <a href=\"https://ref.ly/Luke1:33\">LUK 1:33</a></p>\n<h2>God is the Beginning and the End</h2>\n<p><strong><a href=\"https://ref.ly/Rev21:6\">REV 21:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa44:6\">ISA 44:6</a>; <a href=\"https://ref.ly/Rev22:13\">REV 22:13</a></p>\n<h2>God brings earthly powers to an end</h2>\n<p><strong><a href=\"https://ref.ly/Isa13:11\">ISA 13:11</a></strong>; <strong><a href=\"https://ref.ly/Dan2:44\">DAN 2:44</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps89:44\">PSA 89:44</a>; <a href=\"https://ref.ly/Isa21:16\">ISA 21:16</a>, <a href=\"https://ref.ly/Isa23:9\">ISA 23:9</a>; <a href=\"https://ref.ly/Jer48:2\">JER 48:2</a> <em>Moab</em>; <a href=\"https://ref.ly/Jer49:37\">JER 49:37</a> <em>Elam</em>; <a href=\"https://ref.ly/Ezek7:2-Ezek7:6\">EZK 7:2–7:6</a> <em>Israel</em>; <a href=\"https://ref.ly/Ezek26:21\">EZK 26:21</a> <em>Tyre</em>; <a href=\"https://ref.ly/Ezek30:18\">EZK 30:18</a> <em>Egypt</em>; <a href=\"https://ref.ly/Dan5:26\">DAN 5:26</a> <em>Babylon</em></p>\n<h2>Persevering to the end</h2>\n<p><a href=\"https://ref.ly/Matt10:22\">MAT 10:22</a>, <a href=\"https://ref.ly/Matt24:13\">MAT 24:13</a>; ; <a href=\"https://ref.ly/Phil1:6\">PHP 1:6</a>; ; <a href=\"https://ref.ly/Heb3:14\">HEB 3:14</a>, <a href=\"https://ref.ly/Heb10:36\">HEB 10:36</a></p>",
@@ -245,7 +245,8 @@
 "label": "9120: eternity",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

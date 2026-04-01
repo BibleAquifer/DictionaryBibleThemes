@@ -2,10 +2,10 @@
 {
 "content_id": "6240",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6240: rape",
 "media_type": "Text",
-"index_reference": "6240: rape",
+"index_reference": "6240",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The sexual violation of an individual (normally, though not necessarily, female). This is a deeply traumatic and degrading experience for the victim and is an evil that Scripture condemns.</p>\n<h2>Lust is the motivation for rape</h2>\n<p><strong><a href=\"https://ref.ly/2Sam13:1-2Sam13:15\">2SA 13:1–13:15</a></strong></p>\n<h2>Women and rape</h2>\n<h3>Women are particularly vulnerable to male assault</h3>\n<p><strong><a href=\"https://ref.ly/2Sam13:14\">2SA 13:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Zech14:2\">ZEC 14:2</a></p>\n<h3>Women were protected under the law</h3>\n<p><a href=\"https://ref.ly/Deut22:25-Deut22:29\">DEU 22:25–22:29</a></p>\n<h3>Women are to be loved and cared for</h3>\n<p><strong><a href=\"https://ref.ly/Eph5:25\">EPH 5:25</a>, <a href=\"https://ref.ly/Eph5:28-Eph5:29\">EPH 5:28–5:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen12:18-Gen12:20\">GEN 12:18–12:20</a>; <a href=\"https://ref.ly/1Pet3:7\">1PE 3:7</a></p>\n<h2>The trauma of rape</h2>\n<h3>Its psychological and emotional effects</h3>\n<p><strong><a href=\"https://ref.ly/2Sam13:19-2Sam13:20\">2SA 13:19–13:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen34:6-Gen34:7\">GEN 34:6–34:7</a></p>\n<h3>Its physical effects</h3>\n<p><strong><a href=\"https://ref.ly/Judg19:26-Judg19:28\">JDG 19:26–19:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg20:4-Judg20:5\">JDG 20:4–20:5</a></p>\n<h2>Avenging the victim of rape</h2>\n<p><a href=\"https://ref.ly/Gen34:7-Gen34:31\">GEN 34:7–34:31</a>; ; <a href=\"https://ref.ly/2Sam13:22-2Sam13:32\">2SA 13:22–13:32</a>; ; <a href=\"https://ref.ly/Judg20:6-Judg20:11\">JDG 20:6–20:11</a>; ; <a href=\"https://ref.ly/Rom12:19\">ROM 12:19</a>, <a href=\"https://ref.ly/Rom13:3-Rom13:4\">ROM 13:3–13:4</a>; ; <a href=\"https://ref.ly/Jas1:20\">JAS 1:20</a></p>\n<h2>Examples of rape</h2>\n<h3>Female rape</h3>\n<p><a href=\"https://ref.ly/Gen34:1-Gen34:3\">GEN 34:1–34:3</a>; ; <a href=\"https://ref.ly/Judg19:24-Judg19:25\">JDG 19:24–19:25</a>; ; <a href=\"https://ref.ly/2Sam13:2-2Sam13:13\">2SA 13:2–13:13</a>; ; <a href=\"https://ref.ly/Zech14:2\">ZEC 14:2</a></p>\n<h3>Attempted male rape</h3>\n<p><a href=\"https://ref.ly/Gen19:4-Gen19:9\">GEN 19:4–19:9</a>; ; <a href=\"https://ref.ly/Judg19:22-Judg19:23\">JDG 19:22–19:23</a>; ; <a href=\"https://ref.ly/Lev18:22\">LEV 18:22</a>, <a href=\"https://ref.ly/Lev20:13\">LEV 20:13</a></p>",
@@ -225,6 +225,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8777: lust",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Jattir",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jattir"
 }
 ]
 }

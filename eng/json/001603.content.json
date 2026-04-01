@@ -2,10 +2,10 @@
 {
 "content_id": "6614",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6614: atonement",
 "media_type": "Text",
-"index_reference": "6614: atonement",
+"index_reference": "6614",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Reconciliation; sin has alienated humanity from God and provoked God's anger. God has responded by providing the means of restoring this broken relationship, bringing both sides to a place where they are at one again (“at-one-ment”).</p>",
@@ -33,7 +33,8 @@
 "label": "6617: atonement, in NT",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

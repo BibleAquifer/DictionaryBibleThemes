@@ -2,10 +2,10 @@
 {
 "content_id": "5513",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5513: sceptre",
 "media_type": "Text",
-"index_reference": "5513: sceptre",
+"index_reference": "5513",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A staff, generally ornate, held as a symbol of sovereign authority.</p>\n<h2>God's own authority is symbolised as a sceptre</h2>\n<p><strong><a href=\"https://ref.ly/Ps45:6\">PSA 45:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen49:10\">GEN 49:10</a>; <a href=\"https://ref.ly/Num24:17\">NUM 24:17</a>; <a href=\"https://ref.ly/Ps60:7\">PSA 60:7</a> parallel <a href=\"https://ref.ly/Ps108:8\">PSA 108:8</a>; <a href=\"https://ref.ly/Isa30:31\">ISA 30:31</a></p>\n<h2>The sceptre is a symbol of Jesus Christ's reign</h2>\n<p><strong><a href=\"https://ref.ly/Heb1:8\">HEB 1:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps45:6\">PSA 45:6</a>; <a href=\"https://ref.ly/Gen49:10\">GEN 49:10</a>; <a href=\"https://ref.ly/Num24:17\">NUM 24:17</a>; <a href=\"https://ref.ly/Ps110:2\">PSA 110:2</a>; <a href=\"https://ref.ly/Rev2:27\">REV 2:27</a>; <a href=\"https://ref.ly/Ps2:9\">PSA 2:9</a>; <a href=\"https://ref.ly/Rev19:15\">REV 19:15</a>, <a href=\"https://ref.ly/Rev12:5\">REV 12:5</a></p>\n<h2>Earthly rulers had sceptres as symbols of authority</h2>\n<h3>Their description</h3>\n<p><strong><a href=\"https://ref.ly/Esth4:11\">EST 4:11</a></strong>; <strong><a href=\"https://ref.ly/Ezek19:11\">EZK 19:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth5:2\">EST 5:2</a>, <a href=\"https://ref.ly/Esth8:4\">EST 8:4</a>; <a href=\"https://ref.ly/Ezek19:14\">EZK 19:14</a></p>\n<h3>OT examples</h3>\n<p><strong><a href=\"https://ref.ly/Num21:18\">NUM 21:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps125:3\">PSA 125:3</a>; <a href=\"https://ref.ly/Isa14:5\">ISA 14:5</a>; <a href=\"https://ref.ly/Jer48:17\">JER 48:17</a>; <a href=\"https://ref.ly/Ezek19:11\">EZK 19:11</a>, <a href=\"https://ref.ly/Ezek19:14\">EZK 19:14</a>, <a href=\"https://ref.ly/Ezek21:10\">EZK 21:10</a>, <a href=\"https://ref.ly/Ezek21:13\">EZK 21:13</a>; <a href=\"https://ref.ly/Amos1:5\">AMO 1:5</a>, <a href=\"https://ref.ly/Amos1:8\">AMO 1:8</a>; <a href=\"https://ref.ly/Zech10:11\">ZEC 10:11</a></p>\n<h2>The extension of a ruler's sceptre to one of his subjects was a sign of favour</h2>\n<p><strong><a href=\"https://ref.ly/Esth5:2\">EST 5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Esth4:11\">EST 4:11</a>, <a href=\"https://ref.ly/Esth8:4\">EST 8:4</a></p>\n<h2>Jesus Christ's tormentors gave him a mock sceptre</h2>\n<p><strong><a href=\"https://ref.ly/Matt27:29\">MAT 27:29</a></strong></p>",
@@ -223,6 +223,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5509: rulers",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Rod",
+"type": "realia",
+"confidence": 0.6904,
+"match_method": "scored",
+"preferred_label": "Rod"
 }
 ]
 }

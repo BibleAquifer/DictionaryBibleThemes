@@ -2,10 +2,10 @@
 {
 "content_id": "5026",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5026: knowledge",
 "media_type": "Text",
-"index_reference": "5026: knowledge",
+"index_reference": "5026",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A state of awareness and understanding, resulting from information which has been obtained or revealed concerning people or objects. Scripture stresses God's total knowledge of his creation and also the importance of his people knowing his will and purposes for them.</p>",
@@ -46,6 +46,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5031: knowledge, of sin",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Elisheba",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elisheba"
 }
 ]
 }

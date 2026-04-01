@@ -2,10 +2,10 @@
 {
 "content_id": "8784",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8784: nominal religion",
 "media_type": "Text",
-"index_reference": "8784: nominal religion",
+"index_reference": "8784",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An outward show of piety which may appear to be very devout.  However, the heart is far from God and this is confirmed by the person's attitudes and actions.</p>\n<h2>The nature of nominal religion</h2>\n<h3>It has an appearance of devotion which masks an evil heart</h3>\n<p><strong><a href=\"https://ref.ly/Jer12:2\">JER 12:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov26:23\">PRO 26:23</a>; <a href=\"https://ref.ly/Isa58:2\">ISA 58:2</a>; <a href=\"https://ref.ly/Ezek33:31-Ezek33:32\">EZK 33:31–33:32</a>; <a href=\"https://ref.ly/Matt23:27-Matt23:28\">MAT 23:27–23:28</a></p>\n<h3>It is based on what human beings may think is right</h3>\n<p><strong><a href=\"https://ref.ly/Matt15:7-Matt15:9\">MAT 15:7–15:9</a></strong> parallel <a href=\"https://ref.ly/Mark7:6-Mark7:7\">MRK 7:6–7:7</a> <em>See also</em> <a href=\"https://ref.ly/Isa29:13\">ISA 29:13</a></p>\n<h3>It becomes apparent by the actions of its adherents</h3>\n<p><strong><a href=\"https://ref.ly/Titus1:16\">TIT 1:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt7:15-Matt7:23\">MAT 7:15–7:23</a>; <a href=\"https://ref.ly/1Tim1:3-1Tim1:7\">1TI 1:3–1:7</a>; <a href=\"https://ref.ly/1John2:4\">1JN 2:4</a></p>\n<h2>The insufficiency of nominal religion</h2>\n<p><strong><a href=\"https://ref.ly/1Sam15:22\">1SA 15:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa1:11-Isa1:15\">ISA 1:11–1:15</a>; <a href=\"https://ref.ly/Amos5:21-Amos5:24\">AMO 5:21–5:24</a>; <a href=\"https://ref.ly/Matt9:13\">MAT 9:13</a>, <a href=\"https://ref.ly/Matt12:7\">MAT 12:7</a>; <a href=\"https://ref.ly/Hos6:6\">HOS 6:6</a></p>\n<h2>Those who practise nominal religion are condemned</h2>\n<p><strong><a href=\"https://ref.ly/Prov15:8\">PRO 15:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa66:3-Isa66:4\">ISA 66:3–66:4</a>; <a href=\"https://ref.ly/2Tim3:1-2Tim3:5\">2TI 3:1–3:5</a></p>",
@@ -223,7 +223,8 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

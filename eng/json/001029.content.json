@@ -2,10 +2,10 @@
 {
 "content_id": "5452",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5452: power",
 "media_type": "Text",
-"index_reference": "5452: power",
+"index_reference": "5452",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The quality which enables individuals to achieve their aims. Scripture stresses the power of God, demonstrated in Jesus Christ's resurrection and bestowed through the Holy Spirit. Scripture also stresses the relative powerlessness of humanity in God's sight.</p>",
@@ -46,6 +46,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5457: power, human",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gibea",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gibea"
 }
 ]
 }

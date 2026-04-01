@@ -2,16 +2,17 @@
 {
 "content_id": "7762",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7762: preaching, of Jesus Christ",
 "media_type": "Text",
-"index_reference": "7762: preaching, of jesus christ",
+"index_reference": "7762",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"2363.md\">2363: Jesus Christ, preaching and teaching of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

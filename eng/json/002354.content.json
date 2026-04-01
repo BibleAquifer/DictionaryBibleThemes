@@ -2,10 +2,10 @@
 {
 "content_id": "8721",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8721: doubt",
 "media_type": "Text",
-"index_reference": "8721: doubt",
+"index_reference": "8721",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Uncertainty about the truth and reality of spiritual things, as seen especially in a lack of faith in and commitment to God.</p>",
@@ -33,7 +33,8 @@
 "label": "8724: doubt, dealing with",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

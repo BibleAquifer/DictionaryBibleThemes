@@ -2,10 +2,10 @@
 {
 "content_id": "4512",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4512: staff",
 "media_type": "Text",
-"index_reference": "4512: staff",
+"index_reference": "4512",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The staff was a basic item of personal property</h2>\n<h3>It was carried at most times</h3>\n<p><strong><a href=\"https://ref.ly/1Sam14:27\">1SA 14:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen47:31\">GEN 47:31</a>; <a href=\"https://ref.ly/Judg6:21\">JDG 6:21</a>; <a href=\"https://ref.ly/Heb9:4\">HEB 9:4</a></p>\n<h3>It was carried by travellers</h3>\n<p><strong><a href=\"https://ref.ly/Gen32:10\">GEN 32:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:11\">EXO 12:11</a>; <a href=\"https://ref.ly/Matt10:5-Matt10:10\">MAT 10:5–10:10</a> parallels <a href=\"https://ref.ly/Mark6:7-Mark6:13\">MRK 6:7–6:13</a>, <a href=\"https://ref.ly/Luke9:1-Luke9:6\">LUK 9:1–9:6</a></p>\n<h3>It was carried by shepherds</h3>\n<p><strong><a href=\"https://ref.ly/Mic7:14\">MIC 7:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps23:4\">PSA 23:4</a>; <a href=\"https://ref.ly/Zech11:7\">ZEC 11:7</a>, <a href=\"https://ref.ly/Zech11:10-Zech11:14\">ZEC 11:10–11:14</a></p>\n<h2>The staff was sometimes a symbol of authority</h2>\n<p><strong><a href=\"https://ref.ly/Gen49:10\">GEN 49:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen38:18\">GEN 38:18</a>, <a href=\"https://ref.ly/Gen38:25\">GEN 38:25</a>; <a href=\"https://ref.ly/Num21:17-Num21:18\">NUM 21:17–21:18</a>; <a href=\"https://ref.ly/Judg5:14\">JDG 5:14</a>; <a href=\"https://ref.ly/2Kgs18:21\">2KI 18:21</a> parallel <a href=\"https://ref.ly/Isa36:6\">ISA 36:6</a>; <a href=\"https://ref.ly/Matt27:28-Matt27:30\">MAT 27:28–27:30</a> parallel <a href=\"https://ref.ly/Mark15:19\">MRK 15:19</a></p>\n<h2>God's miraculous power was manifest through Moses' and Aaron's staffs</h2>\n<p><a href=\"https://ref.ly/Exod4:2-Exod4:5\">EXO 4:2–4:5</a>, <a href=\"https://ref.ly/Exod4:15-Exod4:17\">EXO 4:15–4:17</a>, <a href=\"https://ref.ly/Exod7:8-Exod7:12\">EXO 7:8–7:12</a>, <a href=\"https://ref.ly/Exod7:14-Exod7:20\">EXO 7:14–7:20</a> <em>the plague of blood</em>; ; <a href=\"https://ref.ly/Exod8:5-Exod8:6\">EXO 8:5–8:6</a> <em>the plague of frogs</em>; ; <a href=\"https://ref.ly/Exod8:16-Exod8:17\">EXO 8:16–8:17</a> <em>the plague of gnats</em>; ; <a href=\"https://ref.ly/Exod9:22-Exod9:24\">EXO 9:22–9:24</a> <em>the plague of hail</em>; ; <a href=\"https://ref.ly/Exod10:12-Exod10:14\">EXO 10:12–10:14</a> <em>the plague of locusts</em>; ; <a href=\"https://ref.ly/Exod14:15-Exod14:16\">EXO 14:15–14:16</a> <em>the parting of the Red Sea</em>; ; <a href=\"https://ref.ly/Exod17:5-Exod17:13\">EXO 17:5–17:13</a>; <a href=\"https://ref.ly/Num17:1-Num17:10\">NUM 17:1–17:10</a>; ; <a href=\"https://ref.ly/Heb9:4\">HEB 9:4</a>; \n<a href=\"https://ref.ly/Num20:7-Num20:13\">NUM 20:7–20:13</a></p>",
@@ -244,6 +244,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7784: shepherd",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Chesalon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chesalon"
 }
 ]
 }

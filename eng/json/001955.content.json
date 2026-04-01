@@ -2,10 +2,10 @@
 {
 "content_id": "7912",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7912: collections",
 "media_type": "Text",
-"index_reference": "7912: collections",
+"index_reference": "7912",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The financial burden of God's work has always been shared amongst God's people. In the OT, this was mainly by compulsory tithes; in the NT by voluntary contributions.</p>\n<h2>The collection of compulsory tithes and other religious taxes</h2>\n<h3>Tithes</h3>\n<p><strong><a href=\"https://ref.ly/Lev27:30\">LEV 27:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num18:21\">NUM 18:21</a></p>\n<h3>Redemption money</h3>\n<p><a href=\"https://ref.ly/Exod30:12\">EXO 30:12</a>; ; <a href=\"https://ref.ly/Num3:46-Num3:47\">NUM 3:46–3:47</a></p>\n<h3>Temple taxes</h3>\n<p><a href=\"https://ref.ly/2Chr24:5\">2CH 24:5</a>; ; <a href=\"https://ref.ly/Matt17:24\">MAT 17:24</a></p>\n<h2>The collection of voluntary contributions</h2>\n<h3>For the tabernacle</h3>\n<p><strong><a href=\"https://ref.ly/Exod36:3\">EXO 36:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num7:2-Num7:3\">NUM 7:2–7:3</a>, <a href=\"https://ref.ly/Num7:84-Num7:88\">NUM 7:84–7:88</a></p>\n<h3>For the temple</h3>\n<p><a href=\"https://ref.ly/1Chr29:1-1Chr29:9\">1CH 29:1–29:9</a></p>\n<h3>For the rebuilding of the temple</h3>\n<p><a href=\"https://ref.ly/Ezra1:4\">EZR 1:4</a></p>\n<h3>For the teaching ministry of the church</h3>\n<p><strong><a href=\"https://ref.ly/Gal6:6\">GAL 6:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke8:1-Luke8:3\">LUK 8:1–8:3</a>; <a href=\"https://ref.ly/Phil4:15-Phil4:16\">PHP 4:15–4:16</a>; <a href=\"https://ref.ly/1Tim5:17-1Tim5:18\">1TI 5:17–5:18</a></p>\n<h3>For the relief of the poor</h3>\n<p><strong><a href=\"https://ref.ly/Rom15:26\">ROM 15:26</a></strong>; <strong><a href=\"https://ref.ly/1Cor16:1\">1CO 16:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts2:45\">ACT 2:45</a>, <a href=\"https://ref.ly/Acts4:34-Acts4:35\">ACT 4:34–4:35</a>, <a href=\"https://ref.ly/Acts11:29-Acts11:30\">ACT 11:29–11:30</a></p>\n<h2>The aim of collections</h2>\n<h3>To share burdens equally</h3>\n<p><a href=\"https://ref.ly/2Cor8:13-2Cor8:15\">2CO 8:13–8:15</a></p>\n<h3>To supply people's needs</h3>\n<p><a href=\"https://ref.ly/2Cor9:12\">2CO 9:12</a></p>\n<h3>To arouse thanksgiving</h3>\n<p><a href=\"https://ref.ly/2Cor9:12-2Cor9:15\">2CO 9:12–9:15</a></p>\n<h2>The right attitude to collections</h2>\n<h3>Generosity</h3>\n<p><a href=\"https://ref.ly/Exod36:4-Exod36:6\">EXO 36:4–36:6</a>; ; <a href=\"https://ref.ly/2Cor8:11\">2CO 8:11</a>, <a href=\"https://ref.ly/2Cor9:6\">2CO 9:6</a></p>\n<h3>Cheerfulness</h3>\n<p><a href=\"https://ref.ly/2Cor9:7\">2CO 9:7</a></p>\n<h3>Discipline</h3>\n<p><a href=\"https://ref.ly/1Cor16:2-1Cor16:4\">1CO 16:2–16:4</a></p>\n<h3>Humility</h3>\n<p><a href=\"https://ref.ly/Matt6:2-Matt6:4\">MAT 6:2–6:4</a></p>\n<h3>A willing spirit</h3>\n<p><a href=\"https://ref.ly/2Cor8:12\">2CO 8:12</a></p>\n<h3>A sacrificial spirit</h3>\n<p><a href=\"https://ref.ly/Mark12:41-Mark12:44\">MRK 12:41–12:44</a> parallel <a href=\"https://ref.ly/Luke21:1-Luke21:4\">LUK 21:1–21:4</a>; ; <a href=\"https://ref.ly/2Cor8:1-2Cor8:4\">2CO 8:1–8:4</a></p>\n<h2>The faithful administration of collections</h2>\n<p><a href=\"https://ref.ly/2Kgs22:7\">2KI 22:7</a>; ; <a href=\"https://ref.ly/Acts11:30\">ACT 11:30</a>; ; <a href=\"https://ref.ly/2Cor8:19-2Cor8:21\">2CO 8:19–8:21</a></p>",
@@ -271,7 +271,8 @@
 "label": "8488: tithing",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

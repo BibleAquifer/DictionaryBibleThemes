@@ -2,10 +2,10 @@
 {
 "content_id": "2410",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "2410: cross, the",
 "media_type": "Text",
-"index_reference": "2410: cross, the",
+"index_reference": "2410",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An instrument of execution, used especially by the Roman authorities for putting criminals to death. The sufferings of Jesus Christ on the cross, foreshadowed in the OT, are related in the NT gospel accounts. Scripture sees the death of Christ as central to the Christian faith. Through the cross and resurrection of Christ, God achieved the redemption of believers.</p>",
@@ -40,7 +40,8 @@
 "label": "2414: cross, centrality of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

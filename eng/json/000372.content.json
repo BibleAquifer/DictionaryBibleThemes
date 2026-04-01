@@ -2,10 +2,10 @@
 {
 "content_id": "4248",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4248: islands",
 "media_type": "Text",
-"index_reference": "4248: islands",
+"index_reference": "4248",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Used of the islands and coastlands of the eastern Mediterranean and, especially by Isaiah, as a more general term indicating distant nations that are called upon to respond to God. Several specific islands are mentioned in the NT.</p>\n<h2>The islands and coastlands of the Mediterranean</h2>\n<p><strong><a href=\"https://ref.ly/Isa11:11\">ISA 11:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa42:10\">ISA 42:10</a>, <a href=\"https://ref.ly/Isa60:9\">ISA 60:9</a>; <a href=\"https://ref.ly/Jer2:10-Jer2:11\">JER 2:10–2:11</a>, <a href=\"https://ref.ly/Jer31:10\">JER 31:10</a>; <a href=\"https://ref.ly/Ezek26:15-Ezek26:18\">EZK 26:15–26:18</a>, <a href=\"https://ref.ly/Ezek27:3-Ezek27:7\">EZK 27:3–27:7</a>; <a href=\"https://ref.ly/Dan11:18\">DAN 11:18</a>, <a href=\"https://ref.ly/Dan11:29-Dan11:30\">DAN 11:29–11:30</a></p>\n<h2>Islands as a symbol of human insignificance before God</h2>\n<p><strong><a href=\"https://ref.ly/Isa40:15-Isa40:17\">ISA 40:15–40:17</a></strong></p>\n<h2>Islands as a symbol of distant nations</h2>\n<h3>Nations who do not know God</h3>\n<p><strong><a href=\"https://ref.ly/Isa66:19\">ISA 66:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa41:1\">ISA 41:1</a>, <a href=\"https://ref.ly/Isa49:1\">ISA 49:1</a></p>\n<h3>Nations who are not beyond God's law and judgment</h3>\n<p><strong><a href=\"https://ref.ly/Isa59:18\">ISA 59:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek25:16-Ezek25:17\">EZK 25:16–25:17</a>, <a href=\"https://ref.ly/Ezek39:6\">EZK 39:6</a>; <a href=\"https://ref.ly/Rev6:12-Rev6:14\">REV 6:12–6:14</a>, <a href=\"https://ref.ly/Rev16:17-Rev16:20\">REV 16:17–16:20</a></p>\n<h3>Nations called to respond to God</h3>\n<p><strong><a href=\"https://ref.ly/Isa42:10-Isa42:12\">ISA 42:10–42:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa24:15\">ISA 24:15</a>, <a href=\"https://ref.ly/Isa42:4\">ISA 42:4</a>, <a href=\"https://ref.ly/Isa51:4-Isa51:5\">ISA 51:4–51:5</a></p>\n<h2>Islands mentioned in the NT</h2>\n<h3>Cos</h3>\n<p><a href=\"https://ref.ly/Acts21:1\">ACT 21:1</a></p>\n<h3>Crete</h3>\n<p><a href=\"https://ref.ly/Acts27:7-Acts27:26\">ACT 27:7–27:26</a>; ; <a href=\"https://ref.ly/Titus1:5\">TIT 1:5</a>, <a href=\"https://ref.ly/Titus1:12\">TIT 1:12</a></p>\n<h3>Cyprus</h3>\n<p><a href=\"https://ref.ly/Acts4:36\">ACT 4:36</a>, <a href=\"https://ref.ly/Acts11:19-Acts11:21\">ACT 11:19–11:21</a>, <a href=\"https://ref.ly/Acts13:4-Acts13:12\">ACT 13:4–13:12</a>, <a href=\"https://ref.ly/Acts15:39\">ACT 15:39</a>, <a href=\"https://ref.ly/Acts21:16\">ACT 21:16</a></p>\n<h3>Kios</h3>\n<p><a href=\"https://ref.ly/Acts20:15\">ACT 20:15</a></p>\n<h3>Malta</h3>\n<p><a href=\"https://ref.ly/Acts27:39-Acts28:11\">ACT 27:39–28:11</a></p>\n<h3>Patmos</h3>\n<p><a href=\"https://ref.ly/Rev1:9\">REV 1:9</a></p>\n<h3>Rhodes</h3>\n<p><a href=\"https://ref.ly/Acts21:1\">ACT 21:1</a></p>\n<h3>Samos</h3>\n<p><a href=\"https://ref.ly/Acts20:15\">ACT 20:15</a></p>\n<h3>Samothrace</h3>\n<p><a href=\"https://ref.ly/Acts16:11\">ACT 16:11</a></p>\n<h3>Sicily</h3>\n<p><a href=\"https://ref.ly/Acts28:12\">ACT 28:12</a> <em>Syracuse was the leading city of Sicily.</em></p>",
@@ -263,6 +263,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7948: mission",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Binea",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Binea"
 }
 ]
 }

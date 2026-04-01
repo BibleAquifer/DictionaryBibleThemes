@@ -2,10 +2,10 @@
 {
 "content_id": "8333",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8333: reverence",
 "media_type": "Text",
-"index_reference": "8333: reverence",
+"index_reference": "8333",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The proper sense of awe, respect and wonder that is inspired and demanded by an encounter with, or meditation upon, the character and activity of the living God.</p>",
@@ -39,6 +39,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8337: reverence, and social behaviour",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shelah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shelah"
+},
+{
+"id": "person:Shelah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shelah"
+},
+{
+"id": "place:Siloam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Siloam"
 }
 ]
 }

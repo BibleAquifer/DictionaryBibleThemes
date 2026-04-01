@@ -2,10 +2,10 @@
 {
 "content_id": "7366",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7366: freewill offering",
 "media_type": "Text",
-"index_reference": "7366: freewill offering",
+"index_reference": "7366",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An offering that in some ways resembled the thank-offering or peace offering. It was completely voluntary, prompted by an occasion of celebration or spiritual significance. The animal offered was eaten at a festive banquet.</p>\n<h2>Instructions for presenting a freewill offering</h2>\n<h3>The animal to be offered</h3>\n<p><a href=\"https://ref.ly/Lev22:17-Lev22:22\">LEV 22:17–22:22</a>, <a href=\"https://ref.ly/Lev22:23\">LEV 22:23</a> <em>Some slightly deformed animals were perhaps acceptable because the freewill offering was voluntary.</em></p>\n<h3>Eating the offering</h3>\n<p><a href=\"https://ref.ly/Lev7:16\">LEV 7:16</a></p>\n<h2>Freewill offerings were associated with joy and celebration</h2>\n<p><strong><a href=\"https://ref.ly/Ps54:6-Ps54:7\">PSA 54:6–54:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut16:9-Deut16:12\">DEU 16:9–16:12</a> <em>during the Feast of Weeks</em></p>\n<h2>Occasions for making freewill offerings</h2>\n<h3>In maintaining public worship and at times of religious renewal</h3>\n<p><strong><a href=\"https://ref.ly/Exod35:20-Exod35:29\">EXO 35:20–35:29</a></strong> <em>Building the temple.</em> <em>See also</em> <a href=\"https://ref.ly/2Chr31:14\">2CH 31:14</a> <em>Hezekiah's reformation</em><a href=\"https://ref.ly/Ezra1:4-Ezra1:6\">EZR 1:4–1:6</a>, <a href=\"https://ref.ly/Ezra2:68\">EZR 2:68</a>, <a href=\"https://ref.ly/Ezra7:16\">EZR 7:16</a>, <a href=\"https://ref.ly/Ezra8:28\">EZR 8:28</a>; <a href=\"https://ref.ly/Neh7:70-Neh7:72\">NEH 7:70–7:72</a>\n<a href=\"https://ref.ly/Ezek46:11-Ezek46:12\">EZK 46:11–46:12</a> <em>Ezekiel's visionary ideal temple</em></p>\n<h3>As an additonal offering at certain festivals</h3>\n<p><a href=\"https://ref.ly/Num29:39\">NUM 29:39</a>; <a href=\"https://ref.ly/Deut12:5-Deut12:6\">DEU 12:5–12:6</a>, <a href=\"https://ref.ly/Deut12:17-Deut12:18\">DEU 12:17–12:18</a></p>\n<h2>Prophetic criticism of bragging over freewill offerings</h2>\n<p><strong><a href=\"https://ref.ly/Amos4:5\">AMO 4:5</a></strong> <em>A sarcastic attack on the offering of freewill gifts as a way to gain prestige.</em></p>",
@@ -163,6 +163,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8676: thanksgiving",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Neriah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Neriah"
+},
+{
+"id": "keyterm:Offering",
+"type": "keyterm",
+"confidence": 0.5695,
+"match_method": "scored",
+"preferred_label": "Offering"
 }
 ]
 }

@@ -2,16 +2,81 @@
 {
 "content_id": "8364",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8364: wisdom, of Holy Spirit",
 "media_type": "Text",
-"index_reference": "8364: wisdom, of holy spirit",
+"index_reference": "8364",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"3050.md\">3050: Holy Spirit, wisdom of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Shephatiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shephatiah"
+},
+{
+"id": "person:Shephatiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shephatiah"
+},
+{
+"id": "person:Shephatiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shephatiah"
+},
+{
+"id": "person:Shephatiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shephatiah"
+},
+{
+"id": "person:Shephatiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shephatiah"
+},
+{
+"id": "person:Shephatiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shephatiah"
+},
+{
+"id": "person:Shephatiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shephatiah"
+},
+{
+"id": "person:Shephatiah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shephatiah"
+},
+{
+"id": "person:Shephatiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shephatiah"
+}
+]
 }
 }
 ]

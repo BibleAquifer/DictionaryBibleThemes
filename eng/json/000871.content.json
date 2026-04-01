@@ -2,10 +2,10 @@
 {
 "content_id": "5283",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5283: cup",
 "media_type": "Text",
-"index_reference": "5283: cup",
+"index_reference": "5283",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A drinking vessel, usually made of pottery but sometimes, in wealthy households especially, of gold or silver. Cups might take the form of goblets or of shallow bowls large enough for several people to share, as a sign of fellowship. The word is also used figuratively to refer to the portion of blessing or judgment divinely allotted to individuals or nations.</p>\n<h2>General references to drinking vessels</h2>\n<p><strong><a href=\"https://ref.ly/Jer35:5\">JER 35:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen40:11\">GEN 40:11</a>, <a href=\"https://ref.ly/Gen44:2-Gen44:5\">GEN 44:2–44:5</a>; <a href=\"https://ref.ly/Prov23:31\">PRO 23:31</a>; <a href=\"https://ref.ly/Song7:2\">SNG 7:2</a>; <a href=\"https://ref.ly/Dan5:2-Dan5:3\">DAN 5:2–5:3</a>; <a href=\"https://ref.ly/Matt10:42\">MAT 10:42</a> parallel <a href=\"https://ref.ly/Mark9:41\">MRK 9:41</a></p>\n<h2>Golden goblets as a sign of wealth</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs10:21\">1KI 10:21</a></strong> parallel <a href=\"https://ref.ly/2Chr9:20\">2CH 9:20</a> <em>See also</em> <a href=\"https://ref.ly/Esth1:7\">EST 1:7</a></p>\n<h2>Sharing a cup as a sign of fellowship</h2>\n<p><strong><a href=\"https://ref.ly/2Sam12:3\">2SA 12:3</a></strong></p>\n<h3>The shared cup at the Lord's Supper</h3>\n<p><strong><a href=\"https://ref.ly/Matt26:27\">MAT 26:27</a></strong> parallels <a href=\"https://ref.ly/Mark14:23\">MRK 14:23</a>, <a href=\"https://ref.ly/Luke22:17\">LUK 22:17</a> <em>See also</em> <a href=\"https://ref.ly/1Cor11:25\">1CO 11:25</a><strong><a href=\"https://ref.ly/1Cor10:16\">1CO 10:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor10:21\">1CO 10:21</a></p>\n<h2>Cups symbolising corrupt lives</h2>\n<p><strong><a href=\"https://ref.ly/Matt23:25-Matt23:26\">MAT 23:25–23:26</a></strong> <em>The Pharisees observed ceremonial washings but neglected the need for inward cleansing.</em> <em>See also</em> <a href=\"https://ref.ly/Luke11:39\">LUK 11:39</a>; <a href=\"https://ref.ly/Rev17:4\">REV 17:4</a></p>\n<h2>The cup of God's wrath</h2>\n<h3>The cup drunk by the nations</h3>\n<p><strong><a href=\"https://ref.ly/Jer25:15-Jer25:17\">JER 25:15–25:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps75:8\">PSA 75:8</a>; <a href=\"https://ref.ly/Jer51:7\">JER 51:7</a>; <a href=\"https://ref.ly/Zech12:2-Zech12:3\">ZEC 12:2–12:3</a>; <a href=\"https://ref.ly/Rev14:10\">REV 14:10</a>JER <a href=\"https://ref.ly/Rev49:12\">49:12</a>; <a href=\"https://ref.ly/Lam4:21\">LAM 4:21</a>HAB <a href=\"https://ref.ly/Lam2:16\">2:16</a>; <a href=\"https://ref.ly/Rev16:19\">REV 16:19</a>, <a href=\"https://ref.ly/Rev18:6\">REV 18:6</a></p>\n<h3>The cup drunk by God's people</h3>\n<p><strong><a href=\"https://ref.ly/Ezek23:32-Ezek23:34\">EZK 23:32–23:34</a></strong>; <strong><a href=\"https://ref.ly/Isa51:17\">ISA 51:17</a></strong> <em>Following judgment, God promises to restore his people.</em> <em>See also</em> <a href=\"https://ref.ly/Isa51:22\">ISA 51:22</a></p>\n<h3>The cup drunk by Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/John18:11\">JHN 18:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt20:22-Matt20:23\">MAT 20:22–20:23</a> parallel <a href=\"https://ref.ly/Mark10:38-Mark10:39\">MRK 10:38–10:39</a><strong><a href=\"https://ref.ly/Matt26:42\">MAT 26:42</a></strong> <em>The cup of God's wrath may pass from guilty humanity only if Jesus Christ drinks it.</em><a href=\"https://ref.ly/Matt26:39\">MAT 26:39</a> parallels <a href=\"https://ref.ly/Mark14:36\">MRK 14:36</a>, <a href=\"https://ref.ly/Luke22:42\">LUK 22:42</a></p>\n<h2>The cup of God's blessing</h2>\n<p><strong><a href=\"https://ref.ly/Ps16:5\">PSA 16:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps23:5\">PSA 23:5</a>, <a href=\"https://ref.ly/Ps36:8\">PSA 36:8</a>, <a href=\"https://ref.ly/Ps116:12-Ps116:13\">PSA 116:12–116:13</a></p>",
@@ -366,6 +366,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Flute",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Flute"
 }
 ]
 }

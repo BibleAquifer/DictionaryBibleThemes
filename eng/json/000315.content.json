@@ -2,10 +2,10 @@
 {
 "content_id": "4050",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4050: dust",
 "media_type": "Text",
-"index_reference": "4050: dust",
+"index_reference": "4050",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Human beings were created from the dust by God and will return to it at death. Dust is therefore taken as a symbol of poverty, lowliness and humility. In Scripture dust is shaken off the feet to warn of future judgment, and is also used as a means of expressing grief.</p>\n<h2>Human beings were created from the dust by God</h2>\n<p><strong><a href=\"https://ref.ly/Gen2:7\">GEN 2:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:27\">GEN 18:27</a>; <a href=\"https://ref.ly/Ps103:14\">PSA 103:14</a>; <a href=\"https://ref.ly/1Cor15:47\">1CO 15:47</a></p>\n<h2>We will all return to dust when we die</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:19\">GEN 3:19</a></strong> <em>God's curse upon Adam affected all humanity</em>; <strong><a href=\"https://ref.ly/Ps90:3\">PSA 90:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job10:9\">JOB 10:9</a>, <a href=\"https://ref.ly/Job34:15\">JOB 34:15</a>; <a href=\"https://ref.ly/Eccl12:7\">ECC 12:7</a></p>\n<h2>Dust as a symbol of poverty, lowliness and humility</h2>\n<p><strong><a href=\"https://ref.ly/1Sam2:8\">1SA 2:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:27\">GEN 18:27</a>; <a href=\"https://ref.ly/1Kgs16:2\">1KI 16:2</a>; <a href=\"https://ref.ly/Job30:19\">JOB 30:19</a></p>\n<h2>Dust as a simile for a multitude</h2>\n<p><strong><a href=\"https://ref.ly/Gen13:16\">GEN 13:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen28:14\">GEN 28:14</a>; <a href=\"https://ref.ly/Ps78:27\">PSA 78:27</a></p>\n<h2>Dust is shaken off the feet as a warning of judgment</h2>\n<p><strong><a href=\"https://ref.ly/Mark6:11\">MRK 6:11</a></strong> parallels <a href=\"https://ref.ly/Matt10:14\">MAT 10:14</a>, <a href=\"https://ref.ly/Luke9:5\">LUK 9:5</a> <em>See also</em> <a href=\"https://ref.ly/Luke10:10-Luke10:11\">LUK 10:10–10:11</a>; <a href=\"https://ref.ly/Acts13:51\">ACT 13:51</a></p>\n<h2>Dust is used in expressing grief and repentance</h2>\n<p><strong><a href=\"https://ref.ly/Job42:5-Job42:6\">JOB 42:5–42:6</a></strong>; <strong><a href=\"https://ref.ly/Lam2:10\">LAM 2:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh7:6\">JOS 7:6</a>; <a href=\"https://ref.ly/Job2:12\">JOB 2:12</a>; <a href=\"https://ref.ly/Ezek27:30\">EZK 27:30</a>; <a href=\"https://ref.ly/Rev18:19\">REV 18:19</a></p>",
@@ -253,7 +253,8 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

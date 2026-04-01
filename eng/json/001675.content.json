@@ -2,10 +2,10 @@
 {
 "content_id": "6721",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6721: redemption, in everyday life",
 "media_type": "Text",
-"index_reference": "6721: redemption, in everyday life",
+"index_reference": "6721",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The purchase of a person's freedom or the buying back of an object from the possession of another. Scripture provides illustrations of these everyday meanings of the word.</p>\n<h2>The OT redemption of property, animals and individuals</h2>\n<h3>Redemption of property</h3>\n<p><strong><a href=\"https://ref.ly/Lev25:24-Lev25:28\">LEV 25:24–25:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev27:15-Lev27:20\">LEV 27:15–27:20</a>; <a href=\"https://ref.ly/Ruth4:1-Ruth4:6\">RUT 4:1–4:6</a>; <a href=\"https://ref.ly/Jer32:8\">JER 32:8</a></p>\n<h3>Redemption of animals</h3>\n<p><strong><a href=\"https://ref.ly/Exod13:13\">EXO 13:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod34:20\">EXO 34:20</a>; <a href=\"https://ref.ly/Lev27:13\">LEV 27:13</a>, <a href=\"https://ref.ly/Lev27:27\">LEV 27:27</a>; <a href=\"https://ref.ly/Num18:14-Num18:17\">NUM 18:14–18:17</a></p>\n<h3>Redemption of individuals</h3>\n<p><strong><a href=\"https://ref.ly/Exod30:12-Exod30:16\">EXO 30:12–30:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod13:12-Exod13:13\">EXO 13:12–13:13</a>, <a href=\"https://ref.ly/Exod21:8\">EXO 21:8</a>, <a href=\"https://ref.ly/Exod21:28-Exod21:32\">EXO 21:28–21:32</a>, <a href=\"https://ref.ly/Exod34:19-Exod34:20\">EXO 34:19–34:20</a>; <a href=\"https://ref.ly/Lev25:47-Lev25:55\">LEV 25:47–25:55</a>; <a href=\"https://ref.ly/Num3:44-Num3:51\">NUM 3:44–3:51</a></p>\n<h2>The redemption of the nation of Israel</h2>\n<p><strong><a href=\"https://ref.ly/Exod6:6\">EXO 6:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut9:26\">DEU 9:26</a>; <a href=\"https://ref.ly/2Sam7:23-2Sam7:24\">2SA 7:23–7:24</a> parallel <a href=\"https://ref.ly/1Chr17:21-1Chr17:22\">1CH 17:21–17:22</a>; <a href=\"https://ref.ly/Neh1:10\">NEH 1:10</a>; <a href=\"https://ref.ly/Ps77:15\">PSA 77:15</a>, <a href=\"https://ref.ly/Ps78:35\">PSA 78:35</a>, <a href=\"https://ref.ly/Ps106:10\">PSA 106:10</a>; <a href=\"https://ref.ly/Isa43:1-Isa43:3\">ISA 43:1–43:3</a>; <a href=\"https://ref.ly/Mic6:4\">MIC 6:4</a></p>\n<h2>Redemption as release from sin</h2>\n<p><strong><a href=\"https://ref.ly/Ps130:8\">PSA 130:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:2\">ISA 40:2</a></p>\n<h2>The role of the redeemer</h2>\n<h3>In helping close relatives regain property or freedom</h3>\n<p><strong><a href=\"https://ref.ly/Lev25:25\">LEV 25:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev25:47-Lev25:49\">LEV 25:47–25:49</a>, <a href=\"https://ref.ly/Lev27:15-Lev27:20\">LEV 27:15–27:20</a>; <a href=\"https://ref.ly/Ruth2:20\">RUT 2:20</a>, <a href=\"https://ref.ly/Ruth3:9\">RUT 3:9</a>, <a href=\"https://ref.ly/Ruth4:1-Ruth4:8\">RUT 4:1–4:8</a></p>\n<h3>In avenging death</h3>\n<p><a href=\"https://ref.ly/Num35:12\">NUM 35:12</a>, <a href=\"https://ref.ly/Num35:19-Num35:21\">NUM 35:19–35:21</a></p>",
@@ -279,7 +279,8 @@
 "label": "9165: restoration",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

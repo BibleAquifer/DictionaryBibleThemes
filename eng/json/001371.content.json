@@ -2,10 +2,10 @@
 {
 "content_id": "5850",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5850: excess",
 "media_type": "Text",
-"index_reference": "5850: excess",
+"index_reference": "5850",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A surplus of material or wealth, especially food or drink. Scripture criticises excessive consumption and extravagance, which are seen as exploiting the less fortunate and leading to a lack of concern for God.</p>\n<h2>Examples of excessive eating and drinking</h2>\n<h3>The Israelites in idolatry</h3>\n<p><strong><a href=\"https://ref.ly/Exod32:2-Exod32:6\">EXO 32:2–32:6</a></strong></p>\n<h3>The Israelites' greed, after God's miraculous provision</h3>\n<p><strong><a href=\"https://ref.ly/Num11:32\">NUM 11:32</a></strong></p>\n<h3>The Israelites in luxury</h3>\n<p><strong><a href=\"https://ref.ly/Amos6:4-Amos6:6\">AMO 6:4–6:6</a></strong></p>\n<h3>Other examples of excess</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/1Sam25:36\">1SA 25:36</a> <em>Nabal</em>; <a href=\"https://ref.ly/1Sam30:16\">1SA 30:16</a> <em>the Amalekites in victory</em>; <a href=\"https://ref.ly/Isa56:12\">ISA 56:12</a> <em>Israel's wicked watchmen</em>; <a href=\"https://ref.ly/Dan5:1-Dan5:4\">DAN 5:1–5:4</a> <em>King Belshazzar in pride</em>; <a href=\"https://ref.ly/Phil3:19\">PHP 3:19</a> <em>the enemies of the cross of Christ</em>; <a href=\"https://ref.ly/Rev18:3\">REV 18:3</a> <em>the godless nations</em></p>\n<h2>Mentions of excess in Jesus Christ's parables</h2>\n<h3>As a warning to the rich</h3>\n<p><strong><a href=\"https://ref.ly/Luke12:18-Luke12:21\">LUK 12:18–12:21</a></strong></p>\n<h3>As a warning against ingratitude and spiritual indifference</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Luke15:13\">LUK 15:13</a>, <a href=\"https://ref.ly/Luke16:19-Luke16:31\">LUK 16:19–16:31</a></p>\n<h2>Excessive eating and drinking is never encouraged</h2>\n<h3>Church leaders are not to overindulge</h3>\n<p><strong><a href=\"https://ref.ly/1Tim3:2-1Tim3:3\">1TI 3:2–3:3</a>, <a href=\"https://ref.ly/1Tim3:8\">1TI 3:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Titus1:7\">TIT 1:7</a></p>\n<h3>It causes sickness</h3>\n<p><strong><a href=\"https://ref.ly/Prov25:16\">PRO 25:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov25:27\">PRO 25:27</a></p>\n<h3>It brings poverty</h3>\n<p><strong><a href=\"https://ref.ly/Prov23:20-Prov23:21\">PRO 23:20–23:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov21:17\">PRO 21:17</a></p>\n<h3>It brings disgrace</h3>\n<p><strong><a href=\"https://ref.ly/Prov28:7\">PRO 28:7</a></strong></p>\n<h3>It is associated with laziness</h3>\n<p><strong><a href=\"https://ref.ly/Titus1:12\">TIT 1:12</a></strong></p>\n<h3>It shows a disregard for God</h3>\n<p><strong><a href=\"https://ref.ly/Isa5:11-Isa5:12\">ISA 5:11–5:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos4:10-Hos4:11\">HOS 4:10–4:11</a>; <a href=\"https://ref.ly/Phil3:19\">PHP 3:19</a></p>\n<h3>It leads the unwise man astray</h3>\n<p><strong><a href=\"https://ref.ly/Prov20:1\">PRO 20:1</a></strong></p>\n<h2>Commands for believers to abstain from such excesses</h2>\n<p><strong><a href=\"https://ref.ly/Gal5:19-Gal5:21\">GAL 5:19–5:21</a></strong>; <strong><a href=\"https://ref.ly/Eph5:18\">EPH 5:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor6:10-1Cor6:13\">1CO 6:10–6:13</a>; <a href=\"https://ref.ly/1Pet4:3\">1PE 4:3</a>; <a href=\"https://ref.ly/2Pet2:13\">2PE 2:13</a></p>\n<h2>The charging of excessive interest on loans is forbidden</h2>\n<p><a href=\"https://ref.ly/Ezek18:8\">EZK 18:8</a>, <a href=\"https://ref.ly/Ezek18:13\">EZK 18:13</a>, <a href=\"https://ref.ly/Ezek18:17\">EZK 18:17</a>, <a href=\"https://ref.ly/Ezek22:12\">EZK 22:12</a></p>",
@@ -295,7 +295,8 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

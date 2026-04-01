@@ -2,10 +2,10 @@
 {
 "content_id": "4185",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4185: sorcery and magic",
 "media_type": "Text",
-"index_reference": "4185: sorcery and magic",
+"index_reference": "4185",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The attempt to discover or influence the future by means forbidden by God, including the use of divination, astrology or witchcraft. Such practices are strongly condemned in Scripture.</p>\n<h2>Examples of magic and sorcery</h2>\n<h3>Magic practices</h3>\n<p><strong><a href=\"https://ref.ly/Rev18:23\">REV 18:23</a></strong> <em>Babylon, here, represents the world as the centre of seduction.</em></p>\n<h3>Divination</h3>\n<p><strong><a href=\"https://ref.ly/Zech10:2\">ZEC 10:2</a></strong></p>\n<h3>Spiritism</h3>\n<p><strong><a href=\"https://ref.ly/Isa8:19-Isa8:20\">ISA 8:19–8:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr33:6\">2CH 33:6</a></p>\n<h3>Astrology</h3>\n<p><strong><a href=\"https://ref.ly/2Chr33:3-2Chr33:5\">2CH 33:3–33:5</a></strong> parallel <a href=\"https://ref.ly/2Kgs21:3-2Kgs21:5\">2KI 21:3–21:5</a></p>\n<h2>Examples of those who practised sorcery</h2>\n<p>Egyptian magicians:\n <a href=\"https://ref.ly/Exod7:11\">EXO 7:11</a>, <a href=\"https://ref.ly/Exod8:18\">EXO 8:18</a>; <a href=\"https://ref.ly/Num22:6\">NUM 22:6</a>, <a href=\"https://ref.ly/Num23:23\">NUM 23:23</a>; \n<a href=\"https://ref.ly/2Kgs21:6\">2KI 21:6</a> <em>Manasseh, king of Judah</em>; ; <a href=\"https://ref.ly/Isa47:9-Isa47:13\">ISA 47:9–47:13</a> <em>the Babylonians</em>; ; <a href=\"https://ref.ly/Acts8:9-Acts8:11\">ACT 8:9–8:11</a> <em>Simon of Samaria</em>; ; <a href=\"https://ref.ly/Acts13:6-Acts13:8\">ACT 13:6–13:8</a> <em>Bar-Jesus of Cyprus</em>; ; <a href=\"https://ref.ly/Acts19:19\">ACT 19:19</a> <em>people in Ephesus</em></p>\n<h2>All sorcery and magic is strongly forbidden</h2>\n<p><strong><a href=\"https://ref.ly/Deut18:9-Deut18:12\">DEU 18:9–18:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev19:26\">LEV 19:26</a>, <a href=\"https://ref.ly/Lev19:31\">LEV 19:31</a>; <a href=\"https://ref.ly/Jer27:9-Jer27:10\">JER 27:9–27:10</a>; <a href=\"https://ref.ly/Ezek13:18\">EZK 13:18</a>, <a href=\"https://ref.ly/Ezek13:20\">EZK 13:20</a></p>\n<h2>God is stronger than sorcerers and magicians</h2>\n<p><a href=\"https://ref.ly/Exod7:11-Exod7:12\">EXO 7:11–7:12</a>, <a href=\"https://ref.ly/Exod8:16-Exod8:19\">EXO 8:16–8:19</a>; ; <a href=\"https://ref.ly/Isa44:24-Isa44:25\">ISA 44:24–44:25</a></p>\n<h2>God's judgment comes upon sorcerers and magicians</h2>\n<p><a href=\"https://ref.ly/Lev20:6\">LEV 20:6</a>; ; <a href=\"https://ref.ly/Mic5:12\">MIC 5:12</a>; ; <a href=\"https://ref.ly/Acts13:6-Acts13:11\">ACT 13:6–13:11</a>; ; <a href=\"https://ref.ly/Rev21:8\">REV 21:8</a>; ; <a href=\"https://ref.ly/Gal5:19-Gal5:21\">GAL 5:19–5:21</a></p>\n<h3>God made participation in occult practices punishable by death</h3>\n<p><a href=\"https://ref.ly/Exod22:18\">EXO 22:18</a>; ; <a href=\"https://ref.ly/Lev20:27\">LEV 20:27</a></p>\n<h3>King Saul was judged for occult practices</h3>\n<p><a href=\"https://ref.ly/1Chr10:13-1Chr10:14\">1CH 10:13–10:14</a></p>\n<h2>Jesus Christ can deliver from occultism</h2>\n<p><a href=\"https://ref.ly/Acts16:16-Acts16:18\">ACT 16:16–16:18</a>, <a href=\"https://ref.ly/Acts19:18-Acts19:19\">ACT 19:18–19:19</a>; ; <a href=\"https://ref.ly/Rom8:38-Rom8:39\">ROM 8:38–8:39</a></p>",
@@ -306,6 +306,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Beth-lebaoth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beth-lebaoth"
+},
+{
+"id": "place:Beth-merchak",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beth-lebaoth"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "1448",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1448: signs",
 "media_type": "Text",
-"index_reference": "1448: signs",
+"index_reference": "1448",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Miraculous or supernatural confirmations of the existence and power of God or the miraculous demonstration of spiritual authority on the part of an individual.</p>",
@@ -26,7 +26,8 @@
 "label": "1450: signs, kinds of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

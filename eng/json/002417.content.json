@@ -2,10 +2,10 @@
 {
 "content_id": "8794",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8794: persecution",
 "media_type": "Text",
-"index_reference": "8794: persecution",
+"index_reference": "8794",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture indicates that believers can expect to face hardship, ridicule and oppression, from individuals and state authorities, on account of their faith. It encourages believers to remain faithful in the face of such persecution and to draw strength from the example of Jesus Christ himself.</p>",
@@ -32,6 +32,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8797: persecution, attitudes to",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Tertullus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tertullus"
 }
 ]
 }

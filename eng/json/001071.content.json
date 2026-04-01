@@ -2,10 +2,10 @@
 {
 "content_id": "5501",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5501: reward, human",
 "media_type": "Text",
-"index_reference": "5501: reward, human",
+"index_reference": "5501",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Honest reward for services rendered is commended. Even though such reward is often deserved, it is not always given.</p>\n<h2>Reward for services rendered</h2>\n<h3>Payment for work done</h3>\n<p><strong><a href=\"https://ref.ly/Col4:1\">COL 4:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen29:28-Gen29:29\">GEN 29:28–29:29</a>; <a href=\"https://ref.ly/2Sam19:32-2Sam19:36\">2SA 19:32–19:36</a>; <a href=\"https://ref.ly/Prov13:13\">PRO 13:13</a>; <a href=\"https://ref.ly/Matt20:1-Matt20:2\">MAT 20:1–20:2</a>, <a href=\"https://ref.ly/Matt25:23\">MAT 25:23</a>; <a href=\"https://ref.ly/Rom4:4\">ROM 4:4</a>; <a href=\"https://ref.ly/1Cor9:24-1Cor9:25\">1CO 9:24–9:25</a>; <a href=\"https://ref.ly/1Tim5:17-1Tim5:18\">1TI 5:17–5:18</a></p>\n<h3>Favour for help received</h3>\n<p><strong><a href=\"https://ref.ly/1Sam17:23-1Sam17:25\">1SA 17:23–17:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen41:41-Gen41:45\">GEN 41:41–41:45</a>; <a href=\"https://ref.ly/Josh2:14\">JOS 2:14</a>; <a href=\"https://ref.ly/Esth6:1-Esth6:3\">EST 6:1–6:3</a>, <a href=\"https://ref.ly/Esth6:6-Esth6:10\">EST 6:6–6:10</a>; <a href=\"https://ref.ly/Dan2:46-Dan2:49\">DAN 2:46–2:49</a></p>\n<h2>Unjust treatment and reward</h2>\n<p><strong><a href=\"https://ref.ly/Acts10:37-Acts10:39\">ACT 10:37–10:39</a></strong> <a href=\"https://ref.ly/Gen29:22-Gen29:25\">GEN 29:22–29:25</a>, <a href=\"https://ref.ly/Gen39:19-Gen39:20\">GEN 39:19–39:20</a>, <a href=\"https://ref.ly/Gen40:23\">GEN 40:23</a>; ; <a href=\"https://ref.ly/Num14:1-Num14:4\">NUM 14:1–14:4</a>; ; <a href=\"https://ref.ly/1Sam25:21\">1SA 25:21</a>; ; <a href=\"https://ref.ly/2Sam15:1-2Sam15:4\">2SA 15:1–15:4</a>; ; <a href=\"https://ref.ly/Ps41:9\">PSA 41:9</a>, <a href=\"https://ref.ly/Ps55:12-Ps55:14\">PSA 55:12–55:14</a>; ; <a href=\"https://ref.ly/Jer38:4-Jer38:6\">JER 38:4–38:6</a>; ; <a href=\"https://ref.ly/John13:18\">JHN 13:18</a></p>\n<h2>Dishonest reward forbidden</h2>\n<p><strong><a href=\"https://ref.ly/Deut16:19\">DEU 16:19</a></strong> <em>In a fallen world there are many opportunities to gain by wrongdoing.</em> <em>See also</em> <a href=\"https://ref.ly/Num22:7\">NUM 22:7</a>, <a href=\"https://ref.ly/Num22:16-Num22:17\">NUM 22:16–22:17</a>, <a href=\"https://ref.ly/Num24:11\">NUM 24:11</a>; <a href=\"https://ref.ly/1Kgs13:7-1Kgs13:8\">1KI 13:7–13:8</a>; <a href=\"https://ref.ly/2Kgs5:20-2Kgs5:24\">2KI 5:20–5:24</a>; <a href=\"https://ref.ly/Job17:5\">JOB 17:5</a>; <a href=\"https://ref.ly/Isa1:23\">ISA 1:23</a>; <a href=\"https://ref.ly/Mic3:11\">MIC 3:11</a>, <a href=\"https://ref.ly/Mic7:3\">MIC 7:3</a>; <a href=\"https://ref.ly/Matt26:14-Matt26:15\">MAT 26:14–26:15</a> parallel <a href=\"https://ref.ly/Mark14:10-Mark14:11\">MRK 14:10–14:11</a>; <a href=\"https://ref.ly/Acts1:18\">ACT 1:18</a></p>\n<h2>Rewarding the undeserving</h2>\n<p><strong><a href=\"https://ref.ly/Rom12:20\">ROM 12:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen47:11-Gen47:12\">GEN 47:11–47:12</a>; <a href=\"https://ref.ly/1Sam12:23\">1SA 12:23</a>, <a href=\"https://ref.ly/1Sam24:16-1Sam24:19\">1SA 24:16–24:19</a>; <a href=\"https://ref.ly/Matt5:38-Matt5:41\">MAT 5:38–5:41</a>, <a href=\"https://ref.ly/Matt5:44-Matt5:47\">MAT 5:44–5:47</a></p>",
@@ -359,6 +359,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8442: good works",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gog",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gog"
 }
 ]
 }

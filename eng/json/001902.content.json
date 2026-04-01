@@ -2,10 +2,10 @@
 {
 "content_id": "7720",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7720: elders, in the church",
 "media_type": "Text",
-"index_reference": "7720: elders, in the church",
+"index_reference": "7720",
 "language": "eng",
 "review_level": "None",
 "content": "<p>In the NT a group of leaders responsible for managing and teaching a local church. As the name implies, they were normally men of experience and maturity. Although women played a very significant part in early Christian ministry, there is no specific NT evidence for women as elders.</p>\n<h2>Elders in the Jerusalem church</h2>\n<p><strong><a href=\"https://ref.ly/Acts15:4\">ACT 15:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts11:30\">ACT 11:30</a>, <a href=\"https://ref.ly/Acts15:2\">ACT 15:2</a>, <a href=\"https://ref.ly/Acts15:6\">ACT 15:6</a>, <a href=\"https://ref.ly/Acts15:22-Acts15:23\">ACT 15:22–15:23</a>, <a href=\"https://ref.ly/Acts16:4\">ACT 16:4</a>, <a href=\"https://ref.ly/Acts21:18\">ACT 21:18</a></p>\n<h2>Elders are also called ``overseers''</h2>\n<p><strong><a href=\"https://ref.ly/Acts20:28\">ACT 20:28</a></strong> <em>In <a href=\"https://ref.ly/Acts20:17\">Ac 20:17</a> they are described as “elders”. Here they are “overseers”.</em> <em>See also</em> <a href=\"https://ref.ly/Titus1:6-Titus1:7\">TIT 1:6–1:7</a></p>\n<h2>Elders are appointed by apostles or their delegates</h2>\n<p><strong><a href=\"https://ref.ly/Acts14:23\">ACT 14:23</a></strong> <em>Here, as always in the NT, people are appointed to a joint eldership. There is no NT example of a single elder leading a church.</em> <em>See also</em> <a href=\"https://ref.ly/Titus1:5\">TIT 1:5</a></p>\n<h2>Qualifications for elders</h2>\n<p><strong><a href=\"https://ref.ly/Titus1:6-Titus1:9\">TIT 1:6–1:9</a></strong> <em>As in <a href=\"https://ref.ly/Acts20:17,Acts20:28\">Ac 20:17,28</a>, “elder” is here synonymous with “overseer”.</em> <em>See also</em> <a href=\"https://ref.ly/1Tim3:1-1Tim3:7\">1TI 3:1–3:7</a></p>\n<h2>The role of elders</h2>\n<h3>As leaders</h3>\n<p><strong><a href=\"https://ref.ly/1Tim5:17\">1TI 5:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim3:5\">1TI 3:5</a></p>\n<h3>As teachers</h3>\n<p><strong><a href=\"https://ref.ly/1Tim5:17\">1TI 5:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim3:2\">1TI 3:2</a></p>\n<h3>As pastors and guardians against false teaching</h3>\n<p><strong><a href=\"https://ref.ly/Acts20:28-Acts20:31\">ACT 20:28–20:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Titus1:9\">TIT 1:9</a>; <a href=\"https://ref.ly/1Pet5:1-1Pet5:4\">1PE 5:1–5:4</a></p>\n<h3>In the healing ministry</h3>\n<p><strong><a href=\"https://ref.ly/Jas5:14\">JAS 5:14</a></strong></p>\n<h2>The remuneration and correction of elders</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/1Tim5:17-1Tim5:20\">1TI 5:17–5:20</a></p>\n<h2>Elders are to receive respect and submission from church members</h2>\n<p><strong><a href=\"https://ref.ly/Heb13:17\">HEB 13:17</a></strong> <em>“leaders” is an alternative term for “elders”.</em> <em>See also</em> <a href=\"https://ref.ly/1Thess5:12\">1TH 5:12</a>; <a href=\"https://ref.ly/Heb13:7\">HEB 13:7</a></p>\n<h2>The twenty-four elders in heaven</h2>\n<h3>The elders are seated on thrones</h3>\n<p><strong><a href=\"https://ref.ly/Rev4:4\">REV 4:4</a></strong> <em>These elders may be angelic beings corresponding to the 24 orders of Levites (1Chronicles chapters 24–25) or symbolise Israel and the church (compare <a href=\"https://ref.ly/Rev21:12-Rev21:14\">Rev 21:12–14</a>).</em> <em>See also</em> <a href=\"https://ref.ly/Rev5:5-Rev5:6\">REV 5:5–5:6</a>, <a href=\"https://ref.ly/Rev11:16\">REV 11:16</a>, <a href=\"https://ref.ly/Rev14:3\">REV 14:3</a></p>\n<h3>The elders worship God and the Lamb</h3>\n<p><strong><a href=\"https://ref.ly/Rev4:10-Rev4:11\">REV 4:10–4:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev5:8-Rev5:14\">REV 5:8–5:14</a>, <a href=\"https://ref.ly/Rev7:11-Rev7:13\">REV 7:11–7:13</a>, <a href=\"https://ref.ly/Rev19:4\">REV 19:4</a></p>",
@@ -293,6 +293,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8492: watchfulness, of leaders",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Phoebe",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Phoebe"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "4351",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4351: refining",
 "media_type": "Text",
-"index_reference": "4351: refining",
+"index_reference": "4351",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The process of heating metals to high temperatures in order to burn away impurities. It is often used in a metaphorical sense to depict God refining his people to get rid of impurities in their faith.</p>\n<h2>Precious metals produced by refining</h2>\n<p><strong><a href=\"https://ref.ly/Ps12:6\">PSA 12:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr28:14-1Chr28:18\">1CH 28:14–28:18</a>, <a href=\"https://ref.ly/1Chr29:3-1Chr29:5\">1CH 29:3–29:5</a>; <a href=\"https://ref.ly/Job28:1-Job28:2\">JOB 28:1–28:2</a>; <a href=\"https://ref.ly/1Pet1:7\">1PE 1:7</a>; <a href=\"https://ref.ly/Rev3:18\">REV 3:18</a></p>\n<h2>God refines his people</h2>\n<h3>Refining involves suffering</h3>\n<p><strong><a href=\"https://ref.ly/Ps66:10-Ps66:12\">PSA 66:10–66:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa48:9-Isa48:11\">ISA 48:9–48:11</a>; <a href=\"https://ref.ly/Jer9:7-Jer9:9\">JER 9:7–9:9</a></p>\n<h3>Refining for purging and purification</h3>\n<p><strong><a href=\"https://ref.ly/Zech13:8-Zech13:9\">ZEC 13:8–13:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer6:27-Jer6:30\">JER 6:27–6:30</a>; <a href=\"https://ref.ly/Dan11:35\">DAN 11:35</a>, <a href=\"https://ref.ly/Dan12:10\">DAN 12:10</a>; <a href=\"https://ref.ly/Mal3:2-Mal3:4\">MAL 3:2–3:4</a></p>",
@@ -167,7 +167,8 @@
 "label": "8832: testing",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

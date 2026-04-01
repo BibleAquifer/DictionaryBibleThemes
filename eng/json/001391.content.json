@@ -2,10 +2,10 @@
 {
 "content_id": "5873",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5873: habits",
 "media_type": "Text",
-"index_reference": "5873: habits",
+"index_reference": "5873",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Set patterns of behaviour. These patterns can be helpful when they lead to spiritual discipline and a regular pattern of prayer and worship; others can be detrimental to faith.</p>\n<h2>Examples of good habits</h2>\n<h3>Reading and obeying God's word</h3>\n<p><strong><a href=\"https://ref.ly/Ps119:56\">PSA 119:56</a></strong>; <strong><a href=\"https://ref.ly/Heb5:14\">HEB 5:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps119:44\">PSA 119:44</a>, <a href=\"https://ref.ly/Ps119:97\">PSA 119:97</a></p>\n<h3>Private prayer</h3>\n<p><strong><a href=\"https://ref.ly/Luke5:16\">LUK 5:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps5:3\">PSA 5:3</a>; <a href=\"https://ref.ly/Matt6:5-Matt6:6\">MAT 6:5–6:6</a>, <a href=\"https://ref.ly/Matt14:23\">MAT 14:23</a> parallel <a href=\"https://ref.ly/Mark6:46\">MRK 6:46</a>; <a href=\"https://ref.ly/Mark1:35\">MRK 1:35</a> parallel <a href=\"https://ref.ly/Luke4:42\">LUK 4:42</a>; <a href=\"https://ref.ly/Luke6:12\">LUK 6:12</a>, <a href=\"https://ref.ly/Luke9:18\">LUK 9:18</a>, <a href=\"https://ref.ly/Luke11:1\">LUK 11:1</a></p>\n<h3>Attendance at public worship</h3>\n<p><a href=\"https://ref.ly/Luke4:16\">LUK 4:16</a>; ; <a href=\"https://ref.ly/Acts2:46\">ACT 2:46</a>, <a href=\"https://ref.ly/Acts14:1\">ACT 14:1</a>, <a href=\"https://ref.ly/Acts17:2\">ACT 17:2</a></p>\n<h2>Examples of bad habits</h2>\n<p><strong><a href=\"https://ref.ly/Jer22:21\">JER 22:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod21:29\">EXO 21:29</a>, <a href=\"https://ref.ly/Exod21:36\">EXO 21:36</a>; <a href=\"https://ref.ly/Judg2:19\">JDG 2:19</a>; <a href=\"https://ref.ly/Ezek33:31\">EZK 33:31</a></p>\n<h2>Warnings to avoid certain habits</h2>\n<p><strong><a href=\"https://ref.ly/Heb10:25\">HEB 10:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim5:13\">1TI 5:13</a></p>\n<h2>The difficulty of breaking bad habits</h2>\n<p><strong><a href=\"https://ref.ly/Jer13:23\">JER 13:23</a></strong></p>",
@@ -224,6 +224,36 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8476: self-discipline",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hodiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hodiah"
+},
+{
+"id": "person:Hodiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hodiah"
+},
+{
+"id": "person:Hodiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hodiah"
+},
+{
+"id": "person:Hodiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hodiah"
 }
 ]
 }

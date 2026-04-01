@@ -2,10 +2,10 @@
 {
 "content_id": "5843",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5843: embarrassment",
 "media_type": "Text",
-"index_reference": "5843: embarrassment",
+"index_reference": "5843",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A state of discomfort and shame, caused by a sense of guilt over something that has been said or done.</p>\n<h2>Embarrassment may be a sign of misunderstanding or mistrust</h2>\n<p><strong><a href=\"https://ref.ly/John13:6-John13:8\">JHN 13:6–13:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark2:16-Mark2:17\">MRK 2:16–2:17</a> <em>Jesus Christ's enemies approached the disciples knowing they would be embarrassed by the company he was keeping</em>; <a href=\"https://ref.ly/Mark3:21\">MRK 3:21</a> <em>The family of Jesus Christ were embarrassed by what they were hearing about him.</em></p>\n<h2>Love includes not causing unnecessary embarrassment</h2>\n<p><strong><a href=\"https://ref.ly/Deut24:10-Deut24:11\">DEU 24:10–24:11</a></strong></p>\n<h2>Embarrassment caused by another person</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/2Kgs8:11\">2KI 8:11</a> <em>Elisha's fixed gaze embarrassed Hazael who, as the following verses suggest, may already have had a guilty conscience.</em></p>\n<h2>Embarrassment may motivate actions</h2>\n<p><a href=\"https://ref.ly/Judg3:23-Judg3:26\">JDG 3:23–3:26</a>; ; <a href=\"https://ref.ly/2Kgs2:17\">2KI 2:17</a></p>\n<h3>Doing right may be embarrassing</h3>\n<p><strong><a href=\"https://ref.ly/Acts10:28-Acts10:29\">ACT 10:28–10:29</a></strong></p>\n<h3>Embarrassment may motivate wrong behaviour</h3>\n<p><strong><a href=\"https://ref.ly/Mark6:26-Mark6:27\">MRK 6:26–6:27</a></strong></p>",
@@ -101,6 +101,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8754: fear",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hierapolis",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hierapolis"
 }
 ]
 }

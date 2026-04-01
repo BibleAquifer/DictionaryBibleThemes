@@ -2,10 +2,10 @@
 {
 "content_id": "5902",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5902: maturity",
 "media_type": "Text",
-"index_reference": "5902: maturity",
+"index_reference": "5902",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The full development at the end of a process of growth, by means of which a human being reaches adulthood.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5904: maturity, spiritual",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hor-haggidgad",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hor-haggidgad"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "8849",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8849: worry",
 "media_type": "Text",
-"index_reference": "8849: worry",
+"index_reference": "8849",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A sense of uneasiness and anxiety about the future. Scripture indicates that such anxiety is ultimately grounded in a lack of trust in God and his purposes.</p>\n<h2>The causes of worry</h2>\n<h3>Being world-centred</h3>\n<p><strong><a href=\"https://ref.ly/Matt6:25\">MAT 6:25</a></strong> parallel <a href=\"https://ref.ly/Luke12:22\">LUK 12:22</a> <em>See also</em> <a href=\"https://ref.ly/Matt6:34\">MAT 6:34</a>, <a href=\"https://ref.ly/Matt13:22\">MAT 13:22</a> parallels <a href=\"https://ref.ly/Mark4:19\">MRK 4:19</a>, <a href=\"https://ref.ly/Luke8:14\">LUK 8:14</a>; <a href=\"https://ref.ly/Luke12:29\">LUK 12:29</a>, <a href=\"https://ref.ly/Luke21:34\">LUK 21:34</a>; <a href=\"https://ref.ly/1Cor7:33\">1CO 7:33</a></p>\n<h3>Lacking confidence in God</h3>\n<p><strong><a href=\"https://ref.ly/John14:1\">JHN 14:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt6:26-Matt6:32\">MAT 6:26–6:32</a> parallel <a href=\"https://ref.ly/Luke12:27-Luke12:30\">LUK 12:27–12:30</a>; <a href=\"https://ref.ly/Matt8:25\">MAT 8:25</a> parallels <a href=\"https://ref.ly/Mark4:38\">MRK 4:38</a>, <a href=\"https://ref.ly/Luke8:24\">LUK 8:24</a>; <a href=\"https://ref.ly/Matt14:31\">MAT 14:31</a>, <a href=\"https://ref.ly/Matt16:8\">MAT 16:8</a></p>\n<h3>Abandoning God</h3>\n<p><strong><a href=\"https://ref.ly/Deut28:64-Deut28:65\">DEU 28:64–28:65</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lam1:3\">LAM 1:3</a>; <a href=\"https://ref.ly/Ezek4:16-Ezek4:17\">EZK 4:16–4:17</a>, <a href=\"https://ref.ly/Ezek12:19\">EZK 12:19</a></p>\n<h2>Worry leads people away from God</h2>\n<p><strong><a href=\"https://ref.ly/Ps37:8\">PSA 37:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov12:25\">PRO 12:25</a>; <a href=\"https://ref.ly/Matt13:22\">MAT 13:22</a> parallel <a href=\"https://ref.ly/Luke8:14\">LUK 8:14</a>; <a href=\"https://ref.ly/Luke10:40-Luke10:42\">LUK 10:40–10:42</a></p>\n<h2>Worry is futile</h2>\n<p><strong><a href=\"https://ref.ly/Matt6:27\">MAT 6:27</a></strong> parallel <a href=\"https://ref.ly/Luke12:25\">LUK 12:25</a> <em>See also</em> <a href=\"https://ref.ly/Eccl2:22-Eccl2:23\">ECC 2:22–2:23</a></p>\n<h2>Remedies for worry</h2>\n<h3>Being God-centred</h3>\n<p><strong><a href=\"https://ref.ly/Isa26:3\">ISA 26:3</a></strong>; <strong><a href=\"https://ref.ly/Matt6:33\">MAT 6:33</a></strong> parallel <a href=\"https://ref.ly/Luke12:31\">LUK 12:31</a> <em>See also</em> <a href=\"https://ref.ly/Jer17:7-Jer17:8\">JER 17:7–17:8</a>; <a href=\"https://ref.ly/Rom8:6\">ROM 8:6</a></p>\n<h3>Prayer</h3>\n<p><strong><a href=\"https://ref.ly/Ps55:22\">PSA 55:22</a></strong>; <strong><a href=\"https://ref.ly/Phil4:6-Phil4:7\">PHP 4:6–4:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps94:18-Ps94:19\">PSA 94:18–94:19</a>, <a href=\"https://ref.ly/Ps139:23\">PSA 139:23</a>; <a href=\"https://ref.ly/1Pet5:7\">1PE 5:7</a></p>",
@@ -318,6 +318,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8834: unbelief",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Timnath-heres",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Timnath-heres"
 }
 ]
 }

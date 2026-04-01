@@ -2,10 +2,10 @@
 {
 "content_id": "7476",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7476: thank-offering",
 "media_type": "Text",
-"index_reference": "7476: thank-offering",
+"index_reference": "7476",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Together with vows and freewill offerings this was one of the three kinds of fellowship offering.</p>\n<h2>Presenting a thank-offering</h2>\n<h3>An animal sacrifice</h3>\n<p><strong><a href=\"https://ref.ly/Lev7:15\">LEV 7:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev22:29\">LEV 22:29</a></p>\n<h3>Accompanied by bread, wafers and cakes</h3>\n<p><a href=\"https://ref.ly/Lev7:12-Lev7:13\">LEV 7:12–7:13</a> <em>Cakes made with yeast can be offered, since these are not to be burned on the altar.</em></p>\n<h3>The priest shares the meal</h3>\n<p><a href=\"https://ref.ly/Lev7:14\">LEV 7:14</a>, <a href=\"https://ref.ly/Lev22:29-Lev22:30\">LEV 22:29–22:30</a></p>\n<h2>The occasions for presenting thank-offerings</h2>\n<h3>For deliverance from distress, death or sickness</h3>\n<p><strong><a href=\"https://ref.ly/Ps50:23\">PSA 50:23</a>, <a href=\"https://ref.ly/Ps107:21-Ps107:22\">PSA 107:21–107:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps56:12-Ps56:13\">PSA 56:12–56:13</a> <em>deliverance from death</em>; <a href=\"https://ref.ly/Ps116:17\">PSA 116:17</a> <em>Deliverance from sickness; the earlier verses show the psalmist has been ill.</em></p>\n<h3>Following a vow</h3>\n<p><strong><a href=\"https://ref.ly/Ps7:17\">PSA 7:17</a></strong> <em>A vow to praise God in anticipation of an answer to prayer.</em> <em>See also</em> <a href=\"https://ref.ly/Ps66:13-Ps66:14\">PSA 66:13–66:14</a></p>\n<h3>At times of religious renewal</h3>\n<p><a href=\"https://ref.ly/2Chr29:31\">2CH 29:31</a> <em>Hezekiah's reformation</em>; ; <a href=\"https://ref.ly/2Chr33:15-2Chr33:16\">2CH 33:15–33:16</a> <em>Manasseh's repentance</em>; <a href=\"https://ref.ly/Jer17:26\">JER 17:26</a>, <a href=\"https://ref.ly/Jer33:11\">JER 33:11</a></p>",
@@ -151,6 +151,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8676: thanksgiving",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "keyterm:Praise",
+"type": "keyterm",
+"confidence": 0.7725,
+"match_method": "scored",
+"preferred_label": "Praise"
 }
 ]
 }

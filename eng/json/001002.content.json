@@ -2,10 +2,10 @@
 {
 "content_id": "5423",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5423: myths",
 "media_type": "Text",
-"index_reference": "5423: myths",
+"index_reference": "5423",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Stories that are made up and which are contrary to right doctrine or holy living.</p>\n<h2>Some prefer myths to truth</h2>\n<p><strong><a href=\"https://ref.ly/2Tim4:3-2Tim4:4\">2TI 4:3–4:4</a></strong></p>\n<h2>Myths are harmful to the body of Christ</h2>\n<p><strong><a href=\"https://ref.ly/1Tim1:3-1Tim1:4\">1TI 1:3–1:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim4:6-1Tim4:8\">1TI 4:6–4:8</a></p>\n<h2>Sound teaching by God's servants dispels myths</h2>\n<p><strong><a href=\"https://ref.ly/Titus1:13-Titus1:14\">TIT 1:13–1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim4:1-1Tim4:6\">1TI 4:1–4:6</a>; <a href=\"https://ref.ly/Titus1:9-Titus1:11\">TIT 1:9–1:11</a></p>",
@@ -90,6 +90,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8829: superstition",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Gerah",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gerah"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "6106",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6106: addiction",
 "media_type": "Text",
-"index_reference": "6106: addiction",
+"index_reference": "6106",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The devotion of a person to something, whether sin in general or food, alcohol or wealth in particular, so as to become dependent upon it. A person will never be satisfied in such a state of slavery. The answer to addiction is self-control through the resources of the new life in Christ.</p>\n<h2>Addiction is the consequence of sin</h2>\n<p><strong><a href=\"https://ref.ly/2Pet2:19\">2PE 2:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/John8:34\">JHN 8:34</a></p>\n<h2>Addiction to food, alcohol or drugs is to become dependent upon them</h2>\n<p><strong><a href=\"https://ref.ly/Phil3:18-Phil3:19\">PHP 3:18–3:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa5:11\">ISA 5:11</a>, <a href=\"https://ref.ly/Isa28:7-Isa28:8\">ISA 28:7–28:8</a>, <a href=\"https://ref.ly/Isa56:12\">ISA 56:12</a>; <a href=\"https://ref.ly/Titus2:3\">TIT 2:3</a></p>\n<h2>Addiction to wealth is to be controlled by it</h2>\n<p><strong><a href=\"https://ref.ly/Mark10:21-Mark10:22\">MRK 10:21–10:22</a></strong> parallel <a href=\"https://ref.ly/Luke18:22-Luke18:23\">LUK 18:22–18:23</a> <em>See also</em> <a href=\"https://ref.ly/Matt26:14-Matt26:16\">MAT 26:14–26:16</a> parallels <a href=\"https://ref.ly/Mark14:10-Mark14:11\">MRK 14:10–14:11</a>, <a href=\"https://ref.ly/Luke22:3-Luke22:6\">LUK 22:3–22:6</a>; <a href=\"https://ref.ly/Acts16:19\">ACT 16:19</a>, <a href=\"https://ref.ly/Acts24:26\">ACT 24:26</a>; <a href=\"https://ref.ly/2Pet2:15\">2PE 2:15</a></p>\n<h2>Addiction never satisfies</h2>\n<h3>Addiction to sinful habits does not satisfy</h3>\n<p><strong><a href=\"https://ref.ly/Rom6:20-Rom6:21\">ROM 6:20–6:21</a></strong></p>\n<h3>Addiction to food, alcohol or drugs does not satisfy</h3>\n<p><strong><a href=\"https://ref.ly/Eccl6:7\">ECC 6:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov20:1\">PRO 20:1</a>, <a href=\"https://ref.ly/Prov21:17\">PRO 21:17</a>, <a href=\"https://ref.ly/Prov23:20-Prov23:21\">PRO 23:20–23:21</a>, <a href=\"https://ref.ly/Prov23:29-Prov23:35\">PRO 23:29–23:35</a>; <a href=\"https://ref.ly/Hos4:10-Hos4:11\">HOS 4:10–4:11</a> parallel <a href=\"https://ref.ly/Matt19:21-Matt19:22\">MAT 19:21–19:22</a></p>\n<h3>Addiction to wealth does not satisfy</h3>\n<p><strong><a href=\"https://ref.ly/Eccl5:10\">ECC 5:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim6:9-1Tim6:10\">1TI 6:9–6:10</a>; <a href=\"https://ref.ly/Jas5:1-Jas5:3\">JAS 5:1–5:3</a></p>\n<h2>The answer to addiction: self-control through the new life in Christ</h2>\n<p><strong><a href=\"https://ref.ly/Prov23:1-Prov23:4\">PRO 23:1–23:4</a></strong>; <strong><a href=\"https://ref.ly/Rom6:6-Rom6:7\">ROM 6:6–6:7</a>, <a href=\"https://ref.ly/Rom6:11-Rom6:14\">ROM 6:11–6:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov25:16\">PRO 25:16</a>; <a href=\"https://ref.ly/Rom6:16-Rom6:19\">ROM 6:16–6:19</a>, <a href=\"https://ref.ly/Rom8:12-Rom8:15\">ROM 8:12–8:15</a>; <a href=\"https://ref.ly/1Cor6:12\">1CO 6:12</a>, <a href=\"https://ref.ly/1Cor9:27\">1CO 9:27</a>; <a href=\"https://ref.ly/Gal5:22-Gal5:23\">GAL 5:22–5:23</a></p>",
@@ -299,6 +299,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8808: riches",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ithamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ithamar"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "4804",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4804: breath",
 "media_type": "Text",
-"index_reference": "4804: breath",
+"index_reference": "4804",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The imagery of breath is often used to convey spiritual essence and power, unseen except in its effects, including aspects of the person and work of the Holy Spirit. The main Hebrew and Greek words translated as “breath” in the NIV are also translated as “spirit” and “wind”.</p>\n<h2>The breath of life</h2>\n<h3>Life imparted by God</h3>\n<p><strong><a href=\"https://ref.ly/Gen2:7\">GEN 2:7</a></strong>; <strong><a href=\"https://ref.ly/Acts17:25\">ACT 17:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen1:30\">GEN 1:30</a>, <a href=\"https://ref.ly/Gen6:17\">GEN 6:17</a>, <a href=\"https://ref.ly/Gen7:15\">GEN 7:15</a>, <a href=\"https://ref.ly/Gen7:22\">GEN 7:22</a>; <a href=\"https://ref.ly/Job27:3\">JOB 27:3</a>, <a href=\"https://ref.ly/Job33:4\">JOB 33:4</a>; <a href=\"https://ref.ly/Ps104:30\">PSA 104:30</a>; <a href=\"https://ref.ly/Isa42:5\">ISA 42:5</a>, <a href=\"https://ref.ly/Isa57:16\">ISA 57:16</a>; <a href=\"https://ref.ly/Jer38:16\">JER 38:16</a>; <a href=\"https://ref.ly/Rev11:11\">REV 11:11</a></p>\n<h3>Life recalled by his sovereign will</h3>\n<p><strong><a href=\"https://ref.ly/Eccl12:7\">ECC 12:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs17:17\">1KI 17:17</a>; <a href=\"https://ref.ly/Job34:14-Job34:15\">JOB 34:14–34:15</a>; <a href=\"https://ref.ly/Ps104:29\">PSA 104:29</a>; <a href=\"https://ref.ly/Isa40:7\">ISA 40:7</a></p>\n<h2>The breath of God</h2>\n<h3>An emblem of the Holy Spirit</h3>\n<p><strong><a href=\"https://ref.ly/John20:21-John20:22\">JHN 20:21–20:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek37:5\">EZK 37:5</a>, <a href=\"https://ref.ly/Ezek37:14\">EZK 37:14</a></p>\n<h3>God's creative breath</h3>\n<p><strong><a href=\"https://ref.ly/Ps33:6\">PSA 33:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen1:2\">GEN 1:2</a>; <a href=\"https://ref.ly/Job26:13\">JOB 26:13</a>, <a href=\"https://ref.ly/Job33:4\">JOB 33:4</a></p>\n<h3>God's enlightening breath</h3>\n<p><strong><a href=\"https://ref.ly/Job32:8\">JOB 32:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/John14:26\">JHN 14:26</a>, <a href=\"https://ref.ly/John16:13-John16:15\">JHN 16:13–16:15</a>; <a href=\"https://ref.ly/2Tim3:16-2Tim3:17\">2TI 3:16–3:17</a>; <a href=\"https://ref.ly/2Pet1:20-2Pet1:21\">2PE 1:20–1:21</a></p>\n<h3>God's regenerating breath</h3>\n<p><strong><a href=\"https://ref.ly/Ezek37:4-Ezek37:14\">EZK 37:4–37:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/John3:5-John3:8\">JHN 3:5–3:8</a>; <a href=\"https://ref.ly/1Thess1:4-1Thess1:5\">1TH 1:4–1:5</a>; <a href=\"https://ref.ly/Titus3:5\">TIT 3:5</a></p>\n<h3>God's empowering breath</h3>\n<p><strong><a href=\"https://ref.ly/Acts2:1-Acts2:4\">ACT 2:1–2:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa11:2\">ISA 11:2</a>, <a href=\"https://ref.ly/Isa61:1\">ISA 61:1</a>; <a href=\"https://ref.ly/Joel2:28-Joel2:29\">JOL 2:28–2:29</a>; <a href=\"https://ref.ly/John20:21-John20:22\">JHN 20:21–20:22</a>; <a href=\"https://ref.ly/Acts1:8\">ACT 1:8</a></p>\n<h3>God's destroying breath</h3>\n<p><strong><a href=\"https://ref.ly/2Thess2:8\">2TH 2:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod15:10\">EXO 15:10</a>; <a href=\"https://ref.ly/2Sam22:16\">2SA 22:16</a> parallel <a href=\"https://ref.ly/Ps18:15\">PSA 18:15</a>; <a href=\"https://ref.ly/Job4:9\">JOB 4:9</a>, <a href=\"https://ref.ly/Job15:30\">JOB 15:30</a>; <a href=\"https://ref.ly/Isa11:4\">ISA 11:4</a>, <a href=\"https://ref.ly/Isa30:28\">ISA 30:28</a>, <a href=\"https://ref.ly/Isa30:33\">ISA 30:33</a>, <a href=\"https://ref.ly/Isa40:24\">ISA 40:24</a>, <a href=\"https://ref.ly/Isa59:19\">ISA 59:19</a>; <a href=\"https://ref.ly/Ezek21:31\">EZK 21:31</a></p>",
@@ -397,7 +397,8 @@
 "label": "5062: spirit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

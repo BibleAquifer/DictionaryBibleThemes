@@ -2,10 +2,10 @@
 {
 "content_id": "4845",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4845: rainbow",
 "media_type": "Text",
-"index_reference": "4845: rainbow",
+"index_reference": "4845",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An arch of colours in the sky, formed by the sun's rays passing through raindrops. It was the sign of God's covenant with Noah, established in the aftermath of the great flood.</p>\n<h2>The rainbow as a sign of God's covenant with Noah</h2>\n<p><a href=\"https://ref.ly/Gen9:12-Gen9:17\">GEN 9:12–9:17</a></p>\n<h2>The rainbow as a sign of God's glory</h2>\n<p><a href=\"https://ref.ly/Ezek1:28\">EZK 1:28</a>; ; <a href=\"https://ref.ly/Rev4:3\">REV 4:3</a>, <a href=\"https://ref.ly/Rev10:1\">REV 10:1</a></p>",
@@ -85,6 +85,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7227: flood, the",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Dimnah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dimnah"
 }
 ]
 }

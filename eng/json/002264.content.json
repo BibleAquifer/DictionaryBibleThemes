@@ -2,10 +2,10 @@
 {
 "content_id": "8482",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8482: spiritual warfare",
 "media_type": "Text",
-"index_reference": "8482: spiritual warfare",
+"index_reference": "8482",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The struggle against the forces of evil, which is a constant feature of the life of faith. Scripture locates the origins of spiritual warfare in the rebellion of Satan and his angels against God and affirms the hope of God's final victory over such forces through Jesus Christ's death and resurrection.</p>",
@@ -39,6 +39,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8486: spiritual warfare, armour",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Sidon",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sidon"
+},
+{
+"id": "place:Sidon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sidon"
 }
 ]
 }

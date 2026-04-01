@@ -2,10 +2,10 @@
 {
 "content_id": "5910",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5910: motives, examples of",
 "media_type": "Text",
-"index_reference": "5910: motives, examples of",
+"index_reference": "5910",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture reflects the wide range of motives which influence human behaviour.</p>\n<h2>Right actions can result from wrong motives</h2>\n<p><strong><a href=\"https://ref.ly/Phil1:15-Phil1:18\">PHP 1:15–1:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam18:20-1Sam18:23\">1SA 18:20–18:23</a></p>\n<h2>Right motives do not always produce right actions</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs8:17-1Kgs8:19\">1KI 8:17–8:19</a></strong> parallel <a href=\"https://ref.ly/2Chr6:7-2Chr6:9\">2CH 6:7–6:9</a> <em>See also</em> <a href=\"https://ref.ly/Matt1:18-Matt1:20\">MAT 1:18–1:20</a></p>\n<h2>Examples of wrong motives</h2>\n<h3>Malice and envy</h3>\n<p><strong><a href=\"https://ref.ly/Gen37:11\">GEN 37:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen37:18-Gen37:28\">GEN 37:18–37:28</a>; <a href=\"https://ref.ly/Esth3:1-Esth3:9\">EST 3:1–3:9</a>; <a href=\"https://ref.ly/Ezek25:15-Ezek25:16\">EZK 25:15–25:16</a>, <a href=\"https://ref.ly/Ezek36:5\">EZK 36:5</a>; <a href=\"https://ref.ly/Matt2:7-Matt2:13\">MAT 2:7–2:13</a></p>\n<h3>Greed</h3>\n<p><strong><a href=\"https://ref.ly/John12:4-John12:6\">JHN 12:4–12:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs5:19-2Kgs5:27\">2KI 5:19–5:27</a>; <a href=\"https://ref.ly/Titus1:10-Titus1:11\">TIT 1:10–1:11</a></p>\n<h2>Motives are sometimes misjudged</h2>\n<p><strong><a href=\"https://ref.ly/Josh22:9-Josh22:34\">JOS 22:9–22:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num32:1-Num32:33\">NUM 32:1–32:33</a>; <a href=\"https://ref.ly/2Sam10:1-2Sam10:4\">2SA 10:1–10:4</a> parallel <a href=\"https://ref.ly/1Chr19:1-1Chr19:4\">1CH 19:1–19:4</a>; <a href=\"https://ref.ly/2Kgs5:5-2Kgs5:7\">2KI 5:5–5:7</a></p>\n<h2>Jesus Christ's actions motivated by a desire to do God's will</h2>\n<p><strong><a href=\"https://ref.ly/John8:29\">JHN 8:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/John4:34\">JHN 4:34</a>, <a href=\"https://ref.ly/John6:38\">JHN 6:38</a>; <a href=\"https://ref.ly/Heb10:5-Heb10:7\">HEB 10:5–10:7</a>; <a href=\"https://ref.ly/Ps40:6-Ps40:8\">PSA 40:6–40:8</a></p>\n<h2>Paul's motives</h2>\n<h3>Paul rejected all base motives in ministry</h3>\n<p><strong><a href=\"https://ref.ly/1Thess2:3-1Thess2:6\">1TH 2:3–2:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor2:17\">2CO 2:17</a></p>\n<h3>Paul was motivated by his knowledge of God</h3>\n<p><strong><a href=\"https://ref.ly/2Cor5:9-2Cor5:12\">2CO 5:9–5:12</a></strong></p>\n<h3>Paul was concerned for the spiritual growth of others</h3>\n<p><strong><a href=\"https://ref.ly/Phil4:14-Phil4:18\">PHP 4:14–4:18</a></strong> <em>Paul's motive in rejoicing in the gift from the Philippians was the spiritual benefit which they would gain as a result of it.</em> <em>See also</em> <a href=\"https://ref.ly/Phil1:22-Phil1:26\">PHP 1:22–1:26</a>; <a href=\"https://ref.ly/Phlm1:8-Phlm1:14\">PHM 1:8–1:14</a></p>",
@@ -256,7 +256,8 @@
 "label": "8796: persecution, forms of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

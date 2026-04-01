@@ -2,10 +2,10 @@
 {
 "content_id": "8837",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8837: unbelief, and life of faith",
 "media_type": "Text",
-"index_reference": "8837: unbelief, and life of faith",
+"index_reference": "8837",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Believers may go through periods of doubt and indecision, especially on account of difficulties in trusting God or accepting certain aspects of his will for them.</p>\n<h2>General examples of unbelief in believers</h2>\n<h3>Abraham</h3>\n<p><strong><a href=\"https://ref.ly/Gen17:17\">GEN 17:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen15:8\">GEN 15:8</a></p>\n<h3>Sarah</h3>\n<p><a href=\"https://ref.ly/Gen18:13-Gen18:14\">GEN 18:13–18:14</a></p>\n<h3>Moses</h3>\n<p><a href=\"https://ref.ly/Num11:21-Num11:22\">NUM 11:21–11:22</a></p>\n<h3>Gideon</h3>\n<p><a href=\"https://ref.ly/Judg6:12-Judg6:13\">JDG 6:12–6:13</a>, <a href=\"https://ref.ly/Judg6:17\">JDG 6:17</a>, <a href=\"https://ref.ly/Judg6:36-Judg6:40\">JDG 6:36–6:40</a></p>\n<h3>Elisha's servant</h3>\n<p><a href=\"https://ref.ly/2Kgs4:42-2Kgs4:44\">2KI 4:42–4:44</a></p>\n<h3>Zechariah</h3>\n<p><a href=\"https://ref.ly/Luke1:20\">LUK 1:20</a></p>\n<h3>John the Baptist</h3>\n<p><a href=\"https://ref.ly/Matt11:3\">MAT 11:3</a></p>\n<h2>The unbelief of Jesus Christ's disciples</h2>\n<h3>Unbelief concerning Jesus Christ's power over the natural world</h3>\n<p><strong><a href=\"https://ref.ly/Matt8:24-Matt8:26\">MAT 8:24–8:26</a></strong> parallels <a href=\"https://ref.ly/Mark4:38-Mark4:40\">MRK 4:38–4:40</a>, <a href=\"https://ref.ly/Luke8:23-Luke8:25\">LUK 8:23–8:25</a><strong><a href=\"https://ref.ly/Matt14:26\">MAT 14:26</a></strong> parallel <a href=\"https://ref.ly/Mark6:49\">MRK 6:49</a><strong><a href=\"https://ref.ly/Matt14:29-Matt14:31\">MAT 14:29–14:31</a>, <a href=\"https://ref.ly/Matt16:8-Matt16:10\">MAT 16:8–16:10</a></strong> parallel <a href=\"https://ref.ly/Mark8:17-Mark8:21\">MRK 8:17–8:21</a> <em>See also</em> <a href=\"https://ref.ly/Mark6:37\">MRK 6:37</a> parallel <a href=\"https://ref.ly/John6:7\">JHN 6:7</a>; <a href=\"https://ref.ly/Mark6:52\">MRK 6:52</a>; <a href=\"https://ref.ly/Matt15:33\">MAT 15:33</a> parallel <a href=\"https://ref.ly/Mark8:4\">MRK 8:4</a>; <a href=\"https://ref.ly/John11:39\">JHN 11:39</a>; <a href=\"https://ref.ly/Acts12:15-Acts12:17\">ACT 12:15–12:17</a></p>\n<h3>Unbelief concerning Jesus Christ's resurrection</h3>\n<p><strong><a href=\"https://ref.ly/Mark16:14\">MRK 16:14</a></strong>; <strong><a href=\"https://ref.ly/Luke24:25\">LUK 24:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark16:9-Mark16:13\">MRK 16:9–16:13</a>; <a href=\"https://ref.ly/Luke24:11\">LUK 24:11</a>, <a href=\"https://ref.ly/Luke24:37-Luke24:41\">LUK 24:37–24:41</a>; <a href=\"https://ref.ly/John20:25\">JHN 20:25</a></p>\n<h3>Unbelief concerning Jesus Christ's power to heal</h3>\n<p><strong><a href=\"https://ref.ly/Matt17:17\">MAT 17:17</a></strong> parallels <a href=\"https://ref.ly/Mark9:19\">MRK 9:19</a>, <a href=\"https://ref.ly/Luke9:41\">LUK 9:41</a> <em>See also</em> <a href=\"https://ref.ly/Matt17:19-Matt17:20\">MAT 17:19–17:20</a></p>\n<h2>Encouragements in overcoming unbelief</h2>\n<p><strong><a href=\"https://ref.ly/Mark9:24\">MRK 9:24</a></strong>; <strong><a href=\"https://ref.ly/John14:11\">JHN 14:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt11:4-Matt11:6\">MAT 11:4–11:6</a>; <a href=\"https://ref.ly/John10:37-John10:38\">JHN 10:37–10:38</a>, <a href=\"https://ref.ly/John20:30-John20:31\">JHN 20:30–20:31</a>; <a href=\"https://ref.ly/Rom4:20\">ROM 4:20</a></p>",
@@ -335,6 +335,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9610: hope",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Tiglath-pileser",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tiglath-pileser"
 }
 ]
 }

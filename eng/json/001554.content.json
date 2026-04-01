@@ -2,10 +2,10 @@
 {
 "content_id": "6201",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6201: imperfection, and God's purposes",
 "media_type": "Text",
-"index_reference": "6201: imperfection, and god's purposes",
+"index_reference": "6201",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The unacceptable falling short of the God-given ideal must be resisted and overcome.</p>\n<h2>Imperfection is contrary to God's purpose</h2>\n<h3>In creation</h3>\n<p><strong><a href=\"https://ref.ly/Gen1:31\">GEN 1:31</a></strong></p>\n<h3>For individuals</h3>\n<p><strong><a href=\"https://ref.ly/Eph1:4\">EPH 1:4</a></strong></p>\n<h3>For the church</h3>\n<p><strong><a href=\"https://ref.ly/Eph5:25-Eph5:27\">EPH 5:25–5:27</a></strong></p>\n<h2>Imperfection is unacceptable in God's presence</h2>\n<h3>Sacrificial animals must be unblemished</h3>\n<p><strong><a href=\"https://ref.ly/Deut15:21\">DEU 15:21</a></strong>; <strong><a href=\"https://ref.ly/Mal1:8\">MAL 1:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:5\">EXO 12:5</a>; <a href=\"https://ref.ly/Lev22:20-Lev22:25\">LEV 22:20–22:25</a>; <a href=\"https://ref.ly/Num28:31\">NUM 28:31</a>; <a href=\"https://ref.ly/Deut17:1\">DEU 17:1</a></p>\n<h3>The priests must be physically perfect</h3>\n<p><strong><a href=\"https://ref.ly/Lev21:17-Lev21:23\">LEV 21:17–21:23</a></strong></p>\n<h3>Moral imperfection separates from God</h3>\n<p><strong><a href=\"https://ref.ly/Isa59:2\">ISA 59:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps66:18\">PSA 66:18</a>; <a href=\"https://ref.ly/Isa50:1\">ISA 50:1</a>, <a href=\"https://ref.ly/Isa64:7\">ISA 64:7</a>; <a href=\"https://ref.ly/1Cor6:9-1Cor6:10\">1CO 6:9–6:10</a>; <a href=\"https://ref.ly/Eph5:5\">EPH 5:5</a>; <a href=\"https://ref.ly/Heb10:26-Heb10:27\">HEB 10:26–10:27</a>; <a href=\"https://ref.ly/Rev21:27\">REV 21:27</a>, <a href=\"https://ref.ly/Rev22:15\">REV 22:15</a></p>\n<h2>God's people should strive against imperfection</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:48\">MAT 5:48</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen17:1\">GEN 17:1</a>; <a href=\"https://ref.ly/Deut18:13\">DEU 18:13</a>; <a href=\"https://ref.ly/Ps34:14\">PSA 34:14</a>; <a href=\"https://ref.ly/Rom12:9\">ROM 12:9</a>; <a href=\"https://ref.ly/2Cor13:11\">2CO 13:11</a>; <a href=\"https://ref.ly/Col1:28\">COL 1:28</a>, <a href=\"https://ref.ly/Col3:5\">COL 3:5</a>; <a href=\"https://ref.ly/1Thess5:22\">1TH 5:22</a>; <a href=\"https://ref.ly/2Tim2:19\">2TI 2:19</a>; <a href=\"https://ref.ly/Heb6:1\">HEB 6:1</a>, <a href=\"https://ref.ly/Heb12:14\">HEB 12:14</a>; <a href=\"https://ref.ly/2Pet3:14\">2PE 3:14</a></p>\n<h2>Imperfection will be dealt with at Jesus Christ's return</h2>\n<h3>Creation will be remade</h3>\n<p><strong><a href=\"https://ref.ly/Isa65:17\">ISA 65:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa66:22\">ISA 66:22</a>; <a href=\"https://ref.ly/Matt19:28\">MAT 19:28</a>; <a href=\"https://ref.ly/Rom8:19-Rom8:21\">ROM 8:19–8:21</a>; <a href=\"https://ref.ly/2Pet3:13\">2PE 3:13</a>; <a href=\"https://ref.ly/Rev21:1-Rev21:5\">REV 21:1–21:5</a></p>\n<h3>God's people will be perfected</h3>\n<p><strong><a href=\"https://ref.ly/1John3:2\">1JN 3:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil3:20-Phil3:21\">PHP 3:20–3:21</a></p>\n<h3>Evil will be removed</h3>\n<p><strong><a href=\"https://ref.ly/Rev21:4\">REV 21:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa25:8\">ISA 25:8</a>, <a href=\"https://ref.ly/Isa65:19\">ISA 65:19</a>; <a href=\"https://ref.ly/2Thess2:8\">2TH 2:8</a>; <a href=\"https://ref.ly/Rev20:10\">REV 20:10</a>, <a href=\"https://ref.ly/Rev21:8\">REV 21:8</a></p>",
@@ -337,6 +337,43 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9105: last things",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:James.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "James"
+},
+{
+"id": "person:James.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "James"
+},
+{
+"id": "person:James.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "James"
+},
+{
+"id": "person:John.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "John"
+},
+{
+"id": "person:James",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "James"
 }
 ]
 }

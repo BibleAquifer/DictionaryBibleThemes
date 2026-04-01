@@ -2,10 +2,10 @@
 {
 "content_id": "5054",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5054: responsibility, examples of",
 "media_type": "Text",
-"index_reference": "5054: responsibility, examples of",
+"index_reference": "5054",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture provides examples of individuals and situations in which responsibility is accepted, delegated or denied.</p>\n<h2>Examples of responsibility accepted</h2>\n<h3>Noah to build the ark</h3>\n<p><strong><a href=\"https://ref.ly/Gen6:13-Gen6:14\">GEN 6:13–6:14</a>, <a href=\"https://ref.ly/Gen6:22\">GEN 6:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb11:7\">HEB 11:7</a></p>\n<h3>Joseph over Potiphar's household</h3>\n<p><strong><a href=\"https://ref.ly/Gen39:4\">GEN 39:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen39:1-Gen39:6\">GEN 39:1–39:6</a></p>\n<h3>Joseph over the other prisoners</h3>\n<p><strong><a href=\"https://ref.ly/Gen39:22\">GEN 39:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen39:20-Gen39:23\">GEN 39:20–39:23</a></p>\n<h3>Joseph over the whole of Egypt</h3>\n<p><strong><a href=\"https://ref.ly/Gen41:39-Gen41:41\">GEN 41:39–41:41</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen41:55-Gen41:57\">GEN 41:55–41:57</a>, <a href=\"https://ref.ly/Gen45:8-Gen45:9\">GEN 45:8–45:9</a></p>\n<h3>Levites to be priests</h3>\n<p><strong><a href=\"https://ref.ly/Num3:5-Num3:7\">NUM 3:5–3:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num8:5-Num8:26\">NUM 8:5–8:26</a></p>\n<h3>Solomon, not David, to build the temple</h3>\n<p><a href=\"https://ref.ly/1Chr22:2-1Chr22:10\">1CH 22:2–22:10</a></p>\n<h3>Ezekiel to be a watchman</h3>\n<p><a href=\"https://ref.ly/Ezek3:16-Ezek3:21\">EZK 3:16–3:21</a></p>\n<h3>Jesus Christ in dying on the cross</h3>\n<p><strong><a href=\"https://ref.ly/Phil2:8\">PHP 2:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt26:39\">MAT 26:39</a>; <a href=\"https://ref.ly/John10:18\">JHN 10:18</a>; <a href=\"https://ref.ly/Rom5:19\">ROM 5:19</a></p>\n<h2>Examples of delegation of responsibility</h2>\n<h3>Moses chose leaders to judge</h3>\n<p><strong><a href=\"https://ref.ly/Exod18:24-Exod18:26\">EXO 18:24–18:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod18:13-Exod18:23\">EXO 18:13–18:23</a></p>\n<h3>The apostles delegated responsibility to seven men</h3>\n<p><strong><a href=\"https://ref.ly/Acts6:3\">ACT 6:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts6:1-Acts6:6\">ACT 6:1–6:6</a></p>\n<h3>Responsibility delegated to elders</h3>\n<p><strong><a href=\"https://ref.ly/Acts14:23\">ACT 14:23</a></strong></p>\n<h2>Examples of denial of responsibility</h2>\n<h3>Adam and Eve in eating the fruit</h3>\n<p><strong><a href=\"https://ref.ly/Gen3:11-Gen3:13\">GEN 3:11–3:13</a></strong> <em>God held them both responsible.</em></p>\n<h3>Aaron after making the golden calf</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Exod32:19-Exod32:24\">EXO 32:19–32:24</a></p>\n<h3>Saul after not destroying everything belonging to the Amalekites</h3>\n<p><a href=\"https://ref.ly/1Sam15:3\">1SA 15:3</a>, <a href=\"https://ref.ly/1Sam15:7-1Sam15:9\">1SA 15:7–15:9</a>, <a href=\"https://ref.ly/1Sam15:15\">1SA 15:15</a></p>\n<h3>Pilate after ordering Jesus Christ to be crucified</h3>\n<p><strong><a href=\"https://ref.ly/Matt27:24\">MAT 27:24</a></strong></p>\n<h3>Judas after betraying Jesus Christ</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Matt27:3-Matt27:5\">MAT 27:3–27:5</a></p>",
@@ -276,6 +276,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8452: neighbours, duty to",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Eltekeh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eltekeh"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5251",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5251: chains",
 "media_type": "Text",
-"index_reference": "5251: chains",
+"index_reference": "5251",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Used to hold people in captivity, both physically and spiritually, but also an emblem of honour and public office.</p>\n<h2>Chains as a means of physical restraint</h2>\n<p><strong><a href=\"https://ref.ly/Mark5:4\">MRK 5:4</a></strong> parallel <a href=\"https://ref.ly/Luke8:29\">LUK 8:29</a><strong><a href=\"https://ref.ly/Acts12:6-Acts12:7\">ACT 12:6–12:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs23:33\">2KI 23:33</a>; <a href=\"https://ref.ly/Jer40:1-Jer40:4\">JER 40:1–40:4</a>; <a href=\"https://ref.ly/Acts16:26\">ACT 16:26</a>, <a href=\"https://ref.ly/Acts21:33\">ACT 21:33</a>, <a href=\"https://ref.ly/Acts22:29\">ACT 22:29</a>, <a href=\"https://ref.ly/Acts26:29\">ACT 26:29</a>, <a href=\"https://ref.ly/Acts28:20\">ACT 28:20</a>; <a href=\"https://ref.ly/Eph6:20\">EPH 6:20</a>; <a href=\"https://ref.ly/Phil1:7\">PHP 1:7</a>, <a href=\"https://ref.ly/Phil1:13-Phil1:17\">PHP 1:13–1:17</a> <em>Paul in chains for Christ</em>; <a href=\"https://ref.ly/Col4:3\">COL 4:3</a>, <a href=\"https://ref.ly/Col4:18\">COL 4:18</a>; <a href=\"https://ref.ly/2Tim1:16\">2TI 1:16</a>, <a href=\"https://ref.ly/2Tim2:9\">2TI 2:9</a>; <a href=\"https://ref.ly/Phlm1:10\">PHM 1:10</a>, <a href=\"https://ref.ly/Phlm1:13\">PHM 1:13</a>; <a href=\"https://ref.ly/Heb11:36\">HEB 11:36</a></p>\n<h2>Chains as a metaphor of captivity</h2>\n<h3>Political bondage</h3>\n<p><strong><a href=\"https://ref.ly/Isa45:14\">ISA 45:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job36:8-Job36:9\">JOB 36:8–36:9</a>; <a href=\"https://ref.ly/Ps2:3\">PSA 2:3</a>, <a href=\"https://ref.ly/Ps107:10-Ps107:14\">PSA 107:10–107:14</a>; <a href=\"https://ref.ly/Isa28:22\">ISA 28:22</a>, <a href=\"https://ref.ly/Isa52:2\">ISA 52:2</a>; <a href=\"https://ref.ly/Ezek7:23\">EZK 7:23</a>; <a href=\"https://ref.ly/Nah3:10\">NAM 3:10</a></p>\n<h3>Spiritual bondage to sin</h3>\n<p><strong><a href=\"https://ref.ly/Ps116:16\">PSA 116:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa58:6-Isa58:10\">ISA 58:6–58:10</a>; <a href=\"https://ref.ly/Lam3:7\">LAM 3:7</a></p>\n<h3>God's binding of sinful angels</h3>\n<p><strong><a href=\"https://ref.ly/Jude1:6\">JUD 1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev20:1-Rev20:2\">REV 20:1–20:2</a></p>\n<h3>The domination of others</h3>\n<p><strong><a href=\"https://ref.ly/Eccl7:26\">ECC 7:26</a></strong></p>\n<h2>Chains as a form of ornament</h2>\n<h3>As emblems of honour or rank</h3>\n<p><strong><a href=\"https://ref.ly/Dan5:29\">DAN 5:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen41:42\">GEN 41:42</a>; <a href=\"https://ref.ly/Dan5:7\">DAN 5:7</a>, <a href=\"https://ref.ly/Dan5:16\">DAN 5:16</a></p>\n<h3>As a form of jewellery</h3>\n<p><strong><a href=\"https://ref.ly/Prov1:9\">PRO 1:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod28:22-Exod28:25\">EXO 28:22–28:25</a> <em>the high priest's breastplate</em>; <a href=\"https://ref.ly/Exod39:15-Exod39:18\">EXO 39:15–39:18</a>; <a href=\"https://ref.ly/Judg8:26\">JDG 8:26</a>; <a href=\"https://ref.ly/Isa3:20\">ISA 3:20</a></p>\n<h3>As adornment of idols</h3>\n<p><strong><a href=\"https://ref.ly/Isa40:19\">ISA 40:19</a></strong></p>\n<h3>As adornment of places of worship</h3>\n<p><strong><a href=\"https://ref.ly/2Chr3:16\">2CH 3:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod28:13-Exod28:14\">EXO 28:13–28:14</a>; <a href=\"https://ref.ly/1Kgs6:21\">1KI 6:21</a>, <a href=\"https://ref.ly/1Kgs7:17\">1KI 7:17</a>; <a href=\"https://ref.ly/2Chr3:5\">2CH 3:5</a></p>",
@@ -376,6 +376,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7446: slavery",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Chain",
+"type": "realia",
+"confidence": 0.5506,
+"match_method": "scored",
+"preferred_label": "Chain"
 }
 ]
 }

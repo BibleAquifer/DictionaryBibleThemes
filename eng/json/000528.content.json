@@ -2,10 +2,10 @@
 {
 "content_id": "4801",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4801: black",
 "media_type": "Text",
-"index_reference": "4801: black",
+"index_reference": "4801",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A dark colour often associated with impending judgment or with evil.</p>\n<h2>Black as descriptive of colour</h2>\n<p><strong><a href=\"https://ref.ly/Matt5:36\">MAT 5:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod10:15\">EXO 10:15</a> <em>the plague of locusts</em>; <a href=\"https://ref.ly/Lev11:13-Lev11:14\">LEV 11:13–11:14</a> parallel <a href=\"https://ref.ly/Deut14:12-Deut14:13\">DEU 14:12–14:13</a> <em>unclean food</em>; <a href=\"https://ref.ly/Lev13:31\">LEV 13:31</a>; <a href=\"https://ref.ly/Deut4:11\">DEU 4:11</a>; <a href=\"https://ref.ly/1Kgs18:45\">1KI 18:45</a>; <a href=\"https://ref.ly/Job28:3\">JOB 28:3</a>, <a href=\"https://ref.ly/Job30:28\">JOB 30:28</a>, <a href=\"https://ref.ly/Job30:30\">JOB 30:30</a>; <a href=\"https://ref.ly/Song5:11\">SNG 5:11</a>; <a href=\"https://ref.ly/Lam4:7-Lam4:8\">LAM 4:7–4:8</a>ZEC <a href=\"https://ref.ly/Lam6:2\">6:2</a>, <a href=\"https://ref.ly/Zech6:6\">ZEC 6:6</a>; <a href=\"https://ref.ly/Rev6:5\">REV 6:5</a>\n<a href=\"https://ref.ly/Rev6:12\">REV 6:12</a></p>\n<h2>Black as the opposite of light</h2>\n<p><strong><a href=\"https://ref.ly/Job3:5\">JOB 3:5</a></strong> <em>Job cursing the day of his birth.</em> <em>See also</em> <a href=\"https://ref.ly/Isa5:30\">ISA 5:30</a>, <a href=\"https://ref.ly/Isa45:7\">ISA 45:7</a>; <a href=\"https://ref.ly/Amos5:8\">AMO 5:8</a></p>\n<h2>Black in the setting of impending judgment</h2>\n<p><strong><a href=\"https://ref.ly/Joel2:2\">JOL 2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Amos8:9\">AMO 8:9</a>; <a href=\"https://ref.ly/Zeph1:15\">ZEP 1:15</a></p>\n<h2>Black as a symbol of evil</h2>\n<p><strong><a href=\"https://ref.ly/Job34:22\">JOB 34:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/John3:19\">JHN 3:19</a>; <a href=\"https://ref.ly/2Pet2:17\">2PE 2:17</a>; <a href=\"https://ref.ly/Jude1:13\">JUD 1:13</a></p>",
@@ -245,7 +245,8 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

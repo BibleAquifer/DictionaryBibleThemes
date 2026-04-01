@@ -2,10 +2,10 @@
 {
 "content_id": "7269",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7269: Zion",
 "media_type": "Text",
-"index_reference": "7269: zion",
+"index_reference": "7269",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The geographical and spiritual centre of life among God's people.</p>",
@@ -26,7 +26,8 @@
 "label": "7271: Zion, as a symbol",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

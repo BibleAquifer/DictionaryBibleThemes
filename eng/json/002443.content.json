@@ -2,10 +2,10 @@
 {
 "content_id": "8824",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8824: self-righteousness, nature of",
 "media_type": "Text",
-"index_reference": "8824: self-righteousness, nature of",
+"index_reference": "8824",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Self-righteousness fosters the sinful human illusions of sinlessness, sufficiency and freedom.</p>\n<h2>The claim to self-righteousness</h2>\n<p><strong><a href=\"https://ref.ly/Rom10:3\">ROM 10:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke10:29\">LUK 10:29</a>, <a href=\"https://ref.ly/Luke18:9\">LUK 18:9</a>; <a href=\"https://ref.ly/Phil3:4-Phil3:6\">PHP 3:4–3:6</a></p>\n<h2>The illusion of self-righteousness</h2>\n<h3>That people are sinless</h3>\n<p><strong><a href=\"https://ref.ly/1John1:8\">1JN 1:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov20:9\">PRO 20:9</a>; <a href=\"https://ref.ly/Hos12:8\">HOS 12:8</a></p>\n<h3>That people are guiltless</h3>\n<p><strong><a href=\"https://ref.ly/Prov16:2\">PRO 16:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer2:34-Jer2:35\">JER 2:34–2:35</a></p>\n<h3>That people are deserving</h3>\n<p><strong><a href=\"https://ref.ly/Deut9:4\">DEU 9:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek28:2\">EZK 28:2</a></p>\n<h2>The results of self-righteousness</h2>\n<h3>Self-deception</h3>\n<p><strong><a href=\"https://ref.ly/1John1:5-1John1:6\">1JN 1:5–1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov30:12\">PRO 30:12</a>; <a href=\"https://ref.ly/Jer17:9\">JER 17:9</a>; <a href=\"https://ref.ly/Matt23:23-Matt23:24\">MAT 23:23–23:24</a>, <a href=\"https://ref.ly/Matt23:27-Matt23:28\">MAT 23:27–23:28</a>; <a href=\"https://ref.ly/Luke16:15\">LUK 16:15</a>; <a href=\"https://ref.ly/Heb3:13\">HEB 3:13</a></p>\n<h3>A sense of superiority</h3>\n<p><strong><a href=\"https://ref.ly/Luke18:9-Luke18:11\">LUK 18:9–18:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil2:3\">PHP 2:3</a>; <a href=\"https://ref.ly/Col2:16-Col2:18\">COL 2:16–2:18</a></p>\n<h3>Separation from God</h3>\n<p><strong><a href=\"https://ref.ly/1John1:10\">1JN 1:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Zeph3:11\">ZEP 3:11</a>; <a href=\"https://ref.ly/2Cor10:18\">2CO 10:18</a>; <a href=\"https://ref.ly/Gal5:4\">GAL 5:4</a></p>\n<h2>Examples of self-righteousness</h2>\n<p><a href=\"https://ref.ly/Num16:3\">NUM 16:3</a> <em>some Israelites opposed to Moses</em>; ; <a href=\"https://ref.ly/1Sam15:13-1Sam15:21\">1SA 15:13–15:21</a> <em>Saul</em>; ; <a href=\"https://ref.ly/Ps10:5\">PSA 10:5</a> <em>the wicked</em>; <a href=\"https://ref.ly/Luke16:14\">LUK 16:14</a>, <a href=\"https://ref.ly/Luke18:9-Luke18:14\">LUK 18:9–18:14</a>; ; <a href=\"https://ref.ly/John9:39-John9:41\">JHN 9:39–9:41</a>; \n<a href=\"https://ref.ly/Rev3:17-Rev3:18\">REV 3:17–3:18</a> <em>the church at Laodicea</em></p>",
@@ -260,6 +260,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8822: self-justification",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:ThreshingFloor",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Threshing Floor"
 }
 ]
 }

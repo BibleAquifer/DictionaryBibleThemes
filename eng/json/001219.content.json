@@ -2,10 +2,10 @@
 {
 "content_id": "5673",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5673: cousins",
 "media_type": "Text",
-"index_reference": "5673: cousins",
+"index_reference": "5673",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Marriage to cousins</h2>\n<p><strong><a href=\"https://ref.ly/Num36:11\">NUM 36:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr23:22\">1CH 23:22</a></p>\n<h2>Family responsibilities undertaken by cousins where there were no closer relatives</h2>\n<p><strong><a href=\"https://ref.ly/Esth2:7\">EST 2:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev25:47-Lev25:49\">LEV 25:47–25:49</a>; <a href=\"https://ref.ly/Jer32:6-Jer32:12\">JER 32:6–32:12</a></p>\n<h2>Cousins mentioned in Scripture</h2>\n<p><strong><a href=\"https://ref.ly/Col4:10\">COL 4:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev10:4\">LEV 10:4</a></p>",
@@ -69,7 +69,8 @@
 "label": "5711: marriage, restrictions concerning",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

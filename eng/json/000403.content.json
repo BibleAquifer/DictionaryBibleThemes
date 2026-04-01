@@ -2,10 +2,10 @@
 {
 "content_id": "4339",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4339: ivory",
 "media_type": "Text",
-"index_reference": "4339: ivory",
+"index_reference": "4339",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Ivory, a semiprecious substance derived from elephant tusks, was procured through trade</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs10:22\">1KI 10:22</a></strong> parallel <a href=\"https://ref.ly/2Chr9:21\">2CH 9:21</a> <em>See also</em> <a href=\"https://ref.ly/Ezek27:15\">EZK 27:15</a>; <a href=\"https://ref.ly/Rev18:11-Rev18:13\">REV 18:11–18:13</a></p>\n<h2>Articles inlaid with ivory were a sign of wealth</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs10:18\">1KI 10:18</a></strong> parallel <a href=\"https://ref.ly/2Chr9:17\">2CH 9:17</a> <em>See also</em> <a href=\"https://ref.ly/1Kgs22:39\">1KI 22:39</a>; <a href=\"https://ref.ly/Ps45:8\">PSA 45:8</a>; <a href=\"https://ref.ly/Ezek27:6\">EZK 27:6</a>; <a href=\"https://ref.ly/Amos3:15\">AMO 3:15</a>, <a href=\"https://ref.ly/Amos6:4\">AMO 6:4</a></p>\n<h2>The metaphorical use of ivory</h2>\n<p><strong><a href=\"https://ref.ly/Song5:14\">SNG 5:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song7:4\">SNG 7:4</a></p>",
@@ -126,7 +126,8 @@
 "label": "5587: trade",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

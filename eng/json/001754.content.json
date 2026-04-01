@@ -2,10 +2,10 @@
 {
 "content_id": "7263",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7263: theocracy",
 "media_type": "Text",
-"index_reference": "7263: theocracy",
+"index_reference": "7263",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The form of government among the early Israelites in which God was their supreme ruler, and his laws their laws.</p>\n<h2>The covenant at Sinai established the theocracy</h2>\n<p><strong><a href=\"https://ref.ly/Exod19:5-Exod19:6\">EXO 19:5–19:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod19:8\">EXO 19:8</a>, <a href=\"https://ref.ly/Exod24:3\">EXO 24:3</a>, <a href=\"https://ref.ly/Exod24:7-Exod24:8\">EXO 24:7–24:8</a>; <a href=\"https://ref.ly/Deut5:27\">DEU 5:27</a></p>\n<h2>Moses and Joshua renewed the theocratic covenant</h2>\n<p><a href=\"https://ref.ly/Deut26:16-Deut26:19\">DEU 26:16–26:19</a>, <a href=\"https://ref.ly/Deut29:9-Deut29:15\">DEU 29:9–29:15</a>; ; <a href=\"https://ref.ly/Josh24:24-Josh24:25\">JOS 24:24–24:25</a></p>\n<h2>Under the theocracy God was the Israelites' supreme ruler</h2>\n<p><strong><a href=\"https://ref.ly/Deut33:5\">DEU 33:5</a></strong> <em>“Jeshurun” means “the upright one”, i.e., Israel.</em> <em>See also</em> <a href=\"https://ref.ly/Num23:21\">NUM 23:21</a>; <a href=\"https://ref.ly/Deut33:26\">DEU 33:26</a>; <a href=\"https://ref.ly/Judg8:23\">JDG 8:23</a>; <a href=\"https://ref.ly/Ps145:1\">PSA 145:1</a></p>\n<h2>In the theocracy Israel was governed by God's laws</h2>\n<p><a href=\"https://ref.ly/Exod20:1-Exod20:17\">EXO 20:1–20:17</a> parallel <a href=\"https://ref.ly/Deut5:6-Deut5:21\">DEU 5:6–5:21</a>; ; <a href=\"https://ref.ly/Exod21:1\">EXO 21:1</a>; ; <a href=\"https://ref.ly/Deut4:1-Deut4:2\">DEU 4:1–4:2</a>, <a href=\"https://ref.ly/Deut4:13-Deut4:14\">DEU 4:13–4:14</a>, <a href=\"https://ref.ly/Deut17:18-Deut17:19\">DEU 17:18–17:19</a>, <a href=\"https://ref.ly/Deut31:12-Deut31:13\">DEU 31:12–31:13</a>; ; <a href=\"https://ref.ly/Josh1:7-Josh1:8\">JOS 1:7–1:8</a></p>\n<h2>Israel rejected the theocracy</h2>\n<p><strong><a href=\"https://ref.ly/1Sam8:7\">1SA 8:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam8:19\">1SA 8:19</a>, <a href=\"https://ref.ly/1Sam10:19\">1SA 10:19</a>, <a href=\"https://ref.ly/1Sam12:12\">1SA 12:12</a></p>",
@@ -211,6 +211,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5375: law",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Naam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Naam"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "6722",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6722: redemption, in OT",
 "media_type": "Text",
-"index_reference": "6722: redemption, in ot",
+"index_reference": "6722",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The act of God by which he delivered his people from bondage. The exodus of Israel from Egypt and the later deliverance of Jerusalem from exile in Babylon are seen as definitive examples of God's redeeming acts.</p>\n<h2>God is the Redeemer of his people</h2>\n<h3>God redeems his people from captivity out of love</h3>\n<p><strong><a href=\"https://ref.ly/Deut7:8\">DEU 7:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod6:6-Exod6:8\">EXO 6:6–6:8</a>, <a href=\"https://ref.ly/Exod15:13\">EXO 15:13</a>; <a href=\"https://ref.ly/Ps130:7-Ps130:8\">PSA 130:7–130:8</a>; <a href=\"https://ref.ly/Isa43:14\">ISA 43:14</a>, <a href=\"https://ref.ly/Isa47:1-Isa47:4\">ISA 47:1–47:4</a>, <a href=\"https://ref.ly/Isa63:16\">ISA 63:16</a>; <a href=\"https://ref.ly/Jer15:21\">JER 15:21</a>, <a href=\"https://ref.ly/Jer31:11\">JER 31:11</a>, <a href=\"https://ref.ly/Jer50:34\">JER 50:34</a></p>\n<h3>His redemption guarantees security</h3>\n<p><strong><a href=\"https://ref.ly/Isa43:1-Isa43:4\">ISA 43:1–43:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa44:21-Isa44:28\">ISA 44:21–44:28</a>, <a href=\"https://ref.ly/Isa48:20\">ISA 48:20</a>, <a href=\"https://ref.ly/Isa49:7\">ISA 49:7</a>, <a href=\"https://ref.ly/Isa49:22-Isa49:26\">ISA 49:22–49:26</a>, <a href=\"https://ref.ly/Isa52:9-Isa52:12\">ISA 52:9–52:12</a></p>\n<h3>He redeems from death</h3>\n<p><strong><a href=\"https://ref.ly/Ps49:15\">PSA 49:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job5:20\">JOB 5:20</a>, <a href=\"https://ref.ly/Job19:25-Job19:26\">JOB 19:25–19:26</a>; <a href=\"https://ref.ly/Hos13:14\">HOS 13:14</a></p>\n<h3>His redemption is associated with his holiness</h3>\n<p><strong><a href=\"https://ref.ly/Isa41:14\">ISA 41:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa43:14\">ISA 43:14</a>, <a href=\"https://ref.ly/Isa47:4\">ISA 47:4</a>, <a href=\"https://ref.ly/Isa48:17\">ISA 48:17</a>, <a href=\"https://ref.ly/Isa49:7\">ISA 49:7</a>, <a href=\"https://ref.ly/Isa54:5\">ISA 54:5</a></p>\n<h3>He redeems by his mighty arm</h3>\n<p><strong><a href=\"https://ref.ly/Luke1:51\">LUK 1:51</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut11:2\">DEU 11:2</a>; <a href=\"https://ref.ly/Ps89:10\">PSA 89:10</a>, <a href=\"https://ref.ly/Ps77:15\">PSA 77:15</a>; <a href=\"https://ref.ly/Isa62:8\">ISA 62:8</a></p>",
@@ -263,6 +263,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7446: slavery",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Dan",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dan"
 }
 ]
 }

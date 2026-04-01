@@ -2,10 +2,10 @@
 {
 "content_id": "2515",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "2515: Jesus Christ, birth of",
 "media_type": "Text",
-"index_reference": "2515: jesus christ, birth of",
+"index_reference": "2515",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Jesus Christ was born to a poor unmarried Jewish couple in the village of Bethlehem. As Son of God, he was conceived by the Holy Spirit in the womb of his mother Mary.</p>\n<h2>Jesus Christ's birth is prophesied in the OT</h2>\n<h3>The prophecy of a coming ruler</h3>\n<p><strong><a href=\"https://ref.ly/Isa9:6-Isa9:7\">ISA 9:6–9:7</a></strong></p>\n<h3>The prophecy of a virgin's son</h3>\n<p><strong><a href=\"https://ref.ly/Isa7:14\">ISA 7:14</a></strong></p>\n<h3>The prophecy concerning his birthplace</h3>\n<p><strong><a href=\"https://ref.ly/Mic5:2\">MIC 5:2</a></strong> <em>“Bethlehem Ephrathah” is the village where David grew up (“the town of David”).</em></p>\n<h2>Jesus Christ was conceived by the Holy Spirit and born of a virgin</h2>\n<p><strong><a href=\"https://ref.ly/Matt1:18\">MAT 1:18</a>, <a href=\"https://ref.ly/Matt1:23\">MAT 1:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt1:20\">MAT 1:20</a>; <a href=\"https://ref.ly/Luke1:34-Luke1:35\">LUK 1:34–1:35</a></p>\n<h2>Jesus Christ's incarnation</h2>\n<p><strong><a href=\"https://ref.ly/John1:14\">JHN 1:14</a></strong>; <strong><a href=\"https://ref.ly/Gal4:4\">GAL 4:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:3\">ROM 8:3</a>; <a href=\"https://ref.ly/2Cor8:9\">2CO 8:9</a>; <a href=\"https://ref.ly/Phil2:7-Phil2:8\">PHP 2:7–2:8</a>; <a href=\"https://ref.ly/1Tim3:16\">1TI 3:16</a>; <a href=\"https://ref.ly/1John4:2\">1JN 4:2</a></p>\n<h2>The circumstances of Jesus Christ's birth</h2>\n<h3>An angel informs Mary that she is to be the mother of the Messiah</h3>\n<p><strong><a href=\"https://ref.ly/Luke1:26-Luke1:38\">LUK 1:26–1:38</a></strong></p>\n<h3>Mary responds in praise</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Luke1:46-Luke1:55\">LUK 1:46–1:55</a></p>\n<h3>An angel explains to Joseph why Mary's baby is so special</h3>\n<p><strong><a href=\"https://ref.ly/Matt1:18-Matt1:25\">MAT 1:18–1:25</a></strong></p>\n<h3>The birth of Jesus Christ takes place</h3>\n<p><strong><a href=\"https://ref.ly/Luke2:1-Luke2:7\">LUK 2:1–2:7</a></strong></p>\n<h3>Angels announce Jesus Christ's birth to some shepherds</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Luke2:8-Luke2:20\">LUK 2:8–2:20</a></p>\n<h3>The Magi search for Jesus Christ's birthplace and Herod tries to kill him</h3>\n<p><a href=\"https://ref.ly/Matt2:1-Matt2:18\">MAT 2:1–2:18</a> <em>These events could have taken place at any time in Jesus Christ's first two years.</em></p>",
@@ -217,7 +217,8 @@
 "label": "5099: Mary, mother of Jesus Christ",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

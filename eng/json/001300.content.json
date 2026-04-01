@@ -2,10 +2,10 @@
 {
 "content_id": "5777",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5777: admonition",
 "media_type": "Text",
-"index_reference": "5777: admonition",
+"index_reference": "5777",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A loving attempt to correct another's attitude or behaviour. Christians are to admonish fellow believers.</p>\n<h2>The prophets admonished Israel</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs17:13\">2KI 17:13</a></strong>; <strong><a href=\"https://ref.ly/Neh9:29-Neh9:30\">NEH 9:29–9:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg6:7-Judg6:10\">JDG 6:7–6:10</a>; <a href=\"https://ref.ly/Mal2:1-Mal2:4\">MAL 2:1–2:4</a></p>\n<h2>Parents are to admonish their children</h2>\n<p><strong><a href=\"https://ref.ly/Prov22:6\">PRO 22:6</a></strong>; <strong><a href=\"https://ref.ly/Eph6:4\">EPH 6:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:19\">GEN 18:19</a>; <a href=\"https://ref.ly/Deut11:19\">DEU 11:19</a>; <a href=\"https://ref.ly/Prov13:24\">PRO 13:24</a>, <a href=\"https://ref.ly/Prov19:18\">PRO 19:18</a>, <a href=\"https://ref.ly/Prov22:15\">PRO 22:15</a>, <a href=\"https://ref.ly/Prov23:13\">PRO 23:13</a></p>\n<h2>Leaders are to admonish those in their care</h2>\n<p><strong><a href=\"https://ref.ly/2Tim4:2\">2TI 4:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor4:14\">1CO 4:14</a>; <a href=\"https://ref.ly/Col1:28\">COL 1:28</a>; <a href=\"https://ref.ly/1Thess5:12\">1TH 5:12</a>; <a href=\"https://ref.ly/Titus2:15\">TIT 2:15</a>, <a href=\"https://ref.ly/Titus3:10\">TIT 3:10</a></p>\n<h2>Christians are to admonish fellow believers</h2>\n<p><strong><a href=\"https://ref.ly/Col3:16\">COL 3:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps141:5\">PSA 141:5</a>; <a href=\"https://ref.ly/Luke17:3\">LUK 17:3</a>; <a href=\"https://ref.ly/Rom15:14\">ROM 15:14</a>; <a href=\"https://ref.ly/1Thess5:14\">1TH 5:14</a>; <a href=\"https://ref.ly/2Tim3:16\">2TI 3:16</a></p>\n<h2>It is wise to accept legitimate admonition</h2>\n<p><strong><a href=\"https://ref.ly/Prov13:18\">PRO 13:18</a>, <a href=\"https://ref.ly/Prov25:12\">PRO 25:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov15:5\">PRO 15:5</a>; <a href=\"https://ref.ly/Eccl7:5\">ECC 7:5</a>; <a href=\"https://ref.ly/Jer2:30\">JER 2:30</a>, <a href=\"https://ref.ly/Jer5:3\">JER 5:3</a>, <a href=\"https://ref.ly/Jer7:28\">JER 7:28</a>; <a href=\"https://ref.ly/Zeph3:1-Zeph3:2\">ZEP 3:1–3:2</a>, <a href=\"https://ref.ly/Zeph3:7-Zeph3:8\">ZEP 3:7–3:8</a></p>",
@@ -294,6 +294,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8232: discipline, in the family",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Helek",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Helek"
 }
 ]
 }

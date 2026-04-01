@@ -2,10 +2,10 @@
 {
 "content_id": "5515",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5515: scroll",
 "media_type": "Text",
-"index_reference": "5515: scroll",
+"index_reference": "5515",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A long strip of leather or papyrus on which people wrote.</p>\n<h2>Writing on a scroll</h2>\n<p><a href=\"https://ref.ly/Exod17:14\">EXO 17:14</a>; ; <a href=\"https://ref.ly/Num5:23\">NUM 5:23</a>; ; <a href=\"https://ref.ly/Deut17:18\">DEU 17:18</a>; ; <a href=\"https://ref.ly/Ezra6:2\">EZR 6:2</a>; ; <a href=\"https://ref.ly/Ps40:7\">PSA 40:7</a>; ; <a href=\"https://ref.ly/Isa30:8\">ISA 30:8</a>; ; <a href=\"https://ref.ly/Jer36:2\">JER 36:2</a>, <a href=\"https://ref.ly/Jer36:4\">JER 36:4</a>, <a href=\"https://ref.ly/Jer36:18\">JER 36:18</a>; ; <a href=\"https://ref.ly/Luke4:17\">LUK 4:17</a>; ; <a href=\"https://ref.ly/Heb10:7\">HEB 10:7</a>; ; <a href=\"https://ref.ly/Rev1:11\">REV 1:11</a></p>\n<h3>With a pen</h3>\n<p><a href=\"https://ref.ly/Isa8:1\">ISA 8:1</a></p>\n<h3>In ink</h3>\n<p><a href=\"https://ref.ly/Jer36:18\">JER 36:18</a></p>\n<h3>In columns</h3>\n<p><a href=\"https://ref.ly/Jer36:23\">JER 36:23</a></p>\n<h3>A scroll written on both sides was unusual</h3>\n<p>These references indicate a saturation of the scroll with words of God's judgment:\n <a href=\"https://ref.ly/Ezek2:9-Ezek2:10\">EZK 2:9–2:10</a>; ; <a href=\"https://ref.ly/Zech5:2-Zech5:3\">ZEC 5:2–5:3</a>; ; <a href=\"https://ref.ly/Rev5:1\">REV 5:1</a></p>\n<h2>A scroll was often sealed to protect its contents</h2>\n<p><a href=\"https://ref.ly/Isa29:11\">ISA 29:11</a>; ; <a href=\"https://ref.ly/Dan12:4\">DAN 12:4</a>; ; <a href=\"https://ref.ly/Rev5:1-Rev5:2\">REV 5:1–5:2</a>, <a href=\"https://ref.ly/Rev5:9\">REV 5:9</a></p>\n<h2>Scrolls were of various sizes</h2>\n<p><a href=\"https://ref.ly/Isa8:1\">ISA 8:1</a>; ; <a href=\"https://ref.ly/Rev10:2\">REV 10:2</a></p>\n<h2>Unrolling and rolling up a scroll</h2>\n<p><a href=\"https://ref.ly/Ezek2:9-Ezek2:10\">EZK 2:9–2:10</a>; ; <a href=\"https://ref.ly/Luke4:17\">LUK 4:17</a>, <a href=\"https://ref.ly/Luke4:20\">LUK 4:20</a>; <a href=\"https://ref.ly/Isa34:4\">ISA 34:4</a>; ; <a href=\"https://ref.ly/Rev6:14\">REV 6:14</a></p>\n<h2>A scroll may represent the word of God</h2>\n<p><a href=\"https://ref.ly/Rev10:2\">REV 10:2</a>; <a href=\"https://ref.ly/Ezek2:9-Ezek3:4\">EZK 2:9–3:4</a>; ; <a href=\"https://ref.ly/Rev10:8-Rev10:10\">REV 10:8–10:10</a></p>\n<h2>A scroll may represent the revelation of God's purposes</h2>\n<p><a href=\"https://ref.ly/Rev5:1-Rev5:5\">REV 5:1–5:5</a></p>",
@@ -257,6 +257,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9420: book of life",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Goshen.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goshen"
+},
+{
+"id": "place:Goshen",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Goshen"
+},
+{
+"id": "realia:Scroll",
+"type": "realia",
+"confidence": 0.8263,
+"match_method": "scored",
+"preferred_label": "Scroll"
 }
 ]
 }

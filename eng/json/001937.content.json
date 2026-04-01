@@ -2,10 +2,10 @@
 {
 "content_id": "7781",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7781: seer",
 "media_type": "Text",
-"index_reference": "7781: seer",
+"index_reference": "7781",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Seer as an alternative title for a prophet</h2>\n<p><strong><a href=\"https://ref.ly/1Sam9:9\">1SA 9:9</a></strong> <em>Literally, a “seer” is “one who sees”, especially one who claims to see into the future or to have insight into the will of God.</em> <em>See also</em> <a href=\"https://ref.ly/2Sam24:11\">2SA 24:11</a> parallel <a href=\"https://ref.ly/1Chr21:9\">1CH 21:9</a></p>\n<h2>Seers used by people to enquire of God</h2>\n<p><strong><a href=\"https://ref.ly/1Sam9:8-1Sam9:9\">1SA 9:8–9:9</a></strong></p>\n<h3>David had seers to enquire of God for him</h3>\n<p><strong><a href=\"https://ref.ly/1Chr25:1-1Chr25:5\">1CH 25:1–25:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam24:11\">2SA 24:11</a> parallel <a href=\"https://ref.ly/1Chr21:9\">1CH 21:9</a>; <a href=\"https://ref.ly/2Sam15:27\">2SA 15:27</a>; <a href=\"https://ref.ly/2Chr29:25\">2CH 29:25</a>, <a href=\"https://ref.ly/2Chr35:15\">2CH 35:15</a></p>\n<h2>Seers were used by God to bring his word to the people</h2>\n<p><a href=\"https://ref.ly/2Kgs17:13\">2KI 17:13</a></p>\n<h2>Seers were used by God to bring his word to the king</h2>\n<p><a href=\"https://ref.ly/2Chr16:7-2Chr16:10\">2CH 16:7–16:10</a>, <a href=\"https://ref.ly/2Chr33:18\">2CH 33:18</a></p>\n<h2>The words of a seer were sometimes unwelcome</h2>\n<p><a href=\"https://ref.ly/2Chr16:7-2Chr16:10\">2CH 16:7–16:10</a>; ; <a href=\"https://ref.ly/Isa30:10\">ISA 30:10</a>; ; <a href=\"https://ref.ly/Amos7:12-Amos7:13\">AMO 7:12–7:13</a></p>\n<h2>Samuel was called a seer</h2>\n<p><a href=\"https://ref.ly/1Sam9:11-1Sam9:14\">1SA 9:11–9:14</a>, <a href=\"https://ref.ly/1Sam9:18-1Sam9:19\">1SA 9:18–9:19</a>; ; <a href=\"https://ref.ly/1Chr9:22\">1CH 9:22</a>, <a href=\"https://ref.ly/1Chr26:28\">1CH 26:28</a>, <a href=\"https://ref.ly/1Chr29:29\">1CH 29:29</a></p>\n<h2>Asaph, the psalmist, called a seer</h2>\n<p><a href=\"https://ref.ly/2Chr29:30\">2CH 29:30</a></p>\n<h2>Seers wrote Israel's history</h2>\n<p><strong><a href=\"https://ref.ly/2Chr33:18-2Chr33:19\">2CH 33:18–33:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr29:29\">1CH 29:29</a>; <a href=\"https://ref.ly/2Chr9:29\">2CH 9:29</a>, <a href=\"https://ref.ly/2Chr12:15\">2CH 12:15</a></p>\n<h2>God judges Israel by blinding the seers</h2>\n<p><a href=\"https://ref.ly/Isa29:10\">ISA 29:10</a>; ; <a href=\"https://ref.ly/Mic3:7\">MIC 3:7</a></p>",
@@ -220,7 +220,8 @@
 "label": "8648: enquiring of God",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

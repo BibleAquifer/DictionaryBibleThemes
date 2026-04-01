@@ -2,10 +2,10 @@
 {
 "content_id": "3000",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3000: Holy Spirit",
 "media_type": "Text",
-"index_reference": "3000: holy spirit",
+"index_reference": "3000",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"3005\" data-resourcetype=\"DictionaryOfBibleThemes\">3005: Holy Spirit, qualities of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"3100\" data-resourcetype=\"DictionaryOfBibleThemes\">3100: Holy Spirit, titles and descriptions of</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"3200\" data-resourcetype=\"DictionaryOfBibleThemes\">3200: Holy Spirit, ministry and work of</span></li></ul>",
@@ -33,7 +33,8 @@
 "label": "3200: Holy Spirit, ministry and work of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

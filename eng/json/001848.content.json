@@ -2,10 +2,10 @@
 {
 "content_id": "7456",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7456: synagogue",
 "media_type": "Text",
-"index_reference": "7456: synagogue",
+"index_reference": "7456",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A word meaning literally “a gathering together”. In the NT it sometimes refers to a group of Jews meeting for worship but most often to the building in which they met.</p>\n<h2>Synagogue worship may have begun during the exile</h2>\n<p><strong><a href=\"https://ref.ly/Ezek14:1\">EZK 14:1</a></strong> <em>Unable to sacrifice in the temple, the community met together with spiritual leaders.</em> <em>See also</em> <a href=\"https://ref.ly/Ezek20:1\">EZK 20:1</a></p>\n<h2>A synagogue might be established anywhere</h2>\n<p><strong><a href=\"https://ref.ly/Mark1:21\">MRK 1:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts6:9\">ACT 6:9</a> <em>in Jerusalem</em><a href=\"https://ref.ly/Acts16:12-Acts16:13\">ACT 16:12–16:13</a>, <a href=\"https://ref.ly/Acts16:16\">ACT 16:16</a>\n<a href=\"https://ref.ly/Acts17:1\">ACT 17:1</a>, <a href=\"https://ref.ly/Acts17:10\">ACT 17:10</a>, <a href=\"https://ref.ly/Acts18:19\">ACT 18:19</a></p>\n<h2>The role of the synagogue</h2>\n<h3>It was a focus for prayer and the reading of Scripture</h3>\n<p><strong><a href=\"https://ref.ly/Acts13:15\">ACT 13:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh8:2-Neh8:8\">NEH 8:2–8:8</a>, <a href=\"https://ref.ly/Neh9:3\">NEH 9:3</a>; <a href=\"https://ref.ly/Luke4:15-Luke4:33\">LUK 4:15–4:33</a></p>\n<h3>It was a centre for community affairs</h3>\n<p><a href=\"https://ref.ly/Matt10:17\">MAT 10:17</a>; ; <a href=\"https://ref.ly/Mark13:9\">MRK 13:9</a>; ; <a href=\"https://ref.ly/Luke12:11\">LUK 12:11</a></p>\n<h3>Exclusion from the synagogue was used as a punishment</h3>\n<p><a href=\"https://ref.ly/John9:22\">JHN 9:22</a>, <a href=\"https://ref.ly/John12:42\">JHN 12:42</a></p>\n<h2>The leading of synagogue worship</h2>\n<h3>It was the responsibility of the synagogue ruler</h3>\n<p><a href=\"https://ref.ly/Mark5:22\">MRK 5:22</a>; ; <a href=\"https://ref.ly/Acts18:8\">ACT 18:8</a></p>\n<h3>Qualified laymen were allowed to teach</h3>\n<p><strong><a href=\"https://ref.ly/Luke4:16\">LUK 4:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts13:15\">ACT 13:15</a></p>\n<h2>Attendance at the synagogue</h2>\n<h3>It was the practice of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Matt9:35\">MAT 9:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark6:2\">MRK 6:2</a>; <a href=\"https://ref.ly/Luke4:16\">LUK 4:16</a>; <a href=\"https://ref.ly/John6:59\">JHN 6:59</a></p>\n<h3>It was the practice of Paul and other Jewish Christians</h3>\n<p><strong><a href=\"https://ref.ly/Acts9:19-Acts9:20\">ACT 9:19–9:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts14:1-Acts14:2\">ACT 14:1–14:2</a>, <a href=\"https://ref.ly/Acts17:2\">ACT 17:2</a>, <a href=\"https://ref.ly/Acts19:8\">ACT 19:8</a></p>\n<h3>The first Christians continued to worship in the synagogues</h3>\n<p><a href=\"https://ref.ly/Luke24:53\">LUK 24:53</a>; ; <a href=\"https://ref.ly/Acts19:8-Acts19:9\">ACT 19:8–19:9</a></p>",
@@ -241,6 +241,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8626: worship, places of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Synagogue",
+"type": "realia",
+"confidence": 0.6653,
+"match_method": "scored",
+"preferred_label": "Synagogue"
 }
 ]
 }

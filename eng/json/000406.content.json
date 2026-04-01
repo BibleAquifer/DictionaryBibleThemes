@@ -2,10 +2,10 @@
 {
 "content_id": "4348",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4348: mining",
 "media_type": "Text",
-"index_reference": "4348: mining",
+"index_reference": "4348",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Metal ores and precious stones mined from the earth</h2>\n<p><strong><a href=\"https://ref.ly/Job28:1-Job28:11\">JOB 28:1–28:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut8:7-Deut8:9\">DEU 8:7–8:9</a>; <a href=\"https://ref.ly/1Kgs7:13-1Kgs7:50\">1KI 7:13–7:50</a></p>",
@@ -114,6 +114,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4372: tin",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:BrookOfTheArabah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Brook of the Arabah"
 }
 ]
 }

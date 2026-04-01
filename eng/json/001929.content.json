@@ -2,10 +2,10 @@
 {
 "content_id": "7769",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7769: priests, types of in NT times",
 "media_type": "Text",
-"index_reference": "7769: priests, types of in nt times",
+"index_reference": "7769",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The NT points to the fulfilment of the OT priesthood in Jesus Christ, and develops the idea that all Christian believers can be seen as priests. It also records the continuing role of priests in the life of Israel and pagan nations at this time.</p>\n<h2>Pagan priests</h2>\n<p><strong><a href=\"https://ref.ly/Acts14:13\">ACT 14:13</a></strong></p>\n<h2>Jewish priests</h2>\n<h3>The chief priests</h3>\n<p><strong><a href=\"https://ref.ly/Matt16:21\">MAT 16:21</a></strong></p>\n<h3>The Sadducees</h3>\n<p><strong><a href=\"https://ref.ly/Acts5:17\">ACT 5:17</a></strong> <em>The Sadducees were a conservative party composed entirely of priests who were influential in the Sanhedrin.</em></p>\n<h3>Zechariah</h3>\n<p><strong><a href=\"https://ref.ly/Luke1:5\">LUK 1:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr24:10\">1CH 24:10</a></p>\n<h3>Emissaries to John the Baptist</h3>\n<p><strong><a href=\"https://ref.ly/John1:19\">JHN 1:19</a></strong> <em>Levites were closely associated with priests as temple personnel, perhaps mentioned here because of their teaching function.</em> <em>See also</em> <a href=\"https://ref.ly/2Chr35:3\">2CH 35:3</a>; <a href=\"https://ref.ly/Neh8:7-Neh8:9\">NEH 8:7–8:9</a>; <a href=\"https://ref.ly/Luke10:31-Luke10:32\">LUK 10:31–10:32</a></p>\n<h2>Jesus Christ as high priest</h2>\n<p><strong><a href=\"https://ref.ly/Heb8:1-Heb8:2\">HEB 8:1–8:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb4:14-Heb4:16\">HEB 4:14–4:16</a></p>\n<h2>Christians as priests</h2>\n<p><strong><a href=\"https://ref.ly/Rev1:5-Rev1:6\">REV 1:5–1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Pet2:5\">1PE 2:5</a>, <a href=\"https://ref.ly/1Pet2:9\">1PE 2:9</a>; <a href=\"https://ref.ly/Rev5:10\">REV 5:10</a>, <a href=\"https://ref.ly/Rev20:6\">REV 20:6</a></p>",
@@ -165,7 +165,8 @@
 "label": "8266: holiness",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

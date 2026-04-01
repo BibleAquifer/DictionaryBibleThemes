@@ -2,10 +2,10 @@
 {
 "content_id": "5261",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5261: commander",
 "media_type": "Text",
-"index_reference": "5261: commander",
+"index_reference": "5261",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A general term referring to a senior military officer in charge of soldiers.</p>\n<h2>Commanders of various ranks</h2>\n<h3>Supreme commander</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/2Kgs18:17\">2KI 18:17</a></p>\n<h3>Field commander</h3>\n<p><a href=\"https://ref.ly/Isa36:2\">ISA 36:2</a></p>\n<h3>Provincial commander</h3>\n<p><a href=\"https://ref.ly/1Kgs20:14\">1KI 20:14</a></p>\n<h3>Commander of captains</h3>\n<p><a href=\"https://ref.ly/2Chr8:9\">2CH 8:9</a></p>\n<h3>Commander of the citadel</h3>\n<p><a href=\"https://ref.ly/Neh7:2\">NEH 7:2</a></p>\n<h2>Commanders over various numbers of men</h2>\n<p><a href=\"https://ref.ly/Deut1:15\">DEU 1:15</a>; ; <a href=\"https://ref.ly/Num31:14\">NUM 31:14</a></p>\n<h2>Commanders serving under various rulers</h2>\n<p><a href=\"https://ref.ly/Gen21:22\">GEN 21:22</a> <em>Abimelech</em>; ; <a href=\"https://ref.ly/Judg4:2\">JDG 4:2</a> <em>Jabin</em>; ; <a href=\"https://ref.ly/1Sam14:50\">1SA 14:50</a> <em>Saul</em>; ; <a href=\"https://ref.ly/2Kgs5:1\">2KI 5:1</a> <em>the king of Aram</em>; ; <a href=\"https://ref.ly/2Kgs11:4\">2KI 11:4</a> <em>Jehoiada</em>; ; <a href=\"https://ref.ly/2Kgs25:8\">2KI 25:8</a> <em>Nebuchadnezzar</em>; <a href=\"https://ref.ly/1Chr11:6\">1CH 11:6</a>, <a href=\"https://ref.ly/1Chr12:8\">1CH 12:8</a>, <a href=\"https://ref.ly/1Chr12:14\">1CH 12:14</a>, <a href=\"https://ref.ly/1Chr15:25\">1CH 15:25</a>, <a href=\"https://ref.ly/1Chr25:1\">1CH 25:1</a>, <a href=\"https://ref.ly/1Chr28:1\">1CH 28:1</a>; \n<a href=\"https://ref.ly/2Chr1:2\">2CH 1:2</a> <em>Solomon</em>; ; <a href=\"https://ref.ly/Mark6:21\">MRK 6:21</a> <em>Herod</em></p>\n<h2>The commander of the Roman troops</h2>\n<p><a href=\"https://ref.ly/Acts21:31-Acts21:34\">ACT 21:31–21:34</a>, <a href=\"https://ref.ly/Acts22:26-Acts22:30\">ACT 22:26–22:30</a>, <a href=\"https://ref.ly/Acts23:10\">ACT 23:10</a>, <a href=\"https://ref.ly/Acts23:17-Acts23:23\">ACT 23:17–23:23</a>, <a href=\"https://ref.ly/Acts24:22\">ACT 24:22</a></p>\n<h2>The commander of the army of the LORD</h2>\n<p><a href=\"https://ref.ly/Josh5:13-Josh5:15\">JOS 5:13–5:15</a></p>\n<h2>Commanders in spiritual warfare</h2>\n<p><strong><a href=\"https://ref.ly/2Tim2:4\">2TI 2:4</a></strong></p>",
@@ -223,7 +223,8 @@
 "label": "5544: soldiers",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

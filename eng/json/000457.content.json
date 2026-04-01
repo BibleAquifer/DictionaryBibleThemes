@@ -2,10 +2,10 @@
 {
 "content_id": "4484",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4484: mustard seed",
 "media_type": "Text",
-"index_reference": "4484: mustard seed",
+"index_reference": "4484",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A very small seed which grew rapidly into a substantial plant. It was used in parables by Jesus Christ to encourage the faith of the individual and to illustrate the growth of the kingdom of God.</p>\n<h2>The mustard seed and the faith of the individual</h2>\n<p><strong><a href=\"https://ref.ly/Luke17:5-Luke17:6\">LUK 17:5–17:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt17:14-Matt17:20\">MAT 17:14–17:20</a></p>\n<h2>The mustard seed and the kingdom of God</h2>\n<p><strong><a href=\"https://ref.ly/Matt13:31-Matt13:32\">MAT 13:31–13:32</a></strong> parallels <a href=\"https://ref.ly/Mark4:30-Mark4:32\">MRK 4:30–4:32</a>, <a href=\"https://ref.ly/Luke13:18-Luke13:19\">LUK 13:18–13:19</a></p>",
@@ -91,6 +91,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8443: growth",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Chariot",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chariot"
 }
 ]
 }

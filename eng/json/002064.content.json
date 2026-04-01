@@ -2,10 +2,10 @@
 {
 "content_id": "8220",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8220: courage, in facing enemies",
 "media_type": "Text",
-"index_reference": "8220: courage, in facing enemies",
+"index_reference": "8220",
 "language": "eng",
 "review_level": "None",
 "content": "<p>In the OT, courage is shown principally in the leading of God's people against their enemies.</p>\n<h2>God commands his people to be courageous</h2>\n<p><strong><a href=\"https://ref.ly/Josh1:6-Josh1:9\">JOS 1:6–1:9</a></strong> <em>The LORD to Joshua as he was about to lead the Israelites into Canaan.</em> <em>See also</em> <a href=\"https://ref.ly/Josh1:18\">JOS 1:18</a>, <a href=\"https://ref.ly/Josh8:1\">JOS 8:1</a>, <a href=\"https://ref.ly/Josh10:8\">JOS 10:8</a>; <a href=\"https://ref.ly/Judg7:9-Judg7:11\">JDG 7:9–7:11</a>; <a href=\"https://ref.ly/2Chr20:15\">2CH 20:15</a>, <a href=\"https://ref.ly/2Chr20:17\">2CH 20:17</a></p>\n<h2>Recommended by leaders</h2>\n<p><strong><a href=\"https://ref.ly/Deut1:21\">DEU 1:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut31:1-Deut31:8\">DEU 31:1–31:8</a>; <a href=\"https://ref.ly/Josh10:25\">JOS 10:25</a>, <a href=\"https://ref.ly/Josh23:6\">JOS 23:6</a>; <a href=\"https://ref.ly/2Sam10:12\">2SA 10:12</a>; <a href=\"https://ref.ly/2Chr32:7\">2CH 32:7</a></p>\n<h2>Seen in the behaviour of people of God</h2>\n<p><strong><a href=\"https://ref.ly/1Sam17:32\">1SA 17:32</a></strong>; <strong><a href=\"https://ref.ly/Acts4:13\">ACT 4:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh1:10-Josh1:11\">JOS 1:10–1:11</a>, <a href=\"https://ref.ly/Josh14:12\">JOS 14:12</a>; <a href=\"https://ref.ly/1Sam14:6-1Sam14:7\">1SA 14:6–14:7</a>, <a href=\"https://ref.ly/1Sam17:45-1Sam17:47\">1SA 17:45–17:47</a>; <a href=\"https://ref.ly/Acts13:44-Acts13:47\">ACT 13:44–13:47</a> <em>Paul and Barnabas</em>; <a href=\"https://ref.ly/Acts19:8-Acts19:10\">ACT 19:8–19:10</a> <em>Paul at Ephesus</em></p>",
@@ -195,7 +195,8 @@
 "label": "8727: enemies",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

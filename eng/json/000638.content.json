@@ -2,10 +2,10 @@
 {
 "content_id": "5028",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5028: knowledge, God as source of human",
 "media_type": "Text",
-"index_reference": "5028: knowledge, god as source of human",
+"index_reference": "5028",
 "language": "eng",
 "review_level": "None",
 "content": "<p>All knowledge proceeds from God, although many do not acknowledge it. The pursuit of knowledge apart from God is futile and leads to pride.</p>\n<h2>God is the source of all knowledge</h2>\n<p><strong><a href=\"https://ref.ly/Prov2:6\">PRO 2:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job28:28\">JOB 28:28</a>; <a href=\"https://ref.ly/Prov1:7\">PRO 1:7</a>, <a href=\"https://ref.ly/Prov9:10\">PRO 9:10</a></p>\n<h2>Pursuit of knowledge apart from God led to the fall</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:1-Gen3:7\">GEN 3:1–3:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen3:22-Gen3:24\">GEN 3:22–3:24</a></p>\n<h2>Pursuit of knowledge apart from God is futile</h2>\n<p><strong><a href=\"https://ref.ly/Eccl12:11-Eccl12:12\">ECC 12:11–12:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl1:16-Eccl1:18\">ECC 1:16–1:18</a>; <a href=\"https://ref.ly/1Cor8:1\">1CO 8:1</a></p>\n<h2>Pursuit of the knowledge that proceeds from God merits divine approval</h2>\n<p><strong><a href=\"https://ref.ly/Prov3:13-Prov3:18\">PRO 3:13–3:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov2:3-Prov2:5\">PRO 2:3–2:5</a>, <a href=\"https://ref.ly/Prov4:5\">PRO 4:5</a>, <a href=\"https://ref.ly/Prov15:14\">PRO 15:14</a>; <a href=\"https://ref.ly/2Pet1:5\">2PE 1:5</a></p>\n<h2>God bestows knowledge on certain individuals</h2>\n<p><strong><a href=\"https://ref.ly/Dan1:17\">DAN 1:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod31:1-Exod31:5\">EXO 31:1–31:5</a>, <a href=\"https://ref.ly/Exod35:30-Exod36:1\">EXO 35:30–36:1</a>; <a href=\"https://ref.ly/1Kgs3:10-1Kgs3:12\">1KI 3:10–3:12</a>; <a href=\"https://ref.ly/2Chr1:10-2Chr1:12\">2CH 1:10–1:12</a>; <a href=\"https://ref.ly/1Cor12:8\">1CO 12:8</a></p>",
@@ -202,6 +202,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8361: wisdom",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Eliud",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eliud"
 }
 ]
 }

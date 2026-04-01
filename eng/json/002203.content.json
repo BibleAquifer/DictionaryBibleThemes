@@ -2,10 +2,10 @@
 {
 "content_id": "8412",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8412: decisions",
 "media_type": "Text",
-"index_reference": "8412: decisions",
+"index_reference": "8412",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The end result of a process of reflection upon possible courses of action, informed and sustained by a concern to please God.</p>\n<h2>Factors that should affect believers' decision-making</h2>\n<h3>Desire to know God's will</h3>\n<p><strong><a href=\"https://ref.ly/Ps25:4-Ps25:5\">PSA 25:4–25:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps143:8\">PSA 143:8</a>; <a href=\"https://ref.ly/Hos4:6\">HOS 4:6</a> <em>Ignoring God's will leads to destruction</em>; <a href=\"https://ref.ly/John10:27\">JHN 10:27</a>, <a href=\"https://ref.ly/John14:15-John14:17\">JHN 14:15–14:17</a></p>\n<h3>Confidence in God's readiness to reveal his will</h3>\n<p><strong><a href=\"https://ref.ly/Ps25:8-Ps25:9\">PSA 25:8–25:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps16:7\">PSA 16:7</a>, <a href=\"https://ref.ly/Ps25:12-Ps25:14\">PSA 25:12–25:14</a>, <a href=\"https://ref.ly/Ps48:14\">PSA 48:14</a>, <a href=\"https://ref.ly/Ps73:23-Ps73:24\">PSA 73:23–73:24</a>; <a href=\"https://ref.ly/Prov3:5-Prov3:6\">PRO 3:5–3:6</a>; <a href=\"https://ref.ly/Isa30:19-Isa30:21\">ISA 30:19–30:21</a>; <a href=\"https://ref.ly/Jer9:23-Jer9:24\">JER 9:23–9:24</a></p>\n<h3>Belief in God's overall plan for his people</h3>\n<p><strong><a href=\"https://ref.ly/Rom8:28-Rom8:30\">ROM 8:28–8:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph1:3-Eph1:14\">EPH 1:3–1:14</a>; <a href=\"https://ref.ly/Phil2:12-Phil2:13\">PHP 2:12–2:13</a>; <a href=\"https://ref.ly/Heb11:39-Heb11:40\">HEB 11:39–11:40</a></p>\n<h3>God's promise to guide believers in their decisions</h3>\n<p><strong><a href=\"https://ref.ly/Isa58:11\">ISA 58:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps32:8-Ps32:9\">PSA 32:8–32:9</a>; <a href=\"https://ref.ly/Isa42:16\">ISA 42:16</a>, <a href=\"https://ref.ly/Isa48:17\">ISA 48:17</a>; <a href=\"https://ref.ly/John14:26\">JHN 14:26</a>, <a href=\"https://ref.ly/John16:13\">JHN 16:13</a></p>\n<h3>Knowledge of scriptural principles</h3>\n<p><strong><a href=\"https://ref.ly/Mark12:29-Mark12:31\">MRK 12:29–12:31</a></strong> parallel <a href=\"https://ref.ly/Matt22:35-Matt22:40\">MAT 22:35–22:40</a> <em>See also</em> <a href=\"https://ref.ly/Deut6:4-Deut6:5\">DEU 6:4–6:5</a>; <a href=\"https://ref.ly/Lev19:18\">LEV 19:18</a>; <a href=\"https://ref.ly/Exod20:1-Exod20:17\">EXO 20:1–20:17</a> parallel <a href=\"https://ref.ly/Deut5:6-Deut5:21\">DEU 5:6–5:21</a>; <a href=\"https://ref.ly/Matt7:12\">MAT 7:12</a> parallel <a href=\"https://ref.ly/Luke6:31\">LUK 6:31</a>; <a href=\"https://ref.ly/Rom13:9-Rom13:10\">ROM 13:9–13:10</a>; <a href=\"https://ref.ly/Gal5:14\">GAL 5:14</a>; <a href=\"https://ref.ly/Jas2:8\">JAS 2:8</a></p>\n<h3>A willingness to trust God</h3>\n<p><strong><a href=\"https://ref.ly/Heb11:17-Heb11:19\">HEB 11:17–11:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen15:4-Gen15:6\">GEN 15:4–15:6</a>; <a href=\"https://ref.ly/2Chr20:20\">2CH 20:20</a>; <a href=\"https://ref.ly/Ps25:1-Ps25:2\">PSA 25:1–25:2</a>, <a href=\"https://ref.ly/Ps31:5\">PSA 31:5</a>, <a href=\"https://ref.ly/Ps143:8\">PSA 143:8</a>; <a href=\"https://ref.ly/Isa12:2\">ISA 12:2</a>; <a href=\"https://ref.ly/Luke1:45\">LUK 1:45</a>; <a href=\"https://ref.ly/Rom4:3\">ROM 4:3</a>, <a href=\"https://ref.ly/Rom4:20-Rom4:24\">ROM 4:20–4:24</a>; <a href=\"https://ref.ly/Gal2:16\">GAL 2:16</a>, <a href=\"https://ref.ly/Gal2:20\">GAL 2:20</a>; <a href=\"https://ref.ly/Heb11:1-Heb11:39\">HEB 11:1–11:39</a></p>",
@@ -373,7 +373,8 @@
 "label": "8408: decision-making",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

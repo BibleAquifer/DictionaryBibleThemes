@@ -2,10 +2,10 @@
 {
 "content_id": "5837",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5837: disguise",
 "media_type": "Text",
-"index_reference": "5837: disguise",
+"index_reference": "5837",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The hiding of one's personal identity for a variety of reasons</h2>\n<p><strong><a href=\"https://ref.ly/2Chr35:20-2Chr35:24\">2CH 35:20–35:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen38:13-Gen38:26\">GEN 38:13–38:26</a>; <a href=\"https://ref.ly/1Sam28:4-1Sam28:12\">1SA 28:4–28:12</a>; <a href=\"https://ref.ly/1Kgs14:1-1Kgs14:6\">1KI 14:1–14:6</a>, <a href=\"https://ref.ly/1Kgs20:35-1Kgs20:43\">1KI 20:35–20:43</a>, <a href=\"https://ref.ly/1Kgs22:29-1Kgs22:37\">1KI 22:29–22:37</a> parallel <a href=\"https://ref.ly/2Chr18:28-2Chr18:34\">2CH 18:28–18:34</a></p>",
@@ -75,6 +75,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6145: deceit",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hezro",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hezro"
 }
 ]
 }

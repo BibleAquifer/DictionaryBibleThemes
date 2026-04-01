@@ -2,10 +2,10 @@
 {
 "content_id": "5313",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5313: flogging",
 "media_type": "Text",
-"index_reference": "5313: flogging",
+"index_reference": "5313",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Physical beating inflicted as punishment.</p>\n<h2>Flogging and beating in the law</h2>\n<p><strong><a href=\"https://ref.ly/Deut25:2-Deut25:3\">DEU 25:2–25:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod21:20\">EXO 21:20</a></p>\n<h2>Justified flogging</h2>\n<p><strong><a href=\"https://ref.ly/Prov19:25\">PRO 19:25</a></strong>; <strong><a href=\"https://ref.ly/1Pet2:20\">1PE 2:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh13:25\">NEH 13:25</a>; <a href=\"https://ref.ly/Prov17:10\">PRO 17:10</a>, <a href=\"https://ref.ly/Prov18:6\">PRO 18:6</a>, <a href=\"https://ref.ly/Prov19:29\">PRO 19:29</a>; <a href=\"https://ref.ly/Luke12:47-Luke12:48\">LUK 12:47–12:48</a></p>\n<h2>Unjustified flogging</h2>\n<p><strong><a href=\"https://ref.ly/Isa50:6\">ISA 50:6</a></strong>; <strong><a href=\"https://ref.ly/Heb11:36\">HEB 11:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod5:14\">EXO 5:14</a>; <a href=\"https://ref.ly/Prov17:26\">PRO 17:26</a>; <a href=\"https://ref.ly/Jer20:2\">JER 20:2</a>, <a href=\"https://ref.ly/Jer37:15\">JER 37:15</a></p>\n<h2>Jesus Christ flogged</h2>\n<p><strong><a href=\"https://ref.ly/Mark15:15\">MRK 15:15</a></strong> parallels <a href=\"https://ref.ly/Matt27:26\">MAT 27:26</a>, <a href=\"https://ref.ly/John19:1\">JHN 19:1</a> <em>See also</em> <a href=\"https://ref.ly/Isa53:5\">ISA 53:5</a>; <a href=\"https://ref.ly/Matt20:19\">MAT 20:19</a> parallels <a href=\"https://ref.ly/Mark10:34\">MRK 10:34</a>, <a href=\"https://ref.ly/Luke18:32\">LUK 18:32</a></p>\n<h2>The apostles flogged</h2>\n<p><strong><a href=\"https://ref.ly/Matt10:17\">MAT 10:17</a></strong>; <strong><a href=\"https://ref.ly/Acts5:40\">ACT 5:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt23:34\">MAT 23:34</a>; <a href=\"https://ref.ly/Mark13:9\">MRK 13:9</a>; <a href=\"https://ref.ly/Acts16:22-Acts16:23\">ACT 16:22–16:23</a>, <a href=\"https://ref.ly/Acts16:37\">ACT 16:37</a>, <a href=\"https://ref.ly/Acts18:17\">ACT 18:17</a>, <a href=\"https://ref.ly/Acts22:19\">ACT 22:19</a>, <a href=\"https://ref.ly/Acts22:24-Acts22:25\">ACT 22:24–22:25</a>; <a href=\"https://ref.ly/2Cor6:5\">2CO 6:5</a>, <a href=\"https://ref.ly/2Cor11:24-2Cor11:25\">2CO 11:24–11:25</a></p>\n<h2>Flogging used figuratively</h2>\n<p><strong><a href=\"https://ref.ly/2Sam7:14\">2SA 7:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job5:21\">JOB 5:21</a>; <a href=\"https://ref.ly/Ps89:32\">PSA 89:32</a>; <a href=\"https://ref.ly/Isa10:26\">ISA 10:26</a>, <a href=\"https://ref.ly/Isa54:11\">ISA 54:11</a></p>",
@@ -276,7 +276,8 @@
 "label": "8794: persecution",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

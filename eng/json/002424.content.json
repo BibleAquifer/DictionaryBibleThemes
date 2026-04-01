@@ -2,10 +2,10 @@
 {
 "content_id": "8802",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8802: pride",
 "media_type": "Text",
-"index_reference": "8802: pride",
+"index_reference": "8802",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Arrogance or delusions of greatness on account of one's achievements, status or possessions. Scripture frequently speaks of God humbling the proud.</p>",
@@ -33,7 +33,8 @@
 "label": "8805: pride, results of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

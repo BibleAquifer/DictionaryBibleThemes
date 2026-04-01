@@ -2,10 +2,10 @@
 {
 "content_id": "6744",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6744: sanctification",
 "media_type": "Text",
-"index_reference": "6744: sanctification",
+"index_reference": "6744",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The process of becoming consecrated to God, which is an integral aspect of being a member of the people of God. This process of being made holy through the work of the Holy Spirit ultimately rests upon the sacrificial death of Jesus Christ, which the OT anticipates and foreshadows.</p>",
@@ -33,7 +33,8 @@
 "label": "6747: sanctification, and Holy Spirit",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

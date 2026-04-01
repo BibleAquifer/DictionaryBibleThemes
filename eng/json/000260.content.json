@@ -2,10 +2,10 @@
 {
 "content_id": "3200",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3200: Holy Spirit, ministry and work of",
 "media_type": "Text",
-"index_reference": "3200: holy spirit, ministry and work of",
+"index_reference": "3200",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"3203\" data-resourcetype=\"DictionaryOfBibleThemes\">3203: Holy Spirit, and assurance</span></li></ul>",
@@ -19,7 +19,8 @@
 "label": "3203: Holy Spirit, and assurance",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

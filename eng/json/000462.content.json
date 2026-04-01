@@ -2,10 +2,10 @@
 {
 "content_id": "4494",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4494: papyrus",
 "media_type": "Text",
-"index_reference": "4494: papyrus",
+"index_reference": "4494",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A large plant growing in marshland, sometimes to a height of six metres.</p>\n<h2>Papyrus was used for making boats</h2>\n<p><a href=\"https://ref.ly/Exod2:3\">EXO 2:3</a>; ; <a href=\"https://ref.ly/Job9:26\">JOB 9:26</a>; ; <a href=\"https://ref.ly/Isa18:2\">ISA 18:2</a></p>\n<h2>Papyrus indicates an ample water supply</h2>\n<p><a href=\"https://ref.ly/Job8:11-Job8:13\">JOB 8:11–8:13</a>; ; <a href=\"https://ref.ly/Isa35:7\">ISA 35:7</a> <em>Papyrus growing in what was once desert depicts the blessing coming on God's redeemed people.</em></p>",
@@ -56,6 +56,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5515: scroll",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Chelal",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chelal"
+},
+{
+"id": "flora:Papyrus",
+"type": "flora",
+"confidence": 0.7687,
+"match_method": "scored",
+"preferred_label": "Papyrus"
 }
 ]
 }

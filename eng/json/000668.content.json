@@ -2,10 +2,10 @@
 {
 "content_id": "5064",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5064: spirit, emotional aspects of",
 "media_type": "Text",
-"index_reference": "5064: spirit, emotional aspects of",
+"index_reference": "5064",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A human being is made up of a variety of emotions and attitudes. Sometimes one trait is or becomes so dominant as to make it characteristic of the entire personality.</p>\n<h2>Examples of a bad spirit</h2>\n<h3>Pride</h3>\n<p><strong><a href=\"https://ref.ly/Prov16:18\">PRO 16:18</a></strong></p>\n<h3>Jealousy</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Num5:14\">NUM 5:14</a></p>\n<h3>Fear</h3>\n<p><a href=\"https://ref.ly/2Kgs19:7\">2KI 19:7</a> parallel <a href=\"https://ref.ly/Isa37:7\">ISA 37:7</a></p>\n<h3>Unfaithfulness</h3>\n<p><a href=\"https://ref.ly/Hos4:12\">HOS 4:12</a>, <a href=\"https://ref.ly/Hos5:4\">HOS 5:4</a></p>\n<h3>Despair</h3>\n<p><a href=\"https://ref.ly/Isa61:3\">ISA 61:3</a></p>\n<h3>Spiritual dullness</h3>\n<p><a href=\"https://ref.ly/Rom11:8\">ROM 11:8</a>; ; <a href=\"https://ref.ly/Deut29:4\">DEU 29:4</a>; ; <a href=\"https://ref.ly/Isa29:10\">ISA 29:10</a></p>\n<h2>Examples of a good spirit</h2>\n<h3>Humility</h3>\n<p><strong><a href=\"https://ref.ly/Prov29:23\">PRO 29:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num12:3\">NUM 12:3</a>; <a href=\"https://ref.ly/Isa57:15\">ISA 57:15</a></p>\n<h3>Submission</h3>\n<p><strong><a href=\"https://ref.ly/Num14:24\">NUM 14:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num14:6-Num14:9\">NUM 14:6–14:9</a></p>\n<h3>Wisdom</h3>\n<p><a href=\"https://ref.ly/Deut34:9\">DEU 34:9</a>; ; <a href=\"https://ref.ly/1Kgs3:11-1Kgs3:12\">1KI 3:11–3:12</a>; ; <a href=\"https://ref.ly/Job32:8\">JOB 32:8</a>; ; <a href=\"https://ref.ly/Dan4:9\">DAN 4:9</a></p>\n<h3>Steadfastness</h3>\n<p><a href=\"https://ref.ly/Ps51:10\">PSA 51:10</a>, <a href=\"https://ref.ly/Ps51:12\">PSA 51:12</a></p>\n<h3>Strength</h3>\n<p><a href=\"https://ref.ly/Luke1:17\">LUK 1:17</a>; ; <a href=\"https://ref.ly/Mal4:5\">MAL 4:5</a></p>\n<h3>Zeal</h3>\n<p><a href=\"https://ref.ly/Rom12:11\">ROM 12:11</a>; ; <a href=\"https://ref.ly/John2:17\">JHN 2:17</a></p>\n<h3>Gentleness</h3>\n<p><a href=\"https://ref.ly/1Cor4:21\">1CO 4:21</a>; ; <a href=\"https://ref.ly/1Pet3:4\">1PE 3:4</a></p>\n<h3>Trust</h3>\n<p><a href=\"https://ref.ly/2Cor4:13\">2CO 4:13</a></p>\n<h2>God can effect a change of spirit</h2>\n<p><strong><a href=\"https://ref.ly/Ezek36:26\">EZK 36:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek11:19\">EZK 11:19</a>, <a href=\"https://ref.ly/Ezek18:31\">EZK 18:31</a>; <a href=\"https://ref.ly/Hag1:14\">HAG 1:14</a>; <a href=\"https://ref.ly/Zech12:10\">ZEC 12:10</a></p>",
@@ -274,7 +274,8 @@
 "label": "8255: fruit, spiritual",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

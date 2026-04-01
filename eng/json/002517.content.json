@@ -2,10 +2,10 @@
 {
 "content_id": "9510",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9510: hell",
 "media_type": "Text",
-"index_reference": "9510: hell",
+"index_reference": "9510",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A term used in English translations of the Bible to represent the Hebrew word “Sheol” (the place of the departed) and the Greek word “Gehenna”, which came to refer to the place of punishment for the wicked after death. The Valley of Hinnom (Hebrew “Ge Hinnom”, from which “Gehenna” is derived) on the south side of Jerusalem became a symbol of all that is hateful to God, on account of its use for human sacrifice.</p>",
@@ -33,7 +33,8 @@
 "label": "9513: hell, as incentive to action",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

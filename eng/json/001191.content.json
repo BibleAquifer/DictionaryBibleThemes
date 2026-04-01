@@ -2,10 +2,10 @@
 {
 "content_id": "5630",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5630: work, divine and human",
 "media_type": "Text",
-"index_reference": "5630: work, divine and human",
+"index_reference": "5630",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God has ordained that some of his purposes be fulfilled through the co-operation (conscious or unconscious) of human beings.</p>\n<h2>God works in co-operation with people's work</h2>\n<h3>Human labour is futile apart from God</h3>\n<p><strong><a href=\"https://ref.ly/Ps127:1\">PSA 127:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen11:8\">GEN 11:8</a>; <a href=\"https://ref.ly/John15:5\">JHN 15:5</a></p>\n<h3>God often works through human means</h3>\n<p><strong><a href=\"https://ref.ly/Ps77:20\">PSA 77:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts9:15\">ACT 9:15</a>; <a href=\"https://ref.ly/Rom13:6\">ROM 13:6</a>; <a href=\"https://ref.ly/2Cor7:6\">2CO 7:6</a></p>\n<h3>God gives the gifts needed for work</h3>\n<p><a href=\"https://ref.ly/Exod31:3\">EXO 31:3</a>, <a href=\"https://ref.ly/Exod31:6\">EXO 31:6</a>; ; <a href=\"https://ref.ly/Luke12:48\">LUK 12:48</a>; ; <a href=\"https://ref.ly/1Pet4:11\">1PE 4:11</a></p>\n<h3>Human workers should acknowledge their dependence upon God</h3>\n<p><strong><a href=\"https://ref.ly/Deut8:18\">DEU 8:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps90:17\">PSA 90:17</a>; <a href=\"https://ref.ly/Neh6:9\">NEH 6:9</a>, <a href=\"https://ref.ly/Neh6:16\">NEH 6:16</a>; <a href=\"https://ref.ly/2Cor3:5\">2CO 3:5</a></p>\n<h3>The apostles as God's fellow-workers</h3>\n<p><strong><a href=\"https://ref.ly/1Cor3:9\">1CO 3:9</a></strong>; <strong><a href=\"https://ref.ly/2Cor6:1\">2CO 6:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Mark16:20\">MRK 16:20</a></p>\n<h2>Examples of divine and human co-operation in work</h2>\n<p><a href=\"https://ref.ly/Phil2:12-Phil2:13\">PHP 2:12–2:13</a></p>\n<h3>God creates and people cultivate</h3>\n<p><a href=\"https://ref.ly/Gen2:15\">GEN 2:15</a>; ; <a href=\"https://ref.ly/Isa28:23-Isa28:29\">ISA 28:23–28:29</a>; ; <a href=\"https://ref.ly/1Cor3:7\">1CO 3:7</a></p>\n<h3>God gives and people are generous</h3>\n<p><a href=\"https://ref.ly/1Kgs17:9\">1KI 17:9</a>; ; <a href=\"https://ref.ly/2Cor8:1-2Cor8:5\">2CO 8:1–8:5</a></p>\n<h3>God speaks through prophets' words</h3>\n<p><a href=\"https://ref.ly/Deut18:15-Deut18:18\">DEU 18:15–18:18</a>; ; <a href=\"https://ref.ly/2Sam12:25\">2SA 12:25</a>; ; <a href=\"https://ref.ly/Jer37:2\">JER 37:2</a>; ; <a href=\"https://ref.ly/Hos12:13\">HOS 12:13</a>; ; <a href=\"https://ref.ly/Matt1:22\">MAT 1:22</a>; ; <a href=\"https://ref.ly/2Pet1:21\">2PE 1:21</a></p>",
@@ -282,6 +282,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8434: giving",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ham"
 }
 ]
 }

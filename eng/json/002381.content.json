@@ -2,10 +2,10 @@
 {
 "content_id": "8752",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8752: false worship",
 "media_type": "Text",
-"index_reference": "8752: false worship",
+"index_reference": "8752",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Forms of worship that are not worthy of God, especially worship offered without sincerity and obedience or that is contrary to the commands of God.</p>\n<h2>Examples of false worship</h2>\n<h3>Worship conducted in disobedience to God</h3>\n<p><strong><a href=\"https://ref.ly/Lev10:1-Lev10:2\">LEV 10:1–10:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num3:2-Num3:4\">NUM 3:2–3:4</a>; <a href=\"https://ref.ly/1Sam15:1-1Sam15:23\">1SA 15:1–15:23</a>; <a href=\"https://ref.ly/2Kgs17:33\">2KI 17:33</a></p>\n<h3>Worship and sacrifices offered by those who were not priests</h3>\n<p><strong><a href=\"https://ref.ly/1Sam13:11-1Sam13:14\">1SA 13:11–13:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr26:19-2Chr26:20\">2CH 26:19–26:20</a></p>\n<h3>Insincere worship</h3>\n<p><strong><a href=\"https://ref.ly/Isa29:13\">ISA 29:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt15:8-Matt15:9\">MAT 15:8–15:9</a>; <a href=\"https://ref.ly/Mark7:6-Mark7:7\">MRK 7:6–7:7</a>; <a href=\"https://ref.ly/Col2:23\">COL 2:23</a></p>\n<h3>Worship lacking in due humility and reverence</h3>\n<p><strong><a href=\"https://ref.ly/Matt6:5\">MAT 6:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke18:10-Luke18:14\">LUK 18:10–18:14</a></p>\n<h3>Worship conducted in ignorance of God</h3>\n<p><strong><a href=\"https://ref.ly/John4:22\">JHN 4:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts17:22-Acts17:23\">ACT 17:22–17:23</a></p>\n<h2>Scripture vividly contrasts false worship with true worship</h2>\n<h3>True worship involves the worshipper's heart, soul and mind</h3>\n<p><a href=\"https://ref.ly/Deut6:5\">DEU 6:5</a> parallels <a href=\"https://ref.ly/Matt22:37\">MAT 22:37</a>, <a href=\"https://ref.ly/Mark12:30\">MRK 12:30</a>, <a href=\"https://ref.ly/Luke10:27\">LUK 10:27</a></p>\n<h3>True worship is costly</h3>\n<p><a href=\"https://ref.ly/2Sam24:24\">2SA 24:24</a>; ; <a href=\"https://ref.ly/Mark12:41-Mark12:44\">MRK 12:41–12:44</a>; ; <a href=\"https://ref.ly/Rom12:1\">ROM 12:1</a> <em>True worship involves the whole of a person's life and not just formal acts of worship.</em></p>\n<h3>True worship is in the spirit</h3>\n<p><strong><a href=\"https://ref.ly/John4:23-John4:24\">JHN 4:23–4:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa29:23\">ISA 29:23</a>; <a href=\"https://ref.ly/Phil3:3\">PHP 3:3</a>; <a href=\"https://ref.ly/1Tim2:9\">1TI 2:9</a>; <a href=\"https://ref.ly/Heb12:28\">HEB 12:28</a></p>",
@@ -246,7 +246,8 @@
 "label": "8784: nominal religion",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

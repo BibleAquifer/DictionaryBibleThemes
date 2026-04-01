@@ -2,10 +2,10 @@
 {
 "content_id": "5209",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5209: armour",
 "media_type": "Text",
-"index_reference": "5209: armour",
+"index_reference": "5209",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Protective covering worn by soldiers to prevent injury in battle. However, those who wore it were not impregnable. Christians are to be equipped with spiritual armour.</p>\n<h2>Coat of armour</h2>\n<h3>The breastplate</h3>\n<p><strong><a href=\"https://ref.ly/2Chr26:14\">2CH 26:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:5\">1SA 17:5</a>, <a href=\"https://ref.ly/1Sam17:38\">1SA 17:38</a>; <a href=\"https://ref.ly/2Sam20:8\">2SA 20:8</a>; <a href=\"https://ref.ly/Eph6:14\">EPH 6:14</a></p>\n<h3>The belt</h3>\n<p><strong><a href=\"https://ref.ly/2Sam20:8\">2SA 20:8</a></strong> <em>The belt was an essential item of armour as it held the protective parts of the tunic in place.</em> <em>See also</em> <a href=\"https://ref.ly/1Sam18:4\">1SA 18:4</a>; <a href=\"https://ref.ly/2Sam18:11\">2SA 18:11</a>; <a href=\"https://ref.ly/Eph6:14\">EPH 6:14</a></p>\n<h3>The helmet</h3>\n<p><strong><a href=\"https://ref.ly/1Sam17:5\">1SA 17:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:38\">1SA 17:38</a>; <a href=\"https://ref.ly/2Chr26:14\">2CH 26:14</a>; <a href=\"https://ref.ly/Jer46:4\">JER 46:4</a>; <a href=\"https://ref.ly/Ezek38:5\">EZK 38:5</a></p>\n<h3>The shield</h3>\n<p><strong><a href=\"https://ref.ly/Jer46:3\">JER 46:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr11:12\">2CH 11:12</a>, <a href=\"https://ref.ly/2Chr32:5\">2CH 32:5</a>; <a href=\"https://ref.ly/Neh4:16\">NEH 4:16</a>; <a href=\"https://ref.ly/Eph6:16\">EPH 6:16</a></p>\n<h2>Armour worn by soldiers</h2>\n<p><strong><a href=\"https://ref.ly/2Chr26:14\">2CH 26:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num31:3-Num31:5\">NUM 31:3–31:5</a>, <a href=\"https://ref.ly/Num32:20-Num32:21\">NUM 32:20–32:21</a>, <a href=\"https://ref.ly/Num32:27\">NUM 32:27</a>; <a href=\"https://ref.ly/Josh4:13\">JOS 4:13</a>; <a href=\"https://ref.ly/Jer46:3-Jer46:4\">JER 46:3–46:4</a></p>\n<h2>Armour-bearers</h2>\n<p><strong><a href=\"https://ref.ly/1Sam16:21\">1SA 16:21</a></strong> <em>Armour-bearers were sometimes used to carry the shield and additional weapons for a military leader or outstanding warrior.</em> <em>See also</em> <a href=\"https://ref.ly/Judg9:54\">JDG 9:54</a>; <a href=\"https://ref.ly/1Sam14:1\">1SA 14:1</a>, <a href=\"https://ref.ly/1Sam14:6-1Sam14:14\">1SA 14:6–14:14</a>, <a href=\"https://ref.ly/1Sam17:7\">1SA 17:7</a></p>\n<h2>Those wearing armour were not impregnable</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs20:11\">1KI 20:11</a>, <a href=\"https://ref.ly/1Kgs22:34\">1KI 22:34</a></strong> parallel <a href=\"https://ref.ly/2Chr18:33\">2CH 18:33</a> <em>See also</em> <a href=\"https://ref.ly/1Sam17:48-1Sam17:49\">1SA 17:48–17:49</a>, <a href=\"https://ref.ly/1Sam31:3-1Sam31:4\">1SA 31:3–31:4</a>; <a href=\"https://ref.ly/Luke11:21-Luke11:22\">LUK 11:21–11:22</a></p>\n<h2>Christians are to be equipped with spiritual armour</h2>\n<p><strong><a href=\"https://ref.ly/Eph6:11\">EPH 6:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph6:13-Eph6:17\">EPH 6:13–6:17</a>; <a href=\"https://ref.ly/Rom13:12\">ROM 13:12</a>; <a href=\"https://ref.ly/2Cor6:7\">2CO 6:7</a>; <a href=\"https://ref.ly/1Thess5:8\">1TH 5:8</a></p>",
@@ -286,7 +286,8 @@
 "label": "8486: spiritual warfare, armour",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

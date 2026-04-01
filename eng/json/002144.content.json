@@ -2,10 +2,10 @@
 {
 "content_id": "8314",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8314: orthodoxy",
 "media_type": "Text",
-"index_reference": "8314: orthodoxy",
+"index_reference": "8314",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The holding of religious beliefs that are in harmony with the accepted views of the community of faith. Right belief (orthodoxy) is to show itself in right practice (orthopraxis).</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8316: orthodoxy, in NT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Beersheba",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beersheba"
 }
 ]
 }

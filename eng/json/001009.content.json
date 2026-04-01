@@ -2,10 +2,10 @@
 {
 "content_id": "5430",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5430: oaths, human",
 "media_type": "Text",
-"index_reference": "5430: oaths, human",
+"index_reference": "5430",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Solemn, binding statements made in God's name. The OT forbids the making of oaths in the name of other gods and the NT suggests that it is best to refrain from making oaths.</p>\n<h2>Oaths are considered binding</h2>\n<p><strong><a href=\"https://ref.ly/Num30:2\">NUM 30:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut23:21\">DEU 23:21</a>; <a href=\"https://ref.ly/Matt23:16-Matt23:22\">MAT 23:16–23:22</a></p>\n<h2>Oaths to be taken only in God's name</h2>\n<p><strong><a href=\"https://ref.ly/Deut6:13\">DEU 6:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps24:3-Ps24:4\">PSA 24:3–24:4</a>; <a href=\"https://ref.ly/Jer12:16\">JER 12:16</a></p>\n<h2>False oaths forbidden</h2>\n<p><strong><a href=\"https://ref.ly/Lev19:12\">LEV 19:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:7\">EXO 20:7</a> parallel <a href=\"https://ref.ly/Deut5:11\">DEU 5:11</a>; <a href=\"https://ref.ly/Lev6:3-Lev6:5\">LEV 6:3–6:5</a>; <a href=\"https://ref.ly/Zech5:3-Zech5:4\">ZEC 5:3–5:4</a></p>\n<h2>Examples of oaths</h2>\n<h3>In bearing witness</h3>\n<p><a href=\"https://ref.ly/Exod22:11\">EXO 22:11</a>; ; <a href=\"https://ref.ly/Num5:19\">NUM 5:19</a>; ; <a href=\"https://ref.ly/1Kgs8:31\">1KI 8:31</a></p>\n<h3>In showing allegiance</h3>\n<p><a href=\"https://ref.ly/2Kgs11:4\">2KI 11:4</a>; ; <a href=\"https://ref.ly/Eccl8:2\">ECC 8:2</a>; ; <a href=\"https://ref.ly/Jer38:16\">JER 38:16</a>; ; <a href=\"https://ref.ly/Ezek17:13\">EZK 17:13</a></p>\n<h3>In covenants</h3>\n<p><a href=\"https://ref.ly/Gen21:22-Gen21:31\">GEN 21:22–21:31</a>, <a href=\"https://ref.ly/Gen26:26-Gen26:31\">GEN 26:26–26:31</a>, <a href=\"https://ref.ly/Gen31:44-Gen31:53\">GEN 31:44–31:53</a>; ; <a href=\"https://ref.ly/Josh9:3-Josh9:21\">JOS 9:3–9:21</a></p>\n<h3>As a curse</h3>\n<p><a href=\"https://ref.ly/Josh6:26\">JOS 6:26</a>; ; <a href=\"https://ref.ly/Matt26:71-Matt26:74\">MAT 26:71–26:74</a> parallel <a href=\"https://ref.ly/Mark14:70-Mark14:71\">MRK 14:70–14:71</a></p>\n<h3>As assurance that a promise will be kept</h3>\n<p><strong><a href=\"https://ref.ly/Gen14:22-Gen14:23\">GEN 14:22–14:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen24:3-Gen24:9\">GEN 24:3–24:9</a>, <a href=\"https://ref.ly/Gen24:37-Gen24:41\">GEN 24:37–24:41</a>, <a href=\"https://ref.ly/Gen47:28-Gen47:31\">GEN 47:28–47:31</a>, <a href=\"https://ref.ly/Gen50:24-Gen50:25\">GEN 50:24–50:25</a>; <a href=\"https://ref.ly/Ps132:1-Ps132:5\">PSA 132:1–132:5</a></p>\n<h2>Unwise or thoughtless oaths</h2>\n<p><strong><a href=\"https://ref.ly/Gen25:33\">GEN 25:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev5:4\">LEV 5:4</a>; <a href=\"https://ref.ly/Matt14:6-Matt14:7\">MAT 14:6–14:7</a> parallel <a href=\"https://ref.ly/Mark6:22-Mark6:23\">MRK 6:22–6:23</a></p>\n<h2>Advice against taking oaths</h2>\n<p><strong><a href=\"https://ref.ly/Jas5:12\">JAS 5:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt5:33-Matt5:37\">MAT 5:33–5:37</a></p>",
@@ -269,6 +269,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8650: hands, lifting up of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gershom.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gershom"
+},
+{
+"id": "person:Gershom",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gershom"
 }
 ]
 }

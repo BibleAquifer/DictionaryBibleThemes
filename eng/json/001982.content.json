@@ -2,10 +2,10 @@
 {
 "content_id": "7966",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7966: spiritual gifts",
 "media_type": "Text",
-"index_reference": "7966: spiritual gifts",
+"index_reference": "7966",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Although all believers have received the gift of the Holy Spirit, Scripture points to God giving individuals certain special gifts of a spiritual nature for the fulfilling of specific tasks.</p>",
@@ -26,7 +26,8 @@
 "label": "7968: spiritual gifts, nature of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

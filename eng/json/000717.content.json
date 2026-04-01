@@ -2,10 +2,10 @@
 {
 "content_id": "5128",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5128: baldness",
 "media_type": "Text",
-"index_reference": "5128: baldness",
+"index_reference": "5128",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Loss of hair on the head as the result of natural causes or deliberate action. Baldness may be used to signify judgment, mourning or shame.</p>\n<h2>Instructions regarding baldness within Jewish law</h2>\n<h3>Associated with idolatrous practice</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Lev21:5\">LEV 21:5</a>; <a href=\"https://ref.ly/Deut14:1\">DEU 14:1</a>; <a href=\"https://ref.ly/Jer16:6\">JER 16:6</a> <em>In pagan Canaan mourners shaved their foreheads.</em></p>\n<h3>Regarding sores on bald heads</h3>\n<p><a href=\"https://ref.ly/Lev13:40-Lev13:42\">LEV 13:40–13:42</a></p>\n<h3>Cleansing may involve shaving the head</h3>\n<p><a href=\"https://ref.ly/Lev14:8-Lev14:9\">LEV 14:8–14:9</a>; ; <a href=\"https://ref.ly/Num6:9\">NUM 6:9</a>, <a href=\"https://ref.ly/Num6:18\">NUM 6:18</a>; ; <a href=\"https://ref.ly/Deut21:12\">DEU 21:12</a></p>\n<h3>Vows that involve shaving the head</h3>\n<p><a href=\"https://ref.ly/Judg13:5\">JDG 13:5</a>, <a href=\"https://ref.ly/Judg16:17-Judg16:19\">JDG 16:17–16:19</a>; ; <a href=\"https://ref.ly/Acts18:18\">ACT 18:18</a> <em>based on the Nazarite rule recorded in <a href=\"https://ref.ly/Num6:1-Num6:21\">Nu 6:1–21</a></em></p>\n<h2>Baldness may signify God's judgment</h2>\n<p><a href=\"https://ref.ly/Ezek5:1\">EZK 5:1</a> <em>Ezekiel instructed to shave his head to symbolise this</em></p>\n<h3>Judgment on Jerusalem and Judah</h3>\n<p><a href=\"https://ref.ly/Isa3:17\">ISA 3:17</a>, <a href=\"https://ref.ly/Isa3:24\">ISA 3:24</a>, <a href=\"https://ref.ly/Isa7:20\">ISA 7:20</a></p>\n<h2>Baldness as a symbol of mourning</h2>\n<p><strong><a href=\"https://ref.ly/Job1:20\">JOB 1:20</a></strong> <em>Job here mourns the loss of his children, household and livestock.</em> <em>See also</em> <a href=\"https://ref.ly/Isa15:2\">ISA 15:2</a>, <a href=\"https://ref.ly/Isa22:12\">ISA 22:12</a>; <a href=\"https://ref.ly/Jer48:37\">JER 48:37</a>; <a href=\"https://ref.ly/Ezek27:31\">EZK 27:31</a>; <a href=\"https://ref.ly/Amos8:10\">AMO 8:10</a>; <a href=\"https://ref.ly/Mic1:16\">MIC 1:16</a></p>\n<h3>Used figuratively to indicate the mourning of a nation</h3>\n<p><a href=\"https://ref.ly/Jer47:5\">JER 47:5</a></p>\n<h2>Baldness as a symbol of shame</h2>\n<p><a href=\"https://ref.ly/2Kgs2:23\">2KI 2:23</a>; ; <a href=\"https://ref.ly/Ezek7:18\">EZK 7:18</a>; ; <a href=\"https://ref.ly/1Cor11:5-1Cor11:6\">1CO 11:5–11:6</a></p>\n<h2>Examples of baldness</h2>\n<p><a href=\"https://ref.ly/Ezek29:18\">EZK 29:18</a> <em>baldness caused by the rubbing of leather helmets in warfare</em>; ; <a href=\"https://ref.ly/Judg16:19\">JDG 16:19</a> <em>Samson</em>; ; <a href=\"https://ref.ly/2Kgs2:23\">2KI 2:23</a> <em>Elisha</em></p>",
@@ -243,7 +243,8 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "4526",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4526: tree of life",
 "media_type": "Text",
-"index_reference": "4526: tree of life",
+"index_reference": "4526",
 "language": "eng",
 "review_level": "None",
 "content": "<p>One of two trees situated in the centre of the Garden of Eden. It is also mentioned in Revelation, where it symbolises life and salvation.</p>\n<h2>The tree of life in the Garden of Eden</h2>\n<p><strong><a href=\"https://ref.ly/Gen2:8-Gen2:17\">GEN 2:8–2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen3:22-Gen3:24\">GEN 3:22–3:24</a></p>\n<h2>The tree of life in Revelation</h2>\n<p><strong><a href=\"https://ref.ly/Rev22:1-Rev22:2\">REV 22:1–22:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev2:7\">REV 2:7</a>, <a href=\"https://ref.ly/Rev22:14-Rev22:15\">REV 22:14–22:15</a>, <a href=\"https://ref.ly/Rev22:18-Rev22:19\">REV 22:18–22:19</a></p>\n<h2>The tree of life as a metaphor</h2>\n<p><strong><a href=\"https://ref.ly/Prov15:4\">PRO 15:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov3:13-Prov3:18\">PRO 3:13–3:18</a>, <a href=\"https://ref.ly/Prov11:30\">PRO 11:30</a>, <a href=\"https://ref.ly/Prov13:12\">PRO 13:12</a></p>",
@@ -93,6 +93,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5033: knowledge of good and evil",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Chileab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Chileab"
 }
 ]
 }

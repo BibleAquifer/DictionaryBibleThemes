@@ -2,10 +2,10 @@
 {
 "content_id": "5482",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5482: punishment",
 "media_type": "Text",
-"index_reference": "5482: punishment",
+"index_reference": "5482",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A form of physical pain or deprivation, generally in proportion to the offence which gives rise to it. Scripture stresses the reality of punishment by God for sin, while urging that human punishment should be humane.</p>",
@@ -33,7 +33,8 @@
 "label": "5485: punishment, legal aspects of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

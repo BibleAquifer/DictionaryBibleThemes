@@ -2,10 +2,10 @@
 {
 "content_id": "5675",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5675: divorce",
 "media_type": "Text",
-"index_reference": "5675: divorce",
+"index_reference": "5675",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The legal dissolution of a marriage. Though not part of God's original intention for marriage, divorce is permitted under certain circumstances, especially marital unfaithfulness. In general, properly divorced parties are free to remarry.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5677: divorce, amongst believers",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Harnepher",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Harnepher"
 }
 ]
 }

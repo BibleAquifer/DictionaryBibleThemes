@@ -2,10 +2,10 @@
 {
 "content_id": "8478",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8478: self-examination, teaching on",
 "media_type": "Text",
-"index_reference": "8478: self-examination, teaching on",
+"index_reference": "8478",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Self-examination should take place on the basis of God's revelation of himself and the example he sets believers in Jesus Christ. It is especially important before confessing one's sins.</p>\n<h2>The importance of self-examination</h2>\n<p><strong><a href=\"https://ref.ly/Hag1:5\">HAG 1:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps4:4\">PSA 4:4</a>, <a href=\"https://ref.ly/Ps77:6\">PSA 77:6</a>; <a href=\"https://ref.ly/Hag1:7\">HAG 1:7</a>, <a href=\"https://ref.ly/Hag2:15\">HAG 2:15</a>, <a href=\"https://ref.ly/Hag2:18\">HAG 2:18</a>; <a href=\"https://ref.ly/1Cor11:28\">1CO 11:28</a>; <a href=\"https://ref.ly/2Cor13:5\">2CO 13:5</a>; <a href=\"https://ref.ly/Heb3:12\">HEB 3:12</a></p>\n<h2>A lack of self-examination leads to pride and self-delusion</h2>\n<p><strong><a href=\"https://ref.ly/1Cor11:28-1Cor11:29\">1CO 11:28–11:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt7:5\">MAT 7:5</a>; <a href=\"https://ref.ly/John8:7\">JHN 8:7</a>; <a href=\"https://ref.ly/Rom2:1-Rom2:4\">ROM 2:1–2:4</a></p>\n<h2>Self-examination is not easy because of humanity's fallen nature</h2>\n<p><strong><a href=\"https://ref.ly/Ps19:12-Ps19:14\">PSA 19:12–19:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer17:9\">JER 17:9</a></p>\n<h2>God helps believers in their self-examination</h2>\n<p><strong><a href=\"https://ref.ly/Ps26:2\">PSA 26:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job7:17-Job7:18\">JOB 7:17–7:18</a>, <a href=\"https://ref.ly/Job13:9\">JOB 13:9</a>, <a href=\"https://ref.ly/Job13:23\">JOB 13:23</a>; <a href=\"https://ref.ly/Ps11:4-Ps11:5\">PSA 11:4–11:5</a>, <a href=\"https://ref.ly/Ps139:23-Ps139:24\">PSA 139:23–139:24</a>; <a href=\"https://ref.ly/Prov5:21\">PRO 5:21</a>; <a href=\"https://ref.ly/Jer17:10\">JER 17:10</a>, <a href=\"https://ref.ly/Jer20:12\">JER 20:12</a></p>\n<h2>The purpose of self-examination is to lead people to God and amendment of life</h2>\n<p><strong><a href=\"https://ref.ly/Lam3:40-Lam3:42\">LAM 3:40–3:42</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps42:5\">PSA 42:5</a>, <a href=\"https://ref.ly/Ps42:11\">PSA 42:11</a>, <a href=\"https://ref.ly/Ps43:5\">PSA 43:5</a>; <a href=\"https://ref.ly/Jas1:23-Jas1:25\">JAS 1:23–1:25</a></p>\n<h2>Self-examination is especially important when ministering to others</h2>\n<p><strong><a href=\"https://ref.ly/Gal6:1\">GAL 6:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom14:4\">ROM 14:4</a>; <a href=\"https://ref.ly/Gal6:3-Gal6:4\">GAL 6:3–6:4</a>; <a href=\"https://ref.ly/1Tim4:16\">1TI 4:16</a>; <a href=\"https://ref.ly/Jas3:1\">JAS 3:1</a></p>",
@@ -251,6 +251,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8662: meditation",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Sickle",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Sickle"
 }
 ]
 }

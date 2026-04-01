@@ -2,10 +2,10 @@
 {
 "content_id": "7010",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7010: The church as the people of God",
 "media_type": "Text",
-"index_reference": "7010: the church as the people of god",
+"index_reference": "7010",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"7020\" data-resourcetype=\"DictionaryOfBibleThemes\">7020: church, the</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7030\" data-resourcetype=\"DictionaryOfBibleThemes\">7030: unity</span></li></ul>",
@@ -26,7 +26,8 @@
 "label": "7030: unity",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

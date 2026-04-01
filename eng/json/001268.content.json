@@ -2,10 +2,10 @@
 {
 "content_id": "5730",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5730: orphans",
 "media_type": "Text",
-"index_reference": "5730: orphans",
+"index_reference": "5730",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Children whose parents are dead; a vulnerable group of people to whom God shows special kindness. He expects his people to do the same. Those who exploit them incur God's judgment.</p>\n<h2>Orphans as symbols</h2>\n<h3>Of weakness</h3>\n<p><strong><a href=\"https://ref.ly/Ps82:3\">PSA 82:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job29:12\">JOB 29:12</a>; <a href=\"https://ref.ly/Isa9:17\">ISA 9:17</a></p>\n<h3>Of disgrace</h3>\n<p><strong><a href=\"https://ref.ly/Lam5:1-Lam5:3\">LAM 5:1–5:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps109:9\">PSA 109:9</a>, <a href=\"https://ref.ly/Ps109:12\">PSA 109:12</a></p>\n<h2>God cares for orphans</h2>\n<p><strong><a href=\"https://ref.ly/Deut10:18\">DEU 10:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps10:14\">PSA 10:14</a>, <a href=\"https://ref.ly/Ps10:17-Ps10:18\">PSA 10:17–10:18</a>, <a href=\"https://ref.ly/Ps68:5\">PSA 68:5</a>, <a href=\"https://ref.ly/Ps146:9\">PSA 146:9</a>; <a href=\"https://ref.ly/Jer49:11\">JER 49:11</a>; <a href=\"https://ref.ly/Hos14:3\">HOS 14:3</a></p>\n<h2>God expects his people to care for orphans</h2>\n<h3>They are not to be oppressed</h3>\n<p><strong><a href=\"https://ref.ly/Zech7:10\">ZEC 7:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut24:17\">DEU 24:17</a>, <a href=\"https://ref.ly/Deut26:12-Deut26:13\">DEU 26:12–26:13</a>; <a href=\"https://ref.ly/Jer22:3\">JER 22:3</a></p>\n<h3>Caring for them brings blessing</h3>\n<p><strong><a href=\"https://ref.ly/Deut24:19\">DEU 24:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut14:28-Deut14:29\">DEU 14:28–14:29</a>; <a href=\"https://ref.ly/Isa1:17\">ISA 1:17</a>; <a href=\"https://ref.ly/Jer7:5-Jer7:7\">JER 7:5–7:7</a>; <a href=\"https://ref.ly/Jas1:27\">JAS 1:27</a></p>\n<h2>Exploitation of orphans is a mark of wickedness</h2>\n<p><strong><a href=\"https://ref.ly/Ps94:5-Ps94:6\">PSA 94:5–94:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job6:27\">JOB 6:27</a>, <a href=\"https://ref.ly/Job22:9\">JOB 22:9</a>, <a href=\"https://ref.ly/Job24:3\">JOB 24:3</a>, <a href=\"https://ref.ly/Job24:9\">JOB 24:9</a>, <a href=\"https://ref.ly/Job31:17\">JOB 31:17</a>, <a href=\"https://ref.ly/Job31:21\">JOB 31:21</a>; <a href=\"https://ref.ly/Isa1:23\">ISA 1:23</a>; <a href=\"https://ref.ly/Jer5:28\">JER 5:28</a>; <a href=\"https://ref.ly/Ezek22:7\">EZK 22:7</a></p>\n<h2>God punishes those who oppress orphans</h2>\n<p><strong><a href=\"https://ref.ly/Deut27:19\">DEU 27:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod22:22-Exod22:24\">EXO 22:22–22:24</a>; <a href=\"https://ref.ly/Prov23:10-Prov23:11\">PRO 23:10–23:11</a>; <a href=\"https://ref.ly/Isa10:1-Isa10:4\">ISA 10:1–10:4</a>; <a href=\"https://ref.ly/Mal3:5\">MAL 3:5</a></p>\n<h2>Orphans are included among God's people</h2>\n<p><a href=\"https://ref.ly/Deut16:11\">DEU 16:11</a>, <a href=\"https://ref.ly/Deut16:14\">DEU 16:14</a></p>\n<h2>Jesus Christ includes those who are spiritually fatherless</h2>\n<p><strong><a href=\"https://ref.ly/John14:18\">JHN 14:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gal4:5\">GAL 4:5</a>, <a href=\"https://ref.ly/Gal4:7\">GAL 4:7</a></p>\n<h2>Examples of orphans</h2>\n<p><a href=\"https://ref.ly/Gen11:27-Gen11:28\">GEN 11:27–11:28</a> <em>Lot</em>; ; <a href=\"https://ref.ly/Num27:1-Num27:5\">NUM 27:1–27:5</a> <em>the daughters of Zelophedad</em>; ; <a href=\"https://ref.ly/Esth2:7\">EST 2:7</a> <em>Esther</em></p>",
@@ -366,6 +366,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hazarmaveth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hazarmaveth"
 }
 ]
 }

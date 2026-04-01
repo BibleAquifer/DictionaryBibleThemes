@@ -2,10 +2,10 @@
 {
 "content_id": "7948",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7948: mission",
 "media_type": "Text",
-"index_reference": "7948: mission",
+"index_reference": "7948",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Specific actions that bear witness to the good news of what God has done for his people. Israel, Jesus Christ and the church all in their different ways bear witness to the saving acts of God in history. Christian mission is empowered by the Holy Spirit.</p>",
@@ -46,6 +46,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7953: mission, of the church",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Raphu",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Raphu"
 }
 ]
 }

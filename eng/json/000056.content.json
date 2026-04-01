@@ -2,10 +2,10 @@
 {
 "content_id": "1260",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1260: finger of God",
 "media_type": "Text",
-"index_reference": "1260: finger of god",
+"index_reference": "1260",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A figure of speech which gives expression to God's creative power and authority over his creation.</p>\n<h2>God creates with his finger</h2>\n<p><strong><a href=\"https://ref.ly/Ps8:3\">PSA 8:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa48:13\">ISA 48:13</a>, <a href=\"https://ref.ly/Isa64:8\">ISA 64:8</a></p>\n<h2>God writes with his finger</h2>\n<h3>He writes the law</h3>\n<p><strong><a href=\"https://ref.ly/Exod31:18\">EXO 31:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod24:12\">EXO 24:12</a>, <a href=\"https://ref.ly/Exod32:16\">EXO 32:16</a>, <a href=\"https://ref.ly/Exod34:1\">EXO 34:1</a></p>\n<h3>He writes judgment</h3>\n<p><strong><a href=\"https://ref.ly/Dan5:5\">DAN 5:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan5:24-Dan5:28\">DAN 5:24–5:28</a></p>\n<h2>God works miracles with his finger</h2>\n<h3>He sends plagues</h3>\n<p><strong><a href=\"https://ref.ly/Exod8:19\">EXO 8:19</a></strong></p>\n<h3>He exorcises evil spirits</h3>\n<p><strong><a href=\"https://ref.ly/Luke11:20\">LUK 11:20</a></strong></p>",
@@ -163,7 +163,8 @@
 "label": "5638: writing",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "4855",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4855: weather, as God's judgment",
 "media_type": "Text",
-"index_reference": "4855: weather, as god's judgment",
+"index_reference": "4855",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The weather can be seen as an expression of God's judgment and grace, as well as providing insights concerning human nature.</p>\n<h2>The weather as an expression of God's judgment</h2>\n<h3>Judgment in battle</h3>\n<p><strong><a href=\"https://ref.ly/Josh10:11\">JOS 10:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam22:10-2Sam22:15\">2SA 22:10–22:15</a>; <a href=\"https://ref.ly/Isa30:30\">ISA 30:30</a>; <a href=\"https://ref.ly/Ezek38:22\">EZK 38:22</a></p>\n<h3>Judgment in general</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs17:1\">1KI 17:1</a></strong>; <strong><a href=\"https://ref.ly/Hag1:10-Hag1:11\">HAG 1:10–1:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen7:11-Gen7:12\">GEN 7:11–7:12</a>; <a href=\"https://ref.ly/Exod9:22-Exod9:26\">EXO 9:22–9:26</a>; <a href=\"https://ref.ly/Lev26:18-Lev26:19\">LEV 26:18–26:19</a>; <a href=\"https://ref.ly/Deut11:17\">DEU 11:17</a>, <a href=\"https://ref.ly/Deut28:22-Deut28:24\">DEU 28:22–28:24</a>; <a href=\"https://ref.ly/Jer3:3\">JER 3:3</a>, <a href=\"https://ref.ly/Jer14:1-Jer14:6\">JER 14:1–14:6</a>; <a href=\"https://ref.ly/Ezek22:24\">EZK 22:24</a>; <a href=\"https://ref.ly/Amos4:7\">AMO 4:7</a>; <a href=\"https://ref.ly/Zech14:17-Zech14:19\">ZEC 14:17–14:19</a></p>\n<h2>The weather as a source of spiritual insight</h2>\n<h3>About the shortness of life</h3>\n<p><strong><a href=\"https://ref.ly/Jas4:14\">JAS 4:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job7:9\">JOB 7:9</a>, <a href=\"https://ref.ly/Job24:19\">JOB 24:19</a>, <a href=\"https://ref.ly/Job30:15\">JOB 30:15</a>; <a href=\"https://ref.ly/Hos13:3\">HOS 13:3</a>; <a href=\"https://ref.ly/Jas1:11\">JAS 1:11</a></p>\n<h3>About empty profession</h3>\n<p><strong><a href=\"https://ref.ly/Hos6:4\">HOS 6:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job6:15-Job6:17\">JOB 6:15–6:17</a>; <a href=\"https://ref.ly/Prov25:14\">PRO 25:14</a>; <a href=\"https://ref.ly/2Pet2:17\">2PE 2:17</a></p>\n<h3>About God's judgment</h3>\n<p><strong><a href=\"https://ref.ly/Jer23:19\">JER 23:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer4:11\">JER 4:11</a>; <a href=\"https://ref.ly/Hos8:7\">HOS 8:7</a></p>\n<h3>About God's salvation</h3>\n<p><strong><a href=\"https://ref.ly/Isa55:10-Isa55:11\">ISA 55:10–55:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa44:22\">ISA 44:22</a>, <a href=\"https://ref.ly/Isa45:8\">ISA 45:8</a></p>\n<h3>About righteous rule</h3>\n<p><strong><a href=\"https://ref.ly/2Sam23:3-2Sam23:4\">2SA 23:3–23:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps72:6\">PSA 72:6</a>; <a href=\"https://ref.ly/Prov16:15\">PRO 16:15</a>; <a href=\"https://ref.ly/Isa25:4-Isa25:5\">ISA 25:4–25:5</a></p>\n<h3>About wholesome teaching</h3>\n<p><strong><a href=\"https://ref.ly/Deut32:2\">DEU 32:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job29:23\">JOB 29:23</a></p>\n<h3>About the troubles of life</h3>\n<p><a href=\"https://ref.ly/Matt7:24-Matt7:27\">MAT 7:24–7:27</a></p>\n<h3>About the signs of the times</h3>\n<p><strong><a href=\"https://ref.ly/Matt16:2-Matt16:3\">MAT 16:2–16:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke12:54-Luke12:56\">LUK 12:54–12:56</a></p>",
@@ -335,6 +335,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4852: thunder",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Diotrephes",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Diotrephes"
 }
 ]
 }

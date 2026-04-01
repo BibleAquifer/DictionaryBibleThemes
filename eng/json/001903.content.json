@@ -2,10 +2,10 @@
 {
 "content_id": "7724",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7724: evangelists",
 "media_type": "Text",
-"index_reference": "7724: evangelists",
+"index_reference": "7724",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Those called by God to announce good news and, especially, to proclaim the good news of Jesus Christ. The work was first committed to the apostles and then to other believers gifted by the Holy Spirit for the task.</p>",
@@ -26,7 +26,8 @@
 "label": "7726: evangelists, ministry of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

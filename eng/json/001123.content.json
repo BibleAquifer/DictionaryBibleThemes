@@ -2,10 +2,10 @@
 {
 "content_id": "5557",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5557: stoning",
 "media_type": "Text",
-"index_reference": "5557: stoning",
+"index_reference": "5557",
 "language": "eng",
 "review_level": "None",
 "content": "<p>To strike an offender with stones until he or she is dead. Stoning normally took place outside the city walls. The prosecution witnesses, of whom there must be at least two, had to throw the first stones, followed if necessary by the spectators.</p>\n<h2>Stoning was the punishment for certain offences under the Mosaic law</h2>\n<p><a href=\"https://ref.ly/Lev20:1-Lev20:2\">LEV 20:1–20:2</a>, <a href=\"https://ref.ly/Lev20:27\">LEV 20:27</a>, <a href=\"https://ref.ly/Lev24:13-Lev24:14\">LEV 24:13–24:14</a>; ; <a href=\"https://ref.ly/Deut13:6-Deut13:10\">DEU 13:6–13:10</a>, <a href=\"https://ref.ly/Deut17:2-Deut17:7\">DEU 17:2–17:7</a>, <a href=\"https://ref.ly/Deut22:23-Deut22:24\">DEU 22:23–22:24</a></p>\n<h2>Examples of stoning in upholding the Mosaic law</h2>\n<p><a href=\"https://ref.ly/Lev24:23\">LEV 24:23</a>; ; <a href=\"https://ref.ly/Num15:32-Num15:36\">NUM 15:32–15:36</a>; ; <a href=\"https://ref.ly/Josh7:24-Josh7:25\">JOS 7:24–7:25</a>; ; <a href=\"https://ref.ly/1Kgs21:13-1Kgs21:15\">1KI 21:13–21:15</a>; ; <a href=\"https://ref.ly/John8:1-John8:11\">JHN 8:1–8:11</a></p>\n<h2>Examples of the threatened or actual stoning of God's servants</h2>\n<p><a href=\"https://ref.ly/Num14:10\">NUM 14:10</a> <em>Joshua and Caleb</em>; ; <a href=\"https://ref.ly/1Sam30:6\">1SA 30:6</a> <em>David</em>; ; <a href=\"https://ref.ly/2Sam16:6\">2SA 16:6</a>; ; <a href=\"https://ref.ly/2Chr24:20-2Chr24:21\">2CH 24:20–24:21</a>; <a href=\"https://ref.ly/John8:59\">JHN 8:59</a>, <a href=\"https://ref.ly/John10:31-John10:33\">JHN 10:31–10:33</a>; \n<a href=\"https://ref.ly/Acts7:58-Acts7:59\">ACT 7:58–7:59</a> <em>Stephen</em>; <a href=\"https://ref.ly/Acts14:19\">ACT 14:19</a>; ; <a href=\"https://ref.ly/2Cor11:25\">2CO 11:25</a>; \n<a href=\"https://ref.ly/Heb11:37\">HEB 11:37</a></p>",
@@ -195,7 +195,8 @@
 "label": "9020: death",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

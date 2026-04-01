@@ -2,10 +2,10 @@
 {
 "content_id": "5130",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5130: beard",
 "media_type": "Text",
-"index_reference": "5130: beard",
+"index_reference": "5130",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>References to the beard</h2>\n<p><strong><a href=\"https://ref.ly/Ezek5:1\">EZK 5:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg16:17\">JDG 16:17</a>; <a href=\"https://ref.ly/1Sam21:13\">1SA 21:13</a>; <a href=\"https://ref.ly/2Sam20:9\">2SA 20:9</a>; <a href=\"https://ref.ly/Ps133:2\">PSA 133:2</a></p>\n<h2>Cutting or pulling the beard</h2>\n<h3>In grief</h3>\n<p><strong><a href=\"https://ref.ly/Jer48:37\">JER 48:37</a></strong> <em>Moab is in mourning.</em> <em>See also</em> <a href=\"https://ref.ly/Isa15:2\">ISA 15:2</a>; <a href=\"https://ref.ly/Jer41:5\">JER 41:5</a></p>\n<h3>In dismay</h3>\n<p><strong><a href=\"https://ref.ly/Ezra9:3\">EZR 9:3</a></strong></p>\n<h3>In the ceremony of cleansing</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Lev14:9\">LEV 14:9</a></p>\n<h3>As an extreme insult</h3>\n<p><a href=\"https://ref.ly/2Sam10:4-2Sam10:5\">2SA 10:4–10:5</a> parallel <a href=\"https://ref.ly/1Chr19:4-1Chr19:5\">1CH 19:4–19:5</a>; ; <a href=\"https://ref.ly/Isa7:20\">ISA 7:20</a>, <a href=\"https://ref.ly/Isa50:6\">ISA 50:6</a></p>\n<h3>Cutting the edges of the beard was forbidden</h3>\n<p><a href=\"https://ref.ly/Lev19:27\">LEV 19:27</a> <em>This is a prohibition still adhered to by some Jews today</em>; ; <a href=\"https://ref.ly/Lev21:5\">LEV 21:5</a></p>",
@@ -165,7 +165,8 @@
 "label": "7422: ritual",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

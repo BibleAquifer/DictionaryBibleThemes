@@ -2,10 +2,10 @@
 {
 "content_id": "1440",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1440: revelation, through creation",
 "media_type": "Text",
-"index_reference": "1440: revelation, through creation",
+"index_reference": "1440",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The creation bears witness to the wisdom and power of its creator. This natural knowledge of God is limited in its extent, but is sufficient to convince human beings of the existence of God and the need to respond to him.</p>\n<h2>The creation bears witness to its creator</h2>\n<p><strong><a href=\"https://ref.ly/Ps19:1-Ps19:6\">PSA 19:1–19:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job36:22-Job37:18\">JOB 36:22–37:18</a>; <a href=\"https://ref.ly/Amos4:13\">AMO 4:13</a>; <a href=\"https://ref.ly/Acts14:15-Acts14:17\">ACT 14:15–14:17</a></p>\n<h2>All human beings have a natural awareness of God</h2>\n<p><strong><a href=\"https://ref.ly/Rom2:14-Rom2:15\">ROM 2:14–2:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts17:22-Acts17:31\">ACT 17:22–17:31</a></p>\n<h2>The limitations of a natural knowledge of God</h2>\n<p><strong><a href=\"https://ref.ly/Rom1:18-Rom1:21\">ROM 1:18–1:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom1:32\">ROM 1:32</a>; <a href=\"https://ref.ly/1Cor1:20-1Cor1:21\">1CO 1:20–1:21</a></p>",
@@ -116,7 +116,8 @@
 "label": "8135: knowing God, nature of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

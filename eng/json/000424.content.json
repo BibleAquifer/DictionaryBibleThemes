@@ -2,10 +2,10 @@
 {
 "content_id": "4420",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4420: breakfast",
 "media_type": "Text",
-"index_reference": "4420: breakfast",
+"index_reference": "4420",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Breakfast is the first meal of the day</h2>\n<p><strong><a href=\"https://ref.ly/John21:1-John21:13\">JHN 21:1–21:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg19:5-Judg19:10\">JDG 19:5–19:10</a></p>",
@@ -45,6 +45,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4476: meals",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Capital",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Capital"
 }
 ]
 }

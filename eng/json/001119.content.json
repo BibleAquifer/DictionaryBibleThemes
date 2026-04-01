@@ -2,10 +2,10 @@
 {
 "content_id": "5553",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5553: stairways",
 "media_type": "Text",
-"index_reference": "5553: stairways",
+"index_reference": "5553",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Steps which provide access to upper levels, usually of buildings. The term is also used figuratively as a means of ascent from earth to heaven.</p>\n<h2>Stairways relating to places of worship</h2>\n<h3>In Solomon's temple</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs6:8\">1KI 6:8</a></strong></p>\n<h3>Used by the Levites</h3>\n<p><strong><a href=\"https://ref.ly/Neh9:4\">NEH 9:4</a></strong></p>\n<h3>In Ezekiel's vision of the new temple</h3>\n<p><strong><a href=\"https://ref.ly/Ezek40:49\">EZK 40:49</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek40:6\">EZK 40:6</a>, <a href=\"https://ref.ly/Ezek40:22\">EZK 40:22</a>, <a href=\"https://ref.ly/Ezek40:26\">EZK 40:26</a>, <a href=\"https://ref.ly/Ezek40:31\">EZK 40:31</a>, <a href=\"https://ref.ly/Ezek40:34\">EZK 40:34</a>, <a href=\"https://ref.ly/Ezek40:37\">EZK 40:37</a>, <a href=\"https://ref.ly/Ezek40:49\">EZK 40:49</a>, <a href=\"https://ref.ly/Ezek41:7\">EZK 41:7</a>, <a href=\"https://ref.ly/Ezek43:17\">EZK 43:17</a></p>\n<h3>Steps forbidden for the altar</h3>\n<p><strong><a href=\"https://ref.ly/Exod20:26\">EXO 20:26</a></strong></p>\n<h2>Stairways relating to royalty</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs10:19-1Kgs10:20\">1KI 10:19–10:20</a></strong> parallel <a href=\"https://ref.ly/2Chr9:18-2Chr9:19\">2CH 9:18–9:19</a> <em>See also</em> <a href=\"https://ref.ly/2Kgs9:13\">2KI 9:13</a>, <a href=\"https://ref.ly/2Kgs20:11\">2KI 20:11</a> parallel <a href=\"https://ref.ly/Isa38:8\">ISA 38:8</a></p>\n<h2>Stairways in city walls and fortresses</h2>\n<p><strong><a href=\"https://ref.ly/Neh3:15\">NEH 3:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh3:19\">NEH 3:19</a>, <a href=\"https://ref.ly/Neh12:37\">NEH 12:37</a>; <a href=\"https://ref.ly/Acts21:35\">ACT 21:35</a>, <a href=\"https://ref.ly/Acts21:40\">ACT 21:40</a></p>\n<h2>Stairways in houses</h2>\n<h3>For access to upper floors and basements</h3>\n<p><strong><a href=\"https://ref.ly/Acts9:39\">ACT 9:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam18:33\">2SA 18:33</a>; <a href=\"https://ref.ly/1Kgs17:19\">1KI 17:19</a>; <a href=\"https://ref.ly/Acts1:13\">ACT 1:13</a>, <a href=\"https://ref.ly/Acts9:37\">ACT 9:37</a>, <a href=\"https://ref.ly/Acts10:20\">ACT 10:20</a>, <a href=\"https://ref.ly/Acts20:8\">ACT 20:8</a>, <a href=\"https://ref.ly/Acts20:11\">ACT 20:11</a></p>\n<h2>Figurative use of stairways</h2>\n<p><strong><a href=\"https://ref.ly/Gen28:12\">GEN 28:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/John1:51\">JHN 1:51</a></p>",
@@ -233,7 +233,8 @@
 "label": "5604: walls",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5052",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5052: responsibility, to God",
 "media_type": "Text",
-"index_reference": "5052: responsibility, to god",
+"index_reference": "5052",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Even though God is sovereign, all people everywhere are accountable to him for everything they do, say or think.</p>\n<h2>People are responsible for their own sins</h2>\n<h3>God is not responsible for human sin</h3>\n<p><strong><a href=\"https://ref.ly/Deut24:16\">DEU 24:16</a></strong>; <strong><a href=\"https://ref.ly/Ezek18:4\">EZK 18:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job19:4\">JOB 19:4</a>; <a href=\"https://ref.ly/Ps51:4-Ps51:5\">PSA 51:4–51:5</a>; <a href=\"https://ref.ly/Jer31:30\">JER 31:30</a>; <a href=\"https://ref.ly/Ezek18:20\">EZK 18:20</a>, <a href=\"https://ref.ly/Ezek33:1-Ezek33:20\">EZK 33:1–33:20</a>; <a href=\"https://ref.ly/Rom6:23\">ROM 6:23</a></p>\n<h3>Death is the result of sin</h3>\n<p><strong><a href=\"https://ref.ly/Rom5:12\">ROM 5:12</a>, <a href=\"https://ref.ly/Rom6:23\">ROM 6:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen3:1-Gen3:7\">GEN 3:1–3:7</a>; <a href=\"https://ref.ly/Isa43:27\">ISA 43:27</a>; <a href=\"https://ref.ly/Ezek18:4\">EZK 18:4</a>; <a href=\"https://ref.ly/1Cor15:21-1Cor15:22\">1CO 15:21–15:22</a></p>\n<h2>The law heightens human responsibility for sin</h2>\n<h3>It brings knowledge of sin</h3>\n<p><strong><a href=\"https://ref.ly/Rom5:20\">ROM 5:20</a></strong> <em>Because the law brings knowledge of sin, it prevents people from claiming ignorance of the nature and seriousness of that sin.</em> <em>See also</em> <a href=\"https://ref.ly/Rom7:7-Rom7:9\">ROM 7:7–7:9</a>; <a href=\"https://ref.ly/Gal3:19\">GAL 3:19</a></p>\n<h3>It applies not only to actions but also to words and thoughts</h3>\n<p><strong><a href=\"https://ref.ly/Matt5:22\">MAT 5:22</a>, <a href=\"https://ref.ly/Matt5:28\">MAT 5:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer17:9-Jer17:10\">JER 17:9–17:10</a>; <a href=\"https://ref.ly/Matt15:18-Matt15:19\">MAT 15:18–15:19</a></p>\n<h3>It brings judgment</h3>\n<p><strong><a href=\"https://ref.ly/Eccl12:14\">ECC 12:14</a></strong>; <strong><a href=\"https://ref.ly/Matt12:36-Matt12:37\">MAT 12:36–12:37</a></strong>; <strong><a href=\"https://ref.ly/1Cor4:5\">1CO 4:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job15:5-Job15:6\">JOB 15:5–15:6</a>; <a href=\"https://ref.ly/Rom2:16\">ROM 2:16</a>, <a href=\"https://ref.ly/Rom14:12\">ROM 14:12</a>; <a href=\"https://ref.ly/2Cor5:10\">2CO 5:10</a>; <a href=\"https://ref.ly/1Pet4:5\">1PE 4:5</a>; <a href=\"https://ref.ly/Jude1:15\">JUD 1:15</a></p>\n<h2>Ignorance does not remove responsibility</h2>\n<p><strong><a href=\"https://ref.ly/Lev5:17\">LEV 5:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke12:48\">LUK 12:48</a>; <a href=\"https://ref.ly/Acts3:17-Acts3:19\">ACT 3:17–3:19</a>; <a href=\"https://ref.ly/Rom1:20\">ROM 1:20</a></p>\n<h2>The responsibility of humanity to repent and believe</h2>\n<h3>It is commanded by God</h3>\n<p><strong><a href=\"https://ref.ly/Acts17:30\">ACT 17:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek18:30\">EZK 18:30</a>; <a href=\"https://ref.ly/Matt4:17\">MAT 4:17</a>; <a href=\"https://ref.ly/Mark1:15\">MRK 1:15</a>, <a href=\"https://ref.ly/Mark6:12\">MRK 6:12</a>; <a href=\"https://ref.ly/Luke24:46-Luke24:47\">LUK 24:46–24:47</a></p>\n<h3>Jesus Christ's life and ministry heightens the responsibility to repent</h3>\n<p><strong><a href=\"https://ref.ly/John3:18\">JHN 3:18</a>, <a href=\"https://ref.ly/John15:22\">JHN 15:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt11:20-Matt11:24\">MAT 11:20–11:24</a>, <a href=\"https://ref.ly/Matt12:41-Matt12:42\">MAT 12:41–12:42</a> parallel <a href=\"https://ref.ly/Luke11:31-Luke11:32\">LUK 11:31–11:32</a>; <a href=\"https://ref.ly/John12:48\">JHN 12:48</a></p>",
@@ -346,6 +346,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8495: witnessing",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Elpelet",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elpelet"
 }
 ]
 }

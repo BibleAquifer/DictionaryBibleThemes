@@ -2,10 +2,10 @@
 {
 "content_id": "5419",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5419: mourning",
 "media_type": "Text",
-"index_reference": "5419: mourning",
+"index_reference": "5419",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The expression of grief at a time of bereavement or repentance, often accompanied by weeping, tearing of clothes and wearing sackcloth.</p>\n<h2>Regulations for the mourning of priests after bereavement</h2>\n<p><a href=\"https://ref.ly/Lev21:1-Lev21:4\">LEV 21:1–21:4</a>, <a href=\"https://ref.ly/Lev21:10-Lev21:11\">LEV 21:10–21:11</a></p>\n<h2>Mourning of God's people after bereavement</h2>\n<h3>Israel for Aaron</h3>\n<p><strong><a href=\"https://ref.ly/Num20:29\">NUM 20:29</a></strong></p>\n<h3>Israel for Moses</h3>\n<p><strong><a href=\"https://ref.ly/Deut34:8\">DEU 34:8</a></strong></p>\n<h3>David for Saul and Jonathan</h3>\n<p><strong><a href=\"https://ref.ly/2Sam1:11-2Sam1:12\">2SA 1:11–1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam1:17-2Sam1:27\">2SA 1:17–1:27</a></p>\n<h3>David for Absalom</h3>\n<p><strong><a href=\"https://ref.ly/2Sam18:33\">2SA 18:33</a></strong></p>\n<h3>Job for his children</h3>\n<p><strong><a href=\"https://ref.ly/Job1:20-Job1:21\">JOB 1:20–1:21</a></strong></p>\n<h3>Other examples</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Gen37:34-Gen37:35\">GEN 37:34–37:35</a>, <a href=\"https://ref.ly/Gen50:11\">GEN 50:11</a>; <a href=\"https://ref.ly/2Sam13:31\">2SA 13:31</a>, <a href=\"https://ref.ly/2Sam14:2\">2SA 14:2</a>; <a href=\"https://ref.ly/2Chr35:23-2Chr35:25\">2CH 35:23–35:25</a>; <a href=\"https://ref.ly/Matt2:18\">MAT 2:18</a>; <a href=\"https://ref.ly/John11:31\">JHN 11:31</a>, <a href=\"https://ref.ly/John11:33\">JHN 11:33</a>; <a href=\"https://ref.ly/Acts8:2\">ACT 8:2</a></p>\n<h2>Examples of heathen mourning after bereavement</h2>\n<p><a href=\"https://ref.ly/Isa15:2-Isa15:3\">ISA 15:2–15:3</a>; ; <a href=\"https://ref.ly/Jer47:5\">JER 47:5</a>, <a href=\"https://ref.ly/Jer48:37\">JER 48:37</a>; ; <a href=\"https://ref.ly/Ezek27:30-Ezek27:32\">EZK 27:30–27:32</a></p>\n<h2>Mourning as an expression of repentance</h2>\n<p><a href=\"https://ref.ly/Exod33:4\">EXO 33:4</a>; ; <a href=\"https://ref.ly/Ezra9:3-Ezra9:6\">EZR 9:3–9:6</a></p>\n<h2>Mourning because of misfortune</h2>\n<p><a href=\"https://ref.ly/2Sam13:9\">2SA 13:9</a>; ; <a href=\"https://ref.ly/Job2:12-Job2:13\">JOB 2:12–2:13</a></p>\n<h2>The employment of professional mourners</h2>\n<p><a href=\"https://ref.ly/Jer9:17-Jer9:18\">JER 9:17–9:18</a>; ; <a href=\"https://ref.ly/Amos5:16\">AMO 5:16</a>; ; <a href=\"https://ref.ly/Matt9:23\">MAT 9:23</a> parallels <a href=\"https://ref.ly/Mark5:39\">MRK 5:39</a>, <a href=\"https://ref.ly/Luke8:52\">LUK 8:52</a></p>\n<h2>Mourning spoken of metaphorically</h2>\n<p><strong><a href=\"https://ref.ly/Jer7:29\">JER 7:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa3:18-Isa3:24\">ISA 3:18–3:24</a>; <a href=\"https://ref.ly/Ezek7:18\">EZK 7:18</a>; <a href=\"https://ref.ly/Joel1:8\">JOL 1:8</a>; <a href=\"https://ref.ly/Amos8:10\">AMO 8:10</a>; <a href=\"https://ref.ly/Mic1:16\">MIC 1:16</a></p>\n<h3>As a sign of repentance for sin</h3>\n<p><strong><a href=\"https://ref.ly/Joel2:12-Joel2:13\">JOL 2:12–2:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa22:12\">ISA 22:12</a></p>",
@@ -303,6 +303,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9020: death",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Gentile",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gentiles"
 }
 ]
 }

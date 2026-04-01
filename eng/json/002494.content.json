@@ -2,10 +2,10 @@
 {
 "content_id": "9170",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9170: signs of the times",
 "media_type": "Text",
-"index_reference": "9170: signs of the times",
+"index_reference": "9170",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Portents marking significant historical events. In Scripture the phrase refers principally to signs indicating the coming of the Messiah and the kingdom of God (both in the ministry of Jesus Christ and at the end of time).</p>\n<h2>Signs of the times signifying the future deliverance of Judah</h2>\n<p><a href=\"https://ref.ly/2Kgs19:29-2Kgs19:31\">2KI 19:29–19:31</a> parallel <a href=\"https://ref.ly/Isa37:30-Isa37:32\">ISA 37:30–37:32</a> <em>The fruitfulness of the earth is to be a sign to Hezekiah that there will be a fruitful remnant of Judah.</em></p>\n<h2>Signs of the times in the life of Jesus Christ</h2>\n<h3>The virgin birth of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Isa7:14\">ISA 7:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt1:22-Matt1:23\">MAT 1:22–1:23</a></p>\n<h3>The miracles of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Matt12:28\">MAT 12:28</a></strong> parallel <a href=\"https://ref.ly/Luke11:20\">LUK 11:20</a> <em>See also</em> <a href=\"https://ref.ly/John2:11\">JHN 2:11</a>, <a href=\"https://ref.ly/John2:23\">JHN 2:23</a>, <a href=\"https://ref.ly/John3:2\">JHN 3:2</a>, <a href=\"https://ref.ly/John4:54\">JHN 4:54</a>, <a href=\"https://ref.ly/John6:2\">JHN 6:2</a>, <a href=\"https://ref.ly/John6:14\">JHN 6:14</a>, <a href=\"https://ref.ly/John9:16\">JHN 9:16</a>, <a href=\"https://ref.ly/John11:47\">JHN 11:47</a>, <a href=\"https://ref.ly/John12:17-John12:18\">JHN 12:17–12:18</a>, <a href=\"https://ref.ly/John20:30\">JHN 20:30</a></p>\n<h3>Jesus Christ's resurrection</h3>\n<p><strong><a href=\"https://ref.ly/Matt12:38-Matt12:40\">MAT 12:38–12:40</a></strong> parallel <a href=\"https://ref.ly/Luke11:29-Luke11:30\">LUK 11:29–11:30</a> <em>See also</em> <a href=\"https://ref.ly/Matt16:4\">MAT 16:4</a>; <a href=\"https://ref.ly/John2:18-John2:22\">JHN 2:18–2:22</a></p>\n<h3>The Jews failed to perceive the signs of the times accompanying Jesus Christ's coming</h3>\n<p><strong><a href=\"https://ref.ly/Matt16:1-Matt16:4\">MAT 16:1–16:4</a></strong> parallel <a href=\"https://ref.ly/Mark8:11-Mark8:13\">MRK 8:11–8:13</a> <em>See also</em> <a href=\"https://ref.ly/Luke12:54-Luke12:56\">LUK 12:54–12:56</a>; <a href=\"https://ref.ly/John12:37\">JHN 12:37</a></p>\n<h2>Signs of the times at the end of the age</h2>\n<p><strong><a href=\"https://ref.ly/Matt24:3-Matt24:14\">MAT 24:3–24:14</a></strong> parallels <a href=\"https://ref.ly/Mark13:3-Mark13:13\">MRK 13:3–13:13</a>, <a href=\"https://ref.ly/Luke21:7-Luke21:19\">LUK 21:7–21:19</a><strong><a href=\"https://ref.ly/Luke21:25-Luke21:28\">LUK 21:25–21:28</a></strong> parallels <a href=\"https://ref.ly/Matt24:29-Matt24:30\">MAT 24:29–24:30</a>, <a href=\"https://ref.ly/Mark13:24-Mark13:26\">MRK 13:24–13:26</a></p>\n<h3>It is impossible to predict the date of Jesus Christ's return from the signs of the times</h3>\n<p><strong><a href=\"https://ref.ly/1Thess5:1-1Thess5:2\">1TH 5:1–5:2</a></strong></p>\n<h2>Signs of the times signifying judgment</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/Isa20:3-Isa20:4\">ISA 20:3–20:4</a>; <a href=\"https://ref.ly/Matt24:15-Matt24:25\">MAT 24:15–24:25</a> parallels <a href=\"https://ref.ly/Mark13:14-Mark13:23\">MRK 13:14–13:23</a>, <a href=\"https://ref.ly/Luke21:20-Luke21:24\">LUK 21:20–21:24</a> <em>The fall of Jerusalem is itself a sign of the judgment of all people at the end of time.</em></p>\n<h2>Interpreting the signs of the times</h2>\n<p><strong><a href=\"https://ref.ly/Mark13:28-Mark13:29\">MRK 13:28–13:29</a></strong> parallels <a href=\"https://ref.ly/Matt24:32-Matt24:33\">MAT 24:32–24:33</a>, <a href=\"https://ref.ly/Luke21:29-Luke21:31\">LUK 21:29–21:31</a> <em>See also</em> <a href=\"https://ref.ly/1Chr12:32\">1CH 12:32</a></p>",
@@ -316,6 +316,57 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9240: last judgment",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Zedekiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "person:Zedekiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "person:Zedekiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "person:Zedekiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "person:Zedekiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "person:Zedekiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zedekiah"
+},
+{
+"id": "person:Jehoiakim",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jehoiakim"
 }
 ]
 }

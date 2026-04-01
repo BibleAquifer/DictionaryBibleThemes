@@ -2,10 +2,10 @@
 {
 "content_id": "5810",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5810: complacency",
 "media_type": "Text",
-"index_reference": "5810: complacency",
+"index_reference": "5810",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A self-satisfied state of negligence or carelessness, especially in relation to one's personal situation.</p>\n<h2>Spiritual complacency</h2>\n<p><strong><a href=\"https://ref.ly/Zeph1:12\">ZEP 1:12</a></strong>; <strong><a href=\"https://ref.ly/Luke12:19\">LUK 12:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut8:14\">DEU 8:14</a>; <a href=\"https://ref.ly/2Chr20:33\">2CH 20:33</a>; <a href=\"https://ref.ly/Ps10:4\">PSA 10:4</a>; <a href=\"https://ref.ly/Isa43:22\">ISA 43:22</a>, <a href=\"https://ref.ly/Isa64:7\">ISA 64:7</a>; <a href=\"https://ref.ly/Jer10:21\">JER 10:21</a>; <a href=\"https://ref.ly/Ezek33:31\">EZK 33:31</a>; <a href=\"https://ref.ly/Dan9:13\">DAN 9:13</a>; <a href=\"https://ref.ly/Hos7:7\">HOS 7:7</a>; <a href=\"https://ref.ly/Zeph1:6\">ZEP 1:6</a>; <a href=\"https://ref.ly/Heb6:12\">HEB 6:12</a>, <a href=\"https://ref.ly/Heb12:25\">HEB 12:25</a></p>\n<h2>Examples of complacency</h2>\n<p><strong><a href=\"https://ref.ly/Jer6:14\">JER 6:14</a></strong>; <strong><a href=\"https://ref.ly/Obad1:3\">OBA 1:3</a></strong>; <strong><a href=\"https://ref.ly/1Cor5:1-1Cor5:2\">1CO 5:1–5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov30:20\">PRO 30:20</a>; <a href=\"https://ref.ly/Isa16:6\">ISA 16:6</a>; <a href=\"https://ref.ly/Ezek28:2\">EZK 28:2</a>; <a href=\"https://ref.ly/Hag1:2\">HAG 1:2</a>; <a href=\"https://ref.ly/Mal1:6-Mal1:14\">MAL 1:6–1:14</a>; <a href=\"https://ref.ly/Matt7:26\">MAT 7:26</a>, <a href=\"https://ref.ly/Matt22:5\">MAT 22:5</a>, <a href=\"https://ref.ly/Matt26:33\">MAT 26:33</a>; <a href=\"https://ref.ly/Luke12:47-Luke12:48\">LUK 12:47–12:48</a>, <a href=\"https://ref.ly/Luke14:18\">LUK 14:18</a>; <a href=\"https://ref.ly/1Cor4:8\">1CO 4:8</a>; <a href=\"https://ref.ly/Rev3:15-Rev3:17\">REV 3:15–3:17</a></p>\n<h2>Warnings against complacency</h2>\n<p><strong><a href=\"https://ref.ly/Amos6:1\">AMO 6:1</a></strong>; <strong><a href=\"https://ref.ly/2Cor13:5\">2CO 13:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov1:32\">PRO 1:32</a>, <a href=\"https://ref.ly/Prov10:4\">PRO 10:4</a>, <a href=\"https://ref.ly/Prov12:27\">PRO 12:27</a>; <a href=\"https://ref.ly/Eccl10:18\">ECC 10:18</a>; <a href=\"https://ref.ly/Isa32:9\">ISA 32:9</a>, <a href=\"https://ref.ly/Isa32:11\">ISA 32:11</a>, <a href=\"https://ref.ly/Isa47:8-Isa47:9\">ISA 47:8–47:9</a>; <a href=\"https://ref.ly/Ezek30:9\">EZK 30:9</a>; <a href=\"https://ref.ly/1Cor10:12\">1CO 10:12</a>; <a href=\"https://ref.ly/Heb2:3\">HEB 2:3</a></p>",
@@ -322,7 +322,8 @@
 "label": "8823: self-righteousness",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

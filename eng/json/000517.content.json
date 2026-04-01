@@ -2,10 +2,10 @@
 {
 "content_id": "4669",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4669: locust",
 "media_type": "Text",
-"index_reference": "4669: locust",
+"index_reference": "4669",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The most destructive of all biblical insects, also used figuratively as a devouring pest.</p>\n<h2>There was no defence against locusts</h2>\n<p><strong><a href=\"https://ref.ly/Joel2:4-Joel2:5\">JOL 2:4–2:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov30:27\">PRO 30:27</a></p>\n<h2>Locusts were frequently a sign of God's judgment</h2>\n<p><strong><a href=\"https://ref.ly/Deut28:38\">DEU 28:38</a></strong>; <strong><a href=\"https://ref.ly/Amos4:9\">AMO 4:9</a></strong> <a href=\"https://ref.ly/Exod10:4\">EXO 10:4</a>, <a href=\"https://ref.ly/Exod10:12-Exod10:14\">EXO 10:12–10:14</a>, <a href=\"https://ref.ly/Exod10:19\">EXO 10:19</a>; \n<a href=\"https://ref.ly/Deut28:42\">DEU 28:42</a> <em>curses for disobedience</em>; ; <a href=\"https://ref.ly/1Kgs8:37\">1KI 8:37</a> parallel <a href=\"https://ref.ly/2Chr6:28\">2CH 6:28</a>; ; <a href=\"https://ref.ly/2Chr7:13-2Chr7:14\">2CH 7:13–7:14</a>; ; <a href=\"https://ref.ly/Ps78:46\">PSA 78:46</a>, <a href=\"https://ref.ly/Ps105:34\">PSA 105:34</a>; ; <a href=\"https://ref.ly/Joel1:4\">JOL 1:4</a>, <a href=\"https://ref.ly/Joel2:25\">JOL 2:25</a>; ; <a href=\"https://ref.ly/Amos7:1\">AMO 7:1</a></p>\n<h2>Locusts were a source of food</h2>\n<p><strong><a href=\"https://ref.ly/Lev11:22\">LEV 11:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt3:4\">MAT 3:4</a> parallel <a href=\"https://ref.ly/Mark1:6\">MRK 1:6</a></p>\n<h2>Locusts used figuratively</h2>\n<h3>Of numerous and destructive invaders</h3>\n<p><strong><a href=\"https://ref.ly/Judg7:12\">JDG 7:12</a></strong>; <strong><a href=\"https://ref.ly/Isa33:4\">ISA 33:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg6:5\">JDG 6:5</a>; <a href=\"https://ref.ly/Jer46:23\">JER 46:23</a>, <a href=\"https://ref.ly/Jer51:14\">JER 51:14</a>, <a href=\"https://ref.ly/Jer51:27\">JER 51:27</a>; <a href=\"https://ref.ly/Nah3:15-Nah3:17\">NAM 3:15–3:17</a></p>\n<h3>Of terrifying end-time activity</h3>\n<p><strong><a href=\"https://ref.ly/Rev9:3\">REV 9:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev9:7\">REV 9:7</a></p>",
@@ -215,6 +215,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Locust",
+"type": "fauna",
+"confidence": 0.8342,
+"match_method": "scored",
+"preferred_label": "Locust"
 }
 ]
 }

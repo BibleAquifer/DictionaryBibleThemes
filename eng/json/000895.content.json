@@ -2,10 +2,10 @@
 {
 "content_id": "5308",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5308: equality",
 "media_type": "Text",
-"index_reference": "5308: equality",
+"index_reference": "5308",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture declares that all people are equal in the sight of God, and that all are equally in need of the redemption achieved through the saving death of Jesus Christ. All believers have equal status before God, despite differences in their social standing and background.</p>\n<h2>The equality of Father and Son</h2>\n<h3>Jesus Christ claims equality with God</h3>\n<p><strong><a href=\"https://ref.ly/John5:18\">JHN 5:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/John10:30\">JHN 10:30</a>; <a href=\"https://ref.ly/Matt11:27\">MAT 11:27</a>; <a href=\"https://ref.ly/John17:10-John17:22\">JHN 17:10–17:22</a></p>\n<h3>The apostles treat Jesus Christ as equal with God</h3>\n<p><strong><a href=\"https://ref.ly/2Thess2:16-2Thess2:17\">2TH 2:16–2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts2:38\">ACT 2:38</a>; <a href=\"https://ref.ly/Gal1:3\">GAL 1:3</a>; <a href=\"https://ref.ly/Phil2:6\">PHP 2:6</a>; <a href=\"https://ref.ly/1Thess3:11\">1TH 3:11</a>; <a href=\"https://ref.ly/1John5:20\">1JN 5:20</a></p>\n<h2>The equality of all people before God</h2>\n<h3>God is the maker of all people, whatever their status</h3>\n<p><strong><a href=\"https://ref.ly/Prov22:2\">PRO 22:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts17:26\">ACT 17:26</a></p>\n<h3>All people have sinned, whatever their origin or status</h3>\n<p><strong><a href=\"https://ref.ly/Rom3:22-Rom3:24\">ROM 3:22–3:24</a></strong></p>\n<h3>God shows no partiality in his dealings with people</h3>\n<p><strong><a href=\"https://ref.ly/Deut10:17\">DEU 10:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job31:13-Job31:15\">JOB 31:13–31:15</a>; <a href=\"https://ref.ly/Rom2:11\">ROM 2:11</a>; <a href=\"https://ref.ly/Eph6:9\">EPH 6:9</a>; <a href=\"https://ref.ly/1Pet1:17\">1PE 1:17</a></p>\n<h3>The gospel is proclaimed equally to all</h3>\n<p><strong><a href=\"https://ref.ly/Acts10:34\">ACT 10:34</a></strong></p>\n<h3>All believers are one, whatever their origin, status or gender</h3>\n<p><strong><a href=\"https://ref.ly/Gal3:28\">GAL 3:28</a></strong></p>\n<h2>Equality among believers</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/1Cor12:25\">1CO 12:25</a>; <a href=\"https://ref.ly/2Cor8:13-2Cor8:14\">2CO 8:13–8:14</a>, <a href=\"https://ref.ly/2Cor11:12\">2CO 11:12</a></p>\n<h3>Believers must not give preferential treatment to the rich</h3>\n<p><strong><a href=\"https://ref.ly/Jas2:2-Jas2:4\">JAS 2:2–2:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev19:15\">LEV 19:15</a></p>\n<h3>Believers must not show favouritism</h3>\n<p><strong><a href=\"https://ref.ly/Jas2:9\">JAS 2:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim5:21\">1TI 5:21</a>; <a href=\"https://ref.ly/Jas2:1\">JAS 2:1</a></p>",
@@ -258,7 +258,8 @@
 "label": "8800: prejudice",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

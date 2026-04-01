@@ -2,10 +2,10 @@
 {
 "content_id": "5684",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5684: fathers",
 "media_type": "Text",
-"index_reference": "5684: fathers",
+"index_reference": "5684",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The male parent of children. Scripture indicates the role and responsibilities of fathers, and shows how God can be thought of as a loving father, who directs and guides his children.</p>",
@@ -26,7 +26,8 @@
 "label": "5686: fathers, examples of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

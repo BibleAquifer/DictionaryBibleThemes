@@ -2,16 +2,32 @@
 {
 "content_id": "5469",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5469: promise, of Holy Spirit",
 "media_type": "Text",
-"index_reference": "5469: promise, of holy spirit",
+"index_reference": "5469",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"3040.md\">3040: Holy Spirit, promise of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Gilgal.4",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gilgal"
+},
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilee"
+}
+]
 }
 }
 ]

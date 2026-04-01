@@ -2,10 +2,10 @@
 {
 "content_id": "5249",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5249: census",
 "media_type": "Text",
-"index_reference": "5249: census",
+"index_reference": "5249",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The counting of individuals, usually for the purpose of war or taxation.</p>\n<h2>Motivations for a census</h2>\n<h3>To count the number of fighting men available</h3>\n<p><strong><a href=\"https://ref.ly/Num1:1-Num1:4\">NUM 1:1–1:4</a>, <a href=\"https://ref.ly/Num26:1-Num26:4\">NUM 26:1–26:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num1:5-Num1:49\">NUM 1:5–1:49</a>, <a href=\"https://ref.ly/Num26:5-Num26:65\">NUM 26:5–26:65</a></p>\n<h3>For ascertaining those qualified to be included in the Jewish community</h3>\n<p><a href=\"https://ref.ly/Ezra2:1-Ezra2:65\">EZR 2:1–2:65</a> parallel <a href=\"https://ref.ly/Neh7:6-Neh7:67\">NEH 7:6–7:67</a></p>\n<h3>For purposes of taxation</h3>\n<p><strong><a href=\"https://ref.ly/Luke2:2\">LUK 2:2</a></strong>; <strong><a href=\"https://ref.ly/Acts5:37\">ACT 5:37</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod30:12\">EXO 30:12</a></p>\n<h2>God's anger at David's unauthorised census</h2>\n<p><a href=\"https://ref.ly/2Sam24:1-2Sam24:9\">2SA 24:1–24:9</a> parallel <a href=\"https://ref.ly/1Chr21:1-1Chr21:6\">1CH 21:1–21:6</a> <em>David's sin in taking this census was probably that he did so from a motive of self-sufficiency rather than trusting in God.</em></p>",
@@ -99,6 +99,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7230: genealogies",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Felix",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Felix"
 }
 ]
 }

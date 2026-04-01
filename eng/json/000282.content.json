@@ -2,10 +2,10 @@
 {
 "content_id": "3266",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3266: Holy Spirit, in creation",
 "media_type": "Text",
-"index_reference": "3266: holy spirit, in creation",
+"index_reference": "3266",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The Holy Spirit was active with the Father and the Word in creation. He is the active power of God present within creation.</p>\n<h2>The Holy Spirit is involved in creative activity</h2>\n<p><strong><a href=\"https://ref.ly/Gen1:2\">GEN 1:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job26:13\">JOB 26:13</a>; <a href=\"https://ref.ly/Ps33:6\">PSA 33:6</a> <em>The word translated “breath” is the same word that is used for “Spirit”.</em></p>\n<h2>The Holy Spirit is the breath of life throughout creation</h2>\n<p><strong><a href=\"https://ref.ly/Gen2:7\">GEN 2:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job12:10\">JOB 12:10</a>, <a href=\"https://ref.ly/Job32:8\">JOB 32:8</a>, <a href=\"https://ref.ly/Job33:4\">JOB 33:4</a>, <a href=\"https://ref.ly/Job34:14-Job34:15\">JOB 34:14–34:15</a>; <a href=\"https://ref.ly/Ps104:30\">PSA 104:30</a></p>\n<h2>The Holy Spirit is present everywhere in creation</h2>\n<p><strong><a href=\"https://ref.ly/Ps139:7-Ps139:8\">PSA 139:7–139:8</a></strong></p>\n<h2>The Holy Spirit controls nature and history</h2>\n<p><strong><a href=\"https://ref.ly/Isa34:16\">ISA 34:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:7\">ISA 40:7</a></p>\n<h2>The Holy Spirit enables creative achievement</h2>\n<p><strong><a href=\"https://ref.ly/Exod31:1-Exod31:5\">EXO 31:1–31:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod35:30-Exod35:35\">EXO 35:30–35:35</a></p>",
@@ -166,6 +166,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5081: Adam, creation and life of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Abana",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abanah"
 }
 ]
 }

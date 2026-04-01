@@ -2,10 +2,10 @@
 {
 "content_id": "7223",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7223: exodus, spiritual significance of",
 "media_type": "Text",
-"index_reference": "7223: exodus, spiritual significance of",
+"index_reference": "7223",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture records the many instances of praise being given to God on account of the exodus. The events of the exodus, however, reveal the lack of faith, the hardness of heart and the spiritual stubbornness that can persist among believers. Scripture warns of the consequences of these things. In addition the exodus is seen as an act of divine deliverance which foreshadows the greater act of salvation through Jesus Christ.</p>\n<h2>How great God is: remember what he has done</h2>\n<h3>The song of Moses and Miriam after the crossing of the Red Sea</h3>\n<p><strong><a href=\"https://ref.ly/Exod15:1-Exod15:4\">EXO 15:1–15:4</a></strong></p>\n<h3>The psalmist praises God for his deliverance in the exodus</h3>\n<p><strong><a href=\"https://ref.ly/Ps77:19-Ps77:20\">PSA 77:19–77:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps78:12-Ps78:14\">PSA 78:12–78:14</a>, <a href=\"https://ref.ly/Ps78:51-Ps78:53\">PSA 78:51–78:53</a>, <a href=\"https://ref.ly/Ps105:26-Ps105:45\">PSA 105:26–105:45</a>, <a href=\"https://ref.ly/Ps106:7-Ps106:12\">PSA 106:7–106:12</a>, <a href=\"https://ref.ly/Ps114:1-Ps114:4\">PSA 114:1–114:4</a>, <a href=\"https://ref.ly/Ps136:13-Ps136:16\">PSA 136:13–136:16</a></p>\n<h3>Joshua compares the crossing of the Jordan to the crossing of the Red Sea</h3>\n<p><strong><a href=\"https://ref.ly/Josh4:23-Josh4:24\">JOS 4:23–4:24</a></strong></p>\n<h3>Nehemiah leads the people in praise of God by reciting all his wonderful deeds</h3>\n<p><strong><a href=\"https://ref.ly/Neh9:9-Neh9:12\">NEH 9:9–9:12</a></strong></p>\n<h2>God did great things in the past: he will do them again</h2>\n<p><strong><a href=\"https://ref.ly/Deut7:17-Deut7:19\">DEU 7:17–7:19</a></strong></p>\n<h3>Rahab recounts what the LORD did at the Red Sea</h3>\n<p><strong><a href=\"https://ref.ly/Josh2:10-Josh2:11\">JOS 2:10–2:11</a></strong></p>\n<h3>Isaiah looks forward to a future deliverance as a second exodus</h3>\n<p><strong><a href=\"https://ref.ly/Isa43:16-Isa43:19\">ISA 43:16–43:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa11:15-Isa11:16\">ISA 11:15–11:16</a>, <a href=\"https://ref.ly/Isa51:10\">ISA 51:10</a></p>\n<h2>The exodus is remembered at the renewal of the covenant at Shechem</h2>\n<p><strong><a href=\"https://ref.ly/Josh24:16-Josh24:18\">JOS 24:16–24:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh24:5-Josh24:7\">JOS 24:5–24:7</a></p>\n<h2>Warnings against hardness of heart</h2>\n<p><strong><a href=\"https://ref.ly/Heb3:7-Heb3:9\">HEB 3:7–3:9</a>, <a href=\"https://ref.ly/Heb3:16\">HEB 3:16</a></strong>; <strong><a href=\"https://ref.ly/1Cor10:1-1Cor10:5\">1CO 10:1–10:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps95:7-Ps95:11\">PSA 95:7–95:11</a></p>\n<h2>The disobedience of the Israelites despite their knowledge of God's deliverance</h2>\n<p><strong><a href=\"https://ref.ly/1Sam12:8-1Sam12:9\">1SA 12:8–12:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg6:7-Judg6:10\">JDG 6:7–6:10</a>; <a href=\"https://ref.ly/2Chr7:22\">2CH 7:22</a>; <a href=\"https://ref.ly/Jer2:5-Jer2:6\">JER 2:5–2:6</a>, <a href=\"https://ref.ly/Jer7:22-Jer7:26\">JER 7:22–7:26</a>, <a href=\"https://ref.ly/Jer11:1-Jer11:8\">JER 11:1–11:8</a><strong><a href=\"https://ref.ly/Acts7:36-Acts7:39\">ACT 7:36–7:39</a></strong></p>\n<h2>A picture of the deliverance from sin won for believers by Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Heb4:2\">HEB 4:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Heb3:1-Heb4:13\">HEB 3:1–4:13</a></p>\n<h2>The exodus as a sign of God's love</h2>\n<p><strong><a href=\"https://ref.ly/Hos11:1\">HOS 11:1</a></strong></p>\n<h2>The exodus as an example of faith</h2>\n<p><strong><a href=\"https://ref.ly/Heb11:29\">HEB 11:29</a></strong></p>",
@@ -274,6 +274,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8840: unfaithfulness, to God",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:HermonMount",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Mount Hermon"
 }
 ]
 }

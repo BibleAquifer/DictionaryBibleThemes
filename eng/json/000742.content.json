@@ -2,10 +2,10 @@
 {
 "content_id": "5153",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5153: foot-washing",
 "media_type": "Text",
-"index_reference": "5153: foot-washing",
+"index_reference": "5153",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A practice of hospitality used by Jesus Christ to express his servanthood.</p>\n<h2>Foot-washing as a sign of courteous hospitality</h2>\n<p><strong><a href=\"https://ref.ly/Gen18:4\">GEN 18:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen19:2\">GEN 19:2</a>; <a href=\"https://ref.ly/Judg19:21\">JDG 19:21</a>; <a href=\"https://ref.ly/1Sam25:41\">1SA 25:41</a>; <a href=\"https://ref.ly/Luke7:44\">LUK 7:44</a></p>\n<h2>Jesus Christ washes his disciples' feet</h2>\n<p><strong><a href=\"https://ref.ly/John13:3-John13:5\">JHN 13:3–13:5</a></strong> <em>The washing of feet was a lowly task normally performed by a servant.</em></p>\n<h3>As an example of servanthood for his followers</h3>\n<p><strong><a href=\"https://ref.ly/John13:14\">JHN 13:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt20:26-Matt20:27\">MAT 20:26–20:27</a> parallel <a href=\"https://ref.ly/Mark10:44-Mark10:45\">MRK 10:44–10:45</a>; <a href=\"https://ref.ly/Luke22:26-Luke22:27\">LUK 22:26–22:27</a>; <a href=\"https://ref.ly/1Tim5:10\">1TI 5:10</a></p>\n<h3>As a symbol of spiritual cleansing</h3>\n<p><strong><a href=\"https://ref.ly/John13:6-John13:10\">JHN 13:6–13:10</a></strong></p>",
@@ -140,6 +140,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8445: hospitality",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Eshtaol",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Eshtaol"
 }
 ]
 }

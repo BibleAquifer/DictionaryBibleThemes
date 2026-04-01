@@ -2,16 +2,25 @@
 {
 "content_id": "8285",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8285: joy, of Jesus Christ",
 "media_type": "Text",
-"index_reference": "8285: joy, of jesus christ",
+"index_reference": "8285",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"2039.md\">2039: Jesus Christ, joy of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Shamsherai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shamsherai"
+}
+]
 }
 }
 ]

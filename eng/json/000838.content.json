@@ -2,10 +2,10 @@
 {
 "content_id": "5250",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5250: centurion",
 "media_type": "Text",
-"index_reference": "5250: centurion",
+"index_reference": "5250",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A Roman military officer in charge of one hundred soldiers.</p>\n<h2>The centurion who asked Jesus Christ to heal his servant</h2>\n<p><strong><a href=\"https://ref.ly/Matt8:5-Matt8:9\">MAT 8:5–8:9</a></strong> parallel <a href=\"https://ref.ly/Luke7:2-Luke7:8\">LUK 7:2–7:8</a></p>\n<h2>The centurion present at the death of Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt27:54\">MAT 27:54</a></strong> parallels <a href=\"https://ref.ly/Mark15:39\">MRK 15:39</a>, <a href=\"https://ref.ly/Luke23:47\">LUK 23:47</a> <em>See also</em> <a href=\"https://ref.ly/Mark15:44-Mark15:45\">MRK 15:44–15:45</a></p>\n<h2>The centurion Cornelius</h2>\n<p><a href=\"https://ref.ly/Acts10:1-Acts10:48\">ACT 10:1–10:48</a>, <a href=\"https://ref.ly/Acts11:1-Acts11:18\">ACT 11:1–11:18</a></p>\n<h2>The centurions involved in guarding Paul</h2>\n<p><a href=\"https://ref.ly/Acts22:25-Acts22:26\">ACT 22:25–22:26</a>, <a href=\"https://ref.ly/Acts23:17-Acts23:18\">ACT 23:17–23:18</a>, <a href=\"https://ref.ly/Acts23:23\">ACT 23:23</a>, <a href=\"https://ref.ly/Acts24:23\">ACT 24:23</a>, <a href=\"https://ref.ly/Acts27:1\">ACT 27:1</a>, <a href=\"https://ref.ly/Acts27:3\">ACT 27:3</a>, <a href=\"https://ref.ly/Acts27:6\">ACT 27:6</a>, <a href=\"https://ref.ly/Acts27:11\">ACT 27:11</a>, <a href=\"https://ref.ly/Acts27:31\">ACT 27:31</a>, <a href=\"https://ref.ly/Acts27:43\">ACT 27:43</a></p>",
@@ -163,7 +163,8 @@
 "label": "5544: soldiers",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

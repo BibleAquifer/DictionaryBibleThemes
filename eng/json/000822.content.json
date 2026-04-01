@@ -2,10 +2,10 @@
 {
 "content_id": "5234",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5234: bottle",
 "media_type": "Text",
-"index_reference": "5234: bottle",
+"index_reference": "5234",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Bottles made from animal skins</h2>\n<h3>Holding wine</h3>\n<p><a href=\"https://ref.ly/Josh9:4\">JOS 9:4</a>, <a href=\"https://ref.ly/Josh9:13\">JOS 9:13</a>; ; <a href=\"https://ref.ly/1Sam1:24\">1SA 1:24</a>, <a href=\"https://ref.ly/1Sam10:3\">1SA 10:3</a>, <a href=\"https://ref.ly/1Sam16:20\">1SA 16:20</a>; ; <a href=\"https://ref.ly/2Sam16:1\">2SA 16:1</a>; ; <a href=\"https://ref.ly/Job32:19\">JOB 32:19</a>; ; <a href=\"https://ref.ly/Matt9:17\">MAT 9:17</a> parallels <a href=\"https://ref.ly/Mark2:22\">MRK 2:22</a>, <a href=\"https://ref.ly/Luke5:37-Luke5:38\">LUK 5:37–5:38</a></p>\n<h3>Holding water</h3>\n<p><a href=\"https://ref.ly/Gen21:14-Gen21:15\">GEN 21:14–21:15</a>, <a href=\"https://ref.ly/Gen21:19\">GEN 21:19</a>; ; <a href=\"https://ref.ly/Ps56:8\">PSA 56:8</a></p>\n<h3>Holding milk</h3>\n<p><a href=\"https://ref.ly/Judg4:19\">JDG 4:19</a></p>\n<h2>Earthenware bottles</h2>\n<p><a href=\"https://ref.ly/1Kgs14:3\">1KI 14:3</a>; ; <a href=\"https://ref.ly/Job38:37\">JOB 38:37</a>; ; <a href=\"https://ref.ly/Ps33:7\">PSA 33:7</a>; ; <a href=\"https://ref.ly/Jer19:1\">JER 19:1</a>, <a href=\"https://ref.ly/Jer19:10\">JER 19:10</a></p>\n<h2>Bottles for oil and ointment</h2>\n<p><a href=\"https://ref.ly/1Sam10:1\">1SA 10:1</a>; ; <a href=\"https://ref.ly/2Kgs9:1\">2KI 9:1</a>; ; <a href=\"https://ref.ly/Isa3:20\">ISA 3:20</a>; ; <a href=\"https://ref.ly/Matt26:7\">MAT 26:7</a> parallels <a href=\"https://ref.ly/Mark14:3\">MRK 14:3</a>, <a href=\"https://ref.ly/Luke7:37\">LUK 7:37</a></p>",
@@ -218,6 +218,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5445: potters and pottery",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Skin-bottle",
+"type": "realia",
+"confidence": 0.6494,
+"match_method": "scored",
+"preferred_label": "Skin-Bottle"
 }
 ]
 }

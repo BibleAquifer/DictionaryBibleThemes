@@ -2,10 +2,10 @@
 {
 "content_id": "4100",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4100: Supernatural beings",
 "media_type": "Text",
-"index_reference": "4100: supernatural beings",
+"index_reference": "4100",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"4110\" data-resourcetype=\"DictionaryOfBibleThemes\">4110: angels</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4120\" data-resourcetype=\"DictionaryOfBibleThemes\">4120: Satan</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4130\" data-resourcetype=\"DictionaryOfBibleThemes\">4130: demons</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4140\" data-resourcetype=\"DictionaryOfBibleThemes\">4140: angel of the Lord</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4145\" data-resourcetype=\"DictionaryOfBibleThemes\">4145: archangels</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4150\" data-resourcetype=\"DictionaryOfBibleThemes\">4150: cherubim</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4155\" data-resourcetype=\"DictionaryOfBibleThemes\">4155: divination</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4160\" data-resourcetype=\"DictionaryOfBibleThemes\">4160: driving out</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4165\" data-resourcetype=\"DictionaryOfBibleThemes\">4165: exorcism</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4170\" data-resourcetype=\"DictionaryOfBibleThemes\">4170: host of heaven</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4175\" data-resourcetype=\"DictionaryOfBibleThemes\">4175: mediums</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4180\" data-resourcetype=\"DictionaryOfBibleThemes\">4180: seraphim</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4185\" data-resourcetype=\"DictionaryOfBibleThemes\">4185: sorcery and magic</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4190\" data-resourcetype=\"DictionaryOfBibleThemes\">4190: spiritism</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"4195\" data-resourcetype=\"DictionaryOfBibleThemes\">4195: spirits</span></li></ul>",
@@ -116,6 +116,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4195: spirits",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ben-deker",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ben-deker"
 }
 ]
 }

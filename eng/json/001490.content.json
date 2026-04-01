@@ -2,10 +2,10 @@
 {
 "content_id": "5978",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5978: warning",
 "media_type": "Text",
-"index_reference": "5978: warning",
+"index_reference": "5978",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Telling someone of coming disaster or danger or of the consequences of their action or attitude. Scripture gives strong warnings against idolatry, sin and false teaching.</p>\n<h2>Warnings of coming disaster or danger</h2>\n<p><strong><a href=\"https://ref.ly/Gen41:28-Gen41:32\">GEN 41:28–41:32</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen19:12-Gen19:13\">GEN 19:12–19:13</a>; <a href=\"https://ref.ly/Esth4:12-Esth4:17\">EST 4:12–4:17</a>; <a href=\"https://ref.ly/Matt24:6-Matt24:7\">MAT 24:6–24:7</a> parallels <a href=\"https://ref.ly/Mark13:7-Mark13:8\">MRK 13:7–13:8</a>, <a href=\"https://ref.ly/Luke21:9-Luke21:11\">LUK 21:9–21:11</a>; <a href=\"https://ref.ly/Matt24:15-Matt24:22\">MAT 24:15–24:22</a> parallels <a href=\"https://ref.ly/Mark13:14-Mark13:20\">MRK 13:14–13:20</a>, <a href=\"https://ref.ly/Luke21:20-Luke21:24\">LUK 21:20–21:24</a>; <a href=\"https://ref.ly/Acts21:10-Acts21:11\">ACT 21:10–21:11</a>, <a href=\"https://ref.ly/Acts23:16-Acts23:21\">ACT 23:16–23:21</a></p>\n<h2>Warnings against idolatry</h2>\n<p><strong><a href=\"https://ref.ly/Deut6:14-Deut6:15\">DEU 6:14–6:15</a>, <a href=\"https://ref.ly/Deut8:19\">DEU 8:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut7:25\">DEU 7:25</a>, <a href=\"https://ref.ly/Deut11:16\">DEU 11:16</a>, <a href=\"https://ref.ly/Deut29:18-Deut29:21\">DEU 29:18–29:21</a>; <a href=\"https://ref.ly/Jer7:9-Jer7:15\">JER 7:9–7:15</a>, <a href=\"https://ref.ly/Jer25:4-Jer25:11\">JER 25:4–25:11</a>; <a href=\"https://ref.ly/1Cor10:7-1Cor10:11\">1CO 10:7–10:11</a>; <a href=\"https://ref.ly/1John5:21\">1JN 5:21</a></p>\n<h2>Warnings against sin</h2>\n<p><strong><a href=\"https://ref.ly/2Chr19:10\">2CH 19:10</a></strong>; <strong><a href=\"https://ref.ly/Matt5:29-Matt5:30\">MAT 5:29–5:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen2:16-Gen2:17\">GEN 2:16–2:17</a>; <a href=\"https://ref.ly/Isa13:11\">ISA 13:11</a>; <a href=\"https://ref.ly/Jer21:14\">JER 21:14</a>; <a href=\"https://ref.ly/Ezek3:17-Ezek3:19\">EZK 3:17–3:19</a>, <a href=\"https://ref.ly/Ezek33:7-Ezek33:9\">EZK 33:7–33:9</a>; <a href=\"https://ref.ly/John5:14\">JHN 5:14</a>; <a href=\"https://ref.ly/Acts2:40\">ACT 2:40</a>; <a href=\"https://ref.ly/Rom2:8-Rom2:9\">ROM 2:8–2:9</a>, <a href=\"https://ref.ly/Rom6:23\">ROM 6:23</a>; <a href=\"https://ref.ly/1Cor6:9-1Cor6:10\">1CO 6:9–6:10</a>; <a href=\"https://ref.ly/2Thess1:8-2Thess1:9\">2TH 1:8–1:9</a></p>\n<h2>Warnings against false teaching</h2>\n<p><strong><a href=\"https://ref.ly/Gal1:7-Gal1:8\">GAL 1:7–1:8</a></strong>; <strong><a href=\"https://ref.ly/2Pet3:17\">2PE 3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt10:32-Matt10:33\">MAT 10:32–10:33</a> parallel <a href=\"https://ref.ly/Luke12:8-Luke12:10\">LUK 12:8–12:10</a>; <a href=\"https://ref.ly/Matt16:6\">MAT 16:6</a>; <a href=\"https://ref.ly/Luke12:1\">LUK 12:1</a>; <a href=\"https://ref.ly/Phil3:2\">PHP 3:2</a>; <a href=\"https://ref.ly/Col2:8\">COL 2:8</a>; <a href=\"https://ref.ly/Titus1:10-Titus1:11\">TIT 1:10–1:11</a>; <a href=\"https://ref.ly/2John1:7-2John1:11\">2JN 1:7–1:11</a>; <a href=\"https://ref.ly/Jude1:4\">JUD 1:4</a></p>",
@@ -360,6 +360,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ibri",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ibri"
 }
 ]
 }

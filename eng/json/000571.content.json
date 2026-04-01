@@ -2,10 +2,10 @@
 {
 "content_id": "4847",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4847: smallness",
 "media_type": "Text",
-"index_reference": "4847: smallness",
+"index_reference": "4847",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Smallness with regard to size</h2>\n<p><strong><a href=\"https://ref.ly/Jas3:4-Jas3:5\">JAS 3:4–3:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen19:20\">GEN 19:20</a>; <a href=\"https://ref.ly/Exod12:4\">EXO 12:4</a>; <a href=\"https://ref.ly/Josh17:15\">JOS 17:15</a>; <a href=\"https://ref.ly/1Kgs17:13\">1KI 17:13</a>, <a href=\"https://ref.ly/1Kgs18:44\">1KI 18:44</a>, <a href=\"https://ref.ly/1Kgs20:27\">1KI 20:27</a>; <a href=\"https://ref.ly/2Kgs4:10\">2KI 4:10</a>, <a href=\"https://ref.ly/2Kgs6:1\">2KI 6:1</a>; <a href=\"https://ref.ly/Prov30:24-Prov30:28\">PRO 30:24–30:28</a> <em>smallness equated with wisdom</em>; <a href=\"https://ref.ly/Eccl9:14\">ECC 9:14</a>; <a href=\"https://ref.ly/Isa49:19-Isa49:20\">ISA 49:19–49:20</a>; <a href=\"https://ref.ly/Mic5:2\">MIC 5:2</a>; <a href=\"https://ref.ly/Matt7:14\">MAT 7:14</a>, <a href=\"https://ref.ly/Matt17:20\">MAT 17:20</a>; <a href=\"https://ref.ly/Luke17:6\">LUK 17:6</a>; <a href=\"https://ref.ly/Acts27:16\">ACT 27:16</a></p>\n<h2>Smallness with regard to importance and social standing</h2>\n<p><strong><a href=\"https://ref.ly/Deut1:17\">DEU 1:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs22:31\">1KI 22:31</a> parallel <a href=\"https://ref.ly/2Chr18:30\">2CH 18:30</a>; <a href=\"https://ref.ly/2Chr15:13\">2CH 15:13</a>; <a href=\"https://ref.ly/Job3:16-Job3:19\">JOB 3:16–3:19</a>; <a href=\"https://ref.ly/Ps115:13\">PSA 115:13</a>; <a href=\"https://ref.ly/Jer49:15\">JER 49:15</a> parallel <a href=\"https://ref.ly/Obad1:2\">OBA 1:2</a>; <a href=\"https://ref.ly/Acts26:22\">ACT 26:22</a>; <a href=\"https://ref.ly/Rev11:18\">REV 11:18</a>, <a href=\"https://ref.ly/Rev13:16\">REV 13:16</a>, <a href=\"https://ref.ly/Rev19:5\">REV 19:5</a>, <a href=\"https://ref.ly/Rev19:18\">REV 19:18</a>, <a href=\"https://ref.ly/Rev20:12\">REV 20:12</a></p>\n<h2>Smallness with regard to insignificance</h2>\n<p><strong><a href=\"https://ref.ly/1Sam18:23\">1SA 18:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam15:17\">1SA 15:17</a>, <a href=\"https://ref.ly/1Sam20:2\">1SA 20:2</a>; <a href=\"https://ref.ly/1Kgs2:20\">1KI 2:20</a>; <a href=\"https://ref.ly/Isa49:6\">ISA 49:6</a>; <a href=\"https://ref.ly/Luke19:17\">LUK 19:17</a></p>\n<h2>Smallness with regard to weakness</h2>\n<p><strong><a href=\"https://ref.ly/Amos7:2-Amos7:5\">AMO 7:2–7:5</a></strong></p>",
@@ -289,6 +289,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8357: weakness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Dibon.3",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dimon"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5848",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5848: exaggeration",
 "media_type": "Text",
-"index_reference": "5848: exaggeration",
+"index_reference": "5848",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An overstatement of something, usually relating to its importance or value. People exaggerate because of fear, envy, pride or self-pity. Exaggeration can also be used positively to good effect, for example, in the teaching of Jesus Christ.</p>\n<h2>Exaggeration of difficulties through fear</h2>\n<p><strong><a href=\"https://ref.ly/Num13:32-Num13:33\">NUM 13:32–13:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut1:28\">DEU 1:28</a>, <a href=\"https://ref.ly/Deut9:1\">DEU 9:1</a></p>\n<h2>Exaggeration of the lifestyle of others through envy</h2>\n<p><strong><a href=\"https://ref.ly/Job21:7-Job21:10\">JOB 21:7–21:10</a></strong> <em>Job's complaint that the wicked often appear to prosper is stated with exaggeration in order to make his point clear.</em> <em>See also</em> <a href=\"https://ref.ly/Ps73:3-Ps73:12\">PSA 73:3–73:12</a></p>\n<h2>Exaggerating one's status or abilities through pride</h2>\n<p><strong><a href=\"https://ref.ly/Ezek27:3\">EZK 27:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek28:2\">EZK 28:2</a>; <a href=\"https://ref.ly/Hos12:8\">HOS 12:8</a>; <a href=\"https://ref.ly/Matt8:19\">MAT 8:19</a> parallel <a href=\"https://ref.ly/Luke9:57\">LUK 9:57</a>; <a href=\"https://ref.ly/Luke22:33\">LUK 22:33</a>; <a href=\"https://ref.ly/Acts12:21-Acts12:23\">ACT 12:21–12:23</a>; <a href=\"https://ref.ly/1Cor4:8\">1CO 4:8</a>; <a href=\"https://ref.ly/Rev3:17\">REV 3:17</a></p>\n<h2>Exaggeration of the achievements of others</h2>\n<p><strong><a href=\"https://ref.ly/1Sam21:11\">1SA 21:11</a></strong> <em>The reference to David as king by the Philistines may be an exaggeration reflecting the great success and popularity of David among the Israelite people.</em> <em>See also</em> <a href=\"https://ref.ly/1Sam18:7\">1SA 18:7</a>, <a href=\"https://ref.ly/1Sam29:5\">1SA 29:5</a></p>\n<h2>Exaggeration of troubles through self-pity</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs18:22\">1KI 18:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs19:10\">1KI 19:10</a>, <a href=\"https://ref.ly/1Kgs19:14\">1KI 19:14</a>, <a href=\"https://ref.ly/1Kgs19:18\">1KI 19:18</a>; <a href=\"https://ref.ly/Ps12:1-Ps12:2\">PSA 12:1–12:2</a></p>\n<h2>Exaggeration of the appearance of others through admiration</h2>\n<p>These verses represent exaggeration typical in poetic descriptive passages:\n <a href=\"https://ref.ly/Song5:10-Song5:16\">SNG 5:10–5:16</a>, <a href=\"https://ref.ly/Song7:1-Song7:9\">SNG 7:1–7:9</a></p>\n<h2>Exaggeration used by Jesus Christ as a teaching tool</h2>\n<p><strong><a href=\"https://ref.ly/Matt7:3-Matt7:5\">MAT 7:3–7:5</a></strong> parallel <a href=\"https://ref.ly/Luke6:41-Luke6:42\">LUK 6:41–6:42</a> <em>See also</em> <a href=\"https://ref.ly/Matt5:29-Matt5:30\">MAT 5:29–5:30</a>, <a href=\"https://ref.ly/Matt7:9-Matt7:10\">MAT 7:9–7:10</a> parallel <a href=\"https://ref.ly/Luke11:11-Luke11:12\">LUK 11:11–11:12</a>; <a href=\"https://ref.ly/Matt13:33\">MAT 13:33</a> parallel <a href=\"https://ref.ly/Luke13:20\">LUK 13:20</a>; <a href=\"https://ref.ly/Matt19:24\">MAT 19:24</a> parallels <a href=\"https://ref.ly/Mark10:25\">MRK 10:25</a>, <a href=\"https://ref.ly/Luke18:25\">LUK 18:25</a></p>",
@@ -279,6 +279,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8802: pride",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:HighPlace",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "High Place"
 }
 ]
 }

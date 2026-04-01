@@ -2,10 +2,10 @@
 {
 "content_id": "4145",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4145: archangels",
 "media_type": "Text",
-"index_reference": "4145: archangels",
+"index_reference": "4145",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The archangel associated with the second coming</h2>\n<p><strong><a href=\"https://ref.ly/1Thess4:16\">1TH 4:16</a></strong></p>\n<h2>The archangel Gabriel</h2>\n<h3>Gabriel as an interpreter of visions</h3>\n<p><strong><a href=\"https://ref.ly/Dan8:15-Dan8:26\">DAN 8:15–8:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan9:20-Dan9:27\">DAN 9:20–9:27</a></p>\n<h3>Gabriel as a messenger of God</h3>\n<p><strong><a href=\"https://ref.ly/Luke1:11-Luke1:20\">LUK 1:11–1:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke1:26-Luke1:38\">LUK 1:26–1:38</a></p>\n<h2>The archangel Michael</h2>\n<h3>Michael described as a prince</h3>\n<p><strong><a href=\"https://ref.ly/Dan10:12-Dan10:13\">DAN 10:12–10:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan10:21\">DAN 10:21</a></p>\n<h3>Michael depicted as a warrior and protector</h3>\n<p><strong><a href=\"https://ref.ly/Dan12:1\">DAN 12:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev12:7\">REV 12:7</a></p>\n<h3>Associated with the death of Moses</h3>\n<p><strong><a href=\"https://ref.ly/Jude1:9\">JUD 1:9</a></strong></p>",
@@ -121,6 +121,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9310: resurrection",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Besodeiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Besodeiah"
 }
 ]
 }

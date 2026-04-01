@@ -2,10 +2,10 @@
 {
 "content_id": "8727",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8727: enemies",
 "media_type": "Text",
-"index_reference": "8727: enemies",
+"index_reference": "8727",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Opponents or hostile forces which pose a threat to people or nations. Scripture identifies Satan as being the particular enemy of God and notes many enemies of the people of God. Scripture urges caution and courage in dealing with such enemies. Jesus Christ had enemies, and he provides an example of Christian conduct in the face of enemies' threats.</p>",
@@ -39,6 +39,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8731: enemy, Satan as the enemy of God",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Tamar.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "person:Tamar.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
+},
+{
+"id": "person:Tamar",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tamar"
 }
 ]
 }

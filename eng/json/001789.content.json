@@ -2,10 +2,10 @@
 {
 "content_id": "7354",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7354: feasts and festivals",
 "media_type": "Text",
-"index_reference": "7354: feasts and festivals",
+"index_reference": "7354",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The OT makes reference to a number of feasts and festivals, which generally commemorate an event in Israel's history (e.g., the Feast of Passover) or some season of the year (e.g., the Feast of Weeks). In the NT, some of these festivals are given new meanings, such as Pentecost, which was originally a harvest festival, but which came to celebrate the coming of the Holy Spirit.</p>",
@@ -60,6 +60,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7361: Feast of Weeks",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Nemuel.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nemuel"
+},
+{
+"id": "person:Jemuel",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jemuel"
 }
 ]
 }

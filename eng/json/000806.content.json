@@ -2,10 +2,10 @@
 {
 "content_id": "5217",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5217: authority, in the church",
 "media_type": "Text",
-"index_reference": "5217: authority, in the church",
+"index_reference": "5217",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The exercise of freedom under Jesus Christ's authority for the good of the church.</p>\n<h2>Supreme authority belongs to Jesus Christ as head of the church</h2>\n<p><strong><a href=\"https://ref.ly/Eph5:23\">EPH 5:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph1:22\">EPH 1:22</a>, <a href=\"https://ref.ly/Eph4:15\">EPH 4:15</a>, <a href=\"https://ref.ly/Eph5:24\">EPH 5:24</a>; <a href=\"https://ref.ly/Col1:18\">COL 1:18</a></p>\n<h2>Spiritual authority under Jesus Christ in the church is possessed by elders</h2>\n<h3>As shepherds who teach and care for the flock</h3>\n<p><strong><a href=\"https://ref.ly/Acts20:28\">ACT 20:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/John21:15-John21:17\">JHN 21:15–21:17</a>; <a href=\"https://ref.ly/Eph4:11-Eph4:13\">EPH 4:11–4:13</a>; <a href=\"https://ref.ly/1Tim3:2\">1TI 3:2</a>, <a href=\"https://ref.ly/1Tim5:17\">1TI 5:17</a>; <a href=\"https://ref.ly/Titus2:1-Titus2:10\">TIT 2:1–2:10</a>; <a href=\"https://ref.ly/1Pet5:2\">1PE 5:2</a></p>\n<h3>As overseers ruling the church</h3>\n<p><strong><a href=\"https://ref.ly/Acts20:28\">ACT 20:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom12:8\">ROM 12:8</a>; <a href=\"https://ref.ly/1Thess5:12\">1TH 5:12</a> <em>Those serving as overseers must rule their own homes well</em>; <a href=\"https://ref.ly/1Tim5:17\">1TI 5:17</a></p>\n<h2>The response of the church to the authority of elders</h2>\n<h3>Elders are to be obeyed</h3>\n<p><strong><a href=\"https://ref.ly/Heb13:17\">HEB 13:17</a></strong></p>\n<h3>Elders are to be honoured and respected</h3>\n<p><strong><a href=\"https://ref.ly/1Thess5:12-1Thess5:13\">1TH 5:12–5:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim5:17\">1TI 5:17</a></p>\n<h2>Paul limits the authority of women in the church</h2>\n<p><strong><a href=\"https://ref.ly/1Tim2:12\">1TI 2:12</a></strong> <em>Some believe Paul's restriction to apply to the women in the Ephesian church who were seizing authority rather than having been granted it. Others believe Paul is prohibiting women from being official teachers in the assembled church.</em> <em>See also</em> <a href=\"https://ref.ly/1Cor11:5-1Cor11:6\">1CO 11:5–11:6</a>, <a href=\"https://ref.ly/1Cor11:10\">1CO 11:10</a>, <a href=\"https://ref.ly/1Cor14:33-1Cor14:37\">1CO 14:33–14:37</a></p>\n<h3>The reason for this prohibition derives from God's order of creation</h3>\n<p><strong><a href=\"https://ref.ly/1Tim2:13-1Tim2:14\">1TI 2:13–2:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor11:3\">1CO 11:3</a>, <a href=\"https://ref.ly/1Cor11:7-1Cor11:10\">1CO 11:7–11:10</a></p>\n<h2>Kinds of authority within the church</h2>\n<h3>Authority to preach the gospel</h3>\n<p><a href=\"https://ref.ly/Matt28:18-Matt28:19\">MAT 28:18–28:19</a>; ; <a href=\"https://ref.ly/Mark16:15\">MRK 16:15</a></p>\n<h3>Authority to excommunicate</h3>\n<p><a href=\"https://ref.ly/Matt18:15-Matt18:18\">MAT 18:15–18:18</a>; ; <a href=\"https://ref.ly/1Cor5:1-1Cor5:5\">1CO 5:1–5:5</a> <em>“hand this man over to Satan” here means “send back into the world ruled by Satan”</em>; ; <a href=\"https://ref.ly/1Cor5:9-1Cor5:13\">1CO 5:9–5:13</a></p>\n<h3>Authority to forgive sins</h3>\n<p><a href=\"https://ref.ly/Matt18:18\">MAT 18:18</a>; ; <a href=\"https://ref.ly/John20:23\">JHN 20:23</a></p>",
@@ -227,6 +227,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7943: ministry, in the church",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:EzelStone",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezel"
 }
 ]
 }

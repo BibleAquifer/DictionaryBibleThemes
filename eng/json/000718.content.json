@@ -2,10 +2,10 @@
 {
 "content_id": "5129",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5129: bathing",
 "media_type": "Text",
-"index_reference": "5129: bathing",
+"index_reference": "5129",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Bathing as an act of ritual cleansing</h2>\n<p><strong><a href=\"https://ref.ly/Lev14:8-Lev14:9\">LEV 14:8–14:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev15:4-Lev15:11\">LEV 15:4–15:11</a>, <a href=\"https://ref.ly/Lev16:26-Lev16:28\">LEV 16:26–16:28</a>; <a href=\"https://ref.ly/Num19:7-Num19:8\">NUM 19:7–19:8</a></p>\n<h2>Bathing as a means of cleansing or refreshing the body</h2>\n<p><a href=\"https://ref.ly/Exod2:5\">EXO 2:5</a>; ; <a href=\"https://ref.ly/2Sam11:2\">2SA 11:2</a>; ; <a href=\"https://ref.ly/1Kgs22:38\">1KI 22:38</a></p>\n<h2>Bathing referred to metaphorically</h2>\n<p><a href=\"https://ref.ly/Deut33:24\">DEU 33:24</a>; ; <a href=\"https://ref.ly/Ps58:10\">PSA 58:10</a>; ; <a href=\"https://ref.ly/Isa34:5-Isa34:6\">ISA 34:5–34:6</a>; ; <a href=\"https://ref.ly/Ezek16:9\">EZK 16:9</a>, <a href=\"https://ref.ly/Ezek23:40\">EZK 23:40</a></p>",
@@ -127,7 +127,8 @@
 "label": "7478: washing",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

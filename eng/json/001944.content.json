@@ -2,10 +2,10 @@
 {
 "content_id": "7793",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7793: teachers",
 "media_type": "Text",
-"index_reference": "7793: teachers",
+"index_reference": "7793",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Those who have responsibility for instructing others, especially in relation to matters of faith and life: in the home, parents; in Israel, priests and teachers of the law and in the NT church, apostles, prophets, pastors and teachers. At a less formal level Christians should seek to teach one another. God is the supreme teacher of his people.</p>\n<h2>God is the supreme teacher</h2>\n<p><strong><a href=\"https://ref.ly/Heb8:10-Heb8:11\">HEB 8:10–8:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer31:33-Jer31:34\">JER 31:33–31:34</a>; <a href=\"https://ref.ly/Deut8:3\">DEU 8:3</a>; <a href=\"https://ref.ly/Ps32:8\">PSA 32:8</a>; <a href=\"https://ref.ly/John14:26\">JHN 14:26</a>; <a href=\"https://ref.ly/1Thess4:9\">1TH 4:9</a>; <a href=\"https://ref.ly/Titus2:11-Titus2:12\">TIT 2:11–2:12</a></p>\n<h2>Parents as teachers</h2>\n<p><strong><a href=\"https://ref.ly/Eph6:4\">EPH 6:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:9-Deut4:10\">DEU 4:9–4:10</a>, <a href=\"https://ref.ly/Deut6:4-Deut6:9\">DEU 6:4–6:9</a>, <a href=\"https://ref.ly/Deut11:18-Deut11:19\">DEU 11:18–11:19</a>; <a href=\"https://ref.ly/Ps78:5-Ps78:6\">PSA 78:5–78:6</a>; <a href=\"https://ref.ly/2Tim3:14-2Tim3:15\">2TI 3:14–3:15</a></p>\n<h2>Priests as Israel's teachers</h2>\n<p><strong><a href=\"https://ref.ly/Mal2:4-Mal2:7\">MAL 2:4–2:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev10:11\">LEV 10:11</a>; <a href=\"https://ref.ly/2Kgs12:2\">2KI 12:2</a>; <a href=\"https://ref.ly/2Chr35:3\">2CH 35:3</a>; <a href=\"https://ref.ly/Neh8:7-Neh8:8\">NEH 8:7–8:8</a>; <a href=\"https://ref.ly/Ezek44:23\">EZK 44:23</a></p>\n<h2>The apostles and their helpers as teachers</h2>\n<h3>The apostles generally</h3>\n<p><strong><a href=\"https://ref.ly/Acts5:42\">ACT 5:42</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt28:19-Matt28:20\">MAT 28:19–28:20</a>; <a href=\"https://ref.ly/Acts4:2\">ACT 4:2</a>, <a href=\"https://ref.ly/Acts4:18\">ACT 4:18</a>, <a href=\"https://ref.ly/Acts5:21\">ACT 5:21</a>, <a href=\"https://ref.ly/Acts5:28\">ACT 5:28</a></p>\n<h3>Paul</h3>\n<p><strong><a href=\"https://ref.ly/Acts20:20\">ACT 20:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts11:26\">ACT 11:26</a>, <a href=\"https://ref.ly/Acts15:35\">ACT 15:35</a>, <a href=\"https://ref.ly/Acts18:11\">ACT 18:11</a>; <a href=\"https://ref.ly/1Cor4:17\">1CO 4:17</a>, <a href=\"https://ref.ly/1Cor14:19\">1CO 14:19</a>; <a href=\"https://ref.ly/1Thess4:1-1Thess4:2\">1TH 4:1–4:2</a>; <a href=\"https://ref.ly/1Tim2:7\">1TI 2:7</a>; <a href=\"https://ref.ly/2Tim1:11\">2TI 1:11</a></p>\n<h3>Timothy</h3>\n<p><a href=\"https://ref.ly/1Tim4:6-1Tim4:16\">1TI 4:6–4:16</a>; ; <a href=\"https://ref.ly/2Tim2:23-2Tim2:25\">2TI 2:23–2:25</a></p>\n<h2>The gift of teachers in the church</h2>\n<p><strong><a href=\"https://ref.ly/Eph4:11\">EPH 4:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts13:1\">ACT 13:1</a>; <a href=\"https://ref.ly/1Cor12:28-1Cor12:29\">1CO 12:28–12:29</a>, <a href=\"https://ref.ly/1Cor14:29-1Cor14:34\">1CO 14:29–14:34</a>; <a href=\"https://ref.ly/Gal6:6\">GAL 6:6</a>; <a href=\"https://ref.ly/1Tim2:12\">1TI 2:12</a>; <a href=\"https://ref.ly/2Tim2:2\">2TI 2:2</a></p>\n<h2>Elders as teachers</h2>\n<p><strong><a href=\"https://ref.ly/Titus1:9\">TIT 1:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim3:2\">1TI 3:2</a>, <a href=\"https://ref.ly/1Tim5:17\">1TI 5:17</a></p>\n<h2>Christians as teachers of one another</h2>\n<p><strong><a href=\"https://ref.ly/Col3:16\">COL 3:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom15:14\">ROM 15:14</a>; <a href=\"https://ref.ly/1Cor14:26\">1CO 14:26</a></p>",
@@ -391,7 +391,8 @@
 "label": "8749: false teachers",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

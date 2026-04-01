@@ -2,10 +2,10 @@
 {
 "content_id": "5859",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5859: favour",
 "media_type": "Text",
-"index_reference": "5859: favour",
+"index_reference": "5859",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Looking kindly upon someone or treating someone with special regard. Scripture stresses the kindness and graciousness of God and Jesus Christ, which is not the result of human merit or achievement.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5861: favour, human",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hirah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hirah"
 }
 ]
 }

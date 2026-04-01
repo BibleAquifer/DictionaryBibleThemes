@@ -2,10 +2,10 @@
 {
 "content_id": "8629",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8629: worship, times for",
 "media_type": "Text",
-"index_reference": "8629: worship, times for",
+"index_reference": "8629",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture stresses the importance of regular worship, while at the same time recognising that believers may worship God spontaneously.</p>\n<h2>Examples of regular worship</h2>\n<h3>On a daily basis</h3>\n<p><strong><a href=\"https://ref.ly/Acts2:46-Acts2:47\">ACT 2:46–2:47</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod29:38-Exod29:43\">EXO 29:38–29:43</a>; <a href=\"https://ref.ly/Ps141:2\">PSA 141:2</a>; <a href=\"https://ref.ly/Ezek46:13-Ezek46:15\">EZK 46:13–46:15</a></p>\n<h3>Several times a day</h3>\n<p><strong><a href=\"https://ref.ly/Dan6:10\">DAN 6:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr16:37\">1CH 16:37</a>; <a href=\"https://ref.ly/Ps119:164\">PSA 119:164</a>; <a href=\"https://ref.ly/Acts3:1\">ACT 3:1</a>; <a href=\"https://ref.ly/Heb10:25\">HEB 10:25</a></p>\n<h3>On holy days</h3>\n<p><strong><a href=\"https://ref.ly/2Chr8:12-2Chr8:13\">2CH 8:12–8:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek46:3\">EZK 46:3</a></p>\n<h3>At the three annual pilgrim festivals</h3>\n<p><strong><a href=\"https://ref.ly/Deut16:16\">DEU 16:16</a></strong> <a href=\"https://ref.ly/Exod12:1-Exod12:20\">EXO 12:1–12:20</a>; ; <a href=\"https://ref.ly/Luke2:41\">LUK 2:41</a>; <a href=\"https://ref.ly/Exod34:22\">EXO 34:22</a>; ; <a href=\"https://ref.ly/Acts2:1\">ACT 2:1</a>; <a href=\"https://ref.ly/Exod23:16\">EXO 23:16</a>; ; <a href=\"https://ref.ly/Lev23:33-Lev23:36\">LEV 23:33–23:36</a>; ; <a href=\"https://ref.ly/Num29:12-Num29:39\">NUM 29:12–29:39</a>; ; <a href=\"https://ref.ly/Deut16:13-Deut16:15\">DEU 16:13–16:15</a></p>\n<h3>On the Day of Atonement</h3>\n<p><strong><a href=\"https://ref.ly/Lev16:34\">LEV 16:34</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod30:10\">EXO 30:10</a>; <a href=\"https://ref.ly/Lev16:3-Lev16:33\">LEV 16:3–16:33</a>, <a href=\"https://ref.ly/Lev23:26-Lev23:32\">LEV 23:26–23:32</a></p>\n<h3>On Sabbath days</h3>\n<p><strong><a href=\"https://ref.ly/Luke4:16\">LUK 4:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev24:5-Lev24:8\">LEV 24:5–24:8</a>; <a href=\"https://ref.ly/Num28:9-Num28:10\">NUM 28:9–28:10</a></p>\n<h2>Examples of spontaneous worship</h2>\n<h3>In response to an awareness of the closeness of God</h3>\n<p><a href=\"https://ref.ly/Exod34:8\">EXO 34:8</a>; ; <a href=\"https://ref.ly/Judg7:15\">JDG 7:15</a></p>\n<h3>In response to the experience of God's mercy</h3>\n<p><strong><a href=\"https://ref.ly/Exod4:29-Exod4:31\">EXO 4:29–4:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam1:19-1Sam1:28\">1SA 1:19–1:28</a></p>\n<h3>In response to the presence and power of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Matt28:8-Matt28:9\">MAT 28:8–28:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt14:33\">MAT 14:33</a>; <a href=\"https://ref.ly/Luke24:52\">LUK 24:52</a></p>\n<h2>Worship should not be dependent on circumstances</h2>\n<p><strong><a href=\"https://ref.ly/Phil4:6\">PHP 4:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job1:20-Job1:21\">JOB 1:20–1:21</a>; <a href=\"https://ref.ly/Dan6:10\">DAN 6:10</a>; <a href=\"https://ref.ly/Acts16:25\">ACT 16:25</a>; <a href=\"https://ref.ly/1Thess5:16-1Thess5:18\">1TH 5:16–5:18</a></p>\n<h2>The continuous worship of God in heaven</h2>\n<p><a href=\"https://ref.ly/Rev4:10-Rev4:11\">REV 4:10–4:11</a>, <a href=\"https://ref.ly/Rev5:14\">REV 5:14</a>, <a href=\"https://ref.ly/Rev7:11\">REV 7:11</a>, <a href=\"https://ref.ly/Rev11:1\">REV 11:1</a>, <a href=\"https://ref.ly/Rev19:4\">REV 19:4</a></p>",
@@ -313,7 +313,8 @@
 "label": "8642: celebration",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "3242",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3242: Holy Spirit, baptism with",
 "media_type": "Text",
-"index_reference": "3242: holy spirit, baptism with",
+"index_reference": "3242",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A divine act, promised by John the Baptist and by Jesus Christ, whereby the Holy Spirit initiates Christians into realised union and communion with the glorified Jesus Christ, thus equipping and enabling them for sanctity and service.</p>\n<h2>Baptism with the Holy Spirit promised</h2>\n<h3>John the Baptist anticipates baptism with the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/John1:33\">JHN 1:33</a></strong> parallels <a href=\"https://ref.ly/Matt3:11\">MAT 3:11</a>, <a href=\"https://ref.ly/Mark1:8\">MRK 1:8</a>, <a href=\"https://ref.ly/Luke3:16\">LUK 3:16</a></p>\n<h3>Jesus Christ promises baptism with the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/Acts1:4-Acts1:5\">ACT 1:4–1:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke24:49\">LUK 24:49</a>; <a href=\"https://ref.ly/Acts1:8\">ACT 1:8</a></p>\n<h2>The gift of the Holy Spirit followed Jesus Christ's glorification</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:33\">ACT 2:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/John7:39\">JHN 7:39</a></p>\n<h2>Instances of baptism with the Holy Spirit</h2>\n<p><a href=\"https://ref.ly/Acts2:2-Acts2:4\">ACT 2:2–2:4</a> <em>at Pentecost</em>; <a href=\"https://ref.ly/Acts8:15-Acts8:17\">ACT 8:15–8:17</a>, <a href=\"https://ref.ly/Acts10:44-Acts10:47\">ACT 10:44–10:47</a>, <a href=\"https://ref.ly/Acts19:6\">ACT 19:6</a>; <a href=\"https://ref.ly/Acts10:46-Acts10:47\">ACT 10:46–10:47</a>, <a href=\"https://ref.ly/Acts11:15-Acts11:17\">ACT 11:15–11:17</a>, <a href=\"https://ref.ly/Acts15:8\">ACT 15:8</a></p>\n<h2>The gift of the Holy Spirit is for all believers at the outset of their Christian lives</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:38-Acts2:39\">ACT 2:38–2:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts2:16-Acts2:18\">ACT 2:16–2:18</a>; <a href=\"https://ref.ly/Joel2:28-Joel2:29\">JOL 2:28–2:29</a>; <a href=\"https://ref.ly/Gal3:2-Gal3:5\">GAL 3:2–3:5</a></p>\n<h2>This gift of the Holy Spirit links believers together in the one body of Christ</h2>\n<p><strong><a href=\"https://ref.ly/1Cor12:13\">1CO 12:13</a></strong></p>",
@@ -201,6 +201,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8422: equipping, spiritual",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.6786,
+"match_method": "scored",
+"preferred_label": "Holy Spirit"
 }
 ]
 }

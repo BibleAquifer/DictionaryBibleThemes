@@ -2,10 +2,10 @@
 {
 "content_id": "8347",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8347: spiritual growth",
 "media_type": "Text",
-"index_reference": "8347: spiritual growth",
+"index_reference": "8347",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture uses a number of images to emphasise that believers are meant to grow in their faith, understanding, holiness and commitment. It also provides advice on how this may be achieved.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8349: spiritual growth, means of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Shema",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shema"
 }
 ]
 }

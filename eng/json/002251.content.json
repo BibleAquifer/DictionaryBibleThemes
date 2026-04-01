@@ -2,10 +2,10 @@
 {
 "content_id": "8467",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8467: reminders",
 "media_type": "Text",
-"index_reference": "8467: reminders",
+"index_reference": "8467",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The means of calling to mind important matters or events. Scripture stresses the importance of being reminded of God's dealings with his people in the past.</p>\n<h2>The importance of being reminded of God's words and deeds</h2>\n<p><strong><a href=\"https://ref.ly/1Cor15:1\">1CO 15:1</a></strong>; <strong><a href=\"https://ref.ly/2Pet1:12\">2PE 1:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Pet3:1\">2PE 3:1</a></p>\n<h2>Reminders of God's covenant and faithfulness</h2>\n<p><strong><a href=\"https://ref.ly/Gen9:12-Gen9:16\">GEN 9:12–9:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen17:9-Gen17:14\">GEN 17:9–17:14</a></p>\n<h2>Reminders of God's intervention in history</h2>\n<p><strong><a href=\"https://ref.ly/Jude1:5\">JUD 1:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:14-Exod12:20\">EXO 12:14–12:20</a> parallel <a href=\"https://ref.ly/Deut16:1-Deut16:8\">DEU 16:1–16:8</a>; <a href=\"https://ref.ly/Exod13:3-Exod13:10\">EXO 13:3–13:10</a>, <a href=\"https://ref.ly/Exod17:14\">EXO 17:14</a>; <a href=\"https://ref.ly/1Cor11:23-1Cor11:26\">1CO 11:23–11:26</a>; <a href=\"https://ref.ly/2Pet1:12-2Pet1:16\">2PE 1:12–1:16</a></p>\n<h2>Reminders to people of their sin or shortcomings</h2>\n<p><strong><a href=\"https://ref.ly/Heb10:3-Heb10:4\">HEB 10:3–10:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen41:9\">GEN 41:9</a>; <a href=\"https://ref.ly/Exod30:16\">EXO 30:16</a>; <a href=\"https://ref.ly/Num5:11-Num5:15\">NUM 5:11–5:15</a>; <a href=\"https://ref.ly/Ezek29:16\">EZK 29:16</a></p>\n<h2>Reminders to people to be faithful to God</h2>\n<p><strong><a href=\"https://ref.ly/Num15:38-Num15:40\">NUM 15:38–15:40</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom11:22\">ROM 11:22</a>; <a href=\"https://ref.ly/Heb12:1-Heb12:3\">HEB 12:1–12:3</a>; <a href=\"https://ref.ly/2Pet3:1-2Pet3:2\">2PE 3:1–3:2</a></p>\n<h2>Reminders to people of their potential and gifts from God</h2>\n<p><strong><a href=\"https://ref.ly/2Tim1:6\">2TI 1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim4:14\">1TI 4:14</a></p>\n<h2>Reminders to God's people on matters of faith and conduct</h2>\n<p><strong><a href=\"https://ref.ly/Rom15:15\">ROM 15:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut31:9-Deut31:13\">DEU 31:9–31:13</a>; <a href=\"https://ref.ly/1Cor4:17\">1CO 4:17</a>, <a href=\"https://ref.ly/1Cor15:1-1Cor15:2\">1CO 15:1–15:2</a>; <a href=\"https://ref.ly/Titus3:1-Titus3:2\">TIT 3:1–3:2</a></p>",
@@ -258,7 +258,8 @@
 "label": "8764: forgetting God",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

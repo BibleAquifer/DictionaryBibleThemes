@@ -2,10 +2,10 @@
 {
 "content_id": "5324",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5324: gatekeepers",
 "media_type": "Text",
-"index_reference": "5324: gatekeepers",
+"index_reference": "5324",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Levite temple servants, responsible for protecting the palace and the temple from those who would desecrate it or steal its treasures. City gatekeepers also existed.</p>\n<h2>The ancestry of gatekeepers</h2>\n<p><strong><a href=\"https://ref.ly/1Chr9:17-1Chr9:22\">1CH 9:17–9:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr26:1-1Chr26:13\">1CH 26:1–26:13</a>; <a href=\"https://ref.ly/Ezra2:42\">EZR 2:42</a>; <a href=\"https://ref.ly/Neh7:45\">NEH 7:45</a></p>\n<h2>The special status of gatekeepers</h2>\n<p><strong><a href=\"https://ref.ly/Ezra7:24\">EZR 7:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezra2:70\">EZR 2:70</a>; <a href=\"https://ref.ly/Neh7:73\">NEH 7:73</a>, <a href=\"https://ref.ly/Neh12:47\">NEH 12:47</a>, <a href=\"https://ref.ly/Neh13:5\">NEH 13:5</a></p>\n<h2>The functions of gatekeepers</h2>\n<p><strong><a href=\"https://ref.ly/1Chr9:23-1Chr9:27\">1CH 9:23–9:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr8:14\">2CH 8:14</a>; <a href=\"https://ref.ly/Neh11:19\">NEH 11:19</a></p>\n<h2>Examples of gatekeepers</h2>\n<p><strong><a href=\"https://ref.ly/2Chr35:15\">2CH 35:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr15:16-1Chr15:18\">1CH 15:16–15:18</a>, <a href=\"https://ref.ly/1Chr16:37-1Chr16:38\">1CH 16:37–16:38</a>, <a href=\"https://ref.ly/1Chr23:3-1Chr23:5\">1CH 23:3–23:5</a>, <a href=\"https://ref.ly/1Chr26:14-1Chr26:19\">1CH 26:14–26:19</a>; <a href=\"https://ref.ly/Neh10:28-Neh10:29\">NEH 10:28–10:29</a>, <a href=\"https://ref.ly/Neh10:39\">NEH 10:39</a>, <a href=\"https://ref.ly/Neh12:25\">NEH 12:25</a>, <a href=\"https://ref.ly/Neh12:45\">NEH 12:45</a></p>\n<h2>City gatekeepers</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs7:10-2Kgs7:11\">2KI 7:10–7:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh7:1-Neh7:3\">NEH 7:1–7:3</a></p>",
@@ -193,7 +193,8 @@
 "label": "8490: watchfulness",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

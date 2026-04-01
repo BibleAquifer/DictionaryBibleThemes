@@ -2,10 +2,10 @@
 {
 "content_id": "4426",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4426: chaff",
 "media_type": "Text",
-"index_reference": "4426: chaff",
+"index_reference": "4426",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Husks of wheat or other cereal. It was separated from the grain by threshing, whereupon it usually blew away, as it was lighter than the grain. Sometimes however, it was burned as fuel. The wicked are frequently likened to chaff in Scripture.</p>\n<h2>Grain was threshed on outdoor threshing-floors to separate the chaff</h2>\n<p><strong><a href=\"https://ref.ly/Dan2:31-Dan2:35\">DAN 2:31–2:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos13:3\">HOS 13:3</a></p>\n<h2>Characteristics of chaff</h2>\n<h3>It is blown by the wind</h3>\n<p><strong><a href=\"https://ref.ly/Job13:25\">JOB 13:25</a></strong></p>\n<h3>It is light</h3>\n<p><strong><a href=\"https://ref.ly/Job41:28\">JOB 41:28</a></strong></p>\n<h3>It is useless</h3>\n<p><strong><a href=\"https://ref.ly/Isa33:11\">ISA 33:11</a></strong></p>\n<h2>The wicked are compared to chaff</h2>\n<h3>They will disappear as chaff is blown away</h3>\n<p><strong><a href=\"https://ref.ly/Ps1:1-Ps1:6\">PSA 1:1–1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job21:17-Job21:18\">JOB 21:17–21:18</a>; <a href=\"https://ref.ly/Ps35:4-Ps35:6\">PSA 35:4–35:6</a>, <a href=\"https://ref.ly/Ps83:13-Ps83:15\">PSA 83:13–83:15</a>; <a href=\"https://ref.ly/Isa17:13\">ISA 17:13</a>, <a href=\"https://ref.ly/Isa29:5\">ISA 29:5</a>, <a href=\"https://ref.ly/Isa40:24-Isa40:25\">ISA 40:24–40:25</a>; <a href=\"https://ref.ly/Jer13:24\">JER 13:24</a></p>\n<h3>Their punishment is compared to threshing</h3>\n<p><strong><a href=\"https://ref.ly/Isa41:15-Isa41:16\">ISA 41:15–41:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa41:2\">ISA 41:2</a></p>\n<h3>Their end will be like chaff which is burned</h3>\n<p><strong><a href=\"https://ref.ly/Matt3:11-Matt3:12\">MAT 3:11–3:12</a></strong> parallel <a href=\"https://ref.ly/Luke3:16-Luke3:17\">LUK 3:16–3:17</a></p>",
@@ -143,7 +143,8 @@
 "label": "4550: winnowing",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5180",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5180: shaving",
 "media_type": "Text",
-"index_reference": "5180: shaving",
+"index_reference": "5180",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The removal of hair with a razor or other sharp implement. Both male and female Israelites allowed their hair to grow long. Barbers trimmed, but did not crop, men's hair, so giving special significance to the shaving of the head or whole body. These actions indicated shame or grief.</p>\n<h2>Personal toilet</h2>\n<p><a href=\"https://ref.ly/Gen41:14\">GEN 41:14</a>; ; <a href=\"https://ref.ly/2Sam14:26\">2SA 14:26</a></p>\n<h2>Symbolic shaving</h2>\n<h3>Shaved head a sign of grief</h3>\n<p><strong><a href=\"https://ref.ly/Job1:20\">JOB 1:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut21:10-Deut21:14\">DEU 21:10–21:14</a>; <a href=\"https://ref.ly/Isa15:2\">ISA 15:2</a>; <a href=\"https://ref.ly/Jer47:5\">JER 47:5</a>, <a href=\"https://ref.ly/Jer48:36-Jer48:37\">JER 48:36–48:37</a>; <a href=\"https://ref.ly/Ezek27:31\">EZK 27:31</a>; <a href=\"https://ref.ly/Amos8:10\">AMO 8:10</a>; <a href=\"https://ref.ly/Mic1:16\">MIC 1:16</a>; <a href=\"https://ref.ly/Jer7:29\">JER 7:29</a>, <a href=\"https://ref.ly/Jer41:5\">JER 41:5</a></p>\n<h3>A shaved head a sign of shame</h3>\n<p><strong><a href=\"https://ref.ly/2Sam10:4\">2SA 10:4</a></strong> parallel <a href=\"https://ref.ly/1Chr19:4\">1CH 19:4</a> <em>See also</em> <a href=\"https://ref.ly/Ezra9:3\">EZR 9:3</a>; <a href=\"https://ref.ly/Isa7:20\">ISA 7:20</a>, <a href=\"https://ref.ly/Isa50:6\">ISA 50:6</a>; <a href=\"https://ref.ly/Jer2:16\">JER 2:16</a>; <a href=\"https://ref.ly/Ezek7:18\">EZK 7:18</a>; <a href=\"https://ref.ly/1Cor11:5-1Cor11:6\">1CO 11:5–11:6</a></p>\n<h2>Shaving in ritual cleansing</h2>\n<p><a href=\"https://ref.ly/Lev14:8-Lev14:9\">LEV 14:8–14:9</a>; ; <a href=\"https://ref.ly/Num8:7\">NUM 8:7</a>; ; <a href=\"https://ref.ly/Acts21:24\">ACT 21:24</a></p>\n<h2>Shaving as a visual aid</h2>\n<p><a href=\"https://ref.ly/Ezek5:1-Ezek5:4\">EZK 5:1–5:4</a></p>\n<h2>After a period of dedication</h2>\n<p><a href=\"https://ref.ly/Num6:18\">NUM 6:18</a></p>\n<h2>Shaving forbidden</h2>\n<h3>As a pagan practice</h3>\n<p><strong><a href=\"https://ref.ly/Lev19:27\">LEV 19:27</a>, <a href=\"https://ref.ly/Lev21:5\">LEV 21:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut14:1\">DEU 14:1</a> <em>Pagans shaved the front of their heads as a sign of mourning.  God's people should have a different attitude to bereavement from those who have no hope</em>; <a href=\"https://ref.ly/Ezek44:20\">EZK 44:20</a></p>\n<h3>For the sake of a Nazarite vow</h3>\n<p><strong><a href=\"https://ref.ly/Num6:5\">NUM 6:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg16:17\">JDG 16:17</a>; <a href=\"https://ref.ly/1Sam1:11\">1SA 1:11</a></p>",
@@ -289,7 +289,8 @@
 "label": "8223: dedication",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

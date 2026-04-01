@@ -2,10 +2,10 @@
 {
 "content_id": "8664",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8664: praise",
 "media_type": "Text",
-"index_reference": "8664: praise",
+"index_reference": "8664",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The celebration, honouring and adoration of God, in the power of the Holy Spirit, whether by individual believers or communities of believers.</p>",
@@ -39,6 +39,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8668: praise, and Holy Spirit",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Susa",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Susa"
 }
 ]
 }

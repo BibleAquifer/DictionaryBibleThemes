@@ -2,10 +2,10 @@
 {
 "content_id": "1428",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1428: prophecy, inspiration of OT",
 "media_type": "Text",
-"index_reference": "1428: prophecy, inspiration of ot",
+"index_reference": "1428",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The prophecies of biblical messengers are acknowledged as being of divine origin, inspired through the activity of the Holy Spirit.</p>\n<h2>God speaks through his prophets</h2>\n<p><strong><a href=\"https://ref.ly/2Pet1:20-2Pet1:21\">2PE 1:20–1:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh9:30\">NEH 9:30</a>; <a href=\"https://ref.ly/Zech7:12\">ZEC 7:12</a>; <a href=\"https://ref.ly/Heb1:1\">HEB 1:1</a></p>\n<h2>God is the source of prophecy</h2>\n<p><strong><a href=\"https://ref.ly/Ezek24:20-Ezek24:21\">EZK 24:20–24:21</a></strong> <em>The phrase “the word of the LORD came to ...” is frequently used of (and by) the prophets to indicate that the message they proclaimed came directly from God.</em> <em>See also</em> <a href=\"https://ref.ly/1Sam15:10\">1SA 15:10</a>; <a href=\"https://ref.ly/2Sam7:4\">2SA 7:4</a>; <a href=\"https://ref.ly/1Kgs13:20\">1KI 13:20</a>, <a href=\"https://ref.ly/1Kgs16:1\">1KI 16:1</a>, <a href=\"https://ref.ly/1Kgs17:2\">1KI 17:2</a>; <a href=\"https://ref.ly/2Kgs20:4\">2KI 20:4</a>; <a href=\"https://ref.ly/Jer1:2\">JER 1:2</a>; <a href=\"https://ref.ly/Ezek6:1\">EZK 6:1</a>; <a href=\"https://ref.ly/Jonah1:1\">JON 1:1</a>; <a href=\"https://ref.ly/Hag2:10\">HAG 2:10</a>; <a href=\"https://ref.ly/Zech1:1\">ZEC 1:1</a></p>\n<h2>Prophets inspired by God speak the truth</h2>\n<p><strong><a href=\"https://ref.ly/Deut18:22\">DEU 18:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer28:9\">JER 28:9</a></p>",
@@ -184,7 +184,8 @@
 "label": "7781: seer",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

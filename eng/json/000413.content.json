@@ -2,10 +2,10 @@
 {
 "content_id": "4369",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4369: sulphur",
 "media_type": "Text",
-"index_reference": "4369: sulphur",
+"index_reference": "4369",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A yellow, crystalline substance, also known as brimstone, which ignites and burns readily. It is invariably associated with divine punishment in Scripture.</p>\n<h2>Burning sulphur causes desolation</h2>\n<p><strong><a href=\"https://ref.ly/Deut29:23\">DEU 29:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job18:12-Job18:17\">JOB 18:12–18:17</a></p>\n<h2>Divine punishment by means of burning sulphur</h2>\n<p><strong><a href=\"https://ref.ly/Ps11:5-Ps11:6\">PSA 11:5–11:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa30:31-Isa30:33\">ISA 30:31–30:33</a>, <a href=\"https://ref.ly/Isa34:8-Isa34:10\">ISA 34:8–34:10</a>; <a href=\"https://ref.ly/Ezek38:21-Ezek38:23\">EZK 38:21–38:23</a>; <a href=\"https://ref.ly/Rev9:13-Rev9:19\">REV 9:13–9:19</a>, <a href=\"https://ref.ly/Rev14:9-Rev14:11\">REV 14:9–14:11</a></p>\n<h2>Sodom and Gomorrah destroyed by burning sulphur</h2>\n<p><strong><a href=\"https://ref.ly/Gen19:24-Gen19:25\">GEN 19:24–19:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke17:28-Luke17:29\">LUK 17:28–17:29</a></p>\n<h2>The lake of burning sulphur</h2>\n<p><strong><a href=\"https://ref.ly/Rev21:8\">REV 21:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev19:19-Rev19:21\">REV 19:19–19:21</a>, <a href=\"https://ref.ly/Rev20:7-Rev20:10\">REV 20:7–20:10</a></p>",
@@ -126,7 +126,8 @@
 "label": "9511: hell, as a place of punishment",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

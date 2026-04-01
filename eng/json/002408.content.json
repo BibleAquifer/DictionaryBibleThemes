@@ -2,10 +2,10 @@
 {
 "content_id": "8783",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8783: neglect",
 "media_type": "Text",
-"index_reference": "8783: neglect",
+"index_reference": "8783",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The shirking of one's duties or responsibilities, whether to God or to other people. The consequences of such neglect are often serious.</p>\n<h2>The Israelites sometimes neglected their religious duties</h2>\n<h3>They neglected to support the Levites</h3>\n<p><strong><a href=\"https://ref.ly/Deut14:27\">DEU 14:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut12:19\">DEU 12:19</a>; <a href=\"https://ref.ly/Neh13:10\">NEH 13:10</a></p>\n<h3>They neglected the temple</h3>\n<p><strong><a href=\"https://ref.ly/Neh13:11\">NEH 13:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Chr24:5\">2CH 24:5</a>; <a href=\"https://ref.ly/Mal1:6-Mal1:14\">MAL 1:6–1:14</a></p>\n<h3>Such neglect earned them the judgment of God</h3>\n<p><strong><a href=\"https://ref.ly/2Chr29:6-2Chr29:9\">2CH 29:6–29:9</a></strong></p>\n<h2>The Israelites sometimes neglected their social obligations</h2>\n<h3>They neglected to ensure justice for the poor</h3>\n<p><strong><a href=\"https://ref.ly/Isa5:7\">ISA 5:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Amos2:6-Amos2:8\">AMO 2:6–2:8</a>, <a href=\"https://ref.ly/Amos4:1-Amos4:3\">AMO 4:1–4:3</a>, <a href=\"https://ref.ly/Amos5:7-Amos5:15\">AMO 5:7–5:15</a></p>\n<h3>Their leaders neglected their responsibilities</h3>\n<p><strong><a href=\"https://ref.ly/Isa56:10-Isa56:12\">ISA 56:10–56:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek34:1-Ezek34:6\">EZK 34:1–34:6</a>; <a href=\"https://ref.ly/Amos6:1-Amos6:7\">AMO 6:1–6:7</a></p>\n<h3>God punished their neglect</h3>\n<p><strong><a href=\"https://ref.ly/Zeph1:12-Zeph1:13\">ZEP 1:12–1:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa32:9-Isa32:15\">ISA 32:9–32:15</a></p>\n<h2>Neglect in the NT</h2>\n<h3>Warnings against neglect</h3>\n<p><strong><a href=\"https://ref.ly/1Tim4:14\">1TI 4:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt23:23\">MAT 23:23</a> parallel <a href=\"https://ref.ly/Luke11:42\">LUK 11:42</a>; <a href=\"https://ref.ly/Matt25:14-Matt25:30\">MAT 25:14–25:30</a> parallel <a href=\"https://ref.ly/Luke19:12-Luke19:26\">LUK 19:12–19:26</a>; <a href=\"https://ref.ly/Luke12:35-Luke12:48\">LUK 12:35–12:48</a></p>\n<h2>Examples of neglect</h2>\n<h3>The neglect of salvation</h3>\n<p><a href=\"https://ref.ly/Heb2:1-Heb2:4\">HEB 2:1–2:4</a></p>\n<h3>The neglect of public worship</h3>\n<p><strong><a href=\"https://ref.ly/Heb10:25\">HEB 10:25</a></strong></p>\n<h3>Sodom's neglect of the poor</h3>\n<p><strong><a href=\"https://ref.ly/Ezek16:49\">EZK 16:49</a></strong></p>\n<h3>The neglect of widows</h3>\n<p><strong><a href=\"https://ref.ly/Acts6:1-Acts6:4\">ACT 6:1–6:4</a></strong></p>",
@@ -253,7 +253,8 @@
 "label": "8763: forgetting",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

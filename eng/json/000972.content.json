@@ -2,10 +2,10 @@
 {
 "content_id": "5390",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5390: leprosy",
 "media_type": "Text",
-"index_reference": "5390: leprosy",
+"index_reference": "5390",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An infectious skin disease. The leprosy mentioned in Scripture, however, covers a wider range of dermatological conditions than that now referred to as the modern Hansen's disease, known colloquially as leprosy.</p>\n<h2>Regulations for the control of leprosy</h2>\n<h3>Sufferers are banned from society</h3>\n<p><strong><a href=\"https://ref.ly/Num5:2\">NUM 5:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev13:1-Lev13:46\">LEV 13:1–13:46</a>; <a href=\"https://ref.ly/Deut24:8-Deut24:9\">DEU 24:8–24:9</a>; <a href=\"https://ref.ly/2Kgs7:3\">2KI 7:3</a></p>\n<h3>Sufferers are banned from Levitical service</h3>\n<p><strong><a href=\"https://ref.ly/Lev22:4\">LEV 22:4</a></strong></p>\n<h3>Sufferers are to report to a priest on being cured</h3>\n<p><strong><a href=\"https://ref.ly/Matt8:4\">MAT 8:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke17:14\">LUK 17:14</a>; <a href=\"https://ref.ly/Lev14:1-Lev14:9\">LEV 14:1–14:9</a></p>\n<h2>The healing of leprosy</h2>\n<p><a href=\"https://ref.ly/2Kgs5:1\">2KI 5:1</a>, <a href=\"https://ref.ly/2Kgs5:14\">2KI 5:14</a>; ; <a href=\"https://ref.ly/Matt8:2-Matt8:3\">MAT 8:2–8:3</a> parallel <a href=\"https://ref.ly/Mark1:40-Mark1:41\">MRK 1:40–1:41</a>; ; <a href=\"https://ref.ly/Luke17:12-Luke17:15\">LUK 17:12–17:15</a></p>\n<h2>Spiritual significance of leprosy</h2>\n<h3>As a validating sign from God</h3>\n<p><a href=\"https://ref.ly/Exod4:6-Exod4:7\">EXO 4:6–4:7</a></p>\n<h3>As a judgment from God</h3>\n<p><a href=\"https://ref.ly/Num12:10-Num12:15\">NUM 12:10–12:15</a>; ; <a href=\"https://ref.ly/2Kgs5:27\">2KI 5:27</a>; ; <a href=\"https://ref.ly/2Chr26:19-2Chr26:23\">2CH 26:19–26:23</a></p>",
@@ -163,6 +163,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gebal.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gebal"
+},
+{
+"id": "place:Gebal",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gebal"
 }
 ]
 }

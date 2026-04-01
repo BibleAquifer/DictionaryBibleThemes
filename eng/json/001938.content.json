@@ -2,10 +2,10 @@
 {
 "content_id": "7784",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7784: shepherd",
 "media_type": "Text",
-"index_reference": "7784: shepherd",
+"index_reference": "7784",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The work of a shepherd was important and responsible in the rural world of ancient Palestine. Since it involved leading, protecting and feeding a flock, it is seen as a metaphor for the task of leadership. Scripture declares that God is the Shepherd of his people.</p>",
@@ -47,7 +47,8 @@
 "label": "7789: shepherd, as church leader",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

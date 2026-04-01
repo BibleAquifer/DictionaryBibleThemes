@@ -2,10 +2,10 @@
 {
 "content_id": "5383",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5383: lawsuits",
 "media_type": "Text",
-"index_reference": "5383: lawsuits",
+"index_reference": "5383",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Legal trials in which the court decides between two opposing parties. OT law makes provision for such trials, insisting on justice for all, regardless of social status.</p>\n<h2>Regulations relating to lawsuits</h2>\n<h3>Warnings against discrimination on the basis of social status</h3>\n<p><strong><a href=\"https://ref.ly/Exod23:6\">EXO 23:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod23:3\">EXO 23:3</a>; <a href=\"https://ref.ly/Lev19:15\">LEV 19:15</a>; <a href=\"https://ref.ly/Deut1:17\">DEU 1:17</a>; <a href=\"https://ref.ly/Prov22:22-Prov22:23\">PRO 22:22–22:23</a></p>\n<h3>Warnings against false testimony</h3>\n<p><strong><a href=\"https://ref.ly/Exod23:1-Exod23:2\">EXO 23:1–23:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:16\">EXO 20:16</a> parallel <a href=\"https://ref.ly/Deut5:20\">DEU 5:20</a>; <a href=\"https://ref.ly/Deut19:15-Deut19:21\">DEU 19:15–19:21</a>; <a href=\"https://ref.ly/Zech8:16\">ZEC 8:16</a></p>\n<h3>Provision for a court of appeal</h3>\n<p><strong><a href=\"https://ref.ly/Deut17:8-Deut17:13\">DEU 17:8–17:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut1:15-Deut1:18\">DEU 1:15–1:18</a></p>\n<h2>Lawsuits to judge between two parties</h2>\n<p><strong><a href=\"https://ref.ly/Deut25:1\">DEU 25:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod18:16\">EXO 18:16</a>, <a href=\"https://ref.ly/Exod21:22\">EXO 21:22</a>; <a href=\"https://ref.ly/Job9:32-Job9:35\">JOB 9:32–9:35</a>; <a href=\"https://ref.ly/Prov25:7-Prov25:10\">PRO 25:7–25:10</a>, <a href=\"https://ref.ly/Prov29:9\">PRO 29:9</a>; <a href=\"https://ref.ly/Matt5:25-Matt5:26\">MAT 5:25–5:26</a>; <a href=\"https://ref.ly/Jas2:5-Jas2:7\">JAS 2:5–2:7</a></p>\n<h2>Believers should not bring lawsuits against each other</h2>\n<p><a href=\"https://ref.ly/1Cor6:1-1Cor6:8\">1CO 6:1–6:8</a></p>\n<h2>Injustice in lawsuits</h2>\n<p><strong><a href=\"https://ref.ly/Amos5:15\">AMO 5:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa29:20-Isa29:21\">ISA 29:20–29:21</a>; <a href=\"https://ref.ly/Amos2:7\">AMO 2:7</a>, <a href=\"https://ref.ly/Amos5:7-Amos5:12\">AMO 5:7–5:12</a></p>\n<h2>Excess of lawsuits a symptom of social disorder</h2>\n<p><strong><a href=\"https://ref.ly/Hos10:4\">HOS 10:4</a></strong></p>\n<h2>Examples of lawsuits</h2>\n<p><strong><a href=\"https://ref.ly/2Sam15:1-2Sam15:4\">2SA 15:1–15:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam14:1-2Sam14:20\">2SA 14:1–14:20</a>; <a href=\"https://ref.ly/1Kgs3:16-1Kgs3:27\">1KI 3:16–3:27</a>; <a href=\"https://ref.ly/2Kgs6:26-2Kgs6:29\">2KI 6:26–6:29</a>; <a href=\"https://ref.ly/Acts18:12-Acts18:16\">ACT 18:12–18:16</a>, <a href=\"https://ref.ly/Acts19:35-Acts19:41\">ACT 19:35–19:41</a></p>",
@@ -267,6 +267,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8800: prejudice",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gaza",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gaza"
 }
 ]
 }

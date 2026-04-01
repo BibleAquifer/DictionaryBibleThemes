@@ -2,10 +2,10 @@
 {
 "content_id": "4360",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4360: sand",
 "media_type": "Text",
-"index_reference": "4360: sand",
+"index_reference": "4360",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A fine granular substance formed by the erosion of rocks, and found especially in the deserts and by the sea. It is often used as a symbol of innumerability and occasionally as a symbol of instability.</p>\n<h2>Sand as a fine granular substance</h2>\n<h3>In the desert</h3>\n<p><strong><a href=\"https://ref.ly/Exod2:12\">EXO 2:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job39:13-Job39:15\">JOB 39:13–39:15</a>; <a href=\"https://ref.ly/Isa35:6-Isa35:7\">ISA 35:6–35:7</a></p>\n<h3>At the sea</h3>\n<p><strong><a href=\"https://ref.ly/Jer5:22\">JER 5:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut33:18-Deut33:19\">DEU 33:18–33:19</a>; <a href=\"https://ref.ly/Acts27:39\">ACT 27:39</a></p>\n<h3>Sand-bars</h3>\n<p><strong><a href=\"https://ref.ly/Acts27:41\">ACT 27:41</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts27:17\">ACT 27:17</a></p>\n<h3>The weight of sand</h3>\n<p><strong><a href=\"https://ref.ly/Job6:2-Job6:3\">JOB 6:2–6:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov27:3\">PRO 27:3</a></p>\n<h2>Sand representing innumerability</h2>\n<h3>God promised that Israel would be as innumerable as sand</h3>\n<p><strong><a href=\"https://ref.ly/Gen22:15-Gen22:18\">GEN 22:15–22:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen32:9-Gen32:12\">GEN 32:9–32:12</a>; <a href=\"https://ref.ly/1Kgs4:20\">1KI 4:20</a>; <a href=\"https://ref.ly/Isa10:20-Isa10:22\">ISA 10:20–10:22</a>, <a href=\"https://ref.ly/Isa48:17-Isa48:19\">ISA 48:17–48:19</a>; <a href=\"https://ref.ly/Jer33:19-Jer33:22\">JER 33:19–33:22</a>; <a href=\"https://ref.ly/Hos1:8-Hos1:10\">HOS 1:8–1:10</a>; <a href=\"https://ref.ly/Rom9:22-Rom9:27\">ROM 9:22–9:27</a>; <a href=\"https://ref.ly/Heb11:11-Heb11:12\">HEB 11:11–11:12</a></p>\n<h3>Armies described as being as innumerable as sand</h3>\n<p><strong><a href=\"https://ref.ly/1Sam13:5\">1SA 13:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh11:1-Josh11:5\">JOS 11:1–11:5</a>; <a href=\"https://ref.ly/Judg7:12\">JDG 7:12</a>; <a href=\"https://ref.ly/2Sam17:11\">2SA 17:11</a>; <a href=\"https://ref.ly/Rev20:7-Rev20:8\">REV 20:7–20:8</a></p>\n<h3>Other comparisons with the innumerability of sand</h3>\n<p><strong><a href=\"https://ref.ly/Gen41:49\">GEN 41:49</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs4:29\">1KI 4:29</a>; <a href=\"https://ref.ly/Job29:18\">JOB 29:18</a>; <a href=\"https://ref.ly/Ps78:27-Ps78:29\">PSA 78:27–78:29</a>, <a href=\"https://ref.ly/Ps139:17-Ps139:18\">PSA 139:17–139:18</a>; <a href=\"https://ref.ly/Jer15:8\">JER 15:8</a>; <a href=\"https://ref.ly/Hab1:8-Hab1:9\">HAB 1:8–1:9</a></p>\n<h2>The instability and impermanence of sand</h2>\n<p><strong><a href=\"https://ref.ly/Matt7:24-Matt7:27\">MAT 7:24–7:27</a></strong> parallel <a href=\"https://ref.ly/Luke6:46-Luke6:49\">LUK 6:46–6:49</a></p>",
@@ -239,7 +239,8 @@
 "label": "5891: instability",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

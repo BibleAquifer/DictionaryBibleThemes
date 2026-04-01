@@ -2,10 +2,10 @@
 {
 "content_id": "5623",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5623: witnesses, legal",
 "media_type": "Text",
-"index_reference": "5623: witnesses, legal",
+"index_reference": "5623",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God gave detailed instructions about the conduct of witnesses in the legal processes of Israel and also in the affairs of the church.</p>\n<h2>God himself as a witness</h2>\n<p><a href=\"https://ref.ly/Gen31:50\">GEN 31:50</a>; ; <a href=\"https://ref.ly/Mal2:14\">MAL 2:14</a></p>\n<h2>General legal requirements about witnesses</h2>\n<h3>A witness to a crime was required to give evidence</h3>\n<p><strong><a href=\"https://ref.ly/Lev5:1\">LEV 5:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov29:24\">PRO 29:24</a></p>\n<h3>Two or more witnesses were required to prove someone guilty</h3>\n<p><strong><a href=\"https://ref.ly/Deut19:15\">DEU 19:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut17:6\">DEU 17:6</a>; <a href=\"https://ref.ly/Matt18:15-Matt18:16\">MAT 18:15–18:16</a>; <a href=\"https://ref.ly/2Cor13:1\">2CO 13:1</a></p>\n<h2>The role of witnesses in capital cases</h2>\n<h3>At least two witnesses were required</h3>\n<p><strong><a href=\"https://ref.ly/Num35:30\">NUM 35:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut17:2-Deut17:6\">DEU 17:2–17:6</a>; <a href=\"https://ref.ly/Heb10:28\">HEB 10:28</a></p>\n<h3>Witnesses were required to participate in the execution</h3>\n<p><strong><a href=\"https://ref.ly/Deut17:7\">DEU 17:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev24:13-Lev24:16\">LEV 24:13–24:16</a>; <a href=\"https://ref.ly/Deut13:6-Deut13:11\">DEU 13:6–13:11</a>; <a href=\"https://ref.ly/Acts7:57-Acts7:58\">ACT 7:57–7:58</a></p>\n<h2>The role of witnesses in other legal matters</h2>\n<h3>Land transactions</h3>\n<p><strong><a href=\"https://ref.ly/Jer32:9-Jer32:12\">JER 32:9–32:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen23:10-Gen23:18\">GEN 23:10–23:18</a>; <a href=\"https://ref.ly/Ruth4:1-Ruth4:9\">RUT 4:1–4:9</a>; <a href=\"https://ref.ly/Jer32:25\">JER 32:25</a>, <a href=\"https://ref.ly/Jer32:44\">JER 32:44</a></p>\n<h3>Levirate marriage</h3>\n<p><strong><a href=\"https://ref.ly/Ruth4:9-Ruth4:11\">RUT 4:9–4:11</a></strong></p>\n<h2>The role of witnesses in disputes concerning believers</h2>\n<p><strong><a href=\"https://ref.ly/Matt18:15-Matt18:17\">MAT 18:15–18:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Cor13:1\">2CO 13:1</a>; <a href=\"https://ref.ly/1Tim5:19\">1TI 5:19</a></p>",
@@ -206,6 +206,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8331: reliability",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hammon.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hammon"
+},
+{
+"id": "place:Hammath",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hammath"
 }
 ]
 }

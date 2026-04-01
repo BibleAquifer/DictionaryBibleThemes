@@ -2,10 +2,10 @@
 {
 "content_id": "5696",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5696: grandchildren",
 "media_type": "Text",
-"index_reference": "5696: grandchildren",
+"index_reference": "5696",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Grandchildren mentioned in Scripture</h2>\n<h3>Terah's grandson, Lot</h3>\n<p><strong><a href=\"https://ref.ly/Gen11:31\">GEN 11:31</a></strong></p>\n<h3>Nahor's grandchildren</h3>\n<p><strong><a href=\"https://ref.ly/Gen29:5\">GEN 29:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen24:47-Gen24:48\">GEN 24:47–24:48</a></p>\n<h3>Laban's grandchildren</h3>\n<p><strong><a href=\"https://ref.ly/Gen31:55\">GEN 31:55</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen31:26-Gen31:28\">GEN 31:26–31:28</a></p>\n<h3>Zibeon the Hivite's granddaughter, Oholibamah</h3>\n<p><strong><a href=\"https://ref.ly/Gen36:2\">GEN 36:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen36:14\">GEN 36:14</a></p>\n<h3>Esau's grandchildren</h3>\n<p><strong><a href=\"https://ref.ly/Gen36:12-Gen36:13\">GEN 36:12–36:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen36:16-Gen36:17\">GEN 36:16–36:17</a></p>\n<h3>Jacob's grandchildren</h3>\n<p><strong><a href=\"https://ref.ly/Gen46:7\">GEN 46:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen45:10\">GEN 45:10</a></p>\n<h3>Gideon's grandson</h3>\n<p><strong><a href=\"https://ref.ly/Judg8:22\">JDG 8:22</a></strong></p>\n<h3>Abdon's grandsons</h3>\n<p><strong><a href=\"https://ref.ly/Judg12:13-Judg12:14\">JDG 12:13–12:14</a></strong></p>\n<h3>Saul's grandson, Mephibosheth</h3>\n<p><strong><a href=\"https://ref.ly/2Sam19:24\">2SA 19:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam9:9-2Sam9:10\">2SA 9:9–9:10</a>, <a href=\"https://ref.ly/2Sam16:3\">2SA 16:3</a></p>\n<h3>Omri's granddaughter, Athaliah</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs8:26\">2KI 8:26</a></strong> parallel <a href=\"https://ref.ly/2Chr22:2\">2CH 22:2</a></p>\n<h3>The grandsons of the sons of Ulam</h3>\n<p><strong><a href=\"https://ref.ly/1Chr8:40\">1CH 8:40</a></strong></p>\n<h3>Nebuchadnezzar's grandson</h3>\n<p><strong><a href=\"https://ref.ly/Jer27:6-Jer27:7\">JER 27:6–27:7</a></strong></p>\n<h2>Grandchildren as representative of descendants</h2>\n<p><strong><a href=\"https://ref.ly/Exod10:1-Exod10:2\">EXO 10:1–10:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:25-Deut4:26\">DEU 4:25–4:26</a>; <a href=\"https://ref.ly/2Kgs17:41\">2KI 17:41</a></p>\n<h2>Believing grandchildren have a responsibility to care for their grandparents</h2>\n<p><strong><a href=\"https://ref.ly/1Tim5:4\">1TI 5:4</a></strong></p>",
@@ -184,6 +184,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5724: offspring",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jashen",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jashen"
 }
 ]
 }

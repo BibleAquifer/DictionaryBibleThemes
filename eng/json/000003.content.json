@@ -2,10 +2,10 @@
 {
 "content_id": "1010",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1010: God, nature and qualities of",
 "media_type": "Text",
-"index_reference": "1010: god, nature and qualities of",
+"index_reference": "1010",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"1015\" data-resourcetype=\"DictionaryOfBibleThemes\">1015: God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"1190\" data-resourcetype=\"DictionaryOfBibleThemes\">1190: glory</span></li></ul>",
@@ -26,7 +26,8 @@
 "label": "1190: glory",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

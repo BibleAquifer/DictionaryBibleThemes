@@ -2,10 +2,10 @@
 {
 "content_id": "5353",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5353: interest",
 "media_type": "Text",
-"index_reference": "5353: interest",
+"index_reference": "5353",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The charge for the lending of money on a commercial or private loan. The practice of charging interest (known as usury) is treated with caution by OT writers on account of its potential for exploitation.</p>\n<h2>Usury forbidden among the Israelites</h2>\n<p><strong><a href=\"https://ref.ly/Exod22:25\">EXO 22:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev25:35-Lev25:37\">LEV 25:35–25:37</a>; <a href=\"https://ref.ly/Deut23:19\">DEU 23:19</a></p>\n<h3>Lending without interest: a characteristic of the righteous</h3>\n<p><a href=\"https://ref.ly/Ps15:5\">PSA 15:5</a>; ; <a href=\"https://ref.ly/Ezek18:8\">EZK 18:8</a>, <a href=\"https://ref.ly/Ezek18:17\">EZK 18:17</a>; ; <a href=\"https://ref.ly/Luke6:30\">LUK 6:30</a>, <a href=\"https://ref.ly/Luke6:31\">LUK 6:31</a></p>\n<h3>Exacting interest: a characteristic of the wicked</h3>\n<p><a href=\"https://ref.ly/Prov28:8\">PRO 28:8</a>; ; <a href=\"https://ref.ly/Jer15:10\">JER 15:10</a>; ; <a href=\"https://ref.ly/Ezek18:13\">EZK 18:13</a>, <a href=\"https://ref.ly/Ezek22:12\">EZK 22:12</a>; ; <a href=\"https://ref.ly/1Tim6:9\">1TI 6:9</a>, <a href=\"https://ref.ly/1Tim6:10\">1TI 6:10</a></p>\n<h3>Lending: a charitable, not a commercial, activity</h3>\n<p><a href=\"https://ref.ly/Deut15:8\">DEU 15:8</a>; ; <a href=\"https://ref.ly/Ps112:5\">PSA 112:5</a>; ; <a href=\"https://ref.ly/Luke6:35\">LUK 6:35</a></p>\n<h3>Example of oppression through usury</h3>\n<p><a href=\"https://ref.ly/Neh5:6-Neh5:11\">NEH 5:6–5:11</a></p>\n<h2>Usury permissible for commercial transactions involving ``outsiders''</h2>\n<p><strong><a href=\"https://ref.ly/Deut23:20\">DEU 23:20</a></strong> <em>This legislation permits rather than encourages usury and remains subject to considerations protecting the poor.</em> <em>See also</em> <a href=\"https://ref.ly/Deut15:1-Deut15:11\">DEU 15:1–15:11</a>; <a href=\"https://ref.ly/Matt25:27\">MAT 25:27</a> parallel <a href=\"https://ref.ly/Luke19:23\">LUK 19:23</a></p>",
@@ -221,6 +221,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8790: oppression",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Galilee",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Galilee"
 }
 ]
 }

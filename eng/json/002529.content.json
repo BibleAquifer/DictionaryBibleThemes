@@ -2,10 +2,10 @@
 {
 "content_id": "9614",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9614: hope, results of its absence",
 "media_type": "Text",
-"index_reference": "9614: hope, results of its absence",
+"index_reference": "9614",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An absence of hope leads to a loss of vision, a sense of despondency and ultimately to despair. This contrasts sharply with the Christian hope.</p>\n<h2>Feelings produced by a lack of hope</h2>\n<h3>Despair</h3>\n<p><strong><a href=\"https://ref.ly/Job17:13-Job17:15\">JOB 17:13–17:15</a></strong>; <strong><a href=\"https://ref.ly/Prov13:12\">PRO 13:12</a></strong>; <strong><a href=\"https://ref.ly/1Chr29:15\">1CH 29:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job6:11\">JOB 6:11</a>, <a href=\"https://ref.ly/Job7:6\">JOB 7:6</a>; <a href=\"https://ref.ly/Ps88:15-Ps88:18\">PSA 88:15–88:18</a>; <a href=\"https://ref.ly/Eccl2:17\">ECC 2:17</a>; <a href=\"https://ref.ly/Isa19:9\">ISA 19:9</a>, <a href=\"https://ref.ly/Isa38:18\">ISA 38:18</a>; <a href=\"https://ref.ly/2Cor1:8\">2CO 1:8</a></p>\n<h3>A sense of being abandoned by God</h3>\n<p><strong><a href=\"https://ref.ly/Ps22:1-Ps22:2\">PSA 22:1–22:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lam3:18\">LAM 3:18</a>; <a href=\"https://ref.ly/Ezek37:11\">EZK 37:11</a></p>\n<h3>A deep longing for life to end</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs19:4\">1KI 19:4</a></strong>; <strong><a href=\"https://ref.ly/Job3:20-Job3:21\">JOB 3:20–3:21</a></strong>; <strong><a href=\"https://ref.ly/Eccl4:1-Eccl4:2\">ECC 4:1–4:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:46\">GEN 27:46</a>; <a href=\"https://ref.ly/Num11:15\">NUM 11:15</a>; <a href=\"https://ref.ly/Job7:13-Job7:15\">JOB 7:13–7:15</a>; <a href=\"https://ref.ly/Jer8:3\">JER 8:3</a>; <a href=\"https://ref.ly/Jonah4:3\">JON 4:3</a>, <a href=\"https://ref.ly/Jonah4:8\">JON 4:8</a>; <a href=\"https://ref.ly/Rev9:6\">REV 9:6</a></p>\n<h2>The outcome of a lack of hope</h2>\n<h3>The choice of trusting in God or futile self-effort</h3>\n<p><strong><a href=\"https://ref.ly/Rom4:18\">ROM 4:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jonah1:13-Jonah1:14\">JON 1:13–1:14</a>; <a href=\"https://ref.ly/Jer18:11-Jer18:12\">JER 18:11–18:12</a>; <a href=\"https://ref.ly/Acts27:20\">ACT 27:20</a></p>\n<h3>Suicide</h3>\n<p><strong><a href=\"https://ref.ly/Matt27:5\">MAT 27:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam31:4\">1SA 31:4</a>; <a href=\"https://ref.ly/2Sam17:23\">2SA 17:23</a>; <a href=\"https://ref.ly/1Kgs16:18\">1KI 16:18</a></p>",
@@ -248,7 +248,8 @@
 "label": "8820: self-confidence",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

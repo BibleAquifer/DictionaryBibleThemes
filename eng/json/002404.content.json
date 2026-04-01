@@ -2,10 +2,10 @@
 {
 "content_id": "8778",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8778: materialism",
 "media_type": "Text",
-"index_reference": "8778: materialism",
+"index_reference": "8778",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The outlook on life which treats material possessions as being of supreme importance or which denies the spiritual aspects of life. Scripture notes the dangers of material wealth and possessions. The accumulation of wealth can easily become a god in itself and lead people astray from the worship of the true God. Yet it is not money itself, but the love of money, which is seen by Scripture as a fundamental cause of evil.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8780: materialism, as an aspect of sin",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Tema",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Tema"
 }
 ]
 }

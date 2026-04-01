@@ -2,10 +2,10 @@
 {
 "content_id": "5276",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5276: crime",
 "media_type": "Text",
-"index_reference": "5276: crime",
+"index_reference": "5276",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An offence against the established laws of society including murder, adultery, theft, perjury and treason. Scripture contains both warnings and teaching to help young people avoid a life of crime.</p>\n<h2>Crime in Israel</h2>\n<p><strong><a href=\"https://ref.ly/Deut6:1-Deut6:2\">DEU 6:1–6:2</a></strong> <em>Crime in Israel was the breaking of laws given by God.</em></p>\n<h3>Examples of crimes covered by Israel's laws</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Exod20:13\">EXO 20:13</a> <em>murder</em>; <a href=\"https://ref.ly/Exod20:14\">EXO 20:14</a> <em>adultery</em>; <a href=\"https://ref.ly/Exod20:15\">EXO 20:15</a> <em>theft</em>; <a href=\"https://ref.ly/Exod20:16\">EXO 20:16</a> <em>perjury</em><a href=\"https://ref.ly/Josh1:16-Josh1:18\">JOS 1:16–1:18</a>; <a href=\"https://ref.ly/2Sam15:7-2Sam15:10\">2SA 15:7–15:10</a>; <a href=\"https://ref.ly/1Kgs16:15-1Kgs16:18\">1KI 16:15–16:18</a>; <a href=\"https://ref.ly/2Kgs11:1-2Kgs11:3\">2KI 11:1–11:3</a> parallel <a href=\"https://ref.ly/2Chr22:10-2Chr22:12\">2CH 22:10–22:12</a></p>\n<h2>Examples of crime in the NT</h2>\n<h3>Murder</h3>\n<p><a href=\"https://ref.ly/Matt2:16\">MAT 2:16</a>; ; <a href=\"https://ref.ly/Acts7:58\">ACT 7:58</a></p>\n<h3>Adultery</h3>\n<p><a href=\"https://ref.ly/John8:3-John8:4\">JHN 8:3–8:4</a>; ; <a href=\"https://ref.ly/1Cor5:1\">1CO 5:1</a></p>\n<h3>Theft</h3>\n<p><a href=\"https://ref.ly/John12:6\">JHN 12:6</a></p>\n<h3>Perjury</h3>\n<p><a href=\"https://ref.ly/Matt26:59-Matt26:60\">MAT 26:59–26:60</a> parallel <a href=\"https://ref.ly/Mark14:55-Mark14:56\">MRK 14:55–14:56</a>; ; <a href=\"https://ref.ly/Acts6:13\">ACT 6:13</a>, <a href=\"https://ref.ly/Acts25:7\">ACT 25:7</a></p>\n<h2>Scripture warns young people that temptation may lead to crime</h2>\n<h3>Violence</h3>\n<p><a href=\"https://ref.ly/Prov1:10-Prov1:19\">PRO 1:10–1:19</a></p>\n<h3>Sexual immorality</h3>\n<p><a href=\"https://ref.ly/Prov5:1-Prov5:23\">PRO 5:1–5:23</a>, <a href=\"https://ref.ly/Prov6:20-Prov6:29\">PRO 6:20–6:29</a>, <a href=\"https://ref.ly/Prov7:6-Prov7:27\">PRO 7:6–7:27</a></p>\n<h2>Scripture teaches parents to discipline their children</h2>\n<p><a href=\"https://ref.ly/Prov13:24\">PRO 13:24</a>, <a href=\"https://ref.ly/Prov19:18\">PRO 19:18</a>, <a href=\"https://ref.ly/Prov22:6\">PRO 22:6</a>, <a href=\"https://ref.ly/Prov22:15\">PRO 22:15</a>, <a href=\"https://ref.ly/Prov23:13\">PRO 23:13</a></p>",
@@ -265,7 +265,8 @@
 "label": "8718: disobedience",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

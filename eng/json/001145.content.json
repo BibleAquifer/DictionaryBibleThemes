@@ -2,10 +2,10 @@
 {
 "content_id": "5580",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5580: thirst",
 "media_type": "Text",
-"index_reference": "5580: thirst",
+"index_reference": "5580",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Water is basic to human life. In Scripture the physical need to drink is often used as a picture of human spiritual need that only God can satisfy.</p>\n<h2>Physical thirst quenched</h2>\n<p><strong><a href=\"https://ref.ly/Exod17:1-Exod17:6\">EXO 17:1–17:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num20:2-Num20:11\">NUM 20:2–20:11</a>; <a href=\"https://ref.ly/Deut8:15\">DEU 8:15</a>; <a href=\"https://ref.ly/Judg15:18-Judg15:19\">JDG 15:18–15:19</a>; <a href=\"https://ref.ly/Neh9:15\">NEH 9:15</a>, <a href=\"https://ref.ly/Neh9:20\">NEH 9:20</a>; <a href=\"https://ref.ly/Ps78:15-Ps78:16\">PSA 78:15–78:16</a>, <a href=\"https://ref.ly/Ps105:41\">PSA 105:41</a>, <a href=\"https://ref.ly/Ps107:4-Ps107:9\">PSA 107:4–107:9</a>, <a href=\"https://ref.ly/Ps107:33\">PSA 107:33</a>, <a href=\"https://ref.ly/Ps107:35\">PSA 107:35</a>, <a href=\"https://ref.ly/Ps114:8\">PSA 114:8</a>; <a href=\"https://ref.ly/Isa48:21\">ISA 48:21</a></p>\n<h2>The satisfaction of spiritual thirst</h2>\n<h3>It is to be found in God</h3>\n<p><strong><a href=\"https://ref.ly/Isa41:17-Isa41:18\">ISA 41:17–41:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps23:1-Ps23:2\">PSA 23:1–23:2</a>; <a href=\"https://ref.ly/Isa12:2-Isa12:3\">ISA 12:2–12:3</a>, <a href=\"https://ref.ly/Isa35:6-Isa35:7\">ISA 35:6–35:7</a>, <a href=\"https://ref.ly/Isa58:11\">ISA 58:11</a></p>\n<h3>It is experienced through Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/1Cor10:3-1Cor10:4\">1CO 10:3–10:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/John4:7-John4:14\">JHN 4:7–4:14</a>, <a href=\"https://ref.ly/John6:35\">JHN 6:35</a></p>\n<h3>It is known by the indwelling of the Holy Spirit</h3>\n<p><strong><a href=\"https://ref.ly/John7:38-John7:39\">JHN 7:38–7:39</a></strong></p>\n<h3>The blessing is mediated through believers to others</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Isa32:2\">ISA 32:2</a>; <a href=\"https://ref.ly/John7:38\">JHN 7:38</a></p>\n<h2>There is no satisfaction of spiritual thirst apart from God</h2>\n<p><strong><a href=\"https://ref.ly/Jer2:13\">JER 2:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa65:13\">ISA 65:13</a>; <a href=\"https://ref.ly/Jer2:17-Jer2:18\">JER 2:17–2:18</a>; <a href=\"https://ref.ly/2Pet2:17\">2PE 2:17</a> <em>False teachers promise blessing and refreshment to others, but prove to be empty and worthless.</em></p>\n<h2>Invitations to seek satisfaction for spiritual thirst in God</h2>\n<p><strong><a href=\"https://ref.ly/Isa55:1\">ISA 55:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/John7:37\">JHN 7:37</a>; <a href=\"https://ref.ly/Rev22:17\">REV 22:17</a></p>\n<h2>Those seeking satisfaction for spiritual thirst in God</h2>\n<h3>Examples of seekers</h3>\n<p><strong><a href=\"https://ref.ly/Ps42:1-Ps42:2\">PSA 42:1–42:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps38:9\">PSA 38:9</a>, <a href=\"https://ref.ly/Ps63:1\">PSA 63:1</a>, <a href=\"https://ref.ly/Ps143:6\">PSA 143:6</a>; <a href=\"https://ref.ly/Isa26:9\">ISA 26:9</a></p>\n<h3>They will be rewarded</h3>\n<p><strong><a href=\"https://ref.ly/Matt5:6\">MAT 5:6</a></strong></p>\n<h3>Heaven is their final reward</h3>\n<p><strong><a href=\"https://ref.ly/Rev7:16-Rev7:17\">REV 7:16–7:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek47:1-Ezek47:12\">EZK 47:1–47:12</a>; <a href=\"https://ref.ly/Zech14:8-Zech14:9\">ZEC 14:8–14:9</a>; <a href=\"https://ref.ly/2Cor5:2\">2CO 5:2</a>; <a href=\"https://ref.ly/2Tim4:8\">2TI 4:8</a>; <a href=\"https://ref.ly/Heb11:16\">HEB 11:16</a>; <a href=\"https://ref.ly/Rev21:6-Rev21:7\">REV 21:6–21:7</a>, <a href=\"https://ref.ly/Rev22:1-Rev22:3\">REV 22:1–22:3</a></p>",
@@ -366,6 +366,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9410: heaven",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Haeleph",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Haeleph"
 }
 ]
 }

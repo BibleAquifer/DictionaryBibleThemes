@@ -2,10 +2,10 @@
 {
 "content_id": "5858",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5858: fat",
 "media_type": "Text",
-"index_reference": "5858: fat",
+"index_reference": "5858",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Used to describe a successful person, fruitful land or healthy animals. It is often associated with the idea of prosperity and contentment. It also designates the part of an animal used in OT sacrifices.</p>\n<h2>Fat as a symbol of success</h2>\n<p><strong><a href=\"https://ref.ly/Isa10:27\">ISA 10:27</a></strong>; <strong><a href=\"https://ref.ly/Jer5:27-Jer5:28\">JER 5:27–5:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut32:15\">DEU 32:15</a>; <a href=\"https://ref.ly/Job15:27-Job15:28\">JOB 15:27–15:28</a>; <a href=\"https://ref.ly/Ezek34:16\">EZK 34:16</a></p>\n<h2>Fat representing fruitful land</h2>\n<p><strong><a href=\"https://ref.ly/Gen45:18\">GEN 45:18</a></strong></p>\n<h2>Fat animals</h2>\n<p><strong><a href=\"https://ref.ly/Gen41:2\">GEN 41:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen41:17-Gen41:21\">GEN 41:17–41:21</a>; <a href=\"https://ref.ly/1Sam15:9\">1SA 15:9</a>; <a href=\"https://ref.ly/Ps66:15\">PSA 66:15</a>; <a href=\"https://ref.ly/Ezek34:20\">EZK 34:20</a></p>\n<h2>Fat people</h2>\n<p><strong><a href=\"https://ref.ly/Judg3:17\">JDG 3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg3:18-Judg3:22\">JDG 3:18–3:22</a></p>\n<h2>Fat used in the context of judgment</h2>\n<p><strong><a href=\"https://ref.ly/Isa17:4\">ISA 17:4</a></strong></p>\n<h2>The fat of animals</h2>\n<h3>Not to be eaten</h3>\n<p><strong><a href=\"https://ref.ly/Lev3:17\">LEV 3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev7:22-Lev7:25\">LEV 7:22–7:25</a></p>\n<h3>To be offered to God in sacrifice</h3>\n<p><strong><a href=\"https://ref.ly/Lev3:16\">LEV 3:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen4:4\">GEN 4:4</a>; <a href=\"https://ref.ly/Lev3:3-Lev3:5\">LEV 3:3–3:5</a>; <a href=\"https://ref.ly/Num18:17\">NUM 18:17</a>; <a href=\"https://ref.ly/Deut32:37-Deut32:38\">DEU 32:37–32:38</a>; <a href=\"https://ref.ly/1Sam2:15-1Sam2:16\">1SA 2:15–2:16</a>, <a href=\"https://ref.ly/1Sam15:22\">1SA 15:22</a>; <a href=\"https://ref.ly/1Kgs8:64\">1KI 8:64</a>; <a href=\"https://ref.ly/Isa34:6-Isa34:7\">ISA 34:6–34:7</a>, <a href=\"https://ref.ly/Isa43:24\">ISA 43:24</a>; <a href=\"https://ref.ly/Ezek39:19\">EZK 39:19</a></p>",
@@ -216,6 +216,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8701: affluence",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hippos",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hippos"
 }
 ]
 }

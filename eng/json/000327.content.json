@@ -2,10 +2,10 @@
 {
 "content_id": "4120",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4120: Satan",
 "media_type": "Text",
-"index_reference": "4120: satan",
+"index_reference": "4120",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The one who opposes the person and purposes of God. Satan is especially associated with deceit, temptation and testing, through which he attempts to deflect believers from obeying God.</p>",
@@ -60,6 +60,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4127: Satan, defeat of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ben-zoheth",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ben-zoheth"
 }
 ]
 }

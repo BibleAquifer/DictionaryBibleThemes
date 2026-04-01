@@ -2,10 +2,10 @@
 {
 "content_id": "4618",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4618: calf",
 "media_type": "Text",
-"index_reference": "4618: calf",
+"index_reference": "4618",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A young animal prized as the source of tender meat, suitable for celebrations. However, it also had associations with both the OT sacrificial system and idolatry.</p>\n<h2>The association of the calf with idolatry</h2>\n<p><strong><a href=\"https://ref.ly/Exod32:2-Exod32:8\">EXO 32:2–32:8</a></strong>; <strong><a href=\"https://ref.ly/1Kgs12:28-1Kgs12:29\">1KI 12:28–12:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:19-Exod32:24\">EXO 32:19–32:24</a>; <a href=\"https://ref.ly/Deut9:16-Deut9:21\">DEU 9:16–9:21</a>; <a href=\"https://ref.ly/2Kgs10:28-2Kgs10:29\">2KI 10:28–10:29</a>, <a href=\"https://ref.ly/2Kgs17:16\">2KI 17:16</a>; <a href=\"https://ref.ly/2Chr11:15\">2CH 11:15</a>; <a href=\"https://ref.ly/Neh9:16-Neh9:18\">NEH 9:16–9:18</a>; <a href=\"https://ref.ly/Ps106:19-Ps106:20\">PSA 106:19–106:20</a>; <a href=\"https://ref.ly/Hos8:5-Hos8:6\">HOS 8:5–8:6</a>, <a href=\"https://ref.ly/Hos10:5\">HOS 10:5</a>, <a href=\"https://ref.ly/Hos13:2\">HOS 13:2</a>; <a href=\"https://ref.ly/Acts7:41\">ACT 7:41</a></p>\n<h2>The sacrifice of calves</h2>\n<p><strong><a href=\"https://ref.ly/Mic6:6\">MIC 6:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev9:1-Lev9:4\">LEV 9:1–9:4</a>, <a href=\"https://ref.ly/Lev9:8-Lev9:11\">LEV 9:8–9:11</a>; <a href=\"https://ref.ly/2Sam6:12-2Sam6:13\">2SA 6:12–6:13</a>; <a href=\"https://ref.ly/1Kgs1:9-1Kgs1:10\">1KI 1:9–1:10</a>; <a href=\"https://ref.ly/Heb9:11-Heb9:12\">HEB 9:11–9:12</a>, <a href=\"https://ref.ly/Heb9:19-Heb9:20\">HEB 9:19–9:20</a></p>\n<h2>The flesh of the calf as a prized food</h2>\n<p><strong><a href=\"https://ref.ly/Prov15:17\">PRO 15:17</a></strong>; <strong><a href=\"https://ref.ly/Luke15:22-Luke15:23\">LUK 15:22–15:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen18:6-Gen18:8\">GEN 18:6–18:8</a>; <a href=\"https://ref.ly/1Sam14:31-1Sam14:32\">1SA 14:31–14:32</a>, <a href=\"https://ref.ly/1Sam28:24-1Sam28:25\">1SA 28:24–28:25</a></p>\n<h2>The metaphorical use of calves</h2>\n<p><strong><a href=\"https://ref.ly/Jer31:18\">JER 31:18</a></strong>; <strong><a href=\"https://ref.ly/Mal4:2\">MAL 4:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps29:6\">PSA 29:6</a>, <a href=\"https://ref.ly/Ps68:30\">PSA 68:30</a>; <a href=\"https://ref.ly/Jer34:18\">JER 34:18</a>, <a href=\"https://ref.ly/Jer46:20-Jer46:21\">JER 46:20–46:21</a></p>",
@@ -261,6 +261,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8768: idolatry",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Bull",
+"type": "fauna",
+"confidence": 0.6609,
+"match_method": "scored",
+"preferred_label": "Cattle"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "4839",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4839: mildew",
 "media_type": "Text",
-"index_reference": "4839: mildew",
+"index_reference": "4839",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>A fungal plant disease, often seen as a sign of God's judgment</h2>\n<p><strong><a href=\"https://ref.ly/Deut28:22\">DEU 28:22</a></strong>; <strong><a href=\"https://ref.ly/Amos4:9\">AMO 4:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs8:37\">1KI 8:37</a> parallel <a href=\"https://ref.ly/2Chr6:28\">2CH 6:28</a>; <a href=\"https://ref.ly/Hag2:17\">HAG 2:17</a></p>\n<h2>Regulations concerning mildew</h2>\n<p><a href=\"https://ref.ly/Lev13:47-Lev13:59\">LEV 13:47–13:59</a>, <a href=\"https://ref.ly/Lev14:34-Lev14:57\">LEV 14:34–14:57</a></p>",
@@ -76,7 +76,8 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

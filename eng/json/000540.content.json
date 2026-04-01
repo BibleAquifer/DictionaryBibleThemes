@@ -2,10 +2,10 @@
 {
 "content_id": "4813",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4813: depth",
 "media_type": "Text",
-"index_reference": "4813: depth",
+"index_reference": "4813",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Depth as a literal measurement</h2>\n<p><strong><a href=\"https://ref.ly/Gen7:20\">GEN 7:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs7:31\">1KI 7:31</a>, <a href=\"https://ref.ly/1Kgs7:35\">1KI 7:35</a>; <a href=\"https://ref.ly/Ezek40:6\">EZK 40:6</a>, <a href=\"https://ref.ly/Ezek40:9\">EZK 40:9</a>, <a href=\"https://ref.ly/Ezek40:30\">EZK 40:30</a>, <a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a>; <a href=\"https://ref.ly/Acts27:28\">ACT 27:28</a></p>\n<h2>Depth indicating the strength of human emotions</h2>\n<p><strong><a href=\"https://ref.ly/2Cor2:4\">2CO 2:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lam3:60\">LAM 3:60</a></p>\n<h2>Depth as a characteristic of wisdom</h2>\n<p><a href=\"https://ref.ly/Rom11:33\">ROM 11:33</a>; ; <a href=\"https://ref.ly/Phil1:9\">PHP 1:9</a></p>\n<h2>Depth representating the immeasurability of God</h2>\n<p><strong><a href=\"https://ref.ly/Rom11:33\">ROM 11:33</a></strong></p>\n<h2>Depth used to express the love of God</h2>\n<p><strong><a href=\"https://ref.ly/Rom8:38-Rom8:39\">ROM 8:38–8:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph3:16-Eph3:19\">EPH 3:16–3:19</a></p>",
@@ -180,6 +180,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8281: insight",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Derbe",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Derbe"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "7326",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7326: cannibalism",
 "media_type": "Text",
-"index_reference": "7326: cannibalism",
+"index_reference": "7326",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>God warns his people about cannibalism</h2>\n<p><a href=\"https://ref.ly/Deut28:53\">DEU 28:53</a>; ; <a href=\"https://ref.ly/Lev26:29\">LEV 26:29</a>; ; <a href=\"https://ref.ly/Jer19:9\">JER 19:9</a></p>\n<h2>Cannibalism as a result of God's judgment on his disobedient people</h2>\n<p><a href=\"https://ref.ly/2Kgs6:24-2Kgs6:29\">2KI 6:24–6:29</a>; ; <a href=\"https://ref.ly/Lam2:20\">LAM 2:20</a>, <a href=\"https://ref.ly/Lam4:10\">LAM 4:10</a>; ; <a href=\"https://ref.ly/Ezek5:10\">EZK 5:10</a></p>",
@@ -103,6 +103,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Neballat",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Neballat"
 }
 ]
 }

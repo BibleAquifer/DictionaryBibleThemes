@@ -2,10 +2,10 @@
 {
 "content_id": "8283",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8283: joy",
 "media_type": "Text",
-"index_reference": "8283: joy",
+"index_reference": "8283",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A quality or attitude of delight and happiness, which is ultimately grounded in the work of God as Father, Son and Holy Spirit. Among the many situations in which joy is experienced, Scripture recognises as supreme being accepted in the presence of God.</p>",
@@ -53,6 +53,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8289: joy, of the church",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shammah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shammah"
 }
 ]
 }

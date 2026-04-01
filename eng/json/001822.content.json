@@ -2,10 +2,10 @@
 {
 "content_id": "7412",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7412: priesthood",
 "media_type": "Text",
-"index_reference": "7412: priesthood",
+"index_reference": "7412",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The body of people responsible for priestly duties, especially in relation to worship and sacrifice. The OT identifies Aaron and his heirs as having special priestly duties. In the NT, all believers are understood to share in this priesthood. Jesus Christ fulfils the OT concept of priesthood by being both the high priest and sacrifice, through which forgiveness of sins is completely achieved.</p>",
@@ -25,6 +25,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7414: priesthood, in NT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Noadiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Noadiah"
+},
+{
+"id": "person:Noadiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Noadiah"
 }
 ]
 }

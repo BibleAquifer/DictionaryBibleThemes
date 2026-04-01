@@ -2,10 +2,10 @@
 {
 "content_id": "5725",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5725: old age",
 "media_type": "Text",
-"index_reference": "5725: old age",
+"index_reference": "5725",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Living for a relatively long time was regarded as a blessing from God and the aged in society are to be respected. Advancing years can bring greater wisdom and in both the OT and NT elders are given authority and leadership. Old age brings physical weakness and Scripture recognises this but states God's ability to strengthen and sustain the aged.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5727: old age, attitudes to",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hazaiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hazaiah"
 }
 ]
 }

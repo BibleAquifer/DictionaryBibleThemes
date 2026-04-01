@@ -2,10 +2,10 @@
 {
 "content_id": "6720",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6720: redemption",
 "media_type": "Text",
-"index_reference": "6720: redemption",
+"index_reference": "6720",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The buying back or release of an object or person. In Scripture redemption refers to God's ransoming of believers only through the death of Jesus Christ upon the cross and to all the benefits that this brings.</p>",
@@ -46,6 +46,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6725: redeemer, Jesus Christ as",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Leopard",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leopard"
 }
 ]
 }

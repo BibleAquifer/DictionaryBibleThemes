@@ -2,10 +2,10 @@
 {
 "content_id": "5767",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5767: attitudes, in prayer",
 "media_type": "Text",
-"index_reference": "5767: attitudes, in prayer",
+"index_reference": "5767",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Attitudes in prayer include both the postures people adopt while praying and the hopes that they have concerning its outcome. Scripture points to the need for humility and expectation on the part of those who pray.</p>\n<h2>Positions adopted for prayer</h2>\n<h3>Bowing down and kneeling</h3>\n<p><strong><a href=\"https://ref.ly/Ps95:6\">PSA 95:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen24:26\">GEN 24:26</a>; <a href=\"https://ref.ly/Exod4:31\">EXO 4:31</a>; <a href=\"https://ref.ly/Isa45:23\">ISA 45:23</a>; <a href=\"https://ref.ly/Dan6:10\">DAN 6:10</a>; <a href=\"https://ref.ly/Luke22:41\">LUK 22:41</a>; <a href=\"https://ref.ly/Acts7:60\">ACT 7:60</a>; <a href=\"https://ref.ly/Eph3:14\">EPH 3:14</a>; <a href=\"https://ref.ly/Phil2:10\">PHP 2:10</a></p>\n<h3>Falling on one's face before God</h3>\n<p><strong><a href=\"https://ref.ly/Matt26:39\">MAT 26:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num20:6\">NUM 20:6</a>; <a href=\"https://ref.ly/Josh5:14\">JOS 5:14</a>; <a href=\"https://ref.ly/2Chr20:18\">2CH 20:18</a></p>\n<h3>Standing</h3>\n<p><strong><a href=\"https://ref.ly/Mark11:25\">MRK 11:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs8:22\">1KI 8:22</a>; <a href=\"https://ref.ly/Luke18:11\">LUK 18:11</a></p>\n<h2>Attitudes in the spiritual life</h2>\n<h3>Standing for warfare</h3>\n<p><strong><a href=\"https://ref.ly/Eph6:13-Eph6:14\">EPH 6:13–6:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Thess2:15\">2TH 2:15</a>; <a href=\"https://ref.ly/Jas5:8\">JAS 5:8</a></p>\n<h3>Walking with God</h3>\n<p><strong><a href=\"https://ref.ly/Mic6:8\">MIC 6:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:31\">ISA 40:31</a>; <a href=\"https://ref.ly/1John1:7\">1JN 1:7</a></p>\n<h3>Running</h3>\n<p><strong><a href=\"https://ref.ly/Heb12:1\">HEB 12:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:31\">ISA 40:31</a></p>",
@@ -221,7 +221,8 @@
 "label": "8625: worship, acceptable attitudes in",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

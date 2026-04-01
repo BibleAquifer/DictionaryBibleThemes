@@ -2,10 +2,10 @@
 {
 "content_id": "4190",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4190: spiritism",
 "media_type": "Text",
-"index_reference": "4190: spiritism",
+"index_reference": "4190",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The use of mediums or other spiritual intermediaries to communicate with the dead. Scripture forbids such practices, which are inconsistent with obedience to a living God.</p>\n<h2>Spiritism forbidden by God</h2>\n<p><strong><a href=\"https://ref.ly/Lev19:31\">LEV 19:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut18:10-Deut18:12\">DEU 18:10–18:12</a></p>\n<h2>Punishment for spiritism</h2>\n<p><strong><a href=\"https://ref.ly/Lev20:27\">LEV 20:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev20:6\">LEV 20:6</a></p>\n<h2>Spiritism practised in Israel</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs21:6\">2KI 21:6</a></strong> parallel <a href=\"https://ref.ly/2Chr33:6\">2CH 33:6</a> <em>See also</em> <a href=\"https://ref.ly/1Sam28:4-1Sam28:20\">1SA 28:4–28:20</a></p>\n<h2>Spiritists expelled from Israel</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs23:24\">2KI 23:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam28:3\">1SA 28:3</a></p>\n<h2>The futility of spiritism</h2>\n<p><strong><a href=\"https://ref.ly/Isa8:19\">ISA 8:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa19:2-Isa19:3\">ISA 19:2–19:3</a></p>",
@@ -141,6 +141,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8744: faithlessness, as disobedience",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Baal-meon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Baal-meon"
 }
 ]
 }

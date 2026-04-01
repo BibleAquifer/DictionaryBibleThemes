@@ -2,10 +2,10 @@
 {
 "content_id": "7555",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7555: Sadducees",
 "media_type": "Text",
-"index_reference": "7555: sadducees",
+"index_reference": "7555",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An influential Jewish party that denied the existence of the spirit world and the possibility of resurrection. Its members are portrayed as opposing Jesus Christ and the first Christians.</p>\n<h2>Many priests were Sadducees</h2>\n<p><strong><a href=\"https://ref.ly/Acts5:17\">ACT 5:17</a></strong></p>\n<h2>Sadducees rejected the concepts of resurrection and spirit world</h2>\n<p><strong><a href=\"https://ref.ly/Acts23:8\">ACT 23:8</a></strong></p>\n<h2>Sadducees questioned Jesus Christ about the resurrection</h2>\n<p><strong><a href=\"https://ref.ly/Matt22:23-Matt22:32\">MAT 22:23–22:32</a></strong> parallels <a href=\"https://ref.ly/Mark12:18-Mark12:27\">MRK 12:18–12:27</a>, <a href=\"https://ref.ly/Luke20:27-Luke20:38\">LUK 20:27–20:38</a></p>\n<h2>Sadducees denounced by John the Baptist</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:7-Matt3:10\">MAT 3:7–3:10</a></strong></p>\n<h2>Sadducees denounced by Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt16:6-Matt16:12\">MAT 16:6–16:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt21:28-Matt21:45\">MAT 21:28–21:45</a> <em>The chief priests were probably Sadducees (see <a href=\"https://ref.ly/Acts5:17\">Ac 5:17</a>).</em></p>\n<h2>The Sadducees oppose the first Christians</h2>\n<p><strong><a href=\"https://ref.ly/Acts4:1-Acts4:3\">ACT 4:1–4:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts5:17-Acts5:18\">ACT 5:17–5:18</a></p>",
@@ -135,6 +135,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9314: resurrection, of the dead",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Sadducee",
+"type": "group",
+"confidence": 0.5607,
+"match_method": "scored",
+"preferred_label": "Sadducees"
 }
 ]
 }

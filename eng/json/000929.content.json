@@ -2,10 +2,10 @@
 {
 "content_id": "5342",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5342: hunting",
 "media_type": "Text",
-"index_reference": "5342: hunting",
+"index_reference": "5342",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Hunters who pursue a prey, literally or figuratively</h2>\n<h3>Human beings</h3>\n<p><strong><a href=\"https://ref.ly/Gen10:9\">GEN 10:9</a></strong>; <strong><a href=\"https://ref.ly/Ps91:3\">PSA 91:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen25:27\">GEN 25:27</a>, <a href=\"https://ref.ly/Gen27:3\">GEN 27:3</a>, <a href=\"https://ref.ly/Gen49:9\">GEN 49:9</a>, <a href=\"https://ref.ly/Gen49:27\">GEN 49:27</a>; <a href=\"https://ref.ly/Lev17:13\">LEV 17:13</a>; <a href=\"https://ref.ly/1Sam24:11\">1SA 24:11</a>; <a href=\"https://ref.ly/Ps124:7\">PSA 124:7</a></p>\n<h3>Lions</h3>\n<p><strong><a href=\"https://ref.ly/Job38:39\">JOB 38:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num23:24\">NUM 23:24</a>; <a href=\"https://ref.ly/Job4:11\">JOB 4:11</a>; <a href=\"https://ref.ly/Ps17:12\">PSA 17:12</a>, <a href=\"https://ref.ly/Ps22:13\">PSA 22:13</a>, <a href=\"https://ref.ly/Ps104:21\">PSA 104:21</a>; <a href=\"https://ref.ly/Isa5:29\">ISA 5:29</a>; <a href=\"https://ref.ly/Ezek19:6\">EZK 19:6</a>, <a href=\"https://ref.ly/Ezek22:25\">EZK 22:25</a>; <a href=\"https://ref.ly/Amos3:4\">AMO 3:4</a>; <a href=\"https://ref.ly/Nah2:12\">NAM 2:12</a></p>\n<h3>Eagles</h3>\n<p><strong><a href=\"https://ref.ly/Job9:26\">JOB 9:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job39:27-Job39:30\">JOB 39:27–39:30</a></p>\n<h3>God</h3>\n<p><strong><a href=\"https://ref.ly/Amos9:3\">AMO 9:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job19:22\">JOB 19:22</a>; <a href=\"https://ref.ly/Jer16:16\">JER 16:16</a>; <a href=\"https://ref.ly/Ezek12:13\">EZK 12:13</a></p>\n<h2>People being hunted by their enemies</h2>\n<p><strong><a href=\"https://ref.ly/Ps10:2\">PSA 10:2</a></strong>; <strong><a href=\"https://ref.ly/Jer5:26\">JER 5:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen31:36\">GEN 31:36</a>; <a href=\"https://ref.ly/1Sam23:23\">1SA 23:23</a>, <a href=\"https://ref.ly/1Sam26:20\">1SA 26:20</a>; <a href=\"https://ref.ly/Job18:8-Job18:10\">JOB 18:8–18:10</a>; <a href=\"https://ref.ly/Ps119:110\">PSA 119:110</a>, <a href=\"https://ref.ly/Ps140:5\">PSA 140:5</a>, <a href=\"https://ref.ly/Ps140:11\">PSA 140:11</a>, <a href=\"https://ref.ly/Ps141:9\">PSA 141:9</a>; <a href=\"https://ref.ly/Prov6:5\">PRO 6:5</a>; <a href=\"https://ref.ly/Eccl9:12\">ECC 9:12</a>; <a href=\"https://ref.ly/Isa10:2\">ISA 10:2</a>, <a href=\"https://ref.ly/Isa13:14\">ISA 13:14</a>, <a href=\"https://ref.ly/Isa59:15\">ISA 59:15</a>; <a href=\"https://ref.ly/Lam3:52\">LAM 3:52</a>; <a href=\"https://ref.ly/Mic7:2\">MIC 7:2</a></p>",
@@ -326,6 +326,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5589: trap",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gad.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
+},
+{
+"id": "person:Gad",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gad"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5668",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5668: children, responsibilities to parents",
 "media_type": "Text",
-"index_reference": "5668: children, responsibilities to parents",
+"index_reference": "5668",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Children owe their parents certain important responsibilities, including the duty to honour and obey them.</p>\n<h2>The duties of children towards their parents</h2>\n<h3>They are to honour their parents</h3>\n<p><strong><a href=\"https://ref.ly/Exod20:12\">EXO 20:12</a></strong> parallel <a href=\"https://ref.ly/Deut5:16\">DEU 5:16</a> <em>See also</em> <a href=\"https://ref.ly/Prov17:6\">PRO 17:6</a>; <a href=\"https://ref.ly/Mark7:10\">MRK 7:10</a>; <a href=\"https://ref.ly/Eph6:1-Eph6:3\">EPH 6:1–6:3</a></p>\n<h3>They are to obey their parents</h3>\n<p><strong><a href=\"https://ref.ly/Col3:20-Col3:21\">COL 3:20–3:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph6:1\">EPH 6:1</a></p>\n<h3>They are to behave well</h3>\n<p><strong><a href=\"https://ref.ly/Prov20:11\">PRO 20:11</a></strong></p>\n<h2>Children as a blessing and source of joy to their parents</h2>\n<p><strong><a href=\"https://ref.ly/Ps127:4-Ps127:5\">PSA 127:4–127:5</a></strong>; <strong><a href=\"https://ref.ly/Prov23:24\">PRO 23:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps128:3\">PSA 128:3</a>; <a href=\"https://ref.ly/Prov15:20\">PRO 15:20</a>, <a href=\"https://ref.ly/Prov27:11\">PRO 27:11</a>, <a href=\"https://ref.ly/Prov29:3\">PRO 29:3</a>; <a href=\"https://ref.ly/Luke15:23-Luke15:24\">LUK 15:23–15:24</a></p>\n<h2>Children born to barren mothers bring special joy</h2>\n<p>Sarah:\n <a href=\"https://ref.ly/Gen18:11\">GEN 18:11</a>, <a href=\"https://ref.ly/Gen21:2\">GEN 21:2</a>; <a href=\"https://ref.ly/Gen29:31\">GEN 29:31</a>, <a href=\"https://ref.ly/Gen30:22\">GEN 30:22</a>; <a href=\"https://ref.ly/Judg13:2\">JDG 13:2</a>, <a href=\"https://ref.ly/Judg13:24\">JDG 13:24</a>; <a href=\"https://ref.ly/1Sam1:5\">1SA 1:5</a>, <a href=\"https://ref.ly/1Sam1:20\">1SA 1:20</a>; <a href=\"https://ref.ly/Luke1:7\">LUK 1:7</a>, <a href=\"https://ref.ly/Luke1:24\">LUK 1:24</a>, <a href=\"https://ref.ly/Luke1:57\">LUK 1:57</a></p>\n<h2>Children as a source of grief and disappointment to their parents</h2>\n<p><strong><a href=\"https://ref.ly/Prov17:25\">PRO 17:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam8:3\">1SA 8:3</a>; <a href=\"https://ref.ly/Prov17:21\">PRO 17:21</a>, <a href=\"https://ref.ly/Prov19:13\">PRO 19:13</a>, <a href=\"https://ref.ly/Prov19:26\">PRO 19:26</a>, <a href=\"https://ref.ly/Prov28:7\">PRO 28:7</a>, <a href=\"https://ref.ly/Prov29:15\">PRO 29:15</a></p>\n<h2>The punishment of children</h2>\n<h3>The punishment of wicked children</h3>\n<p><a href=\"https://ref.ly/Exod21:15\">EXO 21:15</a>; ; <a href=\"https://ref.ly/Lev20:9\">LEV 20:9</a>; ; <a href=\"https://ref.ly/Deut21:18-Deut21:21\">DEU 21:18–21:21</a>; ; <a href=\"https://ref.ly/Prov30:17\">PRO 30:17</a>; ; <a href=\"https://ref.ly/2Tim3:2\">2TI 3:2</a></p>\n<h2>The punishment of children for the sins of their fathers</h2>\n<p><a href=\"https://ref.ly/Exod20:5-Exod20:6\">EXO 20:5–20:6</a>; ; <a href=\"https://ref.ly/Num14:18\">NUM 14:18</a>; ; <a href=\"https://ref.ly/Jer31:29-Jer31:30\">JER 31:29–31:30</a> <em>Jeremiah here stresses the importance of individual responsibility in the present crisis without denying the notion of corporate responsibility</em>; ; <a href=\"https://ref.ly/Jer32:18\">JER 32:18</a></p>",
@@ -306,6 +306,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8453: obedience",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Harhas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Harhas"
 }
 ]
 }

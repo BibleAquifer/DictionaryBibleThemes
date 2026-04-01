@@ -2,10 +2,10 @@
 {
 "content_id": "4446",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4446: flowers",
 "media_type": "Text",
-"index_reference": "4446: flowers",
+"index_reference": "4446",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The blossoming part of plants and trees, from which the seeds or fruit develop. Often admired for their beauty, Scripture uses their fleeting existence as an illustration of the transience of human life.</p>\n<h2>Carvings of flowers</h2>\n<h3>In the tabernacle</h3>\n<p><strong><a href=\"https://ref.ly/Exod25:31-Exod25:36\">EXO 25:31–25:36</a></strong> parallel <a href=\"https://ref.ly/Exod37:17-Exod37:22\">EXO 37:17–37:22</a></p>\n<h3>In the temple</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs6:18\">1KI 6:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs6:29\">1KI 6:29</a>, <a href=\"https://ref.ly/1Kgs6:31-1Kgs6:35\">1KI 6:31–6:35</a>, <a href=\"https://ref.ly/1Kgs7:15-1Kgs7:22\">1KI 7:15–7:22</a>, <a href=\"https://ref.ly/1Kgs7:25-1Kgs7:26\">1KI 7:25–7:26</a> parallel <a href=\"https://ref.ly/2Chr4:4-2Chr4:5\">2CH 4:4–4:5</a></p>\n<h2>Metaphorical depictions of people as flowers</h2>\n<p><strong><a href=\"https://ref.ly/Isa28:1-Isa28:6\">ISA 28:1–28:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa5:18-Isa5:25\">ISA 5:18–5:25</a></p>\n<h2>Human existence is likened to the short life cycle of flowers</h2>\n<p><strong><a href=\"https://ref.ly/1Pet1:24-1Pet1:25\">1PE 1:24–1:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa40:6-Isa40:8\">ISA 40:6–40:8</a>; <a href=\"https://ref.ly/Job14:1-Job14:2\">JOB 14:1–14:2</a>; <a href=\"https://ref.ly/Ps103:13-Ps103:18\">PSA 103:13–103:18</a>; <a href=\"https://ref.ly/Jas1:9-Jas1:11\">JAS 1:9–1:11</a></p>\n<h2>Flowers and the changing seasons</h2>\n<p><strong><a href=\"https://ref.ly/Song2:11-Song2:13\">SNG 2:11–2:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa18:5-Isa18:6\">ISA 18:5–18:6</a></p>\n<h2>The lily</h2>\n<h3>Its beauty</h3>\n<p><strong><a href=\"https://ref.ly/Luke12:27-Luke12:28\">LUK 12:27–12:28</a></strong> parallel <a href=\"https://ref.ly/Matt6:28-Matt6:30\">MAT 6:28–6:30</a> <em>See also</em> <a href=\"https://ref.ly/Song2:1-Song2:2\">SNG 2:1–2:2</a>; <a href=\"https://ref.ly/Hos14:4-Hos14:7\">HOS 14:4–14:7</a></p>\n<h3>Lilies in psalm titles</h3>\n<p><strong>PSA 45:0</strong> <em>See also</em> PSA 60:0, PSA 69:0, PSA 80:0</p>\n<h3>Their metaphorical use</h3>\n<p><strong><a href=\"https://ref.ly/Song4:5\">SNG 4:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song2:16\">SNG 2:16</a>, <a href=\"https://ref.ly/Song5:13\">SNG 5:13</a>, <a href=\"https://ref.ly/Song6:2-Song6:3\">SNG 6:2–6:3</a>, <a href=\"https://ref.ly/Song7:2\">SNG 7:2</a></p>\n<h2>The crocus</h2>\n<p><strong><a href=\"https://ref.ly/Isa35:1-Isa35:2\">ISA 35:1–35:2</a></strong></p>\n<h2>The rose</h2>\n<p><strong><a href=\"https://ref.ly/Song2:1\">SNG 2:1</a></strong></p>",
@@ -244,7 +244,8 @@
 "label": "7467: temple, Solomon's",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

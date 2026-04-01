@@ -2,16 +2,25 @@
 {
 "content_id": "5772",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5772: abstinence, from drinking",
 "media_type": "Text",
-"index_reference": "5772: abstinence, from drinking",
+"index_reference": "5772",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"4436.md\">4436: drinking, abstention from</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "place:Helbon",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Helbon"
+}
+]
 }
 }
 ]

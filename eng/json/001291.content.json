@@ -2,10 +2,10 @@
 {
 "content_id": "5766",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5766: attitudes, to life",
 "media_type": "Text",
-"index_reference": "5766: attitudes, to life",
+"index_reference": "5766",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The way in which people think or feel about human life is of major importance to morality. Scripture declares the sanctity of life, and the attitudes towards life which should follow.</p>\n<h2>The sanctity of life</h2>\n<p><a href=\"https://ref.ly/Ps49:7-Ps49:8\">PSA 49:7–49:8</a>; ; <a href=\"https://ref.ly/Matt16:26\">MAT 16:26</a> parallel <a href=\"https://ref.ly/Mark8:37\">MRK 8:37</a></p>\n<h2>Fear</h2>\n<p><strong><a href=\"https://ref.ly/1John4:18\">1JN 4:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps23:4\">PSA 23:4</a>, <a href=\"https://ref.ly/Ps91:5\">PSA 91:5</a>, <a href=\"https://ref.ly/Ps112:7-Ps112:8\">PSA 112:7–112:8</a>; <a href=\"https://ref.ly/Isa35:4\">ISA 35:4</a>, <a href=\"https://ref.ly/Isa41:10\">ISA 41:10</a>; <a href=\"https://ref.ly/1Pet3:6\">1PE 3:6</a></p>\n<h2>Courage</h2>\n<p><strong><a href=\"https://ref.ly/1Cor16:13\">1CO 16:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Josh1:6-Josh1:7\">JOS 1:6–1:7</a>; <a href=\"https://ref.ly/1Sam17:32\">1SA 17:32</a>, <a href=\"https://ref.ly/1Sam17:37\">1SA 17:37</a>; <a href=\"https://ref.ly/Acts4:13\">ACT 4:13</a></p>\n<h2>Rejoicing</h2>\n<p><strong><a href=\"https://ref.ly/Ps118:24\">PSA 118:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom5:3\">ROM 5:3</a>, <a href=\"https://ref.ly/Rom12:15\">ROM 12:15</a>; <a href=\"https://ref.ly/1Pet4:13\">1PE 4:13</a></p>\n<h2>Anxiety</h2>\n<p><strong><a href=\"https://ref.ly/Phil4:6\">PHP 4:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps94:19\">PSA 94:19</a>; <a href=\"https://ref.ly/Prov12:25\">PRO 12:25</a>; <a href=\"https://ref.ly/Eccl11:10\">ECC 11:10</a>; <a href=\"https://ref.ly/Matt6:25-Matt6:34\">MAT 6:25–6:34</a> parallel <a href=\"https://ref.ly/Luke12:22-Luke12:31\">LUK 12:22–12:31</a>; <a href=\"https://ref.ly/Luke10:41\">LUK 10:41</a>; <a href=\"https://ref.ly/1Pet5:7\">1PE 5:7</a></p>\n<h2>Being forward-looking and positive</h2>\n<p><strong><a href=\"https://ref.ly/Phil3:12-Phil3:14\">PHP 3:12–3:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke9:62\">LUK 9:62</a>; <a href=\"https://ref.ly/2Tim1:7\">2TI 1:7</a>, <a href=\"https://ref.ly/2Tim2:3-2Tim2:6\">2TI 2:3–2:6</a></p>",
@@ -282,6 +282,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8849: worry",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gera.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gera"
 }
 ]
 }

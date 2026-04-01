@@ -2,10 +2,10 @@
 {
 "content_id": "4651",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4651: goat",
 "media_type": "Text",
-"index_reference": "4651: goat",
+"index_reference": "4651",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A common animal used both for food and within the sacrificial system.</p>\n<h2>The economic importance of goats</h2>\n<h3>For food</h3>\n<p><strong><a href=\"https://ref.ly/Gen27:9\">GEN 27:9</a></strong>; <strong><a href=\"https://ref.ly/Judg13:15\">JDG 13:15</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut14:4\">DEU 14:4</a>, <a href=\"https://ref.ly/Deut14:21\">DEU 14:21</a>; <a href=\"https://ref.ly/Judg6:19\">JDG 6:19</a>; <a href=\"https://ref.ly/Prov27:27\">PRO 27:27</a>; <a href=\"https://ref.ly/Luke15:29\">LUK 15:29</a></p>\n<h3>For fabric</h3>\n<p><strong><a href=\"https://ref.ly/Exod35:26\">EXO 35:26</a></strong> <em>The tabernacle curtains were spun from goat hair, the ordinary material for making tents.</em> <em>See also</em> <a href=\"https://ref.ly/Exod26:7\">EXO 26:7</a>, <a href=\"https://ref.ly/Exod36:14\">EXO 36:14</a>; <a href=\"https://ref.ly/Rev6:12\">REV 6:12</a></p>\n<h3>As a measure of wealth and payment</h3>\n<p><strong><a href=\"https://ref.ly/Gen30:32\">GEN 30:32</a></strong>; <strong><a href=\"https://ref.ly/1Sam25:2\">1SA 25:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen32:5\">GEN 32:5</a>, <a href=\"https://ref.ly/Gen32:13-Gen32:14\">GEN 32:13–32:14</a>, <a href=\"https://ref.ly/Gen47:17\">GEN 47:17</a>; <a href=\"https://ref.ly/Prov27:26\">PRO 27:26</a>; <a href=\"https://ref.ly/Ezek27:21\">EZK 27:21</a></p>\n<h2>Goats used in sacrifice</h2>\n<h3>For worship</h3>\n<p><a href=\"https://ref.ly/Gen15:9\">GEN 15:9</a>; ; <a href=\"https://ref.ly/Judg13:19\">JDG 13:19</a>; ; <a href=\"https://ref.ly/Ps66:13-Ps66:15\">PSA 66:13–66:15</a></p>\n<h3>For atonement for sin</h3>\n<p><strong><a href=\"https://ref.ly/Lev4:23\">LEV 4:23</a></strong>; <strong><a href=\"https://ref.ly/Ezra8:35\">EZR 8:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev3:12\">LEV 3:12</a>, <a href=\"https://ref.ly/Lev4:28\">LEV 4:28</a>, <a href=\"https://ref.ly/Lev5:6\">LEV 5:6</a>, <a href=\"https://ref.ly/Lev9:3\">LEV 9:3</a>; <a href=\"https://ref.ly/Num7:16\">NUM 7:16</a>, <a href=\"https://ref.ly/Num7:22\">NUM 7:22</a>, <a href=\"https://ref.ly/Num7:28\">NUM 7:28</a>, <a href=\"https://ref.ly/Num15:27\">NUM 15:27</a></p>\n<h3>As a fellowship offering</h3>\n<p><a href=\"https://ref.ly/Num7:17\">NUM 7:17</a>, <a href=\"https://ref.ly/Num7:23\">NUM 7:23</a>, <a href=\"https://ref.ly/Num7:29\">NUM 7:29</a></p>\n<h3>At the dedication of the temple</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs8:63\">1KI 8:63</a></strong> parallel <a href=\"https://ref.ly/2Chr7:5\">2CH 7:5</a> <em>See also</em> <a href=\"https://ref.ly/2Chr30:24\">2CH 30:24</a>; <a href=\"https://ref.ly/Ezra6:17\">EZR 6:17</a></p>\n<h3>Flawless goats were required</h3>\n<p><strong><a href=\"https://ref.ly/Exod12:5\">EXO 12:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev1:10\">LEV 1:10</a>; <a href=\"https://ref.ly/Ezek43:22\">EZK 43:22</a></p>\n<h2>The sacrifice of goats is unable to actually remove sins</h2>\n<p><a href=\"https://ref.ly/Isa1:11\">ISA 1:11</a> <em>In spite of their many sacrifices there was no evidence of repentance</em>; ; <a href=\"https://ref.ly/Heb9:12-Heb9:14\">HEB 9:12–9:14</a>, <a href=\"https://ref.ly/Heb10:3-Heb10:4\">HEB 10:3–10:4</a></p>\n<h2>Goats are symbolic of sinful humanity</h2>\n<p><strong><a href=\"https://ref.ly/Matt25:32\">MAT 25:32</a></strong></p>",
@@ -338,6 +338,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7459: tabernacle, in OT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Corinth",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Corinthians"
+},
+{
+"id": "fauna:Goat",
+"type": "fauna",
+"confidence": 0.7584,
+"match_method": "scored",
+"preferred_label": "Goat"
 }
 ]
 }

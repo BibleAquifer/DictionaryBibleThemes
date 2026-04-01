@@ -2,10 +2,10 @@
 {
 "content_id": "8142",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8142: religion",
 "media_type": "Text",
-"index_reference": "8142: religion",
+"index_reference": "8142",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A set of beliefs, a form of worship, ritual, prayer and a code of moral behaviour. True faith in God, moral standards and good works are important in relation to a biblical understanding of true religion, which is contrasted with the false religion of paganism.</p>\n<h2>Belief</h2>\n<p><strong><a href=\"https://ref.ly/Heb11:6\">HEB 11:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen15:61\">GEN 15:61</a>SA <a href=\"https://ref.ly/Gen4:3-Gen4:8\">4:3–4:8</a>; <a href=\"https://ref.ly/1Kgs20:23\">1KI 20:23</a>\n<a href=\"https://ref.ly/Jonah3:5\">JON 3:5</a>; <a href=\"https://ref.ly/Jas2:19\">JAS 2:19</a> <em>Belief by itself is insufficient for salvation.</em></p>\n<h2>Worship</h2>\n<p><strong><a href=\"https://ref.ly/Jonah1:16\">JON 1:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs19:37\">2KI 19:37</a> parallel <a href=\"https://ref.ly/Isa37:38\">ISA 37:38</a>; <a href=\"https://ref.ly/Jer44:17-Jer44:19\">JER 44:17–44:19</a>; <a href=\"https://ref.ly/Acts17:22-Acts17:23\">ACT 17:22–17:23</a></p>\n<h2>Ritual</h2>\n<p><strong><a href=\"https://ref.ly/Mark7:3-Mark7:4\">MRK 7:3–7:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:2-Exod32:6\">EXO 32:2–32:6</a>; <a href=\"https://ref.ly/1Kgs18:22-1Kgs18:29\">1KI 18:22–18:29</a>; <a href=\"https://ref.ly/Heb10:11\">HEB 10:11</a></p>\n<h2>Prayer</h2>\n<p><strong><a href=\"https://ref.ly/Isa44:17\">ISA 44:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs18:26\">1KI 18:26</a>; <a href=\"https://ref.ly/Isa45:20\">ISA 45:20</a>; <a href=\"https://ref.ly/Luke2:37\">LUK 2:37</a>; <a href=\"https://ref.ly/Acts10:4\">ACT 10:4</a></p>\n<h2>Code of behaviour</h2>\n<p><strong><a href=\"https://ref.ly/Neh9:13-Neh9:14\">NEH 9:13–9:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs23:3\">2KI 23:3</a> parallel <a href=\"https://ref.ly/2Chr34:31\">2CH 34:31</a>; <a href=\"https://ref.ly/Matt19:16-Matt19:20\">MAT 19:16–19:20</a> parallels <a href=\"https://ref.ly/Mark10:17-Mark10:20\">MRK 10:17–10:20</a>, <a href=\"https://ref.ly/Luke18:18-Luke18:21\">LUK 18:18–18:21</a>; <a href=\"https://ref.ly/Matt23:23\">MAT 23:23</a> parallel <a href=\"https://ref.ly/Luke11:42\">LUK 11:42</a> <em>Religious people do not always see the inconsistencies in their behaviour</em>; <a href=\"https://ref.ly/Luke1:6\">LUK 1:6</a>; <a href=\"https://ref.ly/John18:28\">JHN 18:28</a>; <a href=\"https://ref.ly/Jas1:26\">JAS 1:26</a></p>\n<h2>True religious practice</h2>\n<p><strong><a href=\"https://ref.ly/Jas1:27\">JAS 1:27</a></strong></p>\n<h3>Moral standards</h3>\n<p><strong><a href=\"https://ref.ly/1Cor7:19\">1CO 7:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt15:16-Matt15:20\">MAT 15:16–15:20</a> parallel <a href=\"https://ref.ly/Mark7:18-Mark7:23\">MRK 7:18–7:23</a>; <a href=\"https://ref.ly/Mark12:33\">MRK 12:33</a>; <a href=\"https://ref.ly/Luke11:39-Luke11:41\">LUK 11:39–11:41</a>; <a href=\"https://ref.ly/Rom10:2-Rom10:4\">ROM 10:2–10:4</a>, <a href=\"https://ref.ly/Rom14:17\">ROM 14:17</a></p>\n<h3>Good works</h3>\n<p><strong><a href=\"https://ref.ly/1Tim5:4\">1TI 5:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt19:21\">MAT 19:21</a> parallels <a href=\"https://ref.ly/Mark10:21\">MRK 10:21</a>, <a href=\"https://ref.ly/Luke18:22\">LUK 18:22</a>; <a href=\"https://ref.ly/Eph2:10\">EPH 2:10</a>; <a href=\"https://ref.ly/Jas2:14-Jas2:17\">JAS 2:14–2:17</a></p>",
@@ -366,6 +366,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8831: syncretism",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Saraph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Saraph"
 }
 ]
 }

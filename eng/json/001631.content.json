@@ -2,10 +2,10 @@
 {
 "content_id": "6658",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6658: freedom",
 "media_type": "Text",
-"index_reference": "6658: freedom",
+"index_reference": "6658",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The state of liberty that results from not being oppressed or in bondage. Scripture stresses that human beings lack freedom on account of sin, but that faith in Jesus Christ brings freedom from the power of sin and the law.</p>",
@@ -46,6 +46,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6663: freedom, of the will",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Lachish",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Lachish"
 }
 ]
 }

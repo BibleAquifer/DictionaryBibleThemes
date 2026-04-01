@@ -2,10 +2,10 @@
 {
 "content_id": "5120",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5120: Solomon, character of",
 "media_type": "Text",
-"index_reference": "5120: solomon, character of",
+"index_reference": "5120",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Solomon was a man of outstanding gifts and abilities. Initially he was approved by God, but the latter years of his reign were marred by idolatry and apostasy.</p>\n<h2>Solomon's abilities</h2>\n<h3>Wisdom</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs4:29\">1KI 4:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs3:7-1Kgs3:12\">1KI 3:7–3:12</a> parallel <a href=\"https://ref.ly/2Chr1:8-2Chr1:12\">2CH 1:8–1:12</a>; <a href=\"https://ref.ly/1Kgs3:16-1Kgs3:28\">1KI 3:16–3:28</a>, <a href=\"https://ref.ly/1Kgs10:6-1Kgs10:7\">1KI 10:6–10:7</a> parallel <a href=\"https://ref.ly/2Chr9:5-2Chr9:6\">2CH 9:5–9:6</a>; <a href=\"https://ref.ly/Matt12:42\">MAT 12:42</a></p>\n<h3>Political shrewdness</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs3:1\">1KI 3:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs4:21\">1KI 4:21</a>, <a href=\"https://ref.ly/1Kgs10:13\">1KI 10:13</a></p>\n<h3>Dealing with individuals</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs2:35\">1KI 2:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs2:24\">1KI 2:24</a>, <a href=\"https://ref.ly/1Kgs2:27\">1KI 2:27</a></p>\n<h3>Poetry and writing</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs4:32\">1KI 4:32</a></strong> <em>See also</em> PSA 72:0, PSA 127:0; <a href=\"https://ref.ly/Prov1:1\">PRO 1:1</a>, <a href=\"https://ref.ly/Prov10:1\">PRO 10:1</a>, <a href=\"https://ref.ly/Prov25:1\">PRO 25:1</a></p>\n<h2>Solomon's righteousness</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs8:62-1Kgs8:63\">1KI 8:62–8:63</a></strong> parallel <a href=\"https://ref.ly/2Chr7:4-2Chr7:5\">2CH 7:4–7:5</a> <em>See also</em> <a href=\"https://ref.ly/1Kgs3:6-1Kgs3:15\">1KI 3:6–3:15</a>, <a href=\"https://ref.ly/1Kgs8:54-1Kgs8:61\">1KI 8:54–8:61</a>, <a href=\"https://ref.ly/1Kgs8:65-1Kgs8:66\">1KI 8:65–8:66</a></p>\n<h2>Solomon's sin</h2>\n<p><strong><a href=\"https://ref.ly/Neh13:26\">NEH 13:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut17:16-Deut17:17\">DEU 17:16–17:17</a>; <a href=\"https://ref.ly/1Kgs10:26\">1KI 10:26</a>, <a href=\"https://ref.ly/1Kgs10:28\">1KI 10:28</a>, <a href=\"https://ref.ly/1Kgs11:1\">1KI 11:1</a>, <a href=\"https://ref.ly/1Kgs11:4\">1KI 11:4</a>, <a href=\"https://ref.ly/1Kgs11:9-1Kgs11:13\">1KI 11:9–11:13</a></p>\n<h2>Solomon's splendour was renowned</h2>\n<p><strong><a href=\"https://ref.ly/Matt6:29\">MAT 6:29</a></strong> parallel <a href=\"https://ref.ly/Luke12:27\">LUK 12:27</a></p>",
@@ -234,7 +234,8 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "7390",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7390: Levites",
 "media_type": "Text",
-"index_reference": "7390: levites",
+"index_reference": "7390",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Assistants to the Aaronic priests, they exercised an auxiliary ministry, caring for the tabernacle. After the ark was brought to Jerusalem by David their role was re-ordered and extended. They were reconsecrated during the reforms of Josiah and Hezekiah and recommissioned by Ezra and Nehemiah when the Israelites returned from captivity.</p>\n<h2>The Levites and the care of the tabernacle</h2>\n<h3>The Levites are to transport, erect and guard the tabernacle</h3>\n<p><strong><a href=\"https://ref.ly/Num1:48-Num1:53\">NUM 1:48–1:53</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num2:17\">NUM 2:17</a>; <a href=\"https://ref.ly/Deut10:8\">DEU 10:8</a></p>\n<h3>The Gershonite branch of the Levites are to care for the coverings and curtains of the tabernacle</h3>\n<p><strong><a href=\"https://ref.ly/Num3:25-Num3:26\">NUM 3:25–3:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num4:24-Num4:27\">NUM 4:24–4:27</a></p>\n<h3>The Kohathite branch of the Levites are to care for the furnishings of the sanctuary</h3>\n<p><strong><a href=\"https://ref.ly/Num3:31\">NUM 3:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num4:4-Num4:20\">NUM 4:4–4:20</a></p>\n<h3>The Merarite branch of the Levites are to care for the frames of the tabernacle</h3>\n<p><strong><a href=\"https://ref.ly/Num3:36-Num3:37\">NUM 3:36–3:37</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num4:29-Num4:33\">NUM 4:29–4:33</a></p>\n<h2>The Levites are to have an auxiliary ministry</h2>\n<p><strong><a href=\"https://ref.ly/Num3:5-Num3:10\">NUM 3:5–3:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num8:19\">NUM 8:19</a>, <a href=\"https://ref.ly/Num18:1-Num18:7\">NUM 18:1–18:7</a></p>\n<h2>The Levites are set apart for their ministry</h2>\n<p><strong><a href=\"https://ref.ly/Num8:20-Num8:21\">NUM 8:20–8:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num8:5-Num8:15\">NUM 8:5–8:15</a></p>\n<h2>The Levites' period of service was between the ages of 25 and 50</h2>\n<p><strong><a href=\"https://ref.ly/Num8:23-Num8:26\">NUM 8:23–8:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num4:1-Num4:3\">NUM 4:1–4:3</a> <em>Some suggest that the reason for the discrepancy in ages between Numbers chapters 4 and 8 is that the Levites had to serve an apprenticeship for the first five years.</em></p>\n<h2>Occasions after the settlement when the Levites transport the ark</h2>\n<p><a href=\"https://ref.ly/1Sam6:15\">1SA 6:15</a>; ; <a href=\"https://ref.ly/2Sam15:24\">2SA 15:24</a>; ; <a href=\"https://ref.ly/1Kgs8:3-1Kgs8:5\">1KI 8:3–8:5</a> parallel <a href=\"https://ref.ly/2Chr5:4-2Chr5:6\">2CH 5:4–5:6</a>; ; <a href=\"https://ref.ly/1Chr15:1-1Chr15:16\">1CH 15:1–15:16</a></p>\n<h2>David re-orders and extends the role of the Levites</h2>\n<p><strong><a href=\"https://ref.ly/1Chr23:2-1Chr23:6\">1CH 23:2–23:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr6:31-1Chr6:49\">1CH 6:31–6:49</a>, <a href=\"https://ref.ly/1Chr16:4-1Chr16:6\">1CH 16:4–16:6</a>, <a href=\"https://ref.ly/1Chr23:24-1Chr23:32\">1CH 23:24–23:32</a>, <a href=\"https://ref.ly/1Chr25:1-1Chr26:32\">1CH 25:1–26:32</a></p>\n<h2>Hezekiah and Josiah rededicate the Levites</h2>\n<p><a href=\"https://ref.ly/2Chr29:3-2Chr29:36\">2CH 29:3–29:36</a>, <a href=\"https://ref.ly/2Chr35:1-2Chr35:6\">2CH 35:1–35:6</a></p>\n<h2>Ezra and Nehemiah recommission the Levites after the return from exile</h2>\n<p><strong><a href=\"https://ref.ly/Ezra6:16-Ezra6:18\">EZR 6:16–6:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh12:22-Neh12:26\">NEH 12:22–12:26</a></p>\n<h2>Ezekiel prophesies a restored but restricted role for the Levites in the new temple</h2>\n<p><strong><a href=\"https://ref.ly/Ezek44:10-Ezek44:14\">EZK 44:10–44:14</a></strong></p>",
@@ -275,6 +275,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8676: thanksgiving",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Neziah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Neziah"
+},
+{
+"id": "group:Levi",
+"type": "group",
+"confidence": 0.589,
+"match_method": "scored",
+"preferred_label": "Tribe of Levi"
 }
 ]
 }

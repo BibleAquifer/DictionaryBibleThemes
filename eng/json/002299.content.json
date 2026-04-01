@@ -2,10 +2,10 @@
 {
 "content_id": "8622",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8622: worship",
 "media_type": "Text",
-"index_reference": "8622: worship",
+"index_reference": "8622",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The praise, adoration and reverence of God, both in public and private. It is a celebration of the worthiness of God, by which honour is given to his name.</p>",
@@ -68,7 +68,8 @@
 "label": "8630: worship, results of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

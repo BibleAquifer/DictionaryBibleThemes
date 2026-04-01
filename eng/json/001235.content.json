@@ -2,10 +2,10 @@
 {
 "content_id": "5692",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5692: friends, bad",
 "media_type": "Text",
-"index_reference": "5692: friends, bad",
+"index_reference": "5692",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Those who are close or who exercise influence, who prove to be unreliable or deceptive or who lead astray. Scripture provides numerous instructive examples of the negative effects of bad friends upon believers.</p>\n<h2>Friends who lead astray</h2>\n<h3>From worship</h3>\n<p><strong><a href=\"https://ref.ly/Deut13:6-Deut13:8\">DEU 13:6–13:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut23:6\">DEU 23:6</a>; <a href=\"https://ref.ly/1Kgs11:2\">1KI 11:2</a></p>\n<h3>From good character</h3>\n<p><strong><a href=\"https://ref.ly/1Cor15:33\">1CO 15:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov12:26\">PRO 12:26</a>, <a href=\"https://ref.ly/Prov22:24-Prov22:25\">PRO 22:24–22:25</a></p>\n<h3>From friendship with God</h3>\n<p><strong><a href=\"https://ref.ly/Jas4:4\">JAS 4:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa52:11\">ISA 52:11</a>; <a href=\"https://ref.ly/Jer9:4-Jer9:5\">JER 9:4–9:5</a>; <a href=\"https://ref.ly/Mic7:5\">MIC 7:5</a>; <a href=\"https://ref.ly/2Cor6:14-2Cor6:18\">2CO 6:14–6:18</a>, <a href=\"https://ref.ly/2Cor7:1\">2CO 7:1</a></p>\n<h2>Friends who are unreliable</h2>\n<h3>In their commitment</h3>\n<p><strong><a href=\"https://ref.ly/Job6:14-Job6:17\">JOB 6:14–6:17</a></strong></p>\n<h3>In their trustworthiness</h3>\n<p><strong><a href=\"https://ref.ly/Ps41:9\">PSA 41:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps38:11\">PSA 38:11</a>, <a href=\"https://ref.ly/Ps55:20-Ps55:21\">PSA 55:20–55:21</a>; <a href=\"https://ref.ly/Obad1:7\">OBA 1:7</a>; <a href=\"https://ref.ly/Matt26:14-Matt26:15\">MAT 26:14–26:15</a>; <a href=\"https://ref.ly/John13:18\">JHN 13:18</a> <em>Jesus Christ is speaking about his betrayal by Judas.</em></p>\n<h3>In their support</h3>\n<p><strong><a href=\"https://ref.ly/2Tim4:16\">2TI 4:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Tim4:10\">2TI 4:10</a></p>\n<h2>Examples of bad friends</h2>\n<h3>Those who lead astray</h3>\n<p><strong><a href=\"https://ref.ly/Gen3:12\">GEN 3:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs12:8-1Kgs12:11\">1KI 12:8–12:11</a>; <a href=\"https://ref.ly/Esth5:14\">EST 5:14</a></p>\n<h3>Those who are inconstant</h3>\n<p><strong><a href=\"https://ref.ly/Job19:19\">JOB 19:19</a></strong> <em>Presumably these friends are not merely the ones who attempted to comfort him.</em> <em>See also</em> <a href=\"https://ref.ly/Matt26:31\">MAT 26:31</a>, <a href=\"https://ref.ly/Matt26:33-Matt26:34\">MAT 26:33–26:34</a>; <a href=\"https://ref.ly/2Tim4:10\">2TI 4:10</a>, <a href=\"https://ref.ly/2Tim4:16\">2TI 4:16</a></p>",
@@ -258,6 +258,78 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8841: unfaithfulness, to people",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hashabiah.10",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hashabiah"
+},
+{
+"id": "person:Hashabiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hashabiah"
+},
+{
+"id": "person:Hashabiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hashabiah"
+},
+{
+"id": "person:Hashabiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hashabiah"
+},
+{
+"id": "person:Hashabiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hashabiah"
+},
+{
+"id": "person:Hashabiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hashabiah"
+},
+{
+"id": "person:Hashabiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hashabiah"
+},
+{
+"id": "person:Hashabiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hashabiah"
+},
+{
+"id": "person:Hashabiah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hashabiah"
+},
+{
+"id": "person:Hashabiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hashabiah"
 }
 ]
 }

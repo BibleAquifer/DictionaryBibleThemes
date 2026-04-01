@@ -2,10 +2,10 @@
 {
 "content_id": "5224",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5224: barn",
 "media_type": "Text",
-"index_reference": "5224: barn",
+"index_reference": "5224",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Barns were associated with industry and prosperity</h2>\n<h3>Full barns were a sign of blessing</h3>\n<p><strong><a href=\"https://ref.ly/Prov3:9-Prov3:10\">PRO 3:9–3:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut28:8\">DEU 28:8</a>; <a href=\"https://ref.ly/Ps144:12-Ps144:15\">PSA 144:12–144:15</a></p>\n<h3>Empty barns were a sign of poverty</h3>\n<p><strong><a href=\"https://ref.ly/Hag2:15-Hag2:19\">HAG 2:15–2:19</a></strong></p>\n<h3>The priority of spiritual over material prosperity</h3>\n<p><strong><a href=\"https://ref.ly/Luke12:15-Luke12:21\">LUK 12:15–12:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt6:25-Matt6:26\">MAT 6:25–6:26</a>; <a href=\"https://ref.ly/Luke12:23-Luke12:24\">LUK 12:23–12:24</a></p>\n<h2>God's barn is a metaphor for the kingdom of heaven</h2>\n<p><strong><a href=\"https://ref.ly/Luke3:16-Luke3:17\">LUK 3:16–3:17</a></strong> parallel <a href=\"https://ref.ly/Matt3:11-Matt3:12\">MAT 3:11–3:12</a> <em>See also</em> <a href=\"https://ref.ly/Matt13:24-Matt13:30\">MAT 13:24–13:30</a></p>",
@@ -121,6 +121,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5558: storing",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ezrah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezrah"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5192",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5192: thumbs",
 "media_type": "Text",
-"index_reference": "5192: thumbs",
+"index_reference": "5192",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The role of the thumb in sacrificial ritual</h2>\n<p><a href=\"https://ref.ly/Exod29:20\">EXO 29:20</a>; ; <a href=\"https://ref.ly/Lev8:23-Lev8:24\">LEV 8:23–8:24</a>, <a href=\"https://ref.ly/Lev14:14\">LEV 14:14</a>, <a href=\"https://ref.ly/Lev14:17\">LEV 14:17</a>, <a href=\"https://ref.ly/Lev14:25\">LEV 14:25</a>, <a href=\"https://ref.ly/Lev14:28\">LEV 14:28</a></p>\n<h2>Thumbs cut off</h2>\n<p><a href=\"https://ref.ly/Judg1:6-Judg1:7\">JDG 1:6–1:7</a></p>",
@@ -76,7 +76,8 @@
 "label": "7435: sacrifice, in OT",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

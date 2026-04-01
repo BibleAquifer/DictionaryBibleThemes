@@ -2,10 +2,10 @@
 {
 "content_id": "9600",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9600: Hope",
 "media_type": "Text",
-"index_reference": "9600: hope",
+"index_reference": "9600",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"9610\" data-resourcetype=\"DictionaryOfBibleThemes\">9610: hope</span></li></ul>",
@@ -19,7 +19,8 @@
 "label": "9610: hope",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

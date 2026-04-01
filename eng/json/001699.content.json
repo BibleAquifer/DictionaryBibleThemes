@@ -2,10 +2,10 @@
 {
 "content_id": "7000",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7000: God's people",
 "media_type": "Text",
-"index_reference": "7000: god's people",
+"index_reference": "7000",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"7010\" data-resourcetype=\"DictionaryOfBibleThemes\">7010: The church as the people of God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7100\" data-resourcetype=\"DictionaryOfBibleThemes\">7100: Titles of the people of God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7200\" data-resourcetype=\"DictionaryOfBibleThemes\">7200: History of God's people in OT</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7300\" data-resourcetype=\"DictionaryOfBibleThemes\">7300: Institutions and culture of OT</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7500\" data-resourcetype=\"DictionaryOfBibleThemes\">7500: Jews and Gentiles</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7600\" data-resourcetype=\"DictionaryOfBibleThemes\">7600: History of God's people in NT</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7700\" data-resourcetype=\"DictionaryOfBibleThemes\">7700: Leadership and the people of God</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"7900\" data-resourcetype=\"DictionaryOfBibleThemes\">7900: The life of the church</span></li></ul>",
@@ -67,6 +67,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7900: The life of the church",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Measure",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Measure"
 }
 ]
 }

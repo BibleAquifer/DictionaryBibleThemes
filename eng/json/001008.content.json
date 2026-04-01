@@ -2,10 +2,10 @@
 {
 "content_id": "5429",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5429: oaths",
 "media_type": "Text",
-"index_reference": "5429: oaths",
+"index_reference": "5429",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Solemn, binding promises, the truth of which are affirmed by appeal to God as witness. God himself makes solemn oaths to individuals. Scripture makes clear that oaths should be made wisely and not be broken.</p>",
@@ -26,7 +26,8 @@
 "label": "5431: oaths, divine",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "9230",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "9230: judgment seat",
 "media_type": "Text",
-"index_reference": "9230: judgment seat",
+"index_reference": "9230",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The platform or throne from which kings and officials administer justice. God presently exercises judgment from his heavenly throne, symbolised in the OT by the ark of the covenant, and will one day bring all peoples before his judgment seat to give account of their lives and to receive their due reward.</p>\n<h2>Examples of earthly seats of judgment</h2>\n<p><strong><a href=\"https://ref.ly/Prov20:8\">PRO 20:8</a></strong>; <strong><a href=\"https://ref.ly/John19:13\">JHN 19:13</a></strong> parallel <a href=\"https://ref.ly/Matt27:19\">MAT 27:19</a> <em>See also</em> <a href=\"https://ref.ly/Exod18:13-Exod18:14\">EXO 18:13–18:14</a>; <a href=\"https://ref.ly/1Kgs7:7\">1KI 7:7</a>; <a href=\"https://ref.ly/Ps122:5\">PSA 122:5</a>; <a href=\"https://ref.ly/Prov31:23\">PRO 31:23</a>; <a href=\"https://ref.ly/Acts12:21\">ACT 12:21</a>, <a href=\"https://ref.ly/Acts23:3\">ACT 23:3</a>, <a href=\"https://ref.ly/Acts25:23\">ACT 25:23</a>; <a href=\"https://ref.ly/Jas2:6\">JAS 2:6</a></p>\n<h2>God's judgment seat</h2>\n<h3>God judges from his throne</h3>\n<p><strong><a href=\"https://ref.ly/Ps9:4-Ps9:5\">PSA 9:4–9:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps9:7-Ps9:8\">PSA 9:7–9:8</a>, <a href=\"https://ref.ly/Ps11:4-Ps11:7\">PSA 11:4–11:7</a>, <a href=\"https://ref.ly/Ps45:6\">PSA 45:6</a>, <a href=\"https://ref.ly/Ps97:2\">PSA 97:2</a></p>\n<h3>The ark as a symbol of God's throne</h3>\n<p><strong><a href=\"https://ref.ly/2Sam6:2\">2SA 6:2</a></strong> parallel <a href=\"https://ref.ly/1Chr13:6\">1CH 13:6</a> <em>See also</em> <a href=\"https://ref.ly/Exod25:22\">EXO 25:22</a>; <a href=\"https://ref.ly/1Sam4:4\">1SA 4:4</a>; <a href=\"https://ref.ly/2Kgs19:15\">2KI 19:15</a> parallel <a href=\"https://ref.ly/Isa37:16\">ISA 37:16</a>; <a href=\"https://ref.ly/Ps80:1\">PSA 80:1</a>, <a href=\"https://ref.ly/Ps99:1\">PSA 99:1</a></p>\n<h3>God's future judgment</h3>\n<p><strong><a href=\"https://ref.ly/2Cor5:10\">2CO 5:10</a></strong> <em>God's future judgment is exercised through Jesus Christ</em>; <strong><a href=\"https://ref.ly/Rev20:11-Rev20:13\">REV 20:11–20:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan7:9-Dan7:10\">DAN 7:9–7:10</a>; <a href=\"https://ref.ly/Joel3:12\">JOL 3:12</a>; <a href=\"https://ref.ly/Matt25:31-Matt25:32\">MAT 25:31–25:32</a>; <a href=\"https://ref.ly/Rom14:10\">ROM 14:10</a></p>\n<h3>Believers will share Jesus Christ's judgment throne</h3>\n<p><strong><a href=\"https://ref.ly/Matt19:28\">MAT 19:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke22:30\">LUK 22:30</a>; <a href=\"https://ref.ly/Rev20:4\">REV 20:4</a></p>",
@@ -294,6 +294,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9240: last judgment",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Zizah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Zizah"
+},
+{
+"id": "realia:JudgmentSeat",
+"type": "realia",
+"confidence": 0.5745,
+"match_method": "scored",
+"preferred_label": "Judgment Seat"
 }
 ]
 }

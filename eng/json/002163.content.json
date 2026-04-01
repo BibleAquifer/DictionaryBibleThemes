@@ -2,10 +2,10 @@
 {
 "content_id": "8336",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8336: reverence, and obedience",
 "media_type": "Text",
-"index_reference": "8336: reverence, and obedience",
+"index_reference": "8336",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Reverence towards God expresses itself in the actions, as well as the words and worship of believers. True reverence for God leads to obedience towards him.</p>\n<h2>Reverent fear is expressed in worship</h2>\n<p><strong><a href=\"https://ref.ly/Jonah1:16\">JON 1:16</a></strong></p>\n<h3>Reverence in worship is expressed in bodily attitudes</h3>\n<p>Bowing:\n <a href=\"https://ref.ly/Exod12:27\">EXO 12:27</a>; ; <a href=\"https://ref.ly/Ps95:6\">PSA 95:6</a>; <a href=\"https://ref.ly/Gen17:3\">GEN 17:3</a>; ; <a href=\"https://ref.ly/Num14:5\">NUM 14:5</a>; ; <a href=\"https://ref.ly/Dan10:15\">DAN 10:15</a>; ; <a href=\"https://ref.ly/Rev5:14\">REV 5:14</a>; \n<a href=\"https://ref.ly/Exod3:5\">EXO 3:5</a> <em>removing shoes</em>; ; <a href=\"https://ref.ly/Exod3:6\">EXO 3:6</a> <em>covering the face</em>; <a href=\"https://ref.ly/Ezra9:5\">EZR 9:5</a>; ; <a href=\"https://ref.ly/Dan6:10\">DAN 6:10</a>; ; <a href=\"https://ref.ly/Eph3:14\">EPH 3:14</a></p>\n<h2>Reverence can be learnt through religious observances</h2>\n<h3>A shared meal in God's presence</h3>\n<p><a href=\"https://ref.ly/Deut14:23\">DEU 14:23</a></p>\n<h3>Hearing God's word</h3>\n<p><a href=\"https://ref.ly/Deut4:9-Deut4:14\">DEU 4:9–4:14</a>, <a href=\"https://ref.ly/Deut31:12-Deut31:13\">DEU 31:12–31:13</a></p>\n<h3>Reading God's word</h3>\n<p><a href=\"https://ref.ly/Deut17:18-Deut17:19\">DEU 17:18–17:19</a></p>\n<h2>Reverence motivates people to avoid doing wrong</h2>\n<p><strong><a href=\"https://ref.ly/Prov16:6\">PRO 16:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:20\">EXO 20:20</a>; <a href=\"https://ref.ly/2Chr19:9-2Chr19:10\">2CH 19:9–19:10</a>; <a href=\"https://ref.ly/Job1:1\">JOB 1:1</a>, <a href=\"https://ref.ly/Job28:28\">JOB 28:28</a>; <a href=\"https://ref.ly/Prov3:7\">PRO 3:7</a>, <a href=\"https://ref.ly/Prov8:13\">PRO 8:13</a>, <a href=\"https://ref.ly/Prov14:16\">PRO 14:16</a>; <a href=\"https://ref.ly/2Cor7:1\">2CO 7:1</a></p>\n<h2>Reverence leads people to obey God's law</h2>\n<p><strong><a href=\"https://ref.ly/Eccl12:13\">ECC 12:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut10:12-Deut10:13\">DEU 10:12–10:13</a>, <a href=\"https://ref.ly/Deut13:4\">DEU 13:4</a>; <a href=\"https://ref.ly/Neh5:14-Neh5:18\">NEH 5:14–5:18</a> <em>generous treatment of dependants</em>; <a href=\"https://ref.ly/2Cor5:11\">2CO 5:11</a> <em>evangelism</em>; <a href=\"https://ref.ly/Eph5:21\">EPH 5:21</a> <em>mutual submission</em>; <a href=\"https://ref.ly/Col3:22\">COL 3:22</a> <em>obedience to masters</em></p>\n<h2>Reverence is characterised by fearing God</h2>\n<p><a href=\"https://ref.ly/Eccl8:12\">ECC 8:12</a>; ; <a href=\"https://ref.ly/Acts2:5\">ACT 2:5</a></p>\n<h3>Gentile believers were called ``God-fearing''</h3>\n<p><a href=\"https://ref.ly/Acts10:2\">ACT 10:2</a>, <a href=\"https://ref.ly/Acts13:26\">ACT 13:26</a>, <a href=\"https://ref.ly/Acts13:50\">ACT 13:50</a>, <a href=\"https://ref.ly/Acts17:4\">ACT 17:4</a>, <a href=\"https://ref.ly/Acts17:17\">ACT 17:17</a></p>",
@@ -274,6 +274,71 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8453: obedience",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Shelemiah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shelemiah"
+},
+{
+"id": "person:Shelemiah.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shelemiah"
+},
+{
+"id": "person:Shelemiah.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shelemiah"
+},
+{
+"id": "person:Shelemiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shelemiah"
+},
+{
+"id": "person:Shelemiah.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shelemiah"
+},
+{
+"id": "person:Shelemiah.7",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shelemiah"
+},
+{
+"id": "person:Shelemiah.8",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shelemiah"
+},
+{
+"id": "person:Shelemiah.9",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shelemiah"
+},
+{
+"id": "person:Meshelemiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Meshelemiah"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5357",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5357: journey",
 "media_type": "Text",
-"index_reference": "5357: journey",
+"index_reference": "5357",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>People going on journeys</h2>\n<p><strong><a href=\"https://ref.ly/Num33:1-Num33:2\">NUM 33:1–33:2</a></strong>; <strong><a href=\"https://ref.ly/Rom15:24\">ROM 15:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen29:1\">GEN 29:1</a>, <a href=\"https://ref.ly/Gen45:21\">GEN 45:21</a>; <a href=\"https://ref.ly/Num9:10\">NUM 9:10</a>; <a href=\"https://ref.ly/Josh9:11-Josh9:13\">JOS 9:11–9:13</a>; <a href=\"https://ref.ly/1Kgs19:4\">1KI 19:4</a>; <a href=\"https://ref.ly/Neh2:6\">NEH 2:6</a>; <a href=\"https://ref.ly/Prov7:19\">PRO 7:19</a>; <a href=\"https://ref.ly/Acts9:3\">ACT 9:3</a>; <a href=\"https://ref.ly/1Cor16:3\">1CO 16:3</a></p>\n<h2>Journeys of Jesus Christ</h2>\n<h3>From Egypt to Nazareth</h3>\n<p><a href=\"https://ref.ly/Matt2:19-Matt2:23\">MAT 2:19–2:23</a></p>\n<h3>Journeys in Galilee</h3>\n<p><a href=\"https://ref.ly/Mark6:1-Mark6:56\">MRK 6:1–6:56</a></p>\n<h3>Journeys in Judea</h3>\n<p><a href=\"https://ref.ly/Matt20:17-Matt21:11\">MAT 20:17–21:11</a></p>\n<h3>Journeys in Samaria</h3>\n<p><a href=\"https://ref.ly/Luke9:51-Luke9:56\">LUK 9:51–9:56</a>; ; <a href=\"https://ref.ly/John4:6\">JHN 4:6</a></p>\n<h2>God's guidance on journeys</h2>\n<p><strong><a href=\"https://ref.ly/Gen24:27\">GEN 24:27</a></strong>; <strong><a href=\"https://ref.ly/Deut1:33\">DEU 1:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen28:20\">GEN 28:20</a>; <a href=\"https://ref.ly/Deut2:7\">DEU 2:7</a>; <a href=\"https://ref.ly/Josh24:17\">JOS 24:17</a>; <a href=\"https://ref.ly/Judg18:5\">JDG 18:5</a>; <a href=\"https://ref.ly/Ezra7:9\">EZR 7:9</a>, <a href=\"https://ref.ly/Ezra8:21\">EZR 8:21</a></p>\n<h2>The disciples' evangelistic journeys</h2>\n<p><a href=\"https://ref.ly/Matt10:5-Matt10:15\">MAT 10:5–10:15</a> parallels <a href=\"https://ref.ly/Mark6:7-Mark6:11\">MRK 6:7–6:11</a>, <a href=\"https://ref.ly/Luke9:1-Luke9:5\">LUK 9:1–9:5</a></p>\n<h2>Journeys used figuratively</h2>\n<p><strong><a href=\"https://ref.ly/Job16:22\">JOB 16:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt21:33\">MAT 21:33</a> parallel <a href=\"https://ref.ly/Mark12:1\">MRK 12:1</a>; <a href=\"https://ref.ly/Matt25:13-Matt25:14\">MAT 25:13–25:14</a>; <a href=\"https://ref.ly/Luke11:6\">LUK 11:6</a></p>",
@@ -246,6 +246,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8124: guidance",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gallio",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gallio"
 }
 ]
 }

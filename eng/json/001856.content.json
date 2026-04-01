@@ -2,10 +2,10 @@
 {
 "content_id": "7468",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7468: temple, rebuilding of",
 "media_type": "Text",
-"index_reference": "7468: temple, rebuilding of",
+"index_reference": "7468",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Following the exile Solomon's ruined temple was rebuilt and became the focus of the Jewish faith worldwide.</p>\n<h2>Preparations for rebuilding the temple</h2>\n<p><a href=\"https://ref.ly/Ezra1:1-Ezra1:4\">EZR 1:1–1:4</a> parallel <a href=\"https://ref.ly/2Chr36:22-2Chr36:23\">2CH 36:22–36:23</a> <em>Cyrus gave permission for the exiled Jews to return to Jerusalem to rebuild the temple (538 B.C.)</em>; ; <a href=\"https://ref.ly/Ezra1:7\">EZR 1:7</a> <em>He sent back the temple treasures.</em></p>\n<h2>Rebuilding the temple under the leadership of Jeshua and Zerubbabel</h2>\n<p><a href=\"https://ref.ly/Ezra3:3-Ezra3:6\">EZR 3:3–3:6</a>, <a href=\"https://ref.ly/Ezra3:8-Ezra3:13\">EZR 3:8–3:13</a>, <a href=\"https://ref.ly/Ezra4:1-Ezra4:3\">EZR 4:1–4:3</a></p>\n<h2>Interruptions to the rebuilding</h2>\n<h3>The Jews' enemies persuaded Artaxerxes to order the work to cease</h3>\n<p><a href=\"https://ref.ly/Ezra4:8\">EZR 4:8</a>, <a href=\"https://ref.ly/Ezra4:12-Ezra4:15\">EZR 4:12–4:15</a>, <a href=\"https://ref.ly/Ezra4:17\">EZR 4:17</a>, <a href=\"https://ref.ly/Ezra4:20-Ezra4:21\">EZR 4:20–4:21</a>, <a href=\"https://ref.ly/Ezra4:24\">EZR 4:24</a></p>\n<h3>The prophets Haggai and Zechariah called Zerubbabel and the people to restart work</h3>\n<p><strong><a href=\"https://ref.ly/Hag1:4\">HAG 1:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezra5:1-Ezra5:12\">EZR 5:1–5:12</a>; <a href=\"https://ref.ly/Hag1:5-Hag1:7\">HAG 1:5–1:7</a>, <a href=\"https://ref.ly/Hag1:14-Hag1:15\">HAG 1:14–1:15</a></p>\n<h3>The rebuilding authorised by King Darius</h3>\n<p><a href=\"https://ref.ly/Ezra5:3\">EZR 5:3</a>, <a href=\"https://ref.ly/Ezra5:11\">EZR 5:11</a>, <a href=\"https://ref.ly/Ezra5:13\">EZR 5:13</a>, <a href=\"https://ref.ly/Ezra6:3-Ezra6:5\">EZR 6:3–6:5</a>, <a href=\"https://ref.ly/Ezra6:7-Ezra6:8\">EZR 6:7–6:8</a></p>\n<h3>The dedication and worship of the rebuilt temple</h3>\n<p><a href=\"https://ref.ly/Ezra6:16\">EZR 6:16</a>, <a href=\"https://ref.ly/Ezra7:11-Ezra7:17\">EZR 7:11–7:17</a></p>\n<h2>The post-exilic temple and its worship was regarded as the spiritual centre for Jews worldwide</h2>\n<p><a href=\"https://ref.ly/Ps87:1-Ps87:7\">PSA 87:1–87:7</a>, <a href=\"https://ref.ly/Ps135:21\">PSA 135:21</a></p>\n<h2>The temple is the place where God is to be praised</h2>\n<p><strong><a href=\"https://ref.ly/Ps100:4\">PSA 100:4</a>, <a href=\"https://ref.ly/Ps134:1-Ps134:2\">PSA 134:1–134:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps135:19-Ps135:20\">PSA 135:19–135:20</a>, <a href=\"https://ref.ly/Ps138:2\">PSA 138:2</a></p>\n<h2>Prophecies of restoration of the temple</h2>\n<p><strong><a href=\"https://ref.ly/Zech1:16\">ZEC 1:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer31:6\">JER 31:6</a>, <a href=\"https://ref.ly/Jer31:23\">JER 31:23</a>, <a href=\"https://ref.ly/Jer33:18\">JER 33:18</a>; <a href=\"https://ref.ly/Ezek40:1-Ezek43:27\">EZK 40:1–43:27</a></p>",
@@ -238,6 +238,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8664: praise",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Oholiab",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Oholiab"
 }
 ]
 }

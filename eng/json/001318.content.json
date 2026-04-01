@@ -2,10 +2,10 @@
 {
 "content_id": "5796",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5796: bereavement, experience of",
 "media_type": "Text",
-"index_reference": "5796: bereavement, experience of",
+"index_reference": "5796",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture gives many examples of how people respond to the death of those they love.</p>\n<h2>The experience of bereavement</h2>\n<h3>Abraham</h3>\n<p><strong><a href=\"https://ref.ly/Gen23:1-Gen23:2\">GEN 23:1–23:2</a></strong></p>\n<h3>Jacob</h3>\n<p><strong><a href=\"https://ref.ly/Gen37:35\">GEN 37:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen42:38\">GEN 42:38</a>, <a href=\"https://ref.ly/Gen48:7\">GEN 48:7</a></p>\n<h3>Joseph</h3>\n<p><strong><a href=\"https://ref.ly/Gen50:10\">GEN 50:10</a></strong></p>\n<h3>David</h3>\n<p><strong><a href=\"https://ref.ly/2Sam18:33\">2SA 18:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam1:11-2Sam1:12\">2SA 1:11–1:12</a>, <a href=\"https://ref.ly/2Sam3:32\">2SA 3:32</a>, <a href=\"https://ref.ly/2Sam12:15-2Sam12:21\">2SA 12:15–12:21</a></p>\n<h3>Job</h3>\n<p><strong><a href=\"https://ref.ly/Job1:20\">JOB 1:20</a></strong> <em>At the news of the deaths of his sons and daughters.</em> <em>See also</em> <a href=\"https://ref.ly/Job17:7\">JOB 17:7</a></p>\n<h3>Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/John11:35\">JHN 11:35</a></strong> <em>Because of the death of his friend, Lazarus.</em></p>\n<h3>The early Christians</h3>\n<p><strong><a href=\"https://ref.ly/Acts8:2\">ACT 8:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts9:39\">ACT 9:39</a></p>\n<h2>The expression of grief</h2>\n<p><strong><a href=\"https://ref.ly/Gen37:34\">GEN 37:34</a></strong>; <strong><a href=\"https://ref.ly/Ps31:9\">PSA 31:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut34:8\">DEU 34:8</a>; <a href=\"https://ref.ly/1Sam2:33\">1SA 2:33</a>; <a href=\"https://ref.ly/2Sam1:17\">2SA 1:17</a>, <a href=\"https://ref.ly/2Sam3:31-2Sam3:34\">2SA 3:31–3:34</a>, <a href=\"https://ref.ly/2Sam14:2\">2SA 14:2</a>; <a href=\"https://ref.ly/2Chr35:25\">2CH 35:25</a>; <a href=\"https://ref.ly/Ps35:14\">PSA 35:14</a>; <a href=\"https://ref.ly/Isa16:7\">ISA 16:7</a>; <a href=\"https://ref.ly/Lam3:48\">LAM 3:48</a>; <a href=\"https://ref.ly/Ezek24:17\">EZK 24:17</a>; <a href=\"https://ref.ly/Zech12:10\">ZEC 12:10</a> <em>prediction of mourning for the Messiah</em>; <a href=\"https://ref.ly/Phil2:27\">PHP 2:27</a></p>\n<h2>Grief passes with time</h2>\n<p><a href=\"https://ref.ly/Gen24:67\">GEN 24:67</a>, <a href=\"https://ref.ly/Gen38:12\">GEN 38:12</a>; ; <a href=\"https://ref.ly/2Sam12:24\">2SA 12:24</a></p>",
@@ -275,6 +275,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9020: death",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hemdan",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hemdan"
 }
 ]
 }

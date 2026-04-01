@@ -2,10 +2,10 @@
 {
 "content_id": "5243",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5243: byword",
 "media_type": "Text",
-"index_reference": "5243: byword",
+"index_reference": "5243",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Individuals become a byword</h2>\n<h3>As a punishment for idolatry</h3>\n<p><strong><a href=\"https://ref.ly/Ezek14:7-Ezek14:8\">EZK 14:7–14:8</a></strong></p>\n<h3>As a trial of faith</h3>\n<p><strong><a href=\"https://ref.ly/Job17:6\">JOB 17:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job30:9\">JOB 30:9</a></p>\n<h2>God's people become a byword</h2>\n<h3>As a punishment for disobedience</h3>\n<p><strong><a href=\"https://ref.ly/Deut28:37\">DEU 28:37</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs9:6-1Kgs9:9\">1KI 9:6–9:9</a> parallel <a href=\"https://ref.ly/2Chr7:19-2Chr7:22\">2CH 7:19–7:22</a>; <a href=\"https://ref.ly/Jer24:8-Jer24:10\">JER 24:8–24:10</a>; <a href=\"https://ref.ly/Ezek23:1-Ezek23:10\">EZK 23:1–23:10</a>; <a href=\"https://ref.ly/Joel2:17\">JOL 2:17</a></p>\n<h3>As a trial of faith</h3>\n<p><strong><a href=\"https://ref.ly/Ps44:9-Ps44:26\">PSA 44:9–44:26</a></strong></p>",
@@ -107,6 +107,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8819: scoffing",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Fathom",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fathom"
 }
 ]
 }

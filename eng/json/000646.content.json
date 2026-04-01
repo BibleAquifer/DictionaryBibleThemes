@@ -2,10 +2,10 @@
 {
 "content_id": "5037",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5037: mind, of Christ",
 "media_type": "Text",
-"index_reference": "5037: mind, of christ",
+"index_reference": "5037",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The mind of Christ reveals the essence of God's nature. Jesus Christ desires that his followers adopt his attitudes; this comes about through the work of the Holy Spirit.</p>\n<h2>The mind of Christ discloses the mind of God</h2>\n<h3>In relation to righteousness, holiness and the law</h3>\n<p><strong><a href=\"https://ref.ly/John14:9-John14:11\">JHN 14:9–14:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt5:17\">MAT 5:17</a>; <a href=\"https://ref.ly/John15:10\">JHN 15:10</a>; <a href=\"https://ref.ly/1Cor1:30\">1CO 1:30</a></p>\n<h3>In mercy</h3>\n<p><strong><a href=\"https://ref.ly/1Tim1:15-1Tim1:16\">1TI 1:15–1:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt9:12-Matt9:13\">MAT 9:12–9:13</a> parallels <a href=\"https://ref.ly/Mark2:17\">MRK 2:17</a>, <a href=\"https://ref.ly/Luke5:31-Luke5:32\">LUK 5:31–5:32</a>; <a href=\"https://ref.ly/Hos6:6\">HOS 6:6</a>; <a href=\"https://ref.ly/Matt23:23\">MAT 23:23</a>; <a href=\"https://ref.ly/Jude1:21\">JUD 1:21</a></p>\n<h2>The mind of Christ is made known to believers by the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/John14:26\">JHN 14:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/John16:12-John16:15\">JHN 16:12–16:15</a>; <a href=\"https://ref.ly/Rom8:9\">ROM 8:9</a>; <a href=\"https://ref.ly/1Cor2:11-1Cor2:13\">1CO 2:11–2:13</a></p>\n<h3>The plans and purposes of Jesus Christ are made known to the first Christians by the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/Acts16:6-Acts16:7\">ACT 16:6–16:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts8:29\">ACT 8:29</a>, <a href=\"https://ref.ly/Acts10:19\">ACT 10:19</a>, <a href=\"https://ref.ly/Acts11:12\">ACT 11:12</a>, <a href=\"https://ref.ly/Acts11:28\">ACT 11:28</a>, <a href=\"https://ref.ly/Acts13:2\">ACT 13:2</a>, <a href=\"https://ref.ly/Acts15:28\">ACT 15:28</a></p>\n<h2>Knowledge of the mind of Christ leads to holiness</h2>\n<p><strong><a href=\"https://ref.ly/1Cor2:14-1Cor2:16\">1CO 2:14–2:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil2:5-Phil2:11\">PHP 2:5–2:11</a>; <a href=\"https://ref.ly/1Pet4:1-1Pet4:2\">1PE 4:1–4:2</a></p>",
@@ -218,6 +218,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8347: spiritual growth",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Elmadam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Elmadam"
 }
 ]
 }

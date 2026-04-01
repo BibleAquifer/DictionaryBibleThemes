@@ -2,10 +2,10 @@
 {
 "content_id": "3130",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3130: Holy Spirit, as Counsellor",
 "media_type": "Text",
-"index_reference": "3130: holy spirit, as counsellor",
+"index_reference": "3130",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The Holy Spirit is the one who comforts, advises and strengthens Christians, drawing them closer to Jesus Christ.</p>\n<h2>The Holy Spirit is Counsellor in addition to Jesus Christ</h2>\n<h3>Jesus Christ is a Counsellor</h3>\n<p><strong><a href=\"https://ref.ly/1John2:1\">1JN 2:1</a></strong> <em>One Greek word “Parakletos” underlies this phrase which is primarily a legal term. It can also bear the meaning “comforter”.</em></p>\n<h3>The Spirit is another Counsellor</h3>\n<p><strong><a href=\"https://ref.ly/John14:16-John14:17\">JHN 14:16–14:17</a></strong> <em>The word “another” means “another of the same kind”. After the ascension, the Spirit is to assume the ministry of Jesus Christ.</em></p>\n<h3>The Counsellor is the gift of the exalted Christ</h3>\n<p><strong><a href=\"https://ref.ly/John16:7\">JHN 16:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/John7:38-John7:39\">JHN 7:38–7:39</a>; <a href=\"https://ref.ly/Acts2:33\">ACT 2:33</a></p>\n<h2>The Counsellor comforts and reassures believers</h2>\n<p><a href=\"https://ref.ly/John14:16-John14:18\">JHN 14:16–14:18</a>; ; <a href=\"https://ref.ly/Acts11:12\">ACT 11:12</a> <em>Peter is reassured about going to the house of Cornelius</em>; ; <a href=\"https://ref.ly/Rom8:16\">ROM 8:16</a> <em>Believers are reassured that they are God's children.</em></p>\n<h2>The Counsellor strengthens and equips the church</h2>\n<p><strong><a href=\"https://ref.ly/Eph3:16\">EPH 3:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts4:31\">ACT 4:31</a> <em>The Jerusalem church is strengthened in the face of opposition</em>; <a href=\"https://ref.ly/Acts9:31\">ACT 9:31</a> <em>the church in Judea, Galilee and Samaria</em>; <a href=\"https://ref.ly/Rom8:26\">ROM 8:26</a></p>\n<h2>The Counsellor teaches and instructs believers</h2>\n<h3>The Spirit reminds the disciples of Jesus Christ's teaching</h3>\n<p><strong><a href=\"https://ref.ly/John14:26\">JHN 14:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/John16:14\">JHN 16:14</a>; <a href=\"https://ref.ly/1John5:6-1John5:8\">1JN 5:6–5:8</a></p>\n<h3>The Spirit teaches the church further truth</h3>\n<p><strong><a href=\"https://ref.ly/John16:13\">JHN 16:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor2:9-1Cor2:10\">1CO 2:9–2:10</a>; <a href=\"https://ref.ly/1John2:27\">1JN 2:27</a></p>\n<h2>The Counsellor helps the church in its mission</h2>\n<h3>The Spirit testifies to Jesus Christ and helps the church to do likewise</h3>\n<p><strong><a href=\"https://ref.ly/John15:26-John15:27\">JHN 15:26–15:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts1:8\">ACT 1:8</a></p>\n<h3>The Spirit convicts the unbelieving world</h3>\n<p><a href=\"https://ref.ly/John16:8-John16:11\">JHN 16:8–16:11</a>; ; <a href=\"https://ref.ly/1Cor14:24-1Cor14:25\">1CO 14:24–14:25</a></p>\n<h3>Examples of the Spirit's help in witness and mission</h3>\n<p><a href=\"https://ref.ly/Acts4:8\">ACT 4:8</a> <em>Peter before the Sanhedrin</em>; ; <a href=\"https://ref.ly/1Cor2:3-1Cor2:4\">1CO 2:3–2:4</a> <em>Paul in Corinth</em>; ; <a href=\"https://ref.ly/1Thess1:5\">1TH 1:5</a> <em>Paul and Silas in Thessalonica</em></p>\n<h3>The Counsellor draws believers closer to Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Eph3:16-Eph3:17\">EPH 3:16–3:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/John14:23\">JHN 14:23</a>; <a href=\"https://ref.ly/Rom8:9-Rom8:11\">ROM 8:9–8:11</a></p>",
@@ -257,6 +257,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8104: assurance",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.6174,
+"match_method": "scored",
+"preferred_label": "Holy Spirit"
 }
 ]
 }

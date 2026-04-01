@@ -2,10 +2,10 @@
 {
 "content_id": "3269",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3269: Holy Spirit, in life of Jesus Christ",
 "media_type": "Text",
-"index_reference": "3269: holy spirit, in life of jesus christ",
+"index_reference": "3269",
 "language": "eng",
 "review_level": "None",
 "content": "<p>From the moment of his conception Jesus Christ was empowered by the Holy Spirit. Christ's possession of the Holy Spirit was demonstrated publicly at several points in his ministry. After his resurrection the Holy Spirit demonstrated him to be the Son of God.</p>\n<h2>OT prophecies of the Holy Spirit in Jesus Christ's life</h2>\n<p><strong><a href=\"https://ref.ly/Isa11:2\">ISA 11:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps45:2\">PSA 45:2</a>; <a href=\"https://ref.ly/Isa42:1\">ISA 42:1</a>, <a href=\"https://ref.ly/Isa61:1\">ISA 61:1</a>; <a href=\"https://ref.ly/Zech12:10\">ZEC 12:10</a></p>\n<h2>Jesus Christ was conceived by the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/Luke1:35\">LUK 1:35</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt1:18\">MAT 1:18</a>, <a href=\"https://ref.ly/Matt1:20\">MAT 1:20</a></p>\n<h2>The Holy Spirit at Jesus Christ's baptism</h2>\n<p><strong><a href=\"https://ref.ly/Matt3:16\">MAT 3:16</a></strong> parallels <a href=\"https://ref.ly/Mark1:10\">MRK 1:10</a>, <a href=\"https://ref.ly/Luke3:22\">LUK 3:22</a>, <a href=\"https://ref.ly/John1:32\">JHN 1:32</a></p>\n<h2>Jesus Christ lived by the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/Luke10:21\">LUK 10:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt4:1\">MAT 4:1</a> parallels <a href=\"https://ref.ly/Mark1:12\">MRK 1:12</a>, <a href=\"https://ref.ly/Luke4:1\">LUK 4:1</a>; <a href=\"https://ref.ly/Luke1:80\">LUK 1:80</a>; <a href=\"https://ref.ly/1Pet3:18\">1PE 3:18</a></p>\n<h2>Jesus Christ's ministry was empowered by the Holy Spirit</h2>\n<p><a href=\"https://ref.ly/Heb9:14\">HEB 9:14</a></p>\n<h3>In preaching</h3>\n<p><strong><a href=\"https://ref.ly/Luke4:18\">LUK 4:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa61:1\">ISA 61:1</a>; <a href=\"https://ref.ly/Matt12:18\">MAT 12:18</a>; <a href=\"https://ref.ly/Luke4:14-Luke4:15\">LUK 4:14–4:15</a>, <a href=\"https://ref.ly/Luke4:21\">LUK 4:21</a>; <a href=\"https://ref.ly/John3:34\">JHN 3:34</a>; <a href=\"https://ref.ly/Acts1:2\">ACT 1:2</a></p>\n<h3>In working miracles</h3>\n<p><strong><a href=\"https://ref.ly/Acts10:38\">ACT 10:38</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt12:15-Matt12:18\">MAT 12:15–12:18</a>, <a href=\"https://ref.ly/Matt12:28\">MAT 12:28</a> parallel <a href=\"https://ref.ly/Luke11:20\">LUK 11:20</a>; <a href=\"https://ref.ly/Luke5:17\">LUK 5:17</a></p>\n<h2>Jesus Christ was vindicated by the Holy Spirit</h2>\n<p><strong><a href=\"https://ref.ly/Rom1:4\">ROM 1:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Tim3:16\">1TI 3:16</a>; <a href=\"https://ref.ly/1Pet3:18\">1PE 3:18</a></p>\n<h2>Jesus Christ promises the Holy Spirit to his disciples</h2>\n<p><strong><a href=\"https://ref.ly/Luke11:13\">LUK 11:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt10:20\">MAT 10:20</a> parallel <a href=\"https://ref.ly/Mark13:11\">MRK 13:11</a>; <a href=\"https://ref.ly/Luke12:12\">LUK 12:12</a>; <a href=\"https://ref.ly/John7:39\">JHN 7:39</a>, <a href=\"https://ref.ly/John14:16-John14:17\">JHN 14:16–14:17</a>, <a href=\"https://ref.ly/John14:26\">JHN 14:26</a>, <a href=\"https://ref.ly/John15:26\">JHN 15:26</a>, <a href=\"https://ref.ly/John16:13-John16:15\">JHN 16:13–16:15</a></p>\n<h2>Jesus Christ gives the Holy Spirit to his disciples</h2>\n<p><strong><a href=\"https://ref.ly/John20:22\">JHN 20:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts2:33\">ACT 2:33</a></p>",
@@ -354,6 +354,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "3278: Holy Spirit, indwelling of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Obadiah.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Obadiah"
+},
+{
+"id": "person:Abda",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Abda"
+},
+{
+"id": "deity:HolySpirit",
+"type": "deity",
+"confidence": 0.6129,
+"match_method": "scored",
+"preferred_label": "Holy Spirit"
 }
 ]
 }

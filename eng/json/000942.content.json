@@ -2,10 +2,10 @@
 {
 "content_id": "5356",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5356: irony",
 "media_type": "Text",
-"index_reference": "5356: irony",
+"index_reference": "5356",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Irony directed against idolaters</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs18:27\">1KI 18:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa44:12-Isa44:19\">ISA 44:12–44:19</a></p>\n<h2>Irony in the speeches of Job and his friends</h2>\n<p><strong><a href=\"https://ref.ly/Job12:2\">JOB 12:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job16:2-Job16:3\">JOB 16:2–16:3</a></p>\n<h2>Irony in declarations of impending punishment</h2>\n<p><strong><a href=\"https://ref.ly/Jer34:17\">JER 34:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg9:1-Judg9:21\">JDG 9:1–9:21</a></p>\n<h2>Irony used for instruction</h2>\n<p><strong><a href=\"https://ref.ly/1Cor4:7-1Cor4:14\">1CO 4:7–4:14</a></strong></p>\n<h2>Other examples of irony</h2>\n<p><em>See also</em> <a href=\"https://ref.ly/2Sam6:20\">2SA 6:20</a>; <a href=\"https://ref.ly/Mark2:17\">MRK 2:17</a>, <a href=\"https://ref.ly/Mark15:17-Mark15:19\">MRK 15:17–15:19</a>; <a href=\"https://ref.ly/Acts26:28\">ACT 26:28</a></p>",
@@ -93,7 +93,8 @@
 "label": "8782: mockery",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

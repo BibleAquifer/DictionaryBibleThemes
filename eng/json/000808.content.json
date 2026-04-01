@@ -2,10 +2,10 @@
 {
 "content_id": "5219",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5219: authority, of human institutions",
 "media_type": "Text",
-"index_reference": "5219: authority, of human institutions",
+"index_reference": "5219",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The exercise of God-established freedom to regulate society for the good of its members.</p>\n<h2>Without authority sin is unrestrained</h2>\n<p><strong><a href=\"https://ref.ly/Rom1:24-Rom1:26\">ROM 1:24–1:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:5\">GEN 6:5</a> <em>This was before the giving of the law</em>; <a href=\"https://ref.ly/Judg21:25\">JDG 21:25</a>; <a href=\"https://ref.ly/Rom13:4\">ROM 13:4</a></p>\n<h2>All human authorities are instituted and established by God</h2>\n<p><strong><a href=\"https://ref.ly/Rom13:1-Rom13:2\">ROM 13:1–13:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen9:5-Gen9:6\">GEN 9:5–9:6</a>; <a href=\"https://ref.ly/Dan2:21\">DAN 2:21</a>, <a href=\"https://ref.ly/Dan2:37-Dan2:38\">DAN 2:37–2:38</a>, <a href=\"https://ref.ly/Dan4:17\">DAN 4:17</a>, <a href=\"https://ref.ly/Dan5:18-Dan5:21\">DAN 5:18–5:21</a>, <a href=\"https://ref.ly/Dan5:26\">DAN 5:26</a>; <a href=\"https://ref.ly/John19:11\">JHN 19:11</a>; <a href=\"https://ref.ly/1Pet2:13\">1PE 2:13</a></p>\n<h2>Rulers are God's servants to do good and restrain evil</h2>\n<p><strong><a href=\"https://ref.ly/Rom13:4\">ROM 13:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa45:1\">ISA 45:1</a>; <a href=\"https://ref.ly/Jer25:9\">JER 25:9</a>, <a href=\"https://ref.ly/Jer27:6\">JER 27:6</a>, <a href=\"https://ref.ly/Jer43:10\">JER 43:10</a>; <a href=\"https://ref.ly/Rom13:6\">ROM 13:6</a>; <a href=\"https://ref.ly/1Tim2:2\">1TI 2:2</a>; <a href=\"https://ref.ly/1Pet2:14\">1PE 2:14</a></p>\n<h2>The proper response to human authorities</h2>\n<h3>They are to be obeyed by everyone</h3>\n<p><strong><a href=\"https://ref.ly/Rom13:1\">ROM 13:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl8:2\">ECC 8:2</a>; <a href=\"https://ref.ly/Matt22:17-Matt22:21\">MAT 22:17–22:21</a> parallels <a href=\"https://ref.ly/Mark12:14-Mark12:17\">MRK 12:14–12:17</a>, <a href=\"https://ref.ly/Luke20:22-Luke20:25\">LUK 20:22–20:25</a>; <a href=\"https://ref.ly/Rom13:5-Rom13:7\">ROM 13:5–13:7</a>; <a href=\"https://ref.ly/Titus3:1\">TIT 3:1</a>; <a href=\"https://ref.ly/1Pet2:13-1Pet2:14\">1PE 2:13–2:14</a></p>\n<h3>They are to be honoured and respected</h3>\n<p><strong><a href=\"https://ref.ly/Prov24:21\">PRO 24:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom13:7\">ROM 13:7</a>; <a href=\"https://ref.ly/1Pet2:17\">1PE 2:17</a></p>\n<h3>They are not to be obeyed if their demands conflict with the law of God</h3>\n<p><strong><a href=\"https://ref.ly/Acts4:19\">ACT 4:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod1:17\">EXO 1:17</a>; <a href=\"https://ref.ly/1Kgs21:3\">1KI 21:3</a>; <a href=\"https://ref.ly/Dan3:18\">DAN 3:18</a>, <a href=\"https://ref.ly/Dan6:12\">DAN 6:12</a>; <a href=\"https://ref.ly/Matt22:21\">MAT 22:21</a> parallels <a href=\"https://ref.ly/Mark12:17\">MRK 12:17</a>, <a href=\"https://ref.ly/Luke20:25\">LUK 20:25</a>; <a href=\"https://ref.ly/Heb11:23\">HEB 11:23</a></p>\n<h3>They are to be prayed for</h3>\n<p><strong><a href=\"https://ref.ly/1Tim2:1-1Tim2:2\">1TI 2:1–2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer29:7\">JER 29:7</a></p>\n<h3>Christians are to use rights granted by the authorities</h3>\n<p><a href=\"https://ref.ly/Acts16:35-Acts16:39\">ACT 16:35–16:39</a>, <a href=\"https://ref.ly/Acts22:22-Acts22:29\">ACT 22:22–22:29</a>, <a href=\"https://ref.ly/Acts25:1-Acts25:12\">ACT 25:1–25:12</a></p>",
@@ -366,6 +366,50 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8456: obedience, to human authorities",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Ezer.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezer"
+},
+{
+"id": "person:Ezer.3",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezer"
+},
+{
+"id": "person:Ezer.4",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezer"
+},
+{
+"id": "person:Ezer.5",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezer"
+},
+{
+"id": "person:Ezer.6",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezer"
+},
+{
+"id": "person:Ezer",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ezer"
 }
 ]
 }

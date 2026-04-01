@@ -2,10 +2,10 @@
 {
 "content_id": "3224",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "3224: Holy Spirit, and preaching",
 "media_type": "Text",
-"index_reference": "3224: holy spirit, and preaching",
+"index_reference": "3224",
 "language": "eng",
 "review_level": "None",
 "content": "<p>True Christian preaching is grounded in the word of God and applied by the Holy Spirit to its audience.</p>\n<h2>The Holy Spirit is identified with the proclaimed word of God</h2>\n<p><strong><a href=\"https://ref.ly/Eph6:17\">EPH 6:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/John6:63\">JHN 6:63</a></p>\n<h2>The Holy Spirit sends God's messengers</h2>\n<p><strong><a href=\"https://ref.ly/Acts13:4-Acts13:5\">ACT 13:4–13:5</a></strong></p>\n<h2>The Holy Spirit equips, inspires and instructs God's messengers</h2>\n<h3>He inspires the OT prophets</h3>\n<p><strong><a href=\"https://ref.ly/Mic3:8\">MIC 3:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa61:1-Isa61:2\">ISA 61:1–61:2</a>; <a href=\"https://ref.ly/Ezek2:2-Ezek2:5\">EZK 2:2–2:5</a>; <a href=\"https://ref.ly/2Pet1:21\">2PE 1:21</a></p>\n<h3>He inspires Jesus Christ's teaching ministry</h3>\n<p><strong><a href=\"https://ref.ly/Luke4:18-Luke4:21\">LUK 4:18–4:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa61:1-Isa61:2\">ISA 61:1–61:2</a>; <a href=\"https://ref.ly/Matt12:18\">MAT 12:18</a>; <a href=\"https://ref.ly/Isa42:1\">ISA 42:1</a>; <a href=\"https://ref.ly/John3:34\">JHN 3:34</a></p>\n<h3>The apostles preach in the Spirit's power</h3>\n<p><strong><a href=\"https://ref.ly/1Cor2:4-1Cor2:5\">1CO 2:4–2:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke24:45-Luke24:49\">LUK 24:45–24:49</a>; <a href=\"https://ref.ly/Acts4:8-Acts4:12\">ACT 4:8–4:12</a> <em>Peter</em>; <a href=\"https://ref.ly/Acts6:10\">ACT 6:10</a> <em>Stephen</em>; <a href=\"https://ref.ly/Acts13:4-Acts13:5\">ACT 13:4–13:5</a> <em>Paul and Barnabas</em>; <a href=\"https://ref.ly/1Thess1:5\">1TH 1:5</a>; <a href=\"https://ref.ly/1Pet1:12\">1PE 1:12</a></p>\n<h2>The Holy Spirit teaches and applies the preached word of God to its hearers</h2>\n<p><strong><a href=\"https://ref.ly/John14:26\">JHN 14:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/John16:15\">JHN 16:15</a>; <a href=\"https://ref.ly/1Cor2:13\">1CO 2:13</a></p>",
@@ -217,7 +217,8 @@
 "label": "7773: prophets, role of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

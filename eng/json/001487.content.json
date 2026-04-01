@@ -2,10 +2,10 @@
 {
 "content_id": "5975",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5975: violence",
 "media_type": "Text",
-"index_reference": "5975: violence",
+"index_reference": "5975",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Unrestrained physical or verbal force designed to hurt others, or to gain mastery over them.</p>\n<h2>The world is full of violence</h2>\n<p><a href=\"https://ref.ly/Gen6:11-Gen6:13\">GEN 6:11–6:13</a>; ; <a href=\"https://ref.ly/Job24:2-Job24:4\">JOB 24:2–24:4</a>; ; <a href=\"https://ref.ly/Ps55:9\">PSA 55:9</a>, <a href=\"https://ref.ly/Ps74:20\">PSA 74:20</a>; ; <a href=\"https://ref.ly/Prov13:2\">PRO 13:2</a>; ; <a href=\"https://ref.ly/Isa59:1-Isa59:8\">ISA 59:1–59:8</a>; ; <a href=\"https://ref.ly/Ezek7:23\">EZK 7:23</a>; ; <a href=\"https://ref.ly/Mic2:1-Mic2:2\">MIC 2:1–2:2</a></p>\n<h2>God hates violence</h2>\n<p><a href=\"https://ref.ly/Ps11:5\">PSA 11:5</a>, <a href=\"https://ref.ly/Ps139:19\">PSA 139:19</a>; ; <a href=\"https://ref.ly/Jer22:3\">JER 22:3</a>; ; <a href=\"https://ref.ly/Ezek45:9\">EZK 45:9</a>; ; <a href=\"https://ref.ly/Mal2:16\">MAL 2:16</a></p>\n<h2>Jesus Christ was not violent</h2>\n<p><a href=\"https://ref.ly/Isa42:1-Isa42:3\">ISA 42:1–42:3</a>, <a href=\"https://ref.ly/Isa53:9\">ISA 53:9</a>; ; <a href=\"https://ref.ly/1Pet2:23\">1PE 2:23</a></p>\n<h2>Christians should not be violent</h2>\n<p><a href=\"https://ref.ly/Gal5:19-Gal5:21\">GAL 5:19–5:21</a>; ; <a href=\"https://ref.ly/Eph4:2\">EPH 4:2</a>, <a href=\"https://ref.ly/Eph4:31\">EPH 4:31</a>; ; <a href=\"https://ref.ly/Phil4:5\">PHP 4:5</a></p>\n<h2>Christian leaders should not be violent</h2>\n<p><a href=\"https://ref.ly/1Chr22:8-1Chr22:9\">1CH 22:8–22:9</a>; ; <a href=\"https://ref.ly/1Tim3:3\">1TI 3:3</a>; ; <a href=\"https://ref.ly/2Tim2:24\">2TI 2:24</a>; ; <a href=\"https://ref.ly/Titus1:7\">TIT 1:7</a></p>\n<h2>God helps the victims of violence</h2>\n<p><a href=\"https://ref.ly/2Sam22:3\">2SA 22:3</a>, <a href=\"https://ref.ly/2Sam22:49\">2SA 22:49</a>; ; <a href=\"https://ref.ly/Ps18:48\">PSA 18:48</a>, <a href=\"https://ref.ly/Ps72:14\">PSA 72:14</a>, <a href=\"https://ref.ly/Ps140:1-Ps140:4\">PSA 140:1–140:4</a>; ; <a href=\"https://ref.ly/Matt2:13\">MAT 2:13</a>; ; <a href=\"https://ref.ly/Luke22:50-Luke22:51\">LUK 22:50–22:51</a></p>\n<h2>Christians should help the victims of violence</h2>\n<p><a href=\"https://ref.ly/Gen14:14\">GEN 14:14</a>; ; <a href=\"https://ref.ly/2Chr28:9-2Chr28:15\">2CH 28:9–28:15</a>; ; <a href=\"https://ref.ly/Jer38:9-Jer38:12\">JER 38:9–38:12</a>; ; <a href=\"https://ref.ly/Luke10:30\">LUK 10:30</a>, <a href=\"https://ref.ly/Luke10:33\">LUK 10:33</a>; ; <a href=\"https://ref.ly/Acts23:15-Acts23:16\">ACT 23:15–23:16</a></p>",
@@ -318,6 +318,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8734: evil",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Ibleam",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ibleam"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "6151",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6151: dirt",
 "media_type": "Text",
-"index_reference": "6151: dirt",
+"index_reference": "6151",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Throwing dirt to signify contempt</h2>\n<p><strong><a href=\"https://ref.ly/2Sam16:13\">2SA 16:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Nah3:6\">NAM 3:6</a></p>\n<h2>Bathing to remove dirt</h2>\n<p><strong><a href=\"https://ref.ly/1Pet3:21\">1PE 3:21</a></strong></p>\n<h2>Comparative use of dirt to emphasise abundance</h2>\n<p><strong><a href=\"https://ref.ly/Zech9:3\">ZEC 9:3</a></strong></p>\n<h2>Metaphorical use of filth to represent sin</h2>\n<p><strong><a href=\"https://ref.ly/Isa4:4\">ISA 4:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov30:11-Prov30:14\">PRO 30:11–30:14</a>; <a href=\"https://ref.ly/Isa28:8\">ISA 28:8</a>; <a href=\"https://ref.ly/Jas1:21\">JAS 1:21</a>; <a href=\"https://ref.ly/Rev17:4\">REV 17:4</a></p>\n<h2>Refuse indicating worthlessness</h2>\n<p><strong><a href=\"https://ref.ly/1Cor4:13\">1CO 4:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs9:37\">2KI 9:37</a>; <a href=\"https://ref.ly/Ps83:10\">PSA 83:10</a>; <a href=\"https://ref.ly/Isa5:25\">ISA 5:25</a>; <a href=\"https://ref.ly/Jer8:2\">JER 8:2</a>, <a href=\"https://ref.ly/Jer9:22\">JER 9:22</a>, <a href=\"https://ref.ly/Jer16:4\">JER 16:4</a>, <a href=\"https://ref.ly/Jer25:33\">JER 25:33</a>; <a href=\"https://ref.ly/Lam3:45\">LAM 3:45</a>; <a href=\"https://ref.ly/Phil3:8-Phil3:9\">PHP 3:8–3:9</a></p>",
@@ -175,6 +175,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8324: purity",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jabin.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jabin"
+},
+{
+"id": "person:Jabin",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jabin"
 }
 ]
 }

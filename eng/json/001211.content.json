@@ -2,10 +2,10 @@
 {
 "content_id": "5664",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5664: children",
 "media_type": "Text",
-"index_reference": "5664: children",
+"index_reference": "5664",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture indicates that children are a gift from God and are to be loved, disciplined and cared for. The term “children of God” is used to describe Christian believers, who must grow up in the faith which they have accepted.</p>",
@@ -46,6 +46,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5669: children, examples of",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hareph",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hareph"
 }
 ]
 }

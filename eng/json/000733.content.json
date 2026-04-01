@@ -2,10 +2,10 @@
 {
 "content_id": "5144",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5144: cloak",
 "media_type": "Text",
-"index_reference": "5144: cloak",
+"index_reference": "5144",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A protective outer garment, often treated as a symbol of authority.</p>\n<h2>The cloak used as a garment</h2>\n<p><strong><a href=\"https://ref.ly/Acts12:8\">ACT 12:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen39:12\">GEN 39:12</a>, <a href=\"https://ref.ly/Gen39:18\">GEN 39:18</a>; <a href=\"https://ref.ly/1Kgs19:13\">1KI 19:13</a>; <a href=\"https://ref.ly/Song5:7\">SNG 5:7</a>; <a href=\"https://ref.ly/Matt5:40\">MAT 5:40</a> parallel <a href=\"https://ref.ly/Luke6:29\">LUK 6:29</a>; <a href=\"https://ref.ly/Matt9:20-Matt9:21\">MAT 9:20–9:21</a> parallels <a href=\"https://ref.ly/Mark5:27-Mark5:28\">MRK 5:27–5:28</a>, <a href=\"https://ref.ly/Luke8:44\">LUK 8:44</a> <em>A woman's bleeding is stopped</em>; <a href=\"https://ref.ly/Matt14:36\">MAT 14:36</a> parallel <a href=\"https://ref.ly/Mark6:56\">MRK 6:56</a>; <a href=\"https://ref.ly/Matt24:18\">MAT 24:18</a> parallel <a href=\"https://ref.ly/Mark13:16\">MRK 13:16</a>; <a href=\"https://ref.ly/Acts22:22-Acts22:24\">ACT 22:22–22:24</a>; <a href=\"https://ref.ly/2Tim4:13\">2TI 4:13</a></p>\n<h2>The cloak used as a covering or blanket</h2>\n<p><strong><a href=\"https://ref.ly/Exod22:26-Exod22:27\">EXO 22:26–22:27</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut24:13\">DEU 24:13</a>, <a href=\"https://ref.ly/Deut24:17\">DEU 24:17</a></p>\n<h2>Symbolic use of the cloak</h2>\n<h3>Royal symbolism</h3>\n<p><strong><a href=\"https://ref.ly/2Kgs9:13\">2KI 9:13</a></strong> <em>This constituted an act of royal homage.</em> <em>See also</em> <a href=\"https://ref.ly/Matt21:7-Matt21:8\">MAT 21:7–21:8</a> parallels <a href=\"https://ref.ly/Mark11:7-Mark11:8\">MRK 11:7–11:8</a>, <a href=\"https://ref.ly/Luke19:35-Luke19:36\">LUK 19:35–19:36</a></p>\n<h3>Prophetic symbolism</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs19:19\">1KI 19:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs11:30\">1KI 11:30</a>; <a href=\"https://ref.ly/2Kgs2:8\">2KI 2:8</a>, <a href=\"https://ref.ly/2Kgs2:13-2Kgs2:14\">2KI 2:13–2:14</a></p>\n<h3>The cloak torn as a symbol of mourning</h3>\n<p><strong><a href=\"https://ref.ly/Ezra9:3\">EZR 9:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezra9:5\">EZR 9:5</a></p>\n<h2>Figurative use of cloaks</h2>\n<p><strong><a href=\"https://ref.ly/Ps109:29\">PSA 109:29</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps109:18-Ps109:19\">PSA 109:18–109:19</a>; <a href=\"https://ref.ly/Prov30:4\">PRO 30:4</a>; <a href=\"https://ref.ly/Isa59:17\">ISA 59:17</a></p>",
@@ -259,6 +259,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7462: tassel",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Esek",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esek"
+},
+{
+"id": "realia:Cloak",
+"type": "realia",
+"confidence": 0.6468,
+"match_method": "scored",
+"preferred_label": "Cloak"
 }
 ]
 }

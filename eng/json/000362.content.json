@@ -2,10 +2,10 @@
 {
 "content_id": "4221",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4221: cistern",
 "media_type": "Text",
-"index_reference": "4221: cistern",
+"index_reference": "4221",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A reservoir for storing water collected from rainfall or from a spring. When empty, it was used for a variety of purposes. The word is also employed in a figurative sense.</p>\n<h2>Cisterns were used to collect water</h2>\n<p><strong><a href=\"https://ref.ly/2Chr26:10\">2CH 26:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs18:31\">2KI 18:31</a> parallel <a href=\"https://ref.ly/Isa36:16\">ISA 36:16</a>; <a href=\"https://ref.ly/Jer14:3\">JER 14:3</a></p>\n<h2>Other uses for cisterns</h2>\n<p><strong><a href=\"https://ref.ly/Jer38:6-Jer38:13\">JER 38:6–38:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen37:19-Gen37:24\">GEN 37:19–37:24</a>, <a href=\"https://ref.ly/Gen37:28-Gen37:30\">GEN 37:28–37:30</a>; <a href=\"https://ref.ly/Jer41:4-Jer41:7\">JER 41:4–41:7</a>, <a href=\"https://ref.ly/Jer41:9\">JER 41:9</a>; <a href=\"https://ref.ly/Zech9:11\">ZEC 9:11</a></p>\n<h2>Cisterns used as symbols</h2>\n<h3>Cisterns as symbols of spiritual well-being</h3>\n<p><strong><a href=\"https://ref.ly/Jer2:13\">JER 2:13</a></strong></p>\n<h3>Cisterns as symbols of physical well-being</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Prov5:15-Prov5:19\">PRO 5:15–5:19</a></p>",
@@ -119,6 +119,29 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5226: basin",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Bezek.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bezek"
+},
+{
+"id": "place:Bezek",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Bezek"
+},
+{
+"id": "realia:Pit",
+"type": "realia",
+"confidence": 0.5633,
+"match_method": "scored",
+"preferred_label": "Pit"
 }
 ]
 }

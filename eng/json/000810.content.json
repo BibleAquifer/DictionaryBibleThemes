@@ -2,10 +2,10 @@
 {
 "content_id": "5222",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5222: baking",
 "media_type": "Text",
-"index_reference": "5222: baking",
+"index_reference": "5222",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Cooking in an oven or over an open fire. Bread baked in this way was the staple diet of the population in biblical times. Bricks were also sometimes produced by baking.</p>\n<h2>Baking bread</h2>\n<h3>In ovens</h3>\n<p><strong><a href=\"https://ref.ly/Lev26:26\">LEV 26:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod8:3\">EXO 8:3</a>; <a href=\"https://ref.ly/Lev7:9\">LEV 7:9</a>, <a href=\"https://ref.ly/Lev11:35\">LEV 11:35</a></p>\n<h3>Over open fires</h3>\n<p><strong><a href=\"https://ref.ly/1Kgs19:6\">1KI 19:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa44:14-Isa44:19\">ISA 44:14–44:19</a>; <a href=\"https://ref.ly/Ezek4:9-Ezek4:15\">EZK 4:9–4:15</a>; <a href=\"https://ref.ly/John21:9\">JHN 21:9</a></p>\n<h3>Unleavened bread</h3>\n<p><strong><a href=\"https://ref.ly/Exod12:39\">EXO 12:39</a></strong> <em>Bread was usually baked with yeast, but where there was insufficient time for kneading and proving, the raising agent was omitted.</em> <em>See also</em> <a href=\"https://ref.ly/Gen19:1-Gen19:3\">GEN 19:1–19:3</a>; <a href=\"https://ref.ly/Lev6:14-Lev6:17\">LEV 6:14–6:17</a>; <a href=\"https://ref.ly/1Sam28:24\">1SA 28:24</a></p>\n<h2>Baking of offerings</h2>\n<p><strong><a href=\"https://ref.ly/Lev2:4-Lev2:10\">LEV 2:4–2:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev6:14-Lev6:18\">LEV 6:14–6:18</a>, <a href=\"https://ref.ly/Lev7:9-Lev7:10\">LEV 7:9–7:10</a>, <a href=\"https://ref.ly/Lev23:15-Lev23:18\">LEV 23:15–23:18</a>, <a href=\"https://ref.ly/Lev24:5-Lev24:6\">LEV 24:5–24:6</a>; <a href=\"https://ref.ly/2Kgs4:42\">2KI 4:42</a></p>\n<h2>Baking of manna</h2>\n<p><strong><a href=\"https://ref.ly/Exod16:21-Exod16:23\">EXO 16:21–16:23</a></strong></p>\n<h2>Baking of clay</h2>\n<p><strong><a href=\"https://ref.ly/Dan2:32-Dan2:33\">DAN 2:32–2:33</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen11:3\">GEN 11:3</a>; <a href=\"https://ref.ly/Dan2:41-Dan2:43\">DAN 2:41–2:43</a></p>\n<h2>Bakers</h2>\n<h3>At home</h3>\n<p><strong><a href=\"https://ref.ly/Gen18:6\">GEN 18:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Lev26:26\">LEV 26:26</a> <em>Women baked at home or in communal ovens</em>; <a href=\"https://ref.ly/2Sam13:6-2Sam13:8\">2SA 13:6–13:8</a></p>\n<h3>At royal courts</h3>\n<p><strong><a href=\"https://ref.ly/1Sam8:13\">1SA 8:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen40:1-Gen40:22\">GEN 40:1–40:22</a>, <a href=\"https://ref.ly/Gen41:10\">GEN 41:10</a></p>\n<h3>In the temple</h3>\n<p><strong><a href=\"https://ref.ly/1Chr9:31\">1CH 9:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr23:28-1Chr23:29\">1CH 23:28–23:29</a>; <a href=\"https://ref.ly/Ezek46:20\">EZK 46:20</a></p>\n<h3>As tradesmen in towns</h3>\n<p><strong><a href=\"https://ref.ly/Jer37:21\">JER 37:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Hos7:4\">HOS 7:4</a></p>",
@@ -275,7 +275,8 @@
 "label": "7402: offerings",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

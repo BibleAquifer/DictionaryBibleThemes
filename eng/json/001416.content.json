@@ -2,10 +2,10 @@
 {
 "content_id": "5898",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5898: kissing",
 "media_type": "Text",
-"index_reference": "5898: kissing",
+"index_reference": "5898",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Kissing within the family</h2>\n<p><strong><a href=\"https://ref.ly/Gen29:13\">GEN 29:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen27:26-Gen27:27\">GEN 27:26–27:27</a>, <a href=\"https://ref.ly/Gen33:4\">GEN 33:4</a>, <a href=\"https://ref.ly/Gen48:10\">GEN 48:10</a></p>\n<h2>Kissing as an expression of love</h2>\n<p><strong><a href=\"https://ref.ly/Song1:2\">SNG 1:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen29:11\">GEN 29:11</a>; <a href=\"https://ref.ly/Song8:1\">SNG 8:1</a>; <a href=\"https://ref.ly/1Pet5:14\">1PE 5:14</a></p>\n<h2>Kissing as a sign of reconciliation</h2>\n<p><strong><a href=\"https://ref.ly/Luke15:20\">LUK 15:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen45:15\">GEN 45:15</a>; <a href=\"https://ref.ly/2Sam14:33\">2SA 14:33</a></p>\n<h2>Kissing as a sign of homage</h2>\n<p><strong><a href=\"https://ref.ly/1Sam10:1\">1SA 10:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs19:18\">1KI 19:18</a>; <a href=\"https://ref.ly/Job31:27\">JOB 31:27</a>; <a href=\"https://ref.ly/Ps2:12\">PSA 2:12</a>; <a href=\"https://ref.ly/Hos13:2\">HOS 13:2</a>; <a href=\"https://ref.ly/Luke7:38\">LUK 7:38</a>, <a href=\"https://ref.ly/Luke7:45\">LUK 7:45</a></p>\n<h2>Greeting with a kiss</h2>\n<p><strong><a href=\"https://ref.ly/Exod18:7\">EXO 18:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod4:27\">EXO 4:27</a>ROM <a href=\"https://ref.ly/Exod16:16\">16:16</a>; <a href=\"https://ref.ly/1Cor16:20\">1CO 16:20</a>; <a href=\"https://ref.ly/2Cor13:12\">2CO 13:12</a>; <a href=\"https://ref.ly/1Thess5:26\">1TH 5:26</a>; <a href=\"https://ref.ly/1Pet5:14\">1PE 5:14</a></p>\n<h2>Kissing good-bye</h2>\n<p><strong><a href=\"https://ref.ly/Ruth1:14\">RUT 1:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen31:28\">GEN 31:28</a>, <a href=\"https://ref.ly/Gen31:55\">GEN 31:55</a>, <a href=\"https://ref.ly/Gen50:1\">GEN 50:1</a>; <a href=\"https://ref.ly/Ruth1:9\">RUT 1:9</a>; <a href=\"https://ref.ly/1Sam20:41\">1SA 20:41</a>; <a href=\"https://ref.ly/1Kgs19:20\">1KI 19:20</a>; <a href=\"https://ref.ly/Acts20:37\">ACT 20:37</a></p>\n<h2>Blessing with a kiss</h2>\n<p><a href=\"https://ref.ly/2Sam19:39\">2SA 19:39</a></p>\n<h2>Kissing linked with treachery</h2>\n<p><strong><a href=\"https://ref.ly/2Sam20:9-2Sam20:10\">2SA 20:9–20:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov7:13\">PRO 7:13</a>, <a href=\"https://ref.ly/Prov7:21\">PRO 7:21</a>, <a href=\"https://ref.ly/Prov27:6\">PRO 27:6</a>; <a href=\"https://ref.ly/Matt26:48-Matt26:49\">MAT 26:48–26:49</a> parallels <a href=\"https://ref.ly/Mark14:44-Mark14:45\">MRK 14:44–14:45</a>, <a href=\"https://ref.ly/Luke22:47-Luke22:48\">LUK 22:47–22:48</a></p>",
@@ -336,6 +336,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8292: love",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Horam",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Horam"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5539",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5539: sluggard",
 "media_type": "Text",
-"index_reference": "5539: sluggard",
+"index_reference": "5539",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Someone characterised by a settled attitude of slothfulness and idleness. Such people are consistently condemned throughout Scripture.</p>\n<h2>Sluggards are characterised by slothfulness and idleness</h2>\n<h3>They are lazy and refuse to work</h3>\n<p><strong><a href=\"https://ref.ly/Prov6:6-Prov6:8\">PRO 6:6–6:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov12:27\">PRO 12:27</a>, <a href=\"https://ref.ly/Prov15:19\">PRO 15:19</a>, <a href=\"https://ref.ly/Prov19:24\">PRO 19:24</a>, <a href=\"https://ref.ly/Prov20:4\">PRO 20:4</a>, <a href=\"https://ref.ly/Prov21:25\">PRO 21:25</a>, <a href=\"https://ref.ly/Prov24:30-Prov24:31\">PRO 24:30–24:31</a>, <a href=\"https://ref.ly/Prov26:15\">PRO 26:15</a></p>\n<h3>They love to stay in bed when they should be up and active</h3>\n<p><strong><a href=\"https://ref.ly/Prov6:9\">PRO 6:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov26:14\">PRO 26:14</a></p>\n<h3>They make excuses to avoid work</h3>\n<p><strong><a href=\"https://ref.ly/Prov22:13\">PRO 22:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov26:13\">PRO 26:13</a></p>\n<h3>Their desires are not met</h3>\n<p><strong><a href=\"https://ref.ly/Prov13:4\">PRO 13:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov20:4\">PRO 20:4</a>, <a href=\"https://ref.ly/Prov21:25-Prov21:26\">PRO 21:25–21:26</a></p>\n<h3>Their laziness leads to poverty</h3>\n<p><strong><a href=\"https://ref.ly/Prov6:10-Prov6:11\">PRO 6:10–6:11</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov10:4-Prov10:5\">PRO 10:4–10:5</a>, <a href=\"https://ref.ly/Prov12:24\">PRO 12:24</a>, <a href=\"https://ref.ly/Prov18:9\">PRO 18:9</a>, <a href=\"https://ref.ly/Prov19:15\">PRO 19:15</a>, <a href=\"https://ref.ly/Prov20:13\">PRO 20:13</a>, <a href=\"https://ref.ly/Prov24:33-Prov24:34\">PRO 24:33–24:34</a>; <a href=\"https://ref.ly/Eccl4:5\">ECC 4:5</a>, <a href=\"https://ref.ly/Eccl10:18\">ECC 10:18</a></p>\n<h3>Their attitude is irritating to others</h3>\n<p><a href=\"https://ref.ly/Prov10:26\">PRO 10:26</a></p>\n<h3>They are conceited</h3>\n<p><a href=\"https://ref.ly/Prov26:16\">PRO 26:16</a></p>\n<h2>Sluggards condemned throughout Scripture</h2>\n<h3>In the book of Proverbs</h3>\n<p><strong><a href=\"https://ref.ly/Prov10:4\">PRO 10:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:6-Prov6:11\">PRO 6:6–6:11</a>, <a href=\"https://ref.ly/Prov12:11\">PRO 12:11</a>, <a href=\"https://ref.ly/Prov12:24\">PRO 12:24</a>, <a href=\"https://ref.ly/Prov12:27\">PRO 12:27</a>, <a href=\"https://ref.ly/Prov13:4\">PRO 13:4</a>, <a href=\"https://ref.ly/Prov14:23\">PRO 14:23</a>, <a href=\"https://ref.ly/Prov18:9\">PRO 18:9</a>, <a href=\"https://ref.ly/Prov28:19\">PRO 28:19</a></p>\n<h3>By Jesus Christ</h3>\n<p><a href=\"https://ref.ly/Matt20:3\">MAT 20:3</a>, <a href=\"https://ref.ly/Matt20:6\">MAT 20:6</a>, <a href=\"https://ref.ly/Matt25:24-Matt25:30\">MAT 25:24–25:30</a></p>\n<h3>In the epistles</h3>\n<p><strong><a href=\"https://ref.ly/1Thess5:14\">1TH 5:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Thess3:6\">2TH 3:6</a>, <a href=\"https://ref.ly/2Thess3:10-2Thess3:11\">2TH 3:10–3:11</a>; <a href=\"https://ref.ly/1Tim5:13\">1TI 5:13</a>; <a href=\"https://ref.ly/Titus1:12\">TIT 1:12</a>, <a href=\"https://ref.ly/Titus3:14\">TIT 3:14</a>; <a href=\"https://ref.ly/Heb6:12\">HEB 6:12</a></p>",
@@ -323,7 +323,8 @@
 "label": "8755: folly",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

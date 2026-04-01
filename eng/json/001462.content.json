@@ -2,10 +2,10 @@
 {
 "content_id": "5949",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5949: shyness",
 "media_type": "Text",
-"index_reference": "5949: shyness",
+"index_reference": "5949",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Moses was shy of public speaking</h2>\n<p><a href=\"https://ref.ly/Exod4:10-Exod4:15\">EXO 4:10–4:15</a>, <a href=\"https://ref.ly/Exod6:12\">EXO 6:12</a>, <a href=\"https://ref.ly/Exod6:30\">EXO 6:30</a></p>\n<h2>Shyness caused by youth and inexperience</h2>\n<h3>Jeremiah</h3>\n<p><a href=\"https://ref.ly/Jer1:6\">JER 1:6</a></p>\n<h3>Timothy</h3>\n<p><a href=\"https://ref.ly/1Cor16:10-1Cor16:11\">1CO 16:10–16:11</a>; ; <a href=\"https://ref.ly/1Tim4:12\">1TI 4:12</a>; ; <a href=\"https://ref.ly/2Tim1:7\">2TI 1:7</a></p>\n<h2>The woman subject to bleeding was shy of making herself known</h2>\n<p><a href=\"https://ref.ly/Mark5:25-Mark5:28\">MRK 5:25–5:28</a>, <a href=\"https://ref.ly/Mark5:33\">MRK 5:33</a></p>\n<h2>Jesus Christ taught his disciples not to be shy of bearing witness to him</h2>\n<p><a href=\"https://ref.ly/Matt5:14-Matt5:16\">MAT 5:14–5:16</a></p>",
@@ -135,6 +135,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8754: fear",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Hiddai",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hiddai"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "4830",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4830: height",
 "media_type": "Text",
-"index_reference": "4830: height",
+"index_reference": "4830",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Height as a measurement</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs6:10\">1KI 6:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:15\">GEN 6:15</a>; <a href=\"https://ref.ly/Exod27:1\">EXO 27:1</a>; <a href=\"https://ref.ly/1Kgs6:2\">1KI 6:2</a>, <a href=\"https://ref.ly/1Kgs6:26\">1KI 6:26</a>; <a href=\"https://ref.ly/2Chr4:1-2Chr4:2\">2CH 4:1–4:2</a>; <a href=\"https://ref.ly/Neh4:6\">NEH 4:6</a>; <a href=\"https://ref.ly/Esth5:14\">EST 5:14</a>; <a href=\"https://ref.ly/Jer52:21-Jer52:22\">JER 52:21–52:22</a>; <a href=\"https://ref.ly/Ezek43:13\">EZK 43:13</a>; <a href=\"https://ref.ly/Rev21:16\">REV 21:16</a></p>\n<h2>Height in relation to physical stature</h2>\n<p><strong><a href=\"https://ref.ly/1Sam16:7\">1SA 16:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek19:11\">EZK 19:11</a>, <a href=\"https://ref.ly/Ezek31:10\">EZK 31:10</a>, <a href=\"https://ref.ly/Ezek31:14\">EZK 31:14</a>; <a href=\"https://ref.ly/Dan4:10\">DAN 4:10</a></p>\n<h2>Mountain peaks described as heights</h2>\n<p><strong><a href=\"https://ref.ly/Judg6:26\">JDG 6:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num23:3\">NUM 23:3</a>; <a href=\"https://ref.ly/Isa22:16\">ISA 22:16</a></p>\n<h2>Height equivalent to zenith</h2>\n<p><strong><a href=\"https://ref.ly/Dan8:8\">DAN 8:8</a></strong></p>\n<h2>Height used as a metaphor</h2>\n<p><strong><a href=\"https://ref.ly/Rev2:5\">REV 2:5</a></strong></p>\n<h2>Height used to express the love of God</h2>\n<p><strong><a href=\"https://ref.ly/Rom8:38-Rom8:39\">ROM 8:38–8:39</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eph3:16-Eph3:19\">EPH 3:16–3:19</a></p>",
@@ -221,7 +221,8 @@
 "label": "5619: weights and measures, distance and area",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "4520",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4520: thorns",
 "media_type": "Text",
-"index_reference": "4520: thorns",
+"index_reference": "4520",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Thorns and thistles as the result of the curse of the fall</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:17-Gen3:19\">GEN 3:17–3:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num33:55\">NUM 33:55</a>; <a href=\"https://ref.ly/Josh23:12-Josh23:13\">JOS 23:12–23:13</a>; <a href=\"https://ref.ly/Isa5:5-Isa5:6\">ISA 5:5–5:6</a>, <a href=\"https://ref.ly/Isa7:23-Isa7:25\">ISA 7:23–7:25</a>, <a href=\"https://ref.ly/Isa55:8-Isa55:13\">ISA 55:8–55:13</a>; <a href=\"https://ref.ly/Jer12:13\">JER 12:13</a>; <a href=\"https://ref.ly/Hos9:6\">HOS 9:6</a></p>\n<h2>Thorns and thistles as worthless weeds</h2>\n<p><strong><a href=\"https://ref.ly/Heb6:7-Heb6:8\">HEB 6:7–6:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam23:6\">2SA 23:6</a>; <a href=\"https://ref.ly/2Kgs14:9\">2KI 14:9</a> parallel <a href=\"https://ref.ly/2Chr25:18\">2CH 25:18</a>; <a href=\"https://ref.ly/Matt7:16\">MAT 7:16</a> parallel <a href=\"https://ref.ly/Luke6:44\">LUK 6:44</a>; <a href=\"https://ref.ly/Matt13:1-Matt13:8\">MAT 13:1–13:8</a> parallels <a href=\"https://ref.ly/Mark4:1-Mark4:8\">MRK 4:1–4:8</a>, <a href=\"https://ref.ly/Luke8:4-Luke8:8\">LUK 8:4–8:8</a>; <a href=\"https://ref.ly/Matt13:22\">MAT 13:22</a> parallels <a href=\"https://ref.ly/Mark4:18-Mark4:19\">MRK 4:18–4:19</a>, <a href=\"https://ref.ly/Luke8:14\">LUK 8:14</a></p>\n<h2>Thorns unpleasant and to be avoided</h2>\n<p><strong><a href=\"https://ref.ly/2Sam23:6-2Sam23:7\">2SA 23:6–23:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov15:19\">PRO 15:19</a>, <a href=\"https://ref.ly/Prov22:5\">PRO 22:5</a>; <a href=\"https://ref.ly/Song2:2\">SNG 2:2</a>; <a href=\"https://ref.ly/Hos2:6\">HOS 2:6</a></p>\n<h2>Thorns associated with burning</h2>\n<p><strong><a href=\"https://ref.ly/Isa33:12\">ISA 33:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod22:6\">EXO 22:6</a>; <a href=\"https://ref.ly/Ps118:12\">PSA 118:12</a>; <a href=\"https://ref.ly/Eccl7:6\">ECC 7:6</a>; <a href=\"https://ref.ly/Isa9:18\">ISA 9:18</a>, <a href=\"https://ref.ly/Isa10:17\">ISA 10:17</a>, <a href=\"https://ref.ly/Isa27:4\">ISA 27:4</a></p>\n<h2>Thorns used as instruments of punishment</h2>\n<p><strong><a href=\"https://ref.ly/Judg8:16\">JDG 8:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg8:4-Judg8:7\">JDG 8:4–8:7</a></p>\n<h2>Thorns indicative of desolation and dereliction</h2>\n<p><strong><a href=\"https://ref.ly/Hos10:8\">HOS 10:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov24:30-Prov24:31\">PRO 24:30–24:31</a>; <a href=\"https://ref.ly/Isa32:11-Isa32:15\">ISA 32:11–32:15</a></p>\n<h2>Jesus Christ crowned with thorns</h2>\n<p><strong><a href=\"https://ref.ly/Matt27:28-Matt27:29\">MAT 27:28–27:29</a></strong> parallels <a href=\"https://ref.ly/Mark15:16-Mark15:18\">MRK 15:16–15:18</a>, <a href=\"https://ref.ly/John19:2-John19:6\">JHN 19:2–19:6</a></p>\n<h2>Metaphorical use of thorns</h2>\n<p><strong><a href=\"https://ref.ly/Mic7:4\">MIC 7:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek2:6\">EZK 2:6</a>, <a href=\"https://ref.ly/Ezek28:24\">EZK 28:24</a>; <a href=\"https://ref.ly/2Cor12:7\">2CO 12:7</a></p>",
@@ -318,6 +318,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5827: curse",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Brier",
+"type": "flora",
+"confidence": 0.5984,
+"match_method": "scored",
+"preferred_label": "Brier"
 }
 ]
 }

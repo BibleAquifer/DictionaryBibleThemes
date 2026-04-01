@@ -2,10 +2,10 @@
 {
 "content_id": "5801",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5801: brokenness",
 "media_type": "Text",
-"index_reference": "5801: brokenness",
+"index_reference": "5801",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God breaks the spirit of the proud and arrogant so that in their humility and brokenness they may come to repentance and restoration. A crushed heart or spirit may be caused by tragic circumstances or by God's judgment.</p>\n<h2>Brokenness before God</h2>\n<p><strong><a href=\"https://ref.ly/Ps51:17\">PSA 51:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps34:18\">PSA 34:18</a>, <a href=\"https://ref.ly/Ps51:8\">PSA 51:8</a>; <a href=\"https://ref.ly/Isa57:15\">ISA 57:15</a>, <a href=\"https://ref.ly/Isa66:2\">ISA 66:2</a>; <a href=\"https://ref.ly/Zech12:10\">ZEC 12:10</a></p>\n<h2>Brokenness of heart</h2>\n<p><strong><a href=\"https://ref.ly/Ps147:3\">PSA 147:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps34:18\">PSA 34:18</a>, <a href=\"https://ref.ly/Ps69:20\">PSA 69:20</a>, <a href=\"https://ref.ly/Ps109:16\">PSA 109:16</a>; <a href=\"https://ref.ly/Isa61:1\">ISA 61:1</a>; <a href=\"https://ref.ly/Jer23:9\">JER 23:9</a>; <a href=\"https://ref.ly/Ezek21:6-Ezek21:7\">EZK 21:6–21:7</a></p>\n<h2>Brokenness of spirit</h2>\n<p><strong><a href=\"https://ref.ly/Job17:1\">JOB 17:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job30:24\">JOB 30:24</a>, <a href=\"https://ref.ly/Job31:38-Job31:40\">JOB 31:38–31:40</a></p>\n<h2>Brokenness as a result of God's judgment</h2>\n<h3>On individuals</h3>\n<p><strong><a href=\"https://ref.ly/Isa1:28\">ISA 1:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job24:20\">JOB 24:20</a>; <a href=\"https://ref.ly/Isa8:12-Isa8:15\">ISA 8:12–8:15</a>, <a href=\"https://ref.ly/Isa65:14-Isa65:15\">ISA 65:14–65:15</a>; <a href=\"https://ref.ly/Jer22:24-Jer22:30\">JER 22:24–22:30</a></p>\n<h3>On nations</h3>\n<p><strong><a href=\"https://ref.ly/Ezek32:28\">EZK 32:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer48:4-Jer48:5\">JER 48:4–48:5</a>, <a href=\"https://ref.ly/Jer48:16-Jer48:17\">JER 48:16–48:17</a>, <a href=\"https://ref.ly/Jer48:38-Jer48:39\">JER 48:38–48:39</a>, <a href=\"https://ref.ly/Jer50:23-Jer50:24\">JER 50:23–50:24</a>, <a href=\"https://ref.ly/Jer51:6-Jer51:10\">JER 51:6–51:10</a></p>\n<h2>Brokenness as contrition</h2>\n<p><strong><a href=\"https://ref.ly/Isa66:1-Isa66:2\">ISA 66:1–66:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps34:18\">PSA 34:18</a>, <a href=\"https://ref.ly/Ps51:16-Ps51:17\">PSA 51:16–51:17</a>; <a href=\"https://ref.ly/Isa57:14-Isa57:21\">ISA 57:14–57:21</a></p>",
@@ -270,6 +270,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9165: restoration",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Henna",
+"type": "flora",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Henna"
 }
 ]
 }

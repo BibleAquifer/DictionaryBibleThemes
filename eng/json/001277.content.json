@@ -2,10 +2,10 @@
 {
 "content_id": "5739",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5739: twins",
 "media_type": "Text",
-"index_reference": "5739: twins",
+"index_reference": "5739",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Two children born of the same parents at the same time. Figuratively used to describe a matching pair.</p>\n<h2>Examples of twins</h2>\n<p><strong><a href=\"https://ref.ly/Gen25:21-Gen25:26\">GEN 25:21–25:26</a></strong> <em>Although Jacob and Esau were twins, their very different characters indicate that God deals with and relates to people individually.</em> <em>See also</em> <a href=\"https://ref.ly/Gen38:27-Gen38:30\">GEN 38:27–38:30</a>; <a href=\"https://ref.ly/John20:24\">JHN 20:24</a> <em>Didymus means “twin”. It is not known who his twin was</em>; <a href=\"https://ref.ly/John21:2\">JHN 21:2</a>; <a href=\"https://ref.ly/Acts28:11\">ACT 28:11</a> <em>the mythical twin sons of Zeus regarded as special protectors of sailors</em></p>\n<h2>Twins used to illustrate God's election</h2>\n<p><a href=\"https://ref.ly/Rom9:10-Rom9:16\">ROM 9:10–9:16</a></p>\n<h2>Twins used figuratively for matching pairs</h2>\n<p><a href=\"https://ref.ly/Song4:2\">SNG 4:2</a>, <a href=\"https://ref.ly/Song4:5\">SNG 4:5</a>, <a href=\"https://ref.ly/Song6:6\">SNG 6:6</a>, <a href=\"https://ref.ly/Song7:3\">SNG 7:3</a></p>",
@@ -101,7 +101,8 @@
 "label": "5737: sisters",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

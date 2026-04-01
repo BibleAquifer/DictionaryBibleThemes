@@ -2,10 +2,10 @@
 {
 "content_id": "6189",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6189: immorality, examples of sexual",
 "media_type": "Text",
-"index_reference": "6189: immorality, examples of sexual",
+"index_reference": "6189",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Prohibited sexual relationships</h2>\n<h3>Incest</h3>\n<p><strong><a href=\"https://ref.ly/Lev18:6\">LEV 18:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen19:33-Gen19:36\">GEN 19:33–19:36</a> <em>Lot's daughters</em>; <a href=\"https://ref.ly/Gen35:22\">GEN 35:22</a>, <a href=\"https://ref.ly/Gen38:13-Gen38:18\">GEN 38:13–38:18</a>; <a href=\"https://ref.ly/Lev18:7-Lev18:20\">LEV 18:7–18:20</a>; <a href=\"https://ref.ly/2Sam16:22\">2SA 16:22</a>; <a href=\"https://ref.ly/1Cor5:1\">1CO 5:1</a> <em>more likely referring to his stepmother</em></p>\n<h3>Adultery</h3>\n<p><a href=\"https://ref.ly/2Sam11:4\">2SA 11:4</a>; ; <a href=\"https://ref.ly/Jer23:14\">JER 23:14</a>, <a href=\"https://ref.ly/Jer29:23\">JER 29:23</a>; ; <a href=\"https://ref.ly/Hos1:2\">HOS 1:2</a>; ; <a href=\"https://ref.ly/John4:17-John4:18\">JHN 4:17–4:18</a></p>\n<h3>Prostitution</h3>\n<p><strong><a href=\"https://ref.ly/1Cor6:15-1Cor6:16\">1CO 6:15–6:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg16:1\">JDG 16:1</a>; <a href=\"https://ref.ly/1Kgs3:16\">1KI 3:16</a>; <a href=\"https://ref.ly/Hos4:13-Hos4:15\">HOS 4:13–4:15</a></p>\n<h3>Fornication</h3>\n<p><a href=\"https://ref.ly/Num25:1\">NUM 25:1</a>, <a href=\"https://ref.ly/Num25:6\">NUM 25:6</a>; ; <a href=\"https://ref.ly/1Sam2:22\">1SA 2:22</a></p>\n<h3>Rape</h3>\n<p><a href=\"https://ref.ly/Gen34:1-Gen34:2\">GEN 34:1–34:2</a>; ; <a href=\"https://ref.ly/2Sam13:10-2Sam13:14\">2SA 13:10–13:14</a></p>\n<h3>Homosexuality</h3>\n<p><a href=\"https://ref.ly/Gen19:5\">GEN 19:5</a> <em>the men of Sodom</em>; ; <a href=\"https://ref.ly/Judg19:22\">JDG 19:22</a> <em>the men of Gibeah</em></p>\n<h2>Sexual immorality among Christians</h2>\n<p><a href=\"https://ref.ly/1Cor5:1\">1CO 5:1</a>; ; <a href=\"https://ref.ly/2Pet2:13-2Pet2:14\">2PE 2:13–2:14</a>; ; <a href=\"https://ref.ly/Jude1:4\">JUD 1:4</a>; ; <a href=\"https://ref.ly/Rev2:14\">REV 2:14</a>, <a href=\"https://ref.ly/Rev2:20\">REV 2:20</a></p>\n<h2>Sexual immorality as a picture of spiritual unfaithfulness</h2>\n<h3>Among God's people</h3>\n<p><strong><a href=\"https://ref.ly/Jer3:20\">JER 3:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Jer13:26-Jer13:27\">JER 13:26–13:27</a> <em>reflecting the immorality of the pagan religions in which Israel had indulged</em>; <a href=\"https://ref.ly/Ezek6:9\">EZK 6:9</a>, <a href=\"https://ref.ly/Ezek16:15-Ezek16:17\">EZK 16:15–16:17</a>; <a href=\"https://ref.ly/Hos2:1-Hos2:10\">HOS 2:1–2:10</a>, <a href=\"https://ref.ly/Hos3:1\">HOS 3:1</a>, <a href=\"https://ref.ly/Hos4:10-Hos4:12\">HOS 4:10–4:12</a>, <a href=\"https://ref.ly/Hos5:4\">HOS 5:4</a>; <a href=\"https://ref.ly/Matt12:39\">MAT 12:39</a>, <a href=\"https://ref.ly/Matt16:4\">MAT 16:4</a></p>\n<h3>In the world</h3>\n<p><a href=\"https://ref.ly/Rev14:8\">REV 14:8</a>, <a href=\"https://ref.ly/Rev17:1-Rev17:2\">REV 17:1–17:2</a>, <a href=\"https://ref.ly/Rev17:4\">REV 17:4</a>, <a href=\"https://ref.ly/Rev18:2\">REV 18:2</a>, <a href=\"https://ref.ly/Rev19:2\">REV 19:2</a></p>",
@@ -334,6 +334,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8839: unfaithfulness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Jairus",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Jairus"
 }
 ]
 }

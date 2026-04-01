@@ -2,10 +2,10 @@
 {
 "content_id": "5825",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5825: cruelty, God's attitude to",
 "media_type": "Text",
-"index_reference": "5825: cruelty, god's attitude to",
+"index_reference": "5825",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God condemns cruelty. As part of the work of redemption, God suffers cruelty from the world in order to redeem believers.</p>\n<h2>God reproves cruelty</h2>\n<p><strong><a href=\"https://ref.ly/Deut23:15-Deut23:16\">DEU 23:15–23:16</a></strong>; <strong><a href=\"https://ref.ly/Prov14:31\">PRO 14:31</a></strong>; <strong><a href=\"https://ref.ly/Isa10:1-Isa10:2\">ISA 10:1–10:2</a></strong>; <strong><a href=\"https://ref.ly/Ezek45:9\">EZK 45:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod22:21\">EXO 22:21</a>, <a href=\"https://ref.ly/Exod23:9\">EXO 23:9</a>; <a href=\"https://ref.ly/Lev25:42-Lev25:43\">LEV 25:42–25:43</a>, <a href=\"https://ref.ly/Lev25:46\">LEV 25:46</a>, <a href=\"https://ref.ly/Lev25:53\">LEV 25:53</a>; <a href=\"https://ref.ly/Prov12:10\">PRO 12:10</a>; <a href=\"https://ref.ly/Isa13:11\">ISA 13:11</a>; <a href=\"https://ref.ly/Jer22:3\">JER 22:3</a>; <a href=\"https://ref.ly/Zech7:10\">ZEC 7:10</a></p>\n<h2>God allows cruelty as part of his judgment</h2>\n<p><strong><a href=\"https://ref.ly/Isa13:9\">ISA 13:9</a></strong>; <strong><a href=\"https://ref.ly/Jer30:14\">JER 30:14</a></strong>; <strong><a href=\"https://ref.ly/Lam2:17\">LAM 2:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut28:15-Deut28:42\">DEU 28:15–28:42</a> <em>The LORD promises cruel judgment on those who disobey his laws</em>; <a href=\"https://ref.ly/Isa19:4\">ISA 19:4</a>; <a href=\"https://ref.ly/Jer6:22-Jer6:23\">JER 6:22–6:23</a>, <a href=\"https://ref.ly/Jer13:14\">JER 13:14</a>, <a href=\"https://ref.ly/Jer20:16\">JER 20:16</a>; <a href=\"https://ref.ly/Lam2:2\">LAM 2:2</a>, <a href=\"https://ref.ly/Lam2:21\">LAM 2:21</a>; <a href=\"https://ref.ly/Hab1:5-Hab2:1\">HAB 1:5–2:1</a></p>\n<h2>God delivers from cruelty</h2>\n<p><strong><a href=\"https://ref.ly/Exod3:7-Exod3:9\">EXO 3:7–3:9</a></strong>; <strong><a href=\"https://ref.ly/Neh9:27\">NEH 9:27</a></strong>; <strong><a href=\"https://ref.ly/Ps12:5\">PSA 12:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg2:18\">JDG 2:18</a>, <a href=\"https://ref.ly/Judg6:9\">JDG 6:9</a>; <a href=\"https://ref.ly/1Sam10:18\">1SA 10:18</a>; <a href=\"https://ref.ly/2Sam7:10\">2SA 7:10</a>; <a href=\"https://ref.ly/Ps72:4\">PSA 72:4</a>, <a href=\"https://ref.ly/Ps72:14\">PSA 72:14</a>; <a href=\"https://ref.ly/Isa9:4\">ISA 9:4</a>, <a href=\"https://ref.ly/Isa25:4-Isa25:5\">ISA 25:4–25:5</a>, <a href=\"https://ref.ly/Isa29:20\">ISA 29:20</a></p>",
@@ -291,6 +291,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8734: evil",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Heron",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Heron"
 }
 ]
 }

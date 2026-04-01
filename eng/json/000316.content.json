@@ -2,10 +2,10 @@
 {
 "content_id": "4055",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4055: heaven and earth",
 "media_type": "Text",
-"index_reference": "4055: heaven and earth",
+"index_reference": "4055",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An expression which in the original Hebrew refers to the whole of creation. It is frequently used in relation to God both as Creator and Lord in order to emphasise his power and authority.</p>\n<h2>Heaven and earth in relation to God</h2>\n<h3>He is the Creator of heaven and earth</h3>\n<p><strong><a href=\"https://ref.ly/Isa37:16\">ISA 37:16</a></strong> parallel <a href=\"https://ref.ly/2Kgs19:15\">2KI 19:15</a> <em>See also</em> <a href=\"https://ref.ly/Gen14:18-Gen14:23\">GEN 14:18–14:23</a>; <a href=\"https://ref.ly/2Chr2:12\">2CH 2:12</a>; <a href=\"https://ref.ly/Ps115:15\">PSA 115:15</a>, <a href=\"https://ref.ly/Ps121:2\">PSA 121:2</a>, <a href=\"https://ref.ly/Ps124:8\">PSA 124:8</a>, <a href=\"https://ref.ly/Ps134:3\">PSA 134:3</a>, <a href=\"https://ref.ly/Ps146:5-Ps146:6\">PSA 146:5–146:6</a>; <a href=\"https://ref.ly/Acts14:15\">ACT 14:15</a>, <a href=\"https://ref.ly/Acts17:24\">ACT 17:24</a></p>\n<h3>He is Lord of heaven and earth</h3>\n<p><strong><a href=\"https://ref.ly/Matt11:25\">MAT 11:25</a></strong> parallel <a href=\"https://ref.ly/Luke10:21\">LUK 10:21</a> <em>See also</em> <a href=\"https://ref.ly/1Chr29:11-1Chr29:12\">1CH 29:11–29:12</a>; <a href=\"https://ref.ly/Ezra5:11\">EZR 5:11</a>; <a href=\"https://ref.ly/Jer23:23-Jer23:24\">JER 23:23–23:24</a>, <a href=\"https://ref.ly/Jer33:25-Jer33:26\">JER 33:25–33:26</a></p>\n<h2>The personification of heaven and earth</h2>\n<p><strong><a href=\"https://ref.ly/Deut31:28\">DEU 31:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut4:26\">DEU 4:26</a>, <a href=\"https://ref.ly/Deut30:19\">DEU 30:19</a>; <a href=\"https://ref.ly/Ps69:34\">PSA 69:34</a>; <a href=\"https://ref.ly/Jer51:48\">JER 51:48</a></p>\n<h2>Allusions to the end of heaven and earth</h2>\n<p><strong><a href=\"https://ref.ly/Matt24:35\">MAT 24:35</a></strong> parallels <a href=\"https://ref.ly/Mark13:31\">MRK 13:31</a>, <a href=\"https://ref.ly/Luke21:33\">LUK 21:33</a> <em>See also</em> <a href=\"https://ref.ly/Matt5:18\">MAT 5:18</a>; <a href=\"https://ref.ly/Luke16:17\">LUK 16:17</a></p>\n<h2>The expression ``between heaven and earth''</h2>\n<p><strong><a href=\"https://ref.ly/1Chr21:16\">1CH 21:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Zech5:9\">ZEC 5:9</a></p>",
@@ -235,6 +235,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9410: heaven",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Becher.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Becher"
+},
+{
+"id": "person:Becher",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Becher"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5655",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5655: birth",
 "media_type": "Text",
-"index_reference": "5655: birth",
+"index_reference": "5655",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The beginning or origin of life, in which a living creature comes into the world. Scripture draws a distinction between physical and spiritual birth, insisting that a person must be not only physically but also spiritually born in order to have life to the full.</p>\n<h2>Physical birth</h2>\n<h3>God creates all life</h3>\n<p><a href=\"https://ref.ly/Job10:8-Job10:12\">JOB 10:8–10:12</a>; ; <a href=\"https://ref.ly/Ps71:6\">PSA 71:6</a>, <a href=\"https://ref.ly/Ps139:13\">PSA 139:13</a></p>\n<h3>Human beings are sinful from the moment of birth</h3>\n<p><strong><a href=\"https://ref.ly/Ps51:5\">PSA 51:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job15:14\">JOB 15:14</a>, <a href=\"https://ref.ly/Job25:4\">JOB 25:4</a>; <a href=\"https://ref.ly/Ps58:3\">PSA 58:3</a>; <a href=\"https://ref.ly/John3:6\">JHN 3:6</a>, <a href=\"https://ref.ly/John9:34\">JHN 9:34</a>; <a href=\"https://ref.ly/Rom5:12\">ROM 5:12</a>, <a href=\"https://ref.ly/Rom5:17-Rom5:19\">ROM 5:17–5:19</a></p>\n<h2>The necessity of spiritual birth</h2>\n<h3>Being born again</h3>\n<p><strong><a href=\"https://ref.ly/John3:3\">JHN 3:3</a></strong></p>\n<h3>Being born of the Spirit</h3>\n<p><strong><a href=\"https://ref.ly/John3:5-John3:8\">JHN 3:5–3:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps87:4-Ps87:6\">PSA 87:4–87:6</a>; <a href=\"https://ref.ly/Matt18:3\">MAT 18:3</a>; <a href=\"https://ref.ly/John1:12-John1:13\">JHN 1:12–1:13</a>; <a href=\"https://ref.ly/1Pet1:3\">1PE 1:3</a>, <a href=\"https://ref.ly/1Pet2:2\">1PE 2:2</a></p>\n<h2>The agents of the new birth: word and Spirit</h2>\n<p><strong><a href=\"https://ref.ly/1Pet1:23\">1PE 1:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke10:21\">LUK 10:21</a>; <a href=\"https://ref.ly/John3:5\">JHN 3:5</a>, <a href=\"https://ref.ly/John3:7-John3:8\">JHN 3:7–3:8</a>; <a href=\"https://ref.ly/Titus3:5\">TIT 3:5</a>; <a href=\"https://ref.ly/Jas1:18\">JAS 1:18</a></p>\n<h2>The fruit of the new birth: holiness and love</h2>\n<p><strong><a href=\"https://ref.ly/1John3:9\">1JN 3:9</a>, <a href=\"https://ref.ly/1John4:7\">1JN 4:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt18:4\">MAT 18:4</a>; <a href=\"https://ref.ly/1John2:29\">1JN 2:29</a>, <a href=\"https://ref.ly/1John5:3-1John5:4\">1JN 5:3–5:4</a>, <a href=\"https://ref.ly/1John5:18\">1JN 5:18</a></p>\n<h2>Spiritual birth and the nation of Israel</h2>\n<p><strong><a href=\"https://ref.ly/Deut32:18\">DEU 32:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Num11:12\">NUM 11:12</a> <em>Moses implies that God himself gave birth to the people.</em></p>\n<h2>Birth seen as entry into a condition or status</h2>\n<h3>Ethnic identity from birth</h3>\n<p><a href=\"https://ref.ly/Exod12:48\">EXO 12:48</a>; ; <a href=\"https://ref.ly/Ezek16:3\">EZK 16:3</a>; ; <a href=\"https://ref.ly/Acts17:26\">ACT 17:26</a>, <a href=\"https://ref.ly/Acts22:27-Acts22:28\">ACT 22:27–22:28</a>; ; <a href=\"https://ref.ly/Gal2:15\">GAL 2:15</a>, <a href=\"https://ref.ly/Gal4:4\">GAL 4:4</a>; ; <a href=\"https://ref.ly/Eph2:11\">EPH 2:11</a>; ; <a href=\"https://ref.ly/Phil3:4-Phil3:5\">PHP 3:4–3:5</a></p>\n<h3>Physical or mental disability from birth</h3>\n<p><a href=\"https://ref.ly/John9:1\">JHN 9:1</a>; ; <a href=\"https://ref.ly/Acts3:2\">ACT 3:2</a>, <a href=\"https://ref.ly/Acts14:8\">ACT 14:8</a></p>",
@@ -354,6 +354,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7334: circumcision",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Ophrah.2",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Ophrah"
 }
 ]
 }

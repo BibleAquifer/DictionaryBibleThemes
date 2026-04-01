@@ -2,10 +2,10 @@
 {
 "content_id": "7020",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7020: church, the",
 "media_type": "Text",
-"index_reference": "7020: church, the",
+"index_reference": "7020",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The community of faithful believers, of whom Jesus Christ is the head, called out from the world to serve God down the ages. Scripture emphasises that the church is the body of Christ whose members are intended to be filled with the Holy Spirit. Scriptural understanding of the church is corporate, rather than solitary or individual.</p>",
@@ -68,7 +68,8 @@
 "label": "7028: church, life of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

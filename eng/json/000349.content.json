@@ -2,10 +2,10 @@
 {
 "content_id": "4180",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4180: seraphim",
 "media_type": "Text",
-"index_reference": "4180: seraphim",
+"index_reference": "4180",
 "language": "eng",
 "review_level": "None",
 "content": "<p>An order of angels, mentioned only in one OT passage. Seraphim (the plural is also rendered seraphs) have a physical appearance and a moral and spiritual nature; they understand and use speech. Their functions include the worship of God and the communication of the assurance of forgiveness.</p>\n<h2>Their appearance</h2>\n<p><strong><a href=\"https://ref.ly/Isa6:2\">ISA 6:2</a></strong> <em>The covering of faces and feet expresses reverence, humility and awe before God.</em></p>\n<h2>Their functions</h2>\n<h3>Worship of God</h3>\n<p><strong><a href=\"https://ref.ly/Isa6:3\">ISA 6:3</a></strong> parallel <a href=\"https://ref.ly/Rev4:8\">REV 4:8</a></p>\n<h3>Communication with the prophet</h3>\n<p><strong><a href=\"https://ref.ly/Isa6:6-Isa6:7\">ISA 6:6–6:7</a></strong></p>",
@@ -64,6 +64,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8625: worship, acceptable attitudes in",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Beth-haram",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Beth-haram"
+},
+{
+"id": "deity:Seraph",
+"type": "deity",
+"confidence": 0.652,
+"match_method": "scored",
+"preferred_label": "Seraph"
 }
 ]
 }

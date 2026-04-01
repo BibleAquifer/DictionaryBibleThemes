@@ -2,10 +2,10 @@
 {
 "content_id": "5393",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5393: literacy",
 "media_type": "Text",
-"index_reference": "5393: literacy",
+"index_reference": "5393",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Literacy in the OT</h2>\n<p><strong><a href=\"https://ref.ly/2Kgs19:14\">2KI 19:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Kgs5:7\">2KI 5:7</a>, <a href=\"https://ref.ly/2Kgs23:2\">2KI 23:2</a>; <a href=\"https://ref.ly/Neh8:2\">NEH 8:2</a>; <a href=\"https://ref.ly/Jer29:29\">JER 29:29</a>, <a href=\"https://ref.ly/Jer51:61\">JER 51:61</a></p>\n<h2>Literacy in the NT</h2>\n<p><strong><a href=\"https://ref.ly/Luke4:16\">LUK 4:16</a></strong>; <strong><a href=\"https://ref.ly/Acts8:28\">ACT 8:28</a></strong>; <strong><a href=\"https://ref.ly/Rev1:3\">REV 1:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts13:15\">ACT 13:15</a>; <a href=\"https://ref.ly/2Cor1:13\">2CO 1:13</a>; <a href=\"https://ref.ly/Eph3:4\">EPH 3:4</a>; <a href=\"https://ref.ly/Col4:16\">COL 4:16</a>; <a href=\"https://ref.ly/1Thess5:27\">1TH 5:27</a>; <a href=\"https://ref.ly/1Tim4:13\">1TI 4:13</a></p>\n<h2>The use of secretaries for reading and writing</h2>\n<p><a href=\"https://ref.ly/2Kgs22:8-2Kgs22:10\">2KI 22:8–22:10</a>; ; <a href=\"https://ref.ly/Ezra4:18\">EZR 4:18</a>, <a href=\"https://ref.ly/Ezra4:23\">EZR 4:23</a>; ; <a href=\"https://ref.ly/Esth6:1\">EST 6:1</a>; ; <a href=\"https://ref.ly/Jer36:4\">JER 36:4</a>; ; <a href=\"https://ref.ly/Rom16:22\">ROM 16:22</a></p>\n<h2>Examples of literacy in Scripture</h2>\n<p><strong><a href=\"https://ref.ly/Neh9:38\">NEH 9:38</a></strong>; <strong><a href=\"https://ref.ly/John8:8\">JHN 8:8</a></strong>; <strong><a href=\"https://ref.ly/Phlm1:19\">PHM 1:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut31:24-Deut31:26\">DEU 31:24–31:26</a>; <a href=\"https://ref.ly/Josh18:9\">JOS 18:9</a>; <a href=\"https://ref.ly/1Chr28:19\">1CH 28:19</a>; <a href=\"https://ref.ly/Luke1:63\">LUK 1:63</a>; <a href=\"https://ref.ly/John19:20\">JHN 19:20</a>; <a href=\"https://ref.ly/Acts15:27\">ACT 15:27</a></p>\n<h2>Examples of illiteracy in Scripture</h2>\n<p><strong><a href=\"https://ref.ly/Isa29:12\">ISA 29:12</a></strong></p>",
@@ -247,6 +247,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5638: writing",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gebim",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gebim"
 }
 ]
 }

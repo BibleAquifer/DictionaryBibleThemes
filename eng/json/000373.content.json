@@ -2,10 +2,10 @@
 {
 "content_id": "4251",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4251: moon",
 "media_type": "Text",
-"index_reference": "4251: moon",
+"index_reference": "4251",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The moon created by God</h2>\n<p><strong><a href=\"https://ref.ly/Ps8:3\">PSA 8:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps74:16\">PSA 74:16</a></p>\n<h2>The moon listed among the heavenly bodies</h2>\n<p><a href=\"https://ref.ly/Gen37:9\">GEN 37:9</a>; ; <a href=\"https://ref.ly/Ps148:3\">PSA 148:3</a>; ; <a href=\"https://ref.ly/Eccl12:2\">ECC 12:2</a>; ; <a href=\"https://ref.ly/1Cor15:41\">1CO 15:41</a></p>\n<h2>The moon as a basis for the calendar</h2>\n<h3>The moon governs the night</h3>\n<p><strong><a href=\"https://ref.ly/Gen1:16-Gen1:18\">GEN 1:16–1:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps136:7-Ps136:9\">PSA 136:7–136:9</a>; <a href=\"https://ref.ly/Jer31:35\">JER 31:35</a></p>\n<h3>Seasons marked by the moon</h3>\n<p><strong><a href=\"https://ref.ly/Ps104:19\">PSA 104:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen1:14\">GEN 1:14</a></p>\n<h3>Months marked by the new moon</h3>\n<p><a href=\"https://ref.ly/Num28:14\">NUM 28:14</a>; ; <a href=\"https://ref.ly/1Chr23:31\">1CH 23:31</a>; ; <a href=\"https://ref.ly/Isa66:23\">ISA 66:23</a></p>\n<h2>The moon as a symbol of permanence</h2>\n<p><strong><a href=\"https://ref.ly/Ps89:37\">PSA 89:37</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps72:5\">PSA 72:5</a>, <a href=\"https://ref.ly/Ps72:7\">PSA 72:7</a>ISA <a href=\"https://ref.ly/Ps60:19-Ps60:20\">60:19–60:20</a>; <a href=\"https://ref.ly/Rev21:23\">REV 21:23</a></p>\n<h2>Idolatrous worship of the moon</h2>\n<p><strong><a href=\"https://ref.ly/Deut4:19\">DEU 4:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut17:3\">DEU 17:3</a>; <a href=\"https://ref.ly/2Kgs23:5\">2KI 23:5</a>; <a href=\"https://ref.ly/Job31:26\">JOB 31:26</a>; <a href=\"https://ref.ly/Jer8:2\">JER 8:2</a></p>\n<h2>Signs in the moon indicating divine intervention</h2>\n<h3>At the close of history</h3>\n<p><a href=\"https://ref.ly/Isa13:10\">ISA 13:10</a>, <a href=\"https://ref.ly/Isa30:26\">ISA 30:26</a>; ; <a href=\"https://ref.ly/Joel2:10\">JOL 2:10</a>, <a href=\"https://ref.ly/Joel2:31\">JOL 2:31</a>; ; <a href=\"https://ref.ly/Acts2:20\">ACT 2:20</a>; ; <a href=\"https://ref.ly/Matt24:29\">MAT 24:29</a> parallel <a href=\"https://ref.ly/Mark13:24-Mark13:25\">MRK 13:24–13:25</a>; ; <a href=\"https://ref.ly/Rev6:12\">REV 6:12</a>, <a href=\"https://ref.ly/Rev12:1\">REV 12:1</a></p>\n<h3>Other examples</h3>\n<p><a href=\"https://ref.ly/Josh10:12-Josh10:13\">JOS 10:12–10:13</a>; ; <a href=\"https://ref.ly/Ezek32:7\">EZK 32:7</a></p>\n<h2>The moon thought to affect the mind</h2>\n<p><a href=\"https://ref.ly/Ps121:6\">PSA 121:6</a> <em>The moon is indicated as a source of danger</em>; ; <a href=\"https://ref.ly/Matt4:24\">MAT 4:24</a> <em>The Greek expression translated “having seizures” originally meant “moonstruck”.</em></p>",
@@ -304,6 +304,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9220: day of the LORD",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Birsha",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Birsha"
 }
 ]
 }

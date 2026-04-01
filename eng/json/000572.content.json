@@ -2,10 +2,10 @@
 {
 "content_id": "4848",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4848: smoke",
 "media_type": "Text",
-"index_reference": "4848: smoke",
+"index_reference": "4848",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Smoke associated with the divine presence</h2>\n<p><strong><a href=\"https://ref.ly/Exod19:18\">EXO 19:18</a></strong>; <strong><a href=\"https://ref.ly/Isa6:4\">ISA 6:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:18\">EXO 20:18</a>; <a href=\"https://ref.ly/Ps104:32\">PSA 104:32</a>, <a href=\"https://ref.ly/Ps144:5\">PSA 144:5</a>; <a href=\"https://ref.ly/Isa4:5\">ISA 4:5</a>; <a href=\"https://ref.ly/Rev15:8\">REV 15:8</a></p>\n<h2>Smoke associated with divine judgment</h2>\n<p><strong><a href=\"https://ref.ly/Isa9:18-Isa9:19\">ISA 9:18–9:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen15:17\">GEN 15:17</a>, <a href=\"https://ref.ly/Gen19:28\">GEN 19:28</a> <em>the destruction of Sodom and Gomorrah</em>; <a href=\"https://ref.ly/2Sam22:9\">2SA 22:9</a> parallel <a href=\"https://ref.ly/Ps18:8\">PSA 18:8</a>; <a href=\"https://ref.ly/Isa30:27\">ISA 30:27</a>, <a href=\"https://ref.ly/Isa34:10\">ISA 34:10</a>; <a href=\"https://ref.ly/Joel2:30\">JOL 2:30</a>; <a href=\"https://ref.ly/Nah2:13\">NAM 2:13</a>; <a href=\"https://ref.ly/Acts2:19\">ACT 2:19</a>; <a href=\"https://ref.ly/Rev14:11\">REV 14:11</a>, <a href=\"https://ref.ly/Rev18:9\">REV 18:9</a>, <a href=\"https://ref.ly/Rev18:18\">REV 18:18</a>, <a href=\"https://ref.ly/Rev19:3\">REV 19:3</a></p>\n<h2>Smoke associated with the offering of incense</h2>\n<p><strong><a href=\"https://ref.ly/Lev16:13\">LEV 16:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev8:4\">REV 8:4</a></p>\n<h2>Smoke associated with warfare</h2>\n<p><a href=\"https://ref.ly/Josh8:20-Josh8:21\">JOS 8:20–8:21</a>; ; <a href=\"https://ref.ly/Judg20:38\">JDG 20:38</a>, <a href=\"https://ref.ly/Judg20:40\">JDG 20:40</a></p>\n<h2>Smoke used poetically</h2>\n<h3>For something insubstantial</h3>\n<p><strong><a href=\"https://ref.ly/Hos13:3\">HOS 13:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps37:20\">PSA 37:20</a>, <a href=\"https://ref.ly/Ps68:2\">PSA 68:2</a>; <a href=\"https://ref.ly/Isa51:6\">ISA 51:6</a></p>\n<h3>In various other ways</h3>\n<p><strong><a href=\"https://ref.ly/Prov10:26\">PRO 10:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job41:20\">JOB 41:20</a>; <a href=\"https://ref.ly/Ps119:83\">PSA 119:83</a>; <a href=\"https://ref.ly/Song3:6\">SNG 3:6</a>; <a href=\"https://ref.ly/Isa14:31\">ISA 14:31</a>, <a href=\"https://ref.ly/Isa65:5\">ISA 65:5</a>; <a href=\"https://ref.ly/Rev9:2-Rev9:3\">REV 9:2–9:3</a>, <a href=\"https://ref.ly/Rev9:17-Rev9:18\">REV 9:17–9:18</a></p>",
@@ -268,6 +268,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4826: fire",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Dinah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Dinah"
 }
 ]
 }

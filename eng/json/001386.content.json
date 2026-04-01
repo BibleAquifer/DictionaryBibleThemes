@@ -2,10 +2,10 @@
 {
 "content_id": "5867",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5867: golden rule",
 "media_type": "Text",
-"index_reference": "5867: golden rule",
+"index_reference": "5867",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The command of Jesus Christ to love others as ourselves</h2>\n<p><strong><a href=\"https://ref.ly/Matt7:12\">MAT 7:12</a></strong> parallel <a href=\"https://ref.ly/Luke6:31\">LUK 6:31</a> <em>See also</em> <a href=\"https://ref.ly/Matt22:39-Matt22:40\">MAT 22:39–22:40</a> parallel <a href=\"https://ref.ly/Mark12:31\">MRK 12:31</a>; <a href=\"https://ref.ly/Rom13:8-Rom13:9\">ROM 13:8–13:9</a>; <a href=\"https://ref.ly/Gal5:14\">GAL 5:14</a></p>",
@@ -69,6 +69,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8452: neighbours, duty to",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Hobah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Hobah"
 }
 ]
 }

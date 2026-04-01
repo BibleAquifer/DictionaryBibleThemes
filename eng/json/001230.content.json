@@ -2,10 +2,10 @@
 {
 "content_id": "5686",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5686: fathers, examples of",
 "media_type": "Text",
-"index_reference": "5686: fathers, examples of",
+"index_reference": "5686",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The ideal father, from a biblical perspective, is one who loves God, is obedient to him and reflects this in his daily living and in the care and upbringing of his children.</p>\n<h2>Fathers who followed divine principles within their families</h2>\n<h3>Abraham</h3>\n<p><strong><a href=\"https://ref.ly/Gen18:19\">GEN 18:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen17:1-Gen17:7\">GEN 17:1–17:7</a>, <a href=\"https://ref.ly/Gen17:18-Gen17:20\">GEN 17:18–17:20</a>, <a href=\"https://ref.ly/Gen21:1-Gen21:5\">GEN 21:1–21:5</a>, <a href=\"https://ref.ly/Gen21:8-Gen21:13\">GEN 21:8–21:13</a>, <a href=\"https://ref.ly/Gen22:1-Gen22:18\">GEN 22:1–22:18</a></p>\n<h3>Zechariah</h3>\n<p><strong><a href=\"https://ref.ly/Luke1:5-Luke1:20\">LUK 1:5–1:20</a></strong> <em>See also</em> <a href=\"https://ref.ly/Luke1:62-Luke1:80\">LUK 1:62–1:80</a></p>\n<h3>The father of the prodigal</h3>\n<p><a href=\"https://ref.ly/Luke15:11-Luke15:31\">LUK 15:11–15:31</a></p>\n<h2>Fathers who acted wrongly</h2>\n<h3>Through favouritism</h3>\n<p><strong><a href=\"https://ref.ly/Gen37:3-Gen37:4\">GEN 37:3–37:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen25:28\">GEN 25:28</a></p>\n<h3>Through lack of discipline</h3>\n<p><strong><a href=\"https://ref.ly/1Sam2:22-1Sam2:25\">1SA 2:22–2:25</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam2:27-1Sam2:36\">1SA 2:27–2:36</a>, <a href=\"https://ref.ly/1Sam3:11-1Sam3:18\">1SA 3:11–3:18</a></p>\n<h2>The intercession of fathers for their children</h2>\n<h3>Abraham</h3>\n<p><strong><a href=\"https://ref.ly/Gen17:18-Gen17:22\">GEN 17:18–17:22</a></strong></p>\n<h3>David</h3>\n<p><strong><a href=\"https://ref.ly/1Chr29:10-1Chr29:19\">1CH 29:10–29:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam12:15-2Sam12:23\">2SA 12:15–12:23</a></p>\n<h3>Job</h3>\n<p><strong><a href=\"https://ref.ly/Job1:4-Job1:5\">JOB 1:4–1:5</a></strong></p>\n<h3>The father of the demoniac</h3>\n<p><strong><a href=\"https://ref.ly/Matt17:14-Matt17:15\">MAT 17:14–17:15</a></strong> parallels <a href=\"https://ref.ly/Mark9:17-Mark9:18\">MRK 9:17–9:18</a>, <a href=\"https://ref.ly/Luke9:38-Luke9:39\">LUK 9:38–9:39</a></p>\n<h3>The royal official</h3>\n<p><strong><a href=\"https://ref.ly/John4:46-John4:49\">JHN 4:46–4:49</a></strong></p>",
@@ -207,6 +207,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8753: favouritism",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Harum",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Harum"
 }
 ]
 }

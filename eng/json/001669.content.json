@@ -2,10 +2,10 @@
 {
 "content_id": "6712",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6712: propitiation",
 "media_type": "Text",
-"index_reference": "6712: propitiation",
+"index_reference": "6712",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The satisfaction of the righteous demands of God in relation to human sin and its punishment through the sacrificial death of Jesus Christ upon the cross, by which the penalty of sin is cancelled and the anger of God averted. [The NIV is distinctive at this point, in that it generally translates this term by “atonement” and related words.].</p>\n<h2>The need for propitiation: God's anger against sin</h2>\n<p><strong><a href=\"https://ref.ly/Ps7:11\">PSA 7:11</a></strong>; <strong><a href=\"https://ref.ly/Rom2:5\">ROM 2:5</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:11-Exod32:14\">EXO 32:11–32:14</a>; <a href=\"https://ref.ly/Num32:8-Num32:15\">NUM 32:8–32:15</a>; <a href=\"https://ref.ly/Deut6:14-Deut6:15\">DEU 6:14–6:15</a>; <a href=\"https://ref.ly/2Kgs23:26\">2KI 23:26</a>; <a href=\"https://ref.ly/Ps78:38\">PSA 78:38</a>; <a href=\"https://ref.ly/Isa30:27-Isa30:31\">ISA 30:27–30:31</a>; <a href=\"https://ref.ly/Dan9:16-Dan9:19\">DAN 9:16–9:19</a>; <a href=\"https://ref.ly/Hos11:8-Hos11:9\">HOS 11:8–11:9</a>; <a href=\"https://ref.ly/Matt25:41-Matt25:46\">MAT 25:41–25:46</a>; <a href=\"https://ref.ly/John3:36\">JHN 3:36</a>; <a href=\"https://ref.ly/Rom1:18\">ROM 1:18</a>; <a href=\"https://ref.ly/Eph5:6\">EPH 5:6</a></p>\n<h2>The provision of propitiation: Jesus Christ the atoning sacrifice</h2>\n<h3>The promise in the OT</h3>\n<p><strong><a href=\"https://ref.ly/Isa53:5-Isa53:6\">ISA 53:5–53:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa53:10-Isa53:12\">ISA 53:10–53:12</a></p>\n<h3>The fulfilment in the NT</h3>\n<p><strong><a href=\"https://ref.ly/Rom3:21-Rom3:26\">ROM 3:21–3:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom5:9-Rom5:10\">ROM 5:9–5:10</a>; <a href=\"https://ref.ly/Col1:21-Col1:22\">COL 1:21–1:22</a>; <a href=\"https://ref.ly/Heb2:17\">HEB 2:17</a>, <a href=\"https://ref.ly/Heb9:11-Heb9:14\">HEB 9:11–9:14</a>; <a href=\"https://ref.ly/1John2:2\">1JN 2:2</a></p>\n<h2>The motivation for propitiation: God's love</h2>\n<p><strong><a href=\"https://ref.ly/1John4:10\">1JN 4:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps85:2-Ps85:3\">PSA 85:2–85:3</a>, <a href=\"https://ref.ly/Ps103:8-Ps103:12\">PSA 103:8–103:12</a>; <a href=\"https://ref.ly/Mic7:18-Mic7:19\">MIC 7:18–7:19</a>; <a href=\"https://ref.ly/Rom5:6-Rom5:8\">ROM 5:6–5:8</a>; <a href=\"https://ref.ly/2Cor5:19\">2CO 5:19</a></p>",
@@ -264,6 +264,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7317: blood, of Jesus Christ",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Leech",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Leech"
 }
 ]
 }

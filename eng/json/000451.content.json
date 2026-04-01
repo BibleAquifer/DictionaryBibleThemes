@@ -2,10 +2,10 @@
 {
 "content_id": "4472",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4472: lily",
 "media_type": "Text",
-"index_reference": "4472: lily",
+"index_reference": "4472",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Lilies admired for their beauty</h2>\n<p><strong><a href=\"https://ref.ly/Luke12:22-Luke12:31\">LUK 12:22–12:31</a></strong> parallel <a href=\"https://ref.ly/Matt6:25-Matt6:34\">MAT 6:25–6:34</a> <em>See also</em> <a href=\"https://ref.ly/Song2:16\">SNG 2:16</a>, <a href=\"https://ref.ly/Song4:5\">SNG 4:5</a>, <a href=\"https://ref.ly/Song6:2-Song6:3\">SNG 6:2–6:3</a></p>\n<h2>The metaphorical use of lilies</h2>\n<p><strong><a href=\"https://ref.ly/Song2:1-Song2:2\">SNG 2:1–2:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Song5:13\">SNG 5:13</a>, <a href=\"https://ref.ly/Song7:2\">SNG 7:2</a>; <a href=\"https://ref.ly/Hos14:5\">HOS 14:5</a></p>\n<h2>Ornamental representations of lilies adorned Solomon's temple</h2>\n<p><strong><a href=\"https://ref.ly/1Kgs7:19\">1KI 7:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs7:22\">1KI 7:22</a>, <a href=\"https://ref.ly/1Kgs7:25-1Kgs7:26\">1KI 7:25–7:26</a> parallel <a href=\"https://ref.ly/2Chr4:4-2Chr4:5\">2CH 4:4–4:5</a></p>\n<h2>Lilies mentioned in some titles of tunes in the Psalms</h2>\n<p><strong>PSA 69:0</strong> <em>See also</em> PSA 45:0, PSA 60:0, PSA 80:0</p>",
@@ -111,6 +111,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7467: temple, Solomon's",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "flora:Lily",
+"type": "flora",
+"confidence": 0.5776,
+"match_method": "scored",
+"preferred_label": "Lily"
 }
 ]
 }

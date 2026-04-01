@@ -2,10 +2,10 @@
 {
 "content_id": "8623",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8623: worship, of God alone",
 "media_type": "Text",
-"index_reference": "8623: worship, of god alone",
+"index_reference": "8623",
 "language": "eng",
 "review_level": "None",
 "content": "<p>God alone is worthy of worship; the worship of other gods is forbidden. In the NT worship is offered to the Son of God.</p>\n<h2>God alone is to be worshipped</h2>\n<h3>He alone is worthy of worship</h3>\n<p><strong><a href=\"https://ref.ly/1Chr16:25\">1CH 16:25</a></strong> <em>The English word “worship” means literally “worth-ship”.</em> <em>See also</em> <a href=\"https://ref.ly/Ps48:1\">PSA 48:1</a>, <a href=\"https://ref.ly/Ps96:4-Ps96:5\">PSA 96:4–96:5</a>, <a href=\"https://ref.ly/Ps145:3\">PSA 145:3</a>; <a href=\"https://ref.ly/2Sam22:4\">2SA 22:4</a></p>\n<h3>The worship of God the Father</h3>\n<p><strong><a href=\"https://ref.ly/John4:23\">JHN 4:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Phil2:11\">PHP 2:11</a></p>\n<h3>The worship of God the Son</h3>\n<p><strong><a href=\"https://ref.ly/Matt2:11\">MAT 2:11</a>, <a href=\"https://ref.ly/Matt14:33\">MAT 14:33</a></strong>; <strong><a href=\"https://ref.ly/John20:28\">JHN 20:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt28:16-Matt28:17\">MAT 28:16–28:17</a>; <a href=\"https://ref.ly/John9:35-John9:38\">JHN 9:35–9:38</a>; <a href=\"https://ref.ly/Phil2:9-Phil2:11\">PHP 2:9–2:11</a>; <a href=\"https://ref.ly/Heb1:6\">HEB 1:6</a>; <a href=\"https://ref.ly/Rev5:8-Rev5:14\">REV 5:8–5:14</a></p>\n<h2>Angels worship God</h2>\n<p><strong><a href=\"https://ref.ly/Ps103:20\">PSA 103:20</a>, <a href=\"https://ref.ly/Ps148:1-Ps148:2\">PSA 148:1–148:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps29:1-Ps29:2\">PSA 29:1–29:2</a>; <a href=\"https://ref.ly/Isa6:1-Isa6:4\">ISA 6:1–6:4</a>; <a href=\"https://ref.ly/Ezek10:1-Ezek10:18\">EZK 10:1–10:18</a>; <a href=\"https://ref.ly/Rev4:8-Rev4:9\">REV 4:8–4:9</a></p>\n<h2>The worship of other gods forbidden</h2>\n<p><strong><a href=\"https://ref.ly/Exod20:3\">EXO 20:3</a></strong> parallel <a href=\"https://ref.ly/Deut5:7\">DEU 5:7</a><strong><a href=\"https://ref.ly/2Kgs17:35-2Kgs17:36\">2KI 17:35–17:36</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod34:14\">EXO 34:14</a>; <a href=\"https://ref.ly/Deut6:13-Deut6:14\">DEU 6:13–6:14</a>; <a href=\"https://ref.ly/Neh9:6\">NEH 9:6</a>; <a href=\"https://ref.ly/Ps86:9-Ps86:10\">PSA 86:9–86:10</a>, <a href=\"https://ref.ly/Ps97:7\">PSA 97:7</a>; <a href=\"https://ref.ly/Acts10:25-Acts10:26\">ACT 10:25–10:26</a>, <a href=\"https://ref.ly/Acts14:13-Acts14:18\">ACT 14:13–14:18</a></p>\n<h2>The worship of angels forbidden</h2>\n<p><strong><a href=\"https://ref.ly/Col2:18\">COL 2:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rev19:9-Rev19:10\">REV 19:9–19:10</a>, <a href=\"https://ref.ly/Rev22:8-Rev22:9\">REV 22:8–22:9</a></p>",
@@ -272,6 +272,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8768: idolatry",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Stephanas",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Stephanas"
 }
 ]
 }

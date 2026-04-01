@@ -2,10 +2,10 @@
 {
 "content_id": "2412",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "2412: cross, Gospel accounts of",
 "media_type": "Text",
-"index_reference": "2412: cross, gospel accounts of",
+"index_reference": "2412",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Each of the four Gospels provides a detailed account of Jesus Christ's death on the cross.</p>\n<h2>The way to the cross</h2>\n<h3>Simon is compelled to carry the cross</h3>\n<p><strong><a href=\"https://ref.ly/Mark15:21\">MRK 15:21</a></strong> parallels <a href=\"https://ref.ly/Matt27:32\">MAT 27:32</a>, <a href=\"https://ref.ly/Luke23:26\">LUK 23:26</a></p>\n<h3>Women follow the cross and Jesus Christ is offered relief from pain</h3>\n<p><strong><a href=\"https://ref.ly/Luke23:27-Luke23:31\">LUK 23:27–23:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt27:34\">MAT 27:34</a> parallel <a href=\"https://ref.ly/Mark15:23\">MRK 15:23</a></p>\n<h2>The crucifixion of Jesus Christ</h2>\n<h3>Jesus Christ crucified between two criminals</h3>\n<p><strong><a href=\"https://ref.ly/Mark15:22-Mark15:27\">MRK 15:22–15:27</a></strong> parallels <a href=\"https://ref.ly/Matt27:33-Matt27:38\">MAT 27:33–27:38</a>, <a href=\"https://ref.ly/Luke23:32-Luke23:43\">LUK 23:32–23:43</a> <em>“Golgotha” is a transliteration of the Aramaic word for “a skull”. Its actual location is uncertain.</em></p>\n<h3>The humiliation of Jesus Christ on the cross</h3>\n<p><strong><a href=\"https://ref.ly/Mark15:29-Mark15:32\">MRK 15:29–15:32</a></strong> parallels <a href=\"https://ref.ly/Matt27:39-Matt27:44\">MAT 27:39–27:44</a>, <a href=\"https://ref.ly/Luke23:35-Luke23:39\">LUK 23:35–23:39</a></p>\n<h3>The words of Jesus Christ on the cross</h3>\n<p><strong><a href=\"https://ref.ly/John19:30\">JHN 19:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt27:46\">MAT 27:46</a> parallel <a href=\"https://ref.ly/Mark15:34\">MRK 15:34</a>; <a href=\"https://ref.ly/Matt27:50\">MAT 27:50</a>; <a href=\"https://ref.ly/Mark15:37\">MRK 15:37</a>; <a href=\"https://ref.ly/Luke23:28-Luke23:31\">LUK 23:28–23:31</a>, <a href=\"https://ref.ly/Luke23:34\">LUK 23:34</a>, <a href=\"https://ref.ly/Luke23:43\">LUK 23:43</a>, <a href=\"https://ref.ly/Luke23:46\">LUK 23:46</a>; <a href=\"https://ref.ly/John19:26-John19:28\">JHN 19:26–19:28</a></p>\n<h3>The death of Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Mark15:33-Mark15:37\">MRK 15:33–15:37</a></strong> parallels <a href=\"https://ref.ly/Matt27:45-Matt27:50\">MAT 27:45–27:50</a>, <a href=\"https://ref.ly/Luke23:44-Luke23:46\">LUK 23:44–23:46</a> <em>See also</em> <a href=\"https://ref.ly/John19:28-John19:35\">JHN 19:28–19:35</a> <em>According to John, Jesus Christ was on the cross while the Passover lambs were being sacrificed.</em></p>\n<h2>Supernatural events at the cross</h2>\n<p><strong><a href=\"https://ref.ly/Mark15:38\">MRK 15:38</a></strong> parallels <a href=\"https://ref.ly/Matt27:51-Matt27:53\">MAT 27:51–27:53</a>, <a href=\"https://ref.ly/Luke23:45\">LUK 23:45</a></p>\n<h2>Witnesses of the crucifixion</h2>\n<p><strong><a href=\"https://ref.ly/Mark15:39-Mark15:41\">MRK 15:39–15:41</a></strong> parallels <a href=\"https://ref.ly/Matt27:54-Matt27:56\">MAT 27:54–27:56</a>, <a href=\"https://ref.ly/Luke23:47-Luke23:49\">LUK 23:47–23:49</a></p>",
@@ -254,7 +254,8 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

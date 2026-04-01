@@ -2,16 +2,17 @@
 {
 "content_id": "8606",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8606: prayer, and Holy Spirit",
 "media_type": "Text",
-"index_reference": "8606: prayer, and holy spirit",
+"index_reference": "8606",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"3221.md\">3221: Holy Spirit, and prayer</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

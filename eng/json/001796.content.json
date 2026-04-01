@@ -2,10 +2,10 @@
 {
 "content_id": "7361",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7361: Feast of Weeks",
 "media_type": "Text",
-"index_reference": "7361: feast of weeks",
+"index_reference": "7361",
 "language": "eng",
 "review_level": "None",
 "content": "<p>This feast, which took place seven weeks after Passover in Sivan (May/June), was also known as the Feast of Pentecost. It expressed joy and thankfulness to God for the harvest.</p>\n<h2>The Feast of Weeks was one of three compulsory feasts</h2>\n<p><a href=\"https://ref.ly/Exod23:16\">EXO 23:16</a>, <a href=\"https://ref.ly/Exod34:22\">EXO 34:22</a></p>\n<h2>Offerings made at the Feast of Weeks</h2>\n<h3>The firstfruits of the wheat harvest were offered to God</h3>\n<p><a href=\"https://ref.ly/Num28:26\">NUM 28:26</a>; ; <a href=\"https://ref.ly/Deut16:10\">DEU 16:10</a> <em>The offerings brought were to be in proportion to the harvest.</em></p>\n<h3>Two loaves of bread were also offered</h3>\n<p><a href=\"https://ref.ly/Lev23:17\">LEV 23:17</a></p>\n<h3>Burnt offerings and sin offerings were made</h3>\n<p><a href=\"https://ref.ly/Lev23:18-Lev23:20\">LEV 23:18–23:20</a> parallel <a href=\"https://ref.ly/Num28:27-Num28:30\">NUM 28:27–28:30</a></p>\n<h2>The Feast of Weeks (Pentecost) in the NT</h2>\n<p><strong><a href=\"https://ref.ly/Acts2:1-Acts2:4\">ACT 2:1–2:4</a></strong> <em>The term “Pentecost” refers to the 50 days that separate this feast from the Passover Sabbath.</em></p>",
@@ -109,6 +109,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8352: thankfulness",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "group:Nephushesim",
+"type": "group",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nephushesim"
+},
+{
+"id": "keyterm:FeastOfWeeks",
+"type": "keyterm",
+"confidence": 0.6075,
+"match_method": "scored",
+"preferred_label": "Feast of Weeks"
 }
 ]
 }

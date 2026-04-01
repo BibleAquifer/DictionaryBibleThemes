@@ -2,10 +2,10 @@
 {
 "content_id": "5605",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5605: warfare",
 "media_type": "Text",
-"index_reference": "5605: warfare",
+"index_reference": "5605",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The state of being at war with an opposing nation or people. Scripture neither condemns nor glories in warfare, but recognises it as a continuing aspect of this fallen world. In particular, the NT stresses the importance of spiritual warfare in the life of faith.</p>",
@@ -40,7 +40,8 @@
 "label": "5609: warfare, spiritual",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

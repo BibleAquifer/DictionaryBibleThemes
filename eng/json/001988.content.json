@@ -2,10 +2,10 @@
 {
 "content_id": "8020",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8020: faith",
 "media_type": "Text",
-"index_reference": "8020: faith",
+"index_reference": "8020",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A constant outlook of trust towards God, whereby human beings abandon all reliance on their own efforts and put their full confidence in him, his word and his promises.</p>",
@@ -68,7 +68,8 @@
 "label": "8028: faith, as a body of beliefs",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

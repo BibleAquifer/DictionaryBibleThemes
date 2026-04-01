@@ -2,10 +2,10 @@
 {
 "content_id": "7338",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7338: cities of refuge",
 "media_type": "Text",
-"index_reference": "7338: cities of refuge",
+"index_reference": "7338",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Cities set apart at the time of the conquest of Canaan as places of refuge for those who had killed people by accident.</p>",
@@ -67,6 +67,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7438: sanctuary",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Nedabiah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Nedabiah"
 }
 ]
 }

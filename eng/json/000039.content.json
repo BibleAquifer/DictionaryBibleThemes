@@ -2,10 +2,10 @@
 {
 "content_id": "1190",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "1190: glory",
 "media_type": "Text",
-"index_reference": "1190: glory",
+"index_reference": "1190",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The distinctive feature of the presence of God, often compared to power, weight or brightness. Scripture affirms that God's glory is made known through his work of creation, his acts of intervention in history and supremely in the life and resurrection of Jesus Christ.</p>",
@@ -40,7 +40,8 @@
 "label": "1194: glory, divine and human",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

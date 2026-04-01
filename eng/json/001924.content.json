@@ -2,16 +2,17 @@
 {
 "content_id": "7761",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7761: preaching, and Holy Spirit",
 "media_type": "Text",
-"index_reference": "7761: preaching, and holy spirit",
+"index_reference": "7761",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"3224.md\">3224: Holy Spirit, and preaching</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

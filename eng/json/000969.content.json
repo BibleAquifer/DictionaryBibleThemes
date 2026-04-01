@@ -2,10 +2,10 @@
 {
 "content_id": "5386",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5386: leisure, nature and purpose of",
 "media_type": "Text",
-"index_reference": "5386: leisure, nature and purpose of",
+"index_reference": "5386",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture affirms that periods of rest and leisure are part of God's creation order. These periods of rest are to be used wisely.</p>\n<h2>The need for leisure</h2>\n<h3>The Sabbath rest</h3>\n<p><strong><a href=\"https://ref.ly/Gen2:2\">GEN 2:2</a></strong>; <strong><a href=\"https://ref.ly/Exod20:8-Exod20:10\">EXO 20:8–20:10</a></strong> parallel <a href=\"https://ref.ly/Deut5:12-Deut5:15\">DEU 5:12–5:15</a> <em>See also</em> <a href=\"https://ref.ly/Exod23:11\">EXO 23:11</a> <em>During the sabbath year, the labourers presumably also rested</em>; <a href=\"https://ref.ly/Lev23:3\">LEV 23:3</a></p>\n<h3>Rest commanded by Jesus Christ</h3>\n<p><strong><a href=\"https://ref.ly/Mark6:31-Mark6:32\">MRK 6:31–6:32</a></strong></p>\n<h2>Leisure a gift of God</h2>\n<p><strong><a href=\"https://ref.ly/Ps23:2\">PSA 23:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt11:28\">MAT 11:28</a>; <a href=\"https://ref.ly/Mark2:27\">MRK 2:27</a>; <a href=\"https://ref.ly/Rev14:13\">REV 14:13</a></p>\n<h3>Loss of leisure a judgment</h3>\n<p><strong><a href=\"https://ref.ly/Isa48:22\">ISA 48:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl2:23\">ECC 2:23</a>, <a href=\"https://ref.ly/Eccl5:12\">ECC 5:12</a>; <a href=\"https://ref.ly/Isa57:20-Isa57:21\">ISA 57:20–57:21</a>; <a href=\"https://ref.ly/Rev14:11\">REV 14:11</a></p>\n<h2>Responsible use of leisure</h2>\n<h3>Work must come first</h3>\n<p><a href=\"https://ref.ly/Prov10:5\">PRO 10:5</a>; ; <a href=\"https://ref.ly/Luke17:7-Luke17:8\">LUK 17:7–17:8</a></p>\n<h3>Remember God's presence</h3>\n<p><strong><a href=\"https://ref.ly/1Cor10:31\">1CO 10:31</a></strong> <em>See also</em> <a href=\"https://ref.ly/Eccl9:7-Eccl9:10\">ECC 9:7–9:10</a></p>\n<h3>Use time wisely</h3>\n<p><strong><a href=\"https://ref.ly/Eph5:15-Eph5:16\">EPH 5:15–5:16</a></strong></p>\n<h2>The dangers of leisure</h2>\n<h3>Idleness</h3>\n<p><strong><a href=\"https://ref.ly/1Tim5:13\">1TI 5:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov6:9-Prov6:11\">PRO 6:9–6:11</a>, <a href=\"https://ref.ly/Prov24:30-Prov24:31\">PRO 24:30–24:31</a>, <a href=\"https://ref.ly/Prov26:14\">PRO 26:14</a>; <a href=\"https://ref.ly/Eccl10:18\">ECC 10:18</a>; <a href=\"https://ref.ly/2Thess3:11\">2TH 3:11</a>; <a href=\"https://ref.ly/Heb6:12\">HEB 6:12</a></p>\n<h3>Preoccupation with pleasure</h3>\n<p><strong><a href=\"https://ref.ly/Luke8:14\">LUK 8:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov21:17\">PRO 21:17</a>; <a href=\"https://ref.ly/Isa5:11\">ISA 5:11</a>; <a href=\"https://ref.ly/Luke15:13\">LUK 15:13</a>; <a href=\"https://ref.ly/1Tim5:6\">1TI 5:6</a>; <a href=\"https://ref.ly/2Tim3:4\">2TI 3:4</a>; <a href=\"https://ref.ly/Jas5:5\">JAS 5:5</a></p>\n<h3>Susceptibility to sin</h3>\n<p><strong><a href=\"https://ref.ly/1Tim5:13\">1TI 5:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam11:1-2Sam11:5\">2SA 11:1–11:5</a>; <a href=\"https://ref.ly/Esth1:10-Esth1:11\">EST 1:10–1:11</a>; <a href=\"https://ref.ly/Amos4:1\">AMO 4:1</a></p>\n<h3>Spiritual complacency</h3>\n<p><strong><a href=\"https://ref.ly/Amos6:1\">AMO 6:1</a>, <a href=\"https://ref.ly/Amos6:4-Amos6:7\">AMO 6:4–6:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa5:11-Isa5:13\">ISA 5:11–5:13</a>; <a href=\"https://ref.ly/Luke12:16-Luke12:21\">LUK 12:16–12:21</a>, <a href=\"https://ref.ly/Luke21:34\">LUK 21:34</a></p>",
@@ -327,6 +327,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8808: riches",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gazez.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gazez"
+},
+{
+"id": "person:Gazez",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gazez"
 }
 ]
 }

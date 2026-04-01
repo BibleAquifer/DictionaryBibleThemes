@@ -2,10 +2,10 @@
 {
 "content_id": "8000",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8000: The life of the believer",
 "media_type": "Text",
-"index_reference": "8000: the life of the believer",
+"index_reference": "8000",
 "language": "eng",
 "review_level": "None",
 "content": "<ul><li><span data-bntype=\"resourceReference\" data-resourceid=\"8010\" data-resourcetype=\"DictionaryOfBibleThemes\">8010: Faith</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8100\" data-resourcetype=\"DictionaryOfBibleThemes\">8100: The life of faith</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8200\" data-resourcetype=\"DictionaryOfBibleThemes\">8200: The character of the believer</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8400\" data-resourcetype=\"DictionaryOfBibleThemes\">8400: The tasks of the believer</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8600\" data-resourcetype=\"DictionaryOfBibleThemes\">8600: Prayer and worship of the believer</span></li><li><span data-bntype=\"resourceReference\" data-resourceid=\"8700\" data-resourcetype=\"DictionaryOfBibleThemes\">8700: Threats to the life of faith</span></li></ul>",
@@ -53,6 +53,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8700: Threats to the life of faith",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Rephah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Rephah"
 }
 ]
 }

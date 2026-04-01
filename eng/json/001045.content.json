@@ -2,10 +2,10 @@
 {
 "content_id": "5471",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5471: proof",
 "media_type": "Text",
-"index_reference": "5471: proof",
+"index_reference": "5471",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A confirmation and verification of a belief, such as belief in the existence of God, in the trustworthiness of a witness or in the resurrection of Jesus Christ.</p>",
@@ -25,6 +25,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5473: proof, through testing",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Giloh",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Giloh"
 }
 ]
 }

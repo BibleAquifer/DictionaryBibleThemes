@@ -2,10 +2,10 @@
 {
 "content_id": "5284",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5284: cupbearer",
 "media_type": "Text",
-"index_reference": "5284: cupbearer",
+"index_reference": "5284",
 "language": "eng",
 "review_level": "None",
 "content": "<p>One who served a king with wine, often having himself first tasted it for quality and as a safety measure. Some cupbearers became favourites of the king and so wielded considerable political influence.</p>\n<h2>Pharaoh's cupbearer</h2>\n<h3>Imprisoned</h3>\n<p><strong><a href=\"https://ref.ly/Gen40:1\">GEN 40:1</a>, <a href=\"https://ref.ly/Gen40:5\">GEN 40:5</a></strong></p>\n<h3>His dream</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Gen40:9-Gen40:11\">GEN 40:9–40:11</a></p>\n<h3>Dream interpreted by Joseph</h3>\n<p><a href=\"https://ref.ly/Gen40:12-Gen40:14\">GEN 40:12–40:14</a></p>\n<h3>Restored to court</h3>\n<p><a href=\"https://ref.ly/Gen40:21\">GEN 40:21</a></p>\n<h3>Forgetful of Joseph</h3>\n<p><a href=\"https://ref.ly/Gen40:23\">GEN 40:23</a></p>\n<h3>Remembers Joseph</h3>\n<p><a href=\"https://ref.ly/Gen41:9\">GEN 41:9</a></p>\n<h2>Solomon's cupbearers</h2>\n<p><a href=\"https://ref.ly/1Kgs10:4-1Kgs10:5\">1KI 10:4–10:5</a> parallel <a href=\"https://ref.ly/2Chr9:4\">2CH 9:4</a></p>\n<h2>Artaxerxes' cupbearer, Nehemiah</h2>\n<p><strong><a href=\"https://ref.ly/Neh1:11\">NEH 1:11</a>, <a href=\"https://ref.ly/Neh2:1\">NEH 2:1</a></strong></p>",
@@ -155,6 +155,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9165: restoration",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "fauna:Fly",
+"type": "fauna",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Fly"
 }
 ]
 }

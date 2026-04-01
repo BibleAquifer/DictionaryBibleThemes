@@ -2,10 +2,10 @@
 {
 "content_id": "6200",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "6200: imperfection, influence of",
 "media_type": "Text",
-"index_reference": "6200: imperfection, influence of",
+"index_reference": "6200",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Scripture indicates that the world, including human beings and institutions, are imperfect because of the contaminating influence of sin. This influence extends to the household of faith: both Israel and the Christian church are portrayed as prone to sin and weakness.</p>\n<h2>The creation is imperfect because of sin</h2>\n<p><strong><a href=\"https://ref.ly/Gen3:17-Gen3:19\">GEN 3:17–3:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen5:29\">GEN 5:29</a>; <a href=\"https://ref.ly/Rom8:20-Rom8:22\">ROM 8:20–8:22</a></p>\n<h2>Imperfection is expressed in corruption and death</h2>\n<p><strong><a href=\"https://ref.ly/Ps103:15-Ps103:16\">PSA 103:15–103:16</a></strong>; <strong><a href=\"https://ref.ly/2Pet1:4\">2PE 1:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Sam14:14\">2SA 14:14</a>; <a href=\"https://ref.ly/Ps90:3-Ps90:10\">PSA 90:3–90:10</a>; <a href=\"https://ref.ly/Eccl12:1-Eccl12:7\">ECC 12:1–12:7</a>; <a href=\"https://ref.ly/Jas1:10\">JAS 1:10</a>; <a href=\"https://ref.ly/1Pet1:24\">1PE 1:24</a></p>\n<h2>The imperfection of the spiritual creation</h2>\n<p><strong><a href=\"https://ref.ly/Job4:18\">JOB 4:18</a></strong>; <strong><a href=\"https://ref.ly/Jude1:6\">JUD 1:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/2Pet2:4\">2PE 2:4</a></p>\n<h2>The universal imperfection of human beings</h2>\n<p><strong><a href=\"https://ref.ly/Rom3:23\">ROM 3:23</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen6:5\">GEN 6:5</a>; <a href=\"https://ref.ly/1Kgs8:46\">1KI 8:46</a> parallel <a href=\"https://ref.ly/2Chr6:36\">2CH 6:36</a>; <a href=\"https://ref.ly/Ps14:3\">PSA 14:3</a>, <a href=\"https://ref.ly/Ps130:3\">PSA 130:3</a>; <a href=\"https://ref.ly/Prov20:9\">PRO 20:9</a>; <a href=\"https://ref.ly/Eccl7:20\">ECC 7:20</a>; <a href=\"https://ref.ly/Isa53:6\">ISA 53:6</a>, <a href=\"https://ref.ly/Isa64:6\">ISA 64:6</a>; <a href=\"https://ref.ly/Gal3:22\">GAL 3:22</a>; <a href=\"https://ref.ly/Jas3:2\">JAS 3:2</a></p>\n<h2>The imperfection of the household of faith</h2>\n<h3>Israel and her leaders</h3>\n<p><strong><a href=\"https://ref.ly/Neh9:34\">NEH 9:34</a></strong>; <strong><a href=\"https://ref.ly/Jer2:21\">JER 2:21</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg2:11-Judg2:13\">JDG 2:11–2:13</a>; <a href=\"https://ref.ly/Neh9:16\">NEH 9:16</a>; <a href=\"https://ref.ly/Ps106:39\">PSA 106:39</a>; <a href=\"https://ref.ly/Isa3:14\">ISA 3:14</a>; <a href=\"https://ref.ly/Jer50:6\">JER 50:6</a>; <a href=\"https://ref.ly/Ezek20:30\">EZK 20:30</a>; <a href=\"https://ref.ly/Mic3:1-Mic3:3\">MIC 3:1–3:3</a></p>\n<h3>The Christian church and its leaders</h3>\n<p><strong><a href=\"https://ref.ly/2Cor12:20\">2CO 12:20</a></strong>; <strong><a href=\"https://ref.ly/Phil3:12\">PHP 3:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Cor3:1-1Cor3:3\">1CO 3:1–3:3</a>, <a href=\"https://ref.ly/1Cor13:12\">1CO 13:12</a>; <a href=\"https://ref.ly/Col2:20\">COL 2:20</a>; <a href=\"https://ref.ly/Heb5:12\">HEB 5:12</a>; <a href=\"https://ref.ly/1John1:8\">1JN 1:8</a>; <a href=\"https://ref.ly/Rev3:2\">REV 3:2</a>, <a href=\"https://ref.ly/Rev3:17\">REV 3:17</a></p>",
@@ -355,7 +355,8 @@
 "label": "9020: death",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

@@ -2,10 +2,10 @@
 {
 "content_id": "5528",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5528: shouting",
 "media_type": "Text",
-"index_reference": "5528: shouting",
+"index_reference": "5528",
 "language": "eng",
 "review_level": "None",
 "content": "<p>A loud cry of joy, excitement or distress. Scripture often speaks of praise in terms of shouting, reflecting both the joy of the speaker and the greatness of God.</p>\n<h2>Shouting to be heard</h2>\n<p><strong><a href=\"https://ref.ly/1Sam17:20\">1SA 17:20</a></strong>; <strong><a href=\"https://ref.ly/Luke23:21\">LUK 23:21</a></strong>; <strong><a href=\"https://ref.ly/Acts22:23-Acts22:24\">ACT 22:23–22:24</a></strong> <em>See also</em> <a href=\"https://ref.ly/Judg7:20\">JDG 7:20</a>, <a href=\"https://ref.ly/Judg15:14\">JDG 15:14</a>; <a href=\"https://ref.ly/2Kgs9:27\">2KI 9:27</a>; <a href=\"https://ref.ly/2Chr13:15\">2CH 13:15</a>; <a href=\"https://ref.ly/Job39:25\">JOB 39:25</a>; <a href=\"https://ref.ly/Ps60:8\">PSA 60:8</a>; <a href=\"https://ref.ly/Zeph1:14\">ZEP 1:14</a>; <a href=\"https://ref.ly/Matt20:30-Matt20:31\">MAT 20:30–20:31</a>; <a href=\"https://ref.ly/John19:12\">JHN 19:12</a>; <a href=\"https://ref.ly/Acts16:17\">ACT 16:17</a>, <a href=\"https://ref.ly/Acts17:6\">ACT 17:6</a>, <a href=\"https://ref.ly/Acts21:36\">ACT 21:36</a></p>\n<h2>Shouting in distress</h2>\n<p><strong><a href=\"https://ref.ly/Num16:34\">NUM 16:34</a></strong>; <strong><a href=\"https://ref.ly/Luke4:41\">LUK 4:41</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs18:26-1Kgs18:28\">1KI 18:26–18:28</a>; <a href=\"https://ref.ly/Luke8:28\">LUK 8:28</a>; <a href=\"https://ref.ly/Acts14:14\">ACT 14:14</a>, <a href=\"https://ref.ly/Acts19:28\">ACT 19:28</a>, <a href=\"https://ref.ly/Acts21:28\">ACT 21:28</a>, <a href=\"https://ref.ly/Acts25:24\">ACT 25:24</a></p>\n<h2>Shouting for joy</h2>\n<p><strong><a href=\"https://ref.ly/Ezra3:11-Ezra3:13\">EZR 3:11–3:13</a></strong>; <strong><a href=\"https://ref.ly/John12:13\">JHN 12:13</a></strong>; <strong><a href=\"https://ref.ly/Rev19:6\">REV 19:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod32:17\">EXO 32:17</a>; <a href=\"https://ref.ly/Lev9:24\">LEV 9:24</a>; <a href=\"https://ref.ly/Num23:21\">NUM 23:21</a>; <a href=\"https://ref.ly/1Sam4:6\">1SA 4:6</a>; <a href=\"https://ref.ly/2Sam6:15\">2SA 6:15</a>; <a href=\"https://ref.ly/1Kgs1:39\">1KI 1:39</a>; <a href=\"https://ref.ly/1Chr15:28\">1CH 15:28</a>; <a href=\"https://ref.ly/2Chr15:14\">2CH 15:14</a>; <a href=\"https://ref.ly/Job3:7\">JOB 3:7</a>, <a href=\"https://ref.ly/Job8:21\">JOB 8:21</a>, <a href=\"https://ref.ly/Job33:26\">JOB 33:26</a>, <a href=\"https://ref.ly/Job38:7\">JOB 38:7</a>; <a href=\"https://ref.ly/Ps20:5\">PSA 20:5</a>, <a href=\"https://ref.ly/Ps33:3\">PSA 33:3</a>, <a href=\"https://ref.ly/Ps42:4\">PSA 42:4</a>, <a href=\"https://ref.ly/Ps65:13\">PSA 65:13</a>; <a href=\"https://ref.ly/Prov11:10\">PRO 11:10</a>; <a href=\"https://ref.ly/Isa16:9-Isa16:10\">ISA 16:9–16:10</a>, <a href=\"https://ref.ly/Isa26:19\">ISA 26:19</a>; <a href=\"https://ref.ly/Matt21:15\">MAT 21:15</a>; <a href=\"https://ref.ly/Luke17:15\">LUK 17:15</a>; <a href=\"https://ref.ly/Rev5:12\">REV 5:12</a>, <a href=\"https://ref.ly/Rev19:1\">REV 19:1</a></p>\n<h2>Joyful shouting commanded</h2>\n<p><strong><a href=\"https://ref.ly/Josh6:5\">JOS 6:5</a></strong>; <strong><a href=\"https://ref.ly/Ps47:1\">PSA 47:1</a></strong>; <strong><a href=\"https://ref.ly/Zeph3:14\">ZEP 3:14</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps66:1\">PSA 66:1</a>, <a href=\"https://ref.ly/Ps95:1\">PSA 95:1</a>, <a href=\"https://ref.ly/Ps100:1\">PSA 100:1</a>; <a href=\"https://ref.ly/Isa40:9\">ISA 40:9</a>, <a href=\"https://ref.ly/Isa44:23\">ISA 44:23</a>, <a href=\"https://ref.ly/Isa58:1\">ISA 58:1</a>; <a href=\"https://ref.ly/Jer31:7\">JER 31:7</a>; <a href=\"https://ref.ly/Zech9:9\">ZEC 9:9</a></p>",
@@ -400,6 +400,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8664: praise",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "realia:Grating",
+"type": "realia",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Grating"
 }
 ]
 }

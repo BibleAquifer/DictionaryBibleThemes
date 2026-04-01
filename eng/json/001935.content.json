@@ -2,16 +2,17 @@
 {
 "content_id": "7776",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "7776: prophet, Jesus Christ as",
 "media_type": "Text",
-"index_reference": "7776: prophet, jesus christ as",
+"index_reference": "7776",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"2318.md\">2318: Jesus Christ, as prophet</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]

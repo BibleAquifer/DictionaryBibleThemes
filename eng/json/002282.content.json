@@ -2,10 +2,10 @@
 {
 "content_id": "8604",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8604: prayer, as a response to God",
 "media_type": "Text",
-"index_reference": "8604: prayer, as a response to god",
+"index_reference": "8604",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Prayer offers believers a means of acknowledging the character and purposes of God and the opportunity to seek guidance concerning his will for them.</p>\n<h2>The direction of prayer is upwards towards God</h2>\n<p><strong><a href=\"https://ref.ly/Ps123:1-Ps123:2\">PSA 123:1–123:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps25:1\">PSA 25:1</a>, <a href=\"https://ref.ly/Ps86:4\">PSA 86:4</a>, <a href=\"https://ref.ly/Ps121:1-Ps121:2\">PSA 121:1–121:2</a>, <a href=\"https://ref.ly/Ps143:8\">PSA 143:8</a>, <a href=\"https://ref.ly/Ps145:15\">PSA 145:15</a></p>\n<h2>Fellowship with God through prayer</h2>\n<p><strong><a href=\"https://ref.ly/Ps73:23-Ps73:26\">PSA 73:23–73:26</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod33:11\">EXO 33:11</a>; <a href=\"https://ref.ly/1Kgs8:57-1Kgs8:59\">1KI 8:57–8:59</a>; <a href=\"https://ref.ly/Ps16:2\">PSA 16:2</a>, <a href=\"https://ref.ly/Ps145:17-Ps145:20\">PSA 145:17–145:20</a>; <a href=\"https://ref.ly/Matt18:20\">MAT 18:20</a></p>\n<h2>The habit of prayer</h2>\n<p><strong><a href=\"https://ref.ly/Luke5:16\">LUK 5:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh2:4\">NEH 2:4</a> <em>Nehemiah felt so close to God that it was automatic for him to speak to God and the king almost simultaneously</em>; <a href=\"https://ref.ly/Dan6:10-Dan6:11\">DAN 6:10–6:11</a>, <a href=\"https://ref.ly/Dan6:13\">DAN 6:13</a></p>\n<h2>Contemplative prayer as a response to God's presence</h2>\n<p><strong><a href=\"https://ref.ly/Ps27:4\">PSA 27:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Chr16:10-1Chr16:11\">1CH 16:10–16:11</a> parallel <a href=\"https://ref.ly/Ps105:3-Ps105:4\">PSA 105:3–105:4</a>; <a href=\"https://ref.ly/Ps27:8\">PSA 27:8</a>; <a href=\"https://ref.ly/Isa55:6\">ISA 55:6</a>; <a href=\"https://ref.ly/Jer29:13\">JER 29:13</a>; <a href=\"https://ref.ly/Acts17:27-Acts17:28\">ACT 17:27–17:28</a>; <a href=\"https://ref.ly/Heb11:6\">HEB 11:6</a></p>\n<h2>Prayer of acceptance in response to God's call</h2>\n<p><strong><a href=\"https://ref.ly/1Sam3:10\">1SA 3:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa6:8\">ISA 6:8</a>; <a href=\"https://ref.ly/Rev3:20\">REV 3:20</a></p>\n<h2>Prayer of confession</h2>\n<h3>In response to God's holiness</h3>\n<p><strong><a href=\"https://ref.ly/1John1:5-1John1:9\">1JN 1:5–1:9</a></strong> <em>See also</em> <a href=\"https://ref.ly/Isa6:3-Isa6:7\">ISA 6:3–6:7</a>, <a href=\"https://ref.ly/Isa55:7-Isa55:9\">ISA 55:7–55:9</a></p>\n<h3>In response to sin being exposed</h3>\n<p><strong><a href=\"https://ref.ly/Ps51:1-Ps51:2\">PSA 51:1–51:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps51:3-Ps51:12\">PSA 51:3–51:12</a></p>\n<h2>Prayer of co-operation in response to God's purposes</h2>\n<p><strong><a href=\"https://ref.ly/John15:7-John15:8\">JHN 15:7–15:8</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps119:105-Ps119:106\">PSA 119:105–119:106</a>; <a href=\"https://ref.ly/Luke1:38\">LUK 1:38</a>; <a href=\"https://ref.ly/John15:16\">JHN 15:16</a></p>\n<h2>Prayer of confidence in response to God's mercy and grace</h2>\n<p><strong><a href=\"https://ref.ly/Heb4:16\">HEB 4:16</a></strong> <em>See also</em> <a href=\"https://ref.ly/Neh1:4-Neh1:7\">NEH 1:4–1:7</a>; <a href=\"https://ref.ly/Ps123:1-Ps123:2\">PSA 123:1–123:2</a>; <a href=\"https://ref.ly/Jas1:5-Jas1:8\">JAS 1:5–1:8</a></p>",
@@ -296,7 +296,8 @@
 "label": "7921: fellowship",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

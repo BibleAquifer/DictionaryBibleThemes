@@ -2,16 +2,25 @@
 {
 "content_id": "8286",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8286: joy, of Holy Spirit",
 "media_type": "Text",
-"index_reference": "8286: joy, of holy spirit",
+"index_reference": "8286",
 "language": "eng",
 "review_level": "None",
 "content": "<p>See <a href=\"3020.md\">3020: Holy Spirit, joy of</a></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": [
+{
+"id": "person:Shapham",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Shapham"
+}
+]
 }
 }
 ]

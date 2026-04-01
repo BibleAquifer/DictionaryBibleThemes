@@ -2,10 +2,10 @@
 {
 "content_id": "4272",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4272: sky",
 "media_type": "Text",
-"index_reference": "4272: sky",
+"index_reference": "4272",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The sky demonstrating God's creative power and providence</h2>\n<p><strong><a href=\"https://ref.ly/Ps19:1\">PSA 19:1</a></strong>; <strong><a href=\"https://ref.ly/Jer14:22\">JER 14:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen1:8-Gen1:9\">GEN 1:8–1:9</a>; <a href=\"https://ref.ly/Job26:7\">JOB 26:7</a>, <a href=\"https://ref.ly/Job37:15-Job37:18\">JOB 37:15–37:18</a>; <a href=\"https://ref.ly/Ps36:5\">PSA 36:5</a>, <a href=\"https://ref.ly/Ps68:34\">PSA 68:34</a>, <a href=\"https://ref.ly/Ps71:19\">PSA 71:19</a>, <a href=\"https://ref.ly/Ps77:16-Ps77:18\">PSA 77:16–77:18</a>, <a href=\"https://ref.ly/Ps78:23\">PSA 78:23</a>, <a href=\"https://ref.ly/Ps147:8\">PSA 147:8</a>; <a href=\"https://ref.ly/Isa50:3\">ISA 50:3</a>; <a href=\"https://ref.ly/Hos2:21-Hos2:22\">HOS 2:21–2:22</a></p>\n<h2>The sky associated with heavenly bodies</h2>\n<p><strong><a href=\"https://ref.ly/Gen1:14-Gen1:15\">GEN 1:14–1:15</a></strong>; <strong><a href=\"https://ref.ly/Deut4:19\">DEU 4:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen22:17\">GEN 22:17</a> <em>a promise repeated many times in the OT</em>; <a href=\"https://ref.ly/Job37:21\">JOB 37:21</a>; <a href=\"https://ref.ly/Ps89:37\">PSA 89:37</a></p>\n<h2>The sky associated with birds</h2>\n<p><a href=\"https://ref.ly/Gen1:20\">GEN 1:20</a>; ; <a href=\"https://ref.ly/Prov30:19\">PRO 30:19</a>; ; <a href=\"https://ref.ly/Jer4:25\">JER 4:25</a>, <a href=\"https://ref.ly/Jer8:7\">JER 8:7</a>; ; <a href=\"https://ref.ly/Lam4:19\">LAM 4:19</a></p>\n<h2>The sky associated with rain and hail</h2>\n<p><strong><a href=\"https://ref.ly/Gen8:2\">GEN 8:2</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod9:22-Exod9:23\">EXO 9:22–9:23</a>; <a href=\"https://ref.ly/Josh10:11\">JOS 10:11</a>; <a href=\"https://ref.ly/2Sam22:12\">2SA 22:12</a>; <a href=\"https://ref.ly/1Kgs18:45\">1KI 18:45</a>; <a href=\"https://ref.ly/Ps147:8\">PSA 147:8</a>; <a href=\"https://ref.ly/Luke4:25\">LUK 4:25</a>; <a href=\"https://ref.ly/Rev11:6\">REV 11:6</a>, <a href=\"https://ref.ly/Rev16:21\">REV 16:21</a></p>\n<h2>The sky associated with unusual phenomena</h2>\n<p><strong><a href=\"https://ref.ly/Isa34:4\">ISA 34:4</a></strong>; <strong><a href=\"https://ref.ly/Matt24:29-Matt24:30\">MAT 24:29–24:30</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod20:21-Exod20:22\">EXO 20:21–20:22</a>; <a href=\"https://ref.ly/Josh10:13\">JOS 10:13</a>; <a href=\"https://ref.ly/Jer10:2\">JER 10:2</a>; <a href=\"https://ref.ly/Joel2:10\">JOL 2:10</a>, <a href=\"https://ref.ly/Joel3:16\">JOL 3:16</a>; <a href=\"https://ref.ly/Mark13:25\">MRK 13:25</a>; <a href=\"https://ref.ly/Rev6:13-Rev6:14\">REV 6:13–6:14</a>, <a href=\"https://ref.ly/Rev8:10\">REV 8:10</a>, <a href=\"https://ref.ly/Rev9:1-Rev9:2\">REV 9:1–9:2</a>, <a href=\"https://ref.ly/Rev12:4\">REV 12:4</a>, <a href=\"https://ref.ly/Rev20:11\">REV 20:11</a></p>\n<h2>The sky used figuratively</h2>\n<p><strong><a href=\"https://ref.ly/Matt16:2-Matt16:3\">MAT 16:2–16:3</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod24:10\">EXO 24:10</a>; <a href=\"https://ref.ly/Deut1:28\">DEU 1:28</a>; <a href=\"https://ref.ly/Prov23:5\">PRO 23:5</a>; <a href=\"https://ref.ly/Jer51:53\">JER 51:53</a>; <a href=\"https://ref.ly/Matt11:23\">MAT 11:23</a>; <a href=\"https://ref.ly/Luke17:24\">LUK 17:24</a></p>",
@@ -403,7 +403,8 @@
 "label": "9410: heaven",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

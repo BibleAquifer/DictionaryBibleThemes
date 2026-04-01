@@ -2,10 +2,10 @@
 {
 "content_id": "5514",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5514: scribes",
 "media_type": "Text",
-"index_reference": "5514: scribes",
+"index_reference": "5514",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Experts in the understanding and study of the law of Moses. Scribes had political power in NT times, and sat on the Sanhedrin. They were also referred to as lawyers and teachers of the law. They opposed Jesus Christ, who condemned their hypocrisy.</p>\n<h2>The duties of scribes</h2>\n<h3>Writing records, legal contracts, letters and accounts</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/2Sam8:16\">2SA 8:16</a> parallel <a href=\"https://ref.ly/1Chr18:15\">1CH 18:15</a>; <a href=\"https://ref.ly/1Kgs4:3\">1KI 4:3</a>; <a href=\"https://ref.ly/2Kgs12:10\">2KI 12:10</a> parallel <a href=\"https://ref.ly/2Chr24:11\">2CH 24:11</a>; <a href=\"https://ref.ly/Jer32:12\">JER 32:12</a>, <a href=\"https://ref.ly/Jer36:26\">JER 36:26</a></p>\n<h3>Advising the king</h3>\n<p><a href=\"https://ref.ly/2Kgs18:18\">2KI 18:18</a> parallel <a href=\"https://ref.ly/Isa36:3\">ISA 36:3</a>; ; <a href=\"https://ref.ly/2Kgs19:2\">2KI 19:2</a>; ; <a href=\"https://ref.ly/1Chr27:32\">1CH 27:32</a></p>\n<h3>Conscripting people to the army</h3>\n<p><a href=\"https://ref.ly/2Kgs25:19\">2KI 25:19</a> parallel <a href=\"https://ref.ly/Jer52:25\">JER 52:25</a></p>\n<h2>Examples of scribes who are mentioned by name</h2>\n<h3>Shaphan</h3>\n<p><a href=\"https://ref.ly/2Kgs22:8\">2KI 22:8</a> parallel <a href=\"https://ref.ly/2Chr34:18\">2CH 34:18</a></p>\n<h3>Baruch</h3>\n<p><a href=\"https://ref.ly/Jer36:4-Jer36:32\">JER 36:4–36:32</a></p>\n<h3>Ezra</h3>\n<p>After the exile, scribes became copyists and interpreters of the law:\n <a href=\"https://ref.ly/Ezra7:6\">EZR 7:6</a>; ; <a href=\"https://ref.ly/Neh8:1-Neh8:4\">NEH 8:1–8:4</a>, <a href=\"https://ref.ly/Neh8:9\">NEH 8:9</a></p>\n<h2>Clans or families of scribes</h2>\n<p><a href=\"https://ref.ly/1Chr2:55\">1CH 2:55</a></p>\n<h2>The office of priest and scribe</h2>\n<p>Up to the time of the Babylonian exile only priests were allowed to be scribes:\n <a href=\"https://ref.ly/Ezra7:6\">EZR 7:6</a>; ; <a href=\"https://ref.ly/Neh8:9\">NEH 8:9</a>, <a href=\"https://ref.ly/Neh12:26\">NEH 12:26</a></p>\n<h2>Scribes had political power in NT times and sat on the Sanhedrin</h2>\n<p>By this time, scribes were also referred to as <code>teachers of the law'' and</code>lawyers'':\n <a href=\"https://ref.ly/Matt16:21\">MAT 16:21</a> parallels <a href=\"https://ref.ly/Mark8:31\">MRK 8:31</a>, <a href=\"https://ref.ly/Luke9:22\">LUK 9:22</a>; ; <a href=\"https://ref.ly/Matt26:3\">MAT 26:3</a> parallels <a href=\"https://ref.ly/Mark14:1\">MRK 14:1</a>, <a href=\"https://ref.ly/Luke22:2\">LUK 22:2</a></p>\n<h2>Scribes opposed Jesus Christ</h2>\n<p><strong><a href=\"https://ref.ly/Matt21:15\">MAT 21:15</a></strong>; <strong><a href=\"https://ref.ly/Luke19:47\">LUK 19:47</a></strong> parallels <a href=\"https://ref.ly/Matt21:15\">MAT 21:15</a>, <a href=\"https://ref.ly/Mark11:18\">MRK 11:18</a></p>\n<h2>Jesus Christ condemmed the scribes' hypocrisy</h2>\n<p><strong><a href=\"https://ref.ly/Matt23:27-Matt23:28\">MAT 23:27–23:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Matt23:1-Matt23:7\">MAT 23:1–23:7</a> parallels <a href=\"https://ref.ly/Mark12:38-Mark12:39\">MRK 12:38–12:39</a>, <a href=\"https://ref.ly/Luke20:45-Luke20:46\">LUK 20:45–20:46</a></p>",
@@ -287,7 +287,8 @@
 "label": "8767: hypocrisy",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

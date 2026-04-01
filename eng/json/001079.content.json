@@ -2,10 +2,10 @@
 {
 "content_id": "5510",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5510: rumours",
 "media_type": "Text",
-"index_reference": "5510: rumours",
+"index_reference": "5510",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Insubstantial information, frequently not factual and leading to groundless fears.</p>\n<h2>Rumours can give rise to fear</h2>\n<p><strong><a href=\"https://ref.ly/Jer51:46\">JER 51:46</a></strong>; <strong><a href=\"https://ref.ly/Matt24:6\">MAT 24:6</a></strong> parallel <a href=\"https://ref.ly/Mark13:7\">MRK 13:7</a> <em>See also</em> <a href=\"https://ref.ly/Job28:22\">JOB 28:22</a>; <a href=\"https://ref.ly/Ezek7:26\">EZK 7:26</a>; <a href=\"https://ref.ly/1Tim4:7\">1TI 4:7</a></p>\n<h2>Rumours can come from misunderstanding what has been said</h2>\n<p><strong><a href=\"https://ref.ly/John21:23\">JHN 21:23</a></strong></p>\n<h2>Rumours are sometimes maliciously spread</h2>\n<p><strong><a href=\"https://ref.ly/Prov17:4\">PRO 17:4</a></strong>; <strong><a href=\"https://ref.ly/3John1:10\">3JN 1:10</a></strong> <em>See also</em> <a href=\"https://ref.ly/Prov16:28\">PRO 16:28</a>, <a href=\"https://ref.ly/Prov26:24\">PRO 26:24</a>; <a href=\"https://ref.ly/1Tim3:11\">1TI 3:11</a>, <a href=\"https://ref.ly/1Tim5:13\">1TI 5:13</a>, <a href=\"https://ref.ly/1Tim6:11\">1TI 6:11</a></p>",
@@ -131,6 +131,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8830: suspicion",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gomorrah",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gomorrah"
 }
 ]
 }

@@ -2,10 +2,10 @@
 {
 "content_id": "5163",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5163: legs",
 "media_type": "Text",
-"index_reference": "5163: legs",
+"index_reference": "5163",
 "language": "eng",
 "review_level": "None",
 "content": "<p>The legs of an animal were among the choice parts offered in sacrifices. In a human being legs provide strength. Bowing the knee symbolises the submitting of one's human strength to God's control.</p>\n<h2>Choice parts of a sacrificial animal</h2>\n<p><strong><a href=\"https://ref.ly/Ezek24:4\">EZK 24:4</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod12:9\">EXO 12:9</a>EXO <a href=\"https://ref.ly/Exod29:17-Exod29:18\">29:17–29:18</a>; <a href=\"https://ref.ly/Lev1:9\">LEV 1:9</a>, <a href=\"https://ref.ly/Lev1:13\">LEV 1:13</a>, <a href=\"https://ref.ly/Lev8:21\">LEV 8:21</a>, <a href=\"https://ref.ly/Lev9:13-Lev9:14\">LEV 9:13–9:14</a>\n<a href=\"https://ref.ly/Lev4:11-Lev4:12\">LEV 4:11–4:12</a> <em>burnt outside the camp in the sin offering</em></p>\n<h2>Legs of human beings are objects of beauty</h2>\n<p><a href=\"https://ref.ly/Song5:15\">SNG 5:15</a>, <a href=\"https://ref.ly/Song7:1\">SNG 7:1</a></p>\n<h2>Legs of human beings symbolise strength</h2>\n<p><strong><a href=\"https://ref.ly/Rev10:1\">REV 10:1</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Sam17:6\">1SA 17:6</a>; <a href=\"https://ref.ly/Ps147:10\">PSA 147:10</a>; <a href=\"https://ref.ly/Dan2:33\">DAN 2:33</a>, <a href=\"https://ref.ly/Dan2:40\">DAN 2:40</a>, <a href=\"https://ref.ly/Dan10:6\">DAN 10:6</a></p>\n<h3>God's judgment saps human strength</h3>\n<p><strong><a href=\"https://ref.ly/Dan5:5-Dan5:6\">DAN 5:5–5:6</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ezek7:17\">EZK 7:17</a>, <a href=\"https://ref.ly/Ezek21:7\">EZK 21:7</a>; <a href=\"https://ref.ly/Nah2:10\">NAM 2:10</a>; <a href=\"https://ref.ly/Hab3:16\">HAB 3:16</a></p>\n<h3>God's judgment brings pain and disgrace</h3>\n<p><a href=\"https://ref.ly/Deut28:35\">DEU 28:35</a>; <a href=\"https://ref.ly/Isa7:20\">ISA 7:20</a>, <a href=\"https://ref.ly/Isa47:2\">ISA 47:2</a></p>\n<h3>God gives strength to the weak</h3>\n<p><strong><a href=\"https://ref.ly/Heb12:12-Heb12:13\">HEB 12:12–12:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Job4:4\">JOB 4:4</a>; <a href=\"https://ref.ly/Isa35:3\">ISA 35:3</a></p>\n<h2>The legs of Jesus Christ were not broken at his death</h2>\n<p><a href=\"https://ref.ly/John19:31-John19:36\">JHN 19:31–19:36</a></p>",
@@ -264,6 +264,15 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7435: sacrifice, in OT",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Esther",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Esther"
 }
 ]
 }

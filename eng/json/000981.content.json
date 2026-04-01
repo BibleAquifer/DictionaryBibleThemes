@@ -2,10 +2,10 @@
 {
 "content_id": "5400",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5400: lyre",
 "media_type": "Text",
-"index_reference": "5400: lyre",
+"index_reference": "5400",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>The lyre used in Israelite worship</h2>\n<h3>In joyful religious celebrations</h3>\n<p><strong><a href=\"https://ref.ly/2Sam6:2-2Sam6:5\">2SA 6:2–6:5</a></strong> parallel <a href=\"https://ref.ly/1Chr13:6-1Chr13:8\">1CH 13:6–13:8</a> <em>See also</em> <a href=\"https://ref.ly/1Sam10:5\">1SA 10:5</a>; <a href=\"https://ref.ly/1Chr15:25-1Chr15:28\">1CH 15:25–15:28</a>; <a href=\"https://ref.ly/Neh12:27\">NEH 12:27</a></p>\n<h3>In temple worship</h3>\n<p><strong><a href=\"https://ref.ly/2Chr5:12\">2CH 5:12</a></strong> <em>See also</em> <a href=\"https://ref.ly/1Kgs10:12\">1KI 10:12</a> parallel <a href=\"https://ref.ly/2Chr9:11\">2CH 9:11</a>; <a href=\"https://ref.ly/1Chr15:16\">1CH 15:16</a>, <a href=\"https://ref.ly/1Chr15:20\">1CH 15:20</a>, <a href=\"https://ref.ly/1Chr16:5-1Chr16:6\">1CH 16:5–16:6</a>, <a href=\"https://ref.ly/1Chr25:1\">1CH 25:1</a>, <a href=\"https://ref.ly/1Chr25:6\">1CH 25:6</a>; <a href=\"https://ref.ly/2Chr29:25\">2CH 29:25</a></p>\n<h3>In praising God</h3>\n<p><strong><a href=\"https://ref.ly/Ps71:22\">PSA 71:22</a></strong> <em>See also</em> <a href=\"https://ref.ly/Ps33:1-Ps33:3\">PSA 33:1–33:3</a>, <a href=\"https://ref.ly/Ps57:7-Ps57:8\">PSA 57:7–57:8</a>, <a href=\"https://ref.ly/Ps81:1-Ps81:2\">PSA 81:1–81:2</a>, <a href=\"https://ref.ly/Ps92:1-Ps92:4\">PSA 92:1–92:4</a>, <a href=\"https://ref.ly/Ps108:1-Ps108:2\">PSA 108:1–108:2</a>, <a href=\"https://ref.ly/Ps144:9\">PSA 144:9</a>, <a href=\"https://ref.ly/Ps150:3\">PSA 150:3</a></p>\n<h2>The lyre used in pagan worship</h2>\n<p><strong><a href=\"https://ref.ly/Dan3:7\">DAN 3:7</a></strong> <em>See also</em> <a href=\"https://ref.ly/Dan3:5\">DAN 3:5</a>, <a href=\"https://ref.ly/Dan3:10\">DAN 3:10</a>, <a href=\"https://ref.ly/Dan3:15\">DAN 3:15</a></p>\n<h2>The lyre in secular use</h2>\n<p><strong><a href=\"https://ref.ly/Isa5:12\">ISA 5:12</a></strong></p>",
@@ -216,6 +216,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8664: praise",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "place:Gederoth",
+"type": "place",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gederoth"
+},
+{
+"id": "realia:Lyre",
+"type": "realia",
+"confidence": 0.6745,
+"match_method": "scored",
+"preferred_label": "Lyre"
 }
 ]
 }

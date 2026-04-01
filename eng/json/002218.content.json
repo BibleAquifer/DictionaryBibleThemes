@@ -2,10 +2,10 @@
 {
 "content_id": "8429",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "8429: fasting",
 "media_type": "Text",
-"index_reference": "8429: fasting",
+"index_reference": "8429",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Abstaining from food, and possibly drink, for a limited period of time as a mark of religious commitment and devotion or as an expression of repentance for sins.</p>",
@@ -33,7 +33,8 @@
 "label": "8432: fasting, practice of",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

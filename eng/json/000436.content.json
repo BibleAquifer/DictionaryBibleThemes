@@ -2,10 +2,10 @@
 {
 "content_id": "4442",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "4442: firstfruits",
 "media_type": "Text",
-"index_reference": "4442: firstfruits",
+"index_reference": "4442",
 "language": "eng",
 "review_level": "None",
 "content": "<p>Offerings of the produce of the land, being the first and best of the crops, given in acknowledgment of God's abundant blessings. The term is also used metaphorically to indicate the first of a much larger group that is to follow, such as those who will be raised from the dead.</p>\n<h2>Offering firstfruits</h2>\n<p><strong><a href=\"https://ref.ly/Exod23:19\">EXO 23:19</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod34:26\">EXO 34:26</a>; <a href=\"https://ref.ly/Lev2:11-Lev2:16\">LEV 2:11–2:16</a>; <a href=\"https://ref.ly/Deut26:1-Deut26:11\">DEU 26:1–26:11</a>; <a href=\"https://ref.ly/Neh10:35-Neh10:39\">NEH 10:35–10:39</a>, <a href=\"https://ref.ly/Neh13:31\">NEH 13:31</a>; <a href=\"https://ref.ly/Prov3:9-Prov3:10\">PRO 3:9–3:10</a>; <a href=\"https://ref.ly/Rom11:16\">ROM 11:16</a></p>\n<h2>Firstfruits given to priests and Levites</h2>\n<p><strong><a href=\"https://ref.ly/Num18:8-Num18:13\">NUM 18:8–18:13</a></strong> <em>See also</em> <a href=\"https://ref.ly/Deut18:1-Deut18:5\">DEU 18:1–18:5</a>; <a href=\"https://ref.ly/2Chr31:2-2Chr31:5\">2CH 31:2–31:5</a>; <a href=\"https://ref.ly/Neh12:44-Neh12:47\">NEH 12:44–12:47</a>; <a href=\"https://ref.ly/Ezek44:28-Ezek44:30\">EZK 44:28–44:30</a></p>\n<h2>Firstfruits offered at feasts</h2>\n<h3>The Feast of Firstfruits</h3>\n<p><strong><a href=\"https://ref.ly/Lev23:9-Lev23:14\">LEV 23:9–23:14</a></strong></p>\n<h3>The Feast of Weeks (Harvest)</h3>\n<p><em>See also</em> <a href=\"https://ref.ly/Exod23:16\">EXO 23:16</a>, <a href=\"https://ref.ly/Exod34:22\">EXO 34:22</a>; <a href=\"https://ref.ly/Lev23:15-Lev23:20\">LEV 23:15–23:20</a>; <a href=\"https://ref.ly/Num28:26\">NUM 28:26</a></p>\n<h2>Firstborn of human beings and animals regarded as firstfruits</h2>\n<p><strong><a href=\"https://ref.ly/Ps78:51\">PSA 78:51</a></strong> <em>See also</em> <a href=\"https://ref.ly/Exod13:1-Exod13:2\">EXO 13:1–13:2</a>, <a href=\"https://ref.ly/Exod13:11-Exod13:16\">EXO 13:11–13:16</a>; <a href=\"https://ref.ly/Num18:14-Num18:19\">NUM 18:14–18:19</a>; <a href=\"https://ref.ly/Ps105:36\">PSA 105:36</a></p>\n<h2>Metaphorical use of firstfruits</h2>\n<h3>Firstfruits of God's harvest</h3>\n<p><strong><a href=\"https://ref.ly/Jer2:1-Jer2:3\">JER 2:1–2:3</a></strong></p>\n<h3>Jesus Christ the firstfruits of the resurrection</h3>\n<p><strong><a href=\"https://ref.ly/1Cor15:20-1Cor15:28\">1CO 15:20–15:28</a></strong> <em>See also</em> <a href=\"https://ref.ly/Acts26:22-Acts26:23\">ACT 26:22–26:23</a></p>\n<h3>Firstfruits of salvation</h3>\n<p><strong><a href=\"https://ref.ly/Jas1:18\">JAS 1:18</a></strong> <em>See also</em> <a href=\"https://ref.ly/Rom8:23\">ROM 8:23</a>; <a href=\"https://ref.ly/2Thess2:13\">2TH 2:13</a>; <a href=\"https://ref.ly/Rev14:1-Rev14:5\">REV 14:1–14:5</a></p>",
@@ -263,7 +263,8 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-]
+],
+"acai": []
 }
 }
 ]

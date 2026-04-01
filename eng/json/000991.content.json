@@ -2,10 +2,10 @@
 {
 "content_id": "5410",
 "reference_id": 0,
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "5410: midwife",
 "media_type": "Text",
-"index_reference": "5410: midwife",
+"index_reference": "5410",
 "language": "eng",
 "review_level": "None",
 "content": "<h2>Midwives assist at childbirth</h2>\n<p><strong><a href=\"https://ref.ly/Gen35:17\">GEN 35:17</a></strong> <em>See also</em> <a href=\"https://ref.ly/Gen38:28\">GEN 38:28</a></p>\n<h2>Midwives ordered to kill all newborn boys</h2>\n<p><strong><a href=\"https://ref.ly/Exod1:15-Exod1:21\">EXO 1:15–1:21</a></strong></p>",
@@ -51,6 +51,22 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5663: childbirth",
 "language": "eng"
+}
+],
+"acai": [
+{
+"id": "person:Gemariah.2",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gemariah"
+},
+{
+"id": "person:Gemariah",
+"type": "person",
+"confidence": 1.0,
+"match_method": "content_id",
+"preferred_label": "Gemariah"
 }
 ]
 }
