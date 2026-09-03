@@ -29,8 +29,8 @@
 ]
 },
 "adaptation_notice": "",
-"resource_code": "DictionaryOfBibleThemes",
-"date_created": "2026-04-01",
+"resource_code": "DictionaryBibleThemes",
+"date_created": "2026-09-03",
 "language": "eng",
 "localizations": [],
 "order": "monograph",
@@ -42,7 +42,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-04-01T15:20:42.019724"
+"dateCreated": "2026-09-03T10:02:33.391742"
 },
 "idAuthorities": {
 "aquifer": {
@@ -55,8 +55,8 @@
 "identification": {
 "primary": {
 "aquifer": {
-"DictionaryOfBibleThemes": {
-"timestamp": "2026-04-01T15:20:42.019724"
+"DictionaryBibleThemes": {
+"timestamp": "2026-09-03T10:02:33.391742"
 }
 }
 },
@@ -88,123 +88,123 @@
 "ingredients": {
 "json/0000.content.json": {
 "mimeType": "text/json",
-"size": 13214
+"size": 13283
 },
 "json/1000.content.json": {
 "mimeType": "text/json",
-"size": 1834395
+"size": 2150904
 },
 "json/2000.content.json": {
 "mimeType": "text/json",
-"size": 1388776
+"size": 1616217
 },
 "json/3000.content.json": {
 "mimeType": "text/json",
-"size": 381885
+"size": 434923
 },
 "json/4000.content.json": {
 "mimeType": "text/json",
-"size": 2994526
+"size": 3460985
 },
 "json/5000.content.json": {
 "mimeType": "text/json",
-"size": 9110512
+"size": 10525665
 },
 "json/6000.content.json": {
 "mimeType": "text/json",
-"size": 1902495
+"size": 2189852
 },
 "json/7000.content.json": {
 "mimeType": "text/json",
-"size": 2576334
+"size": 2946035
 },
 "json/8000.content.json": {
 "mimeType": "text/json",
-"size": 4859570
+"size": 5628275
 },
 "json/9000.content.json": {
 "mimeType": "text/json",
-"size": 610860
-},
-"md/0000.content.md": {
-"mimeType": "text/markdown",
-"size": 12120
-},
-"md/1000.content.md": {
-"mimeType": "text/markdown",
-"size": 725313
-},
-"md/2000.content.md": {
-"mimeType": "text/markdown",
-"size": 565411
-},
-"md/3000.content.md": {
-"mimeType": "text/markdown",
-"size": 164450
-},
-"md/4000.content.md": {
-"mimeType": "text/markdown",
-"size": 1182071
-},
-"md/5000.content.md": {
-"mimeType": "text/markdown",
-"size": 3644540
-},
-"md/6000.content.md": {
-"mimeType": "text/markdown",
-"size": 774242
-},
-"md/7000.content.md": {
-"mimeType": "text/markdown",
-"size": 1096945
+"size": 704411
 },
 "md/8000.content.md": {
 "mimeType": "text/markdown",
-"size": 1939068
+"size": 1315672
+},
+"md/7000.content.md": {
+"mimeType": "text/markdown",
+"size": 779195
+},
+"md/0000.content.md": {
+"mimeType": "text/markdown",
+"size": 11676
+},
+"md/1000.content.md": {
+"mimeType": "text/markdown",
+"size": 475545
 },
 "md/9000.content.md": {
 "mimeType": "text/markdown",
-"size": 248774
+"size": 172176
+},
+"md/6000.content.md": {
+"mimeType": "text/markdown",
+"size": 535013
+},
+"md/3000.content.md": {
+"mimeType": "text/markdown",
+"size": 121723
+},
+"md/4000.content.md": {
+"mimeType": "text/markdown",
+"size": 802368
+},
+"md/5000.content.md": {
+"mimeType": "text/markdown",
+"size": 2486040
+},
+"md/2000.content.md": {
+"mimeType": "text/markdown",
+"size": 373945
 },
 "pdf/0000.content.pdf": {
 "mimeType": "application/pdf",
-"size": 76668
+"size": 62847
 },
 "pdf/1000.content.pdf": {
 "mimeType": "application/pdf",
-"size": 6320209
+"size": 1919751
 },
 "pdf/2000.content.pdf": {
 "mimeType": "application/pdf",
-"size": 4757182
+"size": 1489762
 },
 "pdf/3000.content.pdf": {
 "mimeType": "application/pdf",
-"size": 1263493
+"size": 502059
 },
 "pdf/4000.content.pdf": {
 "mimeType": "application/pdf",
-"size": 10035565
+"size": 3305038
 },
 "pdf/5000.content.pdf": {
 "mimeType": "application/pdf",
-"size": 31032865
+"size": 10334135
 },
 "pdf/6000.content.pdf": {
 "mimeType": "application/pdf",
-"size": 6331457
+"size": 2138376
 },
 "pdf/7000.content.pdf": {
 "mimeType": "application/pdf",
-"size": 8696442
+"size": 3202055
 },
 "pdf/8000.content.pdf": {
 "mimeType": "application/pdf",
-"size": 16367372
+"size": 5273600
 },
 "pdf/9000.content.pdf": {
 "mimeType": "application/pdf",
-"size": 2040736
+"size": 700851
 }
 },
 "copyright": {
