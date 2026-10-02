@@ -47,8 +47,7 @@
 "label": "2500: Jesus Christ, history of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -71,8 +70,7 @@
 "label": "2006: God, the Son",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -263,8 +261,7 @@
 "label": "2081: Jesus Christ, wisdom of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -694,8 +691,7 @@
 "label": "9240: last judgment",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -1600,8 +1596,7 @@
 "label": "6654: forgiveness, Jesus Christ's ministry of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -2026,8 +2021,7 @@
 "label": "6689: mercy, of Jesus Christ",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -3040,8 +3034,7 @@
 "label": "9312: resurrection, significance of Jesus Christ's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -3613,8 +3606,7 @@
 "label": "8331: reliability",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -4081,8 +4073,7 @@
 "label": "8440: glorifying God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -4495,8 +4486,7 @@
 "label": "6689: mercy, of Jesus Christ",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -4975,8 +4965,7 @@
 "label": "8266: holiness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -5539,8 +5528,7 @@
 "label": "6684: mediator",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6074,8 +6062,7 @@
 "label": "8276: humility",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6387,8 +6374,7 @@
 "label": "8283: joy",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6705,8 +6691,7 @@
 "label": "9240: last judgment",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -7431,8 +7416,7 @@
 "label": "8281: insight",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -7989,8 +7973,7 @@
 "label": "8292: love",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -8373,8 +8356,7 @@
 "label": "2590: Jesus Christ, triumphal entry of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -9028,8 +9010,7 @@
 "label": "8206: Christlikeness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -9459,8 +9440,7 @@
 "label": "8453: obedience",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -9968,8 +9948,7 @@
 "label": "8490: watchfulness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -10304,8 +10283,7 @@
 "label": "8321: perfection, divine",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -10976,8 +10954,7 @@
 "label": "6676: justification",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -11642,8 +11619,7 @@
 "label": "2372: Jesus Christ, victory of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -12037,8 +12013,7 @@
 "label": "8272: holiness, believers' growth in",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -12526,8 +12501,7 @@
 "label": "6674: imputation",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -13408,8 +13382,7 @@
 "label": "6608: adoption",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -13850,8 +13823,7 @@
 "label": "8361: wisdom",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -13895,8 +13867,7 @@
 "label": "2233: Son of Man",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -14778,8 +14749,7 @@
 "label": "7160: servants of the Lord",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -15702,15 +15672,6 @@
 "label": "8102: abiding in Christ",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.6312,
-"match_method": "scored",
-"preferred_label": "Jesus"
-}
 ]
 }
 },
@@ -15726,8 +15687,7 @@
 "content": "<p>See <a href=\"1150.md\">1150: God, truth of</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -16080,8 +16040,7 @@
 "label": "7110: body of Christ",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -16426,8 +16385,7 @@
 "label": "5100: Melchizedek",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -17132,8 +17090,7 @@
 "label": "8020: faith",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -17672,8 +17629,7 @@
 "label": "5083: Adam, and Jesus Christ",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -18383,15 +18339,6 @@
 "label": "5396: lordship, of Jesus Christ",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.602,
-"match_method": "scored",
-"preferred_label": "Jesus"
-}
 ]
 }
 },
@@ -18678,15 +18625,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7135: Israel, as the people of God",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.5741,
-"match_method": "scored",
-"preferred_label": "Jesus"
 }
 ]
 }
@@ -19179,8 +19117,7 @@
 "label": "9150: Messianic banquet",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -19498,8 +19435,7 @@
 "label": "5080: Adam",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -19529,8 +19465,7 @@
 "label": "2375: kingdom of God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -19914,8 +19849,7 @@
 "label": "6728: regeneration",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -20274,8 +20208,7 @@
 "label": "7436: sacrifice, NT fulfilment of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -20628,8 +20561,7 @@
 "label": "9240: last judgment",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -21101,15 +21033,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5368: kingship",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jesus.2",
-"type": "person",
-"confidence": 0.5604,
-"match_method": "scored",
-"preferred_label": "Jesus"
 }
 ]
 }
@@ -21584,8 +21507,7 @@
 "label": "8622: worship",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -22034,8 +21956,7 @@
 "label": "7773: prophets, role of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -22448,8 +22369,7 @@
 "label": "7950: mission, of Jesus Christ",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -23198,8 +23118,7 @@
 "label": "6717: reconciliation, of the world to God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -23498,8 +23417,7 @@
 "label": "8454: obedience, to God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -23806,8 +23724,7 @@
 "label": "8224: dependence",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -24634,8 +24551,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -24994,8 +24910,7 @@
 "label": "5849: exaltation",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -25312,8 +25227,7 @@
 "label": "8475: self-denial",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -25328,8 +25242,7 @@
 "content": "<p>See <a href=\"3269.md\">3269: Holy Spirit, in life of Jesus Christ</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -25880,8 +25793,7 @@
 "label": "9145: Messianic age",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -25896,8 +25808,7 @@
 "content": "<p>See <a href=\"2500.md\">2500: Jesus Christ, history of</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -26699,8 +26610,7 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -27383,8 +27293,7 @@
 "label": "8424: evangelism",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -28018,8 +27927,7 @@
 "label": "9510: hell",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -28452,8 +28360,7 @@
 "label": "8658: Lord's Prayer, the",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -29483,8 +29390,7 @@
 "label": "8114: discipleship",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -30263,8 +30169,7 @@
 "label": "2560: Jesus Christ, resurrection of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -30857,8 +30762,7 @@
 "label": "8836: unbelief, as response to God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -31235,8 +31139,7 @@
 "label": "9020: death",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -31273,8 +31176,7 @@
 "label": "2378: kingdom of God, characteristics of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -31825,8 +31727,7 @@
 "label": "9610: hope",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -32274,8 +32175,7 @@
 "label": "8808: riches",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -32558,8 +32458,7 @@
 "label": "8276: humility",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -32589,8 +32488,7 @@
 "label": "2420: gospel",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -32634,8 +32532,7 @@
 "label": "2414: cross, centrality of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -32984,8 +32881,7 @@
 "label": "7933: Lord's Supper",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -33243,8 +33139,7 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -33259,8 +33154,7 @@
 "content": "<p>See <a href=\"2525.md\">2525: Jesus Christ, cross of</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -33678,8 +33572,7 @@
 "label": "8114: discipleship",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -33751,8 +33644,7 @@
 "label": "2428: gospel, descriptions of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -34158,8 +34050,7 @@
 "label": "6720: redemption",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -34739,8 +34630,7 @@
 "label": "9312: resurrection, significance of Jesus Christ's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -35133,8 +35023,7 @@
 "label": "6666: grace",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -35444,8 +35333,7 @@
 "label": "8154: righteousness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -35891,8 +35779,7 @@
 "label": "8454: obedience, to God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -36494,8 +36381,7 @@
 "label": "8849: worry",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -36762,8 +36648,7 @@
 "label": "8495: witnessing",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -36977,8 +36862,7 @@
 "label": "8813: riches, spiritual",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -37008,8 +36892,7 @@
 "label": "2595: incarnation",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -37416,8 +37299,7 @@
 "label": "3040: Holy Spirit, promise of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -37619,8 +37501,7 @@
 "label": "7903: baptism",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -37841,8 +37722,7 @@
 "label": "5099: Mary, mother of Jesus Christ",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -38081,8 +37961,7 @@
 "label": "5688: firstborn",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -38820,8 +38699,7 @@
 "label": "7950: mission, of Jesus Christ",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -39504,8 +39382,7 @@
 "label": "7933: Lord's Supper",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -39769,8 +39646,7 @@
 "label": "5680: family",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -40098,8 +39974,7 @@
 "label": "7248: patriarchs",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -40848,8 +40723,7 @@
 "label": "8797: persecution, attitudes to",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -40864,8 +40738,7 @@
 "content": "<p>See <a href=\"2018.md\">2018: Jesus Christ, divinity of</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -41252,8 +41125,7 @@
 "label": "9311: resurrection, of Jesus Christ",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -41750,8 +41622,7 @@
 "label": "9311: resurrection, of Jesus Christ",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -42794,8 +42665,7 @@
 "label": "9610: hope",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -43434,8 +43304,7 @@
 "label": "6230: rejection",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -43764,8 +43633,7 @@
 "label": "8453: obedience",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -44051,8 +43919,7 @@
 "label": "5196: voice",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -44627,8 +44494,7 @@
 "label": "8815: ridicule",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -44867,8 +44733,7 @@
 "label": "8664: praise",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -45154,8 +45019,7 @@
 "label": "6752: substitution",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 }
 ]

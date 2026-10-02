@@ -110,15 +110,6 @@
 "label": "4400: Vegetation and food",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jehoiada.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jehoiada"
-}
 ]
 }
 },
@@ -169,15 +160,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4010: creation, renewal of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Bariah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bariah"
 }
 ]
 }
@@ -742,15 +724,6 @@
 "label": "5273: creativity",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Bar-jesus",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bar-jesus"
-}
 ]
 }
 },
@@ -1110,8 +1083,7 @@
 "label": "8321: perfection, divine",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -1126,8 +1098,7 @@
 "content": "<p>See <a href=\"2303.md\">2303: Jesus Christ, as creator</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -1142,16 +1113,7 @@
 "content": "<p>See <a href=\"3266.md\">3266: Holy Spirit, in creation</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Barkos",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Barkos"
-}
-]
+"resource": []
 }
 },
 {
@@ -1756,8 +1718,7 @@
 "label": "9610: hope",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -1807,22 +1768,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4020: life, of faith",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Judas.5",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Judas"
-},
-{
-"id": "person:Joseph.9",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Joseph"
 }
 ]
 }
@@ -2349,15 +2294,6 @@
 "label": "9020: death",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Bartholomew",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bartholomew"
-}
 ]
 }
 },
@@ -2817,15 +2753,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8664: praise",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Bartimaeus",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bartimaeus"
 }
 ]
 }
@@ -3734,15 +3661,6 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.6039,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
-}
 ]
 }
 },
@@ -4226,36 +4144,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8459: perseverance",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Baruch.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Baruch"
-},
-{
-"id": "person:Baruch.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Baruch"
-},
-{
-"id": "person:Baruch.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Baruch"
-},
-{
-"id": "person:Baruch",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Baruch"
 }
 ]
 }
@@ -4867,29 +4755,6 @@
 "label": "8837: unbelief, and life of faith",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Barzillai.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Barzillai"
-},
-{
-"id": "person:Barzillai.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Barzillai"
-},
-{
-"id": "person:Barzillai",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Barzillai"
-}
 ]
 }
 },
@@ -4941,8 +4806,7 @@
 "label": "4030: world, human behaviour in",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -5295,8 +5159,7 @@
 "label": "8355: understanding",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -5703,8 +5566,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -5983,8 +5845,7 @@
 "label": "9410: heaven",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6397,8 +6258,7 @@
 "label": "8424: evangelism",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6804,15 +6664,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8848: worldliness",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Bath-rabbim",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bath-rabbim"
 }
 ]
 }
@@ -7307,8 +7158,7 @@
 "label": "8809: riches, nature of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -7827,15 +7677,6 @@
 "label": "8322: perfection, human",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Bazluth",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bazluth"
-}
 ]
 }
 },
@@ -8233,15 +8074,6 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "flora:Bean",
-"type": "flora",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bean"
-}
 ]
 }
 },
@@ -8499,8 +8331,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -8739,22 +8570,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9410: heaven",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Becher.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Becher"
-},
-{
-"id": "person:Becher",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Becher"
 }
 ]
 }
@@ -9222,15 +9037,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5556: stewardship",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Bedeiah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bedeiah"
 }
 ]
 }
@@ -9783,15 +9589,6 @@
 "label": "8625: worship, acceptable attitudes in",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Beera",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beera"
-}
 ]
 }
 },
@@ -9913,15 +9710,6 @@
 "label": "4195: spirits",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Ben-deker",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ben-deker"
-}
 ]
 }
 },
@@ -9979,15 +9767,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4116: angels, opposed to God",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Beninu",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beninu"
 }
 ]
 }
@@ -10449,43 +10228,6 @@
 "label": "9412: heaven, worship and service in",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Benjamin.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-},
-{
-"id": "person:Benjamin.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-},
-{
-"id": "person:Benjamin.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-},
-{
-"id": "person:Benjamin.5",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-}
 ]
 }
 },
@@ -10759,8 +10501,7 @@
 "label": "9610: hope",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -11153,43 +10894,6 @@
 "label": "9240: last judgment",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Benjamin.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-},
-{
-"id": "person:Benjamin.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-},
-{
-"id": "person:Benjamin.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-},
-{
-"id": "person:Benjamin.5",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-}
 ]
 }
 },
@@ -11513,43 +11217,6 @@
 "label": "8664: praise",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Benjamin.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-},
-{
-"id": "person:Benjamin.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-},
-{
-"id": "person:Benjamin.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-},
-{
-"id": "person:Benjamin.5",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-},
-{
-"id": "person:Benjamin",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-}
 ]
 }
 },
@@ -11565,16 +11232,7 @@
 "content": "<p>See <a href=\"4140.md\">4140: angel of the Lord</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "person:Ben",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ben"
-}
-]
+"resource": []
 }
 },
 {
@@ -11792,15 +11450,6 @@
 "label": "8484: spiritual warfare, enemies in",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Benjamin",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Benjamin"
-}
 ]
 }
 },
@@ -11865,15 +11514,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4127: Satan, defeat of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Ben-zoheth",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ben-zoheth"
 }
 ]
 }
@@ -12201,15 +11841,6 @@
 "label": "8802: pride",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Baal-meon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Baal-meon"
-}
 ]
 }
 },
@@ -12501,22 +12132,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6248: temptation",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Beor.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beor"
-},
-{
-"id": "person:Beor",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beor"
 }
 ]
 }
@@ -12864,15 +12479,6 @@
 "label": "8776: lies",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Beracah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beracah"
-}
 ]
 }
 },
@@ -13159,15 +12765,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5459: prince",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Beracah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beracah"
 }
 ]
 }
@@ -13540,8 +13137,7 @@
 "label": "9115: antichrist, the",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -13893,15 +13489,6 @@
 "label": "8737: evil, believers' responses to",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Beraiah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beraiah"
-}
 ]
 }
 },
@@ -14159,15 +13746,6 @@
 "label": "9511: hell, as a place of punishment",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Bera",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bera"
-}
 ]
 }
 },
@@ -14218,15 +13796,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4135: demons, Jesus Christ's authority over",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Bered",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bered"
 }
 ]
 }
@@ -14397,15 +13966,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4195: spirits",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Bered",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bered"
 }
 ]
 }
@@ -14756,8 +14316,7 @@
 "label": "8776: lies",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -15143,36 +14702,6 @@
 "label": "3245: Holy Spirit, blasphemy against",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Beriah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beriah"
-},
-{
-"id": "person:Beriah.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beriah"
-},
-{
-"id": "person:Beriah.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beriah"
-},
-{
-"id": "person:Beriah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beriah"
-}
 ]
 }
 },
@@ -15488,8 +15017,7 @@
 "label": "8482: spiritual warfare",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -15792,8 +15320,7 @@
 "label": "4127: Satan, defeat of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -16291,15 +15818,6 @@
 "label": "5408: messenger",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Berothah",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Berothah"
-}
 ]
 }
 },
@@ -16425,15 +15943,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9310: resurrection",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Besodeiah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Besodeiah"
 }
 ]
 }
@@ -16860,15 +16369,6 @@
 "label": "7467: temple, Solomon's",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:WingedCreature",
-"type": "realia",
-"confidence": 0.7444,
-"match_method": "scored",
-"preferred_label": "Winged Creature"
-}
 ]
 }
 },
@@ -17208,8 +16708,7 @@
 "label": "9130: future, the",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -17416,8 +16915,7 @@
 "label": "4165: exorcism",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -17858,22 +17356,6 @@
 "label": "8226: discernment",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Beth-dagon.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beth-dagon"
-},
-{
-"id": "place:Beth-dagon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beth-dagon"
-}
 ]
 }
 },
@@ -18035,22 +17517,6 @@
 "label": "9410: heaven",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Bethel.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bethel"
-},
-{
-"id": "place:Bethel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bethel"
-}
 ]
 }
 },
@@ -18197,15 +17663,6 @@
 "label": "8754: fear",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Beth-gader",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beth-gader"
-}
 ]
 }
 },
@@ -18274,22 +17731,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8625: worship, acceptable attitudes in",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Beth-haram",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beth-haram"
-},
-{
-"id": "deity:Seraph",
-"type": "deity",
-"confidence": 0.652,
-"match_method": "scored",
-"preferred_label": "Seraph"
 }
 ]
 }
@@ -18602,22 +18043,6 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Beth-lebaoth",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beth-lebaoth"
-},
-{
-"id": "place:Beth-merchak",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beth-lebaoth"
-}
 ]
 }
 },
@@ -18763,15 +18188,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8744: faithlessness, as disobedience",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Baal-meon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Baal-meon"
 }
 ]
 }
@@ -19372,15 +18788,6 @@
 "label": "8832: testing",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Beth-pelet",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beth-pelet"
-}
 ]
 }
 },
@@ -19613,15 +19020,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4299: wilderness",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Beth-rehob",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beth-rehob"
 }
 ]
 }
@@ -20282,29 +19680,6 @@
 "label": "9160: new heavens and new earth",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Beth-shemesh.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beth-shemesh"
-},
-{
-"id": "place:Beth-shemesh.3",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beth-shemesh"
-},
-{
-"id": "place:Beth-shemesh",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beth-shemesh"
-}
 ]
 }
 },
@@ -20341,15 +19716,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4209: land, spiritual aspects of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Beth-tappuah",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beth-tappuah"
 }
 ]
 }
@@ -20896,15 +20262,6 @@
 "label": "9165: restoration",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Beth-togarmah",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Beth-togarmah"
-}
 ]
 }
 },
@@ -21449,22 +20806,6 @@
 "label": "8790: oppression",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Bethuel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bethuel"
-},
-{
-"id": "place:Bethul",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bethul"
-}
 ]
 }
 },
@@ -21817,15 +21158,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9430: paradise",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Bethuel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bethuel"
 }
 ]
 }
@@ -22227,8 +21559,7 @@
 "label": "9220: day of the LORD",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -22539,15 +21870,6 @@
 "label": "8839: unfaithfulness",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Babylon",
-"type": "place",
-"confidence": 0.6152,
-"match_method": "scored",
-"preferred_label": "Babylon"
-}
 ]
 }
 },
@@ -22755,15 +22077,6 @@
 "label": "9050: tombs",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jerusalem"
-}
 ]
 }
 },
@@ -22888,29 +22201,6 @@
 "label": "5226: basin",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Bezek.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bezek"
-},
-{
-"id": "place:Bezek",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bezek"
-},
-{
-"id": "realia:Pit",
-"type": "realia",
-"confidence": 0.5633,
-"match_method": "scored",
-"preferred_label": "Pit"
-}
 ]
 }
 },
@@ -22999,8 +22289,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -23220,8 +22509,7 @@
 "label": "9520: Abyss, the",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -23711,8 +22999,7 @@
 "label": "7221: exodus, the",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -23740,23 +23027,7 @@
 "end_ref_usfm": "MAT 27:10"
 }
 ],
-"resource": [],
-"acai": [
-{
-"id": "person:Bidkar",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bidkar"
-},
-{
-"id": "place:Akeldama",
-"type": "place",
-"confidence": 0.6925,
-"match_method": "scored",
-"preferred_label": "Akeldama"
-}
-]
+"resource": []
 }
 },
 {
@@ -23914,15 +23185,6 @@
 "label": "5198: weeping",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Bigtha",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bigtha"
-}
 ]
 }
 },
@@ -23952,15 +23214,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4241: Garden of Eden, the",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Ibleam",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ibleam"
 }
 ]
 }
@@ -24213,22 +23466,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4538: vineyard",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Bilgah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bilgah"
-},
-{
-"id": "person:Bilgah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bilgah"
 }
 ]
 }
@@ -24540,22 +23777,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9430: paradise",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Bilgah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bilgah"
-},
-{
-"id": "place:Eden.2",
-"type": "place",
-"confidence": 0.5735,
-"match_method": "scored",
-"preferred_label": "Garden of Eden"
 }
 ]
 }
@@ -24890,15 +24111,6 @@
 "label": "8769: idolatry, in OT",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Bilshan",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bilshan"
-}
 ]
 }
 },
@@ -25166,15 +24378,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7948: mission",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Binea",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Binea"
 }
 ]
 }
@@ -25484,15 +24687,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9220: day of the LORD",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Birsha",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Birsha"
 }
 ]
 }
@@ -25881,15 +25075,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7374: high places",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Birzaith",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Birzaith"
 }
 ]
 }
@@ -26282,15 +25467,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9540: Sheol",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Bithiah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bithiah"
 }
 ]
 }
@@ -26977,15 +26153,6 @@
 "label": "5580: thirst",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "flora:Chicory",
-"type": "flora",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bitter Herbs"
-}
 ]
 }
 },
@@ -27234,8 +26401,7 @@
 "label": "6676: justification",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -27690,8 +26856,7 @@
 "label": "7467: temple, Solomon's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -28073,15 +27238,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8769: idolatry, in OT",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Blastus",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Blastus"
 }
 ]
 }
@@ -28490,8 +27646,7 @@
 "label": "9410: heaven",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -28736,8 +27891,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -28931,8 +28085,7 @@
 "label": "5580: thirst",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -29313,8 +28466,7 @@
 "label": "9410: heaven",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -29931,15 +29083,6 @@
 "label": "4960: noon",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Boaz",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Boaz"
-}
 ]
 }
 },
@@ -30262,8 +29405,7 @@
 "label": "9160: new heavens and new earth",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -30623,8 +29765,7 @@
 "label": "9510: hell",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -31493,8 +30634,7 @@
 "label": "7903: baptism",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -31716,8 +30856,7 @@
 "label": "5621: wheel",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -31839,8 +30978,7 @@
 "label": "7474: Tent of Meeting",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -32024,8 +31162,7 @@
 "label": "4372: tin",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -32510,8 +31647,7 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -32861,8 +31997,7 @@
 "label": "4369: sulphur",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -32911,8 +32046,7 @@
 "label": "4318: coal",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -33625,8 +32759,7 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -33883,8 +33016,7 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -34109,8 +33241,7 @@
 "label": "7386: incense",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -34244,15 +33375,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5260: coinage",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Bozez",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bozez"
 }
 ]
 }
@@ -34517,8 +33639,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -34617,15 +33738,6 @@
 "label": "5583: tools",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Knife",
-"type": "realia",
-"confidence": 0.5606,
-"match_method": "scored",
-"preferred_label": "Knife"
-}
 ]
 }
 },
@@ -34681,8 +33793,7 @@
 "label": "5411: mirror",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -36091,15 +35202,6 @@
 "label": "8809: riches, nature of",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Breastplate",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Breastplate"
-}
 ]
 }
 },
@@ -36663,15 +35765,6 @@
 "label": "5612: weapons",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Brick",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Brick"
-}
 ]
 }
 },
@@ -36802,8 +35895,7 @@
 "label": "5587: trade",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -37133,15 +36225,6 @@
 "label": "8361: wisdom",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:BroadWall",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Broad Wall"
-}
 ]
 }
 },
@@ -37380,8 +36463,7 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -37499,15 +36581,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4372: tin",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:BrookOfTheArabah",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Brook of the Arabah"
 }
 ]
 }
@@ -37680,8 +36753,7 @@
 "label": "8832: testing",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -38412,8 +37484,7 @@
 "label": "9050: tombs",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -38759,22 +37830,6 @@
 "label": "7435: sacrifice, in OT",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Bukki.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bukki"
-},
-{
-"id": "person:Bukki",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bukki"
-}
 ]
 }
 },
@@ -39018,8 +38073,7 @@
 "label": "5891: instability",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -40194,15 +39248,6 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Money",
-"type": "realia",
-"confidence": 0.7542,
-"match_method": "scored",
-"preferred_label": "Money"
-}
 ]
 }
 },
@@ -41102,8 +40147,7 @@
 "label": "9050: tombs",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -41233,8 +40277,7 @@
 "label": "9511: hell, as a place of punishment",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -41323,15 +40366,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5587: trade",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Buz",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Buz"
 }
 ]
 }
@@ -41874,8 +40908,7 @@
 "label": "4554: yeast",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -42252,8 +41285,7 @@
 "label": "8257: fruitfulness, natural",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -42840,22 +41872,6 @@
 "label": "8770: idolatry, in NT",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Canaan",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Canaan"
-},
-{
-"id": "place:Canaan",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Canaan"
-}
 ]
 }
 },
@@ -43275,15 +42291,6 @@
 "label": "4970: seasons, of the year",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Cana",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cana"
-}
 ]
 }
 },
@@ -43370,15 +42377,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5587: trade",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "flora:Liquidambar",
-"type": "flora",
-"confidence": 0.7719,
-"match_method": "scored",
-"preferred_label": "Liquidambar"
 }
 ]
 }
@@ -43877,8 +42875,7 @@
 "label": "9150: Messianic banquet",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -44039,15 +43036,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4542: wheat",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Calneh",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Calneh"
 }
 ]
 }
@@ -44403,8 +43391,7 @@
 "label": "5373: lamp and lampstand",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -45117,22 +44104,6 @@
 "label": "7933: Lord's Supper",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Crete",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Crete"
-},
-{
-"id": "group:Caphtorim",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Caphtorim"
-}
 ]
 }
 },
@@ -45182,15 +44153,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4476: meals",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "realia:Capital",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Capital"
 }
 ]
 }
@@ -45299,15 +44261,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4520: thorns",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "flora:Brier",
-"type": "flora",
-"confidence": 0.6275,
-"match_method": "scored",
-"preferred_label": "Brier"
 }
 ]
 }
@@ -45673,15 +44626,6 @@
 "label": "7467: temple, Solomon's",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "flora:Cedar",
-"type": "flora",
-"confidence": 0.6655,
-"match_method": "scored",
-"preferred_label": "Cedar"
-}
 ]
 }
 },
@@ -45829,8 +44773,7 @@
 "label": "4550: winnowing",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -46028,8 +44971,7 @@
 "label": "4542: wheat",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -46406,15 +45348,6 @@
 "label": "5903: maturity, physical",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Carmel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Carmel"
-}
 ]
 }
 },
@@ -46534,29 +45467,6 @@
 "label": "7222: exodus, events of",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Carmi.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Carmi"
-},
-{
-"id": "person:Carmi.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Carmi"
-},
-{
-"id": "person:Caleb.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Caleb"
-}
 ]
 }
 },
@@ -46587,8 +45497,7 @@
 "label": "4436: drinking, abstention from",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -46899,8 +45808,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -47236,8 +46144,7 @@
 "label": "8821: self-indulgence",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -48166,8 +47073,7 @@
 "label": "8445: hospitality",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -48476,22 +47382,6 @@
 "label": "4528: trees",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Casiphia",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Casiphia"
-},
-{
-"id": "flora:Fig",
-"type": "flora",
-"confidence": 0.6595,
-"match_method": "scored",
-"preferred_label": "Fig"
-}
 ]
 }
 },
@@ -48759,8 +47649,7 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -48820,15 +47709,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5392: linen",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "flora:Flax",
-"type": "flora",
-"confidence": 0.829,
-"match_method": "scored",
-"preferred_label": "Flax"
 }
 ]
 }
@@ -49078,8 +47958,7 @@
 "label": "7467: temple, Solomon's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -49371,15 +48250,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8472: respect, for environment",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cattle"
 }
 ]
 }
@@ -49806,8 +48676,7 @@
 "label": "8347: spiritual growth",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -49880,15 +48749,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5927: resentment",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "flora:Cedar",
-"type": "flora",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cedar"
 }
 ]
 }
@@ -50000,15 +48860,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5446: poverty",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Cenchreae",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cenchreae"
 }
 ]
 }
@@ -50627,15 +49478,6 @@
 "label": "8488: tithing",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Censer",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Censer"
-}
 ]
 }
 },
@@ -51022,15 +49864,6 @@
 "label": "8257: fruitfulness, natural",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.6501,
-"match_method": "scored",
-"preferred_label": "Vine"
-}
 ]
 }
 },
@@ -51322,15 +50155,6 @@
 "label": "4528: trees",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "flora:Grass",
-"type": "flora",
-"confidence": 0.6927,
-"match_method": "scored",
-"preferred_label": "Grass"
-}
 ]
 }
 },
@@ -51483,8 +50307,7 @@
 "label": "5282: crushing",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -52041,8 +50864,7 @@
 "label": "7402: offerings",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -52431,8 +51253,7 @@
 "label": "7406: Passover",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -52746,22 +51567,6 @@
 "label": "6154: fall, the",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Chaldea",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chaldea"
-},
-{
-"id": "group:Chaldea",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chaldeans"
-}
 ]
 }
 },
@@ -52860,15 +51665,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7478: washing",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "flora:Hyssop",
-"type": "flora",
-"confidence": 0.5738,
-"match_method": "scored",
-"preferred_label": "Hyssop"
 }
 ]
 }
@@ -52985,15 +51781,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7467: temple, Solomon's",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "flora:Lily",
-"type": "flora",
-"confidence": 0.5776,
-"match_method": "scored",
-"preferred_label": "Lily"
 }
 ]
 }
@@ -53148,8 +51935,7 @@
 "label": "7221: exodus, the",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -53555,8 +52341,7 @@
 "label": "8445: hospitality",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -53936,8 +52721,7 @@
 "label": "7435: sacrifice, in OT",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -54143,8 +52927,7 @@
 "label": "7257: promised land, the",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -54248,15 +53031,6 @@
 "label": "5295: destruction",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Hand-mill",
-"type": "realia",
-"confidence": 0.6042,
-"match_method": "scored",
-"preferred_label": "Hand-Mill"
-}
 ]
 }
 },
@@ -54352,15 +53126,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8443: growth",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "realia:Chariot",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chariot"
 }
 ]
 }
@@ -54536,15 +53301,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7386: incense",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "flora:Myrrh",
-"type": "flora",
-"confidence": 0.5879,
-"match_method": "scored",
-"preferred_label": "Myrrh"
 }
 ]
 }
@@ -55258,22 +54014,6 @@
 "label": "8283: joy",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:OliveOil",
-"type": "realia",
-"confidence": 0.7058,
-"match_method": "scored",
-"preferred_label": "Olive Oil"
-},
-{
-"id": "realia:AnointingOil",
-"type": "realia",
-"confidence": 0.6854,
-"match_method": "scored",
-"preferred_label": "Anointing Oil"
-}
 ]
 }
 },
@@ -55663,8 +54403,7 @@
 "label": "7386: incense",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -56033,15 +54772,6 @@
 "label": "4552: wood",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Chedorlaomer",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chedorlaomer"
-}
 ]
 }
 },
@@ -56102,22 +54832,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5515: scroll",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Chelal",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chelal"
-},
-{
-"id": "flora:Papyrus",
-"type": "flora",
-"confidence": 0.7687,
-"match_method": "scored",
-"preferred_label": "Papyrus"
 }
 ]
 }
@@ -56434,8 +55148,7 @@
 "label": "7386: incense",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -56633,15 +55346,6 @@
 "label": "7482: Year of Jubilee",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Caleb.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Caleb"
-}
 ]
 }
 },
@@ -56837,8 +55541,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -56995,29 +55698,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8357: weakness",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Chenaanah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chenaanah"
-},
-{
-"id": "person:Chenaanah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chenaanah"
-},
-{
-"id": "flora:Reed",
-"type": "flora",
-"confidence": 0.5661,
-"match_method": "scored",
-"preferred_label": "Reed"
 }
 ]
 }
@@ -57469,15 +56149,6 @@
 "label": "8443: growth",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Chenani",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chenani"
-}
 ]
 }
 },
@@ -57843,15 +56514,6 @@
 "label": "8443: growth",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Chephirah",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chephirah"
-}
 ]
 }
 },
@@ -57983,22 +56645,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "group:Cherethite",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cherethites"
-},
-{
-"id": "realia:Sickle",
-"type": "realia",
-"confidence": 0.7362,
-"match_method": "scored",
-"preferred_label": "Sickle"
 }
 ]
 }
@@ -58551,15 +57197,6 @@
 "label": "8257: fruitfulness, natural",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Cherub",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cherub"
-}
 ]
 }
 },
@@ -58809,15 +57446,6 @@
 "label": "7784: shepherd",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Chesalon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chesalon"
-}
 ]
 }
 },
@@ -58934,15 +57562,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4552: wood",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Chesil",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chesil"
 }
 ]
 }
@@ -59071,15 +57690,6 @@
 "label": "5239: bricks",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Chesulloth",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chesulloth"
-}
 ]
 }
 },
@@ -59159,22 +57769,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4528: trees",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "flora:SycomoreFig",
-"type": "flora",
-"confidence": 0.9415,
-"match_method": "scored",
-"preferred_label": "Sycomore Fig"
-},
-{
-"id": "flora:Fig",
-"type": "flora",
-"confidence": 0.6385,
-"match_method": "scored",
-"preferred_label": "Fig"
 }
 ]
 }
@@ -59499,15 +58093,6 @@
 "label": "5827: curse",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "flora:Brier",
-"type": "flora",
-"confidence": 0.5984,
-"match_method": "scored",
-"preferred_label": "Brier"
-}
 ]
 }
 },
@@ -59683,8 +58268,7 @@
 "label": "5621: wheel",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -59912,15 +58496,6 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:ThreshingFloor",
-"type": "realia",
-"confidence": 0.76,
-"match_method": "scored",
-"preferred_label": "Threshing Floor"
-}
 ]
 }
 },
@@ -60018,15 +58593,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5033: knowledge of good and evil",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Chileab",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chileab"
 }
 ]
 }
@@ -60735,15 +59301,6 @@
 "label": "4552: wood",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Chilmad",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chilmad"
-}
 ]
 }
 },
@@ -60974,22 +59531,6 @@
 "label": "7745: ordination",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Chinnereth",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chinnereth"
-},
-{
-"id": "realia:UnleavenedBread",
-"type": "realia",
-"confidence": 0.6765,
-"match_method": "scored",
-"preferred_label": "Unleavened Bread"
-}
 ]
 }
 },
@@ -61090,8 +59631,7 @@
 "label": "4456: grain",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -61462,22 +60002,6 @@
 "label": "6700: peace",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Chesulloth",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chesulloth"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.6068,
-"match_method": "scored",
-"preferred_label": "Vine"
-}
 ]
 }
 },
@@ -61569,8 +60093,7 @@
 "label": "4544: wine",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -62021,22 +60544,6 @@
 "label": "5611: watchman",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Chloe",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chloe"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.7153,
-"match_method": "scored",
-"preferred_label": "Vine"
-}
 ]
 }
 },
@@ -62289,8 +60796,7 @@
 "label": "4520: thorns",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -62630,15 +61136,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7368: grain offering",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "flora:Wheat",
-"type": "flora",
-"confidence": 0.6048,
-"match_method": "scored",
-"preferred_label": "Wheat"
 }
 ]
 }
@@ -63417,29 +61914,6 @@
 "label": "7933: Lord's Supper",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Chorazin",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Chorazin"
-},
-{
-"id": "flora:Vine",
-"type": "flora",
-"confidence": 0.581,
-"match_method": "scored",
-"preferred_label": "Vine"
-},
-{
-"id": "realia:Wine",
-"type": "realia",
-"confidence": 0.5611,
-"match_method": "scored",
-"preferred_label": "Wine"
-}
 ]
 }
 },
@@ -63639,15 +62113,6 @@
 "label": "4548: wineskin",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Winepress",
-"type": "realia",
-"confidence": 0.701,
-"match_method": "scored",
-"preferred_label": "Winepress"
-}
 ]
 }
 },
@@ -63771,15 +62236,6 @@
 "label": "5325: gifts",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Skin-bottle",
-"type": "realia",
-"confidence": 0.5832,
-"match_method": "scored",
-"preferred_label": "Skin-Bottle"
-}
 ]
 }
 },
@@ -63892,22 +62348,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5530: sifting",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Joel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Joel"
-},
-{
-"id": "realia:WinnowingFork",
-"type": "realia",
-"confidence": 0.6028,
-"match_method": "scored",
-"preferred_label": "Winnowing Fork"
 }
 ]
 }
@@ -64453,8 +62893,7 @@
 "label": "5621: wheel",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -64735,8 +63174,7 @@
 "label": "7402: offerings",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -64969,8 +63407,7 @@
 "label": "4696: yoke",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -64999,15 +63436,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4605: animals, religious role of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "realia:CoatOfMail",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Coat of Mail"
 }
 ]
 }
@@ -65386,8 +63814,7 @@
 "label": "8472: respect, for environment",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -65806,8 +64233,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -65980,8 +64406,7 @@
 "label": "9240: last judgment",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -66604,22 +65029,6 @@
 "label": "8769: idolatry, in OT",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Col-hozeh.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Col-hozeh"
-},
-{
-"id": "person:Col-hozeh",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Col-hozeh"
-}
 ]
 }
 },
@@ -66957,15 +65366,6 @@
 "label": "7444: sin offering",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "group:Colossae",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Colossians"
-}
 ]
 }
 },
@@ -67232,15 +65632,6 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"confidence": 0.6609,
-"match_method": "scored",
-"preferred_label": "Cattle"
-}
 ]
 }
 },
@@ -67328,8 +65719,7 @@
 "label": "4657: horse",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -67512,15 +65902,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4618: calf",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "fauna:Bull",
-"type": "fauna",
-"confidence": 0.6546,
-"match_method": "scored",
-"preferred_label": "Cattle"
 }
 ]
 }
@@ -67744,8 +66125,7 @@
 "label": "9105: last things",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -67973,15 +66353,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7512: Gentiles, in NT",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "fauna:Dog",
-"type": "fauna",
-"confidence": 0.7753,
-"match_method": "scored",
-"preferred_label": "Dog"
 }
 ]
 }
@@ -68274,22 +66645,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5590: travel",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jehoiachin",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jehoiachin"
-},
-{
-"id": "fauna:Donkey",
-"type": "fauna",
-"confidence": 0.7895,
-"match_method": "scored",
-"preferred_label": "Donkey"
 }
 ]
 }
@@ -68606,15 +66961,6 @@
 "label": "8299: love, in relationships",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "fauna:Dove",
-"type": "fauna",
-"confidence": 0.8029,
-"match_method": "scored",
-"preferred_label": "Dove"
-}
 ]
 }
 },
@@ -68739,8 +67085,7 @@
 "label": "7340: clean and unclean",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -69073,15 +67418,6 @@
 "label": "8747: false gods",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "fauna:Fish",
-"type": "fauna",
-"confidence": 0.6104,
-"match_method": "scored",
-"preferred_label": "Fish"
-}
 ]
 }
 },
@@ -69138,8 +67474,7 @@
 "label": "8124: guidance",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -69294,8 +67629,7 @@
 "label": "8414: encouragement",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -69637,22 +67971,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7459: tabernacle, in OT",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "group:Corinth",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Corinthians"
-},
-{
-"id": "fauna:Goat",
-"type": "fauna",
-"confidence": 0.7584,
-"match_method": "scored",
-"preferred_label": "Goat"
 }
 ]
 }
@@ -70193,15 +68511,6 @@
 "label": "7304: anointing",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Cornelius",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cornelius"
-}
 ]
 }
 },
@@ -70638,29 +68947,6 @@
 "label": "5590: travel",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Cornerstone",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cornerstone"
-},
-{
-"id": "fauna:Horse",
-"type": "fauna",
-"confidence": 0.712,
-"match_method": "scored",
-"preferred_label": "Horse"
-},
-{
-"id": "realia:Chariot",
-"type": "realia",
-"confidence": 0.5555,
-"match_method": "scored",
-"preferred_label": "Chariot"
-}
 ]
 }
 },
@@ -71000,8 +69286,7 @@
 "label": "4843: plague",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -71302,22 +69587,6 @@
 "label": "7784: shepherd",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Cosam",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cosam"
-},
-{
-"id": "fauna:Lamb",
-"type": "fauna",
-"confidence": 0.5838,
-"match_method": "scored",
-"preferred_label": "Sheep"
-}
 ]
 }
 },
@@ -71559,22 +69828,6 @@
 "label": "4627: creatures",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "flora:Cotton",
-"type": "flora",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cotton"
-},
-{
-"id": "fauna:Lion",
-"type": "fauna",
-"confidence": 0.7637,
-"match_method": "scored",
-"preferred_label": "Lion"
-}
 ]
 }
 },
@@ -71795,15 +70048,6 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "fauna:Locust",
-"type": "fauna",
-"confidence": 0.8342,
-"match_method": "scored",
-"preferred_label": "Locust"
-}
 ]
 }
 },
@@ -71969,15 +70213,6 @@
 "label": "4603: animals",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Manger",
-"type": "realia",
-"confidence": 0.5895,
-"match_method": "scored",
-"preferred_label": "Manger"
-}
 ]
 }
 },
@@ -72129,8 +70364,7 @@
 "label": "5942: security",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -72235,15 +70469,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7435: sacrifice, in OT",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Cozbi",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cozbi"
 }
 ]
 }
@@ -72581,15 +70806,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7745: ordination",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "fauna:Lamb",
-"type": "fauna",
-"confidence": 0.6328,
-"match_method": "scored",
-"preferred_label": "Sheep"
 }
 ]
 }
@@ -73147,8 +71363,7 @@
 "label": "7784: shepherd",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -73455,15 +71670,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7452: snake, bronze",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "fauna:Snake",
-"type": "fauna",
-"confidence": 0.705,
-"match_method": "scored",
-"preferred_label": "Snake"
 }
 ]
 }
@@ -73908,15 +72114,6 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Crescens",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Crescens"
-}
 ]
 }
 },
@@ -74063,15 +72260,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5258: cloth",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "realia:Wool",
-"type": "realia",
-"confidence": 0.7401,
-"match_method": "scored",
-"preferred_label": "Wool"
 }
 ]
 }
@@ -74498,15 +72686,6 @@
 "label": "8790: oppression",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Yoke",
-"type": "realia",
-"confidence": 0.6628,
-"match_method": "scored",
-"preferred_label": "Yoke"
-}
 ]
 }
 },
@@ -74831,8 +73010,7 @@
 "label": "4860: wind",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -75081,8 +73259,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -75203,43 +73380,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8256: fruitfulness",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Delaiah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Delaiah"
-},
-{
-"id": "person:Delaiah.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Delaiah"
-},
-{
-"id": "person:Delaiah.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Delaiah"
-},
-{
-"id": "person:Delaiah.5",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Delaiah"
-},
-{
-"id": "person:Delaiah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Delaiah"
 }
 ]
 }
@@ -75493,15 +73633,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8355: understanding",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Delilah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Delilah"
 }
 ]
 }
@@ -75904,8 +74035,7 @@
 "label": "5062: spirit",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -76607,8 +74737,7 @@
 "label": "8124: guidance",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -76738,15 +74867,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5132: biting",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Demas",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Demas"
 }
 ]
 }
@@ -77063,15 +75183,6 @@
 "label": "4859: white",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Demetrius",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Demetrius"
-}
 ]
 }
 },
@@ -77248,15 +75359,6 @@
 "label": "7459: tabernacle, in OT",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:PurpleCloth",
-"type": "realia",
-"confidence": 0.5824,
-"match_method": "scored",
-"preferred_label": "Purple Cloth"
-}
 ]
 }
 },
@@ -77294,8 +75396,7 @@
 "label": "4812: darkness, and God's judgment",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -77541,8 +75642,7 @@
 "label": "4957: night",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -78015,15 +76115,6 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Denarius",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Denarius"
-}
 ]
 }
 },
@@ -78333,8 +76424,7 @@
 "label": "9240: last judgment",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -78518,15 +76608,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8281: insight",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Derbe",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Derbe"
 }
 ]
 }
@@ -78728,8 +76809,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -78759,8 +76839,7 @@
 "label": "4817: drought, spiritual",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -79091,8 +77170,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -79379,8 +77457,7 @@
 "label": "8835: unbelief, nature and effects of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -79783,15 +77860,6 @@
 "label": "7227: flood, the",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:Destiny",
-"type": "deity",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Destiny"
-}
 ]
 }
 },
@@ -79992,8 +78060,7 @@
 "label": "9140: last days",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -80278,8 +78345,7 @@
 "label": "4857: west",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -80308,15 +78374,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4824: famine, spiritual",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Deuel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Deuel"
 }
 ]
 }
@@ -80935,8 +78992,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -81407,8 +79463,7 @@
 "label": "8834: unbelief",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -81971,8 +80026,7 @@
 "label": "9510: hell",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -82035,8 +80089,7 @@
 "label": "4970: seasons, of the year",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -82175,8 +80228,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -82470,8 +80522,7 @@
 "label": "5789: anger",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -82696,8 +80747,7 @@
 "label": "5619: weights and measures, distance and area",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -82963,8 +81013,7 @@
 "label": "8701: affluence",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -83200,8 +81249,7 @@
 "label": "8275: honesty",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -83237,15 +81285,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4836: light, and people of God",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Diblaim",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Diblaim"
 }
 ]
 }
@@ -83647,8 +81686,7 @@
 "label": "5373: lamp and lampstand",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -84113,8 +82151,7 @@
 "label": "8419: enlightenment",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -84492,22 +82529,6 @@
 "label": "8495: witnessing",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Dibon.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dibon"
-},
-{
-"id": "place:Dibon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dibon"
-}
 ]
 }
 },
@@ -84832,8 +82853,7 @@
 "label": "4854: weather, God's sovereignty over",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -84913,8 +82933,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -84986,15 +83005,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4853: weather",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Thomas",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Thomas"
 }
 ]
 }
@@ -85114,8 +83124,7 @@
 "label": "7467: temple, Solomon's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -85296,15 +83305,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4857: west",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Diklah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Diklah"
 }
 ]
 }
@@ -85877,8 +83877,7 @@
 "label": "9020: death",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -86345,15 +84344,6 @@
 "label": "7227: flood, the",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "flora:Dill",
-"type": "flora",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dill"
-}
 ]
 }
 },
@@ -86443,15 +84433,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7227: flood, the",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Dimnah",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dimnah"
 }
 ]
 }
@@ -86877,15 +84858,6 @@
 "label": "9020: death",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Dimonah",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dimonah"
-}
 ]
 }
 },
@@ -87180,15 +85152,6 @@
 "label": "8357: weakness",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Dibon.3",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dimon"
-}
 ]
 }
 },
@@ -87462,15 +85425,6 @@
 "label": "4826: fire",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Dinah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dinah"
-}
 ]
 }
 },
@@ -87657,8 +85611,7 @@
 "label": "8324: purity",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -87785,15 +85738,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4857: west",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Dinhabah",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dinhabah"
 }
 ]
 }
@@ -88066,15 +86010,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5300: drowning",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Dionysius",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dionysius"
 }
 ]
 }
@@ -88386,15 +86321,6 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Dion",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dion"
-}
 ]
 }
 },
@@ -88425,8 +86351,7 @@
 "label": "4855: weather, as God's judgment",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -88810,8 +86735,7 @@
 "label": "8602: prayer",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -89151,15 +87075,6 @@
 "label": "4852: thunder",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Diotrephes",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Diotrephes"
-}
 ]
 }
 },
@@ -89379,8 +87294,7 @@
 "label": "4850: south",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -89508,8 +87422,7 @@
 "label": "4860: wind",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -89848,8 +87761,7 @@
 "label": "8767: hypocrisy",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -90246,8 +88158,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -90424,8 +88335,7 @@
 "label": "4978: year",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -91144,15 +89054,6 @@
 "label": "9155: millennium",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Dumah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dumah"
-}
 ]
 }
 },
@@ -91612,15 +89513,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9160: new heavens and new earth",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:DungGate",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dung Gate"
 }
 ]
 }
@@ -92244,8 +90136,7 @@
 "label": "9165: restoration",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -92464,15 +90355,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8124: guidance",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "realia:Earring",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Earring"
 }
 ]
 }
@@ -92837,8 +90719,7 @@
 "label": "9105: last things",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -93299,8 +91180,7 @@
 "label": "9610: hope",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -93923,8 +91803,7 @@
 "label": "9220: day of the LORD",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -93953,15 +91832,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4926: delay, human",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Ebed-melech",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ebed-melech"
 }
 ]
 }
@@ -94171,22 +92041,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6732: repentance",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Ebed.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ebed"
-},
-{
-"id": "person:Ebed",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ebed"
 }
 ]
 }
@@ -94509,22 +92363,6 @@
 "label": "8754: fear",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Ebenezer.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ebenezer"
-},
-{
-"id": "place:Ebenezer",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ebenezer"
-}
 ]
 }
 },
@@ -94774,8 +92612,7 @@
 "label": "9120: eternity",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -95392,15 +93229,6 @@
 "label": "7435: sacrifice, in OT",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Abdon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abdon"
-}
 ]
 }
 },
@@ -95431,8 +93259,7 @@
 "label": "4938: fate, and final destiny",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -95652,8 +93479,7 @@
 "label": "8709: astrology",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -95976,8 +93802,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -96244,8 +94069,7 @@
 "label": "8355: understanding",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -96796,22 +94620,6 @@
 "label": "8670: remembering",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Edrei.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Edrei"
-},
-{
-"id": "place:Edrei",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Edrei"
-}
 ]
 }
 },
@@ -97221,15 +95029,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Eglah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Eglah"
 }
 ]
 }
@@ -97679,15 +95478,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7418: Purim",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Eglon",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Eglon"
 }
 ]
 }
@@ -98297,22 +96087,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8144: renewal",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Egypt",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Egypt"
-},
-{
-"id": "place:Egypt",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Egypt"
 }
 ]
 }
@@ -98937,22 +96711,6 @@
 "label": "8734: evil",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Ehud.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ehud"
-},
-{
-"id": "person:Ehud",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ehud"
-}
 ]
 }
 },
@@ -99279,15 +97037,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Ekron",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ekron"
 }
 ]
 }
@@ -99767,43 +97516,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9130: future, the",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Elah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Elah"
-},
-{
-"id": "person:Elah.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Elah"
-},
-{
-"id": "person:Elah.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Elah"
-},
-{
-"id": "person:Elah.5",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Elah"
-},
-{
-"id": "person:Elah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Elah"
 }
 ]
 }
@@ -100295,22 +98007,6 @@
 "label": "9130: future, the",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Elasah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Elasah"
-},
-{
-"id": "person:Elasah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Elasah"
-}
 ]
 }
 },
@@ -100340,15 +98036,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4971: seasons, of life",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Ela",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ela"
 }
 ]
 }
@@ -100834,15 +98521,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7354: feasts and festivals",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "deity:El-berith",
-"type": "deity",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "El-Berith"
 }
 ]
 }
@@ -101460,15 +99138,6 @@
 "label": "9220: day of the LORD",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Bethel",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bethel"
-}
 ]
 }
 },
@@ -101886,8 +99555,7 @@
 "label": "7428: Sabbath",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -102245,15 +99913,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Elealeh",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Elealeh"
 }
 ]
 }

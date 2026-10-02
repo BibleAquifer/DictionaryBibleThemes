@@ -30,7 +30,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "DictionaryBibleThemes",
-"date_created": "2026-09-18",
+"date_created": "2026-10-02",
 "language": "eng",
 "localizations": [],
 "order": "monograph",
@@ -42,7 +42,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-18T08:44:22.639348"
+"dateCreated": "2026-10-02T16:07:23.976727"
 },
 "idAuthorities": {
 "aquifer": {
@@ -56,7 +56,7 @@
 "primary": {
 "aquifer": {
 "DictionaryBibleThemes": {
-"timestamp": "2026-09-18T08:44:22.639348"
+"timestamp": "2026-10-02T16:07:23.976727"
 }
 }
 },
@@ -128,11 +128,11 @@
 },
 "md/8000.content.md": {
 "mimeType": "text/markdown",
-"size": 1315672
+"size": 1291261
 },
 "md/7000.content.md": {
 "mimeType": "text/markdown",
-"size": 779195
+"size": 766482
 },
 "md/0000.content.md": {
 "mimeType": "text/markdown",
@@ -140,31 +140,31 @@
 },
 "md/1000.content.md": {
 "mimeType": "text/markdown",
-"size": 475545
+"size": 475311
 },
 "md/9000.content.md": {
 "mimeType": "text/markdown",
-"size": 172176
+"size": 170018
 },
 "md/6000.content.md": {
 "mimeType": "text/markdown",
-"size": 535013
+"size": 526716
 },
 "md/3000.content.md": {
 "mimeType": "text/markdown",
-"size": 121723
+"size": 120146
 },
 "md/4000.content.md": {
 "mimeType": "text/markdown",
-"size": 802368
+"size": 788245
 },
 "md/5000.content.md": {
 "mimeType": "text/markdown",
-"size": 2486040
+"size": 2444686
 },
 "md/2000.content.md": {
 "mimeType": "text/markdown",
-"size": 373945
+"size": 373701
 },
 "pdf/0000.content.pdf": {
 "mimeType": "application/pdf",

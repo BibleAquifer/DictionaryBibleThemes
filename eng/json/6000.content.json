@@ -40,8 +40,7 @@
 "label": "6600: Aspects of salvation",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -71,8 +70,7 @@
 "label": "6040: sinners",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -158,8 +156,7 @@
 "label": "6030: sin, avoidance of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -710,8 +707,7 @@
 "label": "8846: ungodliness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -1104,8 +1100,7 @@
 "label": "6166: flesh, sinful nature",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -1495,8 +1490,7 @@
 "label": "8201: blamelessness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -1937,15 +1931,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9020: death",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "realia:Ink",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ink"
 }
 ]
 }
@@ -2486,8 +2471,7 @@
 "label": "6688: mercy, demonstration of God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -2942,8 +2926,7 @@
 "label": "9510: hell",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -3391,15 +3374,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7435: sacrifice, in OT",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "realia:Inn",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Inn"
 }
 ]
 }
@@ -4033,8 +4007,7 @@
 "label": "6720: redemption",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -4488,8 +4461,7 @@
 "label": "8843: unforgivable sin",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -5091,8 +5063,7 @@
 "label": "8490: watchfulness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -5733,8 +5704,7 @@
 "label": "7918: excommunication",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6023,8 +5993,7 @@
 "label": "6260: uncircumcised",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6342,8 +6311,7 @@
 "label": "9105: last things",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6646,15 +6614,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8808: riches",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Ithamar",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ithamar"
 }
 ]
 }
@@ -7285,15 +7244,6 @@
 "label": "9024: death, spiritual",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Ithmah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ithmah"
-}
 ]
 }
 },
@@ -7628,15 +7578,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jether.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jether"
 }
 ]
 }
@@ -8020,8 +7961,7 @@
 "label": "8428: example",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -8203,8 +8143,7 @@
 "label": "8324: purity",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -8562,15 +8501,6 @@
 "label": "9115: antichrist, the",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Iye-abarim",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Iye-abarim"
-}
 ]
 }
 },
@@ -8600,22 +8530,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6126: condemnation, human",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Izhar.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Izhar"
-},
-{
-"id": "person:Izhar",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Izhar"
 }
 ]
 }
@@ -8856,15 +8770,6 @@
 "label": "9250: woe",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Izliah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Izliah"
-}
 ]
 }
 },
@@ -9091,15 +8996,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8823: self-righteousness",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Izrahiah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Izrahiah"
 }
 ]
 }
@@ -9340,8 +9236,7 @@
 "label": "8734: evil",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -9371,8 +9266,7 @@
 "label": "6135: coveting, and other sins",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -9682,8 +9576,7 @@
 "label": "8808: riches",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -9948,15 +9841,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8802: pride",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jaare-oregim",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jaare-oregim"
 }
 ]
 }
@@ -10503,22 +10387,6 @@
 "label": "9510: hell",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jaasiel.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jaasiel"
-},
-{
-"id": "person:Jaasiel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jaasiel"
-}
 ]
 }
 },
@@ -10924,8 +10792,7 @@
 "label": "9410: heaven",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -10954,15 +10821,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6147: deceit, practice of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jabal",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jabal"
 }
 ]
 }
@@ -11426,15 +11284,6 @@
 "label": "9115: antichrist, the",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Jabbok",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jabbok"
-}
 ]
 }
 },
@@ -11845,15 +11694,6 @@
 "label": "8776: lies",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Jabesh-gilead",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jabesh-gilead"
-}
 ]
 }
 },
@@ -12034,22 +11874,6 @@
 "label": "8324: purity",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jabin.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jabin"
-},
-{
-"id": "person:Jabin",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jabin"
-}
 ]
 }
 },
@@ -12086,15 +11910,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6157: fall, of Satan and his angels",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jacan",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jacan"
 }
 ]
 }
@@ -12406,36 +12221,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9020: death",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Boaz",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Boaz"
-},
-{
-"id": "person:Jachin.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jachin"
-},
-{
-"id": "person:Jachin.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jachin"
-},
-{
-"id": "person:Jachin",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jachin"
 }
 ]
 }
@@ -12796,8 +12581,7 @@
 "label": "8704: apostasy",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -13003,29 +12787,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jachin.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jachin"
-},
-{
-"id": "person:Jachin.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jachin"
-},
-{
-"id": "person:Jachin",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jachin"
 }
 ]
 }
@@ -13254,15 +13015,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6020: sin",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "fauna:Jackal",
-"type": "fauna",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jackal"
 }
 ]
 }
@@ -13989,22 +13741,6 @@
 "label": "8741: failure",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jacob.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jacob"
-},
-{
-"id": "person:Israel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Israel"
-}
 ]
 }
 },
@@ -14454,15 +14190,6 @@
 "label": "9020: death",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jaddai",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jaddai"
-}
 ]
 }
 },
@@ -14720,15 +14447,6 @@
 "label": "8846: ungodliness",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jadon",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jadon"
-}
 ]
 }
 },
@@ -14765,43 +14483,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6175: guilt, removal of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jahath.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahath"
-},
-{
-"id": "person:Jahath.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahath"
-},
-{
-"id": "person:Jahath.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahath"
-},
-{
-"id": "person:Libni",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Libni"
-},
-{
-"id": "person:Jahath",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahath"
 }
 ]
 }
@@ -15106,8 +14787,7 @@
 "label": "8277: innocence",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -15442,8 +15122,7 @@
 "label": "8754: fear",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -15795,43 +15474,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7370: guilt offering",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jahaziel.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahaziel"
-},
-{
-"id": "person:Jahaziel.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahaziel"
-},
-{
-"id": "person:Jahaziel.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahaziel"
-},
-{
-"id": "person:Jahaziel.5",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahaziel"
-},
-{
-"id": "person:Jahaziel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahaziel"
 }
 ]
 }
@@ -16208,15 +15850,6 @@
 "label": "8834: unbelief",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jahdiel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahdiel"
-}
 ]
 }
 },
@@ -16246,15 +15879,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6183: ignorance, of God",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jahmai",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahmai"
 }
 ]
 }
@@ -16522,8 +16146,7 @@
 "label": "8702: agnosticism",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -17109,15 +16732,6 @@
 "label": "8424: evangelism",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jahzeel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahzeel"
-}
 ]
 }
 },
@@ -17147,15 +16761,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6186: imagination, evil scheming",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jahzeiah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahzeiah"
 }
 ]
 }
@@ -17785,15 +17390,6 @@
 "label": "8718: disobedience",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jahzerah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahzerah"
-}
 ]
 }
 },
@@ -18224,15 +17820,6 @@
 "label": "8827: selfishness",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jahzeel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jahzeel"
-}
 ]
 }
 },
@@ -18263,8 +17850,7 @@
 "label": "6189: immorality, examples of sexual",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -18593,8 +18179,7 @@
 "label": "8821: self-indulgence",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -18933,15 +18518,6 @@
 "label": "8839: unfaithfulness",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jairus",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jairus"
-}
 ]
 }
 },
@@ -18971,22 +18547,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6195: impenitence, results of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jakim.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jakim"
-},
-{
-"id": "person:Jakim",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jakim"
 }
 ]
 }
@@ -19309,15 +18869,6 @@
 "label": "8834: unbelief",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Boaz",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Boaz"
-}
 ]
 }
 },
@@ -19622,8 +19173,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -19652,15 +19202,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6201: imperfection, and God's purposes",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jambres",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jambres"
 }
 ]
 }
@@ -20021,8 +19562,7 @@
 "label": "9020: death",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -20363,43 +19903,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9105: last things",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:James.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "James"
-},
-{
-"id": "person:James.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "James"
-},
-{
-"id": "person:James.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "James"
-},
-{
-"id": "person:John.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "John"
-},
-{
-"id": "person:James",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "James"
 }
 ]
 }
@@ -20814,8 +20317,7 @@
 "label": "9315: resurrection, of believers",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -21264,8 +20766,7 @@
 "label": "8309: morality",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -21452,15 +20953,6 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jannai",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jannai"
-}
 ]
 }
 },
@@ -21491,8 +20983,7 @@
 "label": "6214: participation, in Christ",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -21957,8 +21448,7 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -22699,15 +22189,6 @@
 "label": "8206: Christlikeness",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Japheth",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Japheth"
-}
 ]
 }
 },
@@ -23122,15 +22603,6 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Japhlet",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Japhlet"
-}
 ]
 }
 },
@@ -23168,8 +22640,7 @@
 "label": "6224: rebellion, against human authority",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -23413,15 +22884,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8801: presumption",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jared",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jared"
 }
 ]
 }
@@ -23821,8 +23283,7 @@
 "label": "8840: unfaithfulness, to God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -24034,15 +23495,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7733: leaders",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jarha",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jarha"
 }
 ]
 }
@@ -24491,15 +23943,6 @@
 "label": "6732: repentance",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jaroah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jaroah"
-}
 ]
 }
 },
@@ -24536,15 +23979,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6233: rejection, human experience of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jashen",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jashen"
 }
 ]
 }
@@ -25277,22 +24711,6 @@
 "label": "8840: unfaithfulness, to God",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jashobeam.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jashobeam"
-},
-{
-"id": "person:Jashobeam",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jashobeam"
-}
 ]
 }
 },
@@ -25879,15 +25297,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9511: hell, as a place of punishment",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Bethlehem",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Bethlehem"
 }
 ]
 }
@@ -26536,8 +25945,7 @@
 "label": "8794: persecution",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -26601,15 +26009,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6243: adultery, spiritual",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jason",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jason"
 }
 ]
 }
@@ -27252,8 +26651,7 @@
 "label": "8821: self-indulgence",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -27387,8 +26785,7 @@
 "label": "5717: monogamy",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -27800,15 +27197,6 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jathniel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jathniel"
-}
 ]
 }
 },
@@ -28038,15 +27426,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8777: lust",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Jattir",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jattir"
 }
 ]
 }
@@ -28451,15 +27830,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8776: lies",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Javan",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Javan"
 }
 ]
 }
@@ -28956,15 +28326,6 @@
 "label": "8841: unfaithfulness, to people",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Greece",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Greece"
-}
 ]
 }
 },
@@ -29356,15 +28717,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9210: judgment, God's",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "realia:Javelin",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Javelin"
 }
 ]
 }
@@ -29791,15 +29143,6 @@
 "label": "8836: unbelief, as response to God",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jaziz",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jaziz"
-}
 ]
 }
 },
@@ -29850,15 +29193,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6253: temptation, avoiding causing",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jeatherai",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jeatherai"
 }
 ]
 }
@@ -30084,15 +29418,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8027: faith, testing of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Jeberechiah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jeberechiah"
 }
 ]
 }
@@ -30373,15 +29698,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8832: testing",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Jerusalem",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jerusalem"
 }
 ]
 }
@@ -30679,8 +29995,7 @@
 "label": "8493: watchfulness, of believers",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -30825,8 +30140,7 @@
 "label": "2575: Jesus Christ, temptation of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -30966,8 +30280,7 @@
 "label": "6206: offence",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -31236,50 +30549,6 @@
 "label": "9510: hell",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Jedaiah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jedaiah"
-},
-{
-"id": "person:Jedaiah.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jedaiah"
-},
-{
-"id": "person:Jedaiah.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jedaiah"
-},
-{
-"id": "person:Jedaiah.5",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jedaiah"
-},
-{
-"id": "person:Jedaiah.6",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jedaiah"
-},
-{
-"id": "person:Jedaiah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jedaiah"
-}
 ]
 }
 },
@@ -31542,29 +30811,6 @@
 "label": "7510: Gentiles",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Solomon",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Solomon"
-},
-{
-"id": "keyterm:UncircumcisedPerson",
-"type": "keyterm",
-"confidence": 0.6725,
-"match_method": "scored",
-"preferred_label": "Uncircumcised Person"
-},
-{
-"id": "keyterm:Circumcision",
-"type": "keyterm",
-"confidence": 0.5533,
-"match_method": "scored",
-"preferred_label": "Circumcision"
-}
 ]
 }
 },
@@ -31587,15 +30833,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6510: salvation",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Junia",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Junia"
 }
 ]
 }
@@ -31640,15 +30877,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6514: Saviour, Jesus Christ as",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Kadesh-barnea",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kadesh-barnea"
 }
 ]
 }
@@ -32110,15 +31338,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8154: righteousness",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Kadmiel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kadmiel"
 }
 ]
 }
@@ -32617,15 +31836,6 @@
 "label": "9024: death, spiritual",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "group:Kadmonites",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kadmonites"
-}
 ]
 }
 },
@@ -32641,16 +31851,7 @@
 "content": "<p>See <a href=\"1320.md\">1320: God, as Saviour</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Kain",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kain"
-}
-]
+"resource": []
 }
 },
 {
@@ -32665,16 +31866,7 @@
 "content": "<p>See <a href=\"2324.md\">2324: Jesus Christ, as Saviour</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Kain",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kain"
-}
-]
+"resource": []
 }
 },
 {
@@ -32991,22 +32183,6 @@
 "label": "6754: union with Christ",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Kiriathaim.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kiriathaim"
-},
-{
-"id": "place:Kiriathaim",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kiriathaim"
-}
 ]
 }
 },
@@ -33036,15 +32212,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6604: acceptance, human",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Kiriath-jearim",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kiriath-jearim"
 }
 ]
 }
@@ -33413,15 +32580,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8664: praise",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Kiriath-jearim",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kiriath-jearim"
 }
 ]
 }
@@ -34100,15 +33258,6 @@
 "label": "8445: hospitality",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Kiriath-huzoth",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kiriath-huzoth"
-}
 ]
 }
 },
@@ -34690,8 +33839,7 @@
 "label": "8602: prayer",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -34728,8 +33876,7 @@
 "label": "6611: adoption, privileges and duties of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -34978,8 +34125,7 @@
 "label": "9105: last things",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -35216,8 +34362,7 @@
 "label": "8134: knowing God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -35447,8 +34592,7 @@
 "label": "8453: obedience",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -35485,8 +34629,7 @@
 "label": "6617: atonement, in NT",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -35883,8 +35026,7 @@
 "label": "8266: holiness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -36303,8 +35445,7 @@
 "label": "8622: worship",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -36843,8 +35984,7 @@
 "label": "9165: restoration",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -37407,15 +36547,6 @@
 "label": "9610: hope",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Kishi",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kishi"
-}
 ]
 }
 },
@@ -37835,36 +36966,6 @@
 "label": "8412: decisions",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Kish.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kish"
-},
-{
-"id": "person:Kish.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kish"
-},
-{
-"id": "person:Kish.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kish"
-},
-{
-"id": "person:Kish",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kish"
-}
 ]
 }
 },
@@ -38171,8 +37272,7 @@
 "label": "8625: worship, acceptable attitudes in",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -38209,8 +37309,7 @@
 "label": "6629: conversion, examples of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -38653,8 +37752,7 @@
 "label": "8144: renewal",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -39088,8 +38186,7 @@
 "label": "9165: restoration",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -39314,8 +38411,7 @@
 "label": "7757: preaching, effects of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -39882,22 +38978,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8630: worship, results of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Cyprus",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Cyprus"
-},
-{
-"id": "group:Kittim",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kittim"
 }
 ]
 }
@@ -40582,15 +39662,6 @@
 "label": "8754: fear",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Knife",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Knife"
-}
 ]
 }
 },
@@ -40866,15 +39937,6 @@
 "label": "7766: priests",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Koa",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Koa"
-}
 ]
 }
 },
@@ -40912,8 +39974,7 @@
 "label": "6641: election, responsibilities of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -41245,8 +40306,7 @@
 "label": "8424: evangelism",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -41558,22 +40618,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7334: circumcision",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Kolaiah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kolaiah"
-},
-{
-"id": "person:Kolaiah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kolaiah"
 }
 ]
 }
@@ -41961,8 +41005,7 @@
 "label": "8342: servanthood",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -41998,36 +41041,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6647: eternal life, experience of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Korah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Korah"
-},
-{
-"id": "person:Korah.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Korah"
-},
-{
-"id": "person:Korah.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Korah"
-},
-{
-"id": "person:Korah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Korah"
 }
 ]
 }
@@ -42477,8 +41490,7 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -42749,22 +41761,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8207: commitment",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Kore.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kore"
-},
-{
-"id": "person:Kore",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kore"
 }
 ]
 }
@@ -43086,8 +42082,7 @@
 "label": "9610: hope",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -43530,22 +42525,6 @@
 "label": "7766: priests",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Kor.2",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kor"
-},
-{
-"id": "realia:Kor",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kor"
-}
 ]
 }
 },
@@ -43921,8 +42900,7 @@
 "label": "8283: joy",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -43958,15 +42936,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6655: forgiveness, application of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Kishi",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Kishi"
 }
 ]
 }
@@ -44255,15 +43224,6 @@
 "label": "8104: assurance",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Laadah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Laadah"
-}
 ]
 }
 },
@@ -44439,8 +43399,7 @@
 "label": "5438: parables",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -44739,15 +43698,6 @@
 "label": "8844: unforgiveness",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Laban",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Laban"
-}
 ]
 }
 },
@@ -44798,15 +43748,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6663: freedom, of the will",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Lachish",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lachish"
 }
 ]
 }
@@ -45221,22 +44162,6 @@
 "label": "8718: disobedience",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Libni",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Libni"
-},
-{
-"id": "person:Ladan",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ladan"
-}
 ]
 }
 },
@@ -45560,15 +44485,6 @@
 "label": "9020: death",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Lael",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lael"
-}
 ]
 }
 },
@@ -45880,15 +44796,6 @@
 "label": "8454: obedience, to God",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Lahad",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lahad"
-}
 ]
 }
 },
@@ -46194,8 +45101,7 @@
 "label": "8827: selfishness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -46489,8 +45395,7 @@
 "label": "8408: decision-making",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -46547,15 +45452,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6672: grace, in human relationships",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Laish",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Laish"
 }
 ]
 }
@@ -47015,15 +45911,6 @@
 "label": "8261: generosity, God's",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Dan",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dan"
-}
 ]
 }
 },
@@ -47362,8 +46249,7 @@
 "label": "6708: predestination",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -47642,15 +46528,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8020: faith",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Lakkum",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lakkum"
 }
 ]
 }
@@ -47977,8 +46854,7 @@
 "label": "8102: abiding in Christ",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -48295,8 +47171,7 @@
 "label": "8434: giving",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -48618,22 +47493,6 @@
 "label": "8445: hospitality",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Lamech.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lamech"
-},
-{
-"id": "person:Lamech",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lamech"
-}
 ]
 }
 },
@@ -48791,8 +47650,7 @@
 "label": "8266: holiness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -48829,8 +47687,7 @@
 "label": "6679: justification, results of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -49228,8 +48085,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -49622,8 +48478,7 @@
 "label": "8020: faith",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -49855,22 +48710,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9610: hope",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Laodicea",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Laodicea"
-},
-{
-"id": "group:Laodicea",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Laodiceans"
 }
 ]
 }
@@ -50336,8 +49175,7 @@
 "label": "8611: prayer, for others",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -50684,15 +49522,6 @@
 "label": "8458: peacemakers",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Lasea",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lasea"
-}
 ]
 }
 },
@@ -50743,15 +49572,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6691: mercy, human",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Lasha",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lasha"
 }
 ]
 }
@@ -51124,8 +49944,7 @@
 "label": "8292: love",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -51544,8 +50363,7 @@
 "label": "6510: salvation",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -51857,8 +50675,7 @@
 "label": "6654: forgiveness, Jesus Christ's ministry of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -52088,8 +50905,7 @@
 "label": "8424: evangelism",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -52370,8 +51186,7 @@
 "label": "8306: mercifulness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -52682,8 +51497,7 @@
 "label": "8361: wisdom",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -53137,8 +51951,7 @@
 "label": "8454: obedience, to God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -53437,8 +52250,7 @@
 "label": "9165: restoration",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -53495,22 +52307,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6706: peace, and Holy Spirit",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Lazarus.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lazarus"
-},
-{
-"id": "person:Lazarus",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lazarus"
 }
 ]
 }
@@ -53784,8 +52580,7 @@
 "label": "8823: self-righteousness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -54115,15 +52910,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8827: selfishness",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Leah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Leah"
 }
 ]
 }
@@ -54488,15 +53274,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7446: slavery",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "realia:Leather",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Leather"
 }
 ]
 }
@@ -54910,8 +53687,7 @@
 "label": "8458: peacemakers",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -55288,15 +54064,6 @@
 "label": "9610: hope",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Lebanah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lebanah"
-}
 ]
 }
 },
@@ -55312,16 +54079,7 @@
 "content": "<p>See <a href=\"3215.md\">3215: Holy Spirit, and peace</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": [
-{
-"id": "place:Lebanon",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lebanon"
-}
-]
+"resource": []
 }
 },
 {
@@ -56036,15 +54794,6 @@
 "label": "8104: assurance",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Judas",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Judas"
-}
 ]
 }
 },
@@ -56488,15 +55237,6 @@
 "label": "9420: book of life",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Lebonah",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lebonah"
-}
 ]
 }
 },
@@ -56765,15 +55505,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7317: blood, of Jesus Christ",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "fauna:Leech",
-"type": "fauna",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Leech"
 }
 ]
 }
@@ -57067,8 +55798,7 @@
 "label": "7482: Year of Jubilee",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -57097,15 +55827,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6718: reconciliation, between believers",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "group:Lehabim",
-"type": "group",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lehabim"
 }
 ]
 }
@@ -57448,15 +56169,6 @@
 "label": "8341: separation",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Lehi",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lehi"
-}
 ]
 }
 },
@@ -57692,15 +56404,6 @@
 "label": "8839: unfaithfulness",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Lemuel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lemuel"
-}
 ]
 }
 },
@@ -57751,15 +56454,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6725: redeemer, Jesus Christ as",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "fauna:Leopard",
-"type": "fauna",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Leopard"
 }
 ]
 }
@@ -58044,8 +56738,7 @@
 "label": "9165: restoration",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -58312,15 +57005,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7446: slavery",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Dan",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Dan"
 }
 ]
 }
@@ -58632,8 +57316,7 @@
 "label": "9414: heaven, as community of the redeemed",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -58648,8 +57331,7 @@
 "content": "<p>See <a href=\"1315.md\">1315: God, as redeemer</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -58664,8 +57346,7 @@
 "content": "<p>See <a href=\"2321.md\">2321: Jesus Christ, as redeemer</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -58904,15 +57585,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8150: revival, personal",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "fauna:GiantCroccodile",
-"type": "fauna",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Leviathan"
 }
 ]
 }
@@ -59303,8 +57975,7 @@
 "label": "9165: restoration",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -59348,8 +58019,7 @@
 "label": "6736: repentance, of God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -59744,8 +58414,7 @@
 "label": "8453: obedience",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -60206,36 +58875,6 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Levi.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Levi"
-},
-{
-"id": "person:Levi.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Levi"
-},
-{
-"id": "person:Matthew",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Matthew"
-},
-{
-"id": "person:Levi",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Levi"
-}
 ]
 }
 },
@@ -60607,8 +59246,7 @@
 "label": "8477: self-examination",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -60623,8 +59261,7 @@
 "content": "<p>See <a href=\"1120.md\">1120: God, repentance of</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -61235,15 +59872,6 @@
 "label": "9020: death",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Libnah",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Libnah"
-}
 ]
 }
 },
@@ -61597,22 +60225,6 @@
 "label": "9165: restoration",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Libni.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Libni"
-},
-{
-"id": "person:Libni",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Libni"
-}
 ]
 }
 },
@@ -61823,15 +60435,6 @@
 "label": "8602: prayer",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "realia:Sackcloth",
-"type": "realia",
-"confidence": 0.7561,
-"match_method": "scored",
-"preferred_label": "Sackcloth"
-}
 ]
 }
 },
@@ -61869,8 +60472,7 @@
 "label": "6747: sanctification, and Holy Spirit",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -62329,8 +60931,7 @@
 "label": "8453: obedience",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -62983,8 +61584,7 @@
 "label": "8475: self-denial",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -62999,8 +61599,7 @@
 "content": "<p>See <a href=\"3233.md\">3233: Holy Spirit, and sanctification</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -63327,8 +61926,7 @@
 "label": "7766: priests",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -63648,8 +62246,7 @@
 "label": "7440: scapegoat",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -63678,15 +62275,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "6756: union with Christ, significance of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "flora:Lily",
-"type": "flora",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Lily"
 }
 ]
 }
@@ -64035,8 +62623,7 @@
 "label": "8258: fruitfulness, spiritual",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -64376,15 +62963,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8813: riches, spiritual",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "realia:Linen",
-"type": "realia",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Linen"
 }
 ]
 }
