@@ -61,15 +61,6 @@
 "label": "9600: Hope",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:JezreelValley",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Valley of Jezreel"
-}
 ]
 }
 },
@@ -114,8 +105,7 @@
 "label": "9050: tombs",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -158,15 +148,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9024: death, spiritual",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Vophsi",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Vophsi"
 }
 ]
 }
@@ -911,8 +892,7 @@
 "label": "9040: grave, the",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -1415,8 +1395,7 @@
 "label": "9610: hope",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -1877,15 +1856,6 @@
 "label": "9510: hell",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "fauna:Vulture",
-"type": "fauna",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Vulture"
-}
 ]
 }
 },
@@ -2183,8 +2153,7 @@
 "label": "9240: last judgment",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -2320,8 +2289,7 @@
 "label": "7424: ritual law",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -2719,8 +2687,7 @@
 "label": "9610: hope",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -3049,8 +3016,7 @@
 "label": "9540: Sheol",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -3164,8 +3130,7 @@
 "label": "9170: signs of the times",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -3890,8 +3855,7 @@
 "label": "9510: hell",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -4453,15 +4417,6 @@
 "label": "9510: hell",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Zaanan",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zaanan"
-}
 ]
 }
 },
@@ -4689,22 +4644,6 @@
 "label": "9140: last days",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Zabdiel.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zabdiel"
-},
-{
-"id": "person:Zabdiel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zabdiel"
-}
 ]
 }
 },
@@ -4734,15 +4673,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9122: eternity, and God",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Zacchaeus",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zacchaeus"
 }
 ]
 }
@@ -5058,8 +4988,7 @@
 "label": "9160: new heavens and new earth",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -5508,64 +5437,6 @@
 "label": "9510: hell",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Zaccur.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zaccur"
-},
-{
-"id": "person:Zaccur.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zaccur"
-},
-{
-"id": "person:Zaccur.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zaccur"
-},
-{
-"id": "person:Zaccur.5",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zaccur"
-},
-{
-"id": "person:Zaccur.6",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zaccur"
-},
-{
-"id": "person:Zaccur.7",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zaccur"
-},
-{
-"id": "person:Zaccur.8",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zaccur"
-},
-{
-"id": "person:Zaccur",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zaccur"
-}
 ]
 }
 },
@@ -5781,15 +5652,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7467: temple, Solomon's",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "realia:Footstool",
-"type": "realia",
-"confidence": 0.6047,
-"match_method": "scored",
-"preferred_label": "Footstool"
 }
 ]
 }
@@ -6618,15 +6480,6 @@
 "label": "9610: hope",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Zalmonah",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zalmonah"
-}
 ]
 }
 },
@@ -6657,8 +6510,7 @@
 "label": "9137: immortality, in NT",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6997,22 +6849,6 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Zanoah.2",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zanoah"
-},
-{
-"id": "place:Zanoah",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zanoah"
-}
 ]
 }
 },
@@ -7219,15 +7055,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9613: hope, as confidence",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Joseph.10",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Joseph"
 }
 ]
 }
@@ -7749,8 +7576,7 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -8229,8 +8055,7 @@
 "label": "9220: day of the LORD",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -8543,15 +8368,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9145: Messianic age",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Zaza",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zaza"
 }
 ]
 }
@@ -9068,8 +8884,7 @@
 "label": "9410: heaven",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -9200,15 +9015,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9410: heaven",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Zeboim",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zeboim"
 }
 ]
 }
@@ -9484,15 +9290,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9160: new heavens and new earth",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Zebul",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zebul"
 }
 ]
 }
@@ -9815,57 +9612,6 @@
 "label": "9240: last judgment",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Zedekiah.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zedekiah"
-},
-{
-"id": "person:Zedekiah.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zedekiah"
-},
-{
-"id": "person:Zedekiah.4",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zedekiah"
-},
-{
-"id": "person:Zedekiah.5",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zedekiah"
-},
-{
-"id": "person:Zedekiah.6",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zedekiah"
-},
-{
-"id": "person:Zedekiah.7",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zedekiah"
-},
-{
-"id": "person:Jehoiakim",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Jehoiakim"
-}
 ]
 }
 },
@@ -9916,15 +9662,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9250: woe",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Zeror",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zeror"
 }
 ]
 }
@@ -10753,15 +10490,6 @@
 "label": "9240: last judgment",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Ziba",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ziba"
-}
 ]
 }
 },
@@ -11493,22 +11221,6 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Ziha.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ziha"
-},
-{
-"id": "person:Ziha",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ziha"
-}
 ]
 }
 },
@@ -11807,22 +11519,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9240: last judgment",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Zizah",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zizah"
-},
-{
-"id": "realia:JudgmentSeat",
-"type": "realia",
-"confidence": 0.5745,
-"match_method": "scored",
-"preferred_label": "Judgment Seat"
 }
 ]
 }
@@ -12357,15 +12053,6 @@
 "label": "9230: judgment seat",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Ziph",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ziph"
-}
 ]
 }
 },
@@ -12797,15 +12484,6 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Zoar",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Zoar"
-}
 ]
 }
 },
@@ -12829,8 +12507,7 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -12881,8 +12558,7 @@
 "label": "9315: resurrection, of believers",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -13523,8 +13199,7 @@
 "label": "8425: evangelism, nature of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -13782,8 +13457,7 @@
 "label": "9610: hope",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -14003,8 +13677,7 @@
 "label": "8347: spiritual growth",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -14210,8 +13883,7 @@
 "label": "9135: immortality",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -14567,8 +14239,7 @@
 "label": "9613: hope, as confidence",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -14605,8 +14276,7 @@
 "label": "9430: paradise",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -14650,8 +14320,7 @@
 "label": "9414: heaven, as community of the redeemed",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -15274,8 +14943,7 @@
 "label": "9430: paradise",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -15731,8 +15399,7 @@
 "label": "8664: praise",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -16186,8 +15853,7 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -16767,8 +16433,7 @@
 "label": "9420: book of life",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -16890,8 +16555,7 @@
 "label": "9230: judgment seat",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -16961,15 +16625,6 @@
 "label": "9410: heaven",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "keyterm:Paradise",
-"type": "keyterm",
-"confidence": 0.642,
-"match_method": "scored",
-"preferred_label": "Paradise"
-}
 ]
 }
 },
@@ -17014,8 +16669,7 @@
 "label": "9540: Sheol",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -17052,8 +16706,7 @@
 "label": "9513: hell, as incentive to action",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -17364,8 +17017,7 @@
 "label": "9540: Sheol",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -17772,8 +17424,7 @@
 "label": "9105: last things",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -18090,8 +17741,7 @@
 "label": "9410: heaven",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -18177,15 +17827,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9510: hell",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "keyterm:Abyss",
-"type": "keyterm",
-"confidence": 0.7885,
-"match_method": "scored",
-"preferred_label": "Abyss"
 }
 ]
 }
@@ -18299,22 +17940,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "9540: Sheol",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "keyterm:WorldOfTheDead",
-"type": "keyterm",
-"confidence": 0.8515,
-"match_method": "scored",
-"preferred_label": "World of the Dead"
-},
-{
-"id": "place:Hell",
-"type": "place",
-"confidence": 0.7015,
-"match_method": "scored",
-"preferred_label": "Hell"
 }
 ]
 }
@@ -18568,15 +18193,6 @@
 "label": "9530: Hades",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "place:Hell",
-"type": "place",
-"confidence": 0.5859,
-"match_method": "scored",
-"preferred_label": "Hell"
-}
 ]
 }
 },
@@ -18600,8 +18216,7 @@
 "label": "9610: hope",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -18652,8 +18267,7 @@
 "label": "9615: hope, results of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -19012,8 +18626,7 @@
 "label": "8112: certainty",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -19471,8 +19084,7 @@
 "label": "8463: priority, of faith, hope and love",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -19861,8 +19473,7 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -20114,8 +19725,7 @@
 "label": "8820: self-confidence",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -20462,8 +20072,7 @@
 "label": "9413: heaven, inheritance of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 }
 ]

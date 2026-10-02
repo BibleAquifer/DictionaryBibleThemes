@@ -54,8 +54,7 @@
 "label": "1600: Scripture as the word of God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -85,8 +84,7 @@
 "label": "1190: glory",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -340,8 +338,7 @@
 "label": "1185: God, zeal of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -867,8 +864,7 @@
 "label": "9120: eternity",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -1519,8 +1515,7 @@
 "label": "9510: hell",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -1937,8 +1932,7 @@
 "label": "8291: kindness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -2339,8 +2333,7 @@
 "label": "8839: unfaithfulness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -2819,8 +2812,7 @@
 "label": "8230: discipline",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -3422,8 +3414,7 @@
 "label": "7467: temple, Solomon's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -3902,8 +3893,7 @@
 "label": "8609: prayer, as praise and thanksgiving",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -4646,8 +4636,7 @@
 "label": "8602: prayer",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -5227,8 +5216,7 @@
 "label": "8624: worship, reasons for",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6043,8 +6031,7 @@
 "label": "8622: worship",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6370,8 +6357,7 @@
 "label": "8460: pleasing God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -7144,8 +7130,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -7619,8 +7604,7 @@
 "label": "6645: eternal life, nature of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -8243,8 +8227,7 @@
 "label": "8304: loyalty",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -8644,8 +8627,7 @@
 "label": "8622: worship",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -8986,8 +8968,7 @@
 "label": "8318: patience",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -9352,8 +9333,7 @@
 "label": "8449: imitating",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -10264,8 +10244,7 @@
 "label": "5955: strength, divine",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -10582,8 +10561,7 @@
 "label": "8134: knowing God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -11362,8 +11340,7 @@
 "label": "7031: unity, God's goal of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -11590,8 +11567,7 @@
 "label": "6733: repentance, nature of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -12417,15 +12393,6 @@
 "label": "8154: righteousness",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.5882,
-"match_method": "scored",
-"preferred_label": "LORD"
-}
 ]
 }
 },
@@ -13115,8 +13082,7 @@
 "label": "6663: freedom, of the will",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -13474,8 +13440,7 @@
 "label": "6214: participation, in Christ",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -14026,8 +13991,7 @@
 "label": "9122: eternity, and God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -14464,8 +14428,7 @@
 "label": "6720: redemption",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -14872,8 +14835,7 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -15339,8 +15301,7 @@
 "label": "8354: trustworthiness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -15590,8 +15551,7 @@
 "label": "8331: reliability",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -15974,8 +15934,7 @@
 "label": "8799: polytheism",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -16522,8 +16481,7 @@
 "label": "8138: monotheism",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -17632,8 +17590,7 @@
 "label": "8605: prayer, and God's will",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -17993,8 +17950,7 @@
 "label": "8361: wisdom",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -18364,8 +18320,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -18409,8 +18364,7 @@
 "label": "1194: glory, divine and human",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -18425,8 +18379,7 @@
 "content": "<p>See <a href=\"1045.md\">1045: God, glory of</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -18441,8 +18394,7 @@
 "content": "<p>See <a href=\"2024.md\">2024: Jesus Christ, glory of</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -19077,8 +19029,7 @@
 "label": "7467: temple, Solomon's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -19683,8 +19634,7 @@
 "label": "9410: heaven",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -19742,8 +19692,7 @@
 "label": "1270: right hand of God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -20962,8 +20911,7 @@
 "label": "5042: name of God, significance of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -21867,8 +21815,7 @@
 "label": "5036: mind, of God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -22051,8 +21998,7 @@
 "label": "5721: mothers, as a symbol",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -22410,8 +22356,7 @@
 "label": "8124: guidance",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -22667,8 +22612,7 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -23165,8 +23109,7 @@
 "label": "7930: Lord's Day, the",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -24004,15 +23947,6 @@
 "label": "9220: day of the LORD",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.6969,
-"match_method": "scored",
-"preferred_label": "LORD"
-}
 ]
 }
 },
@@ -24471,8 +24405,7 @@
 "label": "8030: trust",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -24848,8 +24781,7 @@
 "label": "8124: guidance",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -24953,15 +24885,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8134: knowing God",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "deity:Lord",
-"type": "deity",
-"confidence": 0.679,
-"match_method": "scored",
-"preferred_label": "LORD"
 }
 ]
 }
@@ -25610,8 +25533,7 @@
 "label": "8602: prayer",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -25778,8 +25700,7 @@
 "label": "5638: writing",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -26666,8 +26587,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -27102,8 +27022,7 @@
 "label": "5396: lordship, of Jesus Christ",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -27154,8 +27073,7 @@
 "label": "1355: providence",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -28071,8 +27989,7 @@
 "label": "7140: people of God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -28941,8 +28858,7 @@
 "label": "9510: hell",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -29535,8 +29451,7 @@
 "label": "8624: worship, reasons for",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -30129,8 +30044,7 @@
 "label": "9020: death",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -30621,8 +30535,7 @@
 "label": "8145: renewal, of people of God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -31185,8 +31098,7 @@
 "label": "8434: giving",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -31670,8 +31582,7 @@
 "label": "8676: thanksgiving",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -31963,8 +31874,7 @@
 "label": "8331: reliability",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -32029,8 +31939,7 @@
 "label": "1352: covenant, the new",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -32521,8 +32430,7 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -32785,8 +32693,7 @@
 "label": "7227: flood, the",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -33297,8 +33204,7 @@
 "label": "8453: obedience",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -33860,8 +33766,7 @@
 "label": "6020: sin",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -33992,8 +33897,7 @@
 "label": "7766: priests",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -34485,8 +34389,7 @@
 "label": "7239: Jerusalem",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -34982,15 +34885,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7933: Lord's Supper",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "keyterm:Covenant",
-"type": "keyterm",
-"confidence": 0.5559,
-"match_method": "scored",
-"preferred_label": "Covenant"
 }
 ]
 }
@@ -35571,8 +35465,7 @@
 "label": "8409: decision-making, and providence",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -35700,8 +35593,7 @@
 "label": "1469: visions",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -36821,8 +36713,7 @@
 "label": "8135: knowing God, nature of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -36889,8 +36780,7 @@
 "label": "5101: Moses",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -37315,8 +37205,7 @@
 "label": "8281: insight",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -37771,8 +37660,7 @@
 "label": "6708: predestination",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -37809,8 +37697,7 @@
 "label": "1418: miracles, responses to",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -38745,8 +38632,7 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -38761,8 +38647,7 @@
 "content": "<p>See <a href=\"2351.md\">2351: Jesus Christ, miracles of</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -39349,8 +39234,7 @@
 "label": "8834: unbelief",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -39601,8 +39485,7 @@
 "label": "7781: seer",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -40039,8 +39922,7 @@
 "label": "9130: future, the",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -40091,8 +39973,7 @@
 "label": "1432: prophecy, in NT",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -40280,8 +40161,7 @@
 "label": "7781: seer",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -40762,8 +40642,7 @@
 "label": "8614: prayer, answers to",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -40778,8 +40657,7 @@
 "content": "<p>See <a href=\"2366.md\">2366: Jesus Christ, prophecies concerning</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -41262,8 +41140,7 @@
 "label": "7778: school of prophets",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -41455,8 +41332,7 @@
 "label": "7966: spiritual gifts",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -41887,8 +41763,7 @@
 "label": "8779: materialism, nature of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -41946,8 +41821,7 @@
 "label": "1445: revelation, responses to",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -42067,8 +41941,7 @@
 "label": "8135: knowing God, nature of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -42348,8 +42221,7 @@
 "label": "8366: wisdom, source of human",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -42364,8 +42236,7 @@
 "content": "<p>See <a href=\"1403.md\">1403: God, revelation of</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -43125,8 +42996,7 @@
 "label": "4140: angel of the Lord",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -43521,8 +43391,7 @@
 "label": "7966: spiritual gifts",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -43946,8 +43815,7 @@
 "label": "8835: unbelief, nature and effects of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -43977,8 +43845,7 @@
 "label": "1450: signs, kinds of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -44535,8 +44402,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -45099,8 +44965,7 @@
 "label": "9312: resurrection, significance of Jesus Christ's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -45693,8 +45558,7 @@
 "label": "4851: storm",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -45857,8 +45721,7 @@
 "label": "5841: ecstasy",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -45895,8 +45758,7 @@
 "label": "1463: truth, of God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -46681,8 +46543,7 @@
 "label": "8751: false witness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -47413,8 +47274,7 @@
 "label": "8776: lies",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -47429,8 +47289,7 @@
 "content": "<p>See <a href=\"1150.md\">1150: God, truth of</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -48167,8 +48026,7 @@
 "label": "8474: seeing God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -48575,8 +48433,7 @@
 "label": "9130: future, the",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -48599,8 +48456,7 @@
 "label": "1510: Trinity, the",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -48637,8 +48493,7 @@
 "label": "1513: Trinity, mission of the persons",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -49423,8 +49278,7 @@
 "label": "4140: angel of the Lord",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -49854,8 +49708,7 @@
 "label": "8646: doxology",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -50488,8 +50341,7 @@
 "label": "6720: redemption",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -50568,8 +50420,7 @@
 "label": "1690: word of God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -50620,8 +50471,7 @@
 "label": "1615: Scripture, sufficiency of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -51138,8 +50988,7 @@
 "label": "5379: law, Jesus Christ's attitude to",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -51154,8 +51003,7 @@
 "content": "<p>See <a href=\"3236.md\">3236: Holy Spirit, and Scripture</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -51496,8 +51344,7 @@
 "label": "8443: growth",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -51753,8 +51600,7 @@
 "label": "8674: study",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -51950,8 +51796,7 @@
 "label": "9612: hope, in God",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -52358,8 +52203,7 @@
 "label": "8794: persecution",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -52447,8 +52291,7 @@
 "label": "8466: reformation",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -52622,8 +52465,7 @@
 "label": "8768: idolatry",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -52688,8 +52530,7 @@
 "label": "1657: numbers, fractions",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -53462,8 +53303,7 @@
 "label": "8799: polytheism",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -54065,8 +53905,7 @@
 "label": "2560: Jesus Christ, resurrection of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -54982,8 +54821,7 @@
 "label": "7428: Sabbath",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -55966,8 +55804,7 @@
 "label": "8432: fasting, practice of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -56528,8 +56365,7 @@
 "label": "9155: millennium",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -56812,8 +56648,7 @@
 "label": "5359: justice",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -57254,8 +57089,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -57584,8 +57418,7 @@
 "label": "8658: Lord's Prayer, the",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -58278,8 +58111,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -59214,8 +59046,7 @@
 "label": "7470: temple, significance of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -60540,8 +60371,7 @@
 "label": "8674: study",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 }
 ]

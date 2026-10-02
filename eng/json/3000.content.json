@@ -33,8 +33,7 @@
 "label": "3200: Holy Spirit, ministry and work of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -57,8 +56,7 @@
 "label": "3010: God, the Holy Spirit",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -130,8 +128,7 @@
 "label": "3050: Holy Spirit, wisdom of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -700,15 +697,6 @@
 "label": "8750: false teachings",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.6113,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
-}
 ]
 }
 },
@@ -865,8 +853,7 @@
 "label": "8283: joy",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -1198,15 +1185,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "3284: Holy Spirit, resisting",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.7022,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
 }
 ]
 }
@@ -1627,8 +1605,7 @@
 "label": "9310: resurrection",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -1993,15 +1970,6 @@
 "label": "8495: witnessing",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.6189,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
-}
 ]
 }
 },
@@ -2336,15 +2304,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5467: promises, divine",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.5627,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
 }
 ]
 }
@@ -2705,8 +2664,7 @@
 "label": "7966: spiritual gifts",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -2935,8 +2893,7 @@
 "label": "8361: wisdom",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -2959,8 +2916,7 @@
 "label": "3110: Holy Spirit, titles and names of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -3478,8 +3434,7 @@
 "label": "6608: adoption",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -3814,8 +3769,7 @@
 "label": "7784: shepherd",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -4076,15 +4030,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8104: assurance",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.6174,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
 }
 ]
 }
@@ -4403,15 +4348,6 @@
 "label": "8355: understanding",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.5855,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
-}
 ]
 }
 },
@@ -4435,8 +4371,7 @@
 "label": "3203: Holy Spirit, and assurance",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -4976,8 +4911,7 @@
 "label": "8104: assurance",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -4992,8 +4926,7 @@
 "content": "<p>See <a href=\"6670.md\">6670: grace, and Holy Spirit</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -5181,8 +5114,7 @@
 "label": "8463: priority, of faith, hope and love",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -5618,15 +5550,6 @@
 "label": "8495: witnessing",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.6283,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
-}
 ]
 }
 },
@@ -5845,15 +5768,6 @@
 "label": "6700: peace",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.5755,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
-}
 ]
 }
 },
@@ -6026,8 +5940,7 @@
 "label": "8664: praise",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6202,8 +6115,7 @@
 "label": "8602: prayer",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6424,8 +6336,7 @@
 "label": "7773: prophets, role of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6440,8 +6351,7 @@
 "content": "<p>See <a href=\"1427.md\">1427: prophecy</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -6620,8 +6530,7 @@
 "label": "8150: revival, personal",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -6878,8 +6787,7 @@
 "label": "8348: spiritual growth, nature of",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -7250,8 +7158,7 @@
 "label": "8124: guidance",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -7451,8 +7358,7 @@
 "label": "8420: equipping",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -7658,15 +7564,6 @@
 "label": "8422: equipping, spiritual",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.6786,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
-}
 ]
 }
 },
@@ -7867,8 +7764,7 @@
 "label": "8843: unforgivable sin",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -8041,8 +7937,7 @@
 "label": "9210: judgment, God's",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -8358,15 +8253,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8453: obedience",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.5618,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
 }
 ]
 }
@@ -8697,8 +8583,7 @@
 "label": "8258: fruitfulness, spiritual",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -9177,15 +9062,6 @@
 "label": "7966: spiritual gifts",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.7178,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
-}
 ]
 }
 },
@@ -9201,8 +9077,7 @@
 "content": "<p>See <a href=\"7966.md\">7966: spiritual gifts</a></p>",
 "associations": {
 "passage": [],
-"resource": [],
-"acai": []
+"resource": []
 }
 },
 {
@@ -9406,15 +9281,6 @@
 "label": "8409: decision-making, and providence",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Aaron",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Aaron"
-}
 ]
 }
 },
@@ -9585,15 +9451,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "5081: Adam, creation and life of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "place:Abana",
-"type": "place",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abanah"
 }
 ]
 }
@@ -9953,29 +9810,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "3278: Holy Spirit, indwelling of",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Obadiah.5",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Obadiah"
-},
-{
-"id": "person:Abda",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abda"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.6129,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
 }
 ]
 }
@@ -10522,29 +10356,6 @@
 "label": "3290: Holy Spirit, the life-giver",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Abdi.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abdi"
-},
-{
-"id": "person:Abdi.3",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abdi"
-},
-{
-"id": "person:Abdi",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abdi"
-}
 ]
 }
 },
@@ -10939,22 +10750,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "8622: worship",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Azariah.20",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Azariah"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.5572,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
 }
 ]
 }
@@ -11351,8 +11146,7 @@
 "label": "8206: Christlikeness",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -11861,22 +11655,6 @@
 "label": "8366: wisdom, source of human",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Abel",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abel"
-},
-{
-"id": "deity:HolySpirit",
-"type": "deity",
-"confidence": 0.6113,
-"match_method": "scored",
-"preferred_label": "Holy Spirit"
-}
 ]
 }
 },
@@ -12052,8 +11830,7 @@
 "label": "8834: unbelief",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -12211,15 +11988,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "7903: baptism",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Ebiasaph",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Ebiasaph"
 }
 ]
 }
@@ -12525,8 +12293,7 @@
 "label": "6728: regeneration",
 "language": "eng"
 }
-],
-"acai": []
+]
 }
 },
 {
@@ -12708,22 +12475,6 @@
 "label": "8498: witnessing, and Holy Spirit",
 "language": "eng"
 }
-],
-"acai": [
-{
-"id": "person:Abiel.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abiel"
-},
-{
-"id": "person:Abi-albon",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abi-albon"
-}
 ]
 }
 },
@@ -12878,22 +12629,6 @@
 "resource_code": "DictionaryBibleThemes",
 "label": "4025: world, the",
 "language": "eng"
-}
-],
-"acai": [
-{
-"id": "person:Abigail.2",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abigail"
-},
-{
-"id": "person:Abigail",
-"type": "person",
-"confidence": 1.0,
-"match_method": "content_id",
-"preferred_label": "Abigail"
 }
 ]
 }
